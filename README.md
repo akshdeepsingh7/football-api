@@ -1,5 +1,5 @@
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 07 September 2025, 02:56 PM UTC (Sunday, 07 September 2025, 08:26 PM IST)
+**Last Updated:** Sunday, 07 September 2025, 03:00 PM UTC (Sunday, 07 September 2025, 08:30 PM IST)
 
 ### Premier League
 
