@@ -40,7 +40,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 08 September 2025, 08:26 AM UTC (Monday, 08 September 2025, 01:56 PM IST)
+**Last Updated:** Monday, 08 September 2025, 08:34 AM UTC (Monday, 08 September 2025, 02:04 PM IST)
 
 ### Premier League
 
@@ -245,6 +245,47 @@ The latest league standings are displayed below in Markdown tables:
 | 35 | Plzeň | 0 | 0 | 0 | 0 | 0 | 0 |
 | 36 | BSC Young Boys | 0 | 0 | 0 | 0 | 0 | 0 |
 
+### Europa Conference League
+
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | AEK Athens | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | AEK Larnaca | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | AZ | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Aberdeen | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Breiðablik | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Celje | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Crystal Palace | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Dynamo Kyiv | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Drita | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Fiorentina | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Hamrun Spartans | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Häcken | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Jagiellonia | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | KuPS | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Lausanne-Sport | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Lech | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Legia | 0 | 0 | 0 | 0 | 0 | 0 |
+| 18 | Lincoln Red Imps | 0 | 0 | 0 | 0 | 0 | 0 |
+| 19 | Mainz 05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 20 | Noah | 0 | 0 | 0 | 0 | 0 | 0 |
+| 21 | Omonia | 0 | 0 | 0 | 0 | 0 | 0 |
+| 22 | Raków | 0 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Rapid Vienna | 0 | 0 | 0 | 0 | 0 | 0 |
+| 24 | Rayo Vallecano | 0 | 0 | 0 | 0 | 0 | 0 |
+| 25 | Rijeka | 0 | 0 | 0 | 0 | 0 | 0 |
+| 26 | Samsunspor | 0 | 0 | 0 | 0 | 0 | 0 |
+| 27 | Shakhtar Donetsk | 0 | 0 | 0 | 0 | 0 | 0 |
+| 28 | Shamrock Rovers | 0 | 0 | 0 | 0 | 0 | 0 |
+| 29 | Shelbourne | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30 | Shkëndija | 0 | 0 | 0 | 0 | 0 | 0 |
+| 31 | Sigma Olomouc | 0 | 0 | 0 | 0 | 0 | 0 |
+| 32 | Slovan Bratislava | 0 | 0 | 0 | 0 | 0 | 0 |
+| 33 | Sparta Prague | 0 | 0 | 0 | 0 | 0 | 0 |
+| 34 | Strasbourg | 0 | 0 | 0 | 0 | 0 | 0 |
+| 35 | Universitatea Craiova | 0 | 0 | 0 | 0 | 0 | 0 |
+| 36 | Zrinjski Mostar | 0 | 0 | 0 | 0 | 0 | 0 |
+
 ### Liga Portugal
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
@@ -297,7 +338,7 @@ The latest league standings are displayed below in Markdown tables:
 | 23 | Sheffield Wednesday | 4 | 0 | 1 | 3 | -6 | 1 |
 | 24 | Sheffield United | 4 | 0 | 0 | 4 | -6 | 0 |
 
-### MLS
+### Major League Soccer (MLS)
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
@@ -350,7 +391,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Hyderabad | 24 | 4 | 6 | 14 | -25 | 18 |
 | 13 | Mohammedan | 24 | 2 | 7 | 15 | -31 | 13 |
 
-### Liga Profesional Argentina
+### Liga Profesional Argentina (Clausura)
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
