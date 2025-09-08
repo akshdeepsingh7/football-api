@@ -19,7 +19,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 08 September 2025, 08:05 AM UTC (Monday, 08 September 2025, 01:35 PM IST)
+**Last Updated:** Monday, 08 September 2025, 08:15 AM UTC (Monday, 08 September 2025, 01:45 PM IST)
 
 ### Premier League
 
@@ -275,6 +275,119 @@ The latest league standings are displayed below in Markdown tables:
 | 22 | Oxford United | 4 | 0 | 1 | 3 | -3 | 1 |
 | 23 | Sheffield Wednesday | 4 | 0 | 1 | 3 | -6 | 1 |
 | 24 | Sheffield United | 4 | 0 | 0 | 4 | -6 | 0 |
+
+### MLS
+
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Philadelphia Union | 29 | 17 | 6 | 6 | 23 | 57 |
+| 2 | Cincinnati | 29 | 16 | 4 | 9 | 6 | 52 |
+| 3 | Charlotte | 29 | 16 | 2 | 11 | 8 | 50 |
+| 4 | Nashville | 29 | 15 | 5 | 9 | 16 | 50 |
+| 5 | Orlando City | 28 | 13 | 8 | 7 | 14 | 47 |
+| 6 | Inter Miami | 25 | 13 | 7 | 5 | 14 | 46 |
+| 7 | Columbus Crew | 28 | 12 | 10 | 6 | 4 | 46 |
+| 8 | NYCFC | 27 | 13 | 5 | 9 | 6 | 44 |
+| 9 | Chicago Fire | 28 | 12 | 6 | 10 | 3 | 42 |
+| 10 | New York RB | 29 | 11 | 7 | 11 | 4 | 40 |
+| 11 | New England Revolution | 29 | 8 | 7 | 14 | -5 | 31 |
+| 12 | Atlanta United | 28 | 5 | 11 | 12 | -17 | 26 |
+| 13 | Toronto | 28 | 5 | 10 | 13 | -7 | 25 |
+| 14 | CF Montréal | 29 | 5 | 9 | 15 | -22 | 24 |
+| 15 | DC United | 29 | 5 | 9 | 15 | -28 | 24 |
+| 1 | San Diego | 29 | 17 | 5 | 7 | 20 | 56 |
+| 2 | Minnesota United | 29 | 14 | 9 | 6 | 16 | 51 |
+| 3 | Vancouver Whitecaps | 27 | 14 | 7 | 6 | 16 | 49 |
+| 4 | Seattle Sounders | 27 | 12 | 8 | 7 | 10 | 44 |
+| 5 | LAFC | 26 | 11 | 8 | 7 | 12 | 41 |
+| 6 | Austin | 28 | 11 | 8 | 9 | -3 | 41 |
+| 7 | Portland Timbers | 28 | 10 | 9 | 9 | -2 | 39 |
+| 8 | Colorado Rapids | 29 | 10 | 6 | 13 | -10 | 36 |
+| 9 | San Jose Earthquakes | 29 | 9 | 8 | 12 | 2 | 35 |
+| 10 | Houston Dynamo | 29 | 8 | 9 | 12 | -9 | 33 |
+| 11 | Real Salt Lake | 27 | 9 | 4 | 14 | -8 | 31 |
+| 12 | Dallas | 28 | 7 | 10 | 11 | -8 | 31 |
+| 13 | Sporting KC | 29 | 7 | 6 | 16 | -15 | 27 |
+| 14 | St. Louis City | 29 | 5 | 7 | 17 | -17 | 22 |
+| 15 | LA Galaxy | 28 | 4 | 8 | 16 | -23 | 20 |
+
+### Indian Super League
+
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Mohun Bagan SG | 24 | 17 | 5 | 2 | 31 | 56 |
+| 2 | FC Goa | 24 | 14 | 6 | 4 | 16 | 48 |
+| 3 | Bengaluru | 24 | 11 | 5 | 8 | 9 | 38 |
+| 4 | NorthEast Utd | 24 | 10 | 8 | 6 | 17 | 38 |
+| 5 | Jamshedpur | 24 | 12 | 2 | 10 | -6 | 38 |
+| 6 | Mumbai City | 24 | 9 | 9 | 6 | 1 | 36 |
+| 7 | Odisha | 24 | 8 | 9 | 7 | 7 | 33 |
+| 8 | Kerala Blasters | 24 | 8 | 5 | 11 | -4 | 29 |
+| 9 | East Bengal | 24 | 8 | 4 | 12 | -6 | 28 |
+| 10 | Punjab FC | 24 | 8 | 4 | 12 | -4 | 28 |
+| 11 | Chennaiyin | 24 | 7 | 6 | 11 | -5 | 27 |
+| 12 | Hyderabad | 24 | 4 | 6 | 14 | -25 | 18 |
+| 13 | Mohammedan | 24 | 2 | 7 | 15 | -31 | 13 |
+
+### Liga Profesional Argentina
+
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Barracas | 7 | 4 | 2 | 1 | 3 | 14 |
+| 2 | Córdoba SdE | 7 | 3 | 4 | 0 | 6 | 13 |
+| 3 | Boca Juniors | 7 | 3 | 3 | 1 | 6 | 12 |
+| 4 | Unión | 7 | 3 | 3 | 1 | 5 | 12 |
+| 5 | Def y Justicia | 7 | 3 | 3 | 1 | 3 | 12 |
+| 6 | Estudiantes | 7 | 4 | 0 | 3 | 0 | 12 |
+| 7 | Huracán | 7 | 3 | 2 | 2 | -1 | 11 |
+| 8 | Banfield | 7 | 3 | 1 | 3 | -2 | 10 |
+| 9 | Argentinos Juniors | 7 | 2 | 2 | 3 | 1 | 8 |
+| 10 | Independiente Rivadavia | 7 | 2 | 2 | 3 | -1 | 8 |
+| 11 | Belgrano | 7 | 2 | 2 | 3 | -1 | 8 |
+| 12 | Tigre | 7 | 2 | 2 | 3 | -1 | 8 |
+| 13 | Newell's Old Boys | 7 | 1 | 3 | 3 | -2 | 6 |
+| 14 | Racing Club | 7 | 1 | 1 | 5 | -6 | 4 |
+| 15 | Aldosivi | 7 | 0 | 3 | 4 | -7 | 3 |
+| 1 | River Plate | 7 | 4 | 3 | 0 | 10 | 15 |
+| 2 | Vélez | 7 | 4 | 2 | 1 | 6 | 14 |
+| 3 | Riestra | 7 | 4 | 1 | 2 | 4 | 13 |
+| 4 | San Lorenzo | 7 | 3 | 3 | 1 | 2 | 12 |
+| 5 | Rosario | 6 | 2 | 4 | 0 | 2 | 10 |
+| 6 | GELP | 7 | 3 | 1 | 3 | 0 | 10 |
+| 7 | Lanús | 7 | 3 | 1 | 3 | -1 | 10 |
+| 8 | Atl. Tucumán | 7 | 2 | 3 | 2 | 2 | 9 |
+| 9 | San Martín SJ | 7 | 2 | 2 | 3 | -2 | 8 |
+| 10 | Godoy Cruz | 7 | 1 | 3 | 3 | -3 | 6 |
+| 11 | Platense | 6 | 1 | 3 | 2 | -3 | 6 |
+| 12 | Sarmiento | 6 | 1 | 3 | 2 | -4 | 6 |
+| 13 | Instituto | 7 | 1 | 3 | 3 | -8 | 6 |
+| 14 | Talleres | 7 | 1 | 2 | 4 | -5 | 5 |
+| 15 | Independiente | 6 | 0 | 3 | 3 | -3 | 3 |
+
+### Brasileirão
+
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Flamengo | 21 | 14 | 5 | 2 | 35 | 47 |
+| 2 | Cruzeiro | 22 | 13 | 5 | 4 | 20 | 44 |
+| 3 | Palmeiras | 20 | 13 | 4 | 3 | 12 | 43 |
+| 4 | Bahia | 20 | 10 | 6 | 4 | 6 | 36 |
+| 5 | Botafogo | 20 | 10 | 5 | 5 | 17 | 35 |
+| 6 | Mirassol | 20 | 9 | 8 | 3 | 15 | 35 |
+| 7 | São Paulo | 22 | 8 | 8 | 6 | 3 | 32 |
+| 8 | RB Bragantino | 22 | 9 | 3 | 10 | -5 | 30 |
+| 9 | Fluminense | 20 | 8 | 4 | 8 | -3 | 28 |
+| 10 | Internacional | 21 | 7 | 6 | 8 | -4 | 27 |
+| 11 | Ceará | 21 | 7 | 5 | 9 | -1 | 26 |
+| 12 | Corinthians | 22 | 6 | 8 | 8 | -5 | 26 |
+| 13 | Grêmio | 21 | 6 | 7 | 8 | -6 | 25 |
+| 14 | Atlético Mineiro | 20 | 6 | 6 | 8 | -4 | 24 |
+| 15 | Vasco da Gama | 21 | 6 | 4 | 11 | -1 | 22 |
+| 16 | Santos | 21 | 6 | 4 | 11 | -11 | 22 |
+| 17 | Vitória | 22 | 4 | 10 | 8 | -13 | 22 |
+| 18 | Juventude | 21 | 6 | 3 | 12 | -22 | 21 |
+| 19 | Fortaleza | 21 | 3 | 6 | 12 | -14 | 15 |
+| 20 | Sport | 20 | 1 | 7 | 12 | -19 | 10 |
 
 
 <!-- END_TABLE -->
