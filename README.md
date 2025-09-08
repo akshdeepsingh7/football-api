@@ -19,7 +19,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 08 September 2025, 07:41 AM UTC (Monday, 08 September 2025, 01:11 PM IST)
+**Last Updated:** Monday, 08 September 2025, 08:05 AM UTC (Monday, 08 September 2025, 01:35 PM IST)
 
 ### Premier League
 
@@ -182,6 +182,99 @@ The latest league standings are displayed below in Markdown tables:
 | 34 | Tottenham Hotspur | 0 | 0 | 0 | 0 | 0 | 0 |
 | 35 | Union Saint-Gilloise | 0 | 0 | 0 | 0 | 0 | 0 |
 | 36 | Villarreal | 0 | 0 | 0 | 0 | 0 | 0 |
+
+### Europa League
+
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | FC Basel | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Bologna | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Brann | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Celta de Vigo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Celtic | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Dinamo Zagreb | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | FCSB | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Fenerbahçe | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Ferencváros | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Feyenoord | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | SC Freiburg | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | KRC Genk | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Go Ahead Eagles | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Lille | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Ludogorets | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Lyon | 0 | 0 | 0 | 0 | 0 | 0 |
+| 18 | Maccabi Tel Aviv | 0 | 0 | 0 | 0 | 0 | 0 |
+| 19 | Malmö | 0 | 0 | 0 | 0 | 0 | 0 |
+| 20 | Midtjylland | 0 | 0 | 0 | 0 | 0 | 0 |
+| 21 | Nice | 0 | 0 | 0 | 0 | 0 | 0 |
+| 22 | Nottingham Forest | 0 | 0 | 0 | 0 | 0 | 0 |
+| 23 | PAOK | 0 | 0 | 0 | 0 | 0 | 0 |
+| 24 | Panathinaikos | 0 | 0 | 0 | 0 | 0 | 0 |
+| 25 | Porto | 0 | 0 | 0 | 0 | 0 | 0 |
+| 26 | Rangers | 0 | 0 | 0 | 0 | 0 | 0 |
+| 27 | Real Betis | 0 | 0 | 0 | 0 | 0 | 0 |
+| 28 | Red Star Belgrade | 0 | 0 | 0 | 0 | 0 | 0 |
+| 29 | Roma | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30 | RB Salzburg | 0 | 0 | 0 | 0 | 0 | 0 |
+| 31 | Braga | 0 | 0 | 0 | 0 | 0 | 0 |
+| 32 | Sturm Graz | 0 | 0 | 0 | 0 | 0 | 0 |
+| 33 | VfB Stuttgart | 0 | 0 | 0 | 0 | 0 | 0 |
+| 34 | Utrecht | 0 | 0 | 0 | 0 | 0 | 0 |
+| 35 | Plzeň | 0 | 0 | 0 | 0 | 0 | 0 |
+| 36 | BSC Young Boys | 0 | 0 | 0 | 0 | 0 | 0 |
+
+### Liga Portugal
+
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Porto | 4 | 4 | 0 | 0 | 10 | 12 |
+| 2 | Famalicão | 4 | 3 | 1 | 0 | 5 | 10 |
+| 3 | Sporting CP | 4 | 3 | 0 | 1 | 10 | 9 |
+| 4 | Benfica | 3 | 3 | 0 | 0 | 5 | 9 |
+| 5 | Moreirense | 4 | 3 | 0 | 1 | 2 | 9 |
+| 6 | Braga | 4 | 2 | 2 | 0 | 6 | 8 |
+| 7 | Gil Vicente | 4 | 2 | 1 | 1 | 2 | 7 |
+| 8 | Arouca | 4 | 1 | 2 | 1 | -4 | 5 |
+| 9 | Nacional | 4 | 1 | 1 | 2 | -3 | 4 |
+| 10 | Santa Clara | 4 | 1 | 1 | 2 | -3 | 4 |
+| 11 | Vitória S.C. | 4 | 1 | 1 | 2 | -4 | 4 |
+| 12 | Rio Ave | 3 | 0 | 3 | 0 | 0 | 3 |
+| 13 | Estrela Amadora | 4 | 0 | 3 | 1 | -1 | 3 |
+| 14 | Casa Pia | 4 | 1 | 0 | 3 | -6 | 3 |
+| 15 | Estoril | 4 | 0 | 2 | 2 | -2 | 2 |
+| 16 | Alverca | 4 | 0 | 1 | 3 | -5 | 1 |
+| 17 | AVS | 4 | 0 | 1 | 3 | -5 | 1 |
+| 18 | Tondela | 4 | 0 | 1 | 3 | -7 | 1 |
+
+### EFL Championship
+
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Middlesbrough | 4 | 4 | 0 | 0 | 6 | 12 |
+| 2 | West Bromwich Albion | 4 | 3 | 1 | 0 | 3 | 10 |
+| 3 | Stoke City | 4 | 3 | 0 | 1 | 5 | 9 |
+| 4 | Leicester City | 4 | 3 | 0 | 1 | 3 | 9 |
+| 5 | Coventry City | 4 | 2 | 2 | 0 | 8 | 8 |
+| 6 | Bristol City | 4 | 2 | 2 | 0 | 5 | 8 |
+| 7 | Swansea City | 4 | 2 | 1 | 1 | 2 | 7 |
+| 8 | Portsmouth | 4 | 2 | 1 | 1 | 1 | 7 |
+| 9 | Preston North End | 4 | 2 | 1 | 1 | 1 | 7 |
+| 10 | Birmingham City | 4 | 2 | 1 | 1 | 0 | 7 |
+| 11 | Norwich City | 4 | 2 | 0 | 2 | 1 | 6 |
+| 12 | Millwall | 4 | 2 | 0 | 2 | -3 | 6 |
+| 13 | Southampton | 4 | 1 | 2 | 1 | 0 | 5 |
+| 14 | Watford | 4 | 1 | 2 | 1 | 0 | 5 |
+| 15 | Wrexham | 4 | 1 | 1 | 2 | 0 | 4 |
+| 16 | Charlton Athletic | 4 | 1 | 1 | 2 | -2 | 4 |
+| 17 | Hull City | 4 | 1 | 1 | 2 | -4 | 4 |
+| 18 | Queens Park Rangers | 4 | 1 | 1 | 2 | -5 | 4 |
+| 19 | Blackburn Rovers | 4 | 1 | 0 | 3 | -1 | 3 |
+| 20 | Ipswich Town | 4 | 0 | 3 | 1 | -1 | 3 |
+| 21 | Derby County | 4 | 0 | 2 | 2 | -4 | 2 |
+| 22 | Oxford United | 4 | 0 | 1 | 3 | -3 | 1 |
+| 23 | Sheffield Wednesday | 4 | 0 | 1 | 3 | -6 | 1 |
+| 24 | Sheffield United | 4 | 0 | 0 | 4 | -6 | 0 |
 
 
 <!-- END_TABLE -->
