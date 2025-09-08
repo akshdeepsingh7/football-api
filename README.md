@@ -17,6 +17,7 @@ Here’s the full list of competitions included in the standings tracker:
 ### European Competitions
 - 🏆 **UEFA Champions League**
 - 🏆 **UEFA Europa League**
+- 🏆 **UEFA Europa Conference League**
 ## 🌎 Americas
 - 🇺🇸 **Major League Soccer (MLS)**
 - 🇦🇷 **Liga Profesional Argentina (Clausura)**
