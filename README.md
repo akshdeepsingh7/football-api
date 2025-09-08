@@ -1,7 +1,28 @@
-# Football League Standings
+# ⚽ Football League Standings
 
 This project scrapes the latest standings of major football leagues and updates this README automatically with a Markdown table. It also provides a JSON file for programmatic access.
 
+---
+
+# ⚽ Football Leagues Tracked
+Here’s the full list of competitions included in the standings tracker:
+## 🌍 Europe
+- 🇬🇧 **Premier League** (England)
+- 🇪🇸 **La Liga** (Spain)
+- 🇩🇪 **Bundesliga** (Germany)
+- 🇮🇹 **Serie A** (Italy)
+- 🇫🇷 **Ligue 1** (France)
+- 🇵🇹 **Liga Portugal** (Portugal)
+- 🏴 **EFL Championship** (England)
+### European Competitions
+- 🏆 **UEFA Champions League**
+- 🏆 **UEFA Europa League**
+## 🌎 Americas
+- 🇺🇸 **Major League Soccer (MLS)**
+- 🇦🇷 **Liga Profesional Argentina (Clausura)**
+- 🇧🇷 **Brasileirão (Serie A)**
+## 🌏 Asia
+- 🇮🇳 **Indian Super League (ISL)**
 ---
 
 ## JSON API
