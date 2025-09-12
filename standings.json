@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 12 September 2025, 04:25 PM UTC",
-        "IST": "Friday, 12 September 2025, 09:55 PM IST"
+        "UTC": "Friday, 12 September 2025, 06:28 PM UTC",
+        "IST": "Friday, 12 September 2025, 11:58 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2932,11 +2932,11 @@
             {
                 "Position": "2",
                 "Team": "C\u00f3rdoba SdE",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "3",
                 "Draws": "4",
-                "Losses": "0",
-                "Goal Difference": "6",
+                "Losses": "1",
+                "Goal Difference": "5",
                 "Points": "13"
             },
             {
@@ -3071,6 +3071,16 @@
             },
             {
                 "Position": "1",
+                "Team": "Riestra",
+                "Played": "8",
+                "Wins": "5",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "5",
+                "Points": "16"
+            },
+            {
+                "Position": "2",
                 "Team": "River Plate",
                 "Played": "7",
                 "Wins": "4",
@@ -3080,7 +3090,7 @@
                 "Points": "15"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "V\u00e9lez",
                 "Played": "7",
                 "Wins": "4",
@@ -3088,16 +3098,6 @@
                 "Losses": "1",
                 "Goal Difference": "6",
                 "Points": "14"
-            },
-            {
-                "Position": "3",
-                "Team": "Riestra",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "4",
-                "Points": "13"
             },
             {
                 "Position": "4",
