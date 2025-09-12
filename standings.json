@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 11 September 2025, 10:20 PM UTC",
-        "IST": "Friday, 12 September 2025, 03:50 AM IST"
+        "UTC": "Friday, 12 September 2025, 01:44 AM UTC",
+        "IST": "Friday, 12 September 2025, 07:14 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3001,6 +3001,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Belgrano",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "9"
+            },
+            {
+                "Position": "10",
                 "Team": "Argentinos Juniors",
                 "Played": "7",
                 "Wins": "2",
@@ -3010,18 +3020,8 @@
                 "Points": "8"
             },
             {
-                "Position": "10",
-                "Team": "Independiente Rivadavia",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "8"
-            },
-            {
                 "Position": "11",
-                "Team": "Belgrano",
+                "Team": "Independiente Rivadavia",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
@@ -3152,12 +3152,12 @@
             {
                 "Position": "9",
                 "Team": "San Mart\u00edn SJ",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "10",
