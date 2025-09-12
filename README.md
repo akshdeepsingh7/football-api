@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 12 September 2025, 08:24 PM UTC (Saturday, 13 September 2025, 01:54 AM IST)
+**Last Updated:** Friday, 12 September 2025, 10:19 PM UTC (Saturday, 13 September 2025, 03:49 AM IST)
 
 ### Premier League
 
@@ -98,12 +98,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 2 | 2 | 0 | 0 | 7 | 6 |
-| 2 | Eintracht Frankfurt | 3 | 2 | 0 | 1 | 4 | 6 |
-| 3 | Köln | 2 | 2 | 0 | 0 | 4 | 6 |
+| 2 | Köln | 2 | 2 | 0 | 0 | 4 | 6 |
+| 3 | Eintracht Frankfurt | 3 | 2 | 0 | 1 | 3 | 6 |
 | 4 | Borussia Dortmund | 2 | 1 | 1 | 0 | 3 | 4 |
 | 5 | St. Pauli | 2 | 1 | 1 | 0 | 2 | 4 |
 | 6 | VfL Wolfsburg | 2 | 1 | 1 | 0 | 2 | 4 |
-| 7 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 0 | 4 |
+| 7 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 1 | 4 |
 | 8 | Augsburg | 2 | 1 | 0 | 1 | 1 | 3 |
 | 9 | VfB Stuttgart | 2 | 1 | 0 | 1 | 0 | 3 |
 | 10 | Hoffenheim | 2 | 1 | 0 | 1 | -1 | 3 |
@@ -148,7 +148,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 3 | 3 | 0 | 0 | 5 | 9 |
 | 2 | Lyon | 3 | 3 | 0 | 0 | 5 | 9 |
 | 3 | Lille | 3 | 2 | 1 | 0 | 7 | 7 |
-| 4 | Marseille | 4 | 2 | 0 | 2 | 4 | 6 |
+| 4 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
 | 5 | Monaco | 3 | 2 | 0 | 1 | 2 | 6 |
 | 6 | Lens | 3 | 2 | 0 | 1 | 2 | 6 |
 | 7 | Strasbourg | 3 | 2 | 0 | 1 | 1 | 6 |
@@ -160,7 +160,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Nantes | 3 | 1 | 0 | 2 | -1 | 3 |
 | 14 | Auxerre | 3 | 1 | 0 | 2 | -2 | 3 |
 | 15 | Paris | 3 | 1 | 0 | 2 | -3 | 3 |
-| 16 | Lorient | 4 | 1 | 0 | 3 | -6 | 3 |
+| 16 | Lorient | 4 | 1 | 0 | 3 | -7 | 3 |
 | 17 | Brest | 3 | 0 | 1 | 2 | -4 | 1 |
 | 18 | Metz | 3 | 0 | 0 | 3 | -5 | 0 |
 
@@ -324,7 +324,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Portsmouth | 4 | 2 | 1 | 1 | 1 | 7 |
 | 9 | Preston North End | 4 | 2 | 1 | 1 | 1 | 7 |
 | 10 | Birmingham City | 4 | 2 | 1 | 1 | 0 | 7 |
-| 11 | Ipswich Town | 5 | 1 | 3 | 1 | 2 | 6 |
+| 11 | Ipswich Town | 5 | 1 | 3 | 1 | 4 | 6 |
 | 12 | Norwich City | 4 | 2 | 0 | 2 | 1 | 6 |
 | 13 | Millwall | 4 | 2 | 0 | 2 | -3 | 6 |
 | 14 | Southampton | 4 | 1 | 2 | 1 | 0 | 5 |
@@ -337,7 +337,7 @@ The latest league standings are displayed below in Markdown tables:
 | 21 | Derby County | 4 | 0 | 2 | 2 | -4 | 2 |
 | 22 | Oxford United | 4 | 0 | 1 | 3 | -3 | 1 |
 | 23 | Sheffield Wednesday | 4 | 0 | 1 | 3 | -6 | 1 |
-| 24 | Sheffield United | 5 | 0 | 0 | 5 | -9 | 0 |
+| 24 | Sheffield United | 5 | 0 | 0 | 5 | -11 | 0 |
 
 ### Major League Soccer (MLS)
 
@@ -402,19 +402,19 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Unión | 7 | 3 | 3 | 1 | 5 | 12 |
 | 5 | Def y Justicia | 7 | 3 | 3 | 1 | 3 | 12 |
 | 6 | Estudiantes | 7 | 4 | 0 | 3 | 0 | 12 |
-| 7 | Huracán | 7 | 3 | 2 | 2 | -1 | 11 |
+| 7 | Huracán | 8 | 3 | 3 | 2 | -1 | 12 |
 | 8 | Banfield | 7 | 3 | 1 | 3 | -2 | 10 |
 | 9 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
 | 10 | Argentinos Juniors | 7 | 2 | 2 | 3 | 1 | 8 |
 | 11 | Independiente Rivadavia | 7 | 2 | 2 | 3 | -1 | 8 |
 | 12 | Tigre | 7 | 2 | 2 | 3 | -1 | 8 |
 | 13 | Newell's Old Boys | 7 | 1 | 3 | 3 | -2 | 6 |
-| 14 | Racing Club | 7 | 1 | 1 | 5 | -6 | 4 |
+| 14 | Racing Club | 8 | 1 | 2 | 5 | -6 | 5 |
 | 15 | Aldosivi | 7 | 0 | 3 | 4 | -7 | 3 |
 | 1 | Riestra | 8 | 5 | 1 | 2 | 6 | 16 |
 | 2 | River Plate | 7 | 4 | 3 | 0 | 10 | 15 |
-| 3 | Vélez | 7 | 4 | 2 | 1 | 6 | 14 |
-| 4 | San Lorenzo | 7 | 3 | 3 | 1 | 2 | 12 |
+| 3 | Vélez | 8 | 4 | 3 | 1 | 6 | 15 |
+| 4 | San Lorenzo | 8 | 3 | 4 | 1 | 2 | 13 |
 | 5 | Rosario | 6 | 2 | 4 | 0 | 2 | 10 |
 | 6 | GELP | 7 | 3 | 1 | 3 | 0 | 10 |
 | 7 | Lanús | 7 | 3 | 1 | 3 | -1 | 10 |
