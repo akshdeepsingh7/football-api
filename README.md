@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 September 2025, 01:40 AM UTC (Saturday, 13 September 2025, 07:10 AM IST)
+**Last Updated:** Saturday, 13 September 2025, 02:51 AM UTC (Saturday, 13 September 2025, 08:21 AM IST)
 
 ### Premier League
 
@@ -404,11 +404,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Estudiantes | 7 | 4 | 0 | 3 | 0 | 12 |
 | 7 | Huracán | 8 | 3 | 3 | 2 | -1 | 12 |
 | 8 | Banfield | 7 | 3 | 1 | 3 | -2 | 10 |
-| 9 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
-| 10 | Argentinos Juniors | 7 | 2 | 2 | 3 | 1 | 8 |
-| 11 | Tigre | 7 | 2 | 2 | 3 | -1 | 8 |
-| 12 | Independiente Rivadavia | 8 | 2 | 2 | 4 | -2 | 8 |
-| 13 | Newell's Old Boys | 8 | 1 | 4 | 3 | -2 | 7 |
+| 9 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
+| 10 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
+| 11 | Argentinos Juniors | 7 | 2 | 2 | 3 | 1 | 8 |
+| 12 | Tigre | 7 | 2 | 2 | 3 | -1 | 8 |
+| 13 | Independiente Rivadavia | 8 | 2 | 2 | 4 | -2 | 8 |
 | 14 | Racing Club | 8 | 2 | 1 | 5 | -4 | 7 |
 | 15 | Aldosivi | 7 | 0 | 3 | 4 | -7 | 3 |
 | 1 | Riestra | 8 | 5 | 1 | 2 | 6 | 16 |
@@ -416,9 +416,9 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Vélez | 8 | 4 | 3 | 1 | 6 | 15 |
 | 4 | Lanús | 8 | 4 | 1 | 3 | 0 | 13 |
 | 5 | San Lorenzo | 8 | 3 | 3 | 2 | 0 | 12 |
-| 6 | Atl. Tucumán | 8 | 2 | 4 | 2 | 2 | 10 |
-| 7 | Rosario | 6 | 2 | 4 | 0 | 2 | 10 |
-| 8 | GELP | 7 | 3 | 1 | 3 | 0 | 10 |
+| 6 | Rosario | 6 | 2 | 4 | 0 | 2 | 10 |
+| 7 | GELP | 7 | 3 | 1 | 3 | 0 | 10 |
+| 8 | Atl. Tucumán | 8 | 2 | 3 | 3 | 0 | 9 |
 | 9 | San Martín SJ | 8 | 2 | 3 | 3 | -2 | 9 |
 | 10 | Godoy Cruz | 7 | 1 | 3 | 3 | -3 | 6 |
 | 11 | Platense | 6 | 1 | 3 | 2 | -3 | 6 |
