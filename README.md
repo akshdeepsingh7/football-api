@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 September 2025, 08:37 PM UTC (Sunday, 14 September 2025, 02:07 AM IST)
+**Last Updated:** Saturday, 13 September 2025, 09:15 PM UTC (Sunday, 14 September 2025, 02:45 AM IST)
 
 ### Premier League
 
@@ -147,19 +147,19 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 3 | 3 | 0 | 0 | 5 | 9 |
 | 2 | Lyon | 3 | 3 | 0 | 0 | 5 | 9 |
-| 3 | Lille | 3 | 2 | 1 | 0 | 7 | 7 |
-| 4 | Monaco | 4 | 2 | 1 | 1 | 2 | 7 |
+| 3 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
+| 4 | Lille | 3 | 2 | 1 | 0 | 7 | 7 |
 | 5 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
 | 6 | Lens | 3 | 2 | 0 | 1 | 2 | 6 |
 | 7 | Strasbourg | 3 | 2 | 0 | 1 | 1 | 6 |
 | 8 | Toulouse | 3 | 2 | 0 | 1 | 0 | 6 |
 | 9 | Nice | 4 | 2 | 0 | 2 | 0 | 6 |
 | 10 | Angers | 3 | 1 | 1 | 1 | 0 | 4 |
-| 11 | Auxerre | 4 | 1 | 1 | 2 | -2 | 4 |
-| 12 | Rennes | 3 | 1 | 1 | 1 | -3 | 4 |
-| 13 | Le Havre | 3 | 1 | 0 | 2 | -1 | 3 |
-| 14 | Nantes | 4 | 1 | 0 | 3 | -2 | 3 |
-| 15 | Paris | 3 | 1 | 0 | 2 | -3 | 3 |
+| 11 | Rennes | 3 | 1 | 1 | 1 | -3 | 4 |
+| 12 | Le Havre | 3 | 1 | 0 | 2 | -1 | 3 |
+| 13 | Nantes | 4 | 1 | 0 | 3 | -2 | 3 |
+| 14 | Paris | 3 | 1 | 0 | 2 | -3 | 3 |
+| 15 | Auxerre | 4 | 1 | 0 | 3 | -3 | 3 |
 | 16 | Lorient | 4 | 1 | 0 | 3 | -7 | 3 |
 | 17 | Brest | 3 | 0 | 1 | 2 | -4 | 1 |
 | 18 | Metz | 3 | 0 | 0 | 3 | -5 | 0 |
@@ -292,10 +292,10 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 5 | 5 | 0 | 0 | 11 | 15 |
-| 2 | Moreirense | 5 | 4 | 0 | 1 | 4 | 12 |
-| 3 | Famalicão | 5 | 3 | 2 | 0 | 5 | 11 |
-| 4 | Sporting CP | 5 | 3 | 1 | 1 | 10 | 10 |
-| 5 | Benfica | 4 | 3 | 1 | 0 | 5 | 10 |
+| 2 | Sporting CP | 5 | 4 | 0 | 1 | 11 | 12 |
+| 3 | Moreirense | 5 | 4 | 0 | 1 | 4 | 12 |
+| 4 | Benfica | 4 | 3 | 1 | 0 | 5 | 10 |
+| 5 | Famalicão | 5 | 3 | 1 | 1 | 4 | 10 |
 | 6 | Braga | 4 | 2 | 2 | 0 | 6 | 8 |
 | 7 | Gil Vicente | 4 | 2 | 1 | 1 | 2 | 7 |
 | 8 | Santa Clara | 5 | 1 | 2 | 2 | -3 | 5 |

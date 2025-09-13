@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 September 2025, 08:37 PM UTC",
-        "IST": "Sunday, 14 September 2025, 02:07 AM IST"
+        "UTC": "Saturday, 13 September 2025, 09:15 PM UTC",
+        "IST": "Sunday, 14 September 2025, 02:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -815,22 +815,22 @@
             },
             {
                 "Position": "3",
+                "Team": "Monaco",
+                "Played": "4",
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "9"
+            },
+            {
+                "Position": "4",
                 "Team": "Lille",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "7",
-                "Points": "7"
-            },
-            {
-                "Position": "4",
-                "Team": "Monaco",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "2",
                 "Points": "7"
             },
             {
@@ -895,16 +895,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Auxerre",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "4"
-            },
-            {
-                "Position": "12",
                 "Team": "Rennes",
                 "Played": "3",
                 "Wins": "1",
@@ -914,7 +904,7 @@
                 "Points": "4"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Le Havre",
                 "Played": "3",
                 "Wins": "1",
@@ -924,7 +914,7 @@
                 "Points": "3"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Nantes",
                 "Played": "4",
                 "Wins": "1",
@@ -934,12 +924,22 @@
                 "Points": "3"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Paris",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "3"
+            },
+            {
+                "Position": "15",
+                "Team": "Auxerre",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "3",
                 "Goal Difference": "-3",
                 "Points": "3"
             },
@@ -2073,6 +2073,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Sporting CP",
+                "Played": "5",
+                "Wins": "4",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "11",
+                "Points": "12"
+            },
+            {
+                "Position": "3",
                 "Team": "Moreirense",
                 "Played": "5",
                 "Wins": "4",
@@ -2082,33 +2092,23 @@
                 "Points": "12"
             },
             {
-                "Position": "3",
-                "Team": "Famalic\u00e3o",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "5",
-                "Points": "11"
-            },
-            {
                 "Position": "4",
-                "Team": "Sporting CP",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "10",
-                "Points": "10"
-            },
-            {
-                "Position": "5",
                 "Team": "Benfica",
                 "Played": "4",
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "5",
+                "Points": "10"
+            },
+            {
+                "Position": "5",
+                "Team": "Famalic\u00e3o",
+                "Played": "5",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "4",
                 "Points": "10"
             },
             {
