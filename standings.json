@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 September 2025, 07:44 PM UTC",
-        "IST": "Sunday, 14 September 2025, 01:14 AM IST"
+        "UTC": "Saturday, 13 September 2025, 08:17 PM UTC",
+        "IST": "Sunday, 14 September 2025, 01:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -244,7 +244,7 @@
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "6",
+                "Goal Difference": "5",
                 "Points": "7"
             },
             {
@@ -289,17 +289,17 @@
             },
             {
                 "Position": "9",
-                "Team": "Real Betis",
+                "Team": "Atl\u00e9tico de Madrid",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "0",
+                "Goal Difference": "1",
                 "Points": "5"
             },
             {
                 "Position": "10",
-                "Team": "Atl\u00e9tico de Madrid",
+                "Team": "Real Betis",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "2",
@@ -598,7 +598,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "5",
+                "Goal Difference": "6",
                 "Points": "9"
             },
             {
@@ -718,7 +718,7 @@
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "2"
             },
             {
@@ -815,22 +815,22 @@
             },
             {
                 "Position": "3",
+                "Team": "Monaco",
+                "Played": "4",
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "9"
+            },
+            {
+                "Position": "4",
                 "Team": "Lille",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "7",
-                "Points": "7"
-            },
-            {
-                "Position": "4",
-                "Team": "Monaco",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "2",
                 "Points": "7"
             },
             {
@@ -895,16 +895,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Auxerre",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "4"
-            },
-            {
-                "Position": "12",
                 "Team": "Rennes",
                 "Played": "3",
                 "Wins": "1",
@@ -914,7 +904,7 @@
                 "Points": "4"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Le Havre",
                 "Played": "3",
                 "Wins": "1",
@@ -924,7 +914,7 @@
                 "Points": "3"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Nantes",
                 "Played": "4",
                 "Wins": "1",
@@ -934,12 +924,22 @@
                 "Points": "3"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Paris",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "3"
+            },
+            {
+                "Position": "15",
+                "Team": "Auxerre",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "3",
                 "Goal Difference": "-3",
                 "Points": "3"
             },
@@ -2992,12 +2992,12 @@
             {
                 "Position": "8",
                 "Team": "Banfield",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "3",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "9",
@@ -3212,12 +3212,12 @@
             {
                 "Position": "15",
                 "Team": "Independiente",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "0",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "3",
                 "Goal Difference": "-3",
-                "Points": "3"
+                "Points": "4"
             }
         ],
         "Brasileir\u00e3o": [
@@ -3253,22 +3253,22 @@
             },
             {
                 "Position": "4",
+                "Team": "Mirassol",
+                "Played": "21",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "3",
+                "Goal Difference": "16",
+                "Points": "38"
+            },
+            {
+                "Position": "5",
                 "Team": "Bahia",
                 "Played": "20",
                 "Wins": "10",
                 "Draws": "6",
                 "Losses": "4",
                 "Goal Difference": "6",
-                "Points": "36"
-            },
-            {
-                "Position": "5",
-                "Team": "Mirassol",
-                "Played": "21",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "3",
-                "Goal Difference": "15",
                 "Points": "36"
             },
             {
@@ -3346,10 +3346,10 @@
                 "Team": "Gr\u00eamio",
                 "Played": "22",
                 "Wins": "6",
-                "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "-6",
-                "Points": "26"
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-7",
+                "Points": "25"
             },
             {
                 "Position": "14",
@@ -3388,7 +3388,7 @@
                 "Wins": "4",
                 "Draws": "10",
                 "Losses": "9",
-                "Goal Difference": "-14",
+                "Goal Difference": "-15",
                 "Points": "22"
             },
             {
@@ -3408,7 +3408,7 @@
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "12",
-                "Goal Difference": "-13",
+                "Goal Difference": "-12",
                 "Points": "18"
             },
             {
