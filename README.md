@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 September 2025, 08:17 PM UTC (Sunday, 14 September 2025, 01:47 AM IST)
+**Last Updated:** Saturday, 13 September 2025, 08:37 PM UTC (Sunday, 14 September 2025, 02:07 AM IST)
 
 ### Premier League
 
@@ -51,14 +51,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Tottenham Hotspur | 4 | 3 | 0 | 1 | 7 | 9 |
 | 3 | Liverpool FC | 3 | 3 | 0 | 0 | 4 | 9 |
 | 4 | AFC Bournemouth | 4 | 3 | 0 | 1 | 1 | 9 |
-| 5 | Chelsea | 4 | 2 | 1 | 1 | 5 | 7 |
+| 5 | Chelsea | 4 | 2 | 2 | 0 | 6 | 8 |
 | 6 | Everton | 4 | 2 | 1 | 1 | 2 | 7 |
 | 7 | Sunderland | 4 | 2 | 1 | 1 | 2 | 7 |
 | 8 | Crystal Palace | 4 | 1 | 3 | 0 | 3 | 6 |
-| 9 | Brentford | 4 | 2 | 0 | 2 | -1 | 6 |
-| 10 | Newcastle United | 4 | 1 | 2 | 1 | 0 | 5 |
-| 11 | Fulham | 4 | 1 | 2 | 1 | -1 | 5 |
-| 12 | Manchester United | 3 | 1 | 1 | 1 | 0 | 4 |
+| 9 | Newcastle United | 4 | 1 | 2 | 1 | 0 | 5 |
+| 10 | Fulham | 4 | 1 | 2 | 1 | -1 | 5 |
+| 11 | Manchester United | 3 | 1 | 1 | 1 | 0 | 4 |
+| 12 | Brentford | 4 | 1 | 1 | 2 | -2 | 4 |
 | 13 | Brighton & Hove Albion | 4 | 1 | 1 | 2 | -2 | 4 |
 | 14 | Nottingham Forest | 4 | 1 | 1 | 2 | -4 | 4 |
 | 15 | Leeds United | 4 | 1 | 1 | 2 | -5 | 4 |
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Napoli | 3 | 3 | 0 | 0 | 6 | 9 |
+| 1 | Napoli | 3 | 3 | 0 | 0 | 5 | 9 |
 | 2 | Juventus | 3 | 3 | 0 | 0 | 4 | 9 |
 | 3 | Cremonese | 2 | 2 | 0 | 0 | 2 | 6 |
 | 4 | Roma | 2 | 2 | 0 | 0 | 2 | 6 |
@@ -132,7 +132,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Bologna | 2 | 1 | 0 | 1 | 0 | 3 |
 | 11 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
 | 12 | Atalanta | 2 | 0 | 2 | 0 | 0 | 2 |
-| 13 | Fiorentina | 3 | 0 | 2 | 1 | -3 | 2 |
+| 13 | Fiorentina | 3 | 0 | 2 | 1 | -2 | 2 |
 | 14 | Pisa | 2 | 0 | 1 | 1 | -1 | 1 |
 | 15 | Genoa | 2 | 0 | 1 | 1 | -1 | 1 |
 | 16 | Lecce | 2 | 0 | 1 | 1 | -2 | 1 |
@@ -147,19 +147,19 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 3 | 3 | 0 | 0 | 5 | 9 |
 | 2 | Lyon | 3 | 3 | 0 | 0 | 5 | 9 |
-| 3 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
-| 4 | Lille | 3 | 2 | 1 | 0 | 7 | 7 |
+| 3 | Lille | 3 | 2 | 1 | 0 | 7 | 7 |
+| 4 | Monaco | 4 | 2 | 1 | 1 | 2 | 7 |
 | 5 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
 | 6 | Lens | 3 | 2 | 0 | 1 | 2 | 6 |
 | 7 | Strasbourg | 3 | 2 | 0 | 1 | 1 | 6 |
 | 8 | Toulouse | 3 | 2 | 0 | 1 | 0 | 6 |
 | 9 | Nice | 4 | 2 | 0 | 2 | 0 | 6 |
 | 10 | Angers | 3 | 1 | 1 | 1 | 0 | 4 |
-| 11 | Rennes | 3 | 1 | 1 | 1 | -3 | 4 |
-| 12 | Le Havre | 3 | 1 | 0 | 2 | -1 | 3 |
-| 13 | Nantes | 4 | 1 | 0 | 3 | -2 | 3 |
-| 14 | Paris | 3 | 1 | 0 | 2 | -3 | 3 |
-| 15 | Auxerre | 4 | 1 | 0 | 3 | -3 | 3 |
+| 11 | Auxerre | 4 | 1 | 1 | 2 | -2 | 4 |
+| 12 | Rennes | 3 | 1 | 1 | 1 | -3 | 4 |
+| 13 | Le Havre | 3 | 1 | 0 | 2 | -1 | 3 |
+| 14 | Nantes | 4 | 1 | 0 | 3 | -2 | 3 |
+| 15 | Paris | 3 | 1 | 0 | 2 | -3 | 3 |
 | 16 | Lorient | 4 | 1 | 0 | 3 | -7 | 3 |
 | 17 | Brest | 3 | 0 | 1 | 2 | -4 | 1 |
 | 18 | Metz | 3 | 0 | 0 | 3 | -5 | 0 |
@@ -398,12 +398,12 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barracas | 8 | 4 | 3 | 1 | 3 | 15 |
 | 2 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
-| 3 | Boca Juniors | 7 | 3 | 3 | 1 | 6 | 12 |
-| 4 | Unión | 7 | 3 | 3 | 1 | 5 | 12 |
-| 5 | Def y Justicia | 7 | 3 | 3 | 1 | 3 | 12 |
-| 6 | Estudiantes | 7 | 4 | 0 | 3 | 0 | 12 |
-| 7 | Huracán | 8 | 3 | 3 | 2 | -1 | 12 |
-| 8 | Banfield | 8 | 3 | 2 | 3 | -2 | 11 |
+| 3 | Banfield | 8 | 4 | 1 | 3 | -1 | 13 |
+| 4 | Boca Juniors | 7 | 3 | 3 | 1 | 6 | 12 |
+| 5 | Unión | 7 | 3 | 3 | 1 | 5 | 12 |
+| 6 | Def y Justicia | 7 | 3 | 3 | 1 | 3 | 12 |
+| 7 | Estudiantes | 7 | 4 | 0 | 3 | 0 | 12 |
+| 8 | Huracán | 8 | 3 | 3 | 2 | -1 | 12 |
 | 9 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
 | 10 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
 | 11 | Argentinos Juniors | 7 | 2 | 2 | 3 | 1 | 8 |
@@ -425,7 +425,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Sarmiento | 6 | 1 | 3 | 2 | -4 | 6 |
 | 13 | Instituto | 7 | 1 | 3 | 3 | -8 | 6 |
 | 14 | Talleres | 7 | 1 | 2 | 4 | -5 | 5 |
-| 15 | Independiente | 7 | 0 | 4 | 3 | -3 | 4 |
+| 15 | Independiente | 7 | 0 | 3 | 4 | -4 | 3 |
 
 ### Brasileirão
 
