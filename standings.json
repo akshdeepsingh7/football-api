@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 September 2025, 10:15 PM UTC",
-        "IST": "Sunday, 14 September 2025, 03:45 AM IST"
+        "UTC": "Saturday, 13 September 2025, 10:37 PM UTC",
+        "IST": "Sunday, 14 September 2025, 04:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2981,22 +2981,22 @@
             },
             {
                 "Position": "7",
-                "Team": "Estudiantes",
-                "Played": "8",
-                "Wins": "4",
-                "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "12"
-            },
-            {
-                "Position": "8",
                 "Team": "Hurac\u00e1n",
                 "Played": "8",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "-1",
+                "Points": "12"
+            },
+            {
+                "Position": "8",
+                "Team": "Estudiantes",
+                "Played": "8",
+                "Wins": "4",
+                "Draws": "0",
+                "Losses": "4",
+                "Goal Difference": "-2",
                 "Points": "12"
             },
             {
@@ -3076,7 +3076,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "0",
-                "Goal Difference": "11",
+                "Goal Difference": "12",
                 "Points": "18"
             },
             {

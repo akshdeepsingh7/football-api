@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 September 2025, 10:15 PM UTC (Sunday, 14 September 2025, 03:45 AM IST)
+**Last Updated:** Saturday, 13 September 2025, 10:37 PM UTC (Sunday, 14 September 2025, 04:07 AM IST)
 
 ### Premier League
 
@@ -402,8 +402,8 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Boca Juniors | 7 | 3 | 3 | 1 | 6 | 12 |
 | 5 | Unión | 7 | 3 | 3 | 1 | 5 | 12 |
 | 6 | Def y Justicia | 7 | 3 | 3 | 1 | 3 | 12 |
-| 7 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
-| 8 | Huracán | 8 | 3 | 3 | 2 | -1 | 12 |
+| 7 | Huracán | 8 | 3 | 3 | 2 | -1 | 12 |
+| 8 | Estudiantes | 8 | 4 | 0 | 4 | -2 | 12 |
 | 9 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
 | 10 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
 | 11 | Argentinos Juniors | 7 | 2 | 2 | 3 | 1 | 8 |
@@ -411,7 +411,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Independiente Rivadavia | 8 | 2 | 2 | 4 | -2 | 8 |
 | 14 | Racing Club | 8 | 2 | 1 | 5 | -4 | 7 |
 | 15 | Aldosivi | 7 | 0 | 3 | 4 | -7 | 3 |
-| 1 | River Plate | 8 | 5 | 3 | 0 | 11 | 18 |
+| 1 | River Plate | 8 | 5 | 3 | 0 | 12 | 18 |
 | 2 | Riestra | 8 | 5 | 1 | 2 | 6 | 16 |
 | 3 | Vélez | 8 | 4 | 3 | 1 | 6 | 15 |
 | 4 | Lanús | 8 | 4 | 1 | 3 | 0 | 13 |
