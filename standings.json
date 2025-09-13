@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 September 2025, 09:15 PM UTC",
-        "IST": "Sunday, 14 September 2025, 02:45 AM IST"
+        "UTC": "Saturday, 13 September 2025, 09:37 PM UTC",
+        "IST": "Sunday, 14 September 2025, 03:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3233,6 +3233,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Palmeiras",
+                "Played": "21",
+                "Wins": "14",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "13",
+                "Points": "46"
+            },
+            {
+                "Position": "3",
                 "Team": "Cruzeiro",
                 "Played": "22",
                 "Wins": "13",
@@ -3240,16 +3250,6 @@
                 "Losses": "4",
                 "Goal Difference": "20",
                 "Points": "44"
-            },
-            {
-                "Position": "3",
-                "Team": "Palmeiras",
-                "Played": "20",
-                "Wins": "13",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "12",
-                "Points": "43"
             },
             {
                 "Position": "4",
@@ -3314,11 +3314,11 @@
             {
                 "Position": "10",
                 "Team": "Internacional",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "7",
                 "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-4",
+                "Losses": "9",
+                "Goal Difference": "-5",
                 "Points": "27"
             },
             {
