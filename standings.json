@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 12 September 2025, 10:19 PM UTC",
-        "IST": "Saturday, 13 September 2025, 03:49 AM IST"
+        "UTC": "Saturday, 13 September 2025, 01:40 AM UTC",
+        "IST": "Saturday, 13 September 2025, 07:10 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3021,16 +3021,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Independiente Rivadavia",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "8"
-            },
-            {
-                "Position": "12",
                 "Team": "Tigre",
                 "Played": "7",
                 "Wins": "2",
@@ -3040,24 +3030,34 @@
                 "Points": "8"
             },
             {
+                "Position": "12",
+                "Team": "Independiente Rivadavia",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "8"
+            },
+            {
                 "Position": "13",
                 "Team": "Newell's Old Boys",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "1",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "6"
+                "Points": "7"
             },
             {
                 "Position": "14",
                 "Team": "Racing Club",
                 "Played": "8",
-                "Wins": "1",
-                "Draws": "2",
+                "Wins": "2",
+                "Draws": "1",
                 "Losses": "5",
-                "Goal Difference": "-6",
-                "Points": "5"
+                "Goal Difference": "-4",
+                "Points": "7"
             },
             {
                 "Position": "15",
@@ -3101,16 +3101,36 @@
             },
             {
                 "Position": "4",
-                "Team": "San Lorenzo",
+                "Team": "Lan\u00fas",
                 "Played": "8",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "2",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "0",
                 "Points": "13"
             },
             {
                 "Position": "5",
+                "Team": "San Lorenzo",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "12"
+            },
+            {
+                "Position": "6",
+                "Team": "Atl. Tucum\u00e1n",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "10"
+            },
+            {
+                "Position": "7",
                 "Team": "Rosario",
                 "Played": "6",
                 "Wins": "2",
@@ -3120,7 +3140,7 @@
                 "Points": "10"
             },
             {
-                "Position": "6",
+                "Position": "8",
                 "Team": "GELP",
                 "Played": "7",
                 "Wins": "3",
@@ -3128,26 +3148,6 @@
                 "Losses": "3",
                 "Goal Difference": "0",
                 "Points": "10"
-            },
-            {
-                "Position": "7",
-                "Team": "Lan\u00fas",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "10"
-            },
-            {
-                "Position": "8",
-                "Team": "Atl. Tucum\u00e1n",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "9"
             },
             {
                 "Position": "9",
