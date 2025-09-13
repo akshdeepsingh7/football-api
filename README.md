@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 September 2025, 09:37 PM UTC (Sunday, 14 September 2025, 03:07 AM IST)
+**Last Updated:** Saturday, 13 September 2025, 10:15 PM UTC (Sunday, 14 September 2025, 03:45 AM IST)
 
 ### Premier League
 
@@ -402,7 +402,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Boca Juniors | 7 | 3 | 3 | 1 | 6 | 12 |
 | 5 | Unión | 7 | 3 | 3 | 1 | 5 | 12 |
 | 6 | Def y Justicia | 7 | 3 | 3 | 1 | 3 | 12 |
-| 7 | Estudiantes | 7 | 4 | 0 | 3 | 0 | 12 |
+| 7 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
 | 8 | Huracán | 8 | 3 | 3 | 2 | -1 | 12 |
 | 9 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
 | 10 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
@@ -411,8 +411,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Independiente Rivadavia | 8 | 2 | 2 | 4 | -2 | 8 |
 | 14 | Racing Club | 8 | 2 | 1 | 5 | -4 | 7 |
 | 15 | Aldosivi | 7 | 0 | 3 | 4 | -7 | 3 |
-| 1 | Riestra | 8 | 5 | 1 | 2 | 6 | 16 |
-| 2 | River Plate | 7 | 4 | 3 | 0 | 10 | 15 |
+| 1 | River Plate | 8 | 5 | 3 | 0 | 11 | 18 |
+| 2 | Riestra | 8 | 5 | 1 | 2 | 6 | 16 |
 | 3 | Vélez | 8 | 4 | 3 | 1 | 6 | 15 |
 | 4 | Lanús | 8 | 4 | 1 | 3 | 0 | 13 |
 | 5 | San Lorenzo | 8 | 3 | 3 | 2 | 0 | 12 |
@@ -432,7 +432,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 21 | 14 | 5 | 2 | 35 | 47 |
-| 2 | Palmeiras | 21 | 14 | 4 | 3 | 13 | 46 |
+| 2 | Palmeiras | 21 | 14 | 4 | 3 | 16 | 46 |
 | 3 | Cruzeiro | 22 | 13 | 5 | 4 | 20 | 44 |
 | 4 | Mirassol | 21 | 10 | 8 | 3 | 16 | 38 |
 | 5 | Bahia | 20 | 10 | 6 | 4 | 6 | 36 |
@@ -440,7 +440,7 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | São Paulo | 22 | 8 | 8 | 6 | 3 | 32 |
 | 8 | RB Bragantino | 22 | 9 | 3 | 10 | -5 | 30 |
 | 9 | Fluminense | 20 | 8 | 4 | 8 | -3 | 28 |
-| 10 | Internacional | 22 | 7 | 6 | 9 | -5 | 27 |
+| 10 | Internacional | 22 | 7 | 6 | 9 | -8 | 27 |
 | 11 | Ceará | 21 | 7 | 5 | 9 | -1 | 26 |
 | 12 | Corinthians | 22 | 6 | 8 | 8 | -5 | 26 |
 | 13 | Grêmio | 22 | 6 | 7 | 9 | -7 | 25 |

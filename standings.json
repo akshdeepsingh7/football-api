@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 September 2025, 09:37 PM UTC",
-        "IST": "Sunday, 14 September 2025, 03:07 AM IST"
+        "UTC": "Saturday, 13 September 2025, 10:15 PM UTC",
+        "IST": "Sunday, 14 September 2025, 03:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2982,11 +2982,11 @@
             {
                 "Position": "7",
                 "Team": "Estudiantes",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "4",
                 "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "0",
+                "Losses": "4",
+                "Goal Difference": "-1",
                 "Points": "12"
             },
             {
@@ -3071,6 +3071,16 @@
             },
             {
                 "Position": "1",
+                "Team": "River Plate",
+                "Played": "8",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "0",
+                "Goal Difference": "11",
+                "Points": "18"
+            },
+            {
+                "Position": "2",
                 "Team": "Riestra",
                 "Played": "8",
                 "Wins": "5",
@@ -3078,16 +3088,6 @@
                 "Losses": "2",
                 "Goal Difference": "6",
                 "Points": "16"
-            },
-            {
-                "Position": "2",
-                "Team": "River Plate",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "0",
-                "Goal Difference": "10",
-                "Points": "15"
             },
             {
                 "Position": "3",
@@ -3238,7 +3238,7 @@
                 "Wins": "14",
                 "Draws": "4",
                 "Losses": "3",
-                "Goal Difference": "13",
+                "Goal Difference": "16",
                 "Points": "46"
             },
             {
@@ -3318,7 +3318,7 @@
                 "Wins": "7",
                 "Draws": "6",
                 "Losses": "9",
-                "Goal Difference": "-5",
+                "Goal Difference": "-8",
                 "Points": "27"
             },
             {
