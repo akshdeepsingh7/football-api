@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 September 2025, 08:37 PM UTC (Monday, 15 September 2025, 02:07 AM IST)
+**Last Updated:** Sunday, 14 September 2025, 09:15 PM UTC (Monday, 15 September 2025, 02:45 AM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 4 | 4 | 0 | 0 | 6 | 12 |
-| 2 | Barcelona | 4 | 3 | 1 | 0 | 9 | 10 |
+| 2 | Barcelona | 4 | 3 | 1 | 0 | 10 | 10 |
 | 3 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
 | 4 | Athletic Bilbao | 4 | 3 | 0 | 1 | 2 | 9 |
 | 5 | Villarreal | 4 | 2 | 1 | 1 | 5 | 7 |
@@ -86,7 +86,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Sevilla | 4 | 1 | 1 | 2 | 0 | 4 |
 | 13 | Rayo Vallecano | 4 | 1 | 1 | 2 | -1 | 4 |
 | 14 | Celta de Vigo | 5 | 0 | 4 | 1 | -2 | 4 |
-| 15 | Valencia | 4 | 1 | 1 | 2 | -3 | 4 |
+| 15 | Valencia | 4 | 1 | 1 | 2 | -4 | 4 |
 | 16 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
 | 17 | Real Sociedad | 4 | 0 | 2 | 2 | -2 | 2 |
 | 18 | Levante | 4 | 0 | 1 | 3 | -4 | 1 |
@@ -147,10 +147,10 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 4 | 4 | 0 | 0 | 7 | 12 |
 | 2 | Lille | 4 | 3 | 1 | 0 | 8 | 10 |
-| 3 | Lyon | 4 | 3 | 0 | 1 | 4 | 9 |
-| 4 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
+| 3 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
+| 4 | Lyon | 4 | 3 | 0 | 1 | 3 | 9 |
 | 5 | Strasbourg | 4 | 3 | 0 | 1 | 2 | 9 |
-| 6 | Rennes | 4 | 2 | 1 | 1 | -2 | 7 |
+| 6 | Rennes | 4 | 2 | 1 | 1 | -1 | 7 |
 | 7 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
 | 8 | Lens | 4 | 2 | 0 | 2 | 0 | 6 |
 | 9 | Nice | 4 | 2 | 0 | 2 | 0 | 6 |
@@ -431,24 +431,24 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Flamengo | 22 | 15 | 5 | 2 | 36 | 50 |
+| 1 | Flamengo | 22 | 15 | 5 | 2 | 37 | 50 |
 | 2 | Palmeiras | 21 | 14 | 4 | 3 | 15 | 46 |
 | 3 | Cruzeiro | 22 | 13 | 5 | 4 | 20 | 44 |
 | 4 | Mirassol | 21 | 10 | 8 | 3 | 16 | 38 |
-| 5 | Botafogo | 21 | 10 | 6 | 5 | 17 | 36 |
-| 6 | Bahia | 20 | 10 | 6 | 4 | 6 | 36 |
-| 7 | São Paulo | 23 | 8 | 9 | 6 | 3 | 33 |
+| 5 | Bahia | 20 | 10 | 6 | 4 | 6 | 36 |
+| 6 | Botafogo | 21 | 10 | 5 | 6 | 16 | 35 |
+| 7 | São Paulo | 23 | 9 | 8 | 6 | 4 | 35 |
 | 8 | RB Bragantino | 23 | 9 | 4 | 10 | -5 | 31 |
 | 9 | Corinthians | 23 | 7 | 8 | 8 | -4 | 29 |
 | 10 | Fluminense | 21 | 8 | 4 | 9 | -4 | 28 |
-| 11 | Atlético Mineiro | 21 | 7 | 6 | 8 | -3 | 27 |
-| 12 | Internacional | 22 | 7 | 6 | 9 | -7 | 27 |
-| 13 | Ceará | 21 | 7 | 5 | 9 | -1 | 26 |
+| 11 | Internacional | 22 | 7 | 6 | 9 | -7 | 27 |
+| 12 | Ceará | 21 | 7 | 5 | 9 | -1 | 26 |
+| 13 | Atlético Mineiro | 21 | 6 | 7 | 8 | -4 | 25 |
 | 14 | Grêmio | 22 | 6 | 7 | 9 | -7 | 25 |
-| 15 | Vasco da Gama | 21 | 6 | 4 | 11 | -1 | 22 |
-| 16 | Santos | 22 | 6 | 4 | 12 | -12 | 22 |
+| 15 | Santos | 22 | 6 | 5 | 11 | -11 | 23 |
+| 16 | Vasco da Gama | 21 | 6 | 4 | 11 | -1 | 22 |
 | 17 | Vitória | 23 | 4 | 10 | 9 | -15 | 22 |
-| 18 | Juventude | 22 | 6 | 3 | 13 | -23 | 21 |
+| 18 | Juventude | 22 | 6 | 3 | 13 | -24 | 21 |
 | 19 | Fortaleza | 22 | 4 | 6 | 12 | -12 | 18 |
 | 20 | Sport | 21 | 1 | 8 | 12 | -19 | 11 |
 
