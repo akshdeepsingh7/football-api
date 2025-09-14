@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 07:37 PM UTC",
-        "IST": "Monday, 15 September 2025, 01:07 AM IST"
+        "UTC": "Sunday, 14 September 2025, 08:18 PM UTC",
+        "IST": "Monday, 15 September 2025, 01:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -224,7 +224,7 @@
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "5",
+                "Goal Difference": "7",
                 "Points": "10"
             },
             {
@@ -319,22 +319,22 @@
             },
             {
                 "Position": "12",
-                "Team": "Valencia",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "4"
-            },
-            {
-                "Position": "13",
                 "Team": "Sevilla",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "0",
+                "Points": "4"
+            },
+            {
+                "Position": "13",
+                "Team": "Valencia",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-1",
                 "Points": "4"
             },
             {
@@ -633,6 +633,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Milan",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "2",
+                "Points": "6"
+            },
+            {
+                "Position": "6",
                 "Team": "Roma",
                 "Played": "3",
                 "Wins": "2",
@@ -642,7 +652,7 @@
                 "Points": "6"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Atalanta",
                 "Played": "3",
                 "Wins": "1",
@@ -650,16 +660,6 @@
                 "Losses": "0",
                 "Goal Difference": "3",
                 "Points": "5"
-            },
-            {
-                "Position": "7",
-                "Team": "Milan",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "4"
             },
             {
                 "Position": "8",
@@ -673,16 +673,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Bologna",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "4"
-            },
-            {
-                "Position": "10",
                 "Team": "Torino",
                 "Played": "3",
                 "Wins": "1",
@@ -692,7 +682,7 @@
                 "Points": "4"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Como",
                 "Played": "2",
                 "Wins": "1",
@@ -702,7 +692,7 @@
                 "Points": "3"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Inter",
                 "Played": "3",
                 "Wins": "1",
@@ -712,13 +702,23 @@
                 "Points": "3"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Lazio",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "1",
+                "Points": "3"
+            },
+            {
+                "Position": "13",
+                "Team": "Bologna",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-1",
                 "Points": "3"
             },
             {
@@ -3026,7 +3026,7 @@
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "8"
             },
             {
@@ -3176,7 +3176,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "-7",
+                "Goal Difference": "-6",
                 "Points": "9"
             },
             {

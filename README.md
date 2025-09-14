@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 September 2025, 07:37 PM UTC (Monday, 15 September 2025, 01:07 AM IST)
+**Last Updated:** Sunday, 14 September 2025, 08:18 PM UTC (Monday, 15 September 2025, 01:48 AM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 4 | 4 | 0 | 0 | 6 | 12 |
-| 2 | Barcelona | 4 | 3 | 1 | 0 | 5 | 10 |
+| 2 | Barcelona | 4 | 3 | 1 | 0 | 7 | 10 |
 | 3 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
 | 4 | Athletic Bilbao | 4 | 3 | 0 | 1 | 2 | 9 |
 | 5 | Villarreal | 4 | 2 | 1 | 1 | 5 | 7 |
@@ -83,8 +83,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Osasuna | 4 | 2 | 0 | 2 | 1 | 6 |
 | 10 | Real Betis | 5 | 1 | 3 | 1 | 0 | 6 |
 | 11 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
-| 12 | Valencia | 4 | 1 | 1 | 2 | 1 | 4 |
-| 13 | Sevilla | 4 | 1 | 1 | 2 | 0 | 4 |
+| 12 | Sevilla | 4 | 1 | 1 | 2 | 0 | 4 |
+| 13 | Valencia | 4 | 1 | 1 | 2 | -1 | 4 |
 | 14 | Rayo Vallecano | 4 | 1 | 1 | 2 | -1 | 4 |
 | 15 | Celta de Vigo | 5 | 0 | 4 | 1 | -2 | 4 |
 | 16 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
@@ -124,15 +124,15 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Juventus | 3 | 3 | 0 | 0 | 4 | 9 |
 | 3 | Udinese | 3 | 2 | 1 | 0 | 2 | 7 |
 | 4 | Cremonese | 2 | 2 | 0 | 0 | 2 | 6 |
-| 5 | Roma | 3 | 2 | 0 | 1 | 1 | 6 |
-| 6 | Atalanta | 3 | 1 | 2 | 0 | 3 | 5 |
-| 7 | Milan | 3 | 1 | 1 | 1 | 1 | 4 |
+| 5 | Milan | 3 | 2 | 0 | 1 | 2 | 6 |
+| 6 | Roma | 3 | 2 | 0 | 1 | 1 | 6 |
+| 7 | Atalanta | 3 | 1 | 2 | 0 | 3 | 5 |
 | 8 | Cagliari | 3 | 1 | 1 | 1 | 1 | 4 |
-| 9 | Bologna | 3 | 1 | 1 | 1 | 0 | 4 |
-| 10 | Torino | 3 | 1 | 1 | 1 | -4 | 4 |
-| 11 | Como | 2 | 1 | 0 | 1 | 1 | 3 |
-| 12 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
-| 13 | Lazio | 3 | 1 | 0 | 2 | 1 | 3 |
+| 9 | Torino | 3 | 1 | 1 | 1 | -4 | 4 |
+| 10 | Como | 2 | 1 | 0 | 1 | 1 | 3 |
+| 11 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
+| 12 | Lazio | 3 | 1 | 0 | 2 | 1 | 3 |
+| 13 | Bologna | 3 | 1 | 0 | 2 | -1 | 3 |
 | 14 | Sassuolo | 3 | 1 | 0 | 2 | -2 | 3 |
 | 15 | Fiorentina | 3 | 0 | 2 | 1 | -2 | 2 |
 | 16 | Genoa | 2 | 0 | 1 | 1 | -1 | 1 |
@@ -406,7 +406,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Huracán | 8 | 3 | 3 | 2 | -1 | 12 |
 | 9 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
 | 10 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
-| 11 | Argentinos Juniors | 8 | 2 | 2 | 4 | 0 | 8 |
+| 11 | Argentinos Juniors | 8 | 2 | 2 | 4 | -1 | 8 |
 | 12 | Tigre | 7 | 2 | 2 | 3 | -1 | 8 |
 | 13 | Independiente Rivadavia | 8 | 2 | 2 | 4 | -2 | 8 |
 | 14 | Racing Club | 8 | 2 | 1 | 5 | -4 | 7 |
@@ -421,7 +421,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Atl. Tucumán | 8 | 2 | 3 | 3 | 0 | 9 |
 | 9 | Sarmiento | 7 | 2 | 3 | 2 | -2 | 9 |
 | 10 | San Martín SJ | 8 | 2 | 3 | 3 | -2 | 9 |
-| 11 | Instituto | 8 | 2 | 3 | 3 | -7 | 9 |
+| 11 | Instituto | 8 | 2 | 3 | 3 | -6 | 9 |
 | 12 | Godoy Cruz | 8 | 1 | 4 | 3 | -3 | 7 |
 | 13 | Platense | 6 | 1 | 3 | 2 | -3 | 6 |
 | 14 | Talleres | 7 | 1 | 2 | 4 | -5 | 5 |
