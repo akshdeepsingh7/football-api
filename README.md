@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 September 2025, 10:37 AM UTC (Sunday, 14 September 2025, 04:07 PM IST)
+**Last Updated:** Sunday, 14 September 2025, 11:13 AM UTC (Sunday, 14 September 2025, 04:43 PM IST)
 
 ### Premier League
 
@@ -322,14 +322,14 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Coventry City | 5 | 2 | 3 | 0 | 8 | 9 |
 | 7 | Swansea City | 5 | 2 | 2 | 1 | 2 | 8 |
 | 8 | Preston North End | 5 | 2 | 2 | 1 | 1 | 8 |
-| 9 | Norwich City | 5 | 2 | 1 | 2 | 1 | 7 |
-| 10 | Portsmouth | 4 | 2 | 1 | 1 | 1 | 7 |
+| 9 | Portsmouth | 5 | 2 | 2 | 1 | 1 | 8 |
+| 10 | Norwich City | 5 | 2 | 1 | 2 | 1 | 7 |
 | 11 | Birmingham City | 5 | 2 | 1 | 2 | -1 | 7 |
 | 12 | Queens Park Rangers | 5 | 2 | 1 | 2 | -3 | 7 |
 | 13 | Millwall | 5 | 2 | 1 | 2 | -3 | 7 |
 | 14 | Ipswich Town | 5 | 1 | 3 | 1 | 4 | 6 |
-| 15 | Blackburn Rovers | 5 | 2 | 0 | 3 | 0 | 6 |
-| 16 | Southampton | 4 | 1 | 2 | 1 | 0 | 5 |
+| 15 | Southampton | 5 | 1 | 3 | 1 | 0 | 6 |
+| 16 | Blackburn Rovers | 5 | 2 | 0 | 3 | 0 | 6 |
 | 17 | Watford | 5 | 1 | 2 | 2 | -1 | 5 |
 | 18 | Charlton Athletic | 5 | 1 | 2 | 2 | -2 | 5 |
 | 19 | Derby County | 5 | 1 | 2 | 2 | -3 | 5 |

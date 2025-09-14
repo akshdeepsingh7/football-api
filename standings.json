@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 10:37 AM UTC",
-        "IST": "Sunday, 14 September 2025, 04:07 PM IST"
+        "UTC": "Sunday, 14 September 2025, 11:13 AM UTC",
+        "IST": "Sunday, 14 September 2025, 04:43 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2325,21 +2325,21 @@
             },
             {
                 "Position": "9",
+                "Team": "Portsmouth",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "8"
+            },
+            {
+                "Position": "10",
                 "Team": "Norwich City",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "7"
-            },
-            {
-                "Position": "10",
-                "Team": "Portsmouth",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "1",
                 "Goal Difference": "1",
                 "Points": "7"
             },
@@ -2385,6 +2385,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Southampton",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "6"
+            },
+            {
+                "Position": "16",
                 "Team": "Blackburn Rovers",
                 "Played": "5",
                 "Wins": "2",
@@ -2392,16 +2402,6 @@
                 "Losses": "3",
                 "Goal Difference": "0",
                 "Points": "6"
-            },
-            {
-                "Position": "16",
-                "Team": "Southampton",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "5"
             },
             {
                 "Position": "17",
