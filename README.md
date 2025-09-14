@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 September 2025, 11:16 PM UTC (Monday, 15 September 2025, 04:46 AM IST)
+**Last Updated:** Sunday, 14 September 2025, 11:37 PM UTC (Monday, 15 September 2025, 05:07 AM IST)
 
 ### Premier League
 
@@ -397,10 +397,10 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Unión | 8 | 4 | 3 | 1 | 7 | 15 |
-| 2 | Barracas | 8 | 4 | 3 | 1 | 3 | 15 |
-| 3 | Boca Juniors | 8 | 3 | 4 | 1 | 6 | 13 |
-| 4 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
-| 5 | Def y Justicia | 8 | 3 | 4 | 1 | 3 | 13 |
+| 2 | Def y Justicia | 8 | 4 | 3 | 1 | 4 | 15 |
+| 3 | Barracas | 8 | 4 | 3 | 1 | 3 | 15 |
+| 4 | Boca Juniors | 8 | 3 | 4 | 1 | 6 | 13 |
+| 5 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
 | 6 | Banfield | 8 | 4 | 1 | 3 | -1 | 13 |
 | 7 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
 | 8 | Huracán | 8 | 3 | 3 | 2 | -1 | 12 |
@@ -423,7 +423,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | San Martín SJ | 8 | 2 | 3 | 3 | -2 | 9 |
 | 11 | Instituto | 8 | 2 | 3 | 3 | -6 | 9 |
 | 12 | Godoy Cruz | 8 | 1 | 4 | 3 | -3 | 7 |
-| 13 | Platense | 7 | 1 | 4 | 2 | -3 | 7 |
+| 13 | Platense | 7 | 1 | 3 | 3 | -4 | 6 |
 | 14 | Talleres | 8 | 1 | 3 | 4 | -5 | 6 |
 | 15 | Independiente | 7 | 0 | 3 | 4 | -4 | 3 |
 
