@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 05:14 PM UTC",
-        "IST": "Sunday, 14 September 2025, 10:44 PM IST"
+        "UTC": "Sunday, 14 September 2025, 05:36 PM UTC",
+        "IST": "Sunday, 14 September 2025, 11:06 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -653,16 +653,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Lazio",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "4"
-            },
-            {
-                "Position": "8",
                 "Team": "Cagliari",
                 "Played": "3",
                 "Wins": "1",
@@ -672,7 +662,7 @@
                 "Points": "4"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Torino",
                 "Played": "3",
                 "Wins": "1",
@@ -682,7 +672,7 @@
                 "Points": "4"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Milan",
                 "Played": "2",
                 "Wins": "1",
@@ -692,7 +682,7 @@
                 "Points": "3"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Como",
                 "Played": "2",
                 "Wins": "1",
@@ -702,7 +692,7 @@
                 "Points": "3"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Bologna",
                 "Played": "2",
                 "Wins": "1",
@@ -712,7 +702,7 @@
                 "Points": "3"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Inter",
                 "Played": "3",
                 "Wins": "1",
@@ -722,7 +712,27 @@
                 "Points": "3"
             },
             {
+                "Position": "13",
+                "Team": "Lazio",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "3"
+            },
+            {
                 "Position": "14",
+                "Team": "Sassuolo",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "3"
+            },
+            {
+                "Position": "15",
                 "Team": "Fiorentina",
                 "Played": "3",
                 "Wins": "0",
@@ -732,7 +742,7 @@
                 "Points": "2"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Genoa",
                 "Played": "2",
                 "Wins": "0",
@@ -742,7 +752,7 @@
                 "Points": "1"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Hellas Verona",
                 "Played": "2",
                 "Wins": "0",
@@ -752,23 +762,13 @@
                 "Points": "1"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Pisa",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "-2",
-                "Points": "1"
-            },
-            {
-                "Position": "18",
-                "Team": "Sassuolo",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-3",
                 "Points": "1"
             },
             {
