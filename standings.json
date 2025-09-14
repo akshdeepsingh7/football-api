@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 03:37 PM UTC",
-        "IST": "Sunday, 14 September 2025, 09:07 PM IST"
+        "UTC": "Sunday, 14 September 2025, 04:19 PM UTC",
+        "IST": "Sunday, 14 September 2025, 09:49 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -87,13 +87,13 @@
             },
             {
                 "Position": "9",
-                "Team": "Manchester United",
+                "Team": "Manchester City",
                 "Played": "4",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "5"
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "6"
             },
             {
                 "Position": "10",
@@ -117,12 +117,12 @@
             },
             {
                 "Position": "12",
-                "Team": "Manchester City",
+                "Team": "Manchester United",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "1",
+                "Goal Difference": "-1",
                 "Points": "4"
             },
             {
@@ -289,22 +289,22 @@
             },
             {
                 "Position": "9",
+                "Team": "Real Betis",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "6"
+            },
+            {
+                "Position": "10",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "1",
-                "Points": "5"
-            },
-            {
-                "Position": "10",
-                "Team": "Real Betis",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-1",
                 "Points": "5"
             },
             {
@@ -359,16 +359,6 @@
             },
             {
                 "Position": "16",
-                "Team": "Levante",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "3"
-            },
-            {
-                "Position": "17",
                 "Team": "Real Oviedo",
                 "Played": "4",
                 "Wins": "1",
@@ -378,7 +368,7 @@
                 "Points": "3"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Real Sociedad",
                 "Played": "4",
                 "Wins": "0",
@@ -386,6 +376,16 @@
                 "Losses": "2",
                 "Goal Difference": "-2",
                 "Points": "2"
+            },
+            {
+                "Position": "18",
+                "Team": "Levante",
+                "Played": "4",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-4",
+                "Points": "1"
             },
             {
                 "Position": "19",
@@ -501,6 +501,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Werder Bremen",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "4"
+            },
+            {
+                "Position": "11",
                 "Team": "Augsburg",
                 "Played": "3",
                 "Wins": "1",
@@ -510,7 +520,7 @@
                 "Points": "3"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "VfB Stuttgart",
                 "Played": "3",
                 "Wins": "1",
@@ -520,7 +530,7 @@
                 "Points": "3"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "SC Freiburg",
                 "Played": "3",
                 "Wins": "1",
@@ -530,7 +540,7 @@
                 "Points": "3"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Union Berlin",
                 "Played": "3",
                 "Wins": "1",
@@ -540,33 +550,23 @@
                 "Points": "3"
             },
             {
-                "Position": "14",
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "2"
-            },
-            {
                 "Position": "15",
-                "Team": "Werder Bremen",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "-3",
-                "Points": "2"
-            },
-            {
-                "Position": "16",
                 "Team": "Mainz 05",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "-2",
+                "Points": "1"
+            },
+            {
+                "Position": "16",
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-3",
                 "Points": "1"
             },
             {
@@ -653,6 +653,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Lazio",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "2",
+                "Points": "4"
+            },
+            {
+                "Position": "8",
                 "Team": "Cagliari",
                 "Played": "3",
                 "Wins": "1",
@@ -662,7 +672,7 @@
                 "Points": "4"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Torino",
                 "Played": "3",
                 "Wins": "1",
@@ -670,16 +680,6 @@
                 "Losses": "1",
                 "Goal Difference": "-4",
                 "Points": "4"
-            },
-            {
-                "Position": "9",
-                "Team": "Lazio",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "3"
             },
             {
                 "Position": "10",
@@ -763,6 +763,16 @@
             },
             {
                 "Position": "18",
+                "Team": "Sassuolo",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "1"
+            },
+            {
+                "Position": "19",
                 "Team": "Parma",
                 "Played": "3",
                 "Wins": "0",
@@ -772,7 +782,7 @@
                 "Points": "1"
             },
             {
-                "Position": "19",
+                "Position": "20",
                 "Team": "Lecce",
                 "Played": "3",
                 "Wins": "0",
@@ -780,16 +790,6 @@
                 "Losses": "2",
                 "Goal Difference": "-5",
                 "Points": "1"
-            },
-            {
-                "Position": "20",
-                "Team": "Sassuolo",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "0"
             }
         ],
         "Ligue 1": [
@@ -875,7 +875,7 @@
             },
             {
                 "Position": "9",
-                "Team": "Toulouse",
+                "Team": "Paris",
                 "Played": "4",
                 "Wins": "2",
                 "Draws": "0",
@@ -885,12 +885,12 @@
             },
             {
                 "Position": "10",
-                "Team": "Paris",
+                "Team": "Toulouse",
                 "Played": "4",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "6"
             },
             {
@@ -970,7 +970,7 @@
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "1"
             }
         ],
@@ -3283,16 +3283,6 @@
             },
             {
                 "Position": "7",
-                "Team": "RB Bragantino",
-                "Played": "23",
-                "Wins": "10",
-                "Draws": "3",
-                "Losses": "10",
-                "Goal Difference": "-4",
-                "Points": "33"
-            },
-            {
-                "Position": "8",
                 "Team": "S\u00e3o Paulo",
                 "Played": "22",
                 "Wins": "8",
@@ -3300,6 +3290,16 @@
                 "Losses": "6",
                 "Goal Difference": "3",
                 "Points": "32"
+            },
+            {
+                "Position": "8",
+                "Team": "RB Bragantino",
+                "Played": "23",
+                "Wins": "9",
+                "Draws": "4",
+                "Losses": "10",
+                "Goal Difference": "-5",
+                "Points": "31"
             },
             {
                 "Position": "9",
@@ -3416,10 +3416,10 @@
                 "Team": "Sport",
                 "Played": "21",
                 "Wins": "1",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "-20",
-                "Points": "10"
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-19",
+                "Points": "11"
             }
         ]
     }
