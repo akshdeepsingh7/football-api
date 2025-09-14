@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 September 2025, 10:16 AM UTC (Sunday, 14 September 2025, 03:46 PM IST)
+**Last Updated:** Sunday, 14 September 2025, 10:37 AM UTC (Sunday, 14 September 2025, 04:07 PM IST)
 
 ### Premier League
 
@@ -122,8 +122,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Napoli | 3 | 3 | 0 | 0 | 5 | 9 |
 | 2 | Juventus | 3 | 3 | 0 | 0 | 4 | 9 |
-| 3 | Cremonese | 2 | 2 | 0 | 0 | 2 | 6 |
-| 4 | Roma | 2 | 2 | 0 | 0 | 2 | 6 |
+| 3 | Roma | 3 | 2 | 1 | 0 | 2 | 7 |
+| 4 | Cremonese | 2 | 2 | 0 | 0 | 2 | 6 |
 | 5 | Udinese | 2 | 1 | 1 | 0 | 1 | 4 |
 | 6 | Cagliari | 3 | 1 | 1 | 1 | 1 | 4 |
 | 7 | Lazio | 2 | 1 | 0 | 1 | 2 | 3 |
@@ -133,11 +133,11 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
 | 12 | Atalanta | 2 | 0 | 2 | 0 | 0 | 2 |
 | 13 | Fiorentina | 3 | 0 | 2 | 1 | -2 | 2 |
-| 14 | Pisa | 2 | 0 | 1 | 1 | -1 | 1 |
-| 15 | Genoa | 2 | 0 | 1 | 1 | -1 | 1 |
-| 16 | Lecce | 2 | 0 | 1 | 1 | -2 | 1 |
-| 17 | Hellas Verona | 2 | 0 | 1 | 1 | -4 | 1 |
-| 18 | Torino | 2 | 0 | 1 | 1 | -5 | 1 |
+| 14 | Torino | 3 | 0 | 2 | 1 | -5 | 2 |
+| 15 | Pisa | 2 | 0 | 1 | 1 | -1 | 1 |
+| 16 | Genoa | 2 | 0 | 1 | 1 | -1 | 1 |
+| 17 | Lecce | 2 | 0 | 1 | 1 | -2 | 1 |
+| 18 | Hellas Verona | 2 | 0 | 1 | 1 | -4 | 1 |
 | 19 | Parma | 3 | 0 | 1 | 2 | -4 | 1 |
 | 20 | Sassuolo | 2 | 0 | 0 | 2 | -3 | 0 |
 

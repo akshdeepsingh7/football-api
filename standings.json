@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 10:16 AM UTC",
-        "IST": "Sunday, 14 September 2025, 03:46 PM IST"
+        "UTC": "Sunday, 14 September 2025, 10:37 AM UTC",
+        "IST": "Sunday, 14 September 2025, 04:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -613,17 +613,17 @@
             },
             {
                 "Position": "3",
-                "Team": "Cremonese",
-                "Played": "2",
+                "Team": "Roma",
+                "Played": "3",
                 "Wins": "2",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "2",
-                "Points": "6"
+                "Points": "7"
             },
             {
                 "Position": "4",
-                "Team": "Roma",
+                "Team": "Cremonese",
                 "Played": "2",
                 "Wins": "2",
                 "Draws": "0",
@@ -723,6 +723,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Torino",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "-5",
+                "Points": "2"
+            },
+            {
+                "Position": "15",
                 "Team": "Pisa",
                 "Played": "2",
                 "Wins": "0",
@@ -732,7 +742,7 @@
                 "Points": "1"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Genoa",
                 "Played": "2",
                 "Wins": "0",
@@ -742,7 +752,7 @@
                 "Points": "1"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Lecce",
                 "Played": "2",
                 "Wins": "0",
@@ -752,23 +762,13 @@
                 "Points": "1"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Hellas Verona",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "-4",
-                "Points": "1"
-            },
-            {
-                "Position": "18",
-                "Team": "Torino",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-5",
                 "Points": "1"
             },
             {
