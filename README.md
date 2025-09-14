@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 September 2025, 11:37 AM UTC (Sunday, 14 September 2025, 05:07 PM IST)
+**Last Updated:** Sunday, 14 September 2025, 12:34 PM UTC (Sunday, 14 September 2025, 06:04 PM IST)
 
 ### Premier League
 
@@ -86,12 +86,12 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Rayo Vallecano | 3 | 1 | 1 | 1 | 1 | 4 |
 | 13 | Sevilla | 4 | 1 | 1 | 2 | 0 | 4 |
 | 14 | Osasuna | 3 | 1 | 0 | 2 | -1 | 3 |
-| 15 | Celta de Vigo | 4 | 0 | 3 | 1 | -2 | 3 |
+| 15 | Celta de Vigo | 5 | 0 | 3 | 2 | -3 | 3 |
 | 16 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
-| 17 | Real Sociedad | 4 | 0 | 2 | 2 | -2 | 2 |
-| 18 | Mallorca | 3 | 0 | 1 | 2 | -4 | 1 |
-| 19 | Levante | 3 | 0 | 0 | 3 | -4 | 0 |
-| 20 | Girona | 3 | 0 | 0 | 3 | -9 | 0 |
+| 17 | Girona | 4 | 1 | 0 | 3 | -8 | 3 |
+| 18 | Real Sociedad | 4 | 0 | 2 | 2 | -2 | 2 |
+| 19 | Mallorca | 3 | 0 | 1 | 2 | -4 | 1 |
+| 20 | Levante | 3 | 0 | 0 | 3 | -4 | 0 |
 
 ### Bundesliga
 
@@ -122,18 +122,18 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Napoli | 3 | 3 | 0 | 0 | 5 | 9 |
 | 2 | Juventus | 3 | 3 | 0 | 0 | 4 | 9 |
-| 3 | Roma | 3 | 2 | 1 | 0 | 2 | 7 |
-| 4 | Cremonese | 2 | 2 | 0 | 0 | 2 | 6 |
+| 3 | Cremonese | 2 | 2 | 0 | 0 | 2 | 6 |
+| 4 | Roma | 3 | 2 | 0 | 1 | 1 | 6 |
 | 5 | Udinese | 2 | 1 | 1 | 0 | 1 | 4 |
 | 6 | Cagliari | 3 | 1 | 1 | 1 | 1 | 4 |
-| 7 | Lazio | 2 | 1 | 0 | 1 | 2 | 3 |
-| 8 | Milan | 2 | 1 | 0 | 1 | 1 | 3 |
-| 9 | Como | 2 | 1 | 0 | 1 | 1 | 3 |
-| 10 | Bologna | 2 | 1 | 0 | 1 | 0 | 3 |
-| 11 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
-| 12 | Atalanta | 2 | 0 | 2 | 0 | 0 | 2 |
-| 13 | Fiorentina | 3 | 0 | 2 | 1 | -2 | 2 |
-| 14 | Torino | 3 | 0 | 2 | 1 | -5 | 2 |
+| 7 | Torino | 3 | 1 | 1 | 1 | -4 | 4 |
+| 8 | Lazio | 2 | 1 | 0 | 1 | 2 | 3 |
+| 9 | Milan | 2 | 1 | 0 | 1 | 1 | 3 |
+| 10 | Como | 2 | 1 | 0 | 1 | 1 | 3 |
+| 11 | Bologna | 2 | 1 | 0 | 1 | 0 | 3 |
+| 12 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
+| 13 | Atalanta | 2 | 0 | 2 | 0 | 0 | 2 |
+| 14 | Fiorentina | 3 | 0 | 2 | 1 | -2 | 2 |
 | 15 | Pisa | 2 | 0 | 1 | 1 | -1 | 1 |
 | 16 | Genoa | 2 | 0 | 1 | 1 | -1 | 1 |
 | 17 | Lecce | 2 | 0 | 1 | 1 | -2 | 1 |
