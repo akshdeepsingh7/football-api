@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 September 2025, 03:02 AM UTC (Sunday, 14 September 2025, 08:32 AM IST)
+**Last Updated:** Sunday, 14 September 2025, 03:46 AM UTC (Sunday, 14 September 2025, 09:16 AM IST)
 
 ### Premier League
 
@@ -343,7 +343,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Philadelphia Union | 30 | 17 | 6 | 7 | 19 | 57 |
+| 1 | Philadelphia Union | 30 | 17 | 6 | 7 | 16 | 57 |
 | 2 | Cincinnati | 30 | 17 | 4 | 9 | 7 | 55 |
 | 3 | Charlotte | 30 | 17 | 2 | 11 | 11 | 53 |
 | 4 | Nashville | 30 | 15 | 5 | 10 | 15 | 50 |
@@ -352,25 +352,25 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | NYCFC | 28 | 14 | 5 | 9 | 8 | 47 |
 | 8 | Inter Miami | 26 | 13 | 7 | 6 | 11 | 46 |
 | 9 | Chicago Fire | 29 | 12 | 6 | 11 | 1 | 42 |
-| 10 | New York RB | 30 | 11 | 8 | 11 | 4 | 41 |
+| 10 | New York RB | 30 | 11 | 7 | 12 | 3 | 40 |
 | 11 | New England Revolution | 30 | 8 | 8 | 14 | -5 | 32 |
 | 12 | Toronto | 29 | 5 | 11 | 13 | -7 | 26 |
 | 13 | Atlanta United | 29 | 5 | 11 | 13 | -18 | 26 |
 | 14 | DC United | 30 | 5 | 10 | 15 | -28 | 25 |
 | 15 | CF Montréal | 30 | 5 | 9 | 16 | -24 | 24 |
 | 1 | San Diego | 30 | 17 | 6 | 7 | 20 | 57 |
-| 2 | Vancouver Whitecaps | 28 | 15 | 7 | 6 | 20 | 52 |
+| 2 | Vancouver Whitecaps | 28 | 15 | 7 | 6 | 23 | 52 |
 | 3 | Minnesota United | 30 | 14 | 10 | 6 | 16 | 52 |
 | 4 | Seattle Sounders | 28 | 12 | 9 | 7 | 10 | 45 |
 | 5 | LAFC | 27 | 12 | 8 | 7 | 14 | 44 |
-| 6 | Austin | 29 | 11 | 8 | 10 | -5 | 41 |
-| 7 | Portland Timbers | 29 | 10 | 10 | 9 | -2 | 40 |
+| 6 | Portland Timbers | 29 | 11 | 9 | 9 | -1 | 42 |
+| 7 | Austin | 29 | 11 | 8 | 10 | -5 | 41 |
 | 8 | Colorado Rapids | 30 | 11 | 6 | 13 | -9 | 39 |
 | 9 | San Jose Earthquakes | 30 | 9 | 8 | 13 | 0 | 35 |
-| 10 | Real Salt Lake | 28 | 10 | 4 | 14 | -6 | 34 |
+| 10 | Real Salt Lake | 28 | 10 | 4 | 14 | -7 | 34 |
 | 11 | Dallas | 29 | 8 | 10 | 11 | -6 | 34 |
 | 12 | Houston Dynamo | 30 | 8 | 9 | 13 | -10 | 33 |
-| 13 | Sporting KC | 30 | 7 | 6 | 17 | -17 | 27 |
+| 13 | Sporting KC | 30 | 7 | 6 | 17 | -16 | 27 |
 | 14 | St. Louis City | 30 | 6 | 7 | 17 | -15 | 25 |
 | 15 | LA Galaxy | 29 | 4 | 9 | 16 | -23 | 21 |
 
