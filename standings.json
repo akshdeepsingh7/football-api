@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 07:13 PM UTC",
-        "IST": "Monday, 15 September 2025, 12:43 AM IST"
+        "UTC": "Sunday, 14 September 2025, 07:37 PM UTC",
+        "IST": "Monday, 15 September 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -219,6 +219,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Barcelona",
+                "Played": "4",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "5",
+                "Points": "10"
+            },
+            {
+                "Position": "3",
                 "Team": "Getafe",
                 "Played": "4",
                 "Wins": "3",
@@ -228,7 +238,7 @@
                 "Points": "9"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Athletic Bilbao",
                 "Played": "4",
                 "Wins": "3",
@@ -236,16 +246,6 @@
                 "Losses": "1",
                 "Goal Difference": "2",
                 "Points": "9"
-            },
-            {
-                "Position": "4",
-                "Team": "Barcelona",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "4",
-                "Points": "8"
             },
             {
                 "Position": "5",
@@ -309,16 +309,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Valencia",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "5"
-            },
-            {
-                "Position": "12",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "4",
                 "Wins": "1",
@@ -326,6 +316,16 @@
                 "Losses": "1",
                 "Goal Difference": "1",
                 "Points": "5"
+            },
+            {
+                "Position": "12",
+                "Team": "Valencia",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "4"
             },
             {
                 "Position": "13",
@@ -2114,22 +2114,22 @@
             {
                 "Position": "6",
                 "Team": "Braga",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "0",
                 "Goal Difference": "6",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "7",
                 "Team": "Gil Vicente",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "2",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "2",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "8",
@@ -2921,6 +2921,16 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
+                "Team": "Uni\u00f3n",
+                "Played": "8",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "7",
+                "Points": "15"
+            },
+            {
+                "Position": "2",
                 "Team": "Barracas",
                 "Played": "8",
                 "Wins": "4",
@@ -2928,16 +2938,6 @@
                 "Losses": "1",
                 "Goal Difference": "3",
                 "Points": "15"
-            },
-            {
-                "Position": "2",
-                "Team": "Uni\u00f3n",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "5",
-                "Points": "13"
             },
             {
                 "Position": "3",
@@ -3121,22 +3121,22 @@
             },
             {
                 "Position": "6",
-                "Team": "GELP",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "0",
-                "Points": "11"
-            },
-            {
-                "Position": "7",
                 "Team": "Rosario",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "0",
                 "Goal Difference": "2",
+                "Points": "10"
+            },
+            {
+                "Position": "7",
+                "Team": "GELP",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-2",
                 "Points": "10"
             },
             {
@@ -3225,11 +3225,11 @@
                 "Position": "1",
                 "Team": "Flamengo",
                 "Played": "22",
-                "Wins": "14",
-                "Draws": "6",
+                "Wins": "15",
+                "Draws": "5",
                 "Losses": "2",
-                "Goal Difference": "35",
-                "Points": "48"
+                "Goal Difference": "36",
+                "Points": "50"
             },
             {
                 "Position": "2",
@@ -3383,16 +3383,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Juventude",
-                "Played": "22",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-22",
-                "Points": "22"
-            },
-            {
-                "Position": "18",
                 "Team": "Vit\u00f3ria",
                 "Played": "23",
                 "Wins": "4",
@@ -3400,6 +3390,16 @@
                 "Losses": "9",
                 "Goal Difference": "-15",
                 "Points": "22"
+            },
+            {
+                "Position": "18",
+                "Team": "Juventude",
+                "Played": "22",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "13",
+                "Goal Difference": "-23",
+                "Points": "21"
             },
             {
                 "Position": "19",
