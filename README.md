@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 September 2025, 02:15 PM UTC (Sunday, 14 September 2025, 07:45 PM IST)
+**Last Updated:** Sunday, 14 September 2025, 02:37 PM UTC (Sunday, 14 September 2025, 08:07 PM IST)
 
 ### Premier League
 
@@ -81,17 +81,17 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Alavés | 4 | 2 | 1 | 1 | 1 | 7 |
 | 8 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
 | 9 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
-| 10 | Real Betis | 4 | 1 | 2 | 1 | 0 | 5 |
+| 10 | Real Betis | 5 | 1 | 2 | 2 | -2 | 5 |
 | 11 | Valencia | 3 | 1 | 1 | 1 | 2 | 4 |
 | 12 | Rayo Vallecano | 3 | 1 | 1 | 1 | 1 | 4 |
 | 13 | Sevilla | 4 | 1 | 1 | 2 | 0 | 4 |
 | 14 | Celta de Vigo | 5 | 0 | 4 | 1 | -2 | 4 |
 | 15 | Osasuna | 3 | 1 | 0 | 2 | -1 | 3 |
-| 16 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
-| 17 | Real Sociedad | 4 | 0 | 2 | 2 | -2 | 2 |
-| 18 | Mallorca | 3 | 0 | 1 | 2 | -4 | 1 |
-| 19 | Girona | 4 | 0 | 1 | 3 | -9 | 1 |
-| 20 | Levante | 3 | 0 | 0 | 3 | -4 | 0 |
+| 16 | Levante | 4 | 1 | 0 | 3 | -2 | 3 |
+| 17 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
+| 18 | Real Sociedad | 4 | 0 | 2 | 2 | -2 | 2 |
+| 19 | Mallorca | 3 | 0 | 1 | 2 | -4 | 1 |
+| 20 | Girona | 4 | 0 | 1 | 3 | -9 | 1 |
 
 ### Bundesliga
 
@@ -101,12 +101,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
 | 3 | Köln | 3 | 2 | 1 | 0 | 4 | 7 |
 | 4 | Eintracht Frankfurt | 3 | 2 | 0 | 1 | 3 | 6 |
-| 5 | Augsburg | 3 | 2 | 0 | 1 | 2 | 6 |
-| 6 | Hoffenheim | 3 | 2 | 0 | 1 | 1 | 6 |
-| 7 | RB Leipzig | 3 | 2 | 0 | 1 | -3 | 6 |
-| 8 | VfL Wolfsburg | 3 | 1 | 2 | 0 | 2 | 5 |
+| 5 | Hoffenheim | 3 | 2 | 0 | 1 | 1 | 6 |
+| 6 | RB Leipzig | 3 | 2 | 0 | 1 | -3 | 6 |
+| 7 | VfL Wolfsburg | 3 | 1 | 2 | 0 | 2 | 5 |
+| 8 | St. Pauli | 3 | 1 | 2 | 0 | 2 | 5 |
 | 9 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 1 | 4 |
-| 10 | St. Pauli | 3 | 1 | 1 | 1 | 1 | 4 |
+| 10 | Augsburg | 3 | 1 | 1 | 1 | 1 | 4 |
 | 11 | VfB Stuttgart | 3 | 1 | 0 | 2 | -2 | 3 |
 | 12 | SC Freiburg | 3 | 1 | 0 | 2 | -3 | 3 |
 | 13 | Union Berlin | 3 | 1 | 0 | 2 | -4 | 3 |
@@ -125,7 +125,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Udinese | 3 | 2 | 1 | 0 | 2 | 7 |
 | 4 | Cremonese | 2 | 2 | 0 | 0 | 2 | 6 |
 | 5 | Roma | 3 | 2 | 0 | 1 | 1 | 6 |
-| 6 | Atalanta | 3 | 1 | 2 | 0 | 2 | 5 |
+| 6 | Atalanta | 3 | 1 | 2 | 0 | 4 | 5 |
 | 7 | Cagliari | 3 | 1 | 1 | 1 | 1 | 4 |
 | 8 | Torino | 3 | 1 | 1 | 1 | -4 | 4 |
 | 9 | Lazio | 2 | 1 | 0 | 1 | 2 | 3 |
@@ -138,7 +138,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Hellas Verona | 2 | 0 | 1 | 1 | -4 | 1 |
 | 17 | Pisa | 3 | 0 | 1 | 2 | -2 | 1 |
 | 18 | Parma | 3 | 0 | 1 | 2 | -4 | 1 |
-| 19 | Lecce | 3 | 0 | 1 | 2 | -4 | 1 |
+| 19 | Lecce | 3 | 0 | 1 | 2 | -6 | 1 |
 | 20 | Sassuolo | 2 | 0 | 0 | 2 | -3 | 0 |
 
 ### Ligue 1
@@ -298,13 +298,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Famalicão | 5 | 3 | 1 | 1 | 4 | 10 |
 | 6 | Braga | 4 | 2 | 2 | 0 | 6 | 8 |
 | 7 | Gil Vicente | 4 | 2 | 1 | 1 | 2 | 7 |
-| 8 | Santa Clara | 5 | 1 | 2 | 2 | -3 | 5 |
-| 9 | Estoril | 5 | 1 | 2 | 2 | 0 | 5 |
+| 8 | Vitória S.C. | 5 | 1 | 2 | 2 | -4 | 5 |
+| 9 | Santa Clara | 5 | 1 | 2 | 2 | -3 | 5 |
 | 10 | Arouca | 4 | 1 | 2 | 1 | -4 | 5 |
-| 11 | Alverca | 5 | 1 | 1 | 3 | -4 | 4 |
-| 12 | Nacional | 5 | 1 | 1 | 3 | -4 | 4 |
-| 13 | Vitória S.C. | 4 | 1 | 1 | 2 | -4 | 4 |
-| 14 | Estrela Amadora | 4 | 0 | 3 | 1 | -1 | 3 |
+| 11 | Estoril | 5 | 1 | 2 | 2 | 0 | 5 |
+| 12 | Estrela Amadora | 5 | 0 | 4 | 1 | -1 | 4 |
+| 13 | Alverca | 5 | 1 | 1 | 3 | -4 | 4 |
+| 14 | Nacional | 5 | 1 | 1 | 3 | -4 | 4 |
 | 15 | Rio Ave | 4 | 0 | 3 | 1 | -2 | 3 |
 | 16 | Casa Pia | 4 | 1 | 0 | 3 | -6 | 3 |
 | 17 | AVS | 5 | 0 | 1 | 4 | -7 | 1 |
