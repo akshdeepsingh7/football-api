@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 September 2025, 01:37 AM UTC (Sunday, 14 September 2025, 07:07 AM IST)
+**Last Updated:** Sunday, 14 September 2025, 03:02 AM UTC (Sunday, 14 September 2025, 08:32 AM IST)
 
 ### Premier League
 
@@ -343,36 +343,36 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Philadelphia Union | 30 | 17 | 7 | 6 | 23 | 58 |
+| 1 | Philadelphia Union | 30 | 17 | 6 | 7 | 19 | 57 |
 | 2 | Cincinnati | 30 | 17 | 4 | 9 | 7 | 55 |
 | 3 | Charlotte | 30 | 17 | 2 | 11 | 11 | 53 |
 | 4 | Nashville | 30 | 15 | 5 | 10 | 15 | 50 |
 | 5 | Columbus Crew | 29 | 13 | 10 | 6 | 5 | 49 |
 | 6 | Orlando City | 29 | 13 | 9 | 7 | 14 | 48 |
-| 7 | Inter Miami | 26 | 13 | 7 | 6 | 11 | 46 |
-| 8 | NYCFC | 28 | 13 | 6 | 9 | 6 | 45 |
-| 9 | Chicago Fire | 29 | 12 | 7 | 10 | 3 | 43 |
-| 10 | New York RB | 29 | 11 | 7 | 11 | 4 | 40 |
+| 7 | NYCFC | 28 | 14 | 5 | 9 | 8 | 47 |
+| 8 | Inter Miami | 26 | 13 | 7 | 6 | 11 | 46 |
+| 9 | Chicago Fire | 29 | 12 | 6 | 11 | 1 | 42 |
+| 10 | New York RB | 30 | 11 | 8 | 11 | 4 | 41 |
 | 11 | New England Revolution | 30 | 8 | 8 | 14 | -5 | 32 |
 | 12 | Toronto | 29 | 5 | 11 | 13 | -7 | 26 |
 | 13 | Atlanta United | 29 | 5 | 11 | 13 | -18 | 26 |
 | 14 | DC United | 30 | 5 | 10 | 15 | -28 | 25 |
 | 15 | CF Montréal | 30 | 5 | 9 | 16 | -24 | 24 |
-| 1 | San Diego | 29 | 17 | 5 | 7 | 20 | 56 |
-| 2 | Minnesota United | 29 | 14 | 9 | 6 | 16 | 51 |
-| 3 | Vancouver Whitecaps | 28 | 14 | 8 | 6 | 16 | 50 |
-| 4 | Seattle Sounders | 28 | 13 | 8 | 7 | 11 | 47 |
+| 1 | San Diego | 30 | 17 | 6 | 7 | 20 | 57 |
+| 2 | Vancouver Whitecaps | 28 | 15 | 7 | 6 | 20 | 52 |
+| 3 | Minnesota United | 30 | 14 | 10 | 6 | 16 | 52 |
+| 4 | Seattle Sounders | 28 | 12 | 9 | 7 | 10 | 45 |
 | 5 | LAFC | 27 | 12 | 8 | 7 | 14 | 44 |
-| 6 | Austin | 29 | 11 | 8 | 10 | -4 | 41 |
-| 7 | Portland Timbers | 28 | 10 | 9 | 9 | -2 | 39 |
-| 8 | Colorado Rapids | 30 | 10 | 7 | 13 | -10 | 37 |
+| 6 | Austin | 29 | 11 | 8 | 10 | -5 | 41 |
+| 7 | Portland Timbers | 29 | 10 | 10 | 9 | -2 | 40 |
+| 8 | Colorado Rapids | 30 | 11 | 6 | 13 | -9 | 39 |
 | 9 | San Jose Earthquakes | 30 | 9 | 8 | 13 | 0 | 35 |
-| 10 | Dallas | 29 | 8 | 10 | 11 | -7 | 34 |
-| 11 | Houston Dynamo | 30 | 8 | 10 | 12 | -9 | 34 |
-| 12 | Real Salt Lake | 28 | 9 | 5 | 14 | -8 | 32 |
-| 13 | Sporting KC | 30 | 7 | 7 | 16 | -15 | 28 |
+| 10 | Real Salt Lake | 28 | 10 | 4 | 14 | -6 | 34 |
+| 11 | Dallas | 29 | 8 | 10 | 11 | -6 | 34 |
+| 12 | Houston Dynamo | 30 | 8 | 9 | 13 | -10 | 33 |
+| 13 | Sporting KC | 30 | 7 | 6 | 17 | -17 | 27 |
 | 14 | St. Louis City | 30 | 6 | 7 | 17 | -15 | 25 |
-| 15 | LA Galaxy | 29 | 4 | 8 | 17 | -24 | 20 |
+| 15 | LA Galaxy | 29 | 4 | 9 | 16 | -23 | 21 |
 
 ### Indian Super League
 
