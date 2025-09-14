@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 10:38 PM UTC",
-        "IST": "Monday, 15 September 2025, 04:08 AM IST"
+        "UTC": "Sunday, 14 September 2025, 11:16 PM UTC",
+        "IST": "Monday, 15 September 2025, 04:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2961,6 +2961,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Def y Justicia",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "13"
+            },
+            {
+                "Position": "6",
                 "Team": "Banfield",
                 "Played": "8",
                 "Wins": "4",
@@ -2968,16 +2978,6 @@
                 "Losses": "3",
                 "Goal Difference": "-1",
                 "Points": "13"
-            },
-            {
-                "Position": "6",
-                "Team": "Def y Justicia",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "3",
-                "Points": "12"
             },
             {
                 "Position": "7",
@@ -3021,21 +3021,21 @@
             },
             {
                 "Position": "11",
+                "Team": "Tigre",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "9"
+            },
+            {
+                "Position": "12",
                 "Team": "Argentinos Juniors",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "8"
-            },
-            {
-                "Position": "12",
-                "Team": "Tigre",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
                 "Goal Difference": "-1",
                 "Points": "8"
             },
@@ -3192,22 +3192,22 @@
             {
                 "Position": "13",
                 "Team": "Platense",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "1",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "-3",
-                "Points": "6"
+                "Points": "7"
             },
             {
                 "Position": "14",
                 "Team": "Talleres",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "1",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "5"
+                "Points": "6"
             },
             {
                 "Position": "15",

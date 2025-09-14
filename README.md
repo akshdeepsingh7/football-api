@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 September 2025, 10:38 PM UTC (Monday, 15 September 2025, 04:08 AM IST)
+**Last Updated:** Sunday, 14 September 2025, 11:16 PM UTC (Monday, 15 September 2025, 04:46 AM IST)
 
 ### Premier League
 
@@ -400,14 +400,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Barracas | 8 | 4 | 3 | 1 | 3 | 15 |
 | 3 | Boca Juniors | 8 | 3 | 4 | 1 | 6 | 13 |
 | 4 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
-| 5 | Banfield | 8 | 4 | 1 | 3 | -1 | 13 |
-| 6 | Def y Justicia | 7 | 3 | 3 | 1 | 3 | 12 |
+| 5 | Def y Justicia | 8 | 3 | 4 | 1 | 3 | 13 |
+| 6 | Banfield | 8 | 4 | 1 | 3 | -1 | 13 |
 | 7 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
 | 8 | Huracán | 8 | 3 | 3 | 2 | -1 | 12 |
 | 9 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
 | 10 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
-| 11 | Argentinos Juniors | 8 | 2 | 2 | 4 | -1 | 8 |
-| 12 | Tigre | 7 | 2 | 2 | 3 | -1 | 8 |
+| 11 | Tigre | 8 | 2 | 3 | 3 | -1 | 9 |
+| 12 | Argentinos Juniors | 8 | 2 | 2 | 4 | -1 | 8 |
 | 13 | Independiente Rivadavia | 8 | 2 | 2 | 4 | -2 | 8 |
 | 14 | Racing Club | 8 | 2 | 1 | 5 | -4 | 7 |
 | 15 | Aldosivi | 8 | 0 | 3 | 5 | -9 | 3 |
@@ -423,8 +423,8 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | San Martín SJ | 8 | 2 | 3 | 3 | -2 | 9 |
 | 11 | Instituto | 8 | 2 | 3 | 3 | -6 | 9 |
 | 12 | Godoy Cruz | 8 | 1 | 4 | 3 | -3 | 7 |
-| 13 | Platense | 6 | 1 | 3 | 2 | -3 | 6 |
-| 14 | Talleres | 7 | 1 | 2 | 4 | -5 | 5 |
+| 13 | Platense | 7 | 1 | 4 | 2 | -3 | 7 |
+| 14 | Talleres | 8 | 1 | 3 | 4 | -5 | 6 |
 | 15 | Independiente | 7 | 0 | 3 | 4 | -4 | 3 |
 
 ### Brasileirão
