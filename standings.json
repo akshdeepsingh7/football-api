@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 01:19 PM UTC",
-        "IST": "Sunday, 14 September 2025, 06:49 PM IST"
+        "UTC": "Sunday, 14 September 2025, 01:37 PM UTC",
+        "IST": "Sunday, 14 September 2025, 07:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -482,12 +482,12 @@
             {
                 "Position": "8",
                 "Team": "St. Pauli",
-                "Played": "2",
+                "Played": "3",
                 "Wins": "1",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "0",
                 "Goal Difference": "2",
-                "Points": "4"
+                "Points": "5"
             },
             {
                 "Position": "9",
@@ -502,12 +502,12 @@
             {
                 "Position": "10",
                 "Team": "Augsburg",
-                "Played": "2",
+                "Played": "3",
                 "Wins": "1",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "1",
-                "Points": "3"
+                "Points": "4"
             },
             {
                 "Position": "11",
