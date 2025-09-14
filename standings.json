@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 September 2025, 03:46 AM UTC",
-        "IST": "Sunday, 14 September 2025, 09:16 AM IST"
+        "UTC": "Sunday, 14 September 2025, 04:21 AM UTC",
+        "IST": "Sunday, 14 September 2025, 09:51 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2640,29 +2640,29 @@
                 "Team": "San Diego",
                 "Played": "30",
                 "Wins": "17",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "20",
-                "Points": "57"
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "18",
+                "Points": "56"
             },
             {
                 "Position": "2",
+                "Team": "Minnesota United",
+                "Played": "30",
+                "Wins": "15",
+                "Draws": "9",
+                "Losses": "6",
+                "Goal Difference": "18",
+                "Points": "54"
+            },
+            {
+                "Position": "3",
                 "Team": "Vancouver Whitecaps",
                 "Played": "28",
                 "Wins": "15",
                 "Draws": "7",
                 "Losses": "6",
                 "Goal Difference": "23",
-                "Points": "52"
-            },
-            {
-                "Position": "3",
-                "Team": "Minnesota United",
-                "Played": "30",
-                "Wins": "14",
-                "Draws": "10",
-                "Losses": "6",
-                "Goal Difference": "16",
                 "Points": "52"
             },
             {
