@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 September 2025, 07:15 PM UTC",
-        "IST": "Tuesday, 16 September 2025, 12:45 AM IST"
+        "UTC": "Monday, 15 September 2025, 07:38 PM UTC",
+        "IST": "Tuesday, 16 September 2025, 01:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -229,6 +229,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Espanyol",
+                "Played": "4",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "4",
+                "Points": "10"
+            },
+            {
+                "Position": "4",
                 "Team": "Getafe",
                 "Played": "4",
                 "Wins": "3",
@@ -238,7 +248,7 @@
                 "Points": "9"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Athletic Bilbao",
                 "Played": "4",
                 "Wins": "3",
@@ -246,16 +256,6 @@
                 "Losses": "1",
                 "Goal Difference": "2",
                 "Points": "9"
-            },
-            {
-                "Position": "5",
-                "Team": "Espanyol",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "8"
             },
             {
                 "Position": "6",
@@ -379,22 +379,22 @@
             },
             {
                 "Position": "18",
-                "Team": "Mallorca",
-                "Played": "4",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-4",
-                "Points": "2"
-            },
-            {
-                "Position": "19",
                 "Team": "Levante",
                 "Played": "4",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "-4",
+                "Points": "1"
+            },
+            {
+                "Position": "19",
+                "Team": "Mallorca",
+                "Played": "4",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-6",
                 "Points": "1"
             },
             {
