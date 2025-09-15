@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 15 September 2025, 08:21 PM UTC (Tuesday, 16 September 2025, 01:51 AM IST)
+**Last Updated:** Monday, 15 September 2025, 08:40 PM UTC (Tuesday, 16 September 2025, 02:10 AM IST)
 
 ### Premier League
 
@@ -74,9 +74,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 4 | 4 | 0 | 0 | 6 | 12 |
 | 2 | Barcelona | 4 | 3 | 1 | 0 | 10 | 10 |
-| 3 | Espanyol | 4 | 3 | 1 | 0 | 3 | 10 |
-| 4 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
-| 5 | Athletic Bilbao | 4 | 3 | 0 | 1 | 2 | 9 |
+| 3 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
+| 4 | Athletic Bilbao | 4 | 3 | 0 | 1 | 2 | 9 |
+| 5 | Espanyol | 4 | 2 | 2 | 0 | 2 | 8 |
 | 6 | Villarreal | 4 | 2 | 1 | 1 | 5 | 7 |
 | 7 | Alavés | 4 | 2 | 1 | 1 | 1 | 7 |
 | 8 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
@@ -89,8 +89,8 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Valencia | 4 | 1 | 1 | 2 | -4 | 4 |
 | 16 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
 | 17 | Real Sociedad | 4 | 0 | 2 | 2 | -2 | 2 |
-| 18 | Levante | 4 | 0 | 1 | 3 | -4 | 1 |
-| 19 | Mallorca | 4 | 0 | 1 | 3 | -5 | 1 |
+| 18 | Mallorca | 4 | 0 | 2 | 2 | -4 | 2 |
+| 19 | Levante | 4 | 0 | 1 | 3 | -4 | 1 |
 | 20 | Girona | 4 | 0 | 1 | 3 | -9 | 1 |
 
 ### Bundesliga
@@ -125,19 +125,19 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Cremonese | 3 | 2 | 1 | 0 | 2 | 7 |
 | 4 | Udinese | 3 | 2 | 1 | 0 | 2 | 7 |
 | 5 | Milan | 3 | 2 | 0 | 1 | 2 | 6 |
-| 6 | Como | 3 | 2 | 0 | 1 | 2 | 6 |
-| 7 | Roma | 3 | 2 | 0 | 1 | 1 | 6 |
-| 8 | Atalanta | 3 | 1 | 2 | 0 | 3 | 5 |
-| 9 | Cagliari | 3 | 1 | 1 | 1 | 1 | 4 |
+| 6 | Roma | 3 | 2 | 0 | 1 | 1 | 6 |
+| 7 | Atalanta | 3 | 1 | 2 | 0 | 3 | 5 |
+| 8 | Cagliari | 3 | 1 | 1 | 1 | 1 | 4 |
+| 9 | Como | 3 | 1 | 1 | 1 | 1 | 4 |
 | 10 | Torino | 3 | 1 | 1 | 1 | -4 | 4 |
 | 11 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
 | 12 | Lazio | 3 | 1 | 0 | 2 | 1 | 3 |
 | 13 | Bologna | 3 | 1 | 0 | 2 | -1 | 3 |
 | 14 | Sassuolo | 3 | 1 | 0 | 2 | -2 | 3 |
-| 15 | Fiorentina | 3 | 0 | 2 | 1 | -2 | 2 |
-| 16 | Hellas Verona | 3 | 0 | 2 | 1 | -4 | 2 |
-| 17 | Pisa | 3 | 0 | 1 | 2 | -2 | 1 |
-| 18 | Genoa | 3 | 0 | 1 | 2 | -2 | 1 |
+| 15 | Genoa | 3 | 0 | 2 | 1 | -1 | 2 |
+| 16 | Fiorentina | 3 | 0 | 2 | 1 | -2 | 2 |
+| 17 | Hellas Verona | 3 | 0 | 2 | 1 | -4 | 2 |
+| 18 | Pisa | 3 | 0 | 1 | 2 | -2 | 1 |
 | 19 | Parma | 3 | 0 | 1 | 2 | -4 | 1 |
 | 20 | Lecce | 3 | 0 | 1 | 2 | -5 | 1 |
 
