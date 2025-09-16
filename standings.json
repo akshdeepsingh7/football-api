@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 September 2025, 11:37 PM UTC",
-        "IST": "Tuesday, 16 September 2025, 05:07 AM IST"
+        "UTC": "Tuesday, 16 September 2025, 01:23 AM UTC",
+        "IST": "Tuesday, 16 September 2025, 06:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3233,6 +3233,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Cruzeiro",
+                "Played": "23",
+                "Wins": "14",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "21",
+                "Points": "47"
+            },
+            {
+                "Position": "3",
                 "Team": "Palmeiras",
                 "Played": "21",
                 "Wins": "14",
@@ -3240,16 +3250,6 @@
                 "Losses": "3",
                 "Goal Difference": "15",
                 "Points": "46"
-            },
-            {
-                "Position": "3",
-                "Team": "Cruzeiro",
-                "Played": "23",
-                "Wins": "13",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "20",
-                "Points": "45"
             },
             {
                 "Position": "4",
@@ -3266,10 +3266,10 @@
                 "Team": "Bahia",
                 "Played": "21",
                 "Wins": "10",
-                "Draws": "7",
-                "Losses": "4",
-                "Goal Difference": "6",
-                "Points": "37"
+                "Draws": "6",
+                "Losses": "5",
+                "Goal Difference": "5",
+                "Points": "36"
             },
             {
                 "Position": "6",
