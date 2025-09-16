@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 16 September 2025, 05:17 PM UTC (Tuesday, 16 September 2025, 10:47 PM IST)
+**Last Updated:** Tuesday, 16 September 2025, 05:39 PM UTC (Tuesday, 16 September 2025, 11:09 PM IST)
 
 ### Premier League
 
@@ -168,7 +168,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Union Saint-Gilloise | 1 | 1 | 0 | 0 | 1 | 3 |
+| 1 | Union Saint-Gilloise | 1 | 1 | 0 | 0 | 2 | 3 |
 | 2 | Arsenal | 1 | 0 | 1 | 0 | 0 | 1 |
 | 3 | Athletic Bilbao | 1 | 0 | 1 | 0 | 0 | 1 |
 | 4 | Ajax | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -203,7 +203,7 @@ The latest league standings are displayed below in Markdown tables:
 | 33 | Sporting CP | 0 | 0 | 0 | 0 | 0 | 0 |
 | 34 | Tottenham Hotspur | 0 | 0 | 0 | 0 | 0 | 0 |
 | 35 | Villarreal | 0 | 0 | 0 | 0 | 0 | 0 |
-| 36 | PSV | 1 | 0 | 0 | 1 | -1 | 0 |
+| 36 | PSV | 1 | 0 | 0 | 1 | -2 | 0 |
 
 ### Europa League
 
