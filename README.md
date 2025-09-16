@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 16 September 2025, 07:16 PM UTC (Wednesday, 17 September 2025, 12:46 AM IST)
+**Last Updated:** Tuesday, 16 September 2025, 07:38 PM UTC (Wednesday, 17 September 2025, 01:08 AM IST)
 
 ### Premier League
 
@@ -172,10 +172,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Arsenal | 1 | 1 | 0 | 0 | 2 | 3 |
 | 3 | Benfica | 1 | 1 | 0 | 0 | 1 | 3 |
 | 4 | Tottenham Hotspur | 1 | 1 | 0 | 0 | 1 | 3 |
-| 5 | Borussia Dortmund | 1 | 0 | 1 | 0 | 0 | 1 |
-| 6 | Juventus | 1 | 0 | 1 | 0 | 0 | 1 |
-| 7 | Marseille | 1 | 0 | 1 | 0 | 0 | 1 |
-| 8 | Real Madrid | 1 | 0 | 1 | 0 | 0 | 1 |
+| 5 | Marseille | 1 | 0 | 1 | 0 | 0 | 1 |
+| 6 | Real Madrid | 1 | 0 | 1 | 0 | 0 | 1 |
+| 7 | Borussia Dortmund | 1 | 0 | 1 | 0 | 0 | 1 |
+| 8 | Juventus | 1 | 0 | 1 | 0 | 0 | 1 |
 | 9 | Ajax | 0 | 0 | 0 | 0 | 0 | 0 |
 | 10 | Atalanta | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | Atlético de Madrid | 0 | 0 | 0 | 0 | 0 | 0 |
