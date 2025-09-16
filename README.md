@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 16 September 2025, 08:40 PM UTC (Wednesday, 17 September 2025, 02:10 AM IST)
+**Last Updated:** Tuesday, 16 September 2025, 09:16 PM UTC (Wednesday, 17 September 2025, 02:46 AM IST)
 
 ### Premier League
 
@@ -170,37 +170,37 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Union Saint-Gilloise | 1 | 1 | 0 | 0 | 2 | 3 |
 | 2 | Arsenal | 1 | 1 | 0 | 0 | 2 | 3 |
-| 3 | Borussia Dortmund | 1 | 1 | 0 | 0 | 1 | 3 |
-| 4 | Tottenham Hotspur | 1 | 1 | 0 | 0 | 1 | 3 |
-| 5 | Qarabağ | 1 | 0 | 1 | 0 | 0 | 1 |
-| 6 | Benfica | 1 | 0 | 1 | 0 | 0 | 1 |
-| 7 | Marseille | 1 | 0 | 1 | 0 | 0 | 1 |
-| 8 | Real Madrid | 1 | 0 | 1 | 0 | 0 | 1 |
-| 9 | Ajax | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Atalanta | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Atlético de Madrid | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Barcelona | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Bayer Leverkusen | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Bayern Munich | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | Bodø/Glimt | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Chelsea | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Club Brugge | 0 | 0 | 0 | 0 | 0 | 0 |
-| 18 | Eintracht Frankfurt | 0 | 0 | 0 | 0 | 0 | 0 |
-| 19 | FC Copenhagen | 0 | 0 | 0 | 0 | 0 | 0 |
-| 20 | Galatasaray | 0 | 0 | 0 | 0 | 0 | 0 |
-| 21 | Inter | 0 | 0 | 0 | 0 | 0 | 0 |
-| 22 | Kairat | 0 | 0 | 0 | 0 | 0 | 0 |
-| 23 | Liverpool FC | 0 | 0 | 0 | 0 | 0 | 0 |
-| 24 | Manchester City | 0 | 0 | 0 | 0 | 0 | 0 |
-| 25 | Monaco | 0 | 0 | 0 | 0 | 0 | 0 |
-| 26 | Napoli | 0 | 0 | 0 | 0 | 0 | 0 |
-| 27 | Newcastle United | 0 | 0 | 0 | 0 | 0 | 0 |
-| 28 | Olympiacos | 0 | 0 | 0 | 0 | 0 | 0 |
-| 29 | PSG | 0 | 0 | 0 | 0 | 0 | 0 |
-| 30 | Pafos | 0 | 0 | 0 | 0 | 0 | 0 |
-| 31 | Slavia Prague | 0 | 0 | 0 | 0 | 0 | 0 |
-| 32 | Sporting CP | 0 | 0 | 0 | 0 | 0 | 0 |
-| 33 | Juventus | 1 | 0 | 0 | 1 | -1 | 0 |
+| 3 | Qarabağ | 1 | 1 | 0 | 0 | 1 | 3 |
+| 4 | Real Madrid | 1 | 1 | 0 | 0 | 1 | 3 |
+| 5 | Tottenham Hotspur | 1 | 1 | 0 | 0 | 1 | 3 |
+| 6 | Borussia Dortmund | 1 | 0 | 1 | 0 | 0 | 1 |
+| 7 | Juventus | 1 | 0 | 1 | 0 | 0 | 1 |
+| 8 | Ajax | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Atalanta | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Atlético de Madrid | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Barcelona | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Bayer Leverkusen | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Bayern Munich | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Bodø/Glimt | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Chelsea | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Club Brugge | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Eintracht Frankfurt | 0 | 0 | 0 | 0 | 0 | 0 |
+| 18 | FC Copenhagen | 0 | 0 | 0 | 0 | 0 | 0 |
+| 19 | Galatasaray | 0 | 0 | 0 | 0 | 0 | 0 |
+| 20 | Inter | 0 | 0 | 0 | 0 | 0 | 0 |
+| 21 | Kairat | 0 | 0 | 0 | 0 | 0 | 0 |
+| 22 | Liverpool FC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Manchester City | 0 | 0 | 0 | 0 | 0 | 0 |
+| 24 | Monaco | 0 | 0 | 0 | 0 | 0 | 0 |
+| 25 | Napoli | 0 | 0 | 0 | 0 | 0 | 0 |
+| 26 | Newcastle United | 0 | 0 | 0 | 0 | 0 | 0 |
+| 27 | Olympiacos | 0 | 0 | 0 | 0 | 0 | 0 |
+| 28 | PSG | 0 | 0 | 0 | 0 | 0 | 0 |
+| 29 | Pafos | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30 | Slavia Prague | 0 | 0 | 0 | 0 | 0 | 0 |
+| 31 | Sporting CP | 0 | 0 | 0 | 0 | 0 | 0 |
+| 32 | Benfica | 1 | 0 | 0 | 1 | -1 | 0 |
+| 33 | Marseille | 1 | 0 | 0 | 1 | -1 | 0 |
 | 34 | Villarreal | 1 | 0 | 0 | 1 | -1 | 0 |
 | 35 | PSV | 1 | 0 | 0 | 1 | -2 | 0 |
 | 36 | Athletic Bilbao | 1 | 0 | 0 | 1 | -2 | 0 |
