@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 16 September 2025, 06:28 PM UTC (Tuesday, 16 September 2025, 11:58 PM IST)
+**Last Updated:** Tuesday, 16 September 2025, 06:49 PM UTC (Wednesday, 17 September 2025, 12:19 AM IST)
 
 ### Premier League
 
@@ -143,33 +143,14 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Ligue 1
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 4 | 4 | 0 | 0 | 7 | 12 |
-| 2 | Lille | 4 | 3 | 1 | 0 | 8 | 10 |
-| 3 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
-| 4 | Lyon | 4 | 3 | 0 | 1 | 3 | 9 |
-| 5 | Strasbourg | 4 | 3 | 0 | 1 | 2 | 9 |
-| 6 | Rennes | 4 | 2 | 1 | 1 | -1 | 7 |
-| 7 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
-| 8 | Lens | 4 | 2 | 0 | 2 | 0 | 6 |
-| 9 | Nice | 4 | 2 | 0 | 2 | 0 | 6 |
-| 10 | Toulouse | 4 | 2 | 0 | 2 | -1 | 6 |
-| 11 | Paris | 4 | 2 | 0 | 2 | -2 | 6 |
-| 12 | Angers | 4 | 1 | 2 | 1 | 0 | 5 |
-| 13 | Le Havre | 4 | 1 | 0 | 3 | -2 | 3 |
-| 14 | Nantes | 4 | 1 | 0 | 3 | -2 | 3 |
-| 15 | Auxerre | 4 | 1 | 0 | 3 | -3 | 3 |
-| 16 | Lorient | 4 | 1 | 0 | 3 | -7 | 3 |
-| 17 | Brest | 4 | 0 | 1 | 3 | -5 | 1 |
-| 18 | Metz | 4 | 0 | 1 | 3 | -5 | 1 |
+Data not available.
 
 ### Champions League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Union Saint-Gilloise | 1 | 1 | 0 | 0 | 3 | 3 |
-| 2 | Arsenal | 1 | 1 | 0 | 0 | 1 | 3 |
+| 1 | Union Saint-Gilloise | 1 | 1 | 0 | 0 | 2 | 3 |
+| 2 | Arsenal | 1 | 1 | 0 | 0 | 2 | 3 |
 | 3 | Ajax | 0 | 0 | 0 | 0 | 0 | 0 |
 | 4 | Atalanta | 0 | 0 | 0 | 0 | 0 | 0 |
 | 5 | Atlético de Madrid | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -202,8 +183,8 @@ The latest league standings are displayed below in Markdown tables:
 | 32 | Sporting CP | 0 | 0 | 0 | 0 | 0 | 0 |
 | 33 | Tottenham Hotspur | 0 | 0 | 0 | 0 | 0 | 0 |
 | 34 | Villarreal | 0 | 0 | 0 | 0 | 0 | 0 |
-| 35 | Athletic Bilbao | 1 | 0 | 0 | 1 | -1 | 0 |
-| 36 | PSV | 1 | 0 | 0 | 1 | -3 | 0 |
+| 35 | PSV | 1 | 0 | 0 | 1 | -2 | 0 |
+| 36 | Athletic Bilbao | 1 | 0 | 0 | 1 | -2 | 0 |
 
 ### Europa League
 
