@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 17 September 2025, 10:16 PM UTC",
-        "IST": "Thursday, 18 September 2025, 03:46 AM IST"
+        "UTC": "Wednesday, 17 September 2025, 10:37 PM UTC",
+        "IST": "Thursday, 18 September 2025, 04:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3254,15 +3254,25 @@
             {
                 "Position": "4",
                 "Team": "Mirassol",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "10",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "3",
                 "Goal Difference": "16",
-                "Points": "38"
+                "Points": "39"
             },
             {
                 "Position": "5",
+                "Team": "Botafogo",
+                "Played": "22",
+                "Wins": "10",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "16",
+                "Points": "36"
+            },
+            {
+                "Position": "6",
                 "Team": "Bahia",
                 "Played": "21",
                 "Wins": "10",
@@ -3270,16 +3280,6 @@
                 "Losses": "5",
                 "Goal Difference": "5",
                 "Points": "36"
-            },
-            {
-                "Position": "6",
-                "Team": "Botafogo",
-                "Played": "21",
-                "Wins": "10",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "16",
-                "Points": "35"
             },
             {
                 "Position": "7",
