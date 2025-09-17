@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 17 September 2025, 08:20 PM UTC",
-        "IST": "Thursday, 18 September 2025, 01:50 AM IST"
+        "UTC": "Wednesday, 17 September 2025, 08:39 PM UTC",
+        "IST": "Thursday, 18 September 2025, 02:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -997,7 +997,7 @@
             },
             {
                 "Position": "3",
-                "Team": "Arsenal",
+                "Team": "Bayern Munich",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -1007,7 +1007,7 @@
             },
             {
                 "Position": "4",
-                "Team": "Inter",
+                "Team": "Arsenal",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -1017,17 +1017,17 @@
             },
             {
                 "Position": "5",
-                "Team": "Qaraba\u011f",
+                "Team": "Inter",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "3"
             },
             {
                 "Position": "6",
-                "Team": "Bayern Munich",
+                "Team": "Qaraba\u011f",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -1267,16 +1267,6 @@
             },
             {
                 "Position": "30",
-                "Team": "Chelsea",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "0"
-            },
-            {
-                "Position": "31",
                 "Team": "Marseille",
                 "Played": "1",
                 "Wins": "0",
@@ -1286,13 +1276,23 @@
                 "Points": "0"
             },
             {
-                "Position": "32",
+                "Position": "31",
                 "Team": "Villarreal",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "-1",
+                "Points": "0"
+            },
+            {
+                "Position": "32",
+                "Team": "Chelsea",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-2",
                 "Points": "0"
             },
             {

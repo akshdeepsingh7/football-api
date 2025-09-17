@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 17 September 2025, 08:20 PM UTC (Thursday, 18 September 2025, 01:50 AM IST)
+**Last Updated:** Wednesday, 17 September 2025, 08:39 PM UTC (Thursday, 18 September 2025, 02:09 AM IST)
 
 ### Premier League
 
@@ -170,10 +170,10 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 1 | 1 | 0 | 0 | 3 | 3 |
 | 2 | Union Saint-Gilloise | 1 | 1 | 0 | 0 | 2 | 3 |
-| 3 | Arsenal | 1 | 1 | 0 | 0 | 2 | 3 |
-| 4 | Inter | 1 | 1 | 0 | 0 | 2 | 3 |
-| 5 | Qarabağ | 1 | 1 | 0 | 0 | 1 | 3 |
-| 6 | Bayern Munich | 1 | 1 | 0 | 0 | 1 | 3 |
+| 3 | Bayern Munich | 1 | 1 | 0 | 0 | 2 | 3 |
+| 4 | Arsenal | 1 | 1 | 0 | 0 | 2 | 3 |
+| 5 | Inter | 1 | 1 | 0 | 0 | 2 | 3 |
+| 6 | Qarabağ | 1 | 1 | 0 | 0 | 1 | 3 |
 | 7 | Liverpool FC | 1 | 1 | 0 | 0 | 1 | 3 |
 | 8 | Real Madrid | 1 | 1 | 0 | 0 | 1 | 3 |
 | 9 | Tottenham Hotspur | 1 | 1 | 0 | 0 | 1 | 3 |
@@ -197,9 +197,9 @@ The latest league standings are displayed below in Markdown tables:
 | 27 | Sporting CP | 0 | 0 | 0 | 0 | 0 | 0 |
 | 28 | Benfica | 1 | 0 | 0 | 1 | -1 | 0 |
 | 29 | Atlético de Madrid | 1 | 0 | 0 | 1 | -1 | 0 |
-| 30 | Chelsea | 1 | 0 | 0 | 1 | -1 | 0 |
-| 31 | Marseille | 1 | 0 | 0 | 1 | -1 | 0 |
-| 32 | Villarreal | 1 | 0 | 0 | 1 | -1 | 0 |
+| 30 | Marseille | 1 | 0 | 0 | 1 | -1 | 0 |
+| 31 | Villarreal | 1 | 0 | 0 | 1 | -1 | 0 |
+| 32 | Chelsea | 1 | 0 | 0 | 1 | -2 | 0 |
 | 33 | PSV | 1 | 0 | 0 | 1 | -2 | 0 |
 | 34 | Ajax | 1 | 0 | 0 | 1 | -2 | 0 |
 | 35 | Athletic Bilbao | 1 | 0 | 0 | 1 | -2 | 0 |
