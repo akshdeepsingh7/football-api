@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 17 September 2025, 08:39 PM UTC",
-        "IST": "Thursday, 18 September 2025, 02:09 AM IST"
+        "UTC": "Wednesday, 17 September 2025, 09:16 PM UTC",
+        "IST": "Thursday, 18 September 2025, 02:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -982,7 +982,7 @@
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "3",
+                "Goal Difference": "4",
                 "Points": "3"
             },
             {
@@ -1247,7 +1247,7 @@
             },
             {
                 "Position": "28",
-                "Team": "Benfica",
+                "Team": "Atl\u00e9tico de Madrid",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -1257,7 +1257,7 @@
             },
             {
                 "Position": "29",
-                "Team": "Atl\u00e9tico de Madrid",
+                "Team": "Benfica",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -1332,7 +1332,7 @@
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "0"
             }
         ],
