@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 16 September 2025, 11:37 PM UTC",
-        "IST": "Wednesday, 17 September 2025, 05:07 AM IST"
+        "UTC": "Wednesday, 17 September 2025, 01:23 AM UTC",
+        "IST": "Wednesday, 17 September 2025, 06:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2527,6 +2527,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Inter Miami",
+                "Played": "27",
+                "Wins": "14",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "13",
+                "Points": "49"
+            },
+            {
+                "Position": "6",
                 "Team": "Columbus Crew",
                 "Played": "29",
                 "Wins": "13",
@@ -2536,7 +2546,7 @@
                 "Points": "49"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Orlando City",
                 "Played": "29",
                 "Wins": "13",
@@ -2546,7 +2556,7 @@
                 "Points": "48"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "NYCFC",
                 "Played": "28",
                 "Wins": "14",
@@ -2554,16 +2564,6 @@
                 "Losses": "9",
                 "Goal Difference": "8",
                 "Points": "47"
-            },
-            {
-                "Position": "8",
-                "Team": "Inter Miami",
-                "Played": "26",
-                "Wins": "13",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "11",
-                "Points": "46"
             },
             {
                 "Position": "9",
@@ -2668,11 +2668,11 @@
             {
                 "Position": "4",
                 "Team": "Seattle Sounders",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "12",
                 "Draws": "9",
-                "Losses": "7",
-                "Goal Difference": "10",
+                "Losses": "8",
+                "Goal Difference": "8",
                 "Points": "45"
             },
             {

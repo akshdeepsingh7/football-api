@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 16 September 2025, 11:37 PM UTC (Wednesday, 17 September 2025, 05:07 AM IST)
+**Last Updated:** Wednesday, 17 September 2025, 01:23 AM UTC (Wednesday, 17 September 2025, 06:53 AM IST)
 
 ### Premier League
 
@@ -347,10 +347,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Cincinnati | 30 | 17 | 4 | 9 | 7 | 55 |
 | 3 | Charlotte | 30 | 17 | 2 | 11 | 11 | 53 |
 | 4 | Nashville | 30 | 15 | 5 | 10 | 15 | 50 |
-| 5 | Columbus Crew | 29 | 13 | 10 | 6 | 5 | 49 |
-| 6 | Orlando City | 29 | 13 | 9 | 7 | 14 | 48 |
-| 7 | NYCFC | 28 | 14 | 5 | 9 | 8 | 47 |
-| 8 | Inter Miami | 26 | 13 | 7 | 6 | 11 | 46 |
+| 5 | Inter Miami | 27 | 14 | 7 | 6 | 13 | 49 |
+| 6 | Columbus Crew | 29 | 13 | 10 | 6 | 5 | 49 |
+| 7 | Orlando City | 29 | 13 | 9 | 7 | 14 | 48 |
+| 8 | NYCFC | 28 | 14 | 5 | 9 | 8 | 47 |
 | 9 | Chicago Fire | 29 | 12 | 6 | 11 | 1 | 42 |
 | 10 | New York RB | 30 | 11 | 7 | 12 | 3 | 40 |
 | 11 | New England Revolution | 30 | 8 | 8 | 14 | -5 | 32 |
@@ -361,7 +361,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | San Diego | 30 | 17 | 5 | 8 | 18 | 56 |
 | 2 | Minnesota United | 30 | 15 | 9 | 6 | 18 | 54 |
 | 3 | Vancouver Whitecaps | 28 | 15 | 7 | 6 | 23 | 52 |
-| 4 | Seattle Sounders | 28 | 12 | 9 | 7 | 10 | 45 |
+| 4 | Seattle Sounders | 29 | 12 | 9 | 8 | 8 | 45 |
 | 5 | LAFC | 27 | 12 | 8 | 7 | 14 | 44 |
 | 6 | Portland Timbers | 29 | 11 | 9 | 9 | -1 | 42 |
 | 7 | Austin | 29 | 11 | 8 | 10 | -5 | 41 |
