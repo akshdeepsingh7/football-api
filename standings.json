@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 17 September 2025, 11:37 PM UTC",
-        "IST": "Thursday, 18 September 2025, 05:07 AM IST"
+        "UTC": "Thursday, 18 September 2025, 01:23 AM UTC",
+        "IST": "Thursday, 18 September 2025, 06:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2527,6 +2527,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Columbus Crew",
+                "Played": "30",
+                "Wins": "13",
+                "Draws": "11",
+                "Losses": "6",
+                "Goal Difference": "5",
+                "Points": "50"
+            },
+            {
+                "Position": "6",
                 "Team": "Inter Miami",
                 "Played": "27",
                 "Wins": "14",
@@ -2536,17 +2546,17 @@
                 "Points": "49"
             },
             {
-                "Position": "6",
-                "Team": "Columbus Crew",
+                "Position": "7",
+                "Team": "NYCFC",
                 "Played": "29",
-                "Wins": "13",
-                "Draws": "10",
-                "Losses": "6",
-                "Goal Difference": "5",
-                "Points": "49"
+                "Wins": "14",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "8",
+                "Points": "48"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Orlando City",
                 "Played": "29",
                 "Wins": "13",
@@ -2554,16 +2564,6 @@
                 "Losses": "7",
                 "Goal Difference": "14",
                 "Points": "48"
-            },
-            {
-                "Position": "8",
-                "Team": "NYCFC",
-                "Played": "28",
-                "Wins": "14",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "8",
-                "Points": "47"
             },
             {
                 "Position": "9",
@@ -3253,23 +3253,23 @@
             },
             {
                 "Position": "4",
-                "Team": "Botafogo",
-                "Played": "22",
-                "Wins": "11",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "18",
-                "Points": "38"
-            },
-            {
-                "Position": "5",
                 "Team": "Mirassol",
                 "Played": "22",
                 "Wins": "10",
-                "Draws": "8",
-                "Losses": "4",
-                "Goal Difference": "14",
-                "Points": "38"
+                "Draws": "9",
+                "Losses": "3",
+                "Goal Difference": "16",
+                "Points": "39"
+            },
+            {
+                "Position": "5",
+                "Team": "Botafogo",
+                "Played": "22",
+                "Wins": "10",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "16",
+                "Points": "36"
             },
             {
                 "Position": "6",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 17 September 2025, 11:37 PM UTC (Thursday, 18 September 2025, 05:07 AM IST)
+**Last Updated:** Thursday, 18 September 2025, 01:23 AM UTC (Thursday, 18 September 2025, 06:53 AM IST)
 
 ### Premier League
 
@@ -347,10 +347,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Cincinnati | 30 | 17 | 4 | 9 | 7 | 55 |
 | 3 | Charlotte | 30 | 17 | 2 | 11 | 11 | 53 |
 | 4 | Nashville | 30 | 15 | 5 | 10 | 15 | 50 |
-| 5 | Inter Miami | 27 | 14 | 7 | 6 | 13 | 49 |
-| 6 | Columbus Crew | 29 | 13 | 10 | 6 | 5 | 49 |
-| 7 | Orlando City | 29 | 13 | 9 | 7 | 14 | 48 |
-| 8 | NYCFC | 28 | 14 | 5 | 9 | 8 | 47 |
+| 5 | Columbus Crew | 30 | 13 | 11 | 6 | 5 | 50 |
+| 6 | Inter Miami | 27 | 14 | 7 | 6 | 13 | 49 |
+| 7 | NYCFC | 29 | 14 | 6 | 9 | 8 | 48 |
+| 8 | Orlando City | 29 | 13 | 9 | 7 | 14 | 48 |
 | 9 | Chicago Fire | 29 | 12 | 6 | 11 | 1 | 42 |
 | 10 | New York RB | 30 | 11 | 7 | 12 | 3 | 40 |
 | 11 | New England Revolution | 30 | 8 | 8 | 14 | -5 | 32 |
@@ -434,8 +434,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Flamengo | 22 | 15 | 5 | 2 | 37 | 50 |
 | 2 | Cruzeiro | 23 | 14 | 5 | 4 | 21 | 47 |
 | 3 | Palmeiras | 21 | 14 | 4 | 3 | 15 | 46 |
-| 4 | Botafogo | 22 | 11 | 5 | 6 | 18 | 38 |
-| 5 | Mirassol | 22 | 10 | 8 | 4 | 14 | 38 |
+| 4 | Mirassol | 22 | 10 | 9 | 3 | 16 | 39 |
+| 5 | Botafogo | 22 | 10 | 6 | 6 | 16 | 36 |
 | 6 | Bahia | 21 | 10 | 6 | 5 | 5 | 36 |
 | 7 | São Paulo | 23 | 9 | 8 | 6 | 4 | 35 |
 | 8 | RB Bragantino | 23 | 9 | 4 | 10 | -5 | 31 |
