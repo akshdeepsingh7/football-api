@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 18 September 2025, 05:17 PM UTC",
-        "IST": "Thursday, 18 September 2025, 10:47 PM IST"
+        "UTC": "Thursday, 18 September 2025, 05:39 PM UTC",
+        "IST": "Thursday, 18 September 2025, 11:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -987,6 +987,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Club Brugge",
+                "Played": "1",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "3"
+            },
+            {
+                "Position": "3",
                 "Team": "Union Saint-Gilloise",
                 "Played": "1",
                 "Wins": "1",
@@ -996,7 +1006,7 @@
                 "Points": "3"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Bayern Munich",
                 "Played": "1",
                 "Wins": "1",
@@ -1006,7 +1016,7 @@
                 "Points": "3"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Arsenal",
                 "Played": "1",
                 "Wins": "1",
@@ -1016,7 +1026,7 @@
                 "Points": "3"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Inter",
                 "Played": "1",
                 "Wins": "1",
@@ -1026,7 +1036,7 @@
                 "Points": "3"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Qaraba\u011f",
                 "Played": "1",
                 "Wins": "1",
@@ -1036,7 +1046,7 @@
                 "Points": "3"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Liverpool FC",
                 "Played": "1",
                 "Wins": "1",
@@ -1046,7 +1056,7 @@
                 "Points": "3"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Real Madrid",
                 "Played": "1",
                 "Wins": "1",
@@ -1056,7 +1066,7 @@
                 "Points": "3"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "FC Copenhagen",
                 "Played": "1",
                 "Wins": "1",
@@ -1066,7 +1076,7 @@
                 "Points": "3"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Tottenham Hotspur",
                 "Played": "1",
                 "Wins": "1",
@@ -1076,7 +1086,7 @@
                 "Points": "3"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Borussia Dortmund",
                 "Played": "1",
                 "Wins": "0",
@@ -1086,7 +1096,7 @@
                 "Points": "1"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Juventus",
                 "Played": "1",
                 "Wins": "0",
@@ -1096,7 +1106,7 @@
                 "Points": "1"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Bod\u00f8/Glimt",
                 "Played": "1",
                 "Wins": "0",
@@ -1106,7 +1116,7 @@
                 "Points": "1"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Slavia Prague",
                 "Played": "1",
                 "Wins": "0",
@@ -1116,27 +1126,7 @@
                 "Points": "1"
             },
             {
-                "Position": "15",
-                "Team": "Club Brugge",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
                 "Position": "16",
-                "Team": "Monaco",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
-                "Position": "17",
                 "Team": "Olympiacos",
                 "Played": "1",
                 "Wins": "0",
@@ -1146,7 +1136,7 @@
                 "Points": "1"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Pafos",
                 "Played": "1",
                 "Wins": "0",
@@ -1156,7 +1146,7 @@
                 "Points": "1"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Barcelona",
                 "Played": "0",
                 "Wins": "0",
@@ -1166,7 +1156,7 @@
                 "Points": "0"
             },
             {
-                "Position": "20",
+                "Position": "19",
                 "Team": "Eintracht Frankfurt",
                 "Played": "0",
                 "Wins": "0",
@@ -1176,7 +1166,7 @@
                 "Points": "0"
             },
             {
-                "Position": "21",
+                "Position": "20",
                 "Team": "Galatasaray",
                 "Played": "0",
                 "Wins": "0",
@@ -1186,7 +1176,7 @@
                 "Points": "0"
             },
             {
-                "Position": "22",
+                "Position": "21",
                 "Team": "Kairat",
                 "Played": "0",
                 "Wins": "0",
@@ -1196,7 +1186,7 @@
                 "Points": "0"
             },
             {
-                "Position": "23",
+                "Position": "22",
                 "Team": "Manchester City",
                 "Played": "0",
                 "Wins": "0",
@@ -1206,7 +1196,7 @@
                 "Points": "0"
             },
             {
-                "Position": "24",
+                "Position": "23",
                 "Team": "Napoli",
                 "Played": "0",
                 "Wins": "0",
@@ -1216,7 +1206,7 @@
                 "Points": "0"
             },
             {
-                "Position": "25",
+                "Position": "24",
                 "Team": "Newcastle United",
                 "Played": "0",
                 "Wins": "0",
@@ -1226,7 +1216,7 @@
                 "Points": "0"
             },
             {
-                "Position": "26",
+                "Position": "25",
                 "Team": "Sporting CP",
                 "Played": "0",
                 "Wins": "0",
@@ -1236,7 +1226,7 @@
                 "Points": "0"
             },
             {
-                "Position": "27",
+                "Position": "26",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "1",
                 "Wins": "0",
@@ -1246,7 +1236,7 @@
                 "Points": "0"
             },
             {
-                "Position": "28",
+                "Position": "27",
                 "Team": "Benfica",
                 "Played": "1",
                 "Wins": "0",
@@ -1256,7 +1246,7 @@
                 "Points": "0"
             },
             {
-                "Position": "29",
+                "Position": "28",
                 "Team": "Marseille",
                 "Played": "1",
                 "Wins": "0",
@@ -1266,7 +1256,7 @@
                 "Points": "0"
             },
             {
-                "Position": "30",
+                "Position": "29",
                 "Team": "Bayer Leverkusen",
                 "Played": "1",
                 "Wins": "0",
@@ -1276,7 +1266,7 @@
                 "Points": "0"
             },
             {
-                "Position": "31",
+                "Position": "30",
                 "Team": "Villarreal",
                 "Played": "1",
                 "Wins": "0",
@@ -1286,7 +1276,7 @@
                 "Points": "0"
             },
             {
-                "Position": "32",
+                "Position": "31",
                 "Team": "Chelsea",
                 "Played": "1",
                 "Wins": "0",
@@ -1296,7 +1286,7 @@
                 "Points": "0"
             },
             {
-                "Position": "33",
+                "Position": "32",
                 "Team": "PSV",
                 "Played": "1",
                 "Wins": "0",
@@ -1306,7 +1296,7 @@
                 "Points": "0"
             },
             {
-                "Position": "34",
+                "Position": "33",
                 "Team": "Ajax",
                 "Played": "1",
                 "Wins": "0",
@@ -1316,13 +1306,23 @@
                 "Points": "0"
             },
             {
-                "Position": "35",
+                "Position": "34",
                 "Team": "Athletic Bilbao",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "-2",
+                "Points": "0"
+            },
+            {
+                "Position": "35",
+                "Team": "Monaco",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-3",
                 "Points": "0"
             },
             {
