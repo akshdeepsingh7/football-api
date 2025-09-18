@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 18 September 2025, 09:37 PM UTC",
-        "IST": "Friday, 19 September 2025, 03:07 AM IST"
+        "UTC": "Thursday, 18 September 2025, 10:15 PM UTC",
+        "IST": "Friday, 19 September 2025, 03:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -408,7 +408,188 @@
                 "Points": "1"
             }
         ],
-        "Bundesliga": [],
+        "Bundesliga": [
+            {
+                "Position": "1",
+                "Team": "Bayern Munich",
+                "Played": "3",
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "12",
+                "Points": "9"
+            },
+            {
+                "Position": "2",
+                "Team": "Borussia Dortmund",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "5",
+                "Points": "7"
+            },
+            {
+                "Position": "3",
+                "Team": "K\u00f6ln",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "4",
+                "Points": "7"
+            },
+            {
+                "Position": "4",
+                "Team": "St. Pauli",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "7"
+            },
+            {
+                "Position": "5",
+                "Team": "Eintracht Frankfurt",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "6"
+            },
+            {
+                "Position": "6",
+                "Team": "Hoffenheim",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "6"
+            },
+            {
+                "Position": "7",
+                "Team": "RB Leipzig",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-3",
+                "Points": "6"
+            },
+            {
+                "Position": "8",
+                "Team": "VfL Wolfsburg",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "5"
+            },
+            {
+                "Position": "9",
+                "Team": "Werder Bremen",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "4"
+            },
+            {
+                "Position": "10",
+                "Team": "Bayer Leverkusen",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "4"
+            },
+            {
+                "Position": "11",
+                "Team": "Augsburg",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "3"
+            },
+            {
+                "Position": "12",
+                "Team": "VfB Stuttgart",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "3"
+            },
+            {
+                "Position": "13",
+                "Team": "SC Freiburg",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "3"
+            },
+            {
+                "Position": "14",
+                "Team": "Union Berlin",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-4",
+                "Points": "3"
+            },
+            {
+                "Position": "15",
+                "Team": "Mainz 05",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "1"
+            },
+            {
+                "Position": "16",
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-5",
+                "Points": "1"
+            },
+            {
+                "Position": "17",
+                "Team": "Hamburg",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-7",
+                "Points": "1"
+            },
+            {
+                "Position": "18",
+                "Team": "Heidenheim",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "-6",
+                "Points": "0"
+            }
+        ],
         "Serie A": [
             {
                 "Position": "1",

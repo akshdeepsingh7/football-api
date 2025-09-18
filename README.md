@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 18 September 2025, 09:37 PM UTC (Friday, 19 September 2025, 03:07 AM IST)
+**Last Updated:** Thursday, 18 September 2025, 10:15 PM UTC (Friday, 19 September 2025, 03:45 AM IST)
 
 ### Premier League
 
@@ -95,7 +95,26 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Bundesliga
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Bayern Munich | 3 | 3 | 0 | 0 | 12 | 9 |
+| 2 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
+| 3 | Köln | 3 | 2 | 1 | 0 | 4 | 7 |
+| 4 | St. Pauli | 3 | 2 | 1 | 0 | 3 | 7 |
+| 5 | Eintracht Frankfurt | 3 | 2 | 0 | 1 | 3 | 6 |
+| 6 | Hoffenheim | 3 | 2 | 0 | 1 | 1 | 6 |
+| 7 | RB Leipzig | 3 | 2 | 0 | 1 | -3 | 6 |
+| 8 | VfL Wolfsburg | 3 | 1 | 2 | 0 | 2 | 5 |
+| 9 | Werder Bremen | 3 | 1 | 1 | 1 | 1 | 4 |
+| 10 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 1 | 4 |
+| 11 | Augsburg | 3 | 1 | 0 | 2 | 0 | 3 |
+| 12 | VfB Stuttgart | 3 | 1 | 0 | 2 | -2 | 3 |
+| 13 | SC Freiburg | 3 | 1 | 0 | 2 | -3 | 3 |
+| 14 | Union Berlin | 3 | 1 | 0 | 2 | -4 | 3 |
+| 15 | Mainz 05 | 3 | 0 | 1 | 2 | -2 | 1 |
+| 16 | Borussia Mönchengladbach | 3 | 0 | 1 | 2 | -5 | 1 |
+| 17 | Hamburg | 3 | 0 | 1 | 2 | -7 | 1 |
+| 18 | Heidenheim | 3 | 0 | 0 | 3 | -6 | 0 |
 
 ### Serie A
 
