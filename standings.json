@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 18 September 2025, 06:28 PM UTC",
-        "IST": "Thursday, 18 September 2025, 11:58 PM IST"
+        "UTC": "Thursday, 18 September 2025, 06:49 PM UTC",
+        "IST": "Friday, 19 September 2025, 12:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -977,7 +977,7 @@
         "Champions League": [
             {
                 "Position": "1",
-                "Team": "Club Brugge",
+                "Team": "PSG",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -987,12 +987,12 @@
             },
             {
                 "Position": "2",
-                "Team": "PSG",
+                "Team": "Club Brugge",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "4",
+                "Goal Difference": "3",
                 "Points": "3"
             },
             {
@@ -1097,26 +1097,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Bod\u00f8/Glimt",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
-                "Position": "14",
-                "Team": "Slavia Prague",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
-                "Position": "15",
                 "Team": "Bayer Leverkusen",
                 "Played": "1",
                 "Wins": "0",
@@ -1126,8 +1106,28 @@
                 "Points": "1"
             },
             {
-                "Position": "16",
+                "Position": "14",
+                "Team": "Bod\u00f8/Glimt",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
+                "Position": "15",
                 "Team": "FC Copenhagen",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
+                "Position": "16",
+                "Team": "Slavia Prague",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -1317,17 +1317,17 @@
             },
             {
                 "Position": "35",
-                "Team": "Atalanta",
+                "Team": "Monaco",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "0"
             },
             {
                 "Position": "36",
-                "Team": "Monaco",
+                "Team": "Atalanta",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 18 September 2025, 06:28 PM UTC (Thursday, 18 September 2025, 11:58 PM IST)
+**Last Updated:** Thursday, 18 September 2025, 06:49 PM UTC (Friday, 19 September 2025, 12:19 AM IST)
 
 ### Premier League
 
@@ -168,8 +168,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Club Brugge | 1 | 1 | 0 | 0 | 4 | 3 |
-| 2 | PSG | 1 | 1 | 0 | 0 | 4 | 3 |
+| 1 | PSG | 1 | 1 | 0 | 0 | 4 | 3 |
+| 2 | Club Brugge | 1 | 1 | 0 | 0 | 3 | 3 |
 | 3 | Union Saint-Gilloise | 1 | 1 | 0 | 0 | 2 | 3 |
 | 4 | Bayern Munich | 1 | 1 | 0 | 0 | 2 | 3 |
 | 5 | Arsenal | 1 | 1 | 0 | 0 | 2 | 3 |
@@ -180,10 +180,10 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Tottenham Hotspur | 1 | 1 | 0 | 0 | 1 | 3 |
 | 11 | Borussia Dortmund | 1 | 0 | 1 | 0 | 0 | 1 |
 | 12 | Juventus | 1 | 0 | 1 | 0 | 0 | 1 |
-| 13 | Bodø/Glimt | 1 | 0 | 1 | 0 | 0 | 1 |
-| 14 | Slavia Prague | 1 | 0 | 1 | 0 | 0 | 1 |
-| 15 | Bayer Leverkusen | 1 | 0 | 1 | 0 | 0 | 1 |
-| 16 | FC Copenhagen | 1 | 0 | 1 | 0 | 0 | 1 |
+| 13 | Bayer Leverkusen | 1 | 0 | 1 | 0 | 0 | 1 |
+| 14 | Bodø/Glimt | 1 | 0 | 1 | 0 | 0 | 1 |
+| 15 | FC Copenhagen | 1 | 0 | 1 | 0 | 0 | 1 |
+| 16 | Slavia Prague | 1 | 0 | 1 | 0 | 0 | 1 |
 | 17 | Olympiacos | 1 | 0 | 1 | 0 | 0 | 1 |
 | 18 | Pafos | 1 | 0 | 1 | 0 | 0 | 1 |
 | 19 | Barcelona | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -202,8 +202,8 @@ The latest league standings are displayed below in Markdown tables:
 | 32 | PSV | 1 | 0 | 0 | 1 | -2 | 0 |
 | 33 | Ajax | 1 | 0 | 0 | 1 | -2 | 0 |
 | 34 | Athletic Bilbao | 1 | 0 | 0 | 1 | -2 | 0 |
-| 35 | Atalanta | 1 | 0 | 0 | 1 | -4 | 0 |
-| 36 | Monaco | 1 | 0 | 0 | 1 | -4 | 0 |
+| 35 | Monaco | 1 | 0 | 0 | 1 | -3 | 0 |
+| 36 | Atalanta | 1 | 0 | 0 | 1 | -4 | 0 |
 
 ### Europa League
 
