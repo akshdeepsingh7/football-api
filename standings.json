@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 18 September 2025, 01:23 AM UTC",
-        "IST": "Thursday, 18 September 2025, 06:53 AM IST"
+        "UTC": "Thursday, 18 September 2025, 02:43 AM UTC",
+        "IST": "Thursday, 18 September 2025, 08:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2527,12 +2527,12 @@
             },
             {
                 "Position": "5",
-                "Team": "Columbus Crew",
-                "Played": "30",
-                "Wins": "13",
-                "Draws": "11",
-                "Losses": "6",
-                "Goal Difference": "5",
+                "Team": "NYCFC",
+                "Played": "29",
+                "Wins": "15",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "9",
                 "Points": "50"
             },
             {
@@ -2547,13 +2547,13 @@
             },
             {
                 "Position": "7",
-                "Team": "NYCFC",
-                "Played": "29",
-                "Wins": "14",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "8",
-                "Points": "48"
+                "Team": "Columbus Crew",
+                "Played": "30",
+                "Wins": "13",
+                "Draws": "10",
+                "Losses": "7",
+                "Goal Difference": "4",
+                "Points": "49"
             },
             {
                 "Position": "8",
@@ -2667,6 +2667,16 @@
             },
             {
                 "Position": "4",
+                "Team": "LAFC",
+                "Played": "28",
+                "Wins": "13",
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "16",
+                "Points": "47"
+            },
+            {
+                "Position": "5",
                 "Team": "Seattle Sounders",
                 "Played": "29",
                 "Wins": "12",
@@ -2674,16 +2684,6 @@
                 "Losses": "8",
                 "Goal Difference": "8",
                 "Points": "45"
-            },
-            {
-                "Position": "5",
-                "Team": "LAFC",
-                "Played": "27",
-                "Wins": "12",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "14",
-                "Points": "44"
             },
             {
                 "Position": "6",
@@ -2728,11 +2728,11 @@
             {
                 "Position": "10",
                 "Team": "Real Salt Lake",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "10",
                 "Draws": "4",
-                "Losses": "14",
-                "Goal Difference": "-7",
+                "Losses": "15",
+                "Goal Difference": "-9",
                 "Points": "34"
             },
             {
