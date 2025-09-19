@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 19 September 2025, 09:37 PM UTC (Saturday, 20 September 2025, 03:07 AM IST)
+**Last Updated:** Friday, 19 September 2025, 10:17 PM UTC (Saturday, 20 September 2025, 03:47 AM IST)
 
 ### Premier League
 
@@ -401,27 +401,27 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Boca Juniors | 8 | 3 | 4 | 1 | 6 | 13 |
 | 4 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
 | 5 | Banfield | 8 | 4 | 1 | 3 | -1 | 13 |
-| 6 | Def y Justicia | 8 | 3 | 3 | 2 | 2 | 12 |
-| 7 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
-| 8 | Huracán | 8 | 3 | 3 | 2 | -1 | 12 |
+| 6 | Huracán | 9 | 3 | 4 | 2 | -1 | 13 |
+| 7 | Def y Justicia | 8 | 3 | 3 | 2 | 2 | 12 |
+| 8 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
 | 9 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
 | 10 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
 | 11 | Tigre | 8 | 2 | 3 | 3 | -1 | 9 |
 | 12 | Argentinos Juniors | 8 | 2 | 2 | 4 | -1 | 8 |
 | 13 | Independiente Rivadavia | 8 | 2 | 2 | 4 | -2 | 8 |
-| 14 | Racing Club | 8 | 2 | 1 | 5 | -4 | 7 |
+| 14 | Racing Club | 9 | 2 | 2 | 5 | -4 | 8 |
 | 15 | Aldosivi | 8 | 0 | 3 | 5 | -9 | 3 |
 | 1 | Riestra | 9 | 6 | 1 | 2 | 7 | 19 |
 | 2 | River Plate | 8 | 5 | 3 | 0 | 11 | 18 |
-| 3 | Vélez | 8 | 4 | 3 | 1 | 6 | 15 |
+| 3 | Vélez | 9 | 4 | 4 | 1 | 6 | 16 |
 | 4 | Lanús | 8 | 4 | 1 | 3 | 0 | 13 |
 | 5 | San Lorenzo | 8 | 3 | 3 | 2 | 0 | 12 |
 | 6 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
-| 7 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
-| 8 | Atl. Tucumán | 8 | 2 | 3 | 3 | 0 | 9 |
-| 9 | Platense | 7 | 2 | 3 | 2 | -2 | 9 |
-| 10 | Sarmiento | 7 | 2 | 3 | 2 | -2 | 9 |
-| 11 | San Martín SJ | 8 | 2 | 3 | 3 | -2 | 9 |
+| 7 | San Martín SJ | 9 | 2 | 4 | 3 | -2 | 10 |
+| 8 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
+| 9 | Atl. Tucumán | 8 | 2 | 3 | 3 | 0 | 9 |
+| 10 | Platense | 7 | 2 | 3 | 2 | -2 | 9 |
+| 11 | Sarmiento | 7 | 2 | 3 | 2 | -2 | 9 |
 | 12 | Instituto | 8 | 2 | 3 | 3 | -6 | 9 |
 | 13 | Godoy Cruz | 8 | 1 | 4 | 3 | -3 | 7 |
 | 14 | Talleres | 8 | 1 | 3 | 4 | -5 | 6 |
