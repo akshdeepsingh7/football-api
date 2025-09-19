@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 19 September 2025, 08:39 PM UTC (Saturday, 20 September 2025, 02:09 AM IST)
+**Last Updated:** Friday, 19 September 2025, 09:16 PM UTC (Saturday, 20 September 2025, 02:46 AM IST)
 
 ### Premier League
 
@@ -314,11 +314,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Middlesbrough | 6 | 5 | 1 | 0 | 8 | 16 |
+| 1 | Middlesbrough | 6 | 5 | 1 | 0 | 7 | 16 |
 | 2 | Stoke City | 5 | 4 | 0 | 1 | 6 | 12 |
 | 3 | Bristol City | 5 | 3 | 2 | 0 | 8 | 11 |
 | 4 | Leicester City | 5 | 3 | 1 | 1 | 3 | 10 |
-| 5 | West Bromwich Albion | 6 | 3 | 1 | 2 | 0 | 10 |
+| 5 | West Bromwich Albion | 6 | 3 | 1 | 2 | 1 | 10 |
 | 6 | Coventry City | 5 | 2 | 3 | 0 | 8 | 9 |
 | 7 | Swansea City | 5 | 2 | 2 | 1 | 2 | 8 |
 | 8 | Preston North End | 5 | 2 | 2 | 1 | 1 | 8 |
@@ -412,12 +412,12 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Racing Club | 8 | 2 | 1 | 5 | -4 | 7 |
 | 15 | Aldosivi | 8 | 0 | 3 | 5 | -9 | 3 |
 | 1 | River Plate | 8 | 5 | 3 | 0 | 11 | 18 |
-| 2 | Riestra | 8 | 5 | 1 | 2 | 6 | 16 |
+| 2 | Riestra | 9 | 5 | 2 | 2 | 6 | 17 |
 | 3 | Vélez | 8 | 4 | 3 | 1 | 6 | 15 |
 | 4 | Lanús | 8 | 4 | 1 | 3 | 0 | 13 |
 | 5 | San Lorenzo | 8 | 3 | 3 | 2 | 0 | 12 |
 | 6 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
-| 7 | GELP | 8 | 3 | 1 | 4 | -2 | 10 |
+| 7 | GELP | 9 | 3 | 2 | 4 | -2 | 11 |
 | 8 | Atl. Tucumán | 8 | 2 | 3 | 3 | 0 | 9 |
 | 9 | Platense | 7 | 2 | 3 | 2 | -2 | 9 |
 | 10 | Sarmiento | 7 | 2 | 3 | 2 | -2 | 9 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 19 September 2025, 08:39 PM UTC",
-        "IST": "Saturday, 20 September 2025, 02:09 AM IST"
+        "UTC": "Friday, 19 September 2025, 09:16 PM UTC",
+        "IST": "Saturday, 20 September 2025, 02:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2250,7 +2250,7 @@
                 "Wins": "5",
                 "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "8",
+                "Goal Difference": "7",
                 "Points": "16"
             },
             {
@@ -2290,7 +2290,7 @@
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "0",
+                "Goal Difference": "1",
                 "Points": "10"
             },
             {
@@ -3082,12 +3082,12 @@
             {
                 "Position": "2",
                 "Team": "Riestra",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "5",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "6",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "3",
@@ -3132,12 +3132,12 @@
             {
                 "Position": "7",
                 "Team": "GELP",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "3",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "-2",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "8",
