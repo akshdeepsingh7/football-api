@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 19 September 2025, 09:16 PM UTC (Saturday, 20 September 2025, 02:46 AM IST)
+**Last Updated:** Friday, 19 September 2025, 09:37 PM UTC (Saturday, 20 September 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -411,13 +411,13 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Independiente Rivadavia | 8 | 2 | 2 | 4 | -2 | 8 |
 | 14 | Racing Club | 8 | 2 | 1 | 5 | -4 | 7 |
 | 15 | Aldosivi | 8 | 0 | 3 | 5 | -9 | 3 |
-| 1 | River Plate | 8 | 5 | 3 | 0 | 11 | 18 |
-| 2 | Riestra | 9 | 5 | 2 | 2 | 6 | 17 |
+| 1 | Riestra | 9 | 6 | 1 | 2 | 7 | 19 |
+| 2 | River Plate | 8 | 5 | 3 | 0 | 11 | 18 |
 | 3 | Vélez | 8 | 4 | 3 | 1 | 6 | 15 |
 | 4 | Lanús | 8 | 4 | 1 | 3 | 0 | 13 |
 | 5 | San Lorenzo | 8 | 3 | 3 | 2 | 0 | 12 |
 | 6 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
-| 7 | GELP | 9 | 3 | 2 | 4 | -2 | 11 |
+| 7 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
 | 8 | Atl. Tucumán | 8 | 2 | 3 | 3 | 0 | 9 |
 | 9 | Platense | 7 | 2 | 3 | 2 | -2 | 9 |
 | 10 | Sarmiento | 7 | 2 | 3 | 2 | -2 | 9 |
