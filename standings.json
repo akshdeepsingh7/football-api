@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 19 September 2025, 06:27 PM UTC",
-        "IST": "Friday, 19 September 2025, 11:57 PM IST"
+        "UTC": "Friday, 19 September 2025, 06:47 PM UTC",
+        "IST": "Saturday, 20 September 2025, 12:17 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -421,6 +421,16 @@
             },
             {
                 "Position": "2",
+                "Team": "St. Pauli",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "8"
+            },
+            {
+                "Position": "3",
                 "Team": "Borussia Dortmund",
                 "Played": "3",
                 "Wins": "2",
@@ -430,23 +440,13 @@
                 "Points": "7"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "K\u00f6ln",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "4",
-                "Points": "7"
-            },
-            {
-                "Position": "4",
-                "Team": "St. Pauli",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "3",
                 "Points": "7"
             },
             {
@@ -511,22 +511,22 @@
             },
             {
                 "Position": "11",
+                "Team": "VfB Stuttgart",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "4"
+            },
+            {
+                "Position": "12",
                 "Team": "Augsburg",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "0",
-                "Points": "3"
-            },
-            {
-                "Position": "12",
-                "Team": "VfB Stuttgart",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-2",
                 "Points": "3"
             },
             {
@@ -815,17 +815,17 @@
             },
             {
                 "Position": "3",
-                "Team": "Monaco",
-                "Played": "4",
+                "Team": "Lyon",
+                "Played": "5",
                 "Wins": "3",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "3",
-                "Points": "9"
+                "Points": "10"
             },
             {
                 "Position": "4",
-                "Team": "Lyon",
+                "Team": "Monaco",
                 "Played": "4",
                 "Wins": "3",
                 "Draws": "0",
@@ -885,6 +885,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Angers",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "6"
+            },
+            {
+                "Position": "11",
                 "Team": "Toulouse",
                 "Played": "4",
                 "Wins": "2",
@@ -894,7 +904,7 @@
                 "Points": "6"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Paris",
                 "Played": "4",
                 "Wins": "2",
@@ -902,16 +912,6 @@
                 "Losses": "2",
                 "Goal Difference": "-2",
                 "Points": "6"
-            },
-            {
-                "Position": "12",
-                "Team": "Angers",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "5"
             },
             {
                 "Position": "13",

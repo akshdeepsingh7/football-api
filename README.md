@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 19 September 2025, 06:27 PM UTC (Friday, 19 September 2025, 11:57 PM IST)
+**Last Updated:** Friday, 19 September 2025, 06:47 PM UTC (Saturday, 20 September 2025, 12:17 AM IST)
 
 ### Premier League
 
@@ -98,17 +98,17 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 3 | 3 | 0 | 0 | 12 | 9 |
-| 2 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
-| 3 | Köln | 3 | 2 | 1 | 0 | 4 | 7 |
-| 4 | St. Pauli | 3 | 2 | 1 | 0 | 3 | 7 |
+| 2 | St. Pauli | 4 | 2 | 2 | 0 | 3 | 8 |
+| 3 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
+| 4 | Köln | 3 | 2 | 1 | 0 | 4 | 7 |
 | 5 | Eintracht Frankfurt | 3 | 2 | 0 | 1 | 3 | 6 |
 | 6 | Hoffenheim | 3 | 2 | 0 | 1 | 1 | 6 |
 | 7 | RB Leipzig | 3 | 2 | 0 | 1 | -3 | 6 |
 | 8 | VfL Wolfsburg | 3 | 1 | 2 | 0 | 2 | 5 |
 | 9 | Werder Bremen | 3 | 1 | 1 | 1 | 1 | 4 |
 | 10 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 1 | 4 |
-| 11 | Augsburg | 3 | 1 | 0 | 2 | 0 | 3 |
-| 12 | VfB Stuttgart | 3 | 1 | 0 | 2 | -2 | 3 |
+| 11 | VfB Stuttgart | 4 | 1 | 1 | 2 | -2 | 4 |
+| 12 | Augsburg | 3 | 1 | 0 | 2 | 0 | 3 |
 | 13 | SC Freiburg | 3 | 1 | 0 | 2 | -3 | 3 |
 | 14 | Union Berlin | 3 | 1 | 0 | 2 | -4 | 3 |
 | 15 | Mainz 05 | 3 | 0 | 1 | 2 | -2 | 1 |
@@ -147,16 +147,16 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 4 | 4 | 0 | 0 | 7 | 12 |
 | 2 | Lille | 4 | 3 | 1 | 0 | 8 | 10 |
-| 3 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
-| 4 | Lyon | 4 | 3 | 0 | 1 | 3 | 9 |
+| 3 | Lyon | 5 | 3 | 1 | 1 | 3 | 10 |
+| 4 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
 | 5 | Strasbourg | 4 | 3 | 0 | 1 | 2 | 9 |
 | 6 | Rennes | 4 | 2 | 1 | 1 | -1 | 7 |
 | 7 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
 | 8 | Lens | 4 | 2 | 0 | 2 | 0 | 6 |
 | 9 | Nice | 4 | 2 | 0 | 2 | 0 | 6 |
-| 10 | Toulouse | 4 | 2 | 0 | 2 | -1 | 6 |
-| 11 | Paris | 4 | 2 | 0 | 2 | -2 | 6 |
-| 12 | Angers | 4 | 1 | 2 | 1 | 0 | 5 |
+| 10 | Angers | 5 | 1 | 3 | 1 | 0 | 6 |
+| 11 | Toulouse | 4 | 2 | 0 | 2 | -1 | 6 |
+| 12 | Paris | 4 | 2 | 0 | 2 | -2 | 6 |
 | 13 | Le Havre | 4 | 1 | 0 | 3 | -2 | 3 |
 | 14 | Nantes | 4 | 1 | 0 | 3 | -2 | 3 |
 | 15 | Auxerre | 4 | 1 | 0 | 3 | -3 | 3 |
