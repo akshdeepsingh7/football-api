@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 09:15 PM UTC",
-        "IST": "Sunday, 21 September 2025, 02:45 AM IST"
+        "UTC": "Saturday, 20 September 2025, 09:37 PM UTC",
+        "IST": "Sunday, 21 September 2025, 03:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3264,22 +3264,22 @@
             {
                 "Position": "5",
                 "Team": "Botafogo",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "10",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "6",
                 "Goal Difference": "16",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "6",
                 "Team": "Bahia",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "10",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "5",
                 "Goal Difference": "5",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "7",
@@ -3324,12 +3324,12 @@
             {
                 "Position": "11",
                 "Team": "Cear\u00e1",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "7",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "-1",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "12",
@@ -3344,12 +3344,12 @@
             {
                 "Position": "13",
                 "Team": "Atl\u00e9tico Mineiro",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "6",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "8",
                 "Goal Difference": "-4",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "14",
