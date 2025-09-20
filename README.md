@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 September 2025, 01:22 PM UTC (Saturday, 20 September 2025, 06:52 PM IST)
+**Last Updated:** Saturday, 20 September 2025, 01:38 PM UTC (Saturday, 20 September 2025, 07:08 PM IST)
 
 ### Premier League
 
@@ -84,37 +84,37 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Osasuna | 4 | 2 | 0 | 2 | 1 | 6 |
 | 11 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
 | 12 | Sevilla | 4 | 1 | 1 | 2 | 0 | 4 |
-| 13 | Rayo Vallecano | 4 | 1 | 1 | 2 | -1 | 4 |
-| 14 | Levante | 5 | 1 | 1 | 3 | -2 | 4 |
+| 13 | Levante | 5 | 1 | 1 | 3 | -1 | 4 |
+| 14 | Rayo Vallecano | 4 | 1 | 1 | 2 | -1 | 4 |
 | 15 | Celta de Vigo | 5 | 0 | 4 | 1 | -2 | 4 |
 | 16 | Valencia | 4 | 1 | 1 | 2 | -4 | 4 |
 | 17 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
 | 18 | Real Sociedad | 5 | 0 | 2 | 3 | -4 | 2 |
 | 19 | Mallorca | 4 | 0 | 1 | 3 | -5 | 1 |
-| 20 | Girona | 5 | 0 | 1 | 4 | -11 | 1 |
+| 20 | Girona | 5 | 0 | 1 | 4 | -12 | 1 |
 
 ### Bundesliga
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 3 | 3 | 0 | 0 | 12 | 9 |
+| 1 | Bayern Munich | 4 | 3 | 1 | 0 | 12 | 10 |
 | 2 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
 | 3 | Köln | 3 | 2 | 1 | 0 | 4 | 7 |
-| 4 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
-| 5 | Eintracht Frankfurt | 3 | 2 | 0 | 1 | 3 | 6 |
-| 6 | Hoffenheim | 3 | 2 | 0 | 1 | 1 | 6 |
+| 4 | Hoffenheim | 4 | 2 | 1 | 1 | 1 | 7 |
+| 5 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
+| 6 | Eintracht Frankfurt | 3 | 2 | 0 | 1 | 3 | 6 |
 | 7 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
 | 8 | RB Leipzig | 3 | 2 | 0 | 1 | -3 | 6 |
 | 9 | VfL Wolfsburg | 3 | 1 | 2 | 0 | 2 | 5 |
-| 10 | Werder Bremen | 3 | 1 | 1 | 1 | 1 | 4 |
+| 10 | Werder Bremen | 4 | 1 | 2 | 1 | 1 | 5 |
 | 11 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 1 | 4 |
-| 12 | Augsburg | 3 | 1 | 0 | 2 | 0 | 3 |
-| 13 | SC Freiburg | 3 | 1 | 0 | 2 | -3 | 3 |
+| 12 | Augsburg | 4 | 1 | 1 | 2 | 0 | 4 |
+| 13 | SC Freiburg | 4 | 1 | 1 | 2 | -3 | 4 |
 | 14 | Union Berlin | 3 | 1 | 0 | 2 | -4 | 3 |
-| 15 | Mainz 05 | 3 | 0 | 1 | 2 | -2 | 1 |
-| 16 | Borussia Mönchengladbach | 3 | 0 | 1 | 2 | -5 | 1 |
-| 17 | Hamburg | 3 | 0 | 1 | 2 | -7 | 1 |
-| 18 | Heidenheim | 3 | 0 | 0 | 3 | -6 | 0 |
+| 15 | Mainz 05 | 4 | 0 | 2 | 2 | -2 | 2 |
+| 16 | Hamburg | 4 | 0 | 2 | 2 | -7 | 2 |
+| 17 | Borussia Mönchengladbach | 3 | 0 | 1 | 2 | -5 | 1 |
+| 18 | Heidenheim | 4 | 0 | 1 | 3 | -6 | 1 |
 
 ### Serie A
 
@@ -320,11 +320,11 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Leicester City | 6 | 3 | 2 | 1 | 3 | 11 |
 | 5 | Coventry City | 6 | 2 | 4 | 0 | 8 | 10 |
 | 6 | West Bromwich Albion | 6 | 3 | 1 | 2 | 1 | 10 |
-| 7 | Queens Park Rangers | 6 | 3 | 1 | 2 | -2 | 10 |
-| 8 | Swansea City | 6 | 2 | 3 | 1 | 2 | 9 |
-| 9 | Preston North End | 5 | 2 | 2 | 1 | 1 | 8 |
-| 10 | Portsmouth | 5 | 2 | 2 | 1 | 1 | 8 |
-| 11 | Birmingham City | 6 | 2 | 2 | 2 | -1 | 8 |
+| 7 | Birmingham City | 6 | 3 | 1 | 2 | 0 | 10 |
+| 8 | Queens Park Rangers | 6 | 3 | 1 | 2 | -2 | 10 |
+| 9 | Swansea City | 6 | 2 | 2 | 2 | 1 | 8 |
+| 10 | Preston North End | 5 | 2 | 2 | 1 | 1 | 8 |
+| 11 | Portsmouth | 5 | 2 | 2 | 1 | 1 | 8 |
 | 12 | Norwich City | 5 | 2 | 1 | 2 | 1 | 7 |
 | 13 | Millwall | 5 | 2 | 1 | 2 | -3 | 7 |
 | 14 | Ipswich Town | 5 | 1 | 3 | 1 | 4 | 6 |
