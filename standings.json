@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 10:37 PM UTC",
-        "IST": "Sunday, 21 September 2025, 04:07 AM IST"
+        "UTC": "Saturday, 20 September 2025, 11:16 PM UTC",
+        "IST": "Sunday, 21 September 2025, 04:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3253,6 +3253,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Botafogo",
+                "Played": "23",
+                "Wins": "11",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "17",
+                "Points": "39"
+            },
+            {
+                "Position": "5",
                 "Team": "Mirassol",
                 "Played": "22",
                 "Wins": "10",
@@ -3262,24 +3272,14 @@
                 "Points": "39"
             },
             {
-                "Position": "5",
-                "Team": "Botafogo",
-                "Played": "23",
-                "Wins": "10",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "16",
-                "Points": "37"
-            },
-            {
                 "Position": "6",
                 "Team": "Bahia",
                 "Played": "22",
                 "Wins": "10",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "4",
-                "Points": "36"
+                "Draws": "7",
+                "Losses": "5",
+                "Goal Difference": "5",
+                "Points": "37"
             },
             {
                 "Position": "7",
@@ -3313,16 +3313,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Cear\u00e1",
-                "Played": "23",
-                "Wins": "8",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "0",
-                "Points": "30"
-            },
-            {
-                "Position": "11",
                 "Team": "Corinthians",
                 "Played": "23",
                 "Wins": "7",
@@ -3330,6 +3320,16 @@
                 "Losses": "8",
                 "Goal Difference": "-4",
                 "Points": "29"
+            },
+            {
+                "Position": "11",
+                "Team": "Cear\u00e1",
+                "Played": "23",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-1",
+                "Points": "28"
             },
             {
                 "Position": "12",
@@ -3346,10 +3346,10 @@
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "22",
                 "Wins": "6",
-                "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "-4",
-                "Points": "26"
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-5",
+                "Points": "25"
             },
             {
                 "Position": "14",
