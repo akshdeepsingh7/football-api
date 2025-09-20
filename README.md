@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 September 2025, 08:37 PM UTC (Sunday, 21 September 2025, 02:07 AM IST)
+**Last Updated:** Saturday, 20 September 2025, 09:15 PM UTC (Sunday, 21 September 2025, 02:45 AM IST)
 
 ### Premier League
 
@@ -78,10 +78,10 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Espanyol | 5 | 3 | 1 | 1 | 1 | 10 |
 | 5 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
 | 6 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
-| 7 | Athletic Bilbao | 5 | 3 | 0 | 2 | 1 | 9 |
+| 7 | Athletic Bilbao | 5 | 3 | 0 | 2 | 0 | 9 |
 | 8 | Sevilla | 5 | 2 | 1 | 2 | 1 | 7 |
 | 9 | Alavés | 5 | 2 | 1 | 2 | 0 | 7 |
-| 10 | Valencia | 5 | 2 | 1 | 2 | -3 | 7 |
+| 10 | Valencia | 5 | 2 | 1 | 2 | -2 | 7 |
 | 11 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
 | 12 | Osasuna | 5 | 2 | 0 | 3 | 0 | 6 |
 | 13 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
@@ -355,10 +355,10 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | New York RB | 30 | 11 | 7 | 12 | 3 | 40 |
 | 11 | New England Revolution | 31 | 8 | 8 | 15 | -6 | 32 |
 | 12 | Toronto | 29 | 5 | 11 | 13 | -7 | 26 |
-| 13 | Atlanta United | 29 | 5 | 11 | 13 | -18 | 26 |
+| 13 | Atlanta United | 30 | 5 | 11 | 14 | -19 | 26 |
 | 14 | DC United | 30 | 5 | 10 | 15 | -28 | 25 |
 | 15 | CF Montréal | 30 | 5 | 9 | 16 | -24 | 24 |
-| 1 | San Diego | 30 | 17 | 5 | 8 | 18 | 56 |
+| 1 | San Diego | 31 | 18 | 5 | 8 | 19 | 59 |
 | 2 | Minnesota United | 30 | 15 | 9 | 6 | 18 | 54 |
 | 3 | Vancouver Whitecaps | 28 | 15 | 7 | 6 | 23 | 52 |
 | 4 | LAFC | 28 | 13 | 8 | 7 | 17 | 47 |

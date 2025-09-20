@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 08:37 PM UTC",
-        "IST": "Sunday, 21 September 2025, 02:07 AM IST"
+        "UTC": "Saturday, 20 September 2025, 09:15 PM UTC",
+        "IST": "Sunday, 21 September 2025, 02:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -274,7 +274,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "1",
+                "Goal Difference": "0",
                 "Points": "9"
             },
             {
@@ -304,7 +304,7 @@
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "7"
             },
             {
@@ -2608,11 +2608,11 @@
             {
                 "Position": "13",
                 "Team": "Atlanta United",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "5",
                 "Draws": "11",
-                "Losses": "13",
-                "Goal Difference": "-18",
+                "Losses": "14",
+                "Goal Difference": "-19",
                 "Points": "26"
             },
             {
@@ -2638,12 +2638,12 @@
             {
                 "Position": "1",
                 "Team": "San Diego",
-                "Played": "30",
-                "Wins": "17",
+                "Played": "31",
+                "Wins": "18",
                 "Draws": "5",
                 "Losses": "8",
-                "Goal Difference": "18",
-                "Points": "56"
+                "Goal Difference": "19",
+                "Points": "59"
             },
             {
                 "Position": "2",
