@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 19 September 2025, 11:37 PM UTC (Saturday, 20 September 2025, 05:07 AM IST)
+**Last Updated:** Saturday, 20 September 2025, 01:22 AM UTC (Saturday, 20 September 2025, 06:52 AM IST)
 
 ### Premier League
 
@@ -403,8 +403,8 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Banfield | 8 | 4 | 1 | 3 | -1 | 13 |
 | 6 | Def y Justicia | 8 | 3 | 3 | 2 | 2 | 12 |
 | 7 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
-| 8 | Huracán | 9 | 3 | 3 | 3 | -2 | 12 |
-| 9 | Racing Club | 9 | 3 | 1 | 5 | -3 | 10 |
+| 8 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
+| 9 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
 | 10 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
 | 11 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
 | 12 | Tigre | 8 | 2 | 3 | 3 | -1 | 9 |
@@ -414,14 +414,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Riestra | 9 | 6 | 1 | 2 | 7 | 19 |
 | 2 | River Plate | 8 | 5 | 3 | 0 | 11 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
-| 4 | Lanús | 8 | 4 | 1 | 3 | 0 | 13 |
+| 4 | Lanús | 9 | 5 | 1 | 3 | 2 | 16 |
 | 5 | San Lorenzo | 8 | 3 | 3 | 2 | 0 | 12 |
 | 6 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
 | 7 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
 | 8 | Atl. Tucumán | 8 | 2 | 3 | 3 | 0 | 9 |
-| 9 | Platense | 7 | 2 | 3 | 2 | -2 | 9 |
-| 10 | Sarmiento | 7 | 2 | 3 | 2 | -2 | 9 |
-| 11 | San Martín SJ | 9 | 2 | 3 | 4 | -3 | 9 |
+| 9 | Sarmiento | 7 | 2 | 3 | 2 | -2 | 9 |
+| 10 | San Martín SJ | 9 | 2 | 3 | 4 | -3 | 9 |
+| 11 | Platense | 8 | 2 | 3 | 3 | -4 | 9 |
 | 12 | Instituto | 8 | 2 | 3 | 3 | -6 | 9 |
 | 13 | Godoy Cruz | 8 | 1 | 4 | 3 | -3 | 7 |
 | 14 | Talleres | 8 | 1 | 3 | 4 | -5 | 6 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 19 September 2025, 11:37 PM UTC",
-        "IST": "Saturday, 20 September 2025, 05:07 AM IST"
+        "UTC": "Saturday, 20 September 2025, 01:22 AM UTC",
+        "IST": "Saturday, 20 September 2025, 06:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2996,7 +2996,7 @@
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "12"
             },
             {
@@ -3006,7 +3006,7 @@
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "5",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "10"
             },
             {
@@ -3102,12 +3102,12 @@
             {
                 "Position": "4",
                 "Team": "Lan\u00fas",
-                "Played": "8",
-                "Wins": "4",
+                "Played": "9",
+                "Wins": "5",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "0",
-                "Points": "13"
+                "Goal Difference": "2",
+                "Points": "16"
             },
             {
                 "Position": "5",
@@ -3151,16 +3151,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Platense",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "9"
-            },
-            {
-                "Position": "10",
                 "Team": "Sarmiento",
                 "Played": "7",
                 "Wins": "2",
@@ -3170,13 +3160,23 @@
                 "Points": "9"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "San Mart\u00edn SJ",
                 "Played": "9",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-3",
+                "Points": "9"
+            },
+            {
+                "Position": "11",
+                "Team": "Platense",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-4",
                 "Points": "9"
             },
             {
