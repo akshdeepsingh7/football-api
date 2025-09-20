@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 September 2025, 07:12 PM UTC (Sunday, 21 September 2025, 12:42 AM IST)
+**Last Updated:** Saturday, 20 September 2025, 07:37 PM UTC (Sunday, 21 September 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -55,13 +55,13 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Chelsea | 5 | 2 | 2 | 1 | 5 | 8 |
 | 7 | Sunderland | 4 | 2 | 1 | 1 | 2 | 7 |
 | 8 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
-| 9 | Manchester United | 5 | 2 | 1 | 2 | -2 | 7 |
-| 10 | Leeds United | 5 | 2 | 1 | 2 | -3 | 7 |
-| 11 | Manchester City | 4 | 2 | 0 | 2 | 4 | 6 |
-| 12 | Fulham | 5 | 1 | 3 | 1 | -1 | 6 |
+| 9 | Brentford | 5 | 2 | 1 | 2 | -1 | 7 |
+| 10 | Manchester United | 5 | 2 | 1 | 2 | -2 | 7 |
+| 11 | Leeds United | 5 | 2 | 1 | 2 | -3 | 7 |
+| 12 | Manchester City | 4 | 2 | 0 | 2 | 4 | 6 |
 | 13 | Newcastle United | 4 | 1 | 2 | 1 | 0 | 5 |
 | 14 | Brighton & Hove Albion | 5 | 1 | 2 | 2 | -2 | 5 |
-| 15 | Brentford | 5 | 1 | 2 | 2 | -2 | 5 |
+| 15 | Fulham | 5 | 1 | 2 | 2 | -2 | 5 |
 | 16 | Nottingham Forest | 5 | 1 | 2 | 2 | -4 | 5 |
 | 17 | Burnley | 5 | 1 | 1 | 3 | -3 | 4 |
 | 18 | West Ham United | 5 | 1 | 0 | 4 | -8 | 3 |
@@ -122,10 +122,10 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Juventus | 4 | 3 | 1 | 0 | 4 | 10 |
 | 2 | Napoli | 3 | 3 | 0 | 0 | 5 | 9 |
-| 3 | Udinese | 4 | 2 | 2 | 0 | 2 | 8 |
+| 3 | Milan | 4 | 3 | 0 | 1 | 3 | 9 |
 | 4 | Cremonese | 3 | 2 | 1 | 0 | 2 | 7 |
 | 5 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
-| 6 | Milan | 4 | 2 | 1 | 1 | 2 | 7 |
+| 6 | Udinese | 4 | 2 | 1 | 1 | 1 | 7 |
 | 7 | Roma | 3 | 2 | 0 | 1 | 1 | 6 |
 | 8 | Bologna | 4 | 2 | 0 | 2 | 0 | 6 |
 | 9 | Atalanta | 3 | 1 | 2 | 0 | 3 | 5 |
@@ -147,11 +147,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 4 | 4 | 0 | 0 | 7 | 12 |
 | 2 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
-| 3 | Lille | 5 | 3 | 2 | 0 | 8 | 11 |
+| 3 | Lille | 5 | 3 | 1 | 1 | 7 | 10 |
 | 4 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
 | 5 | Strasbourg | 4 | 3 | 0 | 1 | 2 | 9 |
-| 6 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
-| 7 | Lens | 5 | 2 | 1 | 2 | 0 | 7 |
+| 6 | Lens | 5 | 3 | 0 | 2 | 1 | 9 |
+| 7 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
 | 8 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
 | 9 | Toulouse | 4 | 2 | 0 | 2 | -1 | 6 |
 | 10 | Paris | 4 | 2 | 0 | 2 | -2 | 6 |
@@ -297,10 +297,10 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Moreirense | 5 | 4 | 0 | 1 | 4 | 12 |
 | 5 | Famalicão | 5 | 3 | 1 | 1 | 4 | 10 |
 | 6 | Gil Vicente | 5 | 3 | 1 | 1 | 3 | 10 |
-| 7 | Braga | 5 | 2 | 2 | 1 | 5 | 8 |
-| 8 | Santa Clara | 6 | 2 | 2 | 2 | -2 | 8 |
+| 7 | Braga | 6 | 2 | 3 | 1 | 5 | 9 |
+| 8 | Vitória S.C. | 6 | 2 | 2 | 2 | -2 | 8 |
 | 9 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
-| 10 | Vitória S.C. | 5 | 2 | 1 | 2 | -2 | 7 |
+| 10 | Santa Clara | 6 | 2 | 2 | 2 | -2 | 8 |
 | 11 | Casa Pia | 5 | 2 | 0 | 3 | -4 | 6 |
 | 12 | Estoril | 5 | 1 | 2 | 2 | 0 | 5 |
 | 13 | Alverca | 6 | 1 | 1 | 4 | -5 | 4 |
