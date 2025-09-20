@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 September 2025, 10:16 PM UTC (Sunday, 21 September 2025, 03:46 AM IST)
+**Last Updated:** Saturday, 20 September 2025, 10:37 PM UTC (Sunday, 21 September 2025, 04:07 AM IST)
 
 ### Premier League
 
@@ -402,7 +402,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
 | 5 | Banfield | 8 | 4 | 1 | 3 | -1 | 13 |
 | 6 | Def y Justicia | 8 | 3 | 3 | 2 | 2 | 12 |
-| 7 | Tigre | 9 | 3 | 3 | 3 | 0 | 12 |
+| 7 | Tigre | 9 | 3 | 3 | 3 | 1 | 12 |
 | 8 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
 | 9 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
 | 10 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
@@ -410,7 +410,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
 | 13 | Independiente Rivadavia | 9 | 2 | 3 | 4 | -2 | 9 |
 | 14 | Argentinos Juniors | 8 | 2 | 2 | 4 | -1 | 8 |
-| 15 | Aldosivi | 9 | 0 | 3 | 6 | -10 | 3 |
+| 15 | Aldosivi | 9 | 0 | 3 | 6 | -11 | 3 |
 | 1 | Riestra | 9 | 6 | 1 | 2 | 7 | 19 |
 | 2 | River Plate | 8 | 5 | 3 | 0 | 11 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
@@ -436,12 +436,12 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Palmeiras | 21 | 14 | 4 | 3 | 15 | 46 |
 | 4 | Mirassol | 22 | 10 | 9 | 3 | 16 | 39 |
 | 5 | Botafogo | 23 | 10 | 7 | 6 | 16 | 37 |
-| 6 | Bahia | 22 | 10 | 7 | 5 | 5 | 37 |
+| 6 | Bahia | 22 | 10 | 6 | 6 | 4 | 36 |
 | 7 | São Paulo | 23 | 9 | 8 | 6 | 4 | 35 |
 | 8 | Fluminense | 22 | 9 | 4 | 9 | -3 | 31 |
 | 9 | RB Bragantino | 23 | 9 | 4 | 10 | -5 | 31 |
-| 10 | Corinthians | 23 | 7 | 8 | 8 | -4 | 29 |
-| 11 | Ceará | 23 | 7 | 7 | 9 | -1 | 28 |
+| 10 | Ceará | 23 | 8 | 6 | 9 | 0 | 30 |
+| 11 | Corinthians | 23 | 7 | 8 | 8 | -4 | 29 |
 | 12 | Internacional | 22 | 7 | 6 | 9 | -7 | 27 |
 | 13 | Atlético Mineiro | 22 | 6 | 8 | 8 | -4 | 26 |
 | 14 | Grêmio | 22 | 6 | 7 | 9 | -7 | 25 |
