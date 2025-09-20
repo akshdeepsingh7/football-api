@@ -41,25 +41,25 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 September 2025, 03:37 PM UTC (Saturday, 20 September 2025, 09:07 PM IST)
+**Last Updated:** Saturday, 20 September 2025, 04:20 PM UTC (Saturday, 20 September 2025, 09:50 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Liverpool FC | 5 | 5 | 0 | 0 | 6 | 15 |
-| 2 | Arsenal | 4 | 3 | 0 | 1 | 8 | 9 |
-| 3 | Tottenham Hotspur | 5 | 3 | 0 | 2 | 6 | 9 |
+| 2 | Tottenham Hotspur | 5 | 3 | 1 | 1 | 7 | 10 |
+| 3 | Arsenal | 4 | 3 | 0 | 1 | 8 | 9 |
 | 4 | Crystal Palace | 5 | 2 | 3 | 0 | 4 | 9 |
 | 5 | AFC Bournemouth | 4 | 3 | 0 | 1 | 1 | 9 |
 | 6 | Chelsea | 4 | 2 | 2 | 0 | 6 | 8 |
 | 7 | Sunderland | 4 | 2 | 1 | 1 | 2 | 7 |
 | 8 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
-| 9 | Brighton & Hove Albion | 5 | 2 | 1 | 2 | -1 | 7 |
-| 10 | Leeds United | 5 | 2 | 1 | 2 | -3 | 7 |
-| 11 | Manchester City | 4 | 2 | 0 | 2 | 4 | 6 |
-| 12 | Newcastle United | 4 | 1 | 2 | 1 | 0 | 5 |
-| 13 | Fulham | 4 | 1 | 2 | 1 | -1 | 5 |
+| 9 | Leeds United | 5 | 2 | 1 | 2 | -3 | 7 |
+| 10 | Manchester City | 4 | 2 | 0 | 2 | 4 | 6 |
+| 11 | Newcastle United | 4 | 1 | 2 | 1 | 0 | 5 |
+| 12 | Fulham | 4 | 1 | 2 | 1 | -1 | 5 |
+| 13 | Brighton & Hove Albion | 5 | 1 | 2 | 2 | -2 | 5 |
 | 14 | Nottingham Forest | 5 | 1 | 2 | 2 | -4 | 5 |
 | 15 | Brentford | 4 | 1 | 1 | 2 | -2 | 4 |
 | 16 | Burnley | 5 | 1 | 1 | 3 | -3 | 4 |
@@ -120,8 +120,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Napoli | 3 | 3 | 0 | 0 | 5 | 9 |
-| 2 | Juventus | 3 | 3 | 0 | 0 | 4 | 9 |
+| 1 | Juventus | 4 | 3 | 1 | 0 | 4 | 10 |
+| 2 | Napoli | 3 | 3 | 0 | 0 | 5 | 9 |
 | 3 | Cremonese | 3 | 2 | 1 | 0 | 2 | 7 |
 | 4 | Udinese | 3 | 2 | 1 | 0 | 2 | 7 |
 | 5 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
@@ -134,8 +134,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
 | 13 | Lazio | 3 | 1 | 0 | 2 | 1 | 3 |
 | 14 | Sassuolo | 3 | 1 | 0 | 2 | -2 | 3 |
-| 15 | Fiorentina | 3 | 0 | 2 | 1 | -2 | 2 |
-| 16 | Hellas Verona | 3 | 0 | 2 | 1 | -4 | 2 |
+| 15 | Hellas Verona | 4 | 0 | 3 | 1 | -4 | 3 |
+| 16 | Fiorentina | 3 | 0 | 2 | 1 | -2 | 2 |
 | 17 | Genoa | 4 | 0 | 2 | 2 | -2 | 2 |
 | 18 | Pisa | 3 | 0 | 1 | 2 | -2 | 1 |
 | 19 | Parma | 3 | 0 | 1 | 2 | -4 | 1 |
@@ -148,7 +148,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 4 | 4 | 0 | 0 | 7 | 12 |
 | 2 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
 | 3 | Lille | 4 | 3 | 1 | 0 | 8 | 10 |
-| 4 | Rennes | 5 | 3 | 1 | 1 | 0 | 10 |
+| 4 | Rennes | 5 | 3 | 1 | 1 | 1 | 10 |
 | 5 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
 | 6 | Strasbourg | 4 | 3 | 0 | 1 | 2 | 9 |
 | 7 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
@@ -159,7 +159,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
 | 13 | Le Havre | 4 | 1 | 0 | 3 | -2 | 3 |
 | 14 | Auxerre | 4 | 1 | 0 | 3 | -3 | 3 |
-| 15 | Nantes | 5 | 1 | 0 | 4 | -3 | 3 |
+| 15 | Nantes | 5 | 1 | 0 | 4 | -4 | 3 |
 | 16 | Lorient | 4 | 1 | 0 | 3 | -7 | 3 |
 | 17 | Brest | 4 | 0 | 1 | 3 | -5 | 1 |
 | 18 | Metz | 4 | 0 | 1 | 3 | -5 | 1 |
@@ -298,13 +298,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Gil Vicente | 5 | 3 | 1 | 1 | 3 | 10 |
 | 6 | Benfica | 4 | 3 | 1 | 0 | 5 | 10 |
 | 7 | Braga | 5 | 2 | 2 | 1 | 5 | 8 |
-| 8 | Vitória S.C. | 5 | 2 | 1 | 2 | -2 | 7 |
-| 9 | Casa Pia | 5 | 2 | 0 | 3 | -4 | 6 |
+| 8 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
+| 9 | Vitória S.C. | 5 | 2 | 1 | 2 | -2 | 7 |
 | 10 | Santa Clara | 6 | 1 | 3 | 2 | -3 | 6 |
-| 11 | Arouca | 6 | 1 | 3 | 2 | -6 | 6 |
+| 11 | Casa Pia | 5 | 2 | 0 | 3 | -4 | 6 |
 | 12 | Estoril | 5 | 1 | 2 | 2 | 0 | 5 |
 | 13 | Alverca | 6 | 1 | 2 | 3 | -4 | 5 |
-| 14 | Nacional | 6 | 1 | 2 | 3 | -4 | 5 |
+| 14 | Nacional | 6 | 1 | 1 | 4 | -5 | 4 |
 | 15 | Estrela Amadora | 5 | 0 | 3 | 2 | -3 | 3 |
 | 16 | Rio Ave | 5 | 0 | 3 | 2 | -5 | 3 |
 | 17 | AVS | 5 | 0 | 1 | 4 | -7 | 1 |
@@ -323,21 +323,21 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | West Bromwich Albion | 6 | 3 | 1 | 2 | 1 | 10 |
 | 8 | Birmingham City | 6 | 3 | 1 | 2 | 0 | 10 |
 | 9 | Queens Park Rangers | 6 | 3 | 1 | 2 | -2 | 10 |
-| 10 | Blackburn Rovers | 6 | 3 | 0 | 3 | 1 | 9 |
-| 11 | Swansea City | 6 | 2 | 2 | 2 | 1 | 8 |
-| 12 | Hull City | 6 | 2 | 2 | 2 | -1 | 8 |
-| 13 | Portsmouth | 6 | 2 | 2 | 2 | -1 | 8 |
-| 14 | Wrexham | 6 | 2 | 1 | 3 | 0 | 7 |
-| 15 | Norwich City | 6 | 2 | 1 | 3 | -1 | 7 |
+| 10 | Swansea City | 6 | 2 | 2 | 2 | 1 | 8 |
+| 11 | Charlton Athletic | 6 | 2 | 2 | 2 | -1 | 8 |
+| 12 | Portsmouth | 6 | 2 | 2 | 2 | -1 | 8 |
+| 13 | Hull City | 6 | 2 | 2 | 2 | -2 | 8 |
+| 14 | Norwich City | 6 | 2 | 1 | 3 | 0 | 7 |
+| 15 | Wrexham | 6 | 2 | 1 | 3 | -1 | 7 |
 | 16 | Millwall | 5 | 2 | 1 | 2 | -3 | 7 |
-| 17 | Ipswich Town | 6 | 1 | 3 | 2 | 3 | 6 |
-| 18 | Charlton Athletic | 6 | 1 | 3 | 2 | -2 | 6 |
-| 19 | Southampton | 6 | 1 | 3 | 2 | -3 | 6 |
+| 17 | Ipswich Town | 5 | 1 | 3 | 1 | 4 | 6 |
+| 18 | Blackburn Rovers | 5 | 2 | 0 | 3 | 0 | 6 |
+| 19 | Southampton | 6 | 1 | 3 | 2 | -2 | 6 |
 | 20 | Watford | 5 | 1 | 2 | 2 | -1 | 5 |
 | 21 | Derby County | 6 | 1 | 2 | 3 | -4 | 5 |
 | 22 | Sheffield Wednesday | 6 | 1 | 1 | 4 | -7 | 4 |
 | 23 | Oxford United | 5 | 0 | 2 | 3 | -3 | 2 |
-| 24 | Sheffield United | 6 | 0 | 1 | 5 | -11 | 1 |
+| 24 | Sheffield United | 6 | 0 | 0 | 6 | -12 | 0 |
 
 ### Major League Soccer (MLS)
 
@@ -345,9 +345,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Philadelphia Union | 30 | 17 | 6 | 7 | 16 | 57 |
 | 2 | Cincinnati | 30 | 17 | 4 | 9 | 7 | 55 |
-| 3 | Charlotte | 30 | 17 | 2 | 11 | 11 | 53 |
-| 4 | Nashville | 30 | 15 | 5 | 10 | 15 | 50 |
-| 5 | NYCFC | 29 | 15 | 5 | 9 | 9 | 50 |
+| 3 | Charlotte | 31 | 17 | 3 | 11 | 11 | 54 |
+| 4 | NYCFC | 30 | 15 | 6 | 9 | 9 | 51 |
+| 5 | Nashville | 30 | 15 | 5 | 10 | 15 | 50 |
 | 6 | Inter Miami | 27 | 14 | 7 | 6 | 13 | 49 |
 | 7 | Columbus Crew | 30 | 13 | 10 | 7 | 4 | 49 |
 | 8 | Orlando City | 29 | 13 | 9 | 7 | 14 | 48 |
