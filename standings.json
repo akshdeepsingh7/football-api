@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 03:17 PM UTC",
-        "IST": "Saturday, 20 September 2025, 08:47 PM IST"
+        "UTC": "Saturday, 20 September 2025, 03:37 PM UTC",
+        "IST": "Saturday, 20 September 2025, 09:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -37,6 +37,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Crystal Palace",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "0",
+                "Goal Difference": "4",
+                "Points": "9"
+            },
+            {
+                "Position": "5",
                 "Team": "AFC Bournemouth",
                 "Played": "4",
                 "Wins": "3",
@@ -46,7 +56,7 @@
                 "Points": "9"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Chelsea",
                 "Played": "4",
                 "Wins": "2",
@@ -54,16 +64,6 @@
                 "Losses": "0",
                 "Goal Difference": "6",
                 "Points": "8"
-            },
-            {
-                "Position": "6",
-                "Team": "Crystal Palace",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "0",
-                "Goal Difference": "3",
-                "Points": "7"
             },
             {
                 "Position": "7",
@@ -180,10 +180,10 @@
                 "Team": "West Ham United",
                 "Played": "5",
                 "Wins": "1",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-7",
-                "Points": "4"
+                "Draws": "0",
+                "Losses": "4",
+                "Goal Difference": "-8",
+                "Points": "3"
             },
             {
                 "Position": "19",
@@ -214,7 +214,7 @@
                 "Wins": "5",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "15"
             },
             {
@@ -234,7 +234,7 @@
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "10"
             },
             {
@@ -416,7 +416,7 @@
                 "Wins": "4",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "14",
+                "Goal Difference": "15",
                 "Points": "12"
             },
             {
@@ -486,7 +486,7 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "6"
             },
             {
@@ -546,7 +546,7 @@
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "4"
             },
             {
@@ -586,7 +586,7 @@
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "-8",
+                "Goal Difference": "-7",
                 "Points": "0"
             }
         ],
@@ -825,6 +825,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Rennes",
+                "Played": "5",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "10"
+            },
+            {
+                "Position": "5",
                 "Team": "Monaco",
                 "Played": "4",
                 "Wins": "3",
@@ -834,7 +844,7 @@
                 "Points": "9"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Strasbourg",
                 "Played": "4",
                 "Wins": "3",
@@ -842,16 +852,6 @@
                 "Losses": "1",
                 "Goal Difference": "2",
                 "Points": "9"
-            },
-            {
-                "Position": "6",
-                "Team": "Rennes",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "8"
             },
             {
                 "Position": "7",
@@ -915,16 +915,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Nantes",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "4"
-            },
-            {
-                "Position": "14",
                 "Team": "Le Havre",
                 "Played": "4",
                 "Wins": "1",
@@ -934,12 +924,22 @@
                 "Points": "3"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Auxerre",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "3"
+            },
+            {
+                "Position": "15",
+                "Team": "Nantes",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "4",
                 "Goal Difference": "-3",
                 "Points": "3"
             },
@@ -2335,6 +2335,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Blackburn Rovers",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "1",
+                "Points": "9"
+            },
+            {
+                "Position": "11",
                 "Team": "Swansea City",
                 "Played": "6",
                 "Wins": "2",
@@ -2344,7 +2354,17 @@
                 "Points": "8"
             },
             {
-                "Position": "11",
+                "Position": "12",
+                "Team": "Hull City",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "8"
+            },
+            {
+                "Position": "13",
                 "Team": "Portsmouth",
                 "Played": "6",
                 "Wins": "2",
@@ -2354,28 +2374,8 @@
                 "Points": "8"
             },
             {
-                "Position": "12",
-                "Team": "Hull City",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "8"
-            },
-            {
-                "Position": "13",
-                "Team": "Ipswich Town",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "4",
-                "Points": "7"
-            },
-            {
                 "Position": "14",
-                "Team": "Norwich City",
+                "Team": "Wrexham",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "1",
@@ -2385,17 +2385,7 @@
             },
             {
                 "Position": "15",
-                "Team": "Blackburn Rovers",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "0",
-                "Points": "7"
-            },
-            {
-                "Position": "16",
-                "Team": "Wrexham",
+                "Team": "Norwich City",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "1",
@@ -2404,7 +2394,7 @@
                 "Points": "7"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Millwall",
                 "Played": "5",
                 "Wins": "2",
@@ -2414,23 +2404,33 @@
                 "Points": "7"
             },
             {
-                "Position": "18",
-                "Team": "Southampton",
+                "Position": "17",
+                "Team": "Ipswich Town",
                 "Played": "6",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "-1",
+                "Goal Difference": "3",
                 "Points": "6"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Charlton Athletic",
                 "Played": "6",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "-2",
+                "Points": "6"
+            },
+            {
+                "Position": "19",
+                "Team": "Southampton",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "-3",
                 "Points": "6"
             },
             {
