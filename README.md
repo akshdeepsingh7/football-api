@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 September 2025, 06:23 PM UTC (Saturday, 20 September 2025, 11:53 PM IST)
+**Last Updated:** Saturday, 20 September 2025, 06:43 PM UTC (Sunday, 21 September 2025, 12:13 AM IST)
 
 ### Premier League
 
@@ -154,11 +154,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
 | 8 | Lens | 4 | 2 | 0 | 2 | 0 | 6 |
 | 9 | Toulouse | 4 | 2 | 0 | 2 | -1 | 6 |
-| 10 | Nice | 5 | 2 | 0 | 3 | -1 | 6 |
-| 11 | Paris | 4 | 2 | 0 | 2 | -2 | 6 |
+| 10 | Paris | 4 | 2 | 0 | 2 | -2 | 6 |
+| 11 | Nice | 5 | 2 | 0 | 3 | -3 | 6 |
 | 12 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
-| 13 | Nantes | 5 | 1 | 1 | 3 | -2 | 4 |
-| 14 | Brest | 5 | 1 | 1 | 3 | -4 | 4 |
+| 13 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
+| 14 | Nantes | 5 | 1 | 1 | 3 | -2 | 4 |
 | 15 | Le Havre | 4 | 1 | 0 | 3 | -2 | 3 |
 | 16 | Auxerre | 4 | 1 | 0 | 3 | -3 | 3 |
 | 17 | Lorient | 4 | 1 | 0 | 3 | -7 | 3 |
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 6 | 6 | 0 | 0 | 14 | 18 |
-| 2 | Benfica | 5 | 4 | 1 | 0 | 7 | 13 |
+| 2 | Benfica | 5 | 4 | 1 | 0 | 8 | 13 |
 | 3 | Sporting CP | 5 | 4 | 0 | 1 | 11 | 12 |
 | 4 | Moreirense | 5 | 4 | 0 | 1 | 4 | 12 |
 | 5 | Famalicão | 5 | 3 | 1 | 1 | 4 | 10 |
@@ -308,7 +308,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Estrela Amadora | 5 | 0 | 3 | 2 | -3 | 3 |
 | 16 | Rio Ave | 5 | 0 | 3 | 2 | -5 | 3 |
 | 17 | Tondela | 5 | 0 | 1 | 4 | -8 | 1 |
-| 18 | AVS | 6 | 0 | 1 | 5 | -9 | 1 |
+| 18 | AVS | 6 | 0 | 1 | 5 | -10 | 1 |
 
 ### EFL Championship
 
@@ -343,7 +343,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Philadelphia Union | 30 | 17 | 6 | 7 | 16 | 57 |
+| 1 | Philadelphia Union | 31 | 17 | 7 | 7 | 16 | 58 |
 | 2 | Cincinnati | 30 | 17 | 4 | 9 | 7 | 55 |
 | 3 | Charlotte | 31 | 17 | 2 | 12 | 9 | 53 |
 | 4 | NYCFC | 30 | 16 | 5 | 9 | 11 | 53 |
@@ -353,7 +353,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Orlando City | 29 | 13 | 9 | 7 | 14 | 48 |
 | 9 | Chicago Fire | 29 | 12 | 6 | 11 | 1 | 42 |
 | 10 | New York RB | 30 | 11 | 7 | 12 | 3 | 40 |
-| 11 | New England Revolution | 30 | 8 | 8 | 14 | -5 | 32 |
+| 11 | New England Revolution | 31 | 8 | 9 | 14 | -5 | 33 |
 | 12 | Toronto | 29 | 5 | 11 | 13 | -7 | 26 |
 | 13 | Atlanta United | 29 | 5 | 11 | 13 | -18 | 26 |
 | 14 | DC United | 30 | 5 | 10 | 15 | -28 | 25 |
