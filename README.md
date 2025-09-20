@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 September 2025, 01:38 PM UTC (Saturday, 20 September 2025, 07:08 PM IST)
+**Last Updated:** Saturday, 20 September 2025, 02:16 PM UTC (Saturday, 20 September 2025, 07:46 PM IST)
 
 ### Premier League
 
@@ -49,24 +49,24 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Liverpool FC | 5 | 5 | 0 | 0 | 6 | 15 |
 | 2 | Arsenal | 4 | 3 | 0 | 1 | 8 | 9 |
-| 3 | Tottenham Hotspur | 4 | 3 | 0 | 1 | 7 | 9 |
+| 3 | Tottenham Hotspur | 5 | 3 | 0 | 2 | 6 | 9 |
 | 4 | AFC Bournemouth | 4 | 3 | 0 | 1 | 1 | 9 |
 | 5 | Chelsea | 4 | 2 | 2 | 0 | 6 | 8 |
-| 6 | Sunderland | 4 | 2 | 1 | 1 | 2 | 7 |
-| 7 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
-| 8 | Manchester City | 4 | 2 | 0 | 2 | 4 | 6 |
-| 9 | Crystal Palace | 4 | 1 | 3 | 0 | 3 | 6 |
-| 10 | Newcastle United | 4 | 1 | 2 | 1 | 0 | 5 |
-| 11 | Fulham | 4 | 1 | 2 | 1 | -1 | 5 |
-| 12 | Brentford | 4 | 1 | 1 | 2 | -2 | 4 |
-| 13 | Brighton & Hove Albion | 4 | 1 | 1 | 2 | -2 | 4 |
-| 14 | Manchester United | 4 | 1 | 1 | 2 | -3 | 4 |
-| 15 | Nottingham Forest | 4 | 1 | 1 | 2 | -4 | 4 |
-| 16 | Leeds United | 4 | 1 | 1 | 2 | -5 | 4 |
-| 17 | Burnley | 4 | 1 | 0 | 3 | -3 | 3 |
-| 18 | West Ham United | 4 | 1 | 0 | 3 | -7 | 3 |
-| 19 | Aston Villa | 4 | 0 | 2 | 2 | -4 | 2 |
-| 20 | Wolverhampton Wanderers | 4 | 0 | 0 | 4 | -7 | 0 |
+| 6 | Crystal Palace | 5 | 1 | 4 | 0 | 3 | 7 |
+| 7 | Sunderland | 4 | 2 | 1 | 1 | 2 | 7 |
+| 8 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
+| 9 | Brighton & Hove Albion | 5 | 2 | 1 | 2 | -1 | 7 |
+| 10 | Nottingham Forest | 5 | 2 | 1 | 2 | -3 | 7 |
+| 11 | Manchester City | 4 | 2 | 0 | 2 | 4 | 6 |
+| 12 | Newcastle United | 4 | 1 | 2 | 1 | 0 | 5 |
+| 13 | Fulham | 4 | 1 | 2 | 1 | -1 | 5 |
+| 14 | Brentford | 4 | 1 | 1 | 2 | -2 | 4 |
+| 15 | Manchester United | 4 | 1 | 1 | 2 | -3 | 4 |
+| 16 | Leeds United | 5 | 1 | 1 | 3 | -6 | 4 |
+| 17 | West Ham United | 5 | 1 | 1 | 3 | -7 | 4 |
+| 18 | Burnley | 5 | 1 | 0 | 4 | -4 | 3 |
+| 19 | Wolverhampton Wanderers | 5 | 1 | 0 | 4 | -6 | 3 |
+| 20 | Aston Villa | 4 | 0 | 2 | 2 | -4 | 2 |
 
 ### La Liga
 
@@ -83,38 +83,38 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
 | 10 | Osasuna | 4 | 2 | 0 | 2 | 1 | 6 |
 | 11 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
-| 12 | Sevilla | 4 | 1 | 1 | 2 | 0 | 4 |
-| 13 | Levante | 5 | 1 | 1 | 3 | -1 | 4 |
+| 12 | Levante | 5 | 1 | 1 | 3 | 0 | 4 |
+| 13 | Sevilla | 4 | 1 | 1 | 2 | 0 | 4 |
 | 14 | Rayo Vallecano | 4 | 1 | 1 | 2 | -1 | 4 |
 | 15 | Celta de Vigo | 5 | 0 | 4 | 1 | -2 | 4 |
 | 16 | Valencia | 4 | 1 | 1 | 2 | -4 | 4 |
 | 17 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
 | 18 | Real Sociedad | 5 | 0 | 2 | 3 | -4 | 2 |
 | 19 | Mallorca | 4 | 0 | 1 | 3 | -5 | 1 |
-| 20 | Girona | 5 | 0 | 1 | 4 | -12 | 1 |
+| 20 | Girona | 5 | 0 | 1 | 4 | -13 | 1 |
 
 ### Bundesliga
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 4 | 3 | 1 | 0 | 12 | 10 |
+| 1 | Bayern Munich | 4 | 4 | 0 | 0 | 13 | 12 |
 | 2 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
 | 3 | Köln | 3 | 2 | 1 | 0 | 4 | 7 |
-| 4 | Hoffenheim | 4 | 2 | 1 | 1 | 1 | 7 |
-| 5 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
-| 6 | Eintracht Frankfurt | 3 | 2 | 0 | 1 | 3 | 6 |
+| 4 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
+| 5 | Eintracht Frankfurt | 3 | 2 | 0 | 1 | 3 | 6 |
+| 6 | Hoffenheim | 4 | 2 | 0 | 2 | 0 | 6 |
 | 7 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
-| 8 | RB Leipzig | 3 | 2 | 0 | 1 | -3 | 6 |
-| 9 | VfL Wolfsburg | 3 | 1 | 2 | 0 | 2 | 5 |
-| 10 | Werder Bremen | 4 | 1 | 2 | 1 | 1 | 5 |
+| 8 | SC Freiburg | 4 | 2 | 0 | 2 | -2 | 6 |
+| 9 | RB Leipzig | 3 | 2 | 0 | 1 | -3 | 6 |
+| 10 | VfL Wolfsburg | 3 | 1 | 2 | 0 | 2 | 5 |
 | 11 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 1 | 4 |
-| 12 | Augsburg | 4 | 1 | 1 | 2 | 0 | 4 |
-| 13 | SC Freiburg | 4 | 1 | 1 | 2 | -3 | 4 |
-| 14 | Union Berlin | 3 | 1 | 0 | 2 | -4 | 3 |
-| 15 | Mainz 05 | 4 | 0 | 2 | 2 | -2 | 2 |
-| 16 | Hamburg | 4 | 0 | 2 | 2 | -7 | 2 |
+| 12 | Werder Bremen | 4 | 1 | 1 | 2 | 0 | 4 |
+| 13 | Mainz 05 | 4 | 1 | 1 | 2 | 0 | 4 |
+| 14 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
+| 15 | Augsburg | 4 | 1 | 0 | 3 | -2 | 3 |
+| 16 | Union Berlin | 3 | 1 | 0 | 2 | -4 | 3 |
 | 17 | Borussia Mönchengladbach | 3 | 0 | 1 | 2 | -5 | 1 |
-| 18 | Heidenheim | 4 | 0 | 1 | 3 | -6 | 1 |
+| 18 | Heidenheim | 4 | 0 | 0 | 4 | -7 | 0 |
 
 ### Serie A
 
@@ -322,22 +322,22 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | West Bromwich Albion | 6 | 3 | 1 | 2 | 1 | 10 |
 | 7 | Birmingham City | 6 | 3 | 1 | 2 | 0 | 10 |
 | 8 | Queens Park Rangers | 6 | 3 | 1 | 2 | -2 | 10 |
-| 9 | Swansea City | 6 | 2 | 2 | 2 | 1 | 8 |
-| 10 | Preston North End | 5 | 2 | 2 | 1 | 1 | 8 |
-| 11 | Portsmouth | 5 | 2 | 2 | 1 | 1 | 8 |
-| 12 | Norwich City | 5 | 2 | 1 | 2 | 1 | 7 |
-| 13 | Millwall | 5 | 2 | 1 | 2 | -3 | 7 |
-| 14 | Ipswich Town | 5 | 1 | 3 | 1 | 4 | 6 |
-| 15 | Southampton | 5 | 1 | 3 | 1 | 0 | 6 |
-| 16 | Blackburn Rovers | 5 | 2 | 0 | 3 | 0 | 6 |
-| 17 | Watford | 5 | 1 | 2 | 2 | -1 | 5 |
-| 18 | Charlton Athletic | 5 | 1 | 2 | 2 | -2 | 5 |
-| 19 | Derby County | 5 | 1 | 2 | 2 | -3 | 5 |
-| 20 | Hull City | 5 | 1 | 2 | 2 | -4 | 5 |
-| 21 | Wrexham | 5 | 1 | 1 | 3 | -2 | 4 |
-| 22 | Oxford United | 5 | 0 | 2 | 3 | -3 | 2 |
-| 23 | Sheffield Wednesday | 5 | 0 | 1 | 4 | -9 | 1 |
-| 24 | Sheffield United | 5 | 0 | 0 | 5 | -11 | 0 |
+| 9 | Preston North End | 6 | 2 | 3 | 1 | 1 | 9 |
+| 10 | Norwich City | 6 | 2 | 2 | 2 | 1 | 8 |
+| 11 | Swansea City | 6 | 2 | 2 | 2 | 1 | 8 |
+| 12 | Portsmouth | 6 | 2 | 2 | 2 | 0 | 8 |
+| 13 | Ipswich Town | 6 | 1 | 4 | 1 | 4 | 7 |
+| 14 | Southampton | 6 | 1 | 4 | 1 | 0 | 7 |
+| 15 | Blackburn Rovers | 6 | 2 | 1 | 3 | 0 | 7 |
+| 16 | Millwall | 5 | 2 | 1 | 2 | -3 | 7 |
+| 17 | Charlton Athletic | 6 | 1 | 3 | 2 | -2 | 6 |
+| 18 | Derby County | 6 | 1 | 3 | 2 | -3 | 6 |
+| 19 | Hull City | 6 | 1 | 3 | 2 | -4 | 6 |
+| 20 | Watford | 5 | 1 | 2 | 2 | -1 | 5 |
+| 21 | Wrexham | 6 | 1 | 2 | 3 | -2 | 5 |
+| 22 | Sheffield Wednesday | 6 | 1 | 1 | 4 | -8 | 4 |
+| 23 | Oxford United | 5 | 0 | 2 | 3 | -3 | 2 |
+| 24 | Sheffield United | 6 | 0 | 1 | 5 | -11 | 1 |
 
 ### Major League Soccer (MLS)
 
