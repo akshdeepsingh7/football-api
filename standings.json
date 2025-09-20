@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 01:22 AM UTC",
-        "IST": "Saturday, 20 September 2025, 06:52 AM IST"
+        "UTC": "Saturday, 20 September 2025, 02:39 AM UTC",
+        "IST": "Saturday, 20 September 2025, 08:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3106,7 +3106,7 @@
                 "Wins": "5",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "16"
             },
             {
@@ -3161,22 +3161,22 @@
             },
             {
                 "Position": "10",
+                "Team": "Platense",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "9"
+            },
+            {
+                "Position": "11",
                 "Team": "San Mart\u00edn SJ",
                 "Played": "9",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-3",
-                "Points": "9"
-            },
-            {
-                "Position": "11",
-                "Team": "Platense",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-4",
                 "Points": "9"
             },
             {
