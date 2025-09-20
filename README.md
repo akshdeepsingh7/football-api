@@ -41,19 +41,19 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 September 2025, 11:37 AM UTC (Saturday, 20 September 2025, 05:07 PM IST)
+**Last Updated:** Saturday, 20 September 2025, 12:36 PM UTC (Saturday, 20 September 2025, 06:06 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Liverpool FC | 5 | 4 | 1 | 0 | 5 | 13 |
+| 1 | Liverpool FC | 5 | 5 | 0 | 0 | 7 | 15 |
 | 2 | Arsenal | 4 | 3 | 0 | 1 | 8 | 9 |
 | 3 | Tottenham Hotspur | 4 | 3 | 0 | 1 | 7 | 9 |
 | 4 | AFC Bournemouth | 4 | 3 | 0 | 1 | 1 | 9 |
 | 5 | Chelsea | 4 | 2 | 2 | 0 | 6 | 8 |
-| 6 | Everton | 5 | 2 | 2 | 1 | 2 | 8 |
-| 7 | Sunderland | 4 | 2 | 1 | 1 | 2 | 7 |
+| 6 | Sunderland | 4 | 2 | 1 | 1 | 2 | 7 |
+| 7 | Everton | 5 | 2 | 1 | 2 | 0 | 7 |
 | 8 | Manchester City | 4 | 2 | 0 | 2 | 4 | 6 |
 | 9 | Crystal Palace | 4 | 1 | 3 | 0 | 3 | 6 |
 | 10 | Newcastle United | 4 | 1 | 2 | 1 | 0 | 5 |
@@ -88,10 +88,10 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Celta de Vigo | 5 | 0 | 4 | 1 | -2 | 4 |
 | 15 | Valencia | 4 | 1 | 1 | 2 | -4 | 4 |
 | 16 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
-| 17 | Real Sociedad | 5 | 0 | 2 | 3 | -4 | 2 |
-| 18 | Levante | 4 | 0 | 1 | 3 | -4 | 1 |
-| 19 | Mallorca | 4 | 0 | 1 | 3 | -5 | 1 |
-| 20 | Girona | 4 | 0 | 1 | 3 | -9 | 1 |
+| 17 | Levante | 5 | 0 | 2 | 3 | -4 | 2 |
+| 18 | Real Sociedad | 5 | 0 | 2 | 3 | -4 | 2 |
+| 19 | Girona | 5 | 0 | 2 | 3 | -9 | 2 |
+| 20 | Mallorca | 4 | 0 | 1 | 3 | -5 | 1 |
 
 ### Bundesliga
 
