@@ -1,19 +1,19 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 11:14 AM UTC",
-        "IST": "Saturday, 20 September 2025, 04:44 PM IST"
+        "UTC": "Saturday, 20 September 2025, 11:37 AM UTC",
+        "IST": "Saturday, 20 September 2025, 05:07 PM IST"
     },
     "standings": {
         "Premier League": [
             {
                 "Position": "1",
                 "Team": "Liverpool FC",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "4",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "5",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "2",
@@ -58,12 +58,12 @@
             {
                 "Position": "6",
                 "Team": "Everton",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "2",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "2",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "7",
@@ -2256,12 +2256,12 @@
             {
                 "Position": "2",
                 "Team": "Stoke City",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "4",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "6",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "3",
@@ -2276,15 +2276,25 @@
             {
                 "Position": "4",
                 "Team": "Leicester City",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "3",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "3",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "5",
+                "Team": "Coventry City",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "0",
+                "Goal Difference": "8",
+                "Points": "10"
+            },
+            {
+                "Position": "6",
                 "Team": "West Bromwich Albion",
                 "Played": "6",
                 "Wins": "3",
@@ -2294,24 +2304,14 @@
                 "Points": "10"
             },
             {
-                "Position": "6",
-                "Team": "Coventry City",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "0",
-                "Goal Difference": "8",
-                "Points": "9"
-            },
-            {
                 "Position": "7",
                 "Team": "Swansea City",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "2",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "8",
@@ -2335,32 +2335,32 @@
             },
             {
                 "Position": "10",
+                "Team": "Birmingham City",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "8"
+            },
+            {
+                "Position": "11",
+                "Team": "Queens Park Rangers",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "8"
+            },
+            {
+                "Position": "12",
                 "Team": "Norwich City",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "1",
-                "Points": "7"
-            },
-            {
-                "Position": "11",
-                "Team": "Birmingham City",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "7"
-            },
-            {
-                "Position": "12",
-                "Team": "Queens Park Rangers",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-3",
                 "Points": "7"
             },
             {
