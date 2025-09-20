@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 September 2025, 08:18 PM UTC (Sunday, 21 September 2025, 01:48 AM IST)
+**Last Updated:** Saturday, 20 September 2025, 08:37 PM UTC (Sunday, 21 September 2025, 02:07 AM IST)
 
 ### Premier League
 
@@ -75,16 +75,16 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Real Madrid | 5 | 5 | 0 | 0 | 8 | 15 |
 | 2 | Barcelona | 4 | 3 | 1 | 0 | 10 | 10 |
 | 3 | Villarreal | 5 | 3 | 1 | 1 | 6 | 10 |
-| 4 | Athletic Bilbao | 5 | 3 | 1 | 1 | 2 | 10 |
-| 5 | Espanyol | 5 | 3 | 1 | 1 | 1 | 10 |
-| 6 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
-| 7 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
+| 4 | Espanyol | 5 | 3 | 1 | 1 | 1 | 10 |
+| 5 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
+| 6 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
+| 7 | Athletic Bilbao | 5 | 3 | 0 | 2 | 1 | 9 |
 | 8 | Sevilla | 5 | 2 | 1 | 2 | 1 | 7 |
 | 9 | Alavés | 5 | 2 | 1 | 2 | 0 | 7 |
-| 10 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
-| 11 | Osasuna | 5 | 2 | 0 | 3 | 0 | 6 |
-| 12 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
-| 13 | Valencia | 5 | 1 | 2 | 2 | -4 | 5 |
+| 10 | Valencia | 5 | 2 | 1 | 2 | -3 | 7 |
+| 11 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
+| 12 | Osasuna | 5 | 2 | 0 | 3 | 0 | 6 |
+| 13 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
 | 14 | Levante | 5 | 1 | 1 | 3 | 0 | 4 |
 | 15 | Rayo Vallecano | 4 | 1 | 1 | 2 | -1 | 4 |
 | 16 | Celta de Vigo | 5 | 0 | 4 | 1 | -2 | 4 |
@@ -147,9 +147,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 4 | 4 | 0 | 0 | 7 | 12 |
 | 2 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
-| 3 | Lille | 5 | 3 | 1 | 1 | 6 | 10 |
-| 4 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
-| 5 | Lens | 5 | 3 | 0 | 2 | 2 | 9 |
+| 3 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
+| 4 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
+| 5 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
 | 6 | Strasbourg | 4 | 3 | 0 | 1 | 2 | 9 |
 | 7 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
 | 8 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
@@ -396,7 +396,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Unión | 9 | 4 | 3 | 2 | 6 | 15 |
+| 1 | Unión | 9 | 4 | 4 | 1 | 7 | 16 |
 | 2 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
 | 3 | Boca Juniors | 8 | 3 | 4 | 1 | 6 | 13 |
 | 4 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
@@ -404,11 +404,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Def y Justicia | 8 | 3 | 3 | 2 | 2 | 12 |
 | 7 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
 | 8 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
-| 9 | Independiente Rivadavia | 9 | 3 | 2 | 4 | -1 | 11 |
-| 10 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
-| 11 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
-| 12 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
-| 13 | Tigre | 8 | 2 | 3 | 3 | -1 | 9 |
+| 9 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
+| 10 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
+| 11 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
+| 12 | Tigre | 8 | 2 | 3 | 3 | -1 | 9 |
+| 13 | Independiente Rivadavia | 9 | 2 | 3 | 4 | -2 | 9 |
 | 14 | Argentinos Juniors | 8 | 2 | 2 | 4 | -1 | 8 |
 | 15 | Aldosivi | 8 | 0 | 3 | 5 | -9 | 3 |
 | 1 | Riestra | 9 | 6 | 1 | 2 | 7 | 19 |
