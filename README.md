@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 September 2025, 05:36 PM UTC (Saturday, 20 September 2025, 11:06 PM IST)
+**Last Updated:** Saturday, 20 September 2025, 06:23 PM UTC (Saturday, 20 September 2025, 11:53 PM IST)
 
 ### Premier League
 
@@ -52,10 +52,10 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Arsenal | 4 | 3 | 0 | 1 | 8 | 9 |
 | 4 | Crystal Palace | 5 | 2 | 3 | 0 | 4 | 9 |
 | 5 | AFC Bournemouth | 4 | 3 | 0 | 1 | 1 | 9 |
-| 6 | Chelsea | 5 | 2 | 2 | 1 | 4 | 8 |
+| 6 | Chelsea | 5 | 2 | 2 | 1 | 5 | 8 |
 | 7 | Sunderland | 4 | 2 | 1 | 1 | 2 | 7 |
 | 8 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
-| 9 | Manchester United | 5 | 2 | 1 | 2 | -1 | 7 |
+| 9 | Manchester United | 5 | 2 | 1 | 2 | -2 | 7 |
 | 10 | Leeds United | 5 | 2 | 1 | 2 | -3 | 7 |
 | 11 | Manchester City | 4 | 2 | 0 | 2 | 4 | 6 |
 | 12 | Newcastle United | 4 | 1 | 2 | 1 | 0 | 5 |
@@ -74,16 +74,16 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 5 | 5 | 0 | 0 | 8 | 15 |
 | 2 | Barcelona | 4 | 3 | 1 | 0 | 10 | 10 |
-| 3 | Espanyol | 5 | 3 | 1 | 1 | 1 | 10 |
-| 4 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
-| 5 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
-| 6 | Athletic Bilbao | 4 | 3 | 0 | 1 | 2 | 9 |
-| 7 | Osasuna | 5 | 3 | 0 | 2 | 2 | 9 |
-| 8 | Alavés | 5 | 2 | 2 | 1 | 1 | 8 |
-| 9 | Villarreal | 5 | 2 | 1 | 2 | 4 | 7 |
+| 3 | Villarreal | 5 | 3 | 1 | 1 | 6 | 10 |
+| 4 | Espanyol | 5 | 3 | 1 | 1 | 1 | 10 |
+| 5 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
+| 6 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
+| 7 | Athletic Bilbao | 4 | 3 | 0 | 1 | 2 | 9 |
+| 8 | Sevilla | 5 | 2 | 1 | 2 | 1 | 7 |
+| 9 | Alavés | 5 | 2 | 1 | 2 | 0 | 7 |
 | 10 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
-| 11 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
-| 12 | Sevilla | 5 | 1 | 2 | 2 | 0 | 5 |
+| 11 | Osasuna | 5 | 2 | 0 | 3 | 0 | 6 |
+| 12 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
 | 13 | Levante | 5 | 1 | 1 | 3 | 0 | 4 |
 | 14 | Rayo Vallecano | 4 | 1 | 1 | 2 | -1 | 4 |
 | 15 | Celta de Vigo | 5 | 0 | 4 | 1 | -2 | 4 |
@@ -292,9 +292,9 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 6 | 6 | 0 | 0 | 14 | 18 |
-| 2 | Sporting CP | 5 | 4 | 0 | 1 | 11 | 12 |
-| 3 | Moreirense | 5 | 4 | 0 | 1 | 4 | 12 |
-| 4 | Benfica | 5 | 3 | 2 | 0 | 5 | 11 |
+| 2 | Benfica | 5 | 4 | 1 | 0 | 7 | 13 |
+| 3 | Sporting CP | 5 | 4 | 0 | 1 | 11 | 12 |
+| 4 | Moreirense | 5 | 4 | 0 | 1 | 4 | 12 |
 | 5 | Famalicão | 5 | 3 | 1 | 1 | 4 | 10 |
 | 6 | Gil Vicente | 5 | 3 | 1 | 1 | 3 | 10 |
 | 7 | Braga | 5 | 2 | 2 | 1 | 5 | 8 |
@@ -307,8 +307,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Nacional | 6 | 1 | 1 | 4 | -5 | 4 |
 | 15 | Estrela Amadora | 5 | 0 | 3 | 2 | -3 | 3 |
 | 16 | Rio Ave | 5 | 0 | 3 | 2 | -5 | 3 |
-| 17 | AVS | 6 | 0 | 2 | 4 | -7 | 2 |
-| 18 | Tondela | 5 | 0 | 1 | 4 | -8 | 1 |
+| 17 | Tondela | 5 | 0 | 1 | 4 | -8 | 1 |
+| 18 | AVS | 6 | 0 | 1 | 5 | -9 | 1 |
 
 ### EFL Championship
 
@@ -396,8 +396,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barracas | 9 | 4 | 4 | 1 | 3 | 16 |
-| 2 | Unión | 8 | 4 | 3 | 1 | 7 | 15 |
+| 1 | Unión | 8 | 4 | 3 | 1 | 7 | 15 |
+| 2 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
 | 3 | Boca Juniors | 8 | 3 | 4 | 1 | 6 | 13 |
 | 4 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
 | 5 | Banfield | 8 | 4 | 1 | 3 | -1 | 13 |
@@ -416,8 +416,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
 | 4 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
 | 5 | San Lorenzo | 8 | 3 | 3 | 2 | 0 | 12 |
-| 6 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
-| 7 | Sarmiento | 8 | 2 | 4 | 2 | -2 | 10 |
+| 6 | Sarmiento | 8 | 3 | 3 | 2 | -1 | 12 |
+| 7 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
 | 8 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
 | 9 | Atl. Tucumán | 8 | 2 | 3 | 3 | 0 | 9 |
 | 10 | Platense | 8 | 2 | 3 | 3 | -3 | 9 |
