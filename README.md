@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 September 2025, 05:14 PM UTC (Saturday, 20 September 2025, 10:44 PM IST)
+**Last Updated:** Saturday, 20 September 2025, 05:36 PM UTC (Saturday, 20 September 2025, 11:06 PM IST)
 
 ### Premier League
 
@@ -78,9 +78,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
 | 5 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
 | 6 | Athletic Bilbao | 4 | 3 | 0 | 1 | 2 | 9 |
-| 7 | Villarreal | 5 | 2 | 2 | 1 | 5 | 8 |
+| 7 | Osasuna | 5 | 3 | 0 | 2 | 2 | 9 |
 | 8 | Alavés | 5 | 2 | 2 | 1 | 1 | 8 |
-| 9 | Osasuna | 5 | 2 | 1 | 2 | 1 | 7 |
+| 9 | Villarreal | 5 | 2 | 1 | 2 | 4 | 7 |
 | 10 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
 | 11 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
 | 12 | Sevilla | 5 | 1 | 2 | 2 | 0 | 5 |
@@ -98,10 +98,10 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 4 | 4 | 0 | 0 | 15 | 12 |
-| 2 | Köln | 4 | 2 | 2 | 0 | 4 | 8 |
+| 2 | RB Leipzig | 4 | 3 | 0 | 1 | -1 | 9 |
 | 3 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
-| 4 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
-| 5 | RB Leipzig | 4 | 2 | 1 | 1 | -3 | 7 |
+| 4 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
+| 5 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
 | 6 | Eintracht Frankfurt | 3 | 2 | 0 | 1 | 3 | 6 |
 | 7 | SC Freiburg | 4 | 2 | 0 | 2 | 0 | 6 |
 | 8 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
@@ -154,11 +154,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
 | 8 | Lens | 4 | 2 | 0 | 2 | 0 | 6 |
 | 9 | Toulouse | 4 | 2 | 0 | 2 | -1 | 6 |
-| 10 | Paris | 4 | 2 | 0 | 2 | -2 | 6 |
-| 11 | Nice | 5 | 2 | 0 | 3 | -2 | 6 |
+| 10 | Nice | 5 | 2 | 0 | 3 | -1 | 6 |
+| 11 | Paris | 4 | 2 | 0 | 2 | -2 | 6 |
 | 12 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
 | 13 | Nantes | 5 | 1 | 1 | 3 | -2 | 4 |
-| 14 | Brest | 5 | 1 | 1 | 3 | -3 | 4 |
+| 14 | Brest | 5 | 1 | 1 | 3 | -4 | 4 |
 | 15 | Le Havre | 4 | 1 | 0 | 3 | -2 | 3 |
 | 16 | Auxerre | 4 | 1 | 0 | 3 | -3 | 3 |
 | 17 | Lorient | 4 | 1 | 0 | 3 | -7 | 3 |
@@ -345,8 +345,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Philadelphia Union | 30 | 17 | 6 | 7 | 16 | 57 |
 | 2 | Cincinnati | 30 | 17 | 4 | 9 | 7 | 55 |
-| 3 | Charlotte | 31 | 17 | 2 | 12 | 10 | 53 |
-| 4 | NYCFC | 30 | 16 | 5 | 9 | 10 | 53 |
+| 3 | Charlotte | 31 | 17 | 2 | 12 | 9 | 53 |
+| 4 | NYCFC | 30 | 16 | 5 | 9 | 11 | 53 |
 | 5 | Nashville | 30 | 15 | 5 | 10 | 15 | 50 |
 | 6 | Inter Miami | 27 | 14 | 7 | 6 | 13 | 49 |
 | 7 | Columbus Crew | 30 | 13 | 10 | 7 | 4 | 49 |
@@ -396,8 +396,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Unión | 8 | 4 | 3 | 1 | 7 | 15 |
-| 2 | Barracas | 8 | 4 | 3 | 1 | 3 | 15 |
+| 1 | Barracas | 9 | 4 | 4 | 1 | 3 | 16 |
+| 2 | Unión | 8 | 4 | 3 | 1 | 7 | 15 |
 | 3 | Boca Juniors | 8 | 3 | 4 | 1 | 6 | 13 |
 | 4 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
 | 5 | Banfield | 8 | 4 | 1 | 3 | -1 | 13 |
@@ -417,9 +417,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
 | 5 | San Lorenzo | 8 | 3 | 3 | 2 | 0 | 12 |
 | 6 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
-| 7 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
-| 8 | Atl. Tucumán | 8 | 2 | 3 | 3 | 0 | 9 |
-| 9 | Sarmiento | 7 | 2 | 3 | 2 | -2 | 9 |
+| 7 | Sarmiento | 8 | 2 | 4 | 2 | -2 | 10 |
+| 8 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
+| 9 | Atl. Tucumán | 8 | 2 | 3 | 3 | 0 | 9 |
 | 10 | Platense | 8 | 2 | 3 | 3 | -3 | 9 |
 | 11 | San Martín SJ | 9 | 2 | 3 | 4 | -3 | 9 |
 | 12 | Instituto | 8 | 2 | 3 | 3 | -6 | 9 |

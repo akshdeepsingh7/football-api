@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 September 2025, 05:14 PM UTC",
-        "IST": "Saturday, 20 September 2025, 10:44 PM IST"
+        "UTC": "Saturday, 20 September 2025, 05:36 PM UTC",
+        "IST": "Saturday, 20 September 2025, 11:06 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -269,13 +269,13 @@
             },
             {
                 "Position": "7",
-                "Team": "Villarreal",
+                "Team": "Osasuna",
                 "Played": "5",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "5",
-                "Points": "8"
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "9"
             },
             {
                 "Position": "8",
@@ -289,12 +289,12 @@
             },
             {
                 "Position": "9",
-                "Team": "Osasuna",
+                "Team": "Villarreal",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "1",
+                "Goal Difference": "4",
                 "Points": "7"
             },
             {
@@ -421,13 +421,13 @@
             },
             {
                 "Position": "2",
-                "Team": "K\u00f6ln",
+                "Team": "RB Leipzig",
                 "Played": "4",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "4",
-                "Points": "8"
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "9"
             },
             {
                 "Position": "3",
@@ -441,22 +441,22 @@
             },
             {
                 "Position": "4",
+                "Team": "K\u00f6ln",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "2",
+                "Points": "7"
+            },
+            {
+                "Position": "5",
                 "Team": "St. Pauli",
                 "Played": "4",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "1",
-                "Points": "7"
-            },
-            {
-                "Position": "5",
-                "Team": "RB Leipzig",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-3",
                 "Points": "7"
             },
             {
@@ -885,21 +885,21 @@
             },
             {
                 "Position": "10",
-                "Team": "Paris",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "6"
-            },
-            {
-                "Position": "11",
                 "Team": "Nice",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "6"
+            },
+            {
+                "Position": "11",
+                "Team": "Paris",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "2",
                 "Goal Difference": "-2",
                 "Points": "6"
             },
@@ -930,7 +930,7 @@
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "4"
             },
             {
@@ -2512,7 +2512,7 @@
                 "Wins": "17",
                 "Draws": "2",
                 "Losses": "12",
-                "Goal Difference": "10",
+                "Goal Difference": "9",
                 "Points": "53"
             },
             {
@@ -2522,7 +2522,7 @@
                 "Wins": "16",
                 "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "10",
+                "Goal Difference": "11",
                 "Points": "53"
             },
             {
@@ -2921,22 +2921,22 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
+                "Team": "Barracas",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "16"
+            },
+            {
+                "Position": "2",
                 "Team": "Uni\u00f3n",
                 "Played": "8",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "7",
-                "Points": "15"
-            },
-            {
-                "Position": "2",
-                "Team": "Barracas",
-                "Played": "8",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "3",
                 "Points": "15"
             },
             {
@@ -3131,6 +3131,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Sarmiento",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "10"
+            },
+            {
+                "Position": "8",
                 "Team": "GELP",
                 "Played": "9",
                 "Wins": "3",
@@ -3140,23 +3150,13 @@
                 "Points": "10"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Atl. Tucum\u00e1n",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "0",
-                "Points": "9"
-            },
-            {
-                "Position": "9",
-                "Team": "Sarmiento",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-2",
                 "Points": "9"
             },
             {
