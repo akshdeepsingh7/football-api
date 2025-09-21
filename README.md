@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 03:08 AM UTC (Sunday, 21 September 2025, 08:38 AM IST)
+**Last Updated:** Sunday, 21 September 2025, 03:50 AM UTC (Sunday, 21 September 2025, 09:20 AM IST)
 
 ### Premier League
 
@@ -344,7 +344,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Philadelphia Union | 31 | 18 | 6 | 7 | 17 | 60 |
-| 2 | Cincinnati | 31 | 18 | 4 | 9 | 9 | 58 |
+| 2 | Cincinnati | 31 | 18 | 4 | 9 | 8 | 58 |
 | 3 | Charlotte | 31 | 17 | 2 | 12 | 9 | 53 |
 | 4 | NYCFC | 30 | 16 | 5 | 9 | 11 | 53 |
 | 5 | Inter Miami | 28 | 15 | 7 | 6 | 14 | 52 |
@@ -372,7 +372,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Real Salt Lake | 29 | 10 | 4 | 15 | -10 | 34 |
 | 13 | St. Louis City | 31 | 7 | 7 | 17 | -13 | 28 |
 | 14 | Sporting KC | 31 | 7 | 6 | 18 | -18 | 27 |
-| 15 | LA Galaxy | 30 | 4 | 9 | 17 | -25 | 21 |
+| 15 | LA Galaxy | 30 | 4 | 9 | 17 | -24 | 21 |
 
 ### Indian Super League
 
