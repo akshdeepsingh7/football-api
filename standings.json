@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 09:16 PM UTC",
-        "IST": "Monday, 22 September 2025, 02:46 AM IST"
+        "UTC": "Sunday, 21 September 2025, 09:37 PM UTC",
+        "IST": "Monday, 22 September 2025, 03:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2073,12 +2073,12 @@
             },
             {
                 "Position": "2",
-                "Team": "Famalic\u00e3o",
-                "Played": "6",
+                "Team": "Benfica",
+                "Played": "5",
                 "Wins": "4",
                 "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "5",
+                "Losses": "0",
+                "Goal Difference": "8",
                 "Points": "13"
             },
             {
@@ -2093,16 +2093,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Benfica",
-                "Played": "5",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "8",
-                "Points": "13"
-            },
-            {
-                "Position": "5",
                 "Team": "Sporting CP",
                 "Played": "5",
                 "Wins": "4",
@@ -2112,7 +2102,7 @@
                 "Points": "12"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Moreirense",
                 "Played": "5",
                 "Wins": "4",
@@ -2120,6 +2110,16 @@
                 "Losses": "1",
                 "Goal Difference": "4",
                 "Points": "12"
+            },
+            {
+                "Position": "6",
+                "Team": "Famalic\u00e3o",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "4",
+                "Points": "11"
             },
             {
                 "Position": "7",
@@ -2166,10 +2166,10 @@
                 "Team": "Casa Pia",
                 "Played": "6",
                 "Wins": "2",
-                "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "6"
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-4",
+                "Points": "7"
             },
             {
                 "Position": "12",
