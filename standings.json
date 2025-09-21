@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 11:17 PM UTC",
-        "IST": "Monday, 22 September 2025, 04:47 AM IST"
+        "UTC": "Sunday, 21 September 2025, 11:37 PM UTC",
+        "IST": "Monday, 22 September 2025, 05:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2966,7 +2966,7 @@
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "13"
             },
             {
@@ -3016,7 +3016,7 @@
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "0",
+                "Goal Difference": "1",
                 "Points": "11"
             },
             {
@@ -3111,16 +3111,6 @@
             },
             {
                 "Position": "5",
-                "Team": "Rosario",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "0",
-                "Goal Difference": "3",
-                "Points": "14"
-            },
-            {
-                "Position": "6",
                 "Team": "San Lorenzo",
                 "Played": "9",
                 "Wins": "3",
@@ -3130,12 +3120,22 @@
                 "Points": "13"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Atl. Tucum\u00e1n",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "12"
+            },
+            {
+                "Position": "7",
+                "Team": "Rosario",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "6",
+                "Losses": "0",
                 "Goal Difference": "2",
                 "Points": "12"
             },
@@ -3204,10 +3204,10 @@
                 "Team": "Talleres",
                 "Played": "9",
                 "Wins": "1",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-6",
-                "Points": "6"
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "7"
             },
             {
                 "Position": "15",
@@ -3244,12 +3244,12 @@
             {
                 "Position": "3",
                 "Team": "Cruzeiro",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "14",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "4",
                 "Goal Difference": "21",
-                "Points": "47"
+                "Points": "48"
             },
             {
                 "Position": "4",
@@ -3284,31 +3284,31 @@
             {
                 "Position": "7",
                 "Team": "S\u00e3o Paulo",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "9",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "6",
                 "Goal Difference": "4",
-                "Points": "35"
+                "Points": "36"
             },
             {
                 "Position": "8",
+                "Team": "RB Bragantino",
+                "Played": "24",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-5",
+                "Points": "32"
+            },
+            {
+                "Position": "9",
                 "Team": "Fluminense",
                 "Played": "22",
                 "Wins": "9",
                 "Draws": "4",
                 "Losses": "9",
                 "Goal Difference": "-3",
-                "Points": "31"
-            },
-            {
-                "Position": "9",
-                "Team": "RB Bragantino",
-                "Played": "23",
-                "Wins": "9",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "-5",
                 "Points": "31"
             },
             {
@@ -3374,12 +3374,12 @@
             {
                 "Position": "16",
                 "Team": "Santos",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "6",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "11",
                 "Goal Difference": "-11",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "17",
