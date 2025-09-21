@@ -41,24 +41,24 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 03:17 PM UTC (Sunday, 21 September 2025, 08:47 PM IST)
+**Last Updated:** Sunday, 21 September 2025, 03:37 PM UTC (Sunday, 21 September 2025, 09:07 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Liverpool FC | 5 | 5 | 0 | 0 | 6 | 15 |
-| 2 | Tottenham Hotspur | 5 | 3 | 1 | 1 | 7 | 10 |
-| 3 | AFC Bournemouth | 5 | 3 | 1 | 1 | 1 | 10 |
-| 4 | Arsenal | 4 | 3 | 0 | 1 | 8 | 9 |
+| 2 | Arsenal | 5 | 3 | 1 | 1 | 8 | 10 |
+| 3 | Tottenham Hotspur | 5 | 3 | 1 | 1 | 7 | 10 |
+| 4 | AFC Bournemouth | 5 | 3 | 1 | 1 | 1 | 10 |
 | 5 | Crystal Palace | 5 | 2 | 3 | 0 | 4 | 9 |
 | 6 | Chelsea | 5 | 2 | 2 | 1 | 5 | 8 |
 | 7 | Sunderland | 5 | 2 | 2 | 1 | 2 | 8 |
 | 8 | Fulham | 5 | 2 | 2 | 1 | 1 | 8 |
-| 9 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
-| 10 | Manchester United | 5 | 2 | 1 | 2 | -2 | 7 |
-| 11 | Leeds United | 5 | 2 | 1 | 2 | -3 | 7 |
-| 12 | Manchester City | 4 | 2 | 0 | 2 | 4 | 6 |
+| 9 | Manchester City | 5 | 2 | 1 | 2 | 4 | 7 |
+| 10 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
+| 11 | Manchester United | 5 | 2 | 1 | 2 | -2 | 7 |
+| 12 | Leeds United | 5 | 2 | 1 | 2 | -3 | 7 |
 | 13 | Newcastle United | 5 | 1 | 3 | 1 | 0 | 6 |
 | 14 | Brighton & Hove Albion | 5 | 1 | 2 | 2 | -2 | 5 |
 | 15 | Nottingham Forest | 5 | 1 | 2 | 2 | -4 | 5 |
@@ -102,18 +102,18 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
 | 4 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
 | 5 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
-| 6 | Eintracht Frankfurt | 4 | 2 | 0 | 2 | 1 | 6 |
+| 6 | Eintracht Frankfurt | 4 | 2 | 0 | 2 | 2 | 6 |
 | 7 | SC Freiburg | 4 | 2 | 0 | 2 | 0 | 6 |
 | 8 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
 | 9 | Hoffenheim | 4 | 2 | 0 | 2 | -2 | 6 |
-| 10 | Union Berlin | 4 | 2 | 0 | 2 | -2 | 6 |
+| 10 | Union Berlin | 4 | 2 | 0 | 2 | -3 | 6 |
 | 11 | VfL Wolfsburg | 3 | 1 | 2 | 0 | 2 | 5 |
-| 12 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 1 | 4 |
+| 12 | Bayer Leverkusen | 4 | 1 | 2 | 1 | 1 | 5 |
 | 13 | Mainz 05 | 4 | 1 | 1 | 2 | 1 | 4 |
 | 14 | Werder Bremen | 4 | 1 | 1 | 2 | -2 | 4 |
 | 15 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
 | 16 | Augsburg | 4 | 1 | 0 | 3 | -3 | 3 |
-| 17 | Borussia Mönchengladbach | 3 | 0 | 1 | 2 | -5 | 1 |
+| 17 | Borussia Mönchengladbach | 4 | 0 | 2 | 2 | -5 | 2 |
 | 18 | Heidenheim | 4 | 0 | 0 | 4 | -7 | 0 |
 
 ### Serie A
@@ -149,20 +149,20 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
 | 3 | Strasbourg | 5 | 4 | 0 | 1 | 3 | 12 |
 | 4 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
-| 5 | Monaco | 5 | 3 | 1 | 1 | 3 | 10 |
-| 6 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
+| 5 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
+| 6 | Monaco | 5 | 3 | 0 | 2 | 2 | 9 |
 | 7 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
 | 8 | Toulouse | 5 | 2 | 1 | 2 | -1 | 7 |
 | 9 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
 | 10 | Paris | 5 | 2 | 0 | 3 | -3 | 6 |
 | 11 | Nice | 5 | 2 | 0 | 3 | -3 | 6 |
-| 12 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
-| 13 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
-| 14 | Le Havre | 5 | 1 | 1 | 3 | -2 | 4 |
+| 12 | Lorient | 5 | 2 | 0 | 3 | -6 | 6 |
+| 13 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
+| 14 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
 | 15 | Nantes | 5 | 1 | 1 | 3 | -2 | 4 |
 | 16 | Auxerre | 5 | 1 | 1 | 3 | -3 | 4 |
-| 17 | Lorient | 5 | 1 | 1 | 3 | -7 | 4 |
-| 18 | Metz | 5 | 0 | 2 | 3 | -5 | 2 |
+| 17 | Metz | 5 | 1 | 1 | 3 | -4 | 4 |
+| 18 | Le Havre | 5 | 1 | 0 | 4 | -3 | 3 |
 
 ### Champions League
 
@@ -402,15 +402,15 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
 | 5 | Banfield | 8 | 4 | 1 | 3 | -1 | 13 |
 | 6 | Def y Justicia | 8 | 3 | 3 | 2 | 2 | 12 |
-| 7 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
-| 8 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
-| 9 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
-| 10 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
-| 11 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
-| 12 | Tigre | 8 | 2 | 3 | 3 | -1 | 9 |
+| 7 | Tigre | 9 | 3 | 3 | 3 | 1 | 12 |
+| 8 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
+| 9 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
+| 10 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
+| 11 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
+| 12 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
 | 13 | Independiente Rivadavia | 9 | 2 | 3 | 4 | -2 | 9 |
 | 14 | Argentinos Juniors | 8 | 2 | 2 | 4 | -1 | 8 |
-| 15 | Aldosivi | 8 | 0 | 3 | 5 | -9 | 3 |
+| 15 | Aldosivi | 9 | 0 | 3 | 6 | -11 | 3 |
 | 1 | Riestra | 9 | 6 | 1 | 2 | 7 | 19 |
 | 2 | River Plate | 9 | 5 | 3 | 1 | 9 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
