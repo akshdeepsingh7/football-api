@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 04:20 PM UTC (Sunday, 21 September 2025, 09:50 PM IST)
+**Last Updated:** Sunday, 21 September 2025, 04:42 PM UTC (Sunday, 21 September 2025, 10:12 PM IST)
 
 ### Premier League
 
@@ -76,19 +76,19 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Barcelona | 4 | 3 | 1 | 0 | 10 | 10 |
 | 3 | Villarreal | 5 | 3 | 1 | 1 | 6 | 10 |
 | 4 | Espanyol | 5 | 3 | 1 | 1 | 1 | 10 |
-| 5 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
-| 6 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
-| 7 | Athletic Bilbao | 5 | 3 | 0 | 2 | 0 | 9 |
-| 8 | Sevilla | 5 | 2 | 1 | 2 | 1 | 7 |
-| 9 | Alavés | 5 | 2 | 1 | 2 | 0 | 7 |
-| 10 | Valencia | 5 | 2 | 1 | 2 | -2 | 7 |
-| 11 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
+| 5 | Elche | 5 | 2 | 3 | 0 | 3 | 9 |
+| 6 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
+| 7 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
+| 8 | Athletic Bilbao | 5 | 3 | 0 | 2 | 0 | 9 |
+| 9 | Sevilla | 5 | 2 | 1 | 2 | 1 | 7 |
+| 10 | Alavés | 5 | 2 | 1 | 2 | 0 | 7 |
+| 11 | Valencia | 5 | 2 | 1 | 2 | -2 | 7 |
 | 12 | Atlético de Madrid | 5 | 1 | 3 | 1 | 1 | 6 |
 | 13 | Osasuna | 5 | 2 | 0 | 3 | 0 | 6 |
 | 14 | Rayo Vallecano | 5 | 1 | 2 | 2 | -1 | 5 |
 | 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
 | 16 | Levante | 5 | 1 | 1 | 3 | 0 | 4 |
-| 17 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
+| 17 | Real Oviedo | 5 | 1 | 0 | 4 | -7 | 3 |
 | 18 | Real Sociedad | 5 | 0 | 2 | 3 | -4 | 2 |
 | 19 | Mallorca | 5 | 0 | 2 | 3 | -5 | 2 |
 | 20 | Girona | 5 | 0 | 1 | 4 | -13 | 1 |
@@ -146,10 +146,10 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 4 | 4 | 0 | 0 | 7 | 12 |
-| 2 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
-| 3 | Strasbourg | 5 | 4 | 0 | 1 | 3 | 12 |
-| 4 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
-| 5 | Monaco | 5 | 3 | 1 | 1 | 3 | 10 |
+| 2 | Monaco | 5 | 4 | 0 | 1 | 4 | 12 |
+| 3 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
+| 4 | Strasbourg | 5 | 4 | 0 | 1 | 3 | 12 |
+| 5 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
 | 6 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
 | 7 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
 | 8 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
@@ -157,12 +157,12 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Auxerre | 5 | 2 | 0 | 3 | -2 | 6 |
 | 11 | Paris | 5 | 2 | 0 | 3 | -3 | 6 |
 | 12 | Nice | 5 | 2 | 0 | 3 | -3 | 6 |
-| 13 | Lorient | 5 | 2 | 0 | 3 | -6 | 6 |
-| 14 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
-| 15 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
+| 13 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
+| 14 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
+| 15 | Le Havre | 5 | 1 | 1 | 3 | -2 | 4 |
 | 16 | Nantes | 5 | 1 | 1 | 3 | -2 | 4 |
-| 17 | Le Havre | 5 | 1 | 0 | 4 | -3 | 3 |
-| 18 | Metz | 5 | 0 | 2 | 3 | -5 | 2 |
+| 17 | Lorient | 5 | 1 | 1 | 3 | -7 | 4 |
+| 18 | Metz | 5 | 0 | 1 | 4 | -6 | 1 |
 
 ### Champions League
 
