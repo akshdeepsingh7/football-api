@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 01:39 AM UTC (Sunday, 21 September 2025, 07:09 AM IST)
+**Last Updated:** Sunday, 21 September 2025, 03:08 AM UTC (Sunday, 21 September 2025, 08:38 AM IST)
 
 ### Premier League
 
@@ -344,14 +344,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Philadelphia Union | 31 | 18 | 6 | 7 | 17 | 60 |
-| 2 | Cincinnati | 30 | 17 | 4 | 9 | 7 | 55 |
+| 2 | Cincinnati | 31 | 18 | 4 | 9 | 9 | 58 |
 | 3 | Charlotte | 31 | 17 | 2 | 12 | 9 | 53 |
 | 4 | NYCFC | 30 | 16 | 5 | 9 | 11 | 53 |
 | 5 | Inter Miami | 28 | 15 | 7 | 6 | 14 | 52 |
 | 6 | Orlando City | 30 | 14 | 9 | 7 | 15 | 51 |
 | 7 | Nashville | 31 | 15 | 5 | 11 | 14 | 50 |
 | 8 | Columbus Crew | 31 | 13 | 11 | 7 | 4 | 50 |
-| 9 | Chicago Fire | 30 | 13 | 6 | 11 | 3 | 45 |
+| 9 | Chicago Fire | 30 | 13 | 6 | 11 | 4 | 45 |
 | 10 | New York RB | 31 | 12 | 7 | 12 | 5 | 43 |
 | 11 | New England Revolution | 31 | 8 | 8 | 15 | -6 | 32 |
 | 12 | Toronto | 30 | 5 | 12 | 13 | -7 | 27 |
@@ -360,19 +360,19 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | CF Montréal | 31 | 5 | 9 | 17 | -26 | 24 |
 | 1 | San Diego | 31 | 17 | 6 | 8 | 18 | 57 |
 | 2 | Vancouver Whitecaps | 29 | 16 | 7 | 6 | 25 | 55 |
-| 3 | Minnesota United | 31 | 15 | 9 | 7 | 16 | 54 |
+| 3 | Minnesota United | 31 | 15 | 9 | 7 | 15 | 54 |
 | 4 | LAFC | 28 | 13 | 8 | 7 | 17 | 47 |
 | 5 | Seattle Sounders | 29 | 12 | 9 | 8 | 8 | 45 |
 | 6 | Portland Timbers | 30 | 11 | 9 | 10 | -2 | 42 |
 | 7 | Austin | 29 | 11 | 8 | 10 | -5 | 41 |
-| 8 | Colorado Rapids | 31 | 11 | 6 | 14 | -10 | 39 |
-| 9 | Dallas | 30 | 9 | 10 | 11 | -5 | 37 |
+| 8 | Colorado Rapids | 31 | 11 | 6 | 14 | -11 | 39 |
+| 9 | Dallas | 30 | 9 | 10 | 11 | -4 | 37 |
 | 10 | Houston Dynamo | 31 | 9 | 9 | 13 | -9 | 36 |
-| 11 | San Jose Earthquakes | 30 | 9 | 8 | 13 | 0 | 35 |
+| 11 | San Jose Earthquakes | 31 | 9 | 8 | 14 | -2 | 35 |
 | 12 | Real Salt Lake | 29 | 10 | 4 | 15 | -10 | 34 |
-| 13 | Sporting KC | 31 | 7 | 6 | 18 | -18 | 27 |
-| 14 | St. Louis City | 30 | 6 | 7 | 17 | -15 | 25 |
-| 15 | LA Galaxy | 29 | 4 | 9 | 16 | -23 | 21 |
+| 13 | St. Louis City | 31 | 7 | 7 | 17 | -13 | 28 |
+| 14 | Sporting KC | 31 | 7 | 6 | 18 | -18 | 27 |
+| 15 | LA Galaxy | 30 | 4 | 9 | 17 | -25 | 21 |
 
 ### Indian Super League
 
@@ -412,10 +412,10 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Argentinos Juniors | 8 | 2 | 2 | 4 | -1 | 8 |
 | 15 | Aldosivi | 8 | 0 | 3 | 5 | -9 | 3 |
 | 1 | Riestra | 9 | 6 | 1 | 2 | 7 | 19 |
-| 2 | River Plate | 9 | 5 | 3 | 1 | 10 | 18 |
+| 2 | River Plate | 9 | 5 | 3 | 1 | 9 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
 | 4 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
-| 5 | Atl. Tucumán | 9 | 3 | 3 | 3 | 1 | 12 |
+| 5 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
 | 6 | San Lorenzo | 8 | 3 | 3 | 2 | 0 | 12 |
 | 7 | Sarmiento | 8 | 3 | 3 | 2 | -1 | 12 |
 | 8 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
@@ -432,7 +432,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 22 | 15 | 5 | 2 | 37 | 50 |
-| 2 | Palmeiras | 22 | 15 | 4 | 3 | 16 | 49 |
+| 2 | Palmeiras | 22 | 15 | 4 | 3 | 18 | 49 |
 | 3 | Cruzeiro | 23 | 14 | 5 | 4 | 21 | 47 |
 | 4 | Botafogo | 23 | 11 | 6 | 6 | 17 | 39 |
 | 5 | Mirassol | 22 | 10 | 9 | 3 | 16 | 39 |
@@ -449,7 +449,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Santos | 22 | 6 | 5 | 11 | -11 | 23 |
 | 17 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
 | 18 | Juventude | 22 | 6 | 3 | 13 | -24 | 21 |
-| 19 | Fortaleza | 23 | 4 | 6 | 13 | -13 | 18 |
+| 19 | Fortaleza | 23 | 4 | 6 | 13 | -15 | 18 |
 | 20 | Sport | 21 | 1 | 8 | 12 | -19 | 11 |
 
 
