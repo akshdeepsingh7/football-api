@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 07:37 PM UTC",
-        "IST": "Monday, 22 September 2025, 01:07 AM IST"
+        "UTC": "Sunday, 21 September 2025, 08:19 PM UTC",
+        "IST": "Monday, 22 September 2025, 01:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3161,6 +3161,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Instituto",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "-6",
+                "Points": "10"
+            },
+            {
+                "Position": "11",
                 "Team": "Platense",
                 "Played": "8",
                 "Wins": "2",
@@ -3170,7 +3180,7 @@
                 "Points": "9"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "San Mart\u00edn SJ",
                 "Played": "9",
                 "Wins": "2",
@@ -3180,24 +3190,14 @@
                 "Points": "9"
             },
             {
-                "Position": "12",
-                "Team": "Instituto",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-6",
-                "Points": "9"
-            },
-            {
                 "Position": "13",
                 "Team": "Godoy Cruz",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "1",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "-3",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "14",
@@ -3258,7 +3258,7 @@
                 "Wins": "11",
                 "Draws": "9",
                 "Losses": "3",
-                "Goal Difference": "17",
+                "Goal Difference": "18",
                 "Points": "42"
             },
             {
@@ -3398,7 +3398,7 @@
                 "Wins": "6",
                 "Draws": "3",
                 "Losses": "14",
-                "Goal Difference": "-25",
+                "Goal Difference": "-26",
                 "Points": "21"
             },
             {
