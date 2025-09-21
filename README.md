@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 08:38 PM UTC (Monday, 22 September 2025, 02:08 AM IST)
+**Last Updated:** Sunday, 21 September 2025, 09:16 PM UTC (Monday, 22 September 2025, 02:46 AM IST)
 
 ### Premier League
 
@@ -418,12 +418,12 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | San Lorenzo | 9 | 3 | 4 | 2 | 0 | 13 |
 | 6 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
 | 7 | Sarmiento | 8 | 3 | 3 | 2 | -1 | 12 |
-| 8 | Instituto | 9 | 3 | 3 | 3 | -5 | 12 |
-| 9 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
-| 10 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
+| 8 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
+| 9 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
+| 10 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
 | 11 | Platense | 8 | 2 | 3 | 3 | -3 | 9 |
 | 12 | San Martín SJ | 9 | 2 | 3 | 4 | -3 | 9 |
-| 13 | Godoy Cruz | 9 | 1 | 4 | 4 | -4 | 7 |
+| 13 | Godoy Cruz | 9 | 1 | 5 | 3 | -3 | 8 |
 | 14 | Talleres | 8 | 1 | 3 | 4 | -5 | 6 |
 | 15 | Independiente | 8 | 0 | 4 | 4 | -4 | 4 |
 
