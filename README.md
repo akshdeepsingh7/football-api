@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 07:14 PM UTC (Monday, 22 September 2025, 12:44 AM IST)
+**Last Updated:** Sunday, 21 September 2025, 07:37 PM UTC (Monday, 22 September 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -73,12 +73,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 5 | 5 | 0 | 0 | 8 | 15 |
-| 2 | Barcelona | 5 | 3 | 2 | 0 | 10 | 11 |
+| 2 | Barcelona | 5 | 4 | 1 | 0 | 12 | 13 |
 | 3 | Villarreal | 5 | 3 | 1 | 1 | 6 | 10 |
-| 4 | Getafe | 5 | 3 | 1 | 1 | 2 | 10 |
-| 5 | Espanyol | 5 | 3 | 1 | 1 | 1 | 10 |
-| 6 | Elche | 5 | 2 | 3 | 0 | 3 | 9 |
-| 7 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
+| 4 | Espanyol | 5 | 3 | 1 | 1 | 1 | 10 |
+| 5 | Elche | 5 | 2 | 3 | 0 | 3 | 9 |
+| 6 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
+| 7 | Getafe | 5 | 3 | 0 | 2 | 0 | 9 |
 | 8 | Athletic Bilbao | 5 | 3 | 0 | 2 | 0 | 9 |
 | 9 | Sevilla | 5 | 2 | 1 | 2 | 1 | 7 |
 | 10 | Alavés | 5 | 2 | 1 | 2 | 0 | 7 |
@@ -296,12 +296,12 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Gil Vicente | 6 | 4 | 1 | 1 | 5 | 13 |
 | 4 | Sporting CP | 5 | 4 | 0 | 1 | 11 | 12 |
 | 5 | Moreirense | 5 | 4 | 0 | 1 | 4 | 12 |
-| 6 | Famalicão | 5 | 3 | 1 | 1 | 4 | 10 |
+| 6 | Famalicão | 6 | 3 | 2 | 1 | 4 | 11 |
 | 7 | Braga | 6 | 2 | 3 | 1 | 5 | 9 |
 | 8 | Vitória S.C. | 6 | 2 | 2 | 2 | -2 | 8 |
 | 9 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
 | 10 | Santa Clara | 6 | 2 | 2 | 2 | -2 | 8 |
-| 11 | Casa Pia | 5 | 2 | 0 | 3 | -4 | 6 |
+| 11 | Casa Pia | 6 | 2 | 1 | 3 | -4 | 7 |
 | 12 | Estoril | 6 | 1 | 2 | 3 | -2 | 5 |
 | 13 | Estrela Amadora | 6 | 0 | 4 | 2 | -3 | 4 |
 | 14 | Alverca | 6 | 1 | 1 | 4 | -5 | 4 |
@@ -434,7 +434,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Flamengo | 22 | 15 | 5 | 2 | 37 | 50 |
 | 2 | Palmeiras | 22 | 15 | 4 | 3 | 18 | 49 |
 | 3 | Cruzeiro | 23 | 14 | 5 | 4 | 21 | 47 |
-| 4 | Mirassol | 23 | 10 | 10 | 3 | 16 | 40 |
+| 4 | Mirassol | 23 | 11 | 9 | 3 | 17 | 42 |
 | 5 | Botafogo | 23 | 11 | 6 | 6 | 17 | 39 |
 | 6 | Bahia | 22 | 10 | 7 | 5 | 5 | 37 |
 | 7 | São Paulo | 23 | 9 | 8 | 6 | 4 | 35 |
@@ -447,8 +447,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Grêmio | 22 | 6 | 7 | 9 | -7 | 25 |
 | 15 | Vasco da Gama | 22 | 6 | 5 | 11 | -1 | 23 |
 | 16 | Santos | 22 | 6 | 5 | 11 | -11 | 23 |
-| 17 | Juventude | 23 | 6 | 4 | 13 | -24 | 22 |
-| 18 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
+| 17 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
+| 18 | Juventude | 23 | 6 | 3 | 14 | -25 | 21 |
 | 19 | Fortaleza | 23 | 4 | 6 | 13 | -15 | 18 |
 | 20 | Sport | 21 | 1 | 8 | 12 | -19 | 11 |
 
