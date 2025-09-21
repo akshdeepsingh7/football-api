@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 01:38 PM UTC (Sunday, 21 September 2025, 07:08 PM IST)
+**Last Updated:** Sunday, 21 September 2025, 02:15 PM UTC (Sunday, 21 September 2025, 07:45 PM IST)
 
 ### Premier League
 
@@ -100,17 +100,17 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 4 | 4 | 0 | 0 | 15 | 12 |
 | 2 | RB Leipzig | 4 | 3 | 0 | 1 | -1 | 9 |
 | 3 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
-| 4 | Eintracht Frankfurt | 4 | 2 | 1 | 1 | 3 | 7 |
-| 5 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
-| 6 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
+| 4 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
+| 5 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
+| 6 | Eintracht Frankfurt | 4 | 2 | 0 | 2 | 1 | 6 |
 | 7 | SC Freiburg | 4 | 2 | 0 | 2 | 0 | 6 |
 | 8 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
 | 9 | Hoffenheim | 4 | 2 | 0 | 2 | -2 | 6 |
-| 10 | VfL Wolfsburg | 3 | 1 | 2 | 0 | 2 | 5 |
-| 11 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 1 | 4 |
-| 12 | Mainz 05 | 4 | 1 | 1 | 2 | 1 | 4 |
-| 13 | Werder Bremen | 4 | 1 | 1 | 2 | -2 | 4 |
-| 14 | Union Berlin | 4 | 1 | 1 | 2 | -4 | 4 |
+| 10 | Union Berlin | 4 | 2 | 0 | 2 | -2 | 6 |
+| 11 | VfL Wolfsburg | 3 | 1 | 2 | 0 | 2 | 5 |
+| 12 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 1 | 4 |
+| 13 | Mainz 05 | 4 | 1 | 1 | 2 | 1 | 4 |
+| 14 | Werder Bremen | 4 | 1 | 1 | 2 | -2 | 4 |
 | 15 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
 | 16 | Augsburg | 4 | 1 | 0 | 3 | -3 | 3 |
 | 17 | Borussia Mönchengladbach | 3 | 0 | 1 | 2 | -5 | 1 |
@@ -124,13 +124,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Napoli | 3 | 3 | 0 | 0 | 5 | 9 |
 | 3 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
 | 4 | Roma | 4 | 3 | 0 | 1 | 2 | 9 |
-| 5 | Atalanta | 4 | 2 | 2 | 0 | 4 | 8 |
+| 5 | Atalanta | 4 | 2 | 2 | 0 | 6 | 8 |
 | 6 | Cremonese | 4 | 2 | 2 | 0 | 2 | 8 |
 | 7 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
 | 8 | Udinese | 4 | 2 | 1 | 1 | -1 | 7 |
 | 9 | Bologna | 4 | 2 | 0 | 2 | 0 | 6 |
 | 10 | Como | 3 | 1 | 1 | 1 | 1 | 4 |
-| 11 | Torino | 4 | 1 | 1 | 2 | -5 | 4 |
+| 11 | Torino | 4 | 1 | 1 | 2 | -7 | 4 |
 | 12 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
 | 13 | Sassuolo | 3 | 1 | 0 | 2 | -2 | 3 |
 | 14 | Lazio | 4 | 1 | 0 | 3 | 0 | 3 |
@@ -315,8 +315,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Middlesbrough | 6 | 5 | 1 | 0 | 7 | 16 |
-| 2 | Stoke City | 6 | 4 | 0 | 2 | 5 | 12 |
-| 3 | Bristol City | 5 | 3 | 2 | 0 | 8 | 11 |
+| 2 | Bristol City | 6 | 3 | 3 | 0 | 8 | 12 |
+| 3 | Stoke City | 6 | 4 | 0 | 2 | 5 | 12 |
 | 4 | Leicester City | 6 | 3 | 2 | 1 | 3 | 11 |
 | 5 | Preston North End | 6 | 3 | 2 | 1 | 2 | 11 |
 | 6 | Coventry City | 6 | 2 | 4 | 0 | 8 | 10 |
@@ -336,7 +336,7 @@ The latest league standings are displayed below in Markdown tables:
 | 20 | Watford | 5 | 1 | 2 | 2 | -1 | 5 |
 | 21 | Derby County | 6 | 1 | 2 | 3 | -4 | 5 |
 | 22 | Sheffield Wednesday | 6 | 1 | 1 | 4 | -7 | 4 |
-| 23 | Oxford United | 5 | 0 | 2 | 3 | -3 | 2 |
+| 23 | Oxford United | 6 | 0 | 3 | 3 | -3 | 3 |
 | 24 | Sheffield United | 6 | 0 | 0 | 6 | -12 | 0 |
 
 ### Major League Soccer (MLS)

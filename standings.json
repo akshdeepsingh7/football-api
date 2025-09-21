@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 01:38 PM UTC",
-        "IST": "Sunday, 21 September 2025, 07:08 PM IST"
+        "UTC": "Sunday, 21 September 2025, 02:15 PM UTC",
+        "IST": "Sunday, 21 September 2025, 07:45 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -441,16 +441,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Eintracht Frankfurt",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "3",
-                "Points": "7"
-            },
-            {
-                "Position": "5",
                 "Team": "K\u00f6ln",
                 "Played": "4",
                 "Wins": "2",
@@ -460,7 +450,7 @@
                 "Points": "7"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "St. Pauli",
                 "Played": "4",
                 "Wins": "2",
@@ -468,6 +458,16 @@
                 "Losses": "1",
                 "Goal Difference": "1",
                 "Points": "7"
+            },
+            {
+                "Position": "6",
+                "Team": "Eintracht Frankfurt",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "6"
             },
             {
                 "Position": "7",
@@ -501,6 +501,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Union Berlin",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "6"
+            },
+            {
+                "Position": "11",
                 "Team": "VfL Wolfsburg",
                 "Played": "3",
                 "Wins": "1",
@@ -510,7 +520,7 @@
                 "Points": "5"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Bayer Leverkusen",
                 "Played": "3",
                 "Wins": "1",
@@ -520,7 +530,7 @@
                 "Points": "4"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Mainz 05",
                 "Played": "4",
                 "Wins": "1",
@@ -530,23 +540,13 @@
                 "Points": "4"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Werder Bremen",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "-2",
-                "Points": "4"
-            },
-            {
-                "Position": "14",
-                "Team": "Union Berlin",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-4",
                 "Points": "4"
             },
             {
@@ -638,7 +638,7 @@
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "0",
-                "Goal Difference": "4",
+                "Goal Difference": "6",
                 "Points": "8"
             },
             {
@@ -698,7 +698,7 @@
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "-5",
+                "Goal Difference": "-7",
                 "Points": "4"
             },
             {
@@ -2255,6 +2255,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Bristol City",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "0",
+                "Goal Difference": "8",
+                "Points": "12"
+            },
+            {
+                "Position": "3",
                 "Team": "Stoke City",
                 "Played": "6",
                 "Wins": "4",
@@ -2262,16 +2272,6 @@
                 "Losses": "2",
                 "Goal Difference": "5",
                 "Points": "12"
-            },
-            {
-                "Position": "3",
-                "Team": "Bristol City",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "8",
-                "Points": "11"
             },
             {
                 "Position": "4",
@@ -2466,12 +2466,12 @@
             {
                 "Position": "23",
                 "Team": "Oxford United",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "0",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "-3",
-                "Points": "2"
+                "Points": "3"
             },
             {
                 "Position": "24",
