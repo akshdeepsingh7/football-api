@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 06:44 PM UTC (Monday, 22 September 2025, 12:14 AM IST)
+**Last Updated:** Sunday, 21 September 2025, 07:14 PM UTC (Monday, 22 September 2025, 12:44 AM IST)
 
 ### Premier League
 
@@ -73,12 +73,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 5 | 5 | 0 | 0 | 8 | 15 |
-| 2 | Barcelona | 4 | 3 | 1 | 0 | 10 | 10 |
+| 2 | Barcelona | 5 | 3 | 2 | 0 | 10 | 11 |
 | 3 | Villarreal | 5 | 3 | 1 | 1 | 6 | 10 |
-| 4 | Espanyol | 5 | 3 | 1 | 1 | 1 | 10 |
-| 5 | Elche | 5 | 2 | 3 | 0 | 3 | 9 |
-| 6 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
-| 7 | Getafe | 4 | 3 | 0 | 1 | 2 | 9 |
+| 4 | Getafe | 5 | 3 | 1 | 1 | 2 | 10 |
+| 5 | Espanyol | 5 | 3 | 1 | 1 | 1 | 10 |
+| 6 | Elche | 5 | 2 | 3 | 0 | 3 | 9 |
+| 7 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
 | 8 | Athletic Bilbao | 5 | 3 | 0 | 2 | 0 | 9 |
 | 9 | Sevilla | 5 | 2 | 1 | 2 | 1 | 7 |
 | 10 | Alavés | 5 | 2 | 1 | 2 | 0 | 7 |
@@ -129,11 +129,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
 | 8 | Como | 4 | 2 | 1 | 1 | 2 | 7 |
 | 9 | Udinese | 4 | 2 | 1 | 1 | -1 | 7 |
-| 10 | Bologna | 4 | 2 | 0 | 2 | 0 | 6 |
-| 11 | Torino | 4 | 1 | 1 | 2 | -7 | 4 |
-| 12 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
-| 13 | Sassuolo | 3 | 1 | 0 | 2 | -2 | 3 |
-| 14 | Lazio | 4 | 1 | 0 | 3 | 0 | 3 |
+| 10 | Inter | 4 | 2 | 0 | 2 | 4 | 6 |
+| 11 | Bologna | 4 | 2 | 0 | 2 | 0 | 6 |
+| 12 | Torino | 4 | 1 | 1 | 2 | -7 | 4 |
+| 13 | Lazio | 4 | 1 | 0 | 3 | 0 | 3 |
+| 14 | Sassuolo | 4 | 1 | 0 | 3 | -3 | 3 |
 | 15 | Hellas Verona | 4 | 0 | 3 | 1 | -4 | 3 |
 | 16 | Genoa | 4 | 0 | 2 | 2 | -2 | 2 |
 | 17 | Fiorentina | 4 | 0 | 2 | 2 | -3 | 2 |
@@ -415,7 +415,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | River Plate | 9 | 5 | 3 | 1 | 9 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
 | 4 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
-| 5 | San Lorenzo | 9 | 4 | 3 | 2 | 1 | 15 |
+| 5 | San Lorenzo | 9 | 3 | 4 | 2 | 0 | 13 |
 | 6 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
 | 7 | Sarmiento | 8 | 3 | 3 | 2 | -1 | 12 |
 | 8 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
@@ -425,7 +425,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Instituto | 8 | 2 | 3 | 3 | -6 | 9 |
 | 13 | Godoy Cruz | 8 | 1 | 4 | 3 | -3 | 7 |
 | 14 | Talleres | 8 | 1 | 3 | 4 | -5 | 6 |
-| 15 | Independiente | 8 | 0 | 3 | 5 | -5 | 3 |
+| 15 | Independiente | 8 | 0 | 4 | 4 | -4 | 4 |
 
 ### Brasileirão
 
@@ -434,8 +434,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Flamengo | 22 | 15 | 5 | 2 | 37 | 50 |
 | 2 | Palmeiras | 22 | 15 | 4 | 3 | 18 | 49 |
 | 3 | Cruzeiro | 23 | 14 | 5 | 4 | 21 | 47 |
-| 4 | Botafogo | 23 | 11 | 6 | 6 | 17 | 39 |
-| 5 | Mirassol | 22 | 10 | 9 | 3 | 16 | 39 |
+| 4 | Mirassol | 23 | 10 | 10 | 3 | 16 | 40 |
+| 5 | Botafogo | 23 | 11 | 6 | 6 | 17 | 39 |
 | 6 | Bahia | 22 | 10 | 7 | 5 | 5 | 37 |
 | 7 | São Paulo | 23 | 9 | 8 | 6 | 4 | 35 |
 | 8 | Fluminense | 22 | 9 | 4 | 9 | -3 | 31 |
@@ -447,8 +447,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Grêmio | 22 | 6 | 7 | 9 | -7 | 25 |
 | 15 | Vasco da Gama | 22 | 6 | 5 | 11 | -1 | 23 |
 | 16 | Santos | 22 | 6 | 5 | 11 | -11 | 23 |
-| 17 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
-| 18 | Juventude | 22 | 6 | 3 | 13 | -24 | 21 |
+| 17 | Juventude | 23 | 6 | 4 | 13 | -24 | 22 |
+| 18 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
 | 19 | Fortaleza | 23 | 4 | 6 | 13 | -15 | 18 |
 | 20 | Sport | 21 | 1 | 8 | 12 | -19 | 11 |
 
