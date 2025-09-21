@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 02:15 PM UTC",
-        "IST": "Sunday, 21 September 2025, 07:45 PM IST"
+        "UTC": "Sunday, 21 September 2025, 02:38 PM UTC",
+        "IST": "Sunday, 21 September 2025, 08:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -319,6 +319,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "6"
+            },
+            {
+                "Position": "13",
                 "Team": "Osasuna",
                 "Played": "5",
                 "Wins": "2",
@@ -326,16 +336,6 @@
                 "Losses": "3",
                 "Goal Difference": "0",
                 "Points": "6"
-            },
-            {
-                "Position": "13",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "5"
             },
             {
                 "Position": "14",
@@ -390,12 +390,12 @@
             {
                 "Position": "19",
                 "Team": "Mallorca",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "0",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-5",
-                "Points": "1"
+                "Points": "2"
             },
             {
                 "Position": "20",
@@ -466,7 +466,7 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "6"
             },
             {
@@ -506,7 +506,7 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "6"
             },
             {
@@ -2183,6 +2183,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Estrela Amadora",
+                "Played": "6",
+                "Wins": "0",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "4"
+            },
+            {
+                "Position": "14",
                 "Team": "Alverca",
                 "Played": "6",
                 "Wins": "1",
@@ -2192,7 +2202,7 @@
                 "Points": "4"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Nacional",
                 "Played": "6",
                 "Wins": "1",
@@ -2200,16 +2210,6 @@
                 "Losses": "4",
                 "Goal Difference": "-5",
                 "Points": "4"
-            },
-            {
-                "Position": "15",
-                "Team": "Estrela Amadora",
-                "Played": "5",
-                "Wins": "0",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "3"
             },
             {
                 "Position": "16",
@@ -2224,12 +2224,12 @@
             {
                 "Position": "17",
                 "Team": "Tondela",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "0",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "-8",
-                "Points": "1"
+                "Points": "2"
             },
             {
                 "Position": "18",
@@ -2255,16 +2255,6 @@
             },
             {
                 "Position": "2",
-                "Team": "Bristol City",
-                "Played": "6",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "0",
-                "Goal Difference": "8",
-                "Points": "12"
-            },
-            {
-                "Position": "3",
                 "Team": "Stoke City",
                 "Played": "6",
                 "Wins": "4",
@@ -2272,6 +2262,16 @@
                 "Losses": "2",
                 "Goal Difference": "5",
                 "Points": "12"
+            },
+            {
+                "Position": "3",
+                "Team": "Bristol City",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "7",
+                "Points": "11"
             },
             {
                 "Position": "4",
@@ -2445,6 +2445,16 @@
             },
             {
                 "Position": "21",
+                "Team": "Oxford United",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "5"
+            },
+            {
+                "Position": "22",
                 "Team": "Derby County",
                 "Played": "6",
                 "Wins": "1",
@@ -2454,7 +2464,7 @@
                 "Points": "5"
             },
             {
-                "Position": "22",
+                "Position": "23",
                 "Team": "Sheffield Wednesday",
                 "Played": "6",
                 "Wins": "1",
@@ -2462,16 +2472,6 @@
                 "Losses": "4",
                 "Goal Difference": "-7",
                 "Points": "4"
-            },
-            {
-                "Position": "23",
-                "Team": "Oxford United",
-                "Played": "6",
-                "Wins": "0",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "3"
             },
             {
                 "Position": "24",
