@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 02:38 PM UTC (Sunday, 21 September 2025, 08:08 PM IST)
+**Last Updated:** Sunday, 21 September 2025, 03:17 PM UTC (Sunday, 21 September 2025, 08:47 PM IST)
 
 ### Premier League
 
@@ -102,11 +102,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
 | 4 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
 | 5 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
-| 6 | Eintracht Frankfurt | 4 | 2 | 0 | 2 | 2 | 6 |
+| 6 | Eintracht Frankfurt | 4 | 2 | 0 | 2 | 1 | 6 |
 | 7 | SC Freiburg | 4 | 2 | 0 | 2 | 0 | 6 |
 | 8 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
 | 9 | Hoffenheim | 4 | 2 | 0 | 2 | -2 | 6 |
-| 10 | Union Berlin | 4 | 2 | 0 | 2 | -3 | 6 |
+| 10 | Union Berlin | 4 | 2 | 0 | 2 | -2 | 6 |
 | 11 | VfL Wolfsburg | 3 | 1 | 2 | 0 | 2 | 5 |
 | 12 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 1 | 4 |
 | 13 | Mainz 05 | 4 | 1 | 1 | 2 | 1 | 4 |
@@ -149,20 +149,20 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
 | 3 | Strasbourg | 5 | 4 | 0 | 1 | 3 | 12 |
 | 4 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
-| 5 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
-| 6 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
+| 5 | Monaco | 5 | 3 | 1 | 1 | 3 | 10 |
+| 6 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
 | 7 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
-| 8 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
-| 9 | Toulouse | 4 | 2 | 0 | 2 | -1 | 6 |
+| 8 | Toulouse | 5 | 2 | 1 | 2 | -1 | 7 |
+| 9 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
 | 10 | Paris | 5 | 2 | 0 | 3 | -3 | 6 |
 | 11 | Nice | 5 | 2 | 0 | 3 | -3 | 6 |
 | 12 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
 | 13 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
-| 14 | Nantes | 5 | 1 | 1 | 3 | -2 | 4 |
-| 15 | Le Havre | 4 | 1 | 0 | 3 | -2 | 3 |
-| 16 | Auxerre | 4 | 1 | 0 | 3 | -3 | 3 |
-| 17 | Lorient | 4 | 1 | 0 | 3 | -7 | 3 |
-| 18 | Metz | 4 | 0 | 1 | 3 | -5 | 1 |
+| 14 | Le Havre | 5 | 1 | 1 | 3 | -2 | 4 |
+| 15 | Nantes | 5 | 1 | 1 | 3 | -2 | 4 |
+| 16 | Auxerre | 5 | 1 | 1 | 3 | -3 | 4 |
+| 17 | Lorient | 5 | 1 | 1 | 3 | -7 | 4 |
+| 18 | Metz | 5 | 0 | 2 | 3 | -5 | 2 |
 
 ### Champions League
 
