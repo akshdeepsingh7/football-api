@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 01:22 PM UTC (Sunday, 21 September 2025, 06:52 PM IST)
+**Last Updated:** Sunday, 21 September 2025, 01:38 PM UTC (Sunday, 21 September 2025, 07:08 PM IST)
 
 ### Premier League
 
@@ -81,13 +81,13 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Athletic Bilbao | 5 | 3 | 0 | 2 | 0 | 9 |
 | 8 | Sevilla | 5 | 2 | 1 | 2 | 1 | 7 |
 | 9 | Alavés | 5 | 2 | 1 | 2 | 0 | 7 |
-| 10 | Celta de Vigo | 6 | 1 | 4 | 1 | -1 | 7 |
-| 11 | Valencia | 5 | 2 | 1 | 2 | -2 | 7 |
-| 12 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
-| 13 | Osasuna | 5 | 2 | 0 | 3 | 0 | 6 |
-| 14 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
-| 15 | Levante | 5 | 1 | 1 | 3 | 0 | 4 |
-| 16 | Rayo Vallecano | 5 | 1 | 1 | 3 | -2 | 4 |
+| 10 | Valencia | 5 | 2 | 1 | 2 | -2 | 7 |
+| 11 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
+| 12 | Osasuna | 5 | 2 | 0 | 3 | 0 | 6 |
+| 13 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
+| 14 | Rayo Vallecano | 5 | 1 | 2 | 2 | -1 | 5 |
+| 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
+| 16 | Levante | 5 | 1 | 1 | 3 | 0 | 4 |
 | 17 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
 | 18 | Real Sociedad | 5 | 0 | 2 | 3 | -4 | 2 |
 | 19 | Mallorca | 4 | 0 | 1 | 3 | -5 | 1 |
@@ -100,9 +100,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 4 | 4 | 0 | 0 | 15 | 12 |
 | 2 | RB Leipzig | 4 | 3 | 0 | 1 | -1 | 9 |
 | 3 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
-| 4 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
-| 5 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
-| 6 | Eintracht Frankfurt | 3 | 2 | 0 | 1 | 3 | 6 |
+| 4 | Eintracht Frankfurt | 4 | 2 | 1 | 1 | 3 | 7 |
+| 5 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
+| 6 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
 | 7 | SC Freiburg | 4 | 2 | 0 | 2 | 0 | 6 |
 | 8 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
 | 9 | Hoffenheim | 4 | 2 | 0 | 2 | -2 | 6 |
@@ -110,9 +110,9 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Bayer Leverkusen | 3 | 1 | 1 | 1 | 1 | 4 |
 | 12 | Mainz 05 | 4 | 1 | 1 | 2 | 1 | 4 |
 | 13 | Werder Bremen | 4 | 1 | 1 | 2 | -2 | 4 |
-| 14 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
-| 15 | Augsburg | 4 | 1 | 0 | 3 | -3 | 3 |
-| 16 | Union Berlin | 3 | 1 | 0 | 2 | -4 | 3 |
+| 14 | Union Berlin | 4 | 1 | 1 | 2 | -4 | 4 |
+| 15 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
+| 16 | Augsburg | 4 | 1 | 0 | 3 | -3 | 3 |
 | 17 | Borussia Mönchengladbach | 3 | 0 | 1 | 2 | -5 | 1 |
 | 18 | Heidenheim | 4 | 0 | 0 | 4 | -7 | 0 |
 
@@ -124,13 +124,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Napoli | 3 | 3 | 0 | 0 | 5 | 9 |
 | 3 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
 | 4 | Roma | 4 | 3 | 0 | 1 | 2 | 9 |
-| 5 | Cremonese | 4 | 2 | 2 | 0 | 2 | 8 |
-| 6 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
-| 7 | Udinese | 4 | 2 | 1 | 1 | -1 | 7 |
-| 8 | Atalanta | 4 | 1 | 3 | 0 | 3 | 6 |
+| 5 | Atalanta | 4 | 2 | 2 | 0 | 4 | 8 |
+| 6 | Cremonese | 4 | 2 | 2 | 0 | 2 | 8 |
+| 7 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
+| 8 | Udinese | 4 | 2 | 1 | 1 | -1 | 7 |
 | 9 | Bologna | 4 | 2 | 0 | 2 | 0 | 6 |
-| 10 | Torino | 4 | 1 | 2 | 1 | -4 | 5 |
-| 11 | Como | 3 | 1 | 1 | 1 | 1 | 4 |
+| 10 | Como | 3 | 1 | 1 | 1 | 1 | 4 |
+| 11 | Torino | 4 | 1 | 1 | 2 | -5 | 4 |
 | 12 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
 | 13 | Sassuolo | 3 | 1 | 0 | 2 | -2 | 3 |
 | 14 | Lazio | 4 | 1 | 0 | 3 | 0 | 3 |
@@ -147,14 +147,14 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 4 | 4 | 0 | 0 | 7 | 12 |
 | 2 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
-| 3 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
-| 4 | Strasbourg | 5 | 3 | 1 | 1 | 2 | 10 |
+| 3 | Strasbourg | 5 | 4 | 0 | 1 | 3 | 12 |
+| 4 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
 | 5 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
 | 6 | Monaco | 4 | 3 | 0 | 1 | 3 | 9 |
 | 7 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
-| 8 | Paris | 5 | 2 | 1 | 2 | -2 | 7 |
-| 9 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
-| 10 | Toulouse | 4 | 2 | 0 | 2 | -1 | 6 |
+| 8 | Marseille | 4 | 2 | 0 | 2 | 5 | 6 |
+| 9 | Toulouse | 4 | 2 | 0 | 2 | -1 | 6 |
+| 10 | Paris | 5 | 2 | 0 | 3 | -3 | 6 |
 | 11 | Nice | 5 | 2 | 0 | 3 | -3 | 6 |
 | 12 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
 | 13 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
