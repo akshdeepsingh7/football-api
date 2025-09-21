@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 11:37 AM UTC (Sunday, 21 September 2025, 05:07 PM IST)
+**Last Updated:** Sunday, 21 September 2025, 12:35 PM UTC (Sunday, 21 September 2025, 06:05 PM IST)
 
 ### Premier League
 
@@ -85,9 +85,9 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Elche | 4 | 1 | 3 | 0 | 2 | 6 |
 | 12 | Osasuna | 5 | 2 | 0 | 3 | 0 | 6 |
 | 13 | Atlético de Madrid | 4 | 1 | 2 | 1 | 1 | 5 |
-| 14 | Levante | 5 | 1 | 1 | 3 | 0 | 4 |
-| 15 | Rayo Vallecano | 4 | 1 | 1 | 2 | -1 | 4 |
-| 16 | Celta de Vigo | 5 | 0 | 4 | 1 | -2 | 4 |
+| 14 | Rayo Vallecano | 5 | 1 | 2 | 2 | -1 | 5 |
+| 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
+| 16 | Levante | 5 | 1 | 1 | 3 | 0 | 4 |
 | 17 | Real Oviedo | 4 | 1 | 0 | 3 | -6 | 3 |
 | 18 | Real Sociedad | 5 | 0 | 2 | 3 | -4 | 2 |
 | 19 | Mallorca | 4 | 0 | 1 | 3 | -5 | 1 |
