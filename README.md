@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 08:19 PM UTC (Monday, 22 September 2025, 01:49 AM IST)
+**Last Updated:** Sunday, 21 September 2025, 08:38 PM UTC (Monday, 22 September 2025, 02:08 AM IST)
 
 ### Premier League
 
@@ -73,13 +73,13 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 5 | 5 | 0 | 0 | 8 | 15 |
-| 2 | Barcelona | 5 | 4 | 1 | 0 | 12 | 13 |
+| 2 | Barcelona | 5 | 4 | 1 | 0 | 13 | 13 |
 | 3 | Villarreal | 5 | 3 | 1 | 1 | 6 | 10 |
 | 4 | Espanyol | 5 | 3 | 1 | 1 | 1 | 10 |
 | 5 | Elche | 5 | 2 | 3 | 0 | 3 | 9 |
 | 6 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
-| 7 | Getafe | 5 | 3 | 0 | 2 | 0 | 9 |
-| 8 | Athletic Bilbao | 5 | 3 | 0 | 2 | 0 | 9 |
+| 7 | Athletic Bilbao | 5 | 3 | 0 | 2 | 0 | 9 |
+| 8 | Getafe | 5 | 3 | 0 | 2 | -1 | 9 |
 | 9 | Sevilla | 5 | 2 | 1 | 2 | 1 | 7 |
 | 10 | Alavés | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Valencia | 5 | 2 | 1 | 2 | -2 | 7 |
@@ -292,16 +292,16 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 6 | 6 | 0 | 0 | 14 | 18 |
-| 2 | Benfica | 5 | 4 | 1 | 0 | 8 | 13 |
+| 2 | Famalicão | 6 | 4 | 1 | 1 | 5 | 13 |
 | 3 | Gil Vicente | 6 | 4 | 1 | 1 | 5 | 13 |
-| 4 | Sporting CP | 5 | 4 | 0 | 1 | 11 | 12 |
-| 5 | Moreirense | 5 | 4 | 0 | 1 | 4 | 12 |
-| 6 | Famalicão | 6 | 3 | 2 | 1 | 4 | 11 |
+| 4 | Benfica | 5 | 4 | 1 | 0 | 8 | 13 |
+| 5 | Sporting CP | 5 | 4 | 0 | 1 | 11 | 12 |
+| 6 | Moreirense | 5 | 4 | 0 | 1 | 4 | 12 |
 | 7 | Braga | 6 | 2 | 3 | 1 | 5 | 9 |
 | 8 | Vitória S.C. | 6 | 2 | 2 | 2 | -2 | 8 |
 | 9 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
 | 10 | Santa Clara | 6 | 2 | 2 | 2 | -2 | 8 |
-| 11 | Casa Pia | 6 | 2 | 1 | 3 | -4 | 7 |
+| 11 | Casa Pia | 6 | 2 | 0 | 4 | -5 | 6 |
 | 12 | Estoril | 6 | 1 | 2 | 3 | -2 | 5 |
 | 13 | Estrela Amadora | 6 | 0 | 4 | 2 | -3 | 4 |
 | 14 | Alverca | 6 | 1 | 1 | 4 | -5 | 4 |
@@ -418,12 +418,12 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | San Lorenzo | 9 | 3 | 4 | 2 | 0 | 13 |
 | 6 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
 | 7 | Sarmiento | 8 | 3 | 3 | 2 | -1 | 12 |
-| 8 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
-| 9 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
-| 10 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
+| 8 | Instituto | 9 | 3 | 3 | 3 | -5 | 12 |
+| 9 | Rosario | 7 | 2 | 5 | 0 | 2 | 11 |
+| 10 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
 | 11 | Platense | 8 | 2 | 3 | 3 | -3 | 9 |
 | 12 | San Martín SJ | 9 | 2 | 3 | 4 | -3 | 9 |
-| 13 | Godoy Cruz | 9 | 1 | 5 | 3 | -3 | 8 |
+| 13 | Godoy Cruz | 9 | 1 | 4 | 4 | -4 | 7 |
 | 14 | Talleres | 8 | 1 | 3 | 4 | -5 | 6 |
 | 15 | Independiente | 8 | 0 | 4 | 4 | -4 | 4 |
 
@@ -431,7 +431,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Flamengo | 22 | 15 | 5 | 2 | 37 | 50 |
+| 1 | Flamengo | 23 | 15 | 6 | 2 | 37 | 51 |
 | 2 | Palmeiras | 22 | 15 | 4 | 3 | 18 | 49 |
 | 3 | Cruzeiro | 23 | 14 | 5 | 4 | 21 | 47 |
 | 4 | Mirassol | 23 | 11 | 9 | 3 | 18 | 42 |
@@ -440,17 +440,17 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | São Paulo | 23 | 9 | 8 | 6 | 4 | 35 |
 | 8 | Fluminense | 22 | 9 | 4 | 9 | -3 | 31 |
 | 9 | RB Bragantino | 23 | 9 | 4 | 10 | -5 | 31 |
-| 10 | Corinthians | 23 | 7 | 8 | 8 | -4 | 29 |
+| 10 | Corinthians | 24 | 7 | 9 | 8 | -4 | 30 |
 | 11 | Ceará | 23 | 7 | 7 | 9 | -1 | 28 |
-| 12 | Internacional | 22 | 7 | 6 | 9 | -7 | 27 |
-| 13 | Atlético Mineiro | 22 | 6 | 7 | 9 | -5 | 25 |
-| 14 | Grêmio | 22 | 6 | 7 | 9 | -7 | 25 |
-| 15 | Vasco da Gama | 22 | 6 | 5 | 11 | -1 | 23 |
+| 12 | Internacional | 23 | 7 | 7 | 9 | -7 | 28 |
+| 13 | Grêmio | 23 | 6 | 8 | 9 | -7 | 26 |
+| 14 | Atlético Mineiro | 22 | 6 | 7 | 9 | -5 | 25 |
+| 15 | Vasco da Gama | 23 | 6 | 6 | 11 | -1 | 24 |
 | 16 | Santos | 22 | 6 | 5 | 11 | -11 | 23 |
 | 17 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
 | 18 | Juventude | 23 | 6 | 3 | 14 | -26 | 21 |
 | 19 | Fortaleza | 23 | 4 | 6 | 13 | -15 | 18 |
-| 20 | Sport | 21 | 1 | 8 | 12 | -19 | 11 |
+| 20 | Sport | 22 | 1 | 9 | 12 | -19 | 12 |
 
 
 <!-- END_TABLE -->
