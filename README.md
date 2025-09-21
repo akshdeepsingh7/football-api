@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 10:17 AM UTC (Sunday, 21 September 2025, 03:47 PM IST)
+**Last Updated:** Sunday, 21 September 2025, 10:38 AM UTC (Sunday, 21 September 2025, 04:08 PM IST)
 
 ### Premier League
 
@@ -125,14 +125,14 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
 | 4 | Cremonese | 3 | 2 | 1 | 0 | 2 | 7 |
 | 5 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
-| 6 | Udinese | 4 | 2 | 1 | 1 | -1 | 7 |
-| 7 | Roma | 3 | 2 | 0 | 1 | 1 | 6 |
+| 6 | Roma | 4 | 2 | 1 | 1 | 1 | 7 |
+| 7 | Udinese | 4 | 2 | 1 | 1 | -1 | 7 |
 | 8 | Bologna | 4 | 2 | 0 | 2 | 0 | 6 |
 | 9 | Atalanta | 3 | 1 | 2 | 0 | 3 | 5 |
 | 10 | Como | 3 | 1 | 1 | 1 | 1 | 4 |
 | 11 | Torino | 3 | 1 | 1 | 1 | -4 | 4 |
-| 12 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
-| 13 | Lazio | 3 | 1 | 0 | 2 | 1 | 3 |
+| 12 | Lazio | 4 | 1 | 1 | 2 | 1 | 4 |
+| 13 | Inter | 3 | 1 | 0 | 2 | 3 | 3 |
 | 14 | Sassuolo | 3 | 1 | 0 | 2 | -2 | 3 |
 | 15 | Hellas Verona | 4 | 0 | 3 | 1 | -4 | 3 |
 | 16 | Fiorentina | 3 | 0 | 2 | 1 | -2 | 2 |
