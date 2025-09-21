@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 September 2025, 10:38 PM UTC (Monday, 22 September 2025, 04:08 AM IST)
+**Last Updated:** Sunday, 21 September 2025, 11:17 PM UTC (Monday, 22 September 2025, 04:47 AM IST)
 
 ### Premier League
 
@@ -362,9 +362,9 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Vancouver Whitecaps | 29 | 16 | 7 | 6 | 25 | 55 |
 | 3 | Minnesota United | 31 | 15 | 9 | 7 | 15 | 54 |
 | 4 | LAFC | 28 | 13 | 8 | 7 | 17 | 47 |
-| 5 | Seattle Sounders | 29 | 12 | 9 | 8 | 8 | 45 |
+| 5 | Seattle Sounders | 30 | 12 | 10 | 8 | 8 | 46 |
 | 6 | Portland Timbers | 30 | 11 | 9 | 10 | -2 | 42 |
-| 7 | Austin | 29 | 11 | 8 | 10 | -5 | 41 |
+| 7 | Austin | 30 | 11 | 9 | 10 | -5 | 42 |
 | 8 | Colorado Rapids | 31 | 11 | 6 | 14 | -11 | 39 |
 | 9 | Dallas | 30 | 9 | 10 | 11 | -4 | 37 |
 | 10 | Houston Dynamo | 31 | 9 | 9 | 13 | -9 | 36 |
@@ -398,16 +398,16 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Unión | 9 | 4 | 4 | 1 | 7 | 16 |
 | 2 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
-| 3 | Banfield | 9 | 4 | 2 | 3 | -1 | 14 |
-| 4 | Boca Juniors | 8 | 3 | 4 | 1 | 6 | 13 |
-| 5 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
+| 3 | Boca Juniors | 8 | 3 | 4 | 1 | 6 | 13 |
+| 4 | Córdoba SdE | 8 | 3 | 4 | 1 | 4 | 13 |
+| 5 | Banfield | 9 | 4 | 1 | 4 | -2 | 13 |
 | 6 | Def y Justicia | 8 | 3 | 3 | 2 | 2 | 12 |
 | 7 | Tigre | 9 | 3 | 3 | 3 | 1 | 12 |
 | 8 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
 | 9 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
-| 10 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
-| 11 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
-| 12 | Argentinos Juniors | 9 | 2 | 3 | 4 | -1 | 9 |
+| 10 | Argentinos Juniors | 9 | 3 | 2 | 4 | 0 | 11 |
+| 11 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
+| 12 | Newell's Old Boys | 8 | 2 | 3 | 3 | 0 | 9 |
 | 13 | Belgrano | 8 | 2 | 3 | 3 | -1 | 9 |
 | 14 | Independiente Rivadavia | 9 | 2 | 3 | 4 | -2 | 9 |
 | 15 | Aldosivi | 9 | 0 | 3 | 6 | -11 | 3 |
@@ -415,16 +415,16 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | River Plate | 9 | 5 | 3 | 1 | 9 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
 | 4 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
-| 5 | San Lorenzo | 9 | 3 | 4 | 2 | 0 | 13 |
-| 6 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
-| 7 | Rosario | 8 | 2 | 6 | 0 | 2 | 12 |
+| 5 | Rosario | 8 | 3 | 5 | 0 | 3 | 14 |
+| 6 | San Lorenzo | 9 | 3 | 4 | 2 | 0 | 13 |
+| 7 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
 | 8 | Sarmiento | 8 | 3 | 3 | 2 | -1 | 12 |
 | 9 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
 | 10 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
 | 11 | Platense | 8 | 2 | 3 | 3 | -3 | 9 |
 | 12 | San Martín SJ | 9 | 2 | 3 | 4 | -3 | 9 |
 | 13 | Godoy Cruz | 9 | 1 | 5 | 3 | -3 | 8 |
-| 14 | Talleres | 9 | 1 | 4 | 4 | -5 | 7 |
+| 14 | Talleres | 9 | 1 | 3 | 5 | -6 | 6 |
 | 15 | Independiente | 8 | 0 | 4 | 4 | -4 | 4 |
 
 ### Brasileirão

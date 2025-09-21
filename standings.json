@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 10:38 PM UTC",
-        "IST": "Monday, 22 September 2025, 04:08 AM IST"
+        "UTC": "Sunday, 21 September 2025, 11:17 PM UTC",
+        "IST": "Monday, 22 September 2025, 04:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2678,12 +2678,12 @@
             {
                 "Position": "5",
                 "Team": "Seattle Sounders",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "12",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "8",
                 "Goal Difference": "8",
-                "Points": "45"
+                "Points": "46"
             },
             {
                 "Position": "6",
@@ -2698,12 +2698,12 @@
             {
                 "Position": "7",
                 "Team": "Austin",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "11",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "10",
                 "Goal Difference": "-5",
-                "Points": "41"
+                "Points": "42"
             },
             {
                 "Position": "8",
@@ -2941,16 +2941,6 @@
             },
             {
                 "Position": "3",
-                "Team": "Banfield",
-                "Played": "9",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "14"
-            },
-            {
-                "Position": "4",
                 "Team": "Boca Juniors",
                 "Played": "8",
                 "Wins": "3",
@@ -2960,13 +2950,23 @@
                 "Points": "13"
             },
             {
-                "Position": "5",
+                "Position": "4",
                 "Team": "C\u00f3rdoba SdE",
                 "Played": "8",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "4",
+                "Points": "13"
+            },
+            {
+                "Position": "5",
+                "Team": "Banfield",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-2",
                 "Points": "13"
             },
             {
@@ -3011,6 +3011,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Argentinos Juniors",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "11"
+            },
+            {
+                "Position": "11",
                 "Team": "Racing Club",
                 "Played": "9",
                 "Wins": "3",
@@ -3020,23 +3030,13 @@
                 "Points": "10"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Newell's Old Boys",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "0",
-                "Points": "9"
-            },
-            {
-                "Position": "12",
-                "Team": "Argentinos Juniors",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-1",
                 "Points": "9"
             },
             {
@@ -3111,6 +3111,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Rosario",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "14"
+            },
+            {
+                "Position": "6",
                 "Team": "San Lorenzo",
                 "Played": "9",
                 "Wins": "3",
@@ -3120,22 +3130,12 @@
                 "Points": "13"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Atl. Tucum\u00e1n",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "2",
-                "Points": "12"
-            },
-            {
-                "Position": "7",
-                "Team": "Rosario",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "6",
-                "Losses": "0",
                 "Goal Difference": "2",
                 "Points": "12"
             },
@@ -3204,10 +3204,10 @@
                 "Team": "Talleres",
                 "Played": "9",
                 "Wins": "1",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "7"
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-6",
+                "Points": "6"
             },
             {
                 "Position": "15",
