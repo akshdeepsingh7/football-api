@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 September 2025, 01:39 AM UTC",
-        "IST": "Monday, 22 September 2025, 07:09 AM IST"
+        "UTC": "Monday, 22 September 2025, 03:07 AM UTC",
+        "IST": "Monday, 22 September 2025, 08:37 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2669,11 +2669,11 @@
                 "Position": "4",
                 "Team": "LAFC",
                 "Played": "29",
-                "Wins": "13",
-                "Draws": "9",
+                "Wins": "14",
+                "Draws": "8",
                 "Losses": "7",
-                "Goal Difference": "17",
-                "Points": "48"
+                "Goal Difference": "19",
+                "Points": "50"
             },
             {
                 "Position": "5",
@@ -2737,16 +2737,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Real Salt Lake",
-                "Played": "30",
-                "Wins": "10",
-                "Draws": "5",
-                "Losses": "15",
-                "Goal Difference": "-10",
-                "Points": "35"
-            },
-            {
-                "Position": "12",
                 "Team": "San Jose Earthquakes",
                 "Played": "31",
                 "Wins": "9",
@@ -2754,6 +2744,16 @@
                 "Losses": "14",
                 "Goal Difference": "-2",
                 "Points": "35"
+            },
+            {
+                "Position": "12",
+                "Team": "Real Salt Lake",
+                "Played": "30",
+                "Wins": "10",
+                "Draws": "4",
+                "Losses": "16",
+                "Goal Difference": "-12",
+                "Points": "34"
             },
             {
                 "Position": "13",
@@ -2921,16 +2921,6 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
-                "Team": "Boca Juniors",
-                "Played": "9",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "8",
-                "Points": "16"
-            },
-            {
-                "Position": "2",
                 "Team": "Uni\u00f3n",
                 "Played": "9",
                 "Wins": "4",
@@ -2940,7 +2930,7 @@
                 "Points": "16"
             },
             {
-                "Position": "3",
+                "Position": "2",
                 "Team": "Barracas",
                 "Played": "9",
                 "Wins": "4",
@@ -2950,14 +2940,24 @@
                 "Points": "15"
             },
             {
+                "Position": "3",
+                "Team": "Boca Juniors",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "1",
+                "Goal Difference": "6",
+                "Points": "14"
+            },
+            {
                 "Position": "4",
                 "Team": "C\u00f3rdoba SdE",
                 "Played": "9",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "13"
+                "Draws": "5",
+                "Losses": "1",
+                "Goal Difference": "4",
+                "Points": "14"
             },
             {
                 "Position": "5",
