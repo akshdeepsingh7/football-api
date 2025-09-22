@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 September 2025, 06:47 PM UTC",
-        "IST": "Tuesday, 23 September 2025, 12:17 AM IST"
+        "UTC": "Monday, 22 September 2025, 07:15 PM UTC",
+        "IST": "Tuesday, 23 September 2025, 12:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -593,6 +593,16 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Napoli",
+                "Played": "4",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "5",
+                "Points": "10"
+            },
+            {
+                "Position": "2",
                 "Team": "Juventus",
                 "Played": "4",
                 "Wins": "3",
@@ -600,16 +610,6 @@
                 "Losses": "0",
                 "Goal Difference": "4",
                 "Points": "10"
-            },
-            {
-                "Position": "2",
-                "Team": "Napoli",
-                "Played": "3",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "5",
-                "Points": "9"
             },
             {
                 "Position": "3",
@@ -753,6 +753,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Pisa",
+                "Played": "4",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "2"
+            },
+            {
+                "Position": "18",
                 "Team": "Fiorentina",
                 "Played": "4",
                 "Wins": "0",
@@ -762,7 +772,7 @@
                 "Points": "2"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Parma",
                 "Played": "4",
                 "Wins": "0",
@@ -770,16 +780,6 @@
                 "Losses": "2",
                 "Goal Difference": "-4",
                 "Points": "2"
-            },
-            {
-                "Position": "19",
-                "Team": "Pisa",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "1"
             },
             {
                 "Position": "20",
@@ -2335,6 +2335,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Millwall",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "10"
+            },
+            {
+                "Position": "11",
                 "Team": "Swansea City",
                 "Played": "6",
                 "Wins": "2",
@@ -2344,7 +2354,7 @@
                 "Points": "8"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Charlton Athletic",
                 "Played": "6",
                 "Wins": "2",
@@ -2354,7 +2364,7 @@
                 "Points": "8"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Portsmouth",
                 "Played": "6",
                 "Wins": "2",
@@ -2364,7 +2374,7 @@
                 "Points": "8"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Hull City",
                 "Played": "6",
                 "Wins": "2",
@@ -2374,7 +2384,7 @@
                 "Points": "8"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Norwich City",
                 "Played": "6",
                 "Wins": "2",
@@ -2384,23 +2394,13 @@
                 "Points": "7"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Wrexham",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "-1",
-                "Points": "7"
-            },
-            {
-                "Position": "16",
-                "Team": "Millwall",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-3",
                 "Points": "7"
             },
             {
@@ -2446,11 +2446,11 @@
             {
                 "Position": "21",
                 "Team": "Watford",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "1",
                 "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-1",
+                "Losses": "3",
+                "Goal Difference": "-2",
                 "Points": "5"
             },
             {
