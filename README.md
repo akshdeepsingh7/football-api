@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 22 September 2025, 11:17 PM UTC (Tuesday, 23 September 2025, 04:47 AM IST)
+**Last Updated:** Monday, 22 September 2025, 11:37 PM UTC (Tuesday, 23 September 2025, 05:07 AM IST)
 
 ### Premier League
 
@@ -398,11 +398,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Unión | 9 | 4 | 4 | 1 | 7 | 16 |
 | 2 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
-| 3 | Boca Juniors | 9 | 3 | 5 | 1 | 6 | 14 |
-| 4 | Córdoba SdE | 9 | 3 | 5 | 1 | 4 | 14 |
-| 5 | Def y Justicia | 9 | 3 | 4 | 2 | 2 | 13 |
-| 6 | Estudiantes | 9 | 4 | 1 | 4 | -1 | 13 |
-| 7 | Banfield | 9 | 4 | 1 | 4 | -4 | 13 |
+| 3 | Estudiantes | 9 | 5 | 0 | 4 | 0 | 15 |
+| 4 | Boca Juniors | 9 | 3 | 5 | 1 | 6 | 14 |
+| 5 | Córdoba SdE | 9 | 3 | 5 | 1 | 4 | 14 |
+| 6 | Banfield | 9 | 4 | 1 | 4 | -4 | 13 |
+| 7 | Def y Justicia | 9 | 3 | 3 | 3 | 1 | 12 |
 | 8 | Tigre | 9 | 3 | 3 | 3 | 1 | 12 |
 | 9 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
 | 10 | Argentinos Juniors | 9 | 3 | 2 | 4 | 2 | 11 |
