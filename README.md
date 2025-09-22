@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 22 September 2025, 07:15 PM UTC (Tuesday, 23 September 2025, 12:45 AM IST)
+**Last Updated:** Monday, 22 September 2025, 07:38 PM UTC (Tuesday, 23 September 2025, 01:08 AM IST)
 
 ### Premier League
 
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Napoli | 4 | 3 | 1 | 0 | 5 | 10 |
+| 1 | Napoli | 4 | 4 | 0 | 0 | 6 | 12 |
 | 2 | Juventus | 4 | 3 | 1 | 0 | 4 | 10 |
 | 3 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
 | 4 | Roma | 4 | 3 | 0 | 1 | 2 | 9 |
@@ -136,9 +136,9 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Sassuolo | 4 | 1 | 0 | 3 | -3 | 3 |
 | 15 | Hellas Verona | 4 | 0 | 3 | 1 | -4 | 3 |
 | 16 | Genoa | 4 | 0 | 2 | 2 | -2 | 2 |
-| 17 | Pisa | 4 | 0 | 2 | 2 | -2 | 2 |
-| 18 | Fiorentina | 4 | 0 | 2 | 2 | -3 | 2 |
-| 19 | Parma | 4 | 0 | 2 | 2 | -4 | 2 |
+| 17 | Fiorentina | 4 | 0 | 2 | 2 | -3 | 2 |
+| 18 | Parma | 4 | 0 | 2 | 2 | -4 | 2 |
+| 19 | Pisa | 4 | 0 | 1 | 3 | -3 | 1 |
 | 20 | Lecce | 4 | 0 | 1 | 3 | -6 | 1 |
 
 ### Ligue 1
@@ -292,10 +292,10 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 6 | 6 | 0 | 0 | 14 | 18 |
-| 2 | Benfica | 5 | 4 | 1 | 0 | 8 | 13 |
-| 3 | Gil Vicente | 6 | 4 | 1 | 1 | 5 | 13 |
-| 4 | Sporting CP | 5 | 4 | 0 | 1 | 11 | 12 |
-| 5 | Moreirense | 5 | 4 | 0 | 1 | 4 | 12 |
+| 2 | Gil Vicente | 6 | 4 | 1 | 1 | 5 | 13 |
+| 3 | Sporting CP | 6 | 4 | 1 | 1 | 11 | 13 |
+| 4 | Moreirense | 6 | 4 | 1 | 1 | 4 | 13 |
+| 5 | Benfica | 5 | 4 | 1 | 0 | 8 | 13 |
 | 6 | Famalicão | 6 | 3 | 2 | 1 | 4 | 11 |
 | 7 | Braga | 6 | 2 | 3 | 1 | 5 | 9 |
 | 8 | Vitória S.C. | 6 | 2 | 2 | 2 | -2 | 8 |
