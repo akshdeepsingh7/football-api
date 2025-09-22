@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 September 2025, 11:37 PM UTC",
-        "IST": "Monday, 22 September 2025, 05:07 AM IST"
+        "UTC": "Monday, 22 September 2025, 01:39 AM UTC",
+        "IST": "Monday, 22 September 2025, 07:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2668,41 +2668,41 @@
             {
                 "Position": "4",
                 "Team": "LAFC",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "13",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "17",
-                "Points": "47"
+                "Points": "48"
             },
             {
                 "Position": "5",
                 "Team": "Seattle Sounders",
                 "Played": "30",
                 "Wins": "12",
-                "Draws": "10",
-                "Losses": "8",
-                "Goal Difference": "8",
-                "Points": "46"
+                "Draws": "9",
+                "Losses": "9",
+                "Goal Difference": "7",
+                "Points": "45"
             },
             {
                 "Position": "6",
+                "Team": "Austin",
+                "Played": "30",
+                "Wins": "12",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-4",
+                "Points": "44"
+            },
+            {
+                "Position": "7",
                 "Team": "Portland Timbers",
                 "Played": "30",
                 "Wins": "11",
                 "Draws": "9",
                 "Losses": "10",
                 "Goal Difference": "-2",
-                "Points": "42"
-            },
-            {
-                "Position": "7",
-                "Team": "Austin",
-                "Played": "30",
-                "Wins": "11",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-5",
                 "Points": "42"
             },
             {
@@ -2737,6 +2737,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Real Salt Lake",
+                "Played": "30",
+                "Wins": "10",
+                "Draws": "5",
+                "Losses": "15",
+                "Goal Difference": "-10",
+                "Points": "35"
+            },
+            {
+                "Position": "12",
                 "Team": "San Jose Earthquakes",
                 "Played": "31",
                 "Wins": "9",
@@ -2744,16 +2754,6 @@
                 "Losses": "14",
                 "Goal Difference": "-2",
                 "Points": "35"
-            },
-            {
-                "Position": "12",
-                "Team": "Real Salt Lake",
-                "Played": "29",
-                "Wins": "10",
-                "Draws": "4",
-                "Losses": "15",
-                "Goal Difference": "-10",
-                "Points": "34"
             },
             {
                 "Position": "13",
@@ -2921,6 +2921,16 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
+                "Team": "Boca Juniors",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "8",
+                "Points": "16"
+            },
+            {
+                "Position": "2",
                 "Team": "Uni\u00f3n",
                 "Played": "9",
                 "Wins": "4",
@@ -2930,7 +2940,7 @@
                 "Points": "16"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Barracas",
                 "Played": "9",
                 "Wins": "4",
@@ -2940,23 +2950,13 @@
                 "Points": "15"
             },
             {
-                "Position": "3",
-                "Team": "Boca Juniors",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "6",
-                "Points": "13"
-            },
-            {
                 "Position": "4",
                 "Team": "C\u00f3rdoba SdE",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "3",
                 "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "4",
+                "Losses": "2",
+                "Goal Difference": "2",
                 "Points": "13"
             },
             {
@@ -2966,7 +2966,7 @@
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "13"
             },
             {
@@ -3016,7 +3016,7 @@
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "11"
             },
             {
@@ -3233,6 +3233,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Cruzeiro",
+                "Played": "24",
+                "Wins": "15",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "22",
+                "Points": "50"
+            },
+            {
+                "Position": "3",
                 "Team": "Palmeiras",
                 "Played": "22",
                 "Wins": "15",
@@ -3240,16 +3250,6 @@
                 "Losses": "3",
                 "Goal Difference": "18",
                 "Points": "49"
-            },
-            {
-                "Position": "3",
-                "Team": "Cruzeiro",
-                "Played": "24",
-                "Wins": "14",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "21",
-                "Points": "48"
             },
             {
                 "Position": "4",
@@ -3286,29 +3286,29 @@
                 "Team": "S\u00e3o Paulo",
                 "Played": "24",
                 "Wins": "9",
-                "Draws": "9",
-                "Losses": "6",
-                "Goal Difference": "4",
-                "Points": "36"
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "3",
+                "Points": "35"
             },
             {
                 "Position": "8",
-                "Team": "RB Bragantino",
-                "Played": "24",
-                "Wins": "9",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-5",
-                "Points": "32"
-            },
-            {
-                "Position": "9",
                 "Team": "Fluminense",
                 "Played": "22",
                 "Wins": "9",
                 "Draws": "4",
                 "Losses": "9",
                 "Goal Difference": "-3",
+                "Points": "31"
+            },
+            {
+                "Position": "9",
+                "Team": "RB Bragantino",
+                "Played": "24",
+                "Wins": "9",
+                "Draws": "4",
+                "Losses": "11",
+                "Goal Difference": "-6",
                 "Points": "31"
             },
             {
@@ -3353,6 +3353,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Santos",
+                "Played": "23",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-10",
+                "Points": "26"
+            },
+            {
+                "Position": "15",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "22",
                 "Wins": "6",
@@ -3362,23 +3372,13 @@
                 "Points": "25"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Vasco da Gama",
                 "Played": "23",
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "11",
                 "Goal Difference": "-1",
-                "Points": "24"
-            },
-            {
-                "Position": "16",
-                "Team": "Santos",
-                "Played": "23",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-11",
                 "Points": "24"
             },
             {
