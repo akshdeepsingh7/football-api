@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 September 2025, 08:20 PM UTC",
-        "IST": "Tuesday, 23 September 2025, 01:50 AM IST"
+        "UTC": "Monday, 22 September 2025, 08:40 PM UTC",
+        "IST": "Tuesday, 23 September 2025, 02:10 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -595,11 +595,11 @@
                 "Position": "1",
                 "Team": "Napoli",
                 "Played": "4",
-                "Wins": "3",
-                "Draws": "1",
+                "Wins": "4",
+                "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "5",
-                "Points": "10"
+                "Goal Difference": "6",
+                "Points": "12"
             },
             {
                 "Position": "2",
@@ -753,16 +753,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Pisa",
-                "Played": "4",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "2"
-            },
-            {
-                "Position": "18",
                 "Team": "Fiorentina",
                 "Played": "4",
                 "Wins": "0",
@@ -772,7 +762,7 @@
                 "Points": "2"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Parma",
                 "Played": "4",
                 "Wins": "0",
@@ -780,6 +770,16 @@
                 "Losses": "2",
                 "Goal Difference": "-4",
                 "Points": "2"
+            },
+            {
+                "Position": "19",
+                "Team": "Pisa",
+                "Played": "4",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "1"
             },
             {
                 "Position": "20",
