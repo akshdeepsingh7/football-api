@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 September 2025, 08:40 PM UTC",
-        "IST": "Tuesday, 23 September 2025, 02:10 AM IST"
+        "UTC": "Monday, 22 September 2025, 09:16 PM UTC",
+        "IST": "Tuesday, 23 September 2025, 02:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2073,6 +2073,26 @@
             },
             {
                 "Position": "2",
+                "Team": "Sporting CP",
+                "Played": "6",
+                "Wins": "5",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "14",
+                "Points": "15"
+            },
+            {
+                "Position": "3",
+                "Team": "Benfica",
+                "Played": "5",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "8",
+                "Points": "13"
+            },
+            {
+                "Position": "4",
                 "Team": "Gil Vicente",
                 "Played": "6",
                 "Wins": "4",
@@ -2082,34 +2102,14 @@
                 "Points": "13"
             },
             {
-                "Position": "3",
-                "Team": "Sporting CP",
-                "Played": "6",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "11",
-                "Points": "13"
-            },
-            {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Moreirense",
                 "Played": "6",
                 "Wins": "4",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "4",
-                "Points": "13"
-            },
-            {
-                "Position": "5",
-                "Team": "Benfica",
-                "Played": "5",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "8",
-                "Points": "13"
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "12"
             },
             {
                 "Position": "6",
