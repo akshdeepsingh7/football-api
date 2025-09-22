@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 September 2025, 09:36 PM UTC",
-        "IST": "Tuesday, 23 September 2025, 03:06 AM IST"
+        "UTC": "Monday, 22 September 2025, 10:17 PM UTC",
+        "IST": "Tuesday, 23 September 2025, 03:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2961,6 +2961,26 @@
             },
             {
                 "Position": "5",
+                "Team": "Def y Justicia",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "13"
+            },
+            {
+                "Position": "6",
+                "Team": "Estudiantes",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "13"
+            },
+            {
+                "Position": "7",
                 "Team": "Banfield",
                 "Played": "9",
                 "Wins": "4",
@@ -2970,33 +2990,13 @@
                 "Points": "13"
             },
             {
-                "Position": "6",
-                "Team": "Def y Justicia",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "12"
-            },
-            {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Tigre",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "1",
-                "Points": "12"
-            },
-            {
-                "Position": "8",
-                "Team": "Estudiantes",
-                "Played": "8",
-                "Wins": "4",
-                "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "-1",
                 "Points": "12"
             },
             {

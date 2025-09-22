@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 22 September 2025, 09:36 PM UTC (Tuesday, 23 September 2025, 03:06 AM IST)
+**Last Updated:** Monday, 22 September 2025, 10:17 PM UTC (Tuesday, 23 September 2025, 03:47 AM IST)
 
 ### Premier League
 
@@ -400,10 +400,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
 | 3 | Boca Juniors | 9 | 3 | 5 | 1 | 6 | 14 |
 | 4 | Córdoba SdE | 9 | 3 | 5 | 1 | 4 | 14 |
-| 5 | Banfield | 9 | 4 | 1 | 4 | -4 | 13 |
-| 6 | Def y Justicia | 8 | 3 | 3 | 2 | 2 | 12 |
-| 7 | Tigre | 9 | 3 | 3 | 3 | 1 | 12 |
-| 8 | Estudiantes | 8 | 4 | 0 | 4 | -1 | 12 |
+| 5 | Def y Justicia | 9 | 3 | 4 | 2 | 2 | 13 |
+| 6 | Estudiantes | 9 | 4 | 1 | 4 | -1 | 13 |
+| 7 | Banfield | 9 | 4 | 1 | 4 | -4 | 13 |
+| 8 | Tigre | 9 | 3 | 3 | 3 | 1 | 12 |
 | 9 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
 | 10 | Argentinos Juniors | 9 | 3 | 2 | 4 | 2 | 11 |
 | 11 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
