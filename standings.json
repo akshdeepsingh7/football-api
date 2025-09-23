@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 23 September 2025, 01:24 AM UTC",
-        "IST": "Tuesday, 23 September 2025, 06:54 AM IST"
+        "UTC": "Tuesday, 23 September 2025, 02:43 AM UTC",
+        "IST": "Tuesday, 23 September 2025, 08:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2981,17 +2981,17 @@
             },
             {
                 "Position": "7",
-                "Team": "Def y Justicia",
+                "Team": "Belgrano",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "12"
             },
             {
                 "Position": "8",
-                "Team": "Belgrano",
+                "Team": "Def y Justicia",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "3",
@@ -3056,7 +3056,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "9"
             },
             {
