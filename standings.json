@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 23 September 2025, 05:38 PM UTC",
-        "IST": "Tuesday, 23 September 2025, 11:08 PM IST"
+        "UTC": "Tuesday, 23 September 2025, 06:29 PM UTC",
+        "IST": "Tuesday, 23 September 2025, 11:59 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -249,6 +249,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Athletic Bilbao",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "10"
+            },
+            {
+                "Position": "6",
                 "Team": "Valencia",
                 "Played": "6",
                 "Wins": "3",
@@ -258,7 +268,7 @@
                 "Points": "10"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Elche",
                 "Played": "5",
                 "Wins": "2",
@@ -268,7 +278,7 @@
                 "Points": "9"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Real Betis",
                 "Played": "6",
                 "Wins": "2",
@@ -278,22 +288,12 @@
                 "Points": "9"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Getafe",
                 "Played": "5",
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "9"
-            },
-            {
-                "Position": "9",
-                "Team": "Athletic Bilbao",
-                "Played": "6",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "3",
                 "Goal Difference": "-1",
                 "Points": "9"
             },
@@ -369,16 +369,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Girona",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-12",
-                "Points": "4"
-            },
-            {
-                "Position": "18",
                 "Team": "Real Oviedo",
                 "Played": "5",
                 "Wins": "1",
@@ -388,7 +378,7 @@
                 "Points": "3"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Real Sociedad",
                 "Played": "5",
                 "Wins": "0",
@@ -398,13 +388,23 @@
                 "Points": "2"
             },
             {
-                "Position": "20",
+                "Position": "19",
                 "Team": "Mallorca",
                 "Played": "5",
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-5",
+                "Points": "2"
+            },
+            {
+                "Position": "20",
+                "Team": "Girona",
+                "Played": "6",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-13",
                 "Points": "2"
             }
         ],
