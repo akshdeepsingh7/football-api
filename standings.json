@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 September 2025, 11:37 PM UTC",
-        "IST": "Tuesday, 23 September 2025, 05:07 AM IST"
+        "UTC": "Tuesday, 23 September 2025, 01:24 AM UTC",
+        "IST": "Tuesday, 23 September 2025, 06:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2991,7 +2991,7 @@
             },
             {
                 "Position": "8",
-                "Team": "Tigre",
+                "Team": "Belgrano",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "3",
@@ -3001,6 +3001,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Tigre",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "1",
+                "Points": "12"
+            },
+            {
+                "Position": "10",
                 "Team": "Hurac\u00e1n",
                 "Played": "9",
                 "Wins": "3",
@@ -3010,7 +3020,7 @@
                 "Points": "12"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Argentinos Juniors",
                 "Played": "9",
                 "Wins": "3",
@@ -3020,7 +3030,7 @@
                 "Points": "11"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Racing Club",
                 "Played": "9",
                 "Wins": "3",
@@ -3030,28 +3040,18 @@
                 "Points": "10"
             },
             {
-                "Position": "12",
-                "Team": "Newell's Old Boys",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "0",
-                "Points": "9"
-            },
-            {
                 "Position": "13",
-                "Team": "Belgrano",
-                "Played": "8",
+                "Team": "Independiente Rivadavia",
+                "Played": "9",
                 "Wins": "2",
                 "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-1",
+                "Losses": "4",
+                "Goal Difference": "-2",
                 "Points": "9"
             },
             {
                 "Position": "14",
-                "Team": "Independiente Rivadavia",
+                "Team": "Newell's Old Boys",
                 "Played": "9",
                 "Wins": "2",
                 "Draws": "3",
