@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 23 September 2025, 07:15 PM UTC",
-        "IST": "Wednesday, 24 September 2025, 12:45 AM IST"
+        "UTC": "Tuesday, 23 September 2025, 07:37 PM UTC",
+        "IST": "Wednesday, 24 September 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -210,12 +210,12 @@
             {
                 "Position": "1",
                 "Team": "Real Madrid",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "5",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "8",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "2",
@@ -229,6 +229,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Villarreal",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "6",
+                "Points": "11"
+            },
+            {
+                "Position": "4",
                 "Team": "Espanyol",
                 "Played": "6",
                 "Wins": "3",
@@ -236,16 +246,6 @@
                 "Losses": "1",
                 "Goal Difference": "1",
                 "Points": "11"
-            },
-            {
-                "Position": "4",
-                "Team": "Villarreal",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "6",
-                "Points": "10"
             },
             {
                 "Position": "5",
@@ -289,6 +289,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Sevilla",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "8"
+            },
+            {
+                "Position": "10",
                 "Team": "Valencia",
                 "Played": "6",
                 "Wins": "2",
@@ -296,16 +306,6 @@
                 "Losses": "2",
                 "Goal Difference": "-2",
                 "Points": "8"
-            },
-            {
-                "Position": "10",
-                "Team": "Sevilla",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "7"
             },
             {
                 "Position": "11",
@@ -339,6 +339,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Levante",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "5"
+            },
+            {
+                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "5",
                 "Wins": "1",
@@ -348,7 +358,7 @@
                 "Points": "5"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Celta de Vigo",
                 "Played": "6",
                 "Wins": "0",
@@ -356,16 +366,6 @@
                 "Losses": "1",
                 "Goal Difference": "-2",
                 "Points": "5"
-            },
-            {
-                "Position": "16",
-                "Team": "Levante",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "0",
-                "Points": "4"
             },
             {
                 "Position": "17",
@@ -2084,12 +2084,12 @@
             {
                 "Position": "3",
                 "Team": "Benfica",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "4",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "0",
                 "Goal Difference": "8",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "4",
@@ -2214,12 +2214,12 @@
             {
                 "Position": "16",
                 "Team": "Rio Ave",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "0",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "-5",
-                "Points": "3"
+                "Points": "4"
             },
             {
                 "Position": "17",
