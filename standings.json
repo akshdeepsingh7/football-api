@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 23 September 2025, 04:46 PM UTC",
-        "IST": "Tuesday, 23 September 2025, 10:16 PM IST"
+        "UTC": "Tuesday, 23 September 2025, 05:27 PM UTC",
+        "IST": "Tuesday, 23 September 2025, 10:57 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -240,15 +240,25 @@
             {
                 "Position": "4",
                 "Team": "Espanyol",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "3",
                 "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "1",
+                "Losses": "2",
+                "Goal Difference": "0",
                 "Points": "10"
             },
             {
                 "Position": "5",
+                "Team": "Valencia",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "10"
+            },
+            {
+                "Position": "6",
                 "Team": "Elche",
                 "Played": "5",
                 "Wins": "2",
@@ -258,23 +268,13 @@
                 "Points": "9"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Real Betis",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "2",
-                "Points": "9"
-            },
-            {
-                "Position": "7",
-                "Team": "Athletic Bilbao",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "0",
                 "Points": "9"
             },
             {
@@ -289,6 +289,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Athletic Bilbao",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "9"
+            },
+            {
+                "Position": "10",
                 "Team": "Sevilla",
                 "Played": "5",
                 "Wins": "2",
@@ -298,23 +308,13 @@
                 "Points": "7"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Alav\u00e9s",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "0",
-                "Points": "7"
-            },
-            {
-                "Position": "11",
-                "Team": "Valencia",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-2",
                 "Points": "7"
             },
             {
@@ -369,6 +369,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Girona",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-12",
+                "Points": "4"
+            },
+            {
+                "Position": "18",
                 "Team": "Real Oviedo",
                 "Played": "5",
                 "Wins": "1",
@@ -378,7 +388,7 @@
                 "Points": "3"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Real Sociedad",
                 "Played": "5",
                 "Wins": "0",
@@ -388,7 +398,7 @@
                 "Points": "2"
             },
             {
-                "Position": "19",
+                "Position": "20",
                 "Team": "Mallorca",
                 "Played": "5",
                 "Wins": "0",
@@ -396,16 +406,6 @@
                 "Losses": "3",
                 "Goal Difference": "-5",
                 "Points": "2"
-            },
-            {
-                "Position": "20",
-                "Team": "Girona",
-                "Played": "5",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-13",
-                "Points": "1"
             }
         ],
         "Bundesliga": [
