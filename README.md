@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 23 September 2025, 06:49 PM UTC (Wednesday, 24 September 2025, 12:19 AM IST)
+**Last Updated:** Tuesday, 23 September 2025, 07:15 PM UTC (Wednesday, 24 September 2025, 12:45 AM IST)
 
 ### Premier League
 
@@ -74,13 +74,13 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 5 | 5 | 0 | 0 | 8 | 15 |
 | 2 | Barcelona | 5 | 4 | 1 | 0 | 13 | 13 |
-| 3 | Villarreal | 5 | 3 | 1 | 1 | 6 | 10 |
-| 4 | Espanyol | 6 | 3 | 1 | 2 | 0 | 10 |
+| 3 | Espanyol | 6 | 3 | 2 | 1 | 1 | 11 |
+| 4 | Villarreal | 5 | 3 | 1 | 1 | 6 | 10 |
 | 5 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
-| 6 | Valencia | 6 | 3 | 1 | 2 | -1 | 10 |
-| 7 | Elche | 5 | 2 | 3 | 0 | 3 | 9 |
-| 8 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
-| 9 | Getafe | 5 | 3 | 0 | 2 | -1 | 9 |
+| 6 | Elche | 5 | 2 | 3 | 0 | 3 | 9 |
+| 7 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
+| 8 | Getafe | 5 | 3 | 0 | 2 | -1 | 9 |
+| 9 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 10 | Sevilla | 5 | 2 | 1 | 2 | 1 | 7 |
 | 11 | Alavés | 5 | 2 | 1 | 2 | 0 | 7 |
 | 12 | Atlético de Madrid | 5 | 1 | 3 | 1 | 1 | 6 |
