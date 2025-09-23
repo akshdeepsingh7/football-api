@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 23 September 2025, 07:37 PM UTC (Wednesday, 24 September 2025, 01:07 AM IST)
+**Last Updated:** Tuesday, 23 September 2025, 08:21 PM UTC (Wednesday, 24 September 2025, 01:51 AM IST)
 
 ### Premier League
 
@@ -72,22 +72,22 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Real Madrid | 6 | 5 | 1 | 0 | 8 | 16 |
+| 1 | Real Madrid | 6 | 6 | 0 | 0 | 10 | 18 |
 | 2 | Barcelona | 5 | 4 | 1 | 0 | 13 | 13 |
-| 3 | Villarreal | 6 | 3 | 2 | 1 | 6 | 11 |
+| 3 | Villarreal | 6 | 4 | 1 | 1 | 7 | 13 |
 | 4 | Espanyol | 6 | 3 | 2 | 1 | 1 | 11 |
 | 5 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
 | 6 | Elche | 5 | 2 | 3 | 0 | 3 | 9 |
 | 7 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
 | 8 | Getafe | 5 | 3 | 0 | 2 | -1 | 9 |
-| 9 | Sevilla | 6 | 2 | 2 | 2 | 1 | 8 |
-| 10 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
+| 9 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
+| 10 | Sevilla | 6 | 2 | 1 | 3 | 0 | 7 |
 | 11 | Alavés | 5 | 2 | 1 | 2 | 0 | 7 |
 | 12 | Atlético de Madrid | 5 | 1 | 3 | 1 | 1 | 6 |
 | 13 | Osasuna | 5 | 2 | 0 | 3 | 0 | 6 |
-| 14 | Levante | 6 | 1 | 2 | 3 | 0 | 5 |
-| 15 | Rayo Vallecano | 5 | 1 | 2 | 2 | -1 | 5 |
-| 16 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
+| 14 | Rayo Vallecano | 5 | 1 | 2 | 2 | -1 | 5 |
+| 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
+| 16 | Levante | 6 | 1 | 1 | 4 | -2 | 4 |
 | 17 | Real Oviedo | 5 | 1 | 0 | 4 | -7 | 3 |
 | 18 | Real Sociedad | 5 | 0 | 2 | 3 | -4 | 2 |
 | 19 | Mallorca | 5 | 0 | 2 | 3 | -5 | 2 |
