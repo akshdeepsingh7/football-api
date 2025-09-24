@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 24 September 2025, 08:21 PM UTC (Thursday, 25 September 2025, 01:51 AM IST)
+**Last Updated:** Wednesday, 24 September 2025, 08:39 PM UTC (Thursday, 25 September 2025, 02:09 AM IST)
 
 ### Premier League
 
@@ -210,16 +210,16 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Ludogorets | 1 | 1 | 0 | 0 | 2 | 3 |
-| 2 | Roma | 1 | 1 | 0 | 0 | 2 | 3 |
-| 3 | SC Freiburg | 1 | 1 | 0 | 0 | 2 | 3 |
-| 4 | Midtjylland | 1 | 1 | 0 | 0 | 2 | 3 |
-| 5 | Nottingham Forest | 1 | 1 | 0 | 0 | 1 | 3 |
+| 2 | SC Freiburg | 1 | 1 | 0 | 0 | 2 | 3 |
+| 3 | Midtjylland | 1 | 1 | 0 | 0 | 2 | 3 |
+| 4 | Nottingham Forest | 1 | 1 | 0 | 0 | 1 | 3 |
+| 5 | Roma | 1 | 1 | 0 | 0 | 1 | 3 |
 | 6 | Dinamo Zagreb | 1 | 1 | 0 | 0 | 1 | 3 |
-| 7 | Celtic | 1 | 1 | 0 | 0 | 1 | 3 |
-| 8 | Feyenoord | 1 | 0 | 1 | 0 | 0 | 1 |
-| 9 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
-| 10 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
-| 11 | Braga | 1 | 0 | 1 | 0 | 0 | 1 |
+| 7 | Braga | 1 | 1 | 0 | 0 | 1 | 3 |
+| 8 | Celtic | 1 | 0 | 1 | 0 | 0 | 1 |
+| 9 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
+| 10 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
+| 11 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
 | 12 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Bologna | 0 | 0 | 0 | 0 | 0 | 0 |
 | 14 | Brann | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -239,11 +239,11 @@ The latest league standings are displayed below in Markdown tables:
 | 28 | Plzeň | 0 | 0 | 0 | 0 | 0 | 0 |
 | 29 | BSC Young Boys | 0 | 0 | 0 | 0 | 0 | 0 |
 | 30 | Fenerbahçe | 1 | 0 | 0 | 1 | -1 | 0 |
-| 31 | Real Betis | 1 | 0 | 0 | 1 | -1 | 0 |
-| 32 | Red Star Belgrade | 1 | 0 | 0 | 1 | -1 | 0 |
-| 33 | FC Basel | 1 | 0 | 0 | 1 | -2 | 0 |
-| 34 | Malmö | 1 | 0 | 0 | 1 | -2 | 0 |
-| 35 | Nice | 1 | 0 | 0 | 1 | -2 | 0 |
+| 31 | Nice | 1 | 0 | 0 | 1 | -1 | 0 |
+| 32 | Real Betis | 1 | 0 | 0 | 1 | -1 | 0 |
+| 33 | Feyenoord | 1 | 0 | 0 | 1 | -1 | 0 |
+| 34 | FC Basel | 1 | 0 | 0 | 1 | -2 | 0 |
+| 35 | Malmö | 1 | 0 | 0 | 1 | -2 | 0 |
 | 36 | Sturm Graz | 1 | 0 | 0 | 1 | -2 | 0 |
 
 ### Europa Conference League
