@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 24 September 2025, 09:16 PM UTC",
-        "IST": "Thursday, 25 September 2025, 02:46 AM IST"
+        "UTC": "Wednesday, 24 September 2025, 09:37 PM UTC",
+        "IST": "Thursday, 25 September 2025, 03:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -289,6 +289,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "2",
+                "Points": "9"
+            },
+            {
+                "Position": "10",
                 "Team": "Alav\u00e9s",
                 "Played": "6",
                 "Wins": "2",
@@ -298,7 +308,7 @@
                 "Points": "8"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Valencia",
                 "Played": "6",
                 "Wins": "2",
@@ -306,16 +316,6 @@
                 "Losses": "2",
                 "Goal Difference": "-2",
                 "Points": "8"
-            },
-            {
-                "Position": "11",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "7"
             },
             {
                 "Position": "12",
@@ -342,10 +342,10 @@
                 "Team": "Rayo Vallecano",
                 "Played": "6",
                 "Wins": "1",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "6"
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "5"
             },
             {
                 "Position": "15",
