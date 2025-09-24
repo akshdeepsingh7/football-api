@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 24 September 2025, 10:17 PM UTC",
-        "IST": "Thursday, 25 September 2025, 03:47 AM IST"
+        "UTC": "Wednesday, 24 September 2025, 10:37 PM UTC",
+        "IST": "Thursday, 25 September 2025, 04:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3264,22 +3264,22 @@
             {
                 "Position": "5",
                 "Team": "Botafogo",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "11",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "6",
                 "Goal Difference": "17",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "6",
                 "Team": "Bahia",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "10",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "5",
                 "Goal Difference": "5",
-                "Points": "37"
+                "Points": "38"
             },
             {
                 "Position": "7",
@@ -3323,22 +3323,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Gr\u00eamio",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "-6",
+                "Points": "29"
+            },
+            {
+                "Position": "12",
                 "Team": "Cear\u00e1",
                 "Played": "23",
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "-1",
-                "Points": "28"
-            },
-            {
-                "Position": "12",
-                "Team": "Gr\u00eamio",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-6",
                 "Points": "28"
             },
             {
@@ -3363,6 +3363,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Vasco da Gama",
+                "Played": "24",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-1",
+                "Points": "25"
+            },
+            {
+                "Position": "16",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "22",
                 "Wins": "6",
@@ -3370,16 +3380,6 @@
                 "Losses": "9",
                 "Goal Difference": "-5",
                 "Points": "25"
-            },
-            {
-                "Position": "16",
-                "Team": "Vasco da Gama",
-                "Played": "23",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-1",
-                "Points": "24"
             },
             {
                 "Position": "17",
