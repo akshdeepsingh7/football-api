@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 24 September 2025, 06:29 PM UTC (Wednesday, 24 September 2025, 11:59 PM IST)
+**Last Updated:** Wednesday, 24 September 2025, 06:48 PM UTC (Thursday, 25 September 2025, 12:18 AM IST)
 
 ### Premier League
 
@@ -209,7 +209,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Midtjylland | 1 | 1 | 0 | 0 | 1 | 3 |
+| 1 | Midtjylland | 1 | 1 | 0 | 0 | 2 | 3 |
 | 2 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
 | 3 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
 | 4 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -244,7 +244,7 @@ The latest league standings are displayed below in Markdown tables:
 | 33 | Utrecht | 0 | 0 | 0 | 0 | 0 | 0 |
 | 34 | Plzeň | 0 | 0 | 0 | 0 | 0 | 0 |
 | 35 | BSC Young Boys | 0 | 0 | 0 | 0 | 0 | 0 |
-| 36 | Sturm Graz | 1 | 0 | 0 | 1 | -1 | 0 |
+| 36 | Sturm Graz | 1 | 0 | 0 | 1 | -2 | 0 |
 
 ### Europa Conference League
 
