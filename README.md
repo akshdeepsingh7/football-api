@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 24 September 2025, 04:26 PM UTC (Wednesday, 24 September 2025, 09:56 PM IST)
+**Last Updated:** Wednesday, 24 September 2025, 04:47 PM UTC (Wednesday, 24 September 2025, 10:17 PM IST)
 
 ### Premier League
 
@@ -209,38 +209,38 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | FC Basel | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Bologna | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Brann | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | Celta de Vigo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | Celtic | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Dinamo Zagreb | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | FCSB | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Fenerbahçe | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Ferencváros | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Feyenoord | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | SC Freiburg | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | KRC Genk | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Go Ahead Eagles | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | Lille | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Ludogorets | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Lyon | 0 | 0 | 0 | 0 | 0 | 0 |
-| 18 | Maccabi Tel Aviv | 0 | 0 | 0 | 0 | 0 | 0 |
-| 19 | Malmö | 0 | 0 | 0 | 0 | 0 | 0 |
-| 20 | Midtjylland | 0 | 0 | 0 | 0 | 0 | 0 |
-| 21 | Nice | 0 | 0 | 0 | 0 | 0 | 0 |
-| 22 | Nottingham Forest | 0 | 0 | 0 | 0 | 0 | 0 |
-| 23 | PAOK | 0 | 0 | 0 | 0 | 0 | 0 |
-| 24 | Panathinaikos | 0 | 0 | 0 | 0 | 0 | 0 |
-| 25 | Porto | 0 | 0 | 0 | 0 | 0 | 0 |
-| 26 | Rangers | 0 | 0 | 0 | 0 | 0 | 0 |
-| 27 | Real Betis | 0 | 0 | 0 | 0 | 0 | 0 |
-| 28 | Red Star Belgrade | 0 | 0 | 0 | 0 | 0 | 0 |
-| 29 | Roma | 0 | 0 | 0 | 0 | 0 | 0 |
-| 30 | RB Salzburg | 0 | 0 | 0 | 0 | 0 | 0 |
-| 31 | Braga | 0 | 0 | 0 | 0 | 0 | 0 |
-| 32 | Sturm Graz | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
+| 2 | Midtjylland | 1 | 0 | 1 | 0 | 0 | 1 |
+| 3 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
+| 4 | Sturm Graz | 1 | 0 | 1 | 0 | 0 | 1 |
+| 5 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | FC Basel | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Bologna | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Brann | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Celta de Vigo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Celtic | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Dinamo Zagreb | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | FCSB | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Fenerbahçe | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Ferencváros | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Feyenoord | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | SC Freiburg | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | KRC Genk | 0 | 0 | 0 | 0 | 0 | 0 |
+| 18 | Go Ahead Eagles | 0 | 0 | 0 | 0 | 0 | 0 |
+| 19 | Lille | 0 | 0 | 0 | 0 | 0 | 0 |
+| 20 | Ludogorets | 0 | 0 | 0 | 0 | 0 | 0 |
+| 21 | Lyon | 0 | 0 | 0 | 0 | 0 | 0 |
+| 22 | Malmö | 0 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Nice | 0 | 0 | 0 | 0 | 0 | 0 |
+| 24 | Nottingham Forest | 0 | 0 | 0 | 0 | 0 | 0 |
+| 25 | Panathinaikos | 0 | 0 | 0 | 0 | 0 | 0 |
+| 26 | Porto | 0 | 0 | 0 | 0 | 0 | 0 |
+| 27 | Rangers | 0 | 0 | 0 | 0 | 0 | 0 |
+| 28 | Real Betis | 0 | 0 | 0 | 0 | 0 | 0 |
+| 29 | Red Star Belgrade | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30 | Roma | 0 | 0 | 0 | 0 | 0 | 0 |
+| 31 | RB Salzburg | 0 | 0 | 0 | 0 | 0 | 0 |
+| 32 | Braga | 0 | 0 | 0 | 0 | 0 | 0 |
 | 33 | VfB Stuttgart | 0 | 0 | 0 | 0 | 0 | 0 |
 | 34 | Utrecht | 0 | 0 | 0 | 0 | 0 | 0 |
 | 35 | Plzeň | 0 | 0 | 0 | 0 | 0 | 0 |
