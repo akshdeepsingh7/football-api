@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 25 September 2025, 08:21 PM UTC (Friday, 26 September 2025, 01:51 AM IST)
+**Last Updated:** Thursday, 25 September 2025, 08:39 PM UTC (Friday, 26 September 2025, 02:09 AM IST)
 
 ### Premier League
 
@@ -209,42 +209,42 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Panathinaikos | 1 | 1 | 0 | 0 | 2 | 3 |
+| 1 | Panathinaikos | 1 | 1 | 0 | 0 | 3 | 3 |
 | 2 | Dinamo Zagreb | 1 | 1 | 0 | 0 | 2 | 3 |
 | 3 | Midtjylland | 1 | 1 | 0 | 0 | 2 | 3 |
-| 4 | Ludogorets | 1 | 1 | 0 | 0 | 1 | 3 |
-| 5 | Roma | 1 | 1 | 0 | 0 | 1 | 3 |
-| 6 | SC Freiburg | 1 | 1 | 0 | 0 | 1 | 3 |
-| 7 | Lille | 1 | 1 | 0 | 0 | 1 | 3 |
-| 8 | FCSB | 1 | 1 | 0 | 0 | 1 | 3 |
-| 9 | KRC Genk | 1 | 1 | 0 | 0 | 1 | 3 |
-| 10 | Plzeň | 1 | 1 | 0 | 0 | 1 | 3 |
-| 11 | Aston Villa | 1 | 1 | 0 | 0 | 1 | 3 |
-| 12 | Braga | 1 | 1 | 0 | 0 | 1 | 3 |
-| 13 | VfB Stuttgart | 1 | 1 | 0 | 0 | 1 | 3 |
-| 14 | Nottingham Forest | 1 | 0 | 1 | 0 | 0 | 1 |
-| 15 | Real Betis | 1 | 0 | 1 | 0 | 0 | 1 |
-| 16 | Celtic | 1 | 0 | 1 | 0 | 0 | 1 |
-| 17 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
-| 18 | Lyon | 1 | 0 | 1 | 0 | 0 | 1 |
+| 4 | VfB Stuttgart | 1 | 1 | 0 | 0 | 2 | 3 |
+| 5 | Ludogorets | 1 | 1 | 0 | 0 | 1 | 3 |
+| 6 | Roma | 1 | 1 | 0 | 0 | 1 | 3 |
+| 7 | SC Freiburg | 1 | 1 | 0 | 0 | 1 | 3 |
+| 8 | Lille | 1 | 1 | 0 | 0 | 1 | 3 |
+| 9 | FCSB | 1 | 1 | 0 | 0 | 1 | 3 |
+| 10 | KRC Genk | 1 | 1 | 0 | 0 | 1 | 3 |
+| 11 | Lyon | 1 | 1 | 0 | 0 | 1 | 3 |
+| 12 | Plzeň | 1 | 1 | 0 | 0 | 1 | 3 |
+| 13 | Aston Villa | 1 | 1 | 0 | 0 | 1 | 3 |
+| 14 | Braga | 1 | 1 | 0 | 0 | 1 | 3 |
+| 15 | Nottingham Forest | 1 | 0 | 1 | 0 | 0 | 1 |
+| 16 | Real Betis | 1 | 0 | 1 | 0 | 0 | 1 |
+| 17 | Celtic | 1 | 0 | 1 | 0 | 0 | 1 |
+| 18 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
 | 19 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
 | 20 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
 | 21 | Porto | 1 | 0 | 1 | 0 | 0 | 1 |
 | 22 | RB Salzburg | 1 | 0 | 1 | 0 | 0 | 1 |
-| 23 | Utrecht | 1 | 0 | 1 | 0 | 0 | 1 |
-| 24 | FC Basel | 1 | 0 | 0 | 1 | -1 | 0 |
-| 25 | Brann | 1 | 0 | 0 | 1 | -1 | 0 |
-| 26 | Malmö | 1 | 0 | 0 | 1 | -1 | 0 |
-| 27 | Nice | 1 | 0 | 0 | 1 | -1 | 0 |
-| 28 | Bologna | 1 | 0 | 0 | 1 | -1 | 0 |
-| 29 | Celta de Vigo | 1 | 0 | 0 | 1 | -1 | 0 |
-| 30 | Ferencváros | 1 | 0 | 0 | 1 | -1 | 0 |
-| 31 | Feyenoord | 1 | 0 | 0 | 1 | -1 | 0 |
-| 32 | Go Ahead Eagles | 1 | 0 | 0 | 1 | -1 | 0 |
-| 33 | Rangers | 1 | 0 | 0 | 1 | -1 | 0 |
-| 34 | Fenerbahçe | 1 | 0 | 0 | 1 | -2 | 0 |
-| 35 | BSC Young Boys | 1 | 0 | 0 | 1 | -2 | 0 |
-| 36 | Sturm Graz | 1 | 0 | 0 | 1 | -2 | 0 |
+| 23 | FC Basel | 1 | 0 | 0 | 1 | -1 | 0 |
+| 24 | Brann | 1 | 0 | 0 | 1 | -1 | 0 |
+| 25 | Malmö | 1 | 0 | 0 | 1 | -1 | 0 |
+| 26 | Nice | 1 | 0 | 0 | 1 | -1 | 0 |
+| 27 | Bologna | 1 | 0 | 0 | 1 | -1 | 0 |
+| 28 | Ferencváros | 1 | 0 | 0 | 1 | -1 | 0 |
+| 29 | Feyenoord | 1 | 0 | 0 | 1 | -1 | 0 |
+| 30 | Go Ahead Eagles | 1 | 0 | 0 | 1 | -1 | 0 |
+| 31 | Rangers | 1 | 0 | 0 | 1 | -1 | 0 |
+| 32 | Utrecht | 1 | 0 | 0 | 1 | -1 | 0 |
+| 33 | Fenerbahçe | 1 | 0 | 0 | 1 | -2 | 0 |
+| 34 | Celta de Vigo | 1 | 0 | 0 | 1 | -2 | 0 |
+| 35 | Sturm Graz | 1 | 0 | 0 | 1 | -2 | 0 |
+| 36 | BSC Young Boys | 1 | 0 | 0 | 1 | -3 | 0 |
 
 ### Europa Conference League
 
