@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 25 September 2025, 08:39 PM UTC (Friday, 26 September 2025, 02:09 AM IST)
+**Last Updated:** Thursday, 25 September 2025, 09:16 PM UTC (Friday, 26 September 2025, 02:46 AM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 6 | 6 | 0 | 0 | 11 | 18 |
-| 2 | Barcelona | 6 | 4 | 1 | 1 | 12 | 13 |
+| 2 | Barcelona | 6 | 5 | 1 | 0 | 14 | 16 |
 | 3 | Villarreal | 6 | 4 | 1 | 1 | 7 | 13 |
 | 4 | Espanyol | 6 | 3 | 2 | 1 | 1 | 11 |
 | 5 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
@@ -85,11 +85,11 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 12 | Sevilla | 6 | 2 | 1 | 3 | 0 | 7 |
 | 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
-| 14 | Real Oviedo | 6 | 2 | 0 | 4 | -6 | 6 |
-| 15 | Rayo Vallecano | 6 | 1 | 2 | 3 | -2 | 5 |
-| 16 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
-| 17 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
-| 18 | Levante | 6 | 1 | 1 | 4 | -3 | 4 |
+| 14 | Rayo Vallecano | 6 | 1 | 2 | 3 | -2 | 5 |
+| 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
+| 16 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
+| 17 | Levante | 6 | 1 | 1 | 4 | -3 | 4 |
+| 18 | Real Oviedo | 6 | 1 | 0 | 5 | -8 | 3 |
 | 19 | Mallorca | 6 | 0 | 2 | 4 | -6 | 2 |
 | 20 | Girona | 6 | 0 | 2 | 4 | -13 | 2 |
 
@@ -212,37 +212,37 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Panathinaikos | 1 | 1 | 0 | 0 | 3 | 3 |
 | 2 | Dinamo Zagreb | 1 | 1 | 0 | 0 | 2 | 3 |
 | 3 | Midtjylland | 1 | 1 | 0 | 0 | 2 | 3 |
-| 4 | VfB Stuttgart | 1 | 1 | 0 | 0 | 2 | 3 |
-| 5 | Ludogorets | 1 | 1 | 0 | 0 | 1 | 3 |
-| 6 | Roma | 1 | 1 | 0 | 0 | 1 | 3 |
-| 7 | SC Freiburg | 1 | 1 | 0 | 0 | 1 | 3 |
-| 8 | Lille | 1 | 1 | 0 | 0 | 1 | 3 |
+| 4 | Ludogorets | 1 | 1 | 0 | 0 | 1 | 3 |
+| 5 | Roma | 1 | 1 | 0 | 0 | 1 | 3 |
+| 6 | SC Freiburg | 1 | 1 | 0 | 0 | 1 | 3 |
+| 7 | Lille | 1 | 1 | 0 | 0 | 1 | 3 |
+| 8 | VfB Stuttgart | 1 | 1 | 0 | 0 | 1 | 3 |
 | 9 | FCSB | 1 | 1 | 0 | 0 | 1 | 3 |
 | 10 | KRC Genk | 1 | 1 | 0 | 0 | 1 | 3 |
 | 11 | Lyon | 1 | 1 | 0 | 0 | 1 | 3 |
-| 12 | Plzeň | 1 | 1 | 0 | 0 | 1 | 3 |
+| 12 | Porto | 1 | 1 | 0 | 0 | 1 | 3 |
 | 13 | Aston Villa | 1 | 1 | 0 | 0 | 1 | 3 |
 | 14 | Braga | 1 | 1 | 0 | 0 | 1 | 3 |
 | 15 | Nottingham Forest | 1 | 0 | 1 | 0 | 0 | 1 |
 | 16 | Real Betis | 1 | 0 | 1 | 0 | 0 | 1 |
 | 17 | Celtic | 1 | 0 | 1 | 0 | 0 | 1 |
-| 18 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
-| 19 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
-| 20 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
-| 21 | Porto | 1 | 0 | 1 | 0 | 0 | 1 |
-| 22 | RB Salzburg | 1 | 0 | 1 | 0 | 0 | 1 |
+| 18 | Plzeň | 1 | 0 | 1 | 0 | 0 | 1 |
+| 19 | Ferencváros | 1 | 0 | 1 | 0 | 0 | 1 |
+| 20 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
+| 21 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
+| 22 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
 | 23 | FC Basel | 1 | 0 | 0 | 1 | -1 | 0 |
 | 24 | Brann | 1 | 0 | 0 | 1 | -1 | 0 |
-| 25 | Malmö | 1 | 0 | 0 | 1 | -1 | 0 |
-| 26 | Nice | 1 | 0 | 0 | 1 | -1 | 0 |
-| 27 | Bologna | 1 | 0 | 0 | 1 | -1 | 0 |
-| 28 | Ferencváros | 1 | 0 | 0 | 1 | -1 | 0 |
+| 25 | Celta de Vigo | 1 | 0 | 0 | 1 | -1 | 0 |
+| 26 | Malmö | 1 | 0 | 0 | 1 | -1 | 0 |
+| 27 | Nice | 1 | 0 | 0 | 1 | -1 | 0 |
+| 28 | Bologna | 1 | 0 | 0 | 1 | -1 | 0 |
 | 29 | Feyenoord | 1 | 0 | 0 | 1 | -1 | 0 |
 | 30 | Go Ahead Eagles | 1 | 0 | 0 | 1 | -1 | 0 |
 | 31 | Rangers | 1 | 0 | 0 | 1 | -1 | 0 |
-| 32 | Utrecht | 1 | 0 | 0 | 1 | -1 | 0 |
-| 33 | Fenerbahçe | 1 | 0 | 0 | 1 | -2 | 0 |
-| 34 | Celta de Vigo | 1 | 0 | 0 | 1 | -2 | 0 |
+| 32 | RB Salzburg | 1 | 0 | 0 | 1 | -1 | 0 |
+| 33 | Utrecht | 1 | 0 | 0 | 1 | -1 | 0 |
+| 34 | Fenerbahçe | 1 | 0 | 0 | 1 | -2 | 0 |
 | 35 | Sturm Graz | 1 | 0 | 0 | 1 | -2 | 0 |
 | 36 | BSC Young Boys | 1 | 0 | 0 | 1 | -3 | 0 |
 

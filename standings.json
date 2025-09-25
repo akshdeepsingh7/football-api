@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 25 September 2025, 08:39 PM UTC",
-        "IST": "Friday, 26 September 2025, 02:09 AM IST"
+        "UTC": "Thursday, 25 September 2025, 09:16 PM UTC",
+        "IST": "Friday, 26 September 2025, 02:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -221,11 +221,11 @@
                 "Position": "2",
                 "Team": "Barcelona",
                 "Played": "6",
-                "Wins": "4",
+                "Wins": "5",
                 "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "12",
-                "Points": "13"
+                "Losses": "0",
+                "Goal Difference": "14",
+                "Points": "16"
             },
             {
                 "Position": "3",
@@ -339,16 +339,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Real Oviedo",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "-6",
-                "Points": "6"
-            },
-            {
-                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "6",
                 "Wins": "1",
@@ -358,7 +348,7 @@
                 "Points": "5"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Celta de Vigo",
                 "Played": "6",
                 "Wins": "0",
@@ -368,7 +358,7 @@
                 "Points": "5"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Real Sociedad",
                 "Played": "6",
                 "Wins": "1",
@@ -378,7 +368,7 @@
                 "Points": "5"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Levante",
                 "Played": "6",
                 "Wins": "1",
@@ -386,6 +376,16 @@
                 "Losses": "4",
                 "Goal Difference": "-3",
                 "Points": "4"
+            },
+            {
+                "Position": "18",
+                "Team": "Real Oviedo",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "5",
+                "Goal Difference": "-8",
+                "Points": "3"
             },
             {
                 "Position": "19",
@@ -1369,16 +1369,6 @@
             },
             {
                 "Position": "4",
-                "Team": "VfB Stuttgart",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "3"
-            },
-            {
-                "Position": "5",
                 "Team": "Ludogorets",
                 "Played": "1",
                 "Wins": "1",
@@ -1388,7 +1378,7 @@
                 "Points": "3"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Roma",
                 "Played": "1",
                 "Wins": "1",
@@ -1398,7 +1388,7 @@
                 "Points": "3"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "SC Freiburg",
                 "Played": "1",
                 "Wins": "1",
@@ -1408,8 +1398,18 @@
                 "Points": "3"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Lille",
+                "Played": "1",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "1",
+                "Points": "3"
+            },
+            {
+                "Position": "8",
+                "Team": "VfB Stuttgart",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -1449,7 +1449,7 @@
             },
             {
                 "Position": "12",
-                "Team": "Plze\u0148",
+                "Team": "Porto",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -1509,7 +1509,7 @@
             },
             {
                 "Position": "18",
-                "Team": "Red Star Belgrade",
+                "Team": "Plze\u0148",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -1519,7 +1519,7 @@
             },
             {
                 "Position": "19",
-                "Team": "Maccabi Tel Aviv",
+                "Team": "Ferencv\u00e1ros",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -1529,7 +1529,7 @@
             },
             {
                 "Position": "20",
-                "Team": "PAOK",
+                "Team": "Red Star Belgrade",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -1539,7 +1539,7 @@
             },
             {
                 "Position": "21",
-                "Team": "Porto",
+                "Team": "Maccabi Tel Aviv",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -1549,7 +1549,7 @@
             },
             {
                 "Position": "22",
-                "Team": "RB Salzburg",
+                "Team": "PAOK",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -1579,7 +1579,7 @@
             },
             {
                 "Position": "25",
-                "Team": "Malm\u00f6",
+                "Team": "Celta de Vigo",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -1589,7 +1589,7 @@
             },
             {
                 "Position": "26",
-                "Team": "Nice",
+                "Team": "Malm\u00f6",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -1599,7 +1599,7 @@
             },
             {
                 "Position": "27",
-                "Team": "Bologna",
+                "Team": "Nice",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -1609,7 +1609,7 @@
             },
             {
                 "Position": "28",
-                "Team": "Ferencv\u00e1ros",
+                "Team": "Bologna",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -1649,7 +1649,7 @@
             },
             {
                 "Position": "32",
-                "Team": "Utrecht",
+                "Team": "RB Salzburg",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -1659,17 +1659,17 @@
             },
             {
                 "Position": "33",
-                "Team": "Fenerbah\u00e7e",
+                "Team": "Utrecht",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "0"
             },
             {
                 "Position": "34",
-                "Team": "Celta de Vigo",
+                "Team": "Fenerbah\u00e7e",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
