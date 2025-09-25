@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 25 September 2025, 05:17 PM UTC (Thursday, 25 September 2025, 10:47 PM IST)
+**Last Updated:** Thursday, 25 September 2025, 05:39 PM UTC (Thursday, 25 September 2025, 11:09 PM IST)
 
 ### Premier League
 
@@ -76,15 +76,15 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Barcelona | 5 | 4 | 1 | 0 | 13 | 13 |
 | 3 | Villarreal | 6 | 4 | 1 | 1 | 7 | 13 |
 | 4 | Espanyol | 6 | 3 | 2 | 1 | 1 | 11 |
-| 5 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
-| 6 | Getafe | 6 | 3 | 1 | 2 | -1 | 10 |
-| 7 | Elche | 5 | 2 | 3 | 0 | 3 | 9 |
+| 5 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
+| 6 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
+| 7 | Getafe | 6 | 3 | 1 | 2 | -1 | 10 |
 | 8 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
 | 9 | Atlético de Madrid | 6 | 2 | 3 | 1 | 2 | 9 |
 | 10 | Alavés | 6 | 2 | 2 | 2 | 0 | 8 |
 | 11 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 12 | Sevilla | 6 | 2 | 1 | 3 | 0 | 7 |
-| 13 | Osasuna | 5 | 2 | 0 | 3 | 0 | 6 |
+| 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
 | 14 | Rayo Vallecano | 6 | 1 | 2 | 3 | -2 | 5 |
 | 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
 | 16 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |

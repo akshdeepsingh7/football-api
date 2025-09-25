@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 25 September 2025, 05:17 PM UTC",
-        "IST": "Thursday, 25 September 2025, 10:47 PM IST"
+        "UTC": "Thursday, 25 September 2025, 05:39 PM UTC",
+        "IST": "Thursday, 25 September 2025, 11:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -249,6 +249,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Elche",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "10"
+            },
+            {
+                "Position": "6",
                 "Team": "Athletic Bilbao",
                 "Played": "6",
                 "Wins": "3",
@@ -258,7 +268,7 @@
                 "Points": "10"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Getafe",
                 "Played": "6",
                 "Wins": "3",
@@ -266,16 +276,6 @@
                 "Losses": "2",
                 "Goal Difference": "-1",
                 "Points": "10"
-            },
-            {
-                "Position": "7",
-                "Team": "Elche",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "0",
-                "Goal Difference": "3",
-                "Points": "9"
             },
             {
                 "Position": "8",
@@ -330,12 +330,12 @@
             {
                 "Position": "13",
                 "Team": "Osasuna",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "2",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "0",
-                "Points": "6"
+                "Points": "7"
             },
             {
                 "Position": "14",
