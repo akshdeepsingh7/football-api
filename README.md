@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 25 September 2025, 02:48 AM UTC (Thursday, 25 September 2025, 08:18 AM IST)
+**Last Updated:** Thursday, 25 September 2025, 03:34 AM UTC (Thursday, 25 September 2025, 09:04 AM IST)
 
 ### Premier League
 
@@ -359,12 +359,12 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | DC United | 31 | 5 | 10 | 16 | -29 | 25 |
 | 15 | CF Montréal | 31 | 5 | 9 | 17 | -26 | 24 |
 | 1 | San Diego | 31 | 17 | 6 | 8 | 18 | 57 |
-| 2 | Vancouver Whitecaps | 30 | 16 | 8 | 6 | 25 | 56 |
+| 2 | Vancouver Whitecaps | 30 | 16 | 7 | 7 | 24 | 55 |
 | 3 | Minnesota United | 31 | 15 | 9 | 7 | 15 | 54 |
 | 4 | LAFC | 29 | 14 | 8 | 7 | 20 | 50 |
 | 5 | Seattle Sounders | 30 | 12 | 9 | 9 | 7 | 45 |
-| 6 | Austin | 30 | 12 | 8 | 10 | -4 | 44 |
-| 7 | Portland Timbers | 31 | 11 | 10 | 10 | -2 | 43 |
+| 6 | Portland Timbers | 31 | 12 | 9 | 10 | -1 | 45 |
+| 7 | Austin | 30 | 12 | 8 | 10 | -4 | 44 |
 | 8 | Colorado Rapids | 31 | 11 | 6 | 14 | -11 | 39 |
 | 9 | Dallas | 30 | 9 | 10 | 11 | -4 | 37 |
 | 10 | Houston Dynamo | 31 | 9 | 9 | 13 | -9 | 36 |
