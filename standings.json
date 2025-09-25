@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 25 September 2025, 04:23 AM UTC",
-        "IST": "Thursday, 25 September 2025, 09:53 AM IST"
+        "UTC": "Thursday, 25 September 2025, 04:43 AM UTC",
+        "IST": "Thursday, 25 September 2025, 10:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2650,10 +2650,10 @@
                 "Team": "Vancouver Whitecaps",
                 "Played": "30",
                 "Wins": "16",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "24",
-                "Points": "55"
+                "Draws": "8",
+                "Losses": "6",
+                "Goal Difference": "25",
+                "Points": "56"
             },
             {
                 "Position": "3",
@@ -2687,16 +2687,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Portland Timbers",
-                "Played": "31",
-                "Wins": "12",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-1",
-                "Points": "45"
-            },
-            {
-                "Position": "7",
                 "Team": "Austin",
                 "Played": "30",
                 "Wins": "12",
@@ -2704,6 +2694,16 @@
                 "Losses": "10",
                 "Goal Difference": "-4",
                 "Points": "44"
+            },
+            {
+                "Position": "7",
+                "Team": "Portland Timbers",
+                "Played": "31",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "10",
+                "Goal Difference": "-2",
+                "Points": "43"
             },
             {
                 "Position": "8",
