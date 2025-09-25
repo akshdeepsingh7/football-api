@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 24 September 2025, 11:37 PM UTC",
-        "IST": "Thursday, 25 September 2025, 05:07 AM IST"
+        "UTC": "Thursday, 25 September 2025, 01:25 AM UTC",
+        "IST": "Thursday, 25 September 2025, 06:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2507,6 +2507,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Inter Miami",
+                "Played": "29",
+                "Wins": "16",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "17",
+                "Points": "55"
+            },
+            {
+                "Position": "4",
                 "Team": "Charlotte",
                 "Played": "31",
                 "Wins": "17",
@@ -2516,24 +2526,14 @@
                 "Points": "53"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "NYCFC",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "16",
                 "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "11",
+                "Losses": "10",
+                "Goal Difference": "8",
                 "Points": "53"
-            },
-            {
-                "Position": "5",
-                "Team": "Inter Miami",
-                "Played": "28",
-                "Wins": "15",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "14",
-                "Points": "52"
             },
             {
                 "Position": "6",
@@ -3276,10 +3276,10 @@
                 "Team": "Bahia",
                 "Played": "23",
                 "Wins": "10",
-                "Draws": "8",
-                "Losses": "5",
-                "Goal Difference": "5",
-                "Points": "38"
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "3",
+                "Points": "37"
             },
             {
                 "Position": "7",
@@ -3343,6 +3343,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Vasco da Gama",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "1",
+                "Points": "27"
+            },
+            {
+                "Position": "14",
                 "Team": "Internacional",
                 "Played": "23",
                 "Wins": "7",
@@ -3352,7 +3362,7 @@
                 "Points": "27"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Santos",
                 "Played": "23",
                 "Wins": "7",
@@ -3360,16 +3370,6 @@
                 "Losses": "11",
                 "Goal Difference": "-10",
                 "Points": "26"
-            },
-            {
-                "Position": "15",
-                "Team": "Vasco da Gama",
-                "Played": "24",
-                "Wins": "6",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-1",
-                "Points": "25"
             },
             {
                 "Position": "16",

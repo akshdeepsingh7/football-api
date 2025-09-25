@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 24 September 2025, 11:37 PM UTC (Thursday, 25 September 2025, 05:07 AM IST)
+**Last Updated:** Thursday, 25 September 2025, 01:25 AM UTC (Thursday, 25 September 2025, 06:55 AM IST)
 
 ### Premier League
 
@@ -345,9 +345,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Philadelphia Union | 31 | 18 | 6 | 7 | 17 | 60 |
 | 2 | Cincinnati | 31 | 18 | 4 | 9 | 8 | 58 |
-| 3 | Charlotte | 31 | 17 | 2 | 12 | 9 | 53 |
-| 4 | NYCFC | 30 | 16 | 5 | 9 | 11 | 53 |
-| 5 | Inter Miami | 28 | 15 | 7 | 6 | 14 | 52 |
+| 3 | Inter Miami | 29 | 16 | 7 | 6 | 17 | 55 |
+| 4 | Charlotte | 31 | 17 | 2 | 12 | 9 | 53 |
+| 5 | NYCFC | 31 | 16 | 5 | 10 | 8 | 53 |
 | 6 | Orlando City | 30 | 14 | 9 | 7 | 15 | 51 |
 | 7 | Nashville | 31 | 15 | 5 | 11 | 14 | 50 |
 | 8 | Columbus Crew | 31 | 13 | 11 | 7 | 4 | 50 |
@@ -436,16 +436,16 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Palmeiras | 22 | 15 | 4 | 3 | 18 | 49 |
 | 4 | Mirassol | 23 | 11 | 9 | 3 | 18 | 42 |
 | 5 | Botafogo | 24 | 11 | 7 | 6 | 17 | 40 |
-| 6 | Bahia | 23 | 10 | 8 | 5 | 5 | 38 |
+| 6 | Bahia | 23 | 10 | 7 | 6 | 3 | 37 |
 | 7 | São Paulo | 24 | 9 | 8 | 7 | 3 | 35 |
 | 8 | Fluminense | 22 | 9 | 4 | 9 | -3 | 31 |
 | 9 | RB Bragantino | 24 | 9 | 4 | 11 | -6 | 31 |
 | 10 | Corinthians | 24 | 7 | 8 | 9 | -5 | 29 |
 | 11 | Grêmio | 24 | 7 | 8 | 9 | -6 | 29 |
 | 12 | Ceará | 23 | 7 | 7 | 9 | -1 | 28 |
-| 13 | Internacional | 23 | 7 | 6 | 10 | -8 | 27 |
-| 14 | Santos | 23 | 7 | 5 | 11 | -10 | 26 |
-| 15 | Vasco da Gama | 24 | 6 | 7 | 11 | -1 | 25 |
+| 13 | Vasco da Gama | 24 | 7 | 6 | 11 | 1 | 27 |
+| 14 | Internacional | 23 | 7 | 6 | 10 | -8 | 27 |
+| 15 | Santos | 23 | 7 | 5 | 11 | -10 | 26 |
 | 16 | Atlético Mineiro | 22 | 6 | 7 | 9 | -5 | 25 |
 | 17 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
 | 18 | Juventude | 23 | 6 | 3 | 14 | -26 | 21 |
