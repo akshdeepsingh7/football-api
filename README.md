@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 25 September 2025, 04:46 PM UTC (Thursday, 25 September 2025, 10:16 PM IST)
+**Last Updated:** Thursday, 25 September 2025, 05:17 PM UTC (Thursday, 25 September 2025, 10:47 PM IST)
 
 ### Premier League
 
@@ -214,35 +214,35 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Ludogorets | 1 | 1 | 0 | 0 | 1 | 3 |
 | 4 | Roma | 1 | 1 | 0 | 0 | 1 | 3 |
 | 5 | SC Freiburg | 1 | 1 | 0 | 0 | 1 | 3 |
-| 6 | Braga | 1 | 1 | 0 | 0 | 1 | 3 |
-| 7 | Nottingham Forest | 1 | 0 | 1 | 0 | 0 | 1 |
-| 8 | Real Betis | 1 | 0 | 1 | 0 | 0 | 1 |
-| 9 | Celtic | 1 | 0 | 1 | 0 | 0 | 1 |
-| 10 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
-| 11 | FCSB | 1 | 0 | 1 | 0 | 0 | 1 |
-| 12 | Go Ahead Eagles | 1 | 0 | 1 | 0 | 0 | 1 |
-| 13 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
-| 14 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
-| 15 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Bologna | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Brann | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | FCSB | 1 | 1 | 0 | 0 | 1 | 3 |
+| 7 | Braga | 1 | 1 | 0 | 0 | 1 | 3 |
+| 8 | Nottingham Forest | 1 | 0 | 1 | 0 | 0 | 1 |
+| 9 | Real Betis | 1 | 0 | 1 | 0 | 0 | 1 |
+| 10 | Celtic | 1 | 0 | 1 | 0 | 0 | 1 |
+| 11 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
+| 12 | Brann | 1 | 0 | 1 | 0 | 0 | 1 |
+| 13 | Lille | 1 | 0 | 1 | 0 | 0 | 1 |
+| 14 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
+| 15 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
+| 16 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Bologna | 0 | 0 | 0 | 0 | 0 | 0 |
 | 18 | Celta de Vigo | 0 | 0 | 0 | 0 | 0 | 0 |
 | 19 | Ferencváros | 0 | 0 | 0 | 0 | 0 | 0 |
 | 20 | KRC Genk | 0 | 0 | 0 | 0 | 0 | 0 |
-| 21 | Lille | 0 | 0 | 0 | 0 | 0 | 0 |
-| 22 | Lyon | 0 | 0 | 0 | 0 | 0 | 0 |
-| 23 | Panathinaikos | 0 | 0 | 0 | 0 | 0 | 0 |
-| 24 | Porto | 0 | 0 | 0 | 0 | 0 | 0 |
-| 25 | Rangers | 0 | 0 | 0 | 0 | 0 | 0 |
-| 26 | RB Salzburg | 0 | 0 | 0 | 0 | 0 | 0 |
-| 27 | VfB Stuttgart | 0 | 0 | 0 | 0 | 0 | 0 |
-| 28 | Utrecht | 0 | 0 | 0 | 0 | 0 | 0 |
-| 29 | Plzeň | 0 | 0 | 0 | 0 | 0 | 0 |
-| 30 | BSC Young Boys | 0 | 0 | 0 | 0 | 0 | 0 |
-| 31 | FC Basel | 1 | 0 | 0 | 1 | -1 | 0 |
-| 32 | Malmö | 1 | 0 | 0 | 1 | -1 | 0 |
-| 33 | Nice | 1 | 0 | 0 | 1 | -1 | 0 |
-| 34 | Feyenoord | 1 | 0 | 0 | 1 | -1 | 0 |
+| 21 | Lyon | 0 | 0 | 0 | 0 | 0 | 0 |
+| 22 | Panathinaikos | 0 | 0 | 0 | 0 | 0 | 0 |
+| 23 | Porto | 0 | 0 | 0 | 0 | 0 | 0 |
+| 24 | Rangers | 0 | 0 | 0 | 0 | 0 | 0 |
+| 25 | RB Salzburg | 0 | 0 | 0 | 0 | 0 | 0 |
+| 26 | VfB Stuttgart | 0 | 0 | 0 | 0 | 0 | 0 |
+| 27 | Utrecht | 0 | 0 | 0 | 0 | 0 | 0 |
+| 28 | Plzeň | 0 | 0 | 0 | 0 | 0 | 0 |
+| 29 | BSC Young Boys | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30 | FC Basel | 1 | 0 | 0 | 1 | -1 | 0 |
+| 31 | Malmö | 1 | 0 | 0 | 1 | -1 | 0 |
+| 32 | Nice | 1 | 0 | 0 | 1 | -1 | 0 |
+| 33 | Feyenoord | 1 | 0 | 0 | 1 | -1 | 0 |
+| 34 | Go Ahead Eagles | 1 | 0 | 0 | 1 | -1 | 0 |
 | 35 | Fenerbahçe | 1 | 0 | 0 | 1 | -2 | 0 |
 | 36 | Sturm Graz | 1 | 0 | 0 | 1 | -2 | 0 |
 
