@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 25 September 2025, 07:15 PM UTC",
-        "IST": "Friday, 26 September 2025, 12:45 AM IST"
+        "UTC": "Thursday, 25 September 2025, 07:37 PM UTC",
+        "IST": "Friday, 26 September 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,12 +220,12 @@
             {
                 "Position": "2",
                 "Team": "Barcelona",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "4",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "0",
                 "Goal Difference": "13",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "3",
@@ -249,6 +249,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Elche",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "10"
+            },
+            {
+                "Position": "6",
                 "Team": "Athletic Bilbao",
                 "Played": "6",
                 "Wins": "3",
@@ -258,7 +268,7 @@
                 "Points": "10"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Getafe",
                 "Played": "6",
                 "Wins": "3",
@@ -268,7 +278,7 @@
                 "Points": "10"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Real Betis",
                 "Played": "6",
                 "Wins": "2",
@@ -278,7 +288,7 @@
                 "Points": "9"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "6",
                 "Wins": "2",
@@ -288,27 +298,7 @@
                 "Points": "9"
             },
             {
-                "Position": "9",
-                "Team": "Elche",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "9"
-            },
-            {
                 "Position": "10",
-                "Team": "Osasuna",
-                "Played": "6",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "1",
-                "Points": "9"
-            },
-            {
-                "Position": "11",
                 "Team": "Alav\u00e9s",
                 "Played": "6",
                 "Wins": "2",
@@ -318,7 +308,7 @@
                 "Points": "8"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Valencia",
                 "Played": "6",
                 "Wins": "2",
@@ -328,8 +318,18 @@
                 "Points": "8"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Sevilla",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "7"
+            },
+            {
+                "Position": "13",
+                "Team": "Osasuna",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "1",
@@ -380,12 +380,12 @@
             {
                 "Position": "18",
                 "Team": "Real Oviedo",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "1",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "4",
                 "Goal Difference": "-7",
-                "Points": "3"
+                "Points": "4"
             },
             {
                 "Position": "19",
@@ -1339,7 +1339,7 @@
         "Europa League": [
             {
                 "Position": "1",
-                "Team": "Dinamo Zagreb",
+                "Team": "Panathinaikos",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -1349,7 +1349,7 @@
             },
             {
                 "Position": "2",
-                "Team": "Panathinaikos",
+                "Team": "Dinamo Zagreb",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -1419,7 +1419,7 @@
             },
             {
                 "Position": "9",
-                "Team": "Aston Villa",
+                "Team": "Plze\u0148",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -1429,7 +1429,7 @@
             },
             {
                 "Position": "10",
-                "Team": "Braga",
+                "Team": "Aston Villa",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -1439,6 +1439,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Braga",
+                "Played": "1",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "1",
+                "Points": "3"
+            },
+            {
+                "Position": "12",
                 "Team": "Nottingham Forest",
                 "Played": "1",
                 "Wins": "0",
@@ -1448,7 +1458,7 @@
                 "Points": "1"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Real Betis",
                 "Played": "1",
                 "Wins": "0",
@@ -1458,7 +1468,7 @@
                 "Points": "1"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Celtic",
                 "Played": "1",
                 "Wins": "0",
@@ -1468,7 +1478,7 @@
                 "Points": "1"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Red Star Belgrade",
                 "Played": "1",
                 "Wins": "0",
@@ -1478,18 +1488,8 @@
                 "Points": "1"
             },
             {
-                "Position": "15",
-                "Team": "Celta de Vigo",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
                 "Position": "16",
-                "Team": "Ferencv\u00e1ros",
+                "Team": "Celta de Vigo",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -1589,16 +1589,6 @@
             },
             {
                 "Position": "26",
-                "Team": "Plze\u0148",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
-                "Position": "27",
                 "Team": "FC Basel",
                 "Played": "1",
                 "Wins": "0",
@@ -1608,7 +1598,7 @@
                 "Points": "0"
             },
             {
-                "Position": "28",
+                "Position": "27",
                 "Team": "Brann",
                 "Played": "1",
                 "Wins": "0",
@@ -1618,7 +1608,7 @@
                 "Points": "0"
             },
             {
-                "Position": "29",
+                "Position": "28",
                 "Team": "Malm\u00f6",
                 "Played": "1",
                 "Wins": "0",
@@ -1628,7 +1618,7 @@
                 "Points": "0"
             },
             {
-                "Position": "30",
+                "Position": "29",
                 "Team": "Nice",
                 "Played": "1",
                 "Wins": "0",
@@ -1638,8 +1628,18 @@
                 "Points": "0"
             },
             {
-                "Position": "31",
+                "Position": "30",
                 "Team": "Bologna",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "0"
+            },
+            {
+                "Position": "31",
+                "Team": "Ferencv\u00e1ros",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -1679,7 +1679,7 @@
             },
             {
                 "Position": "35",
-                "Team": "Sturm Graz",
+                "Team": "BSC Young Boys",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -1689,7 +1689,7 @@
             },
             {
                 "Position": "36",
-                "Team": "BSC Young Boys",
+                "Team": "Sturm Graz",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",

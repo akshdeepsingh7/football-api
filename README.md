@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 25 September 2025, 07:15 PM UTC (Friday, 26 September 2025, 12:45 AM IST)
+**Last Updated:** Thursday, 25 September 2025, 07:37 PM UTC (Friday, 26 September 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -73,23 +73,23 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 6 | 6 | 0 | 0 | 11 | 18 |
-| 2 | Barcelona | 5 | 4 | 1 | 0 | 13 | 13 |
+| 2 | Barcelona | 6 | 4 | 2 | 0 | 13 | 14 |
 | 3 | Villarreal | 6 | 4 | 1 | 1 | 7 | 13 |
 | 4 | Espanyol | 6 | 3 | 2 | 1 | 1 | 11 |
-| 5 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
-| 6 | Getafe | 6 | 3 | 1 | 2 | -1 | 10 |
-| 7 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
-| 8 | Atlético de Madrid | 6 | 2 | 3 | 1 | 2 | 9 |
-| 9 | Elche | 6 | 2 | 3 | 1 | 2 | 9 |
-| 10 | Osasuna | 6 | 3 | 0 | 3 | 1 | 9 |
-| 11 | Alavés | 6 | 2 | 2 | 2 | 0 | 8 |
-| 12 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
-| 13 | Sevilla | 6 | 2 | 1 | 3 | 0 | 7 |
+| 5 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
+| 6 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
+| 7 | Getafe | 6 | 3 | 1 | 2 | -1 | 10 |
+| 8 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
+| 9 | Atlético de Madrid | 6 | 2 | 3 | 1 | 2 | 9 |
+| 10 | Alavés | 6 | 2 | 2 | 2 | 0 | 8 |
+| 11 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
+| 12 | Sevilla | 6 | 2 | 1 | 3 | 0 | 7 |
+| 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
 | 14 | Rayo Vallecano | 6 | 1 | 2 | 3 | -2 | 5 |
 | 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
 | 16 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
 | 17 | Levante | 6 | 1 | 1 | 4 | -3 | 4 |
-| 18 | Real Oviedo | 5 | 1 | 0 | 4 | -7 | 3 |
+| 18 | Real Oviedo | 6 | 1 | 1 | 4 | -7 | 4 |
 | 19 | Mallorca | 6 | 0 | 2 | 4 | -6 | 2 |
 | 20 | Girona | 6 | 0 | 2 | 4 | -13 | 2 |
 
@@ -209,22 +209,22 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Dinamo Zagreb | 1 | 1 | 0 | 0 | 2 | 3 |
-| 2 | Panathinaikos | 1 | 1 | 0 | 0 | 2 | 3 |
+| 1 | Panathinaikos | 1 | 1 | 0 | 0 | 2 | 3 |
+| 2 | Dinamo Zagreb | 1 | 1 | 0 | 0 | 2 | 3 |
 | 3 | Midtjylland | 1 | 1 | 0 | 0 | 2 | 3 |
 | 4 | Ludogorets | 1 | 1 | 0 | 0 | 1 | 3 |
 | 5 | Roma | 1 | 1 | 0 | 0 | 1 | 3 |
 | 6 | SC Freiburg | 1 | 1 | 0 | 0 | 1 | 3 |
 | 7 | Lille | 1 | 1 | 0 | 0 | 1 | 3 |
 | 8 | FCSB | 1 | 1 | 0 | 0 | 1 | 3 |
-| 9 | Aston Villa | 1 | 1 | 0 | 0 | 1 | 3 |
-| 10 | Braga | 1 | 1 | 0 | 0 | 1 | 3 |
-| 11 | Nottingham Forest | 1 | 0 | 1 | 0 | 0 | 1 |
-| 12 | Real Betis | 1 | 0 | 1 | 0 | 0 | 1 |
-| 13 | Celtic | 1 | 0 | 1 | 0 | 0 | 1 |
-| 14 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
-| 15 | Celta de Vigo | 1 | 0 | 1 | 0 | 0 | 1 |
-| 16 | Ferencváros | 1 | 0 | 1 | 0 | 0 | 1 |
+| 9 | Plzeň | 1 | 1 | 0 | 0 | 1 | 3 |
+| 10 | Aston Villa | 1 | 1 | 0 | 0 | 1 | 3 |
+| 11 | Braga | 1 | 1 | 0 | 0 | 1 | 3 |
+| 12 | Nottingham Forest | 1 | 0 | 1 | 0 | 0 | 1 |
+| 13 | Real Betis | 1 | 0 | 1 | 0 | 0 | 1 |
+| 14 | Celtic | 1 | 0 | 1 | 0 | 0 | 1 |
+| 15 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
+| 16 | Celta de Vigo | 1 | 0 | 1 | 0 | 0 | 1 |
 | 17 | KRC Genk | 1 | 0 | 1 | 0 | 0 | 1 |
 | 18 | Lyon | 1 | 0 | 1 | 0 | 0 | 1 |
 | 19 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
@@ -234,17 +234,17 @@ The latest league standings are displayed below in Markdown tables:
 | 23 | RB Salzburg | 1 | 0 | 1 | 0 | 0 | 1 |
 | 24 | VfB Stuttgart | 1 | 0 | 1 | 0 | 0 | 1 |
 | 25 | Utrecht | 1 | 0 | 1 | 0 | 0 | 1 |
-| 26 | Plzeň | 1 | 0 | 1 | 0 | 0 | 1 |
-| 27 | FC Basel | 1 | 0 | 0 | 1 | -1 | 0 |
-| 28 | Brann | 1 | 0 | 0 | 1 | -1 | 0 |
-| 29 | Malmö | 1 | 0 | 0 | 1 | -1 | 0 |
-| 30 | Nice | 1 | 0 | 0 | 1 | -1 | 0 |
-| 31 | Bologna | 1 | 0 | 0 | 1 | -1 | 0 |
+| 26 | FC Basel | 1 | 0 | 0 | 1 | -1 | 0 |
+| 27 | Brann | 1 | 0 | 0 | 1 | -1 | 0 |
+| 28 | Malmö | 1 | 0 | 0 | 1 | -1 | 0 |
+| 29 | Nice | 1 | 0 | 0 | 1 | -1 | 0 |
+| 30 | Bologna | 1 | 0 | 0 | 1 | -1 | 0 |
+| 31 | Ferencváros | 1 | 0 | 0 | 1 | -1 | 0 |
 | 32 | Feyenoord | 1 | 0 | 0 | 1 | -1 | 0 |
 | 33 | Go Ahead Eagles | 1 | 0 | 0 | 1 | -1 | 0 |
 | 34 | Fenerbahçe | 1 | 0 | 0 | 1 | -2 | 0 |
-| 35 | Sturm Graz | 1 | 0 | 0 | 1 | -2 | 0 |
-| 36 | BSC Young Boys | 1 | 0 | 0 | 1 | -2 | 0 |
+| 35 | BSC Young Boys | 1 | 0 | 0 | 1 | -2 | 0 |
+| 36 | Sturm Graz | 1 | 0 | 0 | 1 | -2 | 0 |
 
 ### Europa Conference League
 
