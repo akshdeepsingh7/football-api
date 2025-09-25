@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 25 September 2025, 09:16 PM UTC (Friday, 26 September 2025, 02:46 AM IST)
+**Last Updated:** Thursday, 25 September 2025, 09:37 PM UTC (Friday, 26 September 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 6 | 6 | 0 | 0 | 11 | 18 |
-| 2 | Barcelona | 6 | 5 | 1 | 0 | 14 | 16 |
+| 2 | Barcelona | 6 | 5 | 1 | 0 | 15 | 16 |
 | 3 | Villarreal | 6 | 4 | 1 | 1 | 7 | 13 |
 | 4 | Espanyol | 6 | 3 | 2 | 1 | 1 | 11 |
 | 5 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
 | 16 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
 | 17 | Levante | 6 | 1 | 1 | 4 | -3 | 4 |
-| 18 | Real Oviedo | 6 | 1 | 0 | 5 | -8 | 3 |
+| 18 | Real Oviedo | 6 | 1 | 0 | 5 | -9 | 3 |
 | 19 | Mallorca | 6 | 0 | 2 | 4 | -6 | 2 |
 | 20 | Girona | 6 | 0 | 2 | 4 | -13 | 2 |
 
