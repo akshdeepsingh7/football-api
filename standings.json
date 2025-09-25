@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 25 September 2025, 04:24 PM UTC",
-        "IST": "Thursday, 25 September 2025, 09:54 PM IST"
+        "UTC": "Thursday, 25 September 2025, 04:46 PM UTC",
+        "IST": "Thursday, 25 September 2025, 10:16 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -1439,7 +1439,7 @@
             },
             {
                 "Position": "11",
-                "Team": "Maccabi Tel Aviv",
+                "Team": "FCSB",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -1449,7 +1449,7 @@
             },
             {
                 "Position": "12",
-                "Team": "PAOK",
+                "Team": "Go Ahead Eagles",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -1459,6 +1459,26 @@
             },
             {
                 "Position": "13",
+                "Team": "Maccabi Tel Aviv",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
+                "Position": "14",
+                "Team": "PAOK",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
+                "Position": "15",
                 "Team": "Aston Villa",
                 "Played": "0",
                 "Wins": "0",
@@ -1468,7 +1488,7 @@
                 "Points": "0"
             },
             {
-                "Position": "14",
+                "Position": "16",
                 "Team": "Bologna",
                 "Played": "0",
                 "Wins": "0",
@@ -1478,7 +1498,7 @@
                 "Points": "0"
             },
             {
-                "Position": "15",
+                "Position": "17",
                 "Team": "Brann",
                 "Played": "0",
                 "Wins": "0",
@@ -1488,7 +1508,7 @@
                 "Points": "0"
             },
             {
-                "Position": "16",
+                "Position": "18",
                 "Team": "Celta de Vigo",
                 "Played": "0",
                 "Wins": "0",
@@ -1498,17 +1518,7 @@
                 "Points": "0"
             },
             {
-                "Position": "17",
-                "Team": "FCSB",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Ferencv\u00e1ros",
                 "Played": "0",
                 "Wins": "0",
@@ -1518,18 +1528,8 @@
                 "Points": "0"
             },
             {
-                "Position": "19",
-                "Team": "KRC Genk",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
                 "Position": "20",
-                "Team": "Go Ahead Eagles",
+                "Team": "KRC Genk",
                 "Played": "0",
                 "Wins": "0",
                 "Draws": "0",

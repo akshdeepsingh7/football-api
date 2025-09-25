@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 25 September 2025, 04:24 PM UTC (Thursday, 25 September 2025, 09:54 PM IST)
+**Last Updated:** Thursday, 25 September 2025, 04:46 PM UTC (Thursday, 25 September 2025, 10:16 PM IST)
 
 ### Premier League
 
@@ -219,16 +219,16 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Real Betis | 1 | 0 | 1 | 0 | 0 | 1 |
 | 9 | Celtic | 1 | 0 | 1 | 0 | 0 | 1 |
 | 10 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
-| 11 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
-| 12 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
-| 13 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Bologna | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | Brann | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Celta de Vigo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | FCSB | 0 | 0 | 0 | 0 | 0 | 0 |
-| 18 | Ferencváros | 0 | 0 | 0 | 0 | 0 | 0 |
-| 19 | KRC Genk | 0 | 0 | 0 | 0 | 0 | 0 |
-| 20 | Go Ahead Eagles | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | FCSB | 1 | 0 | 1 | 0 | 0 | 1 |
+| 12 | Go Ahead Eagles | 1 | 0 | 1 | 0 | 0 | 1 |
+| 13 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
+| 14 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
+| 15 | Aston Villa | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Bologna | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Brann | 0 | 0 | 0 | 0 | 0 | 0 |
+| 18 | Celta de Vigo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 19 | Ferencváros | 0 | 0 | 0 | 0 | 0 | 0 |
+| 20 | KRC Genk | 0 | 0 | 0 | 0 | 0 | 0 |
 | 21 | Lille | 0 | 0 | 0 | 0 | 0 | 0 |
 | 22 | Lyon | 0 | 0 | 0 | 0 | 0 | 0 |
 | 23 | Panathinaikos | 0 | 0 | 0 | 0 | 0 | 0 |
