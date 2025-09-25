@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 25 September 2025, 07:37 PM UTC (Friday, 26 September 2025, 01:07 AM IST)
+**Last Updated:** Thursday, 25 September 2025, 08:21 PM UTC (Friday, 26 September 2025, 01:51 AM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 6 | 6 | 0 | 0 | 11 | 18 |
-| 2 | Barcelona | 6 | 4 | 2 | 0 | 13 | 14 |
+| 2 | Barcelona | 6 | 4 | 1 | 1 | 12 | 13 |
 | 3 | Villarreal | 6 | 4 | 1 | 1 | 7 | 13 |
 | 4 | Espanyol | 6 | 3 | 2 | 1 | 1 | 11 |
 | 5 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
@@ -85,11 +85,11 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 12 | Sevilla | 6 | 2 | 1 | 3 | 0 | 7 |
 | 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
-| 14 | Rayo Vallecano | 6 | 1 | 2 | 3 | -2 | 5 |
-| 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
-| 16 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
-| 17 | Levante | 6 | 1 | 1 | 4 | -3 | 4 |
-| 18 | Real Oviedo | 6 | 1 | 1 | 4 | -7 | 4 |
+| 14 | Real Oviedo | 6 | 2 | 0 | 4 | -6 | 6 |
+| 15 | Rayo Vallecano | 6 | 1 | 2 | 3 | -2 | 5 |
+| 16 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
+| 17 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
+| 18 | Levante | 6 | 1 | 1 | 4 | -3 | 4 |
 | 19 | Mallorca | 6 | 0 | 2 | 4 | -6 | 2 |
 | 20 | Girona | 6 | 0 | 2 | 4 | -13 | 2 |
 
@@ -217,31 +217,31 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | SC Freiburg | 1 | 1 | 0 | 0 | 1 | 3 |
 | 7 | Lille | 1 | 1 | 0 | 0 | 1 | 3 |
 | 8 | FCSB | 1 | 1 | 0 | 0 | 1 | 3 |
-| 9 | Plzeň | 1 | 1 | 0 | 0 | 1 | 3 |
-| 10 | Aston Villa | 1 | 1 | 0 | 0 | 1 | 3 |
-| 11 | Braga | 1 | 1 | 0 | 0 | 1 | 3 |
-| 12 | Nottingham Forest | 1 | 0 | 1 | 0 | 0 | 1 |
-| 13 | Real Betis | 1 | 0 | 1 | 0 | 0 | 1 |
-| 14 | Celtic | 1 | 0 | 1 | 0 | 0 | 1 |
-| 15 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
-| 16 | Celta de Vigo | 1 | 0 | 1 | 0 | 0 | 1 |
-| 17 | KRC Genk | 1 | 0 | 1 | 0 | 0 | 1 |
+| 9 | KRC Genk | 1 | 1 | 0 | 0 | 1 | 3 |
+| 10 | Plzeň | 1 | 1 | 0 | 0 | 1 | 3 |
+| 11 | Aston Villa | 1 | 1 | 0 | 0 | 1 | 3 |
+| 12 | Braga | 1 | 1 | 0 | 0 | 1 | 3 |
+| 13 | VfB Stuttgart | 1 | 1 | 0 | 0 | 1 | 3 |
+| 14 | Nottingham Forest | 1 | 0 | 1 | 0 | 0 | 1 |
+| 15 | Real Betis | 1 | 0 | 1 | 0 | 0 | 1 |
+| 16 | Celtic | 1 | 0 | 1 | 0 | 0 | 1 |
+| 17 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
 | 18 | Lyon | 1 | 0 | 1 | 0 | 0 | 1 |
 | 19 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
 | 20 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
 | 21 | Porto | 1 | 0 | 1 | 0 | 0 | 1 |
-| 22 | Rangers | 1 | 0 | 1 | 0 | 0 | 1 |
-| 23 | RB Salzburg | 1 | 0 | 1 | 0 | 0 | 1 |
-| 24 | VfB Stuttgart | 1 | 0 | 1 | 0 | 0 | 1 |
-| 25 | Utrecht | 1 | 0 | 1 | 0 | 0 | 1 |
-| 26 | FC Basel | 1 | 0 | 0 | 1 | -1 | 0 |
-| 27 | Brann | 1 | 0 | 0 | 1 | -1 | 0 |
-| 28 | Malmö | 1 | 0 | 0 | 1 | -1 | 0 |
-| 29 | Nice | 1 | 0 | 0 | 1 | -1 | 0 |
-| 30 | Bologna | 1 | 0 | 0 | 1 | -1 | 0 |
-| 31 | Ferencváros | 1 | 0 | 0 | 1 | -1 | 0 |
-| 32 | Feyenoord | 1 | 0 | 0 | 1 | -1 | 0 |
-| 33 | Go Ahead Eagles | 1 | 0 | 0 | 1 | -1 | 0 |
+| 22 | RB Salzburg | 1 | 0 | 1 | 0 | 0 | 1 |
+| 23 | Utrecht | 1 | 0 | 1 | 0 | 0 | 1 |
+| 24 | FC Basel | 1 | 0 | 0 | 1 | -1 | 0 |
+| 25 | Brann | 1 | 0 | 0 | 1 | -1 | 0 |
+| 26 | Malmö | 1 | 0 | 0 | 1 | -1 | 0 |
+| 27 | Nice | 1 | 0 | 0 | 1 | -1 | 0 |
+| 28 | Bologna | 1 | 0 | 0 | 1 | -1 | 0 |
+| 29 | Celta de Vigo | 1 | 0 | 0 | 1 | -1 | 0 |
+| 30 | Ferencváros | 1 | 0 | 0 | 1 | -1 | 0 |
+| 31 | Feyenoord | 1 | 0 | 0 | 1 | -1 | 0 |
+| 32 | Go Ahead Eagles | 1 | 0 | 0 | 1 | -1 | 0 |
+| 33 | Rangers | 1 | 0 | 0 | 1 | -1 | 0 |
 | 34 | Fenerbahçe | 1 | 0 | 0 | 1 | -2 | 0 |
 | 35 | BSC Young Boys | 1 | 0 | 0 | 1 | -2 | 0 |
 | 36 | Sturm Graz | 1 | 0 | 0 | 1 | -2 | 0 |
