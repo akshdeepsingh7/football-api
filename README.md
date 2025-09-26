@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 26 September 2025, 07:37 PM UTC (Saturday, 27 September 2025, 01:07 AM IST)
+**Last Updated:** Friday, 26 September 2025, 08:20 PM UTC (Saturday, 27 September 2025, 01:50 AM IST)
 
 ### Premier League
 
@@ -97,7 +97,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 5 | 5 | 0 | 0 | 17 | 15 |
+| 1 | Bayern Munich | 5 | 5 | 0 | 0 | 19 | 15 |
 | 2 | Borussia Dortmund | 4 | 3 | 1 | 0 | 6 | 10 |
 | 3 | RB Leipzig | 4 | 3 | 0 | 1 | -1 | 9 |
 | 4 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
@@ -110,7 +110,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Bayer Leverkusen | 4 | 1 | 2 | 1 | 1 | 5 |
 | 12 | VfL Wolfsburg | 4 | 1 | 2 | 1 | 1 | 5 |
 | 13 | Mainz 05 | 4 | 1 | 1 | 2 | 1 | 4 |
-| 14 | Werder Bremen | 5 | 1 | 1 | 3 | -4 | 4 |
+| 14 | Werder Bremen | 5 | 1 | 1 | 3 | -6 | 4 |
 | 15 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
 | 16 | Augsburg | 4 | 1 | 0 | 3 | -3 | 3 |
 | 17 | Borussia Mönchengladbach | 4 | 0 | 2 | 2 | -5 | 2 |
@@ -145,12 +145,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Strasbourg | 6 | 4 | 1 | 1 | 3 | 13 |
+| 1 | Strasbourg | 6 | 5 | 0 | 1 | 4 | 15 |
 | 2 | Monaco | 5 | 4 | 0 | 1 | 6 | 12 |
 | 3 | PSG | 5 | 4 | 0 | 1 | 6 | 12 |
 | 4 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
-| 5 | Marseille | 6 | 3 | 1 | 2 | 6 | 10 |
-| 6 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
+| 5 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
+| 6 | Marseille | 6 | 3 | 0 | 3 | 5 | 9 |
 | 7 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
 | 8 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
 | 9 | Toulouse | 5 | 2 | 0 | 3 | -2 | 6 |
@@ -292,9 +292,9 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 6 | 6 | 0 | 0 | 14 | 18 |
-| 2 | Sporting CP | 6 | 5 | 0 | 1 | 14 | 15 |
-| 3 | Benfica | 7 | 4 | 3 | 0 | 8 | 15 |
-| 4 | Gil Vicente | 7 | 4 | 2 | 1 | 5 | 14 |
+| 2 | Benfica | 7 | 5 | 2 | 0 | 9 | 17 |
+| 3 | Sporting CP | 6 | 5 | 0 | 1 | 14 | 15 |
+| 4 | Gil Vicente | 7 | 4 | 1 | 2 | 4 | 13 |
 | 5 | Moreirense | 6 | 4 | 0 | 2 | 1 | 12 |
 | 6 | Famalicão | 6 | 3 | 2 | 1 | 4 | 11 |
 | 7 | Braga | 6 | 2 | 3 | 1 | 5 | 9 |
