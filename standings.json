@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 September 2025, 11:17 PM UTC",
-        "IST": "Saturday, 27 September 2025, 04:47 AM IST"
+        "UTC": "Friday, 26 September 2025, 11:37 PM UTC",
+        "IST": "Saturday, 27 September 2025, 05:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3151,26 +3151,16 @@
             },
             {
                 "Position": "9",
-                "Team": "Platense",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "10"
+                "Team": "San Mart\u00edn SJ",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "12"
             },
             {
                 "Position": "10",
-                "Team": "San Mart\u00edn SJ",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "10"
-            },
-            {
-                "Position": "11",
                 "Team": "GELP",
                 "Played": "9",
                 "Wins": "3",
@@ -3180,7 +3170,7 @@
                 "Points": "10"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Instituto",
                 "Played": "9",
                 "Wins": "2",
@@ -3188,6 +3178,16 @@
                 "Losses": "3",
                 "Goal Difference": "-6",
                 "Points": "10"
+            },
+            {
+                "Position": "12",
+                "Team": "Platense",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "9"
             },
             {
                 "Position": "13",
