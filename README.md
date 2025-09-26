@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 26 September 2025, 09:37 PM UTC (Saturday, 27 September 2025, 03:07 AM IST)
+**Last Updated:** Friday, 26 September 2025, 10:16 PM UTC (Saturday, 27 September 2025, 03:46 AM IST)
 
 ### Premier League
 
@@ -396,12 +396,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Unión | 9 | 4 | 4 | 1 | 7 | 16 |
+| 1 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
 | 2 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
 | 3 | Estudiantes | 9 | 5 | 0 | 4 | 0 | 15 |
 | 4 | Boca Juniors | 9 | 3 | 5 | 1 | 6 | 14 |
 | 5 | Córdoba SdE | 9 | 3 | 5 | 1 | 4 | 14 |
-| 6 | Banfield | 9 | 4 | 1 | 4 | -4 | 13 |
+| 6 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
 | 7 | Belgrano | 9 | 3 | 3 | 3 | 2 | 12 |
 | 8 | Def y Justicia | 9 | 3 | 3 | 3 | 1 | 12 |
 | 9 | Tigre | 9 | 3 | 3 | 3 | 1 | 12 |
@@ -419,10 +419,10 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
 | 7 | Rosario | 8 | 2 | 6 | 0 | 2 | 12 |
 | 8 | Sarmiento | 8 | 3 | 3 | 2 | -1 | 12 |
-| 9 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
-| 10 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
-| 11 | Platense | 8 | 2 | 3 | 3 | -3 | 9 |
-| 12 | San Martín SJ | 9 | 2 | 3 | 4 | -3 | 9 |
+| 9 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
+| 10 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
+| 11 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
+| 12 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
 | 13 | Godoy Cruz | 9 | 1 | 5 | 3 | -3 | 8 |
 | 14 | Talleres | 9 | 1 | 4 | 4 | -5 | 7 |
 | 15 | Independiente | 8 | 0 | 4 | 4 | -4 | 4 |

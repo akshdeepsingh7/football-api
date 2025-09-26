@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 September 2025, 09:37 PM UTC",
-        "IST": "Saturday, 27 September 2025, 03:07 AM IST"
+        "UTC": "Friday, 26 September 2025, 10:16 PM UTC",
+        "IST": "Saturday, 27 September 2025, 03:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2922,12 +2922,12 @@
             {
                 "Position": "1",
                 "Team": "Uni\u00f3n",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "4",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "7",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "2",
@@ -2972,12 +2972,12 @@
             {
                 "Position": "6",
                 "Team": "Banfield",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "4",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "-4",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "7",
@@ -3151,6 +3151,26 @@
             },
             {
                 "Position": "9",
+                "Team": "Platense",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "10"
+            },
+            {
+                "Position": "10",
+                "Team": "San Mart\u00edn SJ",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "10"
+            },
+            {
+                "Position": "11",
                 "Team": "GELP",
                 "Played": "9",
                 "Wins": "3",
@@ -3160,7 +3180,7 @@
                 "Points": "10"
             },
             {
-                "Position": "10",
+                "Position": "12",
                 "Team": "Instituto",
                 "Played": "9",
                 "Wins": "2",
@@ -3168,26 +3188,6 @@
                 "Losses": "3",
                 "Goal Difference": "-6",
                 "Points": "10"
-            },
-            {
-                "Position": "11",
-                "Team": "Platense",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "9"
-            },
-            {
-                "Position": "12",
-                "Team": "San Mart\u00edn SJ",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "9"
             },
             {
                 "Position": "13",
