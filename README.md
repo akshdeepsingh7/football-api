@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 26 September 2025, 08:20 PM UTC (Saturday, 27 September 2025, 01:50 AM IST)
+**Last Updated:** Friday, 26 September 2025, 08:39 PM UTC (Saturday, 27 September 2025, 02:09 AM IST)
 
 ### Premier League
 
@@ -145,12 +145,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Strasbourg | 6 | 5 | 0 | 1 | 4 | 15 |
+| 1 | Marseille | 6 | 4 | 0 | 2 | 7 | 12 |
 | 2 | Monaco | 5 | 4 | 0 | 1 | 6 | 12 |
 | 3 | PSG | 5 | 4 | 0 | 1 | 6 | 12 |
 | 4 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
-| 5 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
-| 6 | Marseille | 6 | 3 | 0 | 3 | 5 | 9 |
+| 5 | Strasbourg | 6 | 4 | 0 | 2 | 2 | 12 |
+| 6 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
 | 7 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
 | 8 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
 | 9 | Toulouse | 5 | 2 | 0 | 3 | -2 | 6 |
