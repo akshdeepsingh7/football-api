@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 September 2025, 06:25 PM UTC",
-        "IST": "Friday, 26 September 2025, 11:55 PM IST"
+        "UTC": "Friday, 26 September 2025, 06:46 PM UTC",
+        "IST": "Saturday, 27 September 2025, 12:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -412,12 +412,12 @@
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "4",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "15",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "2",
@@ -531,22 +531,22 @@
             },
             {
                 "Position": "13",
+                "Team": "Werder Bremen",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "5"
+            },
+            {
+                "Position": "14",
                 "Team": "Mainz 05",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "1",
-                "Points": "4"
-            },
-            {
-                "Position": "14",
-                "Team": "Werder Bremen",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-2",
                 "Points": "4"
             },
             {
@@ -795,6 +795,16 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "Strasbourg",
+                "Played": "6",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "13"
+            },
+            {
+                "Position": "2",
                 "Team": "Monaco",
                 "Played": "5",
                 "Wins": "4",
@@ -804,7 +814,7 @@
                 "Points": "12"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "PSG",
                 "Played": "5",
                 "Wins": "4",
@@ -814,7 +824,7 @@
                 "Points": "12"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Lyon",
                 "Played": "5",
                 "Wins": "4",
@@ -824,17 +834,17 @@
                 "Points": "12"
             },
             {
-                "Position": "4",
-                "Team": "Strasbourg",
-                "Played": "5",
-                "Wins": "4",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "3",
-                "Points": "12"
+                "Position": "5",
+                "Team": "Marseille",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "10"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Lille",
                 "Played": "5",
                 "Wins": "3",
@@ -842,16 +852,6 @@
                 "Losses": "1",
                 "Goal Difference": "5",
                 "Points": "10"
-            },
-            {
-                "Position": "6",
-                "Team": "Marseille",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "6",
-                "Points": "9"
             },
             {
                 "Position": "7",
