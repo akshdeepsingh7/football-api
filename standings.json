@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 September 2025, 08:39 PM UTC",
-        "IST": "Saturday, 27 September 2025, 02:09 AM IST"
+        "UTC": "Friday, 26 September 2025, 09:15 PM UTC",
+        "IST": "Saturday, 27 September 2025, 02:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2255,22 +2255,22 @@
             },
             {
                 "Position": "2",
-                "Team": "West Bromwich Albion",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "13"
-            },
-            {
-                "Position": "3",
                 "Team": "Stoke City",
                 "Played": "6",
                 "Wins": "4",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "5",
+                "Points": "12"
+            },
+            {
+                "Position": "3",
+                "Team": "Leicester City",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "3",
                 "Points": "12"
             },
             {
@@ -2285,22 +2285,22 @@
             },
             {
                 "Position": "5",
-                "Team": "Leicester City",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "11"
-            },
-            {
-                "Position": "6",
                 "Team": "Preston North End",
                 "Played": "6",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "2",
+                "Points": "11"
+            },
+            {
+                "Position": "6",
+                "Team": "West Bromwich Albion",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "1",
                 "Points": "11"
             },
             {

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 26 September 2025, 08:39 PM UTC (Saturday, 27 September 2025, 02:09 AM IST)
+**Last Updated:** Friday, 26 September 2025, 09:15 PM UTC (Saturday, 27 September 2025, 02:45 AM IST)
 
 ### Premier League
 
@@ -315,11 +315,11 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Middlesbrough | 6 | 5 | 1 | 0 | 7 | 16 |
-| 2 | West Bromwich Albion | 7 | 4 | 1 | 2 | 2 | 13 |
-| 3 | Stoke City | 6 | 4 | 0 | 2 | 5 | 12 |
+| 2 | Stoke City | 6 | 4 | 0 | 2 | 5 | 12 |
+| 3 | Leicester City | 7 | 3 | 3 | 1 | 3 | 12 |
 | 4 | Bristol City | 6 | 3 | 2 | 1 | 6 | 11 |
-| 5 | Leicester City | 7 | 3 | 2 | 2 | 2 | 11 |
-| 6 | Preston North End | 6 | 3 | 2 | 1 | 2 | 11 |
+| 5 | Preston North End | 6 | 3 | 2 | 1 | 2 | 11 |
+| 6 | West Bromwich Albion | 7 | 3 | 2 | 2 | 1 | 11 |
 | 7 | Coventry City | 6 | 2 | 4 | 0 | 8 | 10 |
 | 8 | Birmingham City | 6 | 3 | 1 | 2 | 0 | 10 |
 | 9 | Queens Park Rangers | 6 | 3 | 1 | 2 | -2 | 10 |
