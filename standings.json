@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 September 2025, 11:37 PM UTC",
-        "IST": "Saturday, 27 September 2025, 05:07 AM IST"
+        "UTC": "Saturday, 27 September 2025, 01:22 AM UTC",
+        "IST": "Saturday, 27 September 2025, 06:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2931,6 +2931,16 @@
             },
             {
                 "Position": "2",
+                "Team": "C\u00f3rdoba SdE",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "1",
+                "Goal Difference": "4",
+                "Points": "15"
+            },
+            {
+                "Position": "3",
                 "Team": "Barracas",
                 "Played": "9",
                 "Wins": "4",
@@ -2940,7 +2950,7 @@
                 "Points": "15"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Estudiantes",
                 "Played": "9",
                 "Wins": "5",
@@ -2950,23 +2960,13 @@
                 "Points": "15"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Boca Juniors",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "6",
-                "Points": "14"
-            },
-            {
-                "Position": "5",
-                "Team": "C\u00f3rdoba SdE",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "4",
                 "Points": "14"
             },
             {
@@ -2981,6 +2981,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Tigre",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "1",
+                "Points": "13"
+            },
+            {
+                "Position": "8",
                 "Team": "Belgrano",
                 "Played": "9",
                 "Wins": "3",
@@ -2990,18 +3000,8 @@
                 "Points": "12"
             },
             {
-                "Position": "8",
-                "Team": "Def y Justicia",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "1",
-                "Points": "12"
-            },
-            {
                 "Position": "9",
-                "Team": "Tigre",
+                "Team": "Def y Justicia",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "3",
@@ -3151,16 +3151,26 @@
             },
             {
                 "Position": "9",
-                "Team": "San Mart\u00edn SJ",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "12"
+                "Team": "Platense",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "10"
             },
             {
                 "Position": "10",
+                "Team": "San Mart\u00edn SJ",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "10"
+            },
+            {
+                "Position": "11",
                 "Team": "GELP",
                 "Played": "9",
                 "Wins": "3",
@@ -3170,7 +3180,7 @@
                 "Points": "10"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Instituto",
                 "Played": "9",
                 "Wins": "2",
@@ -3178,16 +3188,6 @@
                 "Losses": "3",
                 "Goal Difference": "-6",
                 "Points": "10"
-            },
-            {
-                "Position": "12",
-                "Team": "Platense",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "9"
             },
             {
                 "Position": "13",
