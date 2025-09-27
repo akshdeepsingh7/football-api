@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 07:37 PM UTC (Sunday, 28 September 2025, 01:07 AM IST)
+**Last Updated:** Saturday, 27 September 2025, 08:19 PM UTC (Sunday, 28 September 2025, 01:49 AM IST)
 
 ### Premier League
 
@@ -49,11 +49,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Liverpool FC | 6 | 5 | 0 | 1 | 5 | 15 |
 | 2 | Crystal Palace | 6 | 3 | 3 | 0 | 5 | 12 |
-| 3 | Tottenham Hotspur | 6 | 3 | 2 | 1 | 7 | 11 |
-| 4 | Sunderland | 6 | 3 | 2 | 1 | 3 | 11 |
-| 5 | AFC Bournemouth | 6 | 3 | 2 | 1 | 1 | 11 |
-| 6 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
-| 7 | Arsenal | 5 | 3 | 1 | 1 | 8 | 10 |
+| 3 | Sunderland | 6 | 3 | 2 | 1 | 3 | 11 |
+| 4 | AFC Bournemouth | 6 | 3 | 2 | 1 | 1 | 11 |
+| 5 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
+| 6 | Arsenal | 5 | 3 | 1 | 1 | 8 | 10 |
+| 7 | Tottenham Hotspur | 6 | 3 | 1 | 2 | 6 | 10 |
 | 8 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
 | 9 | Fulham | 5 | 2 | 2 | 1 | 1 | 8 |
 | 10 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Burnley | 6 | 1 | 1 | 4 | -7 | 4 |
 | 18 | Aston Villa | 5 | 0 | 3 | 2 | -4 | 3 |
 | 19 | West Ham United | 5 | 1 | 0 | 4 | -8 | 3 |
-| 20 | Wolverhampton Wanderers | 6 | 0 | 1 | 5 | -9 | 1 |
+| 20 | Wolverhampton Wanderers | 6 | 1 | 0 | 5 | -8 | 3 |
 
 ### La Liga
 
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 6 | 4 | 1 | 1 | 6 | 13 |
+| 1 | PSG | 6 | 5 | 0 | 1 | 7 | 15 |
 | 2 | Marseille | 6 | 4 | 0 | 2 | 7 | 12 |
 | 3 | Monaco | 6 | 4 | 0 | 2 | 4 | 12 |
 | 4 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
@@ -154,10 +154,10 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
 | 8 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
 | 9 | Toulouse | 6 | 2 | 1 | 3 | -2 | 7 |
-| 10 | Auxerre | 6 | 2 | 1 | 3 | -2 | 7 |
-| 11 | Lorient | 6 | 2 | 1 | 3 | -5 | 7 |
-| 12 | Paris | 5 | 2 | 0 | 3 | -3 | 6 |
-| 13 | Nice | 5 | 2 | 0 | 3 | -3 | 6 |
+| 10 | Lorient | 6 | 2 | 1 | 3 | -5 | 7 |
+| 11 | Paris | 5 | 2 | 0 | 3 | -3 | 6 |
+| 12 | Nice | 5 | 2 | 0 | 3 | -3 | 6 |
+| 13 | Auxerre | 6 | 2 | 0 | 4 | -3 | 6 |
 | 14 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
 | 15 | Nantes | 6 | 1 | 2 | 3 | -2 | 5 |
 | 16 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
@@ -292,8 +292,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 6 | 6 | 0 | 0 | 14 | 18 |
-| 2 | Benfica | 7 | 5 | 2 | 0 | 9 | 17 |
-| 3 | Sporting CP | 7 | 5 | 1 | 1 | 14 | 16 |
+| 2 | Sporting CP | 7 | 6 | 0 | 1 | 15 | 18 |
+| 3 | Benfica | 7 | 5 | 2 | 0 | 9 | 17 |
 | 4 | Moreirense | 7 | 5 | 0 | 2 | 2 | 15 |
 | 5 | Gil Vicente | 7 | 4 | 1 | 2 | 4 | 13 |
 | 6 | Famalicão | 6 | 3 | 2 | 1 | 4 | 11 |
@@ -303,7 +303,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
 | 11 | Estrela Amadora | 7 | 1 | 4 | 2 | 0 | 7 |
 | 12 | Casa Pia | 7 | 2 | 1 | 4 | -5 | 7 |
-| 13 | Estoril | 7 | 1 | 3 | 3 | -2 | 6 |
+| 13 | Estoril | 7 | 1 | 2 | 4 | -3 | 5 |
 | 14 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
 | 15 | Nacional | 6 | 1 | 1 | 4 | -5 | 4 |
 | 16 | Rio Ave | 6 | 0 | 4 | 2 | -5 | 4 |
@@ -449,8 +449,8 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Atlético Mineiro | 22 | 6 | 7 | 9 | -5 | 25 |
 | 17 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
 | 18 | Juventude | 23 | 6 | 3 | 14 | -26 | 21 |
-| 19 | Fortaleza | 24 | 4 | 7 | 13 | -15 | 19 |
-| 20 | Sport | 23 | 2 | 9 | 12 | -18 | 15 |
+| 19 | Fortaleza | 24 | 5 | 6 | 13 | -14 | 21 |
+| 20 | Sport | 23 | 2 | 8 | 13 | -19 | 14 |
 
 
 <!-- END_TABLE -->
