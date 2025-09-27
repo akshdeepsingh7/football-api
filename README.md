@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 04:21 PM UTC (Saturday, 27 September 2025, 09:51 PM IST)
+**Last Updated:** Saturday, 27 September 2025, 04:41 PM UTC (Saturday, 27 September 2025, 10:11 PM IST)
 
 ### Premier League
 
@@ -53,8 +53,8 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
 | 5 | Arsenal | 5 | 3 | 1 | 1 | 8 | 10 |
 | 6 | Tottenham Hotspur | 5 | 3 | 1 | 1 | 7 | 10 |
-| 7 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
-| 8 | Sunderland | 5 | 2 | 2 | 1 | 2 | 8 |
+| 7 | Sunderland | 6 | 2 | 3 | 1 | 2 | 9 |
+| 8 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
 | 9 | Fulham | 5 | 2 | 2 | 1 | 1 | 8 |
 | 10 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |
 | 11 | Leeds United | 6 | 2 | 2 | 2 | -3 | 8 |
@@ -62,7 +62,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Brentford | 6 | 2 | 1 | 3 | -2 | 7 |
 | 14 | Manchester United | 6 | 2 | 1 | 3 | -4 | 7 |
 | 15 | Newcastle United | 5 | 1 | 3 | 1 | 0 | 6 |
-| 16 | Nottingham Forest | 5 | 1 | 2 | 2 | -4 | 5 |
+| 16 | Nottingham Forest | 6 | 1 | 3 | 2 | -4 | 6 |
 | 17 | Burnley | 6 | 1 | 1 | 4 | -7 | 4 |
 | 18 | Aston Villa | 5 | 0 | 3 | 2 | -4 | 3 |
 | 19 | West Ham United | 5 | 1 | 0 | 4 | -8 | 3 |
@@ -81,7 +81,7 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
 | 8 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
 | 9 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
-| 10 | Alavés | 6 | 2 | 2 | 2 | 0 | 8 |
+| 10 | Alavés | 7 | 2 | 3 | 2 | 0 | 9 |
 | 11 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 12 | Sevilla | 6 | 2 | 1 | 3 | 0 | 7 |
 | 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
@@ -89,9 +89,9 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
 | 16 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
 | 17 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
-| 18 | Real Oviedo | 6 | 1 | 0 | 5 | -9 | 3 |
-| 19 | Girona | 7 | 0 | 3 | 4 | -13 | 3 |
-| 20 | Mallorca | 6 | 0 | 2 | 4 | -6 | 2 |
+| 18 | Mallorca | 7 | 0 | 3 | 4 | -6 | 3 |
+| 19 | Real Oviedo | 6 | 1 | 0 | 5 | -9 | 3 |
+| 20 | Girona | 7 | 0 | 3 | 4 | -13 | 3 |
 
 ### Bundesliga
 
@@ -101,9 +101,9 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Borussia Dortmund | 5 | 4 | 1 | 0 | 8 | 13 |
 | 3 | RB Leipzig | 5 | 4 | 0 | 1 | 0 | 12 |
 | 4 | Bayer Leverkusen | 5 | 2 | 2 | 1 | 2 | 8 |
-| 5 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
-| 6 | St. Pauli | 5 | 2 | 1 | 2 | 0 | 7 |
-| 7 | Eintracht Frankfurt | 4 | 2 | 0 | 2 | 2 | 6 |
+| 5 | Eintracht Frankfurt | 5 | 2 | 1 | 2 | 2 | 7 |
+| 6 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
+| 7 | St. Pauli | 5 | 2 | 1 | 2 | 0 | 7 |
 | 8 | SC Freiburg | 4 | 2 | 0 | 2 | 0 | 6 |
 | 9 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
 | 10 | Hoffenheim | 4 | 2 | 0 | 2 | -2 | 6 |
@@ -113,8 +113,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Werder Bremen | 5 | 1 | 1 | 3 | -6 | 4 |
 | 15 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
 | 16 | Augsburg | 5 | 1 | 0 | 4 | -4 | 3 |
-| 17 | Heidenheim | 5 | 1 | 0 | 4 | -6 | 3 |
-| 18 | Borussia Mönchengladbach | 4 | 0 | 2 | 2 | -5 | 2 |
+| 17 | Borussia Mönchengladbach | 5 | 0 | 3 | 2 | -5 | 3 |
+| 18 | Heidenheim | 5 | 1 | 0 | 4 | -6 | 3 |
 
 ### Serie A
 
@@ -147,13 +147,13 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Marseille | 6 | 4 | 0 | 2 | 7 | 12 |
 | 2 | PSG | 5 | 4 | 0 | 1 | 6 | 12 |
-| 3 | Monaco | 6 | 4 | 0 | 2 | 5 | 12 |
+| 3 | Monaco | 6 | 4 | 0 | 2 | 4 | 12 |
 | 4 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
 | 5 | Strasbourg | 6 | 4 | 0 | 2 | 2 | 12 |
 | 6 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
 | 7 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
 | 8 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
-| 9 | Lorient | 6 | 2 | 1 | 3 | -6 | 7 |
+| 9 | Lorient | 6 | 2 | 1 | 3 | -5 | 7 |
 | 10 | Toulouse | 5 | 2 | 0 | 3 | -2 | 6 |
 | 11 | Auxerre | 5 | 2 | 0 | 3 | -2 | 6 |
 | 12 | Paris | 5 | 2 | 0 | 3 | -3 | 6 |

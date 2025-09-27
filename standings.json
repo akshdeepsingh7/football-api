@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 04:21 PM UTC",
-        "IST": "Saturday, 27 September 2025, 09:51 PM IST"
+        "UTC": "Saturday, 27 September 2025, 04:41 PM UTC",
+        "IST": "Saturday, 27 September 2025, 10:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -67,22 +67,22 @@
             },
             {
                 "Position": "7",
+                "Team": "Sunderland",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "2",
+                "Points": "9"
+            },
+            {
+                "Position": "8",
                 "Team": "Chelsea",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "3",
-                "Points": "8"
-            },
-            {
-                "Position": "8",
-                "Team": "Sunderland",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "2",
                 "Points": "8"
             },
             {
@@ -158,12 +158,12 @@
             {
                 "Position": "16",
                 "Team": "Nottingham Forest",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "1",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "-4",
-                "Points": "5"
+                "Points": "6"
             },
             {
                 "Position": "17",
@@ -300,12 +300,12 @@
             {
                 "Position": "10",
                 "Team": "Alav\u00e9s",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "0",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "11",
@@ -379,6 +379,16 @@
             },
             {
                 "Position": "18",
+                "Team": "Mallorca",
+                "Played": "7",
+                "Wins": "0",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-6",
+                "Points": "3"
+            },
+            {
+                "Position": "19",
                 "Team": "Real Oviedo",
                 "Played": "6",
                 "Wins": "1",
@@ -388,7 +398,7 @@
                 "Points": "3"
             },
             {
-                "Position": "19",
+                "Position": "20",
                 "Team": "Girona",
                 "Played": "7",
                 "Wins": "0",
@@ -396,16 +406,6 @@
                 "Losses": "4",
                 "Goal Difference": "-13",
                 "Points": "3"
-            },
-            {
-                "Position": "20",
-                "Team": "Mallorca",
-                "Played": "6",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-6",
-                "Points": "2"
             }
         ],
         "Bundesliga": [
@@ -451,6 +451,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Eintracht Frankfurt",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "7"
+            },
+            {
+                "Position": "6",
                 "Team": "K\u00f6ln",
                 "Played": "4",
                 "Wins": "2",
@@ -460,7 +470,7 @@
                 "Points": "7"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "St. Pauli",
                 "Played": "5",
                 "Wins": "2",
@@ -468,16 +478,6 @@
                 "Losses": "2",
                 "Goal Difference": "0",
                 "Points": "7"
-            },
-            {
-                "Position": "7",
-                "Team": "Eintracht Frankfurt",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "6"
             },
             {
                 "Position": "8",
@@ -571,6 +571,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Played": "5",
+                "Wins": "0",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "-5",
+                "Points": "3"
+            },
+            {
+                "Position": "18",
                 "Team": "Heidenheim",
                 "Played": "5",
                 "Wins": "1",
@@ -578,16 +588,6 @@
                 "Losses": "4",
                 "Goal Difference": "-6",
                 "Points": "3"
-            },
-            {
-                "Position": "18",
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "4",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-5",
-                "Points": "2"
             }
         ],
         "Serie A": [
@@ -820,7 +820,7 @@
                 "Wins": "4",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "5",
+                "Goal Difference": "4",
                 "Points": "12"
             },
             {
@@ -880,7 +880,7 @@
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "-6",
+                "Goal Difference": "-5",
                 "Points": "7"
             },
             {
