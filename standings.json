@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 09:37 PM UTC",
-        "IST": "Sunday, 28 September 2025, 03:07 AM IST"
+        "UTC": "Saturday, 27 September 2025, 10:16 PM UTC",
+        "IST": "Sunday, 28 September 2025, 03:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2509,11 +2509,11 @@
                 "Position": "3",
                 "Team": "Inter Miami",
                 "Played": "30",
-                "Wins": "17",
-                "Draws": "7",
+                "Wins": "16",
+                "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "19",
-                "Points": "58"
+                "Goal Difference": "18",
+                "Points": "56"
             },
             {
                 "Position": "4",
@@ -2600,10 +2600,10 @@
                 "Team": "Toronto",
                 "Played": "31",
                 "Wins": "5",
-                "Draws": "12",
-                "Losses": "14",
-                "Goal Difference": "-8",
-                "Points": "27"
+                "Draws": "13",
+                "Losses": "13",
+                "Goal Difference": "-7",
+                "Points": "28"
             },
             {
                 "Position": "13",
@@ -3236,10 +3236,10 @@
                 "Team": "Cruzeiro",
                 "Played": "25",
                 "Wins": "15",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "22",
-                "Points": "51"
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "21",
+                "Points": "50"
             },
             {
                 "Position": "3",
@@ -3313,6 +3313,26 @@
             },
             {
                 "Position": "10",
+                "Team": "Vasco da Gama",
+                "Played": "25",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "2",
+                "Points": "30"
+            },
+            {
+                "Position": "11",
+                "Team": "Internacional",
+                "Played": "24",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "10",
+                "Goal Difference": "-7",
+                "Points": "30"
+            },
+            {
+                "Position": "12",
                 "Team": "Corinthians",
                 "Played": "24",
                 "Wins": "7",
@@ -3322,7 +3342,7 @@
                 "Points": "29"
             },
             {
-                "Position": "11",
+                "Position": "13",
                 "Team": "Gr\u00eamio",
                 "Played": "24",
                 "Wins": "7",
@@ -3332,33 +3352,13 @@
                 "Points": "29"
             },
             {
-                "Position": "12",
-                "Team": "Vasco da Gama",
-                "Played": "25",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "1",
-                "Points": "28"
-            },
-            {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Cear\u00e1",
                 "Played": "23",
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "-1",
-                "Points": "28"
-            },
-            {
-                "Position": "14",
-                "Team": "Internacional",
-                "Played": "24",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "-8",
                 "Points": "28"
             },
             {
@@ -3383,16 +3383,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Juventude",
-                "Played": "24",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "14",
-                "Goal Difference": "-26",
-                "Points": "22"
-            },
-            {
-                "Position": "18",
                 "Team": "Vit\u00f3ria",
                 "Played": "24",
                 "Wins": "4",
@@ -3400,6 +3390,16 @@
                 "Losses": "10",
                 "Goal Difference": "-16",
                 "Points": "22"
+            },
+            {
+                "Position": "18",
+                "Team": "Juventude",
+                "Played": "24",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "15",
+                "Goal Difference": "-27",
+                "Points": "21"
             },
             {
                 "Position": "19",
