@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 12:35 PM UTC",
-        "IST": "Saturday, 27 September 2025, 06:05 PM IST"
+        "UTC": "Saturday, 27 September 2025, 01:21 PM UTC",
+        "IST": "Saturday, 27 September 2025, 06:51 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -249,6 +249,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Getafe",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "11"
+            },
+            {
+                "Position": "6",
                 "Team": "Elche",
                 "Played": "6",
                 "Wins": "2",
@@ -258,23 +268,13 @@
                 "Points": "10"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Athletic Bilbao",
                 "Played": "6",
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "0",
-                "Points": "10"
-            },
-            {
-                "Position": "7",
-                "Team": "Getafe",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-2",
                 "Points": "10"
             },
             {
@@ -339,16 +339,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Levante",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "7"
-            },
-            {
-                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "6",
                 "Wins": "1",
@@ -358,13 +348,23 @@
                 "Points": "5"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Celta de Vigo",
                 "Played": "6",
                 "Wins": "0",
                 "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "-2",
+                "Points": "5"
+            },
+            {
+                "Position": "16",
+                "Team": "Levante",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-3",
                 "Points": "5"
             },
             {
@@ -633,6 +633,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Cremonese",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "9"
+            },
+            {
+                "Position": "6",
                 "Team": "Atalanta",
                 "Played": "4",
                 "Wins": "2",
@@ -642,28 +652,18 @@
                 "Points": "8"
             },
             {
-                "Position": "6",
-                "Team": "Cremonese",
-                "Played": "4",
+                "Position": "7",
+                "Team": "Como",
+                "Played": "5",
                 "Wins": "2",
                 "Draws": "2",
-                "Losses": "0",
+                "Losses": "1",
                 "Goal Difference": "2",
                 "Points": "8"
             },
             {
-                "Position": "7",
-                "Team": "Cagliari",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "7"
-            },
-            {
                 "Position": "8",
-                "Team": "Como",
+                "Team": "Cagliari",
                 "Played": "4",
                 "Wins": "2",
                 "Draws": "1",
@@ -2260,7 +2260,7 @@
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "0",
-                "Goal Difference": "9",
+                "Goal Difference": "11",
                 "Points": "13"
             },
             {
@@ -2325,22 +2325,22 @@
             },
             {
                 "Position": "9",
-                "Team": "Birmingham City",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "10"
-            },
-            {
-                "Position": "10",
                 "Team": "Queens Park Rangers",
                 "Played": "6",
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "-2",
+                "Points": "10"
+            },
+            {
+                "Position": "10",
+                "Team": "Birmingham City",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-3",
                 "Points": "10"
             },
             {

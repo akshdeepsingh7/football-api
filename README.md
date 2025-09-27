@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 12:35 PM UTC (Saturday, 27 September 2025, 06:05 PM IST)
+**Last Updated:** Saturday, 27 September 2025, 01:21 PM UTC (Saturday, 27 September 2025, 06:51 PM IST)
 
 ### Premier League
 
@@ -76,18 +76,18 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Barcelona | 6 | 5 | 1 | 0 | 15 | 16 |
 | 3 | Villarreal | 6 | 4 | 1 | 1 | 7 | 13 |
 | 4 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
-| 5 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
-| 6 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
-| 7 | Getafe | 7 | 3 | 1 | 3 | -2 | 10 |
+| 5 | Getafe | 7 | 3 | 2 | 2 | -1 | 11 |
+| 6 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
+| 7 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
 | 8 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
 | 9 | Atlético de Madrid | 6 | 2 | 3 | 1 | 2 | 9 |
 | 10 | Alavés | 6 | 2 | 2 | 2 | 0 | 8 |
 | 11 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 12 | Sevilla | 6 | 2 | 1 | 3 | 0 | 7 |
 | 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
-| 14 | Levante | 7 | 2 | 1 | 4 | -2 | 7 |
-| 15 | Rayo Vallecano | 6 | 1 | 2 | 3 | -2 | 5 |
-| 16 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
+| 14 | Rayo Vallecano | 6 | 1 | 2 | 3 | -2 | 5 |
+| 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
+| 16 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
 | 17 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
 | 18 | Real Oviedo | 6 | 1 | 0 | 5 | -9 | 3 |
 | 19 | Girona | 7 | 0 | 3 | 4 | -13 | 3 |
@@ -124,10 +124,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Juventus | 4 | 3 | 1 | 0 | 4 | 10 |
 | 3 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
 | 4 | Roma | 4 | 3 | 0 | 1 | 2 | 9 |
-| 5 | Atalanta | 4 | 2 | 2 | 0 | 6 | 8 |
-| 6 | Cremonese | 4 | 2 | 2 | 0 | 2 | 8 |
-| 7 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
-| 8 | Como | 4 | 2 | 1 | 1 | 2 | 7 |
+| 5 | Cremonese | 5 | 2 | 3 | 0 | 2 | 9 |
+| 6 | Atalanta | 4 | 2 | 2 | 0 | 6 | 8 |
+| 7 | Como | 5 | 2 | 2 | 1 | 2 | 8 |
+| 8 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
 | 9 | Udinese | 4 | 2 | 1 | 1 | -1 | 7 |
 | 10 | Inter | 4 | 2 | 0 | 2 | 4 | 6 |
 | 11 | Bologna | 4 | 2 | 0 | 2 | 0 | 6 |
@@ -315,15 +315,15 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Middlesbrough | 6 | 5 | 1 | 0 | 7 | 16 |
-| 2 | Coventry City | 7 | 3 | 4 | 0 | 9 | 13 |
+| 2 | Coventry City | 7 | 3 | 4 | 0 | 11 | 13 |
 | 3 | Stoke City | 6 | 4 | 0 | 2 | 5 | 12 |
 | 4 | Leicester City | 7 | 3 | 3 | 1 | 3 | 12 |
 | 5 | Bristol City | 6 | 3 | 2 | 1 | 6 | 11 |
 | 6 | Preston North End | 6 | 3 | 2 | 1 | 2 | 11 |
 | 7 | West Bromwich Albion | 7 | 3 | 2 | 2 | 1 | 11 |
 | 8 | Millwall | 7 | 3 | 2 | 2 | -2 | 11 |
-| 9 | Birmingham City | 7 | 3 | 1 | 3 | -1 | 10 |
-| 10 | Queens Park Rangers | 6 | 3 | 1 | 2 | -2 | 10 |
+| 9 | Queens Park Rangers | 6 | 3 | 1 | 2 | -2 | 10 |
+| 10 | Birmingham City | 7 | 3 | 1 | 3 | -3 | 10 |
 | 11 | Swansea City | 7 | 2 | 3 | 2 | 1 | 9 |
 | 12 | Wrexham | 7 | 2 | 2 | 3 | -1 | 8 |
 | 13 | Charlton Athletic | 6 | 2 | 2 | 2 | -1 | 8 |
