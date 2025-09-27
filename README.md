@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 07:14 PM UTC (Sunday, 28 September 2025, 12:44 AM IST)
+**Last Updated:** Saturday, 27 September 2025, 07:37 PM UTC (Sunday, 28 September 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -293,7 +293,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 6 | 6 | 0 | 0 | 14 | 18 |
 | 2 | Benfica | 7 | 5 | 2 | 0 | 9 | 17 |
-| 3 | Sporting CP | 6 | 5 | 0 | 1 | 14 | 15 |
+| 3 | Sporting CP | 7 | 5 | 1 | 1 | 14 | 16 |
 | 4 | Moreirense | 7 | 5 | 0 | 2 | 2 | 15 |
 | 5 | Gil Vicente | 7 | 4 | 1 | 2 | 4 | 13 |
 | 6 | Famalicão | 6 | 3 | 2 | 1 | 4 | 11 |
@@ -303,7 +303,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
 | 11 | Estrela Amadora | 7 | 1 | 4 | 2 | 0 | 7 |
 | 12 | Casa Pia | 7 | 2 | 1 | 4 | -5 | 7 |
-| 13 | Estoril | 6 | 1 | 2 | 3 | -2 | 5 |
+| 13 | Estoril | 7 | 1 | 3 | 3 | -2 | 6 |
 | 14 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
 | 15 | Nacional | 6 | 1 | 1 | 4 | -5 | 4 |
 | 16 | Rio Ave | 6 | 0 | 4 | 2 | -5 | 4 |
@@ -415,13 +415,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | River Plate | 9 | 5 | 3 | 1 | 9 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
 | 4 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
-| 5 | Rosario | 9 | 3 | 6 | 0 | 3 | 15 |
+| 5 | Rosario | 9 | 3 | 6 | 0 | 5 | 15 |
 | 6 | San Lorenzo | 9 | 3 | 4 | 2 | 0 | 13 |
 | 7 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
 | 8 | Sarmiento | 8 | 3 | 3 | 2 | -1 | 12 |
 | 9 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
 | 10 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
-| 11 | GELP | 10 | 3 | 1 | 6 | -4 | 10 |
+| 11 | GELP | 10 | 3 | 1 | 6 | -6 | 10 |
 | 12 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
 | 13 | Godoy Cruz | 9 | 1 | 5 | 3 | -3 | 8 |
 | 14 | Talleres | 9 | 1 | 4 | 4 | -5 | 7 |
