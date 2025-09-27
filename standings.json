@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 08:19 PM UTC",
-        "IST": "Sunday, 28 September 2025, 01:49 AM IST"
+        "UTC": "Saturday, 27 September 2025, 08:38 PM UTC",
+        "IST": "Sunday, 28 September 2025, 02:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -231,11 +231,11 @@
                 "Position": "3",
                 "Team": "Villarreal",
                 "Played": "7",
-                "Wins": "4",
-                "Draws": "2",
+                "Wins": "5",
+                "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "7",
-                "Points": "14"
+                "Goal Difference": "8",
+                "Points": "16"
             },
             {
                 "Position": "4",
@@ -259,16 +259,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Athletic Bilbao",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "0",
-                "Points": "11"
-            },
-            {
-                "Position": "7",
                 "Team": "Getafe",
                 "Played": "7",
                 "Wins": "3",
@@ -278,13 +268,23 @@
                 "Points": "11"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Elche",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "0",
                 "Goal Difference": "3",
+                "Points": "10"
+            },
+            {
+                "Position": "8",
+                "Team": "Athletic Bilbao",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-1",
                 "Points": "10"
             },
             {
@@ -633,22 +633,22 @@
             },
             {
                 "Position": "5",
+                "Team": "Inter",
+                "Played": "5",
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "9"
+            },
+            {
+                "Position": "6",
                 "Team": "Atalanta",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "0",
                 "Goal Difference": "6",
-                "Points": "9"
-            },
-            {
-                "Position": "6",
-                "Team": "Inter",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "5",
                 "Points": "9"
             },
             {
@@ -688,7 +688,7 @@
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "1",
+                "Goal Difference": "0",
                 "Points": "7"
             },
             {
@@ -800,7 +800,7 @@
                 "Wins": "5",
                 "Draws": "0",
                 "Losses": "1",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "15"
             },
             {
@@ -920,7 +920,7 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "6"
             },
             {
@@ -3111,6 +3111,16 @@
             },
             {
                 "Position": "5",
+                "Team": "San Lorenzo",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "16"
+            },
+            {
+                "Position": "6",
                 "Team": "Rosario",
                 "Played": "9",
                 "Wins": "3",
@@ -3118,16 +3128,6 @@
                 "Losses": "0",
                 "Goal Difference": "5",
                 "Points": "15"
-            },
-            {
-                "Position": "6",
-                "Team": "San Lorenzo",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "0",
-                "Points": "13"
             },
             {
                 "Position": "7",
@@ -3192,11 +3192,11 @@
             {
                 "Position": "13",
                 "Team": "Godoy Cruz",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "1",
                 "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-3",
+                "Losses": "4",
+                "Goal Difference": "-4",
                 "Points": "8"
             },
             {
