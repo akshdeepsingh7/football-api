@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 05:14 PM UTC (Saturday, 27 September 2025, 10:44 PM IST)
+**Last Updated:** Saturday, 27 September 2025, 05:37 PM UTC (Saturday, 27 September 2025, 11:07 PM IST)
 
 ### Premier League
 
@@ -100,7 +100,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 5 | 5 | 0 | 0 | 19 | 15 |
 | 2 | Borussia Dortmund | 5 | 4 | 1 | 0 | 8 | 13 |
 | 3 | RB Leipzig | 5 | 4 | 0 | 1 | 0 | 12 |
-| 4 | Eintracht Frankfurt | 5 | 3 | 0 | 2 | 6 | 9 |
+| 4 | Eintracht Frankfurt | 5 | 3 | 0 | 2 | 7 | 9 |
 | 5 | Bayer Leverkusen | 5 | 2 | 2 | 1 | 2 | 8 |
 | 6 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
 | 7 | St. Pauli | 5 | 2 | 1 | 2 | 0 | 7 |
@@ -114,7 +114,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
 | 16 | Augsburg | 5 | 1 | 0 | 4 | -4 | 3 |
 | 17 | Heidenheim | 5 | 1 | 0 | 4 | -6 | 3 |
-| 18 | Borussia Mönchengladbach | 5 | 0 | 2 | 3 | -9 | 2 |
+| 18 | Borussia Mönchengladbach | 5 | 0 | 2 | 3 | -10 | 2 |
 
 ### Serie A
 
@@ -301,14 +301,14 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Vitória S.C. | 6 | 2 | 2 | 2 | -2 | 8 |
 | 9 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
 | 10 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
-| 11 | Casa Pia | 7 | 2 | 1 | 4 | -5 | 7 |
-| 12 | Estoril | 6 | 1 | 2 | 3 | -2 | 5 |
-| 13 | Estrela Amadora | 7 | 0 | 5 | 2 | -3 | 5 |
+| 11 | Estrela Amadora | 7 | 1 | 4 | 2 | -1 | 7 |
+| 12 | Casa Pia | 7 | 2 | 1 | 4 | -5 | 7 |
+| 13 | Estoril | 6 | 1 | 2 | 3 | -2 | 5 |
 | 14 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
 | 15 | Nacional | 6 | 1 | 1 | 4 | -5 | 4 |
 | 16 | Rio Ave | 6 | 0 | 4 | 2 | -5 | 4 |
 | 17 | Alverca | 6 | 1 | 1 | 4 | -5 | 4 |
-| 18 | AVS | 7 | 0 | 2 | 5 | -10 | 2 |
+| 18 | AVS | 7 | 0 | 1 | 6 | -12 | 1 |
 
 ### EFL Championship
 
@@ -403,25 +403,25 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Boca Juniors | 9 | 3 | 5 | 1 | 6 | 14 |
 | 6 | Córdoba SdE | 10 | 3 | 5 | 2 | 3 | 14 |
 | 7 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
-| 8 | Belgrano | 9 | 3 | 3 | 3 | 2 | 12 |
-| 9 | Def y Justicia | 9 | 3 | 3 | 3 | 1 | 12 |
-| 10 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
-| 11 | Argentinos Juniors | 9 | 3 | 2 | 4 | 2 | 11 |
+| 8 | Argentinos Juniors | 10 | 3 | 3 | 4 | 2 | 12 |
+| 9 | Belgrano | 9 | 3 | 3 | 3 | 2 | 12 |
+| 10 | Def y Justicia | 9 | 3 | 3 | 3 | 1 | 12 |
+| 11 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
 | 12 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
 | 13 | Independiente Rivadavia | 9 | 2 | 3 | 4 | -2 | 9 |
 | 14 | Newell's Old Boys | 9 | 2 | 3 | 4 | -3 | 9 |
-| 15 | Aldosivi | 9 | 0 | 3 | 6 | -11 | 3 |
+| 15 | Aldosivi | 10 | 0 | 4 | 6 | -11 | 4 |
 | 1 | Riestra | 9 | 6 | 1 | 2 | 7 | 19 |
 | 2 | River Plate | 9 | 5 | 3 | 1 | 9 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
 | 4 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
-| 5 | San Lorenzo | 9 | 3 | 4 | 2 | 0 | 13 |
-| 6 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
-| 7 | Rosario | 8 | 2 | 6 | 0 | 2 | 12 |
+| 5 | Rosario | 9 | 3 | 6 | 0 | 3 | 15 |
+| 6 | San Lorenzo | 9 | 3 | 4 | 2 | 0 | 13 |
+| 7 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
 | 8 | Sarmiento | 8 | 3 | 3 | 2 | -1 | 12 |
 | 9 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
 | 10 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
-| 11 | GELP | 9 | 3 | 1 | 5 | -3 | 10 |
+| 11 | GELP | 10 | 3 | 1 | 6 | -4 | 10 |
 | 12 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
 | 13 | Godoy Cruz | 9 | 1 | 5 | 3 | -3 | 8 |
 | 14 | Talleres | 9 | 1 | 4 | 4 | -5 | 7 |
