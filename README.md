@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 01:21 PM UTC (Saturday, 27 September 2025, 06:51 PM IST)
+**Last Updated:** Saturday, 27 September 2025, 01:37 PM UTC (Saturday, 27 September 2025, 07:07 PM IST)
 
 ### Premier League
 
@@ -57,9 +57,9 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Fulham | 5 | 2 | 2 | 1 | 1 | 8 |
 | 9 | Manchester City | 5 | 2 | 1 | 2 | 4 | 7 |
 | 10 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
-| 11 | Brentford | 6 | 2 | 1 | 3 | -3 | 7 |
-| 12 | Manchester United | 6 | 2 | 1 | 3 | -3 | 7 |
-| 13 | Leeds United | 5 | 2 | 1 | 2 | -3 | 7 |
+| 11 | Brentford | 6 | 2 | 1 | 3 | -2 | 7 |
+| 12 | Leeds United | 5 | 2 | 1 | 2 | -3 | 7 |
+| 13 | Manchester United | 6 | 2 | 1 | 3 | -4 | 7 |
 | 14 | Newcastle United | 5 | 1 | 3 | 1 | 0 | 6 |
 | 15 | Brighton & Hove Albion | 5 | 1 | 2 | 2 | -2 | 5 |
 | 16 | Nottingham Forest | 5 | 1 | 2 | 2 | -4 | 5 |
@@ -98,23 +98,23 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 5 | 5 | 0 | 0 | 19 | 15 |
-| 2 | Borussia Dortmund | 4 | 3 | 1 | 0 | 6 | 10 |
-| 3 | RB Leipzig | 4 | 3 | 0 | 1 | -1 | 9 |
-| 4 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
-| 5 | St. Pauli | 4 | 2 | 1 | 1 | 1 | 7 |
+| 2 | Borussia Dortmund | 5 | 3 | 2 | 0 | 6 | 11 |
+| 3 | RB Leipzig | 5 | 3 | 1 | 1 | -1 | 10 |
+| 4 | St. Pauli | 5 | 2 | 2 | 1 | 1 | 8 |
+| 5 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
 | 6 | Eintracht Frankfurt | 4 | 2 | 0 | 2 | 2 | 6 |
-| 7 | SC Freiburg | 4 | 2 | 0 | 2 | 0 | 6 |
-| 8 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
-| 9 | Hoffenheim | 4 | 2 | 0 | 2 | -2 | 6 |
-| 10 | Union Berlin | 4 | 2 | 0 | 2 | -3 | 6 |
-| 11 | Bayer Leverkusen | 4 | 1 | 2 | 1 | 1 | 5 |
-| 12 | VfL Wolfsburg | 4 | 1 | 2 | 1 | 1 | 5 |
-| 13 | Mainz 05 | 4 | 1 | 1 | 2 | 1 | 4 |
-| 14 | Werder Bremen | 5 | 1 | 1 | 3 | -6 | 4 |
-| 15 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
-| 16 | Augsburg | 4 | 1 | 0 | 3 | -3 | 3 |
+| 7 | Bayer Leverkusen | 5 | 1 | 3 | 1 | 1 | 6 |
+| 8 | VfL Wolfsburg | 5 | 1 | 3 | 1 | 1 | 6 |
+| 9 | SC Freiburg | 4 | 2 | 0 | 2 | 0 | 6 |
+| 10 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
+| 11 | Hoffenheim | 4 | 2 | 0 | 2 | -2 | 6 |
+| 12 | Union Berlin | 4 | 2 | 0 | 2 | -3 | 6 |
+| 13 | Mainz 05 | 5 | 1 | 2 | 2 | 1 | 5 |
+| 14 | Augsburg | 5 | 1 | 1 | 3 | -3 | 4 |
+| 15 | Werder Bremen | 5 | 1 | 1 | 3 | -6 | 4 |
+| 16 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
 | 17 | Borussia Mönchengladbach | 4 | 0 | 2 | 2 | -5 | 2 |
-| 18 | Heidenheim | 4 | 0 | 0 | 4 | -7 | 0 |
+| 18 | Heidenheim | 5 | 0 | 1 | 4 | -7 | 1 |
 
 ### Serie A
 
@@ -122,11 +122,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Napoli | 4 | 4 | 0 | 0 | 6 | 12 |
 | 2 | Juventus | 4 | 3 | 1 | 0 | 4 | 10 |
-| 3 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
-| 4 | Roma | 4 | 3 | 0 | 1 | 2 | 9 |
-| 5 | Cremonese | 5 | 2 | 3 | 0 | 2 | 9 |
+| 3 | Como | 5 | 3 | 1 | 1 | 3 | 10 |
+| 4 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
+| 5 | Roma | 4 | 3 | 0 | 1 | 2 | 9 |
 | 6 | Atalanta | 4 | 2 | 2 | 0 | 6 | 8 |
-| 7 | Como | 5 | 2 | 2 | 1 | 2 | 8 |
+| 7 | Cremonese | 5 | 2 | 2 | 1 | 1 | 8 |
 | 8 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
 | 9 | Udinese | 4 | 2 | 1 | 1 | -1 | 7 |
 | 10 | Inter | 4 | 2 | 0 | 2 | 4 | 6 |
