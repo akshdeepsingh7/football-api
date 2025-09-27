@@ -41,27 +41,27 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 02:15 PM UTC (Saturday, 27 September 2025, 07:45 PM IST)
+**Last Updated:** Saturday, 27 September 2025, 02:37 PM UTC (Saturday, 27 September 2025, 08:07 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Liverpool FC | 6 | 5 | 0 | 1 | 5 | 15 |
-| 2 | Crystal Palace | 6 | 3 | 3 | 0 | 5 | 12 |
-| 3 | AFC Bournemouth | 6 | 3 | 2 | 1 | 1 | 11 |
-| 4 | Arsenal | 5 | 3 | 1 | 1 | 8 | 10 |
-| 5 | Tottenham Hotspur | 5 | 3 | 1 | 1 | 7 | 10 |
-| 6 | Manchester City | 6 | 3 | 1 | 2 | 5 | 10 |
-| 7 | Chelsea | 6 | 2 | 3 | 1 | 5 | 9 |
+| 2 | AFC Bournemouth | 6 | 4 | 1 | 1 | 2 | 13 |
+| 3 | Crystal Palace | 6 | 3 | 3 | 0 | 5 | 12 |
+| 4 | Chelsea | 6 | 3 | 2 | 1 | 6 | 11 |
+| 5 | Arsenal | 5 | 3 | 1 | 1 | 8 | 10 |
+| 6 | Tottenham Hotspur | 5 | 3 | 1 | 1 | 7 | 10 |
+| 7 | Manchester City | 6 | 3 | 1 | 2 | 5 | 10 |
 | 8 | Sunderland | 5 | 2 | 2 | 1 | 2 | 8 |
 | 9 | Fulham | 5 | 2 | 2 | 1 | 1 | 8 |
-| 10 | Leeds United | 6 | 2 | 2 | 2 | -3 | 8 |
-| 11 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
-| 12 | Brentford | 6 | 2 | 1 | 3 | -2 | 7 |
-| 13 | Manchester United | 6 | 2 | 1 | 3 | -4 | 7 |
+| 10 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
+| 11 | Brentford | 6 | 2 | 1 | 3 | -2 | 7 |
+| 12 | Manchester United | 6 | 2 | 1 | 3 | -4 | 7 |
+| 13 | Leeds United | 6 | 2 | 1 | 3 | -4 | 7 |
 | 14 | Newcastle United | 5 | 1 | 3 | 1 | 0 | 6 |
-| 15 | Brighton & Hove Albion | 6 | 1 | 3 | 2 | -2 | 6 |
+| 15 | Brighton & Hove Albion | 6 | 1 | 2 | 3 | -3 | 5 |
 | 16 | Nottingham Forest | 5 | 1 | 2 | 2 | -4 | 5 |
 | 17 | Burnley | 6 | 1 | 1 | 4 | -4 | 4 |
 | 18 | Aston Villa | 5 | 0 | 3 | 2 | -4 | 3 |
@@ -72,15 +72,15 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Real Madrid | 6 | 6 | 0 | 0 | 11 | 18 |
+| 1 | Real Madrid | 7 | 6 | 0 | 1 | 10 | 18 |
 | 2 | Barcelona | 6 | 5 | 1 | 0 | 15 | 16 |
 | 3 | Villarreal | 6 | 4 | 1 | 1 | 7 | 13 |
-| 4 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
-| 5 | Getafe | 7 | 3 | 2 | 2 | -1 | 11 |
-| 6 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
-| 7 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
-| 8 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
-| 9 | Atlético de Madrid | 6 | 2 | 3 | 1 | 2 | 9 |
+| 4 | Atlético de Madrid | 7 | 3 | 3 | 1 | 3 | 12 |
+| 5 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
+| 6 | Getafe | 7 | 3 | 2 | 2 | -1 | 11 |
+| 7 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
+| 8 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
+| 9 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
 | 10 | Alavés | 6 | 2 | 2 | 2 | 0 | 8 |
 | 11 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 12 | Sevilla | 6 | 2 | 1 | 3 | 0 | 7 |
@@ -110,11 +110,11 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Union Berlin | 4 | 2 | 0 | 2 | -3 | 6 |
 | 12 | VfL Wolfsburg | 5 | 1 | 2 | 2 | 0 | 5 |
 | 13 | Mainz 05 | 5 | 1 | 1 | 3 | -1 | 4 |
-| 14 | Augsburg | 5 | 1 | 1 | 3 | -3 | 4 |
-| 15 | Werder Bremen | 5 | 1 | 1 | 3 | -6 | 4 |
-| 16 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
-| 17 | Borussia Mönchengladbach | 4 | 0 | 2 | 2 | -5 | 2 |
-| 18 | Heidenheim | 5 | 0 | 1 | 4 | -7 | 1 |
+| 14 | Werder Bremen | 5 | 1 | 1 | 3 | -6 | 4 |
+| 15 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
+| 16 | Augsburg | 5 | 1 | 0 | 4 | -4 | 3 |
+| 17 | Heidenheim | 5 | 1 | 0 | 4 | -6 | 3 |
+| 18 | Borussia Mönchengladbach | 4 | 0 | 2 | 2 | -5 | 2 |
 
 ### Serie A
 
@@ -122,11 +122,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Napoli | 4 | 4 | 0 | 0 | 6 | 12 |
 | 2 | Juventus | 4 | 3 | 1 | 0 | 4 | 10 |
-| 3 | Como | 5 | 3 | 1 | 1 | 3 | 10 |
-| 4 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
-| 5 | Roma | 4 | 3 | 0 | 1 | 2 | 9 |
+| 3 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
+| 4 | Roma | 4 | 3 | 0 | 1 | 2 | 9 |
+| 5 | Cremonese | 5 | 2 | 3 | 0 | 2 | 9 |
 | 6 | Atalanta | 4 | 2 | 2 | 0 | 6 | 8 |
-| 7 | Cremonese | 5 | 2 | 2 | 1 | 1 | 8 |
+| 7 | Como | 5 | 2 | 2 | 1 | 2 | 8 |
 | 8 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
 | 9 | Udinese | 4 | 2 | 1 | 1 | -1 | 7 |
 | 10 | Inter | 4 | 2 | 0 | 2 | 4 | 6 |
@@ -295,13 +295,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Benfica | 7 | 5 | 2 | 0 | 9 | 17 |
 | 3 | Sporting CP | 6 | 5 | 0 | 1 | 14 | 15 |
 | 4 | Gil Vicente | 7 | 4 | 1 | 2 | 4 | 13 |
-| 5 | Moreirense | 6 | 4 | 0 | 2 | 1 | 12 |
+| 5 | Moreirense | 7 | 4 | 1 | 2 | 1 | 13 |
 | 6 | Famalicão | 6 | 3 | 2 | 1 | 4 | 11 |
 | 7 | Braga | 6 | 2 | 3 | 1 | 5 | 9 |
-| 8 | Vitória S.C. | 6 | 2 | 2 | 2 | -2 | 8 |
-| 9 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
-| 10 | Santa Clara | 6 | 2 | 2 | 2 | -2 | 8 |
-| 11 | Casa Pia | 6 | 2 | 1 | 3 | -4 | 7 |
+| 8 | Casa Pia | 7 | 2 | 2 | 3 | -4 | 8 |
+| 9 | Vitória S.C. | 6 | 2 | 2 | 2 | -2 | 8 |
+| 10 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
+| 11 | Santa Clara | 6 | 2 | 2 | 2 | -2 | 8 |
 | 12 | Estoril | 6 | 1 | 2 | 3 | -2 | 5 |
 | 13 | Estrela Amadora | 6 | 0 | 4 | 2 | -3 | 4 |
 | 14 | Alverca | 6 | 1 | 1 | 4 | -5 | 4 |
@@ -316,27 +316,27 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Middlesbrough | 7 | 5 | 2 | 0 | 7 | 17 |
 | 2 | Coventry City | 7 | 3 | 4 | 0 | 11 | 13 |
-| 3 | Stoke City | 7 | 4 | 1 | 2 | 5 | 13 |
-| 4 | Bristol City | 7 | 3 | 3 | 1 | 6 | 12 |
+| 3 | Bristol City | 7 | 3 | 3 | 1 | 6 | 12 |
+| 4 | Stoke City | 7 | 4 | 0 | 3 | 4 | 12 |
 | 5 | Leicester City | 7 | 3 | 3 | 1 | 3 | 12 |
 | 6 | Preston North End | 7 | 3 | 3 | 1 | 2 | 12 |
 | 7 | West Bromwich Albion | 7 | 3 | 2 | 2 | 1 | 11 |
-| 8 | Queens Park Rangers | 7 | 3 | 2 | 2 | -2 | 11 |
-| 9 | Millwall | 7 | 3 | 2 | 2 | -2 | 11 |
-| 10 | Birmingham City | 7 | 3 | 1 | 3 | -3 | 10 |
-| 11 | Ipswich Town | 6 | 2 | 3 | 1 | 5 | 9 |
-| 12 | Swansea City | 7 | 2 | 3 | 2 | 1 | 9 |
-| 13 | Charlton Athletic | 7 | 2 | 3 | 2 | -1 | 9 |
-| 14 | Hull City | 7 | 2 | 3 | 2 | -2 | 9 |
-| 15 | Norwich City | 7 | 2 | 2 | 3 | 0 | 8 |
+| 8 | Charlton Athletic | 7 | 3 | 2 | 2 | 0 | 11 |
+| 9 | Hull City | 7 | 3 | 2 | 2 | -1 | 11 |
+| 10 | Millwall | 7 | 3 | 2 | 2 | -2 | 11 |
+| 11 | Norwich City | 7 | 3 | 1 | 3 | 1 | 10 |
+| 12 | Queens Park Rangers | 7 | 3 | 1 | 3 | -3 | 10 |
+| 13 | Birmingham City | 7 | 3 | 1 | 3 | -3 | 10 |
+| 14 | Ipswich Town | 6 | 2 | 3 | 1 | 5 | 9 |
+| 15 | Swansea City | 7 | 2 | 3 | 2 | 1 | 9 |
 | 16 | Wrexham | 7 | 2 | 2 | 3 | -1 | 8 |
 | 17 | Portsmouth | 7 | 2 | 2 | 3 | -2 | 8 |
-| 18 | Blackburn Rovers | 6 | 2 | 1 | 3 | 0 | 7 |
-| 19 | Southampton | 7 | 1 | 4 | 2 | -2 | 7 |
+| 18 | Southampton | 7 | 1 | 4 | 2 | -2 | 7 |
+| 19 | Sheffield Wednesday | 7 | 2 | 1 | 4 | -6 | 7 |
 | 20 | Oxford United | 7 | 1 | 3 | 3 | -1 | 6 |
-| 21 | Watford | 7 | 1 | 3 | 3 | -2 | 6 |
+| 21 | Blackburn Rovers | 6 | 2 | 0 | 4 | -1 | 6 |
 | 22 | Derby County | 7 | 1 | 3 | 3 | -4 | 6 |
-| 23 | Sheffield Wednesday | 7 | 1 | 2 | 4 | -7 | 5 |
+| 23 | Watford | 7 | 1 | 2 | 4 | -3 | 5 |
 | 24 | Sheffield United | 7 | 0 | 1 | 6 | -12 | 1 |
 
 ### Major League Soccer (MLS)
