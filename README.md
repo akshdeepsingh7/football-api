@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 11:37 AM UTC (Saturday, 27 September 2025, 05:07 PM IST)
+**Last Updated:** Saturday, 27 September 2025, 12:35 PM UTC (Saturday, 27 September 2025, 06:05 PM IST)
 
 ### Premier League
 
@@ -55,13 +55,13 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Chelsea | 5 | 2 | 2 | 1 | 5 | 8 |
 | 7 | Sunderland | 5 | 2 | 2 | 1 | 2 | 8 |
 | 8 | Fulham | 5 | 2 | 2 | 1 | 1 | 8 |
-| 9 | Manchester United | 6 | 2 | 2 | 2 | -2 | 8 |
-| 10 | Manchester City | 5 | 2 | 1 | 2 | 4 | 7 |
-| 11 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
-| 12 | Leeds United | 5 | 2 | 1 | 2 | -3 | 7 |
-| 13 | Newcastle United | 5 | 1 | 3 | 1 | 0 | 6 |
-| 14 | Brighton & Hove Albion | 5 | 1 | 2 | 2 | -2 | 5 |
-| 15 | Brentford | 6 | 1 | 2 | 3 | -4 | 5 |
+| 9 | Manchester City | 5 | 2 | 1 | 2 | 4 | 7 |
+| 10 | Everton | 5 | 2 | 1 | 2 | 1 | 7 |
+| 11 | Brentford | 6 | 2 | 1 | 3 | -3 | 7 |
+| 12 | Manchester United | 6 | 2 | 1 | 3 | -3 | 7 |
+| 13 | Leeds United | 5 | 2 | 1 | 2 | -3 | 7 |
+| 14 | Newcastle United | 5 | 1 | 3 | 1 | 0 | 6 |
+| 15 | Brighton & Hove Albion | 5 | 1 | 2 | 2 | -2 | 5 |
 | 16 | Nottingham Forest | 5 | 1 | 2 | 2 | -4 | 5 |
 | 17 | Burnley | 5 | 1 | 1 | 3 | -3 | 4 |
 | 18 | Aston Villa | 5 | 0 | 3 | 2 | -4 | 3 |
@@ -78,17 +78,17 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
 | 5 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
 | 6 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
-| 7 | Getafe | 6 | 3 | 1 | 2 | -1 | 10 |
+| 7 | Getafe | 7 | 3 | 1 | 3 | -2 | 10 |
 | 8 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
 | 9 | Atlético de Madrid | 6 | 2 | 3 | 1 | 2 | 9 |
 | 10 | Alavés | 6 | 2 | 2 | 2 | 0 | 8 |
 | 11 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 12 | Sevilla | 6 | 2 | 1 | 3 | 0 | 7 |
 | 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
-| 14 | Rayo Vallecano | 6 | 1 | 2 | 3 | -2 | 5 |
-| 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
-| 16 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
-| 17 | Levante | 6 | 1 | 1 | 4 | -3 | 4 |
+| 14 | Levante | 7 | 2 | 1 | 4 | -2 | 7 |
+| 15 | Rayo Vallecano | 6 | 1 | 2 | 3 | -2 | 5 |
+| 16 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
+| 17 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
 | 18 | Real Oviedo | 6 | 1 | 0 | 5 | -9 | 3 |
 | 19 | Girona | 7 | 0 | 3 | 4 | -13 | 3 |
 | 20 | Mallorca | 6 | 0 | 2 | 4 | -6 | 2 |
@@ -315,14 +315,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Middlesbrough | 6 | 5 | 1 | 0 | 7 | 16 |
-| 2 | Stoke City | 6 | 4 | 0 | 2 | 5 | 12 |
-| 3 | Leicester City | 7 | 3 | 3 | 1 | 3 | 12 |
-| 4 | Coventry City | 7 | 2 | 5 | 0 | 8 | 11 |
+| 2 | Coventry City | 7 | 3 | 4 | 0 | 9 | 13 |
+| 3 | Stoke City | 6 | 4 | 0 | 2 | 5 | 12 |
+| 4 | Leicester City | 7 | 3 | 3 | 1 | 3 | 12 |
 | 5 | Bristol City | 6 | 3 | 2 | 1 | 6 | 11 |
 | 6 | Preston North End | 6 | 3 | 2 | 1 | 2 | 11 |
 | 7 | West Bromwich Albion | 7 | 3 | 2 | 2 | 1 | 11 |
-| 8 | Birmingham City | 7 | 3 | 2 | 2 | 0 | 11 |
-| 9 | Millwall | 7 | 3 | 2 | 2 | -2 | 11 |
+| 8 | Millwall | 7 | 3 | 2 | 2 | -2 | 11 |
+| 9 | Birmingham City | 7 | 3 | 1 | 3 | -1 | 10 |
 | 10 | Queens Park Rangers | 6 | 3 | 1 | 2 | -2 | 10 |
 | 11 | Swansea City | 7 | 2 | 3 | 2 | 1 | 9 |
 | 12 | Wrexham | 7 | 2 | 2 | 3 | -1 | 8 |
