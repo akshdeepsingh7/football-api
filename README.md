@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 06:24 PM UTC (Saturday, 27 September 2025, 11:54 PM IST)
+**Last Updated:** Saturday, 27 September 2025, 06:44 PM UTC (Sunday, 28 September 2025, 12:14 AM IST)
 
 ### Premier League
 
@@ -100,7 +100,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 5 | 5 | 0 | 0 | 19 | 15 |
 | 2 | Borussia Dortmund | 5 | 4 | 1 | 0 | 8 | 13 |
 | 3 | RB Leipzig | 5 | 4 | 0 | 1 | 0 | 12 |
-| 4 | Eintracht Frankfurt | 5 | 3 | 0 | 2 | 5 | 9 |
+| 4 | Eintracht Frankfurt | 5 | 3 | 0 | 2 | 4 | 9 |
 | 5 | Bayer Leverkusen | 5 | 2 | 2 | 1 | 2 | 8 |
 | 6 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
 | 7 | St. Pauli | 5 | 2 | 1 | 2 | 0 | 7 |
@@ -114,7 +114,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
 | 16 | Augsburg | 5 | 1 | 0 | 4 | -4 | 3 |
 | 17 | Heidenheim | 5 | 1 | 0 | 4 | -6 | 3 |
-| 18 | Borussia Mönchengladbach | 5 | 0 | 2 | 3 | -8 | 2 |
+| 18 | Borussia Mönchengladbach | 5 | 0 | 2 | 3 | -7 | 2 |
 
 ### Serie A
 
@@ -153,13 +153,13 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
 | 7 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
 | 8 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
-| 9 | Nantes | 6 | 2 | 1 | 3 | -1 | 7 |
+| 9 | Toulouse | 6 | 2 | 1 | 3 | -2 | 7 |
 | 10 | Lorient | 6 | 2 | 1 | 3 | -5 | 7 |
 | 11 | Auxerre | 5 | 2 | 0 | 3 | -2 | 6 |
 | 12 | Paris | 5 | 2 | 0 | 3 | -3 | 6 |
-| 13 | Toulouse | 6 | 2 | 0 | 4 | -3 | 6 |
-| 14 | Nice | 5 | 2 | 0 | 3 | -3 | 6 |
-| 15 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
+| 13 | Nice | 5 | 2 | 0 | 3 | -3 | 6 |
+| 14 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
+| 15 | Nantes | 6 | 1 | 2 | 3 | -2 | 5 |
 | 16 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
 | 17 | Le Havre | 5 | 1 | 1 | 3 | -2 | 4 |
 | 18 | Metz | 5 | 0 | 1 | 4 | -8 | 1 |
