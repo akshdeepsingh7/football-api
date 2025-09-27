@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 10:38 PM UTC (Sunday, 28 September 2025, 04:08 AM IST)
+**Last Updated:** Saturday, 27 September 2025, 11:16 PM UTC (Sunday, 28 September 2025, 04:46 AM IST)
 
 ### Premier League
 
@@ -397,15 +397,15 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
-| 2 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
-| 3 | Tigre | 10 | 4 | 3 | 3 | 2 | 15 |
-| 4 | Estudiantes | 9 | 5 | 0 | 4 | 0 | 15 |
-| 5 | Boca Juniors | 9 | 3 | 5 | 1 | 6 | 14 |
+| 2 | Boca Juniors | 10 | 3 | 6 | 1 | 6 | 15 |
+| 3 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
+| 4 | Tigre | 10 | 4 | 3 | 3 | 2 | 15 |
+| 5 | Estudiantes | 9 | 5 | 0 | 4 | 0 | 15 |
 | 6 | Argentinos Juniors | 10 | 4 | 2 | 4 | 4 | 14 |
 | 7 | Córdoba SdE | 10 | 3 | 5 | 2 | 3 | 14 |
 | 8 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
-| 9 | Belgrano | 9 | 3 | 3 | 3 | 2 | 12 |
-| 10 | Def y Justicia | 9 | 3 | 3 | 3 | 1 | 12 |
+| 9 | Def y Justicia | 10 | 3 | 4 | 3 | 1 | 13 |
+| 10 | Belgrano | 9 | 3 | 3 | 3 | 2 | 12 |
 | 11 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
 | 12 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
 | 13 | Independiente Rivadavia | 9 | 2 | 3 | 4 | -2 | 9 |
@@ -432,7 +432,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 23 | 15 | 6 | 2 | 37 | 51 |
-| 2 | Cruzeiro | 25 | 15 | 5 | 5 | 21 | 50 |
+| 2 | Cruzeiro | 25 | 15 | 5 | 5 | 20 | 50 |
 | 3 | Palmeiras | 22 | 15 | 4 | 3 | 18 | 49 |
 | 4 | Mirassol | 23 | 11 | 9 | 3 | 18 | 42 |
 | 5 | Botafogo | 24 | 11 | 7 | 6 | 17 | 40 |
@@ -440,15 +440,15 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | São Paulo | 24 | 9 | 8 | 7 | 3 | 35 |
 | 8 | Fluminense | 22 | 9 | 4 | 9 | -3 | 31 |
 | 9 | RB Bragantino | 24 | 9 | 4 | 11 | -6 | 31 |
-| 10 | Vasco da Gama | 25 | 8 | 6 | 11 | 2 | 30 |
-| 11 | Internacional | 24 | 8 | 6 | 10 | -7 | 30 |
-| 12 | Corinthians | 24 | 7 | 8 | 9 | -5 | 29 |
-| 13 | Grêmio | 24 | 7 | 8 | 9 | -6 | 29 |
-| 14 | Ceará | 23 | 7 | 7 | 9 | -1 | 28 |
+| 10 | Vasco da Gama | 25 | 8 | 6 | 11 | 3 | 30 |
+| 11 | Corinthians | 24 | 7 | 8 | 9 | -5 | 29 |
+| 12 | Grêmio | 24 | 7 | 8 | 9 | -6 | 29 |
+| 13 | Ceará | 23 | 7 | 7 | 9 | -1 | 28 |
+| 14 | Internacional | 24 | 7 | 7 | 10 | -8 | 28 |
 | 15 | Santos | 23 | 7 | 5 | 11 | -10 | 26 |
 | 16 | Atlético Mineiro | 22 | 6 | 7 | 9 | -5 | 25 |
-| 17 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
-| 18 | Juventude | 24 | 6 | 3 | 15 | -27 | 21 |
+| 17 | Juventude | 24 | 6 | 4 | 14 | -26 | 22 |
+| 18 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
 | 19 | Fortaleza | 24 | 5 | 6 | 13 | -14 | 21 |
 | 20 | Sport | 23 | 2 | 8 | 13 | -19 | 14 |
 
