@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 08:38 PM UTC (Sunday, 28 September 2025, 02:08 AM IST)
+**Last Updated:** Saturday, 27 September 2025, 09:15 PM UTC (Sunday, 28 September 2025, 02:45 AM IST)
 
 ### Premier League
 
@@ -49,11 +49,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Liverpool FC | 6 | 5 | 0 | 1 | 5 | 15 |
 | 2 | Crystal Palace | 6 | 3 | 3 | 0 | 5 | 12 |
-| 3 | Sunderland | 6 | 3 | 2 | 1 | 3 | 11 |
-| 4 | AFC Bournemouth | 6 | 3 | 2 | 1 | 1 | 11 |
-| 5 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
-| 6 | Arsenal | 5 | 3 | 1 | 1 | 8 | 10 |
-| 7 | Tottenham Hotspur | 6 | 3 | 1 | 2 | 6 | 10 |
+| 3 | Tottenham Hotspur | 6 | 3 | 2 | 1 | 7 | 11 |
+| 4 | Sunderland | 6 | 3 | 2 | 1 | 3 | 11 |
+| 5 | AFC Bournemouth | 6 | 3 | 2 | 1 | 1 | 11 |
+| 6 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
+| 7 | Arsenal | 5 | 3 | 1 | 1 | 8 | 10 |
 | 8 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
 | 9 | Fulham | 5 | 2 | 2 | 1 | 1 | 8 |
 | 10 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Burnley | 6 | 1 | 1 | 4 | -7 | 4 |
 | 18 | Aston Villa | 5 | 0 | 3 | 2 | -4 | 3 |
 | 19 | West Ham United | 5 | 1 | 0 | 4 | -8 | 3 |
-| 20 | Wolverhampton Wanderers | 6 | 1 | 0 | 5 | -8 | 3 |
+| 20 | Wolverhampton Wanderers | 6 | 0 | 1 | 5 | -9 | 1 |
 
 ### La Liga
 
@@ -345,7 +345,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Philadelphia Union | 31 | 18 | 6 | 7 | 17 | 60 |
 | 2 | Cincinnati | 31 | 18 | 4 | 9 | 8 | 58 |
-| 3 | Inter Miami | 29 | 16 | 7 | 6 | 18 | 55 |
+| 3 | Inter Miami | 30 | 16 | 8 | 6 | 18 | 56 |
 | 4 | Charlotte | 31 | 17 | 2 | 12 | 9 | 53 |
 | 5 | NYCFC | 31 | 16 | 5 | 10 | 7 | 53 |
 | 6 | Orlando City | 30 | 14 | 9 | 7 | 15 | 51 |
@@ -354,7 +354,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Chicago Fire | 30 | 13 | 6 | 11 | 4 | 45 |
 | 10 | New York RB | 31 | 12 | 7 | 12 | 5 | 43 |
 | 11 | New England Revolution | 31 | 8 | 8 | 15 | -6 | 32 |
-| 12 | Toronto | 30 | 5 | 12 | 13 | -7 | 27 |
+| 12 | Toronto | 31 | 5 | 13 | 13 | -7 | 28 |
 | 13 | Atlanta United | 30 | 5 | 12 | 13 | -18 | 27 |
 | 14 | DC United | 31 | 5 | 10 | 16 | -29 | 25 |
 | 15 | CF Montréal | 31 | 5 | 9 | 17 | -26 | 24 |
@@ -414,8 +414,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Riestra | 9 | 6 | 1 | 2 | 7 | 19 |
 | 2 | River Plate | 9 | 5 | 3 | 1 | 9 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
-| 4 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
-| 5 | San Lorenzo | 10 | 4 | 4 | 2 | 1 | 16 |
+| 4 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
+| 5 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
 | 6 | Rosario | 9 | 3 | 6 | 0 | 5 | 15 |
 | 7 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
 | 8 | Sarmiento | 8 | 3 | 3 | 2 | -1 | 12 |
@@ -423,7 +423,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
 | 11 | GELP | 10 | 3 | 1 | 6 | -6 | 10 |
 | 12 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
-| 13 | Godoy Cruz | 10 | 1 | 5 | 4 | -4 | 8 |
+| 13 | Godoy Cruz | 10 | 1 | 5 | 4 | -5 | 8 |
 | 14 | Talleres | 9 | 1 | 4 | 4 | -5 | 7 |
 | 15 | Independiente | 8 | 0 | 4 | 4 | -4 | 4 |
 
