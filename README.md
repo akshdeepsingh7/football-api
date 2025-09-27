@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 04:41 PM UTC (Saturday, 27 September 2025, 10:11 PM IST)
+**Last Updated:** Saturday, 27 September 2025, 05:14 PM UTC (Saturday, 27 September 2025, 10:44 PM IST)
 
 ### Premier League
 
@@ -49,11 +49,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Liverpool FC | 6 | 5 | 0 | 1 | 5 | 15 |
 | 2 | Crystal Palace | 6 | 3 | 3 | 0 | 5 | 12 |
-| 3 | AFC Bournemouth | 6 | 3 | 2 | 1 | 1 | 11 |
-| 4 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
-| 5 | Arsenal | 5 | 3 | 1 | 1 | 8 | 10 |
-| 6 | Tottenham Hotspur | 5 | 3 | 1 | 1 | 7 | 10 |
-| 7 | Sunderland | 6 | 2 | 3 | 1 | 2 | 9 |
+| 3 | Sunderland | 6 | 3 | 2 | 1 | 3 | 11 |
+| 4 | AFC Bournemouth | 6 | 3 | 2 | 1 | 1 | 11 |
+| 5 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
+| 6 | Arsenal | 5 | 3 | 1 | 1 | 8 | 10 |
+| 7 | Tottenham Hotspur | 5 | 3 | 1 | 1 | 7 | 10 |
 | 8 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
 | 9 | Fulham | 5 | 2 | 2 | 1 | 1 | 8 |
 | 10 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |
@@ -62,7 +62,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Brentford | 6 | 2 | 1 | 3 | -2 | 7 |
 | 14 | Manchester United | 6 | 2 | 1 | 3 | -4 | 7 |
 | 15 | Newcastle United | 5 | 1 | 3 | 1 | 0 | 6 |
-| 16 | Nottingham Forest | 6 | 1 | 3 | 2 | -4 | 6 |
+| 16 | Nottingham Forest | 6 | 1 | 2 | 3 | -5 | 5 |
 | 17 | Burnley | 6 | 1 | 1 | 4 | -7 | 4 |
 | 18 | Aston Villa | 5 | 0 | 3 | 2 | -4 | 3 |
 | 19 | West Ham United | 5 | 1 | 0 | 4 | -8 | 3 |
@@ -81,7 +81,7 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Elche | 6 | 2 | 4 | 0 | 3 | 10 |
 | 8 | Athletic Bilbao | 6 | 3 | 1 | 2 | 0 | 10 |
 | 9 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
-| 10 | Alavés | 7 | 2 | 3 | 2 | 0 | 9 |
+| 10 | Alavés | 7 | 2 | 2 | 3 | -1 | 8 |
 | 11 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 12 | Sevilla | 6 | 2 | 1 | 3 | 0 | 7 |
 | 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Celta de Vigo | 6 | 0 | 5 | 1 | -2 | 5 |
 | 16 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
 | 17 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
-| 18 | Mallorca | 7 | 0 | 3 | 4 | -6 | 3 |
+| 18 | Mallorca | 7 | 1 | 2 | 4 | -5 | 5 |
 | 19 | Real Oviedo | 6 | 1 | 0 | 5 | -9 | 3 |
 | 20 | Girona | 7 | 0 | 3 | 4 | -13 | 3 |
 
@@ -100,8 +100,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 5 | 5 | 0 | 0 | 19 | 15 |
 | 2 | Borussia Dortmund | 5 | 4 | 1 | 0 | 8 | 13 |
 | 3 | RB Leipzig | 5 | 4 | 0 | 1 | 0 | 12 |
-| 4 | Bayer Leverkusen | 5 | 2 | 2 | 1 | 2 | 8 |
-| 5 | Eintracht Frankfurt | 5 | 2 | 1 | 2 | 2 | 7 |
+| 4 | Eintracht Frankfurt | 5 | 3 | 0 | 2 | 6 | 9 |
+| 5 | Bayer Leverkusen | 5 | 2 | 2 | 1 | 2 | 8 |
 | 6 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
 | 7 | St. Pauli | 5 | 2 | 1 | 2 | 0 | 7 |
 | 8 | SC Freiburg | 4 | 2 | 0 | 2 | 0 | 6 |
@@ -113,18 +113,18 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Werder Bremen | 5 | 1 | 1 | 3 | -6 | 4 |
 | 15 | Hamburg | 4 | 1 | 1 | 2 | -6 | 4 |
 | 16 | Augsburg | 5 | 1 | 0 | 4 | -4 | 3 |
-| 17 | Borussia Mönchengladbach | 5 | 0 | 3 | 2 | -5 | 3 |
-| 18 | Heidenheim | 5 | 1 | 0 | 4 | -6 | 3 |
+| 17 | Heidenheim | 5 | 1 | 0 | 4 | -6 | 3 |
+| 18 | Borussia Mönchengladbach | 5 | 0 | 2 | 3 | -9 | 2 |
 
 ### Serie A
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Napoli | 4 | 4 | 0 | 0 | 6 | 12 |
-| 2 | Juventus | 5 | 3 | 2 | 0 | 4 | 11 |
-| 3 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
-| 4 | Roma | 4 | 3 | 0 | 1 | 2 | 9 |
-| 5 | Atalanta | 5 | 2 | 3 | 0 | 6 | 9 |
+| 2 | Atalanta | 5 | 3 | 2 | 0 | 7 | 11 |
+| 3 | Juventus | 5 | 3 | 1 | 1 | 3 | 10 |
+| 4 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
+| 5 | Roma | 4 | 3 | 0 | 1 | 2 | 9 |
 | 6 | Cremonese | 5 | 2 | 3 | 0 | 2 | 9 |
 | 7 | Como | 5 | 2 | 2 | 1 | 2 | 8 |
 | 8 | Cagliari | 4 | 2 | 1 | 1 | 2 | 7 |
@@ -153,15 +153,15 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
 | 7 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
 | 8 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
-| 9 | Lorient | 6 | 2 | 1 | 3 | -5 | 7 |
-| 10 | Toulouse | 5 | 2 | 0 | 3 | -2 | 6 |
+| 9 | Toulouse | 6 | 2 | 1 | 3 | -2 | 7 |
+| 10 | Lorient | 6 | 2 | 1 | 3 | -5 | 7 |
 | 11 | Auxerre | 5 | 2 | 0 | 3 | -2 | 6 |
 | 12 | Paris | 5 | 2 | 0 | 3 | -3 | 6 |
 | 13 | Nice | 5 | 2 | 0 | 3 | -3 | 6 |
 | 14 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
-| 15 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
-| 16 | Le Havre | 5 | 1 | 1 | 3 | -2 | 4 |
-| 17 | Nantes | 5 | 1 | 1 | 3 | -2 | 4 |
+| 15 | Nantes | 6 | 1 | 2 | 3 | -2 | 5 |
+| 16 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
+| 17 | Le Havre | 5 | 1 | 1 | 3 | -2 | 4 |
 | 18 | Metz | 5 | 0 | 1 | 4 | -8 | 1 |
 
 ### Champions League
@@ -298,17 +298,17 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Gil Vicente | 7 | 4 | 1 | 2 | 4 | 13 |
 | 6 | Famalicão | 6 | 3 | 2 | 1 | 4 | 11 |
 | 7 | Braga | 6 | 2 | 3 | 1 | 5 | 9 |
-| 8 | Santa Clara | 7 | 2 | 3 | 2 | -2 | 9 |
-| 9 | Vitória S.C. | 6 | 2 | 2 | 2 | -2 | 8 |
-| 10 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
+| 8 | Vitória S.C. | 6 | 2 | 2 | 2 | -2 | 8 |
+| 9 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
+| 10 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
 | 11 | Casa Pia | 7 | 2 | 1 | 4 | -5 | 7 |
 | 12 | Estoril | 6 | 1 | 2 | 3 | -2 | 5 |
-| 13 | Estrela Amadora | 6 | 0 | 4 | 2 | -3 | 4 |
-| 14 | Alverca | 6 | 1 | 1 | 4 | -5 | 4 |
+| 13 | Estrela Amadora | 7 | 0 | 5 | 2 | -3 | 5 |
+| 14 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
 | 15 | Nacional | 6 | 1 | 1 | 4 | -5 | 4 |
 | 16 | Rio Ave | 6 | 0 | 4 | 2 | -5 | 4 |
-| 17 | Tondela | 7 | 0 | 3 | 4 | -8 | 3 |
-| 18 | AVS | 6 | 0 | 1 | 5 | -10 | 1 |
+| 17 | Alverca | 6 | 1 | 1 | 4 | -5 | 4 |
+| 18 | AVS | 7 | 0 | 2 | 5 | -10 | 2 |
 
 ### EFL Championship
 

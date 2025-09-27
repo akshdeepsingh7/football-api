@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 04:41 PM UTC",
-        "IST": "Saturday, 27 September 2025, 10:11 PM IST"
+        "UTC": "Saturday, 27 September 2025, 05:14 PM UTC",
+        "IST": "Saturday, 27 September 2025, 10:44 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -27,6 +27,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Sunderland",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "11"
+            },
+            {
+                "Position": "4",
                 "Team": "AFC Bournemouth",
                 "Played": "6",
                 "Wins": "3",
@@ -36,7 +46,7 @@
                 "Points": "11"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Manchester City",
                 "Played": "6",
                 "Wins": "3",
@@ -46,7 +56,7 @@
                 "Points": "10"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Arsenal",
                 "Played": "5",
                 "Wins": "3",
@@ -56,7 +66,7 @@
                 "Points": "10"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Tottenham Hotspur",
                 "Played": "5",
                 "Wins": "3",
@@ -64,16 +74,6 @@
                 "Losses": "1",
                 "Goal Difference": "7",
                 "Points": "10"
-            },
-            {
-                "Position": "7",
-                "Team": "Sunderland",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "9"
             },
             {
                 "Position": "8",
@@ -160,10 +160,10 @@
                 "Team": "Nottingham Forest",
                 "Played": "6",
                 "Wins": "1",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-4",
-                "Points": "6"
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-5",
+                "Points": "5"
             },
             {
                 "Position": "17",
@@ -302,10 +302,10 @@
                 "Team": "Alav\u00e9s",
                 "Played": "7",
                 "Wins": "2",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "0",
-                "Points": "9"
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "8"
             },
             {
                 "Position": "11",
@@ -381,11 +381,11 @@
                 "Position": "18",
                 "Team": "Mallorca",
                 "Played": "7",
-                "Wins": "0",
-                "Draws": "3",
+                "Wins": "1",
+                "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "-6",
-                "Points": "3"
+                "Goal Difference": "-5",
+                "Points": "5"
             },
             {
                 "Position": "19",
@@ -441,6 +441,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Eintracht Frankfurt",
+                "Played": "5",
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "9"
+            },
+            {
+                "Position": "5",
                 "Team": "Bayer Leverkusen",
                 "Played": "5",
                 "Wins": "2",
@@ -448,16 +458,6 @@
                 "Losses": "1",
                 "Goal Difference": "2",
                 "Points": "8"
-            },
-            {
-                "Position": "5",
-                "Team": "Eintracht Frankfurt",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "7"
             },
             {
                 "Position": "6",
@@ -571,16 +571,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "5",
-                "Wins": "0",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-5",
-                "Points": "3"
-            },
-            {
-                "Position": "18",
                 "Team": "Heidenheim",
                 "Played": "5",
                 "Wins": "1",
@@ -588,6 +578,16 @@
                 "Losses": "4",
                 "Goal Difference": "-6",
                 "Points": "3"
+            },
+            {
+                "Position": "18",
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Played": "5",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-9",
+                "Points": "2"
             }
         ],
         "Serie A": [
@@ -603,16 +603,26 @@
             },
             {
                 "Position": "2",
-                "Team": "Juventus",
+                "Team": "Atalanta",
                 "Played": "5",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "0",
-                "Goal Difference": "4",
+                "Goal Difference": "7",
                 "Points": "11"
             },
             {
                 "Position": "3",
+                "Team": "Juventus",
+                "Played": "5",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "10"
+            },
+            {
+                "Position": "4",
                 "Team": "Milan",
                 "Played": "4",
                 "Wins": "3",
@@ -622,23 +632,13 @@
                 "Points": "9"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Roma",
                 "Played": "4",
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "2",
-                "Points": "9"
-            },
-            {
-                "Position": "5",
-                "Team": "Atalanta",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "0",
-                "Goal Difference": "6",
                 "Points": "9"
             },
             {
@@ -875,6 +875,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Toulouse",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "7"
+            },
+            {
+                "Position": "10",
                 "Team": "Lorient",
                 "Played": "6",
                 "Wins": "2",
@@ -882,16 +892,6 @@
                 "Losses": "3",
                 "Goal Difference": "-5",
                 "Points": "7"
-            },
-            {
-                "Position": "10",
-                "Team": "Toulouse",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "6"
             },
             {
                 "Position": "11",
@@ -935,6 +935,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Nantes",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "5"
+            },
+            {
+                "Position": "16",
                 "Team": "Brest",
                 "Played": "5",
                 "Wins": "1",
@@ -944,18 +954,8 @@
                 "Points": "4"
             },
             {
-                "Position": "16",
-                "Team": "Le Havre",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "4"
-            },
-            {
                 "Position": "17",
-                "Team": "Nantes",
+                "Team": "Le Havre",
                 "Played": "5",
                 "Wins": "1",
                 "Draws": "1",
@@ -2133,16 +2133,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Santa Clara",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "9"
-            },
-            {
-                "Position": "9",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "6",
                 "Wins": "2",
@@ -2152,13 +2142,23 @@
                 "Points": "8"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Arouca",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "-5",
+                "Points": "8"
+            },
+            {
+                "Position": "10",
+                "Team": "Santa Clara",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-3",
                 "Points": "8"
             },
             {
@@ -2184,22 +2184,22 @@
             {
                 "Position": "13",
                 "Team": "Estrela Amadora",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "0",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "-3",
-                "Points": "4"
+                "Points": "5"
             },
             {
                 "Position": "14",
-                "Team": "Alverca",
-                "Played": "6",
+                "Team": "Tondela",
+                "Played": "7",
                 "Wins": "1",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "4"
+                "Goal Difference": "-7",
+                "Points": "5"
             },
             {
                 "Position": "15",
@@ -2223,23 +2223,23 @@
             },
             {
                 "Position": "17",
-                "Team": "Tondela",
-                "Played": "7",
-                "Wins": "0",
-                "Draws": "3",
+                "Team": "Alverca",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "-8",
-                "Points": "3"
+                "Goal Difference": "-5",
+                "Points": "4"
             },
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "0",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "5",
                 "Goal Difference": "-10",
-                "Points": "1"
+                "Points": "2"
             }
         ],
         "EFL Championship": [
