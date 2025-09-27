@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 09:15 PM UTC (Sunday, 28 September 2025, 02:45 AM IST)
+**Last Updated:** Saturday, 27 September 2025, 09:37 PM UTC (Sunday, 28 September 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -345,7 +345,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Philadelphia Union | 31 | 18 | 6 | 7 | 17 | 60 |
 | 2 | Cincinnati | 31 | 18 | 4 | 9 | 8 | 58 |
-| 3 | Inter Miami | 30 | 16 | 8 | 6 | 18 | 56 |
+| 3 | Inter Miami | 30 | 17 | 7 | 6 | 19 | 58 |
 | 4 | Charlotte | 31 | 17 | 2 | 12 | 9 | 53 |
 | 5 | NYCFC | 31 | 16 | 5 | 10 | 7 | 53 |
 | 6 | Orlando City | 30 | 14 | 9 | 7 | 15 | 51 |
@@ -354,7 +354,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Chicago Fire | 30 | 13 | 6 | 11 | 4 | 45 |
 | 10 | New York RB | 31 | 12 | 7 | 12 | 5 | 43 |
 | 11 | New England Revolution | 31 | 8 | 8 | 15 | -6 | 32 |
-| 12 | Toronto | 31 | 5 | 13 | 13 | -7 | 28 |
+| 12 | Toronto | 31 | 5 | 12 | 14 | -8 | 27 |
 | 13 | Atlanta United | 30 | 5 | 12 | 13 | -18 | 27 |
 | 14 | DC United | 31 | 5 | 10 | 16 | -29 | 25 |
 | 15 | CF Montréal | 31 | 5 | 9 | 17 | -26 | 24 |
@@ -432,7 +432,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 23 | 15 | 6 | 2 | 37 | 51 |
-| 2 | Cruzeiro | 24 | 15 | 5 | 4 | 22 | 50 |
+| 2 | Cruzeiro | 25 | 15 | 6 | 4 | 22 | 51 |
 | 3 | Palmeiras | 22 | 15 | 4 | 3 | 18 | 49 |
 | 4 | Mirassol | 23 | 11 | 9 | 3 | 18 | 42 |
 | 5 | Botafogo | 24 | 11 | 7 | 6 | 17 | 40 |
@@ -442,13 +442,13 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | RB Bragantino | 24 | 9 | 4 | 11 | -6 | 31 |
 | 10 | Corinthians | 24 | 7 | 8 | 9 | -5 | 29 |
 | 11 | Grêmio | 24 | 7 | 8 | 9 | -6 | 29 |
-| 12 | Ceará | 23 | 7 | 7 | 9 | -1 | 28 |
-| 13 | Vasco da Gama | 24 | 7 | 6 | 11 | 1 | 27 |
-| 14 | Internacional | 23 | 7 | 6 | 10 | -8 | 27 |
+| 12 | Vasco da Gama | 25 | 7 | 7 | 11 | 1 | 28 |
+| 13 | Ceará | 23 | 7 | 7 | 9 | -1 | 28 |
+| 14 | Internacional | 24 | 7 | 7 | 10 | -8 | 28 |
 | 15 | Santos | 23 | 7 | 5 | 11 | -10 | 26 |
 | 16 | Atlético Mineiro | 22 | 6 | 7 | 9 | -5 | 25 |
-| 17 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
-| 18 | Juventude | 23 | 6 | 3 | 14 | -26 | 21 |
+| 17 | Juventude | 24 | 6 | 4 | 14 | -26 | 22 |
+| 18 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
 | 19 | Fortaleza | 24 | 5 | 6 | 13 | -14 | 21 |
 | 20 | Sport | 23 | 2 | 8 | 13 | -19 | 14 |
 
