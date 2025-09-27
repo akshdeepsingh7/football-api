@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 01:22 AM UTC (Saturday, 27 September 2025, 06:52 AM IST)
+**Last Updated:** Saturday, 27 September 2025, 02:39 AM UTC (Saturday, 27 September 2025, 08:09 AM IST)
 
 ### Premier League
 
@@ -397,12 +397,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
-| 2 | Córdoba SdE | 10 | 3 | 6 | 1 | 4 | 15 |
-| 3 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
+| 2 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
+| 3 | Tigre | 10 | 4 | 3 | 3 | 2 | 15 |
 | 4 | Estudiantes | 9 | 5 | 0 | 4 | 0 | 15 |
 | 5 | Boca Juniors | 9 | 3 | 5 | 1 | 6 | 14 |
-| 6 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
-| 7 | Tigre | 10 | 3 | 4 | 3 | 1 | 13 |
+| 6 | Córdoba SdE | 10 | 3 | 5 | 2 | 3 | 14 |
+| 7 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
 | 8 | Belgrano | 9 | 3 | 3 | 3 | 2 | 12 |
 | 9 | Def y Justicia | 9 | 3 | 3 | 3 | 1 | 12 |
 | 10 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |

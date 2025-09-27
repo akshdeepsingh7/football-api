@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 September 2025, 01:22 AM UTC",
-        "IST": "Saturday, 27 September 2025, 06:52 AM IST"
+        "UTC": "Saturday, 27 September 2025, 02:39 AM UTC",
+        "IST": "Saturday, 27 September 2025, 08:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2931,21 +2931,21 @@
             },
             {
                 "Position": "2",
-                "Team": "C\u00f3rdoba SdE",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "1",
-                "Goal Difference": "4",
-                "Points": "15"
-            },
-            {
-                "Position": "3",
                 "Team": "Barracas",
                 "Played": "9",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "15"
+            },
+            {
+                "Position": "3",
+                "Team": "Tigre",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "3",
                 "Goal Difference": "2",
                 "Points": "15"
             },
@@ -2971,6 +2971,16 @@
             },
             {
                 "Position": "6",
+                "Team": "C\u00f3rdoba SdE",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "2",
+                "Goal Difference": "3",
+                "Points": "14"
+            },
+            {
+                "Position": "7",
                 "Team": "Banfield",
                 "Played": "10",
                 "Wins": "4",
@@ -2978,16 +2988,6 @@
                 "Losses": "4",
                 "Goal Difference": "-4",
                 "Points": "14"
-            },
-            {
-                "Position": "7",
-                "Team": "Tigre",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "1",
-                "Points": "13"
             },
             {
                 "Position": "8",
