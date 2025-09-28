@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 11:37 AM UTC",
-        "IST": "Sunday, 28 September 2025, 05:07 PM IST"
+        "UTC": "Sunday, 28 September 2025, 12:35 PM UTC",
+        "IST": "Sunday, 28 September 2025, 06:05 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Sevilla",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "8"
+            },
+            {
+                "Position": "11",
                 "Team": "Alav\u00e9s",
                 "Played": "7",
                 "Wins": "2",
@@ -308,7 +318,7 @@
                 "Points": "8"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Valencia",
                 "Played": "6",
                 "Wins": "2",
@@ -316,16 +326,6 @@
                 "Losses": "2",
                 "Goal Difference": "-2",
                 "Points": "8"
-            },
-            {
-                "Position": "12",
-                "Team": "Sevilla",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "0",
-                "Points": "7"
             },
             {
                 "Position": "13",
@@ -340,12 +340,12 @@
             {
                 "Position": "14",
                 "Team": "Rayo Vallecano",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "1",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "5"
+                "Points": "6"
             },
             {
                 "Position": "15",
