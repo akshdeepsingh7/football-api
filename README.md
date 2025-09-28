@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 04:40 PM UTC (Sunday, 28 September 2025, 10:10 PM IST)
+**Last Updated:** Sunday, 28 September 2025, 05:14 PM UTC (Sunday, 28 September 2025, 10:44 PM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 7 | 6 | 0 | 1 | 8 | 18 |
-| 2 | Barcelona | 7 | 5 | 2 | 0 | 15 | 17 |
+| 2 | Barcelona | 7 | 5 | 1 | 1 | 14 | 16 |
 | 3 | Villarreal | 7 | 5 | 1 | 1 | 8 | 16 |
 | 4 | Elche | 7 | 3 | 4 | 0 | 4 | 13 |
 | 5 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
@@ -84,8 +84,8 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Real Betis | 6 | 2 | 3 | 1 | 2 | 9 |
 | 11 | Alavés | 7 | 2 | 2 | 3 | -1 | 8 |
 | 12 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
-| 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
-| 14 | Real Sociedad | 7 | 1 | 3 | 3 | -3 | 6 |
+| 13 | Real Sociedad | 7 | 2 | 2 | 3 | -2 | 8 |
+| 14 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
 | 15 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
 | 16 | Rayo Vallecano | 7 | 1 | 2 | 4 | -3 | 5 |
 | 17 | Celta de Vigo | 7 | 0 | 5 | 2 | -3 | 5 |
@@ -101,11 +101,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Borussia Dortmund | 5 | 4 | 1 | 0 | 8 | 13 |
 | 3 | RB Leipzig | 5 | 4 | 0 | 1 | 0 | 12 |
 | 4 | Eintracht Frankfurt | 5 | 3 | 0 | 2 | 4 | 9 |
-| 5 | Bayer Leverkusen | 5 | 2 | 2 | 1 | 2 | 8 |
-| 6 | Köln | 5 | 2 | 2 | 1 | 2 | 8 |
-| 7 | SC Freiburg | 5 | 2 | 1 | 2 | 0 | 7 |
-| 8 | St. Pauli | 5 | 2 | 1 | 2 | 0 | 7 |
-| 9 | VfB Stuttgart | 5 | 2 | 1 | 2 | 0 | 7 |
+| 5 | VfB Stuttgart | 5 | 3 | 0 | 2 | 1 | 9 |
+| 6 | Bayer Leverkusen | 5 | 2 | 2 | 1 | 2 | 8 |
+| 7 | Köln | 5 | 2 | 1 | 2 | 1 | 7 |
+| 8 | SC Freiburg | 5 | 2 | 1 | 2 | 0 | 7 |
+| 9 | St. Pauli | 5 | 2 | 1 | 2 | 0 | 7 |
 | 10 | Hoffenheim | 5 | 2 | 1 | 2 | -2 | 7 |
 | 11 | Union Berlin | 4 | 2 | 0 | 2 | -3 | 6 |
 | 12 | VfL Wolfsburg | 5 | 1 | 2 | 2 | 0 | 5 |
@@ -129,17 +129,17 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Cremonese | 5 | 2 | 3 | 0 | 2 | 9 |
 | 8 | Como | 5 | 2 | 2 | 1 | 2 | 8 |
 | 9 | Cagliari | 5 | 2 | 1 | 2 | 0 | 7 |
-| 10 | Udinese | 5 | 2 | 1 | 2 | -3 | 7 |
-| 11 | Sassuolo | 5 | 2 | 0 | 3 | -1 | 6 |
-| 12 | Bologna | 5 | 2 | 0 | 3 | -1 | 6 |
+| 10 | Bologna | 5 | 2 | 1 | 2 | 0 | 7 |
+| 11 | Udinese | 5 | 2 | 1 | 2 | -3 | 7 |
+| 12 | Sassuolo | 5 | 2 | 0 | 3 | -1 | 6 |
 | 13 | Torino | 4 | 1 | 1 | 2 | -7 | 4 |
-| 14 | Lecce | 5 | 1 | 1 | 3 | -5 | 4 |
-| 15 | Lazio | 4 | 1 | 0 | 3 | 0 | 3 |
-| 16 | Fiorentina | 5 | 0 | 3 | 2 | -3 | 3 |
-| 17 | Hellas Verona | 5 | 0 | 3 | 2 | -6 | 3 |
-| 18 | Genoa | 4 | 0 | 2 | 2 | -2 | 2 |
-| 19 | Parma | 4 | 0 | 2 | 2 | -4 | 2 |
-| 20 | Pisa | 5 | 0 | 2 | 3 | -3 | 2 |
+| 14 | Lazio | 4 | 1 | 0 | 3 | 0 | 3 |
+| 15 | Fiorentina | 5 | 0 | 3 | 2 | -3 | 3 |
+| 16 | Hellas Verona | 5 | 0 | 3 | 2 | -6 | 3 |
+| 17 | Genoa | 4 | 0 | 2 | 2 | -2 | 2 |
+| 18 | Parma | 4 | 0 | 2 | 2 | -4 | 2 |
+| 19 | Pisa | 5 | 0 | 2 | 3 | -3 | 2 |
+| 20 | Lecce | 5 | 0 | 2 | 3 | -6 | 2 |
 
 ### Ligue 1
 
@@ -297,16 +297,16 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Moreirense | 7 | 5 | 0 | 2 | 2 | 15 |
 | 5 | Gil Vicente | 7 | 4 | 1 | 2 | 4 | 13 |
 | 6 | Famalicão | 6 | 3 | 2 | 1 | 4 | 11 |
-| 7 | Braga | 6 | 2 | 3 | 1 | 5 | 9 |
+| 7 | Braga | 7 | 2 | 3 | 2 | 4 | 9 |
 | 8 | Vitória S.C. | 7 | 2 | 2 | 3 | -4 | 8 |
 | 9 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
 | 10 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
-| 11 | Estrela Amadora | 7 | 1 | 4 | 2 | 0 | 7 |
-| 12 | Alverca | 7 | 2 | 1 | 4 | -3 | 7 |
-| 13 | Casa Pia | 7 | 2 | 1 | 4 | -5 | 7 |
-| 14 | Estoril | 7 | 1 | 2 | 4 | -3 | 5 |
-| 15 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
-| 16 | Nacional | 6 | 1 | 1 | 4 | -5 | 4 |
+| 11 | Nacional | 7 | 2 | 1 | 4 | -4 | 7 |
+| 12 | Estrela Amadora | 7 | 1 | 4 | 2 | 0 | 7 |
+| 13 | Alverca | 7 | 2 | 1 | 4 | -3 | 7 |
+| 14 | Casa Pia | 7 | 2 | 1 | 4 | -5 | 7 |
+| 15 | Estoril | 7 | 1 | 2 | 4 | -3 | 5 |
+| 16 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
 | 17 | Rio Ave | 6 | 0 | 4 | 2 | -5 | 4 |
 | 18 | AVS | 7 | 0 | 1 | 6 | -13 | 1 |
 

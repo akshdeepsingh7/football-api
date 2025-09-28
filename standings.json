@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 04:40 PM UTC",
-        "IST": "Sunday, 28 September 2025, 10:10 PM IST"
+        "UTC": "Sunday, 28 September 2025, 05:14 PM UTC",
+        "IST": "Sunday, 28 September 2025, 10:44 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -222,10 +222,10 @@
                 "Team": "Barcelona",
                 "Played": "7",
                 "Wins": "5",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "15",
-                "Points": "17"
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "14",
+                "Points": "16"
             },
             {
                 "Position": "3",
@@ -329,6 +329,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Real Sociedad",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "8"
+            },
+            {
+                "Position": "14",
                 "Team": "Osasuna",
                 "Played": "6",
                 "Wins": "2",
@@ -336,16 +346,6 @@
                 "Losses": "3",
                 "Goal Difference": "0",
                 "Points": "7"
-            },
-            {
-                "Position": "14",
-                "Team": "Real Sociedad",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "6"
             },
             {
                 "Position": "15",
@@ -451,6 +451,16 @@
             },
             {
                 "Position": "5",
+                "Team": "VfB Stuttgart",
+                "Played": "5",
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "9"
+            },
+            {
+                "Position": "6",
                 "Team": "Bayer Leverkusen",
                 "Played": "5",
                 "Wins": "2",
@@ -460,17 +470,17 @@
                 "Points": "8"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "K\u00f6ln",
                 "Played": "5",
                 "Wins": "2",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "8"
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "7"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "SC Freiburg",
                 "Played": "5",
                 "Wins": "2",
@@ -480,18 +490,8 @@
                 "Points": "7"
             },
             {
-                "Position": "8",
-                "Team": "St. Pauli",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "0",
-                "Points": "7"
-            },
-            {
                 "Position": "9",
-                "Team": "VfB Stuttgart",
+                "Team": "St. Pauli",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
@@ -683,6 +683,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Bologna",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "7"
+            },
+            {
+                "Position": "11",
                 "Team": "Udinese",
                 "Played": "5",
                 "Wins": "2",
@@ -692,18 +702,8 @@
                 "Points": "7"
             },
             {
-                "Position": "11",
-                "Team": "Sassuolo",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "6"
-            },
-            {
                 "Position": "12",
-                "Team": "Bologna",
+                "Team": "Sassuolo",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "0",
@@ -723,16 +723,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Lecce",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-5",
-                "Points": "4"
-            },
-            {
-                "Position": "15",
                 "Team": "Lazio",
                 "Played": "4",
                 "Wins": "1",
@@ -742,7 +732,7 @@
                 "Points": "3"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Fiorentina",
                 "Played": "5",
                 "Wins": "0",
@@ -752,7 +742,7 @@
                 "Points": "3"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Hellas Verona",
                 "Played": "5",
                 "Wins": "0",
@@ -762,7 +752,7 @@
                 "Points": "3"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Genoa",
                 "Played": "4",
                 "Wins": "0",
@@ -772,7 +762,7 @@
                 "Points": "2"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Parma",
                 "Played": "4",
                 "Wins": "0",
@@ -782,13 +772,23 @@
                 "Points": "2"
             },
             {
-                "Position": "20",
+                "Position": "19",
                 "Team": "Pisa",
                 "Played": "5",
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-3",
+                "Points": "2"
+            },
+            {
+                "Position": "20",
+                "Team": "Lecce",
+                "Played": "5",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-6",
                 "Points": "2"
             }
         ],
@@ -2124,11 +2124,11 @@
             {
                 "Position": "7",
                 "Team": "Braga",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "2",
                 "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "5",
+                "Losses": "2",
+                "Goal Difference": "4",
                 "Points": "9"
             },
             {
@@ -2163,6 +2163,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Nacional",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "7"
+            },
+            {
+                "Position": "12",
                 "Team": "Estrela Amadora",
                 "Played": "7",
                 "Wins": "1",
@@ -2172,7 +2182,7 @@
                 "Points": "7"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Alverca",
                 "Played": "7",
                 "Wins": "2",
@@ -2182,7 +2192,7 @@
                 "Points": "7"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Casa Pia",
                 "Played": "7",
                 "Wins": "2",
@@ -2192,7 +2202,7 @@
                 "Points": "7"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Estoril",
                 "Played": "7",
                 "Wins": "1",
@@ -2202,7 +2212,7 @@
                 "Points": "5"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Tondela",
                 "Played": "7",
                 "Wins": "1",
@@ -2210,16 +2220,6 @@
                 "Losses": "4",
                 "Goal Difference": "-7",
                 "Points": "5"
-            },
-            {
-                "Position": "16",
-                "Team": "Nacional",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "4"
             },
             {
                 "Position": "17",
