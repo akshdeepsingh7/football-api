@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 04:20 PM UTC (Sunday, 28 September 2025, 09:50 PM IST)
+**Last Updated:** Sunday, 28 September 2025, 04:40 PM UTC (Sunday, 28 September 2025, 10:10 PM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 7 | 6 | 0 | 1 | 8 | 18 |
-| 2 | Barcelona | 6 | 5 | 1 | 0 | 15 | 16 |
+| 2 | Barcelona | 7 | 5 | 2 | 0 | 15 | 17 |
 | 3 | Villarreal | 7 | 5 | 1 | 1 | 8 | 16 |
 | 4 | Elche | 7 | 3 | 4 | 0 | 4 | 13 |
 | 5 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
@@ -85,10 +85,10 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Alavés | 7 | 2 | 2 | 3 | -1 | 8 |
 | 12 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
-| 14 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
-| 15 | Rayo Vallecano | 7 | 1 | 2 | 4 | -3 | 5 |
-| 16 | Celta de Vigo | 7 | 0 | 5 | 2 | -3 | 5 |
-| 17 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
+| 14 | Real Sociedad | 7 | 1 | 3 | 3 | -3 | 6 |
+| 15 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
+| 16 | Rayo Vallecano | 7 | 1 | 2 | 4 | -3 | 5 |
+| 17 | Celta de Vigo | 7 | 0 | 5 | 2 | -3 | 5 |
 | 18 | Mallorca | 7 | 1 | 2 | 4 | -5 | 5 |
 | 19 | Real Oviedo | 6 | 1 | 0 | 5 | -9 | 3 |
 | 20 | Girona | 7 | 0 | 3 | 4 | -13 | 3 |
@@ -298,11 +298,11 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Gil Vicente | 7 | 4 | 1 | 2 | 4 | 13 |
 | 6 | Famalicão | 6 | 3 | 2 | 1 | 4 | 11 |
 | 7 | Braga | 6 | 2 | 3 | 1 | 5 | 9 |
-| 8 | Vitória S.C. | 7 | 2 | 2 | 3 | -3 | 8 |
+| 8 | Vitória S.C. | 7 | 2 | 2 | 3 | -4 | 8 |
 | 9 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
 | 10 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
 | 11 | Estrela Amadora | 7 | 1 | 4 | 2 | 0 | 7 |
-| 12 | Alverca | 7 | 2 | 1 | 4 | -4 | 7 |
+| 12 | Alverca | 7 | 2 | 1 | 4 | -3 | 7 |
 | 13 | Casa Pia | 7 | 2 | 1 | 4 | -5 | 7 |
 | 14 | Estoril | 7 | 1 | 2 | 4 | -3 | 5 |
 | 15 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
