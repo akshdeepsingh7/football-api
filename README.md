@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 01:21 PM UTC (Sunday, 28 September 2025, 06:51 PM IST)
+**Last Updated:** Sunday, 28 September 2025, 01:37 PM UTC (Sunday, 28 September 2025, 07:07 PM IST)
 
 ### Premier League
 
@@ -101,12 +101,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Borussia Dortmund | 5 | 4 | 1 | 0 | 8 | 13 |
 | 3 | RB Leipzig | 5 | 4 | 0 | 1 | 0 | 12 |
 | 4 | Eintracht Frankfurt | 5 | 3 | 0 | 2 | 4 | 9 |
-| 5 | Bayer Leverkusen | 5 | 2 | 2 | 1 | 2 | 8 |
-| 6 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
-| 7 | St. Pauli | 5 | 2 | 1 | 2 | 0 | 7 |
-| 8 | SC Freiburg | 4 | 2 | 0 | 2 | 0 | 6 |
+| 5 | SC Freiburg | 5 | 3 | 0 | 2 | 1 | 9 |
+| 6 | Bayer Leverkusen | 5 | 2 | 2 | 1 | 2 | 8 |
+| 7 | Köln | 4 | 2 | 1 | 1 | 2 | 7 |
+| 8 | St. Pauli | 5 | 2 | 1 | 2 | 0 | 7 |
 | 9 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
-| 10 | Hoffenheim | 4 | 2 | 0 | 2 | -2 | 6 |
+| 10 | Hoffenheim | 5 | 2 | 0 | 3 | -3 | 6 |
 | 11 | Union Berlin | 4 | 2 | 0 | 2 | -3 | 6 |
 | 12 | VfL Wolfsburg | 5 | 1 | 2 | 2 | 0 | 5 |
 | 13 | Mainz 05 | 5 | 1 | 1 | 3 | -1 | 4 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 01:21 PM UTC",
-        "IST": "Sunday, 28 September 2025, 06:51 PM IST"
+        "UTC": "Sunday, 28 September 2025, 01:37 PM UTC",
+        "IST": "Sunday, 28 September 2025, 07:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -451,6 +451,16 @@
             },
             {
                 "Position": "5",
+                "Team": "SC Freiburg",
+                "Played": "5",
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "9"
+            },
+            {
+                "Position": "6",
                 "Team": "Bayer Leverkusen",
                 "Played": "5",
                 "Wins": "2",
@@ -460,7 +470,7 @@
                 "Points": "8"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "K\u00f6ln",
                 "Played": "4",
                 "Wins": "2",
@@ -470,7 +480,7 @@
                 "Points": "7"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "St. Pauli",
                 "Played": "5",
                 "Wins": "2",
@@ -478,16 +488,6 @@
                 "Losses": "2",
                 "Goal Difference": "0",
                 "Points": "7"
-            },
-            {
-                "Position": "8",
-                "Team": "SC Freiburg",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "0",
-                "Points": "6"
             },
             {
                 "Position": "9",
@@ -502,11 +502,11 @@
             {
                 "Position": "10",
                 "Team": "Hoffenheim",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "2",
                 "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-2",
+                "Losses": "3",
+                "Goal Difference": "-3",
                 "Points": "6"
             },
             {
