@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 10:38 AM UTC",
-        "IST": "Sunday, 28 September 2025, 04:08 PM IST"
+        "UTC": "Sunday, 28 September 2025, 11:14 AM UTC",
+        "IST": "Sunday, 28 September 2025, 04:44 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -673,22 +673,22 @@
             },
             {
                 "Position": "9",
-                "Team": "Udinese",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "8"
-            },
-            {
-                "Position": "10",
                 "Team": "Cagliari",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "0",
+                "Points": "7"
+            },
+            {
+                "Position": "10",
+                "Team": "Udinese",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-3",
                 "Points": "7"
             },
             {
@@ -703,22 +703,22 @@
             },
             {
                 "Position": "12",
+                "Team": "Sassuolo",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "6"
+            },
+            {
+                "Position": "13",
                 "Team": "Torino",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "-7",
-                "Points": "4"
-            },
-            {
-                "Position": "13",
-                "Team": "Sassuolo",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-3",
                 "Points": "4"
             },
             {
