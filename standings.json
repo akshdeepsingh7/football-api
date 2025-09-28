@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 02:15 PM UTC",
-        "IST": "Sunday, 28 September 2025, 07:45 PM IST"
+        "UTC": "Sunday, 28 September 2025, 02:37 PM UTC",
+        "IST": "Sunday, 28 September 2025, 08:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -102,7 +102,7 @@
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "8"
             },
             {
@@ -162,7 +162,7 @@
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "6"
             },
             {
@@ -239,6 +239,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Elche",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "0",
+                "Goal Difference": "4",
+                "Points": "13"
+            },
+            {
+                "Position": "5",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "7",
                 "Wins": "3",
@@ -248,7 +258,7 @@
                 "Points": "12"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Espanyol",
                 "Played": "7",
                 "Wins": "3",
@@ -258,7 +268,7 @@
                 "Points": "12"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Getafe",
                 "Played": "7",
                 "Wins": "3",
@@ -266,16 +276,6 @@
                 "Losses": "2",
                 "Goal Difference": "-1",
                 "Points": "11"
-            },
-            {
-                "Position": "7",
-                "Team": "Elche",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "0",
-                "Goal Difference": "3",
-                "Points": "10"
             },
             {
                 "Position": "8",
@@ -339,16 +339,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Celta de Vigo",
-                "Played": "6",
-                "Wins": "0",
-                "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "-2",
-                "Points": "5"
-            },
-            {
-                "Position": "15",
                 "Team": "Levante",
                 "Played": "7",
                 "Wins": "1",
@@ -358,7 +348,7 @@
                 "Points": "5"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "7",
                 "Wins": "1",
@@ -368,12 +358,22 @@
                 "Points": "5"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Real Sociedad",
                 "Played": "6",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "5"
+            },
+            {
+                "Position": "17",
+                "Team": "Celta de Vigo",
+                "Played": "7",
+                "Wins": "0",
+                "Draws": "5",
+                "Losses": "2",
                 "Goal Difference": "-3",
                 "Points": "5"
             },
@@ -2134,31 +2134,31 @@
             {
                 "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "-2",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "9",
-                "Team": "Arouca",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-5",
-                "Points": "8"
-            },
-            {
-                "Position": "10",
                 "Team": "Santa Clara",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-3",
+                "Points": "8"
+            },
+            {
+                "Position": "10",
+                "Team": "Arouca",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-5",
                 "Points": "8"
             },
             {
@@ -2183,6 +2183,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Alverca",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "5"
+            },
+            {
+                "Position": "14",
                 "Team": "Estoril",
                 "Played": "7",
                 "Wins": "1",
@@ -2192,7 +2202,7 @@
                 "Points": "5"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Tondela",
                 "Played": "7",
                 "Wins": "1",
@@ -2202,7 +2212,7 @@
                 "Points": "5"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Nacional",
                 "Played": "6",
                 "Wins": "1",
@@ -2212,22 +2222,12 @@
                 "Points": "4"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Rio Ave",
                 "Played": "6",
                 "Wins": "0",
                 "Draws": "4",
                 "Losses": "2",
-                "Goal Difference": "-5",
-                "Points": "4"
-            },
-            {
-                "Position": "17",
-                "Team": "Alverca",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "4",
                 "Goal Difference": "-5",
                 "Points": "4"
             },
