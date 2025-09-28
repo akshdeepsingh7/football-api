@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 07:37 PM UTC (Monday, 29 September 2025, 01:07 AM IST)
+**Last Updated:** Sunday, 28 September 2025, 08:19 PM UTC (Monday, 29 September 2025, 01:49 AM IST)
 
 ### Premier League
 
@@ -77,14 +77,14 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Villarreal | 7 | 5 | 1 | 1 | 8 | 16 |
 | 4 | Elche | 7 | 3 | 4 | 0 | 4 | 13 |
 | 5 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
-| 6 | Real Betis | 7 | 3 | 3 | 1 | 3 | 12 |
+| 6 | Real Betis | 7 | 3 | 3 | 1 | 4 | 12 |
 | 7 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
 | 8 | Getafe | 7 | 3 | 2 | 2 | -1 | 11 |
 | 9 | Sevilla | 7 | 3 | 1 | 3 | 1 | 10 |
 | 10 | Athletic Bilbao | 7 | 3 | 1 | 3 | -1 | 10 |
 | 11 | Alavés | 7 | 2 | 2 | 3 | -1 | 8 |
 | 12 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
-| 13 | Osasuna | 7 | 2 | 1 | 4 | -1 | 7 |
+| 13 | Osasuna | 7 | 2 | 1 | 4 | -2 | 7 |
 | 14 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
 | 15 | Rayo Vallecano | 7 | 1 | 2 | 4 | -3 | 5 |
 | 16 | Celta de Vigo | 7 | 0 | 5 | 2 | -3 | 5 |
@@ -120,8 +120,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Milan | 5 | 4 | 0 | 1 | 7 | 12 |
-| 2 | Napoli | 5 | 4 | 0 | 1 | 4 | 12 |
+| 1 | Milan | 5 | 4 | 0 | 1 | 6 | 12 |
+| 2 | Napoli | 5 | 4 | 0 | 1 | 5 | 12 |
 | 3 | Roma | 5 | 4 | 0 | 1 | 4 | 12 |
 | 4 | Juventus | 5 | 3 | 2 | 0 | 4 | 11 |
 | 5 | Inter | 5 | 3 | 0 | 2 | 6 | 9 |
