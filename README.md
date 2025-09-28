@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 02:37 PM UTC (Sunday, 28 September 2025, 08:07 PM IST)
+**Last Updated:** Sunday, 28 September 2025, 03:16 PM UTC (Sunday, 28 September 2025, 08:46 PM IST)
 
 ### Premier League
 
@@ -75,9 +75,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Real Madrid | 7 | 6 | 0 | 1 | 8 | 18 |
 | 2 | Barcelona | 6 | 5 | 1 | 0 | 15 | 16 |
 | 3 | Villarreal | 7 | 5 | 1 | 1 | 8 | 16 |
-| 4 | Elche | 7 | 3 | 4 | 0 | 4 | 13 |
-| 5 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
-| 6 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
+| 4 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
+| 5 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
+| 6 | Elche | 7 | 2 | 5 | 0 | 3 | 11 |
 | 7 | Getafe | 7 | 3 | 2 | 2 | -1 | 11 |
 | 8 | Sevilla | 7 | 3 | 1 | 3 | 1 | 10 |
 | 9 | Athletic Bilbao | 7 | 3 | 1 | 3 | -1 | 10 |
@@ -85,10 +85,10 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Alavés | 7 | 2 | 2 | 3 | -1 | 8 |
 | 12 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
-| 14 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
-| 15 | Rayo Vallecano | 7 | 1 | 2 | 4 | -3 | 5 |
-| 16 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
-| 17 | Celta de Vigo | 7 | 0 | 5 | 2 | -3 | 5 |
+| 14 | Celta de Vigo | 7 | 0 | 6 | 1 | -2 | 6 |
+| 15 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
+| 16 | Rayo Vallecano | 7 | 1 | 2 | 4 | -3 | 5 |
+| 17 | Real Sociedad | 6 | 1 | 2 | 3 | -3 | 5 |
 | 18 | Mallorca | 7 | 1 | 2 | 4 | -5 | 5 |
 | 19 | Real Oviedo | 6 | 1 | 0 | 5 | -9 | 3 |
 | 20 | Girona | 7 | 0 | 3 | 4 | -13 | 3 |
@@ -121,7 +121,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Napoli | 4 | 4 | 0 | 0 | 6 | 12 |
-| 2 | Roma | 5 | 4 | 0 | 1 | 3 | 12 |
+| 2 | Roma | 5 | 4 | 0 | 1 | 4 | 12 |
 | 3 | Juventus | 5 | 3 | 2 | 0 | 4 | 11 |
 | 4 | Milan | 4 | 3 | 0 | 1 | 5 | 9 |
 | 5 | Inter | 5 | 3 | 0 | 2 | 6 | 9 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Torino | 4 | 1 | 1 | 2 | -7 | 4 |
 | 14 | Lazio | 4 | 1 | 0 | 3 | 0 | 3 |
 | 15 | Fiorentina | 5 | 0 | 3 | 2 | -3 | 3 |
-| 16 | Hellas Verona | 5 | 0 | 3 | 2 | -5 | 3 |
+| 16 | Hellas Verona | 5 | 0 | 3 | 2 | -6 | 3 |
 | 17 | Genoa | 4 | 0 | 2 | 2 | -2 | 2 |
 | 18 | Parma | 4 | 0 | 2 | 2 | -4 | 2 |
 | 19 | Pisa | 5 | 0 | 2 | 3 | -3 | 2 |
@@ -146,23 +146,23 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 6 | 5 | 0 | 1 | 8 | 15 |
-| 2 | Marseille | 6 | 4 | 0 | 2 | 7 | 12 |
-| 3 | Monaco | 6 | 4 | 0 | 2 | 4 | 12 |
-| 4 | Lyon | 5 | 4 | 0 | 1 | 4 | 12 |
+| 2 | Lyon | 6 | 4 | 1 | 1 | 4 | 13 |
+| 3 | Marseille | 6 | 4 | 0 | 2 | 7 | 12 |
+| 4 | Monaco | 6 | 4 | 0 | 2 | 4 | 12 |
 | 5 | Strasbourg | 6 | 4 | 0 | 2 | 2 | 12 |
-| 6 | Lille | 5 | 3 | 1 | 1 | 5 | 10 |
+| 6 | Lille | 6 | 3 | 2 | 1 | 5 | 11 |
 | 7 | Lens | 5 | 3 | 0 | 2 | 3 | 9 |
-| 8 | Nice | 6 | 3 | 0 | 3 | -2 | 9 |
-| 9 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
-| 10 | Toulouse | 6 | 2 | 1 | 3 | -2 | 7 |
-| 11 | Lorient | 6 | 2 | 1 | 3 | -5 | 7 |
-| 12 | Paris | 6 | 2 | 0 | 4 | -4 | 6 |
-| 13 | Auxerre | 6 | 2 | 0 | 4 | -4 | 6 |
-| 14 | Angers | 5 | 1 | 2 | 2 | -1 | 5 |
-| 15 | Nantes | 6 | 1 | 2 | 3 | -2 | 5 |
-| 16 | Brest | 5 | 1 | 1 | 3 | -2 | 4 |
-| 17 | Le Havre | 5 | 1 | 1 | 3 | -2 | 4 |
-| 18 | Metz | 5 | 0 | 1 | 4 | -8 | 1 |
+| 8 | Rennes | 5 | 2 | 2 | 1 | -1 | 8 |
+| 9 | Toulouse | 6 | 2 | 1 | 3 | -2 | 7 |
+| 10 | Paris | 6 | 2 | 1 | 3 | -3 | 7 |
+| 11 | Nice | 6 | 2 | 1 | 3 | -3 | 7 |
+| 12 | Lorient | 6 | 2 | 1 | 3 | -5 | 7 |
+| 13 | Angers | 6 | 1 | 3 | 2 | -1 | 6 |
+| 14 | Auxerre | 6 | 2 | 0 | 4 | -4 | 6 |
+| 15 | Brest | 6 | 1 | 2 | 3 | -2 | 5 |
+| 16 | Le Havre | 6 | 1 | 2 | 3 | -2 | 5 |
+| 17 | Nantes | 6 | 1 | 2 | 3 | -2 | 5 |
+| 18 | Metz | 6 | 0 | 2 | 4 | -8 | 2 |
 
 ### Champions League
 
@@ -298,12 +298,12 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Gil Vicente | 7 | 4 | 1 | 2 | 4 | 13 |
 | 6 | Famalicão | 6 | 3 | 2 | 1 | 4 | 11 |
 | 7 | Braga | 6 | 2 | 3 | 1 | 5 | 9 |
-| 8 | Vitória S.C. | 7 | 2 | 3 | 2 | -2 | 9 |
-| 9 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
-| 10 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
+| 8 | Vitória S.C. | 7 | 2 | 2 | 3 | -3 | 8 |
+| 9 | Arouca | 6 | 2 | 2 | 2 | -5 | 8 |
+| 10 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
 | 11 | Estrela Amadora | 7 | 1 | 4 | 2 | 0 | 7 |
-| 12 | Casa Pia | 7 | 2 | 1 | 4 | -5 | 7 |
-| 13 | Alverca | 7 | 1 | 2 | 4 | -5 | 5 |
+| 12 | Alverca | 7 | 2 | 1 | 4 | -4 | 7 |
+| 13 | Casa Pia | 7 | 2 | 1 | 4 | -5 | 7 |
 | 14 | Estoril | 7 | 1 | 2 | 4 | -3 | 5 |
 | 15 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
 | 16 | Nacional | 6 | 1 | 1 | 4 | -5 | 4 |
