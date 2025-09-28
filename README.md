@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 09:37 PM UTC (Monday, 29 September 2025, 03:07 AM IST)
+**Last Updated:** Sunday, 28 September 2025, 10:16 PM UTC (Monday, 29 September 2025, 03:46 AM IST)
 
 ### Premier League
 
@@ -411,8 +411,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Independiente Rivadavia | 9 | 2 | 3 | 4 | -2 | 9 |
 | 14 | Newell's Old Boys | 9 | 2 | 3 | 4 | -3 | 9 |
 | 15 | Aldosivi | 10 | 0 | 3 | 7 | -13 | 3 |
-| 1 | Riestra | 10 | 6 | 2 | 2 | 7 | 20 |
-| 2 | River Plate | 10 | 5 | 4 | 1 | 9 | 19 |
+| 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
+| 2 | River Plate | 10 | 5 | 3 | 2 | 8 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
 | 4 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
 | 5 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
@@ -439,14 +439,14 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Bahia | 24 | 11 | 7 | 6 | 4 | 40 |
 | 7 | São Paulo | 24 | 9 | 8 | 7 | 3 | 35 |
 | 8 | Fluminense | 23 | 10 | 4 | 9 | -1 | 34 |
-| 9 | RB Bragantino | 25 | 9 | 5 | 11 | -6 | 32 |
+| 9 | RB Bragantino | 25 | 10 | 4 | 11 | -5 | 34 |
 | 10 | Grêmio | 25 | 8 | 8 | 9 | -4 | 32 |
 | 11 | Vasco da Gama | 25 | 8 | 6 | 11 | 3 | 30 |
 | 12 | Corinthians | 24 | 7 | 8 | 9 | -5 | 29 |
 | 13 | Ceará | 23 | 7 | 7 | 9 | -1 | 28 |
 | 14 | Atlético Mineiro | 23 | 7 | 7 | 9 | -4 | 28 |
 | 15 | Internacional | 24 | 7 | 7 | 10 | -8 | 28 |
-| 16 | Santos | 24 | 7 | 6 | 11 | -10 | 27 |
+| 16 | Santos | 24 | 7 | 5 | 12 | -11 | 26 |
 | 17 | Juventude | 24 | 6 | 4 | 14 | -26 | 22 |
 | 18 | Vitória | 25 | 4 | 10 | 11 | -18 | 22 |
 | 19 | Fortaleza | 24 | 5 | 6 | 13 | -14 | 21 |
