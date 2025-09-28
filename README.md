@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 03:50 AM UTC (Sunday, 28 September 2025, 09:20 AM IST)
+**Last Updated:** Sunday, 28 September 2025, 04:22 AM UTC (Sunday, 28 September 2025, 09:52 AM IST)
 
 ### Premier League
 
@@ -371,8 +371,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Dallas | 31 | 9 | 10 | 12 | -5 | 37 |
 | 12 | Houston Dynamo | 32 | 9 | 9 | 14 | -11 | 36 |
 | 13 | St. Louis City | 32 | 7 | 7 | 18 | -16 | 28 |
-| 14 | Sporting KC | 32 | 7 | 6 | 19 | -20 | 27 |
-| 15 | LA Galaxy | 31 | 5 | 9 | 17 | -22 | 24 |
+| 14 | Sporting KC | 32 | 7 | 6 | 19 | -21 | 27 |
+| 15 | LA Galaxy | 31 | 5 | 9 | 17 | -21 | 24 |
 
 ### Indian Super League
 
