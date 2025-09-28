@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 11:16 PM UTC (Monday, 29 September 2025, 04:46 AM IST)
+**Last Updated:** Sunday, 28 September 2025, 11:37 PM UTC (Monday, 29 September 2025, 05:07 AM IST)
 
 ### Premier League
 
@@ -414,16 +414,16 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
 | 2 | River Plate | 10 | 5 | 3 | 2 | 8 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
-| 4 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
-| 5 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
+| 4 | Lanús | 10 | 5 | 2 | 3 | 1 | 17 |
+| 5 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
 | 6 | Rosario | 9 | 3 | 6 | 0 | 5 | 15 |
 | 7 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
 | 8 | Sarmiento | 9 | 3 | 3 | 3 | -2 | 12 |
-| 9 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
-| 10 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
-| 11 | Talleres | 10 | 2 | 4 | 4 | -4 | 10 |
-| 12 | GELP | 10 | 3 | 1 | 6 | -6 | 10 |
-| 13 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
+| 9 | Instituto | 10 | 2 | 5 | 3 | -6 | 11 |
+| 10 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
+| 11 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
+| 12 | Talleres | 10 | 2 | 4 | 4 | -4 | 10 |
+| 13 | GELP | 10 | 3 | 1 | 6 | -6 | 10 |
 | 14 | Godoy Cruz | 10 | 1 | 5 | 4 | -5 | 8 |
 | 15 | Independiente | 9 | 0 | 5 | 4 | -4 | 5 |
 
@@ -431,7 +431,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Flamengo | 23 | 15 | 6 | 2 | 37 | 51 |
+| 1 | Flamengo | 24 | 15 | 7 | 2 | 37 | 52 |
 | 2 | Cruzeiro | 25 | 15 | 5 | 5 | 20 | 50 |
 | 3 | Palmeiras | 23 | 15 | 4 | 4 | 17 | 49 |
 | 4 | Mirassol | 24 | 11 | 9 | 4 | 17 | 42 |
@@ -442,7 +442,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | RB Bragantino | 25 | 9 | 5 | 11 | -6 | 32 |
 | 10 | Grêmio | 25 | 8 | 8 | 9 | -4 | 32 |
 | 11 | Vasco da Gama | 25 | 8 | 6 | 11 | 3 | 30 |
-| 12 | Corinthians | 24 | 7 | 8 | 9 | -5 | 29 |
+| 12 | Corinthians | 25 | 7 | 9 | 9 | -5 | 30 |
 | 13 | Ceará | 23 | 7 | 7 | 9 | -1 | 28 |
 | 14 | Atlético Mineiro | 23 | 7 | 7 | 9 | -4 | 28 |
 | 15 | Internacional | 24 | 7 | 7 | 10 | -8 | 28 |
