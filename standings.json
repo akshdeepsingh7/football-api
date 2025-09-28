@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 05:37 PM UTC",
-        "IST": "Sunday, 28 September 2025, 11:07 PM IST"
+        "UTC": "Sunday, 28 September 2025, 06:24 PM UTC",
+        "IST": "Sunday, 28 September 2025, 11:54 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -209,6 +209,16 @@
         "La Liga": [
             {
                 "Position": "1",
+                "Team": "Barcelona",
+                "Played": "7",
+                "Wins": "6",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "16",
+                "Points": "19"
+            },
+            {
+                "Position": "2",
                 "Team": "Real Madrid",
                 "Played": "7",
                 "Wins": "6",
@@ -216,16 +226,6 @@
                 "Losses": "1",
                 "Goal Difference": "8",
                 "Points": "18"
-            },
-            {
-                "Position": "2",
-                "Team": "Barcelona",
-                "Played": "7",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "15",
-                "Points": "17"
             },
             {
                 "Position": "3",
@@ -339,16 +339,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Real Sociedad",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "6"
-            },
-            {
-                "Position": "15",
                 "Team": "Levante",
                 "Played": "7",
                 "Wins": "1",
@@ -358,7 +348,7 @@
                 "Points": "5"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "7",
                 "Wins": "1",
@@ -368,13 +358,23 @@
                 "Points": "5"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Celta de Vigo",
                 "Played": "7",
                 "Wins": "0",
                 "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "-3",
+                "Points": "5"
+            },
+            {
+                "Position": "17",
+                "Team": "Real Sociedad",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-4",
                 "Points": "5"
             },
             {
@@ -663,16 +663,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Bologna",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "9"
-            },
-            {
-                "Position": "9",
                 "Team": "Como",
                 "Played": "5",
                 "Wins": "2",
@@ -680,6 +670,16 @@
                 "Losses": "1",
                 "Goal Difference": "2",
                 "Points": "8"
+            },
+            {
+                "Position": "9",
+                "Team": "Bologna",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "7"
             },
             {
                 "Position": "10",
@@ -786,10 +786,10 @@
                 "Team": "Lecce",
                 "Played": "5",
                 "Wins": "0",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-7",
-                "Points": "1"
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-6",
+                "Points": "2"
             }
         ],
         "Ligue 1": [
@@ -3032,12 +3032,12 @@
             {
                 "Position": "12",
                 "Team": "Racing Club",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "3",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "5",
                 "Goal Difference": "-2",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "13",
@@ -3212,12 +3212,12 @@
             {
                 "Position": "15",
                 "Team": "Independiente",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "0",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "-4",
-                "Points": "4"
+                "Points": "5"
             }
         ],
         "Brasileir\u00e3o": [

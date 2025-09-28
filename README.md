@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 05:37 PM UTC (Sunday, 28 September 2025, 11:07 PM IST)
+**Last Updated:** Sunday, 28 September 2025, 06:24 PM UTC (Sunday, 28 September 2025, 11:54 PM IST)
 
 ### Premier League
 
@@ -72,8 +72,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Real Madrid | 7 | 6 | 0 | 1 | 8 | 18 |
-| 2 | Barcelona | 7 | 5 | 2 | 0 | 15 | 17 |
+| 1 | Barcelona | 7 | 6 | 1 | 0 | 16 | 19 |
+| 2 | Real Madrid | 7 | 6 | 0 | 1 | 8 | 18 |
 | 3 | Villarreal | 7 | 5 | 1 | 1 | 8 | 16 |
 | 4 | Elche | 7 | 3 | 4 | 0 | 4 | 13 |
 | 5 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
@@ -85,10 +85,10 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Alavés | 7 | 2 | 2 | 3 | -1 | 8 |
 | 12 | Valencia | 6 | 2 | 2 | 2 | -2 | 8 |
 | 13 | Osasuna | 6 | 2 | 1 | 3 | 0 | 7 |
-| 14 | Real Sociedad | 7 | 1 | 3 | 3 | -3 | 6 |
-| 15 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
-| 16 | Rayo Vallecano | 7 | 1 | 2 | 4 | -3 | 5 |
-| 17 | Celta de Vigo | 7 | 0 | 5 | 2 | -3 | 5 |
+| 14 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
+| 15 | Rayo Vallecano | 7 | 1 | 2 | 4 | -3 | 5 |
+| 16 | Celta de Vigo | 7 | 0 | 5 | 2 | -3 | 5 |
+| 17 | Real Sociedad | 7 | 1 | 2 | 4 | -4 | 5 |
 | 18 | Mallorca | 7 | 1 | 2 | 4 | -5 | 5 |
 | 19 | Real Oviedo | 6 | 1 | 0 | 5 | -9 | 3 |
 | 20 | Girona | 7 | 0 | 3 | 4 | -13 | 3 |
@@ -127,8 +127,8 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Inter | 5 | 3 | 0 | 2 | 6 | 9 |
 | 6 | Atalanta | 5 | 2 | 3 | 0 | 6 | 9 |
 | 7 | Cremonese | 5 | 2 | 3 | 0 | 2 | 9 |
-| 8 | Bologna | 5 | 3 | 0 | 2 | 1 | 9 |
-| 9 | Como | 5 | 2 | 2 | 1 | 2 | 8 |
+| 8 | Como | 5 | 2 | 2 | 1 | 2 | 8 |
+| 9 | Bologna | 5 | 2 | 1 | 2 | 0 | 7 |
 | 10 | Cagliari | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Udinese | 5 | 2 | 1 | 2 | -3 | 7 |
 | 12 | Sassuolo | 5 | 2 | 0 | 3 | -1 | 6 |
@@ -139,7 +139,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Genoa | 4 | 0 | 2 | 2 | -2 | 2 |
 | 18 | Parma | 4 | 0 | 2 | 2 | -4 | 2 |
 | 19 | Pisa | 5 | 0 | 2 | 3 | -3 | 2 |
-| 20 | Lecce | 5 | 0 | 1 | 4 | -7 | 1 |
+| 20 | Lecce | 5 | 0 | 2 | 3 | -6 | 2 |
 
 ### Ligue 1
 
@@ -407,7 +407,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
 | 10 | Belgrano | 9 | 3 | 3 | 3 | 2 | 12 |
 | 11 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
-| 12 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
+| 12 | Racing Club | 10 | 3 | 2 | 5 | -2 | 11 |
 | 13 | Independiente Rivadavia | 9 | 2 | 3 | 4 | -2 | 9 |
 | 14 | Newell's Old Boys | 9 | 2 | 3 | 4 | -3 | 9 |
 | 15 | Aldosivi | 10 | 0 | 3 | 7 | -13 | 3 |
@@ -425,7 +425,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | GELP | 10 | 3 | 1 | 6 | -6 | 10 |
 | 13 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
 | 14 | Godoy Cruz | 10 | 1 | 5 | 4 | -5 | 8 |
-| 15 | Independiente | 8 | 0 | 4 | 4 | -4 | 4 |
+| 15 | Independiente | 9 | 0 | 5 | 4 | -4 | 5 |
 
 ### Brasileirão
 
