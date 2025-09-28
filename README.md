@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 September 2025, 11:37 PM UTC (Sunday, 28 September 2025, 05:07 AM IST)
+**Last Updated:** Sunday, 28 September 2025, 01:40 AM UTC (Sunday, 28 September 2025, 07:10 AM IST)
 
 ### Premier League
 
@@ -343,34 +343,34 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Philadelphia Union | 31 | 18 | 6 | 7 | 17 | 60 |
+| 1 | Philadelphia Union | 32 | 19 | 6 | 7 | 23 | 63 |
 | 2 | Cincinnati | 31 | 18 | 4 | 9 | 8 | 58 |
-| 3 | Inter Miami | 30 | 16 | 8 | 6 | 18 | 56 |
-| 4 | Charlotte | 31 | 17 | 2 | 12 | 9 | 53 |
-| 5 | NYCFC | 31 | 16 | 5 | 10 | 7 | 53 |
-| 6 | Orlando City | 30 | 14 | 9 | 7 | 15 | 51 |
-| 7 | Nashville | 31 | 15 | 5 | 11 | 14 | 50 |
-| 8 | Columbus Crew | 31 | 13 | 11 | 7 | 4 | 50 |
-| 9 | Chicago Fire | 30 | 13 | 6 | 11 | 4 | 45 |
-| 10 | New York RB | 31 | 12 | 7 | 12 | 5 | 43 |
-| 11 | New England Revolution | 31 | 8 | 8 | 15 | -6 | 32 |
+| 3 | NYCFC | 32 | 17 | 5 | 10 | 8 | 56 |
+| 4 | Inter Miami | 30 | 16 | 8 | 6 | 18 | 56 |
+| 5 | Charlotte | 32 | 17 | 2 | 13 | 6 | 53 |
+| 6 | Nashville | 32 | 15 | 6 | 11 | 14 | 51 |
+| 7 | Orlando City | 30 | 14 | 9 | 7 | 15 | 51 |
+| 8 | Columbus Crew | 32 | 13 | 11 | 8 | 3 | 50 |
+| 9 | Chicago Fire | 31 | 14 | 6 | 11 | 5 | 48 |
+| 10 | New York RB | 32 | 12 | 7 | 13 | 4 | 43 |
+| 11 | New England Revolution | 32 | 9 | 8 | 15 | -4 | 35 |
 | 12 | Toronto | 31 | 5 | 13 | 13 | -7 | 28 |
-| 13 | Atlanta United | 30 | 5 | 12 | 13 | -18 | 27 |
-| 14 | DC United | 31 | 5 | 10 | 16 | -29 | 25 |
-| 15 | CF Montréal | 31 | 5 | 9 | 17 | -26 | 24 |
+| 13 | CF Montréal | 32 | 6 | 9 | 17 | -23 | 27 |
+| 14 | Atlanta United | 31 | 5 | 12 | 14 | -20 | 27 |
+| 15 | DC United | 32 | 5 | 10 | 17 | -35 | 25 |
 | 1 | San Diego | 31 | 17 | 6 | 8 | 18 | 57 |
 | 2 | Vancouver Whitecaps | 30 | 16 | 8 | 6 | 25 | 56 |
-| 3 | Minnesota United | 31 | 15 | 9 | 7 | 15 | 54 |
-| 4 | LAFC | 29 | 14 | 8 | 7 | 20 | 50 |
+| 3 | Minnesota United | 32 | 15 | 10 | 7 | 15 | 55 |
+| 4 | LAFC | 30 | 15 | 8 | 7 | 22 | 53 |
 | 5 | Seattle Sounders | 30 | 12 | 9 | 9 | 7 | 45 |
-| 6 | Austin | 30 | 12 | 8 | 10 | -4 | 44 |
+| 6 | Austin | 31 | 12 | 9 | 10 | -4 | 45 |
 | 7 | Portland Timbers | 31 | 11 | 10 | 10 | -2 | 43 |
-| 8 | Colorado Rapids | 31 | 11 | 6 | 14 | -11 | 39 |
+| 8 | Colorado Rapids | 32 | 11 | 7 | 14 | -11 | 40 |
 | 9 | Dallas | 30 | 9 | 10 | 11 | -4 | 37 |
-| 10 | Houston Dynamo | 31 | 9 | 9 | 13 | -9 | 36 |
-| 11 | San Jose Earthquakes | 31 | 9 | 8 | 14 | -2 | 35 |
-| 12 | Real Salt Lake | 30 | 10 | 4 | 16 | -13 | 34 |
-| 13 | St. Louis City | 31 | 7 | 7 | 17 | -13 | 28 |
+| 10 | Houston Dynamo | 32 | 9 | 10 | 13 | -9 | 37 |
+| 11 | Real Salt Lake | 31 | 10 | 5 | 16 | -13 | 35 |
+| 12 | San Jose Earthquakes | 31 | 9 | 8 | 14 | -2 | 35 |
+| 13 | St. Louis City | 32 | 7 | 7 | 18 | -15 | 28 |
 | 14 | Sporting KC | 31 | 7 | 6 | 18 | -18 | 27 |
 | 15 | LA Galaxy | 30 | 4 | 9 | 17 | -24 | 21 |
 
@@ -397,14 +397,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
-| 2 | Boca Juniors | 10 | 3 | 6 | 1 | 6 | 15 |
-| 3 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
+| 2 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
+| 3 | Def y Justicia | 10 | 4 | 3 | 3 | 2 | 15 |
 | 4 | Tigre | 10 | 4 | 3 | 3 | 2 | 15 |
 | 5 | Estudiantes | 9 | 5 | 0 | 4 | 0 | 15 |
-| 6 | Argentinos Juniors | 10 | 4 | 2 | 4 | 4 | 14 |
-| 7 | Córdoba SdE | 10 | 3 | 5 | 2 | 3 | 14 |
-| 8 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
-| 9 | Def y Justicia | 10 | 3 | 4 | 3 | 1 | 13 |
+| 6 | Boca Juniors | 10 | 3 | 5 | 2 | 5 | 14 |
+| 7 | Argentinos Juniors | 10 | 4 | 2 | 4 | 4 | 14 |
+| 8 | Córdoba SdE | 10 | 3 | 5 | 2 | 3 | 14 |
+| 9 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
 | 10 | Belgrano | 9 | 3 | 3 | 3 | 2 | 12 |
 | 11 | Huracán | 9 | 3 | 3 | 3 | -3 | 12 |
 | 12 | Racing Club | 9 | 3 | 1 | 5 | -2 | 10 |
@@ -417,14 +417,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
 | 5 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
 | 6 | Rosario | 9 | 3 | 6 | 0 | 5 | 15 |
-| 7 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
-| 8 | Sarmiento | 8 | 3 | 3 | 2 | -1 | 12 |
+| 7 | Sarmiento | 9 | 3 | 4 | 2 | -1 | 13 |
+| 8 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
 | 9 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
 | 10 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
 | 11 | GELP | 10 | 3 | 1 | 6 | -6 | 10 |
 | 12 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
 | 13 | Godoy Cruz | 10 | 1 | 5 | 4 | -5 | 8 |
-| 14 | Talleres | 9 | 1 | 4 | 4 | -5 | 7 |
+| 14 | Talleres | 10 | 1 | 5 | 4 | -5 | 8 |
 | 15 | Independiente | 8 | 0 | 4 | 4 | -4 | 4 |
 
 ### Brasileirão
@@ -434,7 +434,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Flamengo | 23 | 15 | 6 | 2 | 37 | 51 |
 | 2 | Cruzeiro | 25 | 15 | 5 | 5 | 20 | 50 |
 | 3 | Palmeiras | 22 | 15 | 4 | 3 | 18 | 49 |
-| 4 | Mirassol | 23 | 11 | 9 | 3 | 18 | 42 |
+| 4 | Mirassol | 24 | 11 | 9 | 4 | 17 | 42 |
 | 5 | Botafogo | 24 | 11 | 7 | 6 | 17 | 40 |
 | 6 | Bahia | 23 | 10 | 7 | 6 | 3 | 37 |
 | 7 | São Paulo | 24 | 9 | 8 | 7 | 3 | 35 |
@@ -444,9 +444,9 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Corinthians | 24 | 7 | 8 | 9 | -5 | 29 |
 | 12 | Grêmio | 24 | 7 | 8 | 9 | -6 | 29 |
 | 13 | Ceará | 23 | 7 | 7 | 9 | -1 | 28 |
-| 14 | Internacional | 24 | 7 | 7 | 10 | -8 | 28 |
-| 15 | Santos | 23 | 7 | 5 | 11 | -10 | 26 |
-| 16 | Atlético Mineiro | 22 | 6 | 7 | 9 | -5 | 25 |
+| 14 | Atlético Mineiro | 23 | 7 | 7 | 9 | -4 | 28 |
+| 15 | Internacional | 24 | 7 | 7 | 10 | -8 | 28 |
+| 16 | Santos | 23 | 7 | 5 | 11 | -10 | 26 |
 | 17 | Juventude | 24 | 6 | 4 | 14 | -26 | 22 |
 | 18 | Vitória | 24 | 4 | 10 | 10 | -16 | 22 |
 | 19 | Fortaleza | 24 | 5 | 6 | 13 | -14 | 21 |
