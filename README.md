@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 01:40 AM UTC (Sunday, 28 September 2025, 07:10 AM IST)
+**Last Updated:** Sunday, 28 September 2025, 03:08 AM UTC (Sunday, 28 September 2025, 08:38 AM IST)
 
 ### Premier League
 
@@ -348,31 +348,31 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | NYCFC | 32 | 17 | 5 | 10 | 8 | 56 |
 | 4 | Inter Miami | 30 | 16 | 8 | 6 | 18 | 56 |
 | 5 | Charlotte | 32 | 17 | 2 | 13 | 6 | 53 |
-| 6 | Nashville | 32 | 15 | 6 | 11 | 14 | 51 |
+| 6 | Nashville | 32 | 16 | 5 | 11 | 16 | 53 |
 | 7 | Orlando City | 30 | 14 | 9 | 7 | 15 | 51 |
-| 8 | Columbus Crew | 32 | 13 | 11 | 8 | 3 | 50 |
-| 9 | Chicago Fire | 31 | 14 | 6 | 11 | 5 | 48 |
+| 8 | Columbus Crew | 32 | 13 | 11 | 8 | 2 | 50 |
+| 9 | Chicago Fire | 31 | 14 | 6 | 11 | 6 | 48 |
 | 10 | New York RB | 32 | 12 | 7 | 13 | 4 | 43 |
 | 11 | New England Revolution | 32 | 9 | 8 | 15 | -4 | 35 |
 | 12 | Toronto | 31 | 5 | 13 | 13 | -7 | 28 |
 | 13 | CF Montréal | 32 | 6 | 9 | 17 | -23 | 27 |
 | 14 | Atlanta United | 31 | 5 | 12 | 14 | -20 | 27 |
 | 15 | DC United | 32 | 5 | 10 | 17 | -35 | 25 |
-| 1 | San Diego | 31 | 17 | 6 | 8 | 18 | 57 |
-| 2 | Vancouver Whitecaps | 30 | 16 | 8 | 6 | 25 | 56 |
+| 1 | San Diego | 32 | 17 | 6 | 9 | 17 | 57 |
+| 2 | Vancouver Whitecaps | 31 | 16 | 9 | 6 | 25 | 57 |
 | 3 | Minnesota United | 32 | 15 | 10 | 7 | 15 | 55 |
-| 4 | LAFC | 30 | 15 | 8 | 7 | 22 | 53 |
-| 5 | Seattle Sounders | 30 | 12 | 9 | 9 | 7 | 45 |
-| 6 | Austin | 31 | 12 | 9 | 10 | -4 | 45 |
-| 7 | Portland Timbers | 31 | 11 | 10 | 10 | -2 | 43 |
+| 4 | LAFC | 30 | 15 | 8 | 7 | 23 | 53 |
+| 5 | Seattle Sounders | 31 | 12 | 10 | 9 | 7 | 46 |
+| 6 | Austin | 31 | 12 | 8 | 11 | -6 | 44 |
+| 7 | Portland Timbers | 32 | 11 | 11 | 10 | -2 | 44 |
 | 8 | Colorado Rapids | 32 | 11 | 7 | 14 | -11 | 40 |
-| 9 | Dallas | 30 | 9 | 10 | 11 | -4 | 37 |
-| 10 | Houston Dynamo | 32 | 9 | 10 | 13 | -9 | 37 |
-| 11 | Real Salt Lake | 31 | 10 | 5 | 16 | -13 | 35 |
-| 12 | San Jose Earthquakes | 31 | 9 | 8 | 14 | -2 | 35 |
-| 13 | St. Louis City | 32 | 7 | 7 | 18 | -15 | 28 |
-| 14 | Sporting KC | 31 | 7 | 6 | 18 | -18 | 27 |
-| 15 | LA Galaxy | 30 | 4 | 9 | 17 | -24 | 21 |
+| 9 | San Jose Earthquakes | 32 | 10 | 8 | 14 | -1 | 38 |
+| 10 | Dallas | 31 | 9 | 11 | 11 | -4 | 38 |
+| 11 | Real Salt Lake | 31 | 11 | 4 | 16 | -11 | 37 |
+| 12 | Houston Dynamo | 32 | 9 | 9 | 14 | -11 | 36 |
+| 13 | St. Louis City | 32 | 7 | 7 | 18 | -16 | 28 |
+| 14 | Sporting KC | 32 | 7 | 6 | 19 | -20 | 27 |
+| 15 | LA Galaxy | 31 | 5 | 9 | 17 | -22 | 24 |
 
 ### Indian Super League
 
@@ -417,14 +417,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
 | 5 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
 | 6 | Rosario | 9 | 3 | 6 | 0 | 5 | 15 |
-| 7 | Sarmiento | 9 | 3 | 4 | 2 | -1 | 13 |
-| 8 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
+| 7 | Atl. Tucumán | 9 | 3 | 3 | 3 | 2 | 12 |
+| 8 | Sarmiento | 9 | 3 | 3 | 3 | -2 | 12 |
 | 9 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
 | 10 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
-| 11 | GELP | 10 | 3 | 1 | 6 | -6 | 10 |
-| 12 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
-| 13 | Godoy Cruz | 10 | 1 | 5 | 4 | -5 | 8 |
-| 14 | Talleres | 10 | 1 | 5 | 4 | -5 | 8 |
+| 11 | Talleres | 10 | 2 | 4 | 4 | -4 | 10 |
+| 12 | GELP | 10 | 3 | 1 | 6 | -6 | 10 |
+| 13 | Instituto | 9 | 2 | 4 | 3 | -6 | 10 |
+| 14 | Godoy Cruz | 10 | 1 | 5 | 4 | -5 | 8 |
 | 15 | Independiente | 8 | 0 | 4 | 4 | -4 | 4 |
 
 ### Brasileirão

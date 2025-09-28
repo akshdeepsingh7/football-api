@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 01:40 AM UTC",
-        "IST": "Sunday, 28 September 2025, 07:10 AM IST"
+        "UTC": "Sunday, 28 September 2025, 03:08 AM UTC",
+        "IST": "Sunday, 28 September 2025, 08:38 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2539,11 +2539,11 @@
                 "Position": "6",
                 "Team": "Nashville",
                 "Played": "32",
-                "Wins": "15",
-                "Draws": "6",
+                "Wins": "16",
+                "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "14",
-                "Points": "51"
+                "Goal Difference": "16",
+                "Points": "53"
             },
             {
                 "Position": "7",
@@ -2562,7 +2562,7 @@
                 "Wins": "13",
                 "Draws": "11",
                 "Losses": "8",
-                "Goal Difference": "3",
+                "Goal Difference": "2",
                 "Points": "50"
             },
             {
@@ -2572,7 +2572,7 @@
                 "Wins": "14",
                 "Draws": "6",
                 "Losses": "11",
-                "Goal Difference": "5",
+                "Goal Difference": "6",
                 "Points": "48"
             },
             {
@@ -2638,22 +2638,22 @@
             {
                 "Position": "1",
                 "Team": "San Diego",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "17",
                 "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "18",
+                "Losses": "9",
+                "Goal Difference": "17",
                 "Points": "57"
             },
             {
                 "Position": "2",
                 "Team": "Vancouver Whitecaps",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "16",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "6",
                 "Goal Difference": "25",
-                "Points": "56"
+                "Points": "57"
             },
             {
                 "Position": "3",
@@ -2672,38 +2672,38 @@
                 "Wins": "15",
                 "Draws": "8",
                 "Losses": "7",
-                "Goal Difference": "22",
+                "Goal Difference": "23",
                 "Points": "53"
             },
             {
                 "Position": "5",
                 "Team": "Seattle Sounders",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "12",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "9",
                 "Goal Difference": "7",
-                "Points": "45"
+                "Points": "46"
             },
             {
                 "Position": "6",
                 "Team": "Austin",
                 "Played": "31",
                 "Wins": "12",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-4",
-                "Points": "45"
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-6",
+                "Points": "44"
             },
             {
                 "Position": "7",
                 "Team": "Portland Timbers",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "11",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "10",
                 "Goal Difference": "-2",
-                "Points": "43"
+                "Points": "44"
             },
             {
                 "Position": "8",
@@ -2717,43 +2717,43 @@
             },
             {
                 "Position": "9",
-                "Team": "Dallas",
-                "Played": "30",
-                "Wins": "9",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-4",
-                "Points": "37"
+                "Team": "San Jose Earthquakes",
+                "Played": "32",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "14",
+                "Goal Difference": "-1",
+                "Points": "38"
             },
             {
                 "Position": "10",
-                "Team": "Houston Dynamo",
-                "Played": "32",
+                "Team": "Dallas",
+                "Played": "31",
                 "Wins": "9",
-                "Draws": "10",
-                "Losses": "13",
-                "Goal Difference": "-9",
-                "Points": "37"
+                "Draws": "11",
+                "Losses": "11",
+                "Goal Difference": "-4",
+                "Points": "38"
             },
             {
                 "Position": "11",
                 "Team": "Real Salt Lake",
                 "Played": "31",
-                "Wins": "10",
-                "Draws": "5",
+                "Wins": "11",
+                "Draws": "4",
                 "Losses": "16",
-                "Goal Difference": "-13",
-                "Points": "35"
+                "Goal Difference": "-11",
+                "Points": "37"
             },
             {
                 "Position": "12",
-                "Team": "San Jose Earthquakes",
-                "Played": "31",
+                "Team": "Houston Dynamo",
+                "Played": "32",
                 "Wins": "9",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "14",
-                "Goal Difference": "-2",
-                "Points": "35"
+                "Goal Difference": "-11",
+                "Points": "36"
             },
             {
                 "Position": "13",
@@ -2762,28 +2762,28 @@
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "18",
-                "Goal Difference": "-15",
+                "Goal Difference": "-16",
                 "Points": "28"
             },
             {
                 "Position": "14",
                 "Team": "Sporting KC",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "7",
                 "Draws": "6",
-                "Losses": "18",
-                "Goal Difference": "-18",
+                "Losses": "19",
+                "Goal Difference": "-20",
                 "Points": "27"
             },
             {
                 "Position": "15",
                 "Team": "LA Galaxy",
-                "Played": "30",
-                "Wins": "4",
+                "Played": "31",
+                "Wins": "5",
                 "Draws": "9",
                 "Losses": "17",
-                "Goal Difference": "-24",
-                "Points": "21"
+                "Goal Difference": "-22",
+                "Points": "24"
             }
         ],
         "Indian Super League": [
@@ -3131,22 +3131,22 @@
             },
             {
                 "Position": "7",
-                "Team": "Sarmiento",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "13"
-            },
-            {
-                "Position": "8",
                 "Team": "Atl. Tucum\u00e1n",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "2",
+                "Points": "12"
+            },
+            {
+                "Position": "8",
+                "Team": "Sarmiento",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-2",
                 "Points": "12"
             },
             {
@@ -3171,6 +3171,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Talleres",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "10"
+            },
+            {
+                "Position": "12",
                 "Team": "GELP",
                 "Played": "10",
                 "Wins": "3",
@@ -3180,7 +3190,7 @@
                 "Points": "10"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Instituto",
                 "Played": "9",
                 "Wins": "2",
@@ -3190,18 +3200,8 @@
                 "Points": "10"
             },
             {
-                "Position": "13",
-                "Team": "Godoy Cruz",
-                "Played": "10",
-                "Wins": "1",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "8"
-            },
-            {
                 "Position": "14",
-                "Team": "Talleres",
+                "Team": "Godoy Cruz",
                 "Played": "10",
                 "Wins": "1",
                 "Draws": "5",
