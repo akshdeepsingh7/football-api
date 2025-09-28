@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 04:22 AM UTC",
-        "IST": "Sunday, 28 September 2025, 09:52 AM IST"
+        "UTC": "Sunday, 28 September 2025, 04:41 AM UTC",
+        "IST": "Sunday, 28 September 2025, 10:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2687,22 +2687,22 @@
             },
             {
                 "Position": "6",
-                "Team": "Portland Timbers",
-                "Played": "32",
-                "Wins": "12",
-                "Draws": "10",
-                "Losses": "10",
-                "Goal Difference": "-1",
-                "Points": "46"
-            },
-            {
-                "Position": "7",
                 "Team": "Austin",
                 "Played": "31",
                 "Wins": "12",
                 "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-6",
+                "Points": "44"
+            },
+            {
+                "Position": "7",
+                "Team": "Portland Timbers",
+                "Played": "32",
+                "Wins": "11",
+                "Draws": "11",
+                "Losses": "10",
+                "Goal Difference": "-2",
                 "Points": "44"
             },
             {
@@ -2727,22 +2727,22 @@
             },
             {
                 "Position": "10",
+                "Team": "Dallas",
+                "Played": "31",
+                "Wins": "9",
+                "Draws": "11",
+                "Losses": "11",
+                "Goal Difference": "-4",
+                "Points": "38"
+            },
+            {
+                "Position": "11",
                 "Team": "Real Salt Lake",
                 "Played": "31",
                 "Wins": "11",
                 "Draws": "4",
                 "Losses": "16",
                 "Goal Difference": "-11",
-                "Points": "37"
-            },
-            {
-                "Position": "11",
-                "Team": "Dallas",
-                "Played": "31",
-                "Wins": "9",
-                "Draws": "10",
-                "Losses": "12",
-                "Goal Difference": "-5",
                 "Points": "37"
             },
             {
