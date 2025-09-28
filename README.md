@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 10:38 PM UTC (Monday, 29 September 2025, 04:08 AM IST)
+**Last Updated:** Sunday, 28 September 2025, 11:16 PM UTC (Monday, 29 September 2025, 04:46 AM IST)
 
 ### Premier League
 
@@ -344,12 +344,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Philadelphia Union | 32 | 19 | 6 | 7 | 23 | 63 |
-| 2 | Cincinnati | 31 | 18 | 4 | 9 | 8 | 58 |
+| 2 | Cincinnati | 32 | 18 | 5 | 9 | 8 | 59 |
 | 3 | NYCFC | 32 | 17 | 5 | 10 | 8 | 56 |
 | 4 | Inter Miami | 30 | 16 | 8 | 6 | 18 | 56 |
 | 5 | Charlotte | 32 | 17 | 2 | 13 | 6 | 53 |
 | 6 | Nashville | 32 | 16 | 5 | 11 | 16 | 53 |
-| 7 | Orlando City | 30 | 14 | 9 | 7 | 15 | 51 |
+| 7 | Orlando City | 31 | 14 | 10 | 7 | 15 | 52 |
 | 8 | Columbus Crew | 32 | 13 | 11 | 8 | 2 | 50 |
 | 9 | Chicago Fire | 31 | 14 | 6 | 11 | 6 | 48 |
 | 10 | New York RB | 32 | 12 | 7 | 13 | 4 | 43 |
@@ -439,14 +439,14 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Bahia | 24 | 11 | 7 | 6 | 4 | 40 |
 | 7 | São Paulo | 24 | 9 | 8 | 7 | 3 | 35 |
 | 8 | Fluminense | 23 | 10 | 4 | 9 | -1 | 34 |
-| 9 | RB Bragantino | 25 | 10 | 4 | 11 | -5 | 34 |
+| 9 | RB Bragantino | 25 | 9 | 5 | 11 | -6 | 32 |
 | 10 | Grêmio | 25 | 8 | 8 | 9 | -4 | 32 |
 | 11 | Vasco da Gama | 25 | 8 | 6 | 11 | 3 | 30 |
 | 12 | Corinthians | 24 | 7 | 8 | 9 | -5 | 29 |
 | 13 | Ceará | 23 | 7 | 7 | 9 | -1 | 28 |
 | 14 | Atlético Mineiro | 23 | 7 | 7 | 9 | -4 | 28 |
 | 15 | Internacional | 24 | 7 | 7 | 10 | -8 | 28 |
-| 16 | Santos | 24 | 7 | 5 | 12 | -11 | 26 |
+| 16 | Santos | 24 | 7 | 6 | 11 | -10 | 27 |
 | 17 | Juventude | 24 | 6 | 4 | 14 | -26 | 22 |
 | 18 | Vitória | 25 | 4 | 10 | 11 | -18 | 22 |
 | 19 | Fortaleza | 24 | 5 | 6 | 13 | -14 | 21 |

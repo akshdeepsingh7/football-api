@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 10:38 PM UTC",
-        "IST": "Monday, 29 September 2025, 04:08 AM IST"
+        "UTC": "Sunday, 28 September 2025, 11:16 PM UTC",
+        "IST": "Monday, 29 September 2025, 04:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2498,12 +2498,12 @@
             {
                 "Position": "2",
                 "Team": "Cincinnati",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "18",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "9",
                 "Goal Difference": "8",
-                "Points": "58"
+                "Points": "59"
             },
             {
                 "Position": "3",
@@ -2548,12 +2548,12 @@
             {
                 "Position": "7",
                 "Team": "Orlando City",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "14",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "7",
                 "Goal Difference": "15",
-                "Points": "51"
+                "Points": "52"
             },
             {
                 "Position": "8",
@@ -3305,11 +3305,11 @@
                 "Position": "9",
                 "Team": "RB Bragantino",
                 "Played": "25",
-                "Wins": "10",
-                "Draws": "4",
+                "Wins": "9",
+                "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-5",
-                "Points": "34"
+                "Goal Difference": "-6",
+                "Points": "32"
             },
             {
                 "Position": "10",
@@ -3376,10 +3376,10 @@
                 "Team": "Santos",
                 "Played": "24",
                 "Wins": "7",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-11",
-                "Points": "26"
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "-10",
+                "Points": "27"
             },
             {
                 "Position": "17",
