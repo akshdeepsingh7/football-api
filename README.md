@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 03:08 AM UTC (Sunday, 28 September 2025, 08:38 AM IST)
+**Last Updated:** Sunday, 28 September 2025, 03:50 AM UTC (Sunday, 28 September 2025, 09:20 AM IST)
 
 ### Premier League
 
@@ -363,12 +363,12 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Minnesota United | 32 | 15 | 10 | 7 | 15 | 55 |
 | 4 | LAFC | 30 | 15 | 8 | 7 | 23 | 53 |
 | 5 | Seattle Sounders | 31 | 12 | 10 | 9 | 7 | 46 |
-| 6 | Austin | 31 | 12 | 8 | 11 | -6 | 44 |
-| 7 | Portland Timbers | 32 | 11 | 11 | 10 | -2 | 44 |
+| 6 | Portland Timbers | 32 | 12 | 10 | 10 | -1 | 46 |
+| 7 | Austin | 31 | 12 | 8 | 11 | -6 | 44 |
 | 8 | Colorado Rapids | 32 | 11 | 7 | 14 | -11 | 40 |
 | 9 | San Jose Earthquakes | 32 | 10 | 8 | 14 | -1 | 38 |
-| 10 | Dallas | 31 | 9 | 11 | 11 | -4 | 38 |
-| 11 | Real Salt Lake | 31 | 11 | 4 | 16 | -11 | 37 |
+| 10 | Real Salt Lake | 31 | 11 | 4 | 16 | -11 | 37 |
+| 11 | Dallas | 31 | 9 | 10 | 12 | -5 | 37 |
 | 12 | Houston Dynamo | 32 | 9 | 9 | 14 | -11 | 36 |
 | 13 | St. Louis City | 32 | 7 | 7 | 18 | -16 | 28 |
 | 14 | Sporting KC | 32 | 7 | 6 | 19 | -20 | 27 |
