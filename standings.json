@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 September 2025, 08:38 PM UTC",
-        "IST": "Monday, 29 September 2025, 02:08 AM IST"
+        "UTC": "Sunday, 28 September 2025, 09:15 PM UTC",
+        "IST": "Monday, 29 September 2025, 02:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3072,21 +3072,21 @@
             {
                 "Position": "1",
                 "Team": "Riestra",
-                "Played": "9",
-                "Wins": "6",
+                "Played": "10",
+                "Wins": "7",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "7",
-                "Points": "19"
+                "Goal Difference": "8",
+                "Points": "22"
             },
             {
                 "Position": "2",
                 "Team": "River Plate",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "5",
                 "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "9",
+                "Losses": "2",
+                "Goal Difference": "8",
                 "Points": "18"
             },
             {
@@ -3246,10 +3246,10 @@
                 "Team": "Palmeiras",
                 "Played": "23",
                 "Wins": "15",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "18",
-                "Points": "50"
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "17",
+                "Points": "49"
             },
             {
                 "Position": "4",
@@ -3268,18 +3268,18 @@
                 "Wins": "11",
                 "Draws": "7",
                 "Losses": "7",
-                "Goal Difference": "16",
+                "Goal Difference": "15",
                 "Points": "40"
             },
             {
                 "Position": "6",
                 "Team": "Bahia",
                 "Played": "24",
-                "Wins": "10",
-                "Draws": "8",
+                "Wins": "11",
+                "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "3",
-                "Points": "38"
+                "Goal Difference": "4",
+                "Points": "40"
             },
             {
                 "Position": "7",
@@ -3298,7 +3298,7 @@
                 "Wins": "10",
                 "Draws": "4",
                 "Losses": "9",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "34"
             },
             {

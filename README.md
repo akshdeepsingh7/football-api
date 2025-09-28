@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 September 2025, 08:38 PM UTC (Monday, 29 September 2025, 02:08 AM IST)
+**Last Updated:** Sunday, 28 September 2025, 09:15 PM UTC (Monday, 29 September 2025, 02:45 AM IST)
 
 ### Premier League
 
@@ -411,8 +411,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Independiente Rivadavia | 9 | 2 | 3 | 4 | -2 | 9 |
 | 14 | Newell's Old Boys | 9 | 2 | 3 | 4 | -3 | 9 |
 | 15 | Aldosivi | 10 | 0 | 3 | 7 | -13 | 3 |
-| 1 | Riestra | 9 | 6 | 1 | 2 | 7 | 19 |
-| 2 | River Plate | 9 | 5 | 3 | 1 | 9 | 18 |
+| 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
+| 2 | River Plate | 10 | 5 | 3 | 2 | 8 | 18 |
 | 3 | Vélez | 9 | 5 | 3 | 1 | 7 | 18 |
 | 4 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
 | 5 | Lanús | 9 | 5 | 1 | 3 | 1 | 16 |
@@ -433,12 +433,12 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 23 | 15 | 6 | 2 | 37 | 51 |
 | 2 | Cruzeiro | 25 | 15 | 5 | 5 | 20 | 50 |
-| 3 | Palmeiras | 23 | 15 | 5 | 3 | 18 | 50 |
+| 3 | Palmeiras | 23 | 15 | 4 | 4 | 17 | 49 |
 | 4 | Mirassol | 24 | 11 | 9 | 4 | 17 | 42 |
-| 5 | Botafogo | 25 | 11 | 7 | 7 | 16 | 40 |
-| 6 | Bahia | 24 | 10 | 8 | 6 | 3 | 38 |
+| 5 | Botafogo | 25 | 11 | 7 | 7 | 15 | 40 |
+| 6 | Bahia | 24 | 11 | 7 | 6 | 4 | 40 |
 | 7 | São Paulo | 24 | 9 | 8 | 7 | 3 | 35 |
-| 8 | Fluminense | 23 | 10 | 4 | 9 | -2 | 34 |
+| 8 | Fluminense | 23 | 10 | 4 | 9 | -1 | 34 |
 | 9 | Grêmio | 25 | 8 | 8 | 9 | -4 | 32 |
 | 10 | RB Bragantino | 24 | 9 | 4 | 11 | -6 | 31 |
 | 11 | Vasco da Gama | 25 | 8 | 6 | 11 | 3 | 30 |
