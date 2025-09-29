@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 September 2025, 11:17 PM UTC (Tuesday, 30 September 2025, 04:47 AM IST)
+**Last Updated:** Monday, 29 September 2025, 11:37 PM UTC (Tuesday, 30 September 2025, 05:07 AM IST)
 
 ### Premier League
 
@@ -412,12 +412,12 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Newell's Old Boys | 9 | 2 | 3 | 4 | -3 | 9 |
 | 15 | Aldosivi | 10 | 0 | 3 | 7 | -13 | 3 |
 | 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
-| 2 | River Plate | 10 | 5 | 3 | 2 | 8 | 18 |
-| 3 | Vélez | 10 | 5 | 3 | 2 | 6 | 18 |
+| 2 | Vélez | 10 | 5 | 4 | 1 | 7 | 19 |
+| 3 | River Plate | 10 | 5 | 3 | 2 | 8 | 18 |
 | 4 | Lanús | 10 | 5 | 2 | 3 | 1 | 17 |
 | 5 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
 | 6 | Rosario | 9 | 3 | 6 | 0 | 5 | 15 |
-| 7 | Atl. Tucumán | 10 | 4 | 3 | 3 | 3 | 15 |
+| 7 | Atl. Tucumán | 10 | 3 | 4 | 3 | 2 | 13 |
 | 8 | Sarmiento | 9 | 3 | 3 | 3 | -2 | 12 |
 | 9 | Instituto | 10 | 2 | 5 | 3 | -6 | 11 |
 | 10 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
