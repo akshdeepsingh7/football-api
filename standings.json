@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 29 September 2025, 06:49 PM UTC",
-        "IST": "Tuesday, 30 September 2025, 12:19 AM IST"
+        "UTC": "Monday, 29 September 2025, 07:15 PM UTC",
+        "IST": "Tuesday, 30 September 2025, 12:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -87,6 +87,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Everton",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "8"
+            },
+            {
+                "Position": "10",
                 "Team": "Brighton & Hove Albion",
                 "Played": "6",
                 "Wins": "2",
@@ -96,7 +106,7 @@
                 "Points": "8"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Fulham",
                 "Played": "6",
                 "Wins": "2",
@@ -106,7 +116,7 @@
                 "Points": "8"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Leeds United",
                 "Played": "6",
                 "Wins": "2",
@@ -114,16 +124,6 @@
                 "Losses": "2",
                 "Goal Difference": "-3",
                 "Points": "8"
-            },
-            {
-                "Position": "12",
-                "Team": "Everton",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "7"
             },
             {
                 "Position": "13",
@@ -188,12 +188,12 @@
             {
                 "Position": "19",
                 "Team": "West Ham United",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "1",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "4",
                 "Goal Difference": "-8",
-                "Points": "3"
+                "Points": "4"
             },
             {
                 "Position": "20",
@@ -703,6 +703,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Lazio",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "1",
+                "Points": "6"
+            },
+            {
+                "Position": "13",
                 "Team": "Sassuolo",
                 "Played": "5",
                 "Wins": "2",
@@ -712,7 +722,7 @@
                 "Points": "6"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Parma",
                 "Played": "5",
                 "Wins": "1",
@@ -720,16 +730,6 @@
                 "Losses": "2",
                 "Goal Difference": "-3",
                 "Points": "5"
-            },
-            {
-                "Position": "14",
-                "Team": "Lazio",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "0",
-                "Points": "4"
             },
             {
                 "Position": "15",
@@ -743,16 +743,6 @@
             },
             {
                 "Position": "16",
-                "Team": "Genoa",
-                "Played": "5",
-                "Wins": "0",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "3"
-            },
-            {
-                "Position": "17",
                 "Team": "Fiorentina",
                 "Played": "5",
                 "Wins": "0",
@@ -762,7 +752,7 @@
                 "Points": "3"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Hellas Verona",
                 "Played": "5",
                 "Wins": "0",
@@ -772,8 +762,18 @@
                 "Points": "3"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Pisa",
+                "Played": "5",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "2"
+            },
+            {
+                "Position": "19",
+                "Team": "Genoa",
                 "Played": "5",
                 "Wins": "0",
                 "Draws": "2",
@@ -2064,12 +2064,12 @@
             {
                 "Position": "1",
                 "Team": "Porto",
-                "Played": "6",
-                "Wins": "6",
+                "Played": "7",
+                "Wins": "7",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "14",
-                "Points": "18"
+                "Goal Difference": "15",
+                "Points": "21"
             },
             {
                 "Position": "2",
@@ -2144,11 +2144,11 @@
             {
                 "Position": "9",
                 "Team": "Arouca",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-5",
+                "Losses": "3",
+                "Goal Difference": "-6",
                 "Points": "8"
             },
             {
@@ -2921,16 +2921,6 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
-                "Team": "Barracas",
-                "Played": "10",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "18"
-            },
-            {
-                "Position": "2",
                 "Team": "Uni\u00f3n",
                 "Played": "10",
                 "Wins": "4",
@@ -2938,6 +2928,16 @@
                 "Losses": "1",
                 "Goal Difference": "7",
                 "Points": "17"
+            },
+            {
+                "Position": "2",
+                "Team": "Barracas",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "16"
             },
             {
                 "Position": "3",
@@ -3011,6 +3011,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Belgrano",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "13"
+            },
+            {
+                "Position": "11",
                 "Team": "Hurac\u00e1n",
                 "Played": "10",
                 "Wins": "3",
@@ -3018,16 +3028,6 @@
                 "Losses": "3",
                 "Goal Difference": "-3",
                 "Points": "13"
-            },
-            {
-                "Position": "11",
-                "Team": "Belgrano",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "1",
-                "Points": "12"
             },
             {
                 "Position": "12",
