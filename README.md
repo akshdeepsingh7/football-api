@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 September 2025, 08:19 PM UTC (Tuesday, 30 September 2025, 01:49 AM IST)
+**Last Updated:** Monday, 29 September 2025, 08:39 PM UTC (Tuesday, 30 September 2025, 02:09 AM IST)
 
 ### Premier League
 
@@ -54,8 +54,8 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Sunderland | 6 | 3 | 2 | 1 | 3 | 11 |
 | 6 | AFC Bournemouth | 6 | 3 | 2 | 1 | 1 | 11 |
 | 7 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
-| 8 | Everton | 6 | 3 | 1 | 2 | 2 | 10 |
-| 9 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
+| 8 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
+| 9 | Everton | 6 | 2 | 2 | 2 | 1 | 8 |
 | 10 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |
 | 11 | Fulham | 6 | 2 | 2 | 2 | -1 | 8 |
 | 12 | Leeds United | 6 | 2 | 2 | 2 | -3 | 8 |
@@ -65,7 +65,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Aston Villa | 6 | 1 | 3 | 2 | -2 | 6 |
 | 17 | Nottingham Forest | 6 | 1 | 2 | 3 | -5 | 5 |
 | 18 | Burnley | 6 | 1 | 1 | 4 | -7 | 4 |
-| 19 | West Ham United | 6 | 1 | 0 | 5 | -9 | 3 |
+| 19 | West Ham United | 6 | 1 | 1 | 4 | -8 | 4 |
 | 20 | Wolverhampton Wanderers | 6 | 0 | 1 | 5 | -9 | 1 |
 
 ### La Liga
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 7 | 7 | 0 | 0 | 16 | 21 |
+| 1 | Porto | 7 | 7 | 0 | 0 | 17 | 21 |
 | 2 | Sporting CP | 7 | 6 | 0 | 1 | 15 | 18 |
 | 3 | Benfica | 7 | 5 | 2 | 0 | 9 | 17 |
 | 4 | Moreirense | 7 | 5 | 0 | 2 | 2 | 15 |
@@ -299,7 +299,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Famalicão | 7 | 3 | 3 | 1 | 4 | 12 |
 | 7 | Braga | 7 | 2 | 3 | 2 | 4 | 9 |
 | 8 | Vitória S.C. | 7 | 2 | 2 | 3 | -4 | 8 |
-| 9 | Arouca | 7 | 2 | 2 | 3 | -7 | 8 |
+| 9 | Arouca | 7 | 2 | 2 | 3 | -8 | 8 |
 | 10 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
 | 11 | Nacional | 7 | 2 | 1 | 4 | -4 | 7 |
 | 12 | Estrela Amadora | 7 | 1 | 4 | 2 | 0 | 7 |
