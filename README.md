@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 September 2025, 07:37 PM UTC (Tuesday, 30 September 2025, 01:07 AM IST)
+**Last Updated:** Monday, 29 September 2025, 08:19 PM UTC (Tuesday, 30 September 2025, 01:49 AM IST)
 
 ### Premier League
 
@@ -131,14 +131,14 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Bologna | 5 | 2 | 1 | 2 | 0 | 7 |
 | 10 | Cagliari | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Udinese | 5 | 2 | 1 | 2 | -3 | 7 |
-| 12 | Lazio | 5 | 2 | 0 | 3 | 2 | 6 |
+| 12 | Lazio | 5 | 2 | 0 | 3 | 3 | 6 |
 | 13 | Sassuolo | 5 | 2 | 0 | 3 | -1 | 6 |
 | 14 | Parma | 5 | 1 | 2 | 2 | -3 | 5 |
 | 15 | Torino | 5 | 1 | 1 | 3 | -8 | 4 |
 | 16 | Fiorentina | 5 | 0 | 3 | 2 | -3 | 3 |
 | 17 | Hellas Verona | 5 | 0 | 3 | 2 | -6 | 3 |
 | 18 | Pisa | 5 | 0 | 2 | 3 | -3 | 2 |
-| 19 | Genoa | 5 | 0 | 2 | 3 | -4 | 2 |
+| 19 | Genoa | 5 | 0 | 2 | 3 | -5 | 2 |
 | 20 | Lecce | 5 | 0 | 2 | 3 | -6 | 2 |
 
 ### Ligue 1
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 7 | 7 | 0 | 0 | 15 | 21 |
+| 1 | Porto | 7 | 7 | 0 | 0 | 16 | 21 |
 | 2 | Sporting CP | 7 | 6 | 0 | 1 | 15 | 18 |
 | 3 | Benfica | 7 | 5 | 2 | 0 | 9 | 17 |
 | 4 | Moreirense | 7 | 5 | 0 | 2 | 2 | 15 |
@@ -299,7 +299,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Famalicão | 7 | 3 | 3 | 1 | 4 | 12 |
 | 7 | Braga | 7 | 2 | 3 | 2 | 4 | 9 |
 | 8 | Vitória S.C. | 7 | 2 | 2 | 3 | -4 | 8 |
-| 9 | Arouca | 7 | 2 | 2 | 3 | -6 | 8 |
+| 9 | Arouca | 7 | 2 | 2 | 3 | -7 | 8 |
 | 10 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
 | 11 | Nacional | 7 | 2 | 1 | 4 | -4 | 7 |
 | 12 | Estrela Amadora | 7 | 1 | 4 | 2 | 0 | 7 |
@@ -396,8 +396,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barracas | 10 | 5 | 3 | 2 | 3 | 18 |
-| 2 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
+| 1 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
+| 2 | Barracas | 10 | 4 | 4 | 2 | 2 | 16 |
 | 3 | Def y Justicia | 10 | 4 | 3 | 3 | 2 | 15 |
 | 4 | Tigre | 10 | 4 | 3 | 3 | 2 | 15 |
 | 5 | Estudiantes | 9 | 5 | 0 | 4 | 0 | 15 |
@@ -405,8 +405,8 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Argentinos Juniors | 10 | 4 | 2 | 4 | 4 | 14 |
 | 8 | Córdoba SdE | 10 | 3 | 5 | 2 | 3 | 14 |
 | 9 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
-| 10 | Huracán | 10 | 3 | 4 | 3 | -3 | 13 |
-| 11 | Belgrano | 10 | 3 | 3 | 4 | 1 | 12 |
+| 10 | Belgrano | 10 | 3 | 4 | 3 | 2 | 13 |
+| 11 | Huracán | 10 | 3 | 4 | 3 | -3 | 13 |
 | 12 | Racing Club | 10 | 3 | 2 | 5 | -2 | 11 |
 | 13 | Independiente Rivadavia | 10 | 2 | 4 | 4 | -2 | 10 |
 | 14 | Newell's Old Boys | 9 | 2 | 3 | 4 | -3 | 9 |
