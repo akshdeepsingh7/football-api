@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 September 2025, 06:28 PM UTC (Monday, 29 September 2025, 11:58 PM IST)
+**Last Updated:** Monday, 29 September 2025, 06:49 PM UTC (Tuesday, 30 September 2025, 12:19 AM IST)
 
 ### Premier League
 
@@ -133,11 +133,11 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Udinese | 5 | 2 | 1 | 2 | -3 | 7 |
 | 12 | Sassuolo | 5 | 2 | 0 | 3 | -1 | 6 |
 | 13 | Parma | 5 | 1 | 2 | 2 | -3 | 5 |
-| 14 | Torino | 5 | 1 | 1 | 3 | -8 | 4 |
-| 15 | Lazio | 4 | 1 | 0 | 3 | 0 | 3 |
-| 16 | Fiorentina | 5 | 0 | 3 | 2 | -3 | 3 |
-| 17 | Hellas Verona | 5 | 0 | 3 | 2 | -6 | 3 |
-| 18 | Genoa | 4 | 0 | 2 | 2 | -2 | 2 |
+| 14 | Lazio | 5 | 1 | 1 | 3 | 0 | 4 |
+| 15 | Torino | 5 | 1 | 1 | 3 | -8 | 4 |
+| 16 | Genoa | 5 | 0 | 3 | 2 | -2 | 3 |
+| 17 | Fiorentina | 5 | 0 | 3 | 2 | -3 | 3 |
+| 18 | Hellas Verona | 5 | 0 | 3 | 2 | -6 | 3 |
 | 19 | Pisa | 5 | 0 | 2 | 3 | -3 | 2 |
 | 20 | Lecce | 5 | 0 | 2 | 3 | -6 | 2 |
 
@@ -396,8 +396,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
-| 2 | Barracas | 9 | 4 | 3 | 2 | 2 | 15 |
+| 1 | Barracas | 10 | 5 | 3 | 2 | 3 | 18 |
+| 2 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
 | 3 | Def y Justicia | 10 | 4 | 3 | 3 | 2 | 15 |
 | 4 | Tigre | 10 | 4 | 3 | 3 | 2 | 15 |
 | 5 | Estudiantes | 9 | 5 | 0 | 4 | 0 | 15 |
@@ -406,7 +406,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Córdoba SdE | 10 | 3 | 5 | 2 | 3 | 14 |
 | 9 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
 | 10 | Huracán | 10 | 3 | 4 | 3 | -3 | 13 |
-| 11 | Belgrano | 9 | 3 | 3 | 3 | 2 | 12 |
+| 11 | Belgrano | 10 | 3 | 3 | 4 | 1 | 12 |
 | 12 | Racing Club | 10 | 3 | 2 | 5 | -2 | 11 |
 | 13 | Independiente Rivadavia | 10 | 2 | 4 | 4 | -2 | 10 |
 | 14 | Newell's Old Boys | 9 | 2 | 3 | 4 | -3 | 9 |
