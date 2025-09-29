@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 September 2025, 08:39 PM UTC (Tuesday, 30 September 2025, 02:09 AM IST)
+**Last Updated:** Monday, 29 September 2025, 09:16 PM UTC (Tuesday, 30 September 2025, 02:46 AM IST)
 
 ### Premier League
 
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 7 | 7 | 0 | 0 | 17 | 21 |
+| 1 | Porto | 7 | 7 | 0 | 0 | 18 | 21 |
 | 2 | Sporting CP | 7 | 6 | 0 | 1 | 15 | 18 |
 | 3 | Benfica | 7 | 5 | 2 | 0 | 9 | 17 |
 | 4 | Moreirense | 7 | 5 | 0 | 2 | 2 | 15 |
@@ -299,7 +299,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Famalicão | 7 | 3 | 3 | 1 | 4 | 12 |
 | 7 | Braga | 7 | 2 | 3 | 2 | 4 | 9 |
 | 8 | Vitória S.C. | 7 | 2 | 2 | 3 | -4 | 8 |
-| 9 | Arouca | 7 | 2 | 2 | 3 | -8 | 8 |
+| 9 | Arouca | 7 | 2 | 2 | 3 | -9 | 8 |
 | 10 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
 | 11 | Nacional | 7 | 2 | 1 | 4 | -4 | 7 |
 | 12 | Estrela Amadora | 7 | 1 | 4 | 2 | 0 | 7 |
