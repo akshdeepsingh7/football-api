@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 September 2025, 11:37 PM UTC (Tuesday, 30 September 2025, 05:07 AM IST)
+**Last Updated:** Tuesday, 30 September 2025, 01:25 AM UTC (Tuesday, 30 September 2025, 06:55 AM IST)
 
 ### Premier League
 
@@ -412,12 +412,12 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Newell's Old Boys | 9 | 2 | 3 | 4 | -3 | 9 |
 | 15 | Aldosivi | 10 | 0 | 3 | 7 | -13 | 3 |
 | 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
-| 2 | Vélez | 10 | 5 | 4 | 1 | 7 | 19 |
+| 2 | Vélez | 10 | 6 | 3 | 1 | 9 | 21 |
 | 3 | River Plate | 10 | 5 | 3 | 2 | 8 | 18 |
 | 4 | Lanús | 10 | 5 | 2 | 3 | 1 | 17 |
 | 5 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
 | 6 | Rosario | 9 | 3 | 6 | 0 | 5 | 15 |
-| 7 | Atl. Tucumán | 10 | 3 | 4 | 3 | 2 | 13 |
+| 7 | Atl. Tucumán | 10 | 3 | 3 | 4 | 0 | 12 |
 | 8 | Sarmiento | 9 | 3 | 3 | 3 | -2 | 12 |
 | 9 | Instituto | 10 | 2 | 5 | 3 | -6 | 11 |
 | 10 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
@@ -437,12 +437,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Mirassol | 24 | 11 | 9 | 4 | 17 | 42 |
 | 5 | Botafogo | 25 | 11 | 7 | 7 | 15 | 40 |
 | 6 | Bahia | 24 | 11 | 7 | 6 | 4 | 40 |
-| 7 | São Paulo | 25 | 9 | 9 | 7 | 3 | 36 |
+| 7 | São Paulo | 25 | 9 | 8 | 8 | 2 | 35 |
 | 8 | Fluminense | 23 | 10 | 4 | 9 | -1 | 34 |
 | 9 | RB Bragantino | 25 | 9 | 5 | 11 | -6 | 32 |
 | 10 | Grêmio | 25 | 8 | 8 | 9 | -4 | 32 |
-| 11 | Vasco da Gama | 25 | 8 | 6 | 11 | 3 | 30 |
-| 12 | Ceará | 24 | 7 | 8 | 9 | -1 | 29 |
+| 11 | Ceará | 24 | 8 | 7 | 9 | 0 | 31 |
+| 12 | Vasco da Gama | 25 | 8 | 6 | 11 | 3 | 30 |
 | 13 | Corinthians | 25 | 7 | 8 | 10 | -6 | 29 |
 | 14 | Atlético Mineiro | 23 | 7 | 7 | 9 | -4 | 28 |
 | 15 | Internacional | 24 | 7 | 7 | 10 | -8 | 28 |
