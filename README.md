@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 30 September 2025, 08:40 PM UTC (Wednesday, 01 October 2025, 02:10 AM IST)
+**Last Updated:** Tuesday, 30 September 2025, 09:16 PM UTC (Wednesday, 01 October 2025, 02:46 AM IST)
 
 ### Premier League
 
@@ -171,7 +171,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 2 | 2 | 0 | 0 | 6 | 6 |
 | 2 | Real Madrid | 2 | 2 | 0 | 0 | 6 | 6 |
 | 3 | Inter | 2 | 2 | 0 | 0 | 5 | 6 |
-| 4 | Bodø/Glimt | 2 | 1 | 1 | 0 | 1 | 4 |
+| 4 | Tottenham Hotspur | 2 | 1 | 1 | 0 | 1 | 4 |
 | 5 | PSG | 1 | 1 | 0 | 0 | 4 | 3 |
 | 6 | Atlético de Madrid | 2 | 1 | 0 | 1 | 3 | 3 |
 | 7 | Marseille | 2 | 1 | 0 | 1 | 3 | 3 |
@@ -184,10 +184,10 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Barcelona | 1 | 1 | 0 | 0 | 1 | 3 |
 | 15 | Eintracht Frankfurt | 2 | 1 | 0 | 1 | 0 | 3 |
 | 16 | Liverpool FC | 2 | 1 | 0 | 1 | 0 | 3 |
-| 17 | Tottenham Hotspur | 2 | 1 | 0 | 1 | 0 | 3 |
-| 18 | Chelsea | 2 | 1 | 0 | 1 | -1 | 3 |
-| 19 | Galatasaray | 2 | 1 | 0 | 1 | -3 | 3 |
-| 20 | Atalanta | 2 | 1 | 0 | 1 | -3 | 3 |
+| 17 | Chelsea | 2 | 1 | 0 | 1 | -1 | 3 |
+| 18 | Galatasaray | 2 | 1 | 0 | 1 | -3 | 3 |
+| 19 | Atalanta | 2 | 1 | 0 | 1 | -3 | 3 |
+| 20 | Bodø/Glimt | 2 | 0 | 2 | 0 | 0 | 2 |
 | 21 | Borussia Dortmund | 1 | 0 | 1 | 0 | 0 | 1 |
 | 22 | Juventus | 1 | 0 | 1 | 0 | 0 | 1 |
 | 23 | Bayer Leverkusen | 1 | 0 | 1 | 0 | 0 | 1 |
@@ -325,17 +325,17 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | West Bromwich Albion | 7 | 3 | 2 | 2 | 1 | 11 |
 | 10 | Queens Park Rangers | 7 | 3 | 2 | 2 | -2 | 11 |
 | 11 | Millwall | 7 | 3 | 2 | 2 | -2 | 11 |
-| 12 | Ipswich Town | 7 | 2 | 4 | 1 | 5 | 10 |
-| 13 | Southampton | 8 | 2 | 4 | 2 | -1 | 10 |
-| 14 | Birmingham City | 8 | 3 | 1 | 4 | -4 | 10 |
+| 12 | Birmingham City | 8 | 3 | 2 | 3 | -3 | 11 |
+| 13 | Ipswich Town | 7 | 2 | 4 | 1 | 5 | 10 |
+| 14 | Southampton | 8 | 2 | 4 | 2 | -1 | 10 |
 | 15 | Wrexham | 8 | 2 | 3 | 3 | -1 | 9 |
 | 16 | Hull City | 8 | 2 | 3 | 3 | -3 | 9 |
 | 17 | Norwich City | 7 | 2 | 2 | 3 | 0 | 8 |
 | 18 | Watford | 7 | 2 | 2 | 3 | -1 | 8 |
 | 19 | Portsmouth | 7 | 2 | 2 | 3 | -2 | 8 |
-| 20 | Sheffield Wednesday | 8 | 2 | 2 | 4 | -6 | 8 |
-| 21 | Derby County | 8 | 1 | 4 | 3 | -4 | 7 |
-| 22 | Blackburn Rovers | 7 | 2 | 0 | 5 | -4 | 6 |
+| 20 | Derby County | 8 | 1 | 4 | 3 | -4 | 7 |
+| 21 | Blackburn Rovers | 7 | 2 | 0 | 5 | -4 | 6 |
+| 22 | Sheffield Wednesday | 8 | 1 | 3 | 4 | -7 | 6 |
 | 23 | Oxford United | 7 | 1 | 2 | 4 | -2 | 5 |
 | 24 | Sheffield United | 8 | 1 | 0 | 7 | -12 | 3 |
 

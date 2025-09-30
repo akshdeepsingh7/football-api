@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 30 September 2025, 08:40 PM UTC",
-        "IST": "Wednesday, 01 October 2025, 02:10 AM IST"
+        "UTC": "Tuesday, 30 September 2025, 09:16 PM UTC",
+        "IST": "Wednesday, 01 October 2025, 02:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1007,7 +1007,7 @@
             },
             {
                 "Position": "4",
-                "Team": "Bod\u00f8/Glimt",
+                "Team": "Tottenham Hotspur",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "1",
@@ -1137,16 +1137,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Tottenham Hotspur",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "3"
-            },
-            {
-                "Position": "18",
                 "Team": "Chelsea",
                 "Played": "2",
                 "Wins": "1",
@@ -1156,7 +1146,7 @@
                 "Points": "3"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Galatasaray",
                 "Played": "2",
                 "Wins": "1",
@@ -1166,7 +1156,7 @@
                 "Points": "3"
             },
             {
-                "Position": "20",
+                "Position": "19",
                 "Team": "Atalanta",
                 "Played": "2",
                 "Wins": "1",
@@ -1174,6 +1164,16 @@
                 "Losses": "1",
                 "Goal Difference": "-3",
                 "Points": "3"
+            },
+            {
+                "Position": "20",
+                "Team": "Bod\u00f8/Glimt",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "2"
             },
             {
                 "Position": "21",
@@ -2355,6 +2355,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Birmingham City",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "11"
+            },
+            {
+                "Position": "13",
                 "Team": "Ipswich Town",
                 "Played": "7",
                 "Wins": "2",
@@ -2364,23 +2374,13 @@
                 "Points": "10"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Southampton",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "-1",
-                "Points": "10"
-            },
-            {
-                "Position": "14",
-                "Team": "Birmingham City",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-4",
                 "Points": "10"
             },
             {
@@ -2435,16 +2435,6 @@
             },
             {
                 "Position": "20",
-                "Team": "Sheffield Wednesday",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-6",
-                "Points": "8"
-            },
-            {
-                "Position": "21",
                 "Team": "Derby County",
                 "Played": "8",
                 "Wins": "1",
@@ -2454,13 +2444,23 @@
                 "Points": "7"
             },
             {
-                "Position": "22",
+                "Position": "21",
                 "Team": "Blackburn Rovers",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "5",
                 "Goal Difference": "-4",
+                "Points": "6"
+            },
+            {
+                "Position": "22",
+                "Team": "Sheffield Wednesday",
+                "Played": "8",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-7",
                 "Points": "6"
             },
             {
