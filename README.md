@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 30 September 2025, 01:48 PM UTC (Tuesday, 30 September 2025, 07:18 PM IST)
+**Last Updated:** Tuesday, 30 September 2025, 02:19 PM UTC (Tuesday, 30 September 2025, 07:49 PM IST)
 
 ### Premier League
 
@@ -376,15 +376,81 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Indian Super League
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Mohun Bagan SG | 24 | 17 | 5 | 2 | 31 | 56 |
+| 2 | FC Goa | 24 | 14 | 6 | 4 | 16 | 48 |
+| 3 | Bengaluru | 24 | 11 | 5 | 8 | 9 | 38 |
+| 4 | NorthEast Utd | 24 | 10 | 8 | 6 | 17 | 38 |
+| 5 | Jamshedpur | 24 | 12 | 2 | 10 | -6 | 38 |
+| 6 | Mumbai City | 24 | 9 | 9 | 6 | 1 | 36 |
+| 7 | Odisha | 24 | 8 | 9 | 7 | 7 | 33 |
+| 8 | Kerala Blasters | 24 | 8 | 5 | 11 | -4 | 29 |
+| 9 | East Bengal | 24 | 8 | 4 | 12 | -6 | 28 |
+| 10 | Punjab FC | 24 | 8 | 4 | 12 | -4 | 28 |
+| 11 | Chennaiyin | 24 | 7 | 6 | 11 | -5 | 27 |
+| 12 | Hyderabad | 24 | 4 | 6 | 14 | -25 | 18 |
+| 13 | Mohammedan | 24 | 2 | 7 | 15 | -31 | 13 |
 
 ### Liga Profesional Argentina (Clausura)
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
+| 2 | Barracas | 10 | 4 | 4 | 2 | 2 | 16 |
+| 3 | Def y Justicia | 10 | 4 | 3 | 3 | 2 | 15 |
+| 4 | Tigre | 10 | 4 | 3 | 3 | 2 | 15 |
+| 5 | Estudiantes | 9 | 5 | 0 | 4 | 0 | 15 |
+| 6 | Boca Juniors | 10 | 3 | 5 | 2 | 5 | 14 |
+| 7 | Argentinos Juniors | 10 | 4 | 2 | 4 | 4 | 14 |
+| 8 | Córdoba SdE | 10 | 3 | 5 | 2 | 3 | 14 |
+| 9 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
+| 10 | Belgrano | 10 | 3 | 4 | 3 | 2 | 13 |
+| 11 | Huracán | 10 | 3 | 4 | 3 | -3 | 13 |
+| 12 | Racing Club | 10 | 3 | 2 | 5 | -2 | 11 |
+| 13 | Independiente Rivadavia | 10 | 2 | 4 | 4 | -2 | 10 |
+| 14 | Newell's Old Boys | 9 | 2 | 3 | 4 | -3 | 9 |
+| 15 | Aldosivi | 10 | 0 | 3 | 7 | -13 | 3 |
+| 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
+| 2 | Vélez | 10 | 6 | 3 | 1 | 9 | 21 |
+| 3 | River Plate | 10 | 5 | 3 | 2 | 8 | 18 |
+| 4 | Lanús | 10 | 5 | 2 | 3 | 1 | 17 |
+| 5 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
+| 6 | Rosario | 9 | 3 | 6 | 0 | 5 | 15 |
+| 7 | Atl. Tucumán | 10 | 3 | 3 | 4 | 0 | 12 |
+| 8 | Sarmiento | 9 | 3 | 3 | 3 | -2 | 12 |
+| 9 | Instituto | 10 | 2 | 5 | 3 | -6 | 11 |
+| 10 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
+| 11 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
+| 12 | Talleres | 10 | 2 | 4 | 4 | -4 | 10 |
+| 13 | GELP | 10 | 3 | 1 | 6 | -6 | 10 |
+| 14 | Godoy Cruz | 10 | 1 | 5 | 4 | -5 | 8 |
+| 15 | Independiente | 9 | 0 | 5 | 4 | -4 | 5 |
 
 ### Brasileirão
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Flamengo | 24 | 16 | 6 | 2 | 38 | 54 |
+| 2 | Cruzeiro | 25 | 15 | 5 | 5 | 20 | 50 |
+| 3 | Palmeiras | 23 | 15 | 4 | 4 | 17 | 49 |
+| 4 | Mirassol | 24 | 11 | 9 | 4 | 17 | 42 |
+| 5 | Botafogo | 25 | 11 | 7 | 7 | 15 | 40 |
+| 6 | Bahia | 24 | 11 | 7 | 6 | 4 | 40 |
+| 7 | São Paulo | 25 | 9 | 8 | 8 | 2 | 35 |
+| 8 | Fluminense | 23 | 10 | 4 | 9 | -1 | 34 |
+| 9 | RB Bragantino | 25 | 9 | 5 | 11 | -6 | 32 |
+| 10 | Grêmio | 25 | 8 | 8 | 9 | -4 | 32 |
+| 11 | Ceará | 24 | 8 | 7 | 9 | 0 | 31 |
+| 12 | Vasco da Gama | 25 | 8 | 6 | 11 | 3 | 30 |
+| 13 | Corinthians | 25 | 7 | 8 | 10 | -6 | 29 |
+| 14 | Atlético Mineiro | 23 | 7 | 7 | 9 | -4 | 28 |
+| 15 | Internacional | 24 | 7 | 7 | 10 | -8 | 28 |
+| 16 | Santos | 24 | 7 | 6 | 11 | -10 | 27 |
+| 17 | Juventude | 24 | 6 | 4 | 14 | -26 | 22 |
+| 18 | Vitória | 25 | 4 | 10 | 11 | -18 | 22 |
+| 19 | Fortaleza | 24 | 5 | 6 | 13 | -14 | 21 |
+| 20 | Sport | 23 | 2 | 8 | 13 | -19 | 14 |
 
 
 <!-- END_TABLE -->
