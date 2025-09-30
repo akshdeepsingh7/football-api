@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 30 September 2025, 05:17 PM UTC (Tuesday, 30 September 2025, 10:47 PM IST)
+**Last Updated:** Tuesday, 30 September 2025, 05:39 PM UTC (Tuesday, 30 September 2025, 11:09 PM IST)
 
 ### Premier League
 
@@ -168,8 +168,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Real Madrid | 2 | 2 | 0 | 0 | 2 | 6 |
-| 2 | Club Brugge | 2 | 1 | 1 | 0 | 3 | 4 |
+| 1 | Club Brugge | 2 | 2 | 0 | 0 | 4 | 6 |
+| 2 | Real Madrid | 2 | 2 | 0 | 0 | 2 | 6 |
 | 3 | Eintracht Frankfurt | 1 | 1 | 0 | 0 | 4 | 3 |
 | 4 | PSG | 1 | 1 | 0 | 0 | 4 | 3 |
 | 5 | Sporting CP | 1 | 1 | 0 | 0 | 3 | 3 |
@@ -190,20 +190,20 @@ The latest league standings are displayed below in Markdown tables:
 | 20 | Slavia Prague | 1 | 0 | 1 | 0 | 0 | 1 |
 | 21 | Olympiacos | 1 | 0 | 1 | 0 | 0 | 1 |
 | 22 | Pafos | 1 | 0 | 1 | 0 | 0 | 1 |
-| 23 | Atalanta | 2 | 0 | 1 | 1 | -4 | 1 |
-| 24 | Atlético de Madrid | 1 | 0 | 0 | 1 | -1 | 0 |
-| 25 | Benfica | 1 | 0 | 0 | 1 | -1 | 0 |
-| 26 | Marseille | 1 | 0 | 0 | 1 | -1 | 0 |
-| 27 | Newcastle United | 1 | 0 | 0 | 1 | -1 | 0 |
-| 28 | Villarreal | 1 | 0 | 0 | 1 | -1 | 0 |
-| 29 | Chelsea | 1 | 0 | 0 | 1 | -2 | 0 |
-| 30 | PSV | 1 | 0 | 0 | 1 | -2 | 0 |
-| 31 | Ajax | 1 | 0 | 0 | 1 | -2 | 0 |
-| 32 | Athletic Bilbao | 1 | 0 | 0 | 1 | -2 | 0 |
-| 33 | Napoli | 1 | 0 | 0 | 1 | -2 | 0 |
-| 34 | Monaco | 1 | 0 | 0 | 1 | -3 | 0 |
-| 35 | Galatasaray | 1 | 0 | 0 | 1 | -4 | 0 |
-| 36 | Kairat | 2 | 0 | 0 | 2 | -4 | 0 |
+| 23 | Atlético de Madrid | 1 | 0 | 0 | 1 | -1 | 0 |
+| 24 | Benfica | 1 | 0 | 0 | 1 | -1 | 0 |
+| 25 | Marseille | 1 | 0 | 0 | 1 | -1 | 0 |
+| 26 | Newcastle United | 1 | 0 | 0 | 1 | -1 | 0 |
+| 27 | Villarreal | 1 | 0 | 0 | 1 | -1 | 0 |
+| 28 | Chelsea | 1 | 0 | 0 | 1 | -2 | 0 |
+| 29 | PSV | 1 | 0 | 0 | 1 | -2 | 0 |
+| 30 | Ajax | 1 | 0 | 0 | 1 | -2 | 0 |
+| 31 | Athletic Bilbao | 1 | 0 | 0 | 1 | -2 | 0 |
+| 32 | Napoli | 1 | 0 | 0 | 1 | -2 | 0 |
+| 33 | Monaco | 1 | 0 | 0 | 1 | -3 | 0 |
+| 34 | Galatasaray | 1 | 0 | 0 | 1 | -4 | 0 |
+| 35 | Kairat | 2 | 0 | 0 | 2 | -4 | 0 |
+| 36 | Atalanta | 2 | 0 | 0 | 2 | -5 | 0 |
 
 ### Europa League
 
