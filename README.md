@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 30 September 2025, 09:37 PM UTC (Wednesday, 01 October 2025, 03:07 AM IST)
+**Last Updated:** Tuesday, 30 September 2025, 10:17 PM UTC (Wednesday, 01 October 2025, 03:47 AM IST)
 
 ### Premier League
 
@@ -398,9 +398,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
 | 2 | Barracas | 10 | 4 | 4 | 2 | 2 | 16 |
-| 3 | Def y Justicia | 10 | 4 | 3 | 3 | 2 | 15 |
-| 4 | Tigre | 10 | 4 | 3 | 3 | 2 | 15 |
-| 5 | Estudiantes | 9 | 5 | 0 | 4 | 0 | 15 |
+| 3 | Estudiantes | 10 | 5 | 1 | 4 | 0 | 16 |
+| 4 | Def y Justicia | 10 | 4 | 3 | 3 | 2 | 15 |
+| 5 | Tigre | 10 | 4 | 3 | 3 | 2 | 15 |
 | 6 | Boca Juniors | 10 | 3 | 5 | 2 | 5 | 14 |
 | 7 | Argentinos Juniors | 10 | 4 | 2 | 4 | 4 | 14 |
 | 8 | Córdoba SdE | 10 | 3 | 5 | 2 | 3 | 14 |
@@ -409,7 +409,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Huracán | 10 | 3 | 4 | 3 | -3 | 13 |
 | 12 | Racing Club | 10 | 3 | 2 | 5 | -2 | 11 |
 | 13 | Independiente Rivadavia | 10 | 2 | 4 | 4 | -2 | 10 |
-| 14 | Newell's Old Boys | 9 | 2 | 3 | 4 | -3 | 9 |
+| 14 | Newell's Old Boys | 10 | 2 | 4 | 4 | -3 | 10 |
 | 15 | Aldosivi | 10 | 0 | 3 | 7 | -13 | 3 |
 | 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
 | 2 | Vélez | 10 | 6 | 3 | 1 | 9 | 21 |
