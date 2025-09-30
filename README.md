@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 30 September 2025, 04:46 PM UTC (Tuesday, 30 September 2025, 10:16 PM IST)
+**Last Updated:** Tuesday, 30 September 2025, 05:17 PM UTC (Tuesday, 30 September 2025, 10:47 PM IST)
 
 ### Premier League
 
@@ -168,19 +168,19 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Club Brugge | 2 | 1 | 1 | 0 | 3 | 4 |
-| 2 | Eintracht Frankfurt | 1 | 1 | 0 | 0 | 4 | 3 |
-| 3 | PSG | 1 | 1 | 0 | 0 | 4 | 3 |
-| 4 | Sporting CP | 1 | 1 | 0 | 0 | 3 | 3 |
-| 5 | Union Saint-Gilloise | 1 | 1 | 0 | 0 | 2 | 3 |
-| 6 | Bayern Munich | 1 | 1 | 0 | 0 | 2 | 3 |
-| 7 | Arsenal | 1 | 1 | 0 | 0 | 2 | 3 |
-| 8 | Inter | 1 | 1 | 0 | 0 | 2 | 3 |
-| 9 | Manchester City | 1 | 1 | 0 | 0 | 2 | 3 |
-| 10 | Qarabağ | 1 | 1 | 0 | 0 | 1 | 3 |
-| 11 | Liverpool FC | 1 | 1 | 0 | 0 | 1 | 3 |
-| 12 | Barcelona | 1 | 1 | 0 | 0 | 1 | 3 |
-| 13 | Real Madrid | 1 | 1 | 0 | 0 | 1 | 3 |
+| 1 | Real Madrid | 2 | 2 | 0 | 0 | 2 | 6 |
+| 2 | Club Brugge | 2 | 1 | 1 | 0 | 3 | 4 |
+| 3 | Eintracht Frankfurt | 1 | 1 | 0 | 0 | 4 | 3 |
+| 4 | PSG | 1 | 1 | 0 | 0 | 4 | 3 |
+| 5 | Sporting CP | 1 | 1 | 0 | 0 | 3 | 3 |
+| 6 | Union Saint-Gilloise | 1 | 1 | 0 | 0 | 2 | 3 |
+| 7 | Bayern Munich | 1 | 1 | 0 | 0 | 2 | 3 |
+| 8 | Arsenal | 1 | 1 | 0 | 0 | 2 | 3 |
+| 9 | Inter | 1 | 1 | 0 | 0 | 2 | 3 |
+| 10 | Manchester City | 1 | 1 | 0 | 0 | 2 | 3 |
+| 11 | Qarabağ | 1 | 1 | 0 | 0 | 1 | 3 |
+| 12 | Liverpool FC | 1 | 1 | 0 | 0 | 1 | 3 |
+| 13 | Barcelona | 1 | 1 | 0 | 0 | 1 | 3 |
 | 14 | Tottenham Hotspur | 1 | 1 | 0 | 0 | 1 | 3 |
 | 15 | Borussia Dortmund | 1 | 0 | 1 | 0 | 0 | 1 |
 | 16 | Juventus | 1 | 0 | 1 | 0 | 0 | 1 |
@@ -201,9 +201,9 @@ The latest league standings are displayed below in Markdown tables:
 | 31 | Ajax | 1 | 0 | 0 | 1 | -2 | 0 |
 | 32 | Athletic Bilbao | 1 | 0 | 0 | 1 | -2 | 0 |
 | 33 | Napoli | 1 | 0 | 0 | 1 | -2 | 0 |
-| 34 | Kairat | 1 | 0 | 0 | 1 | -3 | 0 |
-| 35 | Monaco | 1 | 0 | 0 | 1 | -3 | 0 |
-| 36 | Galatasaray | 1 | 0 | 0 | 1 | -4 | 0 |
+| 34 | Monaco | 1 | 0 | 0 | 1 | -3 | 0 |
+| 35 | Galatasaray | 1 | 0 | 0 | 1 | -4 | 0 |
+| 36 | Kairat | 2 | 0 | 0 | 2 | -4 | 0 |
 
 ### Europa League
 
