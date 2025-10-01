@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 01 October 2025, 05:17 PM UTC (Wednesday, 01 October 2025, 10:47 PM IST)
+**Last Updated:** Wednesday, 01 October 2025, 05:40 PM UTC (Wednesday, 01 October 2025, 11:10 PM IST)
 
 ### Premier League
 
@@ -180,11 +180,11 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Club Brugge | 2 | 1 | 0 | 1 | 2 | 3 |
 | 11 | Arsenal | 1 | 1 | 0 | 0 | 2 | 3 |
 | 12 | Manchester City | 1 | 1 | 0 | 0 | 2 | 3 |
-| 13 | Union Saint-Gilloise | 2 | 1 | 0 | 1 | 1 | 3 |
+| 13 | Newcastle United | 2 | 1 | 0 | 1 | 1 | 3 |
 | 14 | Barcelona | 1 | 1 | 0 | 0 | 1 | 3 |
 | 15 | Eintracht Frankfurt | 2 | 1 | 0 | 1 | 0 | 3 |
-| 16 | Liverpool FC | 2 | 1 | 0 | 1 | 0 | 3 |
-| 17 | Newcastle United | 2 | 1 | 0 | 1 | 0 | 3 |
+| 16 | Union Saint-Gilloise | 2 | 1 | 0 | 1 | 0 | 3 |
+| 17 | Liverpool FC | 2 | 1 | 0 | 1 | 0 | 3 |
 | 18 | Chelsea | 2 | 1 | 0 | 1 | -1 | 3 |
 | 19 | Galatasaray | 2 | 1 | 0 | 1 | -3 | 3 |
 | 20 | Atalanta | 2 | 1 | 0 | 1 | -3 | 3 |
