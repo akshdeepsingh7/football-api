@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 01 October 2025, 08:21 PM UTC",
-        "IST": "Thursday, 02 October 2025, 01:51 AM IST"
+        "UTC": "Wednesday, 01 October 2025, 08:40 PM UTC",
+        "IST": "Thursday, 02 October 2025, 02:10 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1052,7 +1052,7 @@
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "4"
             },
             {
@@ -1237,7 +1237,7 @@
             },
             {
                 "Position": "27",
-                "Team": "FC Copenhagen",
+                "Team": "PSV",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "1",
@@ -1247,7 +1247,7 @@
             },
             {
                 "Position": "28",
-                "Team": "PSV",
+                "Team": "FC Copenhagen",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "1",
@@ -1297,17 +1297,17 @@
             },
             {
                 "Position": "33",
-                "Team": "Athletic Bilbao",
+                "Team": "Monaco",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "0"
             },
             {
                 "Position": "34",
-                "Team": "Monaco",
+                "Team": "Athletic Bilbao",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
@@ -2260,7 +2260,7 @@
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "0",
-                "Goal Difference": "13",
+                "Goal Difference": "15",
                 "Points": "16"
             },
             {
@@ -2345,16 +2345,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Watford",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "0",
-                "Points": "11"
-            },
-            {
-                "Position": "12",
                 "Team": "Birmingham City",
                 "Played": "8",
                 "Wins": "3",
@@ -2364,17 +2354,17 @@
                 "Points": "11"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Millwall",
                 "Played": "8",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "3",
-                "Goal Difference": "-4",
+                "Goal Difference": "-6",
                 "Points": "11"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Ipswich Town",
                 "Played": "7",
                 "Wins": "2",
@@ -2384,7 +2374,7 @@
                 "Points": "10"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Southampton",
                 "Played": "8",
                 "Wins": "2",
@@ -2394,7 +2384,7 @@
                 "Points": "10"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Wrexham",
                 "Played": "8",
                 "Wins": "2",
@@ -2404,7 +2394,27 @@
                 "Points": "9"
             },
             {
+                "Position": "16",
+                "Team": "Watford",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "9"
+            },
+            {
                 "Position": "17",
+                "Team": "Portsmouth",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "9"
+            },
+            {
+                "Position": "18",
                 "Team": "Hull City",
                 "Played": "8",
                 "Wins": "2",
@@ -2414,23 +2424,13 @@
                 "Points": "9"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Norwich City",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "-1",
-                "Points": "8"
-            },
-            {
-                "Position": "19",
-                "Team": "Portsmouth",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-3",
                 "Points": "8"
             },
             {
