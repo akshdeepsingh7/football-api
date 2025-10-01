@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 01 October 2025, 06:28 PM UTC (Wednesday, 01 October 2025, 11:58 PM IST)
+**Last Updated:** Wednesday, 01 October 2025, 06:49 PM UTC (Thursday, 02 October 2025, 12:19 AM IST)
 
 ### Premier League
 
@@ -315,24 +315,24 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Middlesbrough | 8 | 5 | 3 | 0 | 7 | 18 |
-| 2 | Stoke City | 8 | 4 | 2 | 2 | 5 | 14 |
-| 3 | Coventry City | 7 | 3 | 4 | 0 | 11 | 13 |
+| 2 | Coventry City | 8 | 3 | 5 | 0 | 11 | 14 |
+| 3 | Stoke City | 8 | 4 | 2 | 2 | 5 | 14 |
 | 4 | Bristol City | 8 | 3 | 4 | 1 | 6 | 13 |
 | 5 | Leicester City | 8 | 3 | 4 | 1 | 3 | 13 |
 | 6 | Preston North End | 8 | 3 | 4 | 1 | 2 | 13 |
 | 7 | Swansea City | 8 | 3 | 3 | 2 | 2 | 12 |
 | 8 | Charlton Athletic | 8 | 3 | 3 | 2 | 2 | 12 |
-| 9 | West Bromwich Albion | 7 | 3 | 2 | 2 | 1 | 11 |
-| 10 | Queens Park Rangers | 7 | 3 | 2 | 2 | -2 | 11 |
-| 11 | Millwall | 7 | 3 | 2 | 2 | -2 | 11 |
+| 9 | West Bromwich Albion | 8 | 3 | 3 | 2 | 1 | 12 |
+| 10 | Millwall | 8 | 3 | 3 | 2 | -2 | 12 |
+| 11 | Queens Park Rangers | 7 | 3 | 2 | 2 | -2 | 11 |
 | 12 | Birmingham City | 8 | 3 | 2 | 3 | -3 | 11 |
 | 13 | Ipswich Town | 7 | 2 | 4 | 1 | 5 | 10 |
 | 14 | Southampton | 8 | 2 | 4 | 2 | -1 | 10 |
-| 15 | Wrexham | 8 | 2 | 3 | 3 | -1 | 9 |
-| 16 | Hull City | 8 | 2 | 3 | 3 | -3 | 9 |
-| 17 | Norwich City | 7 | 2 | 2 | 3 | 0 | 8 |
-| 18 | Watford | 7 | 2 | 2 | 3 | -1 | 8 |
-| 19 | Portsmouth | 7 | 2 | 2 | 3 | -2 | 8 |
+| 15 | Norwich City | 8 | 2 | 3 | 3 | 0 | 9 |
+| 16 | Wrexham | 8 | 2 | 3 | 3 | -1 | 9 |
+| 17 | Watford | 8 | 2 | 3 | 3 | -1 | 9 |
+| 18 | Portsmouth | 8 | 2 | 3 | 3 | -2 | 9 |
+| 19 | Hull City | 8 | 2 | 3 | 3 | -3 | 9 |
 | 20 | Derby County | 8 | 1 | 4 | 3 | -4 | 7 |
 | 21 | Blackburn Rovers | 7 | 2 | 0 | 5 | -4 | 6 |
 | 22 | Sheffield Wednesday | 8 | 1 | 3 | 4 | -7 | 6 |
