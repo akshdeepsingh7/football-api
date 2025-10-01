@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 30 September 2025, 11:37 PM UTC (Wednesday, 01 October 2025, 05:07 AM IST)
+**Last Updated:** Wednesday, 01 October 2025, 01:42 AM UTC (Wednesday, 01 October 2025, 07:12 AM IST)
 
 ### Premier League
 
@@ -346,12 +346,12 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Philadelphia Union | 32 | 19 | 6 | 7 | 23 | 63 |
 | 2 | Cincinnati | 32 | 18 | 5 | 9 | 8 | 59 |
 | 3 | NYCFC | 32 | 17 | 5 | 10 | 8 | 56 |
-| 4 | Inter Miami | 30 | 16 | 8 | 6 | 18 | 56 |
+| 4 | Inter Miami | 31 | 16 | 8 | 7 | 16 | 56 |
 | 5 | Charlotte | 32 | 17 | 2 | 13 | 6 | 53 |
 | 6 | Nashville | 32 | 16 | 5 | 11 | 16 | 53 |
 | 7 | Orlando City | 31 | 14 | 10 | 7 | 15 | 52 |
-| 8 | Columbus Crew | 32 | 13 | 11 | 8 | 2 | 50 |
-| 9 | Chicago Fire | 31 | 14 | 6 | 11 | 6 | 48 |
+| 8 | Chicago Fire | 32 | 15 | 6 | 11 | 8 | 51 |
+| 9 | Columbus Crew | 32 | 13 | 11 | 8 | 2 | 50 |
 | 10 | New York RB | 32 | 12 | 7 | 13 | 4 | 43 |
 | 11 | New England Revolution | 32 | 9 | 8 | 15 | -4 | 35 |
 | 12 | Toronto | 31 | 5 | 13 | 13 | -7 | 28 |
@@ -443,11 +443,11 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Grêmio | 25 | 8 | 8 | 9 | -4 | 32 |
 | 11 | Ceará | 24 | 8 | 7 | 9 | 0 | 31 |
 | 12 | Vasco da Gama | 25 | 8 | 6 | 11 | 3 | 30 |
-| 13 | Corinthians | 25 | 7 | 8 | 10 | -6 | 29 |
-| 14 | Atlético Mineiro | 23 | 7 | 7 | 9 | -4 | 28 |
+| 13 | Atlético Mineiro | 24 | 7 | 8 | 9 | -4 | 29 |
+| 14 | Corinthians | 25 | 7 | 8 | 10 | -6 | 29 |
 | 15 | Internacional | 24 | 7 | 7 | 10 | -8 | 28 |
 | 16 | Santos | 24 | 7 | 6 | 11 | -10 | 27 |
-| 17 | Juventude | 24 | 6 | 4 | 14 | -26 | 22 |
+| 17 | Juventude | 25 | 6 | 5 | 14 | -26 | 23 |
 | 18 | Vitória | 25 | 4 | 10 | 11 | -18 | 22 |
 | 19 | Fortaleza | 24 | 5 | 6 | 13 | -14 | 21 |
 | 20 | Sport | 23 | 2 | 8 | 13 | -19 | 14 |
