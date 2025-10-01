@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 01 October 2025, 10:39 PM UTC",
-        "IST": "Thursday, 02 October 2025, 04:09 AM IST"
+        "UTC": "Wednesday, 01 October 2025, 11:16 PM UTC",
+        "IST": "Thursday, 02 October 2025, 04:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3323,6 +3323,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Corinthians",
+                "Played": "26",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-5",
+                "Points": "32"
+            },
+            {
+                "Position": "12",
                 "Team": "Cear\u00e1",
                 "Played": "24",
                 "Wins": "8",
@@ -3332,23 +3342,13 @@
                 "Points": "31"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Vasco da Gama",
                 "Played": "26",
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "0",
-                "Points": "30"
-            },
-            {
-                "Position": "13",
-                "Team": "Corinthians",
-                "Played": "26",
-                "Wins": "7",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-6",
                 "Points": "30"
             },
             {
@@ -3366,10 +3366,10 @@
                 "Team": "Internacional",
                 "Played": "25",
                 "Wins": "7",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-8",
-                "Points": "29"
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-9",
+                "Points": "28"
             },
             {
                 "Position": "16",
