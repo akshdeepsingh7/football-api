@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 01 October 2025, 01:42 AM UTC (Wednesday, 01 October 2025, 07:12 AM IST)
+**Last Updated:** Wednesday, 01 October 2025, 03:11 AM UTC (Wednesday, 01 October 2025, 08:41 AM IST)
 
 ### Premier League
 
