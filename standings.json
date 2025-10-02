@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 02 October 2025, 10:38 PM UTC",
-        "IST": "Friday, 03 October 2025, 04:08 AM IST"
+        "UTC": "Thursday, 02 October 2025, 11:16 PM UTC",
+        "IST": "Friday, 03 October 2025, 04:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3285,11 +3285,11 @@
                 "Position": "7",
                 "Team": "S\u00e3o Paulo",
                 "Played": "26",
-                "Wins": "9",
-                "Draws": "9",
+                "Wins": "10",
+                "Draws": "8",
                 "Losses": "8",
-                "Goal Difference": "2",
-                "Points": "36"
+                "Goal Difference": "3",
+                "Points": "38"
             },
             {
                 "Position": "8",
@@ -3406,10 +3406,10 @@
                 "Team": "Fortaleza",
                 "Played": "25",
                 "Wins": "5",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "-14",
-                "Points": "22"
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "-15",
+                "Points": "21"
             },
             {
                 "Position": "20",
