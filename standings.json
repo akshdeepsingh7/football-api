@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 01 October 2025, 11:38 PM UTC",
-        "IST": "Thursday, 02 October 2025, 05:08 AM IST"
+        "UTC": "Thursday, 02 October 2025, 01:23 AM UTC",
+        "IST": "Thursday, 02 October 2025, 06:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3253,6 +3253,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Botafogo",
+                "Played": "26",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "16",
+                "Points": "43"
+            },
+            {
+                "Position": "5",
                 "Team": "Mirassol",
                 "Played": "25",
                 "Wins": "11",
@@ -3262,23 +3272,13 @@
                 "Points": "43"
             },
             {
-                "Position": "5",
-                "Team": "Botafogo",
+                "Position": "6",
+                "Team": "Bahia",
                 "Played": "25",
                 "Wins": "11",
                 "Draws": "7",
                 "Losses": "7",
-                "Goal Difference": "15",
-                "Points": "40"
-            },
-            {
-                "Position": "6",
-                "Team": "Bahia",
-                "Played": "24",
-                "Wins": "11",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "4",
+                "Goal Difference": "3",
                 "Points": "40"
             },
             {
@@ -3314,25 +3314,15 @@
             {
                 "Position": "10",
                 "Team": "Gr\u00eamio",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "8",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "9",
                 "Goal Difference": "-4",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "11",
-                "Team": "Corinthians",
-                "Played": "26",
-                "Wins": "8",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-5",
-                "Points": "32"
-            },
-            {
-                "Position": "12",
                 "Team": "Cear\u00e1",
                 "Played": "24",
                 "Wins": "8",
@@ -3342,13 +3332,23 @@
                 "Points": "31"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Vasco da Gama",
                 "Played": "26",
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "0",
+                "Points": "30"
+            },
+            {
+                "Position": "13",
+                "Team": "Corinthians",
+                "Played": "26",
+                "Wins": "7",
+                "Draws": "9",
+                "Losses": "10",
+                "Goal Difference": "-6",
                 "Points": "30"
             },
             {
@@ -3366,20 +3366,20 @@
                 "Team": "Internacional",
                 "Played": "25",
                 "Wins": "7",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-9",
-                "Points": "28"
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-8",
+                "Points": "29"
             },
             {
                 "Position": "16",
                 "Team": "Santos",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "7",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "11",
                 "Goal Difference": "-10",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "17",
