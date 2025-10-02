@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 02 October 2025, 10:16 PM UTC",
-        "IST": "Friday, 03 October 2025, 03:46 AM IST"
+        "UTC": "Thursday, 02 October 2025, 10:38 PM UTC",
+        "IST": "Friday, 03 October 2025, 04:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3283,22 +3283,22 @@
             },
             {
                 "Position": "7",
+                "Team": "S\u00e3o Paulo",
+                "Played": "26",
+                "Wins": "9",
+                "Draws": "9",
+                "Losses": "8",
+                "Goal Difference": "2",
+                "Points": "36"
+            },
+            {
+                "Position": "8",
                 "Team": "Fluminense",
                 "Played": "24",
                 "Wins": "10",
                 "Draws": "5",
                 "Losses": "9",
                 "Goal Difference": "-1",
-                "Points": "35"
-            },
-            {
-                "Position": "8",
-                "Team": "S\u00e3o Paulo",
-                "Played": "25",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "2",
                 "Points": "35"
             },
             {
@@ -3326,10 +3326,10 @@
                 "Team": "Cear\u00e1",
                 "Played": "25",
                 "Wins": "8",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "0",
-                "Points": "32"
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "-1",
+                "Points": "31"
             },
             {
                 "Position": "12",
@@ -3383,6 +3383,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Vit\u00f3ria",
+                "Played": "26",
+                "Wins": "5",
+                "Draws": "10",
+                "Losses": "11",
+                "Goal Difference": "-17",
+                "Points": "25"
+            },
+            {
+                "Position": "18",
                 "Team": "Juventude",
                 "Played": "25",
                 "Wins": "6",
@@ -3392,24 +3402,14 @@
                 "Points": "23"
             },
             {
-                "Position": "18",
-                "Team": "Vit\u00f3ria",
-                "Played": "26",
-                "Wins": "4",
-                "Draws": "11",
-                "Losses": "11",
-                "Goal Difference": "-18",
-                "Points": "23"
-            },
-            {
                 "Position": "19",
                 "Team": "Fortaleza",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "5",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "13",
                 "Goal Difference": "-14",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "20",
