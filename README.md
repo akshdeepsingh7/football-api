@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 02 October 2025, 06:27 PM UTC (Thursday, 02 October 2025, 11:57 PM IST)
+**Last Updated:** Thursday, 02 October 2025, 06:46 PM UTC (Friday, 03 October 2025, 12:16 AM IST)
 
 ### Premier League
 
@@ -209,8 +209,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Lille | 2 | 2 | 0 | 0 | 2 | 6 |
-| 2 | Braga | 2 | 2 | 0 | 0 | 2 | 6 |
+| 1 | Braga | 2 | 2 | 0 | 0 | 3 | 6 |
+| 2 | Lille | 2 | 2 | 0 | 0 | 2 | 6 |
 | 3 | Plzeň | 2 | 1 | 1 | 0 | 3 | 4 |
 | 4 | Real Betis | 2 | 1 | 1 | 0 | 2 | 4 |
 | 5 | SC Freiburg | 2 | 1 | 1 | 0 | 1 | 4 |
@@ -234,8 +234,8 @@ The latest league standings are displayed below in Markdown tables:
 | 23 | Red Star Belgrade | 1 | 0 | 1 | 0 | 0 | 1 |
 | 24 | Maccabi Tel Aviv | 1 | 0 | 1 | 0 | 0 | 1 |
 | 25 | PAOK | 1 | 0 | 1 | 0 | 0 | 1 |
-| 26 | Celtic | 2 | 0 | 1 | 1 | -1 | 1 |
-| 27 | Bologna | 2 | 0 | 1 | 1 | -1 | 1 |
+| 26 | Bologna | 2 | 0 | 1 | 1 | -1 | 1 |
+| 27 | Celtic | 2 | 0 | 1 | 1 | -2 | 1 |
 | 28 | FC Basel | 1 | 0 | 0 | 1 | -1 | 0 |
 | 29 | Celta de Vigo | 1 | 0 | 0 | 1 | -1 | 0 |
 | 30 | Feyenoord | 1 | 0 | 0 | 1 | -1 | 0 |
@@ -250,7 +250,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Zrinjski Mostar | 1 | 1 | 0 | 0 | 4 | 3 |
+| 1 | Zrinjski Mostar | 1 | 1 | 0 | 0 | 5 | 3 |
 | 2 | Lech | 1 | 1 | 0 | 0 | 3 | 3 |
 | 3 | Lausanne-Sport | 1 | 1 | 0 | 0 | 3 | 3 |
 | 4 | Crystal Palace | 1 | 1 | 0 | 0 | 2 | 3 |
@@ -285,7 +285,7 @@ The latest league standings are displayed below in Markdown tables:
 | 33 | Shkëndija | 1 | 0 | 0 | 1 | -2 | 0 |
 | 34 | Rapid Vienna | 1 | 0 | 0 | 1 | -3 | 0 |
 | 35 | Breiðablik | 1 | 0 | 0 | 1 | -3 | 0 |
-| 36 | Lincoln Red Imps | 1 | 0 | 0 | 1 | -4 | 0 |
+| 36 | Lincoln Red Imps | 1 | 0 | 0 | 1 | -5 | 0 |
 
 ### Liga Portugal
 
