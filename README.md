@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 03 October 2025, 10:38 PM UTC (Saturday, 04 October 2025, 04:08 AM IST)
+**Last Updated:** Friday, 03 October 2025, 11:16 PM UTC (Saturday, 04 October 2025, 04:46 AM IST)
 
 ### Premier League
 
@@ -396,11 +396,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Tigre | 11 | 5 | 3 | 3 | 3 | 18 |
-| 2 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
-| 3 | Barracas | 10 | 4 | 4 | 2 | 2 | 16 |
-| 4 | Estudiantes | 10 | 5 | 1 | 4 | 0 | 16 |
-| 5 | Def y Justicia | 11 | 4 | 3 | 4 | 1 | 15 |
+| 1 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
+| 2 | Barracas | 10 | 4 | 4 | 2 | 2 | 16 |
+| 3 | Def y Justicia | 11 | 4 | 4 | 3 | 2 | 16 |
+| 4 | Tigre | 11 | 4 | 4 | 3 | 2 | 16 |
+| 5 | Estudiantes | 10 | 5 | 1 | 4 | 0 | 16 |
 | 6 | Boca Juniors | 10 | 3 | 5 | 2 | 5 | 14 |
 | 7 | Argentinos Juniors | 10 | 4 | 2 | 4 | 4 | 14 |
 | 8 | Córdoba SdE | 10 | 3 | 5 | 2 | 3 | 14 |

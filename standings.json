@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 03 October 2025, 10:38 PM UTC",
-        "IST": "Saturday, 04 October 2025, 04:08 AM IST"
+        "UTC": "Friday, 03 October 2025, 11:16 PM UTC",
+        "IST": "Saturday, 04 October 2025, 04:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2921,16 +2921,6 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
-                "Team": "Tigre",
-                "Played": "11",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "3",
-                "Points": "18"
-            },
-            {
-                "Position": "2",
                 "Team": "Uni\u00f3n",
                 "Played": "10",
                 "Wins": "4",
@@ -2940,7 +2930,7 @@
                 "Points": "17"
             },
             {
-                "Position": "3",
+                "Position": "2",
                 "Team": "Barracas",
                 "Played": "10",
                 "Wins": "4",
@@ -2950,7 +2940,27 @@
                 "Points": "16"
             },
             {
+                "Position": "3",
+                "Team": "Def y Justicia",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "16"
+            },
+            {
                 "Position": "4",
+                "Team": "Tigre",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "16"
+            },
+            {
+                "Position": "5",
                 "Team": "Estudiantes",
                 "Played": "10",
                 "Wins": "5",
@@ -2958,16 +2968,6 @@
                 "Losses": "4",
                 "Goal Difference": "0",
                 "Points": "16"
-            },
-            {
-                "Position": "5",
-                "Team": "Def y Justicia",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "1",
-                "Points": "15"
             },
             {
                 "Position": "6",
