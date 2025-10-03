@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 03 October 2025, 06:27 PM UTC (Friday, 03 October 2025, 11:57 PM IST)
+**Last Updated:** Friday, 03 October 2025, 06:47 PM UTC (Saturday, 04 October 2025, 12:17 AM IST)
 
 ### Premier League
 
@@ -100,13 +100,13 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 5 | 5 | 0 | 0 | 19 | 15 |
 | 2 | Borussia Dortmund | 5 | 4 | 1 | 0 | 8 | 13 |
 | 3 | RB Leipzig | 5 | 4 | 0 | 1 | 0 | 12 |
-| 4 | Eintracht Frankfurt | 5 | 3 | 0 | 2 | 4 | 9 |
-| 5 | VfB Stuttgart | 5 | 3 | 0 | 2 | 1 | 9 |
-| 6 | Bayer Leverkusen | 5 | 2 | 2 | 1 | 2 | 8 |
-| 7 | Köln | 5 | 2 | 1 | 2 | 1 | 7 |
+| 4 | Köln | 6 | 3 | 1 | 2 | 2 | 10 |
+| 5 | Eintracht Frankfurt | 5 | 3 | 0 | 2 | 4 | 9 |
+| 6 | VfB Stuttgart | 5 | 3 | 0 | 2 | 1 | 9 |
+| 7 | Bayer Leverkusen | 5 | 2 | 2 | 1 | 2 | 8 |
 | 8 | SC Freiburg | 5 | 2 | 1 | 2 | 0 | 7 |
 | 9 | St. Pauli | 5 | 2 | 1 | 2 | 0 | 7 |
-| 10 | Hoffenheim | 5 | 2 | 1 | 2 | -2 | 7 |
+| 10 | Hoffenheim | 6 | 2 | 1 | 3 | -3 | 7 |
 | 11 | Union Berlin | 5 | 2 | 1 | 2 | -3 | 7 |
 | 12 | VfL Wolfsburg | 5 | 1 | 2 | 2 | 0 | 5 |
 | 13 | Hamburg | 5 | 1 | 2 | 2 | -6 | 5 |
@@ -131,12 +131,12 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Bologna | 5 | 2 | 1 | 2 | 0 | 7 |
 | 10 | Cagliari | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Udinese | 5 | 2 | 1 | 2 | -3 | 7 |
-| 12 | Lazio | 5 | 2 | 0 | 3 | 3 | 6 |
-| 13 | Sassuolo | 5 | 2 | 0 | 3 | -1 | 6 |
+| 12 | Sassuolo | 6 | 2 | 1 | 3 | -1 | 7 |
+| 13 | Lazio | 5 | 2 | 0 | 3 | 3 | 6 |
 | 14 | Parma | 5 | 1 | 2 | 2 | -3 | 5 |
 | 15 | Torino | 5 | 1 | 1 | 3 | -8 | 4 |
-| 16 | Fiorentina | 5 | 0 | 3 | 2 | -3 | 3 |
-| 17 | Hellas Verona | 5 | 0 | 3 | 2 | -6 | 3 |
+| 16 | Hellas Verona | 6 | 0 | 4 | 2 | -6 | 4 |
+| 17 | Fiorentina | 5 | 0 | 3 | 2 | -3 | 3 |
 | 18 | Pisa | 5 | 0 | 2 | 3 | -3 | 2 |
 | 19 | Genoa | 5 | 0 | 2 | 3 | -5 | 2 |
 | 20 | Lecce | 5 | 0 | 2 | 3 | -6 | 2 |
@@ -153,11 +153,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Lille | 6 | 3 | 1 | 2 | 4 | 10 |
 | 7 | Lens | 6 | 3 | 1 | 2 | 3 | 10 |
 | 8 | Rennes | 6 | 2 | 3 | 1 | -1 | 9 |
-| 9 | Brest | 6 | 2 | 1 | 3 | 0 | 7 |
-| 10 | Toulouse | 6 | 2 | 1 | 3 | -2 | 7 |
-| 11 | Paris | 6 | 2 | 1 | 3 | -3 | 7 |
-| 12 | Nice | 6 | 2 | 1 | 3 | -3 | 7 |
-| 13 | Lorient | 6 | 2 | 1 | 3 | -5 | 7 |
+| 9 | Paris | 7 | 2 | 2 | 3 | -3 | 8 |
+| 10 | Lorient | 7 | 2 | 2 | 3 | -5 | 8 |
+| 11 | Brest | 6 | 2 | 1 | 3 | 0 | 7 |
+| 12 | Toulouse | 6 | 2 | 1 | 3 | -2 | 7 |
+| 13 | Nice | 6 | 2 | 1 | 3 | -3 | 7 |
 | 14 | Auxerre | 6 | 2 | 0 | 4 | -4 | 6 |
 | 15 | Le Havre | 6 | 1 | 2 | 3 | -2 | 5 |
 | 16 | Nantes | 6 | 1 | 2 | 3 | -2 | 5 |
