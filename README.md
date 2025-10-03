@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 03 October 2025, 08:20 PM UTC (Saturday, 04 October 2025, 01:50 AM IST)
+**Last Updated:** Friday, 03 October 2025, 08:39 PM UTC (Saturday, 04 October 2025, 02:09 AM IST)
 
 ### Premier League
 
@@ -50,11 +50,11 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Liverpool FC | 6 | 5 | 0 | 1 | 5 | 15 |
 | 2 | Arsenal | 6 | 4 | 1 | 1 | 9 | 13 |
 | 3 | Crystal Palace | 6 | 3 | 3 | 0 | 5 | 12 |
-| 4 | AFC Bournemouth | 7 | 3 | 3 | 1 | 1 | 12 |
-| 5 | Tottenham Hotspur | 6 | 3 | 2 | 1 | 7 | 11 |
-| 6 | Sunderland | 6 | 3 | 2 | 1 | 3 | 11 |
-| 7 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
-| 8 | Fulham | 7 | 2 | 3 | 2 | -1 | 9 |
+| 4 | Tottenham Hotspur | 6 | 3 | 2 | 1 | 7 | 11 |
+| 5 | Sunderland | 6 | 3 | 2 | 1 | 3 | 11 |
+| 6 | AFC Bournemouth | 7 | 3 | 2 | 2 | 0 | 11 |
+| 7 | Fulham | 7 | 3 | 2 | 2 | 0 | 11 |
+| 8 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
 | 9 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
 | 10 | Everton | 6 | 2 | 2 | 2 | 1 | 8 |
 | 11 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 03 October 2025, 08:20 PM UTC",
-        "IST": "Saturday, 04 October 2025, 01:50 AM IST"
+        "UTC": "Friday, 03 October 2025, 08:39 PM UTC",
+        "IST": "Saturday, 04 October 2025, 02:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -37,16 +37,6 @@
             },
             {
                 "Position": "4",
-                "Team": "AFC Bournemouth",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "12"
-            },
-            {
-                "Position": "5",
                 "Team": "Tottenham Hotspur",
                 "Played": "6",
                 "Wins": "3",
@@ -56,7 +46,7 @@
                 "Points": "11"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Sunderland",
                 "Played": "6",
                 "Wins": "3",
@@ -66,7 +56,27 @@
                 "Points": "11"
             },
             {
+                "Position": "6",
+                "Team": "AFC Bournemouth",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "11"
+            },
+            {
                 "Position": "7",
+                "Team": "Fulham",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "11"
+            },
+            {
+                "Position": "8",
                 "Team": "Manchester City",
                 "Played": "6",
                 "Wins": "3",
@@ -74,16 +84,6 @@
                 "Losses": "2",
                 "Goal Difference": "8",
                 "Points": "10"
-            },
-            {
-                "Position": "8",
-                "Team": "Fulham",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "9"
             },
             {
                 "Position": "9",
