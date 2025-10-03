@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 03 October 2025, 07:15 PM UTC (Saturday, 04 October 2025, 12:45 AM IST)
+**Last Updated:** Friday, 03 October 2025, 07:37 PM UTC (Saturday, 04 October 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -75,16 +75,16 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Barcelona | 7 | 6 | 1 | 0 | 16 | 19 |
 | 2 | Real Madrid | 7 | 6 | 0 | 1 | 8 | 18 |
 | 3 | Villarreal | 7 | 5 | 1 | 1 | 8 | 16 |
-| 4 | Elche | 7 | 3 | 4 | 0 | 4 | 13 |
-| 5 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
-| 6 | Real Betis | 7 | 3 | 3 | 1 | 4 | 12 |
-| 7 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
-| 8 | Getafe | 8 | 3 | 3 | 2 | -1 | 12 |
+| 4 | Getafe | 8 | 4 | 2 | 2 | 0 | 14 |
+| 5 | Elche | 7 | 3 | 4 | 0 | 4 | 13 |
+| 6 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
+| 7 | Real Betis | 7 | 3 | 3 | 1 | 4 | 12 |
+| 8 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
 | 9 | Sevilla | 7 | 3 | 1 | 3 | 1 | 10 |
 | 10 | Athletic Bilbao | 7 | 3 | 1 | 3 | -1 | 10 |
 | 11 | Alavés | 7 | 2 | 2 | 3 | -1 | 8 |
-| 12 | Osasuna | 8 | 2 | 2 | 4 | -2 | 8 |
-| 13 | Valencia | 7 | 2 | 2 | 3 | -3 | 8 |
+| 12 | Valencia | 7 | 2 | 2 | 3 | -3 | 8 |
+| 13 | Osasuna | 8 | 2 | 1 | 5 | -3 | 7 |
 | 14 | Real Oviedo | 7 | 2 | 0 | 5 | -8 | 6 |
 | 15 | Levante | 7 | 1 | 2 | 4 | -3 | 5 |
 | 16 | Rayo Vallecano | 7 | 1 | 2 | 4 | -3 | 5 |
@@ -152,12 +152,12 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Strasbourg | 6 | 4 | 0 | 2 | 2 | 12 |
 | 6 | Lille | 6 | 3 | 1 | 2 | 4 | 10 |
 | 7 | Lens | 6 | 3 | 1 | 2 | 3 | 10 |
-| 8 | Paris | 7 | 3 | 1 | 3 | -2 | 10 |
+| 8 | Paris | 7 | 3 | 1 | 3 | -1 | 10 |
 | 9 | Rennes | 6 | 2 | 3 | 1 | -1 | 9 |
 | 10 | Brest | 6 | 2 | 1 | 3 | 0 | 7 |
 | 11 | Toulouse | 6 | 2 | 1 | 3 | -2 | 7 |
 | 12 | Nice | 6 | 2 | 1 | 3 | -3 | 7 |
-| 13 | Lorient | 7 | 2 | 1 | 4 | -6 | 7 |
+| 13 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
 | 14 | Auxerre | 6 | 2 | 0 | 4 | -4 | 6 |
 | 15 | Le Havre | 6 | 1 | 2 | 3 | -2 | 5 |
 | 16 | Nantes | 6 | 1 | 2 | 3 | -2 | 5 |
@@ -299,15 +299,15 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Famalicão | 7 | 3 | 3 | 1 | 4 | 12 |
 | 7 | Braga | 7 | 2 | 3 | 2 | 4 | 9 |
 | 8 | Vitória S.C. | 7 | 2 | 2 | 3 | -4 | 8 |
-| 9 | Arouca | 7 | 2 | 2 | 3 | -9 | 8 |
-| 10 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
-| 11 | Nacional | 7 | 2 | 1 | 4 | -4 | 7 |
-| 12 | Estrela Amadora | 7 | 1 | 4 | 2 | 0 | 7 |
-| 13 | Alverca | 7 | 2 | 1 | 4 | -3 | 7 |
-| 14 | Casa Pia | 7 | 2 | 1 | 4 | -5 | 7 |
-| 15 | Estoril | 7 | 1 | 2 | 4 | -3 | 5 |
-| 16 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
-| 17 | Rio Ave | 7 | 0 | 5 | 2 | -5 | 5 |
+| 9 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
+| 10 | Arouca | 7 | 2 | 2 | 3 | -9 | 8 |
+| 11 | Estoril | 8 | 2 | 2 | 4 | -2 | 8 |
+| 12 | Nacional | 7 | 2 | 1 | 4 | -4 | 7 |
+| 13 | Estrela Amadora | 7 | 1 | 4 | 2 | 0 | 7 |
+| 14 | Alverca | 7 | 2 | 1 | 4 | -3 | 7 |
+| 15 | Casa Pia | 8 | 2 | 1 | 5 | -6 | 7 |
+| 16 | Rio Ave | 7 | 0 | 5 | 2 | -5 | 5 |
+| 17 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
 | 18 | AVS | 7 | 0 | 1 | 6 | -13 | 1 |
 
 ### EFL Championship
