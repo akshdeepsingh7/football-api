@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 10:38 PM UTC",
-        "IST": "Sunday, 05 October 2025, 04:08 AM IST"
+        "UTC": "Saturday, 04 October 2025, 11:17 PM UTC",
+        "IST": "Sunday, 05 October 2025, 04:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2971,6 +2971,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Hurac\u00e1n",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "16"
+            },
+            {
+                "Position": "7",
                 "Team": "Argentinos Juniors",
                 "Played": "11",
                 "Wins": "4",
@@ -2980,23 +2990,13 @@
                 "Points": "15"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "C\u00f3rdoba SdE",
                 "Played": "11",
                 "Wins": "3",
                 "Draws": "6",
                 "Losses": "2",
                 "Goal Difference": "3",
-                "Points": "15"
-            },
-            {
-                "Position": "8",
-                "Team": "Banfield",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-4",
                 "Points": "15"
             },
             {
@@ -3011,12 +3011,12 @@
             },
             {
                 "Position": "10",
-                "Team": "Hurac\u00e1n",
+                "Team": "Banfield",
                 "Played": "11",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-3",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-5",
                 "Points": "14"
             },
             {
@@ -3258,7 +3258,7 @@
                 "Wins": "12",
                 "Draws": "7",
                 "Losses": "8",
-                "Goal Difference": "15",
+                "Goal Difference": "14",
                 "Points": "43"
             },
             {
@@ -3288,7 +3288,7 @@
                 "Wins": "11",
                 "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "0",
+                "Goal Difference": "1",
                 "Points": "38"
             },
             {
@@ -3328,7 +3328,7 @@
                 "Wins": "8",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-7",
+                "Goal Difference": "-6",
                 "Points": "32"
             },
             {
@@ -3368,7 +3368,7 @@
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "29"
             },
             {

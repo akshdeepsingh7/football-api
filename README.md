@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 October 2025, 10:38 PM UTC (Sunday, 05 October 2025, 04:08 AM IST)
+**Last Updated:** Saturday, 04 October 2025, 11:17 PM UTC (Sunday, 05 October 2025, 04:47 AM IST)
 
 ### Premier League
 
@@ -401,11 +401,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Def y Justicia | 11 | 4 | 4 | 3 | 2 | 16 |
 | 4 | Tigre | 11 | 4 | 4 | 3 | 2 | 16 |
 | 5 | Estudiantes | 10 | 5 | 1 | 4 | 0 | 16 |
-| 6 | Argentinos Juniors | 11 | 4 | 3 | 4 | 4 | 15 |
-| 7 | Córdoba SdE | 11 | 3 | 6 | 2 | 3 | 15 |
-| 8 | Banfield | 11 | 4 | 3 | 4 | -4 | 15 |
+| 6 | Huracán | 11 | 4 | 4 | 3 | -2 | 16 |
+| 7 | Argentinos Juniors | 11 | 4 | 3 | 4 | 4 | 15 |
+| 8 | Córdoba SdE | 11 | 3 | 6 | 2 | 3 | 15 |
 | 9 | Boca Juniors | 10 | 3 | 5 | 2 | 5 | 14 |
-| 10 | Huracán | 11 | 3 | 5 | 3 | -3 | 14 |
+| 10 | Banfield | 11 | 4 | 2 | 5 | -5 | 14 |
 | 11 | Belgrano | 10 | 3 | 4 | 3 | 2 | 13 |
 | 12 | Racing Club | 10 | 3 | 2 | 5 | -2 | 11 |
 | 13 | Independiente Rivadavia | 10 | 2 | 4 | 4 | -2 | 10 |
@@ -434,18 +434,18 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Flamengo | 25 | 16 | 7 | 2 | 38 | 55 |
 | 2 | Palmeiras | 24 | 16 | 4 | 4 | 20 | 52 |
 | 3 | Cruzeiro | 26 | 15 | 6 | 5 | 20 | 51 |
-| 4 | Botafogo | 27 | 12 | 7 | 8 | 15 | 43 |
+| 4 | Botafogo | 27 | 12 | 7 | 8 | 14 | 43 |
 | 5 | Mirassol | 25 | 11 | 10 | 4 | 17 | 43 |
 | 6 | Bahia | 25 | 11 | 7 | 7 | 3 | 40 |
-| 7 | Fluminense | 25 | 11 | 5 | 9 | 0 | 38 |
+| 7 | Fluminense | 25 | 11 | 5 | 9 | 1 | 38 |
 | 8 | São Paulo | 26 | 10 | 8 | 8 | 4 | 38 |
 | 9 | RB Bragantino | 27 | 9 | 7 | 11 | -6 | 34 |
 | 10 | Grêmio | 27 | 8 | 10 | 9 | -4 | 34 |
-| 11 | Internacional | 26 | 8 | 8 | 10 | -7 | 32 |
+| 11 | Internacional | 26 | 8 | 8 | 10 | -6 | 32 |
 | 12 | Ceará | 25 | 8 | 7 | 10 | -1 | 31 |
 | 13 | Vasco da Gama | 26 | 8 | 6 | 12 | 0 | 30 |
 | 14 | Corinthians | 26 | 7 | 9 | 10 | -6 | 30 |
-| 15 | Atlético Mineiro | 25 | 7 | 8 | 10 | -5 | 29 |
+| 15 | Atlético Mineiro | 25 | 7 | 8 | 10 | -6 | 29 |
 | 16 | Santos | 25 | 7 | 7 | 11 | -10 | 28 |
 | 17 | Vitória | 26 | 5 | 10 | 11 | -17 | 25 |
 | 18 | Juventude | 25 | 6 | 5 | 14 | -26 | 23 |
