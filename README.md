@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 October 2025, 08:19 PM UTC (Sunday, 05 October 2025, 01:49 AM IST)
+**Last Updated:** Saturday, 04 October 2025, 08:38 PM UTC (Sunday, 05 October 2025, 02:08 AM IST)
 
 ### Premier League
 
@@ -148,18 +148,18 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Marseille | 7 | 5 | 0 | 2 | 10 | 15 |
 | 2 | PSG | 6 | 5 | 0 | 1 | 8 | 15 |
 | 3 | Lyon | 6 | 5 | 0 | 1 | 5 | 15 |
-| 4 | Lens | 7 | 4 | 1 | 2 | 4 | 13 |
-| 5 | Monaco | 6 | 4 | 0 | 2 | 4 | 12 |
-| 6 | Strasbourg | 6 | 4 | 0 | 2 | 2 | 12 |
+| 4 | Monaco | 6 | 4 | 0 | 2 | 4 | 12 |
+| 5 | Strasbourg | 6 | 4 | 0 | 2 | 2 | 12 |
+| 6 | Lens | 7 | 3 | 2 | 2 | 3 | 11 |
 | 7 | Lille | 6 | 3 | 1 | 2 | 4 | 10 |
 | 8 | Paris | 7 | 3 | 1 | 3 | -1 | 10 |
 | 9 | Rennes | 6 | 2 | 3 | 1 | -1 | 9 |
 | 10 | Brest | 7 | 2 | 2 | 3 | 0 | 8 |
 | 11 | Toulouse | 6 | 2 | 1 | 3 | -2 | 7 |
 | 12 | Nice | 6 | 2 | 1 | 3 | -3 | 7 |
-| 13 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
-| 14 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
-| 15 | Auxerre | 7 | 2 | 0 | 5 | -5 | 6 |
+| 13 | Auxerre | 7 | 2 | 1 | 4 | -4 | 7 |
+| 14 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
+| 15 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
 | 16 | Le Havre | 6 | 1 | 2 | 3 | -2 | 5 |
 | 17 | Angers | 6 | 1 | 2 | 3 | -3 | 5 |
 | 18 | Metz | 7 | 0 | 2 | 5 | -11 | 2 |
@@ -348,13 +348,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Charlotte | 33 | 18 | 2 | 13 | 7 | 56 |
 | 4 | NYCFC | 32 | 17 | 5 | 10 | 8 | 56 |
 | 5 | Inter Miami | 31 | 16 | 8 | 7 | 16 | 56 |
-| 6 | Nashville | 33 | 16 | 5 | 12 | 15 | 53 |
+| 6 | Nashville | 33 | 16 | 6 | 11 | 16 | 54 |
 | 7 | Orlando City | 31 | 14 | 10 | 7 | 15 | 52 |
 | 8 | Chicago Fire | 32 | 15 | 6 | 11 | 8 | 51 |
 | 9 | Columbus Crew | 32 | 13 | 11 | 8 | 2 | 50 |
 | 10 | New York RB | 32 | 12 | 7 | 13 | 4 | 43 |
 | 11 | New England Revolution | 32 | 9 | 8 | 15 | -4 | 35 |
-| 12 | CF Montréal | 33 | 7 | 9 | 17 | -22 | 30 |
+| 12 | CF Montréal | 33 | 6 | 10 | 17 | -23 | 28 |
 | 13 | Toronto | 31 | 5 | 13 | 13 | -7 | 28 |
 | 14 | Atlanta United | 31 | 5 | 12 | 14 | -20 | 27 |
 | 15 | DC United | 33 | 5 | 10 | 18 | -36 | 25 |
