@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 04:21 PM UTC",
-        "IST": "Saturday, 04 October 2025, 09:51 PM IST"
+        "UTC": "Saturday, 04 October 2025, 04:41 PM UTC",
+        "IST": "Saturday, 04 October 2025, 10:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -18,12 +18,12 @@
             {
                 "Position": "2",
                 "Team": "Liverpool FC",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "5",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "5",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "3",
@@ -88,12 +88,12 @@
             {
                 "Position": "9",
                 "Team": "Chelsea",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "3",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "10",
@@ -249,6 +249,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Athletic Bilbao",
+                "Played": "8",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "13"
+            },
+            {
+                "Position": "6",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "7",
                 "Wins": "3",
@@ -258,7 +268,7 @@
                 "Points": "12"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Real Betis",
                 "Played": "7",
                 "Wins": "3",
@@ -268,7 +278,7 @@
                 "Points": "12"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Espanyol",
                 "Played": "7",
                 "Wins": "3",
@@ -278,7 +288,7 @@
                 "Points": "12"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Getafe",
                 "Played": "8",
                 "Wins": "3",
@@ -288,23 +298,13 @@
                 "Points": "11"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Sevilla",
                 "Played": "7",
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "1",
-                "Points": "10"
-            },
-            {
-                "Position": "10",
-                "Team": "Athletic Bilbao",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-1",
                 "Points": "10"
             },
             {
@@ -400,11 +400,11 @@
             {
                 "Position": "20",
                 "Team": "Mallorca",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "1",
                 "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-5",
+                "Losses": "5",
+                "Goal Difference": "-6",
                 "Points": "5"
             }
         ],
@@ -412,12 +412,12 @@
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "5",
-                "Wins": "5",
+                "Played": "6",
+                "Wins": "6",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "19",
-                "Points": "15"
+                "Goal Difference": "20",
+                "Points": "18"
             },
             {
                 "Position": "2",
@@ -462,11 +462,11 @@
             {
                 "Position": "6",
                 "Team": "Eintracht Frankfurt",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "3",
                 "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "4",
+                "Losses": "3",
+                "Goal Difference": "3",
                 "Points": "9"
             },
             {
@@ -628,7 +628,7 @@
                 "Wins": "4",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "12"
             },
             {
@@ -653,21 +653,21 @@
             },
             {
                 "Position": "7",
-                "Team": "Cremonese",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "9"
-            },
-            {
-                "Position": "8",
                 "Team": "Sassuolo",
                 "Played": "6",
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "9"
+            },
+            {
+                "Position": "8",
+                "Team": "Cremonese",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "1",
                 "Goal Difference": "0",
                 "Points": "9"
             },
@@ -800,7 +800,7 @@
                 "Wins": "5",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "8",
+                "Goal Difference": "10",
                 "Points": "15"
             },
             {
@@ -970,7 +970,7 @@
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "5",
-                "Goal Difference": "-9",
+                "Goal Difference": "-11",
                 "Points": "2"
             }
         ],
