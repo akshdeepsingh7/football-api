@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 October 2025, 07:37 PM UTC (Sunday, 05 October 2025, 01:07 AM IST)
+**Last Updated:** Saturday, 04 October 2025, 08:19 PM UTC (Sunday, 05 October 2025, 01:49 AM IST)
 
 ### Premier League
 
@@ -72,9 +72,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 7 | 6 | 1 | 0 | 16 | 19 |
-| 2 | Real Madrid | 8 | 6 | 1 | 1 | 8 | 19 |
-| 3 | Villarreal | 8 | 5 | 2 | 1 | 8 | 17 |
+| 1 | Real Madrid | 8 | 7 | 0 | 1 | 9 | 21 |
+| 2 | Barcelona | 7 | 6 | 1 | 0 | 16 | 19 |
+| 3 | Villarreal | 8 | 5 | 1 | 2 | 7 | 16 |
 | 4 | Elche | 7 | 3 | 4 | 0 | 4 | 13 |
 | 5 | Athletic Bilbao | 8 | 4 | 1 | 3 | 0 | 13 |
 | 6 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
@@ -297,12 +297,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Gil Vicente | 8 | 5 | 1 | 2 | 6 | 16 |
 | 5 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
 | 6 | Famalicão | 7 | 3 | 3 | 1 | 4 | 12 |
-| 7 | Alverca | 8 | 3 | 1 | 4 | -1 | 10 |
-| 8 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
-| 9 | Vitória S.C. | 8 | 2 | 3 | 3 | -4 | 9 |
+| 7 | Santa Clara | 8 | 3 | 2 | 3 | -2 | 11 |
+| 8 | Alverca | 8 | 3 | 1 | 4 | -1 | 10 |
+| 9 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
 | 10 | Braga | 7 | 2 | 3 | 2 | 4 | 9 |
-| 11 | Santa Clara | 8 | 2 | 3 | 3 | -3 | 9 |
-| 12 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
+| 11 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
+| 12 | Vitória S.C. | 8 | 2 | 2 | 4 | -5 | 8 |
 | 13 | Arouca | 7 | 2 | 2 | 3 | -9 | 8 |
 | 14 | Estrela Amadora | 8 | 1 | 4 | 3 | -2 | 7 |
 | 15 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
@@ -420,9 +420,9 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | GELP | 11 | 4 | 1 | 6 | -5 | 13 |
 | 8 | Atl. Tucumán | 10 | 3 | 3 | 4 | 0 | 12 |
 | 9 | Sarmiento | 10 | 3 | 3 | 4 | -3 | 12 |
-| 10 | Instituto | 10 | 2 | 5 | 3 | -6 | 11 |
-| 11 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
-| 12 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
+| 10 | Instituto | 11 | 2 | 6 | 3 | -6 | 12 |
+| 11 | San Martín SJ | 11 | 2 | 5 | 4 | -3 | 11 |
+| 12 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
 | 13 | Talleres | 10 | 2 | 4 | 4 | -4 | 10 |
 | 14 | Godoy Cruz | 10 | 1 | 5 | 4 | -5 | 8 |
 | 15 | Independiente | 9 | 0 | 5 | 4 | -4 | 5 |
