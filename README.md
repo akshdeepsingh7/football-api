@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 October 2025, 11:14 AM UTC (Saturday, 04 October 2025, 04:44 PM IST)
+**Last Updated:** Saturday, 04 October 2025, 11:37 AM UTC (Saturday, 04 October 2025, 05:07 PM IST)
 
 ### Premier League
 
@@ -50,15 +50,15 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Liverpool FC | 6 | 5 | 0 | 1 | 5 | 15 |
 | 2 | AFC Bournemouth | 7 | 4 | 2 | 1 | 3 | 14 |
 | 3 | Arsenal | 6 | 4 | 1 | 1 | 9 | 13 |
-| 4 | Crystal Palace | 6 | 3 | 3 | 0 | 5 | 12 |
-| 5 | Tottenham Hotspur | 6 | 3 | 2 | 1 | 7 | 11 |
+| 4 | Tottenham Hotspur | 7 | 3 | 3 | 1 | 7 | 12 |
+| 5 | Crystal Palace | 6 | 3 | 3 | 0 | 5 | 12 |
 | 6 | Sunderland | 6 | 3 | 2 | 1 | 3 | 11 |
 | 7 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
-| 8 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
-| 9 | Everton | 6 | 2 | 2 | 2 | 1 | 8 |
-| 10 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |
-| 11 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
-| 12 | Leeds United | 6 | 2 | 2 | 2 | -3 | 8 |
+| 8 | Leeds United | 7 | 2 | 3 | 2 | -3 | 9 |
+| 9 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
+| 10 | Everton | 6 | 2 | 2 | 2 | 1 | 8 |
+| 11 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |
+| 12 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
 | 13 | Brentford | 6 | 2 | 1 | 3 | -2 | 7 |
 | 14 | Manchester United | 6 | 2 | 1 | 3 | -4 | 7 |
 | 15 | Newcastle United | 6 | 1 | 3 | 2 | -1 | 6 |
@@ -314,9 +314,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Middlesbrough | 8 | 5 | 3 | 0 | 7 | 18 |
-| 2 | Coventry City | 8 | 4 | 4 | 0 | 15 | 16 |
-| 3 | Stoke City | 8 | 4 | 2 | 2 | 5 | 14 |
+| 1 | Coventry City | 9 | 5 | 4 | 0 | 16 | 19 |
+| 2 | Middlesbrough | 8 | 5 | 3 | 0 | 7 | 18 |
+| 3 | Stoke City | 9 | 4 | 3 | 2 | 5 | 15 |
 | 4 | West Bromwich Albion | 8 | 4 | 2 | 2 | 2 | 14 |
 | 5 | Bristol City | 8 | 3 | 4 | 1 | 6 | 13 |
 | 6 | Leicester City | 8 | 3 | 4 | 1 | 3 | 13 |
@@ -329,15 +329,15 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Ipswich Town | 7 | 2 | 4 | 1 | 5 | 10 |
 | 14 | Wrexham | 9 | 2 | 4 | 3 | -1 | 10 |
 | 15 | Southampton | 8 | 2 | 4 | 2 | -1 | 10 |
-| 16 | Watford | 8 | 2 | 3 | 3 | -1 | 9 |
-| 17 | Portsmouth | 8 | 2 | 3 | 3 | -2 | 9 |
-| 18 | Hull City | 8 | 2 | 3 | 3 | -3 | 9 |
+| 16 | Hull City | 9 | 2 | 4 | 3 | -3 | 10 |
+| 17 | Watford | 8 | 2 | 3 | 3 | -1 | 9 |
+| 18 | Portsmouth | 8 | 2 | 3 | 3 | -2 | 9 |
 | 19 | Norwich City | 8 | 2 | 2 | 4 | -1 | 8 |
 | 20 | Derby County | 8 | 1 | 4 | 3 | -4 | 7 |
-| 21 | Oxford United | 8 | 1 | 3 | 4 | -2 | 6 |
-| 22 | Blackburn Rovers | 7 | 2 | 0 | 5 | -4 | 6 |
-| 23 | Sheffield Wednesday | 8 | 1 | 3 | 4 | -7 | 6 |
-| 24 | Sheffield United | 8 | 1 | 0 | 7 | -12 | 3 |
+| 21 | Blackburn Rovers | 8 | 2 | 1 | 5 | -4 | 7 |
+| 22 | Oxford United | 8 | 1 | 3 | 4 | -2 | 6 |
+| 23 | Sheffield Wednesday | 9 | 1 | 3 | 5 | -8 | 6 |
+| 24 | Sheffield United | 9 | 1 | 1 | 7 | -12 | 4 |
 
 ### Major League Soccer (MLS)
 
