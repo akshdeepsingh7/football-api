@@ -41,21 +41,21 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 October 2025, 04:41 PM UTC (Saturday, 04 October 2025, 10:11 PM IST)
+**Last Updated:** Saturday, 04 October 2025, 05:14 PM UTC (Saturday, 04 October 2025, 10:44 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 7 | 5 | 1 | 1 | 11 | 16 |
-| 2 | Liverpool FC | 7 | 5 | 1 | 1 | 5 | 16 |
+| 2 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
 | 3 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
 | 4 | AFC Bournemouth | 7 | 4 | 2 | 1 | 3 | 14 |
 | 5 | Crystal Palace | 6 | 3 | 3 | 0 | 5 | 12 |
-| 6 | Sunderland | 7 | 3 | 2 | 2 | 1 | 11 |
-| 7 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
-| 8 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
-| 9 | Chelsea | 7 | 2 | 3 | 2 | 3 | 9 |
+| 6 | Chelsea | 7 | 3 | 2 | 2 | 4 | 11 |
+| 7 | Sunderland | 7 | 3 | 2 | 2 | 1 | 11 |
+| 8 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
+| 9 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
 | 10 | Everton | 6 | 2 | 2 | 2 | 1 | 8 |
 | 11 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |
 | 12 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
@@ -97,12 +97,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 6 | 6 | 0 | 0 | 20 | 18 |
+| 1 | Bayern Munich | 6 | 6 | 0 | 0 | 21 | 18 |
 | 2 | Borussia Dortmund | 6 | 4 | 2 | 0 | 8 | 14 |
 | 3 | RB Leipzig | 6 | 4 | 1 | 1 | 0 | 13 |
 | 4 | Bayer Leverkusen | 6 | 3 | 2 | 1 | 4 | 11 |
 | 5 | Köln | 6 | 3 | 1 | 2 | 2 | 10 |
-| 6 | Eintracht Frankfurt | 6 | 3 | 0 | 3 | 3 | 9 |
+| 6 | Eintracht Frankfurt | 6 | 3 | 0 | 3 | 2 | 9 |
 | 7 | VfB Stuttgart | 5 | 3 | 0 | 2 | 1 | 9 |
 | 8 | SC Freiburg | 5 | 2 | 1 | 2 | 0 | 7 |
 | 9 | St. Pauli | 6 | 2 | 1 | 3 | -1 | 7 |
@@ -123,11 +123,11 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Milan | 5 | 4 | 0 | 1 | 6 | 12 |
 | 2 | Napoli | 5 | 4 | 0 | 1 | 5 | 12 |
 | 3 | Roma | 5 | 4 | 0 | 1 | 4 | 12 |
-| 4 | Inter | 6 | 4 | 0 | 2 | 8 | 12 |
+| 4 | Inter | 6 | 4 | 0 | 2 | 9 | 12 |
 | 5 | Juventus | 5 | 3 | 2 | 0 | 4 | 11 |
 | 6 | Atalanta | 5 | 2 | 3 | 0 | 6 | 9 |
 | 7 | Sassuolo | 6 | 3 | 0 | 3 | 0 | 9 |
-| 8 | Cremonese | 6 | 2 | 3 | 1 | 0 | 9 |
+| 8 | Cremonese | 6 | 2 | 3 | 1 | -1 | 9 |
 | 9 | Como | 5 | 2 | 2 | 1 | 2 | 8 |
 | 10 | Bologna | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Cagliari | 5 | 2 | 1 | 2 | 0 | 7 |
@@ -154,13 +154,13 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Lens | 6 | 3 | 1 | 2 | 3 | 10 |
 | 8 | Paris | 7 | 3 | 1 | 3 | -1 | 10 |
 | 9 | Rennes | 6 | 2 | 3 | 1 | -1 | 9 |
-| 10 | Brest | 6 | 2 | 1 | 3 | 0 | 7 |
+| 10 | Brest | 7 | 2 | 2 | 3 | 0 | 8 |
 | 11 | Toulouse | 6 | 2 | 1 | 3 | -2 | 7 |
 | 12 | Nice | 6 | 2 | 1 | 3 | -3 | 7 |
 | 13 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
-| 14 | Auxerre | 6 | 2 | 0 | 4 | -4 | 6 |
-| 15 | Le Havre | 6 | 1 | 2 | 3 | -2 | 5 |
-| 16 | Nantes | 6 | 1 | 2 | 3 | -2 | 5 |
+| 14 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
+| 15 | Auxerre | 6 | 2 | 0 | 4 | -4 | 6 |
+| 16 | Le Havre | 6 | 1 | 2 | 3 | -2 | 5 |
 | 17 | Angers | 6 | 1 | 2 | 3 | -3 | 5 |
 | 18 | Metz | 7 | 0 | 2 | 5 | -11 | 2 |
 
@@ -304,11 +304,11 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Arouca | 7 | 2 | 2 | 3 | -9 | 8 |
 | 12 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
 | 13 | Estrela Amadora | 8 | 1 | 4 | 3 | -2 | 7 |
-| 14 | Alverca | 7 | 2 | 1 | 4 | -3 | 7 |
+| 14 | Alverca | 8 | 2 | 1 | 5 | -4 | 7 |
 | 15 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
 | 16 | Rio Ave | 7 | 0 | 5 | 2 | -5 | 5 |
 | 17 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
-| 18 | AVS | 7 | 0 | 1 | 6 | -13 | 1 |
+| 18 | AVS | 8 | 1 | 1 | 6 | -12 | 4 |
 
 ### EFL Championship
 

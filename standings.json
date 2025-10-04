@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 04:41 PM UTC",
-        "IST": "Saturday, 04 October 2025, 10:11 PM IST"
+        "UTC": "Saturday, 04 October 2025, 05:14 PM UTC",
+        "IST": "Saturday, 04 October 2025, 10:44 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -20,10 +20,10 @@
                 "Team": "Liverpool FC",
                 "Played": "7",
                 "Wins": "5",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "5",
-                "Points": "16"
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "15"
             },
             {
                 "Position": "3",
@@ -57,6 +57,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Chelsea",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "11"
+            },
+            {
+                "Position": "7",
                 "Team": "Sunderland",
                 "Played": "7",
                 "Wins": "3",
@@ -66,7 +76,7 @@
                 "Points": "11"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Manchester City",
                 "Played": "6",
                 "Wins": "3",
@@ -76,7 +86,7 @@
                 "Points": "10"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Manchester United",
                 "Played": "7",
                 "Wins": "3",
@@ -84,16 +94,6 @@
                 "Losses": "3",
                 "Goal Difference": "-2",
                 "Points": "10"
-            },
-            {
-                "Position": "9",
-                "Team": "Chelsea",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "9"
             },
             {
                 "Position": "10",
@@ -416,7 +416,7 @@
                 "Wins": "6",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "20",
+                "Goal Difference": "21",
                 "Points": "18"
             },
             {
@@ -466,7 +466,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "3",
-                "Goal Difference": "3",
+                "Goal Difference": "2",
                 "Points": "9"
             },
             {
@@ -628,7 +628,7 @@
                 "Wins": "4",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "8",
+                "Goal Difference": "9",
                 "Points": "12"
             },
             {
@@ -668,7 +668,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "1",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "9"
             },
             {
@@ -886,12 +886,12 @@
             {
                 "Position": "10",
                 "Team": "Brest",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "2",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "0",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "11",
@@ -925,6 +925,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Nantes",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "6"
+            },
+            {
+                "Position": "15",
                 "Team": "Auxerre",
                 "Played": "6",
                 "Wins": "2",
@@ -934,18 +944,8 @@
                 "Points": "6"
             },
             {
-                "Position": "15",
-                "Team": "Le Havre",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "5"
-            },
-            {
                 "Position": "16",
-                "Team": "Nantes",
+                "Team": "Le Havre",
                 "Played": "6",
                 "Wins": "1",
                 "Draws": "2",
@@ -2194,11 +2194,11 @@
             {
                 "Position": "14",
                 "Team": "Alverca",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "2",
                 "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-3",
+                "Losses": "5",
+                "Goal Difference": "-4",
                 "Points": "7"
             },
             {
@@ -2234,12 +2234,12 @@
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "7",
-                "Wins": "0",
+                "Played": "8",
+                "Wins": "1",
                 "Draws": "1",
                 "Losses": "6",
-                "Goal Difference": "-13",
-                "Points": "1"
+                "Goal Difference": "-12",
+                "Points": "4"
             }
         ],
         "EFL Championship": [
