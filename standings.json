@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 07:13 PM UTC",
-        "IST": "Sunday, 05 October 2025, 12:43 AM IST"
+        "UTC": "Saturday, 04 October 2025, 07:37 PM UTC",
+        "IST": "Sunday, 05 October 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -825,6 +825,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Lens",
+                "Played": "7",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "13"
+            },
+            {
+                "Position": "5",
                 "Team": "Monaco",
                 "Played": "6",
                 "Wins": "4",
@@ -834,7 +844,7 @@
                 "Points": "12"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Strasbourg",
                 "Played": "6",
                 "Wins": "4",
@@ -842,16 +852,6 @@
                 "Losses": "2",
                 "Goal Difference": "2",
                 "Points": "12"
-            },
-            {
-                "Position": "6",
-                "Team": "Lens",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "11"
             },
             {
                 "Position": "7",
@@ -915,16 +915,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Auxerre",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "7"
-            },
-            {
-                "Position": "14",
                 "Team": "Lorient",
                 "Played": "7",
                 "Wins": "2",
@@ -934,13 +924,23 @@
                 "Points": "7"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Nantes",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "-2",
+                "Points": "6"
+            },
+            {
+                "Position": "15",
+                "Team": "Auxerre",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "5",
+                "Goal Difference": "-5",
                 "Points": "6"
             },
             {
@@ -2143,6 +2143,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-4",
+                "Points": "9"
+            },
+            {
+                "Position": "10",
                 "Team": "Braga",
                 "Played": "7",
                 "Wins": "2",
@@ -2152,7 +2162,17 @@
                 "Points": "9"
             },
             {
-                "Position": "10",
+                "Position": "11",
+                "Team": "Santa Clara",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "9"
+            },
+            {
+                "Position": "12",
                 "Team": "Casa Pia",
                 "Played": "8",
                 "Wins": "2",
@@ -2162,33 +2182,13 @@
                 "Points": "8"
             },
             {
-                "Position": "11",
-                "Team": "Vit\u00f3ria S.C.",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "8"
-            },
-            {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Arouca",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-9",
-                "Points": "8"
-            },
-            {
-                "Position": "13",
-                "Team": "Santa Clara",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-3",
                 "Points": "8"
             },
             {

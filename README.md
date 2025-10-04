@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 October 2025, 07:13 PM UTC (Sunday, 05 October 2025, 12:43 AM IST)
+**Last Updated:** Saturday, 04 October 2025, 07:37 PM UTC (Sunday, 05 October 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -148,18 +148,18 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Marseille | 7 | 5 | 0 | 2 | 10 | 15 |
 | 2 | PSG | 6 | 5 | 0 | 1 | 8 | 15 |
 | 3 | Lyon | 6 | 5 | 0 | 1 | 5 | 15 |
-| 4 | Monaco | 6 | 4 | 0 | 2 | 4 | 12 |
-| 5 | Strasbourg | 6 | 4 | 0 | 2 | 2 | 12 |
-| 6 | Lens | 7 | 3 | 2 | 2 | 3 | 11 |
+| 4 | Lens | 7 | 4 | 1 | 2 | 4 | 13 |
+| 5 | Monaco | 6 | 4 | 0 | 2 | 4 | 12 |
+| 6 | Strasbourg | 6 | 4 | 0 | 2 | 2 | 12 |
 | 7 | Lille | 6 | 3 | 1 | 2 | 4 | 10 |
 | 8 | Paris | 7 | 3 | 1 | 3 | -1 | 10 |
 | 9 | Rennes | 6 | 2 | 3 | 1 | -1 | 9 |
 | 10 | Brest | 7 | 2 | 2 | 3 | 0 | 8 |
 | 11 | Toulouse | 6 | 2 | 1 | 3 | -2 | 7 |
 | 12 | Nice | 6 | 2 | 1 | 3 | -3 | 7 |
-| 13 | Auxerre | 7 | 2 | 1 | 4 | -4 | 7 |
-| 14 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
-| 15 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
+| 13 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
+| 14 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
+| 15 | Auxerre | 7 | 2 | 0 | 5 | -5 | 6 |
 | 16 | Le Havre | 6 | 1 | 2 | 3 | -2 | 5 |
 | 17 | Angers | 6 | 1 | 2 | 3 | -3 | 5 |
 | 18 | Metz | 7 | 0 | 2 | 5 | -11 | 2 |
@@ -299,11 +299,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Famalicão | 7 | 3 | 3 | 1 | 4 | 12 |
 | 7 | Alverca | 8 | 3 | 1 | 4 | -1 | 10 |
 | 8 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
-| 9 | Braga | 7 | 2 | 3 | 2 | 4 | 9 |
-| 10 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
-| 11 | Vitória S.C. | 7 | 2 | 2 | 3 | -4 | 8 |
-| 12 | Arouca | 7 | 2 | 2 | 3 | -9 | 8 |
-| 13 | Santa Clara | 7 | 2 | 2 | 3 | -3 | 8 |
+| 9 | Vitória S.C. | 8 | 2 | 3 | 3 | -4 | 9 |
+| 10 | Braga | 7 | 2 | 3 | 2 | 4 | 9 |
+| 11 | Santa Clara | 8 | 2 | 3 | 3 | -3 | 9 |
+| 12 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
+| 13 | Arouca | 7 | 2 | 2 | 3 | -9 | 8 |
 | 14 | Estrela Amadora | 8 | 1 | 4 | 3 | -2 | 7 |
 | 15 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
 | 16 | Rio Ave | 7 | 0 | 5 | 2 | -5 | 5 |
