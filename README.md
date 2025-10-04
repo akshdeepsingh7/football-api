@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 October 2025, 09:15 PM UTC (Sunday, 05 October 2025, 02:45 AM IST)
+**Last Updated:** Saturday, 04 October 2025, 09:37 PM UTC (Sunday, 05 October 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -365,14 +365,14 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Seattle Sounders | 31 | 12 | 10 | 9 | 7 | 46 |
 | 6 | Austin | 31 | 12 | 8 | 11 | -6 | 44 |
 | 7 | Portland Timbers | 32 | 11 | 11 | 10 | -2 | 44 |
-| 8 | Colorado Rapids | 32 | 11 | 7 | 14 | -11 | 40 |
-| 9 | San Jose Earthquakes | 32 | 10 | 8 | 14 | -1 | 38 |
-| 10 | Dallas | 32 | 9 | 11 | 12 | -5 | 38 |
+| 8 | Dallas | 32 | 10 | 11 | 11 | -3 | 41 |
+| 9 | Colorado Rapids | 32 | 11 | 7 | 14 | -11 | 40 |
+| 10 | San Jose Earthquakes | 32 | 10 | 8 | 14 | -1 | 38 |
 | 11 | Real Salt Lake | 31 | 11 | 4 | 16 | -11 | 37 |
 | 12 | Houston Dynamo | 32 | 9 | 9 | 14 | -11 | 36 |
 | 13 | St. Louis City | 32 | 7 | 7 | 18 | -16 | 28 |
 | 14 | Sporting KC | 32 | 7 | 6 | 19 | -21 | 27 |
-| 15 | LA Galaxy | 32 | 6 | 9 | 17 | -20 | 27 |
+| 15 | LA Galaxy | 32 | 5 | 9 | 18 | -22 | 24 |
 
 ### Indian Super League
 
@@ -434,18 +434,18 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Flamengo | 25 | 16 | 7 | 2 | 38 | 55 |
 | 2 | Palmeiras | 24 | 16 | 4 | 4 | 20 | 52 |
 | 3 | Cruzeiro | 26 | 15 | 6 | 5 | 20 | 51 |
-| 4 | Botafogo | 26 | 12 | 7 | 7 | 16 | 43 |
+| 4 | Botafogo | 27 | 12 | 8 | 7 | 16 | 44 |
 | 5 | Mirassol | 25 | 11 | 10 | 4 | 17 | 43 |
 | 6 | Bahia | 25 | 11 | 7 | 7 | 3 | 40 |
 | 7 | São Paulo | 26 | 10 | 8 | 8 | 4 | 38 |
-| 8 | Fluminense | 24 | 10 | 5 | 9 | -1 | 35 |
-| 9 | RB Bragantino | 26 | 9 | 6 | 11 | -6 | 33 |
-| 10 | Grêmio | 26 | 8 | 9 | 9 | -4 | 33 |
+| 8 | Fluminense | 25 | 10 | 6 | 9 | -1 | 36 |
+| 9 | RB Bragantino | 27 | 9 | 7 | 11 | -6 | 34 |
+| 10 | Grêmio | 27 | 8 | 10 | 9 | -4 | 34 |
 | 11 | Ceará | 25 | 8 | 7 | 10 | -1 | 31 |
 | 12 | Vasco da Gama | 26 | 8 | 6 | 12 | 0 | 30 |
-| 13 | Corinthians | 26 | 7 | 9 | 10 | -6 | 30 |
-| 14 | Atlético Mineiro | 24 | 7 | 8 | 9 | -4 | 29 |
-| 15 | Internacional | 25 | 7 | 8 | 10 | -8 | 29 |
+| 13 | Atlético Mineiro | 25 | 7 | 9 | 9 | -4 | 30 |
+| 14 | Corinthians | 26 | 7 | 9 | 10 | -6 | 30 |
+| 15 | Internacional | 26 | 7 | 9 | 10 | -8 | 30 |
 | 16 | Santos | 25 | 7 | 7 | 11 | -10 | 28 |
 | 17 | Vitória | 26 | 5 | 10 | 11 | -17 | 25 |
 | 18 | Juventude | 25 | 6 | 5 | 14 | -26 | 23 |
