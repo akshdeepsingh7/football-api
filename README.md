@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 October 2025, 11:17 PM UTC (Sunday, 05 October 2025, 04:47 AM IST)
+**Last Updated:** Saturday, 04 October 2025, 11:37 PM UTC (Sunday, 05 October 2025, 05:07 AM IST)
 
 ### Premier League
 
@@ -417,13 +417,13 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Lanús | 10 | 5 | 2 | 3 | 1 | 17 |
 | 5 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
 | 6 | Rosario | 9 | 3 | 6 | 0 | 5 | 15 |
-| 7 | Atl. Tucumán | 11 | 3 | 4 | 4 | 0 | 13 |
+| 7 | Atl. Tucumán | 11 | 4 | 3 | 4 | 2 | 15 |
 | 8 | GELP | 11 | 4 | 1 | 6 | -5 | 13 |
 | 9 | Sarmiento | 10 | 3 | 3 | 4 | -3 | 12 |
 | 10 | Instituto | 11 | 2 | 6 | 3 | -6 | 12 |
-| 11 | Platense | 10 | 2 | 5 | 3 | -3 | 11 |
-| 12 | San Martín SJ | 11 | 2 | 5 | 4 | -3 | 11 |
-| 13 | Talleres | 10 | 2 | 4 | 4 | -4 | 10 |
+| 11 | San Martín SJ | 11 | 2 | 5 | 4 | -3 | 11 |
+| 12 | Talleres | 10 | 2 | 4 | 4 | -4 | 10 |
+| 13 | Platense | 10 | 2 | 4 | 4 | -5 | 10 |
 | 14 | Godoy Cruz | 10 | 1 | 5 | 4 | -5 | 8 |
 | 15 | Independiente | 9 | 0 | 5 | 4 | -4 | 5 |
 
@@ -437,7 +437,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Botafogo | 27 | 12 | 7 | 8 | 14 | 43 |
 | 5 | Mirassol | 25 | 11 | 10 | 4 | 17 | 43 |
 | 6 | Bahia | 25 | 11 | 7 | 7 | 3 | 40 |
-| 7 | Fluminense | 25 | 11 | 5 | 9 | 1 | 38 |
+| 7 | Fluminense | 25 | 11 | 5 | 9 | 2 | 38 |
 | 8 | São Paulo | 26 | 10 | 8 | 8 | 4 | 38 |
 | 9 | RB Bragantino | 27 | 9 | 7 | 11 | -6 | 34 |
 | 10 | Grêmio | 27 | 8 | 10 | 9 | -4 | 34 |
@@ -445,7 +445,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Ceará | 25 | 8 | 7 | 10 | -1 | 31 |
 | 13 | Vasco da Gama | 26 | 8 | 6 | 12 | 0 | 30 |
 | 14 | Corinthians | 26 | 7 | 9 | 10 | -6 | 30 |
-| 15 | Atlético Mineiro | 25 | 7 | 8 | 10 | -6 | 29 |
+| 15 | Atlético Mineiro | 25 | 7 | 8 | 10 | -7 | 29 |
 | 16 | Santos | 25 | 7 | 7 | 11 | -10 | 28 |
 | 17 | Vitória | 26 | 5 | 10 | 11 | -17 | 25 |
 | 18 | Juventude | 25 | 6 | 5 | 14 | -26 | 23 |
