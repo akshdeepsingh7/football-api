@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 03 October 2025, 11:37 PM UTC (Saturday, 04 October 2025, 05:07 AM IST)
+**Last Updated:** Saturday, 04 October 2025, 01:21 AM UTC (Saturday, 04 October 2025, 06:51 AM IST)
 
 ### Premier League
 
@@ -396,21 +396,21 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Unión | 10 | 4 | 5 | 1 | 7 | 17 |
+| 1 | Unión | 11 | 4 | 6 | 1 | 7 | 18 |
 | 2 | Barracas | 10 | 4 | 4 | 2 | 2 | 16 |
 | 3 | Def y Justicia | 11 | 4 | 4 | 3 | 2 | 16 |
 | 4 | Tigre | 11 | 4 | 4 | 3 | 2 | 16 |
 | 5 | Estudiantes | 10 | 5 | 1 | 4 | 0 | 16 |
-| 6 | Boca Juniors | 10 | 3 | 5 | 2 | 5 | 14 |
-| 7 | Argentinos Juniors | 10 | 4 | 2 | 4 | 4 | 14 |
-| 8 | Córdoba SdE | 10 | 3 | 5 | 2 | 3 | 14 |
+| 6 | Argentinos Juniors | 11 | 4 | 3 | 4 | 4 | 15 |
+| 7 | Córdoba SdE | 11 | 3 | 6 | 2 | 3 | 15 |
+| 8 | Boca Juniors | 10 | 3 | 5 | 2 | 5 | 14 |
 | 9 | Banfield | 10 | 4 | 2 | 4 | -4 | 14 |
 | 10 | Belgrano | 10 | 3 | 4 | 3 | 2 | 13 |
 | 11 | Huracán | 10 | 3 | 4 | 3 | -3 | 13 |
 | 12 | Racing Club | 10 | 3 | 2 | 5 | -2 | 11 |
 | 13 | Independiente Rivadavia | 10 | 2 | 4 | 4 | -2 | 10 |
 | 14 | Newell's Old Boys | 10 | 2 | 4 | 4 | -3 | 10 |
-| 15 | Aldosivi | 10 | 0 | 3 | 7 | -13 | 3 |
+| 15 | Aldosivi | 11 | 0 | 4 | 7 | -13 | 4 |
 | 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
 | 2 | Vélez | 10 | 6 | 3 | 1 | 9 | 21 |
 | 3 | River Plate | 10 | 5 | 3 | 2 | 8 | 18 |
