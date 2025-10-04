@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 08:38 PM UTC",
-        "IST": "Sunday, 05 October 2025, 02:08 AM IST"
+        "UTC": "Saturday, 04 October 2025, 09:15 PM UTC",
+        "IST": "Sunday, 05 October 2025, 02:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -214,7 +214,7 @@
                 "Wins": "7",
                 "Draws": "0",
                 "Losses": "1",
-                "Goal Difference": "9",
+                "Goal Difference": "10",
                 "Points": "21"
             },
             {
@@ -234,7 +234,7 @@
                 "Wins": "5",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "7",
+                "Goal Difference": "6",
                 "Points": "16"
             },
             {
@@ -825,6 +825,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Lens",
+                "Played": "7",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "13"
+            },
+            {
+                "Position": "5",
                 "Team": "Monaco",
                 "Played": "6",
                 "Wins": "4",
@@ -834,7 +844,7 @@
                 "Points": "12"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Strasbourg",
                 "Played": "6",
                 "Wins": "4",
@@ -842,16 +852,6 @@
                 "Losses": "2",
                 "Goal Difference": "2",
                 "Points": "12"
-            },
-            {
-                "Position": "6",
-                "Team": "Lens",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "11"
             },
             {
                 "Position": "7",
@@ -915,16 +915,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Auxerre",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "7"
-            },
-            {
-                "Position": "14",
                 "Team": "Lorient",
                 "Played": "7",
                 "Wins": "2",
@@ -934,13 +924,23 @@
                 "Points": "7"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Nantes",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "-2",
+                "Points": "6"
+            },
+            {
+                "Position": "15",
+                "Team": "Auxerre",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "5",
+                "Goal Difference": "-5",
                 "Points": "6"
             },
             {
@@ -2123,12 +2123,12 @@
             },
             {
                 "Position": "7",
-                "Team": "Santa Clara",
+                "Team": "Vit\u00f3ria S.C.",
                 "Played": "8",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "3",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "11"
             },
             {
@@ -2173,12 +2173,12 @@
             },
             {
                 "Position": "12",
-                "Team": "Vit\u00f3ria S.C.",
+                "Team": "Santa Clara",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "8"
             },
             {
@@ -2728,11 +2728,11 @@
             {
                 "Position": "10",
                 "Team": "Dallas",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "9",
                 "Draws": "11",
-                "Losses": "11",
-                "Goal Difference": "-4",
+                "Losses": "12",
+                "Goal Difference": "-5",
                 "Points": "38"
             },
             {
@@ -2778,12 +2778,12 @@
             {
                 "Position": "15",
                 "Team": "LA Galaxy",
-                "Played": "31",
-                "Wins": "5",
+                "Played": "32",
+                "Wins": "6",
                 "Draws": "9",
                 "Losses": "17",
-                "Goal Difference": "-21",
-                "Points": "24"
+                "Goal Difference": "-20",
+                "Points": "27"
             }
         ],
         "Indian Super League": [
