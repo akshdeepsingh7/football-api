@@ -35,7 +35,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install cryptography beautifulsoup4 requests lxml matplotlib
+          pip install cryptography beautifulsoup4 requests lxml
       
       - name: Run Python script
         env:
