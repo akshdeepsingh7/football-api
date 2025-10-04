@@ -41,11 +41,32 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 October 2025, 06:24 PM UTC (Saturday, 04 October 2025, 11:54 PM IST)
+**Last Updated:** Saturday, 04 October 2025, 06:43 PM UTC (Sunday, 05 October 2025, 12:13 AM IST)
 
 ### Premier League
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Arsenal | 7 | 5 | 1 | 1 | 11 | 16 |
+| 2 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
+| 3 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
+| 4 | AFC Bournemouth | 7 | 4 | 2 | 1 | 3 | 14 |
+| 5 | Crystal Palace | 6 | 3 | 3 | 0 | 5 | 12 |
+| 6 | Chelsea | 7 | 3 | 2 | 2 | 4 | 11 |
+| 7 | Sunderland | 7 | 3 | 2 | 2 | 1 | 11 |
+| 8 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
+| 9 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
+| 10 | Everton | 6 | 2 | 2 | 2 | 1 | 8 |
+| 11 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |
+| 12 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
+| 13 | Leeds United | 7 | 2 | 2 | 3 | -4 | 8 |
+| 14 | Brentford | 6 | 2 | 1 | 3 | -2 | 7 |
+| 15 | Newcastle United | 6 | 1 | 3 | 2 | -1 | 6 |
+| 16 | Aston Villa | 6 | 1 | 3 | 2 | -2 | 6 |
+| 17 | Nottingham Forest | 6 | 1 | 2 | 3 | -5 | 5 |
+| 18 | Burnley | 6 | 1 | 1 | 4 | -7 | 4 |
+| 19 | West Ham United | 7 | 1 | 1 | 5 | -10 | 4 |
+| 20 | Wolverhampton Wanderers | 6 | 0 | 1 | 5 | -9 | 1 |
 
 ### La Liga
 
@@ -276,7 +297,7 @@ Data not available.
 | 4 | Gil Vicente | 8 | 5 | 1 | 2 | 6 | 16 |
 | 5 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
 | 6 | Famalicão | 7 | 3 | 3 | 1 | 4 | 12 |
-| 7 | Alverca | 8 | 3 | 1 | 4 | -2 | 10 |
+| 7 | Alverca | 8 | 3 | 1 | 4 | -1 | 10 |
 | 8 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
 | 9 | Braga | 7 | 2 | 3 | 2 | 4 | 9 |
 | 10 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
@@ -287,7 +308,7 @@ Data not available.
 | 15 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
 | 16 | Rio Ave | 7 | 0 | 5 | 2 | -5 | 5 |
 | 17 | Tondela | 7 | 1 | 2 | 4 | -7 | 5 |
-| 18 | AVS | 8 | 0 | 1 | 7 | -14 | 1 |
+| 18 | AVS | 8 | 0 | 1 | 7 | -15 | 1 |
 
 ### EFL Championship
 
@@ -326,17 +347,17 @@ Data not available.
 | 2 | Cincinnati | 32 | 18 | 5 | 9 | 8 | 59 |
 | 3 | NYCFC | 32 | 17 | 5 | 10 | 8 | 56 |
 | 4 | Inter Miami | 31 | 16 | 8 | 7 | 16 | 56 |
-| 5 | Charlotte | 32 | 17 | 2 | 13 | 6 | 53 |
-| 6 | Nashville | 32 | 16 | 5 | 11 | 16 | 53 |
+| 5 | Charlotte | 33 | 17 | 3 | 13 | 6 | 54 |
+| 6 | Nashville | 33 | 16 | 6 | 11 | 16 | 54 |
 | 7 | Orlando City | 31 | 14 | 10 | 7 | 15 | 52 |
 | 8 | Chicago Fire | 32 | 15 | 6 | 11 | 8 | 51 |
 | 9 | Columbus Crew | 32 | 13 | 11 | 8 | 2 | 50 |
 | 10 | New York RB | 32 | 12 | 7 | 13 | 4 | 43 |
 | 11 | New England Revolution | 32 | 9 | 8 | 15 | -4 | 35 |
-| 12 | Toronto | 31 | 5 | 13 | 13 | -7 | 28 |
-| 13 | CF Montréal | 32 | 6 | 9 | 17 | -23 | 27 |
+| 12 | CF Montréal | 33 | 6 | 10 | 17 | -23 | 28 |
+| 13 | Toronto | 31 | 5 | 13 | 13 | -7 | 28 |
 | 14 | Atlanta United | 31 | 5 | 12 | 14 | -20 | 27 |
-| 15 | DC United | 32 | 5 | 10 | 17 | -35 | 25 |
+| 15 | DC United | 33 | 5 | 11 | 17 | -35 | 26 |
 | 1 | San Diego | 32 | 17 | 6 | 9 | 17 | 57 |
 | 2 | Vancouver Whitecaps | 31 | 16 | 9 | 6 | 25 | 57 |
 | 3 | Minnesota United | 32 | 15 | 10 | 7 | 15 | 55 |
