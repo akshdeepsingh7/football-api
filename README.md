@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 October 2025, 05:14 PM UTC (Saturday, 04 October 2025, 10:44 PM IST)
+**Last Updated:** Saturday, 04 October 2025, 05:37 PM UTC (Saturday, 04 October 2025, 11:07 PM IST)
 
 ### Premier League
 
@@ -123,11 +123,11 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Milan | 5 | 4 | 0 | 1 | 6 | 12 |
 | 2 | Napoli | 5 | 4 | 0 | 1 | 5 | 12 |
 | 3 | Roma | 5 | 4 | 0 | 1 | 4 | 12 |
-| 4 | Inter | 6 | 4 | 0 | 2 | 9 | 12 |
+| 4 | Inter | 6 | 4 | 0 | 2 | 10 | 12 |
 | 5 | Juventus | 5 | 3 | 2 | 0 | 4 | 11 |
 | 6 | Atalanta | 5 | 2 | 3 | 0 | 6 | 9 |
 | 7 | Sassuolo | 6 | 3 | 0 | 3 | 0 | 9 |
-| 8 | Cremonese | 6 | 2 | 3 | 1 | -1 | 9 |
+| 8 | Cremonese | 6 | 2 | 3 | 1 | -2 | 9 |
 | 9 | Como | 5 | 2 | 2 | 1 | 2 | 8 |
 | 10 | Bologna | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Cagliari | 5 | 2 | 1 | 2 | 0 | 7 |
@@ -417,13 +417,13 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Lanús | 10 | 5 | 2 | 3 | 1 | 17 |
 | 5 | San Lorenzo | 10 | 4 | 4 | 2 | 2 | 16 |
 | 6 | Rosario | 9 | 3 | 6 | 0 | 5 | 15 |
-| 7 | Atl. Tucumán | 10 | 3 | 3 | 4 | 0 | 12 |
-| 8 | Sarmiento | 9 | 3 | 3 | 3 | -2 | 12 |
-| 9 | Instituto | 10 | 2 | 5 | 3 | -6 | 11 |
-| 10 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
-| 11 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
-| 12 | Talleres | 10 | 2 | 4 | 4 | -4 | 10 |
-| 13 | GELP | 10 | 3 | 1 | 6 | -6 | 10 |
+| 7 | Sarmiento | 10 | 3 | 4 | 3 | -2 | 13 |
+| 8 | Atl. Tucumán | 10 | 3 | 3 | 4 | 0 | 12 |
+| 9 | GELP | 11 | 3 | 2 | 6 | -6 | 11 |
+| 10 | Instituto | 10 | 2 | 5 | 3 | -6 | 11 |
+| 11 | Platense | 9 | 2 | 4 | 3 | -3 | 10 |
+| 12 | San Martín SJ | 10 | 2 | 4 | 4 | -3 | 10 |
+| 13 | Talleres | 10 | 2 | 4 | 4 | -4 | 10 |
 | 14 | Godoy Cruz | 10 | 1 | 5 | 4 | -5 | 8 |
 | 15 | Independiente | 9 | 0 | 5 | 4 | -4 | 5 |
 
