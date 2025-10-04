@@ -41,24 +41,24 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 October 2025, 12:35 PM UTC (Saturday, 04 October 2025, 06:05 PM IST)
+**Last Updated:** Saturday, 04 October 2025, 01:21 PM UTC (Saturday, 04 October 2025, 06:51 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Liverpool FC | 6 | 5 | 0 | 1 | 5 | 15 |
-| 2 | AFC Bournemouth | 7 | 4 | 2 | 1 | 3 | 14 |
-| 3 | Arsenal | 6 | 4 | 1 | 1 | 9 | 13 |
-| 4 | Tottenham Hotspur | 7 | 3 | 3 | 1 | 7 | 12 |
+| 2 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
+| 3 | AFC Bournemouth | 7 | 4 | 2 | 1 | 3 | 14 |
+| 4 | Arsenal | 6 | 4 | 1 | 1 | 9 | 13 |
 | 5 | Crystal Palace | 6 | 3 | 3 | 0 | 5 | 12 |
 | 6 | Sunderland | 6 | 3 | 2 | 1 | 3 | 11 |
 | 7 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
-| 8 | Leeds United | 7 | 2 | 3 | 2 | -3 | 9 |
-| 9 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
-| 10 | Everton | 6 | 2 | 2 | 2 | 1 | 8 |
-| 11 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |
-| 12 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
+| 8 | Chelsea | 6 | 2 | 2 | 2 | 3 | 8 |
+| 9 | Everton | 6 | 2 | 2 | 2 | 1 | 8 |
+| 10 | Brighton & Hove Albion | 6 | 2 | 2 | 2 | 0 | 8 |
+| 11 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
+| 12 | Leeds United | 7 | 2 | 2 | 3 | -4 | 8 |
 | 13 | Brentford | 6 | 2 | 1 | 3 | -2 | 7 |
 | 14 | Manchester United | 6 | 2 | 1 | 3 | -4 | 7 |
 | 15 | Newcastle United | 6 | 1 | 3 | 2 | -1 | 6 |
@@ -132,14 +132,14 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Bologna | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Cagliari | 5 | 2 | 1 | 2 | 0 | 7 |
 | 12 | Udinese | 5 | 2 | 1 | 2 | -3 | 7 |
-| 13 | Lazio | 5 | 2 | 0 | 3 | 3 | 6 |
-| 14 | Parma | 5 | 1 | 2 | 2 | -3 | 5 |
-| 15 | Torino | 5 | 1 | 1 | 3 | -8 | 4 |
+| 13 | Torino | 6 | 2 | 1 | 3 | -7 | 7 |
+| 14 | Lazio | 6 | 2 | 0 | 4 | 2 | 6 |
+| 15 | Parma | 6 | 1 | 3 | 2 | -3 | 6 |
 | 16 | Fiorentina | 5 | 0 | 3 | 2 | -3 | 3 |
-| 17 | Hellas Verona | 6 | 0 | 3 | 3 | -7 | 3 |
-| 18 | Pisa | 5 | 0 | 2 | 3 | -3 | 2 |
-| 19 | Genoa | 5 | 0 | 2 | 3 | -5 | 2 |
-| 20 | Lecce | 5 | 0 | 2 | 3 | -6 | 2 |
+| 17 | Lecce | 6 | 0 | 3 | 3 | -6 | 3 |
+| 18 | Hellas Verona | 6 | 0 | 3 | 3 | -7 | 3 |
+| 19 | Pisa | 5 | 0 | 2 | 3 | -3 | 2 |
+| 20 | Genoa | 5 | 0 | 2 | 3 | -5 | 2 |
 
 ### Ligue 1
 
@@ -314,7 +314,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 9 | 5 | 4 | 0 | 18 | 19 |
+| 1 | Coventry City | 9 | 5 | 4 | 0 | 20 | 19 |
 | 2 | Middlesbrough | 8 | 5 | 3 | 0 | 7 | 18 |
 | 3 | Stoke City | 9 | 4 | 3 | 2 | 5 | 15 |
 | 4 | West Bromwich Albion | 8 | 4 | 2 | 2 | 2 | 14 |
@@ -336,7 +336,7 @@ The latest league standings are displayed below in Markdown tables:
 | 20 | Derby County | 8 | 1 | 4 | 3 | -4 | 7 |
 | 21 | Blackburn Rovers | 8 | 2 | 1 | 5 | -4 | 7 |
 | 22 | Oxford United | 8 | 1 | 3 | 4 | -2 | 6 |
-| 23 | Sheffield Wednesday | 9 | 1 | 3 | 5 | -10 | 6 |
+| 23 | Sheffield Wednesday | 9 | 1 | 3 | 5 | -12 | 6 |
 | 24 | Sheffield United | 9 | 1 | 0 | 8 | -13 | 3 |
 
 ### Major League Soccer (MLS)
