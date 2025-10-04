@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 06:43 PM UTC",
-        "IST": "Sunday, 05 October 2025, 12:13 AM IST"
+        "UTC": "Saturday, 04 October 2025, 07:13 PM UTC",
+        "IST": "Sunday, 05 October 2025, 12:43 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,22 +220,22 @@
             {
                 "Position": "2",
                 "Team": "Real Madrid",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "6",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "8",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "3",
                 "Team": "Villarreal",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "5",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "8",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "4",
@@ -644,15 +644,25 @@
             {
                 "Position": "6",
                 "Team": "Atalanta",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "2",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "0",
                 "Goal Difference": "6",
-                "Points": "9"
+                "Points": "10"
             },
             {
                 "Position": "7",
+                "Team": "Como",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "2",
+                "Points": "9"
+            },
+            {
+                "Position": "8",
                 "Team": "Sassuolo",
                 "Played": "6",
                 "Wins": "3",
@@ -662,7 +672,7 @@
                 "Points": "9"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Cremonese",
                 "Played": "6",
                 "Wins": "2",
@@ -670,16 +680,6 @@
                 "Losses": "1",
                 "Goal Difference": "-1",
                 "Points": "9"
-            },
-            {
-                "Position": "9",
-                "Team": "Como",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "8"
             },
             {
                 "Position": "10",
@@ -845,22 +845,22 @@
             },
             {
                 "Position": "6",
+                "Team": "Lens",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "3",
+                "Points": "11"
+            },
+            {
+                "Position": "7",
                 "Team": "Lille",
                 "Played": "6",
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "4",
-                "Points": "10"
-            },
-            {
-                "Position": "7",
-                "Team": "Lens",
-                "Played": "6",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "3",
                 "Points": "10"
             },
             {
@@ -915,6 +915,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Auxerre",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "7"
+            },
+            {
+                "Position": "14",
                 "Team": "Lorient",
                 "Played": "7",
                 "Wins": "2",
@@ -924,23 +934,13 @@
                 "Points": "7"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Nantes",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "6"
-            },
-            {
-                "Position": "15",
-                "Team": "Auxerre",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "-4",
                 "Points": "6"
             },
             {
@@ -2507,6 +2507,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Charlotte",
+                "Played": "33",
+                "Wins": "18",
+                "Draws": "2",
+                "Losses": "13",
+                "Goal Difference": "7",
+                "Points": "56"
+            },
+            {
+                "Position": "4",
                 "Team": "NYCFC",
                 "Played": "32",
                 "Wins": "17",
@@ -2516,7 +2526,7 @@
                 "Points": "56"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Inter Miami",
                 "Played": "31",
                 "Wins": "16",
@@ -2526,24 +2536,14 @@
                 "Points": "56"
             },
             {
-                "Position": "5",
-                "Team": "Charlotte",
-                "Played": "33",
-                "Wins": "17",
-                "Draws": "3",
-                "Losses": "13",
-                "Goal Difference": "6",
-                "Points": "54"
-            },
-            {
                 "Position": "6",
                 "Team": "Nashville",
                 "Played": "33",
                 "Wins": "16",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "16",
-                "Points": "54"
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "15",
+                "Points": "53"
             },
             {
                 "Position": "7",
@@ -2599,11 +2599,11 @@
                 "Position": "12",
                 "Team": "CF Montr\u00e9al",
                 "Played": "33",
-                "Wins": "6",
-                "Draws": "10",
+                "Wins": "7",
+                "Draws": "9",
                 "Losses": "17",
-                "Goal Difference": "-23",
-                "Points": "28"
+                "Goal Difference": "-22",
+                "Points": "30"
             },
             {
                 "Position": "13",
@@ -2630,10 +2630,10 @@
                 "Team": "DC United",
                 "Played": "33",
                 "Wins": "5",
-                "Draws": "11",
-                "Losses": "17",
-                "Goal Difference": "-35",
-                "Points": "26"
+                "Draws": "10",
+                "Losses": "18",
+                "Goal Difference": "-36",
+                "Points": "25"
             },
             {
                 "Position": "1",
