@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 10:38 AM UTC (Sunday, 05 October 2025, 04:08 PM IST)
+**Last Updated:** Sunday, 05 October 2025, 11:14 AM UTC (Sunday, 05 October 2025, 04:44 PM IST)
 
 ### Premier League
 
@@ -126,13 +126,13 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Inter | 6 | 4 | 0 | 2 | 9 | 12 |
 | 5 | Juventus | 5 | 3 | 2 | 0 | 4 | 11 |
 | 6 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
-| 7 | Como | 6 | 2 | 3 | 1 | 2 | 9 |
-| 8 | Sassuolo | 6 | 3 | 0 | 3 | 0 | 9 |
-| 9 | Cremonese | 6 | 2 | 3 | 1 | -1 | 9 |
-| 10 | Cagliari | 6 | 2 | 2 | 2 | 0 | 8 |
-| 11 | Udinese | 6 | 2 | 2 | 2 | -3 | 8 |
-| 12 | Bologna | 5 | 2 | 1 | 2 | 0 | 7 |
-| 13 | Lazio | 6 | 2 | 1 | 3 | 3 | 7 |
+| 7 | Cagliari | 6 | 3 | 1 | 2 | 1 | 10 |
+| 8 | Como | 6 | 2 | 3 | 1 | 2 | 9 |
+| 9 | Sassuolo | 6 | 3 | 0 | 3 | 0 | 9 |
+| 10 | Cremonese | 6 | 2 | 3 | 1 | -1 | 9 |
+| 11 | Bologna | 5 | 2 | 1 | 2 | 0 | 7 |
+| 12 | Lazio | 6 | 2 | 1 | 3 | 3 | 7 |
+| 13 | Udinese | 6 | 2 | 1 | 3 | -4 | 7 |
 | 14 | Parma | 6 | 1 | 2 | 3 | -4 | 5 |
 | 15 | Lecce | 6 | 1 | 2 | 3 | -5 | 5 |
 | 16 | Torino | 6 | 1 | 2 | 3 | -8 | 5 |
@@ -329,10 +329,10 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Portsmouth | 9 | 3 | 3 | 3 | -1 | 12 |
 | 14 | Hull City | 9 | 3 | 3 | 3 | -2 | 12 |
 | 15 | Birmingham City | 9 | 3 | 3 | 3 | -3 | 12 |
-| 16 | Southampton | 9 | 2 | 5 | 2 | -1 | 11 |
-| 17 | Ipswich Town | 7 | 2 | 4 | 1 | 5 | 10 |
+| 16 | Ipswich Town | 8 | 2 | 5 | 1 | 5 | 11 |
+| 17 | Southampton | 9 | 2 | 5 | 2 | -1 | 11 |
 | 18 | Wrexham | 9 | 2 | 4 | 3 | -1 | 10 |
-| 19 | Norwich City | 8 | 2 | 2 | 4 | -1 | 8 |
+| 19 | Norwich City | 9 | 2 | 3 | 4 | -1 | 9 |
 | 20 | Derby County | 9 | 1 | 5 | 3 | -4 | 8 |
 | 21 | Blackburn Rovers | 8 | 2 | 1 | 5 | -4 | 7 |
 | 22 | Oxford United | 9 | 1 | 3 | 5 | -3 | 6 |

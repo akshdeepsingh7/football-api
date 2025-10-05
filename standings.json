@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 10:38 AM UTC",
-        "IST": "Sunday, 05 October 2025, 04:08 PM IST"
+        "UTC": "Sunday, 05 October 2025, 11:14 AM UTC",
+        "IST": "Sunday, 05 October 2025, 04:44 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -653,6 +653,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Cagliari",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "10"
+            },
+            {
+                "Position": "8",
                 "Team": "Como",
                 "Played": "6",
                 "Wins": "2",
@@ -662,7 +672,7 @@
                 "Points": "9"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Sassuolo",
                 "Played": "6",
                 "Wins": "3",
@@ -672,7 +682,7 @@
                 "Points": "9"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Cremonese",
                 "Played": "6",
                 "Wins": "2",
@@ -682,27 +692,7 @@
                 "Points": "9"
             },
             {
-                "Position": "10",
-                "Team": "Cagliari",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "0",
-                "Points": "8"
-            },
-            {
                 "Position": "11",
-                "Team": "Udinese",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "8"
-            },
-            {
-                "Position": "12",
                 "Team": "Bologna",
                 "Played": "5",
                 "Wins": "2",
@@ -712,13 +702,23 @@
                 "Points": "7"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Lazio",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "3",
+                "Points": "7"
+            },
+            {
+                "Position": "13",
+                "Team": "Udinese",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-4",
                 "Points": "7"
             },
             {
@@ -2395,6 +2395,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Ipswich Town",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "5",
+                "Losses": "1",
+                "Goal Difference": "5",
+                "Points": "11"
+            },
+            {
+                "Position": "17",
                 "Team": "Southampton",
                 "Played": "9",
                 "Wins": "2",
@@ -2402,16 +2412,6 @@
                 "Losses": "2",
                 "Goal Difference": "-1",
                 "Points": "11"
-            },
-            {
-                "Position": "17",
-                "Team": "Ipswich Town",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "5",
-                "Points": "10"
             },
             {
                 "Position": "18",
@@ -2426,12 +2426,12 @@
             {
                 "Position": "19",
                 "Team": "Norwich City",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-1",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "20",
