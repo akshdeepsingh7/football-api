@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 10:18 AM UTC",
-        "IST": "Sunday, 05 October 2025, 03:48 PM IST"
+        "UTC": "Sunday, 05 October 2025, 10:38 AM UTC",
+        "IST": "Sunday, 05 October 2025, 04:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -683,32 +683,32 @@
             },
             {
                 "Position": "10",
+                "Team": "Cagliari",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "8"
+            },
+            {
+                "Position": "11",
+                "Team": "Udinese",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "8"
+            },
+            {
+                "Position": "12",
                 "Team": "Bologna",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "0",
-                "Points": "7"
-            },
-            {
-                "Position": "11",
-                "Team": "Cagliari",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "0",
-                "Points": "7"
-            },
-            {
-                "Position": "12",
-                "Team": "Udinese",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-3",
                 "Points": "7"
             },
             {
