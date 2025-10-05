@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 07:13 PM UTC",
-        "IST": "Monday, 06 October 2025, 12:43 AM IST"
+        "UTC": "Sunday, 05 October 2025, 07:37 PM UTC",
+        "IST": "Monday, 06 October 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2932,15 +2932,25 @@
             {
                 "Position": "2",
                 "Team": "Barracas",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "4",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "2",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "3",
+                "Team": "Estudiantes",
+                "Played": "11",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "17"
+            },
+            {
+                "Position": "4",
                 "Team": "Def y Justicia",
                 "Played": "11",
                 "Wins": "4",
@@ -2950,23 +2960,13 @@
                 "Points": "16"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Tigre",
                 "Played": "11",
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "3",
                 "Goal Difference": "2",
-                "Points": "16"
-            },
-            {
-                "Position": "5",
-                "Team": "Estudiantes",
-                "Played": "10",
-                "Wins": "5",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "0",
                 "Points": "16"
             },
             {
@@ -3236,10 +3236,10 @@
                 "Team": "Palmeiras",
                 "Played": "25",
                 "Wins": "16",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "20",
-                "Points": "53"
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "18",
+                "Points": "52"
             },
             {
                 "Position": "3",
@@ -3273,6 +3273,16 @@
             },
             {
                 "Position": "6",
+                "Team": "S\u00e3o Paulo",
+                "Played": "27",
+                "Wins": "11",
+                "Draws": "8",
+                "Losses": "8",
+                "Goal Difference": "6",
+                "Points": "41"
+            },
+            {
+                "Position": "7",
                 "Team": "Bahia",
                 "Played": "25",
                 "Wins": "11",
@@ -3280,16 +3290,6 @@
                 "Losses": "7",
                 "Goal Difference": "3",
                 "Points": "40"
-            },
-            {
-                "Position": "7",
-                "Team": "S\u00e3o Paulo",
-                "Played": "27",
-                "Wins": "10",
-                "Draws": "9",
-                "Losses": "8",
-                "Goal Difference": "4",
-                "Points": "39"
             },
             {
                 "Position": "8",
@@ -3313,16 +3313,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Vasco da Gama",
-                "Played": "27",
-                "Wins": "9",
-                "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "1",
-                "Points": "33"
-            },
-            {
-                "Position": "11",
                 "Team": "Corinthians",
                 "Played": "27",
                 "Wins": "8",
@@ -3332,7 +3322,7 @@
                 "Points": "33"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Gr\u00eamio",
                 "Played": "27",
                 "Wins": "8",
@@ -3342,7 +3332,7 @@
                 "Points": "33"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Internacional",
                 "Played": "26",
                 "Wins": "8",
@@ -3352,7 +3342,7 @@
                 "Points": "32"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Cear\u00e1",
                 "Played": "25",
                 "Wins": "8",
@@ -3360,6 +3350,16 @@
                 "Losses": "10",
                 "Goal Difference": "-1",
                 "Points": "31"
+            },
+            {
+                "Position": "14",
+                "Team": "Vasco da Gama",
+                "Played": "27",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-1",
+                "Points": "30"
             },
             {
                 "Position": "15",
@@ -3385,11 +3385,11 @@
                 "Position": "17",
                 "Team": "Vit\u00f3ria",
                 "Played": "27",
-                "Wins": "5",
+                "Wins": "6",
                 "Draws": "10",
-                "Losses": "12",
-                "Goal Difference": "-18",
-                "Points": "25"
+                "Losses": "11",
+                "Goal Difference": "-16",
+                "Points": "28"
             },
             {
                 "Position": "18",
