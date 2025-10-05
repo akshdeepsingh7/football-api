@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 10:38 PM UTC",
-        "IST": "Monday, 06 October 2025, 04:08 AM IST"
+        "UTC": "Sunday, 05 October 2025, 11:15 PM UTC",
+        "IST": "Monday, 06 October 2025, 04:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2649,11 +2649,11 @@
                 "Position": "2",
                 "Team": "Vancouver Whitecaps",
                 "Played": "32",
-                "Wins": "16",
-                "Draws": "10",
+                "Wins": "17",
+                "Draws": "9",
                 "Losses": "6",
-                "Goal Difference": "25",
-                "Points": "58"
+                "Goal Difference": "26",
+                "Points": "60"
             },
             {
                 "Position": "3",
@@ -2740,10 +2740,10 @@
                 "Team": "San Jose Earthquakes",
                 "Played": "33",
                 "Wins": "10",
-                "Draws": "9",
-                "Losses": "14",
-                "Goal Difference": "-1",
-                "Points": "39"
+                "Draws": "8",
+                "Losses": "15",
+                "Goal Difference": "-2",
+                "Points": "38"
             },
             {
                 "Position": "12",
@@ -2926,7 +2926,7 @@
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "2",
-                "Goal Difference": "8",
+                "Goal Difference": "9",
                 "Points": "17"
             },
             {
@@ -3056,7 +3056,7 @@
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "10"
             },
             {
@@ -3383,16 +3383,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Juventude",
-                "Played": "26",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "14",
-                "Goal Difference": "-25",
-                "Points": "26"
-            },
-            {
-                "Position": "18",
                 "Team": "Vit\u00f3ria",
                 "Played": "27",
                 "Wins": "5",
@@ -3402,14 +3392,24 @@
                 "Points": "25"
             },
             {
+                "Position": "18",
+                "Team": "Juventude",
+                "Played": "26",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "-26",
+                "Points": "24"
+            },
+            {
                 "Position": "19",
                 "Team": "Fortaleza",
                 "Played": "26",
                 "Wins": "5",
-                "Draws": "6",
-                "Losses": "15",
-                "Goal Difference": "-17",
-                "Points": "21"
+                "Draws": "7",
+                "Losses": "14",
+                "Goal Difference": "-16",
+                "Points": "22"
             },
             {
                 "Position": "20",

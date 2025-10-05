@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 10:38 PM UTC (Monday, 06 October 2025, 04:08 AM IST)
+**Last Updated:** Sunday, 05 October 2025, 11:15 PM UTC (Monday, 06 October 2025, 04:45 AM IST)
 
 ### Premier League
 
@@ -359,7 +359,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Atlanta United | 31 | 5 | 12 | 14 | -20 | 27 |
 | 15 | DC United | 33 | 5 | 10 | 18 | -36 | 25 |
 | 1 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
-| 2 | Vancouver Whitecaps | 32 | 16 | 10 | 6 | 25 | 58 |
+| 2 | Vancouver Whitecaps | 32 | 17 | 9 | 6 | 26 | 60 |
 | 3 | Minnesota United | 33 | 16 | 10 | 7 | 18 | 58 |
 | 4 | LAFC | 30 | 15 | 8 | 7 | 23 | 53 |
 | 5 | Seattle Sounders | 32 | 13 | 10 | 9 | 8 | 49 |
@@ -368,7 +368,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Dallas | 32 | 10 | 11 | 11 | -3 | 41 |
 | 9 | Real Salt Lake | 32 | 12 | 4 | 16 | -10 | 40 |
 | 10 | Colorado Rapids | 33 | 11 | 7 | 15 | -12 | 40 |
-| 11 | San Jose Earthquakes | 33 | 10 | 9 | 14 | -1 | 39 |
+| 11 | San Jose Earthquakes | 33 | 10 | 8 | 15 | -2 | 38 |
 | 12 | Houston Dynamo | 33 | 9 | 9 | 15 | -13 | 36 |
 | 13 | St. Louis City | 33 | 8 | 7 | 18 | -14 | 31 |
 | 14 | Sporting KC | 33 | 7 | 6 | 20 | -24 | 27 |
@@ -396,7 +396,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Boca Juniors | 11 | 4 | 5 | 2 | 8 | 17 |
+| 1 | Boca Juniors | 11 | 4 | 5 | 2 | 9 | 17 |
 | 2 | Unión | 11 | 4 | 5 | 2 | 5 | 17 |
 | 3 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
 | 4 | Estudiantes | 11 | 5 | 2 | 4 | 0 | 17 |
@@ -409,7 +409,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Banfield | 11 | 4 | 2 | 5 | -5 | 14 |
 | 12 | Racing Club | 10 | 3 | 2 | 5 | -2 | 11 |
 | 13 | Independiente Rivadavia | 10 | 2 | 4 | 4 | -2 | 10 |
-| 14 | Newell's Old Boys | 11 | 2 | 4 | 5 | -6 | 10 |
+| 14 | Newell's Old Boys | 11 | 2 | 4 | 5 | -7 | 10 |
 | 15 | Aldosivi | 11 | 1 | 3 | 7 | -11 | 6 |
 | 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
 | 2 | Vélez | 10 | 6 | 3 | 1 | 9 | 21 |
@@ -447,9 +447,9 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Ceará | 25 | 8 | 7 | 10 | -1 | 31 |
 | 15 | Atlético Mineiro | 25 | 7 | 8 | 10 | -7 | 29 |
 | 16 | Santos | 25 | 7 | 7 | 11 | -10 | 28 |
-| 17 | Juventude | 26 | 7 | 5 | 14 | -25 | 26 |
-| 18 | Vitória | 27 | 5 | 10 | 12 | -18 | 25 |
-| 19 | Fortaleza | 26 | 5 | 6 | 15 | -17 | 21 |
+| 17 | Vitória | 27 | 5 | 10 | 12 | -18 | 25 |
+| 18 | Juventude | 26 | 6 | 6 | 14 | -26 | 24 |
+| 19 | Fortaleza | 26 | 5 | 7 | 14 | -16 | 22 |
 | 20 | Sport | 24 | 2 | 9 | 13 | -19 | 15 |
 
 
