@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 09:36 PM UTC (Monday, 06 October 2025, 03:06 AM IST)
+**Last Updated:** Sunday, 05 October 2025, 10:16 PM UTC (Monday, 06 October 2025, 03:46 AM IST)
 
 ### Premier League
 
@@ -359,8 +359,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Atlanta United | 31 | 5 | 12 | 14 | -20 | 27 |
 | 15 | DC United | 33 | 5 | 10 | 18 | -36 | 25 |
 | 1 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
-| 2 | Minnesota United | 33 | 16 | 10 | 7 | 18 | 58 |
-| 3 | Vancouver Whitecaps | 31 | 16 | 9 | 6 | 25 | 57 |
+| 2 | Vancouver Whitecaps | 32 | 16 | 10 | 6 | 25 | 58 |
+| 3 | Minnesota United | 33 | 16 | 10 | 7 | 18 | 58 |
 | 4 | LAFC | 30 | 15 | 8 | 7 | 23 | 53 |
 | 5 | Seattle Sounders | 32 | 13 | 10 | 9 | 8 | 49 |
 | 6 | Austin | 32 | 12 | 8 | 12 | -8 | 44 |
@@ -368,7 +368,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Dallas | 32 | 10 | 11 | 11 | -3 | 41 |
 | 9 | Real Salt Lake | 32 | 12 | 4 | 16 | -10 | 40 |
 | 10 | Colorado Rapids | 33 | 11 | 7 | 15 | -12 | 40 |
-| 11 | San Jose Earthquakes | 32 | 10 | 8 | 14 | -1 | 38 |
+| 11 | San Jose Earthquakes | 33 | 10 | 9 | 14 | -1 | 39 |
 | 12 | Houston Dynamo | 33 | 9 | 9 | 15 | -13 | 36 |
 | 13 | St. Louis City | 33 | 8 | 7 | 18 | -14 | 31 |
 | 14 | Sporting KC | 33 | 7 | 6 | 20 | -24 | 27 |
@@ -396,20 +396,20 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Unión | 11 | 4 | 5 | 2 | 5 | 17 |
-| 2 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
-| 3 | Estudiantes | 11 | 5 | 2 | 4 | 0 | 17 |
-| 4 | Def y Justicia | 11 | 4 | 4 | 3 | 2 | 16 |
-| 5 | Tigre | 11 | 4 | 4 | 3 | 2 | 16 |
-| 6 | Huracán | 11 | 4 | 4 | 3 | -2 | 16 |
-| 7 | Argentinos Juniors | 11 | 4 | 3 | 4 | 4 | 15 |
-| 8 | Córdoba SdE | 11 | 3 | 6 | 2 | 3 | 15 |
-| 9 | Boca Juniors | 10 | 3 | 5 | 2 | 5 | 14 |
+| 1 | Boca Juniors | 11 | 4 | 5 | 2 | 6 | 17 |
+| 2 | Unión | 11 | 4 | 5 | 2 | 5 | 17 |
+| 3 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
+| 4 | Estudiantes | 11 | 5 | 2 | 4 | 0 | 17 |
+| 5 | Def y Justicia | 11 | 4 | 4 | 3 | 2 | 16 |
+| 6 | Tigre | 11 | 4 | 4 | 3 | 2 | 16 |
+| 7 | Huracán | 11 | 4 | 4 | 3 | -2 | 16 |
+| 8 | Argentinos Juniors | 11 | 4 | 3 | 4 | 4 | 15 |
+| 9 | Córdoba SdE | 11 | 3 | 6 | 2 | 3 | 15 |
 | 10 | Belgrano | 11 | 3 | 5 | 3 | 2 | 14 |
 | 11 | Banfield | 11 | 4 | 2 | 5 | -5 | 14 |
 | 12 | Racing Club | 10 | 3 | 2 | 5 | -2 | 11 |
 | 13 | Independiente Rivadavia | 10 | 2 | 4 | 4 | -2 | 10 |
-| 14 | Newell's Old Boys | 10 | 2 | 4 | 4 | -3 | 10 |
+| 14 | Newell's Old Boys | 11 | 2 | 4 | 5 | -4 | 10 |
 | 15 | Aldosivi | 11 | 1 | 3 | 7 | -11 | 6 |
 | 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
 | 2 | Vélez | 10 | 6 | 3 | 1 | 9 | 21 |

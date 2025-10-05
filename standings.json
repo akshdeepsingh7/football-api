@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 09:36 PM UTC",
-        "IST": "Monday, 06 October 2025, 03:06 AM IST"
+        "UTC": "Sunday, 05 October 2025, 10:16 PM UTC",
+        "IST": "Monday, 06 October 2025, 03:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2647,6 +2647,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Vancouver Whitecaps",
+                "Played": "32",
+                "Wins": "16",
+                "Draws": "10",
+                "Losses": "6",
+                "Goal Difference": "25",
+                "Points": "58"
+            },
+            {
+                "Position": "3",
                 "Team": "Minnesota United",
                 "Played": "33",
                 "Wins": "16",
@@ -2654,16 +2664,6 @@
                 "Losses": "7",
                 "Goal Difference": "18",
                 "Points": "58"
-            },
-            {
-                "Position": "3",
-                "Team": "Vancouver Whitecaps",
-                "Played": "31",
-                "Wins": "16",
-                "Draws": "9",
-                "Losses": "6",
-                "Goal Difference": "25",
-                "Points": "57"
             },
             {
                 "Position": "4",
@@ -2738,12 +2738,12 @@
             {
                 "Position": "11",
                 "Team": "San Jose Earthquakes",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "10",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "14",
                 "Goal Difference": "-1",
-                "Points": "38"
+                "Points": "39"
             },
             {
                 "Position": "12",
@@ -2921,6 +2921,16 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
+                "Team": "Boca Juniors",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "17"
+            },
+            {
+                "Position": "2",
                 "Team": "Uni\u00f3n",
                 "Played": "11",
                 "Wins": "4",
@@ -2930,7 +2940,7 @@
                 "Points": "17"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Barracas",
                 "Played": "11",
                 "Wins": "4",
@@ -2940,7 +2950,7 @@
                 "Points": "17"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Estudiantes",
                 "Played": "11",
                 "Wins": "5",
@@ -2950,7 +2960,7 @@
                 "Points": "17"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Def y Justicia",
                 "Played": "11",
                 "Wins": "4",
@@ -2960,7 +2970,7 @@
                 "Points": "16"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Tigre",
                 "Played": "11",
                 "Wins": "4",
@@ -2970,7 +2980,7 @@
                 "Points": "16"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Hurac\u00e1n",
                 "Played": "11",
                 "Wins": "4",
@@ -2980,7 +2990,7 @@
                 "Points": "16"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Argentinos Juniors",
                 "Played": "11",
                 "Wins": "4",
@@ -2990,7 +3000,7 @@
                 "Points": "15"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "C\u00f3rdoba SdE",
                 "Played": "11",
                 "Wins": "3",
@@ -2998,16 +3008,6 @@
                 "Losses": "2",
                 "Goal Difference": "3",
                 "Points": "15"
-            },
-            {
-                "Position": "9",
-                "Team": "Boca Juniors",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "5",
-                "Points": "14"
             },
             {
                 "Position": "10",
@@ -3052,11 +3052,11 @@
             {
                 "Position": "14",
                 "Team": "Newell's Old Boys",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "2",
                 "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-3",
+                "Losses": "5",
+                "Goal Difference": "-4",
                 "Points": "10"
             },
             {
