@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 11:15 PM UTC",
-        "IST": "Monday, 06 October 2025, 04:45 AM IST"
+        "UTC": "Sunday, 05 October 2025, 11:37 PM UTC",
+        "IST": "Monday, 06 October 2025, 05:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2652,7 +2652,7 @@
                 "Wins": "17",
                 "Draws": "9",
                 "Losses": "6",
-                "Goal Difference": "26",
+                "Goal Difference": "27",
                 "Points": "60"
             },
             {
@@ -2742,7 +2742,7 @@
                 "Wins": "10",
                 "Draws": "8",
                 "Losses": "15",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "38"
             },
             {
@@ -2926,7 +2926,7 @@
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "2",
-                "Goal Difference": "9",
+                "Goal Difference": "10",
                 "Points": "17"
             },
             {
@@ -3056,7 +3056,7 @@
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "10"
             },
             {
@@ -3244,12 +3244,12 @@
             {
                 "Position": "3",
                 "Team": "Cruzeiro",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "15",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "5",
                 "Goal Difference": "20",
-                "Points": "51"
+                "Points": "52"
             },
             {
                 "Position": "4",
@@ -3343,6 +3343,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Cear\u00e1",
+                "Played": "26",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-1",
+                "Points": "32"
+            },
+            {
+                "Position": "14",
                 "Team": "Internacional",
                 "Played": "26",
                 "Wins": "8",
@@ -3350,16 +3360,6 @@
                 "Losses": "10",
                 "Goal Difference": "-6",
                 "Points": "32"
-            },
-            {
-                "Position": "14",
-                "Team": "Cear\u00e1",
-                "Played": "25",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "-1",
-                "Points": "31"
             },
             {
                 "Position": "15",
@@ -3374,12 +3374,12 @@
             {
                 "Position": "16",
                 "Team": "Santos",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "7",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-10",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "17",
@@ -3393,33 +3393,33 @@
             },
             {
                 "Position": "18",
-                "Team": "Juventude",
+                "Team": "Fortaleza",
                 "Played": "26",
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-26",
+                "Goal Difference": "-15",
                 "Points": "24"
             },
             {
                 "Position": "19",
-                "Team": "Fortaleza",
+                "Team": "Juventude",
                 "Played": "26",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "14",
-                "Goal Difference": "-16",
-                "Points": "22"
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "15",
+                "Goal Difference": "-27",
+                "Points": "23"
             },
             {
                 "Position": "20",
                 "Team": "Sport",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "2",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "13",
                 "Goal Difference": "-19",
-                "Points": "15"
+                "Points": "16"
             }
         ]
     }
