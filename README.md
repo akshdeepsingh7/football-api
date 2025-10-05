@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 08:38 PM UTC (Monday, 06 October 2025, 02:08 AM IST)
+**Last Updated:** Sunday, 05 October 2025, 09:15 PM UTC (Monday, 06 October 2025, 02:45 AM IST)
 
 ### Premier League
 
@@ -431,23 +431,23 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Flamengo | 25 | 16 | 7 | 2 | 38 | 55 |
-| 2 | Palmeiras | 25 | 16 | 5 | 4 | 20 | 53 |
+| 1 | Palmeiras | 25 | 17 | 4 | 4 | 21 | 55 |
+| 2 | Flamengo | 25 | 16 | 7 | 2 | 38 | 55 |
 | 3 | Cruzeiro | 26 | 15 | 6 | 5 | 20 | 51 |
 | 4 | Botafogo | 27 | 12 | 7 | 8 | 14 | 43 |
 | 5 | Mirassol | 26 | 11 | 10 | 5 | 14 | 43 |
 | 6 | Bahia | 25 | 11 | 7 | 7 | 3 | 40 |
-| 7 | São Paulo | 27 | 10 | 9 | 8 | 4 | 39 |
-| 8 | Fluminense | 25 | 11 | 5 | 9 | 2 | 38 |
+| 7 | Fluminense | 25 | 11 | 5 | 9 | 2 | 38 |
+| 8 | São Paulo | 27 | 10 | 8 | 9 | 3 | 38 |
 | 9 | RB Bragantino | 27 | 10 | 6 | 11 | -5 | 36 |
-| 10 | Corinthians | 27 | 8 | 9 | 10 | -3 | 33 |
-| 11 | Grêmio | 27 | 8 | 9 | 10 | -5 | 33 |
-| 12 | Internacional | 26 | 8 | 8 | 10 | -6 | 32 |
-| 13 | Vasco da Gama | 27 | 8 | 7 | 12 | 0 | 31 |
+| 10 | Vasco da Gama | 27 | 9 | 6 | 12 | 1 | 33 |
+| 11 | Corinthians | 27 | 8 | 9 | 10 | -3 | 33 |
+| 12 | Grêmio | 27 | 8 | 9 | 10 | -5 | 33 |
+| 13 | Internacional | 26 | 8 | 8 | 10 | -6 | 32 |
 | 14 | Ceará | 25 | 8 | 7 | 10 | -1 | 31 |
 | 15 | Atlético Mineiro | 25 | 7 | 8 | 10 | -7 | 29 |
 | 16 | Santos | 25 | 7 | 7 | 11 | -10 | 28 |
-| 17 | Vitória | 27 | 5 | 11 | 11 | -17 | 26 |
+| 17 | Vitória | 27 | 5 | 10 | 12 | -18 | 25 |
 | 18 | Juventude | 25 | 6 | 5 | 14 | -26 | 23 |
 | 19 | Fortaleza | 25 | 5 | 6 | 14 | -16 | 21 |
 | 20 | Sport | 24 | 2 | 9 | 13 | -19 | 15 |

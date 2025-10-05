@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 08:38 PM UTC",
-        "IST": "Monday, 06 October 2025, 02:08 AM IST"
+        "UTC": "Sunday, 05 October 2025, 09:15 PM UTC",
+        "IST": "Monday, 06 October 2025, 02:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3223,6 +3223,16 @@
         "Brasileir\u00e3o": [
             {
                 "Position": "1",
+                "Team": "Palmeiras",
+                "Played": "25",
+                "Wins": "17",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "21",
+                "Points": "55"
+            },
+            {
+                "Position": "2",
                 "Team": "Flamengo",
                 "Played": "25",
                 "Wins": "16",
@@ -3230,16 +3240,6 @@
                 "Losses": "2",
                 "Goal Difference": "38",
                 "Points": "55"
-            },
-            {
-                "Position": "2",
-                "Team": "Palmeiras",
-                "Played": "25",
-                "Wins": "16",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "20",
-                "Points": "53"
             },
             {
                 "Position": "3",
@@ -3283,22 +3283,22 @@
             },
             {
                 "Position": "7",
-                "Team": "S\u00e3o Paulo",
-                "Played": "27",
-                "Wins": "10",
-                "Draws": "9",
-                "Losses": "8",
-                "Goal Difference": "4",
-                "Points": "39"
-            },
-            {
-                "Position": "8",
                 "Team": "Fluminense",
                 "Played": "25",
                 "Wins": "11",
                 "Draws": "5",
                 "Losses": "9",
                 "Goal Difference": "2",
+                "Points": "38"
+            },
+            {
+                "Position": "8",
+                "Team": "S\u00e3o Paulo",
+                "Played": "27",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "3",
                 "Points": "38"
             },
             {
@@ -3313,6 +3313,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Vasco da Gama",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "1",
+                "Points": "33"
+            },
+            {
+                "Position": "11",
                 "Team": "Corinthians",
                 "Played": "27",
                 "Wins": "8",
@@ -3322,7 +3332,7 @@
                 "Points": "33"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Gr\u00eamio",
                 "Played": "27",
                 "Wins": "8",
@@ -3332,7 +3342,7 @@
                 "Points": "33"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Internacional",
                 "Played": "26",
                 "Wins": "8",
@@ -3340,16 +3350,6 @@
                 "Losses": "10",
                 "Goal Difference": "-6",
                 "Points": "32"
-            },
-            {
-                "Position": "13",
-                "Team": "Vasco da Gama",
-                "Played": "27",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "0",
-                "Points": "31"
             },
             {
                 "Position": "14",
@@ -3386,10 +3386,10 @@
                 "Team": "Vit\u00f3ria",
                 "Played": "27",
                 "Wins": "5",
-                "Draws": "11",
-                "Losses": "11",
-                "Goal Difference": "-17",
-                "Points": "26"
+                "Draws": "10",
+                "Losses": "12",
+                "Goal Difference": "-18",
+                "Points": "25"
             },
             {
                 "Position": "18",
