@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 06:25 PM UTC (Sunday, 05 October 2025, 11:55 PM IST)
+**Last Updated:** Sunday, 05 October 2025, 06:43 PM UTC (Monday, 06 October 2025, 12:13 AM IST)
 
 ### Premier League
 
@@ -292,15 +292,15 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 7 | 7 | 0 | 0 | 18 | 21 |
-| 2 | Sporting CP | 8 | 6 | 1 | 1 | 15 | 19 |
+| 2 | Sporting CP | 8 | 7 | 0 | 1 | 16 | 21 |
 | 3 | Benfica | 7 | 5 | 2 | 0 | 9 | 17 |
 | 4 | Gil Vicente | 8 | 5 | 1 | 2 | 6 | 16 |
 | 5 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
 | 6 | Famalicão | 8 | 3 | 4 | 1 | 4 | 13 |
 | 7 | Vitória S.C. | 8 | 3 | 2 | 3 | -3 | 11 |
-| 8 | Braga | 8 | 2 | 4 | 2 | 4 | 10 |
+| 8 | Alverca | 8 | 3 | 1 | 4 | -1 | 10 |
 | 9 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
-| 10 | Alverca | 8 | 3 | 1 | 4 | -1 | 10 |
+| 10 | Braga | 8 | 2 | 3 | 3 | 3 | 9 |
 | 11 | Arouca | 8 | 2 | 3 | 3 | -9 | 9 |
 | 12 | Rio Ave | 8 | 1 | 5 | 2 | -2 | 8 |
 | 13 | Santa Clara | 8 | 2 | 2 | 4 | -4 | 8 |
@@ -424,8 +424,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | San Martín SJ | 11 | 2 | 5 | 4 | -3 | 11 |
 | 12 | Talleres | 10 | 2 | 4 | 4 | -4 | 10 |
 | 13 | Platense | 10 | 2 | 4 | 4 | -5 | 10 |
-| 14 | Independiente | 10 | 1 | 5 | 4 | -3 | 8 |
-| 15 | Godoy Cruz | 11 | 1 | 5 | 5 | -6 | 8 |
+| 14 | Godoy Cruz | 11 | 1 | 6 | 4 | -5 | 9 |
+| 15 | Independiente | 10 | 0 | 6 | 4 | -4 | 6 |
 
 ### Brasileirão
 
