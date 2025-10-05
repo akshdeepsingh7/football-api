@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 02:37 PM UTC (Sunday, 05 October 2025, 08:07 PM IST)
+**Last Updated:** Sunday, 05 October 2025, 03:16 PM UTC (Sunday, 05 October 2025, 08:46 PM IST)
 
 ### Premier League
 
@@ -51,22 +51,22 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
 | 3 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
 | 4 | AFC Bournemouth | 7 | 4 | 2 | 1 | 3 | 14 |
-| 5 | Crystal Palace | 7 | 3 | 4 | 0 | 5 | 13 |
+| 5 | Crystal Palace | 7 | 3 | 3 | 1 | 4 | 12 |
 | 6 | Chelsea | 7 | 3 | 2 | 2 | 4 | 11 |
-| 7 | Sunderland | 7 | 3 | 2 | 2 | 1 | 11 |
-| 8 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
-| 9 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
-| 10 | Everton | 7 | 2 | 3 | 2 | 1 | 9 |
-| 11 | Aston Villa | 7 | 2 | 3 | 2 | 0 | 9 |
-| 12 | Newcastle United | 7 | 2 | 3 | 2 | 0 | 9 |
-| 13 | Brighton & Hove Albion | 7 | 2 | 2 | 3 | -1 | 8 |
+| 7 | Everton | 7 | 3 | 2 | 2 | 2 | 11 |
+| 8 | Sunderland | 7 | 3 | 2 | 2 | 1 | 11 |
+| 9 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
+| 10 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
+| 11 | Newcastle United | 7 | 2 | 3 | 2 | 1 | 9 |
+| 12 | Brighton & Hove Albion | 7 | 2 | 3 | 2 | 0 | 9 |
+| 13 | Aston Villa | 7 | 2 | 3 | 2 | -1 | 9 |
 | 14 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
 | 15 | Leeds United | 7 | 2 | 2 | 3 | -4 | 8 |
 | 16 | Brentford | 6 | 2 | 1 | 3 | -2 | 7 |
-| 17 | Nottingham Forest | 7 | 1 | 2 | 4 | -6 | 5 |
-| 18 | Wolverhampton Wanderers | 7 | 1 | 1 | 5 | -8 | 4 |
-| 19 | Burnley | 7 | 1 | 1 | 5 | -9 | 4 |
-| 20 | West Ham United | 7 | 1 | 1 | 5 | -10 | 4 |
+| 17 | Nottingham Forest | 7 | 1 | 2 | 4 | -7 | 5 |
+| 18 | Burnley | 7 | 1 | 1 | 5 | -8 | 4 |
+| 19 | West Ham United | 7 | 1 | 1 | 5 | -10 | 4 |
+| 20 | Wolverhampton Wanderers | 7 | 0 | 2 | 5 | -9 | 2 |
 
 ### La Liga
 
@@ -100,9 +100,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 6 | 6 | 0 | 0 | 22 | 18 |
 | 2 | Borussia Dortmund | 6 | 4 | 2 | 0 | 8 | 14 |
 | 3 | RB Leipzig | 6 | 4 | 1 | 1 | 0 | 13 |
-| 4 | Bayer Leverkusen | 6 | 3 | 2 | 1 | 4 | 11 |
-| 5 | Köln | 6 | 3 | 1 | 2 | 2 | 10 |
-| 6 | VfB Stuttgart | 6 | 3 | 1 | 2 | 1 | 10 |
+| 4 | VfB Stuttgart | 6 | 4 | 0 | 2 | 2 | 12 |
+| 5 | Bayer Leverkusen | 6 | 3 | 2 | 1 | 4 | 11 |
+| 6 | Köln | 6 | 3 | 1 | 2 | 2 | 10 |
 | 7 | Eintracht Frankfurt | 6 | 3 | 0 | 3 | 1 | 9 |
 | 8 | SC Freiburg | 5 | 2 | 1 | 2 | 0 | 7 |
 | 9 | St. Pauli | 6 | 2 | 1 | 3 | -1 | 7 |
@@ -113,7 +113,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | VfL Wolfsburg | 6 | 1 | 2 | 3 | -2 | 5 |
 | 15 | Hamburg | 5 | 1 | 2 | 2 | -6 | 5 |
 | 16 | Mainz 05 | 5 | 1 | 1 | 3 | -1 | 4 |
-| 17 | Heidenheim | 6 | 1 | 1 | 4 | -6 | 4 |
+| 17 | Heidenheim | 6 | 1 | 0 | 5 | -7 | 3 |
 | 18 | Borussia Mönchengladbach | 5 | 0 | 2 | 3 | -7 | 2 |
 
 ### Serie A
@@ -145,23 +145,23 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Lyon | 7 | 6 | 0 | 1 | 6 | 18 |
-| 2 | Marseille | 7 | 5 | 0 | 2 | 10 | 15 |
-| 3 | PSG | 6 | 5 | 0 | 1 | 8 | 15 |
-| 4 | Lens | 7 | 4 | 1 | 2 | 4 | 13 |
-| 5 | Monaco | 6 | 4 | 0 | 2 | 4 | 12 |
-| 6 | Strasbourg | 6 | 4 | 0 | 2 | 2 | 12 |
+| 1 | Marseille | 7 | 5 | 0 | 2 | 10 | 15 |
+| 2 | PSG | 6 | 5 | 0 | 1 | 8 | 15 |
+| 3 | Lyon | 7 | 5 | 0 | 2 | 4 | 15 |
+| 4 | Monaco | 7 | 4 | 1 | 2 | 4 | 13 |
+| 5 | Lens | 7 | 4 | 1 | 2 | 4 | 13 |
+| 6 | Strasbourg | 7 | 4 | 1 | 2 | 2 | 13 |
 | 7 | Lille | 6 | 3 | 1 | 2 | 4 | 10 |
 | 8 | Paris | 7 | 3 | 1 | 3 | -1 | 10 |
-| 9 | Rennes | 6 | 2 | 3 | 1 | -1 | 9 |
-| 10 | Brest | 7 | 2 | 2 | 3 | 0 | 8 |
-| 11 | Toulouse | 7 | 2 | 1 | 4 | -3 | 7 |
-| 12 | Nice | 6 | 2 | 1 | 3 | -3 | 7 |
+| 9 | Toulouse | 7 | 3 | 1 | 3 | -1 | 10 |
+| 10 | Rennes | 7 | 2 | 4 | 1 | -1 | 10 |
+| 11 | Brest | 7 | 2 | 2 | 3 | 0 | 8 |
+| 12 | Nice | 7 | 2 | 2 | 3 | -3 | 8 |
 | 13 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
-| 14 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
-| 15 | Auxerre | 7 | 2 | 0 | 5 | -5 | 6 |
-| 16 | Le Havre | 6 | 1 | 2 | 3 | -2 | 5 |
-| 17 | Angers | 6 | 1 | 2 | 3 | -3 | 5 |
+| 14 | Le Havre | 7 | 1 | 3 | 3 | -2 | 6 |
+| 15 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
+| 16 | Angers | 7 | 1 | 3 | 3 | -3 | 6 |
+| 17 | Auxerre | 7 | 2 | 0 | 5 | -5 | 6 |
 | 18 | Metz | 7 | 0 | 2 | 5 | -11 | 2 |
 
 ### Champions League
