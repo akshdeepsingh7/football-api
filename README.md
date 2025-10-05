@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 09:15 PM UTC (Monday, 06 October 2025, 02:45 AM IST)
+**Last Updated:** Sunday, 05 October 2025, 09:36 PM UTC (Monday, 06 October 2025, 03:06 AM IST)
 
 ### Premier League
 
@@ -396,11 +396,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Estudiantes | 11 | 6 | 1 | 4 | 1 | 19 |
-| 2 | Unión | 11 | 4 | 5 | 2 | 5 | 17 |
-| 3 | Def y Justicia | 11 | 4 | 4 | 3 | 2 | 16 |
-| 4 | Tigre | 11 | 4 | 4 | 3 | 2 | 16 |
-| 5 | Barracas | 11 | 4 | 4 | 3 | 1 | 16 |
+| 1 | Unión | 11 | 4 | 5 | 2 | 5 | 17 |
+| 2 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
+| 3 | Estudiantes | 11 | 5 | 2 | 4 | 0 | 17 |
+| 4 | Def y Justicia | 11 | 4 | 4 | 3 | 2 | 16 |
+| 5 | Tigre | 11 | 4 | 4 | 3 | 2 | 16 |
 | 6 | Huracán | 11 | 4 | 4 | 3 | -2 | 16 |
 | 7 | Argentinos Juniors | 11 | 4 | 3 | 4 | 4 | 15 |
 | 8 | Córdoba SdE | 11 | 3 | 6 | 2 | 3 | 15 |
@@ -431,12 +431,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 25 | 17 | 4 | 4 | 21 | 55 |
-| 2 | Flamengo | 25 | 16 | 7 | 2 | 38 | 55 |
+| 1 | Flamengo | 26 | 16 | 8 | 2 | 38 | 56 |
+| 2 | Palmeiras | 25 | 17 | 4 | 4 | 21 | 55 |
 | 3 | Cruzeiro | 26 | 15 | 6 | 5 | 20 | 51 |
 | 4 | Botafogo | 27 | 12 | 7 | 8 | 14 | 43 |
 | 5 | Mirassol | 26 | 11 | 10 | 5 | 14 | 43 |
-| 6 | Bahia | 25 | 11 | 7 | 7 | 3 | 40 |
+| 6 | Bahia | 26 | 11 | 8 | 7 | 3 | 41 |
 | 7 | Fluminense | 25 | 11 | 5 | 9 | 2 | 38 |
 | 8 | São Paulo | 27 | 10 | 8 | 9 | 3 | 38 |
 | 9 | RB Bragantino | 27 | 10 | 6 | 11 | -5 | 36 |
@@ -447,9 +447,9 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Ceará | 25 | 8 | 7 | 10 | -1 | 31 |
 | 15 | Atlético Mineiro | 25 | 7 | 8 | 10 | -7 | 29 |
 | 16 | Santos | 25 | 7 | 7 | 11 | -10 | 28 |
-| 17 | Vitória | 27 | 5 | 10 | 12 | -18 | 25 |
-| 18 | Juventude | 25 | 6 | 5 | 14 | -26 | 23 |
-| 19 | Fortaleza | 25 | 5 | 6 | 14 | -16 | 21 |
+| 17 | Juventude | 26 | 7 | 5 | 14 | -25 | 26 |
+| 18 | Vitória | 27 | 5 | 10 | 12 | -18 | 25 |
+| 19 | Fortaleza | 26 | 5 | 6 | 15 | -17 | 21 |
 | 20 | Sport | 24 | 2 | 9 | 13 | -19 | 15 |
 
 
