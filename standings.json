@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 01:38 PM UTC",
-        "IST": "Sunday, 05 October 2025, 07:08 PM IST"
+        "UTC": "Sunday, 05 October 2025, 02:15 PM UTC",
+        "IST": "Sunday, 05 October 2025, 07:45 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -17,6 +17,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Crystal Palace",
+                "Played": "7",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "0",
+                "Goal Difference": "6",
+                "Points": "15"
+            },
+            {
+                "Position": "3",
                 "Team": "Liverpool FC",
                 "Played": "7",
                 "Wins": "5",
@@ -26,7 +36,7 @@
                 "Points": "15"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Tottenham Hotspur",
                 "Played": "7",
                 "Wins": "4",
@@ -36,7 +46,7 @@
                 "Points": "14"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "AFC Bournemouth",
                 "Played": "7",
                 "Wins": "4",
@@ -44,16 +54,6 @@
                 "Losses": "1",
                 "Goal Difference": "3",
                 "Points": "14"
-            },
-            {
-                "Position": "5",
-                "Team": "Crystal Palace",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "0",
-                "Goal Difference": "5",
-                "Points": "13"
             },
             {
                 "Position": "6",
@@ -97,16 +97,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Everton",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "9"
-            },
-            {
-                "Position": "11",
                 "Team": "Aston Villa",
                 "Played": "7",
                 "Wins": "2",
@@ -114,6 +104,16 @@
                 "Losses": "2",
                 "Goal Difference": "-1",
                 "Points": "9"
+            },
+            {
+                "Position": "11",
+                "Team": "Everton",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "8"
             },
             {
                 "Position": "12",
@@ -244,7 +244,7 @@
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "3",
+                "Goal Difference": "2",
                 "Points": "13"
             },
             {
@@ -294,7 +294,7 @@
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "3",
-                "Goal Difference": "0",
+                "Goal Difference": "1",
                 "Points": "11"
             },
             {
@@ -658,7 +658,7 @@
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "1",
+                "Goal Difference": "4",
                 "Points": "10"
             },
             {
@@ -788,7 +788,7 @@
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "-4",
+                "Goal Difference": "-7",
                 "Points": "2"
             }
         ],

@@ -41,23 +41,23 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 01:38 PM UTC (Sunday, 05 October 2025, 07:08 PM IST)
+**Last Updated:** Sunday, 05 October 2025, 02:15 PM UTC (Sunday, 05 October 2025, 07:45 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 7 | 5 | 1 | 1 | 11 | 16 |
-| 2 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
-| 3 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
-| 4 | AFC Bournemouth | 7 | 4 | 2 | 1 | 3 | 14 |
-| 5 | Crystal Palace | 7 | 3 | 4 | 0 | 5 | 13 |
+| 2 | Crystal Palace | 7 | 4 | 3 | 0 | 6 | 15 |
+| 3 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
+| 4 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
+| 5 | AFC Bournemouth | 7 | 4 | 2 | 1 | 3 | 14 |
 | 6 | Chelsea | 7 | 3 | 2 | 2 | 4 | 11 |
 | 7 | Sunderland | 7 | 3 | 2 | 2 | 1 | 11 |
 | 8 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
 | 9 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
-| 10 | Everton | 7 | 2 | 3 | 2 | 1 | 9 |
-| 11 | Aston Villa | 7 | 2 | 3 | 2 | -1 | 9 |
+| 10 | Aston Villa | 7 | 2 | 3 | 2 | -1 | 9 |
+| 11 | Everton | 7 | 2 | 2 | 3 | 0 | 8 |
 | 12 | Brighton & Hove Albion | 7 | 2 | 2 | 3 | -1 | 8 |
 | 13 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
 | 14 | Leeds United | 7 | 2 | 2 | 3 | -4 | 8 |
@@ -75,12 +75,12 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Real Madrid | 8 | 7 | 0 | 1 | 10 | 21 |
 | 2 | Barcelona | 7 | 6 | 1 | 0 | 16 | 19 |
 | 3 | Villarreal | 8 | 5 | 1 | 2 | 6 | 16 |
-| 4 | Elche | 8 | 3 | 4 | 1 | 3 | 13 |
+| 4 | Elche | 8 | 3 | 4 | 1 | 2 | 13 |
 | 5 | Athletic Bilbao | 8 | 4 | 1 | 3 | 0 | 13 |
 | 6 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
 | 7 | Real Betis | 7 | 3 | 3 | 1 | 4 | 12 |
 | 8 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
-| 9 | Alavés | 8 | 3 | 2 | 3 | 0 | 11 |
+| 9 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
 | 10 | Getafe | 8 | 3 | 2 | 3 | -2 | 11 |
 | 11 | Sevilla | 7 | 3 | 1 | 3 | 1 | 10 |
 | 12 | Osasuna | 8 | 3 | 1 | 4 | -1 | 10 |
@@ -126,7 +126,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Inter | 6 | 4 | 0 | 2 | 9 | 12 |
 | 5 | Juventus | 5 | 3 | 2 | 0 | 4 | 11 |
 | 6 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
-| 7 | Bologna | 6 | 3 | 1 | 2 | 1 | 10 |
+| 7 | Bologna | 6 | 3 | 1 | 2 | 4 | 10 |
 | 8 | Como | 6 | 2 | 3 | 1 | 2 | 9 |
 | 9 | Sassuolo | 6 | 3 | 0 | 3 | 0 | 9 |
 | 10 | Cremonese | 6 | 2 | 3 | 1 | -1 | 9 |
@@ -139,7 +139,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Fiorentina | 6 | 0 | 3 | 3 | -4 | 3 |
 | 18 | Hellas Verona | 6 | 0 | 3 | 3 | -7 | 3 |
 | 19 | Genoa | 5 | 0 | 2 | 3 | -5 | 2 |
-| 20 | Pisa | 6 | 0 | 2 | 4 | -4 | 2 |
+| 20 | Pisa | 6 | 0 | 2 | 4 | -7 | 2 |
 
 ### Ligue 1
 
