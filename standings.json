@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 October 2025, 11:37 PM UTC",
-        "IST": "Sunday, 05 October 2025, 05:07 AM IST"
+        "UTC": "Sunday, 05 October 2025, 01:39 AM UTC",
+        "IST": "Sunday, 05 October 2025, 07:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2488,25 +2488,35 @@
             {
                 "Position": "1",
                 "Team": "Philadelphia Union",
-                "Played": "32",
-                "Wins": "19",
+                "Played": "33",
+                "Wins": "20",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "23",
-                "Points": "63"
+                "Goal Difference": "24",
+                "Points": "66"
             },
             {
                 "Position": "2",
                 "Team": "Cincinnati",
-                "Played": "32",
-                "Wins": "18",
+                "Played": "33",
+                "Wins": "19",
                 "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "8",
-                "Points": "59"
+                "Goal Difference": "9",
+                "Points": "62"
             },
             {
                 "Position": "3",
+                "Team": "Inter Miami",
+                "Played": "32",
+                "Wins": "17",
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "19",
+                "Points": "59"
+            },
+            {
+                "Position": "4",
                 "Team": "Charlotte",
                 "Played": "33",
                 "Wins": "18",
@@ -2516,23 +2526,13 @@
                 "Points": "56"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "NYCFC",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "17",
                 "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "8",
-                "Points": "56"
-            },
-            {
-                "Position": "5",
-                "Team": "Inter Miami",
-                "Played": "31",
-                "Wins": "16",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "16",
+                "Losses": "11",
+                "Goal Difference": "7",
                 "Points": "56"
             },
             {
@@ -2548,71 +2548,71 @@
             {
                 "Position": "7",
                 "Team": "Orlando City",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "14",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "7",
                 "Goal Difference": "15",
-                "Points": "52"
+                "Points": "53"
             },
             {
                 "Position": "8",
                 "Team": "Chicago Fire",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "15",
                 "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "8",
+                "Losses": "12",
+                "Goal Difference": "7",
                 "Points": "51"
             },
             {
                 "Position": "9",
                 "Team": "Columbus Crew",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "13",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "8",
                 "Goal Difference": "2",
-                "Points": "50"
+                "Points": "51"
             },
             {
                 "Position": "10",
                 "Team": "New York RB",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "12",
                 "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "4",
+                "Losses": "14",
+                "Goal Difference": "3",
                 "Points": "43"
             },
             {
                 "Position": "11",
                 "Team": "New England Revolution",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "9",
                 "Draws": "8",
-                "Losses": "15",
-                "Goal Difference": "-4",
+                "Losses": "16",
+                "Goal Difference": "-7",
                 "Points": "35"
             },
             {
                 "Position": "12",
+                "Team": "Toronto",
+                "Played": "32",
+                "Wins": "6",
+                "Draws": "13",
+                "Losses": "13",
+                "Goal Difference": "-6",
+                "Points": "31"
+            },
+            {
+                "Position": "13",
                 "Team": "CF Montr\u00e9al",
                 "Played": "33",
                 "Wins": "6",
                 "Draws": "10",
                 "Losses": "17",
                 "Goal Difference": "-23",
-                "Points": "28"
-            },
-            {
-                "Position": "13",
-                "Team": "Toronto",
-                "Played": "31",
-                "Wins": "5",
-                "Draws": "13",
-                "Losses": "13",
-                "Goal Difference": "-7",
                 "Points": "28"
             },
             {
@@ -2637,16 +2637,26 @@
             },
             {
                 "Position": "1",
-                "Team": "San Diego",
-                "Played": "32",
-                "Wins": "17",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "17",
-                "Points": "57"
+                "Team": "Minnesota United",
+                "Played": "33",
+                "Wins": "16",
+                "Draws": "10",
+                "Losses": "7",
+                "Goal Difference": "16",
+                "Points": "58"
             },
             {
                 "Position": "2",
+                "Team": "San Diego",
+                "Played": "33",
+                "Wins": "17",
+                "Draws": "6",
+                "Losses": "10",
+                "Goal Difference": "16",
+                "Points": "57"
+            },
+            {
+                "Position": "3",
                 "Team": "Vancouver Whitecaps",
                 "Played": "31",
                 "Wins": "16",
@@ -2654,16 +2664,6 @@
                 "Losses": "6",
                 "Goal Difference": "25",
                 "Points": "57"
-            },
-            {
-                "Position": "3",
-                "Team": "Minnesota United",
-                "Played": "32",
-                "Wins": "15",
-                "Draws": "10",
-                "Losses": "7",
-                "Goal Difference": "15",
-                "Points": "55"
             },
             {
                 "Position": "4",
@@ -2688,11 +2688,11 @@
             {
                 "Position": "6",
                 "Team": "Austin",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "12",
                 "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-6",
+                "Losses": "12",
+                "Goal Difference": "-7",
                 "Points": "44"
             },
             {
@@ -2727,6 +2727,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Houston Dynamo",
+                "Played": "33",
+                "Wins": "10",
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "-10",
+                "Points": "39"
+            },
+            {
+                "Position": "11",
                 "Team": "San Jose Earthquakes",
                 "Played": "32",
                 "Wins": "10",
@@ -2736,7 +2746,7 @@
                 "Points": "38"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Real Salt Lake",
                 "Played": "31",
                 "Wins": "11",
@@ -2746,33 +2756,23 @@
                 "Points": "37"
             },
             {
-                "Position": "12",
-                "Team": "Houston Dynamo",
-                "Played": "32",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "14",
-                "Goal Difference": "-11",
-                "Points": "36"
-            },
-            {
                 "Position": "13",
                 "Team": "St. Louis City",
-                "Played": "32",
-                "Wins": "7",
+                "Played": "33",
+                "Wins": "8",
                 "Draws": "7",
                 "Losses": "18",
-                "Goal Difference": "-16",
-                "Points": "28"
+                "Goal Difference": "-15",
+                "Points": "31"
             },
             {
                 "Position": "14",
                 "Team": "Sporting KC",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "7",
                 "Draws": "6",
-                "Losses": "19",
-                "Goal Difference": "-21",
+                "Losses": "20",
+                "Goal Difference": "-22",
                 "Points": "27"
             },
             {
@@ -3091,6 +3091,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Lan\u00fas",
+                "Played": "11",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "3",
+                "Points": "20"
+            },
+            {
+                "Position": "4",
                 "Team": "River Plate",
                 "Played": "10",
                 "Wins": "5",
@@ -3100,23 +3110,13 @@
                 "Points": "18"
             },
             {
-                "Position": "4",
-                "Team": "Lan\u00fas",
-                "Played": "10",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "1",
-                "Points": "17"
-            },
-            {
                 "Position": "5",
                 "Team": "San Lorenzo",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "4",
                 "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "2",
+                "Losses": "3",
+                "Goal Difference": "0",
                 "Points": "16"
             },
             {
@@ -3264,11 +3264,11 @@
             {
                 "Position": "5",
                 "Team": "Mirassol",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "11",
                 "Draws": "10",
-                "Losses": "4",
-                "Goal Difference": "17",
+                "Losses": "5",
+                "Goal Difference": "15",
                 "Points": "43"
             },
             {
@@ -3305,24 +3305,34 @@
                 "Position": "9",
                 "Team": "RB Bragantino",
                 "Played": "27",
-                "Wins": "9",
-                "Draws": "7",
+                "Wins": "10",
+                "Draws": "6",
                 "Losses": "11",
-                "Goal Difference": "-6",
-                "Points": "34"
+                "Goal Difference": "-5",
+                "Points": "36"
             },
             {
                 "Position": "10",
-                "Team": "Gr\u00eamio",
+                "Team": "Corinthians",
                 "Played": "27",
                 "Wins": "8",
-                "Draws": "10",
-                "Losses": "9",
+                "Draws": "9",
+                "Losses": "10",
                 "Goal Difference": "-4",
-                "Points": "34"
+                "Points": "33"
             },
             {
                 "Position": "11",
+                "Team": "Gr\u00eamio",
+                "Played": "27",
+                "Wins": "8",
+                "Draws": "9",
+                "Losses": "10",
+                "Goal Difference": "-5",
+                "Points": "33"
+            },
+            {
+                "Position": "12",
                 "Team": "Internacional",
                 "Played": "26",
                 "Wins": "8",
@@ -3332,7 +3342,7 @@
                 "Points": "32"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Cear\u00e1",
                 "Played": "25",
                 "Wins": "8",
@@ -3342,23 +3352,13 @@
                 "Points": "31"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Vasco da Gama",
                 "Played": "26",
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "0",
-                "Points": "30"
-            },
-            {
-                "Position": "14",
-                "Team": "Corinthians",
-                "Played": "26",
-                "Wins": "7",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-6",
                 "Points": "30"
             },
             {
