@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 10:16 PM UTC (Monday, 06 October 2025, 03:46 AM IST)
+**Last Updated:** Sunday, 05 October 2025, 10:38 PM UTC (Monday, 06 October 2025, 04:08 AM IST)
 
 ### Premier League
 
@@ -396,7 +396,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Boca Juniors | 11 | 4 | 5 | 2 | 6 | 17 |
+| 1 | Boca Juniors | 11 | 4 | 5 | 2 | 8 | 17 |
 | 2 | Unión | 11 | 4 | 5 | 2 | 5 | 17 |
 | 3 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
 | 4 | Estudiantes | 11 | 5 | 2 | 4 | 0 | 17 |
@@ -409,7 +409,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Banfield | 11 | 4 | 2 | 5 | -5 | 14 |
 | 12 | Racing Club | 10 | 3 | 2 | 5 | -2 | 11 |
 | 13 | Independiente Rivadavia | 10 | 2 | 4 | 4 | -2 | 10 |
-| 14 | Newell's Old Boys | 11 | 2 | 4 | 5 | -4 | 10 |
+| 14 | Newell's Old Boys | 11 | 2 | 4 | 5 | -6 | 10 |
 | 15 | Aldosivi | 11 | 1 | 3 | 7 | -11 | 6 |
 | 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
 | 2 | Vélez | 10 | 6 | 3 | 1 | 9 | 21 |
@@ -431,12 +431,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Flamengo | 26 | 16 | 8 | 2 | 38 | 56 |
-| 2 | Palmeiras | 25 | 17 | 4 | 4 | 21 | 55 |
+| 1 | Palmeiras | 25 | 17 | 4 | 4 | 21 | 55 |
+| 2 | Flamengo | 26 | 16 | 7 | 3 | 37 | 55 |
 | 3 | Cruzeiro | 26 | 15 | 6 | 5 | 20 | 51 |
 | 4 | Botafogo | 27 | 12 | 7 | 8 | 14 | 43 |
-| 5 | Mirassol | 26 | 11 | 10 | 5 | 14 | 43 |
-| 6 | Bahia | 26 | 11 | 8 | 7 | 3 | 41 |
+| 5 | Bahia | 26 | 12 | 7 | 7 | 4 | 43 |
+| 6 | Mirassol | 26 | 11 | 10 | 5 | 14 | 43 |
 | 7 | Fluminense | 25 | 11 | 5 | 9 | 2 | 38 |
 | 8 | São Paulo | 27 | 10 | 8 | 9 | 3 | 38 |
 | 9 | RB Bragantino | 27 | 10 | 6 | 11 | -5 | 36 |

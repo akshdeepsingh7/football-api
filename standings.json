@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 10:16 PM UTC",
-        "IST": "Monday, 06 October 2025, 03:46 AM IST"
+        "UTC": "Sunday, 05 October 2025, 10:38 PM UTC",
+        "IST": "Monday, 06 October 2025, 04:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2926,7 +2926,7 @@
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "2",
-                "Goal Difference": "6",
+                "Goal Difference": "8",
                 "Points": "17"
             },
             {
@@ -3056,7 +3056,7 @@
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "-4",
+                "Goal Difference": "-6",
                 "Points": "10"
             },
             {
@@ -3223,22 +3223,22 @@
         "Brasileir\u00e3o": [
             {
                 "Position": "1",
-                "Team": "Flamengo",
-                "Played": "26",
-                "Wins": "16",
-                "Draws": "8",
-                "Losses": "2",
-                "Goal Difference": "38",
-                "Points": "56"
-            },
-            {
-                "Position": "2",
                 "Team": "Palmeiras",
                 "Played": "25",
                 "Wins": "17",
                 "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "21",
+                "Points": "55"
+            },
+            {
+                "Position": "2",
+                "Team": "Flamengo",
+                "Played": "26",
+                "Wins": "16",
+                "Draws": "7",
+                "Losses": "3",
+                "Goal Difference": "37",
                 "Points": "55"
             },
             {
@@ -3263,6 +3263,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Bahia",
+                "Played": "26",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "4",
+                "Points": "43"
+            },
+            {
+                "Position": "6",
                 "Team": "Mirassol",
                 "Played": "26",
                 "Wins": "11",
@@ -3270,16 +3280,6 @@
                 "Losses": "5",
                 "Goal Difference": "14",
                 "Points": "43"
-            },
-            {
-                "Position": "6",
-                "Team": "Bahia",
-                "Played": "26",
-                "Wins": "11",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "3",
-                "Points": "41"
             },
             {
                 "Position": "7",
