@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 02:15 PM UTC",
-        "IST": "Sunday, 05 October 2025, 07:45 PM IST"
+        "UTC": "Sunday, 05 October 2025, 02:37 PM UTC",
+        "IST": "Sunday, 05 October 2025, 08:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -17,16 +17,6 @@
             },
             {
                 "Position": "2",
-                "Team": "Crystal Palace",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "0",
-                "Goal Difference": "6",
-                "Points": "15"
-            },
-            {
-                "Position": "3",
                 "Team": "Liverpool FC",
                 "Played": "7",
                 "Wins": "5",
@@ -36,7 +26,7 @@
                 "Points": "15"
             },
             {
-                "Position": "4",
+                "Position": "3",
                 "Team": "Tottenham Hotspur",
                 "Played": "7",
                 "Wins": "4",
@@ -46,7 +36,7 @@
                 "Points": "14"
             },
             {
-                "Position": "5",
+                "Position": "4",
                 "Team": "AFC Bournemouth",
                 "Played": "7",
                 "Wins": "4",
@@ -54,6 +44,16 @@
                 "Losses": "1",
                 "Goal Difference": "3",
                 "Points": "14"
+            },
+            {
+                "Position": "5",
+                "Team": "Crystal Palace",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "0",
+                "Goal Difference": "5",
+                "Points": "13"
             },
             {
                 "Position": "6",
@@ -97,26 +97,36 @@
             },
             {
                 "Position": "10",
+                "Team": "Everton",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "9"
+            },
+            {
+                "Position": "11",
                 "Team": "Aston Villa",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "-1",
+                "Goal Difference": "0",
                 "Points": "9"
             },
             {
-                "Position": "11",
-                "Team": "Everton",
+                "Position": "12",
+                "Team": "Newcastle United",
                 "Played": "7",
                 "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
+                "Draws": "3",
+                "Losses": "2",
                 "Goal Difference": "0",
-                "Points": "8"
+                "Points": "9"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Brighton & Hove Albion",
                 "Played": "7",
                 "Wins": "2",
@@ -126,7 +136,7 @@
                 "Points": "8"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Fulham",
                 "Played": "7",
                 "Wins": "2",
@@ -136,7 +146,7 @@
                 "Points": "8"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Leeds United",
                 "Played": "7",
                 "Wins": "2",
@@ -144,16 +154,6 @@
                 "Losses": "3",
                 "Goal Difference": "-4",
                 "Points": "8"
-            },
-            {
-                "Position": "15",
-                "Team": "Newcastle United",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "7"
             },
             {
                 "Position": "16",
@@ -170,14 +170,14 @@
                 "Team": "Nottingham Forest",
                 "Played": "7",
                 "Wins": "1",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-5",
-                "Points": "6"
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-6",
+                "Points": "5"
             },
             {
                 "Position": "18",
-                "Team": "Burnley",
+                "Team": "Wolverhampton Wanderers",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "1",
@@ -187,12 +187,12 @@
             },
             {
                 "Position": "19",
-                "Team": "Wolverhampton Wanderers",
+                "Team": "Burnley",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "5",
-                "Goal Difference": "-8",
+                "Goal Difference": "-9",
                 "Points": "4"
             },
             {
@@ -220,11 +220,11 @@
             {
                 "Position": "2",
                 "Team": "Barcelona",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "6",
                 "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "16",
+                "Losses": "1",
+                "Goal Difference": "15",
                 "Points": "19"
             },
             {
@@ -239,6 +239,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Sevilla",
+                "Played": "8",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "13"
+            },
+            {
+                "Position": "5",
                 "Team": "Elche",
                 "Played": "8",
                 "Wins": "3",
@@ -248,7 +258,7 @@
                 "Points": "13"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Athletic Bilbao",
                 "Played": "8",
                 "Wins": "4",
@@ -258,7 +268,7 @@
                 "Points": "13"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "7",
                 "Wins": "3",
@@ -268,7 +278,7 @@
                 "Points": "12"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Real Betis",
                 "Played": "7",
                 "Wins": "3",
@@ -278,7 +288,7 @@
                 "Points": "12"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Espanyol",
                 "Played": "7",
                 "Wins": "3",
@@ -288,7 +298,7 @@
                 "Points": "12"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Alav\u00e9s",
                 "Played": "8",
                 "Wins": "3",
@@ -298,7 +308,7 @@
                 "Points": "11"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Getafe",
                 "Played": "8",
                 "Wins": "3",
@@ -306,16 +316,6 @@
                 "Losses": "3",
                 "Goal Difference": "-2",
                 "Points": "11"
-            },
-            {
-                "Position": "11",
-                "Team": "Sevilla",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "1",
-                "Points": "10"
             },
             {
                 "Position": "12",
@@ -2114,12 +2114,12 @@
             {
                 "Position": "6",
                 "Team": "Famalic\u00e3o",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "3",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "4",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "7",
@@ -2163,13 +2163,13 @@
             },
             {
                 "Position": "11",
-                "Team": "Casa Pia",
+                "Team": "Arouca",
                 "Played": "8",
                 "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "8"
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-9",
+                "Points": "9"
             },
             {
                 "Position": "12",
@@ -2183,12 +2183,12 @@
             },
             {
                 "Position": "13",
-                "Team": "Arouca",
-                "Played": "7",
+                "Team": "Casa Pia",
+                "Played": "8",
                 "Wins": "2",
                 "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-9",
+                "Losses": "4",
+                "Goal Difference": "-5",
                 "Points": "8"
             },
             {

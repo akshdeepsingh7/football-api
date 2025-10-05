@@ -41,31 +41,31 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 02:15 PM UTC (Sunday, 05 October 2025, 07:45 PM IST)
+**Last Updated:** Sunday, 05 October 2025, 02:37 PM UTC (Sunday, 05 October 2025, 08:07 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 7 | 5 | 1 | 1 | 11 | 16 |
-| 2 | Crystal Palace | 7 | 4 | 3 | 0 | 6 | 15 |
-| 3 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
-| 4 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
-| 5 | AFC Bournemouth | 7 | 4 | 2 | 1 | 3 | 14 |
+| 2 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
+| 3 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
+| 4 | AFC Bournemouth | 7 | 4 | 2 | 1 | 3 | 14 |
+| 5 | Crystal Palace | 7 | 3 | 4 | 0 | 5 | 13 |
 | 6 | Chelsea | 7 | 3 | 2 | 2 | 4 | 11 |
 | 7 | Sunderland | 7 | 3 | 2 | 2 | 1 | 11 |
 | 8 | Manchester City | 6 | 3 | 1 | 2 | 8 | 10 |
 | 9 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
-| 10 | Aston Villa | 7 | 2 | 3 | 2 | -1 | 9 |
-| 11 | Everton | 7 | 2 | 2 | 3 | 0 | 8 |
-| 12 | Brighton & Hove Albion | 7 | 2 | 2 | 3 | -1 | 8 |
-| 13 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
-| 14 | Leeds United | 7 | 2 | 2 | 3 | -4 | 8 |
-| 15 | Newcastle United | 7 | 1 | 4 | 2 | -1 | 7 |
+| 10 | Everton | 7 | 2 | 3 | 2 | 1 | 9 |
+| 11 | Aston Villa | 7 | 2 | 3 | 2 | 0 | 9 |
+| 12 | Newcastle United | 7 | 2 | 3 | 2 | 0 | 9 |
+| 13 | Brighton & Hove Albion | 7 | 2 | 2 | 3 | -1 | 8 |
+| 14 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
+| 15 | Leeds United | 7 | 2 | 2 | 3 | -4 | 8 |
 | 16 | Brentford | 6 | 2 | 1 | 3 | -2 | 7 |
-| 17 | Nottingham Forest | 7 | 1 | 3 | 3 | -5 | 6 |
-| 18 | Burnley | 7 | 1 | 1 | 5 | -8 | 4 |
-| 19 | Wolverhampton Wanderers | 7 | 1 | 1 | 5 | -8 | 4 |
+| 17 | Nottingham Forest | 7 | 1 | 2 | 4 | -6 | 5 |
+| 18 | Wolverhampton Wanderers | 7 | 1 | 1 | 5 | -8 | 4 |
+| 19 | Burnley | 7 | 1 | 1 | 5 | -9 | 4 |
 | 20 | West Ham United | 7 | 1 | 1 | 5 | -10 | 4 |
 
 ### La Liga
@@ -73,16 +73,16 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 8 | 7 | 0 | 1 | 10 | 21 |
-| 2 | Barcelona | 7 | 6 | 1 | 0 | 16 | 19 |
+| 2 | Barcelona | 8 | 6 | 1 | 1 | 15 | 19 |
 | 3 | Villarreal | 8 | 5 | 1 | 2 | 6 | 16 |
-| 4 | Elche | 8 | 3 | 4 | 1 | 2 | 13 |
-| 5 | Athletic Bilbao | 8 | 4 | 1 | 3 | 0 | 13 |
-| 6 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
-| 7 | Real Betis | 7 | 3 | 3 | 1 | 4 | 12 |
-| 8 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
-| 9 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
-| 10 | Getafe | 8 | 3 | 2 | 3 | -2 | 11 |
-| 11 | Sevilla | 7 | 3 | 1 | 3 | 1 | 10 |
+| 4 | Sevilla | 8 | 4 | 1 | 3 | 2 | 13 |
+| 5 | Elche | 8 | 3 | 4 | 1 | 2 | 13 |
+| 6 | Athletic Bilbao | 8 | 4 | 1 | 3 | 0 | 13 |
+| 7 | Atlético de Madrid | 7 | 3 | 3 | 1 | 5 | 12 |
+| 8 | Real Betis | 7 | 3 | 3 | 1 | 4 | 12 |
+| 9 | Espanyol | 7 | 3 | 3 | 1 | 1 | 12 |
+| 10 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
+| 11 | Getafe | 8 | 3 | 2 | 3 | -2 | 11 |
 | 12 | Osasuna | 8 | 3 | 1 | 4 | -1 | 10 |
 | 13 | Levante | 8 | 2 | 2 | 4 | -1 | 8 |
 | 14 | Valencia | 8 | 2 | 2 | 4 | -4 | 8 |
@@ -296,14 +296,14 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 7 | 5 | 2 | 0 | 9 | 17 |
 | 4 | Gil Vicente | 8 | 5 | 1 | 2 | 6 | 16 |
 | 5 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
-| 6 | Famalicão | 7 | 3 | 3 | 1 | 4 | 12 |
+| 6 | Famalicão | 8 | 3 | 4 | 1 | 4 | 13 |
 | 7 | Vitória S.C. | 8 | 3 | 2 | 3 | -3 | 11 |
 | 8 | Alverca | 8 | 3 | 1 | 4 | -1 | 10 |
 | 9 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
 | 10 | Braga | 7 | 2 | 3 | 2 | 4 | 9 |
-| 11 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
+| 11 | Arouca | 8 | 2 | 3 | 3 | -9 | 9 |
 | 12 | Santa Clara | 8 | 2 | 2 | 4 | -4 | 8 |
-| 13 | Arouca | 7 | 2 | 2 | 3 | -9 | 8 |
+| 13 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
 | 14 | Estrela Amadora | 8 | 1 | 4 | 3 | -2 | 7 |
 | 15 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
 | 16 | Rio Ave | 7 | 0 | 5 | 2 | -5 | 5 |
