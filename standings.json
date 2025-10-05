@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 03:16 PM UTC",
-        "IST": "Sunday, 05 October 2025, 08:46 PM IST"
+        "UTC": "Sunday, 05 October 2025, 03:36 PM UTC",
+        "IST": "Sunday, 05 October 2025, 09:06 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -57,6 +57,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Manchester City",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "8",
+                "Points": "11"
+            },
+            {
+                "Position": "7",
                 "Team": "Chelsea",
                 "Played": "7",
                 "Wins": "3",
@@ -66,7 +76,7 @@
                 "Points": "11"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Everton",
                 "Played": "7",
                 "Wins": "3",
@@ -76,7 +86,7 @@
                 "Points": "11"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Sunderland",
                 "Played": "7",
                 "Wins": "3",
@@ -84,16 +94,6 @@
                 "Losses": "2",
                 "Goal Difference": "1",
                 "Points": "11"
-            },
-            {
-                "Position": "9",
-                "Team": "Manchester City",
-                "Played": "6",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "8",
-                "Points": "10"
             },
             {
                 "Position": "10",
@@ -137,6 +137,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Brentford",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "8"
+            },
+            {
+                "Position": "15",
                 "Team": "Fulham",
                 "Played": "7",
                 "Wins": "2",
@@ -146,7 +156,7 @@
                 "Points": "8"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Leeds United",
                 "Played": "7",
                 "Wins": "2",
@@ -154,16 +164,6 @@
                 "Losses": "3",
                 "Goal Difference": "-4",
                 "Points": "8"
-            },
-            {
-                "Position": "16",
-                "Team": "Brentford",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "7"
             },
             {
                 "Position": "17",
@@ -541,6 +541,26 @@
             },
             {
                 "Position": "14",
+                "Team": "Hamburg",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "-6",
+                "Points": "6"
+            },
+            {
+                "Position": "15",
+                "Team": "Mainz 05",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "5"
+            },
+            {
+                "Position": "16",
                 "Team": "VfL Wolfsburg",
                 "Played": "6",
                 "Wins": "1",
@@ -548,26 +568,6 @@
                 "Losses": "3",
                 "Goal Difference": "-2",
                 "Points": "5"
-            },
-            {
-                "Position": "15",
-                "Team": "Hamburg",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-6",
-                "Points": "5"
-            },
-            {
-                "Position": "16",
-                "Team": "Mainz 05",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "4"
             },
             {
                 "Position": "17",
@@ -855,6 +855,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Rennes",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "12"
+            },
+            {
+                "Position": "8",
                 "Team": "Lille",
                 "Played": "6",
                 "Wins": "3",
@@ -864,7 +874,7 @@
                 "Points": "10"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Paris",
                 "Played": "7",
                 "Wins": "3",
@@ -874,22 +884,12 @@
                 "Points": "10"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Toulouse",
                 "Played": "7",
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "10"
-            },
-            {
-                "Position": "10",
-                "Team": "Rennes",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "1",
                 "Goal Difference": "-1",
                 "Points": "10"
             },
@@ -925,16 +925,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Le Havre",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "6"
-            },
-            {
-                "Position": "15",
                 "Team": "Nantes",
                 "Played": "7",
                 "Wins": "1",
@@ -944,7 +934,7 @@
                 "Points": "6"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Angers",
                 "Played": "7",
                 "Wins": "1",
@@ -954,7 +944,7 @@
                 "Points": "6"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Auxerre",
                 "Played": "7",
                 "Wins": "2",
@@ -962,6 +952,16 @@
                 "Losses": "5",
                 "Goal Difference": "-5",
                 "Points": "6"
+            },
+            {
+                "Position": "17",
+                "Team": "Le Havre",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "5"
             },
             {
                 "Position": "18",
