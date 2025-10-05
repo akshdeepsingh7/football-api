@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 05:14 PM UTC",
-        "IST": "Sunday, 05 October 2025, 10:44 PM IST"
+        "UTC": "Sunday, 05 October 2025, 05:36 PM UTC",
+        "IST": "Sunday, 05 October 2025, 11:06 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -481,6 +481,16 @@
             },
             {
                 "Position": "8",
+                "Team": "SC Freiburg",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "8"
+            },
+            {
+                "Position": "9",
                 "Team": "Hamburg",
                 "Played": "6",
                 "Wins": "2",
@@ -488,16 +498,6 @@
                 "Losses": "2",
                 "Goal Difference": "-2",
                 "Points": "8"
-            },
-            {
-                "Position": "9",
-                "Team": "SC Freiburg",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "0",
-                "Points": "7"
             },
             {
                 "Position": "10",
@@ -571,6 +571,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Played": "6",
+                "Wins": "0",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-7",
+                "Points": "3"
+            },
+            {
+                "Position": "18",
                 "Team": "Heidenheim",
                 "Played": "6",
                 "Wins": "1",
@@ -578,21 +588,21 @@
                 "Losses": "5",
                 "Goal Difference": "-7",
                 "Points": "3"
-            },
-            {
-                "Position": "18",
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "5",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-7",
-                "Points": "2"
             }
         ],
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Napoli",
+                "Played": "6",
+                "Wins": "5",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "6",
+                "Points": "15"
+            },
+            {
+                "Position": "2",
                 "Team": "Roma",
                 "Played": "6",
                 "Wins": "5",
@@ -602,7 +612,7 @@
                 "Points": "15"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Milan",
                 "Played": "5",
                 "Wins": "4",
@@ -612,23 +622,13 @@
                 "Points": "12"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Inter",
                 "Played": "6",
                 "Wins": "4",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "9",
-                "Points": "12"
-            },
-            {
-                "Position": "4",
-                "Team": "Napoli",
-                "Played": "6",
-                "Wins": "4",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "4",
                 "Points": "12"
             },
             {
@@ -723,16 +723,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Genoa",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "5"
-            },
-            {
-                "Position": "15",
                 "Team": "Parma",
                 "Played": "6",
                 "Wins": "1",
@@ -742,7 +732,7 @@
                 "Points": "5"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Lecce",
                 "Played": "6",
                 "Wins": "1",
@@ -752,7 +742,7 @@
                 "Points": "5"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Torino",
                 "Played": "6",
                 "Wins": "1",
@@ -762,7 +752,7 @@
                 "Points": "5"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Fiorentina",
                 "Played": "6",
                 "Wins": "0",
@@ -772,7 +762,7 @@
                 "Points": "3"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Hellas Verona",
                 "Played": "6",
                 "Wins": "0",
@@ -780,6 +770,16 @@
                 "Losses": "3",
                 "Goal Difference": "-7",
                 "Points": "3"
+            },
+            {
+                "Position": "19",
+                "Team": "Genoa",
+                "Played": "6",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-6",
+                "Points": "2"
             },
             {
                 "Position": "20",
@@ -2173,21 +2173,21 @@
             },
             {
                 "Position": "12",
-                "Team": "Santa Clara",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "8"
-            },
-            {
-                "Position": "13",
                 "Team": "Rio Ave",
                 "Played": "8",
                 "Wins": "1",
                 "Draws": "5",
                 "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "8"
+            },
+            {
+                "Position": "13",
+                "Team": "Santa Clara",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "4",
                 "Goal Difference": "-4",
                 "Points": "8"
             },
@@ -2228,7 +2228,7 @@
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "5",
-                "Goal Difference": "-8",
+                "Goal Difference": "-9",
                 "Points": "5"
             },
             {
@@ -3202,22 +3202,22 @@
             {
                 "Position": "14",
                 "Team": "Godoy Cruz",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "1",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "15",
                 "Team": "Independiente",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "0",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "4",
                 "Goal Difference": "-4",
-                "Points": "5"
+                "Points": "6"
             }
         ],
         "Brasileir\u00e3o": [

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 05:14 PM UTC (Sunday, 05 October 2025, 10:44 PM IST)
+**Last Updated:** Sunday, 05 October 2025, 05:36 PM UTC (Sunday, 05 October 2025, 11:06 PM IST)
 
 ### Premier League
 
@@ -104,8 +104,8 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Bayer Leverkusen | 6 | 3 | 2 | 1 | 4 | 11 |
 | 6 | Köln | 6 | 3 | 1 | 2 | 2 | 10 |
 | 7 | Eintracht Frankfurt | 6 | 3 | 0 | 3 | 1 | 9 |
-| 8 | Hamburg | 6 | 2 | 2 | 2 | -2 | 8 |
-| 9 | SC Freiburg | 5 | 2 | 1 | 2 | 0 | 7 |
+| 8 | SC Freiburg | 6 | 2 | 2 | 2 | 0 | 8 |
+| 9 | Hamburg | 6 | 2 | 2 | 2 | -2 | 8 |
 | 10 | St. Pauli | 6 | 2 | 1 | 3 | -1 | 7 |
 | 11 | Hoffenheim | 6 | 2 | 1 | 3 | -3 | 7 |
 | 12 | Werder Bremen | 6 | 2 | 1 | 3 | -5 | 7 |
@@ -113,17 +113,17 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Augsburg | 6 | 2 | 0 | 4 | -2 | 6 |
 | 15 | VfL Wolfsburg | 6 | 1 | 2 | 3 | -2 | 5 |
 | 16 | Mainz 05 | 6 | 1 | 1 | 4 | -5 | 4 |
-| 17 | Heidenheim | 6 | 1 | 0 | 5 | -7 | 3 |
-| 18 | Borussia Mönchengladbach | 5 | 0 | 2 | 3 | -7 | 2 |
+| 17 | Borussia Mönchengladbach | 6 | 0 | 3 | 3 | -7 | 3 |
+| 18 | Heidenheim | 6 | 1 | 0 | 5 | -7 | 3 |
 
 ### Serie A
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Roma | 6 | 5 | 0 | 1 | 5 | 15 |
-| 2 | Milan | 5 | 4 | 0 | 1 | 6 | 12 |
-| 3 | Inter | 6 | 4 | 0 | 2 | 9 | 12 |
-| 4 | Napoli | 6 | 4 | 0 | 2 | 4 | 12 |
+| 1 | Napoli | 6 | 5 | 0 | 1 | 6 | 15 |
+| 2 | Roma | 6 | 5 | 0 | 1 | 5 | 15 |
+| 3 | Milan | 5 | 4 | 0 | 1 | 6 | 12 |
+| 4 | Inter | 6 | 4 | 0 | 2 | 9 | 12 |
 | 5 | Juventus | 5 | 3 | 2 | 0 | 4 | 11 |
 | 6 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
 | 7 | Bologna | 6 | 3 | 1 | 2 | 4 | 10 |
@@ -133,12 +133,12 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Cagliari | 6 | 2 | 2 | 2 | 0 | 8 |
 | 12 | Udinese | 6 | 2 | 2 | 2 | -3 | 8 |
 | 13 | Lazio | 6 | 2 | 1 | 3 | 3 | 7 |
-| 14 | Genoa | 6 | 1 | 2 | 3 | -4 | 5 |
-| 15 | Parma | 6 | 1 | 2 | 3 | -4 | 5 |
-| 16 | Lecce | 6 | 1 | 2 | 3 | -5 | 5 |
-| 17 | Torino | 6 | 1 | 2 | 3 | -8 | 5 |
-| 18 | Fiorentina | 6 | 0 | 3 | 3 | -4 | 3 |
-| 19 | Hellas Verona | 6 | 0 | 3 | 3 | -7 | 3 |
+| 14 | Parma | 6 | 1 | 2 | 3 | -4 | 5 |
+| 15 | Lecce | 6 | 1 | 2 | 3 | -5 | 5 |
+| 16 | Torino | 6 | 1 | 2 | 3 | -8 | 5 |
+| 17 | Fiorentina | 6 | 0 | 3 | 3 | -4 | 3 |
+| 18 | Hellas Verona | 6 | 0 | 3 | 3 | -7 | 3 |
+| 19 | Genoa | 6 | 0 | 2 | 4 | -6 | 2 |
 | 20 | Pisa | 6 | 0 | 2 | 4 | -7 | 2 |
 
 ### Ligue 1
@@ -302,12 +302,12 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
 | 10 | Braga | 7 | 2 | 3 | 2 | 4 | 9 |
 | 11 | Arouca | 8 | 2 | 3 | 3 | -9 | 9 |
-| 12 | Santa Clara | 8 | 2 | 2 | 4 | -4 | 8 |
-| 13 | Rio Ave | 8 | 1 | 5 | 2 | -4 | 8 |
+| 12 | Rio Ave | 8 | 1 | 5 | 2 | -3 | 8 |
+| 13 | Santa Clara | 8 | 2 | 2 | 4 | -4 | 8 |
 | 14 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
 | 15 | Estrela Amadora | 8 | 1 | 4 | 3 | -2 | 7 |
 | 16 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
-| 17 | Tondela | 8 | 1 | 2 | 5 | -8 | 5 |
+| 17 | Tondela | 8 | 1 | 2 | 5 | -9 | 5 |
 | 18 | AVS | 8 | 0 | 1 | 7 | -15 | 1 |
 
 ### EFL Championship
@@ -424,8 +424,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | San Martín SJ | 11 | 2 | 5 | 4 | -3 | 11 |
 | 12 | Talleres | 10 | 2 | 4 | 4 | -4 | 10 |
 | 13 | Platense | 10 | 2 | 4 | 4 | -5 | 10 |
-| 14 | Godoy Cruz | 10 | 1 | 5 | 4 | -5 | 8 |
-| 15 | Independiente | 9 | 0 | 5 | 4 | -4 | 5 |
+| 14 | Godoy Cruz | 11 | 1 | 6 | 4 | -5 | 9 |
+| 15 | Independiente | 10 | 0 | 6 | 4 | -4 | 6 |
 
 ### Brasileirão
 
