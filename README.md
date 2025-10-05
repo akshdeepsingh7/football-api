@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 08:19 PM UTC (Monday, 06 October 2025, 01:49 AM IST)
+**Last Updated:** Sunday, 05 October 2025, 08:38 PM UTC (Monday, 06 October 2025, 02:08 AM IST)
 
 ### Premier League
 
@@ -75,8 +75,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Real Madrid | 8 | 7 | 0 | 1 | 10 | 21 |
 | 2 | Barcelona | 8 | 6 | 1 | 1 | 13 | 19 |
 | 3 | Villarreal | 8 | 5 | 1 | 2 | 6 | 16 |
-| 4 | Atlético de Madrid | 8 | 4 | 3 | 1 | 6 | 15 |
-| 5 | Real Betis | 8 | 4 | 3 | 1 | 5 | 15 |
+| 4 | Real Betis | 8 | 4 | 3 | 1 | 5 | 15 |
+| 5 | Atlético de Madrid | 8 | 3 | 4 | 1 | 5 | 13 |
 | 6 | Sevilla | 8 | 4 | 1 | 3 | 4 | 13 |
 | 7 | Elche | 8 | 3 | 4 | 1 | 2 | 13 |
 | 8 | Athletic Bilbao | 8 | 4 | 1 | 3 | 0 | 13 |
@@ -87,9 +87,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Levante | 8 | 2 | 2 | 4 | -1 | 8 |
 | 14 | Rayo Vallecano | 8 | 2 | 2 | 4 | -2 | 8 |
 | 15 | Valencia | 8 | 2 | 2 | 4 | -4 | 8 |
-| 16 | Real Oviedo | 8 | 2 | 0 | 6 | -10 | 6 |
-| 17 | Girona | 8 | 1 | 3 | 4 | -12 | 6 |
-| 18 | Celta de Vigo | 8 | 0 | 5 | 3 | -4 | 5 |
+| 16 | Celta de Vigo | 8 | 0 | 6 | 2 | -3 | 6 |
+| 17 | Real Oviedo | 8 | 2 | 0 | 6 | -10 | 6 |
+| 18 | Girona | 8 | 1 | 3 | 4 | -12 | 6 |
 | 19 | Real Sociedad | 8 | 1 | 2 | 5 | -5 | 5 |
 | 20 | Mallorca | 8 | 1 | 2 | 5 | -6 | 5 |
 
@@ -145,13 +145,13 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 7 | 6 | 0 | 1 | 9 | 18 |
+| 1 | PSG | 7 | 5 | 1 | 1 | 8 | 16 |
 | 2 | Marseille | 7 | 5 | 0 | 2 | 10 | 15 |
 | 3 | Strasbourg | 7 | 5 | 0 | 2 | 7 | 15 |
 | 4 | Lyon | 7 | 5 | 0 | 2 | 4 | 15 |
 | 5 | Monaco | 7 | 4 | 1 | 2 | 4 | 13 |
 | 6 | Lens | 7 | 4 | 1 | 2 | 4 | 13 |
-| 7 | Lille | 7 | 3 | 1 | 3 | 3 | 10 |
+| 7 | Lille | 7 | 3 | 2 | 2 | 4 | 11 |
 | 8 | Paris | 7 | 3 | 1 | 3 | -1 | 10 |
 | 9 | Toulouse | 7 | 3 | 1 | 3 | -1 | 10 |
 | 10 | Rennes | 7 | 2 | 4 | 1 | -1 | 10 |
@@ -432,12 +432,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 25 | 16 | 7 | 2 | 38 | 55 |
-| 2 | Palmeiras | 25 | 16 | 4 | 5 | 18 | 52 |
+| 2 | Palmeiras | 25 | 16 | 5 | 4 | 20 | 53 |
 | 3 | Cruzeiro | 26 | 15 | 6 | 5 | 20 | 51 |
 | 4 | Botafogo | 27 | 12 | 7 | 8 | 14 | 43 |
 | 5 | Mirassol | 26 | 11 | 10 | 5 | 14 | 43 |
-| 6 | São Paulo | 27 | 11 | 8 | 8 | 6 | 41 |
-| 7 | Bahia | 25 | 11 | 7 | 7 | 3 | 40 |
+| 6 | Bahia | 25 | 11 | 7 | 7 | 3 | 40 |
+| 7 | São Paulo | 27 | 10 | 9 | 8 | 4 | 39 |
 | 8 | Fluminense | 25 | 11 | 5 | 9 | 2 | 38 |
 | 9 | RB Bragantino | 27 | 10 | 6 | 11 | -5 | 36 |
 | 10 | Corinthians | 27 | 8 | 9 | 10 | -3 | 33 |

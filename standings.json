@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 08:19 PM UTC",
-        "IST": "Monday, 06 October 2025, 01:49 AM IST"
+        "UTC": "Sunday, 05 October 2025, 08:38 PM UTC",
+        "IST": "Monday, 06 October 2025, 02:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -239,16 +239,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "8",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "6",
-                "Points": "15"
-            },
-            {
-                "Position": "5",
                 "Team": "Real Betis",
                 "Played": "8",
                 "Wins": "4",
@@ -256,6 +246,16 @@
                 "Losses": "1",
                 "Goal Difference": "5",
                 "Points": "15"
+            },
+            {
+                "Position": "5",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "5",
+                "Points": "13"
             },
             {
                 "Position": "6",
@@ -359,6 +359,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Celta de Vigo",
+                "Played": "8",
+                "Wins": "0",
+                "Draws": "6",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "6"
+            },
+            {
+                "Position": "17",
                 "Team": "Real Oviedo",
                 "Played": "8",
                 "Wins": "2",
@@ -368,7 +378,7 @@
                 "Points": "6"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Girona",
                 "Played": "8",
                 "Wins": "1",
@@ -376,16 +386,6 @@
                 "Losses": "4",
                 "Goal Difference": "-12",
                 "Points": "6"
-            },
-            {
-                "Position": "18",
-                "Team": "Celta de Vigo",
-                "Played": "8",
-                "Wins": "0",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "5"
             },
             {
                 "Position": "19",
@@ -797,11 +797,11 @@
                 "Position": "1",
                 "Team": "PSG",
                 "Played": "7",
-                "Wins": "6",
-                "Draws": "0",
+                "Wins": "5",
+                "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "9",
-                "Points": "18"
+                "Goal Difference": "8",
+                "Points": "16"
             },
             {
                 "Position": "2",
@@ -858,10 +858,10 @@
                 "Team": "Lille",
                 "Played": "7",
                 "Wins": "3",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "3",
-                "Points": "10"
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "11"
             },
             {
                 "Position": "8",
@@ -3236,10 +3236,10 @@
                 "Team": "Palmeiras",
                 "Played": "25",
                 "Wins": "16",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "18",
-                "Points": "52"
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "20",
+                "Points": "53"
             },
             {
                 "Position": "3",
@@ -3273,16 +3273,6 @@
             },
             {
                 "Position": "6",
-                "Team": "S\u00e3o Paulo",
-                "Played": "27",
-                "Wins": "11",
-                "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "6",
-                "Points": "41"
-            },
-            {
-                "Position": "7",
                 "Team": "Bahia",
                 "Played": "25",
                 "Wins": "11",
@@ -3290,6 +3280,16 @@
                 "Losses": "7",
                 "Goal Difference": "3",
                 "Points": "40"
+            },
+            {
+                "Position": "7",
+                "Team": "S\u00e3o Paulo",
+                "Played": "27",
+                "Wins": "10",
+                "Draws": "9",
+                "Losses": "8",
+                "Goal Difference": "4",
+                "Points": "39"
             },
             {
                 "Position": "8",
