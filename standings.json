@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 11:14 AM UTC",
-        "IST": "Sunday, 05 October 2025, 04:44 PM IST"
+        "UTC": "Sunday, 05 October 2025, 11:37 AM UTC",
+        "IST": "Sunday, 05 October 2025, 05:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2325,6 +2325,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Ipswich Town",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "6",
+                "Points": "13"
+            },
+            {
+                "Position": "10",
                 "Team": "Bristol City",
                 "Played": "9",
                 "Wins": "3",
@@ -2334,7 +2344,7 @@
                 "Points": "13"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Watford",
                 "Played": "9",
                 "Wins": "3",
@@ -2344,7 +2354,7 @@
                 "Points": "12"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Swansea City",
                 "Played": "9",
                 "Wins": "3",
@@ -2354,7 +2364,7 @@
                 "Points": "12"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Charlton Athletic",
                 "Played": "9",
                 "Wins": "3",
@@ -2364,7 +2374,7 @@
                 "Points": "12"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Portsmouth",
                 "Played": "9",
                 "Wins": "3",
@@ -2374,7 +2384,7 @@
                 "Points": "12"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Hull City",
                 "Played": "9",
                 "Wins": "3",
@@ -2384,7 +2394,7 @@
                 "Points": "12"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Birmingham City",
                 "Played": "9",
                 "Wins": "3",
@@ -2392,16 +2402,6 @@
                 "Losses": "3",
                 "Goal Difference": "-3",
                 "Points": "12"
-            },
-            {
-                "Position": "16",
-                "Team": "Ipswich Town",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "5",
-                "Points": "11"
             },
             {
                 "Position": "17",
@@ -2428,10 +2428,10 @@
                 "Team": "Norwich City",
                 "Played": "9",
                 "Wins": "2",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "9"
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-2",
+                "Points": "8"
             },
             {
                 "Position": "20",

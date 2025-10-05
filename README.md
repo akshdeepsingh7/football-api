@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 11:14 AM UTC (Sunday, 05 October 2025, 04:44 PM IST)
+**Last Updated:** Sunday, 05 October 2025, 11:37 AM UTC (Sunday, 05 October 2025, 05:07 PM IST)
 
 ### Premier League
 
@@ -322,17 +322,17 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Queens Park Rangers | 9 | 4 | 3 | 2 | -1 | 15 |
 | 7 | West Bromwich Albion | 9 | 4 | 2 | 3 | -1 | 14 |
 | 8 | Millwall | 9 | 4 | 2 | 3 | -3 | 14 |
-| 9 | Bristol City | 9 | 3 | 4 | 2 | 5 | 13 |
-| 10 | Watford | 9 | 3 | 3 | 3 | 0 | 12 |
-| 11 | Swansea City | 9 | 3 | 3 | 3 | 0 | 12 |
-| 12 | Charlton Athletic | 9 | 3 | 3 | 3 | 0 | 12 |
-| 13 | Portsmouth | 9 | 3 | 3 | 3 | -1 | 12 |
-| 14 | Hull City | 9 | 3 | 3 | 3 | -2 | 12 |
-| 15 | Birmingham City | 9 | 3 | 3 | 3 | -3 | 12 |
-| 16 | Ipswich Town | 8 | 2 | 5 | 1 | 5 | 11 |
+| 9 | Ipswich Town | 8 | 3 | 4 | 1 | 6 | 13 |
+| 10 | Bristol City | 9 | 3 | 4 | 2 | 5 | 13 |
+| 11 | Watford | 9 | 3 | 3 | 3 | 0 | 12 |
+| 12 | Swansea City | 9 | 3 | 3 | 3 | 0 | 12 |
+| 13 | Charlton Athletic | 9 | 3 | 3 | 3 | 0 | 12 |
+| 14 | Portsmouth | 9 | 3 | 3 | 3 | -1 | 12 |
+| 15 | Hull City | 9 | 3 | 3 | 3 | -2 | 12 |
+| 16 | Birmingham City | 9 | 3 | 3 | 3 | -3 | 12 |
 | 17 | Southampton | 9 | 2 | 5 | 2 | -1 | 11 |
 | 18 | Wrexham | 9 | 2 | 4 | 3 | -1 | 10 |
-| 19 | Norwich City | 9 | 2 | 3 | 4 | -1 | 9 |
+| 19 | Norwich City | 9 | 2 | 2 | 5 | -2 | 8 |
 | 20 | Derby County | 9 | 1 | 5 | 3 | -4 | 8 |
 | 21 | Blackburn Rovers | 8 | 2 | 1 | 5 | -4 | 7 |
 | 22 | Oxford United | 9 | 1 | 3 | 5 | -3 | 6 |
