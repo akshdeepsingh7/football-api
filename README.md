@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 October 2025, 11:37 PM UTC (Monday, 06 October 2025, 05:07 AM IST)
+**Last Updated:** Monday, 06 October 2025, 01:25 AM UTC (Monday, 06 October 2025, 06:55 AM IST)
 
 ### Premier League
 
@@ -356,19 +356,19 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | New England Revolution | 33 | 9 | 8 | 16 | -7 | 35 |
 | 12 | Toronto | 32 | 5 | 14 | 13 | -7 | 29 |
 | 13 | CF Montréal | 33 | 6 | 10 | 17 | -23 | 28 |
-| 14 | Atlanta United | 31 | 5 | 12 | 14 | -20 | 27 |
+| 14 | Atlanta United | 32 | 5 | 13 | 14 | -20 | 28 |
 | 15 | DC United | 33 | 5 | 10 | 18 | -36 | 25 |
 | 1 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
-| 2 | Vancouver Whitecaps | 32 | 17 | 9 | 6 | 27 | 60 |
+| 2 | Vancouver Whitecaps | 32 | 17 | 9 | 6 | 28 | 60 |
 | 3 | Minnesota United | 33 | 16 | 10 | 7 | 18 | 58 |
-| 4 | LAFC | 30 | 15 | 8 | 7 | 23 | 53 |
+| 4 | LAFC | 31 | 15 | 9 | 7 | 23 | 54 |
 | 5 | Seattle Sounders | 32 | 13 | 10 | 9 | 8 | 49 |
 | 6 | Austin | 32 | 12 | 8 | 12 | -8 | 44 |
 | 7 | Portland Timbers | 33 | 11 | 11 | 11 | -3 | 44 |
 | 8 | Dallas | 32 | 10 | 11 | 11 | -3 | 41 |
 | 9 | Real Salt Lake | 32 | 12 | 4 | 16 | -10 | 40 |
 | 10 | Colorado Rapids | 33 | 11 | 7 | 15 | -12 | 40 |
-| 11 | San Jose Earthquakes | 33 | 10 | 8 | 15 | -3 | 38 |
+| 11 | San Jose Earthquakes | 33 | 10 | 8 | 15 | -4 | 38 |
 | 12 | Houston Dynamo | 33 | 9 | 9 | 15 | -13 | 36 |
 | 13 | St. Louis City | 33 | 8 | 7 | 18 | -14 | 31 |
 | 14 | Sporting KC | 33 | 7 | 6 | 20 | -24 | 27 |
@@ -414,9 +414,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Riestra | 10 | 7 | 1 | 2 | 8 | 22 |
 | 2 | Vélez | 10 | 6 | 3 | 1 | 9 | 21 |
 | 3 | Lanús | 11 | 6 | 2 | 3 | 2 | 20 |
-| 4 | River Plate | 10 | 5 | 3 | 2 | 8 | 18 |
-| 5 | San Lorenzo | 11 | 4 | 4 | 3 | 1 | 16 |
-| 6 | Rosario | 9 | 3 | 6 | 0 | 5 | 15 |
+| 4 | River Plate | 11 | 5 | 4 | 2 | 8 | 19 |
+| 5 | Rosario | 10 | 3 | 7 | 0 | 5 | 16 |
+| 6 | San Lorenzo | 11 | 4 | 4 | 3 | 1 | 16 |
 | 7 | Atl. Tucumán | 11 | 4 | 3 | 4 | 2 | 15 |
 | 8 | GELP | 11 | 4 | 1 | 6 | -5 | 13 |
 | 9 | Sarmiento | 10 | 3 | 3 | 4 | -3 | 12 |
@@ -440,13 +440,13 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Fluminense | 25 | 11 | 5 | 9 | 2 | 38 |
 | 8 | São Paulo | 27 | 10 | 8 | 9 | 3 | 38 |
 | 9 | RB Bragantino | 27 | 10 | 6 | 11 | -5 | 36 |
-| 10 | Vasco da Gama | 27 | 9 | 6 | 12 | 1 | 33 |
-| 11 | Corinthians | 27 | 8 | 9 | 10 | -3 | 33 |
-| 12 | Grêmio | 27 | 8 | 9 | 10 | -5 | 33 |
-| 13 | Ceará | 26 | 8 | 8 | 10 | -1 | 32 |
+| 10 | Ceará | 26 | 9 | 7 | 10 | 1 | 34 |
+| 11 | Vasco da Gama | 27 | 9 | 6 | 12 | 1 | 33 |
+| 12 | Corinthians | 27 | 8 | 9 | 10 | -3 | 33 |
+| 13 | Grêmio | 27 | 8 | 9 | 10 | -5 | 33 |
 | 14 | Internacional | 26 | 8 | 8 | 10 | -6 | 32 |
 | 15 | Atlético Mineiro | 25 | 7 | 8 | 10 | -7 | 29 |
-| 16 | Santos | 26 | 7 | 8 | 11 | -10 | 29 |
+| 16 | Santos | 26 | 7 | 7 | 12 | -12 | 28 |
 | 17 | Vitória | 27 | 5 | 10 | 12 | -18 | 25 |
 | 18 | Fortaleza | 26 | 6 | 6 | 14 | -15 | 24 |
 | 19 | Juventude | 26 | 6 | 5 | 15 | -27 | 23 |

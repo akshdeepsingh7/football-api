@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 October 2025, 11:37 PM UTC",
-        "IST": "Monday, 06 October 2025, 05:07 AM IST"
+        "UTC": "Monday, 06 October 2025, 01:25 AM UTC",
+        "IST": "Monday, 06 October 2025, 06:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2618,12 +2618,12 @@
             {
                 "Position": "14",
                 "Team": "Atlanta United",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "5",
-                "Draws": "12",
+                "Draws": "13",
                 "Losses": "14",
                 "Goal Difference": "-20",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "15",
@@ -2652,7 +2652,7 @@
                 "Wins": "17",
                 "Draws": "9",
                 "Losses": "6",
-                "Goal Difference": "27",
+                "Goal Difference": "28",
                 "Points": "60"
             },
             {
@@ -2668,12 +2668,12 @@
             {
                 "Position": "4",
                 "Team": "LAFC",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "15",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "23",
-                "Points": "53"
+                "Points": "54"
             },
             {
                 "Position": "5",
@@ -2742,7 +2742,7 @@
                 "Wins": "10",
                 "Draws": "8",
                 "Losses": "15",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "38"
             },
             {
@@ -3102,15 +3102,25 @@
             {
                 "Position": "4",
                 "Team": "River Plate",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "5",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "8",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "5",
+                "Team": "Rosario",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "0",
+                "Goal Difference": "5",
+                "Points": "16"
+            },
+            {
+                "Position": "6",
                 "Team": "San Lorenzo",
                 "Played": "11",
                 "Wins": "4",
@@ -3118,16 +3128,6 @@
                 "Losses": "3",
                 "Goal Difference": "1",
                 "Points": "16"
-            },
-            {
-                "Position": "6",
-                "Team": "Rosario",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "0",
-                "Goal Difference": "5",
-                "Points": "15"
             },
             {
                 "Position": "7",
@@ -3313,6 +3313,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Cear\u00e1",
+                "Played": "26",
+                "Wins": "9",
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "1",
+                "Points": "34"
+            },
+            {
+                "Position": "11",
                 "Team": "Vasco da Gama",
                 "Played": "27",
                 "Wins": "9",
@@ -3322,7 +3332,7 @@
                 "Points": "33"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Corinthians",
                 "Played": "27",
                 "Wins": "8",
@@ -3332,7 +3342,7 @@
                 "Points": "33"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Gr\u00eamio",
                 "Played": "27",
                 "Wins": "8",
@@ -3340,16 +3350,6 @@
                 "Losses": "10",
                 "Goal Difference": "-5",
                 "Points": "33"
-            },
-            {
-                "Position": "13",
-                "Team": "Cear\u00e1",
-                "Played": "26",
-                "Wins": "8",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-1",
-                "Points": "32"
             },
             {
                 "Position": "14",
@@ -3376,10 +3376,10 @@
                 "Team": "Santos",
                 "Played": "26",
                 "Wins": "7",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-10",
-                "Points": "29"
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "-12",
+                "Points": "28"
             },
             {
                 "Position": "17",
