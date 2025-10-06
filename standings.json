@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 06 October 2025, 02:47 AM UTC",
-        "IST": "Monday, 06 October 2025, 08:17 AM IST"
+        "UTC": "Monday, 06 October 2025, 03:33 AM UTC",
+        "IST": "Monday, 06 October 2025, 09:03 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2620,10 +2620,10 @@
                 "Team": "Atlanta United",
                 "Played": "32",
                 "Wins": "5",
-                "Draws": "13",
-                "Losses": "14",
-                "Goal Difference": "-20",
-                "Points": "28"
+                "Draws": "12",
+                "Losses": "15",
+                "Goal Difference": "-21",
+                "Points": "27"
             },
             {
                 "Position": "15",
@@ -2669,11 +2669,11 @@
                 "Position": "4",
                 "Team": "LAFC",
                 "Played": "31",
-                "Wins": "15",
-                "Draws": "9",
+                "Wins": "16",
+                "Draws": "8",
                 "Losses": "7",
-                "Goal Difference": "23",
-                "Points": "54"
+                "Goal Difference": "24",
+                "Points": "56"
             },
             {
                 "Position": "5",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 06 October 2025, 02:47 AM UTC (Monday, 06 October 2025, 08:17 AM IST)
+**Last Updated:** Monday, 06 October 2025, 03:33 AM UTC (Monday, 06 October 2025, 09:03 AM IST)
 
 ### Premier League
 
@@ -356,12 +356,12 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | New England Revolution | 33 | 9 | 8 | 16 | -7 | 35 |
 | 12 | Toronto | 32 | 5 | 14 | 13 | -7 | 29 |
 | 13 | CF Montréal | 33 | 6 | 10 | 17 | -23 | 28 |
-| 14 | Atlanta United | 32 | 5 | 13 | 14 | -20 | 28 |
+| 14 | Atlanta United | 32 | 5 | 12 | 15 | -21 | 27 |
 | 15 | DC United | 33 | 5 | 10 | 18 | -36 | 25 |
 | 1 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
 | 2 | Vancouver Whitecaps | 32 | 17 | 9 | 6 | 28 | 60 |
 | 3 | Minnesota United | 33 | 16 | 10 | 7 | 18 | 58 |
-| 4 | LAFC | 31 | 15 | 9 | 7 | 23 | 54 |
+| 4 | LAFC | 31 | 16 | 8 | 7 | 24 | 56 |
 | 5 | Seattle Sounders | 32 | 13 | 10 | 9 | 8 | 49 |
 | 6 | Austin | 32 | 12 | 8 | 12 | -8 | 44 |
 | 7 | Portland Timbers | 33 | 11 | 11 | 11 | -3 | 44 |
