@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 06 October 2025, 11:37 PM UTC",
-        "IST": "Tuesday, 07 October 2025, 05:07 AM IST"
+        "UTC": "Tuesday, 07 October 2025, 01:24 AM UTC",
+        "IST": "Tuesday, 07 October 2025, 06:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3032,22 +3032,22 @@
             {
                 "Position": "12",
                 "Team": "Racing Club",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "3",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "-2",
-                "Points": "11"
+                "Points": "12"
             },
             {
                 "Position": "13",
                 "Team": "Independiente Rivadavia",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "2",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "-2",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "14",
@@ -3073,21 +3073,21 @@
                 "Position": "1",
                 "Team": "Riestra",
                 "Played": "11",
-                "Wins": "8",
-                "Draws": "1",
+                "Wins": "7",
+                "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "9",
-                "Points": "25"
+                "Goal Difference": "8",
+                "Points": "23"
             },
             {
                 "Position": "2",
                 "Team": "V\u00e9lez",
                 "Played": "11",
                 "Wins": "6",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "8",
-                "Points": "21"
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "9",
+                "Points": "22"
             },
             {
                 "Position": "3",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 06 October 2025, 11:37 PM UTC (Tuesday, 07 October 2025, 05:07 AM IST)
+**Last Updated:** Tuesday, 07 October 2025, 01:24 AM UTC (Tuesday, 07 October 2025, 06:54 AM IST)
 
 ### Premier League
 
@@ -407,12 +407,12 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Córdoba SdE | 11 | 3 | 6 | 2 | 3 | 15 |
 | 10 | Belgrano | 11 | 3 | 5 | 3 | 2 | 14 |
 | 11 | Banfield | 11 | 4 | 2 | 5 | -5 | 14 |
-| 12 | Racing Club | 10 | 3 | 2 | 5 | -2 | 11 |
-| 13 | Independiente Rivadavia | 10 | 2 | 4 | 4 | -2 | 10 |
+| 12 | Racing Club | 11 | 3 | 3 | 5 | -2 | 12 |
+| 13 | Independiente Rivadavia | 11 | 2 | 5 | 4 | -2 | 11 |
 | 14 | Newell's Old Boys | 11 | 2 | 4 | 5 | -8 | 10 |
 | 15 | Aldosivi | 11 | 1 | 3 | 7 | -11 | 6 |
-| 1 | Riestra | 11 | 8 | 1 | 2 | 9 | 25 |
-| 2 | Vélez | 11 | 6 | 3 | 2 | 8 | 21 |
+| 1 | Riestra | 11 | 7 | 2 | 2 | 8 | 23 |
+| 2 | Vélez | 11 | 6 | 4 | 1 | 9 | 22 |
 | 3 | Lanús | 11 | 6 | 2 | 3 | 2 | 20 |
 | 4 | River Plate | 11 | 5 | 3 | 3 | 7 | 18 |
 | 5 | Rosario | 10 | 4 | 6 | 0 | 6 | 18 |
