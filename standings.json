@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 09 October 2025, 01:25 AM UTC",
-        "IST": "Thursday, 09 October 2025, 06:55 AM IST"
+        "UTC": "Thursday, 09 October 2025, 02:46 AM UTC",
+        "IST": "Thursday, 09 October 2025, 08:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2598,12 +2598,12 @@
             {
                 "Position": "12",
                 "Team": "Toronto",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "5",
-                "Draws": "14",
+                "Draws": "15",
                 "Losses": "13",
                 "Goal Difference": "-7",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "13",
@@ -2668,12 +2668,12 @@
             {
                 "Position": "4",
                 "Team": "LAFC",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "16",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "24",
-                "Points": "56"
+                "Points": "57"
             },
             {
                 "Position": "5",
@@ -3255,11 +3255,11 @@
                 "Position": "4",
                 "Team": "Mirassol",
                 "Played": "27",
-                "Wins": "11",
-                "Draws": "11",
+                "Wins": "12",
+                "Draws": "10",
                 "Losses": "5",
-                "Goal Difference": "14",
-                "Points": "44"
+                "Goal Difference": "15",
+                "Points": "46"
             },
             {
                 "Position": "5",
@@ -3286,10 +3286,10 @@
                 "Team": "Fluminense",
                 "Played": "26",
                 "Wins": "11",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "2",
-                "Points": "39"
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "1",
+                "Points": "38"
             },
             {
                 "Position": "8",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 09 October 2025, 01:25 AM UTC (Thursday, 09 October 2025, 06:55 AM IST)
+**Last Updated:** Thursday, 09 October 2025, 02:46 AM UTC (Thursday, 09 October 2025, 08:16 AM IST)
 
 ### Premier League
 
@@ -354,14 +354,14 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Columbus Crew | 33 | 13 | 12 | 8 | 2 | 51 |
 | 10 | New York RB | 33 | 12 | 7 | 14 | 3 | 43 |
 | 11 | New England Revolution | 33 | 9 | 8 | 16 | -7 | 35 |
-| 12 | Toronto | 32 | 5 | 14 | 13 | -7 | 29 |
+| 12 | Toronto | 33 | 5 | 15 | 13 | -7 | 30 |
 | 13 | CF Montréal | 33 | 6 | 10 | 17 | -23 | 28 |
 | 14 | Atlanta United | 32 | 5 | 12 | 15 | -21 | 27 |
 | 15 | DC United | 33 | 5 | 10 | 18 | -36 | 25 |
 | 1 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
 | 2 | Vancouver Whitecaps | 32 | 17 | 9 | 6 | 28 | 60 |
 | 3 | Minnesota United | 33 | 16 | 10 | 7 | 18 | 58 |
-| 4 | LAFC | 31 | 16 | 8 | 7 | 24 | 56 |
+| 4 | LAFC | 32 | 16 | 9 | 7 | 24 | 57 |
 | 5 | Seattle Sounders | 32 | 13 | 10 | 9 | 8 | 49 |
 | 6 | Austin | 32 | 12 | 8 | 12 | -8 | 44 |
 | 7 | Portland Timbers | 33 | 11 | 11 | 11 | -3 | 44 |
@@ -434,10 +434,10 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Palmeiras | 25 | 17 | 4 | 4 | 21 | 55 |
 | 2 | Flamengo | 26 | 16 | 7 | 3 | 37 | 55 |
 | 3 | Cruzeiro | 27 | 15 | 7 | 5 | 20 | 52 |
-| 4 | Mirassol | 27 | 11 | 11 | 5 | 14 | 44 |
+| 4 | Mirassol | 27 | 12 | 10 | 5 | 15 | 46 |
 | 5 | Botafogo | 27 | 12 | 7 | 8 | 14 | 43 |
 | 6 | Bahia | 26 | 12 | 7 | 7 | 4 | 43 |
-| 7 | Fluminense | 26 | 11 | 6 | 9 | 2 | 39 |
+| 7 | Fluminense | 26 | 11 | 5 | 10 | 1 | 38 |
 | 8 | São Paulo | 27 | 10 | 8 | 9 | 3 | 38 |
 | 9 | RB Bragantino | 27 | 10 | 6 | 11 | -5 | 36 |
 | 10 | Ceará | 26 | 9 | 7 | 10 | 2 | 34 |
