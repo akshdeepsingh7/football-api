@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 08 October 2025, 11:37 PM UTC",
-        "IST": "Thursday, 09 October 2025, 05:07 AM IST"
+        "UTC": "Thursday, 09 October 2025, 01:25 AM UTC",
+        "IST": "Thursday, 09 October 2025, 06:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3253,6 +3253,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Mirassol",
+                "Played": "27",
+                "Wins": "11",
+                "Draws": "11",
+                "Losses": "5",
+                "Goal Difference": "14",
+                "Points": "44"
+            },
+            {
+                "Position": "5",
                 "Team": "Botafogo",
                 "Played": "27",
                 "Wins": "12",
@@ -3262,7 +3272,7 @@
                 "Points": "43"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Bahia",
                 "Played": "26",
                 "Wins": "12",
@@ -3272,24 +3282,14 @@
                 "Points": "43"
             },
             {
-                "Position": "6",
-                "Team": "Mirassol",
-                "Played": "26",
-                "Wins": "11",
-                "Draws": "10",
-                "Losses": "5",
-                "Goal Difference": "14",
-                "Points": "43"
-            },
-            {
                 "Position": "7",
                 "Team": "Fluminense",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "11",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "2",
-                "Points": "38"
+                "Points": "39"
             },
             {
                 "Position": "8",
@@ -3358,7 +3358,7 @@
                 "Wins": "8",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "32"
             },
             {
@@ -3418,7 +3418,7 @@
                 "Wins": "2",
                 "Draws": "10",
                 "Losses": "14",
-                "Goal Difference": "-22",
+                "Goal Difference": "-21",
                 "Points": "16"
             }
         ]
