@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 10 October 2025, 07:15 PM UTC (Saturday, 11 October 2025, 12:45 AM IST)
+**Last Updated:** Friday, 10 October 2025, 07:37 PM UTC (Saturday, 11 October 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -399,11 +399,11 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Boca Juniors | 11 | 4 | 5 | 2 | 10 | 17 |
 | 2 | Unión | 11 | 4 | 5 | 2 | 5 | 17 |
 | 3 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
-| 4 | Estudiantes | 11 | 5 | 2 | 4 | 0 | 17 |
-| 5 | Def y Justicia | 11 | 4 | 4 | 3 | 2 | 16 |
-| 6 | Tigre | 11 | 4 | 4 | 3 | 2 | 16 |
-| 7 | Huracán | 11 | 4 | 4 | 3 | -2 | 16 |
-| 8 | Argentinos Juniors | 11 | 4 | 3 | 4 | 4 | 15 |
+| 4 | Def y Justicia | 12 | 4 | 5 | 3 | 2 | 17 |
+| 5 | Estudiantes | 11 | 5 | 2 | 4 | 0 | 17 |
+| 6 | Argentinos Juniors | 12 | 4 | 4 | 4 | 4 | 16 |
+| 7 | Tigre | 11 | 4 | 4 | 3 | 2 | 16 |
+| 8 | Huracán | 11 | 4 | 4 | 3 | -2 | 16 |
 | 9 | Córdoba SdE | 11 | 3 | 6 | 2 | 3 | 15 |
 | 10 | Belgrano | 11 | 3 | 5 | 3 | 2 | 14 |
 | 11 | Banfield | 11 | 4 | 2 | 5 | -5 | 14 |

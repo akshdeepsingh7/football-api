@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 10 October 2025, 07:15 PM UTC",
-        "IST": "Saturday, 11 October 2025, 12:45 AM IST"
+        "UTC": "Friday, 10 October 2025, 07:37 PM UTC",
+        "IST": "Saturday, 11 October 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2951,6 +2951,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Def y Justicia",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "17"
+            },
+            {
+                "Position": "5",
                 "Team": "Estudiantes",
                 "Played": "11",
                 "Wins": "5",
@@ -2960,17 +2970,17 @@
                 "Points": "17"
             },
             {
-                "Position": "5",
-                "Team": "Def y Justicia",
-                "Played": "11",
+                "Position": "6",
+                "Team": "Argentinos Juniors",
+                "Played": "12",
                 "Wins": "4",
                 "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "2",
+                "Losses": "4",
+                "Goal Difference": "4",
                 "Points": "16"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Tigre",
                 "Played": "11",
                 "Wins": "4",
@@ -2980,7 +2990,7 @@
                 "Points": "16"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Hurac\u00e1n",
                 "Played": "11",
                 "Wins": "4",
@@ -2988,16 +2998,6 @@
                 "Losses": "3",
                 "Goal Difference": "-2",
                 "Points": "16"
-            },
-            {
-                "Position": "8",
-                "Team": "Argentinos Juniors",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "4",
-                "Points": "15"
             },
             {
                 "Position": "9",
