@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 10 October 2025, 09:36 PM UTC (Saturday, 11 October 2025, 03:06 AM IST)
+**Last Updated:** Friday, 10 October 2025, 10:17 PM UTC (Saturday, 11 October 2025, 03:47 AM IST)
 
 ### Premier League
 
@@ -397,9 +397,9 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Def y Justicia | 12 | 5 | 4 | 3 | 3 | 19 |
-| 2 | Córdoba SdE | 12 | 4 | 6 | 2 | 4 | 18 |
+| 2 | Córdoba SdE | 12 | 4 | 6 | 2 | 5 | 18 |
 | 3 | Boca Juniors | 11 | 4 | 5 | 2 | 10 | 17 |
-| 4 | Unión | 12 | 4 | 5 | 3 | 4 | 17 |
+| 4 | Unión | 12 | 4 | 5 | 3 | 3 | 17 |
 | 5 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
 | 6 | Tigre | 12 | 4 | 5 | 3 | 2 | 17 |
 | 7 | Estudiantes | 11 | 5 | 2 | 4 | 0 | 17 |
