@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 10 October 2025, 06:48 PM UTC",
-        "IST": "Saturday, 11 October 2025, 12:18 AM IST"
+        "UTC": "Friday, 10 October 2025, 07:15 PM UTC",
+        "IST": "Saturday, 11 October 2025, 12:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3124,10 +3124,10 @@
                 "Team": "San Lorenzo",
                 "Played": "12",
                 "Wins": "4",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "1",
-                "Points": "17"
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "16"
             },
             {
                 "Position": "7",
@@ -3141,6 +3141,16 @@
             },
             {
                 "Position": "8",
+                "Team": "San Mart\u00edn SJ",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "14"
+            },
+            {
+                "Position": "9",
                 "Team": "GELP",
                 "Played": "11",
                 "Wins": "4",
@@ -3150,21 +3160,11 @@
                 "Points": "13"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Sarmiento",
                 "Played": "10",
                 "Wins": "3",
                 "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "12"
-            },
-            {
-                "Position": "10",
-                "Team": "San Mart\u00edn SJ",
-                "Played": "12",
-                "Wins": "2",
-                "Draws": "6",
                 "Losses": "4",
                 "Goal Difference": "-3",
                 "Points": "12"

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 10 October 2025, 06:48 PM UTC (Saturday, 11 October 2025, 12:18 AM IST)
+**Last Updated:** Friday, 10 October 2025, 07:15 PM UTC (Saturday, 11 October 2025, 12:45 AM IST)
 
 ### Premier League
 
@@ -416,11 +416,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Lanús | 11 | 6 | 2 | 3 | 2 | 20 |
 | 4 | River Plate | 11 | 5 | 3 | 3 | 7 | 18 |
 | 5 | Rosario | 10 | 4 | 6 | 0 | 6 | 18 |
-| 6 | San Lorenzo | 12 | 4 | 5 | 3 | 1 | 17 |
+| 6 | San Lorenzo | 12 | 4 | 4 | 4 | 0 | 16 |
 | 7 | Atl. Tucumán | 11 | 4 | 3 | 4 | 2 | 15 |
-| 8 | GELP | 11 | 4 | 1 | 6 | -5 | 13 |
-| 9 | Sarmiento | 10 | 3 | 3 | 4 | -3 | 12 |
-| 10 | San Martín SJ | 12 | 2 | 6 | 4 | -3 | 12 |
+| 8 | San Martín SJ | 12 | 3 | 5 | 4 | -2 | 14 |
+| 9 | GELP | 11 | 4 | 1 | 6 | -5 | 13 |
+| 10 | Sarmiento | 10 | 3 | 3 | 4 | -3 | 12 |
 | 11 | Instituto | 11 | 2 | 6 | 3 | -6 | 12 |
 | 12 | Talleres | 11 | 2 | 5 | 4 | -4 | 11 |
 | 13 | Platense | 10 | 2 | 4 | 4 | -5 | 10 |
