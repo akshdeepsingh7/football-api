@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 10 October 2025, 05:17 PM UTC",
-        "IST": "Friday, 10 October 2025, 10:47 PM IST"
+        "UTC": "Friday, 10 October 2025, 05:39 PM UTC",
+        "IST": "Friday, 10 October 2025, 11:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -3122,12 +3122,12 @@
             {
                 "Position": "6",
                 "Team": "San Lorenzo",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "4",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "1",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "7",
@@ -3161,6 +3161,16 @@
             },
             {
                 "Position": "10",
+                "Team": "San Mart\u00edn SJ",
+                "Played": "12",
+                "Wins": "2",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "12"
+            },
+            {
+                "Position": "11",
                 "Team": "Instituto",
                 "Played": "11",
                 "Wins": "2",
@@ -3168,16 +3178,6 @@
                 "Losses": "3",
                 "Goal Difference": "-6",
                 "Points": "12"
-            },
-            {
-                "Position": "11",
-                "Team": "San Mart\u00edn SJ",
-                "Played": "11",
-                "Wins": "2",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "11"
             },
             {
                 "Position": "12",
