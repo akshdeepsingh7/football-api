@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 10 October 2025, 07:37 PM UTC",
-        "IST": "Saturday, 11 October 2025, 01:07 AM IST"
+        "UTC": "Friday, 10 October 2025, 08:20 PM UTC",
+        "IST": "Saturday, 11 October 2025, 01:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2921,22 +2921,22 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
+                "Team": "Uni\u00f3n",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "2",
+                "Goal Difference": "5",
+                "Points": "18"
+            },
+            {
+                "Position": "2",
                 "Team": "Boca Juniors",
                 "Played": "11",
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "10",
-                "Points": "17"
-            },
-            {
-                "Position": "2",
-                "Team": "Uni\u00f3n",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "5",
                 "Points": "17"
             },
             {
@@ -2981,6 +2981,16 @@
             },
             {
                 "Position": "7",
+                "Team": "C\u00f3rdoba SdE",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "2",
+                "Goal Difference": "3",
+                "Points": "16"
+            },
+            {
+                "Position": "8",
                 "Team": "Tigre",
                 "Played": "11",
                 "Wins": "4",
@@ -2990,7 +3000,7 @@
                 "Points": "16"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Hurac\u00e1n",
                 "Played": "11",
                 "Wins": "4",
@@ -2998,16 +3008,6 @@
                 "Losses": "3",
                 "Goal Difference": "-2",
                 "Points": "16"
-            },
-            {
-                "Position": "9",
-                "Team": "C\u00f3rdoba SdE",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "15"
             },
             {
                 "Position": "10",
