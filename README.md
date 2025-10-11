@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 11 October 2025, 09:15 PM UTC (Sunday, 12 October 2025, 02:45 AM IST)
+**Last Updated:** Saturday, 11 October 2025, 09:37 PM UTC (Sunday, 12 October 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -405,9 +405,9 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Estudiantes | 11 | 5 | 2 | 4 | 0 | 17 |
 | 8 | Huracán | 11 | 4 | 4 | 3 | -2 | 16 |
 | 9 | Argentinos Juniors | 12 | 4 | 3 | 5 | 3 | 15 |
-| 10 | Belgrano | 11 | 3 | 5 | 3 | 2 | 14 |
-| 11 | Banfield | 11 | 4 | 2 | 5 | -5 | 14 |
-| 12 | Racing Club | 11 | 3 | 3 | 5 | -2 | 12 |
+| 10 | Racing Club | 12 | 4 | 3 | 5 | -1 | 15 |
+| 11 | Belgrano | 11 | 3 | 5 | 3 | 2 | 14 |
+| 12 | Banfield | 12 | 4 | 2 | 6 | -6 | 14 |
 | 13 | Independiente Rivadavia | 11 | 2 | 5 | 4 | -2 | 11 |
 | 14 | Newell's Old Boys | 12 | 2 | 5 | 5 | -8 | 11 |
 | 15 | Aldosivi | 11 | 1 | 3 | 7 | -11 | 6 |

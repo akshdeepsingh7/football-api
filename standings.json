@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 October 2025, 09:15 PM UTC",
-        "IST": "Sunday, 12 October 2025, 02:45 AM IST"
+        "UTC": "Saturday, 11 October 2025, 09:37 PM UTC",
+        "IST": "Sunday, 12 October 2025, 03:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3011,6 +3011,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Racing Club",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-1",
+                "Points": "15"
+            },
+            {
+                "Position": "11",
                 "Team": "Belgrano",
                 "Played": "11",
                 "Wins": "3",
@@ -3020,24 +3030,14 @@
                 "Points": "14"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Banfield",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "4",
                 "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-5",
+                "Losses": "6",
+                "Goal Difference": "-6",
                 "Points": "14"
-            },
-            {
-                "Position": "12",
-                "Team": "Racing Club",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-2",
-                "Points": "12"
             },
             {
                 "Position": "13",
