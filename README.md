@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 October 2025, 07:37 PM UTC (Monday, 13 October 2025, 01:07 AM IST)
+**Last Updated:** Sunday, 12 October 2025, 08:19 PM UTC (Monday, 13 October 2025, 01:49 AM IST)
 
 ### Premier League
 
@@ -408,7 +408,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Belgrano | 12 | 3 | 6 | 3 | 2 | 15 |
 | 11 | Racing Club | 12 | 4 | 3 | 5 | 0 | 15 |
 | 12 | Banfield | 12 | 4 | 2 | 6 | -7 | 14 |
-| 13 | Independiente Rivadavia | 11 | 2 | 5 | 4 | -2 | 11 |
+| 13 | Independiente Rivadavia | 12 | 2 | 6 | 4 | -2 | 12 |
 | 14 | Newell's Old Boys | 12 | 2 | 5 | 5 | -8 | 11 |
 | 15 | Aldosivi | 12 | 2 | 3 | 7 | -9 | 9 |
 | 1 | Riestra | 11 | 7 | 2 | 2 | 8 | 23 |
@@ -417,14 +417,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Lanús | 11 | 6 | 2 | 3 | 2 | 20 |
 | 5 | River Plate | 11 | 5 | 3 | 3 | 7 | 18 |
 | 6 | San Lorenzo | 12 | 4 | 4 | 4 | 0 | 16 |
-| 7 | Atl. Tucumán | 11 | 4 | 3 | 4 | 2 | 15 |
-| 8 | San Martín SJ | 12 | 3 | 5 | 4 | -2 | 14 |
-| 9 | Talleres | 12 | 3 | 5 | 4 | -3 | 14 |
-| 10 | GELP | 12 | 4 | 1 | 7 | -6 | 13 |
-| 11 | Sarmiento | 10 | 3 | 3 | 4 | -3 | 12 |
-| 12 | Instituto | 11 | 2 | 6 | 3 | -6 | 12 |
+| 7 | Atl. Tucumán | 12 | 4 | 3 | 5 | 1 | 15 |
+| 8 | Instituto | 12 | 3 | 6 | 3 | -5 | 15 |
+| 9 | San Martín SJ | 12 | 3 | 5 | 4 | -2 | 14 |
+| 10 | Talleres | 12 | 3 | 5 | 4 | -3 | 14 |
+| 11 | GELP | 12 | 4 | 1 | 7 | -6 | 13 |
+| 12 | Sarmiento | 10 | 3 | 3 | 4 | -3 | 12 |
 | 13 | Platense | 10 | 2 | 4 | 4 | -5 | 10 |
-| 14 | Godoy Cruz | 11 | 1 | 6 | 4 | -5 | 9 |
+| 14 | Godoy Cruz | 12 | 1 | 7 | 4 | -5 | 10 |
 | 15 | Independiente | 10 | 0 | 6 | 4 | -4 | 6 |
 
 ### Brasileirão
