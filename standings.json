@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 October 2025, 03:47 AM UTC",
-        "IST": "Sunday, 12 October 2025, 09:17 AM IST"
+        "UTC": "Sunday, 12 October 2025, 04:22 AM UTC",
+        "IST": "Sunday, 12 October 2025, 09:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2710,10 +2710,10 @@
                 "Team": "Dallas",
                 "Played": "33",
                 "Wins": "10",
-                "Draws": "11",
-                "Losses": "12",
-                "Goal Difference": "-4",
-                "Points": "41"
+                "Draws": "12",
+                "Losses": "11",
+                "Goal Difference": "-3",
+                "Points": "42"
             },
             {
                 "Position": "9",
@@ -2779,11 +2779,11 @@
                 "Position": "15",
                 "Team": "LA Galaxy",
                 "Played": "33",
-                "Wins": "6",
-                "Draws": "9",
+                "Wins": "5",
+                "Draws": "10",
                 "Losses": "18",
-                "Goal Difference": "-21",
-                "Points": "27"
+                "Goal Difference": "-22",
+                "Points": "25"
             }
         ],
         "Indian Super League": [

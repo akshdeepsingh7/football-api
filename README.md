@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 October 2025, 03:47 AM UTC (Sunday, 12 October 2025, 09:17 AM IST)
+**Last Updated:** Sunday, 12 October 2025, 04:22 AM UTC (Sunday, 12 October 2025, 09:52 AM IST)
 
 ### Premier League
 
@@ -365,14 +365,14 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Seattle Sounders | 33 | 14 | 10 | 9 | 9 | 52 |
 | 6 | Austin | 32 | 12 | 8 | 12 | -8 | 44 |
 | 7 | Portland Timbers | 33 | 11 | 11 | 11 | -3 | 44 |
-| 8 | Dallas | 33 | 10 | 11 | 12 | -4 | 41 |
+| 8 | Dallas | 33 | 10 | 12 | 11 | -3 | 42 |
 | 9 | Real Salt Lake | 33 | 12 | 4 | 17 | -11 | 40 |
 | 10 | Colorado Rapids | 33 | 11 | 7 | 15 | -12 | 40 |
 | 11 | San Jose Earthquakes | 33 | 10 | 8 | 15 | -4 | 38 |
 | 12 | Houston Dynamo | 33 | 9 | 9 | 15 | -13 | 36 |
 | 13 | St. Louis City | 33 | 8 | 7 | 18 | -14 | 31 |
 | 14 | Sporting KC | 33 | 7 | 6 | 20 | -24 | 27 |
-| 15 | LA Galaxy | 33 | 6 | 9 | 18 | -21 | 27 |
+| 15 | LA Galaxy | 33 | 5 | 10 | 18 | -22 | 25 |
 
 ### Indian Super League
 
