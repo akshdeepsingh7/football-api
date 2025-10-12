@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 October 2025, 11:37 PM UTC",
-        "IST": "Sunday, 12 October 2025, 05:07 AM IST"
+        "UTC": "Sunday, 12 October 2025, 01:36 AM UTC",
+        "IST": "Sunday, 12 October 2025, 07:06 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2508,12 +2508,12 @@
             {
                 "Position": "3",
                 "Team": "Inter Miami",
-                "Played": "32",
-                "Wins": "17",
+                "Played": "33",
+                "Wins": "18",
                 "Draws": "8",
                 "Losses": "7",
-                "Goal Difference": "19",
-                "Points": "59"
+                "Goal Difference": "23",
+                "Points": "62"
             },
             {
                 "Position": "4",
@@ -2548,12 +2548,12 @@
             {
                 "Position": "7",
                 "Team": "Orlando City",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "14",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "7",
                 "Goal Difference": "15",
-                "Points": "53"
+                "Points": "54"
             },
             {
                 "Position": "8",
@@ -2618,11 +2618,11 @@
             {
                 "Position": "14",
                 "Team": "Atlanta United",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "5",
                 "Draws": "12",
-                "Losses": "15",
-                "Goal Difference": "-21",
+                "Losses": "16",
+                "Goal Difference": "-25",
                 "Points": "27"
             },
             {
@@ -2637,22 +2637,22 @@
             },
             {
                 "Position": "1",
+                "Team": "Vancouver Whitecaps",
+                "Played": "33",
+                "Wins": "17",
+                "Draws": "10",
+                "Losses": "6",
+                "Goal Difference": "28",
+                "Points": "61"
+            },
+            {
+                "Position": "2",
                 "Team": "San Diego",
                 "Played": "33",
                 "Wins": "18",
                 "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "19",
-                "Points": "60"
-            },
-            {
-                "Position": "2",
-                "Team": "Vancouver Whitecaps",
-                "Played": "32",
-                "Wins": "17",
-                "Draws": "9",
-                "Losses": "6",
-                "Goal Difference": "28",
                 "Points": "60"
             },
             {
@@ -2678,12 +2678,12 @@
             {
                 "Position": "5",
                 "Team": "Seattle Sounders",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "13",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "9",
                 "Goal Difference": "8",
-                "Points": "49"
+                "Points": "50"
             },
             {
                 "Position": "6",
@@ -2707,6 +2707,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Real Salt Lake",
+                "Played": "33",
+                "Wins": "12",
+                "Draws": "5",
+                "Losses": "16",
+                "Goal Difference": "-10",
+                "Points": "41"
+            },
+            {
+                "Position": "9",
                 "Team": "Dallas",
                 "Played": "32",
                 "Wins": "10",
@@ -2714,16 +2724,6 @@
                 "Losses": "11",
                 "Goal Difference": "-3",
                 "Points": "41"
-            },
-            {
-                "Position": "9",
-                "Team": "Real Salt Lake",
-                "Played": "32",
-                "Wins": "12",
-                "Draws": "4",
-                "Losses": "16",
-                "Goal Difference": "-10",
-                "Points": "40"
             },
             {
                 "Position": "10",
@@ -2941,6 +2941,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Estudiantes",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "18"
+            },
+            {
+                "Position": "4",
                 "Team": "Boca Juniors",
                 "Played": "11",
                 "Wins": "4",
@@ -2950,7 +2960,7 @@
                 "Points": "17"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Uni\u00f3n",
                 "Played": "12",
                 "Wins": "4",
@@ -2960,7 +2970,7 @@
                 "Points": "17"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Barracas",
                 "Played": "11",
                 "Wins": "4",
@@ -2970,23 +2980,13 @@
                 "Points": "17"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Tigre",
                 "Played": "12",
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "2",
-                "Points": "17"
-            },
-            {
-                "Position": "7",
-                "Team": "Estudiantes",
-                "Played": "11",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "0",
                 "Points": "17"
             },
             {
@@ -3011,6 +3011,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Belgrano",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "15"
+            },
+            {
+                "Position": "11",
                 "Team": "Racing Club",
                 "Played": "12",
                 "Wins": "4",
@@ -3018,16 +3028,6 @@
                 "Losses": "5",
                 "Goal Difference": "0",
                 "Points": "15"
-            },
-            {
-                "Position": "11",
-                "Team": "Belgrano",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "2",
-                "Points": "14"
             },
             {
                 "Position": "12",
@@ -3082,15 +3082,25 @@
             {
                 "Position": "2",
                 "Team": "V\u00e9lez",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "6",
                 "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "9",
+                "Losses": "2",
+                "Goal Difference": "8",
                 "Points": "22"
             },
             {
                 "Position": "3",
+                "Team": "Rosario",
+                "Played": "11",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "0",
+                "Goal Difference": "7",
+                "Points": "21"
+            },
+            {
+                "Position": "4",
                 "Team": "Lan\u00fas",
                 "Played": "11",
                 "Wins": "6",
@@ -3100,23 +3110,13 @@
                 "Points": "20"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "River Plate",
                 "Played": "11",
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "7",
-                "Points": "18"
-            },
-            {
-                "Position": "5",
-                "Team": "Rosario",
-                "Played": "10",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "0",
-                "Goal Difference": "6",
                 "Points": "18"
             },
             {

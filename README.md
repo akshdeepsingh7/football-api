@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 11 October 2025, 11:37 PM UTC (Sunday, 12 October 2025, 05:07 AM IST)
+**Last Updated:** Sunday, 12 October 2025, 01:36 AM UTC (Sunday, 12 October 2025, 07:06 AM IST)
 
 ### Premier League
 
@@ -345,28 +345,28 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Philadelphia Union | 33 | 20 | 6 | 7 | 24 | 66 |
 | 2 | Cincinnati | 33 | 19 | 5 | 9 | 9 | 62 |
-| 3 | Inter Miami | 32 | 17 | 8 | 7 | 19 | 59 |
+| 3 | Inter Miami | 33 | 18 | 8 | 7 | 23 | 62 |
 | 4 | Charlotte | 33 | 18 | 2 | 13 | 7 | 56 |
 | 5 | NYCFC | 33 | 17 | 5 | 11 | 7 | 56 |
 | 6 | Nashville | 33 | 16 | 6 | 11 | 16 | 54 |
-| 7 | Orlando City | 32 | 14 | 11 | 7 | 15 | 53 |
+| 7 | Orlando City | 33 | 14 | 12 | 7 | 15 | 54 |
 | 8 | Chicago Fire | 33 | 15 | 7 | 11 | 8 | 52 |
 | 9 | Columbus Crew | 33 | 13 | 12 | 8 | 2 | 51 |
 | 10 | New York RB | 33 | 12 | 7 | 14 | 3 | 43 |
 | 11 | New England Revolution | 33 | 9 | 8 | 16 | -7 | 35 |
 | 12 | Toronto | 33 | 5 | 14 | 14 | -9 | 29 |
 | 13 | CF Montréal | 33 | 6 | 10 | 17 | -23 | 28 |
-| 14 | Atlanta United | 32 | 5 | 12 | 15 | -21 | 27 |
+| 14 | Atlanta United | 33 | 5 | 12 | 16 | -25 | 27 |
 | 15 | DC United | 33 | 5 | 10 | 18 | -36 | 25 |
-| 1 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
-| 2 | Vancouver Whitecaps | 32 | 17 | 9 | 6 | 28 | 60 |
+| 1 | Vancouver Whitecaps | 33 | 17 | 10 | 6 | 28 | 61 |
+| 2 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
 | 3 | LAFC | 32 | 17 | 8 | 7 | 26 | 59 |
 | 4 | Minnesota United | 33 | 16 | 10 | 7 | 18 | 58 |
-| 5 | Seattle Sounders | 32 | 13 | 10 | 9 | 8 | 49 |
+| 5 | Seattle Sounders | 33 | 13 | 11 | 9 | 8 | 50 |
 | 6 | Austin | 32 | 12 | 8 | 12 | -8 | 44 |
 | 7 | Portland Timbers | 33 | 11 | 11 | 11 | -3 | 44 |
-| 8 | Dallas | 32 | 10 | 11 | 11 | -3 | 41 |
-| 9 | Real Salt Lake | 32 | 12 | 4 | 16 | -10 | 40 |
+| 8 | Real Salt Lake | 33 | 12 | 5 | 16 | -10 | 41 |
+| 9 | Dallas | 32 | 10 | 11 | 11 | -3 | 41 |
 | 10 | Colorado Rapids | 33 | 11 | 7 | 15 | -12 | 40 |
 | 11 | San Jose Earthquakes | 33 | 10 | 8 | 15 | -4 | 38 |
 | 12 | Houston Dynamo | 33 | 9 | 9 | 15 | -13 | 36 |
@@ -398,24 +398,24 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Def y Justicia | 12 | 5 | 4 | 3 | 3 | 19 |
 | 2 | Córdoba SdE | 12 | 4 | 6 | 2 | 5 | 18 |
-| 3 | Boca Juniors | 11 | 4 | 5 | 2 | 10 | 17 |
-| 4 | Unión | 12 | 4 | 5 | 3 | 3 | 17 |
-| 5 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
-| 6 | Tigre | 12 | 4 | 5 | 3 | 2 | 17 |
-| 7 | Estudiantes | 11 | 5 | 2 | 4 | 0 | 17 |
+| 3 | Estudiantes | 12 | 5 | 3 | 4 | 0 | 18 |
+| 4 | Boca Juniors | 11 | 4 | 5 | 2 | 10 | 17 |
+| 5 | Unión | 12 | 4 | 5 | 3 | 3 | 17 |
+| 6 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
+| 7 | Tigre | 12 | 4 | 5 | 3 | 2 | 17 |
 | 8 | Huracán | 11 | 4 | 4 | 3 | -2 | 16 |
 | 9 | Argentinos Juniors | 12 | 4 | 3 | 5 | 3 | 15 |
-| 10 | Racing Club | 12 | 4 | 3 | 5 | 0 | 15 |
-| 11 | Belgrano | 11 | 3 | 5 | 3 | 2 | 14 |
+| 10 | Belgrano | 12 | 3 | 6 | 3 | 2 | 15 |
+| 11 | Racing Club | 12 | 4 | 3 | 5 | 0 | 15 |
 | 12 | Banfield | 12 | 4 | 2 | 6 | -7 | 14 |
 | 13 | Independiente Rivadavia | 11 | 2 | 5 | 4 | -2 | 11 |
 | 14 | Newell's Old Boys | 12 | 2 | 5 | 5 | -8 | 11 |
 | 15 | Aldosivi | 11 | 1 | 3 | 7 | -11 | 6 |
 | 1 | Riestra | 11 | 7 | 2 | 2 | 8 | 23 |
-| 2 | Vélez | 11 | 6 | 4 | 1 | 9 | 22 |
-| 3 | Lanús | 11 | 6 | 2 | 3 | 2 | 20 |
-| 4 | River Plate | 11 | 5 | 3 | 3 | 7 | 18 |
-| 5 | Rosario | 10 | 4 | 6 | 0 | 6 | 18 |
+| 2 | Vélez | 12 | 6 | 4 | 2 | 8 | 22 |
+| 3 | Rosario | 11 | 5 | 6 | 0 | 7 | 21 |
+| 4 | Lanús | 11 | 6 | 2 | 3 | 2 | 20 |
+| 5 | River Plate | 11 | 5 | 3 | 3 | 7 | 18 |
 | 6 | San Lorenzo | 12 | 4 | 4 | 4 | 0 | 16 |
 | 7 | Atl. Tucumán | 11 | 4 | 3 | 4 | 2 | 15 |
 | 8 | San Martín SJ | 12 | 3 | 5 | 4 | -2 | 14 |
