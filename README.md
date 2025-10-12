@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 October 2025, 07:14 PM UTC (Monday, 13 October 2025, 12:44 AM IST)
+**Last Updated:** Sunday, 12 October 2025, 07:37 PM UTC (Monday, 13 October 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -403,14 +403,14 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Unión | 12 | 4 | 5 | 3 | 3 | 17 |
 | 6 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
 | 7 | Tigre | 12 | 4 | 5 | 3 | 2 | 17 |
-| 8 | Huracán | 12 | 4 | 4 | 4 | -3 | 16 |
+| 8 | Huracán | 12 | 4 | 4 | 4 | -4 | 16 |
 | 9 | Argentinos Juniors | 12 | 4 | 3 | 5 | 3 | 15 |
 | 10 | Belgrano | 12 | 3 | 6 | 3 | 2 | 15 |
 | 11 | Racing Club | 12 | 4 | 3 | 5 | 0 | 15 |
 | 12 | Banfield | 12 | 4 | 2 | 6 | -7 | 14 |
 | 13 | Independiente Rivadavia | 11 | 2 | 5 | 4 | -2 | 11 |
 | 14 | Newell's Old Boys | 12 | 2 | 5 | 5 | -8 | 11 |
-| 15 | Aldosivi | 12 | 2 | 3 | 7 | -10 | 9 |
+| 15 | Aldosivi | 12 | 2 | 3 | 7 | -9 | 9 |
 | 1 | Riestra | 11 | 7 | 2 | 2 | 8 | 23 |
 | 2 | Vélez | 12 | 6 | 4 | 2 | 8 | 22 |
 | 3 | Rosario | 11 | 5 | 6 | 0 | 7 | 21 |
