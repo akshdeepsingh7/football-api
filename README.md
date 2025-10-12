@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 October 2025, 10:38 PM UTC (Monday, 13 October 2025, 04:08 AM IST)
+**Last Updated:** Sunday, 12 October 2025, 11:16 PM UTC (Monday, 13 October 2025, 04:46 AM IST)
 
 ### Premier League
 
@@ -360,10 +360,10 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | DC United | 33 | 5 | 10 | 18 | -36 | 25 |
 | 1 | Vancouver Whitecaps | 33 | 18 | 9 | 6 | 29 | 63 |
 | 2 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
-| 3 | LAFC | 32 | 17 | 8 | 7 | 26 | 59 |
+| 3 | LAFC | 33 | 17 | 9 | 7 | 26 | 60 |
 | 4 | Minnesota United | 33 | 16 | 10 | 7 | 18 | 58 |
 | 5 | Seattle Sounders | 33 | 14 | 10 | 9 | 9 | 52 |
-| 6 | Austin | 32 | 12 | 8 | 12 | -8 | 44 |
+| 6 | Austin | 33 | 12 | 9 | 12 | -8 | 45 |
 | 7 | Portland Timbers | 33 | 11 | 11 | 11 | -3 | 44 |
 | 8 | Dallas | 33 | 10 | 11 | 12 | -4 | 41 |
 | 9 | Real Salt Lake | 33 | 12 | 4 | 17 | -11 | 40 |
@@ -415,13 +415,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Vélez | 12 | 6 | 4 | 2 | 8 | 22 |
 | 3 | Rosario | 11 | 5 | 6 | 0 | 7 | 21 |
 | 4 | Lanús | 11 | 6 | 2 | 3 | 2 | 20 |
-| 5 | River Plate | 12 | 5 | 4 | 3 | 7 | 19 |
+| 5 | River Plate | 12 | 5 | 3 | 4 | 6 | 18 |
 | 6 | San Lorenzo | 12 | 4 | 4 | 4 | 0 | 16 |
 | 7 | Atl. Tucumán | 12 | 4 | 3 | 5 | 0 | 15 |
-| 8 | Instituto | 12 | 3 | 6 | 3 | -4 | 15 |
-| 9 | San Martín SJ | 12 | 3 | 5 | 4 | -2 | 14 |
-| 10 | Talleres | 12 | 3 | 5 | 4 | -3 | 14 |
-| 11 | Sarmiento | 11 | 3 | 4 | 4 | -3 | 13 |
+| 8 | Sarmiento | 11 | 4 | 3 | 4 | -2 | 15 |
+| 9 | Instituto | 12 | 3 | 6 | 3 | -4 | 15 |
+| 10 | San Martín SJ | 12 | 3 | 5 | 4 | -2 | 14 |
+| 11 | Talleres | 12 | 3 | 5 | 4 | -3 | 14 |
 | 12 | GELP | 12 | 4 | 1 | 7 | -6 | 13 |
 | 13 | Platense | 10 | 2 | 4 | 4 | -5 | 10 |
 | 14 | Godoy Cruz | 12 | 1 | 7 | 4 | -5 | 10 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 October 2025, 10:38 PM UTC",
-        "IST": "Monday, 13 October 2025, 04:08 AM IST"
+        "UTC": "Sunday, 12 October 2025, 11:16 PM UTC",
+        "IST": "Monday, 13 October 2025, 04:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2658,12 +2658,12 @@
             {
                 "Position": "3",
                 "Team": "LAFC",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "17",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "26",
-                "Points": "59"
+                "Points": "60"
             },
             {
                 "Position": "4",
@@ -2688,12 +2688,12 @@
             {
                 "Position": "6",
                 "Team": "Austin",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "12",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "12",
                 "Goal Difference": "-8",
-                "Points": "44"
+                "Points": "45"
             },
             {
                 "Position": "7",
@@ -3114,10 +3114,10 @@
                 "Team": "River Plate",
                 "Played": "12",
                 "Wins": "5",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "7",
-                "Points": "19"
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "6",
+                "Points": "18"
             },
             {
                 "Position": "6",
@@ -3141,6 +3141,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Sarmiento",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "15"
+            },
+            {
+                "Position": "9",
                 "Team": "Instituto",
                 "Played": "12",
                 "Wins": "3",
@@ -3150,7 +3160,7 @@
                 "Points": "15"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "San Mart\u00edn SJ",
                 "Played": "12",
                 "Wins": "3",
@@ -3160,7 +3170,7 @@
                 "Points": "14"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Talleres",
                 "Played": "12",
                 "Wins": "3",
@@ -3168,16 +3178,6 @@
                 "Losses": "4",
                 "Goal Difference": "-3",
                 "Points": "14"
-            },
-            {
-                "Position": "11",
-                "Team": "Sarmiento",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "13"
             },
             {
                 "Position": "12",
