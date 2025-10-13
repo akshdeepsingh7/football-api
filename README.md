@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 October 2025, 11:37 PM UTC (Monday, 13 October 2025, 05:07 AM IST)
+**Last Updated:** Monday, 13 October 2025, 01:38 AM UTC (Monday, 13 October 2025, 07:08 AM IST)
 
 ### Premier League
 
@@ -360,10 +360,10 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | DC United | 33 | 5 | 10 | 18 | -36 | 25 |
 | 1 | Vancouver Whitecaps | 33 | 18 | 9 | 6 | 29 | 63 |
 | 2 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
-| 3 | LAFC | 33 | 17 | 9 | 7 | 26 | 60 |
+| 3 | LAFC | 33 | 17 | 8 | 8 | 25 | 59 |
 | 4 | Minnesota United | 33 | 16 | 10 | 7 | 18 | 58 |
 | 5 | Seattle Sounders | 33 | 14 | 10 | 9 | 9 | 52 |
-| 6 | Austin | 33 | 12 | 9 | 12 | -8 | 45 |
+| 6 | Austin | 33 | 13 | 8 | 12 | -7 | 47 |
 | 7 | Portland Timbers | 33 | 11 | 11 | 11 | -3 | 44 |
 | 8 | Dallas | 33 | 10 | 11 | 12 | -4 | 41 |
 | 9 | Real Salt Lake | 33 | 12 | 4 | 17 | -11 | 40 |
@@ -412,9 +412,9 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Newell's Old Boys | 12 | 2 | 5 | 5 | -8 | 11 |
 | 15 | Aldosivi | 12 | 2 | 3 | 7 | -9 | 9 |
 | 1 | Riestra | 11 | 7 | 2 | 2 | 8 | 23 |
-| 2 | Vélez | 12 | 6 | 4 | 2 | 8 | 22 |
-| 3 | Rosario | 11 | 5 | 6 | 0 | 7 | 21 |
-| 4 | Lanús | 11 | 6 | 2 | 3 | 2 | 20 |
+| 2 | Lanús | 12 | 7 | 2 | 3 | 3 | 23 |
+| 3 | Vélez | 12 | 6 | 4 | 2 | 8 | 22 |
+| 4 | Rosario | 11 | 5 | 6 | 0 | 7 | 21 |
 | 5 | River Plate | 12 | 5 | 3 | 4 | 6 | 18 |
 | 6 | San Lorenzo | 12 | 4 | 4 | 4 | 0 | 16 |
 | 7 | Atl. Tucumán | 12 | 4 | 3 | 5 | 0 | 15 |
@@ -425,7 +425,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | GELP | 12 | 4 | 1 | 7 | -6 | 13 |
 | 13 | Platense | 10 | 2 | 4 | 4 | -5 | 10 |
 | 14 | Godoy Cruz | 12 | 1 | 7 | 4 | -5 | 10 |
-| 15 | Independiente | 10 | 0 | 6 | 4 | -4 | 6 |
+| 15 | Independiente | 11 | 0 | 6 | 5 | -5 | 6 |
 
 ### Brasileirão
 
