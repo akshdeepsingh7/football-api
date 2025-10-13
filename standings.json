@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 13 October 2025, 09:17 PM UTC",
-        "IST": "Tuesday, 14 October 2025, 02:47 AM IST"
+        "UTC": "Monday, 13 October 2025, 09:36 PM UTC",
+        "IST": "Tuesday, 14 October 2025, 03:06 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3072,12 +3072,12 @@
             {
                 "Position": "1",
                 "Team": "Riestra",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "7",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "8",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "2",
@@ -3192,12 +3192,12 @@
             {
                 "Position": "13",
                 "Team": "Platense",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "2",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "14",

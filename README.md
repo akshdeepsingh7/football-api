@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 13 October 2025, 09:17 PM UTC (Tuesday, 14 October 2025, 02:47 AM IST)
+**Last Updated:** Monday, 13 October 2025, 09:36 PM UTC (Tuesday, 14 October 2025, 03:06 AM IST)
 
 ### Premier League
 
@@ -411,7 +411,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Independiente Rivadavia | 12 | 2 | 6 | 4 | -2 | 12 |
 | 14 | Newell's Old Boys | 12 | 2 | 5 | 5 | -8 | 11 |
 | 15 | Aldosivi | 12 | 2 | 3 | 7 | -9 | 9 |
-| 1 | Riestra | 11 | 7 | 2 | 2 | 8 | 23 |
+| 1 | Riestra | 12 | 7 | 3 | 2 | 8 | 24 |
 | 2 | Lanús | 12 | 7 | 2 | 3 | 4 | 23 |
 | 3 | Vélez | 12 | 6 | 4 | 2 | 8 | 22 |
 | 4 | Rosario | 11 | 5 | 6 | 0 | 7 | 21 |
@@ -423,7 +423,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | San Martín SJ | 12 | 3 | 5 | 4 | -2 | 14 |
 | 11 | Talleres | 12 | 3 | 5 | 4 | -3 | 14 |
 | 12 | GELP | 12 | 4 | 1 | 7 | -6 | 13 |
-| 13 | Platense | 10 | 2 | 4 | 4 | -5 | 10 |
+| 13 | Platense | 11 | 2 | 5 | 4 | -5 | 11 |
 | 14 | Godoy Cruz | 12 | 1 | 7 | 4 | -5 | 10 |
 | 15 | Independiente | 11 | 0 | 6 | 5 | -6 | 6 |
 
