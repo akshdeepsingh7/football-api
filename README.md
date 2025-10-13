@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 13 October 2025, 01:38 AM UTC (Monday, 13 October 2025, 07:08 AM IST)
+**Last Updated:** Monday, 13 October 2025, 03:09 AM UTC (Monday, 13 October 2025, 08:39 AM IST)
 
 ### Premier League
 
@@ -412,7 +412,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Newell's Old Boys | 12 | 2 | 5 | 5 | -8 | 11 |
 | 15 | Aldosivi | 12 | 2 | 3 | 7 | -9 | 9 |
 | 1 | Riestra | 11 | 7 | 2 | 2 | 8 | 23 |
-| 2 | Lanús | 12 | 7 | 2 | 3 | 3 | 23 |
+| 2 | Lanús | 12 | 7 | 2 | 3 | 4 | 23 |
 | 3 | Vélez | 12 | 6 | 4 | 2 | 8 | 22 |
 | 4 | Rosario | 11 | 5 | 6 | 0 | 7 | 21 |
 | 5 | River Plate | 12 | 5 | 3 | 4 | 6 | 18 |
@@ -425,7 +425,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | GELP | 12 | 4 | 1 | 7 | -6 | 13 |
 | 13 | Platense | 10 | 2 | 4 | 4 | -5 | 10 |
 | 14 | Godoy Cruz | 12 | 1 | 7 | 4 | -5 | 10 |
-| 15 | Independiente | 11 | 0 | 6 | 5 | -5 | 6 |
+| 15 | Independiente | 11 | 0 | 6 | 5 | -6 | 6 |
 
 ### Brasileirão
 
