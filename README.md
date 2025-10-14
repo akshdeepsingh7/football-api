@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 14 October 2025, 07:37 PM UTC (Wednesday, 15 October 2025, 01:07 AM IST)
+**Last Updated:** Tuesday, 14 October 2025, 08:21 PM UTC (Wednesday, 15 October 2025, 01:51 AM IST)
 
 ### Premier League
 
@@ -118,7 +118,28 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Serie A
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Napoli | 6 | 5 | 0 | 1 | 6 | 15 |
+| 2 | Roma | 6 | 5 | 0 | 1 | 5 | 15 |
+| 3 | Milan | 6 | 4 | 1 | 1 | 6 | 13 |
+| 4 | Inter | 6 | 4 | 0 | 2 | 9 | 12 |
+| 5 | Juventus | 6 | 3 | 3 | 0 | 4 | 12 |
+| 6 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
+| 7 | Bologna | 6 | 3 | 1 | 2 | 4 | 10 |
+| 8 | Como | 6 | 2 | 3 | 1 | 2 | 9 |
+| 9 | Sassuolo | 6 | 3 | 0 | 3 | 0 | 9 |
+| 10 | Cremonese | 6 | 2 | 3 | 1 | -1 | 9 |
+| 11 | Cagliari | 6 | 2 | 2 | 2 | 0 | 8 |
+| 12 | Udinese | 6 | 2 | 2 | 2 | -3 | 8 |
+| 13 | Lazio | 6 | 2 | 1 | 3 | 3 | 7 |
+| 14 | Parma | 6 | 1 | 2 | 3 | -4 | 5 |
+| 15 | Lecce | 6 | 1 | 2 | 3 | -5 | 5 |
+| 16 | Torino | 6 | 1 | 2 | 3 | -8 | 5 |
+| 17 | Fiorentina | 6 | 0 | 3 | 3 | -4 | 3 |
+| 18 | Hellas Verona | 6 | 0 | 3 | 3 | -7 | 3 |
+| 19 | Genoa | 6 | 0 | 2 | 4 | -6 | 2 |
+| 20 | Pisa | 6 | 0 | 2 | 4 | -7 | 2 |
 
 ### Ligue 1
 
