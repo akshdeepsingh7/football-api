@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 15 October 2025, 10:16 PM UTC (Thursday, 16 October 2025, 03:46 AM IST)
+**Last Updated:** Wednesday, 15 October 2025, 10:39 PM UTC (Thursday, 16 October 2025, 04:09 AM IST)
 
 ### Premier League
 
@@ -431,15 +431,15 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 27 | 18 | 5 | 4 | 24 | 59 |
-| 2 | Flamengo | 26 | 16 | 7 | 3 | 37 | 55 |
+| 1 | Palmeiras | 27 | 18 | 4 | 5 | 23 | 58 |
+| 2 | Flamengo | 27 | 16 | 8 | 3 | 37 | 56 |
 | 3 | Cruzeiro | 27 | 15 | 7 | 5 | 20 | 52 |
 | 4 | Mirassol | 27 | 12 | 10 | 5 | 15 | 46 |
-| 5 | Botafogo | 27 | 12 | 7 | 8 | 14 | 43 |
+| 5 | Botafogo | 28 | 12 | 8 | 8 | 14 | 44 |
 | 6 | Bahia | 26 | 12 | 7 | 7 | 4 | 43 |
-| 7 | Fluminense | 26 | 11 | 5 | 10 | 1 | 38 |
-| 8 | São Paulo | 27 | 10 | 8 | 9 | 3 | 38 |
-| 9 | RB Bragantino | 28 | 10 | 7 | 11 | -5 | 37 |
+| 7 | RB Bragantino | 28 | 11 | 6 | 11 | -4 | 39 |
+| 8 | Fluminense | 26 | 11 | 5 | 10 | 1 | 38 |
+| 9 | São Paulo | 27 | 10 | 8 | 9 | 3 | 38 |
 | 10 | Ceará | 26 | 9 | 7 | 10 | 2 | 34 |
 | 11 | Vasco da Gama | 27 | 9 | 6 | 12 | 1 | 33 |
 | 12 | Corinthians | 27 | 8 | 9 | 10 | -3 | 33 |

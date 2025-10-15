@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 15 October 2025, 10:16 PM UTC",
-        "IST": "Thursday, 16 October 2025, 03:46 AM IST"
+        "UTC": "Wednesday, 15 October 2025, 10:39 PM UTC",
+        "IST": "Thursday, 16 October 2025, 04:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3226,20 +3226,20 @@
                 "Team": "Palmeiras",
                 "Played": "27",
                 "Wins": "18",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "24",
-                "Points": "59"
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "23",
+                "Points": "58"
             },
             {
                 "Position": "2",
                 "Team": "Flamengo",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "16",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "3",
                 "Goal Difference": "37",
-                "Points": "55"
+                "Points": "56"
             },
             {
                 "Position": "3",
@@ -3264,12 +3264,12 @@
             {
                 "Position": "5",
                 "Team": "Botafogo",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "12",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "8",
                 "Goal Difference": "14",
-                "Points": "43"
+                "Points": "44"
             },
             {
                 "Position": "6",
@@ -3283,6 +3283,16 @@
             },
             {
                 "Position": "7",
+                "Team": "RB Bragantino",
+                "Played": "28",
+                "Wins": "11",
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "-4",
+                "Points": "39"
+            },
+            {
+                "Position": "8",
                 "Team": "Fluminense",
                 "Played": "26",
                 "Wins": "11",
@@ -3292,7 +3302,7 @@
                 "Points": "38"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "S\u00e3o Paulo",
                 "Played": "27",
                 "Wins": "10",
@@ -3300,16 +3310,6 @@
                 "Losses": "9",
                 "Goal Difference": "3",
                 "Points": "38"
-            },
-            {
-                "Position": "9",
-                "Team": "RB Bragantino",
-                "Played": "28",
-                "Wins": "10",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-5",
-                "Points": "37"
             },
             {
                 "Position": "10",
