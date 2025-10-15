@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 15 October 2025, 10:39 PM UTC",
-        "IST": "Thursday, 16 October 2025, 04:09 AM IST"
+        "UTC": "Wednesday, 15 October 2025, 11:17 PM UTC",
+        "IST": "Thursday, 16 October 2025, 04:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3226,20 +3226,20 @@
                 "Team": "Palmeiras",
                 "Played": "27",
                 "Wins": "18",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "23",
-                "Points": "58"
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "24",
+                "Points": "59"
             },
             {
                 "Position": "2",
                 "Team": "Flamengo",
                 "Played": "27",
-                "Wins": "16",
-                "Draws": "8",
+                "Wins": "17",
+                "Draws": "7",
                 "Losses": "3",
-                "Goal Difference": "37",
-                "Points": "56"
+                "Goal Difference": "38",
+                "Points": "58"
             },
             {
                 "Position": "3",
@@ -3254,22 +3254,22 @@
             {
                 "Position": "4",
                 "Team": "Mirassol",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "12",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "5",
                 "Goal Difference": "15",
-                "Points": "46"
+                "Points": "47"
             },
             {
                 "Position": "5",
                 "Team": "Botafogo",
                 "Played": "28",
                 "Wins": "12",
-                "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "14",
-                "Points": "44"
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "13",
+                "Points": "43"
             },
             {
                 "Position": "6",
@@ -3283,16 +3283,6 @@
             },
             {
                 "Position": "7",
-                "Team": "RB Bragantino",
-                "Played": "28",
-                "Wins": "11",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-4",
-                "Points": "39"
-            },
-            {
-                "Position": "8",
                 "Team": "Fluminense",
                 "Played": "26",
                 "Wins": "11",
@@ -3302,7 +3292,7 @@
                 "Points": "38"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "S\u00e3o Paulo",
                 "Played": "27",
                 "Wins": "10",
@@ -3312,14 +3302,24 @@
                 "Points": "38"
             },
             {
+                "Position": "9",
+                "Team": "RB Bragantino",
+                "Played": "28",
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-5",
+                "Points": "37"
+            },
+            {
                 "Position": "10",
                 "Team": "Cear\u00e1",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "9",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "2",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "11",
@@ -3353,22 +3353,22 @@
             },
             {
                 "Position": "14",
+                "Team": "Internacional",
+                "Played": "27",
+                "Wins": "8",
+                "Draws": "9",
+                "Losses": "10",
+                "Goal Difference": "-6",
+                "Points": "33"
+            },
+            {
+                "Position": "15",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "26",
                 "Wins": "8",
                 "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "-5",
-                "Points": "32"
-            },
-            {
-                "Position": "15",
-                "Team": "Internacional",
-                "Played": "26",
-                "Wins": "8",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-6",
                 "Points": "32"
             },
             {
@@ -3414,12 +3414,12 @@
             {
                 "Position": "20",
                 "Team": "Sport",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "2",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "14",
                 "Goal Difference": "-21",
-                "Points": "16"
+                "Points": "17"
             }
         ]
     }
