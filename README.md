@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 15 October 2025, 09:37 PM UTC (Thursday, 16 October 2025, 03:07 AM IST)
+**Last Updated:** Wednesday, 15 October 2025, 10:16 PM UTC (Thursday, 16 October 2025, 03:46 AM IST)
 
 ### Premier League
 
@@ -431,7 +431,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 26 | 18 | 4 | 4 | 24 | 58 |
+| 1 | Palmeiras | 27 | 18 | 5 | 4 | 24 | 59 |
 | 2 | Flamengo | 26 | 16 | 7 | 3 | 37 | 55 |
 | 3 | Cruzeiro | 27 | 15 | 7 | 5 | 20 | 52 |
 | 4 | Mirassol | 27 | 12 | 10 | 5 | 15 | 46 |
@@ -439,7 +439,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Bahia | 26 | 12 | 7 | 7 | 4 | 43 |
 | 7 | Fluminense | 26 | 11 | 5 | 10 | 1 | 38 |
 | 8 | São Paulo | 27 | 10 | 8 | 9 | 3 | 38 |
-| 9 | RB Bragantino | 27 | 10 | 6 | 11 | -5 | 36 |
+| 9 | RB Bragantino | 28 | 10 | 7 | 11 | -5 | 37 |
 | 10 | Ceará | 26 | 9 | 7 | 10 | 2 | 34 |
 | 11 | Vasco da Gama | 27 | 9 | 6 | 12 | 1 | 33 |
 | 12 | Corinthians | 27 | 8 | 9 | 10 | -3 | 33 |
