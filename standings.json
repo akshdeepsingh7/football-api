@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 16 October 2025, 09:37 PM UTC",
-        "IST": "Friday, 17 October 2025, 03:07 AM IST"
+        "UTC": "Thursday, 16 October 2025, 10:15 PM UTC",
+        "IST": "Friday, 17 October 2025, 03:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3283,22 +3283,22 @@
             },
             {
                 "Position": "7",
+                "Team": "S\u00e3o Paulo",
+                "Played": "28",
+                "Wins": "10",
+                "Draws": "9",
+                "Losses": "9",
+                "Goal Difference": "3",
+                "Points": "39"
+            },
+            {
+                "Position": "8",
                 "Team": "Fluminense",
                 "Played": "26",
                 "Wins": "11",
                 "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "1",
-                "Points": "38"
-            },
-            {
-                "Position": "8",
-                "Team": "S\u00e3o Paulo",
-                "Played": "27",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "3",
                 "Points": "38"
             },
             {
@@ -3333,21 +3333,21 @@
             },
             {
                 "Position": "12",
+                "Team": "Gr\u00eamio",
+                "Played": "28",
+                "Wins": "8",
+                "Draws": "10",
+                "Losses": "10",
+                "Goal Difference": "-5",
+                "Points": "34"
+            },
+            {
+                "Position": "13",
                 "Team": "Corinthians",
                 "Played": "28",
                 "Wins": "8",
                 "Draws": "9",
                 "Losses": "11",
-                "Goal Difference": "-5",
-                "Points": "33"
-            },
-            {
-                "Position": "13",
-                "Team": "Gr\u00eamio",
-                "Played": "27",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "10",
                 "Goal Difference": "-5",
                 "Points": "33"
             },
