@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 15 October 2025, 11:37 PM UTC",
-        "IST": "Thursday, 16 October 2025, 05:07 AM IST"
+        "UTC": "Thursday, 16 October 2025, 01:26 AM UTC",
+        "IST": "Thursday, 16 October 2025, 06:56 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3228,7 +3228,7 @@
                 "Wins": "19",
                 "Draws": "4",
                 "Losses": "4",
-                "Goal Difference": "25",
+                "Goal Difference": "28",
                 "Points": "61"
             },
             {
@@ -3238,18 +3238,18 @@
                 "Wins": "17",
                 "Draws": "7",
                 "Losses": "3",
-                "Goal Difference": "38",
+                "Goal Difference": "40",
                 "Points": "58"
             },
             {
                 "Position": "3",
                 "Team": "Cruzeiro",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "15",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "5",
                 "Goal Difference": "20",
-                "Points": "52"
+                "Points": "53"
             },
             {
                 "Position": "4",
@@ -3258,7 +3258,7 @@
                 "Wins": "13",
                 "Draws": "10",
                 "Losses": "5",
-                "Goal Difference": "16",
+                "Goal Difference": "17",
                 "Points": "49"
             },
             {
@@ -3268,7 +3268,7 @@
                 "Wins": "12",
                 "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "13",
+                "Goal Difference": "11",
                 "Points": "43"
             },
             {
@@ -3303,16 +3303,26 @@
             },
             {
                 "Position": "9",
+                "Team": "Vasco da Gama",
+                "Played": "28",
+                "Wins": "10",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "2",
+                "Points": "36"
+            },
+            {
+                "Position": "10",
                 "Team": "RB Bragantino",
                 "Played": "28",
                 "Wins": "10",
                 "Draws": "6",
                 "Losses": "12",
-                "Goal Difference": "-6",
+                "Goal Difference": "-9",
                 "Points": "36"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Cear\u00e1",
                 "Played": "27",
                 "Wins": "9",
@@ -3322,23 +3332,13 @@
                 "Points": "35"
             },
             {
-                "Position": "11",
-                "Team": "Vasco da Gama",
-                "Played": "27",
-                "Wins": "9",
-                "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "1",
-                "Points": "33"
-            },
-            {
                 "Position": "12",
                 "Team": "Corinthians",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "8",
                 "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-3",
+                "Losses": "11",
+                "Goal Difference": "-5",
                 "Points": "33"
             },
             {
@@ -3354,12 +3354,12 @@
             {
                 "Position": "14",
                 "Team": "Atl\u00e9tico Mineiro",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "8",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "10",
                 "Goal Difference": "-5",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "15",
@@ -3368,18 +3368,18 @@
                 "Wins": "8",
                 "Draws": "8",
                 "Losses": "11",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "32"
             },
             {
                 "Position": "16",
                 "Team": "Santos",
-                "Played": "26",
-                "Wins": "7",
+                "Played": "27",
+                "Wins": "8",
                 "Draws": "7",
                 "Losses": "12",
-                "Goal Difference": "-13",
-                "Points": "28"
+                "Goal Difference": "-11",
+                "Points": "31"
             },
             {
                 "Position": "17",
@@ -3394,11 +3394,11 @@
             {
                 "Position": "18",
                 "Team": "Fortaleza",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "6",
                 "Draws": "6",
-                "Losses": "14",
-                "Goal Difference": "-15",
+                "Losses": "15",
+                "Goal Difference": "-16",
                 "Points": "24"
             },
             {
