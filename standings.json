@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 October 2025, 08:21 PM UTC",
-        "IST": "Saturday, 18 October 2025, 01:51 AM IST"
+        "UTC": "Friday, 17 October 2025, 08:40 PM UTC",
+        "IST": "Saturday, 18 October 2025, 02:10 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -249,6 +249,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Espanyol",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "15"
+            },
+            {
+                "Position": "6",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "8",
                 "Wins": "3",
@@ -258,7 +268,7 @@
                 "Points": "13"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Sevilla",
                 "Played": "8",
                 "Wins": "4",
@@ -268,23 +278,13 @@
                 "Points": "13"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Elche",
                 "Played": "8",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "2",
-                "Points": "13"
-            },
-            {
-                "Position": "8",
-                "Team": "Espanyol",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "0",
                 "Points": "13"
             },
             {
@@ -359,22 +359,22 @@
             },
             {
                 "Position": "16",
-                "Team": "Real Oviedo",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "6",
-                "Goal Difference": "-10",
-                "Points": "7"
-            },
-            {
-                "Position": "17",
                 "Team": "Celta de Vigo",
                 "Played": "8",
                 "Wins": "0",
                 "Draws": "6",
                 "Losses": "2",
                 "Goal Difference": "-3",
+                "Points": "6"
+            },
+            {
+                "Position": "17",
+                "Team": "Real Oviedo",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "7",
+                "Goal Difference": "-11",
                 "Points": "6"
             },
             {
@@ -795,17 +795,17 @@
         "Ligue 1": [
             {
                 "Position": "1",
-                "Team": "Strasbourg",
+                "Team": "PSG",
                 "Played": "8",
-                "Wins": "6",
-                "Draws": "0",
-                "Losses": "2",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "1",
                 "Goal Difference": "8",
-                "Points": "18"
+                "Points": "17"
             },
             {
                 "Position": "2",
-                "Team": "PSG",
+                "Team": "Strasbourg",
                 "Played": "8",
                 "Wins": "5",
                 "Draws": "1",
@@ -2250,7 +2250,7 @@
                 "Wins": "6",
                 "Draws": "3",
                 "Losses": "1",
-                "Goal Difference": "8",
+                "Goal Difference": "7",
                 "Points": "21"
             },
             {
@@ -2325,17 +2325,17 @@
             },
             {
                 "Position": "9",
-                "Team": "Bristol City",
+                "Team": "Ipswich Town",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "2",
-                "Goal Difference": "5",
+                "Goal Difference": "6",
                 "Points": "13"
             },
             {
                 "Position": "10",
-                "Team": "Ipswich Town",
+                "Team": "Bristol City",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "4",
