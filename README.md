@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 17 October 2025, 06:26 PM UTC (Friday, 17 October 2025, 11:56 PM IST)
+**Last Updated:** Friday, 17 October 2025, 06:46 PM UTC (Saturday, 18 October 2025, 12:16 AM IST)
 
 ### Premier League
 
@@ -103,18 +103,18 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | VfB Stuttgart | 6 | 4 | 0 | 2 | 2 | 12 |
 | 5 | Bayer Leverkusen | 6 | 3 | 2 | 1 | 4 | 11 |
 | 6 | Köln | 6 | 3 | 1 | 2 | 2 | 10 |
-| 7 | Eintracht Frankfurt | 6 | 3 | 0 | 3 | 1 | 9 |
-| 8 | SC Freiburg | 6 | 2 | 2 | 2 | 0 | 8 |
-| 9 | Hamburg | 6 | 2 | 2 | 2 | -2 | 8 |
-| 10 | St. Pauli | 6 | 2 | 1 | 3 | -1 | 7 |
-| 11 | Hoffenheim | 6 | 2 | 1 | 3 | -3 | 7 |
-| 12 | Werder Bremen | 6 | 2 | 1 | 3 | -5 | 7 |
-| 13 | Union Berlin | 6 | 2 | 1 | 3 | -5 | 7 |
+| 7 | Union Berlin | 7 | 3 | 1 | 3 | -4 | 10 |
+| 8 | Eintracht Frankfurt | 6 | 3 | 0 | 3 | 1 | 9 |
+| 9 | SC Freiburg | 6 | 2 | 2 | 2 | 0 | 8 |
+| 10 | Hamburg | 6 | 2 | 2 | 2 | -2 | 8 |
+| 11 | St. Pauli | 6 | 2 | 1 | 3 | -1 | 7 |
+| 12 | Hoffenheim | 6 | 2 | 1 | 3 | -3 | 7 |
+| 13 | Werder Bremen | 6 | 2 | 1 | 3 | -5 | 7 |
 | 14 | Augsburg | 6 | 2 | 0 | 4 | -2 | 6 |
 | 15 | VfL Wolfsburg | 6 | 1 | 2 | 3 | -2 | 5 |
 | 16 | Mainz 05 | 6 | 1 | 1 | 4 | -5 | 4 |
-| 17 | Borussia Mönchengladbach | 6 | 0 | 3 | 3 | -7 | 3 |
-| 18 | Heidenheim | 6 | 1 | 0 | 5 | -7 | 3 |
+| 17 | Heidenheim | 6 | 1 | 0 | 5 | -7 | 3 |
+| 18 | Borussia Mönchengladbach | 7 | 0 | 3 | 4 | -8 | 3 |
 
 ### Serie A
 
@@ -145,9 +145,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 7 | 5 | 1 | 1 | 8 | 16 |
-| 2 | Marseille | 7 | 5 | 0 | 2 | 10 | 15 |
-| 3 | Strasbourg | 7 | 5 | 0 | 2 | 7 | 15 |
+| 1 | PSG | 8 | 5 | 2 | 1 | 8 | 17 |
+| 2 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
+| 3 | Marseille | 7 | 5 | 0 | 2 | 10 | 15 |
 | 4 | Lyon | 7 | 5 | 0 | 2 | 4 | 15 |
 | 5 | Monaco | 7 | 4 | 1 | 2 | 4 | 13 |
 | 6 | Lens | 7 | 4 | 1 | 2 | 4 | 13 |
