@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 17 October 2025, 08:40 PM UTC (Saturday, 18 October 2025, 02:10 AM IST)
+**Last Updated:** Friday, 17 October 2025, 09:17 PM UTC (Saturday, 18 October 2025, 02:47 AM IST)
 
 ### Premier League
 
@@ -76,7 +76,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Barcelona | 8 | 6 | 1 | 1 | 13 | 19 |
 | 3 | Villarreal | 8 | 5 | 1 | 2 | 6 | 16 |
 | 4 | Real Betis | 8 | 4 | 3 | 1 | 5 | 15 |
-| 5 | Espanyol | 9 | 4 | 3 | 2 | 1 | 15 |
+| 5 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
 | 6 | Atlético de Madrid | 8 | 3 | 4 | 1 | 5 | 13 |
 | 7 | Sevilla | 8 | 4 | 1 | 3 | 4 | 13 |
 | 8 | Elche | 8 | 3 | 4 | 1 | 2 | 13 |
@@ -88,8 +88,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Rayo Vallecano | 8 | 2 | 2 | 4 | -2 | 8 |
 | 15 | Valencia | 8 | 2 | 2 | 4 | -4 | 8 |
 | 16 | Celta de Vigo | 8 | 0 | 6 | 2 | -3 | 6 |
-| 17 | Real Oviedo | 9 | 2 | 0 | 7 | -11 | 6 |
-| 18 | Girona | 8 | 1 | 3 | 4 | -12 | 6 |
+| 17 | Girona | 8 | 1 | 3 | 4 | -12 | 6 |
+| 18 | Real Oviedo | 9 | 2 | 0 | 7 | -12 | 6 |
 | 19 | Real Sociedad | 8 | 1 | 2 | 5 | -5 | 5 |
 | 20 | Mallorca | 8 | 1 | 2 | 5 | -6 | 5 |
 

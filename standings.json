@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 October 2025, 08:40 PM UTC",
-        "IST": "Saturday, 18 October 2025, 02:10 AM IST"
+        "UTC": "Friday, 17 October 2025, 09:17 PM UTC",
+        "IST": "Saturday, 18 October 2025, 02:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -254,7 +254,7 @@
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "15"
             },
             {
@@ -369,21 +369,21 @@
             },
             {
                 "Position": "17",
-                "Team": "Real Oviedo",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "7",
-                "Goal Difference": "-11",
-                "Points": "6"
-            },
-            {
-                "Position": "18",
                 "Team": "Girona",
                 "Played": "8",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "4",
+                "Goal Difference": "-12",
+                "Points": "6"
+            },
+            {
+                "Position": "18",
+                "Team": "Real Oviedo",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "7",
                 "Goal Difference": "-12",
                 "Points": "6"
             },
