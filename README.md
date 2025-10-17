@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 17 October 2025, 07:37 PM UTC (Saturday, 18 October 2025, 01:07 AM IST)
+**Last Updated:** Friday, 17 October 2025, 08:21 PM UTC (Saturday, 18 October 2025, 01:51 AM IST)
 
 ### Premier League
 
@@ -103,7 +103,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | VfB Stuttgart | 6 | 4 | 0 | 2 | 2 | 12 |
 | 5 | Bayer Leverkusen | 6 | 3 | 2 | 1 | 4 | 11 |
 | 6 | Köln | 6 | 3 | 1 | 2 | 2 | 10 |
-| 7 | Union Berlin | 7 | 3 | 1 | 3 | -4 | 10 |
+| 7 | Union Berlin | 7 | 3 | 1 | 3 | -3 | 10 |
 | 8 | Eintracht Frankfurt | 6 | 3 | 0 | 3 | 1 | 9 |
 | 9 | SC Freiburg | 6 | 2 | 2 | 2 | 0 | 8 |
 | 10 | Hamburg | 6 | 2 | 2 | 2 | -2 | 8 |
@@ -114,7 +114,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | VfL Wolfsburg | 6 | 1 | 2 | 3 | -2 | 5 |
 | 16 | Mainz 05 | 6 | 1 | 1 | 4 | -5 | 4 |
 | 17 | Heidenheim | 6 | 1 | 0 | 5 | -7 | 3 |
-| 18 | Borussia Mönchengladbach | 7 | 0 | 3 | 4 | -8 | 3 |
+| 18 | Borussia Mönchengladbach | 7 | 0 | 3 | 4 | -9 | 3 |
 
 ### Serie A
 
@@ -314,16 +314,16 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 9 | 5 | 4 | 0 | 20 | 19 |
-| 2 | Middlesbrough | 10 | 5 | 4 | 1 | 6 | 19 |
+| 1 | Middlesbrough | 10 | 6 | 3 | 1 | 8 | 21 |
+| 2 | Coventry City | 9 | 5 | 4 | 0 | 20 | 19 |
 | 3 | Leicester City | 9 | 4 | 4 | 1 | 5 | 16 |
 | 4 | Preston North End | 9 | 4 | 4 | 1 | 4 | 16 |
 | 5 | Stoke City | 9 | 4 | 3 | 2 | 5 | 15 |
 | 6 | Queens Park Rangers | 9 | 4 | 3 | 2 | -1 | 15 |
-| 7 | Ipswich Town | 9 | 3 | 5 | 1 | 7 | 14 |
-| 8 | West Bromwich Albion | 9 | 4 | 2 | 3 | -1 | 14 |
-| 9 | Millwall | 9 | 4 | 2 | 3 | -3 | 14 |
-| 10 | Bristol City | 9 | 3 | 4 | 2 | 5 | 13 |
+| 7 | West Bromwich Albion | 9 | 4 | 2 | 3 | -1 | 14 |
+| 8 | Millwall | 9 | 4 | 2 | 3 | -3 | 14 |
+| 9 | Bristol City | 9 | 3 | 4 | 2 | 5 | 13 |
+| 10 | Ipswich Town | 9 | 3 | 4 | 2 | 5 | 13 |
 | 11 | Watford | 9 | 3 | 3 | 3 | 0 | 12 |
 | 12 | Swansea City | 9 | 3 | 3 | 3 | 0 | 12 |
 | 13 | Charlton Athletic | 9 | 3 | 3 | 3 | 0 | 12 |
