@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 October 2025, 07:15 PM UTC",
-        "IST": "Saturday, 18 October 2025, 12:45 AM IST"
+        "UTC": "Friday, 17 October 2025, 07:37 PM UTC",
+        "IST": "Saturday, 18 October 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -795,17 +795,17 @@
         "Ligue 1": [
             {
                 "Position": "1",
-                "Team": "PSG",
+                "Team": "Strasbourg",
                 "Played": "8",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "1",
+                "Wins": "6",
+                "Draws": "0",
+                "Losses": "2",
                 "Goal Difference": "8",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "2",
-                "Team": "Strasbourg",
+                "Team": "PSG",
                 "Played": "8",
                 "Wins": "5",
                 "Draws": "1",
