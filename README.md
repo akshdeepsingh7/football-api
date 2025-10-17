@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 17 October 2025, 01:26 AM UTC (Friday, 17 October 2025, 06:56 AM IST)
+**Last Updated:** Friday, 17 October 2025, 02:48 AM UTC (Friday, 17 October 2025, 08:18 AM IST)
 
 ### Premier League
 
@@ -435,9 +435,9 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Flamengo | 27 | 17 | 7 | 3 | 40 | 58 |
 | 3 | Cruzeiro | 28 | 15 | 8 | 5 | 20 | 53 |
 | 4 | Mirassol | 28 | 13 | 10 | 5 | 17 | 49 |
-| 5 | Bahia | 27 | 12 | 8 | 7 | 4 | 44 |
-| 6 | Botafogo | 28 | 12 | 7 | 9 | 11 | 43 |
-| 7 | Fluminense | 27 | 11 | 6 | 10 | 1 | 39 |
+| 5 | Botafogo | 28 | 12 | 7 | 9 | 11 | 43 |
+| 6 | Bahia | 27 | 12 | 7 | 8 | 3 | 43 |
+| 7 | Fluminense | 27 | 12 | 5 | 10 | 2 | 41 |
 | 8 | São Paulo | 28 | 10 | 8 | 10 | 1 | 38 |
 | 9 | Vasco da Gama | 28 | 10 | 6 | 12 | 3 | 36 |
 | 10 | RB Bragantino | 28 | 10 | 6 | 12 | -9 | 36 |
@@ -447,9 +447,9 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Atlético Mineiro | 27 | 8 | 9 | 10 | -5 | 33 |
 | 15 | Internacional | 27 | 8 | 8 | 11 | -8 | 32 |
 | 16 | Santos | 27 | 8 | 7 | 12 | -11 | 31 |
-| 17 | Vitória | 28 | 5 | 11 | 12 | -18 | 26 |
+| 17 | Vitória | 28 | 6 | 10 | 12 | -17 | 28 |
 | 18 | Fortaleza | 27 | 6 | 6 | 15 | -17 | 24 |
-| 19 | Juventude | 28 | 6 | 6 | 16 | -30 | 24 |
+| 19 | Juventude | 28 | 6 | 5 | 17 | -31 | 23 |
 | 20 | Sport | 27 | 2 | 11 | 14 | -21 | 17 |
 
 

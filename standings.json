@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 October 2025, 01:26 AM UTC",
-        "IST": "Friday, 17 October 2025, 06:56 AM IST"
+        "UTC": "Friday, 17 October 2025, 02:48 AM UTC",
+        "IST": "Friday, 17 October 2025, 08:18 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3263,16 +3263,6 @@
             },
             {
                 "Position": "5",
-                "Team": "Bahia",
-                "Played": "27",
-                "Wins": "12",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "4",
-                "Points": "44"
-            },
-            {
-                "Position": "6",
                 "Team": "Botafogo",
                 "Played": "28",
                 "Wins": "12",
@@ -3282,14 +3272,24 @@
                 "Points": "43"
             },
             {
+                "Position": "6",
+                "Team": "Bahia",
+                "Played": "27",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "3",
+                "Points": "43"
+            },
+            {
                 "Position": "7",
                 "Team": "Fluminense",
                 "Played": "27",
-                "Wins": "11",
-                "Draws": "6",
+                "Wins": "12",
+                "Draws": "5",
                 "Losses": "10",
-                "Goal Difference": "1",
-                "Points": "39"
+                "Goal Difference": "2",
+                "Points": "41"
             },
             {
                 "Position": "8",
@@ -3385,11 +3385,11 @@
                 "Position": "17",
                 "Team": "Vit\u00f3ria",
                 "Played": "28",
-                "Wins": "5",
-                "Draws": "11",
+                "Wins": "6",
+                "Draws": "10",
                 "Losses": "12",
-                "Goal Difference": "-18",
-                "Points": "26"
+                "Goal Difference": "-17",
+                "Points": "28"
             },
             {
                 "Position": "18",
@@ -3406,10 +3406,10 @@
                 "Team": "Juventude",
                 "Played": "28",
                 "Wins": "6",
-                "Draws": "6",
-                "Losses": "16",
-                "Goal Difference": "-30",
-                "Points": "24"
+                "Draws": "5",
+                "Losses": "17",
+                "Goal Difference": "-31",
+                "Points": "23"
             },
             {
                 "Position": "20",
