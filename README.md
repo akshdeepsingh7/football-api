@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 17 October 2025, 06:46 PM UTC (Saturday, 18 October 2025, 12:16 AM IST)
+**Last Updated:** Friday, 17 October 2025, 07:15 PM UTC (Saturday, 18 October 2025, 12:45 AM IST)
 
 ### Premier League
 
@@ -79,16 +79,16 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Atlético de Madrid | 8 | 3 | 4 | 1 | 5 | 13 |
 | 6 | Sevilla | 8 | 4 | 1 | 3 | 4 | 13 |
 | 7 | Elche | 8 | 3 | 4 | 1 | 2 | 13 |
-| 8 | Athletic Bilbao | 8 | 4 | 1 | 3 | 0 | 13 |
-| 9 | Espanyol | 8 | 3 | 3 | 2 | 0 | 12 |
+| 8 | Espanyol | 9 | 3 | 4 | 2 | 0 | 13 |
+| 9 | Athletic Bilbao | 8 | 4 | 1 | 3 | 0 | 13 |
 | 10 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
 | 11 | Getafe | 8 | 3 | 2 | 3 | -2 | 11 |
 | 12 | Osasuna | 8 | 3 | 1 | 4 | -1 | 10 |
 | 13 | Levante | 8 | 2 | 2 | 4 | -1 | 8 |
 | 14 | Rayo Vallecano | 8 | 2 | 2 | 4 | -2 | 8 |
 | 15 | Valencia | 8 | 2 | 2 | 4 | -4 | 8 |
-| 16 | Celta de Vigo | 8 | 0 | 6 | 2 | -3 | 6 |
-| 17 | Real Oviedo | 8 | 2 | 0 | 6 | -10 | 6 |
+| 16 | Real Oviedo | 9 | 2 | 1 | 6 | -10 | 7 |
+| 17 | Celta de Vigo | 8 | 0 | 6 | 2 | -3 | 6 |
 | 18 | Girona | 8 | 1 | 3 | 4 | -12 | 6 |
 | 19 | Real Sociedad | 8 | 1 | 2 | 5 | -5 | 5 |
 | 20 | Mallorca | 8 | 1 | 2 | 5 | -6 | 5 |
@@ -315,14 +315,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 9 | 5 | 4 | 0 | 20 | 19 |
-| 2 | Middlesbrough | 9 | 5 | 3 | 1 | 6 | 18 |
+| 2 | Middlesbrough | 10 | 5 | 4 | 1 | 6 | 19 |
 | 3 | Leicester City | 9 | 4 | 4 | 1 | 5 | 16 |
 | 4 | Preston North End | 9 | 4 | 4 | 1 | 4 | 16 |
 | 5 | Stoke City | 9 | 4 | 3 | 2 | 5 | 15 |
 | 6 | Queens Park Rangers | 9 | 4 | 3 | 2 | -1 | 15 |
-| 7 | West Bromwich Albion | 9 | 4 | 2 | 3 | -1 | 14 |
-| 8 | Millwall | 9 | 4 | 2 | 3 | -3 | 14 |
-| 9 | Ipswich Town | 8 | 3 | 4 | 1 | 7 | 13 |
+| 7 | Ipswich Town | 9 | 3 | 5 | 1 | 7 | 14 |
+| 8 | West Bromwich Albion | 9 | 4 | 2 | 3 | -1 | 14 |
+| 9 | Millwall | 9 | 4 | 2 | 3 | -3 | 14 |
 | 10 | Bristol City | 9 | 3 | 4 | 2 | 5 | 13 |
 | 11 | Watford | 9 | 3 | 3 | 3 | 0 | 12 |
 | 12 | Swansea City | 9 | 3 | 3 | 3 | 0 | 12 |

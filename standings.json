@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 October 2025, 06:46 PM UTC",
-        "IST": "Saturday, 18 October 2025, 12:16 AM IST"
+        "UTC": "Friday, 17 October 2025, 07:15 PM UTC",
+        "IST": "Saturday, 18 October 2025, 12:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -279,6 +279,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Espanyol",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "13"
+            },
+            {
+                "Position": "9",
                 "Team": "Athletic Bilbao",
                 "Played": "8",
                 "Wins": "4",
@@ -286,16 +296,6 @@
                 "Losses": "3",
                 "Goal Difference": "0",
                 "Points": "13"
-            },
-            {
-                "Position": "9",
-                "Team": "Espanyol",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "0",
-                "Points": "12"
             },
             {
                 "Position": "10",
@@ -359,22 +359,22 @@
             },
             {
                 "Position": "16",
+                "Team": "Real Oviedo",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "6",
+                "Goal Difference": "-10",
+                "Points": "7"
+            },
+            {
+                "Position": "17",
                 "Team": "Celta de Vigo",
                 "Played": "8",
                 "Wins": "0",
                 "Draws": "6",
                 "Losses": "2",
                 "Goal Difference": "-3",
-                "Points": "6"
-            },
-            {
-                "Position": "17",
-                "Team": "Real Oviedo",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "6",
-                "Goal Difference": "-10",
                 "Points": "6"
             },
             {
@@ -2256,12 +2256,12 @@
             {
                 "Position": "2",
                 "Team": "Middlesbrough",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "5",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "6",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "3",
@@ -2305,6 +2305,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Ipswich Town",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "1",
+                "Goal Difference": "7",
+                "Points": "14"
+            },
+            {
+                "Position": "8",
                 "Team": "West Bromwich Albion",
                 "Played": "9",
                 "Wins": "4",
@@ -2314,7 +2324,7 @@
                 "Points": "14"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Millwall",
                 "Played": "9",
                 "Wins": "4",
@@ -2322,16 +2332,6 @@
                 "Losses": "3",
                 "Goal Difference": "-3",
                 "Points": "14"
-            },
-            {
-                "Position": "9",
-                "Team": "Ipswich Town",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "7",
-                "Points": "13"
             },
             {
                 "Position": "10",
