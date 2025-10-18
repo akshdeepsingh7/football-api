@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 04:42 PM UTC (Saturday, 18 October 2025, 10:12 PM IST)
+**Last Updated:** Saturday, 18 October 2025, 05:14 PM UTC (Saturday, 18 October 2025, 10:44 PM IST)
 
 ### Premier League
 
@@ -74,8 +74,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 9 | 7 | 1 | 1 | 14 | 22 |
 | 2 | Real Madrid | 8 | 7 | 0 | 1 | 10 | 21 |
-| 3 | Villarreal | 9 | 5 | 2 | 2 | 6 | 17 |
-| 4 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
+| 3 | Villarreal | 9 | 6 | 1 | 2 | 7 | 19 |
+| 4 | Real Betis | 9 | 4 | 3 | 2 | 4 | 15 |
 | 5 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
 | 6 | Atlético de Madrid | 8 | 3 | 4 | 1 | 5 | 13 |
 | 7 | Sevilla | 9 | 4 | 1 | 4 | 2 | 13 |
@@ -97,10 +97,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 7 | 6 | 1 | 0 | 22 | 19 |
+| 1 | Bayern Munich | 7 | 7 | 0 | 0 | 23 | 21 |
 | 2 | RB Leipzig | 7 | 5 | 1 | 1 | 1 | 16 |
-| 3 | Borussia Dortmund | 7 | 4 | 3 | 0 | 8 | 15 |
-| 4 | VfB Stuttgart | 7 | 5 | 0 | 2 | 5 | 15 |
+| 3 | VfB Stuttgart | 7 | 5 | 0 | 2 | 5 | 15 |
+| 4 | Borussia Dortmund | 7 | 4 | 2 | 1 | 7 | 14 |
 | 5 | Bayer Leverkusen | 7 | 4 | 2 | 1 | 5 | 14 |
 | 6 | Köln | 7 | 3 | 2 | 2 | 2 | 11 |
 | 7 | Union Berlin | 7 | 3 | 1 | 3 | -3 | 10 |
@@ -148,11 +148,11 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 8 | 5 | 2 | 1 | 8 | 17 |
 | 2 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
 | 3 | Marseille | 7 | 5 | 0 | 2 | 10 | 15 |
-| 4 | Lyon | 8 | 5 | 0 | 3 | 2 | 15 |
-| 5 | Monaco | 7 | 4 | 1 | 2 | 4 | 13 |
+| 4 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
+| 5 | Monaco | 8 | 4 | 2 | 2 | 4 | 14 |
 | 6 | Lens | 7 | 4 | 1 | 2 | 4 | 13 |
 | 7 | Lille | 7 | 3 | 2 | 2 | 4 | 11 |
-| 8 | Nice | 8 | 3 | 2 | 3 | -1 | 11 |
+| 8 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
 | 9 | Paris | 7 | 3 | 1 | 3 | -1 | 10 |
 | 10 | Toulouse | 7 | 3 | 1 | 3 | -1 | 10 |
 | 11 | Rennes | 7 | 2 | 4 | 1 | -1 | 10 |
@@ -161,7 +161,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Le Havre | 7 | 1 | 3 | 3 | -2 | 6 |
 | 15 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
 | 16 | Auxerre | 7 | 2 | 0 | 5 | -5 | 6 |
-| 17 | Angers | 7 | 1 | 2 | 4 | -8 | 5 |
+| 17 | Angers | 8 | 1 | 3 | 4 | -8 | 6 |
 | 18 | Metz | 7 | 0 | 2 | 5 | -11 | 2 |
 
 ### Champions League
