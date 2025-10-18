@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 03:37 PM UTC (Saturday, 18 October 2025, 09:07 PM IST)
+**Last Updated:** Saturday, 18 October 2025, 04:21 PM UTC (Saturday, 18 October 2025, 09:51 PM IST)
 
 ### Premier League
 
@@ -53,7 +53,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | AFC Bournemouth | 8 | 4 | 3 | 1 | 3 | 15 |
 | 5 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
 | 6 | Chelsea | 8 | 4 | 2 | 2 | 7 | 14 |
-| 7 | Sunderland | 8 | 4 | 2 | 2 | 2 | 14 |
+| 7 | Sunderland | 8 | 4 | 2 | 2 | 3 | 14 |
 | 8 | Crystal Palace | 8 | 3 | 4 | 1 | 4 | 13 |
 | 9 | Brighton & Hove Albion | 8 | 3 | 3 | 2 | 1 | 12 |
 | 10 | Everton | 8 | 3 | 2 | 3 | 0 | 11 |
@@ -66,14 +66,14 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Burnley | 8 | 2 | 1 | 5 | -6 | 7 |
 | 18 | Nottingham Forest | 8 | 1 | 2 | 5 | -10 | 5 |
 | 19 | West Ham United | 7 | 1 | 1 | 5 | -10 | 4 |
-| 20 | Wolverhampton Wanderers | 8 | 0 | 2 | 6 | -10 | 2 |
+| 20 | Wolverhampton Wanderers | 8 | 0 | 2 | 6 | -11 | 2 |
 
 ### La Liga
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Real Madrid | 8 | 7 | 0 | 1 | 10 | 21 |
-| 2 | Barcelona | 9 | 6 | 2 | 1 | 13 | 20 |
+| 1 | Barcelona | 9 | 7 | 1 | 1 | 14 | 22 |
+| 2 | Real Madrid | 8 | 7 | 0 | 1 | 10 | 21 |
 | 3 | Villarreal | 8 | 5 | 1 | 2 | 6 | 16 |
 | 4 | Real Betis | 8 | 4 | 3 | 1 | 5 | 15 |
 | 5 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
@@ -88,9 +88,9 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Rayo Vallecano | 8 | 2 | 2 | 4 | -2 | 8 |
 | 15 | Valencia | 8 | 2 | 2 | 4 | -4 | 8 |
 | 16 | Mallorca | 9 | 2 | 2 | 5 | -4 | 8 |
-| 17 | Girona | 9 | 1 | 4 | 4 | -12 | 7 |
-| 18 | Celta de Vigo | 8 | 0 | 6 | 2 | -3 | 6 |
-| 19 | Real Oviedo | 9 | 2 | 0 | 7 | -12 | 6 |
+| 17 | Celta de Vigo | 8 | 0 | 6 | 2 | -3 | 6 |
+| 18 | Real Oviedo | 9 | 2 | 0 | 7 | -12 | 6 |
+| 19 | Girona | 9 | 1 | 3 | 5 | -13 | 6 |
 | 20 | Real Sociedad | 8 | 1 | 2 | 5 | -5 | 5 |
 
 ### Bundesliga
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Napoli | 6 | 5 | 0 | 1 | 6 | 15 |
+| 1 | Napoli | 7 | 5 | 1 | 1 | 6 | 16 |
 | 2 | Roma | 6 | 5 | 0 | 1 | 5 | 15 |
 | 3 | Milan | 6 | 4 | 1 | 1 | 6 | 13 |
 | 4 | Inter | 6 | 4 | 0 | 2 | 9 | 12 |
@@ -134,8 +134,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Udinese | 6 | 2 | 2 | 2 | -3 | 8 |
 | 13 | Lazio | 6 | 2 | 1 | 3 | 3 | 7 |
 | 14 | Lecce | 7 | 1 | 3 | 3 | -5 | 6 |
-| 15 | Parma | 6 | 1 | 2 | 3 | -4 | 5 |
-| 16 | Torino | 6 | 1 | 2 | 3 | -8 | 5 |
+| 15 | Torino | 7 | 1 | 3 | 3 | -8 | 6 |
+| 16 | Parma | 6 | 1 | 2 | 3 | -4 | 5 |
 | 17 | Hellas Verona | 7 | 0 | 4 | 3 | -7 | 4 |
 | 18 | Fiorentina | 6 | 0 | 3 | 3 | -4 | 3 |
 | 19 | Pisa | 7 | 0 | 3 | 4 | -7 | 3 |
@@ -148,11 +148,11 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 8 | 5 | 2 | 1 | 8 | 17 |
 | 2 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
 | 3 | Marseille | 7 | 5 | 0 | 2 | 10 | 15 |
-| 4 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
+| 4 | Lyon | 8 | 5 | 0 | 3 | 2 | 15 |
 | 5 | Monaco | 7 | 4 | 1 | 2 | 4 | 13 |
 | 6 | Lens | 7 | 4 | 1 | 2 | 4 | 13 |
 | 7 | Lille | 7 | 3 | 2 | 2 | 4 | 11 |
-| 8 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
+| 8 | Nice | 8 | 3 | 2 | 3 | -1 | 11 |
 | 9 | Paris | 7 | 3 | 1 | 3 | -1 | 10 |
 | 10 | Toulouse | 7 | 3 | 1 | 3 | -1 | 10 |
 | 11 | Rennes | 7 | 2 | 4 | 1 | -1 | 10 |

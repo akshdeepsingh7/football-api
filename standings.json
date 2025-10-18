@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 03:37 PM UTC",
-        "IST": "Saturday, 18 October 2025, 09:07 PM IST"
+        "UTC": "Saturday, 18 October 2025, 04:21 PM UTC",
+        "IST": "Saturday, 18 October 2025, 09:51 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -72,7 +72,7 @@
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "2",
+                "Goal Difference": "3",
                 "Points": "14"
             },
             {
@@ -202,13 +202,23 @@
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "6",
-                "Goal Difference": "-10",
+                "Goal Difference": "-11",
                 "Points": "2"
             }
         ],
         "La Liga": [
             {
                 "Position": "1",
+                "Team": "Barcelona",
+                "Played": "9",
+                "Wins": "7",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "14",
+                "Points": "22"
+            },
+            {
+                "Position": "2",
                 "Team": "Real Madrid",
                 "Played": "8",
                 "Wins": "7",
@@ -216,16 +226,6 @@
                 "Losses": "1",
                 "Goal Difference": "10",
                 "Points": "21"
-            },
-            {
-                "Position": "2",
-                "Team": "Barcelona",
-                "Played": "9",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "13",
-                "Points": "20"
             },
             {
                 "Position": "3",
@@ -369,16 +369,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Girona",
-                "Played": "9",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-12",
-                "Points": "7"
-            },
-            {
-                "Position": "18",
                 "Team": "Celta de Vigo",
                 "Played": "8",
                 "Wins": "0",
@@ -388,13 +378,23 @@
                 "Points": "6"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Real Oviedo",
                 "Played": "9",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "7",
                 "Goal Difference": "-12",
+                "Points": "6"
+            },
+            {
+                "Position": "19",
+                "Team": "Girona",
+                "Played": "9",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-13",
                 "Points": "6"
             },
             {
@@ -594,12 +594,12 @@
             {
                 "Position": "1",
                 "Team": "Napoli",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "5",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "6",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "2",
@@ -733,22 +733,22 @@
             },
             {
                 "Position": "15",
+                "Team": "Torino",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-8",
+                "Points": "6"
+            },
+            {
+                "Position": "16",
                 "Team": "Parma",
                 "Played": "6",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-4",
-                "Points": "5"
-            },
-            {
-                "Position": "16",
-                "Team": "Torino",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-8",
                 "Points": "5"
             },
             {
@@ -830,7 +830,7 @@
                 "Wins": "5",
                 "Draws": "0",
                 "Losses": "3",
-                "Goal Difference": "3",
+                "Goal Difference": "2",
                 "Points": "15"
             },
             {
@@ -870,7 +870,7 @@
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "3",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "11"
             },
             {
