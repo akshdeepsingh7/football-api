@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 02:15 PM UTC",
-        "IST": "Saturday, 18 October 2025, 07:45 PM IST"
+        "UTC": "Saturday, 18 October 2025, 02:38 PM UTC",
+        "IST": "Saturday, 18 October 2025, 08:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -67,6 +67,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Sunderland",
+                "Played": "8",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "14"
+            },
+            {
+                "Position": "8",
                 "Team": "Crystal Palace",
                 "Played": "8",
                 "Wins": "3",
@@ -76,23 +86,13 @@
                 "Points": "12"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Everton",
                 "Played": "8",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "2",
-                "Points": "12"
-            },
-            {
-                "Position": "9",
-                "Team": "Sunderland",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "1",
                 "Points": "12"
             },
             {
@@ -137,22 +137,22 @@
             },
             {
                 "Position": "14",
-                "Team": "Leeds United",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "9"
-            },
-            {
-                "Position": "15",
                 "Team": "Fulham",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-3",
+                "Points": "8"
+            },
+            {
+                "Position": "15",
+                "Team": "Leeds United",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-5",
                 "Points": "8"
             },
             {
@@ -169,11 +169,11 @@
                 "Position": "17",
                 "Team": "Burnley",
                 "Played": "8",
-                "Wins": "1",
-                "Draws": "2",
+                "Wins": "2",
+                "Draws": "1",
                 "Losses": "5",
-                "Goal Difference": "-8",
-                "Points": "5"
+                "Goal Difference": "-7",
+                "Points": "7"
             },
             {
                 "Position": "18",
@@ -200,10 +200,10 @@
                 "Team": "Wolverhampton Wanderers",
                 "Played": "8",
                 "Wins": "0",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-9",
-                "Points": "3"
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-10",
+                "Points": "2"
             }
         ],
         "La Liga": [
@@ -220,12 +220,12 @@
             {
                 "Position": "2",
                 "Team": "Barcelona",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "6",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "13",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "3",
@@ -369,22 +369,22 @@
             },
             {
                 "Position": "17",
+                "Team": "Girona",
+                "Played": "9",
+                "Wins": "1",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-12",
+                "Points": "7"
+            },
+            {
+                "Position": "18",
                 "Team": "Celta de Vigo",
                 "Played": "8",
                 "Wins": "0",
                 "Draws": "6",
                 "Losses": "2",
                 "Goal Difference": "-3",
-                "Points": "6"
-            },
-            {
-                "Position": "18",
-                "Team": "Girona",
-                "Played": "8",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-12",
                 "Points": "6"
             },
             {
@@ -456,7 +456,7 @@
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "5",
+                "Goal Difference": "6",
                 "Points": "14"
             },
             {
@@ -566,7 +566,7 @@
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "5",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "4"
             },
             {
@@ -2265,6 +2265,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Stoke City",
+                "Played": "10",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "18"
+            },
+            {
+                "Position": "4",
                 "Team": "Preston North End",
                 "Played": "10",
                 "Wins": "4",
@@ -2274,7 +2284,7 @@
                 "Points": "17"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Millwall",
                 "Played": "10",
                 "Wins": "5",
@@ -2284,7 +2294,7 @@
                 "Points": "17"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Leicester City",
                 "Played": "9",
                 "Wins": "4",
@@ -2294,23 +2304,13 @@
                 "Points": "16"
             },
             {
-                "Position": "6",
-                "Team": "Stoke City",
-                "Played": "10",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "5",
-                "Points": "16"
-            },
-            {
                 "Position": "7",
-                "Team": "Hull City",
+                "Team": "Charlton Athletic",
                 "Played": "10",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "-1",
+                "Goal Difference": "1",
                 "Points": "15"
             },
             {
@@ -2375,16 +2375,26 @@
             },
             {
                 "Position": "14",
-                "Team": "Charlton Athletic",
+                "Team": "Hull City",
                 "Played": "10",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "3",
-                "Goal Difference": "0",
+                "Goal Difference": "-2",
                 "Points": "13"
             },
             {
                 "Position": "15",
+                "Team": "Birmingham City",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "13"
+            },
+            {
+                "Position": "16",
                 "Team": "Southampton",
                 "Played": "10",
                 "Wins": "2",
@@ -2394,7 +2404,7 @@
                 "Points": "12"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Portsmouth",
                 "Played": "9",
                 "Wins": "3",
@@ -2404,24 +2414,14 @@
                 "Points": "12"
             },
             {
-                "Position": "17",
-                "Team": "Birmingham City",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "12"
-            },
-            {
                 "Position": "18",
                 "Team": "Wrexham",
                 "Played": "10",
                 "Wins": "2",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "11"
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "10"
             },
             {
                 "Position": "19",
@@ -2468,10 +2468,10 @@
                 "Team": "Sheffield Wednesday",
                 "Played": "10",
                 "Wins": "1",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "-12",
-                "Points": "7"
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-13",
+                "Points": "6"
             },
             {
                 "Position": "24",
