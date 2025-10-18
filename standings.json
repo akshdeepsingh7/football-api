@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 08:38 PM UTC",
-        "IST": "Sunday, 19 October 2025, 02:08 AM IST"
+        "UTC": "Saturday, 18 October 2025, 09:16 PM UTC",
+        "IST": "Sunday, 19 October 2025, 02:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -800,7 +800,7 @@
                 "Wins": "6",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "11",
+                "Goal Difference": "14",
                 "Points": "18"
             },
             {
@@ -935,22 +935,22 @@
             },
             {
                 "Position": "15",
-                "Team": "Le Havre",
-                "Played": "8",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "6"
-            },
-            {
-                "Position": "16",
                 "Team": "Auxerre",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "5",
                 "Goal Difference": "-5",
+                "Points": "6"
+            },
+            {
+                "Position": "16",
+                "Team": "Le Havre",
+                "Played": "8",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-6",
                 "Points": "6"
             },
             {

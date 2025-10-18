@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 08:38 PM UTC (Sunday, 19 October 2025, 02:08 AM IST)
+**Last Updated:** Saturday, 18 October 2025, 09:16 PM UTC (Sunday, 19 October 2025, 02:46 AM IST)
 
 ### Premier League
 
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Marseille | 8 | 6 | 0 | 2 | 11 | 18 |
+| 1 | Marseille | 8 | 6 | 0 | 2 | 14 | 18 |
 | 2 | PSG | 8 | 5 | 2 | 1 | 8 | 17 |
 | 3 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
 | 4 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
@@ -159,8 +159,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Brest | 7 | 2 | 2 | 3 | 0 | 8 |
 | 13 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
 | 14 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
-| 15 | Le Havre | 8 | 1 | 3 | 4 | -3 | 6 |
-| 16 | Auxerre | 7 | 2 | 0 | 5 | -5 | 6 |
+| 15 | Auxerre | 7 | 2 | 0 | 5 | -5 | 6 |
+| 16 | Le Havre | 8 | 1 | 3 | 4 | -6 | 6 |
 | 17 | Angers | 8 | 1 | 3 | 4 | -8 | 6 |
 | 18 | Metz | 7 | 0 | 2 | 5 | -11 | 2 |
 
