@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 11:16 PM UTC",
-        "IST": "Sunday, 19 October 2025, 04:46 AM IST"
+        "UTC": "Saturday, 18 October 2025, 11:37 PM UTC",
+        "IST": "Sunday, 19 October 2025, 05:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2502,7 +2502,7 @@
                 "Wins": "20",
                 "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "10",
+                "Goal Difference": "11",
                 "Points": "65"
             },
             {
@@ -2540,10 +2540,10 @@
                 "Team": "NYCFC",
                 "Played": "34",
                 "Wins": "17",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "7",
-                "Points": "57"
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "6",
+                "Points": "56"
             },
             {
                 "Position": "7",
@@ -2552,7 +2552,7 @@
                 "Wins": "14",
                 "Draws": "11",
                 "Losses": "9",
-                "Goal Difference": "12",
+                "Goal Difference": "11",
                 "Points": "53"
             },
             {
@@ -2602,7 +2602,7 @@
                 "Wins": "6",
                 "Draws": "14",
                 "Losses": "14",
-                "Goal Difference": "-7",
+                "Goal Difference": "-6",
                 "Points": "32"
             },
             {
@@ -2622,7 +2622,7 @@
                 "Wins": "6",
                 "Draws": "10",
                 "Losses": "18",
-                "Goal Difference": "-24",
+                "Goal Difference": "-25",
                 "Points": "28"
             },
             {
@@ -2679,11 +2679,11 @@
                 "Position": "5",
                 "Team": "Seattle Sounders",
                 "Played": "34",
-                "Wins": "14",
-                "Draws": "11",
+                "Wins": "15",
+                "Draws": "10",
                 "Losses": "9",
-                "Goal Difference": "9",
-                "Points": "53"
+                "Goal Difference": "10",
+                "Points": "55"
             },
             {
                 "Position": "6",
@@ -3112,12 +3112,12 @@
             {
                 "Position": "5",
                 "Team": "River Plate",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "5",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "6",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "6",
@@ -3151,6 +3151,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Talleres",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "15"
+            },
+            {
+                "Position": "10",
                 "Team": "Instituto",
                 "Played": "12",
                 "Wins": "3",
@@ -3160,23 +3170,13 @@
                 "Points": "15"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "San Mart\u00edn SJ",
                 "Played": "12",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "-2",
-                "Points": "14"
-            },
-            {
-                "Position": "11",
-                "Team": "Talleres",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "-3",
                 "Points": "14"
             },
             {

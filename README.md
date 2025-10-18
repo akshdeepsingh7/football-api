@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 11:16 PM UTC (Sunday, 19 October 2025, 04:46 AM IST)
+**Last Updated:** Saturday, 18 October 2025, 11:37 PM UTC (Sunday, 19 October 2025, 05:07 AM IST)
 
 ### Premier League
 
@@ -344,25 +344,25 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Philadelphia Union | 34 | 20 | 6 | 8 | 22 | 66 |
-| 2 | Cincinnati | 34 | 20 | 5 | 9 | 10 | 65 |
+| 2 | Cincinnati | 34 | 20 | 5 | 9 | 11 | 65 |
 | 3 | Inter Miami | 34 | 18 | 8 | 8 | 22 | 62 |
 | 4 | Charlotte | 34 | 19 | 2 | 13 | 9 | 59 |
 | 5 | Nashville | 34 | 17 | 6 | 11 | 17 | 57 |
-| 6 | NYCFC | 34 | 17 | 6 | 11 | 7 | 57 |
-| 7 | Orlando City | 34 | 14 | 11 | 9 | 12 | 53 |
+| 6 | NYCFC | 34 | 17 | 5 | 12 | 6 | 56 |
+| 7 | Orlando City | 34 | 14 | 11 | 9 | 11 | 53 |
 | 8 | Chicago Fire | 34 | 15 | 7 | 12 | 7 | 52 |
 | 9 | Columbus Crew | 34 | 13 | 13 | 8 | 2 | 52 |
 | 10 | New York RB | 34 | 12 | 8 | 14 | 3 | 44 |
 | 11 | New England Revolution | 34 | 10 | 8 | 16 | -6 | 38 |
-| 12 | Toronto | 34 | 6 | 14 | 14 | -7 | 32 |
+| 12 | Toronto | 34 | 6 | 14 | 14 | -6 | 32 |
 | 13 | Atlanta United | 34 | 6 | 12 | 16 | -24 | 30 |
-| 14 | CF Montréal | 34 | 6 | 10 | 18 | -24 | 28 |
+| 14 | CF Montréal | 34 | 6 | 10 | 18 | -25 | 28 |
 | 15 | DC United | 34 | 5 | 10 | 19 | -37 | 25 |
 | 1 | Vancouver Whitecaps | 33 | 18 | 9 | 6 | 29 | 63 |
 | 2 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
 | 3 | LAFC | 33 | 17 | 8 | 8 | 25 | 59 |
 | 4 | Minnesota United | 33 | 16 | 10 | 7 | 18 | 58 |
-| 5 | Seattle Sounders | 34 | 14 | 11 | 9 | 9 | 53 |
+| 5 | Seattle Sounders | 34 | 15 | 10 | 9 | 10 | 55 |
 | 6 | Austin | 33 | 13 | 8 | 12 | -7 | 47 |
 | 7 | Portland Timbers | 33 | 11 | 11 | 11 | -3 | 44 |
 | 8 | Dallas | 33 | 10 | 11 | 12 | -4 | 41 |
@@ -415,13 +415,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Riestra | 12 | 7 | 3 | 2 | 8 | 24 |
 | 3 | Vélez | 12 | 6 | 4 | 2 | 8 | 22 |
 | 4 | Rosario | 11 | 5 | 6 | 0 | 7 | 21 |
-| 5 | River Plate | 12 | 5 | 3 | 4 | 6 | 18 |
+| 5 | River Plate | 13 | 5 | 4 | 4 | 6 | 19 |
 | 6 | San Lorenzo | 12 | 4 | 4 | 4 | 0 | 16 |
 | 7 | Atl. Tucumán | 12 | 4 | 3 | 5 | 0 | 15 |
 | 8 | Sarmiento | 11 | 4 | 3 | 4 | -2 | 15 |
-| 9 | Instituto | 12 | 3 | 6 | 3 | -4 | 15 |
-| 10 | San Martín SJ | 12 | 3 | 5 | 4 | -2 | 14 |
-| 11 | Talleres | 12 | 3 | 5 | 4 | -3 | 14 |
+| 9 | Talleres | 13 | 3 | 6 | 4 | -3 | 15 |
+| 10 | Instituto | 12 | 3 | 6 | 3 | -4 | 15 |
+| 11 | San Martín SJ | 12 | 3 | 5 | 4 | -2 | 14 |
 | 12 | GELP | 12 | 4 | 1 | 7 | -6 | 13 |
 | 13 | Platense | 11 | 2 | 5 | 4 | -5 | 11 |
 | 14 | Godoy Cruz | 13 | 1 | 7 | 5 | -7 | 10 |
