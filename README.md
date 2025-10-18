@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 11:37 AM UTC (Saturday, 18 October 2025, 05:07 PM IST)
+**Last Updated:** Saturday, 18 October 2025, 12:36 PM UTC (Saturday, 18 October 2025, 06:06 PM IST)
 
 ### Premier League
 
@@ -75,10 +75,10 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Real Madrid | 8 | 7 | 0 | 1 | 10 | 21 |
 | 2 | Barcelona | 8 | 6 | 1 | 1 | 13 | 19 |
 | 3 | Villarreal | 8 | 5 | 1 | 2 | 6 | 16 |
-| 4 | Real Betis | 8 | 4 | 3 | 1 | 5 | 15 |
-| 5 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
-| 6 | Atlético de Madrid | 8 | 3 | 4 | 1 | 5 | 13 |
-| 7 | Sevilla | 8 | 4 | 1 | 3 | 4 | 13 |
+| 4 | Sevilla | 9 | 5 | 1 | 3 | 5 | 16 |
+| 5 | Real Betis | 8 | 4 | 3 | 1 | 5 | 15 |
+| 6 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
+| 7 | Atlético de Madrid | 8 | 3 | 4 | 1 | 5 | 13 |
 | 8 | Elche | 8 | 3 | 4 | 1 | 2 | 13 |
 | 9 | Athletic Bilbao | 8 | 4 | 1 | 3 | 0 | 13 |
 | 10 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
@@ -91,7 +91,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Girona | 8 | 1 | 3 | 4 | -12 | 6 |
 | 18 | Real Oviedo | 9 | 2 | 0 | 7 | -12 | 6 |
 | 19 | Real Sociedad | 8 | 1 | 2 | 5 | -5 | 5 |
-| 20 | Mallorca | 8 | 1 | 2 | 5 | -6 | 5 |
+| 20 | Mallorca | 9 | 1 | 2 | 6 | -7 | 5 |
 
 ### Bundesliga
 
@@ -316,11 +316,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Middlesbrough | 10 | 6 | 3 | 1 | 7 | 21 |
 | 2 | Coventry City | 9 | 5 | 4 | 0 | 20 | 19 |
-| 3 | Leicester City | 9 | 4 | 4 | 1 | 5 | 16 |
-| 4 | Preston North End | 9 | 4 | 4 | 1 | 4 | 16 |
-| 5 | Queens Park Rangers | 10 | 4 | 4 | 2 | -1 | 16 |
+| 3 | Millwall | 10 | 5 | 2 | 3 | -1 | 17 |
+| 4 | Leicester City | 9 | 4 | 4 | 1 | 5 | 16 |
+| 5 | Preston North End | 9 | 4 | 4 | 1 | 4 | 16 |
 | 6 | Stoke City | 9 | 4 | 3 | 2 | 5 | 15 |
-| 7 | Millwall | 10 | 4 | 3 | 3 | -3 | 15 |
+| 7 | Queens Park Rangers | 10 | 4 | 3 | 3 | -3 | 15 |
 | 8 | West Bromwich Albion | 9 | 4 | 2 | 3 | -1 | 14 |
 | 9 | Ipswich Town | 9 | 3 | 4 | 2 | 6 | 13 |
 | 10 | Bristol City | 9 | 3 | 4 | 2 | 5 | 13 |
@@ -332,9 +332,9 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Hull City | 9 | 3 | 3 | 3 | -2 | 12 |
 | 17 | Birmingham City | 9 | 3 | 3 | 3 | -3 | 12 |
 | 18 | Wrexham | 9 | 2 | 4 | 3 | -1 | 10 |
-| 19 | Derby County | 10 | 1 | 6 | 3 | -4 | 9 |
+| 19 | Oxford United | 10 | 2 | 3 | 5 | -2 | 9 |
 | 20 | Norwich City | 9 | 2 | 2 | 5 | -3 | 8 |
-| 21 | Oxford United | 10 | 1 | 4 | 5 | -3 | 7 |
+| 21 | Derby County | 10 | 1 | 5 | 4 | -5 | 8 |
 | 22 | Blackburn Rovers | 8 | 2 | 1 | 5 | -4 | 7 |
 | 23 | Sheffield Wednesday | 9 | 1 | 3 | 5 | -12 | 6 |
 | 24 | Sheffield United | 9 | 1 | 0 | 8 | -13 | 3 |
