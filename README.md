@@ -41,13 +41,13 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 05:37 PM UTC (Saturday, 18 October 2025, 11:07 PM IST)
+**Last Updated:** Saturday, 18 October 2025, 06:24 PM UTC (Saturday, 18 October 2025, 11:54 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 8 | 5 | 2 | 1 | 11 | 17 |
+| 1 | Arsenal | 8 | 6 | 1 | 1 | 12 | 19 |
 | 2 | Manchester City | 8 | 5 | 1 | 2 | 11 | 16 |
 | 3 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
 | 4 | AFC Bournemouth | 8 | 4 | 3 | 1 | 3 | 15 |
@@ -60,7 +60,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
 | 12 | Newcastle United | 8 | 2 | 3 | 3 | 0 | 9 |
 | 13 | Aston Villa | 7 | 2 | 3 | 2 | -1 | 9 |
-| 14 | Fulham | 8 | 2 | 3 | 3 | -3 | 9 |
+| 14 | Fulham | 8 | 2 | 2 | 4 | -4 | 8 |
 | 15 | Leeds United | 8 | 2 | 2 | 4 | -6 | 8 |
 | 16 | Brentford | 7 | 2 | 1 | 4 | -3 | 7 |
 | 17 | Burnley | 8 | 2 | 1 | 5 | -6 | 7 |
@@ -74,8 +74,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 9 | 7 | 1 | 1 | 14 | 22 |
 | 2 | Real Madrid | 8 | 7 | 0 | 1 | 10 | 21 |
-| 3 | Villarreal | 9 | 6 | 1 | 2 | 7 | 19 |
-| 4 | Real Betis | 9 | 4 | 3 | 2 | 4 | 15 |
+| 3 | Villarreal | 9 | 5 | 2 | 2 | 6 | 17 |
+| 4 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
 | 5 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
 | 6 | Atlético de Madrid | 8 | 3 | 4 | 1 | 5 | 13 |
 | 7 | Sevilla | 9 | 4 | 1 | 4 | 2 | 13 |

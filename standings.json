@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 05:37 PM UTC",
-        "IST": "Saturday, 18 October 2025, 11:07 PM IST"
+        "UTC": "Saturday, 18 October 2025, 06:24 PM UTC",
+        "IST": "Saturday, 18 October 2025, 11:54 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -9,11 +9,11 @@
                 "Position": "1",
                 "Team": "Arsenal",
                 "Played": "8",
-                "Wins": "5",
-                "Draws": "2",
+                "Wins": "6",
+                "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "11",
-                "Points": "17"
+                "Goal Difference": "12",
+                "Points": "19"
             },
             {
                 "Position": "2",
@@ -140,10 +140,10 @@
                 "Team": "Fulham",
                 "Played": "8",
                 "Wins": "2",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "9"
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "8"
             },
             {
                 "Position": "15",
@@ -231,21 +231,21 @@
                 "Position": "3",
                 "Team": "Villarreal",
                 "Played": "9",
-                "Wins": "6",
-                "Draws": "1",
+                "Wins": "5",
+                "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "7",
-                "Points": "19"
+                "Goal Difference": "6",
+                "Points": "17"
             },
             {
                 "Position": "4",
                 "Team": "Real Betis",
                 "Played": "9",
                 "Wins": "4",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "4",
-                "Points": "15"
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "5",
+                "Points": "16"
             },
             {
                 "Position": "5",
