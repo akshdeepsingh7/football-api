@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 09:36 PM UTC (Sunday, 19 October 2025, 03:06 AM IST)
+**Last Updated:** Saturday, 18 October 2025, 10:16 PM UTC (Sunday, 19 October 2025, 03:46 AM IST)
 
 ### Premier League
 
@@ -343,26 +343,26 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Philadelphia Union | 33 | 20 | 6 | 7 | 24 | 66 |
-| 2 | Cincinnati | 33 | 19 | 5 | 9 | 9 | 62 |
-| 3 | Inter Miami | 33 | 18 | 8 | 7 | 23 | 62 |
-| 4 | Charlotte | 33 | 18 | 2 | 13 | 7 | 56 |
-| 5 | NYCFC | 33 | 17 | 5 | 11 | 7 | 56 |
-| 6 | Nashville | 33 | 16 | 6 | 11 | 16 | 54 |
-| 7 | Orlando City | 33 | 14 | 11 | 8 | 14 | 53 |
-| 8 | Chicago Fire | 33 | 15 | 7 | 11 | 8 | 52 |
-| 9 | Columbus Crew | 33 | 13 | 12 | 8 | 2 | 51 |
-| 10 | New York RB | 33 | 12 | 7 | 14 | 3 | 43 |
-| 11 | New England Revolution | 33 | 9 | 8 | 16 | -7 | 35 |
-| 12 | Toronto | 33 | 5 | 14 | 14 | -9 | 29 |
-| 13 | CF Montréal | 33 | 6 | 10 | 17 | -23 | 28 |
-| 14 | Atlanta United | 33 | 5 | 12 | 16 | -25 | 27 |
-| 15 | DC United | 33 | 5 | 10 | 18 | -36 | 25 |
+| 1 | Philadelphia Union | 34 | 20 | 7 | 7 | 24 | 67 |
+| 2 | Cincinnati | 34 | 19 | 6 | 9 | 9 | 63 |
+| 3 | Inter Miami | 34 | 18 | 9 | 7 | 23 | 63 |
+| 4 | Charlotte | 34 | 18 | 3 | 13 | 7 | 57 |
+| 5 | NYCFC | 34 | 17 | 6 | 11 | 7 | 57 |
+| 6 | Nashville | 34 | 16 | 7 | 11 | 16 | 55 |
+| 7 | Orlando City | 34 | 14 | 12 | 8 | 14 | 54 |
+| 8 | Chicago Fire | 34 | 15 | 7 | 12 | 7 | 52 |
+| 9 | Columbus Crew | 34 | 13 | 13 | 8 | 2 | 52 |
+| 10 | New York RB | 34 | 12 | 8 | 14 | 3 | 44 |
+| 11 | New England Revolution | 34 | 10 | 8 | 16 | -6 | 38 |
+| 12 | Atlanta United | 34 | 6 | 12 | 16 | -24 | 30 |
+| 13 | Toronto | 34 | 5 | 15 | 14 | -9 | 30 |
+| 14 | CF Montréal | 34 | 6 | 11 | 17 | -23 | 29 |
+| 15 | DC United | 34 | 5 | 10 | 19 | -37 | 25 |
 | 1 | Vancouver Whitecaps | 33 | 18 | 9 | 6 | 29 | 63 |
 | 2 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
 | 3 | LAFC | 33 | 17 | 8 | 8 | 25 | 59 |
 | 4 | Minnesota United | 33 | 16 | 10 | 7 | 18 | 58 |
-| 5 | Seattle Sounders | 33 | 14 | 10 | 9 | 9 | 52 |
+| 5 | Seattle Sounders | 34 | 14 | 11 | 9 | 9 | 53 |
 | 6 | Austin | 33 | 13 | 8 | 12 | -7 | 47 |
 | 7 | Portland Timbers | 33 | 11 | 11 | 11 | -3 | 44 |
 | 8 | Dallas | 33 | 10 | 11 | 12 | -4 | 41 |
@@ -397,17 +397,17 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Def y Justicia | 12 | 5 | 4 | 3 | 3 | 19 |
-| 2 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
-| 3 | Córdoba SdE | 12 | 4 | 6 | 2 | 5 | 18 |
-| 4 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
-| 5 | Estudiantes | 12 | 5 | 3 | 4 | 0 | 18 |
-| 6 | Boca Juniors | 11 | 4 | 5 | 2 | 10 | 17 |
+| 2 | Boca Juniors | 12 | 4 | 6 | 2 | 10 | 18 |
+| 3 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
+| 4 | Córdoba SdE | 12 | 4 | 6 | 2 | 5 | 18 |
+| 5 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
+| 6 | Estudiantes | 12 | 5 | 3 | 4 | 0 | 18 |
 | 7 | Unión | 12 | 4 | 5 | 3 | 3 | 17 |
 | 8 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
 | 9 | Tigre | 12 | 4 | 5 | 3 | 2 | 17 |
 | 10 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
-| 11 | Huracán | 12 | 4 | 4 | 4 | -4 | 16 |
-| 12 | Belgrano | 12 | 3 | 6 | 3 | 2 | 15 |
+| 11 | Belgrano | 13 | 3 | 7 | 3 | 2 | 16 |
+| 12 | Huracán | 12 | 4 | 4 | 4 | -4 | 16 |
 | 13 | Independiente Rivadavia | 13 | 2 | 6 | 5 | -3 | 12 |
 | 14 | Newell's Old Boys | 13 | 2 | 5 | 6 | -10 | 11 |
 | 15 | Aldosivi | 13 | 2 | 3 | 8 | -10 | 9 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 09:36 PM UTC",
-        "IST": "Sunday, 19 October 2025, 03:06 AM IST"
+        "UTC": "Saturday, 18 October 2025, 10:16 PM UTC",
+        "IST": "Sunday, 19 October 2025, 03:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2488,151 +2488,151 @@
             {
                 "Position": "1",
                 "Team": "Philadelphia Union",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "20",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "7",
                 "Goal Difference": "24",
-                "Points": "66"
+                "Points": "67"
             },
             {
                 "Position": "2",
                 "Team": "Cincinnati",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "19",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "9",
-                "Points": "62"
+                "Points": "63"
             },
             {
                 "Position": "3",
                 "Team": "Inter Miami",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "18",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "23",
-                "Points": "62"
+                "Points": "63"
             },
             {
                 "Position": "4",
                 "Team": "Charlotte",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "18",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "13",
                 "Goal Difference": "7",
-                "Points": "56"
+                "Points": "57"
             },
             {
                 "Position": "5",
                 "Team": "NYCFC",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "17",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "11",
                 "Goal Difference": "7",
-                "Points": "56"
+                "Points": "57"
             },
             {
                 "Position": "6",
                 "Team": "Nashville",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "16",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "11",
                 "Goal Difference": "16",
-                "Points": "54"
+                "Points": "55"
             },
             {
                 "Position": "7",
                 "Team": "Orlando City",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "14",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "8",
                 "Goal Difference": "14",
-                "Points": "53"
+                "Points": "54"
             },
             {
                 "Position": "8",
                 "Team": "Chicago Fire",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "15",
                 "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "8",
+                "Losses": "12",
+                "Goal Difference": "7",
                 "Points": "52"
             },
             {
                 "Position": "9",
                 "Team": "Columbus Crew",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "13",
-                "Draws": "12",
+                "Draws": "13",
                 "Losses": "8",
                 "Goal Difference": "2",
-                "Points": "51"
+                "Points": "52"
             },
             {
                 "Position": "10",
                 "Team": "New York RB",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "12",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "14",
                 "Goal Difference": "3",
-                "Points": "43"
+                "Points": "44"
             },
             {
                 "Position": "11",
                 "Team": "New England Revolution",
-                "Played": "33",
-                "Wins": "9",
+                "Played": "34",
+                "Wins": "10",
                 "Draws": "8",
                 "Losses": "16",
-                "Goal Difference": "-7",
-                "Points": "35"
+                "Goal Difference": "-6",
+                "Points": "38"
             },
             {
                 "Position": "12",
-                "Team": "Toronto",
-                "Played": "33",
-                "Wins": "5",
-                "Draws": "14",
-                "Losses": "14",
-                "Goal Difference": "-9",
-                "Points": "29"
+                "Team": "Atlanta United",
+                "Played": "34",
+                "Wins": "6",
+                "Draws": "12",
+                "Losses": "16",
+                "Goal Difference": "-24",
+                "Points": "30"
             },
             {
                 "Position": "13",
-                "Team": "CF Montr\u00e9al",
-                "Played": "33",
-                "Wins": "6",
-                "Draws": "10",
-                "Losses": "17",
-                "Goal Difference": "-23",
-                "Points": "28"
+                "Team": "Toronto",
+                "Played": "34",
+                "Wins": "5",
+                "Draws": "15",
+                "Losses": "14",
+                "Goal Difference": "-9",
+                "Points": "30"
             },
             {
                 "Position": "14",
-                "Team": "Atlanta United",
-                "Played": "33",
-                "Wins": "5",
-                "Draws": "12",
-                "Losses": "16",
-                "Goal Difference": "-25",
-                "Points": "27"
+                "Team": "CF Montr\u00e9al",
+                "Played": "34",
+                "Wins": "6",
+                "Draws": "11",
+                "Losses": "17",
+                "Goal Difference": "-23",
+                "Points": "29"
             },
             {
                 "Position": "15",
                 "Team": "DC United",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "5",
                 "Draws": "10",
-                "Losses": "18",
-                "Goal Difference": "-36",
+                "Losses": "19",
+                "Goal Difference": "-37",
                 "Points": "25"
             },
             {
@@ -2678,12 +2678,12 @@
             {
                 "Position": "5",
                 "Team": "Seattle Sounders",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "14",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "9",
                 "Goal Difference": "9",
-                "Points": "52"
+                "Points": "53"
             },
             {
                 "Position": "6",
@@ -2931,6 +2931,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Boca Juniors",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "2",
+                "Goal Difference": "10",
+                "Points": "18"
+            },
+            {
+                "Position": "3",
                 "Team": "Argentinos Juniors",
                 "Played": "13",
                 "Wins": "5",
@@ -2940,7 +2950,7 @@
                 "Points": "18"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "C\u00f3rdoba SdE",
                 "Played": "12",
                 "Wins": "4",
@@ -2950,7 +2960,7 @@
                 "Points": "18"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Racing Club",
                 "Played": "13",
                 "Wins": "5",
@@ -2960,7 +2970,7 @@
                 "Points": "18"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Estudiantes",
                 "Played": "12",
                 "Wins": "5",
@@ -2968,16 +2978,6 @@
                 "Losses": "4",
                 "Goal Difference": "0",
                 "Points": "18"
-            },
-            {
-                "Position": "6",
-                "Team": "Boca Juniors",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "10",
-                "Points": "17"
             },
             {
                 "Position": "7",
@@ -3021,6 +3021,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Belgrano",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "16"
+            },
+            {
+                "Position": "12",
                 "Team": "Hurac\u00e1n",
                 "Played": "12",
                 "Wins": "4",
@@ -3028,16 +3038,6 @@
                 "Losses": "4",
                 "Goal Difference": "-4",
                 "Points": "16"
-            },
-            {
-                "Position": "12",
-                "Team": "Belgrano",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "2",
-                "Points": "15"
             },
             {
                 "Position": "13",
