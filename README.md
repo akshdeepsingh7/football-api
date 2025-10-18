@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 10:38 PM UTC (Sunday, 19 October 2025, 04:08 AM IST)
+**Last Updated:** Saturday, 18 October 2025, 11:16 PM UTC (Sunday, 19 October 2025, 04:46 AM IST)
 
 ### Premier League
 
@@ -343,20 +343,20 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Philadelphia Union | 34 | 20 | 6 | 8 | 23 | 66 |
-| 2 | Cincinnati | 34 | 19 | 6 | 9 | 9 | 63 |
-| 3 | Inter Miami | 34 | 18 | 9 | 7 | 23 | 63 |
-| 4 | Charlotte | 34 | 19 | 2 | 13 | 8 | 59 |
-| 5 | NYCFC | 34 | 17 | 6 | 11 | 7 | 57 |
-| 6 | Nashville | 34 | 16 | 7 | 11 | 16 | 55 |
-| 7 | Orlando City | 34 | 14 | 11 | 9 | 13 | 53 |
+| 1 | Philadelphia Union | 34 | 20 | 6 | 8 | 22 | 66 |
+| 2 | Cincinnati | 34 | 20 | 5 | 9 | 10 | 65 |
+| 3 | Inter Miami | 34 | 18 | 8 | 8 | 22 | 62 |
+| 4 | Charlotte | 34 | 19 | 2 | 13 | 9 | 59 |
+| 5 | Nashville | 34 | 17 | 6 | 11 | 17 | 57 |
+| 6 | NYCFC | 34 | 17 | 6 | 11 | 7 | 57 |
+| 7 | Orlando City | 34 | 14 | 11 | 9 | 12 | 53 |
 | 8 | Chicago Fire | 34 | 15 | 7 | 12 | 7 | 52 |
 | 9 | Columbus Crew | 34 | 13 | 13 | 8 | 2 | 52 |
 | 10 | New York RB | 34 | 12 | 8 | 14 | 3 | 44 |
 | 11 | New England Revolution | 34 | 10 | 8 | 16 | -6 | 38 |
-| 12 | Toronto | 34 | 6 | 14 | 14 | -8 | 32 |
+| 12 | Toronto | 34 | 6 | 14 | 14 | -7 | 32 |
 | 13 | Atlanta United | 34 | 6 | 12 | 16 | -24 | 30 |
-| 14 | CF Montréal | 34 | 6 | 11 | 17 | -23 | 29 |
+| 14 | CF Montréal | 34 | 6 | 10 | 18 | -24 | 28 |
 | 15 | DC United | 34 | 5 | 10 | 19 | -37 | 25 |
 | 1 | Vancouver Whitecaps | 33 | 18 | 9 | 6 | 29 | 63 |
 | 2 | San Diego | 33 | 18 | 6 | 9 | 19 | 60 |
@@ -442,9 +442,9 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Vasco da Gama | 28 | 10 | 6 | 12 | 3 | 36 |
 | 10 | RB Bragantino | 28 | 10 | 6 | 12 | -9 | 36 |
 | 11 | Grêmio | 28 | 9 | 9 | 10 | -3 | 36 |
-| 12 | Ceará | 27 | 9 | 8 | 10 | 2 | 35 |
-| 13 | Corinthians | 29 | 8 | 10 | 11 | -5 | 34 |
-| 14 | Atlético Mineiro | 28 | 8 | 10 | 10 | -5 | 34 |
+| 12 | Corinthians | 29 | 9 | 9 | 11 | -4 | 36 |
+| 13 | Ceará | 27 | 9 | 8 | 10 | 2 | 35 |
+| 14 | Atlético Mineiro | 28 | 8 | 9 | 11 | -6 | 33 |
 | 15 | Internacional | 27 | 8 | 8 | 11 | -8 | 32 |
 | 16 | Santos | 27 | 8 | 7 | 12 | -11 | 31 |
 | 17 | Vitória | 28 | 6 | 10 | 12 | -17 | 28 |
