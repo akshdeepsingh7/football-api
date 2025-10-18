@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 01:22 PM UTC",
-        "IST": "Saturday, 18 October 2025, 06:52 PM IST"
+        "UTC": "Saturday, 18 October 2025, 01:38 PM UTC",
+        "IST": "Saturday, 18 October 2025, 07:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -239,16 +239,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Sevilla",
-                "Played": "9",
-                "Wins": "5",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "5",
-                "Points": "16"
-            },
-            {
-                "Position": "5",
                 "Team": "Real Betis",
                 "Played": "8",
                 "Wins": "4",
@@ -258,7 +248,7 @@
                 "Points": "15"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Espanyol",
                 "Played": "9",
                 "Wins": "4",
@@ -268,13 +258,23 @@
                 "Points": "15"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "8",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "5",
+                "Points": "13"
+            },
+            {
+                "Position": "7",
+                "Team": "Sevilla",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "3",
                 "Points": "13"
             },
             {
@@ -359,6 +359,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Mallorca",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-5",
+                "Points": "8"
+            },
+            {
+                "Position": "17",
                 "Team": "Celta de Vigo",
                 "Played": "8",
                 "Wins": "0",
@@ -368,7 +378,7 @@
                 "Points": "6"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Girona",
                 "Played": "8",
                 "Wins": "1",
@@ -378,7 +388,7 @@
                 "Points": "6"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Real Oviedo",
                 "Played": "9",
                 "Wins": "2",
@@ -388,23 +398,13 @@
                 "Points": "6"
             },
             {
-                "Position": "19",
+                "Position": "20",
                 "Team": "Real Sociedad",
                 "Played": "8",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "5",
                 "Goal Difference": "-5",
-                "Points": "5"
-            },
-            {
-                "Position": "20",
-                "Team": "Mallorca",
-                "Played": "9",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "-7",
                 "Points": "5"
             }
         ],
@@ -432,42 +432,42 @@
             {
                 "Position": "3",
                 "Team": "RB Leipzig",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "4",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "0",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "4",
                 "Team": "VfB Stuttgart",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "4",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "2",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "5",
                 "Team": "Bayer Leverkusen",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "3",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "4",
-                "Points": "11"
+                "Points": "12"
             },
             {
                 "Position": "6",
                 "Team": "K\u00f6ln",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "3",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "2",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "7",
@@ -491,6 +491,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Hamburg",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "9"
+            },
+            {
+                "Position": "10",
                 "Team": "SC Freiburg",
                 "Played": "6",
                 "Wins": "2",
@@ -500,17 +510,17 @@
                 "Points": "8"
             },
             {
-                "Position": "10",
-                "Team": "Hamburg",
-                "Played": "6",
+                "Position": "11",
+                "Team": "Werder Bremen",
+                "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-2",
+                "Losses": "3",
+                "Goal Difference": "-5",
                 "Points": "8"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "St. Pauli",
                 "Played": "6",
                 "Wins": "2",
@@ -520,7 +530,17 @@
                 "Points": "7"
             },
             {
-                "Position": "12",
+                "Position": "13",
+                "Team": "Augsburg",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "7"
+            },
+            {
+                "Position": "14",
                 "Team": "Hoffenheim",
                 "Played": "6",
                 "Wins": "2",
@@ -530,54 +550,34 @@
                 "Points": "7"
             },
             {
-                "Position": "13",
-                "Team": "Werder Bremen",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "1",
+                "Position": "15",
+                "Team": "VfL Wolfsburg",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "-5",
-                "Points": "7"
-            },
-            {
-                "Position": "14",
-                "Team": "Augsburg",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "4",
                 "Goal Difference": "-2",
                 "Points": "6"
             },
             {
-                "Position": "15",
-                "Team": "VfL Wolfsburg",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "5"
-            },
-            {
                 "Position": "16",
                 "Team": "Mainz 05",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "1",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "4"
+                "Points": "5"
             },
             {
                 "Position": "17",
                 "Team": "Heidenheim",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "1",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "5",
                 "Goal Difference": "-7",
-                "Points": "3"
+                "Points": "4"
             },
             {
                 "Position": "18",
