@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 10:16 PM UTC (Sunday, 19 October 2025, 03:46 AM IST)
+**Last Updated:** Saturday, 18 October 2025, 10:38 PM UTC (Sunday, 19 October 2025, 04:08 AM IST)
 
 ### Premier League
 
@@ -343,19 +343,19 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Philadelphia Union | 34 | 20 | 7 | 7 | 24 | 67 |
+| 1 | Philadelphia Union | 34 | 20 | 6 | 8 | 23 | 66 |
 | 2 | Cincinnati | 34 | 19 | 6 | 9 | 9 | 63 |
 | 3 | Inter Miami | 34 | 18 | 9 | 7 | 23 | 63 |
-| 4 | Charlotte | 34 | 18 | 3 | 13 | 7 | 57 |
+| 4 | Charlotte | 34 | 19 | 2 | 13 | 8 | 59 |
 | 5 | NYCFC | 34 | 17 | 6 | 11 | 7 | 57 |
 | 6 | Nashville | 34 | 16 | 7 | 11 | 16 | 55 |
-| 7 | Orlando City | 34 | 14 | 12 | 8 | 14 | 54 |
+| 7 | Orlando City | 34 | 14 | 11 | 9 | 13 | 53 |
 | 8 | Chicago Fire | 34 | 15 | 7 | 12 | 7 | 52 |
 | 9 | Columbus Crew | 34 | 13 | 13 | 8 | 2 | 52 |
 | 10 | New York RB | 34 | 12 | 8 | 14 | 3 | 44 |
 | 11 | New England Revolution | 34 | 10 | 8 | 16 | -6 | 38 |
-| 12 | Atlanta United | 34 | 6 | 12 | 16 | -24 | 30 |
-| 13 | Toronto | 34 | 5 | 15 | 14 | -9 | 30 |
+| 12 | Toronto | 34 | 6 | 14 | 14 | -8 | 32 |
+| 13 | Atlanta United | 34 | 6 | 12 | 16 | -24 | 30 |
 | 14 | CF Montréal | 34 | 6 | 11 | 17 | -23 | 29 |
 | 15 | DC United | 34 | 5 | 10 | 19 | -37 | 25 |
 | 1 | Vancouver Whitecaps | 33 | 18 | 9 | 6 | 29 | 63 |
@@ -397,16 +397,16 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Def y Justicia | 12 | 5 | 4 | 3 | 3 | 19 |
-| 2 | Boca Juniors | 12 | 4 | 6 | 2 | 10 | 18 |
-| 3 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
-| 4 | Córdoba SdE | 12 | 4 | 6 | 2 | 5 | 18 |
+| 2 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
+| 3 | Córdoba SdE | 12 | 4 | 6 | 2 | 5 | 18 |
+| 4 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
 | 5 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
 | 6 | Estudiantes | 12 | 5 | 3 | 4 | 0 | 18 |
-| 7 | Unión | 12 | 4 | 5 | 3 | 3 | 17 |
-| 8 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
-| 9 | Tigre | 12 | 4 | 5 | 3 | 2 | 17 |
-| 10 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
-| 11 | Belgrano | 13 | 3 | 7 | 3 | 2 | 16 |
+| 7 | Boca Juniors | 12 | 4 | 5 | 3 | 9 | 17 |
+| 8 | Unión | 12 | 4 | 5 | 3 | 3 | 17 |
+| 9 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
+| 10 | Tigre | 12 | 4 | 5 | 3 | 2 | 17 |
+| 11 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
 | 12 | Huracán | 12 | 4 | 4 | 4 | -4 | 16 |
 | 13 | Independiente Rivadavia | 13 | 2 | 6 | 5 | -3 | 12 |
 | 14 | Newell's Old Boys | 13 | 2 | 5 | 6 | -10 | 11 |
