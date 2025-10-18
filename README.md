@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 06:44 PM UTC (Sunday, 19 October 2025, 12:14 AM IST)
+**Last Updated:** Saturday, 18 October 2025, 07:14 PM UTC (Sunday, 19 October 2025, 12:44 AM IST)
 
 ### Premier League
 
@@ -75,15 +75,15 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Barcelona | 9 | 7 | 1 | 1 | 14 | 22 |
 | 2 | Real Madrid | 8 | 7 | 0 | 1 | 10 | 21 |
 | 3 | Villarreal | 9 | 5 | 2 | 2 | 6 | 17 |
-| 4 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
-| 5 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
-| 6 | Atlético de Madrid | 8 | 3 | 4 | 1 | 5 | 13 |
+| 4 | Atlético de Madrid | 9 | 4 | 4 | 1 | 6 | 16 |
+| 5 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
+| 6 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
 | 7 | Sevilla | 9 | 4 | 1 | 4 | 2 | 13 |
 | 8 | Elche | 8 | 3 | 4 | 1 | 2 | 13 |
 | 9 | Athletic Bilbao | 8 | 4 | 1 | 3 | 0 | 13 |
 | 10 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
 | 11 | Getafe | 8 | 3 | 2 | 3 | -2 | 11 |
-| 12 | Osasuna | 8 | 3 | 1 | 4 | -1 | 10 |
+| 12 | Osasuna | 9 | 3 | 1 | 5 | -2 | 10 |
 | 13 | Levante | 8 | 2 | 2 | 4 | -1 | 8 |
 | 14 | Rayo Vallecano | 8 | 2 | 2 | 4 | -2 | 8 |
 | 15 | Valencia | 8 | 2 | 2 | 4 | -4 | 8 |
@@ -120,10 +120,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Roma | 6 | 5 | 0 | 1 | 5 | 15 |
+| 1 | Inter | 7 | 5 | 0 | 2 | 10 | 15 |
 | 2 | Napoli | 7 | 5 | 0 | 2 | 5 | 15 |
-| 3 | Milan | 6 | 4 | 1 | 1 | 6 | 13 |
-| 4 | Inter | 6 | 4 | 0 | 2 | 9 | 12 |
+| 3 | Roma | 7 | 5 | 0 | 2 | 4 | 15 |
+| 4 | Milan | 6 | 4 | 1 | 1 | 6 | 13 |
 | 5 | Juventus | 6 | 3 | 3 | 0 | 4 | 12 |
 | 6 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
 | 7 | Bologna | 6 | 3 | 1 | 2 | 4 | 10 |
@@ -146,10 +146,10 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 8 | 5 | 2 | 1 | 8 | 17 |
-| 2 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
-| 3 | Monaco | 8 | 5 | 1 | 2 | 5 | 16 |
-| 4 | Marseille | 7 | 5 | 0 | 2 | 10 | 15 |
-| 5 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
+| 2 | Marseille | 8 | 5 | 1 | 2 | 10 | 16 |
+| 3 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
+| 4 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
+| 5 | Monaco | 8 | 4 | 2 | 2 | 4 | 14 |
 | 6 | Lens | 7 | 4 | 1 | 2 | 4 | 13 |
 | 7 | Lille | 7 | 3 | 2 | 2 | 4 | 11 |
 | 8 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
@@ -157,11 +157,11 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Toulouse | 7 | 3 | 1 | 3 | -1 | 10 |
 | 11 | Rennes | 7 | 2 | 4 | 1 | -1 | 10 |
 | 12 | Brest | 7 | 2 | 2 | 3 | 0 | 8 |
-| 13 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
-| 14 | Le Havre | 7 | 1 | 3 | 3 | -2 | 6 |
+| 13 | Le Havre | 8 | 1 | 4 | 3 | -2 | 7 |
+| 14 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
 | 15 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
 | 16 | Auxerre | 7 | 2 | 0 | 5 | -5 | 6 |
-| 17 | Angers | 8 | 1 | 2 | 5 | -9 | 5 |
+| 17 | Angers | 8 | 1 | 3 | 4 | -8 | 6 |
 | 18 | Metz | 7 | 0 | 2 | 5 | -11 | 2 |
 
 ### Champions League
@@ -316,11 +316,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 10 | 6 | 4 | 0 | 22 | 22 |
 | 2 | Middlesbrough | 10 | 6 | 3 | 1 | 7 | 21 |
-| 3 | Stoke City | 10 | 5 | 3 | 2 | 6 | 18 |
-| 4 | West Bromwich Albion | 10 | 5 | 2 | 3 | 0 | 17 |
-| 5 | Millwall | 10 | 5 | 2 | 3 | -2 | 17 |
-| 6 | Bristol City | 10 | 4 | 4 | 2 | 6 | 16 |
-| 7 | Leicester City | 9 | 4 | 4 | 1 | 5 | 16 |
+| 3 | Leicester City | 10 | 5 | 4 | 1 | 6 | 19 |
+| 4 | Stoke City | 10 | 5 | 3 | 2 | 6 | 18 |
+| 5 | West Bromwich Albion | 10 | 5 | 2 | 3 | 0 | 17 |
+| 6 | Millwall | 10 | 5 | 2 | 3 | -2 | 17 |
+| 7 | Bristol City | 10 | 4 | 4 | 2 | 6 | 16 |
 | 8 | Preston North End | 10 | 4 | 4 | 2 | 3 | 16 |
 | 9 | Charlton Athletic | 10 | 4 | 3 | 3 | 1 | 15 |
 | 10 | Hull City | 10 | 4 | 3 | 3 | -1 | 15 |
@@ -329,7 +329,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Swansea City | 10 | 3 | 4 | 3 | 0 | 13 |
 | 14 | Watford | 10 | 3 | 3 | 4 | -1 | 12 |
 | 15 | Southampton | 10 | 2 | 6 | 2 | -1 | 12 |
-| 16 | Portsmouth | 9 | 3 | 3 | 3 | -1 | 12 |
+| 16 | Portsmouth | 10 | 3 | 3 | 4 | -2 | 12 |
 | 17 | Birmingham City | 10 | 3 | 3 | 4 | -4 | 12 |
 | 18 | Wrexham | 10 | 2 | 4 | 4 | -2 | 10 |
 | 19 | Oxford United | 10 | 2 | 3 | 5 | -2 | 9 |
