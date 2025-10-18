@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 07:14 PM UTC",
-        "IST": "Sunday, 19 October 2025, 12:44 AM IST"
+        "UTC": "Saturday, 18 October 2025, 07:37 PM UTC",
+        "IST": "Sunday, 19 October 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -239,16 +239,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "9",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "6",
-                "Points": "16"
-            },
-            {
-                "Position": "5",
                 "Team": "Real Betis",
                 "Played": "9",
                 "Wins": "4",
@@ -258,7 +248,7 @@
                 "Points": "16"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Espanyol",
                 "Played": "9",
                 "Wins": "4",
@@ -266,6 +256,16 @@
                 "Losses": "2",
                 "Goal Difference": "2",
                 "Points": "15"
+            },
+            {
+                "Position": "6",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "1",
+                "Goal Difference": "5",
+                "Points": "14"
             },
             {
                 "Position": "7",
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Osasuna",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "11"
+            },
+            {
+                "Position": "12",
                 "Team": "Getafe",
                 "Played": "8",
                 "Wins": "3",
@@ -316,16 +326,6 @@
                 "Losses": "3",
                 "Goal Difference": "-2",
                 "Points": "11"
-            },
-            {
-                "Position": "12",
-                "Team": "Osasuna",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-2",
-                "Points": "10"
             },
             {
                 "Position": "13",
@@ -805,16 +805,6 @@
             },
             {
                 "Position": "2",
-                "Team": "Marseille",
-                "Played": "8",
-                "Wins": "5",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "10",
-                "Points": "16"
-            },
-            {
-                "Position": "3",
                 "Team": "Strasbourg",
                 "Played": "8",
                 "Wins": "5",
@@ -822,6 +812,16 @@
                 "Losses": "2",
                 "Goal Difference": "7",
                 "Points": "16"
+            },
+            {
+                "Position": "3",
+                "Team": "Marseille",
+                "Played": "8",
+                "Wins": "5",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "9",
+                "Points": "15"
             },
             {
                 "Position": "4",
@@ -905,6 +905,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Le Havre",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "9"
+            },
+            {
+                "Position": "13",
                 "Team": "Brest",
                 "Played": "7",
                 "Wins": "2",
@@ -912,16 +922,6 @@
                 "Losses": "3",
                 "Goal Difference": "0",
                 "Points": "8"
-            },
-            {
-                "Position": "13",
-                "Team": "Le Havre",
-                "Played": "8",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "7"
             },
             {
                 "Position": "14",
@@ -3011,6 +3011,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Banfield",
+                "Played": "13",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-6",
+                "Points": "17"
+            },
+            {
+                "Position": "11",
                 "Team": "Hurac\u00e1n",
                 "Played": "12",
                 "Wins": "4",
@@ -3020,7 +3030,7 @@
                 "Points": "16"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Belgrano",
                 "Played": "12",
                 "Wins": "3",
@@ -3030,23 +3040,13 @@
                 "Points": "15"
             },
             {
-                "Position": "12",
-                "Team": "Banfield",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "-7",
-                "Points": "14"
-            },
-            {
                 "Position": "13",
                 "Team": "Independiente Rivadavia",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "2",
                 "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "-2",
+                "Losses": "5",
+                "Goal Difference": "-3",
                 "Points": "12"
             },
             {

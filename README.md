@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 07:14 PM UTC (Sunday, 19 October 2025, 12:44 AM IST)
+**Last Updated:** Saturday, 18 October 2025, 07:37 PM UTC (Sunday, 19 October 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -75,15 +75,15 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Barcelona | 9 | 7 | 1 | 1 | 14 | 22 |
 | 2 | Real Madrid | 8 | 7 | 0 | 1 | 10 | 21 |
 | 3 | Villarreal | 9 | 5 | 2 | 2 | 6 | 17 |
-| 4 | Atlético de Madrid | 9 | 4 | 4 | 1 | 6 | 16 |
-| 5 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
-| 6 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
+| 4 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
+| 5 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
+| 6 | Atlético de Madrid | 9 | 3 | 5 | 1 | 5 | 14 |
 | 7 | Sevilla | 9 | 4 | 1 | 4 | 2 | 13 |
 | 8 | Elche | 8 | 3 | 4 | 1 | 2 | 13 |
 | 9 | Athletic Bilbao | 8 | 4 | 1 | 3 | 0 | 13 |
 | 10 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
-| 11 | Getafe | 8 | 3 | 2 | 3 | -2 | 11 |
-| 12 | Osasuna | 9 | 3 | 1 | 5 | -2 | 10 |
+| 11 | Osasuna | 9 | 3 | 2 | 4 | -1 | 11 |
+| 12 | Getafe | 8 | 3 | 2 | 3 | -2 | 11 |
 | 13 | Levante | 8 | 2 | 2 | 4 | -1 | 8 |
 | 14 | Rayo Vallecano | 8 | 2 | 2 | 4 | -2 | 8 |
 | 15 | Valencia | 8 | 2 | 2 | 4 | -4 | 8 |
@@ -146,8 +146,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 8 | 5 | 2 | 1 | 8 | 17 |
-| 2 | Marseille | 8 | 5 | 1 | 2 | 10 | 16 |
-| 3 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
+| 2 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
+| 3 | Marseille | 8 | 5 | 0 | 3 | 9 | 15 |
 | 4 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
 | 5 | Monaco | 8 | 4 | 2 | 2 | 4 | 14 |
 | 6 | Lens | 7 | 4 | 1 | 2 | 4 | 13 |
@@ -156,8 +156,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Paris | 7 | 3 | 1 | 3 | -1 | 10 |
 | 10 | Toulouse | 7 | 3 | 1 | 3 | -1 | 10 |
 | 11 | Rennes | 7 | 2 | 4 | 1 | -1 | 10 |
-| 12 | Brest | 7 | 2 | 2 | 3 | 0 | 8 |
-| 13 | Le Havre | 8 | 1 | 4 | 3 | -2 | 7 |
+| 12 | Le Havre | 8 | 2 | 3 | 3 | -1 | 9 |
+| 13 | Brest | 7 | 2 | 2 | 3 | 0 | 8 |
 | 14 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
 | 15 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
 | 16 | Auxerre | 7 | 2 | 0 | 5 | -5 | 6 |
@@ -405,10 +405,10 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Unión | 12 | 4 | 5 | 3 | 3 | 17 |
 | 8 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
 | 9 | Tigre | 12 | 4 | 5 | 3 | 2 | 17 |
-| 10 | Huracán | 12 | 4 | 4 | 4 | -4 | 16 |
-| 11 | Belgrano | 12 | 3 | 6 | 3 | 2 | 15 |
-| 12 | Banfield | 12 | 4 | 2 | 6 | -7 | 14 |
-| 13 | Independiente Rivadavia | 12 | 2 | 6 | 4 | -2 | 12 |
+| 10 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
+| 11 | Huracán | 12 | 4 | 4 | 4 | -4 | 16 |
+| 12 | Belgrano | 12 | 3 | 6 | 3 | 2 | 15 |
+| 13 | Independiente Rivadavia | 13 | 2 | 6 | 5 | -3 | 12 |
 | 14 | Newell's Old Boys | 13 | 2 | 5 | 6 | -10 | 11 |
 | 15 | Aldosivi | 13 | 2 | 3 | 8 | -10 | 9 |
 | 1 | Lanús | 13 | 8 | 2 | 3 | 6 | 26 |
