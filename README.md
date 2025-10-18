@@ -41,14 +41,14 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 04:21 PM UTC (Saturday, 18 October 2025, 09:51 PM IST)
+**Last Updated:** Saturday, 18 October 2025, 04:42 PM UTC (Saturday, 18 October 2025, 10:12 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Manchester City | 8 | 5 | 1 | 2 | 11 | 16 |
-| 2 | Arsenal | 7 | 5 | 1 | 1 | 11 | 16 |
+| 1 | Arsenal | 8 | 5 | 2 | 1 | 11 | 17 |
+| 2 | Manchester City | 8 | 5 | 1 | 2 | 11 | 16 |
 | 3 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
 | 4 | AFC Bournemouth | 8 | 4 | 3 | 1 | 3 | 15 |
 | 5 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
@@ -60,7 +60,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
 | 12 | Newcastle United | 8 | 2 | 3 | 3 | 0 | 9 |
 | 13 | Aston Villa | 7 | 2 | 3 | 2 | -1 | 9 |
-| 14 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
+| 14 | Fulham | 8 | 2 | 3 | 3 | -3 | 9 |
 | 15 | Leeds United | 8 | 2 | 2 | 4 | -6 | 8 |
 | 16 | Brentford | 7 | 2 | 1 | 4 | -3 | 7 |
 | 17 | Burnley | 8 | 2 | 1 | 5 | -6 | 7 |
@@ -74,8 +74,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 9 | 7 | 1 | 1 | 14 | 22 |
 | 2 | Real Madrid | 8 | 7 | 0 | 1 | 10 | 21 |
-| 3 | Villarreal | 8 | 5 | 1 | 2 | 6 | 16 |
-| 4 | Real Betis | 8 | 4 | 3 | 1 | 5 | 15 |
+| 3 | Villarreal | 9 | 5 | 2 | 2 | 6 | 17 |
+| 4 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
 | 5 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
 | 6 | Atlético de Madrid | 8 | 3 | 4 | 1 | 5 | 13 |
 | 7 | Sevilla | 9 | 4 | 1 | 4 | 2 | 13 |
@@ -97,10 +97,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 6 | 6 | 0 | 0 | 22 | 18 |
+| 1 | Bayern Munich | 7 | 6 | 1 | 0 | 22 | 19 |
 | 2 | RB Leipzig | 7 | 5 | 1 | 1 | 1 | 16 |
-| 3 | VfB Stuttgart | 7 | 5 | 0 | 2 | 5 | 15 |
-| 4 | Borussia Dortmund | 6 | 4 | 2 | 0 | 8 | 14 |
+| 3 | Borussia Dortmund | 7 | 4 | 3 | 0 | 8 | 15 |
+| 4 | VfB Stuttgart | 7 | 5 | 0 | 2 | 5 | 15 |
 | 5 | Bayer Leverkusen | 7 | 4 | 2 | 1 | 5 | 14 |
 | 6 | Köln | 7 | 3 | 2 | 2 | 2 | 11 |
 | 7 | Union Berlin | 7 | 3 | 1 | 3 | -3 | 10 |
@@ -120,8 +120,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Napoli | 7 | 5 | 1 | 1 | 6 | 16 |
-| 2 | Roma | 6 | 5 | 0 | 1 | 5 | 15 |
+| 1 | Roma | 6 | 5 | 0 | 1 | 5 | 15 |
+| 2 | Napoli | 7 | 5 | 0 | 2 | 5 | 15 |
 | 3 | Milan | 6 | 4 | 1 | 1 | 6 | 13 |
 | 4 | Inter | 6 | 4 | 0 | 2 | 9 | 12 |
 | 5 | Juventus | 6 | 3 | 3 | 0 | 4 | 12 |
@@ -132,9 +132,9 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Cremonese | 6 | 2 | 3 | 1 | -1 | 9 |
 | 11 | Cagliari | 6 | 2 | 2 | 2 | 0 | 8 |
 | 12 | Udinese | 6 | 2 | 2 | 2 | -3 | 8 |
-| 13 | Lazio | 6 | 2 | 1 | 3 | 3 | 7 |
-| 14 | Lecce | 7 | 1 | 3 | 3 | -5 | 6 |
-| 15 | Torino | 7 | 1 | 3 | 3 | -8 | 6 |
+| 13 | Torino | 7 | 2 | 2 | 3 | -7 | 8 |
+| 14 | Lazio | 6 | 2 | 1 | 3 | 3 | 7 |
+| 15 | Lecce | 7 | 1 | 3 | 3 | -5 | 6 |
 | 16 | Parma | 6 | 1 | 2 | 3 | -4 | 5 |
 | 17 | Hellas Verona | 7 | 0 | 4 | 3 | -7 | 4 |
 | 18 | Fiorentina | 6 | 0 | 3 | 3 | -4 | 3 |
