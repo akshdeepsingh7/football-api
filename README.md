@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 October 2025, 11:14 AM UTC (Saturday, 18 October 2025, 04:44 PM IST)
+**Last Updated:** Saturday, 18 October 2025, 11:37 AM UTC (Saturday, 18 October 2025, 05:07 PM IST)
 
 ### Premier League
 
@@ -52,8 +52,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
 | 4 | AFC Bournemouth | 7 | 4 | 2 | 1 | 3 | 14 |
 | 5 | Manchester City | 7 | 4 | 1 | 2 | 9 | 13 |
-| 6 | Crystal Palace | 7 | 3 | 3 | 1 | 4 | 12 |
-| 7 | Chelsea | 7 | 3 | 2 | 2 | 4 | 11 |
+| 6 | Chelsea | 8 | 3 | 3 | 2 | 4 | 12 |
+| 7 | Crystal Palace | 7 | 3 | 3 | 1 | 4 | 12 |
 | 8 | Everton | 7 | 3 | 2 | 2 | 2 | 11 |
 | 9 | Sunderland | 7 | 3 | 2 | 2 | 1 | 11 |
 | 10 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
@@ -63,7 +63,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Fulham | 7 | 2 | 2 | 3 | -3 | 8 |
 | 15 | Leeds United | 7 | 2 | 2 | 3 | -4 | 8 |
 | 16 | Brentford | 7 | 2 | 1 | 4 | -3 | 7 |
-| 17 | Nottingham Forest | 7 | 1 | 2 | 4 | -7 | 5 |
+| 17 | Nottingham Forest | 8 | 1 | 3 | 4 | -7 | 6 |
 | 18 | Burnley | 7 | 1 | 1 | 5 | -8 | 4 |
 | 19 | West Ham United | 7 | 1 | 1 | 5 | -10 | 4 |
 | 20 | Wolverhampton Wanderers | 7 | 0 | 2 | 5 | -9 | 2 |
@@ -318,24 +318,24 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Coventry City | 9 | 5 | 4 | 0 | 20 | 19 |
 | 3 | Leicester City | 9 | 4 | 4 | 1 | 5 | 16 |
 | 4 | Preston North End | 9 | 4 | 4 | 1 | 4 | 16 |
-| 5 | Stoke City | 9 | 4 | 3 | 2 | 5 | 15 |
-| 6 | Queens Park Rangers | 9 | 4 | 3 | 2 | -1 | 15 |
-| 7 | West Bromwich Albion | 9 | 4 | 2 | 3 | -1 | 14 |
-| 8 | Millwall | 9 | 4 | 2 | 3 | -3 | 14 |
+| 5 | Queens Park Rangers | 10 | 4 | 4 | 2 | -1 | 16 |
+| 6 | Stoke City | 9 | 4 | 3 | 2 | 5 | 15 |
+| 7 | Millwall | 10 | 4 | 3 | 3 | -3 | 15 |
+| 8 | West Bromwich Albion | 9 | 4 | 2 | 3 | -1 | 14 |
 | 9 | Ipswich Town | 9 | 3 | 4 | 2 | 6 | 13 |
 | 10 | Bristol City | 9 | 3 | 4 | 2 | 5 | 13 |
-| 11 | Watford | 9 | 3 | 3 | 3 | 0 | 12 |
-| 12 | Swansea City | 9 | 3 | 3 | 3 | 0 | 12 |
+| 11 | Swansea City | 10 | 3 | 4 | 3 | 0 | 13 |
+| 12 | Watford | 9 | 3 | 3 | 3 | 0 | 12 |
 | 13 | Charlton Athletic | 9 | 3 | 3 | 3 | 0 | 12 |
-| 14 | Portsmouth | 9 | 3 | 3 | 3 | -1 | 12 |
-| 15 | Hull City | 9 | 3 | 3 | 3 | -2 | 12 |
-| 16 | Birmingham City | 9 | 3 | 3 | 3 | -3 | 12 |
-| 17 | Southampton | 9 | 2 | 5 | 2 | -1 | 11 |
+| 14 | Southampton | 10 | 2 | 6 | 2 | -1 | 12 |
+| 15 | Portsmouth | 9 | 3 | 3 | 3 | -1 | 12 |
+| 16 | Hull City | 9 | 3 | 3 | 3 | -2 | 12 |
+| 17 | Birmingham City | 9 | 3 | 3 | 3 | -3 | 12 |
 | 18 | Wrexham | 9 | 2 | 4 | 3 | -1 | 10 |
-| 19 | Norwich City | 9 | 2 | 2 | 5 | -3 | 8 |
-| 20 | Derby County | 9 | 1 | 5 | 3 | -4 | 8 |
-| 21 | Blackburn Rovers | 8 | 2 | 1 | 5 | -4 | 7 |
-| 22 | Oxford United | 9 | 1 | 3 | 5 | -3 | 6 |
+| 19 | Derby County | 10 | 1 | 6 | 3 | -4 | 9 |
+| 20 | Norwich City | 9 | 2 | 2 | 5 | -3 | 8 |
+| 21 | Oxford United | 10 | 1 | 4 | 5 | -3 | 7 |
+| 22 | Blackburn Rovers | 8 | 2 | 1 | 5 | -4 | 7 |
 | 23 | Sheffield Wednesday | 9 | 1 | 3 | 5 | -12 | 6 |
 | 24 | Sheffield United | 9 | 1 | 0 | 8 | -13 | 3 |
 

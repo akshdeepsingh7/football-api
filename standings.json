@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 October 2025, 11:14 AM UTC",
-        "IST": "Saturday, 18 October 2025, 04:44 PM IST"
+        "UTC": "Saturday, 18 October 2025, 11:37 AM UTC",
+        "IST": "Saturday, 18 October 2025, 05:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -57,6 +57,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Chelsea",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "12"
+            },
+            {
+                "Position": "7",
                 "Team": "Crystal Palace",
                 "Played": "7",
                 "Wins": "3",
@@ -64,16 +74,6 @@
                 "Losses": "1",
                 "Goal Difference": "4",
                 "Points": "12"
-            },
-            {
-                "Position": "7",
-                "Team": "Chelsea",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "4",
-                "Points": "11"
             },
             {
                 "Position": "8",
@@ -168,12 +168,12 @@
             {
                 "Position": "17",
                 "Team": "Nottingham Forest",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "1",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-7",
-                "Points": "5"
+                "Points": "6"
             },
             {
                 "Position": "18",
@@ -2285,6 +2285,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Queens Park Rangers",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "16"
+            },
+            {
+                "Position": "6",
                 "Team": "Stoke City",
                 "Played": "9",
                 "Wins": "4",
@@ -2294,33 +2304,23 @@
                 "Points": "15"
             },
             {
-                "Position": "6",
-                "Team": "Queens Park Rangers",
-                "Played": "9",
+                "Position": "7",
+                "Team": "Millwall",
+                "Played": "10",
                 "Wins": "4",
                 "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-1",
+                "Losses": "3",
+                "Goal Difference": "-3",
                 "Points": "15"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "West Bromwich Albion",
                 "Played": "9",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-1",
-                "Points": "14"
-            },
-            {
-                "Position": "8",
-                "Team": "Millwall",
-                "Played": "9",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-3",
                 "Points": "14"
             },
             {
@@ -2345,17 +2345,17 @@
             },
             {
                 "Position": "11",
-                "Team": "Watford",
-                "Played": "9",
+                "Team": "Swansea City",
+                "Played": "10",
                 "Wins": "3",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "3",
                 "Goal Difference": "0",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "12",
-                "Team": "Swansea City",
+                "Team": "Watford",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "3",
@@ -2375,6 +2375,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Southampton",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "6",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "12"
+            },
+            {
+                "Position": "15",
                 "Team": "Portsmouth",
                 "Played": "9",
                 "Wins": "3",
@@ -2384,7 +2394,7 @@
                 "Points": "12"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Hull City",
                 "Played": "9",
                 "Wins": "3",
@@ -2394,7 +2404,7 @@
                 "Points": "12"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Birmingham City",
                 "Played": "9",
                 "Wins": "3",
@@ -2402,16 +2412,6 @@
                 "Losses": "3",
                 "Goal Difference": "-3",
                 "Points": "12"
-            },
-            {
-                "Position": "17",
-                "Team": "Southampton",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "11"
             },
             {
                 "Position": "18",
@@ -2425,6 +2425,16 @@
             },
             {
                 "Position": "19",
+                "Team": "Derby County",
+                "Played": "10",
+                "Wins": "1",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "-4",
+                "Points": "9"
+            },
+            {
+                "Position": "20",
                 "Team": "Norwich City",
                 "Played": "9",
                 "Wins": "2",
@@ -2434,17 +2444,17 @@
                 "Points": "8"
             },
             {
-                "Position": "20",
-                "Team": "Derby County",
-                "Played": "9",
+                "Position": "21",
+                "Team": "Oxford United",
+                "Played": "10",
                 "Wins": "1",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "8"
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-3",
+                "Points": "7"
             },
             {
-                "Position": "21",
+                "Position": "22",
                 "Team": "Blackburn Rovers",
                 "Played": "8",
                 "Wins": "2",
@@ -2452,16 +2462,6 @@
                 "Losses": "5",
                 "Goal Difference": "-4",
                 "Points": "7"
-            },
-            {
-                "Position": "22",
-                "Team": "Oxford United",
-                "Played": "9",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-3",
-                "Points": "6"
             },
             {
                 "Position": "23",
