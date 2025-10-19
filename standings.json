@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 02:16 PM UTC",
-        "IST": "Sunday, 19 October 2025, 07:46 PM IST"
+        "UTC": "Sunday, 19 October 2025, 02:38 PM UTC",
+        "IST": "Sunday, 19 October 2025, 08:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -329,6 +329,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Celta de Vigo",
+                "Played": "9",
+                "Wins": "1",
+                "Draws": "6",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "9"
+            },
+            {
+                "Position": "14",
                 "Team": "Levante",
                 "Played": "8",
                 "Wins": "2",
@@ -338,7 +348,7 @@
                 "Points": "8"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "8",
                 "Wins": "2",
@@ -348,7 +358,7 @@
                 "Points": "8"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Valencia",
                 "Played": "8",
                 "Wins": "2",
@@ -358,7 +368,7 @@
                 "Points": "8"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Mallorca",
                 "Played": "9",
                 "Wins": "2",
@@ -366,16 +376,6 @@
                 "Losses": "5",
                 "Goal Difference": "-4",
                 "Points": "8"
-            },
-            {
-                "Position": "17",
-                "Team": "Celta de Vigo",
-                "Played": "8",
-                "Wins": "0",
-                "Draws": "6",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "6"
             },
             {
                 "Position": "18",
@@ -400,11 +400,11 @@
             {
                 "Position": "20",
                 "Team": "Real Sociedad",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "1",
                 "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-5",
+                "Losses": "6",
+                "Goal Difference": "-6",
                 "Points": "5"
             }
         ],
@@ -825,6 +825,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Lens",
+                "Played": "8",
+                "Wins": "5",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "5",
+                "Points": "16"
+            },
+            {
+                "Position": "5",
                 "Team": "Lyon",
                 "Played": "8",
                 "Wins": "5",
@@ -834,18 +844,8 @@
                 "Points": "15"
             },
             {
-                "Position": "5",
-                "Team": "Monaco",
-                "Played": "8",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "4",
-                "Points": "14"
-            },
-            {
                 "Position": "6",
-                "Team": "Lens",
+                "Team": "Monaco",
                 "Played": "8",
                 "Wins": "4",
                 "Draws": "2",
@@ -865,16 +865,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Paris",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "11"
-            },
-            {
-                "Position": "9",
                 "Team": "Nice",
                 "Played": "8",
                 "Wins": "3",
@@ -884,7 +874,7 @@
                 "Points": "11"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Toulouse",
                 "Played": "7",
                 "Wins": "3",
@@ -894,13 +884,23 @@
                 "Points": "10"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Rennes",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "-1",
+                "Points": "10"
+            },
+            {
+                "Position": "11",
+                "Team": "Paris",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-2",
                 "Points": "10"
             },
             {
