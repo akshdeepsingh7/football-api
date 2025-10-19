@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 October 2025, 08:39 PM UTC (Monday, 20 October 2025, 02:09 AM IST)
+**Last Updated:** Sunday, 19 October 2025, 09:16 PM UTC (Monday, 20 October 2025, 02:46 AM IST)
 
 ### Premier League
 
@@ -72,8 +72,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 9 | 7 | 1 | 1 | 14 | 22 |
-| 2 | Real Madrid | 9 | 7 | 1 | 1 | 10 | 22 |
+| 1 | Real Madrid | 9 | 8 | 0 | 1 | 11 | 24 |
+| 2 | Barcelona | 9 | 7 | 1 | 1 | 14 | 22 |
 | 3 | Villarreal | 9 | 5 | 2 | 2 | 6 | 17 |
 | 4 | Atlético de Madrid | 9 | 4 | 4 | 1 | 6 | 16 |
 | 5 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
@@ -81,9 +81,9 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Elche | 9 | 3 | 5 | 1 | 2 | 14 |
 | 8 | Athletic Bilbao | 9 | 4 | 2 | 3 | 0 | 14 |
 | 9 | Sevilla | 9 | 4 | 1 | 4 | 2 | 13 |
-| 10 | Getafe | 9 | 3 | 3 | 3 | -2 | 12 |
-| 11 | Rayo Vallecano | 9 | 3 | 2 | 4 | 1 | 11 |
-| 12 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
+| 10 | Rayo Vallecano | 9 | 3 | 2 | 4 | 1 | 11 |
+| 11 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
+| 12 | Getafe | 9 | 3 | 2 | 4 | -3 | 11 |
 | 13 | Osasuna | 9 | 3 | 1 | 5 | -2 | 10 |
 | 14 | Levante | 9 | 2 | 2 | 5 | -4 | 8 |
 | 15 | Valencia | 8 | 2 | 2 | 4 | -4 | 8 |
@@ -414,25 +414,25 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Lanús | 13 | 8 | 2 | 3 | 6 | 26 |
 | 2 | Vélez | 13 | 7 | 4 | 2 | 10 | 25 |
 | 3 | Riestra | 12 | 7 | 3 | 2 | 8 | 24 |
-| 4 | River Plate | 13 | 6 | 3 | 4 | 8 | 21 |
-| 5 | Rosario | 11 | 5 | 6 | 0 | 7 | 21 |
+| 4 | Rosario | 12 | 5 | 7 | 0 | 7 | 22 |
+| 5 | River Plate | 13 | 6 | 3 | 4 | 8 | 21 |
 | 6 | San Lorenzo | 12 | 4 | 4 | 4 | 0 | 16 |
 | 7 | Atl. Tucumán | 12 | 4 | 3 | 5 | 0 | 15 |
-| 8 | Sarmiento | 12 | 4 | 3 | 5 | -4 | 15 |
-| 9 | Instituto | 12 | 3 | 6 | 3 | -4 | 15 |
-| 10 | San Martín SJ | 12 | 3 | 5 | 4 | -2 | 14 |
+| 8 | San Martín SJ | 13 | 3 | 6 | 4 | -2 | 15 |
+| 9 | Sarmiento | 12 | 4 | 3 | 5 | -4 | 15 |
+| 10 | Instituto | 12 | 3 | 6 | 3 | -4 | 15 |
 | 11 | Talleres | 13 | 3 | 5 | 5 | -5 | 14 |
 | 12 | GELP | 13 | 4 | 1 | 8 | -8 | 13 |
-| 13 | Platense | 11 | 2 | 5 | 4 | -5 | 11 |
+| 13 | Platense | 12 | 2 | 6 | 4 | -5 | 12 |
 | 14 | Godoy Cruz | 13 | 1 | 7 | 5 | -7 | 10 |
-| 15 | Independiente | 11 | 0 | 6 | 5 | -6 | 6 |
+| 15 | Independiente | 12 | 0 | 7 | 5 | -6 | 7 |
 
 ### Brasileirão
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 28 | 19 | 4 | 5 | 26 | 61 |
-| 2 | Flamengo | 28 | 18 | 7 | 3 | 42 | 61 |
+| 1 | Palmeiras | 28 | 19 | 4 | 5 | 27 | 61 |
+| 2 | Flamengo | 28 | 18 | 7 | 3 | 41 | 61 |
 | 3 | Cruzeiro | 29 | 16 | 8 | 5 | 21 | 56 |
 | 4 | Mirassol | 28 | 13 | 10 | 5 | 17 | 49 |
 | 5 | Botafogo | 28 | 12 | 7 | 9 | 11 | 43 |
