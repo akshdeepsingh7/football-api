@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 09:37 PM UTC",
-        "IST": "Monday, 20 October 2025, 03:07 AM IST"
+        "UTC": "Sunday, 19 October 2025, 10:17 PM UTC",
+        "IST": "Monday, 20 October 2025, 03:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3103,11 +3103,11 @@
                 "Position": "4",
                 "Team": "Rosario",
                 "Played": "12",
-                "Wins": "5",
-                "Draws": "7",
+                "Wins": "6",
+                "Draws": "6",
                 "Losses": "0",
-                "Goal Difference": "7",
-                "Points": "22"
+                "Goal Difference": "8",
+                "Points": "24"
             },
             {
                 "Position": "5",
@@ -3194,10 +3194,10 @@
                 "Team": "Platense",
                 "Played": "12",
                 "Wins": "2",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "12"
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "-6",
+                "Points": "11"
             },
             {
                 "Position": "14",
@@ -3258,18 +3258,18 @@
                 "Wins": "14",
                 "Draws": "10",
                 "Losses": "5",
-                "Goal Difference": "18",
+                "Goal Difference": "19",
                 "Points": "52"
             },
             {
                 "Position": "5",
                 "Team": "Botafogo",
                 "Played": "29",
-                "Wins": "12",
-                "Draws": "8",
+                "Wins": "13",
+                "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "11",
-                "Points": "44"
+                "Goal Difference": "12",
+                "Points": "46"
             },
             {
                 "Position": "6",
@@ -3298,7 +3298,7 @@
                 "Wins": "10",
                 "Draws": "8",
                 "Losses": "11",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "38"
             },
             {
@@ -3323,16 +3323,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Cear\u00e1",
-                "Played": "28",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "2",
-                "Points": "36"
-            },
-            {
-                "Position": "12",
                 "Team": "Gr\u00eamio",
                 "Played": "28",
                 "Wins": "9",
@@ -3342,7 +3332,7 @@
                 "Points": "36"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Corinthians",
                 "Played": "29",
                 "Wins": "9",
@@ -3352,23 +3342,33 @@
                 "Points": "36"
             },
             {
+                "Position": "13",
+                "Team": "Cear\u00e1",
+                "Played": "28",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "1",
+                "Points": "35"
+            },
+            {
                 "Position": "14",
+                "Team": "Internacional",
+                "Played": "28",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-7",
+                "Points": "35"
+            },
+            {
+                "Position": "15",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "28",
                 "Wins": "8",
                 "Draws": "9",
                 "Losses": "11",
                 "Goal Difference": "-6",
-                "Points": "33"
-            },
-            {
-                "Position": "15",
-                "Team": "Internacional",
-                "Played": "28",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-8",
                 "Points": "33"
             },
             {
@@ -3416,10 +3416,10 @@
                 "Team": "Sport",
                 "Played": "28",
                 "Wins": "2",
-                "Draws": "12",
-                "Losses": "14",
-                "Goal Difference": "-21",
-                "Points": "18"
+                "Draws": "11",
+                "Losses": "15",
+                "Goal Difference": "-22",
+                "Points": "17"
             }
         ]
     }
