@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 October 2025, 10:18 AM UTC (Sunday, 19 October 2025, 03:48 PM IST)
+**Last Updated:** Sunday, 19 October 2025, 10:39 AM UTC (Sunday, 19 October 2025, 04:09 PM IST)
 
 ### Premier League
 
@@ -124,11 +124,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Napoli | 7 | 5 | 0 | 2 | 5 | 15 |
 | 3 | Roma | 7 | 5 | 0 | 2 | 4 | 15 |
 | 4 | Milan | 6 | 4 | 1 | 1 | 6 | 13 |
-| 5 | Juventus | 6 | 3 | 3 | 0 | 4 | 12 |
-| 6 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
-| 7 | Bologna | 6 | 3 | 1 | 2 | 4 | 10 |
-| 8 | Sassuolo | 7 | 3 | 1 | 3 | 0 | 10 |
-| 9 | Como | 6 | 2 | 3 | 1 | 2 | 9 |
+| 5 | Juventus | 7 | 3 | 3 | 1 | 3 | 12 |
+| 6 | Como | 7 | 3 | 3 | 1 | 3 | 12 |
+| 7 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
+| 8 | Bologna | 6 | 3 | 1 | 2 | 4 | 10 |
+| 9 | Sassuolo | 7 | 3 | 1 | 3 | 0 | 10 |
 | 10 | Cremonese | 6 | 2 | 3 | 1 | -1 | 9 |
 | 11 | Cagliari | 6 | 2 | 2 | 2 | 0 | 8 |
 | 12 | Udinese | 6 | 2 | 2 | 2 | -3 | 8 |
