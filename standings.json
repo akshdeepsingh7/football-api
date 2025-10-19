@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 07:14 PM UTC",
-        "IST": "Monday, 20 October 2025, 12:44 AM IST"
+        "UTC": "Sunday, 19 October 2025, 07:37 PM UTC",
+        "IST": "Monday, 20 October 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3081,6 +3081,16 @@
             },
             {
                 "Position": "2",
+                "Team": "V\u00e9lez",
+                "Played": "13",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "10",
+                "Points": "25"
+            },
+            {
+                "Position": "3",
                 "Team": "Riestra",
                 "Played": "12",
                 "Wins": "7",
@@ -3088,16 +3098,6 @@
                 "Losses": "2",
                 "Goal Difference": "8",
                 "Points": "24"
-            },
-            {
-                "Position": "3",
-                "Team": "V\u00e9lez",
-                "Played": "13",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "8",
-                "Points": "23"
             },
             {
                 "Position": "4",
@@ -3131,22 +3131,22 @@
             },
             {
                 "Position": "7",
-                "Team": "Sarmiento",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "16"
-            },
-            {
-                "Position": "8",
                 "Team": "Atl. Tucum\u00e1n",
                 "Played": "12",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "0",
+                "Points": "15"
+            },
+            {
+                "Position": "8",
+                "Team": "Sarmiento",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-4",
                 "Points": "15"
             },
             {
@@ -3226,20 +3226,20 @@
                 "Team": "Palmeiras",
                 "Played": "28",
                 "Wins": "19",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "27",
-                "Points": "61"
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "28",
+                "Points": "62"
             },
             {
                 "Position": "2",
                 "Team": "Flamengo",
                 "Played": "28",
-                "Wins": "18",
-                "Draws": "7",
+                "Wins": "17",
+                "Draws": "8",
                 "Losses": "3",
-                "Goal Difference": "41",
-                "Points": "61"
+                "Goal Difference": "40",
+                "Points": "59"
             },
             {
                 "Position": "3",

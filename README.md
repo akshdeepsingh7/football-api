@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 October 2025, 07:14 PM UTC (Monday, 20 October 2025, 12:44 AM IST)
+**Last Updated:** Sunday, 19 October 2025, 07:37 PM UTC (Monday, 20 October 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -412,13 +412,13 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Newell's Old Boys | 13 | 2 | 5 | 6 | -10 | 11 |
 | 15 | Aldosivi | 13 | 2 | 3 | 8 | -10 | 9 |
 | 1 | Lanús | 13 | 8 | 2 | 3 | 6 | 26 |
-| 2 | Riestra | 12 | 7 | 3 | 2 | 8 | 24 |
-| 3 | Vélez | 13 | 6 | 5 | 2 | 8 | 23 |
+| 2 | Vélez | 13 | 7 | 4 | 2 | 10 | 25 |
+| 3 | Riestra | 12 | 7 | 3 | 2 | 8 | 24 |
 | 4 | River Plate | 13 | 6 | 3 | 4 | 8 | 21 |
 | 5 | Rosario | 11 | 5 | 6 | 0 | 7 | 21 |
 | 6 | San Lorenzo | 12 | 4 | 4 | 4 | 0 | 16 |
-| 7 | Sarmiento | 12 | 4 | 4 | 4 | -2 | 16 |
-| 8 | Atl. Tucumán | 12 | 4 | 3 | 5 | 0 | 15 |
+| 7 | Atl. Tucumán | 12 | 4 | 3 | 5 | 0 | 15 |
+| 8 | Sarmiento | 12 | 4 | 3 | 5 | -4 | 15 |
 | 9 | Instituto | 12 | 3 | 6 | 3 | -4 | 15 |
 | 10 | San Martín SJ | 12 | 3 | 5 | 4 | -2 | 14 |
 | 11 | Talleres | 13 | 3 | 5 | 5 | -5 | 14 |
@@ -431,8 +431,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 28 | 19 | 4 | 5 | 27 | 61 |
-| 2 | Flamengo | 28 | 18 | 7 | 3 | 41 | 61 |
+| 1 | Palmeiras | 28 | 19 | 5 | 4 | 28 | 62 |
+| 2 | Flamengo | 28 | 17 | 8 | 3 | 40 | 59 |
 | 3 | Cruzeiro | 29 | 16 | 8 | 5 | 21 | 56 |
 | 4 | Mirassol | 28 | 13 | 10 | 5 | 17 | 49 |
 | 5 | Botafogo | 28 | 12 | 7 | 9 | 11 | 43 |
