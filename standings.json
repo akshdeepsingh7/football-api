@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 10:17 PM UTC",
-        "IST": "Monday, 20 October 2025, 03:47 AM IST"
+        "UTC": "Sunday, 19 October 2025, 10:39 PM UTC",
+        "IST": "Monday, 20 October 2025, 04:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3121,6 +3121,16 @@
             },
             {
                 "Position": "6",
+                "Team": "San Mart\u00edn SJ",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "17"
+            },
+            {
+                "Position": "7",
                 "Team": "San Lorenzo",
                 "Played": "12",
                 "Wins": "4",
@@ -3130,23 +3140,13 @@
                 "Points": "16"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Atl. Tucum\u00e1n",
                 "Played": "12",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "0",
-                "Points": "15"
-            },
-            {
-                "Position": "8",
-                "Team": "San Mart\u00edn SJ",
-                "Played": "13",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "-2",
                 "Points": "15"
             },
             {
@@ -3214,10 +3214,10 @@
                 "Team": "Independiente",
                 "Played": "12",
                 "Wins": "0",
-                "Draws": "7",
-                "Losses": "5",
-                "Goal Difference": "-6",
-                "Points": "7"
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "-7",
+                "Points": "6"
             }
         ],
         "Brasileir\u00e3o": [
