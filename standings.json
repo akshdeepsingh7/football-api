@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 04:21 PM UTC",
-        "IST": "Sunday, 19 October 2025, 09:51 PM IST"
+        "UTC": "Sunday, 19 October 2025, 04:42 PM UTC",
+        "IST": "Sunday, 19 October 2025, 10:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -330,22 +330,22 @@
             {
                 "Position": "13",
                 "Team": "Levante",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-1",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "14",
                 "Team": "Rayo Vallecano",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-2",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "15",
@@ -865,6 +865,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Rennes",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "13"
+            },
+            {
+                "Position": "9",
                 "Team": "Lille",
                 "Played": "7",
                 "Wins": "3",
@@ -874,27 +884,7 @@
                 "Points": "11"
             },
             {
-                "Position": "9",
-                "Team": "Brest",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "1",
-                "Points": "11"
-            },
-            {
                 "Position": "10",
-                "Team": "Rennes",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "11"
-            },
-            {
-                "Position": "11",
                 "Team": "Nice",
                 "Played": "8",
                 "Wins": "3",
@@ -904,7 +894,7 @@
                 "Points": "11"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Paris",
                 "Played": "8",
                 "Wins": "3",
@@ -914,27 +904,27 @@
                 "Points": "10"
             },
             {
-                "Position": "13",
-                "Team": "Auxerre",
+                "Position": "12",
+                "Team": "Brest",
                 "Played": "8",
                 "Wins": "2",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-5",
-                "Points": "7"
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "9"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Lorient",
                 "Played": "8",
                 "Wins": "2",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-8",
-                "Points": "7"
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-7",
+                "Points": "8"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Nantes",
                 "Played": "7",
                 "Wins": "1",
@@ -944,12 +934,22 @@
                 "Points": "6"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Le Havre",
                 "Played": "8",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "4",
+                "Goal Difference": "-6",
+                "Points": "6"
+            },
+            {
+                "Position": "16",
+                "Team": "Auxerre",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "6",
                 "Goal Difference": "-6",
                 "Points": "6"
             },
