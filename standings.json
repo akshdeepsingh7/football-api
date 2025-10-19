@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 04:42 PM UTC",
-        "IST": "Sunday, 19 October 2025, 10:12 PM IST"
+        "UTC": "Sunday, 19 October 2025, 05:15 PM UTC",
+        "IST": "Sunday, 19 October 2025, 10:45 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Rayo Vallecano",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "11"
+            },
+            {
+                "Position": "12",
                 "Team": "Getafe",
                 "Played": "8",
                 "Wins": "3",
@@ -318,7 +328,7 @@
                 "Points": "11"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Osasuna",
                 "Played": "9",
                 "Wins": "3",
@@ -328,24 +338,14 @@
                 "Points": "10"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Levante",
                 "Played": "9",
                 "Wins": "2",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "9"
-            },
-            {
-                "Position": "14",
-                "Team": "Rayo Vallecano",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "9"
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-3",
+                "Points": "8"
             },
             {
                 "Position": "15",
@@ -481,6 +481,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Hoffenheim",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "10"
+            },
+            {
+                "Position": "9",
                 "Team": "Union Berlin",
                 "Played": "7",
                 "Wins": "3",
@@ -490,7 +500,7 @@
                 "Points": "10"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "SC Freiburg",
                 "Played": "7",
                 "Wins": "2",
@@ -500,27 +510,7 @@
                 "Points": "9"
             },
             {
-                "Position": "10",
-                "Team": "St. Pauli",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "8"
-            },
-            {
                 "Position": "11",
-                "Team": "Hoffenheim",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "8"
-            },
-            {
-                "Position": "12",
                 "Team": "Hamburg",
                 "Played": "7",
                 "Wins": "2",
@@ -530,7 +520,7 @@
                 "Points": "8"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Werder Bremen",
                 "Played": "7",
                 "Wins": "2",
@@ -540,13 +530,23 @@
                 "Points": "8"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Augsburg",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "4",
                 "Goal Difference": "-2",
+                "Points": "7"
+            },
+            {
+                "Position": "14",
+                "Team": "St. Pauli",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-4",
                 "Points": "7"
             },
             {
@@ -860,27 +860,27 @@
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "1",
+                "Goal Difference": "3",
                 "Points": "13"
             },
             {
                 "Position": "8",
-                "Team": "Rennes",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "13"
-            },
-            {
-                "Position": "9",
                 "Team": "Lille",
                 "Played": "7",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "4",
+                "Points": "11"
+            },
+            {
+                "Position": "9",
+                "Team": "Rennes",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "5",
+                "Losses": "1",
+                "Goal Difference": "-1",
                 "Points": "11"
             },
             {
@@ -925,6 +925,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Auxerre",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "5",
+                "Goal Difference": "-5",
+                "Points": "7"
+            },
+            {
+                "Position": "15",
                 "Team": "Nantes",
                 "Played": "7",
                 "Wins": "1",
@@ -934,22 +944,12 @@
                 "Points": "6"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Le Havre",
                 "Played": "8",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "-6",
-                "Points": "6"
-            },
-            {
-                "Position": "16",
-                "Team": "Auxerre",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "6",
                 "Goal Difference": "-6",
                 "Points": "6"
             },
@@ -970,7 +970,7 @@
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "6",
-                "Goal Difference": "-13",
+                "Goal Difference": "-15",
                 "Points": "2"
             }
         ],
