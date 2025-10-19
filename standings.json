@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 05:37 PM UTC",
-        "IST": "Sunday, 19 October 2025, 11:07 PM IST"
+        "UTC": "Sunday, 19 October 2025, 06:25 PM UTC",
+        "IST": "Sunday, 19 October 2025, 11:55 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,22 +299,22 @@
             },
             {
                 "Position": "10",
+                "Team": "Rayo Vallecano",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "1",
+                "Points": "11"
+            },
+            {
+                "Position": "11",
                 "Team": "Alav\u00e9s",
                 "Played": "8",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "1",
-                "Points": "11"
-            },
-            {
-                "Position": "11",
-                "Team": "Rayo Vallecano",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "0",
                 "Points": "11"
             },
             {
@@ -344,7 +344,7 @@
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "5",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "8"
             },
             {
@@ -2931,6 +2931,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Estudiantes",
+                "Played": "13",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "19"
+            },
+            {
+                "Position": "3",
                 "Team": "Argentinos Juniors",
                 "Played": "13",
                 "Wins": "5",
@@ -2940,7 +2950,7 @@
                 "Points": "18"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "C\u00f3rdoba SdE",
                 "Played": "12",
                 "Wins": "4",
@@ -2950,7 +2960,7 @@
                 "Points": "18"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Belgrano",
                 "Played": "13",
                 "Wins": "4",
@@ -2960,23 +2970,13 @@
                 "Points": "18"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Racing Club",
                 "Played": "13",
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "1",
-                "Points": "18"
-            },
-            {
-                "Position": "6",
-                "Team": "Estudiantes",
-                "Played": "12",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "0",
                 "Points": "18"
             },
             {
@@ -3092,12 +3092,12 @@
             {
                 "Position": "3",
                 "Team": "V\u00e9lez",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "6",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "8",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "4",
@@ -3131,22 +3131,22 @@
             },
             {
                 "Position": "7",
+                "Team": "Sarmiento",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "16"
+            },
+            {
+                "Position": "8",
                 "Team": "Atl. Tucum\u00e1n",
                 "Played": "12",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "0",
-                "Points": "15"
-            },
-            {
-                "Position": "8",
-                "Team": "Sarmiento",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-2",
                 "Points": "15"
             },
             {
@@ -3182,12 +3182,12 @@
             {
                 "Position": "12",
                 "Team": "GELP",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "4",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "7",
                 "Goal Difference": "-6",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "13",
