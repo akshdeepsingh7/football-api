@@ -41,15 +41,15 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 October 2025, 01:23 PM UTC (Sunday, 19 October 2025, 06:53 PM IST)
+**Last Updated:** Sunday, 19 October 2025, 01:38 PM UTC (Sunday, 19 October 2025, 07:08 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 8 | 6 | 1 | 1 | 12 | 19 |
-| 2 | Tottenham Hotspur | 8 | 5 | 2 | 1 | 9 | 17 |
-| 3 | Manchester City | 8 | 5 | 1 | 2 | 11 | 16 |
+| 2 | Manchester City | 8 | 5 | 1 | 2 | 11 | 16 |
+| 3 | Tottenham Hotspur | 8 | 4 | 3 | 1 | 8 | 15 |
 | 4 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
 | 5 | AFC Bournemouth | 8 | 4 | 3 | 1 | 3 | 15 |
 | 6 | Chelsea | 8 | 4 | 2 | 2 | 7 | 14 |
@@ -57,9 +57,9 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Crystal Palace | 8 | 3 | 4 | 1 | 4 | 13 |
 | 9 | Brighton & Hove Albion | 8 | 3 | 3 | 2 | 1 | 12 |
 | 10 | Everton | 8 | 3 | 2 | 3 | 0 | 11 |
-| 11 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
-| 12 | Newcastle United | 8 | 2 | 3 | 3 | 0 | 9 |
-| 13 | Aston Villa | 8 | 2 | 3 | 3 | -2 | 9 |
+| 11 | Aston Villa | 8 | 2 | 4 | 2 | -1 | 10 |
+| 12 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
+| 13 | Newcastle United | 8 | 2 | 3 | 3 | 0 | 9 |
 | 14 | Fulham | 8 | 2 | 2 | 4 | -4 | 8 |
 | 15 | Leeds United | 8 | 2 | 2 | 4 | -6 | 8 |
 | 16 | Brentford | 7 | 2 | 1 | 4 | -3 | 7 |
@@ -103,9 +103,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Borussia Dortmund | 7 | 4 | 2 | 1 | 7 | 14 |
 | 5 | Bayer Leverkusen | 7 | 4 | 2 | 1 | 5 | 14 |
 | 6 | Köln | 7 | 3 | 2 | 2 | 2 | 11 |
-| 7 | Union Berlin | 7 | 3 | 1 | 3 | -3 | 10 |
-| 8 | Eintracht Frankfurt | 6 | 3 | 0 | 3 | 1 | 9 |
-| 9 | SC Freiburg | 6 | 2 | 2 | 2 | 0 | 8 |
+| 7 | SC Freiburg | 7 | 3 | 2 | 2 | 1 | 11 |
+| 8 | Union Berlin | 7 | 3 | 1 | 3 | -3 | 10 |
+| 9 | Eintracht Frankfurt | 7 | 3 | 0 | 4 | 0 | 9 |
 | 10 | Hamburg | 7 | 2 | 2 | 3 | -3 | 8 |
 | 11 | Werder Bremen | 7 | 2 | 2 | 3 | -5 | 8 |
 | 12 | St. Pauli | 6 | 2 | 1 | 3 | -1 | 7 |
@@ -124,14 +124,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Napoli | 7 | 5 | 0 | 2 | 5 | 15 |
 | 3 | Roma | 7 | 5 | 0 | 2 | 4 | 15 |
 | 4 | Milan | 6 | 4 | 1 | 1 | 6 | 13 |
-| 5 | Como | 7 | 3 | 3 | 1 | 4 | 12 |
-| 6 | Juventus | 7 | 3 | 3 | 1 | 2 | 12 |
-| 7 | Bologna | 7 | 3 | 2 | 2 | 4 | 11 |
+| 5 | Bologna | 7 | 4 | 1 | 2 | 5 | 13 |
+| 6 | Como | 7 | 3 | 3 | 1 | 4 | 12 |
+| 7 | Juventus | 7 | 3 | 3 | 1 | 2 | 12 |
 | 8 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
 | 9 | Sassuolo | 7 | 3 | 1 | 3 | 0 | 10 |
 | 10 | Cremonese | 6 | 2 | 3 | 1 | -1 | 9 |
-| 11 | Cagliari | 7 | 2 | 3 | 2 | 0 | 9 |
-| 12 | Udinese | 6 | 2 | 2 | 2 | -3 | 8 |
+| 11 | Udinese | 6 | 2 | 2 | 2 | -3 | 8 |
+| 12 | Cagliari | 7 | 2 | 2 | 3 | -1 | 8 |
 | 13 | Torino | 7 | 2 | 2 | 3 | -7 | 8 |
 | 14 | Lazio | 6 | 2 | 1 | 3 | 3 | 7 |
 | 15 | Parma | 7 | 1 | 3 | 3 | -4 | 6 |
@@ -148,14 +148,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Marseille | 8 | 6 | 0 | 2 | 14 | 18 |
 | 2 | PSG | 8 | 5 | 2 | 1 | 8 | 17 |
 | 3 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
-| 4 | Lens | 8 | 5 | 1 | 2 | 5 | 16 |
-| 5 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
-| 6 | Monaco | 8 | 4 | 2 | 2 | 4 | 14 |
+| 4 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
+| 5 | Monaco | 8 | 4 | 2 | 2 | 4 | 14 |
+| 6 | Lens | 8 | 4 | 2 | 2 | 4 | 14 |
 | 7 | Lille | 7 | 3 | 2 | 2 | 4 | 11 |
-| 8 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
-| 9 | Toulouse | 7 | 3 | 1 | 3 | -1 | 10 |
-| 10 | Rennes | 7 | 2 | 4 | 1 | -1 | 10 |
-| 11 | Paris | 8 | 3 | 1 | 4 | -2 | 10 |
+| 8 | Paris | 8 | 3 | 2 | 3 | -1 | 11 |
+| 9 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
+| 10 | Toulouse | 7 | 3 | 1 | 3 | -1 | 10 |
+| 11 | Rennes | 7 | 2 | 4 | 1 | -1 | 10 |
 | 12 | Brest | 7 | 2 | 2 | 3 | 0 | 8 |
 | 13 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
 | 14 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
