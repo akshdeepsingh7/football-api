@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 October 2025, 07:37 PM UTC (Monday, 20 October 2025, 01:07 AM IST)
+**Last Updated:** Sunday, 19 October 2025, 08:20 PM UTC (Monday, 20 October 2025, 01:50 AM IST)
 
 ### Premier League
 
@@ -431,8 +431,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 28 | 19 | 5 | 4 | 28 | 62 |
-| 2 | Flamengo | 28 | 17 | 8 | 3 | 40 | 59 |
+| 1 | Palmeiras | 28 | 19 | 4 | 5 | 26 | 61 |
+| 2 | Flamengo | 28 | 18 | 7 | 3 | 42 | 61 |
 | 3 | Cruzeiro | 29 | 16 | 8 | 5 | 21 | 56 |
 | 4 | Mirassol | 28 | 13 | 10 | 5 | 17 | 49 |
 | 5 | Botafogo | 28 | 12 | 7 | 9 | 11 | 43 |
