@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 October 2025, 01:44 AM UTC (Sunday, 19 October 2025, 07:14 AM IST)
+**Last Updated:** Sunday, 19 October 2025, 03:16 AM UTC (Sunday, 19 October 2025, 08:46 AM IST)
 
 ### Premier League
 
@@ -358,19 +358,19 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | CF Montréal | 34 | 6 | 10 | 18 | -26 | 28 |
 | 14 | Atlanta United | 34 | 5 | 13 | 16 | -25 | 28 |
 | 15 | DC United | 34 | 5 | 11 | 18 | -36 | 26 |
-| 1 | Vancouver Whitecaps | 34 | 18 | 10 | 6 | 29 | 64 |
-| 2 | San Diego | 34 | 19 | 6 | 9 | 20 | 63 |
+| 1 | San Diego | 34 | 19 | 6 | 9 | 23 | 63 |
+| 2 | Vancouver Whitecaps | 34 | 18 | 9 | 7 | 28 | 63 |
 | 3 | LAFC | 34 | 17 | 9 | 8 | 25 | 60 |
 | 4 | Minnesota United | 34 | 16 | 10 | 8 | 17 | 58 |
 | 5 | Seattle Sounders | 34 | 15 | 10 | 9 | 10 | 55 |
-| 6 | Austin | 34 | 14 | 8 | 12 | -6 | 50 |
-| 7 | Portland Timbers | 34 | 11 | 11 | 12 | -4 | 44 |
-| 8 | Real Salt Lake | 34 | 13 | 4 | 17 | -10 | 43 |
-| 9 | Dallas | 34 | 10 | 12 | 12 | -4 | 42 |
-| 10 | Colorado Rapids | 34 | 11 | 8 | 15 | -12 | 41 |
-| 11 | San Jose Earthquakes | 34 | 10 | 8 | 16 | -5 | 38 |
+| 6 | Austin | 34 | 13 | 8 | 13 | -8 | 47 |
+| 7 | Dallas | 34 | 11 | 11 | 12 | -3 | 44 |
+| 8 | Portland Timbers | 34 | 11 | 11 | 12 | -7 | 44 |
+| 9 | Real Salt Lake | 34 | 12 | 5 | 17 | -11 | 41 |
+| 10 | San Jose Earthquakes | 34 | 11 | 8 | 15 | -3 | 41 |
+| 11 | Colorado Rapids | 34 | 11 | 8 | 15 | -12 | 41 |
 | 12 | Houston Dynamo | 34 | 9 | 10 | 15 | -13 | 37 |
-| 13 | St. Louis City | 34 | 8 | 7 | 19 | -15 | 31 |
+| 13 | St. Louis City | 34 | 8 | 8 | 18 | -14 | 32 |
 | 14 | LA Galaxy | 34 | 7 | 9 | 18 | -20 | 30 |
 | 15 | Sporting KC | 34 | 7 | 7 | 20 | -24 | 28 |
 
