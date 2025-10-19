@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 October 2025, 03:17 PM UTC (Sunday, 19 October 2025, 08:47 PM IST)
+**Last Updated:** Sunday, 19 October 2025, 03:37 PM UTC (Sunday, 19 October 2025, 09:07 PM IST)
 
 ### Premier League
 
@@ -49,16 +49,16 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 8 | 6 | 1 | 1 | 12 | 19 |
 | 2 | Manchester City | 8 | 5 | 1 | 2 | 11 | 16 |
-| 3 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
-| 4 | AFC Bournemouth | 8 | 4 | 3 | 1 | 3 | 15 |
+| 3 | AFC Bournemouth | 8 | 4 | 3 | 1 | 3 | 15 |
+| 4 | Liverpool FC | 8 | 5 | 0 | 3 | 3 | 15 |
 | 5 | Chelsea | 8 | 4 | 2 | 2 | 7 | 14 |
 | 6 | Tottenham Hotspur | 8 | 4 | 2 | 2 | 7 | 14 |
 | 7 | Sunderland | 8 | 4 | 2 | 2 | 3 | 14 |
 | 8 | Crystal Palace | 8 | 3 | 4 | 1 | 4 | 13 |
-| 9 | Brighton & Hove Albion | 8 | 3 | 3 | 2 | 1 | 12 |
-| 10 | Aston Villa | 8 | 3 | 3 | 2 | 0 | 12 |
-| 11 | Everton | 8 | 3 | 2 | 3 | 0 | 11 |
-| 12 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
+| 9 | Manchester United | 8 | 4 | 1 | 3 | -1 | 13 |
+| 10 | Brighton & Hove Albion | 8 | 3 | 3 | 2 | 1 | 12 |
+| 11 | Aston Villa | 8 | 3 | 3 | 2 | 0 | 12 |
+| 12 | Everton | 8 | 3 | 2 | 3 | 0 | 11 |
 | 13 | Newcastle United | 8 | 2 | 3 | 3 | 0 | 9 |
 | 14 | Fulham | 8 | 2 | 2 | 4 | -4 | 8 |
 | 15 | Leeds United | 8 | 2 | 2 | 4 | -6 | 8 |
@@ -106,11 +106,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Eintracht Frankfurt | 7 | 3 | 1 | 3 | 1 | 10 |
 | 8 | Union Berlin | 7 | 3 | 1 | 3 | -3 | 10 |
 | 9 | SC Freiburg | 7 | 2 | 3 | 2 | 0 | 9 |
-| 10 | Hamburg | 7 | 2 | 2 | 3 | -3 | 8 |
-| 11 | Werder Bremen | 7 | 2 | 2 | 3 | -5 | 8 |
-| 12 | St. Pauli | 6 | 2 | 1 | 3 | -1 | 7 |
-| 13 | Augsburg | 7 | 2 | 1 | 4 | -2 | 7 |
-| 14 | Hoffenheim | 6 | 2 | 1 | 3 | -3 | 7 |
+| 10 | St. Pauli | 7 | 2 | 2 | 3 | -1 | 8 |
+| 11 | Hoffenheim | 7 | 2 | 2 | 3 | -3 | 8 |
+| 12 | Hamburg | 7 | 2 | 2 | 3 | -3 | 8 |
+| 13 | Werder Bremen | 7 | 2 | 2 | 3 | -5 | 8 |
+| 14 | Augsburg | 7 | 2 | 1 | 4 | -2 | 7 |
 | 15 | VfL Wolfsburg | 7 | 1 | 2 | 4 | -5 | 5 |
 | 16 | Mainz 05 | 7 | 1 | 1 | 5 | -6 | 4 |
 | 17 | Heidenheim | 7 | 1 | 1 | 5 | -7 | 4 |
@@ -151,18 +151,18 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Lens | 8 | 5 | 1 | 2 | 5 | 16 |
 | 5 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
 | 6 | Monaco | 8 | 4 | 2 | 2 | 4 | 14 |
-| 7 | Lille | 7 | 3 | 2 | 2 | 4 | 11 |
-| 8 | Toulouse | 8 | 3 | 2 | 3 | -1 | 11 |
+| 7 | Toulouse | 8 | 4 | 1 | 3 | 1 | 13 |
+| 8 | Lille | 7 | 3 | 2 | 2 | 4 | 11 |
 | 9 | Rennes | 8 | 2 | 5 | 1 | -1 | 11 |
 | 10 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
 | 11 | Paris | 8 | 3 | 1 | 4 | -2 | 10 |
-| 12 | Brest | 8 | 2 | 3 | 3 | 0 | 9 |
-| 13 | Lorient | 8 | 2 | 2 | 4 | -7 | 8 |
+| 12 | Lorient | 8 | 3 | 1 | 4 | -6 | 10 |
+| 13 | Brest | 8 | 2 | 2 | 4 | -1 | 8 |
 | 14 | Auxerre | 8 | 2 | 1 | 5 | -5 | 7 |
 | 15 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
 | 16 | Le Havre | 8 | 1 | 3 | 4 | -6 | 6 |
 | 17 | Angers | 8 | 1 | 3 | 4 | -8 | 6 |
-| 18 | Metz | 8 | 0 | 3 | 5 | -11 | 3 |
+| 18 | Metz | 8 | 0 | 2 | 6 | -13 | 2 |
 
 ### Champions League
 
