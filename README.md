@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 October 2025, 03:37 PM UTC (Sunday, 19 October 2025, 09:07 PM IST)
+**Last Updated:** Sunday, 19 October 2025, 04:21 PM UTC (Sunday, 19 October 2025, 09:51 PM IST)
 
 ### Premier League
 
@@ -84,14 +84,14 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
 | 11 | Getafe | 8 | 3 | 2 | 3 | -2 | 11 |
 | 12 | Osasuna | 9 | 3 | 1 | 5 | -2 | 10 |
-| 13 | Celta de Vigo | 9 | 1 | 6 | 2 | -2 | 9 |
-| 14 | Levante | 8 | 2 | 2 | 4 | -1 | 8 |
-| 15 | Rayo Vallecano | 8 | 2 | 2 | 4 | -2 | 8 |
-| 16 | Valencia | 8 | 2 | 2 | 4 | -4 | 8 |
-| 17 | Mallorca | 9 | 2 | 2 | 5 | -4 | 8 |
-| 18 | Real Oviedo | 9 | 2 | 0 | 7 | -12 | 6 |
-| 19 | Girona | 9 | 1 | 3 | 5 | -13 | 6 |
-| 20 | Real Sociedad | 9 | 1 | 2 | 6 | -6 | 5 |
+| 13 | Levante | 8 | 2 | 2 | 4 | -1 | 8 |
+| 14 | Rayo Vallecano | 8 | 2 | 2 | 4 | -2 | 8 |
+| 15 | Valencia | 8 | 2 | 2 | 4 | -4 | 8 |
+| 16 | Mallorca | 9 | 2 | 2 | 5 | -4 | 8 |
+| 17 | Celta de Vigo | 9 | 0 | 7 | 2 | -3 | 7 |
+| 18 | Real Sociedad | 9 | 1 | 3 | 5 | -5 | 6 |
+| 19 | Real Oviedo | 9 | 2 | 0 | 7 | -12 | 6 |
+| 20 | Girona | 9 | 1 | 3 | 5 | -13 | 6 |
 
 ### Bundesliga
 
@@ -127,13 +127,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Bologna | 7 | 4 | 1 | 2 | 6 | 13 |
 | 6 | Como | 7 | 3 | 3 | 1 | 4 | 12 |
 | 7 | Juventus | 7 | 3 | 3 | 1 | 2 | 12 |
-| 8 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
+| 8 | Atalanta | 7 | 2 | 5 | 0 | 6 | 11 |
 | 9 | Sassuolo | 7 | 3 | 1 | 3 | 0 | 10 |
 | 10 | Cremonese | 6 | 2 | 3 | 1 | -1 | 9 |
 | 11 | Udinese | 6 | 2 | 2 | 2 | -3 | 8 |
-| 12 | Cagliari | 7 | 2 | 2 | 3 | -2 | 8 |
-| 13 | Torino | 7 | 2 | 2 | 3 | -7 | 8 |
-| 14 | Lazio | 6 | 2 | 1 | 3 | 3 | 7 |
+| 12 | Lazio | 7 | 2 | 2 | 3 | 3 | 8 |
+| 13 | Cagliari | 7 | 2 | 2 | 3 | -2 | 8 |
+| 14 | Torino | 7 | 2 | 2 | 3 | -7 | 8 |
 | 15 | Parma | 7 | 1 | 3 | 3 | -4 | 6 |
 | 16 | Lecce | 7 | 1 | 3 | 3 | -5 | 6 |
 | 17 | Hellas Verona | 7 | 0 | 4 | 3 | -7 | 4 |
@@ -153,12 +153,12 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Monaco | 8 | 4 | 2 | 2 | 4 | 14 |
 | 7 | Toulouse | 8 | 4 | 1 | 3 | 1 | 13 |
 | 8 | Lille | 7 | 3 | 2 | 2 | 4 | 11 |
-| 9 | Rennes | 8 | 2 | 5 | 1 | -1 | 11 |
-| 10 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
-| 11 | Paris | 8 | 3 | 1 | 4 | -2 | 10 |
-| 12 | Lorient | 8 | 3 | 1 | 4 | -6 | 10 |
-| 13 | Brest | 8 | 2 | 2 | 4 | -1 | 8 |
-| 14 | Auxerre | 8 | 2 | 1 | 5 | -5 | 7 |
+| 9 | Brest | 8 | 3 | 2 | 3 | 1 | 11 |
+| 10 | Rennes | 8 | 2 | 5 | 1 | -1 | 11 |
+| 11 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
+| 12 | Paris | 8 | 3 | 1 | 4 | -2 | 10 |
+| 13 | Auxerre | 8 | 2 | 1 | 5 | -5 | 7 |
+| 14 | Lorient | 8 | 2 | 1 | 5 | -8 | 7 |
 | 15 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
 | 16 | Le Havre | 8 | 1 | 3 | 4 | -6 | 6 |
 | 17 | Angers | 8 | 1 | 3 | 4 | -8 | 6 |

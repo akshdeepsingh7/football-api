@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 03:37 PM UTC",
-        "IST": "Sunday, 19 October 2025, 09:07 PM IST"
+        "UTC": "Sunday, 19 October 2025, 04:21 PM UTC",
+        "IST": "Sunday, 19 October 2025, 09:51 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -329,16 +329,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Celta de Vigo",
-                "Played": "9",
-                "Wins": "1",
-                "Draws": "6",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "9"
-            },
-            {
-                "Position": "14",
                 "Team": "Levante",
                 "Played": "8",
                 "Wins": "2",
@@ -348,7 +338,7 @@
                 "Points": "8"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Rayo Vallecano",
                 "Played": "8",
                 "Wins": "2",
@@ -358,7 +348,7 @@
                 "Points": "8"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Valencia",
                 "Played": "8",
                 "Wins": "2",
@@ -368,7 +358,7 @@
                 "Points": "8"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Mallorca",
                 "Played": "9",
                 "Wins": "2",
@@ -378,7 +368,27 @@
                 "Points": "8"
             },
             {
+                "Position": "17",
+                "Team": "Celta de Vigo",
+                "Played": "9",
+                "Wins": "0",
+                "Draws": "7",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "7"
+            },
+            {
                 "Position": "18",
+                "Team": "Real Sociedad",
+                "Played": "9",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-5",
+                "Points": "6"
+            },
+            {
+                "Position": "19",
                 "Team": "Real Oviedo",
                 "Played": "9",
                 "Wins": "2",
@@ -388,7 +398,7 @@
                 "Points": "6"
             },
             {
-                "Position": "19",
+                "Position": "20",
                 "Team": "Girona",
                 "Played": "9",
                 "Wins": "1",
@@ -396,16 +406,6 @@
                 "Losses": "5",
                 "Goal Difference": "-13",
                 "Points": "6"
-            },
-            {
-                "Position": "20",
-                "Team": "Real Sociedad",
-                "Played": "9",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "-6",
-                "Points": "5"
             }
         ],
         "Bundesliga": [
@@ -664,12 +664,12 @@
             {
                 "Position": "8",
                 "Team": "Atalanta",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "2",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "0",
                 "Goal Difference": "6",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "9",
@@ -703,6 +703,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Lazio",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "3",
+                "Points": "8"
+            },
+            {
+                "Position": "13",
                 "Team": "Cagliari",
                 "Played": "7",
                 "Wins": "2",
@@ -712,7 +722,7 @@
                 "Points": "8"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Torino",
                 "Played": "7",
                 "Wins": "2",
@@ -720,16 +730,6 @@
                 "Losses": "3",
                 "Goal Difference": "-7",
                 "Points": "8"
-            },
-            {
-                "Position": "14",
-                "Team": "Lazio",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "3",
-                "Points": "7"
             },
             {
                 "Position": "15",
@@ -875,6 +875,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Brest",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "1",
+                "Points": "11"
+            },
+            {
+                "Position": "10",
                 "Team": "Rennes",
                 "Played": "8",
                 "Wins": "2",
@@ -884,7 +894,7 @@
                 "Points": "11"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Nice",
                 "Played": "8",
                 "Wins": "3",
@@ -894,7 +904,7 @@
                 "Points": "11"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Paris",
                 "Played": "8",
                 "Wins": "3",
@@ -904,33 +914,23 @@
                 "Points": "10"
             },
             {
-                "Position": "12",
-                "Team": "Lorient",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-6",
-                "Points": "10"
-            },
-            {
                 "Position": "13",
-                "Team": "Brest",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "8"
-            },
-            {
-                "Position": "14",
                 "Team": "Auxerre",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "5",
                 "Goal Difference": "-5",
+                "Points": "7"
+            },
+            {
+                "Position": "14",
+                "Team": "Lorient",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "5",
+                "Goal Difference": "-8",
                 "Points": "7"
             },
             {
