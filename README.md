@@ -41,17 +41,17 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 October 2025, 12:36 PM UTC (Sunday, 19 October 2025, 06:06 PM IST)
+**Last Updated:** Sunday, 19 October 2025, 01:23 PM UTC (Sunday, 19 October 2025, 06:53 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 8 | 6 | 1 | 1 | 12 | 19 |
-| 2 | Manchester City | 8 | 5 | 1 | 2 | 11 | 16 |
-| 3 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
-| 4 | AFC Bournemouth | 8 | 4 | 3 | 1 | 3 | 15 |
-| 5 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
+| 2 | Tottenham Hotspur | 8 | 5 | 2 | 1 | 9 | 17 |
+| 3 | Manchester City | 8 | 5 | 1 | 2 | 11 | 16 |
+| 4 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
+| 5 | AFC Bournemouth | 8 | 4 | 3 | 1 | 3 | 15 |
 | 6 | Chelsea | 8 | 4 | 2 | 2 | 7 | 14 |
 | 7 | Sunderland | 8 | 4 | 2 | 2 | 3 | 14 |
 | 8 | Crystal Palace | 8 | 3 | 4 | 1 | 4 | 13 |
@@ -59,7 +59,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Everton | 8 | 3 | 2 | 3 | 0 | 11 |
 | 11 | Manchester United | 7 | 3 | 1 | 3 | -2 | 10 |
 | 12 | Newcastle United | 8 | 2 | 3 | 3 | 0 | 9 |
-| 13 | Aston Villa | 7 | 2 | 3 | 2 | -1 | 9 |
+| 13 | Aston Villa | 8 | 2 | 3 | 3 | -2 | 9 |
 | 14 | Fulham | 8 | 2 | 2 | 4 | -4 | 8 |
 | 15 | Leeds United | 8 | 2 | 2 | 4 | -6 | 8 |
 | 16 | Brentford | 7 | 2 | 1 | 4 | -3 | 7 |
@@ -126,20 +126,20 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Milan | 6 | 4 | 1 | 1 | 6 | 13 |
 | 5 | Como | 7 | 3 | 3 | 1 | 4 | 12 |
 | 6 | Juventus | 7 | 3 | 3 | 1 | 2 | 12 |
-| 7 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
-| 8 | Bologna | 6 | 3 | 1 | 2 | 4 | 10 |
+| 7 | Bologna | 7 | 3 | 2 | 2 | 4 | 11 |
+| 8 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
 | 9 | Sassuolo | 7 | 3 | 1 | 3 | 0 | 10 |
 | 10 | Cremonese | 6 | 2 | 3 | 1 | -1 | 9 |
-| 11 | Cagliari | 6 | 2 | 2 | 2 | 0 | 8 |
+| 11 | Cagliari | 7 | 2 | 3 | 2 | 0 | 9 |
 | 12 | Udinese | 6 | 2 | 2 | 2 | -3 | 8 |
 | 13 | Torino | 7 | 2 | 2 | 3 | -7 | 8 |
 | 14 | Lazio | 6 | 2 | 1 | 3 | 3 | 7 |
-| 15 | Lecce | 7 | 1 | 3 | 3 | -5 | 6 |
-| 16 | Parma | 6 | 1 | 2 | 3 | -4 | 5 |
+| 15 | Parma | 7 | 1 | 3 | 3 | -4 | 6 |
+| 16 | Lecce | 7 | 1 | 3 | 3 | -5 | 6 |
 | 17 | Hellas Verona | 7 | 0 | 4 | 3 | -7 | 4 |
 | 18 | Fiorentina | 6 | 0 | 3 | 3 | -4 | 3 |
-| 19 | Pisa | 7 | 0 | 3 | 4 | -7 | 3 |
-| 20 | Genoa | 6 | 0 | 2 | 4 | -6 | 2 |
+| 19 | Genoa | 7 | 0 | 3 | 4 | -6 | 3 |
+| 20 | Pisa | 7 | 0 | 3 | 4 | -7 | 3 |
 
 ### Ligue 1
 
@@ -148,14 +148,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Marseille | 8 | 6 | 0 | 2 | 14 | 18 |
 | 2 | PSG | 8 | 5 | 2 | 1 | 8 | 17 |
 | 3 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
-| 4 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
-| 5 | Monaco | 8 | 4 | 2 | 2 | 4 | 14 |
-| 6 | Lens | 7 | 4 | 1 | 2 | 4 | 13 |
+| 4 | Lens | 8 | 5 | 1 | 2 | 5 | 16 |
+| 5 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
+| 6 | Monaco | 8 | 4 | 2 | 2 | 4 | 14 |
 | 7 | Lille | 7 | 3 | 2 | 2 | 4 | 11 |
 | 8 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
-| 9 | Paris | 7 | 3 | 1 | 3 | -1 | 10 |
-| 10 | Toulouse | 7 | 3 | 1 | 3 | -1 | 10 |
-| 11 | Rennes | 7 | 2 | 4 | 1 | -1 | 10 |
+| 9 | Toulouse | 7 | 3 | 1 | 3 | -1 | 10 |
+| 10 | Rennes | 7 | 2 | 4 | 1 | -1 | 10 |
+| 11 | Paris | 8 | 3 | 1 | 4 | -2 | 10 |
 | 12 | Brest | 7 | 2 | 2 | 3 | 0 | 8 |
 | 13 | Lorient | 7 | 2 | 1 | 4 | -7 | 7 |
 | 14 | Nantes | 7 | 1 | 3 | 3 | -2 | 6 |
