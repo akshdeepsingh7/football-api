@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 06:44 PM UTC",
-        "IST": "Monday, 20 October 2025, 12:14 AM IST"
+        "UTC": "Sunday, 19 October 2025, 07:14 PM UTC",
+        "IST": "Monday, 20 October 2025, 12:44 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,12 +220,12 @@
             {
                 "Position": "2",
                 "Team": "Real Madrid",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "7",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "10",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "3",
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Getafe",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "12"
+            },
+            {
+                "Position": "11",
                 "Team": "Rayo Vallecano",
                 "Played": "9",
                 "Wins": "3",
@@ -308,23 +318,13 @@
                 "Points": "11"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Alav\u00e9s",
                 "Played": "8",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "1",
-                "Points": "11"
-            },
-            {
-                "Position": "12",
-                "Team": "Getafe",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-2",
                 "Points": "11"
             },
             {
@@ -624,12 +624,12 @@
             {
                 "Position": "4",
                 "Team": "Milan",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "4",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "6",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "5",
@@ -753,6 +753,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Fiorentina",
+                "Played": "7",
+                "Wins": "0",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "-4",
+                "Points": "4"
+            },
+            {
+                "Position": "18",
                 "Team": "Hellas Verona",
                 "Played": "7",
                 "Wins": "0",
@@ -760,16 +770,6 @@
                 "Losses": "3",
                 "Goal Difference": "-7",
                 "Points": "4"
-            },
-            {
-                "Position": "18",
-                "Team": "Fiorentina",
-                "Played": "6",
-                "Wins": "0",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "3"
             },
             {
                 "Position": "19",
@@ -845,6 +845,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Lille",
+                "Played": "8",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "5",
+                "Points": "14"
+            },
+            {
+                "Position": "7",
                 "Team": "Monaco",
                 "Played": "8",
                 "Wins": "4",
@@ -854,7 +864,7 @@
                 "Points": "14"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Toulouse",
                 "Played": "8",
                 "Wins": "4",
@@ -862,16 +872,6 @@
                 "Losses": "3",
                 "Goal Difference": "3",
                 "Points": "13"
-            },
-            {
-                "Position": "8",
-                "Team": "Lille",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "4",
-                "Points": "11"
             },
             {
                 "Position": "9",
@@ -936,11 +936,11 @@
             {
                 "Position": "15",
                 "Team": "Nantes",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "1",
                 "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-2",
+                "Losses": "4",
+                "Goal Difference": "-3",
                 "Points": "6"
             },
             {
@@ -2921,22 +2921,22 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
+                "Team": "Estudiantes",
+                "Played": "13",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "2",
+                "Points": "21"
+            },
+            {
+                "Position": "2",
                 "Team": "Def y Justicia",
                 "Played": "12",
                 "Wins": "5",
                 "Draws": "4",
                 "Losses": "3",
                 "Goal Difference": "3",
-                "Points": "19"
-            },
-            {
-                "Position": "2",
-                "Team": "Estudiantes",
-                "Played": "13",
-                "Wins": "5",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "0",
                 "Points": "19"
             },
             {
@@ -3184,10 +3184,10 @@
                 "Team": "GELP",
                 "Played": "13",
                 "Wins": "4",
-                "Draws": "2",
-                "Losses": "7",
-                "Goal Difference": "-6",
-                "Points": "14"
+                "Draws": "1",
+                "Losses": "8",
+                "Goal Difference": "-8",
+                "Points": "13"
             },
             {
                 "Position": "13",
@@ -3224,22 +3224,22 @@
             {
                 "Position": "1",
                 "Team": "Palmeiras",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "19",
                 "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "28",
+                "Losses": "5",
+                "Goal Difference": "27",
                 "Points": "61"
             },
             {
                 "Position": "2",
                 "Team": "Flamengo",
-                "Played": "27",
-                "Wins": "17",
+                "Played": "28",
+                "Wins": "18",
                 "Draws": "7",
                 "Losses": "3",
-                "Goal Difference": "40",
-                "Points": "58"
+                "Goal Difference": "41",
+                "Points": "61"
             },
             {
                 "Position": "3",
