@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 October 2025, 01:38 PM UTC (Sunday, 19 October 2025, 07:08 PM IST)
+**Last Updated:** Sunday, 19 October 2025, 02:16 PM UTC (Sunday, 19 October 2025, 07:46 PM IST)
 
 ### Premier League
 
@@ -102,10 +102,10 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | VfB Stuttgart | 7 | 5 | 0 | 2 | 5 | 15 |
 | 4 | Borussia Dortmund | 7 | 4 | 2 | 1 | 7 | 14 |
 | 5 | Bayer Leverkusen | 7 | 4 | 2 | 1 | 5 | 14 |
-| 6 | Köln | 7 | 3 | 2 | 2 | 2 | 11 |
-| 7 | SC Freiburg | 7 | 3 | 2 | 2 | 1 | 11 |
+| 6 | Eintracht Frankfurt | 7 | 4 | 0 | 3 | 2 | 12 |
+| 7 | Köln | 7 | 3 | 2 | 2 | 2 | 11 |
 | 8 | Union Berlin | 7 | 3 | 1 | 3 | -3 | 10 |
-| 9 | Eintracht Frankfurt | 7 | 3 | 0 | 4 | 0 | 9 |
+| 9 | SC Freiburg | 7 | 2 | 2 | 3 | -1 | 8 |
 | 10 | Hamburg | 7 | 2 | 2 | 3 | -3 | 8 |
 | 11 | Werder Bremen | 7 | 2 | 2 | 3 | -5 | 8 |
 | 12 | St. Pauli | 6 | 2 | 1 | 3 | -1 | 7 |

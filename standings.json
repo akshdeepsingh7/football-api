@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 01:38 PM UTC",
-        "IST": "Sunday, 19 October 2025, 07:08 PM IST"
+        "UTC": "Sunday, 19 October 2025, 02:16 PM UTC",
+        "IST": "Sunday, 19 October 2025, 07:46 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -461,22 +461,22 @@
             },
             {
                 "Position": "6",
+                "Team": "Eintracht Frankfurt",
+                "Played": "7",
+                "Wins": "4",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "12"
+            },
+            {
+                "Position": "7",
                 "Team": "K\u00f6ln",
                 "Played": "7",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "2",
-                "Points": "11"
-            },
-            {
-                "Position": "7",
-                "Team": "SC Freiburg",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "1",
                 "Points": "11"
             },
             {
@@ -491,13 +491,13 @@
             },
             {
                 "Position": "9",
-                "Team": "Eintracht Frankfurt",
+                "Team": "SC Freiburg",
                 "Played": "7",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "0",
-                "Points": "9"
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "8"
             },
             {
                 "Position": "10",
