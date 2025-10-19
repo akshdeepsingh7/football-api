@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 October 2025, 11:17 PM UTC",
-        "IST": "Monday, 20 October 2025, 04:47 AM IST"
+        "UTC": "Sunday, 19 October 2025, 11:37 PM UTC",
+        "IST": "Monday, 20 October 2025, 05:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3274,12 +3274,12 @@
             {
                 "Position": "6",
                 "Team": "Bahia",
-                "Played": "27",
-                "Wins": "12",
+                "Played": "28",
+                "Wins": "13",
                 "Draws": "7",
                 "Losses": "8",
-                "Goal Difference": "3",
-                "Points": "43"
+                "Goal Difference": "4",
+                "Points": "46"
             },
             {
                 "Position": "7",
@@ -3323,17 +3323,17 @@
             },
             {
                 "Position": "11",
-                "Team": "Gr\u00eamio",
-                "Played": "28",
+                "Team": "Corinthians",
+                "Played": "29",
                 "Wins": "9",
                 "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-3",
+                "Losses": "11",
+                "Goal Difference": "-4",
                 "Points": "36"
             },
             {
                 "Position": "12",
-                "Team": "Corinthians",
+                "Team": "Gr\u00eamio",
                 "Played": "29",
                 "Wins": "9",
                 "Draws": "9",
