@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 October 2025, 11:37 AM UTC (Sunday, 19 October 2025, 05:07 PM IST)
+**Last Updated:** Sunday, 19 October 2025, 12:36 PM UTC (Sunday, 19 October 2025, 06:06 PM IST)
 
 ### Premier League
 
@@ -78,9 +78,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Atlético de Madrid | 9 | 4 | 4 | 1 | 6 | 16 |
 | 5 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
 | 6 | Espanyol | 9 | 4 | 3 | 2 | 2 | 15 |
-| 7 | Sevilla | 9 | 4 | 1 | 4 | 2 | 13 |
-| 8 | Elche | 8 | 3 | 4 | 1 | 2 | 13 |
-| 9 | Athletic Bilbao | 8 | 4 | 1 | 3 | 0 | 13 |
+| 7 | Elche | 9 | 3 | 5 | 1 | 2 | 14 |
+| 8 | Athletic Bilbao | 9 | 4 | 2 | 3 | 0 | 14 |
+| 9 | Sevilla | 9 | 4 | 1 | 4 | 2 | 13 |
 | 10 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
 | 11 | Getafe | 8 | 3 | 2 | 3 | -2 | 11 |
 | 12 | Osasuna | 9 | 3 | 1 | 5 | -2 | 10 |
@@ -124,8 +124,8 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Napoli | 7 | 5 | 0 | 2 | 5 | 15 |
 | 3 | Roma | 7 | 5 | 0 | 2 | 4 | 15 |
 | 4 | Milan | 6 | 4 | 1 | 1 | 6 | 13 |
-| 5 | Juventus | 7 | 3 | 3 | 1 | 3 | 12 |
-| 6 | Como | 7 | 3 | 3 | 1 | 3 | 12 |
+| 5 | Como | 7 | 3 | 3 | 1 | 4 | 12 |
+| 6 | Juventus | 7 | 3 | 3 | 1 | 2 | 12 |
 | 7 | Atalanta | 6 | 2 | 4 | 0 | 6 | 10 |
 | 8 | Bologna | 6 | 3 | 1 | 2 | 4 | 10 |
 | 9 | Sassuolo | 7 | 3 | 1 | 3 | 0 | 10 |
