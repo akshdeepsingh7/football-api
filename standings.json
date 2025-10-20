@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 20 October 2025, 06:30 PM UTC",
-        "IST": "Tuesday, 21 October 2025, 12:00 AM IST"
+        "UTC": "Monday, 20 October 2025, 06:53 PM UTC",
+        "IST": "Tuesday, 21 October 2025, 12:23 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -663,6 +663,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Cremonese",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "12"
+            },
+            {
+                "Position": "9",
                 "Team": "Atalanta",
                 "Played": "7",
                 "Wins": "2",
@@ -672,7 +682,7 @@
                 "Points": "11"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Sassuolo",
                 "Played": "7",
                 "Wins": "3",
@@ -682,27 +692,7 @@
                 "Points": "10"
             },
             {
-                "Position": "10",
-                "Team": "Cremonese",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "9"
-            },
-            {
                 "Position": "11",
-                "Team": "Udinese",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "8"
-            },
-            {
-                "Position": "12",
                 "Team": "Lazio",
                 "Played": "7",
                 "Wins": "2",
@@ -712,13 +702,23 @@
                 "Points": "8"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Cagliari",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-2",
+                "Points": "8"
+            },
+            {
+                "Position": "13",
+                "Team": "Udinese",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-4",
                 "Points": "8"
             },
             {
