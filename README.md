@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 20 October 2025, 09:39 PM UTC (Tuesday, 21 October 2025, 03:09 AM IST)
+**Last Updated:** Monday, 20 October 2025, 10:18 PM UTC (Tuesday, 21 October 2025, 03:48 AM IST)
 
 ### Premier League
 
@@ -401,11 +401,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
 | 4 | Córdoba SdE | 12 | 4 | 6 | 2 | 5 | 18 |
 | 5 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
-| 6 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
-| 7 | Boca Juniors | 12 | 4 | 5 | 3 | 9 | 17 |
-| 8 | Unión | 12 | 4 | 5 | 3 | 3 | 17 |
-| 9 | Barracas | 11 | 4 | 5 | 2 | 2 | 17 |
-| 10 | Tigre | 12 | 4 | 5 | 3 | 2 | 17 |
+| 6 | Barracas | 12 | 4 | 6 | 2 | 2 | 18 |
+| 7 | Tigre | 13 | 4 | 6 | 3 | 2 | 18 |
+| 8 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
+| 9 | Boca Juniors | 12 | 4 | 5 | 3 | 9 | 17 |
+| 10 | Unión | 12 | 4 | 5 | 3 | 3 | 17 |
 | 11 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
 | 12 | Huracán | 12 | 4 | 4 | 4 | -4 | 16 |
 | 13 | Independiente Rivadavia | 13 | 2 | 6 | 5 | -3 | 12 |
@@ -413,14 +413,14 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Aldosivi | 13 | 2 | 3 | 8 | -10 | 9 |
 | 1 | Lanús | 13 | 8 | 2 | 3 | 6 | 26 |
 | 2 | Vélez | 13 | 7 | 4 | 2 | 10 | 25 |
-| 3 | Riestra | 12 | 7 | 3 | 2 | 8 | 24 |
+| 3 | Riestra | 13 | 7 | 4 | 2 | 8 | 25 |
 | 4 | Rosario | 12 | 6 | 6 | 0 | 8 | 24 |
 | 5 | River Plate | 13 | 6 | 3 | 4 | 8 | 21 |
 | 6 | San Martín SJ | 13 | 4 | 5 | 4 | -1 | 17 |
 | 7 | San Lorenzo | 12 | 4 | 4 | 4 | 0 | 16 |
-| 8 | Atl. Tucumán | 12 | 4 | 3 | 5 | 0 | 15 |
-| 9 | Sarmiento | 12 | 4 | 3 | 5 | -4 | 15 |
-| 10 | Instituto | 12 | 3 | 6 | 3 | -4 | 15 |
+| 8 | Instituto | 13 | 3 | 7 | 3 | -4 | 16 |
+| 9 | Atl. Tucumán | 12 | 4 | 3 | 5 | 0 | 15 |
+| 10 | Sarmiento | 12 | 4 | 3 | 5 | -4 | 15 |
 | 11 | Talleres | 13 | 3 | 5 | 5 | -5 | 14 |
 | 12 | GELP | 13 | 4 | 1 | 8 | -8 | 13 |
 | 13 | Platense | 12 | 2 | 5 | 5 | -6 | 11 |
