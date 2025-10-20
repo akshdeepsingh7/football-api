@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 20 October 2025, 06:53 PM UTC (Tuesday, 21 October 2025, 12:23 AM IST)
+**Last Updated:** Monday, 20 October 2025, 07:16 PM UTC (Tuesday, 21 October 2025, 12:46 AM IST)
 
 ### Premier League
 
@@ -60,12 +60,12 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Aston Villa | 8 | 3 | 3 | 2 | 0 | 12 |
 | 12 | Everton | 8 | 3 | 2 | 3 | 0 | 11 |
 | 13 | Newcastle United | 8 | 2 | 3 | 3 | 0 | 9 |
-| 14 | Fulham | 8 | 2 | 2 | 4 | -4 | 8 |
-| 15 | Leeds United | 8 | 2 | 2 | 4 | -6 | 8 |
-| 16 | Brentford | 7 | 2 | 1 | 4 | -3 | 7 |
+| 14 | Brentford | 8 | 2 | 2 | 4 | -3 | 8 |
+| 15 | Fulham | 8 | 2 | 2 | 4 | -4 | 8 |
+| 16 | Leeds United | 8 | 2 | 2 | 4 | -6 | 8 |
 | 17 | Burnley | 8 | 2 | 1 | 5 | -6 | 7 |
-| 18 | Nottingham Forest | 8 | 1 | 2 | 5 | -10 | 5 |
-| 19 | West Ham United | 7 | 1 | 1 | 5 | -10 | 4 |
+| 18 | West Ham United | 8 | 1 | 2 | 5 | -10 | 5 |
+| 19 | Nottingham Forest | 8 | 1 | 2 | 5 | -10 | 5 |
 | 20 | Wolverhampton Wanderers | 8 | 0 | 2 | 6 | -11 | 2 |
 
 ### La Liga
@@ -81,12 +81,12 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Elche | 9 | 3 | 5 | 1 | 2 | 14 |
 | 8 | Athletic Bilbao | 9 | 4 | 2 | 3 | 0 | 14 |
 | 9 | Sevilla | 9 | 4 | 1 | 4 | 2 | 13 |
-| 10 | Rayo Vallecano | 9 | 3 | 2 | 4 | 1 | 11 |
-| 11 | Alavés | 8 | 3 | 2 | 3 | 1 | 11 |
+| 10 | Alavés | 9 | 3 | 3 | 3 | 1 | 12 |
+| 11 | Rayo Vallecano | 9 | 3 | 2 | 4 | 1 | 11 |
 | 12 | Getafe | 9 | 3 | 2 | 4 | -3 | 11 |
 | 13 | Osasuna | 9 | 3 | 1 | 5 | -2 | 10 |
-| 14 | Levante | 9 | 2 | 2 | 5 | -4 | 8 |
-| 15 | Valencia | 8 | 2 | 2 | 4 | -4 | 8 |
+| 14 | Valencia | 9 | 2 | 3 | 4 | -4 | 9 |
+| 15 | Levante | 9 | 2 | 2 | 5 | -4 | 8 |
 | 16 | Mallorca | 9 | 2 | 2 | 5 | -4 | 8 |
 | 17 | Celta de Vigo | 9 | 0 | 7 | 2 | -3 | 7 |
 | 18 | Real Sociedad | 9 | 1 | 3 | 5 | -5 | 6 |

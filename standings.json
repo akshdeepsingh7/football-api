@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 20 October 2025, 06:53 PM UTC",
-        "IST": "Tuesday, 21 October 2025, 12:23 AM IST"
+        "UTC": "Monday, 20 October 2025, 07:16 PM UTC",
+        "IST": "Tuesday, 21 October 2025, 12:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -137,6 +137,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Brentford",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "8"
+            },
+            {
+                "Position": "15",
                 "Team": "Fulham",
                 "Played": "8",
                 "Wins": "2",
@@ -146,7 +156,7 @@
                 "Points": "8"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Leeds United",
                 "Played": "8",
                 "Wins": "2",
@@ -154,16 +164,6 @@
                 "Losses": "4",
                 "Goal Difference": "-6",
                 "Points": "8"
-            },
-            {
-                "Position": "16",
-                "Team": "Brentford",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "7"
             },
             {
                 "Position": "17",
@@ -177,7 +177,7 @@
             },
             {
                 "Position": "18",
-                "Team": "Nottingham Forest",
+                "Team": "West Ham United",
                 "Played": "8",
                 "Wins": "1",
                 "Draws": "2",
@@ -187,13 +187,13 @@
             },
             {
                 "Position": "19",
-                "Team": "West Ham United",
-                "Played": "7",
+                "Team": "Nottingham Forest",
+                "Played": "8",
                 "Wins": "1",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "5",
                 "Goal Difference": "-10",
-                "Points": "4"
+                "Points": "5"
             },
             {
                 "Position": "20",
@@ -299,21 +299,21 @@
             },
             {
                 "Position": "10",
+                "Team": "Alav\u00e9s",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "1",
+                "Points": "12"
+            },
+            {
+                "Position": "11",
                 "Team": "Rayo Vallecano",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "1",
-                "Points": "11"
-            },
-            {
-                "Position": "11",
-                "Team": "Alav\u00e9s",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "3",
                 "Goal Difference": "1",
                 "Points": "11"
             },
@@ -339,21 +339,21 @@
             },
             {
                 "Position": "14",
+                "Team": "Valencia",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "9"
+            },
+            {
+                "Position": "15",
                 "Team": "Levante",
                 "Played": "9",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "5",
-                "Goal Difference": "-4",
-                "Points": "8"
-            },
-            {
-                "Position": "15",
-                "Team": "Valencia",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
                 "Goal Difference": "-4",
                 "Points": "8"
             },
