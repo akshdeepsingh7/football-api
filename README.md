@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 20 October 2025, 08:42 PM UTC (Tuesday, 21 October 2025, 02:12 AM IST)
+**Last Updated:** Monday, 20 October 2025, 09:18 PM UTC (Tuesday, 21 October 2025, 02:48 AM IST)
 
 ### Premier League
 
@@ -59,13 +59,13 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Brighton & Hove Albion | 8 | 3 | 3 | 2 | 1 | 12 |
 | 11 | Aston Villa | 8 | 3 | 3 | 2 | 0 | 12 |
 | 12 | Everton | 8 | 3 | 2 | 3 | 0 | 11 |
-| 13 | Brentford | 8 | 3 | 1 | 4 | -2 | 10 |
+| 13 | Brentford | 8 | 3 | 1 | 4 | -1 | 10 |
 | 14 | Newcastle United | 8 | 2 | 3 | 3 | 0 | 9 |
 | 15 | Fulham | 8 | 2 | 2 | 4 | -4 | 8 |
 | 16 | Leeds United | 8 | 2 | 2 | 4 | -6 | 8 |
 | 17 | Burnley | 8 | 2 | 1 | 5 | -6 | 7 |
 | 18 | Nottingham Forest | 8 | 1 | 2 | 5 | -10 | 5 |
-| 19 | West Ham United | 8 | 1 | 1 | 6 | -11 | 4 |
+| 19 | West Ham United | 8 | 1 | 1 | 6 | -12 | 4 |
 | 20 | Wolverhampton Wanderers | 8 | 0 | 2 | 6 | -11 | 2 |
 
 ### La Liga
