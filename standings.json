@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 20 October 2025, 07:38 PM UTC",
-        "IST": "Tuesday, 21 October 2025, 01:08 AM IST"
+        "UTC": "Monday, 20 October 2025, 08:22 PM UTC",
+        "IST": "Tuesday, 21 October 2025, 01:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -127,6 +127,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Brentford",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "10"
+            },
+            {
+                "Position": "14",
                 "Team": "Newcastle United",
                 "Played": "8",
                 "Wins": "2",
@@ -134,16 +144,6 @@
                 "Losses": "3",
                 "Goal Difference": "0",
                 "Points": "9"
-            },
-            {
-                "Position": "14",
-                "Team": "Brentford",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "8"
             },
             {
                 "Position": "15",
@@ -177,7 +177,7 @@
             },
             {
                 "Position": "18",
-                "Team": "West Ham United",
+                "Team": "Nottingham Forest",
                 "Played": "8",
                 "Wins": "1",
                 "Draws": "2",
@@ -187,13 +187,13 @@
             },
             {
                 "Position": "19",
-                "Team": "Nottingham Forest",
+                "Team": "West Ham United",
                 "Played": "8",
                 "Wins": "1",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-10",
-                "Points": "5"
+                "Draws": "1",
+                "Losses": "6",
+                "Goal Difference": "-11",
+                "Points": "4"
             },
             {
                 "Position": "20",
@@ -663,16 +663,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Cremonese",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "12"
-            },
-            {
-                "Position": "9",
                 "Team": "Atalanta",
                 "Played": "7",
                 "Wins": "2",
@@ -682,7 +672,7 @@
                 "Points": "11"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Sassuolo",
                 "Played": "7",
                 "Wins": "3",
@@ -692,7 +682,27 @@
                 "Points": "10"
             },
             {
+                "Position": "10",
+                "Team": "Cremonese",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "10"
+            },
+            {
                 "Position": "11",
+                "Team": "Udinese",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "9"
+            },
+            {
+                "Position": "12",
                 "Team": "Lazio",
                 "Played": "7",
                 "Wins": "2",
@@ -702,23 +712,13 @@
                 "Points": "8"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Cagliari",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "8"
-            },
-            {
-                "Position": "13",
-                "Team": "Udinese",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-4",
                 "Points": "8"
             },
             {
