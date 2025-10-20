@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 20 October 2025, 10:40 PM UTC",
-        "IST": "Tuesday, 21 October 2025, 04:10 AM IST"
+        "UTC": "Monday, 20 October 2025, 11:17 PM UTC",
+        "IST": "Tuesday, 21 October 2025, 04:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3071,6 +3071,16 @@
             },
             {
                 "Position": "1",
+                "Team": "Riestra",
+                "Played": "13",
+                "Wins": "8",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "9",
+                "Points": "27"
+            },
+            {
+                "Position": "2",
                 "Team": "Lan\u00fas",
                 "Played": "13",
                 "Wins": "8",
@@ -3080,23 +3090,13 @@
                 "Points": "26"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "V\u00e9lez",
                 "Played": "13",
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "10",
-                "Points": "25"
-            },
-            {
-                "Position": "3",
-                "Team": "Riestra",
-                "Played": "13",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "8",
                 "Points": "25"
             },
             {
@@ -3141,16 +3141,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Instituto",
-                "Played": "13",
-                "Wins": "3",
-                "Draws": "7",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "16"
-            },
-            {
-                "Position": "9",
                 "Team": "Atl. Tucum\u00e1n",
                 "Played": "12",
                 "Wins": "4",
@@ -3160,13 +3150,23 @@
                 "Points": "15"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Sarmiento",
                 "Played": "12",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "-4",
+                "Points": "15"
+            },
+            {
+                "Position": "10",
+                "Team": "Instituto",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "-5",
                 "Points": "15"
             },
             {
@@ -3286,13 +3286,23 @@
                 "Team": "Fluminense",
                 "Played": "28",
                 "Wins": "12",
-                "Draws": "6",
-                "Losses": "10",
-                "Goal Difference": "2",
-                "Points": "42"
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "1",
+                "Points": "41"
             },
             {
                 "Position": "8",
+                "Team": "Vasco da Gama",
+                "Played": "29",
+                "Wins": "11",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "4",
+                "Points": "39"
+            },
+            {
+                "Position": "9",
                 "Team": "S\u00e3o Paulo",
                 "Played": "29",
                 "Wins": "10",
@@ -3300,16 +3310,6 @@
                 "Losses": "11",
                 "Goal Difference": "-2",
                 "Points": "38"
-            },
-            {
-                "Position": "9",
-                "Team": "Vasco da Gama",
-                "Played": "29",
-                "Wins": "10",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "3",
-                "Points": "37"
             },
             {
                 "Position": "10",

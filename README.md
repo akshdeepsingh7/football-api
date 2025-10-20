@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 20 October 2025, 10:40 PM UTC (Tuesday, 21 October 2025, 04:10 AM IST)
+**Last Updated:** Monday, 20 October 2025, 11:17 PM UTC (Tuesday, 21 October 2025, 04:47 AM IST)
 
 ### Premier League
 
@@ -411,16 +411,16 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Independiente Rivadavia | 13 | 2 | 6 | 5 | -3 | 12 |
 | 14 | Newell's Old Boys | 13 | 2 | 5 | 6 | -10 | 11 |
 | 15 | Aldosivi | 13 | 2 | 3 | 8 | -10 | 9 |
-| 1 | Lanús | 13 | 8 | 2 | 3 | 6 | 26 |
-| 2 | Vélez | 13 | 7 | 4 | 2 | 10 | 25 |
-| 3 | Riestra | 13 | 7 | 4 | 2 | 8 | 25 |
+| 1 | Riestra | 13 | 8 | 3 | 2 | 9 | 27 |
+| 2 | Lanús | 13 | 8 | 2 | 3 | 6 | 26 |
+| 3 | Vélez | 13 | 7 | 4 | 2 | 10 | 25 |
 | 4 | Rosario | 12 | 6 | 6 | 0 | 8 | 24 |
 | 5 | River Plate | 13 | 6 | 3 | 4 | 8 | 21 |
 | 6 | San Martín SJ | 13 | 4 | 5 | 4 | -1 | 17 |
 | 7 | San Lorenzo | 12 | 4 | 4 | 4 | 0 | 16 |
-| 8 | Instituto | 13 | 3 | 7 | 3 | -4 | 16 |
-| 9 | Atl. Tucumán | 12 | 4 | 3 | 5 | 0 | 15 |
-| 10 | Sarmiento | 12 | 4 | 3 | 5 | -4 | 15 |
+| 8 | Atl. Tucumán | 12 | 4 | 3 | 5 | 0 | 15 |
+| 9 | Sarmiento | 12 | 4 | 3 | 5 | -4 | 15 |
+| 10 | Instituto | 13 | 3 | 6 | 4 | -5 | 15 |
 | 11 | Talleres | 13 | 3 | 5 | 5 | -5 | 14 |
 | 12 | GELP | 13 | 4 | 1 | 8 | -8 | 13 |
 | 13 | Platense | 12 | 2 | 5 | 5 | -6 | 11 |
@@ -437,9 +437,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Mirassol | 29 | 14 | 10 | 5 | 20 | 52 |
 | 5 | Botafogo | 29 | 13 | 7 | 9 | 13 | 46 |
 | 6 | Bahia | 28 | 13 | 7 | 8 | 7 | 46 |
-| 7 | Fluminense | 28 | 12 | 6 | 10 | 2 | 42 |
-| 8 | São Paulo | 29 | 10 | 8 | 11 | -2 | 38 |
-| 9 | Vasco da Gama | 29 | 10 | 7 | 12 | 3 | 37 |
+| 7 | Fluminense | 28 | 12 | 5 | 11 | 1 | 41 |
+| 8 | Vasco da Gama | 29 | 11 | 6 | 12 | 4 | 39 |
+| 9 | São Paulo | 29 | 10 | 8 | 11 | -2 | 38 |
 | 10 | RB Bragantino | 29 | 10 | 6 | 13 | -10 | 36 |
 | 11 | Corinthians | 29 | 9 | 9 | 11 | -4 | 36 |
 | 12 | Grêmio | 29 | 9 | 9 | 11 | -7 | 36 |
