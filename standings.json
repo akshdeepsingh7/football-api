@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 21 October 2025, 08:23 PM UTC",
-        "IST": "Wednesday, 22 October 2025, 01:53 AM IST"
+        "UTC": "Tuesday, 21 October 2025, 08:43 PM UTC",
+        "IST": "Wednesday, 22 October 2025, 02:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -982,7 +982,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "8",
+                "Goal Difference": "9",
                 "Points": "9"
             },
             {
@@ -992,7 +992,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "8",
+                "Goal Difference": "9",
                 "Points": "9"
             },
             {
@@ -1002,7 +1002,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "5",
+                "Goal Difference": "8",
                 "Points": "9"
             },
             {
@@ -1012,7 +1012,7 @@
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "7"
             },
             {
@@ -1037,6 +1037,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Newcastle United",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "6",
+                "Points": "6"
+            },
+            {
+                "Position": "8",
                 "Team": "Real Madrid",
                 "Played": "2",
                 "Wins": "2",
@@ -1046,23 +1056,13 @@
                 "Points": "6"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Barcelona",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "5",
-                "Points": "6"
-            },
-            {
-                "Position": "9",
-                "Team": "Newcastle United",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "4",
                 "Points": "6"
             },
             {
@@ -1077,22 +1077,22 @@
             },
             {
                 "Position": "11",
+                "Team": "PSV",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "4"
+            },
+            {
+                "Position": "12",
                 "Team": "Tottenham Hotspur",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "1",
-                "Points": "4"
-            },
-            {
-                "Position": "12",
-                "Team": "PSV",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "0",
                 "Points": "4"
             },
             {
@@ -1107,16 +1107,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "3"
-            },
-            {
-                "Position": "15",
                 "Team": "Club Brugge",
                 "Played": "2",
                 "Wins": "1",
@@ -1126,7 +1116,7 @@
                 "Points": "3"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Sporting CP",
                 "Played": "2",
                 "Wins": "1",
@@ -1136,7 +1126,7 @@
                 "Points": "3"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Eintracht Frankfurt",
                 "Played": "2",
                 "Wins": "1",
@@ -1146,13 +1136,23 @@
                 "Points": "3"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Liverpool FC",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "0",
+                "Points": "3"
+            },
+            {
+                "Position": "18",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-1",
                 "Points": "3"
             },
             {
@@ -1167,16 +1167,6 @@
             },
             {
                 "Position": "20",
-                "Team": "Napoli",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "3"
-            },
-            {
-                "Position": "21",
                 "Team": "Galatasaray",
                 "Played": "2",
                 "Wins": "1",
@@ -1186,7 +1176,7 @@
                 "Points": "3"
             },
             {
-                "Position": "22",
+                "Position": "21",
                 "Team": "Atalanta",
                 "Played": "2",
                 "Wins": "1",
@@ -1196,13 +1186,23 @@
                 "Points": "3"
             },
             {
+                "Position": "22",
+                "Team": "Napoli",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-4",
+                "Points": "3"
+            },
+            {
                 "Position": "23",
                 "Team": "Union Saint-Gilloise",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "3"
             },
             {
@@ -1232,7 +1232,7 @@
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "2"
             },
             {
@@ -1257,16 +1257,6 @@
             },
             {
                 "Position": "29",
-                "Team": "FC Copenhagen",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "1"
-            },
-            {
-                "Position": "30",
                 "Team": "Slavia Prague",
                 "Played": "2",
                 "Wins": "0",
@@ -1276,13 +1266,23 @@
                 "Points": "1"
             },
             {
-                "Position": "31",
+                "Position": "30",
                 "Team": "Villarreal",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "-3",
+                "Points": "1"
+            },
+            {
+                "Position": "31",
+                "Team": "FC Copenhagen",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-4",
                 "Points": "1"
             },
             {
@@ -1312,7 +1312,7 @@
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "3",
-                "Goal Difference": "-3",
+                "Goal Difference": "-5",
                 "Points": "0"
             },
             {
@@ -2250,7 +2250,7 @@
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "0",
-                "Goal Difference": "24",
+                "Goal Difference": "23",
                 "Points": "25"
             },
             {
@@ -2280,7 +2280,7 @@
                 "Wins": "5",
                 "Draws": "4",
                 "Losses": "2",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "19"
             },
             {
@@ -2390,7 +2390,7 @@
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "4",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "13"
             },
             {
@@ -2410,7 +2410,7 @@
                 "Wins": "2",
                 "Draws": "6",
                 "Losses": "3",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "12"
             },
             {
@@ -2450,7 +2450,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "8",
-                "Goal Difference": "-11",
+                "Goal Difference": "-10",
                 "Points": "9"
             },
             {
@@ -2470,7 +2470,7 @@
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "7",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "7"
             },
             {
