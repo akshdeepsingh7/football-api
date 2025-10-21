@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 21 October 2025, 04:47 PM UTC",
-        "IST": "Tuesday, 21 October 2025, 10:17 PM IST"
+        "UTC": "Tuesday, 21 October 2025, 05:18 PM UTC",
+        "IST": "Tuesday, 21 October 2025, 10:48 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -1037,6 +1037,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Barcelona",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "6"
+            },
+            {
+                "Position": "8",
                 "Team": "Borussia Dortmund",
                 "Played": "2",
                 "Wins": "1",
@@ -1046,7 +1056,7 @@
                 "Points": "4"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Manchester City",
                 "Played": "2",
                 "Wins": "1",
@@ -1056,23 +1066,13 @@
                 "Points": "4"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Tottenham Hotspur",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "1",
-                "Points": "4"
-            },
-            {
-                "Position": "10",
-                "Team": "Barcelona",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "0",
                 "Points": "4"
             },
             {
@@ -1227,16 +1227,6 @@
             },
             {
                 "Position": "26",
-                "Team": "Olympiacos",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "-2",
-                "Points": "2"
-            },
-            {
-                "Position": "27",
                 "Team": "Pafos",
                 "Played": "3",
                 "Wins": "0",
@@ -1246,7 +1236,7 @@
                 "Points": "2"
             },
             {
-                "Position": "28",
+                "Position": "27",
                 "Team": "Villarreal",
                 "Played": "2",
                 "Wins": "0",
@@ -1256,7 +1246,7 @@
                 "Points": "1"
             },
             {
-                "Position": "29",
+                "Position": "28",
                 "Team": "PSV",
                 "Played": "2",
                 "Wins": "0",
@@ -1266,7 +1256,7 @@
                 "Points": "1"
             },
             {
-                "Position": "30",
+                "Position": "29",
                 "Team": "FC Copenhagen",
                 "Played": "2",
                 "Wins": "0",
@@ -1276,7 +1266,7 @@
                 "Points": "1"
             },
             {
-                "Position": "31",
+                "Position": "30",
                 "Team": "Monaco",
                 "Played": "2",
                 "Wins": "0",
@@ -1286,12 +1276,22 @@
                 "Points": "1"
             },
             {
-                "Position": "32",
+                "Position": "31",
                 "Team": "Slavia Prague",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "1",
+                "Goal Difference": "-3",
+                "Points": "1"
+            },
+            {
+                "Position": "32",
+                "Team": "Olympiacos",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "2",
                 "Goal Difference": "-3",
                 "Points": "1"
             },
