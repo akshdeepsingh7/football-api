@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 20 October 2025, 11:37 PM UTC",
-        "IST": "Tuesday, 21 October 2025, 05:07 AM IST"
+        "UTC": "Tuesday, 21 October 2025, 01:36 AM UTC",
+        "IST": "Tuesday, 21 October 2025, 07:06 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2931,16 +2931,6 @@
             },
             {
                 "Position": "2",
-                "Team": "Barracas",
-                "Played": "12",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "20"
-            },
-            {
-                "Position": "3",
                 "Team": "Def y Justicia",
                 "Played": "12",
                 "Wins": "5",
@@ -2950,7 +2940,7 @@
                 "Points": "19"
             },
             {
-                "Position": "4",
+                "Position": "3",
                 "Team": "Argentinos Juniors",
                 "Played": "13",
                 "Wins": "5",
@@ -2960,7 +2950,7 @@
                 "Points": "18"
             },
             {
-                "Position": "5",
+                "Position": "4",
                 "Team": "C\u00f3rdoba SdE",
                 "Played": "12",
                 "Wins": "4",
@@ -2970,7 +2960,7 @@
                 "Points": "18"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Belgrano",
                 "Played": "13",
                 "Wins": "4",
@@ -2980,7 +2970,27 @@
                 "Points": "18"
             },
             {
+                "Position": "6",
+                "Team": "Barracas",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "18"
+            },
+            {
                 "Position": "7",
+                "Team": "Tigre",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "18"
+            },
+            {
+                "Position": "8",
                 "Team": "Racing Club",
                 "Played": "13",
                 "Wins": "5",
@@ -2990,7 +3000,7 @@
                 "Points": "18"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Boca Juniors",
                 "Played": "12",
                 "Wins": "4",
@@ -3000,23 +3010,13 @@
                 "Points": "17"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Uni\u00f3n",
                 "Played": "12",
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "3",
-                "Points": "17"
-            },
-            {
-                "Position": "10",
-                "Team": "Tigre",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "1",
                 "Points": "17"
             },
             {
@@ -3121,6 +3121,16 @@
             },
             {
                 "Position": "6",
+                "Team": "San Lorenzo",
+                "Played": "13",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "1",
+                "Points": "19"
+            },
+            {
+                "Position": "7",
                 "Team": "San Mart\u00edn SJ",
                 "Played": "13",
                 "Wins": "4",
@@ -3130,23 +3140,13 @@
                 "Points": "17"
             },
             {
-                "Position": "7",
-                "Team": "San Lorenzo",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "0",
-                "Points": "16"
-            },
-            {
                 "Position": "8",
                 "Team": "Atl. Tucum\u00e1n",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "4",
                 "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "0",
+                "Losses": "6",
+                "Goal Difference": "-1",
                 "Points": "15"
             },
             {
@@ -3288,7 +3288,7 @@
                 "Wins": "12",
                 "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "1",
+                "Goal Difference": "0",
                 "Points": "41"
             },
             {
@@ -3298,7 +3298,7 @@
                 "Wins": "11",
                 "Draws": "6",
                 "Losses": "12",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "39"
             },
             {
@@ -3374,22 +3374,22 @@
             {
                 "Position": "16",
                 "Team": "Santos",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "8",
                 "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-11",
+                "Losses": "13",
+                "Goal Difference": "-12",
                 "Points": "31"
             },
             {
                 "Position": "17",
                 "Team": "Vit\u00f3ria",
-                "Played": "28",
-                "Wins": "6",
+                "Played": "29",
+                "Wins": "7",
                 "Draws": "10",
                 "Losses": "12",
-                "Goal Difference": "-17",
-                "Points": "28"
+                "Goal Difference": "-16",
+                "Points": "31"
             },
             {
                 "Position": "18",
