@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 21 October 2025, 04:26 PM UTC",
-        "IST": "Tuesday, 21 October 2025, 09:56 PM IST"
+        "UTC": "Tuesday, 21 October 2025, 04:47 PM UTC",
+        "IST": "Tuesday, 21 October 2025, 10:17 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -1067,6 +1067,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Barcelona",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "4"
+            },
+            {
+                "Position": "11",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "2",
                 "Wins": "1",
@@ -1076,7 +1086,7 @@
                 "Points": "3"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Newcastle United",
                 "Played": "2",
                 "Wins": "1",
@@ -1086,7 +1096,7 @@
                 "Points": "3"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Marseille",
                 "Played": "2",
                 "Wins": "1",
@@ -1096,7 +1106,7 @@
                 "Points": "3"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Club Brugge",
                 "Played": "2",
                 "Wins": "1",
@@ -1106,7 +1116,7 @@
                 "Points": "3"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Sporting CP",
                 "Played": "2",
                 "Wins": "1",
@@ -1116,18 +1126,8 @@
                 "Points": "3"
             },
             {
-                "Position": "15",
-                "Team": "Eintracht Frankfurt",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "3"
-            },
-            {
                 "Position": "16",
-                "Team": "Barcelona",
+                "Team": "Eintracht Frankfurt",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "0",
@@ -1227,6 +1227,26 @@
             },
             {
                 "Position": "26",
+                "Team": "Olympiacos",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "-2",
+                "Points": "2"
+            },
+            {
+                "Position": "27",
+                "Team": "Pafos",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "-4",
+                "Points": "2"
+            },
+            {
+                "Position": "28",
                 "Team": "Villarreal",
                 "Played": "2",
                 "Wins": "0",
@@ -1236,7 +1256,7 @@
                 "Points": "1"
             },
             {
-                "Position": "27",
+                "Position": "29",
                 "Team": "PSV",
                 "Played": "2",
                 "Wins": "0",
@@ -1246,7 +1266,7 @@
                 "Points": "1"
             },
             {
-                "Position": "28",
+                "Position": "30",
                 "Team": "FC Copenhagen",
                 "Played": "2",
                 "Wins": "0",
@@ -1256,17 +1276,7 @@
                 "Points": "1"
             },
             {
-                "Position": "29",
-                "Team": "Olympiacos",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-2",
-                "Points": "1"
-            },
-            {
-                "Position": "30",
+                "Position": "31",
                 "Team": "Monaco",
                 "Played": "2",
                 "Wins": "0",
@@ -1276,7 +1286,7 @@
                 "Points": "1"
             },
             {
-                "Position": "31",
+                "Position": "32",
                 "Team": "Slavia Prague",
                 "Played": "2",
                 "Wins": "0",
@@ -1286,17 +1296,17 @@
                 "Points": "1"
             },
             {
-                "Position": "32",
-                "Team": "Pafos",
-                "Played": "2",
+                "Position": "33",
+                "Team": "Kairat",
+                "Played": "3",
                 "Wins": "0",
                 "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-4",
+                "Losses": "2",
+                "Goal Difference": "-8",
                 "Points": "1"
             },
             {
-                "Position": "33",
+                "Position": "34",
                 "Team": "Benfica",
                 "Played": "2",
                 "Wins": "0",
@@ -1306,7 +1316,7 @@
                 "Points": "0"
             },
             {
-                "Position": "34",
+                "Position": "35",
                 "Team": "Athletic Bilbao",
                 "Played": "2",
                 "Wins": "0",
@@ -1316,23 +1326,13 @@
                 "Points": "0"
             },
             {
-                "Position": "35",
+                "Position": "36",
                 "Team": "Ajax",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "-6",
-                "Points": "0"
-            },
-            {
-                "Position": "36",
-                "Team": "Kairat",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-8",
                 "Points": "0"
             }
         ],
