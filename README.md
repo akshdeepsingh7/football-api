@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 21 October 2025, 06:28 PM UTC (Tuesday, 21 October 2025, 11:58 PM IST)
+**Last Updated:** Tuesday, 21 October 2025, 06:51 PM UTC (Wednesday, 22 October 2025, 12:21 AM IST)
 
 ### Premier League
 
@@ -314,29 +314,29 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 10 | 6 | 4 | 0 | 22 | 22 |
+| 1 | Coventry City | 11 | 6 | 5 | 0 | 22 | 23 |
 | 2 | Middlesbrough | 10 | 6 | 3 | 1 | 7 | 21 |
-| 3 | Stoke City | 10 | 5 | 3 | 2 | 6 | 18 |
-| 4 | Leicester City | 10 | 4 | 5 | 1 | 5 | 17 |
-| 5 | West Bromwich Albion | 10 | 5 | 2 | 3 | 0 | 17 |
-| 6 | Millwall | 10 | 5 | 2 | 3 | -2 | 17 |
-| 7 | Bristol City | 10 | 4 | 4 | 2 | 6 | 16 |
-| 8 | Preston North End | 10 | 4 | 4 | 2 | 3 | 16 |
-| 9 | Charlton Athletic | 10 | 4 | 3 | 3 | 1 | 15 |
-| 10 | Hull City | 10 | 4 | 3 | 3 | -1 | 15 |
+| 3 | Stoke City | 11 | 5 | 4 | 2 | 6 | 19 |
+| 4 | Leicester City | 11 | 4 | 6 | 1 | 5 | 18 |
+| 5 | Millwall | 11 | 5 | 3 | 3 | -2 | 18 |
+| 6 | Preston North End | 11 | 4 | 5 | 2 | 3 | 17 |
+| 7 | West Bromwich Albion | 10 | 5 | 2 | 3 | 0 | 17 |
+| 8 | Bristol City | 10 | 4 | 4 | 2 | 6 | 16 |
+| 9 | Charlton Athletic | 11 | 4 | 4 | 3 | 1 | 16 |
+| 10 | Hull City | 11 | 4 | 4 | 3 | -1 | 16 |
 | 11 | Queens Park Rangers | 10 | 4 | 3 | 3 | -2 | 15 |
-| 12 | Ipswich Town | 9 | 3 | 4 | 2 | 6 | 13 |
-| 13 | Swansea City | 10 | 3 | 4 | 3 | 0 | 13 |
-| 14 | Portsmouth | 10 | 3 | 4 | 3 | -1 | 13 |
-| 15 | Watford | 10 | 3 | 3 | 4 | -1 | 12 |
-| 16 | Southampton | 10 | 2 | 6 | 2 | -1 | 12 |
-| 17 | Birmingham City | 10 | 3 | 3 | 4 | -4 | 12 |
+| 12 | Ipswich Town | 10 | 3 | 5 | 2 | 6 | 14 |
+| 13 | Portsmouth | 11 | 3 | 5 | 3 | -1 | 14 |
+| 14 | Swansea City | 10 | 3 | 4 | 3 | 0 | 13 |
+| 15 | Birmingham City | 11 | 3 | 4 | 4 | -4 | 13 |
+| 16 | Watford | 10 | 3 | 3 | 4 | -1 | 12 |
+| 17 | Southampton | 10 | 2 | 6 | 2 | -1 | 12 |
 | 18 | Wrexham | 10 | 2 | 4 | 4 | -2 | 10 |
 | 19 | Oxford United | 10 | 2 | 3 | 5 | -2 | 9 |
-| 20 | Norwich City | 10 | 2 | 2 | 6 | -4 | 8 |
-| 21 | Derby County | 10 | 1 | 5 | 4 | -5 | 8 |
-| 22 | Blackburn Rovers | 9 | 2 | 1 | 6 | -6 | 7 |
-| 23 | Sheffield United | 10 | 2 | 0 | 8 | -12 | 6 |
+| 20 | Norwich City | 11 | 2 | 3 | 6 | -4 | 9 |
+| 21 | Derby County | 11 | 1 | 6 | 4 | -5 | 9 |
+| 22 | Blackburn Rovers | 10 | 2 | 2 | 6 | -6 | 8 |
+| 23 | Sheffield United | 11 | 2 | 1 | 8 | -12 | 7 |
 | 24 | Sheffield Wednesday | 10 | 1 | 3 | 6 | -13 | 6 |
 
 ### Major League Soccer (MLS)

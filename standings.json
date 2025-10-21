@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 21 October 2025, 06:28 PM UTC",
-        "IST": "Tuesday, 21 October 2025, 11:58 PM IST"
+        "UTC": "Tuesday, 21 October 2025, 06:51 PM UTC",
+        "IST": "Wednesday, 22 October 2025, 12:21 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2246,12 +2246,12 @@
             {
                 "Position": "1",
                 "Team": "Coventry City",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "6",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "0",
                 "Goal Difference": "22",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "2",
@@ -2266,25 +2266,45 @@
             {
                 "Position": "3",
                 "Team": "Stoke City",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "5",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "6",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "4",
                 "Team": "Leicester City",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "1",
                 "Goal Difference": "5",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "5",
+                "Team": "Millwall",
+                "Played": "11",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "18"
+            },
+            {
+                "Position": "6",
+                "Team": "Preston North End",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "2",
+                "Goal Difference": "3",
+                "Points": "17"
+            },
+            {
+                "Position": "7",
                 "Team": "West Bromwich Albion",
                 "Played": "10",
                 "Wins": "5",
@@ -2294,17 +2314,7 @@
                 "Points": "17"
             },
             {
-                "Position": "6",
-                "Team": "Millwall",
-                "Played": "10",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "17"
-            },
-            {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Bristol City",
                 "Played": "10",
                 "Wins": "4",
@@ -2314,34 +2324,24 @@
                 "Points": "16"
             },
             {
-                "Position": "8",
-                "Team": "Preston North End",
-                "Played": "10",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "16"
-            },
-            {
                 "Position": "9",
                 "Team": "Charlton Athletic",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "4",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "3",
                 "Goal Difference": "1",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "10",
                 "Team": "Hull City",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "4",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "3",
                 "Goal Difference": "-1",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "11",
@@ -2356,15 +2356,25 @@
             {
                 "Position": "12",
                 "Team": "Ipswich Town",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "6",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "13",
+                "Team": "Portsmouth",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "14"
+            },
+            {
+                "Position": "14",
                 "Team": "Swansea City",
                 "Played": "10",
                 "Wins": "3",
@@ -2374,17 +2384,17 @@
                 "Points": "13"
             },
             {
-                "Position": "14",
-                "Team": "Portsmouth",
-                "Played": "10",
+                "Position": "15",
+                "Team": "Birmingham City",
+                "Played": "11",
                 "Wins": "3",
                 "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "-1",
+                "Losses": "4",
+                "Goal Difference": "-4",
                 "Points": "13"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Watford",
                 "Played": "10",
                 "Wins": "3",
@@ -2394,23 +2404,13 @@
                 "Points": "12"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Southampton",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "6",
                 "Losses": "2",
                 "Goal Difference": "-1",
-                "Points": "12"
-            },
-            {
-                "Position": "17",
-                "Team": "Birmingham City",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-4",
                 "Points": "12"
             },
             {
@@ -2436,42 +2436,42 @@
             {
                 "Position": "20",
                 "Team": "Norwich City",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "-4",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "21",
                 "Team": "Derby County",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "1",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "22",
                 "Team": "Blackburn Rovers",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "2",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "6",
                 "Goal Difference": "-6",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "23",
                 "Team": "Sheffield United",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "2",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "8",
                 "Goal Difference": "-12",
-                "Points": "6"
+                "Points": "7"
             },
             {
                 "Position": "24",
