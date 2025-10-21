@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 21 October 2025, 08:43 PM UTC",
-        "IST": "Wednesday, 22 October 2025, 02:13 AM IST"
+        "UTC": "Tuesday, 21 October 2025, 09:18 PM UTC",
+        "IST": "Wednesday, 22 October 2025, 02:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -982,7 +982,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "9",
+                "Goal Difference": "10",
                 "Points": "9"
             },
             {
@@ -1082,7 +1082,7 @@
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "4"
             },
             {
@@ -1192,7 +1192,7 @@
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "3"
             },
             {
@@ -1227,7 +1227,7 @@
             },
             {
                 "Position": "26",
-                "Team": "Bayer Leverkusen",
+                "Team": "Pafos",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "2",
@@ -1237,12 +1237,12 @@
             },
             {
                 "Position": "27",
-                "Team": "Pafos",
+                "Team": "Bayer Leverkusen",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "2"
             },
             {

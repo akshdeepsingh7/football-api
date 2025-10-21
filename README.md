@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 21 October 2025, 08:43 PM UTC (Wednesday, 22 October 2025, 02:13 AM IST)
+**Last Updated:** Tuesday, 21 October 2025, 09:18 PM UTC (Wednesday, 22 October 2025, 02:48 AM IST)
 
 ### Premier League
 
@@ -168,7 +168,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 3 | 3 | 0 | 0 | 9 | 9 |
+| 1 | PSG | 3 | 3 | 0 | 0 | 10 | 9 |
 | 2 | Inter | 3 | 3 | 0 | 0 | 9 | 9 |
 | 3 | Arsenal | 3 | 3 | 0 | 0 | 8 | 9 |
 | 4 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
@@ -178,7 +178,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Real Madrid | 2 | 2 | 0 | 0 | 6 | 6 |
 | 9 | Barcelona | 3 | 2 | 0 | 1 | 5 | 6 |
 | 10 | Qarabağ | 2 | 2 | 0 | 0 | 3 | 6 |
-| 11 | PSV | 3 | 1 | 1 | 1 | 1 | 4 |
+| 11 | PSV | 3 | 1 | 1 | 1 | 2 | 4 |
 | 12 | Tottenham Hotspur | 2 | 1 | 1 | 0 | 1 | 4 |
 | 13 | Marseille | 2 | 1 | 0 | 1 | 3 | 3 |
 | 14 | Club Brugge | 2 | 1 | 0 | 1 | 2 | 3 |
@@ -189,12 +189,12 @@ The latest league standings are displayed below in Markdown tables:
 | 19 | Chelsea | 2 | 1 | 0 | 1 | -1 | 3 |
 | 20 | Galatasaray | 2 | 1 | 0 | 1 | -3 | 3 |
 | 21 | Atalanta | 2 | 1 | 0 | 1 | -3 | 3 |
-| 22 | Napoli | 3 | 1 | 0 | 2 | -4 | 3 |
+| 22 | Napoli | 3 | 1 | 0 | 2 | -5 | 3 |
 | 23 | Union Saint-Gilloise | 3 | 1 | 0 | 2 | -6 | 3 |
 | 24 | Juventus | 2 | 0 | 2 | 0 | 0 | 2 |
 | 25 | Bodø/Glimt | 2 | 0 | 2 | 0 | 0 | 2 |
-| 26 | Bayer Leverkusen | 3 | 0 | 2 | 1 | -4 | 2 |
-| 27 | Pafos | 3 | 0 | 2 | 1 | -4 | 2 |
+| 26 | Pafos | 3 | 0 | 2 | 1 | -4 | 2 |
+| 27 | Bayer Leverkusen | 3 | 0 | 2 | 1 | -5 | 2 |
 | 28 | Monaco | 2 | 0 | 1 | 1 | -3 | 1 |
 | 29 | Slavia Prague | 2 | 0 | 1 | 1 | -3 | 1 |
 | 30 | Villarreal | 3 | 0 | 1 | 2 | -3 | 1 |
