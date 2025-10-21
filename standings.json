@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 21 October 2025, 05:41 PM UTC",
-        "IST": "Tuesday, 21 October 2025, 11:11 PM IST"
+        "UTC": "Tuesday, 21 October 2025, 06:28 PM UTC",
+        "IST": "Tuesday, 21 October 2025, 11:58 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -997,6 +997,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Barcelona",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "5",
+                "Points": "6"
+            },
+            {
+                "Position": "4",
                 "Team": "PSG",
                 "Played": "2",
                 "Wins": "2",
@@ -1006,7 +1016,7 @@
                 "Points": "6"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Inter",
                 "Played": "2",
                 "Wins": "2",
@@ -1016,7 +1026,7 @@
                 "Points": "6"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Arsenal",
                 "Played": "2",
                 "Wins": "2",
@@ -1026,23 +1036,13 @@
                 "Points": "6"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Qaraba\u011f",
                 "Played": "2",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "0",
                 "Goal Difference": "3",
-                "Points": "6"
-            },
-            {
-                "Position": "7",
-                "Team": "Barcelona",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "2",
                 "Points": "6"
             },
             {
@@ -1292,7 +1292,7 @@
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "-4",
+                "Goal Difference": "-7",
                 "Points": "1"
             },
             {

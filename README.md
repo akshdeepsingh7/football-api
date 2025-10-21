@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 21 October 2025, 05:41 PM UTC (Tuesday, 21 October 2025, 11:11 PM IST)
+**Last Updated:** Tuesday, 21 October 2025, 06:28 PM UTC (Tuesday, 21 October 2025, 11:58 PM IST)
 
 ### Premier League
 
@@ -170,11 +170,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 2 | 2 | 0 | 0 | 6 | 6 |
 | 2 | Real Madrid | 2 | 2 | 0 | 0 | 6 | 6 |
-| 3 | PSG | 2 | 2 | 0 | 0 | 5 | 6 |
-| 4 | Inter | 2 | 2 | 0 | 0 | 5 | 6 |
-| 5 | Arsenal | 2 | 2 | 0 | 0 | 4 | 6 |
-| 6 | Qarabağ | 2 | 2 | 0 | 0 | 3 | 6 |
-| 7 | Barcelona | 3 | 2 | 0 | 1 | 2 | 6 |
+| 3 | Barcelona | 3 | 2 | 0 | 1 | 5 | 6 |
+| 4 | PSG | 2 | 2 | 0 | 0 | 5 | 6 |
+| 5 | Inter | 2 | 2 | 0 | 0 | 5 | 6 |
+| 6 | Arsenal | 2 | 2 | 0 | 0 | 4 | 6 |
+| 7 | Qarabağ | 2 | 2 | 0 | 0 | 3 | 6 |
 | 8 | Borussia Dortmund | 2 | 1 | 1 | 0 | 3 | 4 |
 | 9 | Manchester City | 2 | 1 | 1 | 0 | 2 | 4 |
 | 10 | Tottenham Hotspur | 2 | 1 | 1 | 0 | 1 | 4 |
@@ -199,7 +199,7 @@ The latest league standings are displayed below in Markdown tables:
 | 29 | FC Copenhagen | 2 | 0 | 1 | 1 | -2 | 1 |
 | 30 | Monaco | 2 | 0 | 1 | 1 | -3 | 1 |
 | 31 | Slavia Prague | 2 | 0 | 1 | 1 | -3 | 1 |
-| 32 | Olympiacos | 3 | 0 | 1 | 2 | -4 | 1 |
+| 32 | Olympiacos | 3 | 0 | 1 | 2 | -7 | 1 |
 | 33 | Kairat | 3 | 0 | 1 | 2 | -8 | 1 |
 | 34 | Benfica | 2 | 0 | 0 | 2 | -2 | 0 |
 | 35 | Athletic Bilbao | 2 | 0 | 0 | 2 | -5 | 0 |
