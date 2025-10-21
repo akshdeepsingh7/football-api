@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 21 October 2025, 11:18 PM UTC (Wednesday, 22 October 2025, 04:48 AM IST)
+**Last Updated:** Tuesday, 21 October 2025, 11:38 PM UTC (Wednesday, 22 October 2025, 05:08 AM IST)
 
 ### Premier League
 
@@ -397,8 +397,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Estudiantes | 13 | 6 | 3 | 4 | 2 | 21 |
-| 2 | Unión | 13 | 5 | 5 | 3 | 4 | 20 |
-| 3 | Def y Justicia | 13 | 5 | 4 | 4 | 2 | 19 |
+| 2 | Unión | 13 | 5 | 5 | 3 | 5 | 20 |
+| 3 | Def y Justicia | 13 | 5 | 4 | 4 | 1 | 19 |
 | 4 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
 | 5 | Córdoba SdE | 12 | 4 | 6 | 2 | 5 | 18 |
 | 6 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
