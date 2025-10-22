@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 22 October 2025, 09:37 PM UTC",
-        "IST": "Thursday, 23 October 2025, 03:07 AM IST"
+        "UTC": "Wednesday, 22 October 2025, 10:15 PM UTC",
+        "IST": "Thursday, 23 October 2025, 03:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3263,22 +3263,22 @@
             },
             {
                 "Position": "5",
+                "Team": "Bahia",
+                "Played": "29",
+                "Wins": "13",
+                "Draws": "8",
+                "Losses": "8",
+                "Goal Difference": "7",
+                "Points": "47"
+            },
+            {
+                "Position": "6",
                 "Team": "Botafogo",
                 "Played": "29",
                 "Wins": "13",
                 "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "13",
-                "Points": "46"
-            },
-            {
-                "Position": "6",
-                "Team": "Bahia",
-                "Played": "28",
-                "Wins": "13",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "7",
                 "Points": "46"
             },
             {
@@ -3333,6 +3333,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Internacional",
+                "Played": "29",
+                "Wins": "9",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-6",
+                "Points": "36"
+            },
+            {
+                "Position": "13",
                 "Team": "Gr\u00eamio",
                 "Played": "29",
                 "Wins": "9",
@@ -3342,23 +3352,13 @@
                 "Points": "36"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Cear\u00e1",
                 "Played": "28",
                 "Wins": "9",
                 "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "0",
-                "Points": "35"
-            },
-            {
-                "Position": "14",
-                "Team": "Internacional",
-                "Played": "28",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-6",
                 "Points": "35"
             },
             {
