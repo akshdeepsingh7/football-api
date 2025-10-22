@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 22 October 2025, 07:15 PM UTC (Thursday, 23 October 2025, 12:45 AM IST)
+**Last Updated:** Wednesday, 22 October 2025, 07:38 PM UTC (Thursday, 23 October 2025, 01:08 AM IST)
 
 ### Premier League
 
@@ -169,27 +169,27 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 3 | 3 | 0 | 0 | 10 | 9 |
-| 2 | Inter | 3 | 3 | 0 | 0 | 9 | 9 |
-| 3 | Arsenal | 3 | 3 | 0 | 0 | 8 | 9 |
-| 4 | Bayern Munich | 3 | 3 | 0 | 0 | 7 | 9 |
+| 2 | Bayern Munich | 3 | 3 | 0 | 0 | 9 | 9 |
+| 3 | Inter | 3 | 3 | 0 | 0 | 9 | 9 |
+| 4 | Arsenal | 3 | 3 | 0 | 0 | 8 | 9 |
 | 5 | Real Madrid | 3 | 2 | 1 | 0 | 6 | 7 |
 | 6 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
 | 7 | Manchester City | 3 | 2 | 1 | 0 | 4 | 7 |
 | 8 | Newcastle United | 3 | 2 | 0 | 1 | 6 | 6 |
 | 9 | Barcelona | 3 | 2 | 0 | 1 | 5 | 6 |
-| 10 | Qarabağ | 3 | 2 | 0 | 1 | 1 | 6 |
-| 11 | Galatasaray | 3 | 2 | 0 | 1 | -1 | 6 |
-| 12 | Tottenham Hotspur | 3 | 1 | 2 | 0 | 1 | 5 |
-| 13 | Marseille | 3 | 1 | 1 | 1 | 3 | 4 |
-| 14 | PSV | 3 | 1 | 1 | 1 | 2 | 4 |
-| 15 | Sporting CP | 3 | 1 | 1 | 1 | 2 | 4 |
+| 10 | Marseille | 3 | 2 | 0 | 1 | 4 | 6 |
+| 11 | Qarabağ | 3 | 2 | 0 | 1 | 1 | 6 |
+| 12 | Chelsea | 3 | 2 | 0 | 1 | 0 | 6 |
+| 13 | Galatasaray | 3 | 2 | 0 | 1 | -1 | 6 |
+| 14 | Tottenham Hotspur | 3 | 1 | 2 | 0 | 1 | 5 |
+| 15 | PSV | 3 | 1 | 1 | 1 | 2 | 4 |
 | 16 | Eintracht Frankfurt | 3 | 1 | 1 | 1 | 0 | 4 |
 | 17 | Liverpool FC | 3 | 1 | 1 | 1 | 0 | 4 |
-| 18 | Chelsea | 3 | 1 | 1 | 1 | -1 | 4 |
-| 19 | Atalanta | 3 | 1 | 1 | 1 | -3 | 4 |
-| 20 | Club Brugge | 3 | 1 | 0 | 2 | 1 | 3 |
-| 21 | Juventus | 3 | 0 | 3 | 0 | 0 | 3 |
-| 22 | Atlético de Madrid | 3 | 1 | 0 | 2 | -1 | 3 |
+| 18 | Atalanta | 3 | 1 | 1 | 1 | -3 | 4 |
+| 19 | Sporting CP | 3 | 1 | 0 | 2 | 1 | 3 |
+| 20 | Juventus | 3 | 0 | 3 | 0 | 0 | 3 |
+| 21 | Atlético de Madrid | 3 | 1 | 0 | 2 | -1 | 3 |
+| 22 | Club Brugge | 3 | 1 | 0 | 2 | -1 | 3 |
 | 23 | Athletic Bilbao | 3 | 1 | 0 | 2 | -3 | 3 |
 | 24 | Napoli | 3 | 1 | 0 | 2 | -5 | 3 |
 | 25 | Union Saint-Gilloise | 3 | 1 | 0 | 2 | -6 | 3 |
@@ -200,10 +200,10 @@ The latest league standings are displayed below in Markdown tables:
 | 30 | Bayer Leverkusen | 3 | 0 | 2 | 1 | -5 | 2 |
 | 31 | Villarreal | 3 | 0 | 1 | 2 | -3 | 1 |
 | 32 | FC Copenhagen | 3 | 0 | 1 | 2 | -4 | 1 |
-| 33 | Ajax | 3 | 0 | 1 | 2 | -6 | 1 |
-| 34 | Olympiacos | 3 | 0 | 1 | 2 | -7 | 1 |
-| 35 | Kairat | 3 | 0 | 1 | 2 | -8 | 1 |
-| 36 | Benfica | 3 | 0 | 0 | 3 | -5 | 0 |
+| 33 | Olympiacos | 3 | 0 | 1 | 2 | -7 | 1 |
+| 34 | Kairat | 3 | 0 | 1 | 2 | -8 | 1 |
+| 35 | Benfica | 3 | 0 | 0 | 3 | -5 | 0 |
+| 36 | Ajax | 3 | 0 | 0 | 3 | -7 | 0 |
 
 ### Europa League
 
