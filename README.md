@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 22 October 2025, 05:39 PM UTC (Wednesday, 22 October 2025, 11:09 PM IST)
+**Last Updated:** Wednesday, 22 October 2025, 06:30 PM UTC (Thursday, 23 October 2025, 12:00 AM IST)
 
 ### Premier League
 
@@ -173,11 +173,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Arsenal | 3 | 3 | 0 | 0 | 8 | 9 |
 | 4 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
 | 5 | Manchester City | 3 | 2 | 1 | 0 | 4 | 7 |
-| 6 | Qarabağ | 3 | 2 | 1 | 0 | 3 | 7 |
-| 7 | Bayern Munich | 2 | 2 | 0 | 0 | 6 | 6 |
-| 8 | Newcastle United | 3 | 2 | 0 | 1 | 6 | 6 |
-| 9 | Real Madrid | 2 | 2 | 0 | 0 | 6 | 6 |
-| 10 | Barcelona | 3 | 2 | 0 | 1 | 5 | 6 |
+| 6 | Bayern Munich | 2 | 2 | 0 | 0 | 6 | 6 |
+| 7 | Newcastle United | 3 | 2 | 0 | 1 | 6 | 6 |
+| 8 | Real Madrid | 2 | 2 | 0 | 0 | 6 | 6 |
+| 9 | Barcelona | 3 | 2 | 0 | 1 | 5 | 6 |
+| 10 | Qarabağ | 3 | 2 | 0 | 1 | 2 | 6 |
 | 11 | Galatasaray | 3 | 2 | 0 | 1 | -1 | 6 |
 | 12 | PSV | 3 | 1 | 1 | 1 | 2 | 4 |
 | 13 | Tottenham Hotspur | 2 | 1 | 1 | 0 | 1 | 4 |
@@ -189,17 +189,17 @@ The latest league standings are displayed below in Markdown tables:
 | 19 | Atlético de Madrid | 3 | 1 | 0 | 2 | -1 | 3 |
 | 20 | Chelsea | 2 | 1 | 0 | 1 | -1 | 3 |
 | 21 | Atalanta | 2 | 1 | 0 | 1 | -3 | 3 |
-| 22 | Napoli | 3 | 1 | 0 | 2 | -5 | 3 |
-| 23 | Union Saint-Gilloise | 3 | 1 | 0 | 2 | -6 | 3 |
-| 24 | Juventus | 2 | 0 | 2 | 0 | 0 | 2 |
-| 25 | Bodø/Glimt | 3 | 0 | 2 | 1 | -2 | 2 |
-| 26 | Pafos | 3 | 0 | 2 | 1 | -4 | 2 |
-| 27 | Bayer Leverkusen | 3 | 0 | 2 | 1 | -5 | 2 |
-| 28 | Monaco | 2 | 0 | 1 | 1 | -3 | 1 |
-| 29 | Slavia Prague | 2 | 0 | 1 | 1 | -3 | 1 |
-| 30 | Villarreal | 3 | 0 | 1 | 2 | -3 | 1 |
-| 31 | FC Copenhagen | 3 | 0 | 1 | 2 | -4 | 1 |
-| 32 | Athletic Bilbao | 3 | 0 | 1 | 2 | -5 | 1 |
+| 22 | Athletic Bilbao | 3 | 1 | 0 | 2 | -4 | 3 |
+| 23 | Napoli | 3 | 1 | 0 | 2 | -5 | 3 |
+| 24 | Union Saint-Gilloise | 3 | 1 | 0 | 2 | -6 | 3 |
+| 25 | Juventus | 2 | 0 | 2 | 0 | 0 | 2 |
+| 26 | Bodø/Glimt | 3 | 0 | 2 | 1 | -2 | 2 |
+| 27 | Pafos | 3 | 0 | 2 | 1 | -4 | 2 |
+| 28 | Bayer Leverkusen | 3 | 0 | 2 | 1 | -5 | 2 |
+| 29 | Monaco | 2 | 0 | 1 | 1 | -3 | 1 |
+| 30 | Slavia Prague | 2 | 0 | 1 | 1 | -3 | 1 |
+| 31 | Villarreal | 3 | 0 | 1 | 2 | -3 | 1 |
+| 32 | FC Copenhagen | 3 | 0 | 1 | 2 | -4 | 1 |
 | 33 | Olympiacos | 3 | 0 | 1 | 2 | -7 | 1 |
 | 34 | Kairat | 3 | 0 | 1 | 2 | -8 | 1 |
 | 35 | Benfica | 3 | 0 | 0 | 3 | -5 | 0 |
