@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 22 October 2025, 08:24 PM UTC",
-        "IST": "Thursday, 23 October 2025, 01:54 AM IST"
+        "UTC": "Wednesday, 22 October 2025, 08:41 PM UTC",
+        "IST": "Thursday, 23 October 2025, 02:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -992,7 +992,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "9",
+                "Goal Difference": "10",
                 "Points": "9"
             },
             {
@@ -1067,7 +1067,7 @@
             },
             {
                 "Position": "10",
-                "Team": "Marseille",
+                "Team": "Liverpool FC",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "0",
@@ -1087,16 +1087,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Liverpool FC",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "6"
-            },
-            {
-                "Position": "13",
                 "Team": "Qaraba\u011f",
                 "Played": "3",
                 "Wins": "2",
@@ -1106,7 +1096,7 @@
                 "Points": "6"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Galatasaray",
                 "Played": "3",
                 "Wins": "2",
@@ -1116,7 +1106,7 @@
                 "Points": "6"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Tottenham Hotspur",
                 "Played": "3",
                 "Wins": "1",
@@ -1124,6 +1114,16 @@
                 "Losses": "0",
                 "Goal Difference": "1",
                 "Points": "5"
+            },
+            {
+                "Position": "15",
+                "Team": "Marseille",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "4"
             },
             {
                 "Position": "16",
@@ -1137,6 +1137,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Sporting CP",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "2",
+                "Points": "4"
+            },
+            {
+                "Position": "18",
                 "Team": "Atalanta",
                 "Played": "3",
                 "Wins": "1",
@@ -1144,16 +1154,6 @@
                 "Losses": "1",
                 "Goal Difference": "-3",
                 "Points": "4"
-            },
-            {
-                "Position": "18",
-                "Team": "Sporting CP",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "3"
             },
             {
                 "Position": "19",
@@ -1172,27 +1172,27 @@
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "3"
-            },
-            {
-                "Position": "21",
-                "Team": "Eintracht Frankfurt",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "2",
                 "Goal Difference": "-2",
                 "Points": "3"
             },
             {
-                "Position": "22",
+                "Position": "21",
                 "Team": "Athletic Bilbao",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "-3",
+                "Points": "3"
+            },
+            {
+                "Position": "22",
+                "Team": "Eintracht Frankfurt",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-4",
                 "Points": "3"
             },
             {
