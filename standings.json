@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 22 October 2025, 05:18 PM UTC",
-        "IST": "Wednesday, 22 October 2025, 10:48 PM IST"
+        "UTC": "Wednesday, 22 October 2025, 05:39 PM UTC",
+        "IST": "Wednesday, 22 October 2025, 11:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -1007,16 +1007,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Qaraba\u011f",
-                "Played": "3",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "4",
-                "Points": "9"
-            },
-            {
-                "Position": "5",
                 "Team": "Borussia Dortmund",
                 "Played": "3",
                 "Wins": "2",
@@ -1026,13 +1016,23 @@
                 "Points": "7"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Manchester City",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "4",
+                "Points": "7"
+            },
+            {
+                "Position": "6",
+                "Team": "Qaraba\u011f",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "3",
                 "Points": "7"
             },
             {
@@ -1082,7 +1082,7 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "1",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "6"
             },
             {
@@ -1222,7 +1222,7 @@
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "2"
             },
             {
@@ -1287,6 +1287,16 @@
             },
             {
                 "Position": "32",
+                "Team": "Athletic Bilbao",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-5",
+                "Points": "1"
+            },
+            {
+                "Position": "33",
                 "Team": "Olympiacos",
                 "Played": "3",
                 "Wins": "0",
@@ -1296,7 +1306,7 @@
                 "Points": "1"
             },
             {
-                "Position": "33",
+                "Position": "34",
                 "Team": "Kairat",
                 "Played": "3",
                 "Wins": "0",
@@ -1306,23 +1316,13 @@
                 "Points": "1"
             },
             {
-                "Position": "34",
+                "Position": "35",
                 "Team": "Benfica",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "3",
                 "Goal Difference": "-5",
-                "Points": "0"
-            },
-            {
-                "Position": "35",
-                "Team": "Athletic Bilbao",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-6",
                 "Points": "0"
             },
             {
