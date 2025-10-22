@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 22 October 2025, 07:38 PM UTC (Thursday, 23 October 2025, 01:08 AM IST)
+**Last Updated:** Wednesday, 22 October 2025, 08:24 PM UTC (Thursday, 23 October 2025, 01:54 AM IST)
 
 ### Premier League
 
@@ -172,27 +172,27 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Bayern Munich | 3 | 3 | 0 | 0 | 9 | 9 |
 | 3 | Inter | 3 | 3 | 0 | 0 | 9 | 9 |
 | 4 | Arsenal | 3 | 3 | 0 | 0 | 8 | 9 |
-| 5 | Real Madrid | 3 | 2 | 1 | 0 | 6 | 7 |
+| 5 | Real Madrid | 3 | 3 | 0 | 0 | 7 | 9 |
 | 6 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
 | 7 | Manchester City | 3 | 2 | 1 | 0 | 4 | 7 |
 | 8 | Newcastle United | 3 | 2 | 0 | 1 | 6 | 6 |
 | 9 | Barcelona | 3 | 2 | 0 | 1 | 5 | 6 |
 | 10 | Marseille | 3 | 2 | 0 | 1 | 4 | 6 |
-| 11 | Qarabağ | 3 | 2 | 0 | 1 | 1 | 6 |
-| 12 | Chelsea | 3 | 2 | 0 | 1 | 0 | 6 |
-| 13 | Galatasaray | 3 | 2 | 0 | 1 | -1 | 6 |
-| 14 | Tottenham Hotspur | 3 | 1 | 2 | 0 | 1 | 5 |
-| 15 | PSV | 3 | 1 | 1 | 1 | 2 | 4 |
-| 16 | Eintracht Frankfurt | 3 | 1 | 1 | 1 | 0 | 4 |
-| 17 | Liverpool FC | 3 | 1 | 1 | 1 | 0 | 4 |
-| 18 | Atalanta | 3 | 1 | 1 | 1 | -3 | 4 |
-| 19 | Sporting CP | 3 | 1 | 0 | 2 | 1 | 3 |
-| 20 | Juventus | 3 | 0 | 3 | 0 | 0 | 3 |
-| 21 | Atlético de Madrid | 3 | 1 | 0 | 2 | -1 | 3 |
-| 22 | Club Brugge | 3 | 1 | 0 | 2 | -1 | 3 |
-| 23 | Athletic Bilbao | 3 | 1 | 0 | 2 | -3 | 3 |
-| 24 | Napoli | 3 | 1 | 0 | 2 | -5 | 3 |
-| 25 | Union Saint-Gilloise | 3 | 1 | 0 | 2 | -6 | 3 |
+| 11 | Chelsea | 3 | 2 | 0 | 1 | 3 | 6 |
+| 12 | Liverpool FC | 3 | 2 | 0 | 1 | 2 | 6 |
+| 13 | Qarabağ | 3 | 2 | 0 | 1 | 1 | 6 |
+| 14 | Galatasaray | 3 | 2 | 0 | 1 | -1 | 6 |
+| 15 | Tottenham Hotspur | 3 | 1 | 2 | 0 | 1 | 5 |
+| 16 | PSV | 3 | 1 | 1 | 1 | 2 | 4 |
+| 17 | Atalanta | 3 | 1 | 1 | 1 | -3 | 4 |
+| 18 | Sporting CP | 3 | 1 | 0 | 2 | 1 | 3 |
+| 19 | Atlético de Madrid | 3 | 1 | 0 | 2 | -1 | 3 |
+| 20 | Club Brugge | 3 | 1 | 0 | 2 | -1 | 3 |
+| 21 | Eintracht Frankfurt | 3 | 1 | 0 | 2 | -2 | 3 |
+| 22 | Athletic Bilbao | 3 | 1 | 0 | 2 | -3 | 3 |
+| 23 | Napoli | 3 | 1 | 0 | 2 | -5 | 3 |
+| 24 | Union Saint-Gilloise | 3 | 1 | 0 | 2 | -6 | 3 |
+| 25 | Juventus | 3 | 0 | 2 | 1 | -1 | 2 |
 | 26 | Bodø/Glimt | 3 | 0 | 2 | 1 | -2 | 2 |
 | 27 | Monaco | 3 | 0 | 2 | 1 | -3 | 2 |
 | 28 | Slavia Prague | 3 | 0 | 2 | 1 | -3 | 2 |
@@ -203,7 +203,7 @@ The latest league standings are displayed below in Markdown tables:
 | 33 | Olympiacos | 3 | 0 | 1 | 2 | -7 | 1 |
 | 34 | Kairat | 3 | 0 | 1 | 2 | -8 | 1 |
 | 35 | Benfica | 3 | 0 | 0 | 3 | -5 | 0 |
-| 36 | Ajax | 3 | 0 | 0 | 3 | -7 | 0 |
+| 36 | Ajax | 3 | 0 | 0 | 3 | -10 | 0 |
 
 ### Europa League
 
@@ -321,14 +321,14 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Charlton Athletic | 11 | 5 | 3 | 3 | 4 | 18 |
 | 6 | Stoke City | 11 | 5 | 3 | 3 | 4 | 18 |
 | 7 | Hull City | 11 | 5 | 3 | 3 | 0 | 18 |
-| 8 | West Bromwich Albion | 11 | 5 | 3 | 3 | 0 | 18 |
-| 9 | Queens Park Rangers | 11 | 5 | 3 | 3 | -1 | 18 |
-| 10 | Leicester City | 11 | 4 | 5 | 2 | 4 | 17 |
+| 8 | Queens Park Rangers | 11 | 5 | 3 | 3 | -1 | 18 |
+| 9 | Leicester City | 11 | 4 | 5 | 2 | 4 | 17 |
+| 10 | West Bromwich Albion | 11 | 5 | 2 | 4 | -1 | 17 |
 | 11 | Preston North End | 11 | 4 | 4 | 3 | 2 | 16 |
-| 12 | Birmingham City | 11 | 4 | 3 | 4 | -3 | 15 |
-| 13 | Ipswich Town | 10 | 3 | 4 | 3 | 3 | 13 |
-| 14 | Wrexham | 11 | 3 | 4 | 4 | -1 | 13 |
-| 15 | Watford | 11 | 3 | 4 | 4 | -1 | 13 |
+| 12 | Watford | 11 | 4 | 3 | 4 | 0 | 15 |
+| 13 | Birmingham City | 11 | 4 | 3 | 4 | -3 | 15 |
+| 14 | Ipswich Town | 10 | 3 | 4 | 3 | 3 | 13 |
+| 15 | Wrexham | 11 | 3 | 4 | 4 | -1 | 13 |
 | 16 | Swansea City | 11 | 3 | 4 | 4 | -1 | 13 |
 | 17 | Portsmouth | 11 | 3 | 4 | 4 | -2 | 13 |
 | 18 | Southampton | 11 | 2 | 6 | 3 | -3 | 12 |
