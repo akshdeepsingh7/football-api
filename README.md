@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 22 October 2025, 10:36 PM UTC (Thursday, 23 October 2025, 04:06 AM IST)
+**Last Updated:** Wednesday, 22 October 2025, 11:16 PM UTC (Thursday, 23 October 2025, 04:46 AM IST)
 
 ### Premier League
 
@@ -396,18 +396,18 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Estudiantes | 13 | 6 | 3 | 4 | 2 | 21 |
-| 2 | Unión | 13 | 5 | 5 | 3 | 6 | 20 |
-| 3 | Def y Justicia | 13 | 5 | 4 | 4 | 0 | 19 |
-| 4 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
-| 5 | Córdoba SdE | 12 | 4 | 6 | 2 | 5 | 18 |
+| 1 | Córdoba SdE | 13 | 5 | 6 | 2 | 6 | 21 |
+| 2 | Estudiantes | 13 | 6 | 3 | 4 | 2 | 21 |
+| 3 | Unión | 13 | 5 | 5 | 3 | 6 | 20 |
+| 4 | Def y Justicia | 13 | 5 | 4 | 4 | 0 | 19 |
+| 5 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
 | 6 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
 | 7 | Barracas | 12 | 4 | 6 | 2 | 2 | 18 |
 | 8 | Tigre | 13 | 4 | 6 | 3 | 2 | 18 |
 | 9 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
 | 10 | Boca Juniors | 12 | 4 | 5 | 3 | 9 | 17 |
 | 11 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
-| 12 | Huracán | 12 | 4 | 4 | 4 | -4 | 16 |
+| 12 | Huracán | 13 | 4 | 4 | 5 | -5 | 16 |
 | 13 | Independiente Rivadavia | 13 | 2 | 6 | 5 | -3 | 12 |
 | 14 | Newell's Old Boys | 13 | 2 | 5 | 6 | -10 | 11 |
 | 15 | Aldosivi | 13 | 2 | 3 | 8 | -10 | 9 |
@@ -435,16 +435,16 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Flamengo | 28 | 18 | 7 | 3 | 41 | 61 |
 | 3 | Cruzeiro | 29 | 16 | 8 | 5 | 21 | 56 |
 | 4 | Mirassol | 29 | 14 | 10 | 5 | 20 | 52 |
-| 5 | Bahia | 29 | 13 | 8 | 8 | 7 | 47 |
+| 5 | Bahia | 29 | 14 | 7 | 8 | 8 | 49 |
 | 6 | Botafogo | 29 | 13 | 7 | 9 | 13 | 46 |
 | 7 | Fluminense | 28 | 12 | 5 | 11 | 0 | 41 |
 | 8 | Vasco da Gama | 29 | 11 | 6 | 12 | 5 | 39 |
 | 9 | São Paulo | 29 | 10 | 8 | 11 | -2 | 38 |
 | 10 | RB Bragantino | 29 | 10 | 6 | 13 | -10 | 36 |
 | 11 | Corinthians | 29 | 9 | 9 | 11 | -4 | 36 |
-| 12 | Internacional | 29 | 9 | 9 | 11 | -6 | 36 |
-| 13 | Grêmio | 29 | 9 | 9 | 11 | -7 | 36 |
-| 14 | Ceará | 28 | 9 | 8 | 11 | 0 | 35 |
+| 12 | Grêmio | 29 | 9 | 9 | 11 | -7 | 36 |
+| 13 | Ceará | 28 | 9 | 8 | 11 | 0 | 35 |
+| 14 | Internacional | 29 | 9 | 8 | 12 | -7 | 35 |
 | 15 | Atlético Mineiro | 28 | 8 | 9 | 11 | -6 | 33 |
 | 16 | Santos | 28 | 8 | 7 | 13 | -12 | 31 |
 | 17 | Vitória | 29 | 7 | 10 | 12 | -16 | 31 |

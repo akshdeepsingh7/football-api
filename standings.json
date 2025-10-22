@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 22 October 2025, 10:36 PM UTC",
-        "IST": "Thursday, 23 October 2025, 04:06 AM IST"
+        "UTC": "Wednesday, 22 October 2025, 11:16 PM UTC",
+        "IST": "Thursday, 23 October 2025, 04:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2921,6 +2921,16 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
+                "Team": "C\u00f3rdoba SdE",
+                "Played": "13",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "21"
+            },
+            {
+                "Position": "2",
                 "Team": "Estudiantes",
                 "Played": "13",
                 "Wins": "6",
@@ -2930,7 +2940,7 @@
                 "Points": "21"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Uni\u00f3n",
                 "Played": "13",
                 "Wins": "5",
@@ -2940,7 +2950,7 @@
                 "Points": "20"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Def y Justicia",
                 "Played": "13",
                 "Wins": "5",
@@ -2950,22 +2960,12 @@
                 "Points": "19"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Argentinos Juniors",
                 "Played": "13",
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "5",
-                "Points": "18"
-            },
-            {
-                "Position": "5",
-                "Team": "C\u00f3rdoba SdE",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "2",
                 "Goal Difference": "5",
                 "Points": "18"
             },
@@ -3032,11 +3032,11 @@
             {
                 "Position": "12",
                 "Team": "Hurac\u00e1n",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "4",
                 "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-4",
+                "Losses": "5",
+                "Goal Difference": "-5",
                 "Points": "16"
             },
             {
@@ -3265,11 +3265,11 @@
                 "Position": "5",
                 "Team": "Bahia",
                 "Played": "29",
-                "Wins": "13",
-                "Draws": "8",
+                "Wins": "14",
+                "Draws": "7",
                 "Losses": "8",
-                "Goal Difference": "7",
-                "Points": "47"
+                "Goal Difference": "8",
+                "Points": "49"
             },
             {
                 "Position": "6",
@@ -3333,16 +3333,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Internacional",
-                "Played": "29",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-6",
-                "Points": "36"
-            },
-            {
-                "Position": "13",
                 "Team": "Gr\u00eamio",
                 "Played": "29",
                 "Wins": "9",
@@ -3352,13 +3342,23 @@
                 "Points": "36"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Cear\u00e1",
                 "Played": "28",
                 "Wins": "9",
                 "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "0",
+                "Points": "35"
+            },
+            {
+                "Position": "14",
+                "Team": "Internacional",
+                "Played": "29",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-7",
                 "Points": "35"
             },
             {
