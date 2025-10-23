@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 23 October 2025, 06:51 PM UTC",
-        "IST": "Friday, 24 October 2025, 12:21 AM IST"
+        "UTC": "Thursday, 23 October 2025, 07:16 PM UTC",
+        "IST": "Friday, 24 October 2025, 12:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1359,6 +1359,26 @@
             },
             {
                 "Position": "3",
+                "Team": "Dinamo Zagreb",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "4",
+                "Points": "7"
+            },
+            {
+                "Position": "4",
+                "Team": "Midtjylland",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "7"
+            },
+            {
+                "Position": "5",
                 "Team": "Ferencv\u00e1ros",
                 "Played": "3",
                 "Wins": "2",
@@ -1368,27 +1388,27 @@
                 "Points": "7"
             },
             {
-                "Position": "4",
-                "Team": "Dinamo Zagreb",
-                "Played": "2",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "4",
-                "Points": "6"
-            },
-            {
-                "Position": "5",
-                "Team": "Midtjylland",
-                "Played": "2",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "3",
-                "Points": "6"
-            },
-            {
                 "Position": "6",
+                "Team": "Lille",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "7"
+            },
+            {
+                "Position": "7",
+                "Team": "Porto",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "7"
+            },
+            {
+                "Position": "8",
                 "Team": "Brann",
                 "Played": "3",
                 "Wins": "2",
@@ -1398,7 +1418,17 @@
                 "Points": "6"
             },
             {
-                "Position": "7",
+                "Position": "9",
+                "Team": "Celta de Vigo",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "2",
+                "Points": "6"
+            },
+            {
+                "Position": "10",
                 "Team": "Aston Villa",
                 "Played": "3",
                 "Wins": "2",
@@ -1408,27 +1438,7 @@
                 "Points": "6"
             },
             {
-                "Position": "8",
-                "Team": "Lille",
-                "Played": "2",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "6"
-            },
-            {
-                "Position": "9",
-                "Team": "Porto",
-                "Played": "2",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "6"
-            },
-            {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Go Ahead Eagles",
                 "Played": "3",
                 "Wins": "2",
@@ -1438,7 +1448,7 @@
                 "Points": "6"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Fenerbah\u00e7e",
                 "Played": "3",
                 "Wins": "2",
@@ -1448,7 +1458,27 @@
                 "Points": "6"
             },
             {
-                "Position": "12",
+                "Position": "13",
+                "Team": "Sturm Graz",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "6"
+            },
+            {
+                "Position": "14",
+                "Team": "Plze\u0148",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "5"
+            },
+            {
+                "Position": "15",
                 "Team": "Real Betis",
                 "Played": "3",
                 "Wins": "1",
@@ -1458,27 +1488,27 @@
                 "Points": "5"
             },
             {
-                "Position": "13",
-                "Team": "Plze\u0148",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "3",
-                "Points": "4"
-            },
-            {
-                "Position": "14",
+                "Position": "16",
                 "Team": "SC Freiburg",
-                "Played": "2",
+                "Played": "3",
                 "Wins": "1",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "0",
                 "Goal Difference": "1",
+                "Points": "5"
+            },
+            {
+                "Position": "17",
+                "Team": "Panathinaikos",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "2",
                 "Points": "4"
             },
             {
-                "Position": "15",
+                "Position": "18",
                 "Team": "Bologna",
                 "Played": "3",
                 "Wins": "1",
@@ -1488,7 +1518,17 @@
                 "Points": "4"
             },
             {
-                "Position": "16",
+                "Position": "19",
+                "Team": "Roma",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "4"
+            },
+            {
+                "Position": "20",
                 "Team": "KRC Genk",
                 "Played": "3",
                 "Wins": "1",
@@ -1498,72 +1538,32 @@
                 "Points": "4"
             },
             {
-                "Position": "17",
-                "Team": "Panathinaikos",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "3"
-            },
-            {
-                "Position": "18",
-                "Team": "Celta de Vigo",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "3"
-            },
-            {
-                "Position": "19",
-                "Team": "Roma",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "3"
-            },
-            {
-                "Position": "20",
+                "Position": "21",
                 "Team": "BSC Young Boys",
-                "Played": "2",
+                "Played": "3",
                 "Wins": "1",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "-1",
-                "Points": "3"
+                "Points": "4"
             },
             {
-                "Position": "21",
+                "Position": "22",
+                "Team": "Ludogorets",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "4"
+            },
+            {
+                "Position": "23",
                 "Team": "FC Basel",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "3"
-            },
-            {
-                "Position": "22",
-                "Team": "Ludogorets",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "3"
-            },
-            {
-                "Position": "23",
-                "Team": "Sturm Graz",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
                 "Goal Difference": "-1",
                 "Points": "3"
             },
@@ -1590,40 +1590,40 @@
             {
                 "Position": "26",
                 "Team": "Nottingham Forest",
-                "Played": "2",
+                "Played": "3",
                 "Wins": "0",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "-1",
-                "Points": "1"
+                "Points": "2"
             },
             {
                 "Position": "27",
-                "Team": "Celtic",
-                "Played": "2",
+                "Team": "PAOK",
+                "Played": "3",
                 "Wins": "0",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "-2",
-                "Points": "1"
+                "Points": "2"
             },
             {
                 "Position": "28",
-                "Team": "PAOK",
-                "Played": "2",
+                "Team": "Maccabi Tel Aviv",
+                "Played": "3",
                 "Wins": "0",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "-2",
-                "Points": "1"
+                "Points": "2"
             },
             {
                 "Position": "29",
-                "Team": "Maccabi Tel Aviv",
-                "Played": "2",
+                "Team": "Utrecht",
+                "Played": "3",
                 "Wins": "0",
                 "Draws": "1",
-                "Losses": "1",
+                "Losses": "2",
                 "Goal Difference": "-2",
                 "Points": "1"
             },
@@ -1639,51 +1639,51 @@
             },
             {
                 "Position": "31",
-                "Team": "Nice",
-                "Played": "2",
+                "Team": "Celtic",
+                "Played": "3",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "0"
+                "Goal Difference": "-3",
+                "Points": "1"
             },
             {
                 "Position": "32",
-                "Team": "Utrecht",
-                "Played": "2",
+                "Team": "Feyenoord",
+                "Played": "3",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "0"
+                "Goal Difference": "-3",
+                "Points": "1"
             },
             {
                 "Position": "33",
-                "Team": "Feyenoord",
-                "Played": "2",
+                "Team": "Malm\u00f6",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-4",
+                "Points": "1"
+            },
+            {
+                "Position": "34",
+                "Team": "Nice",
+                "Played": "3",
                 "Wins": "0",
                 "Draws": "0",
-                "Losses": "2",
+                "Losses": "3",
                 "Goal Difference": "-3",
                 "Points": "0"
             },
             {
-                "Position": "34",
+                "Position": "35",
                 "Team": "RB Salzburg",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "0"
-            },
-            {
-                "Position": "35",
-                "Team": "Malm\u00f6",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "2",
                 "Goal Difference": "-4",
                 "Points": "0"
             },
@@ -1711,6 +1711,76 @@
             },
             {
                 "Position": "2",
+                "Team": "Celje",
+                "Played": "2",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "6"
+            },
+            {
+                "Position": "3",
+                "Team": "Samsunspor",
+                "Played": "2",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "6"
+            },
+            {
+                "Position": "4",
+                "Team": "Zrinjski Mostar",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "5",
+                "Points": "4"
+            },
+            {
+                "Position": "5",
+                "Team": "AEK Larnaca",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "4",
+                "Points": "4"
+            },
+            {
+                "Position": "6",
+                "Team": "Lech",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "4"
+            },
+            {
+                "Position": "7",
+                "Team": "Sparta Prague",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "4"
+            },
+            {
+                "Position": "8",
+                "Team": "Lausanne-Sport",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "4"
+            },
+            {
+                "Position": "9",
                 "Team": "Rayo Vallecano",
                 "Played": "2",
                 "Wins": "1",
@@ -1720,7 +1790,27 @@
                 "Points": "4"
             },
             {
-                "Position": "3",
+                "Position": "10",
+                "Team": "Crystal Palace",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "4"
+            },
+            {
+                "Position": "11",
+                "Team": "Rak\u00f3w",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "4"
+            },
+            {
+                "Position": "12",
                 "Team": "Strasbourg",
                 "Played": "2",
                 "Wins": "1",
@@ -1730,7 +1820,7 @@
                 "Points": "4"
             },
             {
-                "Position": "4",
+                "Position": "13",
                 "Team": "Jagiellonia",
                 "Played": "2",
                 "Wins": "1",
@@ -1740,123 +1830,33 @@
                 "Points": "4"
             },
             {
-                "Position": "5",
-                "Team": "Zrinjski Mostar",
-                "Played": "1",
+                "Position": "14",
+                "Team": "Mainz 05",
+                "Played": "2",
                 "Wins": "1",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "5",
-                "Points": "3"
+                "Goal Difference": "1",
+                "Points": "4"
             },
             {
-                "Position": "6",
+                "Position": "15",
+                "Team": "Noah",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "1",
+                "Points": "4"
+            },
+            {
+                "Position": "16",
                 "Team": "AEK Athens",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "4",
-                "Points": "3"
-            },
-            {
-                "Position": "7",
-                "Team": "AEK Larnaca",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "4",
-                "Points": "3"
-            },
-            {
-                "Position": "8",
-                "Team": "Lech",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "3",
-                "Points": "3"
-            },
-            {
-                "Position": "9",
-                "Team": "Sparta Prague",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "3",
-                "Points": "3"
-            },
-            {
-                "Position": "10",
-                "Team": "Lausanne-Sport",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "3",
-                "Points": "3"
-            },
-            {
-                "Position": "11",
-                "Team": "Celje",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "3"
-            },
-            {
-                "Position": "12",
-                "Team": "Crystal Palace",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "3"
-            },
-            {
-                "Position": "13",
-                "Team": "Rak\u00f3w",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "3"
-            },
-            {
-                "Position": "14",
-                "Team": "Mainz 05",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "1",
-                "Points": "3"
-            },
-            {
-                "Position": "15",
-                "Team": "Samsunspor",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "1",
-                "Points": "3"
-            },
-            {
-                "Position": "16",
-                "Team": "Noah",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "1",
                 "Points": "3"
             },
             {
@@ -1941,7 +1941,7 @@
             },
             {
                 "Position": "25",
-                "Team": "Shelbourne",
+                "Team": "Hamrun Spartans",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "1",
@@ -1951,6 +1951,46 @@
             },
             {
                 "Position": "26",
+                "Team": "Rijeka",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "1"
+            },
+            {
+                "Position": "27",
+                "Team": "Shelbourne",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "1"
+            },
+            {
+                "Position": "28",
+                "Team": "Sigma Olomouc",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-2",
+                "Points": "1"
+            },
+            {
+                "Position": "29",
+                "Team": "Universitatea Craiova",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-2",
+                "Points": "1"
+            },
+            {
+                "Position": "30",
                 "Team": "Brei\u00f0ablik",
                 "Played": "2",
                 "Wins": "0",
@@ -1960,27 +2000,17 @@
                 "Points": "1"
             },
             {
-                "Position": "27",
-                "Team": "Hamrun Spartans",
-                "Played": "1",
+                "Position": "31",
+                "Team": "Lincoln Red Imps",
+                "Played": "2",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "0"
+                "Goal Difference": "-5",
+                "Points": "1"
             },
             {
-                "Position": "28",
-                "Team": "Rijeka",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "0"
-            },
-            {
-                "Position": "29",
+                "Position": "32",
                 "Team": "Slovan Bratislava",
                 "Played": "2",
                 "Wins": "0",
@@ -1990,53 +2020,23 @@
                 "Points": "0"
             },
             {
-                "Position": "30",
-                "Team": "Dynamo Kyiv",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-2",
-                "Points": "0"
-            },
-            {
-                "Position": "31",
-                "Team": "Sigma Olomouc",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-2",
-                "Points": "0"
-            },
-            {
-                "Position": "32",
-                "Team": "Universitatea Craiova",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-2",
-                "Points": "0"
-            },
-            {
                 "Position": "33",
-                "Team": "Shamrock Rovers",
-                "Played": "1",
+                "Team": "Dynamo Kyiv",
+                "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
-                "Losses": "1",
+                "Losses": "2",
                 "Goal Difference": "-3",
                 "Points": "0"
             },
             {
                 "Position": "34",
-                "Team": "Lincoln Red Imps",
-                "Played": "1",
+                "Team": "Shamrock Rovers",
+                "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-5",
+                "Losses": "2",
+                "Goal Difference": "-4",
                 "Points": "0"
             },
             {
