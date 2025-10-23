@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 23 October 2025, 06:29 PM UTC",
-        "IST": "Thursday, 23 October 2025, 11:59 PM IST"
+        "UTC": "Thursday, 23 October 2025, 06:51 PM UTC",
+        "IST": "Friday, 24 October 2025, 12:21 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1354,7 +1354,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "9"
             },
             {
@@ -1519,16 +1519,6 @@
             },
             {
                 "Position": "19",
-                "Team": "FC Basel",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "0",
-                "Points": "3"
-            },
-            {
-                "Position": "20",
                 "Team": "Roma",
                 "Played": "2",
                 "Wins": "1",
@@ -1538,12 +1528,22 @@
                 "Points": "3"
             },
             {
-                "Position": "21",
+                "Position": "20",
                 "Team": "BSC Young Boys",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "3"
+            },
+            {
+                "Position": "21",
+                "Team": "FC Basel",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
                 "Goal Difference": "-1",
                 "Points": "3"
             },
@@ -1706,17 +1706,17 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "6"
             },
             {
                 "Position": "2",
-                "Team": "Shakhtar Donetsk",
+                "Team": "Rayo Vallecano",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "4"
             },
             {
@@ -1741,22 +1741,22 @@
             },
             {
                 "Position": "5",
-                "Team": "H\u00e4cken",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "1",
-                "Points": "4"
-            },
-            {
-                "Position": "6",
                 "Team": "Zrinjski Mostar",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "0",
                 "Goal Difference": "5",
+                "Points": "3"
+            },
+            {
+                "Position": "6",
+                "Team": "AEK Athens",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "4",
                 "Points": "3"
             },
             {
@@ -1771,16 +1771,6 @@
             },
             {
                 "Position": "8",
-                "Team": "AEK Athens",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "3",
-                "Points": "3"
-            },
-            {
-                "Position": "9",
                 "Team": "Lech",
                 "Played": "1",
                 "Wins": "1",
@@ -1790,7 +1780,7 @@
                 "Points": "3"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Sparta Prague",
                 "Played": "1",
                 "Wins": "1",
@@ -1800,7 +1790,7 @@
                 "Points": "3"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Lausanne-Sport",
                 "Played": "1",
                 "Wins": "1",
@@ -1810,7 +1800,7 @@
                 "Points": "3"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Celje",
                 "Played": "1",
                 "Wins": "1",
@@ -1820,7 +1810,7 @@
                 "Points": "3"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Crystal Palace",
                 "Played": "1",
                 "Wins": "1",
@@ -1830,7 +1820,7 @@
                 "Points": "3"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Rak\u00f3w",
                 "Played": "1",
                 "Wins": "1",
@@ -1840,17 +1830,7 @@
                 "Points": "3"
             },
             {
-                "Position": "15",
-                "Team": "Rayo Vallecano",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "3"
-            },
-            {
-                "Position": "16",
+                "Position": "14",
                 "Team": "Mainz 05",
                 "Played": "1",
                 "Wins": "1",
@@ -1860,7 +1840,7 @@
                 "Points": "3"
             },
             {
-                "Position": "17",
+                "Position": "15",
                 "Team": "Samsunspor",
                 "Played": "1",
                 "Wins": "1",
@@ -1870,7 +1850,7 @@
                 "Points": "3"
             },
             {
-                "Position": "18",
+                "Position": "16",
                 "Team": "Noah",
                 "Played": "1",
                 "Wins": "1",
@@ -1880,7 +1860,37 @@
                 "Points": "3"
             },
             {
+                "Position": "17",
+                "Team": "Shakhtar Donetsk",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "3"
+            },
+            {
+                "Position": "18",
+                "Team": "Legia",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "3"
+            },
+            {
                 "Position": "19",
+                "Team": "Shk\u00ebndija",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "3"
+            },
+            {
+                "Position": "20",
                 "Team": "AZ",
                 "Played": "2",
                 "Wins": "1",
@@ -1890,7 +1900,7 @@
                 "Points": "3"
             },
             {
-                "Position": "20",
+                "Position": "21",
                 "Team": "Drita",
                 "Played": "2",
                 "Wins": "0",
@@ -1900,18 +1910,8 @@
                 "Points": "2"
             },
             {
-                "Position": "21",
-                "Team": "KuPS",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "2"
-            },
-            {
                 "Position": "22",
-                "Team": "Shelbourne",
+                "Team": "H\u00e4cken",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "2",
@@ -1921,13 +1921,13 @@
             },
             {
                 "Position": "23",
-                "Team": "Legia",
+                "Team": "KuPS",
                 "Played": "2",
                 "Wins": "0",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "1"
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "2"
             },
             {
                 "Position": "24",
@@ -1941,12 +1941,12 @@
             },
             {
                 "Position": "25",
-                "Team": "Shk\u00ebndija",
+                "Team": "Shelbourne",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "1"
             },
             {
@@ -2031,16 +2031,6 @@
             },
             {
                 "Position": "34",
-                "Team": "Rapid Vienna",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-5",
-                "Points": "0"
-            },
-            {
-                "Position": "35",
                 "Team": "Lincoln Red Imps",
                 "Played": "1",
                 "Wins": "0",
@@ -2050,13 +2040,23 @@
                 "Points": "0"
             },
             {
+                "Position": "35",
+                "Team": "Rapid Vienna",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-6",
+                "Points": "0"
+            },
+            {
                 "Position": "36",
                 "Team": "Aberdeen",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "0"
             }
         ],
