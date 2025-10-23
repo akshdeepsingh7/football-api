@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 23 October 2025, 05:17 PM UTC (Thursday, 23 October 2025, 10:47 PM IST)
+**Last Updated:** Thursday, 23 October 2025, 05:40 PM UTC (Thursday, 23 October 2025, 11:10 PM IST)
 
 ### Premier League
 
@@ -209,40 +209,40 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Aston Villa | 3 | 3 | 0 | 0 | 4 | 9 |
-| 2 | Braga | 3 | 3 | 0 | 0 | 4 | 9 |
-| 3 | Lyon | 3 | 3 | 0 | 0 | 4 | 9 |
+| 1 | Braga | 3 | 3 | 0 | 0 | 4 | 9 |
+| 2 | Lyon | 3 | 3 | 0 | 0 | 4 | 9 |
+| 3 | Aston Villa | 3 | 2 | 1 | 0 | 3 | 7 |
 | 4 | Dinamo Zagreb | 2 | 2 | 0 | 0 | 4 | 6 |
 | 5 | Midtjylland | 2 | 2 | 0 | 0 | 3 | 6 |
 | 6 | Lille | 2 | 2 | 0 | 0 | 2 | 6 |
 | 7 | Porto | 2 | 2 | 0 | 0 | 2 | 6 |
-| 8 | Real Betis | 3 | 1 | 2 | 0 | 2 | 5 |
-| 9 | Plzeň | 2 | 1 | 1 | 0 | 3 | 4 |
-| 10 | Bologna | 3 | 1 | 1 | 1 | 1 | 4 |
-| 11 | SC Freiburg | 2 | 1 | 1 | 0 | 1 | 4 |
-| 12 | Ferencváros | 3 | 1 | 1 | 1 | 0 | 4 |
-| 13 | Brann | 3 | 1 | 1 | 1 | 0 | 4 |
-| 14 | KRC Genk | 3 | 1 | 1 | 1 | 0 | 4 |
-| 15 | Fenerbahçe | 3 | 1 | 1 | 1 | -1 | 4 |
-| 16 | VfB Stuttgart | 3 | 1 | 1 | 1 | -1 | 4 |
+| 8 | Brann | 3 | 2 | 0 | 1 | 1 | 6 |
+| 9 | Fenerbahçe | 3 | 2 | 0 | 1 | 0 | 6 |
+| 10 | Real Betis | 3 | 1 | 2 | 0 | 2 | 5 |
+| 11 | Plzeň | 2 | 1 | 1 | 0 | 3 | 4 |
+| 12 | Bologna | 3 | 1 | 1 | 1 | 1 | 4 |
+| 13 | SC Freiburg | 2 | 1 | 1 | 0 | 1 | 4 |
+| 14 | Go Ahead Eagles | 3 | 1 | 1 | 1 | 0 | 4 |
+| 15 | Ferencváros | 3 | 1 | 1 | 1 | 0 | 4 |
+| 16 | KRC Genk | 3 | 1 | 1 | 1 | 0 | 4 |
 | 17 | Panathinaikos | 2 | 1 | 0 | 1 | 2 | 3 |
 | 18 | Celta de Vigo | 2 | 1 | 0 | 1 | 1 | 3 |
 | 19 | FC Basel | 3 | 1 | 0 | 2 | 0 | 3 |
 | 20 | Roma | 2 | 1 | 0 | 1 | 0 | 3 |
 | 21 | BSC Young Boys | 2 | 1 | 0 | 1 | -1 | 3 |
-| 22 | Go Ahead Eagles | 3 | 1 | 0 | 2 | -1 | 3 |
-| 23 | Ludogorets | 2 | 1 | 0 | 1 | -1 | 3 |
-| 24 | Sturm Graz | 2 | 1 | 0 | 1 | -1 | 3 |
+| 22 | Ludogorets | 2 | 1 | 0 | 1 | -1 | 3 |
+| 23 | Sturm Graz | 2 | 1 | 0 | 1 | -1 | 3 |
+| 24 | VfB Stuttgart | 3 | 1 | 0 | 2 | -2 | 3 |
 | 25 | RB Salzburg | 3 | 1 | 0 | 2 | -2 | 3 |
 | 26 | FCSB | 3 | 1 | 0 | 2 | -3 | 3 |
 | 27 | Nottingham Forest | 2 | 0 | 1 | 1 | -1 | 1 |
 | 28 | Red Star Belgrade | 3 | 0 | 1 | 2 | -2 | 1 |
 | 29 | Celtic | 2 | 0 | 1 | 1 | -2 | 1 |
 | 30 | PAOK | 2 | 0 | 1 | 1 | -2 | 1 |
-| 31 | Rangers | 3 | 0 | 1 | 2 | -2 | 1 |
-| 32 | Maccabi Tel Aviv | 2 | 0 | 1 | 1 | -2 | 1 |
-| 33 | Nice | 2 | 0 | 0 | 2 | -2 | 0 |
-| 34 | Utrecht | 2 | 0 | 0 | 2 | -2 | 0 |
+| 31 | Maccabi Tel Aviv | 2 | 0 | 1 | 1 | -2 | 1 |
+| 32 | Nice | 2 | 0 | 0 | 2 | -2 | 0 |
+| 33 | Utrecht | 2 | 0 | 0 | 2 | -2 | 0 |
+| 34 | Rangers | 3 | 0 | 0 | 3 | -3 | 0 |
 | 35 | Feyenoord | 2 | 0 | 0 | 2 | -3 | 0 |
 | 36 | Malmö | 2 | 0 | 0 | 2 | -4 | 0 |
 
@@ -251,35 +251,35 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Fiorentina | 2 | 2 | 0 | 0 | 3 | 6 |
-| 2 | Rayo Vallecano | 2 | 2 | 0 | 0 | 3 | 6 |
+| 2 | Rayo Vallecano | 2 | 1 | 1 | 0 | 2 | 4 |
 | 3 | Strasbourg | 2 | 1 | 1 | 0 | 1 | 4 |
-| 4 | Drita | 2 | 1 | 1 | 0 | 1 | 4 |
-| 5 | Jagiellonia | 2 | 1 | 1 | 0 | 1 | 4 |
-| 6 | Zrinjski Mostar | 1 | 1 | 0 | 0 | 5 | 3 |
-| 7 | AEK Larnaca | 1 | 1 | 0 | 0 | 4 | 3 |
-| 8 | Lech | 1 | 1 | 0 | 0 | 3 | 3 |
-| 9 | Sparta Prague | 1 | 1 | 0 | 0 | 3 | 3 |
-| 10 | Lausanne-Sport | 1 | 1 | 0 | 0 | 3 | 3 |
-| 11 | Celje | 1 | 1 | 0 | 0 | 2 | 3 |
-| 12 | Crystal Palace | 1 | 1 | 0 | 0 | 2 | 3 |
-| 13 | Raków | 1 | 1 | 0 | 0 | 2 | 3 |
-| 14 | AEK Athens | 2 | 1 | 0 | 1 | 1 | 3 |
-| 15 | Mainz 05 | 1 | 1 | 0 | 0 | 1 | 3 |
-| 16 | Samsunspor | 1 | 1 | 0 | 0 | 1 | 3 |
-| 17 | Noah | 1 | 1 | 0 | 0 | 1 | 3 |
-| 18 | Shakhtar Donetsk | 2 | 1 | 0 | 1 | 0 | 3 |
-| 19 | Legia | 2 | 1 | 0 | 1 | 0 | 3 |
-| 20 | KuPS | 2 | 0 | 2 | 0 | 0 | 2 |
-| 21 | Shelbourne | 2 | 0 | 2 | 0 | 0 | 2 |
-| 22 | Slovan Bratislava | 2 | 0 | 1 | 1 | -1 | 1 |
-| 23 | Häcken | 2 | 0 | 1 | 1 | -1 | 1 |
-| 24 | Shkëndija | 2 | 0 | 1 | 1 | -2 | 1 |
-| 25 | Breiðablik | 2 | 0 | 1 | 1 | -3 | 1 |
-| 26 | AZ | 2 | 0 | 1 | 1 | -4 | 1 |
+| 4 | Jagiellonia | 2 | 1 | 1 | 0 | 1 | 4 |
+| 5 | Zrinjski Mostar | 1 | 1 | 0 | 0 | 5 | 3 |
+| 6 | AEK Larnaca | 1 | 1 | 0 | 0 | 4 | 3 |
+| 7 | Lech | 1 | 1 | 0 | 0 | 3 | 3 |
+| 8 | Sparta Prague | 1 | 1 | 0 | 0 | 3 | 3 |
+| 9 | Lausanne-Sport | 1 | 1 | 0 | 0 | 3 | 3 |
+| 10 | Celje | 1 | 1 | 0 | 0 | 2 | 3 |
+| 11 | Crystal Palace | 1 | 1 | 0 | 0 | 2 | 3 |
+| 12 | Raków | 1 | 1 | 0 | 0 | 2 | 3 |
+| 13 | AEK Athens | 2 | 1 | 0 | 1 | 1 | 3 |
+| 14 | Mainz 05 | 1 | 1 | 0 | 0 | 1 | 3 |
+| 15 | Samsunspor | 1 | 1 | 0 | 0 | 1 | 3 |
+| 16 | Noah | 1 | 1 | 0 | 0 | 1 | 3 |
+| 17 | Shakhtar Donetsk | 2 | 1 | 0 | 1 | 0 | 3 |
+| 18 | Legia | 2 | 1 | 0 | 1 | 0 | 3 |
+| 19 | AZ | 2 | 1 | 0 | 1 | -3 | 3 |
+| 20 | Drita | 2 | 0 | 2 | 0 | 0 | 2 |
+| 21 | Häcken | 2 | 0 | 2 | 0 | 0 | 2 |
+| 22 | KuPS | 2 | 0 | 2 | 0 | 0 | 2 |
+| 23 | Shelbourne | 2 | 0 | 2 | 0 | 0 | 2 |
+| 24 | Omonia | 2 | 0 | 1 | 1 | -1 | 1 |
+| 25 | Shkëndija | 2 | 0 | 1 | 1 | -2 | 1 |
+| 26 | Breiðablik | 2 | 0 | 1 | 1 | -3 | 1 |
 | 27 | Hamrun Spartans | 1 | 0 | 0 | 1 | -1 | 0 |
 | 28 | Rijeka | 1 | 0 | 0 | 1 | -1 | 0 |
-| 29 | Dynamo Kyiv | 1 | 0 | 0 | 1 | -2 | 0 |
-| 30 | Omonia | 2 | 0 | 0 | 2 | -2 | 0 |
+| 29 | Slovan Bratislava | 2 | 0 | 0 | 2 | -2 | 0 |
+| 30 | Dynamo Kyiv | 1 | 0 | 0 | 1 | -2 | 0 |
 | 31 | Sigma Olomouc | 1 | 0 | 0 | 1 | -2 | 0 |
 | 32 | Universitatea Craiova | 1 | 0 | 0 | 1 | -2 | 0 |
 | 33 | Shamrock Rovers | 1 | 0 | 0 | 1 | -3 | 0 |
