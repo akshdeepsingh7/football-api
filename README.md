@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 24 October 2025, 07:16 PM UTC (Saturday, 25 October 2025, 12:46 AM IST)
+**Last Updated:** Friday, 24 October 2025, 07:38 PM UTC (Saturday, 25 October 2025, 01:08 AM IST)
 
 ### Premier League
 
@@ -59,13 +59,13 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Brighton & Hove Albion | 8 | 3 | 3 | 2 | 1 | 12 |
 | 11 | Aston Villa | 8 | 3 | 3 | 2 | 0 | 12 |
 | 12 | Everton | 8 | 3 | 2 | 3 | 0 | 11 |
-| 13 | Leeds United | 9 | 3 | 2 | 4 | -5 | 11 |
+| 13 | Leeds United | 9 | 3 | 2 | 4 | -4 | 11 |
 | 14 | Brentford | 8 | 3 | 1 | 4 | -1 | 10 |
 | 15 | Newcastle United | 8 | 2 | 3 | 3 | 0 | 9 |
 | 16 | Fulham | 8 | 2 | 2 | 4 | -4 | 8 |
 | 17 | Burnley | 8 | 2 | 1 | 5 | -6 | 7 |
 | 18 | Nottingham Forest | 8 | 1 | 2 | 5 | -10 | 5 |
-| 19 | West Ham United | 9 | 1 | 1 | 7 | -13 | 4 |
+| 19 | West Ham United | 9 | 1 | 1 | 7 | -14 | 4 |
 | 20 | Wolverhampton Wanderers | 8 | 0 | 2 | 6 | -11 | 2 |
 
 ### La Liga
@@ -154,11 +154,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Monaco | 8 | 4 | 2 | 2 | 4 | 14 |
 | 8 | Toulouse | 8 | 4 | 1 | 3 | 3 | 13 |
 | 9 | Rennes | 8 | 2 | 5 | 1 | -1 | 11 |
-| 10 | Paris | 9 | 3 | 2 | 4 | -2 | 11 |
-| 11 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
+| 10 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
+| 11 | Paris | 9 | 3 | 1 | 5 | -3 | 10 |
 | 12 | Brest | 8 | 2 | 3 | 3 | 0 | 9 |
-| 13 | Lorient | 8 | 2 | 2 | 4 | -7 | 8 |
-| 14 | Nantes | 9 | 1 | 4 | 4 | -4 | 7 |
+| 13 | Nantes | 9 | 2 | 3 | 4 | -3 | 9 |
+| 14 | Lorient | 8 | 2 | 2 | 4 | -7 | 8 |
 | 15 | Auxerre | 8 | 2 | 1 | 5 | -5 | 7 |
 | 16 | Le Havre | 8 | 1 | 3 | 4 | -6 | 6 |
 | 17 | Angers | 8 | 1 | 3 | 4 | -8 | 6 |
@@ -293,14 +293,14 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 8 | 7 | 1 | 0 | 18 | 22 |
 | 2 | Sporting CP | 8 | 6 | 1 | 1 | 15 | 19 |
-| 3 | Benfica | 8 | 5 | 3 | 0 | 9 | 18 |
-| 4 | Gil Vicente | 8 | 5 | 1 | 2 | 6 | 16 |
+| 3 | Gil Vicente | 9 | 6 | 1 | 2 | 7 | 19 |
+| 4 | Benfica | 8 | 5 | 3 | 0 | 9 | 18 |
 | 5 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
 | 6 | Famalicão | 8 | 3 | 4 | 1 | 4 | 13 |
 | 7 | Vitória S.C. | 8 | 3 | 2 | 3 | -3 | 11 |
 | 8 | Braga | 8 | 2 | 4 | 2 | 4 | 10 |
 | 9 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
-| 10 | Alverca | 8 | 3 | 1 | 4 | -1 | 10 |
+| 10 | Alverca | 9 | 3 | 1 | 5 | -2 | 10 |
 | 11 | Arouca | 8 | 2 | 3 | 3 | -9 | 9 |
 | 12 | Rio Ave | 8 | 1 | 5 | 2 | -2 | 8 |
 | 13 | Santa Clara | 8 | 2 | 2 | 4 | -4 | 8 |
@@ -324,7 +324,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Queens Park Rangers | 11 | 5 | 3 | 3 | -1 | 18 |
 | 9 | Leicester City | 11 | 4 | 5 | 2 | 4 | 17 |
 | 10 | West Bromwich Albion | 11 | 5 | 2 | 4 | -1 | 17 |
-| 11 | Preston North End | 12 | 4 | 4 | 4 | 1 | 16 |
+| 11 | Preston North End | 12 | 4 | 4 | 4 | 0 | 16 |
 | 12 | Watford | 11 | 4 | 3 | 4 | 0 | 15 |
 | 13 | Birmingham City | 11 | 4 | 3 | 4 | -3 | 15 |
 | 14 | Ipswich Town | 10 | 3 | 4 | 3 | 3 | 13 |
@@ -332,7 +332,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Swansea City | 11 | 3 | 4 | 4 | -1 | 13 |
 | 17 | Portsmouth | 11 | 3 | 4 | 4 | -2 | 13 |
 | 18 | Southampton | 11 | 2 | 6 | 3 | -3 | 12 |
-| 19 | Sheffield United | 12 | 4 | 0 | 8 | -9 | 12 |
+| 19 | Sheffield United | 12 | 4 | 0 | 8 | -8 | 12 |
 | 20 | Derby County | 11 | 2 | 5 | 4 | -4 | 11 |
 | 21 | Oxford United | 11 | 2 | 3 | 6 | -3 | 9 |
 | 22 | Norwich City | 11 | 2 | 2 | 7 | -5 | 8 |
