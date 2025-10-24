@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 24 October 2025, 06:27 PM UTC",
-        "IST": "Friday, 24 October 2025, 11:57 PM IST"
+        "UTC": "Friday, 24 October 2025, 06:48 PM UTC",
+        "IST": "Saturday, 25 October 2025, 12:18 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -471,6 +471,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Union Berlin",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "11"
+            },
+            {
+                "Position": "8",
                 "Team": "Eintracht Frankfurt",
                 "Played": "7",
                 "Wins": "3",
@@ -480,23 +490,13 @@
                 "Points": "10"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Hoffenheim",
                 "Played": "7",
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "0",
-                "Points": "10"
-            },
-            {
-                "Position": "9",
-                "Team": "Union Berlin",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-3",
                 "Points": "10"
             },
             {
@@ -511,22 +511,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Werder Bremen",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-5",
+                "Points": "9"
+            },
+            {
+                "Position": "12",
                 "Team": "Hamburg",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-3",
-                "Points": "8"
-            },
-            {
-                "Position": "12",
-                "Team": "Werder Bremen",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-5",
                 "Points": "8"
             },
             {
@@ -896,11 +896,11 @@
             {
                 "Position": "11",
                 "Team": "Paris",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "3",
                 "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-2",
+                "Losses": "5",
+                "Goal Difference": "-3",
                 "Points": "10"
             },
             {
@@ -915,6 +915,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Nantes",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "9"
+            },
+            {
+                "Position": "14",
                 "Team": "Lorient",
                 "Played": "8",
                 "Wins": "2",
@@ -924,7 +934,7 @@
                 "Points": "8"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Auxerre",
                 "Played": "8",
                 "Wins": "2",
@@ -932,16 +942,6 @@
                 "Losses": "5",
                 "Goal Difference": "-5",
                 "Points": "7"
-            },
-            {
-                "Position": "15",
-                "Team": "Nantes",
-                "Played": "8",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "6"
             },
             {
                 "Position": "16",

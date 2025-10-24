@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 24 October 2025, 06:27 PM UTC (Friday, 24 October 2025, 11:57 PM IST)
+**Last Updated:** Friday, 24 October 2025, 06:48 PM UTC (Saturday, 25 October 2025, 12:18 AM IST)
 
 ### Premier League
 
@@ -103,12 +103,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Borussia Dortmund | 7 | 4 | 2 | 1 | 7 | 14 |
 | 5 | Bayer Leverkusen | 7 | 4 | 2 | 1 | 5 | 14 |
 | 6 | Köln | 7 | 3 | 2 | 2 | 2 | 11 |
-| 7 | Eintracht Frankfurt | 7 | 3 | 1 | 3 | 1 | 10 |
-| 8 | Hoffenheim | 7 | 3 | 1 | 3 | 0 | 10 |
-| 9 | Union Berlin | 7 | 3 | 1 | 3 | -3 | 10 |
+| 7 | Union Berlin | 8 | 3 | 2 | 3 | -3 | 11 |
+| 8 | Eintracht Frankfurt | 7 | 3 | 1 | 3 | 1 | 10 |
+| 9 | Hoffenheim | 7 | 3 | 1 | 3 | 0 | 10 |
 | 10 | SC Freiburg | 7 | 2 | 3 | 2 | 0 | 9 |
-| 11 | Hamburg | 7 | 2 | 2 | 3 | -3 | 8 |
-| 12 | Werder Bremen | 7 | 2 | 2 | 3 | -5 | 8 |
+| 11 | Werder Bremen | 8 | 2 | 3 | 3 | -5 | 9 |
+| 12 | Hamburg | 7 | 2 | 2 | 3 | -3 | 8 |
 | 13 | Augsburg | 7 | 2 | 1 | 4 | -2 | 7 |
 | 14 | St. Pauli | 7 | 2 | 1 | 4 | -4 | 7 |
 | 15 | VfL Wolfsburg | 7 | 1 | 2 | 4 | -5 | 5 |
@@ -155,11 +155,11 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Toulouse | 8 | 4 | 1 | 3 | 3 | 13 |
 | 9 | Rennes | 8 | 2 | 5 | 1 | -1 | 11 |
 | 10 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
-| 11 | Paris | 8 | 3 | 1 | 4 | -2 | 10 |
+| 11 | Paris | 9 | 3 | 1 | 5 | -3 | 10 |
 | 12 | Brest | 8 | 2 | 3 | 3 | 0 | 9 |
-| 13 | Lorient | 8 | 2 | 2 | 4 | -7 | 8 |
-| 14 | Auxerre | 8 | 2 | 1 | 5 | -5 | 7 |
-| 15 | Nantes | 8 | 1 | 3 | 4 | -4 | 6 |
+| 13 | Nantes | 9 | 2 | 3 | 4 | -3 | 9 |
+| 14 | Lorient | 8 | 2 | 2 | 4 | -7 | 8 |
+| 15 | Auxerre | 8 | 2 | 1 | 5 | -5 | 7 |
 | 16 | Le Havre | 8 | 1 | 3 | 4 | -6 | 6 |
 | 17 | Angers | 8 | 1 | 3 | 4 | -8 | 6 |
 | 18 | Metz | 8 | 0 | 2 | 6 | -15 | 2 |
