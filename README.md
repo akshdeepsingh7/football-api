@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 24 October 2025, 01:30 PM UTC (Friday, 24 October 2025, 07:00 PM IST)
+**Last Updated:** Friday, 24 October 2025, 02:20 PM UTC (Friday, 24 October 2025, 07:50 PM IST)
 
 ### Premier League
 
@@ -256,14 +256,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Lausanne-Sport | 2 | 2 | 0 | 0 | 4 | 6 |
 | 5 | Samsunspor | 2 | 2 | 0 | 0 | 4 | 6 |
 | 6 | Mainz 05 | 2 | 2 | 0 | 0 | 2 | 6 |
-| 7 | Rayo Vallecano | 2 | 1 | 1 | 0 | 2 | 4 |
-| 8 | Raków | 2 | 1 | 1 | 0 | 2 | 4 |
-| 9 | Strasbourg | 2 | 1 | 1 | 0 | 1 | 4 |
-| 10 | Jagiellonia | 2 | 1 | 1 | 0 | 1 | 4 |
-| 11 | Noah | 2 | 1 | 1 | 0 | 1 | 4 |
-| 12 | AEK Athens | 2 | 1 | 0 | 1 | 4 | 3 |
-| 13 | Zrinjski Mostar | 2 | 1 | 0 | 1 | 4 | 3 |
-| 14 | Sparta Prague | 1 | 1 | 0 | 0 | 3 | 3 |
+| 7 | Sparta Prague | 2 | 1 | 1 | 0 | 3 | 4 |
+| 8 | Rayo Vallecano | 2 | 1 | 1 | 0 | 2 | 4 |
+| 9 | Raków | 2 | 1 | 1 | 0 | 2 | 4 |
+| 10 | Strasbourg | 2 | 1 | 1 | 0 | 1 | 4 |
+| 11 | Jagiellonia | 2 | 1 | 1 | 0 | 1 | 4 |
+| 12 | Noah | 2 | 1 | 1 | 0 | 1 | 4 |
+| 13 | AEK Athens | 2 | 1 | 0 | 1 | 4 | 3 |
+| 14 | Zrinjski Mostar | 2 | 1 | 0 | 1 | 4 | 3 |
 | 15 | Lech | 2 | 1 | 0 | 1 | 2 | 3 |
 | 16 | Crystal Palace | 2 | 1 | 0 | 1 | 1 | 3 |
 | 17 | Shakhtar Donetsk | 2 | 1 | 0 | 1 | 0 | 3 |
@@ -275,11 +275,11 @@ The latest league standings are displayed below in Markdown tables:
 | 23 | Häcken | 2 | 0 | 2 | 0 | 0 | 2 |
 | 24 | KuPS | 2 | 0 | 2 | 0 | 0 | 2 |
 | 25 | Omonia | 2 | 0 | 1 | 1 | -1 | 1 |
-| 26 | Shelbourne | 2 | 0 | 1 | 1 | -1 | 1 |
-| 27 | Sigma Olomouc | 2 | 0 | 1 | 1 | -2 | 1 |
-| 28 | Universitatea Craiova | 2 | 0 | 1 | 1 | -2 | 1 |
-| 29 | Breiðablik | 2 | 0 | 1 | 1 | -3 | 1 |
-| 30 | Rijeka | 1 | 0 | 0 | 1 | -1 | 0 |
+| 26 | Rijeka | 2 | 0 | 1 | 1 | -1 | 1 |
+| 27 | Shelbourne | 2 | 0 | 1 | 1 | -1 | 1 |
+| 28 | Sigma Olomouc | 2 | 0 | 1 | 1 | -2 | 1 |
+| 29 | Universitatea Craiova | 2 | 0 | 1 | 1 | -2 | 1 |
+| 30 | Breiðablik | 2 | 0 | 1 | 1 | -3 | 1 |
 | 31 | Slovan Bratislava | 2 | 0 | 0 | 2 | -2 | 0 |
 | 32 | Hamrun Spartans | 2 | 0 | 0 | 2 | -2 | 0 |
 | 33 | Shamrock Rovers | 2 | 0 | 0 | 2 | -5 | 0 |
