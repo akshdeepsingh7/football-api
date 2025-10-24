@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 24 October 2025, 08:41 PM UTC",
-        "IST": "Saturday, 25 October 2025, 02:11 AM IST"
+        "UTC": "Friday, 24 October 2025, 09:17 PM UTC",
+        "IST": "Saturday, 25 October 2025, 02:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -132,7 +132,7 @@
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "11"
             },
             {
@@ -192,7 +192,7 @@
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "7",
-                "Goal Difference": "-14",
+                "Goal Difference": "-13",
                 "Points": "4"
             },
             {
@@ -2088,7 +2088,7 @@
                 "Wins": "6",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "9",
+                "Goal Difference": "10",
                 "Points": "19"
             },
             {
@@ -2158,7 +2158,7 @@
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "5",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "10"
             },
             {
@@ -3081,6 +3081,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Rosario",
+                "Played": "13",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "0",
+                "Goal Difference": "9",
+                "Points": "27"
+            },
+            {
+                "Position": "3",
                 "Team": "Lan\u00fas",
                 "Played": "13",
                 "Wins": "8",
@@ -3090,7 +3100,7 @@
                 "Points": "26"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "V\u00e9lez",
                 "Played": "13",
                 "Wins": "7",
@@ -3098,16 +3108,6 @@
                 "Losses": "2",
                 "Goal Difference": "10",
                 "Points": "25"
-            },
-            {
-                "Position": "4",
-                "Team": "Rosario",
-                "Played": "12",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "0",
-                "Goal Difference": "8",
-                "Points": "24"
             },
             {
                 "Position": "5",
@@ -3152,11 +3152,11 @@
             {
                 "Position": "9",
                 "Team": "Sarmiento",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "4",
                 "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-4",
+                "Losses": "6",
+                "Goal Difference": "-5",
                 "Points": "15"
             },
             {
