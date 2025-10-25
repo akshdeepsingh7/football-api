@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 03:18 PM UTC",
-        "IST": "Saturday, 25 October 2025, 08:48 PM IST"
+        "UTC": "Saturday, 25 October 2025, 03:37 PM UTC",
+        "IST": "Saturday, 25 October 2025, 09:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -229,6 +229,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Espanyol",
+                "Played": "10",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "3",
+                "Points": "18"
+            },
+            {
+                "Position": "4",
                 "Team": "Villarreal",
                 "Played": "9",
                 "Wins": "5",
@@ -238,7 +248,7 @@
                 "Points": "17"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "9",
                 "Wins": "4",
@@ -248,7 +258,7 @@
                 "Points": "16"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Real Betis",
                 "Played": "9",
                 "Wins": "4",
@@ -258,24 +268,14 @@
                 "Points": "16"
             },
             {
-                "Position": "6",
-                "Team": "Espanyol",
-                "Played": "10",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "16"
-            },
-            {
                 "Position": "7",
                 "Team": "Elche",
                 "Played": "10",
                 "Wins": "3",
-                "Draws": "6",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "15"
+                "Draws": "5",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "14"
             },
             {
                 "Position": "8",
@@ -416,7 +416,7 @@
                 "Wins": "8",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "25",
+                "Goal Difference": "26",
                 "Points": "24"
             },
             {
@@ -586,7 +586,7 @@
                 "Wins": "0",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "-11",
+                "Goal Difference": "-12",
                 "Points": "3"
             }
         ],
@@ -795,22 +795,22 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "PSG",
+                "Played": "9",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "9",
+                "Points": "20"
+            },
+            {
+                "Position": "2",
                 "Team": "Marseille",
                 "Played": "8",
                 "Wins": "6",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "14",
-                "Points": "18"
-            },
-            {
-                "Position": "2",
-                "Team": "PSG",
-                "Played": "9",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "8",
                 "Points": "18"
             },
             {
@@ -895,16 +895,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Brest",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "0",
-                "Points": "10"
-            },
-            {
-                "Position": "12",
                 "Team": "Paris",
                 "Played": "9",
                 "Wins": "3",
@@ -912,6 +902,16 @@
                 "Losses": "5",
                 "Goal Difference": "-3",
                 "Points": "10"
+            },
+            {
+                "Position": "12",
+                "Team": "Brest",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "9"
             },
             {
                 "Position": "13",
@@ -2375,6 +2375,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Swansea City",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "16"
+            },
+            {
+                "Position": "15",
                 "Team": "Watford",
                 "Played": "12",
                 "Wins": "4",
@@ -2384,7 +2394,7 @@
                 "Points": "15"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Southampton",
                 "Played": "12",
                 "Wins": "3",
@@ -2394,7 +2404,7 @@
                 "Points": "15"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Birmingham City",
                 "Played": "12",
                 "Wins": "4",
@@ -2402,16 +2412,6 @@
                 "Losses": "5",
                 "Goal Difference": "-4",
                 "Points": "15"
-            },
-            {
-                "Position": "17",
-                "Team": "Swansea City",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "14"
             },
             {
                 "Position": "18",
@@ -2445,16 +2445,6 @@
             },
             {
                 "Position": "21",
-                "Team": "Norwich City",
-                "Played": "12",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "-5",
-                "Points": "9"
-            },
-            {
-                "Position": "22",
                 "Team": "Sheffield United",
                 "Played": "12",
                 "Wins": "3",
@@ -2462,6 +2452,16 @@
                 "Losses": "9",
                 "Goal Difference": "-11",
                 "Points": "9"
+            },
+            {
+                "Position": "22",
+                "Team": "Norwich City",
+                "Played": "12",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "8",
+                "Goal Difference": "-6",
+                "Points": "8"
             },
             {
                 "Position": "23",

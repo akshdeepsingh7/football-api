@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 October 2025, 03:18 PM UTC (Saturday, 25 October 2025, 08:48 PM IST)
+**Last Updated:** Saturday, 25 October 2025, 03:37 PM UTC (Saturday, 25 October 2025, 09:07 PM IST)
 
 ### Premier League
 
@@ -74,11 +74,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 9 | 8 | 0 | 1 | 11 | 24 |
 | 2 | Barcelona | 9 | 7 | 1 | 1 | 14 | 22 |
-| 3 | Villarreal | 9 | 5 | 2 | 2 | 6 | 17 |
-| 4 | Atlético de Madrid | 9 | 4 | 4 | 1 | 6 | 16 |
-| 5 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
-| 6 | Espanyol | 10 | 4 | 4 | 2 | 2 | 16 |
-| 7 | Elche | 10 | 3 | 6 | 1 | 2 | 15 |
+| 3 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
+| 4 | Villarreal | 9 | 5 | 2 | 2 | 6 | 17 |
+| 5 | Atlético de Madrid | 9 | 4 | 4 | 1 | 6 | 16 |
+| 6 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
+| 7 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
 | 8 | Athletic Bilbao | 9 | 4 | 2 | 3 | 0 | 14 |
 | 9 | Sevilla | 10 | 4 | 1 | 5 | 1 | 13 |
 | 10 | Alavés | 9 | 3 | 3 | 3 | 1 | 12 |
@@ -97,7 +97,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 8 | 8 | 0 | 0 | 25 | 24 |
+| 1 | Bayern Munich | 8 | 8 | 0 | 0 | 26 | 24 |
 | 2 | RB Leipzig | 8 | 6 | 1 | 1 | 7 | 19 |
 | 3 | VfB Stuttgart | 7 | 5 | 0 | 2 | 5 | 15 |
 | 4 | Borussia Dortmund | 7 | 4 | 2 | 1 | 7 | 14 |
@@ -114,7 +114,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Augsburg | 8 | 2 | 1 | 5 | -8 | 7 |
 | 16 | Mainz 05 | 7 | 1 | 1 | 5 | -6 | 4 |
 | 17 | Heidenheim | 8 | 1 | 1 | 6 | -9 | 4 |
-| 18 | Borussia Mönchengladbach | 8 | 0 | 3 | 5 | -11 | 3 |
+| 18 | Borussia Mönchengladbach | 8 | 0 | 3 | 5 | -12 | 3 |
 
 ### Serie A
 
@@ -145,8 +145,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Marseille | 8 | 6 | 0 | 2 | 14 | 18 |
-| 2 | PSG | 9 | 5 | 3 | 1 | 8 | 18 |
+| 1 | PSG | 9 | 6 | 2 | 1 | 9 | 20 |
+| 2 | Marseille | 8 | 6 | 0 | 2 | 14 | 18 |
 | 3 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
 | 4 | Lens | 8 | 5 | 1 | 2 | 5 | 16 |
 | 5 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
@@ -155,8 +155,8 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Toulouse | 8 | 4 | 1 | 3 | 3 | 13 |
 | 9 | Rennes | 8 | 2 | 5 | 1 | -1 | 11 |
 | 10 | Nice | 8 | 3 | 2 | 3 | -2 | 11 |
-| 11 | Brest | 9 | 2 | 4 | 3 | 0 | 10 |
-| 12 | Paris | 9 | 3 | 1 | 5 | -3 | 10 |
+| 11 | Paris | 9 | 3 | 1 | 5 | -3 | 10 |
+| 12 | Brest | 9 | 2 | 3 | 4 | -1 | 9 |
 | 13 | Nantes | 9 | 2 | 3 | 4 | -3 | 9 |
 | 14 | Lorient | 8 | 2 | 2 | 4 | -7 | 8 |
 | 15 | Auxerre | 8 | 2 | 1 | 5 | -5 | 7 |
@@ -327,15 +327,15 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | West Bromwich Albion | 12 | 5 | 2 | 5 | -2 | 17 |
 | 12 | Ipswich Town | 11 | 4 | 4 | 3 | 4 | 16 |
 | 13 | Wrexham | 12 | 4 | 4 | 4 | 0 | 16 |
-| 14 | Watford | 12 | 4 | 3 | 5 | -2 | 15 |
-| 15 | Southampton | 12 | 3 | 6 | 3 | -2 | 15 |
-| 16 | Birmingham City | 12 | 4 | 3 | 5 | -4 | 15 |
-| 17 | Swansea City | 12 | 3 | 5 | 4 | -1 | 14 |
+| 14 | Swansea City | 12 | 4 | 4 | 4 | 0 | 16 |
+| 15 | Watford | 12 | 4 | 3 | 5 | -2 | 15 |
+| 16 | Southampton | 12 | 3 | 6 | 3 | -2 | 15 |
+| 17 | Birmingham City | 12 | 4 | 3 | 5 | -4 | 15 |
 | 18 | Derby County | 12 | 3 | 5 | 4 | -3 | 14 |
 | 19 | Portsmouth | 12 | 3 | 4 | 5 | -3 | 13 |
 | 20 | Oxford United | 12 | 3 | 3 | 6 | -2 | 12 |
-| 21 | Norwich City | 12 | 2 | 3 | 7 | -5 | 9 |
-| 22 | Sheffield United | 12 | 3 | 0 | 9 | -11 | 9 |
+| 21 | Sheffield United | 12 | 3 | 0 | 9 | -11 | 9 |
+| 22 | Norwich City | 12 | 2 | 2 | 8 | -6 | 8 |
 | 23 | Blackburn Rovers | 11 | 2 | 1 | 8 | -9 | 7 |
 | 24 | Sheffield Wednesday | 12 | 1 | 3 | 8 | -15 | -6 |
 
