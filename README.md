@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 October 2025, 01:23 PM UTC (Saturday, 25 October 2025, 06:53 PM IST)
+**Last Updated:** Saturday, 25 October 2025, 01:39 PM UTC (Saturday, 25 October 2025, 07:09 PM IST)
 
 ### Premier League
 
@@ -87,33 +87,33 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Osasuna | 9 | 3 | 1 | 5 | -2 | 10 |
 | 14 | Valencia | 9 | 2 | 3 | 4 | -4 | 9 |
 | 15 | Real Sociedad | 10 | 2 | 3 | 5 | -4 | 9 |
-| 16 | Real Oviedo | 10 | 3 | 0 | 7 | -10 | 9 |
+| 16 | Real Oviedo | 10 | 3 | 0 | 7 | -11 | 9 |
 | 17 | Levante | 9 | 2 | 2 | 5 | -4 | 8 |
 | 18 | Mallorca | 9 | 2 | 2 | 5 | -4 | 8 |
 | 19 | Celta de Vigo | 9 | 0 | 7 | 2 | -3 | 7 |
-| 20 | Girona | 10 | 1 | 3 | 6 | -15 | 6 |
+| 20 | Girona | 10 | 1 | 3 | 6 | -14 | 6 |
 
 ### Bundesliga
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 7 | 7 | 0 | 0 | 23 | 21 |
-| 2 | RB Leipzig | 7 | 5 | 1 | 1 | 1 | 16 |
+| 2 | RB Leipzig | 8 | 5 | 2 | 1 | 1 | 17 |
 | 3 | VfB Stuttgart | 7 | 5 | 0 | 2 | 5 | 15 |
 | 4 | Borussia Dortmund | 7 | 4 | 2 | 1 | 7 | 14 |
 | 5 | Bayer Leverkusen | 7 | 4 | 2 | 1 | 5 | 14 |
 | 6 | Köln | 7 | 3 | 2 | 2 | 2 | 11 |
-| 7 | Werder Bremen | 8 | 3 | 2 | 3 | -4 | 11 |
-| 8 | Eintracht Frankfurt | 7 | 3 | 1 | 3 | 1 | 10 |
-| 9 | Hoffenheim | 7 | 3 | 1 | 3 | 0 | 10 |
+| 7 | Eintracht Frankfurt | 8 | 3 | 2 | 3 | 1 | 11 |
+| 8 | Hoffenheim | 8 | 3 | 2 | 3 | 0 | 11 |
+| 9 | Werder Bremen | 8 | 3 | 2 | 3 | -4 | 11 |
 | 10 | Union Berlin | 8 | 3 | 1 | 4 | -4 | 10 |
 | 11 | SC Freiburg | 7 | 2 | 3 | 2 | 0 | 9 |
-| 12 | Hamburg | 7 | 2 | 2 | 3 | -3 | 8 |
-| 13 | Augsburg | 7 | 2 | 1 | 4 | -2 | 7 |
-| 14 | St. Pauli | 7 | 2 | 1 | 4 | -4 | 7 |
-| 15 | VfL Wolfsburg | 7 | 1 | 2 | 4 | -5 | 5 |
-| 16 | Mainz 05 | 7 | 1 | 1 | 5 | -6 | 4 |
-| 17 | Heidenheim | 7 | 1 | 1 | 5 | -7 | 4 |
+| 12 | Hamburg | 8 | 2 | 3 | 3 | -3 | 9 |
+| 13 | Augsburg | 8 | 2 | 2 | 4 | -2 | 8 |
+| 14 | St. Pauli | 8 | 2 | 2 | 4 | -4 | 8 |
+| 15 | VfL Wolfsburg | 8 | 1 | 3 | 4 | -5 | 6 |
+| 16 | Heidenheim | 8 | 1 | 2 | 5 | -7 | 5 |
+| 17 | Mainz 05 | 7 | 1 | 1 | 5 | -6 | 4 |
 | 18 | Borussia Mönchengladbach | 7 | 0 | 3 | 4 | -9 | 3 |
 
 ### Serie A
