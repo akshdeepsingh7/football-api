@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 04:22 PM UTC",
-        "IST": "Saturday, 25 October 2025, 09:52 PM IST"
+        "UTC": "Saturday, 25 October 2025, 04:42 PM UTC",
+        "IST": "Saturday, 25 October 2025, 10:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -77,6 +77,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Manchester United",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "14"
+            },
+            {
+                "Position": "9",
                 "Team": "Crystal Palace",
                 "Played": "8",
                 "Wins": "3",
@@ -86,24 +96,14 @@
                 "Points": "13"
             },
             {
-                "Position": "9",
-                "Team": "Manchester United",
-                "Played": "8",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "13"
-            },
-            {
                 "Position": "10",
                 "Team": "Brighton & Hove Albion",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "3",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "1",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "11",
@@ -269,22 +269,22 @@
             },
             {
                 "Position": "7",
+                "Team": "Athletic Bilbao",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "15"
+            },
+            {
+                "Position": "8",
                 "Team": "Elche",
                 "Played": "10",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "1",
-                "Points": "14"
-            },
-            {
-                "Position": "8",
-                "Team": "Athletic Bilbao",
-                "Played": "9",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "0",
                 "Points": "14"
             },
             {
@@ -309,22 +309,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Getafe",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "12"
+            },
+            {
+                "Position": "12",
                 "Team": "Rayo Vallecano",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "1",
-                "Points": "11"
-            },
-            {
-                "Position": "12",
-                "Team": "Getafe",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-3",
                 "Points": "11"
             },
             {
@@ -431,6 +431,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Borussia Dortmund",
+                "Played": "8",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "7",
+                "Points": "15"
+            },
+            {
+                "Position": "4",
                 "Team": "VfB Stuttgart",
                 "Played": "7",
                 "Wins": "5",
@@ -438,16 +448,6 @@
                 "Losses": "2",
                 "Goal Difference": "5",
                 "Points": "15"
-            },
-            {
-                "Position": "4",
-                "Team": "Borussia Dortmund",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "7",
-                "Points": "14"
             },
             {
                 "Position": "5",
@@ -482,12 +482,12 @@
             {
                 "Position": "8",
                 "Team": "K\u00f6ln",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "3",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "2",
-                "Points": "11"
+                "Points": "12"
             },
             {
                 "Position": "9",
@@ -593,6 +593,16 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Napoli",
+                "Played": "8",
+                "Wins": "6",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "18"
+            },
+            {
+                "Position": "2",
                 "Team": "Milan",
                 "Played": "8",
                 "Wins": "5",
@@ -602,33 +612,23 @@
                 "Points": "17"
             },
             {
-                "Position": "2",
-                "Team": "Inter",
-                "Played": "8",
-                "Wins": "5",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "10",
-                "Points": "16"
-            },
-            {
                 "Position": "3",
-                "Team": "Napoli",
-                "Played": "8",
-                "Wins": "5",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "5",
-                "Points": "16"
-            },
-            {
-                "Position": "4",
                 "Team": "Roma",
                 "Played": "7",
                 "Wins": "5",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "4",
+                "Points": "15"
+            },
+            {
+                "Position": "4",
+                "Team": "Inter",
+                "Played": "8",
+                "Wins": "5",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "9",
                 "Points": "15"
             },
             {
