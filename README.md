@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 October 2025, 08:20 PM UTC (Sunday, 26 October 2025, 01:50 AM IST)
+**Last Updated:** Saturday, 25 October 2025, 08:39 PM UTC (Sunday, 26 October 2025, 02:09 AM IST)
 
 ### Premier League
 
@@ -52,11 +52,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Manchester City | 8 | 5 | 1 | 2 | 11 | 16 |
 | 4 | Manchester United | 9 | 5 | 1 | 3 | 1 | 16 |
 | 5 | AFC Bournemouth | 8 | 4 | 3 | 1 | 3 | 15 |
-| 6 | Liverpool FC | 9 | 5 | 0 | 4 | 2 | 15 |
+| 6 | Liverpool FC | 9 | 5 | 0 | 4 | 1 | 15 |
 | 7 | Tottenham Hotspur | 8 | 4 | 2 | 2 | 7 | 14 |
 | 8 | Chelsea | 9 | 4 | 2 | 3 | 6 | 14 |
 | 9 | Crystal Palace | 8 | 3 | 4 | 1 | 4 | 13 |
-| 10 | Brentford | 9 | 4 | 1 | 4 | 0 | 13 |
+| 10 | Brentford | 9 | 4 | 1 | 4 | 1 | 13 |
 | 11 | Newcastle United | 9 | 3 | 3 | 3 | 1 | 12 |
 | 12 | Aston Villa | 8 | 3 | 3 | 2 | 0 | 12 |
 | 13 | Brighton & Hove Albion | 9 | 3 | 3 | 3 | -1 | 12 |
@@ -126,10 +126,10 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Inter | 8 | 5 | 0 | 3 | 8 | 15 |
 | 5 | Bologna | 7 | 4 | 1 | 2 | 6 | 13 |
 | 6 | Como | 8 | 3 | 4 | 1 | 4 | 13 |
-| 7 | Cremonese | 8 | 3 | 4 | 1 | 0 | 13 |
-| 8 | Juventus | 7 | 3 | 3 | 1 | 2 | 12 |
+| 7 | Juventus | 7 | 3 | 3 | 1 | 2 | 12 |
+| 8 | Atalanta | 8 | 2 | 6 | 0 | 6 | 12 |
 | 9 | Udinese | 8 | 3 | 3 | 2 | -2 | 12 |
-| 10 | Atalanta | 8 | 2 | 5 | 1 | 5 | 11 |
+| 10 | Cremonese | 8 | 2 | 5 | 1 | -1 | 11 |
 | 11 | Sassuolo | 7 | 3 | 1 | 3 | 0 | 10 |
 | 12 | Lazio | 7 | 2 | 2 | 3 | 3 | 8 |
 | 13 | Cagliari | 7 | 2 | 2 | 3 | -2 | 8 |
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 8 | 7 | 1 | 0 | 18 | 22 |
-| 2 | Benfica | 9 | 6 | 3 | 0 | 11 | 21 |
+| 2 | Benfica | 9 | 6 | 3 | 0 | 12 | 21 |
 | 3 | Sporting CP | 8 | 6 | 1 | 1 | 15 | 19 |
 | 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
@@ -303,7 +303,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
 | 11 | Estrela Amadora | 9 | 2 | 4 | 3 | -1 | 10 |
 | 12 | Alverca | 9 | 3 | 1 | 5 | -5 | 10 |
-| 13 | Arouca | 9 | 2 | 3 | 4 | -11 | 9 |
+| 13 | Arouca | 9 | 2 | 3 | 4 | -12 | 9 |
 | 14 | Rio Ave | 9 | 1 | 5 | 3 | -3 | 8 |
 | 15 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
 | 16 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
@@ -437,15 +437,15 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Mirassol | 29 | 14 | 10 | 5 | 20 | 52 |
 | 5 | Bahia | 29 | 14 | 7 | 8 | 8 | 49 |
 | 6 | Botafogo | 29 | 13 | 7 | 9 | 13 | 46 |
-| 7 | Fluminense | 28 | 12 | 5 | 11 | 0 | 41 |
+| 7 | Fluminense | 29 | 12 | 6 | 11 | 0 | 42 |
 | 8 | Vasco da Gama | 29 | 11 | 6 | 12 | 5 | 39 |
 | 9 | São Paulo | 29 | 10 | 8 | 11 | -2 | 38 |
 | 10 | Corinthians | 30 | 9 | 10 | 11 | -4 | 37 |
 | 11 | RB Bragantino | 29 | 10 | 6 | 13 | -10 | 36 |
 | 12 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
-| 13 | Grêmio | 29 | 9 | 9 | 11 | -7 | 36 |
-| 14 | Ceará | 29 | 9 | 8 | 12 | -1 | 35 |
-| 15 | Internacional | 29 | 9 | 8 | 12 | -7 | 35 |
+| 13 | Internacional | 30 | 9 | 9 | 12 | -7 | 36 |
+| 14 | Grêmio | 29 | 9 | 9 | 11 | -7 | 36 |
+| 15 | Ceará | 29 | 9 | 8 | 12 | -1 | 35 |
 | 16 | Vitória | 30 | 7 | 11 | 12 | -16 | 32 |
 | 17 | Santos | 28 | 8 | 7 | 13 | -12 | 31 |
 | 18 | Juventude | 29 | 7 | 5 | 17 | -30 | 26 |

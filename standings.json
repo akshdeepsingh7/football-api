@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 08:20 PM UTC",
-        "IST": "Sunday, 26 October 2025, 01:50 AM IST"
+        "UTC": "Saturday, 25 October 2025, 08:39 PM UTC",
+        "IST": "Sunday, 26 October 2025, 02:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -62,7 +62,7 @@
                 "Wins": "5",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "15"
             },
             {
@@ -102,7 +102,7 @@
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "0",
+                "Goal Difference": "1",
                 "Points": "13"
             },
             {
@@ -653,22 +653,22 @@
             },
             {
                 "Position": "7",
-                "Team": "Cremonese",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "13"
-            },
-            {
-                "Position": "8",
                 "Team": "Juventus",
                 "Played": "7",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "2",
+                "Points": "12"
+            },
+            {
+                "Position": "8",
+                "Team": "Atalanta",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "6",
+                "Losses": "0",
+                "Goal Difference": "6",
                 "Points": "12"
             },
             {
@@ -683,12 +683,12 @@
             },
             {
                 "Position": "10",
-                "Team": "Atalanta",
+                "Team": "Cremonese",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "5",
                 "Losses": "1",
-                "Goal Difference": "5",
+                "Goal Difference": "-1",
                 "Points": "11"
             },
             {
@@ -2078,7 +2078,7 @@
                 "Wins": "6",
                 "Draws": "3",
                 "Losses": "0",
-                "Goal Difference": "11",
+                "Goal Difference": "12",
                 "Points": "21"
             },
             {
@@ -2188,7 +2188,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "-11",
+                "Goal Difference": "-12",
                 "Points": "9"
             },
             {
@@ -3284,12 +3284,12 @@
             {
                 "Position": "7",
                 "Team": "Fluminense",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "12",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "11",
                 "Goal Difference": "0",
-                "Points": "41"
+                "Points": "42"
             },
             {
                 "Position": "8",
@@ -3343,6 +3343,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Internacional",
+                "Played": "30",
+                "Wins": "9",
+                "Draws": "9",
+                "Losses": "12",
+                "Goal Difference": "-7",
+                "Points": "36"
+            },
+            {
+                "Position": "14",
                 "Team": "Gr\u00eamio",
                 "Played": "29",
                 "Wins": "9",
@@ -3352,23 +3362,13 @@
                 "Points": "36"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Cear\u00e1",
                 "Played": "29",
                 "Wins": "9",
                 "Draws": "8",
                 "Losses": "12",
                 "Goal Difference": "-1",
-                "Points": "35"
-            },
-            {
-                "Position": "15",
-                "Team": "Internacional",
-                "Played": "29",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-7",
                 "Points": "35"
             },
             {
