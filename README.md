@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 October 2025, 06:25 PM UTC (Saturday, 25 October 2025, 11:55 PM IST)
+**Last Updated:** Saturday, 25 October 2025, 06:46 PM UTC (Sunday, 26 October 2025, 12:16 AM IST)
 
 ### Premier League
 
@@ -298,17 +298,17 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
 | 6 | Famalicão | 8 | 3 | 4 | 1 | 4 | 13 |
 | 7 | Vitória S.C. | 8 | 3 | 2 | 3 | -3 | 11 |
-| 8 | Braga | 8 | 2 | 4 | 2 | 4 | 10 |
-| 9 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
-| 10 | Alverca | 9 | 3 | 1 | 5 | -5 | 10 |
-| 11 | Santa Clara | 9 | 2 | 3 | 4 | -4 | 9 |
+| 8 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
+| 9 | Braga | 8 | 2 | 4 | 2 | 4 | 10 |
+| 10 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
+| 11 | Alverca | 9 | 3 | 1 | 5 | -5 | 10 |
 | 12 | Arouca | 8 | 2 | 3 | 3 | -9 | 9 |
 | 13 | Rio Ave | 8 | 1 | 5 | 2 | -2 | 8 |
 | 14 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
 | 15 | Estrela Amadora | 8 | 1 | 4 | 3 | -2 | 7 |
 | 16 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
 | 17 | Tondela | 8 | 1 | 2 | 5 | -10 | 5 |
-| 18 | AVS | 9 | 0 | 2 | 7 | -15 | 2 |
+| 18 | AVS | 9 | 0 | 1 | 8 | -17 | 1 |
 
 ### EFL Championship
 

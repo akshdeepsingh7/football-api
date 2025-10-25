@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 06:25 PM UTC",
-        "IST": "Saturday, 25 October 2025, 11:55 PM IST"
+        "UTC": "Saturday, 25 October 2025, 06:46 PM UTC",
+        "IST": "Sunday, 26 October 2025, 12:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2133,6 +2133,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Santa Clara",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "11"
+            },
+            {
+                "Position": "9",
                 "Team": "Braga",
                 "Played": "8",
                 "Wins": "2",
@@ -2142,7 +2152,7 @@
                 "Points": "10"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Nacional",
                 "Played": "8",
                 "Wins": "3",
@@ -2152,7 +2162,7 @@
                 "Points": "10"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Alverca",
                 "Played": "9",
                 "Wins": "3",
@@ -2160,16 +2170,6 @@
                 "Losses": "5",
                 "Goal Difference": "-5",
                 "Points": "10"
-            },
-            {
-                "Position": "11",
-                "Team": "Santa Clara",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "9"
             },
             {
                 "Position": "12",
@@ -2236,10 +2236,10 @@
                 "Team": "AVS",
                 "Played": "9",
                 "Wins": "0",
-                "Draws": "2",
-                "Losses": "7",
-                "Goal Difference": "-15",
-                "Points": "2"
+                "Draws": "1",
+                "Losses": "8",
+                "Goal Difference": "-17",
+                "Points": "1"
             }
         ],
         "EFL Championship": [
