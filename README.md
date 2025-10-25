@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 October 2025, 07:37 PM UTC (Sunday, 26 October 2025, 01:07 AM IST)
+**Last Updated:** Saturday, 25 October 2025, 08:20 PM UTC (Sunday, 26 October 2025, 01:50 AM IST)
 
 ### Premier League
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 9 | 8 | 0 | 1 | 11 | 24 |
 | 2 | Barcelona | 9 | 7 | 1 | 1 | 14 | 22 |
-| 3 | Villarreal | 10 | 5 | 3 | 2 | 6 | 18 |
+| 3 | Villarreal | 10 | 6 | 2 | 2 | 8 | 20 |
 | 4 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
 | 5 | Atlético de Madrid | 9 | 4 | 4 | 1 | 6 | 16 |
 | 6 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
@@ -85,8 +85,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Alavés | 9 | 3 | 3 | 3 | 1 | 12 |
 | 12 | Rayo Vallecano | 9 | 3 | 2 | 4 | 1 | 11 |
 | 13 | Osasuna | 9 | 3 | 1 | 5 | -2 | 10 |
-| 14 | Valencia | 10 | 2 | 4 | 4 | -4 | 10 |
-| 15 | Real Sociedad | 10 | 2 | 3 | 5 | -4 | 9 |
+| 14 | Real Sociedad | 10 | 2 | 3 | 5 | -4 | 9 |
+| 15 | Valencia | 10 | 2 | 3 | 5 | -6 | 9 |
 | 16 | Levante | 9 | 2 | 2 | 5 | -4 | 8 |
 | 17 | Mallorca | 9 | 2 | 2 | 5 | -4 | 8 |
 | 18 | Celta de Vigo | 9 | 0 | 7 | 2 | -3 | 7 |
@@ -126,10 +126,10 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Inter | 8 | 5 | 0 | 3 | 8 | 15 |
 | 5 | Bologna | 7 | 4 | 1 | 2 | 6 | 13 |
 | 6 | Como | 8 | 3 | 4 | 1 | 4 | 13 |
-| 7 | Juventus | 7 | 3 | 3 | 1 | 2 | 12 |
-| 8 | Atalanta | 8 | 2 | 6 | 0 | 6 | 12 |
+| 7 | Cremonese | 8 | 3 | 4 | 1 | 0 | 13 |
+| 8 | Juventus | 7 | 3 | 3 | 1 | 2 | 12 |
 | 9 | Udinese | 8 | 3 | 3 | 2 | -2 | 12 |
-| 10 | Cremonese | 8 | 2 | 5 | 1 | -1 | 11 |
+| 10 | Atalanta | 8 | 2 | 5 | 1 | 5 | 11 |
 | 11 | Sassuolo | 7 | 3 | 1 | 3 | 0 | 10 |
 | 12 | Lazio | 7 | 2 | 2 | 3 | 3 | 8 |
 | 13 | Cagliari | 7 | 2 | 2 | 3 | -2 | 8 |
@@ -146,9 +146,9 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 9 | 6 | 2 | 1 | 11 | 20 |
-| 2 | Marseille | 9 | 6 | 1 | 2 | 14 | 19 |
-| 3 | Monaco | 9 | 5 | 2 | 2 | 5 | 17 |
-| 4 | Lens | 9 | 5 | 2 | 2 | 5 | 17 |
+| 2 | Lens | 9 | 6 | 1 | 2 | 6 | 19 |
+| 3 | Marseille | 9 | 6 | 0 | 3 | 13 | 18 |
+| 4 | Monaco | 9 | 5 | 2 | 2 | 5 | 17 |
 | 5 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
 | 6 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
 | 7 | Lille | 8 | 4 | 2 | 2 | 6 | 14 |
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 8 | 7 | 1 | 0 | 18 | 22 |
-| 2 | Benfica | 9 | 5 | 4 | 0 | 9 | 19 |
+| 2 | Benfica | 9 | 6 | 3 | 0 | 11 | 21 |
 | 3 | Sporting CP | 8 | 6 | 1 | 1 | 15 | 19 |
 | 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
@@ -301,10 +301,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
 | 9 | Braga | 8 | 2 | 4 | 2 | 4 | 10 |
 | 10 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
-| 11 | Arouca | 9 | 2 | 4 | 3 | -9 | 10 |
+| 11 | Estrela Amadora | 9 | 2 | 4 | 3 | -1 | 10 |
 | 12 | Alverca | 9 | 3 | 1 | 5 | -5 | 10 |
-| 13 | Rio Ave | 9 | 1 | 6 | 2 | -2 | 9 |
-| 14 | Estrela Amadora | 9 | 1 | 5 | 3 | -2 | 8 |
+| 13 | Arouca | 9 | 2 | 3 | 4 | -11 | 9 |
+| 14 | Rio Ave | 9 | 1 | 5 | 3 | -3 | 8 |
 | 15 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
 | 16 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
 | 17 | Tondela | 8 | 1 | 2 | 5 | -10 | 5 |
