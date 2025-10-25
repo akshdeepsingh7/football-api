@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 October 2025, 09:16 PM UTC (Sunday, 26 October 2025, 02:46 AM IST)
+**Last Updated:** Saturday, 25 October 2025, 09:37 PM UTC (Sunday, 26 October 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 8 | 7 | 1 | 0 | 18 | 22 |
-| 2 | Benfica | 9 | 6 | 3 | 0 | 13 | 21 |
+| 2 | Benfica | 9 | 6 | 3 | 0 | 14 | 21 |
 | 3 | Sporting CP | 8 | 6 | 1 | 1 | 15 | 19 |
 | 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
@@ -303,7 +303,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Braga | 8 | 2 | 4 | 2 | 4 | 10 |
 | 11 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
 | 12 | Alverca | 9 | 3 | 1 | 5 | -5 | 10 |
-| 13 | Arouca | 9 | 2 | 3 | 4 | -13 | 9 |
+| 13 | Arouca | 9 | 2 | 3 | 4 | -14 | 9 |
 | 14 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
 | 15 | Estrela Amadora | 9 | 1 | 4 | 4 | -3 | 7 |
 | 16 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
@@ -434,7 +434,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Palmeiras | 28 | 19 | 4 | 5 | 27 | 61 |
 | 2 | Flamengo | 28 | 18 | 7 | 3 | 41 | 61 |
 | 3 | Cruzeiro | 29 | 16 | 8 | 5 | 21 | 56 |
-| 4 | Mirassol | 29 | 14 | 10 | 5 | 20 | 52 |
+| 4 | Mirassol | 30 | 14 | 11 | 5 | 20 | 53 |
 | 5 | Bahia | 29 | 14 | 7 | 8 | 8 | 49 |
 | 6 | Botafogo | 29 | 13 | 7 | 9 | 13 | 46 |
 | 7 | Fluminense | 29 | 12 | 6 | 11 | 0 | 42 |
@@ -450,7 +450,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Vitória | 30 | 7 | 10 | 13 | -17 | 31 |
 | 18 | Juventude | 29 | 7 | 5 | 17 | -30 | 26 |
 | 19 | Fortaleza | 28 | 6 | 6 | 16 | -18 | 24 |
-| 20 | Sport | 28 | 2 | 11 | 15 | -23 | 17 |
+| 20 | Sport | 29 | 2 | 12 | 15 | -23 | 18 |
 
 
 <!-- END_TABLE -->
