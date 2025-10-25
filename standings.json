@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 08:39 PM UTC",
-        "IST": "Sunday, 26 October 2025, 02:09 AM IST"
+        "UTC": "Saturday, 25 October 2025, 09:16 PM UTC",
+        "IST": "Sunday, 26 October 2025, 02:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -62,7 +62,7 @@
                 "Wins": "5",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "15"
             },
             {
@@ -102,7 +102,7 @@
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "1",
+                "Goal Difference": "0",
                 "Points": "13"
             },
             {
@@ -2078,7 +2078,7 @@
                 "Wins": "6",
                 "Draws": "3",
                 "Losses": "0",
-                "Goal Difference": "12",
+                "Goal Difference": "13",
                 "Points": "21"
             },
             {
@@ -2133,6 +2133,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Rio Ave",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "5",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "11"
+            },
+            {
+                "Position": "9",
                 "Team": "Santa Clara",
                 "Played": "9",
                 "Wins": "3",
@@ -2142,7 +2152,7 @@
                 "Points": "11"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Braga",
                 "Played": "8",
                 "Wins": "2",
@@ -2152,23 +2162,13 @@
                 "Points": "10"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Nacional",
                 "Played": "8",
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "4",
                 "Goal Difference": "-3",
-                "Points": "10"
-            },
-            {
-                "Position": "11",
-                "Team": "Estrela Amadora",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "-1",
                 "Points": "10"
             },
             {
@@ -2188,21 +2188,11 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "-12",
+                "Goal Difference": "-13",
                 "Points": "9"
             },
             {
                 "Position": "14",
-                "Team": "Rio Ave",
-                "Played": "9",
-                "Wins": "1",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "8"
-            },
-            {
-                "Position": "15",
                 "Team": "Casa Pia",
                 "Played": "8",
                 "Wins": "2",
@@ -2210,6 +2200,16 @@
                 "Losses": "4",
                 "Goal Difference": "-5",
                 "Points": "8"
+            },
+            {
+                "Position": "15",
+                "Team": "Estrela Amadora",
+                "Played": "9",
+                "Wins": "1",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "7"
             },
             {
                 "Position": "16",
@@ -3303,6 +3303,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Corinthians",
+                "Played": "30",
+                "Wins": "10",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-3",
+                "Points": "39"
+            },
+            {
+                "Position": "10",
                 "Team": "S\u00e3o Paulo",
                 "Played": "29",
                 "Wins": "10",
@@ -3310,16 +3320,6 @@
                 "Losses": "11",
                 "Goal Difference": "-2",
                 "Points": "38"
-            },
-            {
-                "Position": "10",
-                "Team": "Corinthians",
-                "Played": "30",
-                "Wins": "9",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-4",
-                "Points": "37"
             },
             {
                 "Position": "11",
@@ -3373,22 +3373,22 @@
             },
             {
                 "Position": "16",
-                "Team": "Vit\u00f3ria",
-                "Played": "30",
-                "Wins": "7",
-                "Draws": "11",
-                "Losses": "12",
-                "Goal Difference": "-16",
-                "Points": "32"
-            },
-            {
-                "Position": "17",
                 "Team": "Santos",
                 "Played": "28",
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "13",
                 "Goal Difference": "-12",
+                "Points": "31"
+            },
+            {
+                "Position": "17",
+                "Team": "Vit\u00f3ria",
+                "Played": "30",
+                "Wins": "7",
+                "Draws": "10",
+                "Losses": "13",
+                "Goal Difference": "-17",
                 "Points": "31"
             },
             {
