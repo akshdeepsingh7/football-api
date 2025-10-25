@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 04:42 PM UTC",
-        "IST": "Saturday, 25 October 2025, 10:12 PM IST"
+        "UTC": "Saturday, 25 October 2025, 05:16 PM UTC",
+        "IST": "Saturday, 25 October 2025, 10:46 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -37,6 +37,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Manchester United",
+                "Played": "9",
+                "Wins": "5",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "1",
+                "Points": "16"
+            },
+            {
+                "Position": "5",
                 "Team": "AFC Bournemouth",
                 "Played": "8",
                 "Wins": "4",
@@ -46,7 +56,7 @@
                 "Points": "15"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Liverpool FC",
                 "Played": "8",
                 "Wins": "5",
@@ -56,7 +66,7 @@
                 "Points": "15"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Tottenham Hotspur",
                 "Played": "8",
                 "Wins": "4",
@@ -66,23 +76,13 @@
                 "Points": "14"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Chelsea",
                 "Played": "9",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "6",
-                "Points": "14"
-            },
-            {
-                "Position": "8",
-                "Team": "Manchester United",
-                "Played": "9",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-1",
                 "Points": "14"
             },
             {
@@ -97,16 +97,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Brighton & Hove Albion",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "13"
-            },
-            {
-                "Position": "11",
                 "Team": "Newcastle United",
                 "Played": "9",
                 "Wins": "3",
@@ -116,13 +106,23 @@
                 "Points": "12"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Aston Villa",
                 "Played": "8",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "0",
+                "Points": "12"
+            },
+            {
+                "Position": "12",
+                "Team": "Brighton & Hove Albion",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-1",
                 "Points": "12"
             },
             {
@@ -800,7 +800,7 @@
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "10",
+                "Goal Difference": "11",
                 "Points": "20"
             },
             {
@@ -815,6 +815,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Monaco",
+                "Played": "9",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "5",
+                "Points": "17"
+            },
+            {
+                "Position": "4",
                 "Team": "Strasbourg",
                 "Played": "8",
                 "Wins": "5",
@@ -824,7 +834,7 @@
                 "Points": "16"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Lens",
                 "Played": "8",
                 "Wins": "5",
@@ -834,7 +844,7 @@
                 "Points": "16"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Lyon",
                 "Played": "8",
                 "Wins": "5",
@@ -844,7 +854,7 @@
                 "Points": "15"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Lille",
                 "Played": "8",
                 "Wins": "4",
@@ -854,23 +864,13 @@
                 "Points": "14"
             },
             {
-                "Position": "7",
-                "Team": "Monaco",
-                "Played": "8",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "4",
-                "Points": "14"
-            },
-            {
                 "Position": "8",
                 "Team": "Toulouse",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "4",
                 "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "3",
+                "Losses": "4",
+                "Goal Difference": "2",
                 "Points": "13"
             },
             {
@@ -910,7 +910,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "9"
             },
             {
@@ -2163,6 +2163,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Santa Clara",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "9"
+            },
+            {
+                "Position": "12",
                 "Team": "Arouca",
                 "Played": "8",
                 "Wins": "2",
@@ -2172,23 +2182,13 @@
                 "Points": "9"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Rio Ave",
                 "Played": "8",
                 "Wins": "1",
                 "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "-2",
-                "Points": "8"
-            },
-            {
-                "Position": "13",
-                "Team": "Santa Clara",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-4",
                 "Points": "8"
             },
             {
@@ -2234,12 +2234,12 @@
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "0",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "7",
                 "Goal Difference": "-15",
-                "Points": "1"
+                "Points": "2"
             }
         ],
         "EFL Championship": [
