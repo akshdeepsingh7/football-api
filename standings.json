@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 10:38 PM UTC",
-        "IST": "Sunday, 26 October 2025, 04:08 AM IST"
+        "UTC": "Saturday, 25 October 2025, 11:16 PM UTC",
+        "IST": "Sunday, 26 October 2025, 04:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3223,22 +3223,22 @@
         "Brasileir\u00e3o": [
             {
                 "Position": "1",
-                "Team": "Flamengo",
-                "Played": "29",
-                "Wins": "18",
-                "Draws": "8",
-                "Losses": "3",
-                "Goal Difference": "41",
-                "Points": "62"
-            },
-            {
-                "Position": "2",
                 "Team": "Palmeiras",
                 "Played": "28",
                 "Wins": "19",
                 "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "27",
+                "Points": "61"
+            },
+            {
+                "Position": "2",
+                "Team": "Flamengo",
+                "Played": "29",
+                "Wins": "18",
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "40",
                 "Points": "61"
             },
             {
@@ -3255,11 +3255,11 @@
                 "Position": "4",
                 "Team": "Mirassol",
                 "Played": "30",
-                "Wins": "14",
-                "Draws": "11",
+                "Wins": "15",
+                "Draws": "10",
                 "Losses": "5",
-                "Goal Difference": "20",
-                "Points": "53"
+                "Goal Difference": "21",
+                "Points": "55"
             },
             {
                 "Position": "5",
@@ -3393,6 +3393,16 @@
             },
             {
                 "Position": "18",
+                "Team": "Fortaleza",
+                "Played": "29",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "16",
+                "Goal Difference": "-17",
+                "Points": "27"
+            },
+            {
+                "Position": "19",
                 "Team": "Juventude",
                 "Played": "29",
                 "Wins": "7",
@@ -3402,24 +3412,14 @@
                 "Points": "26"
             },
             {
-                "Position": "19",
-                "Team": "Fortaleza",
-                "Played": "29",
-                "Wins": "6",
-                "Draws": "7",
-                "Losses": "16",
-                "Goal Difference": "-18",
-                "Points": "25"
-            },
-            {
                 "Position": "20",
                 "Team": "Sport",
                 "Played": "29",
                 "Wins": "2",
-                "Draws": "12",
-                "Losses": "15",
-                "Goal Difference": "-23",
-                "Points": "18"
+                "Draws": "11",
+                "Losses": "16",
+                "Goal Difference": "-24",
+                "Points": "17"
             }
         ]
     }
