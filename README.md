@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 October 2025, 11:37 AM UTC (Saturday, 25 October 2025, 05:07 PM IST)
+**Last Updated:** Saturday, 25 October 2025, 12:36 PM UTC (Saturday, 25 October 2025, 06:06 PM IST)
 
 ### Premier League
 
@@ -90,8 +90,8 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Levante | 9 | 2 | 2 | 5 | -4 | 8 |
 | 17 | Mallorca | 9 | 2 | 2 | 5 | -4 | 8 |
 | 18 | Celta de Vigo | 9 | 0 | 7 | 2 | -3 | 7 |
-| 19 | Real Oviedo | 9 | 2 | 0 | 7 | -12 | 6 |
-| 20 | Girona | 9 | 1 | 3 | 5 | -13 | 6 |
+| 19 | Real Oviedo | 10 | 2 | 1 | 7 | -12 | 7 |
+| 20 | Girona | 10 | 1 | 4 | 5 | -13 | 7 |
 
 ### Bundesliga
 
@@ -314,7 +314,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 12 | 8 | 4 | 0 | 24 | 28 |
+| 1 | Coventry City | 12 | 8 | 4 | 0 | 26 | 28 |
 | 2 | Middlesbrough | 11 | 7 | 3 | 1 | 8 | 24 |
 | 3 | Millwall | 11 | 6 | 2 | 3 | 0 | 20 |
 | 4 | Bristol City | 11 | 5 | 4 | 2 | 8 | 19 |
@@ -325,7 +325,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Queens Park Rangers | 11 | 5 | 3 | 3 | -1 | 18 |
 | 10 | West Bromwich Albion | 12 | 5 | 3 | 4 | -1 | 18 |
 | 11 | Leicester City | 11 | 4 | 5 | 2 | 4 | 17 |
-| 12 | Watford | 12 | 4 | 3 | 5 | -1 | 15 |
+| 12 | Watford | 12 | 4 | 3 | 5 | -3 | 15 |
 | 13 | Birmingham City | 11 | 4 | 3 | 4 | -3 | 15 |
 | 14 | Ipswich Town | 11 | 3 | 5 | 3 | 3 | 14 |
 | 15 | Portsmouth | 12 | 3 | 5 | 4 | -2 | 14 |
