@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 10:17 PM UTC",
-        "IST": "Sunday, 26 October 2025, 03:47 AM IST"
+        "UTC": "Saturday, 25 October 2025, 10:38 PM UTC",
+        "IST": "Sunday, 26 October 2025, 04:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3223,22 +3223,22 @@
         "Brasileir\u00e3o": [
             {
                 "Position": "1",
+                "Team": "Flamengo",
+                "Played": "29",
+                "Wins": "18",
+                "Draws": "8",
+                "Losses": "3",
+                "Goal Difference": "41",
+                "Points": "62"
+            },
+            {
+                "Position": "2",
                 "Team": "Palmeiras",
                 "Played": "28",
                 "Wins": "19",
                 "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "27",
-                "Points": "61"
-            },
-            {
-                "Position": "2",
-                "Team": "Flamengo",
-                "Played": "28",
-                "Wins": "18",
-                "Draws": "7",
-                "Losses": "3",
-                "Goal Difference": "41",
                 "Points": "61"
             },
             {
@@ -3404,12 +3404,12 @@
             {
                 "Position": "19",
                 "Team": "Fortaleza",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "16",
                 "Goal Difference": "-18",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "20",
