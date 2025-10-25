@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 October 2025, 05:37 PM UTC (Saturday, 25 October 2025, 11:07 PM IST)
+**Last Updated:** Saturday, 25 October 2025, 06:25 PM UTC (Saturday, 25 October 2025, 11:55 PM IST)
 
 ### Premier League
 
@@ -78,11 +78,11 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Villarreal | 9 | 5 | 2 | 2 | 6 | 17 |
 | 5 | Atlético de Madrid | 9 | 4 | 4 | 1 | 6 | 16 |
 | 6 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
-| 7 | Athletic Bilbao | 10 | 4 | 3 | 3 | 0 | 15 |
-| 8 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
-| 9 | Sevilla | 10 | 4 | 1 | 5 | 1 | 13 |
-| 10 | Alavés | 9 | 3 | 3 | 3 | 1 | 12 |
-| 11 | Getafe | 10 | 3 | 3 | 4 | -3 | 12 |
+| 7 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
+| 8 | Athletic Bilbao | 10 | 4 | 2 | 4 | -1 | 14 |
+| 9 | Getafe | 10 | 4 | 2 | 4 | -2 | 14 |
+| 10 | Sevilla | 10 | 4 | 1 | 5 | 1 | 13 |
+| 11 | Alavés | 9 | 3 | 3 | 3 | 1 | 12 |
 | 12 | Rayo Vallecano | 9 | 3 | 2 | 4 | 1 | 11 |
 | 13 | Osasuna | 9 | 3 | 1 | 5 | -2 | 10 |
 | 14 | Valencia | 9 | 2 | 3 | 4 | -4 | 9 |
@@ -99,12 +99,12 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 8 | 8 | 0 | 0 | 26 | 24 |
 | 2 | RB Leipzig | 8 | 6 | 1 | 1 | 7 | 19 |
-| 3 | Borussia Dortmund | 8 | 4 | 3 | 1 | 7 | 15 |
+| 3 | Borussia Dortmund | 8 | 5 | 2 | 1 | 8 | 17 |
 | 4 | VfB Stuttgart | 7 | 5 | 0 | 2 | 5 | 15 |
 | 5 | Bayer Leverkusen | 7 | 4 | 2 | 1 | 5 | 14 |
 | 6 | Eintracht Frankfurt | 8 | 4 | 1 | 3 | 3 | 13 |
 | 7 | Hoffenheim | 8 | 4 | 1 | 3 | 2 | 13 |
-| 8 | Köln | 8 | 3 | 3 | 2 | 2 | 12 |
+| 8 | Köln | 8 | 3 | 2 | 3 | 1 | 11 |
 | 9 | Werder Bremen | 8 | 3 | 2 | 3 | -4 | 11 |
 | 10 | Union Berlin | 8 | 3 | 1 | 4 | -4 | 10 |
 | 11 | SC Freiburg | 7 | 2 | 3 | 2 | 0 | 9 |
