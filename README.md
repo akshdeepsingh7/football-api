@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 October 2025, 11:14 AM UTC (Saturday, 25 October 2025, 04:44 PM IST)
+**Last Updated:** Saturday, 25 October 2025, 11:37 AM UTC (Saturday, 25 October 2025, 05:07 PM IST)
 
 ### Premier League
 
@@ -314,23 +314,23 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 11 | 7 | 4 | 0 | 23 | 25 |
+| 1 | Coventry City | 12 | 8 | 4 | 0 | 24 | 28 |
 | 2 | Middlesbrough | 11 | 7 | 3 | 1 | 8 | 24 |
 | 3 | Millwall | 11 | 6 | 2 | 3 | 0 | 20 |
 | 4 | Bristol City | 11 | 5 | 4 | 2 | 8 | 19 |
-| 5 | Preston North End | 12 | 5 | 4 | 3 | 3 | 19 |
-| 6 | Charlton Athletic | 11 | 5 | 3 | 3 | 4 | 18 |
-| 7 | Stoke City | 11 | 5 | 3 | 3 | 4 | 18 |
+| 5 | Stoke City | 12 | 5 | 4 | 3 | 4 | 19 |
+| 6 | Preston North End | 12 | 5 | 4 | 3 | 3 | 19 |
+| 7 | Charlton Athletic | 11 | 5 | 3 | 3 | 4 | 18 |
 | 8 | Hull City | 11 | 5 | 3 | 3 | 0 | 18 |
 | 9 | Queens Park Rangers | 11 | 5 | 3 | 3 | -1 | 18 |
-| 10 | Leicester City | 11 | 4 | 5 | 2 | 4 | 17 |
-| 11 | West Bromwich Albion | 11 | 5 | 2 | 4 | -1 | 17 |
-| 12 | Watford | 11 | 4 | 3 | 4 | 0 | 15 |
+| 10 | West Bromwich Albion | 12 | 5 | 3 | 4 | -1 | 18 |
+| 11 | Leicester City | 11 | 4 | 5 | 2 | 4 | 17 |
+| 12 | Watford | 12 | 4 | 3 | 5 | -1 | 15 |
 | 13 | Birmingham City | 11 | 4 | 3 | 4 | -3 | 15 |
-| 14 | Ipswich Town | 10 | 3 | 4 | 3 | 3 | 13 |
-| 15 | Wrexham | 11 | 3 | 4 | 4 | -1 | 13 |
-| 16 | Swansea City | 11 | 3 | 4 | 4 | -1 | 13 |
-| 17 | Portsmouth | 11 | 3 | 4 | 4 | -2 | 13 |
+| 14 | Ipswich Town | 11 | 3 | 5 | 3 | 3 | 14 |
+| 15 | Portsmouth | 12 | 3 | 5 | 4 | -2 | 14 |
+| 16 | Wrexham | 11 | 3 | 4 | 4 | -1 | 13 |
+| 17 | Swansea City | 11 | 3 | 4 | 4 | -1 | 13 |
 | 18 | Southampton | 11 | 2 | 6 | 3 | -3 | 12 |
 | 19 | Derby County | 11 | 2 | 5 | 4 | -4 | 11 |
 | 20 | Oxford United | 11 | 2 | 3 | 6 | -3 | 9 |

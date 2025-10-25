@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 11:14 AM UTC",
-        "IST": "Saturday, 25 October 2025, 04:44 PM IST"
+        "UTC": "Saturday, 25 October 2025, 11:37 AM UTC",
+        "IST": "Saturday, 25 October 2025, 05:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2246,12 +2246,12 @@
             {
                 "Position": "1",
                 "Team": "Coventry City",
-                "Played": "11",
-                "Wins": "7",
+                "Played": "12",
+                "Wins": "8",
                 "Draws": "4",
                 "Losses": "0",
-                "Goal Difference": "23",
-                "Points": "25"
+                "Goal Difference": "24",
+                "Points": "28"
             },
             {
                 "Position": "2",
@@ -2285,6 +2285,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Stoke City",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "4",
+                "Points": "19"
+            },
+            {
+                "Position": "6",
                 "Team": "Preston North End",
                 "Played": "12",
                 "Wins": "5",
@@ -2294,18 +2304,8 @@
                 "Points": "19"
             },
             {
-                "Position": "6",
-                "Team": "Charlton Athletic",
-                "Played": "11",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "4",
-                "Points": "18"
-            },
-            {
                 "Position": "7",
-                "Team": "Stoke City",
+                "Team": "Charlton Athletic",
                 "Played": "11",
                 "Wins": "5",
                 "Draws": "3",
@@ -2335,6 +2335,16 @@
             },
             {
                 "Position": "10",
+                "Team": "West Bromwich Albion",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "18"
+            },
+            {
+                "Position": "11",
                 "Team": "Leicester City",
                 "Played": "11",
                 "Wins": "4",
@@ -2344,23 +2354,13 @@
                 "Points": "17"
             },
             {
-                "Position": "11",
-                "Team": "West Bromwich Albion",
-                "Played": "11",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "17"
-            },
-            {
                 "Position": "12",
                 "Team": "Watford",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "4",
                 "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "0",
+                "Losses": "5",
+                "Goal Difference": "-1",
                 "Points": "15"
             },
             {
@@ -2376,15 +2376,25 @@
             {
                 "Position": "14",
                 "Team": "Ipswich Town",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "3",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "15",
+                "Team": "Portsmouth",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "14"
+            },
+            {
+                "Position": "16",
                 "Team": "Wrexham",
                 "Played": "11",
                 "Wins": "3",
@@ -2394,23 +2404,13 @@
                 "Points": "13"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Swansea City",
                 "Played": "11",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "-1",
-                "Points": "13"
-            },
-            {
-                "Position": "17",
-                "Team": "Portsmouth",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-2",
                 "Points": "13"
             },
             {
