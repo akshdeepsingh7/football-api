@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 October 2025, 07:14 PM UTC (Sunday, 26 October 2025, 12:44 AM IST)
+**Last Updated:** Saturday, 25 October 2025, 07:37 PM UTC (Sunday, 26 October 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -292,20 +292,20 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 8 | 7 | 1 | 0 | 18 | 22 |
-| 2 | Sporting CP | 8 | 6 | 1 | 1 | 15 | 19 |
-| 3 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
-| 4 | Benfica | 8 | 5 | 3 | 0 | 9 | 18 |
+| 2 | Benfica | 9 | 5 | 4 | 0 | 9 | 19 |
+| 3 | Sporting CP | 8 | 6 | 1 | 1 | 15 | 19 |
+| 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
 | 6 | Famalicão | 8 | 3 | 4 | 1 | 4 | 13 |
 | 7 | Vitória S.C. | 8 | 3 | 2 | 3 | -3 | 11 |
 | 8 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
 | 9 | Braga | 8 | 2 | 4 | 2 | 4 | 10 |
 | 10 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
-| 11 | Alverca | 9 | 3 | 1 | 5 | -5 | 10 |
-| 12 | Arouca | 8 | 2 | 3 | 3 | -9 | 9 |
-| 13 | Rio Ave | 8 | 1 | 5 | 2 | -2 | 8 |
-| 14 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
-| 15 | Estrela Amadora | 8 | 1 | 4 | 3 | -2 | 7 |
+| 11 | Arouca | 9 | 2 | 4 | 3 | -9 | 10 |
+| 12 | Alverca | 9 | 3 | 1 | 5 | -5 | 10 |
+| 13 | Rio Ave | 9 | 1 | 6 | 2 | -2 | 9 |
+| 14 | Estrela Amadora | 9 | 1 | 5 | 3 | -2 | 8 |
+| 15 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
 | 16 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
 | 17 | Tondela | 8 | 1 | 2 | 5 | -10 | 5 |
 | 18 | AVS | 9 | 0 | 1 | 8 | -17 | 1 |
