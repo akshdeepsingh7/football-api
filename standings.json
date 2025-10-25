@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 09:37 PM UTC",
-        "IST": "Sunday, 26 October 2025, 03:07 AM IST"
+        "UTC": "Saturday, 25 October 2025, 10:17 PM UTC",
+        "IST": "Sunday, 26 October 2025, 03:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3285,11 +3285,11 @@
                 "Position": "7",
                 "Team": "Fluminense",
                 "Played": "29",
-                "Wins": "12",
-                "Draws": "6",
+                "Wins": "13",
+                "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "0",
-                "Points": "42"
+                "Goal Difference": "1",
+                "Points": "44"
             },
             {
                 "Position": "8",
@@ -3343,16 +3343,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Internacional",
-                "Played": "30",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-7",
-                "Points": "36"
-            },
-            {
-                "Position": "14",
                 "Team": "Gr\u00eamio",
                 "Played": "29",
                 "Wins": "9",
@@ -3362,13 +3352,23 @@
                 "Points": "36"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Cear\u00e1",
                 "Played": "29",
                 "Wins": "9",
                 "Draws": "8",
                 "Losses": "12",
                 "Goal Difference": "-1",
+                "Points": "35"
+            },
+            {
+                "Position": "15",
+                "Team": "Internacional",
+                "Played": "30",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "-8",
                 "Points": "35"
             },
             {
