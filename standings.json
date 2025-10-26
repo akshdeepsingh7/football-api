@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 October 2025, 04:43 PM UTC",
-        "IST": "Sunday, 26 October 2025, 10:13 PM IST"
+        "UTC": "Sunday, 26 October 2025, 05:16 PM UTC",
+        "IST": "Sunday, 26 October 2025, 10:46 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -27,6 +27,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Tottenham Hotspur",
+                "Played": "9",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "8",
+                "Points": "17"
+            },
+            {
+                "Position": "4",
                 "Team": "Sunderland",
                 "Played": "9",
                 "Wins": "5",
@@ -36,7 +46,7 @@
                 "Points": "17"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Manchester City",
                 "Played": "9",
                 "Wins": "5",
@@ -46,7 +56,7 @@
                 "Points": "16"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Manchester United",
                 "Played": "9",
                 "Wins": "5",
@@ -54,16 +64,6 @@
                 "Losses": "3",
                 "Goal Difference": "1",
                 "Points": "16"
-            },
-            {
-                "Position": "6",
-                "Team": "Tottenham Hotspur",
-                "Played": "9",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "7",
-                "Points": "15"
             },
             {
                 "Position": "7",
@@ -127,16 +127,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Everton",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "0",
-                "Points": "12"
-            },
-            {
-                "Position": "14",
                 "Team": "Brighton & Hove Albion",
                 "Played": "9",
                 "Wins": "3",
@@ -144,6 +134,16 @@
                 "Losses": "3",
                 "Goal Difference": "-1",
                 "Points": "12"
+            },
+            {
+                "Position": "14",
+                "Team": "Everton",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "11"
             },
             {
                 "Position": "15",
@@ -454,10 +454,10 @@
                 "Team": "VfB Stuttgart",
                 "Played": "8",
                 "Wins": "5",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "5",
-                "Points": "16"
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "4",
+                "Points": "15"
             },
             {
                 "Position": "6",
@@ -541,6 +541,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Mainz 05",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "5",
+                "Goal Difference": "-5",
+                "Points": "7"
+            },
+            {
+                "Position": "15",
                 "Team": "St. Pauli",
                 "Played": "8",
                 "Wins": "2",
@@ -550,7 +560,7 @@
                 "Points": "7"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Augsburg",
                 "Played": "8",
                 "Wins": "2",
@@ -558,16 +568,6 @@
                 "Losses": "5",
                 "Goal Difference": "-8",
                 "Points": "7"
-            },
-            {
-                "Position": "16",
-                "Team": "Mainz 05",
-                "Played": "8",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-6",
-                "Points": "5"
             },
             {
                 "Position": "17",
@@ -634,12 +634,12 @@
             {
                 "Position": "5",
                 "Team": "Bologna",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "4",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "6",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "6",
@@ -763,6 +763,16 @@
             },
             {
                 "Position": "18",
+                "Team": "Fiorentina",
+                "Played": "8",
+                "Wins": "0",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "4"
+            },
+            {
+                "Position": "19",
                 "Team": "Pisa",
                 "Played": "8",
                 "Wins": "0",
@@ -770,16 +780,6 @@
                 "Losses": "4",
                 "Goal Difference": "-7",
                 "Points": "4"
-            },
-            {
-                "Position": "19",
-                "Team": "Fiorentina",
-                "Played": "7",
-                "Wins": "0",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "3"
             },
             {
                 "Position": "20",
@@ -865,6 +865,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Nice",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "14"
+            },
+            {
+                "Position": "9",
                 "Team": "Toulouse",
                 "Played": "9",
                 "Wins": "4",
@@ -874,24 +884,14 @@
                 "Points": "13"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Rennes",
                 "Played": "9",
                 "Wins": "2",
-                "Draws": "6",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "12"
-            },
-            {
-                "Position": "10",
-                "Team": "Nice",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "12"
+                "Draws": "5",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "11"
             },
             {
                 "Position": "11",
@@ -2123,16 +2123,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Nacional",
-                "Played": "9",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "13"
-            },
-            {
-                "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "9",
                 "Wins": "3",
@@ -2142,13 +2132,23 @@
                 "Points": "11"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Rio Ave",
                 "Played": "9",
                 "Wins": "2",
                 "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "-1",
+                "Points": "11"
+            },
+            {
+                "Position": "9",
+                "Team": "Nacional",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-3",
                 "Points": "11"
             },
             {
@@ -2203,7 +2203,7 @@
             },
             {
                 "Position": "15",
-                "Team": "Estrela Amadora",
+                "Team": "Estoril",
                 "Played": "9",
                 "Wins": "1",
                 "Draws": "4",
@@ -2213,13 +2213,13 @@
             },
             {
                 "Position": "16",
-                "Team": "Estoril",
+                "Team": "Estrela Amadora",
                 "Played": "9",
                 "Wins": "1",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-4",
-                "Points": "6"
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "7"
             },
             {
                 "Position": "17",
