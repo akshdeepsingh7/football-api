@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 October 2025, 06:47 PM UTC (Monday, 27 October 2025, 12:17 AM IST)
+**Last Updated:** Sunday, 26 October 2025, 07:15 PM UTC (Monday, 27 October 2025, 12:45 AM IST)
 
 ### Premier League
 
@@ -82,14 +82,14 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Athletic Bilbao | 10 | 4 | 2 | 4 | -1 | 14 |
 | 9 | Getafe | 10 | 4 | 2 | 4 | -2 | 14 |
 | 10 | Sevilla | 10 | 4 | 1 | 5 | 1 | 13 |
-| 11 | Osasuna | 10 | 4 | 1 | 5 | -1 | 13 |
-| 12 | Alavés | 9 | 3 | 3 | 3 | 1 | 12 |
-| 13 | Rayo Vallecano | 9 | 3 | 2 | 4 | 1 | 11 |
+| 11 | Alavés | 9 | 3 | 3 | 3 | 1 | 12 |
+| 12 | Rayo Vallecano | 9 | 3 | 2 | 4 | 1 | 11 |
+| 13 | Osasuna | 10 | 3 | 2 | 5 | -2 | 11 |
 | 14 | Levante | 10 | 2 | 3 | 5 | -4 | 9 |
 | 15 | Mallorca | 10 | 2 | 3 | 5 | -4 | 9 |
 | 16 | Real Sociedad | 10 | 2 | 3 | 5 | -4 | 9 |
 | 17 | Valencia | 10 | 2 | 3 | 5 | -6 | 9 |
-| 18 | Celta de Vigo | 10 | 0 | 7 | 3 | -4 | 7 |
+| 18 | Celta de Vigo | 10 | 0 | 8 | 2 | -3 | 8 |
 | 19 | Real Oviedo | 10 | 2 | 1 | 7 | -12 | 7 |
 | 20 | Girona | 10 | 1 | 4 | 5 | -13 | 7 |
 
@@ -123,8 +123,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Napoli | 8 | 6 | 0 | 2 | 7 | 18 |
 | 2 | Roma | 8 | 6 | 0 | 2 | 5 | 18 |
 | 3 | Milan | 8 | 5 | 2 | 1 | 7 | 17 |
-| 4 | Bologna | 8 | 5 | 1 | 2 | 7 | 16 |
-| 5 | Inter | 8 | 5 | 0 | 3 | 8 | 15 |
+| 4 | Inter | 8 | 5 | 0 | 3 | 8 | 15 |
+| 5 | Bologna | 8 | 4 | 2 | 2 | 6 | 14 |
 | 6 | Como | 8 | 3 | 4 | 1 | 4 | 13 |
 | 7 | Juventus | 7 | 3 | 3 | 1 | 2 | 12 |
 | 8 | Atalanta | 8 | 2 | 6 | 0 | 6 | 12 |
@@ -137,8 +137,8 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Parma | 8 | 1 | 4 | 3 | -4 | 7 |
 | 16 | Lecce | 8 | 1 | 3 | 4 | -6 | 6 |
 | 17 | Hellas Verona | 8 | 0 | 5 | 3 | -7 | 5 |
-| 18 | Pisa | 8 | 0 | 4 | 4 | -7 | 4 |
-| 19 | Fiorentina | 8 | 0 | 3 | 5 | -6 | 3 |
+| 18 | Fiorentina | 8 | 0 | 4 | 4 | -5 | 4 |
+| 19 | Pisa | 8 | 0 | 4 | 4 | -7 | 4 |
 | 20 | Genoa | 8 | 0 | 3 | 5 | -7 | 3 |
 
 ### Ligue 1
@@ -435,21 +435,21 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Flamengo | 29 | 18 | 7 | 4 | 40 | 61 |
 | 3 | Cruzeiro | 29 | 16 | 8 | 5 | 21 | 56 |
 | 4 | Mirassol | 30 | 15 | 10 | 5 | 21 | 55 |
-| 5 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
-| 6 | Botafogo | 29 | 13 | 7 | 9 | 13 | 46 |
+| 5 | Botafogo | 30 | 14 | 7 | 9 | 14 | 49 |
+| 6 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
 | 7 | Fluminense | 29 | 13 | 5 | 11 | 1 | 44 |
 | 8 | São Paulo | 30 | 11 | 8 | 11 | 0 | 41 |
 | 9 | Vasco da Gama | 29 | 11 | 6 | 12 | 5 | 39 |
 | 10 | Corinthians | 30 | 10 | 9 | 11 | -3 | 39 |
-| 11 | RB Bragantino | 29 | 10 | 6 | 13 | -10 | 36 |
-| 12 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
-| 13 | Grêmio | 29 | 9 | 9 | 11 | -7 | 36 |
+| 11 | Grêmio | 30 | 9 | 10 | 11 | -7 | 37 |
+| 12 | RB Bragantino | 29 | 10 | 6 | 13 | -10 | 36 |
+| 13 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
 | 14 | Ceará | 29 | 9 | 8 | 12 | -1 | 35 |
 | 15 | Internacional | 30 | 9 | 8 | 13 | -8 | 35 |
-| 16 | Santos | 28 | 8 | 7 | 13 | -12 | 31 |
+| 16 | Santos | 29 | 8 | 7 | 14 | -13 | 31 |
 | 17 | Vitória | 30 | 7 | 10 | 13 | -17 | 31 |
 | 18 | Fortaleza | 29 | 7 | 6 | 16 | -17 | 27 |
-| 19 | Juventude | 29 | 7 | 5 | 17 | -30 | 26 |
+| 19 | Juventude | 30 | 7 | 6 | 17 | -30 | 27 |
 | 20 | Sport | 29 | 2 | 11 | 16 | -24 | 17 |
 
 
