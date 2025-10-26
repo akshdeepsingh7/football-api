@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 October 2025, 07:15 PM UTC",
-        "IST": "Monday, 27 October 2025, 12:45 AM IST"
+        "UTC": "Sunday, 26 October 2025, 07:37 PM UTC",
+        "IST": "Monday, 27 October 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -329,16 +329,26 @@
             },
             {
                 "Position": "13",
-                "Team": "Osasuna",
+                "Team": "Celta de Vigo",
                 "Played": "10",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "5",
+                "Wins": "1",
+                "Draws": "7",
+                "Losses": "2",
                 "Goal Difference": "-2",
-                "Points": "11"
+                "Points": "10"
             },
             {
                 "Position": "14",
+                "Team": "Osasuna",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "6",
+                "Goal Difference": "-3",
+                "Points": "10"
+            },
+            {
+                "Position": "15",
                 "Team": "Levante",
                 "Played": "10",
                 "Wins": "2",
@@ -348,7 +358,7 @@
                 "Points": "9"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Mallorca",
                 "Played": "10",
                 "Wins": "2",
@@ -358,7 +368,7 @@
                 "Points": "9"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Real Sociedad",
                 "Played": "10",
                 "Wins": "2",
@@ -368,7 +378,7 @@
                 "Points": "9"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Valencia",
                 "Played": "10",
                 "Wins": "2",
@@ -376,16 +386,6 @@
                 "Losses": "5",
                 "Goal Difference": "-6",
                 "Points": "9"
-            },
-            {
-                "Position": "18",
-                "Team": "Celta de Vigo",
-                "Played": "10",
-                "Wins": "0",
-                "Draws": "8",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "8"
             },
             {
                 "Position": "19",
@@ -2078,7 +2078,7 @@
                 "Wins": "7",
                 "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "16",
+                "Goal Difference": "17",
                 "Points": "22"
             },
             {
@@ -2228,7 +2228,7 @@
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "6",
-                "Goal Difference": "-11",
+                "Goal Difference": "-12",
                 "Points": "5"
             },
             {
@@ -3263,16 +3263,6 @@
             },
             {
                 "Position": "5",
-                "Team": "Botafogo",
-                "Played": "30",
-                "Wins": "14",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "14",
-                "Points": "49"
-            },
-            {
-                "Position": "6",
                 "Team": "Bahia",
                 "Played": "30",
                 "Wins": "14",
@@ -3280,6 +3270,16 @@
                 "Losses": "9",
                 "Goal Difference": "6",
                 "Points": "49"
+            },
+            {
+                "Position": "6",
+                "Team": "Botafogo",
+                "Played": "30",
+                "Wins": "13",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "13",
+                "Points": "47"
             },
             {
                 "Position": "7",
@@ -3325,11 +3325,11 @@
                 "Position": "11",
                 "Team": "Gr\u00eamio",
                 "Played": "30",
-                "Wins": "9",
-                "Draws": "10",
+                "Wins": "10",
+                "Draws": "9",
                 "Losses": "11",
-                "Goal Difference": "-7",
-                "Points": "37"
+                "Goal Difference": "-6",
+                "Points": "39"
             },
             {
                 "Position": "12",
@@ -3376,10 +3376,10 @@
                 "Team": "Santos",
                 "Played": "29",
                 "Wins": "8",
-                "Draws": "7",
-                "Losses": "14",
-                "Goal Difference": "-13",
-                "Points": "31"
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "-12",
+                "Points": "32"
             },
             {
                 "Position": "17",
@@ -3406,10 +3406,10 @@
                 "Team": "Juventude",
                 "Played": "30",
                 "Wins": "7",
-                "Draws": "6",
-                "Losses": "17",
-                "Goal Difference": "-30",
-                "Points": "27"
+                "Draws": "5",
+                "Losses": "18",
+                "Goal Difference": "-31",
+                "Points": "26"
             },
             {
                 "Position": "20",

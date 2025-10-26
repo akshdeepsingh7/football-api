@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 October 2025, 07:15 PM UTC (Monday, 27 October 2025, 12:45 AM IST)
+**Last Updated:** Sunday, 26 October 2025, 07:37 PM UTC (Monday, 27 October 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -84,12 +84,12 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Sevilla | 10 | 4 | 1 | 5 | 1 | 13 |
 | 11 | Alavés | 9 | 3 | 3 | 3 | 1 | 12 |
 | 12 | Rayo Vallecano | 9 | 3 | 2 | 4 | 1 | 11 |
-| 13 | Osasuna | 10 | 3 | 2 | 5 | -2 | 11 |
-| 14 | Levante | 10 | 2 | 3 | 5 | -4 | 9 |
-| 15 | Mallorca | 10 | 2 | 3 | 5 | -4 | 9 |
-| 16 | Real Sociedad | 10 | 2 | 3 | 5 | -4 | 9 |
-| 17 | Valencia | 10 | 2 | 3 | 5 | -6 | 9 |
-| 18 | Celta de Vigo | 10 | 0 | 8 | 2 | -3 | 8 |
+| 13 | Celta de Vigo | 10 | 1 | 7 | 2 | -2 | 10 |
+| 14 | Osasuna | 10 | 3 | 1 | 6 | -3 | 10 |
+| 15 | Levante | 10 | 2 | 3 | 5 | -4 | 9 |
+| 16 | Mallorca | 10 | 2 | 3 | 5 | -4 | 9 |
+| 17 | Real Sociedad | 10 | 2 | 3 | 5 | -4 | 9 |
+| 18 | Valencia | 10 | 2 | 3 | 5 | -6 | 9 |
 | 19 | Real Oviedo | 10 | 2 | 1 | 7 | -12 | 7 |
 | 20 | Girona | 10 | 1 | 4 | 5 | -13 | 7 |
 
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 8 | 7 | 1 | 0 | 18 | 22 |
-| 2 | Sporting CP | 9 | 7 | 1 | 1 | 16 | 22 |
+| 2 | Sporting CP | 9 | 7 | 1 | 1 | 17 | 22 |
 | 3 | Benfica | 9 | 6 | 3 | 0 | 14 | 21 |
 | 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Famalicão | 9 | 4 | 4 | 1 | 6 | 16 |
@@ -307,7 +307,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
 | 15 | Estoril | 9 | 1 | 4 | 4 | -3 | 7 |
 | 16 | Estrela Amadora | 9 | 1 | 4 | 4 | -3 | 7 |
-| 17 | Tondela | 9 | 1 | 2 | 6 | -11 | 5 |
+| 17 | Tondela | 9 | 1 | 2 | 6 | -12 | 5 |
 | 18 | AVS | 9 | 0 | 1 | 8 | -17 | 1 |
 
 ### EFL Championship
@@ -435,21 +435,21 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Flamengo | 29 | 18 | 7 | 4 | 40 | 61 |
 | 3 | Cruzeiro | 29 | 16 | 8 | 5 | 21 | 56 |
 | 4 | Mirassol | 30 | 15 | 10 | 5 | 21 | 55 |
-| 5 | Botafogo | 30 | 14 | 7 | 9 | 14 | 49 |
-| 6 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
+| 5 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
+| 6 | Botafogo | 30 | 13 | 8 | 9 | 13 | 47 |
 | 7 | Fluminense | 29 | 13 | 5 | 11 | 1 | 44 |
 | 8 | São Paulo | 30 | 11 | 8 | 11 | 0 | 41 |
 | 9 | Vasco da Gama | 29 | 11 | 6 | 12 | 5 | 39 |
 | 10 | Corinthians | 30 | 10 | 9 | 11 | -3 | 39 |
-| 11 | Grêmio | 30 | 9 | 10 | 11 | -7 | 37 |
+| 11 | Grêmio | 30 | 10 | 9 | 11 | -6 | 39 |
 | 12 | RB Bragantino | 29 | 10 | 6 | 13 | -10 | 36 |
 | 13 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
 | 14 | Ceará | 29 | 9 | 8 | 12 | -1 | 35 |
 | 15 | Internacional | 30 | 9 | 8 | 13 | -8 | 35 |
-| 16 | Santos | 29 | 8 | 7 | 14 | -13 | 31 |
+| 16 | Santos | 29 | 8 | 8 | 13 | -12 | 32 |
 | 17 | Vitória | 30 | 7 | 10 | 13 | -17 | 31 |
 | 18 | Fortaleza | 29 | 7 | 6 | 16 | -17 | 27 |
-| 19 | Juventude | 30 | 7 | 6 | 17 | -30 | 27 |
+| 19 | Juventude | 30 | 7 | 5 | 18 | -31 | 26 |
 | 20 | Sport | 29 | 2 | 11 | 16 | -24 | 17 |
 
 
