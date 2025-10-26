@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 October 2025, 08:20 PM UTC",
-        "IST": "Monday, 27 October 2025, 01:50 AM IST"
+        "UTC": "Sunday, 26 October 2025, 08:40 PM UTC",
+        "IST": "Monday, 27 October 2025, 02:10 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2123,6 +2123,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Braga",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "13"
+            },
+            {
+                "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "9",
                 "Wins": "3",
@@ -2132,7 +2142,7 @@
                 "Points": "11"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Rio Ave",
                 "Played": "9",
                 "Wins": "2",
@@ -2142,7 +2152,7 @@
                 "Points": "11"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Nacional",
                 "Played": "9",
                 "Wins": "3",
@@ -2152,7 +2162,7 @@
                 "Points": "11"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Santa Clara",
                 "Played": "9",
                 "Wins": "3",
@@ -2160,16 +2170,6 @@
                 "Losses": "4",
                 "Goal Difference": "-2",
                 "Points": "11"
-            },
-            {
-                "Position": "11",
-                "Team": "Braga",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "4",
-                "Points": "10"
             },
             {
                 "Position": "12",
@@ -2194,11 +2194,11 @@
             {
                 "Position": "14",
                 "Team": "Casa Pia",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "2",
                 "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-5",
+                "Losses": "5",
+                "Goal Difference": "-7",
                 "Points": "8"
             },
             {
@@ -3263,16 +3263,6 @@
             },
             {
                 "Position": "5",
-                "Team": "Botafogo",
-                "Played": "30",
-                "Wins": "14",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "14",
-                "Points": "49"
-            },
-            {
-                "Position": "6",
                 "Team": "Bahia",
                 "Played": "30",
                 "Wins": "14",
@@ -3280,6 +3270,16 @@
                 "Losses": "9",
                 "Goal Difference": "6",
                 "Points": "49"
+            },
+            {
+                "Position": "6",
+                "Team": "Botafogo",
+                "Played": "30",
+                "Wins": "13",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "13",
+                "Points": "47"
             },
             {
                 "Position": "7",
@@ -3328,7 +3328,7 @@
                 "Wins": "10",
                 "Draws": "9",
                 "Losses": "11",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "39"
             },
             {
@@ -3376,10 +3376,10 @@
                 "Team": "Santos",
                 "Played": "29",
                 "Wins": "8",
-                "Draws": "7",
-                "Losses": "14",
-                "Goal Difference": "-13",
-                "Points": "31"
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "-12",
+                "Points": "32"
             },
             {
                 "Position": "17",
@@ -3408,7 +3408,7 @@
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "18",
-                "Goal Difference": "-32",
+                "Goal Difference": "-33",
                 "Points": "26"
             },
             {

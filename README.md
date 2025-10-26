@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 October 2025, 08:20 PM UTC (Monday, 27 October 2025, 01:50 AM IST)
+**Last Updated:** Sunday, 26 October 2025, 08:40 PM UTC (Monday, 27 October 2025, 02:10 AM IST)
 
 ### Premier League
 
@@ -297,14 +297,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Famalicão | 9 | 4 | 4 | 1 | 6 | 16 |
 | 6 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
-| 7 | Vitória S.C. | 9 | 3 | 2 | 4 | -5 | 11 |
-| 8 | Rio Ave | 9 | 2 | 5 | 2 | -1 | 11 |
-| 9 | Nacional | 9 | 3 | 2 | 4 | -3 | 11 |
-| 10 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
-| 11 | Braga | 8 | 2 | 4 | 2 | 4 | 10 |
+| 7 | Braga | 9 | 3 | 4 | 2 | 6 | 13 |
+| 8 | Vitória S.C. | 9 | 3 | 2 | 4 | -5 | 11 |
+| 9 | Rio Ave | 9 | 2 | 5 | 2 | -1 | 11 |
+| 10 | Nacional | 9 | 3 | 2 | 4 | -3 | 11 |
+| 11 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
 | 12 | Alverca | 9 | 3 | 1 | 5 | -5 | 10 |
 | 13 | Arouca | 9 | 2 | 3 | 4 | -14 | 9 |
-| 14 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
+| 14 | Casa Pia | 9 | 2 | 2 | 5 | -7 | 8 |
 | 15 | Estoril | 9 | 1 | 4 | 4 | -3 | 7 |
 | 16 | Estrela Amadora | 9 | 1 | 4 | 4 | -3 | 7 |
 | 17 | Tondela | 9 | 1 | 2 | 6 | -13 | 5 |
@@ -435,21 +435,21 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Flamengo | 29 | 18 | 7 | 4 | 40 | 61 |
 | 3 | Cruzeiro | 29 | 16 | 8 | 5 | 21 | 56 |
 | 4 | Mirassol | 30 | 15 | 10 | 5 | 21 | 55 |
-| 5 | Botafogo | 30 | 14 | 7 | 9 | 14 | 49 |
-| 6 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
+| 5 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
+| 6 | Botafogo | 30 | 13 | 8 | 9 | 13 | 47 |
 | 7 | Fluminense | 29 | 13 | 5 | 11 | 1 | 44 |
 | 8 | São Paulo | 30 | 11 | 8 | 11 | 0 | 41 |
 | 9 | Vasco da Gama | 29 | 11 | 6 | 12 | 5 | 39 |
 | 10 | Corinthians | 30 | 10 | 9 | 11 | -3 | 39 |
-| 11 | Grêmio | 30 | 10 | 9 | 11 | -5 | 39 |
+| 11 | Grêmio | 30 | 10 | 9 | 11 | -4 | 39 |
 | 12 | RB Bragantino | 29 | 10 | 6 | 13 | -10 | 36 |
 | 13 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
 | 14 | Ceará | 29 | 9 | 8 | 12 | -1 | 35 |
 | 15 | Internacional | 30 | 9 | 8 | 13 | -8 | 35 |
-| 16 | Santos | 29 | 8 | 7 | 14 | -13 | 31 |
+| 16 | Santos | 29 | 8 | 8 | 13 | -12 | 32 |
 | 17 | Vitória | 30 | 7 | 10 | 13 | -17 | 31 |
 | 18 | Fortaleza | 29 | 7 | 6 | 16 | -17 | 27 |
-| 19 | Juventude | 30 | 7 | 5 | 18 | -32 | 26 |
+| 19 | Juventude | 30 | 7 | 5 | 18 | -33 | 26 |
 | 20 | Sport | 29 | 2 | 11 | 16 | -24 | 17 |
 
 
