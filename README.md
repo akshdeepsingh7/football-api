@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 October 2025, 09:37 PM UTC (Monday, 27 October 2025, 03:07 AM IST)
+**Last Updated:** Sunday, 26 October 2025, 10:17 PM UTC (Monday, 27 October 2025, 03:47 AM IST)
 
 ### Premier League
 
@@ -78,12 +78,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
 | 5 | Atlético de Madrid | 9 | 4 | 4 | 1 | 6 | 16 |
 | 6 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
-| 7 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
-| 8 | Athletic Bilbao | 10 | 4 | 2 | 4 | -1 | 14 |
-| 9 | Getafe | 10 | 4 | 2 | 4 | -2 | 14 |
-| 10 | Sevilla | 10 | 4 | 1 | 5 | 1 | 13 |
-| 11 | Alavés | 10 | 3 | 4 | 3 | 1 | 13 |
-| 12 | Rayo Vallecano | 10 | 3 | 3 | 4 | 1 | 12 |
+| 7 | Rayo Vallecano | 10 | 4 | 2 | 4 | 2 | 14 |
+| 8 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
+| 9 | Athletic Bilbao | 10 | 4 | 2 | 4 | -1 | 14 |
+| 10 | Getafe | 10 | 4 | 2 | 4 | -2 | 14 |
+| 11 | Sevilla | 10 | 4 | 1 | 5 | 1 | 13 |
+| 12 | Alavés | 10 | 3 | 3 | 4 | 0 | 12 |
 | 13 | Celta de Vigo | 10 | 1 | 7 | 2 | -2 | 10 |
 | 14 | Osasuna | 10 | 3 | 1 | 6 | -3 | 10 |
 | 15 | Levante | 10 | 2 | 3 | 5 | -4 | 9 |
@@ -297,14 +297,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Famalicão | 9 | 4 | 4 | 1 | 6 | 16 |
 | 6 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
-| 7 | Braga | 9 | 3 | 4 | 2 | 7 | 13 |
+| 7 | Braga | 9 | 3 | 4 | 2 | 8 | 13 |
 | 8 | Vitória S.C. | 9 | 3 | 2 | 4 | -5 | 11 |
 | 9 | Rio Ave | 9 | 2 | 5 | 2 | -1 | 11 |
 | 10 | Nacional | 9 | 3 | 2 | 4 | -3 | 11 |
 | 11 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
 | 12 | Alverca | 9 | 3 | 1 | 5 | -5 | 10 |
 | 13 | Arouca | 9 | 2 | 3 | 4 | -14 | 9 |
-| 14 | Casa Pia | 9 | 2 | 2 | 5 | -8 | 8 |
+| 14 | Casa Pia | 9 | 2 | 2 | 5 | -9 | 8 |
 | 15 | Estoril | 9 | 1 | 4 | 4 | -3 | 7 |
 | 16 | Estrela Amadora | 9 | 1 | 4 | 4 | -3 | 7 |
 | 17 | Tondela | 9 | 1 | 2 | 6 | -13 | 5 |
@@ -438,11 +438,11 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
 | 6 | Botafogo | 30 | 13 | 8 | 9 | 13 | 47 |
 | 7 | Fluminense | 29 | 13 | 5 | 11 | 1 | 44 |
-| 8 | São Paulo | 30 | 11 | 8 | 11 | 0 | 41 |
-| 9 | Vasco da Gama | 30 | 11 | 7 | 12 | 5 | 40 |
+| 8 | Vasco da Gama | 30 | 12 | 6 | 12 | 6 | 42 |
+| 9 | São Paulo | 30 | 11 | 8 | 11 | 0 | 41 |
 | 10 | Corinthians | 30 | 10 | 9 | 11 | -3 | 39 |
 | 11 | Grêmio | 30 | 10 | 9 | 11 | -5 | 39 |
-| 12 | RB Bragantino | 30 | 10 | 7 | 13 | -10 | 37 |
+| 12 | RB Bragantino | 30 | 10 | 6 | 14 | -11 | 36 |
 | 13 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
 | 14 | Ceará | 29 | 9 | 8 | 12 | -1 | 35 |
 | 15 | Internacional | 30 | 9 | 8 | 13 | -8 | 35 |
