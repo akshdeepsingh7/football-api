@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 October 2025, 12:37 PM UTC",
-        "IST": "Sunday, 26 October 2025, 06:07 PM IST"
+        "UTC": "Sunday, 26 October 2025, 01:24 PM UTC",
+        "IST": "Sunday, 26 October 2025, 06:54 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -339,7 +339,7 @@
             },
             {
                 "Position": "14",
-                "Team": "Real Sociedad",
+                "Team": "Levante",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "3",
@@ -349,6 +349,26 @@
             },
             {
                 "Position": "15",
+                "Team": "Mallorca",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-4",
+                "Points": "9"
+            },
+            {
+                "Position": "16",
+                "Team": "Real Sociedad",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-4",
+                "Points": "9"
+            },
+            {
+                "Position": "17",
                 "Team": "Valencia",
                 "Played": "10",
                 "Wins": "2",
@@ -356,26 +376,6 @@
                 "Losses": "5",
                 "Goal Difference": "-6",
                 "Points": "9"
-            },
-            {
-                "Position": "16",
-                "Team": "Levante",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-4",
-                "Points": "8"
-            },
-            {
-                "Position": "17",
-                "Team": "Mallorca",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-4",
-                "Points": "8"
             },
             {
                 "Position": "18",
@@ -693,6 +693,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Torino",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-6",
+                "Points": "11"
+            },
+            {
+                "Position": "12",
                 "Team": "Sassuolo",
                 "Played": "7",
                 "Wins": "3",
@@ -702,7 +712,7 @@
                 "Points": "10"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Lazio",
                 "Played": "7",
                 "Wins": "2",
@@ -712,23 +722,13 @@
                 "Points": "8"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Cagliari",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "8"
-            },
-            {
-                "Position": "14",
-                "Team": "Torino",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-8",
                 "Points": "8"
             },
             {
@@ -743,16 +743,6 @@
             },
             {
                 "Position": "16",
-                "Team": "Genoa",
-                "Played": "8",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "6"
-            },
-            {
-                "Position": "17",
                 "Team": "Lecce",
                 "Played": "8",
                 "Wins": "1",
@@ -762,7 +752,7 @@
                 "Points": "6"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Hellas Verona",
                 "Played": "7",
                 "Wins": "0",
@@ -772,7 +762,7 @@
                 "Points": "4"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Pisa",
                 "Played": "8",
                 "Wins": "0",
@@ -782,13 +772,23 @@
                 "Points": "4"
             },
             {
-                "Position": "20",
+                "Position": "19",
                 "Team": "Fiorentina",
                 "Played": "7",
                 "Wins": "0",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-5",
+                "Points": "3"
+            },
+            {
+                "Position": "20",
+                "Team": "Genoa",
+                "Played": "8",
+                "Wins": "0",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-7",
                 "Points": "3"
             }
         ],
