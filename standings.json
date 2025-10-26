@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 October 2025, 01:24 PM UTC",
-        "IST": "Sunday, 26 October 2025, 06:54 PM IST"
+        "UTC": "Sunday, 26 October 2025, 01:39 PM UTC",
+        "IST": "Sunday, 26 October 2025, 07:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -329,6 +329,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Levante",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-3",
+                "Points": "11"
+            },
+            {
+                "Position": "14",
                 "Team": "Osasuna",
                 "Played": "9",
                 "Wins": "3",
@@ -338,27 +348,7 @@
                 "Points": "10"
             },
             {
-                "Position": "14",
-                "Team": "Levante",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-4",
-                "Points": "9"
-            },
-            {
                 "Position": "15",
-                "Team": "Mallorca",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-4",
-                "Points": "9"
-            },
-            {
-                "Position": "16",
                 "Team": "Real Sociedad",
                 "Played": "10",
                 "Wins": "2",
@@ -368,7 +358,7 @@
                 "Points": "9"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Valencia",
                 "Played": "10",
                 "Wins": "2",
@@ -376,6 +366,16 @@
                 "Losses": "5",
                 "Goal Difference": "-6",
                 "Points": "9"
+            },
+            {
+                "Position": "17",
+                "Team": "Mallorca",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-5",
+                "Points": "8"
             },
             {
                 "Position": "18",
