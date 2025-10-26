@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 October 2025, 04:22 PM UTC",
-        "IST": "Sunday, 26 October 2025, 09:52 PM IST"
+        "UTC": "Sunday, 26 October 2025, 04:43 PM UTC",
+        "IST": "Sunday, 26 October 2025, 10:13 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -57,6 +57,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Tottenham Hotspur",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "7",
+                "Points": "15"
+            },
+            {
+                "Position": "7",
                 "Team": "Liverpool FC",
                 "Played": "9",
                 "Wins": "5",
@@ -66,7 +76,7 @@
                 "Points": "15"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Aston Villa",
                 "Played": "9",
                 "Wins": "4",
@@ -74,16 +84,6 @@
                 "Losses": "2",
                 "Goal Difference": "1",
                 "Points": "15"
-            },
-            {
-                "Position": "8",
-                "Team": "Tottenham Hotspur",
-                "Played": "8",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "7",
-                "Points": "14"
             },
             {
                 "Position": "9",
@@ -127,6 +127,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Everton",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "12"
+            },
+            {
+                "Position": "14",
                 "Team": "Brighton & Hove Albion",
                 "Played": "9",
                 "Wins": "3",
@@ -134,16 +144,6 @@
                 "Losses": "3",
                 "Goal Difference": "-1",
                 "Points": "12"
-            },
-            {
-                "Position": "14",
-                "Team": "Everton",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "0",
-                "Points": "11"
             },
             {
                 "Position": "15",
@@ -452,12 +452,12 @@
             {
                 "Position": "5",
                 "Team": "VfB Stuttgart",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "5",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "5",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "6",
@@ -562,12 +562,12 @@
             {
                 "Position": "16",
                 "Team": "Mainz 05",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "1",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "5",
                 "Goal Difference": "-6",
-                "Points": "4"
+                "Points": "5"
             },
             {
                 "Position": "17",
@@ -925,7 +925,7 @@
             },
             {
                 "Position": "14",
-                "Team": "Lorient",
+                "Team": "Angers",
                 "Played": "9",
                 "Wins": "2",
                 "Draws": "3",
@@ -945,22 +945,22 @@
             },
             {
                 "Position": "16",
+                "Team": "Lorient",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-8",
+                "Points": "8"
+            },
+            {
+                "Position": "17",
                 "Team": "Le Havre",
                 "Played": "9",
                 "Wins": "1",
                 "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "-6",
-                "Points": "7"
-            },
-            {
-                "Position": "17",
-                "Team": "Angers",
-                "Played": "9",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-8",
                 "Points": "7"
             },
             {
