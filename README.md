@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 October 2025, 03:18 PM UTC (Sunday, 26 October 2025, 08:48 PM IST)
+**Last Updated:** Sunday, 26 October 2025, 03:38 PM UTC (Sunday, 26 October 2025, 09:08 PM IST)
 
 ### Premier League
 
@@ -72,8 +72,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Real Madrid | 9 | 8 | 0 | 1 | 11 | 24 |
-| 2 | Barcelona | 9 | 7 | 1 | 1 | 14 | 22 |
+| 1 | Real Madrid | 10 | 8 | 1 | 1 | 11 | 25 |
+| 2 | Barcelona | 10 | 7 | 2 | 1 | 14 | 23 |
 | 3 | Villarreal | 10 | 6 | 2 | 2 | 8 | 20 |
 | 4 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
 | 5 | Atlético de Madrid | 9 | 4 | 4 | 1 | 6 | 16 |
@@ -133,9 +133,9 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Torino | 8 | 3 | 2 | 3 | -6 | 11 |
 | 12 | Sassuolo | 8 | 3 | 1 | 4 | -1 | 10 |
 | 13 | Lazio | 7 | 2 | 2 | 3 | 3 | 8 |
-| 14 | Cagliari | 8 | 2 | 2 | 4 | -3 | 8 |
+| 14 | Cagliari | 8 | 2 | 2 | 4 | -4 | 8 |
 | 15 | Parma | 8 | 1 | 4 | 3 | -4 | 7 |
-| 16 | Hellas Verona | 8 | 1 | 4 | 3 | -6 | 7 |
+| 16 | Hellas Verona | 8 | 1 | 4 | 3 | -5 | 7 |
 | 17 | Lecce | 8 | 1 | 3 | 4 | -6 | 6 |
 | 18 | Pisa | 8 | 0 | 4 | 4 | -7 | 4 |
 | 19 | Fiorentina | 7 | 0 | 3 | 4 | -5 | 3 |
@@ -148,7 +148,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 9 | 6 | 2 | 1 | 11 | 20 |
 | 2 | Lens | 9 | 6 | 1 | 2 | 6 | 19 |
 | 3 | Marseille | 9 | 6 | 0 | 3 | 13 | 18 |
-| 4 | Lille | 9 | 5 | 2 | 2 | 9 | 17 |
+| 4 | Lille | 9 | 5 | 2 | 2 | 10 | 17 |
 | 5 | Monaco | 9 | 5 | 2 | 2 | 5 | 17 |
 | 6 | Strasbourg | 8 | 5 | 1 | 2 | 7 | 16 |
 | 7 | Lyon | 8 | 5 | 0 | 3 | 3 | 15 |
@@ -162,7 +162,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Auxerre | 8 | 2 | 1 | 5 | -5 | 7 |
 | 16 | Le Havre | 8 | 1 | 3 | 4 | -6 | 6 |
 | 17 | Angers | 8 | 1 | 3 | 4 | -8 | 6 |
-| 18 | Metz | 9 | 0 | 2 | 7 | -18 | 2 |
+| 18 | Metz | 9 | 0 | 2 | 7 | -19 | 2 |
 
 ### Champions League
 
@@ -296,17 +296,17 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Sporting CP | 8 | 6 | 1 | 1 | 15 | 19 |
 | 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
-| 6 | Famalicão | 8 | 3 | 4 | 1 | 4 | 13 |
-| 7 | Vitória S.C. | 8 | 3 | 2 | 3 | -3 | 11 |
+| 6 | Famalicão | 9 | 3 | 5 | 1 | 4 | 14 |
+| 7 | Vitória S.C. | 9 | 3 | 3 | 3 | -3 | 12 |
 | 8 | Rio Ave | 9 | 2 | 5 | 2 | -1 | 11 |
-| 9 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
-| 10 | Braga | 8 | 2 | 4 | 2 | 4 | 10 |
-| 11 | Nacional | 8 | 3 | 1 | 4 | -3 | 10 |
+| 9 | Nacional | 9 | 3 | 2 | 4 | -3 | 11 |
+| 10 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
+| 11 | Braga | 8 | 2 | 4 | 2 | 4 | 10 |
 | 12 | Alverca | 9 | 3 | 1 | 5 | -5 | 10 |
 | 13 | Arouca | 9 | 2 | 3 | 4 | -14 | 9 |
 | 14 | Casa Pia | 8 | 2 | 2 | 4 | -5 | 8 |
-| 15 | Estrela Amadora | 9 | 1 | 4 | 4 | -3 | 7 |
-| 16 | Estoril | 8 | 1 | 3 | 4 | -3 | 6 |
+| 15 | Estoril | 9 | 1 | 4 | 4 | -3 | 7 |
+| 16 | Estrela Amadora | 9 | 1 | 4 | 4 | -3 | 7 |
 | 17 | Tondela | 8 | 1 | 2 | 5 | -10 | 5 |
 | 18 | AVS | 9 | 0 | 1 | 8 | -17 | 1 |
 
