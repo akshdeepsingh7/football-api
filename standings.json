@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 October 2025, 05:38 PM UTC",
-        "IST": "Sunday, 26 October 2025, 11:08 PM IST"
+        "UTC": "Sunday, 26 October 2025, 06:27 PM UTC",
+        "IST": "Sunday, 26 October 2025, 11:57 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -32,7 +32,7 @@
                 "Wins": "5",
                 "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "9",
+                "Goal Difference": "10",
                 "Points": "17"
             },
             {
@@ -142,7 +142,7 @@
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "11"
             },
             {
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Osasuna",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "5",
+                "Goal Difference": "-1",
+                "Points": "13"
+            },
+            {
+                "Position": "12",
                 "Team": "Alav\u00e9s",
                 "Played": "9",
                 "Wins": "3",
@@ -318,23 +328,13 @@
                 "Points": "12"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Rayo Vallecano",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "1",
-                "Points": "11"
-            },
-            {
-                "Position": "13",
-                "Team": "Osasuna",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-2",
                 "Points": "11"
             },
             {
@@ -382,10 +382,10 @@
                 "Team": "Celta de Vigo",
                 "Played": "10",
                 "Wins": "0",
-                "Draws": "8",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "8"
+                "Draws": "7",
+                "Losses": "3",
+                "Goal Difference": "-4",
+                "Points": "7"
             },
             {
                 "Position": "19",
@@ -431,6 +431,16 @@
             },
             {
                 "Position": "3",
+                "Team": "VfB Stuttgart",
+                "Played": "8",
+                "Wins": "6",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "18"
+            },
+            {
+                "Position": "4",
                 "Team": "Borussia Dortmund",
                 "Played": "8",
                 "Wins": "5",
@@ -440,7 +450,7 @@
                 "Points": "17"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Bayer Leverkusen",
                 "Played": "8",
                 "Wins": "5",
@@ -448,16 +458,6 @@
                 "Losses": "1",
                 "Goal Difference": "7",
                 "Points": "17"
-            },
-            {
-                "Position": "5",
-                "Team": "VfB Stuttgart",
-                "Played": "8",
-                "Wins": "5",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "5",
-                "Points": "16"
             },
             {
                 "Position": "6",
@@ -564,10 +564,10 @@
                 "Team": "Mainz 05",
                 "Played": "8",
                 "Wins": "1",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-6",
-                "Points": "5"
+                "Draws": "1",
+                "Losses": "6",
+                "Goal Difference": "-7",
+                "Points": "4"
             },
             {
                 "Position": "17",
@@ -628,7 +628,7 @@
                 "Wins": "5",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "16"
             },
             {
@@ -778,7 +778,7 @@
                 "Wins": "0",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "3"
             },
             {
@@ -870,7 +870,7 @@
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "3",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "14"
             },
             {
@@ -890,7 +890,7 @@
                 "Wins": "2",
                 "Draws": "5",
                 "Losses": "2",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "11"
             },
             {
@@ -2073,6 +2073,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Sporting CP",
+                "Played": "9",
+                "Wins": "7",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "16",
+                "Points": "22"
+            },
+            {
+                "Position": "3",
                 "Team": "Benfica",
                 "Played": "9",
                 "Wins": "6",
@@ -2080,16 +2090,6 @@
                 "Losses": "0",
                 "Goal Difference": "14",
                 "Points": "21"
-            },
-            {
-                "Position": "3",
-                "Team": "Sporting CP",
-                "Played": "8",
-                "Wins": "6",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "15",
-                "Points": "19"
             },
             {
                 "Position": "4",
@@ -2224,11 +2224,11 @@
             {
                 "Position": "17",
                 "Team": "Tondela",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "1",
                 "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-10",
+                "Losses": "6",
+                "Goal Difference": "-11",
                 "Points": "5"
             },
             {
