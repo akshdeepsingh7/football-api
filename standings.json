@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 October 2025, 11:37 PM UTC",
-        "IST": "Sunday, 26 October 2025, 05:07 AM IST"
+        "UTC": "Sunday, 26 October 2025, 01:41 AM UTC",
+        "IST": "Sunday, 26 October 2025, 07:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3264,11 +3264,11 @@
             {
                 "Position": "5",
                 "Team": "Bahia",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "14",
                 "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "8",
+                "Losses": "9",
+                "Goal Difference": "6",
                 "Points": "49"
             },
             {
@@ -3293,6 +3293,16 @@
             },
             {
                 "Position": "8",
+                "Team": "S\u00e3o Paulo",
+                "Played": "30",
+                "Wins": "11",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "0",
+                "Points": "41"
+            },
+            {
+                "Position": "9",
                 "Team": "Vasco da Gama",
                 "Played": "29",
                 "Wins": "11",
@@ -3302,7 +3312,7 @@
                 "Points": "39"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Corinthians",
                 "Played": "30",
                 "Wins": "10",
@@ -3310,16 +3320,6 @@
                 "Losses": "11",
                 "Goal Difference": "-3",
                 "Points": "39"
-            },
-            {
-                "Position": "10",
-                "Team": "S\u00e3o Paulo",
-                "Played": "29",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-2",
-                "Points": "38"
             },
             {
                 "Position": "11",
