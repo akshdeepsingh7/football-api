@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 October 2025, 08:40 PM UTC (Monday, 27 October 2025, 02:10 AM IST)
+**Last Updated:** Sunday, 26 October 2025, 09:16 PM UTC (Monday, 27 October 2025, 02:46 AM IST)
 
 ### Premier League
 
@@ -441,7 +441,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | São Paulo | 30 | 11 | 8 | 11 | 0 | 41 |
 | 9 | Vasco da Gama | 29 | 11 | 6 | 12 | 5 | 39 |
 | 10 | Corinthians | 30 | 10 | 9 | 11 | -3 | 39 |
-| 11 | Grêmio | 30 | 10 | 9 | 11 | -4 | 39 |
+| 11 | Grêmio | 30 | 10 | 9 | 11 | -5 | 39 |
 | 12 | RB Bragantino | 29 | 10 | 6 | 13 | -10 | 36 |
 | 13 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
 | 14 | Ceará | 29 | 9 | 8 | 12 | -1 | 35 |
@@ -449,7 +449,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Santos | 29 | 8 | 8 | 13 | -12 | 32 |
 | 17 | Vitória | 30 | 7 | 10 | 13 | -17 | 31 |
 | 18 | Fortaleza | 29 | 7 | 6 | 16 | -17 | 27 |
-| 19 | Juventude | 30 | 7 | 5 | 18 | -33 | 26 |
+| 19 | Juventude | 30 | 7 | 5 | 18 | -32 | 26 |
 | 20 | Sport | 29 | 2 | 11 | 16 | -24 | 17 |
 
 
