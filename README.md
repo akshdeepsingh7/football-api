@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 27 October 2025, 07:37 PM UTC (Tuesday, 28 October 2025, 01:07 AM IST)
+**Last Updated:** Monday, 27 October 2025, 08:19 PM UTC (Tuesday, 28 October 2025, 01:49 AM IST)
 
 ### Premier League
 
@@ -75,9 +75,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Real Madrid | 10 | 9 | 0 | 1 | 12 | 27 |
 | 2 | Barcelona | 10 | 7 | 1 | 2 | 13 | 22 |
 | 3 | Villarreal | 10 | 6 | 2 | 2 | 8 | 20 |
-| 4 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
-| 5 | Atlético de Madrid | 9 | 4 | 4 | 1 | 6 | 16 |
-| 6 | Real Betis | 9 | 4 | 4 | 1 | 5 | 16 |
+| 4 | Atlético de Madrid | 10 | 5 | 4 | 1 | 7 | 19 |
+| 5 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
+| 6 | Real Betis | 10 | 4 | 4 | 2 | 4 | 16 |
 | 7 | Rayo Vallecano | 10 | 4 | 2 | 4 | 2 | 14 |
 | 8 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
 | 9 | Athletic Bilbao | 10 | 4 | 2 | 4 | -1 | 14 |
@@ -291,12 +291,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 8 | 7 | 1 | 0 | 18 | 22 |
+| 1 | Porto | 9 | 7 | 2 | 0 | 18 | 23 |
 | 2 | Sporting CP | 9 | 7 | 1 | 1 | 18 | 22 |
 | 3 | Benfica | 9 | 6 | 3 | 0 | 14 | 21 |
 | 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Famalicão | 9 | 4 | 4 | 1 | 6 | 16 |
-| 6 | Moreirense | 8 | 5 | 0 | 3 | 1 | 15 |
+| 6 | Moreirense | 9 | 5 | 1 | 3 | 1 | 16 |
 | 7 | Braga | 9 | 3 | 4 | 2 | 8 | 13 |
 | 8 | Vitória S.C. | 9 | 3 | 2 | 4 | -5 | 11 |
 | 9 | Rio Ave | 9 | 2 | 5 | 2 | -1 | 11 |
@@ -397,15 +397,15 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Córdoba SdE | 13 | 5 | 6 | 2 | 6 | 21 |
-| 2 | Barracas | 13 | 5 | 6 | 2 | 3 | 21 |
-| 3 | Estudiantes | 13 | 6 | 3 | 4 | 2 | 21 |
-| 4 | Unión | 13 | 5 | 5 | 3 | 6 | 20 |
+| 2 | Estudiantes | 13 | 6 | 3 | 4 | 2 | 21 |
+| 3 | Unión | 13 | 5 | 5 | 3 | 6 | 20 |
+| 4 | Barracas | 13 | 4 | 7 | 2 | 2 | 19 |
 | 5 | Def y Justicia | 13 | 5 | 4 | 4 | 0 | 19 |
-| 6 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
-| 7 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
-| 8 | Tigre | 13 | 4 | 6 | 3 | 2 | 18 |
-| 9 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
-| 10 | Boca Juniors | 13 | 4 | 5 | 4 | 8 | 17 |
+| 6 | Boca Juniors | 13 | 4 | 6 | 3 | 9 | 18 |
+| 7 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
+| 8 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
+| 9 | Tigre | 13 | 4 | 6 | 3 | 2 | 18 |
+| 10 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
 | 11 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
 | 12 | Huracán | 13 | 4 | 4 | 5 | -5 | 16 |
 | 13 | Independiente Rivadavia | 13 | 2 | 6 | 5 | -3 | 12 |
