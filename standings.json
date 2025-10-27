@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 27 October 2025, 09:38 PM UTC",
-        "IST": "Tuesday, 28 October 2025, 03:08 AM IST"
+        "UTC": "Monday, 27 October 2025, 10:18 PM UTC",
+        "IST": "Tuesday, 28 October 2025, 03:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2065,11 +2065,11 @@
                 "Position": "1",
                 "Team": "Porto",
                 "Played": "9",
-                "Wins": "7",
-                "Draws": "2",
+                "Wins": "8",
+                "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "18",
-                "Points": "23"
+                "Goal Difference": "19",
+                "Points": "25"
             },
             {
                 "Position": "2",
@@ -2116,10 +2116,10 @@
                 "Team": "Moreirense",
                 "Played": "9",
                 "Wins": "5",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "1",
-                "Points": "16"
+                "Draws": "0",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "15"
             },
             {
                 "Position": "7",
