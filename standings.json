@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 27 October 2025, 08:19 PM UTC",
-        "IST": "Tuesday, 28 October 2025, 01:49 AM IST"
+        "UTC": "Monday, 27 October 2025, 08:40 PM UTC",
+        "IST": "Tuesday, 28 October 2025, 02:10 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2066,10 +2066,10 @@
                 "Team": "Porto",
                 "Played": "9",
                 "Wins": "7",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "18",
-                "Points": "23"
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "17",
+                "Points": "22"
             },
             {
                 "Position": "2",
@@ -2103,22 +2103,22 @@
             },
             {
                 "Position": "5",
+                "Team": "Moreirense",
+                "Played": "9",
+                "Wins": "6",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "18"
+            },
+            {
+                "Position": "6",
                 "Team": "Famalic\u00e3o",
                 "Played": "9",
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "6",
-                "Points": "16"
-            },
-            {
-                "Position": "6",
-                "Team": "Moreirense",
-                "Played": "9",
-                "Wins": "5",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "1",
                 "Points": "16"
             },
             {
@@ -2941,6 +2941,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Boca Juniors",
+                "Played": "13",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "3",
+                "Goal Difference": "11",
+                "Points": "20"
+            },
+            {
+                "Position": "4",
                 "Team": "Uni\u00f3n",
                 "Played": "13",
                 "Wins": "5",
@@ -2948,16 +2958,6 @@
                 "Losses": "3",
                 "Goal Difference": "6",
                 "Points": "20"
-            },
-            {
-                "Position": "4",
-                "Team": "Barracas",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "19"
             },
             {
                 "Position": "5",
@@ -2971,16 +2971,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Boca Juniors",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "9",
-                "Points": "18"
-            },
-            {
-                "Position": "7",
                 "Team": "Argentinos Juniors",
                 "Played": "13",
                 "Wins": "5",
@@ -2990,7 +2980,7 @@
                 "Points": "18"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Belgrano",
                 "Played": "13",
                 "Wins": "4",
@@ -3000,7 +2990,7 @@
                 "Points": "18"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Tigre",
                 "Played": "13",
                 "Wins": "4",
@@ -3010,13 +3000,23 @@
                 "Points": "18"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Racing Club",
                 "Played": "13",
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "1",
+                "Points": "18"
+            },
+            {
+                "Position": "10",
+                "Team": "Barracas",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "0",
                 "Points": "18"
             },
             {
