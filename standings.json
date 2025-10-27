@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 27 October 2025, 06:51 PM UTC",
-        "IST": "Tuesday, 28 October 2025, 12:21 AM IST"
+        "UTC": "Monday, 27 October 2025, 07:16 PM UTC",
+        "IST": "Tuesday, 28 October 2025, 12:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2951,6 +2951,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Barracas",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "19"
+            },
+            {
+                "Position": "5",
                 "Team": "Def y Justicia",
                 "Played": "13",
                 "Wins": "5",
@@ -2960,7 +2970,17 @@
                 "Points": "19"
             },
             {
-                "Position": "5",
+                "Position": "6",
+                "Team": "Boca Juniors",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "9",
+                "Points": "18"
+            },
+            {
+                "Position": "7",
                 "Team": "Argentinos Juniors",
                 "Played": "13",
                 "Wins": "5",
@@ -2970,7 +2990,7 @@
                 "Points": "18"
             },
             {
-                "Position": "6",
+                "Position": "8",
                 "Team": "Belgrano",
                 "Played": "13",
                 "Wins": "4",
@@ -2980,17 +3000,7 @@
                 "Points": "18"
             },
             {
-                "Position": "7",
-                "Team": "Barracas",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "18"
-            },
-            {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Tigre",
                 "Played": "13",
                 "Wins": "4",
@@ -3000,7 +3010,7 @@
                 "Points": "18"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Racing Club",
                 "Played": "13",
                 "Wins": "5",
@@ -3008,16 +3018,6 @@
                 "Losses": "5",
                 "Goal Difference": "1",
                 "Points": "18"
-            },
-            {
-                "Position": "10",
-                "Team": "Boca Juniors",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "9",
-                "Points": "17"
             },
             {
                 "Position": "11",
