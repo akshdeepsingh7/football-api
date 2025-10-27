@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 27 October 2025, 07:16 PM UTC (Tuesday, 28 October 2025, 12:46 AM IST)
+**Last Updated:** Monday, 27 October 2025, 07:37 PM UTC (Tuesday, 28 October 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -397,15 +397,15 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Córdoba SdE | 13 | 5 | 6 | 2 | 6 | 21 |
-| 2 | Estudiantes | 13 | 6 | 3 | 4 | 2 | 21 |
-| 3 | Unión | 13 | 5 | 5 | 3 | 6 | 20 |
-| 4 | Barracas | 13 | 4 | 7 | 2 | 2 | 19 |
+| 2 | Barracas | 13 | 5 | 6 | 2 | 3 | 21 |
+| 3 | Estudiantes | 13 | 6 | 3 | 4 | 2 | 21 |
+| 4 | Unión | 13 | 5 | 5 | 3 | 6 | 20 |
 | 5 | Def y Justicia | 13 | 5 | 4 | 4 | 0 | 19 |
-| 6 | Boca Juniors | 13 | 4 | 6 | 3 | 9 | 18 |
-| 7 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
-| 8 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
-| 9 | Tigre | 13 | 4 | 6 | 3 | 2 | 18 |
-| 10 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
+| 6 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
+| 7 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
+| 8 | Tigre | 13 | 4 | 6 | 3 | 2 | 18 |
+| 9 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
+| 10 | Boca Juniors | 13 | 4 | 5 | 4 | 8 | 17 |
 | 11 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
 | 12 | Huracán | 13 | 4 | 4 | 5 | -5 | 16 |
 | 13 | Independiente Rivadavia | 13 | 2 | 6 | 5 | -3 | 12 |
