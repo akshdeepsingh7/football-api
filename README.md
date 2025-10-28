@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 28 October 2025, 06:31 PM UTC (Wednesday, 29 October 2025, 12:01 AM IST)
+**Last Updated:** Tuesday, 28 October 2025, 07:16 PM UTC (Wednesday, 29 October 2025, 12:46 AM IST)
 
 ### Premier League
 
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Napoli | 9 | 6 | 1 | 2 | 7 | 19 |
+| 1 | Napoli | 9 | 7 | 0 | 2 | 8 | 21 |
 | 2 | Roma | 8 | 6 | 0 | 2 | 5 | 18 |
 | 3 | Milan | 8 | 5 | 2 | 1 | 7 | 17 |
 | 4 | Inter | 8 | 5 | 0 | 3 | 8 | 15 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Sassuolo | 8 | 3 | 1 | 4 | -1 | 10 |
 | 14 | Cagliari | 8 | 2 | 3 | 3 | -2 | 9 |
 | 15 | Parma | 8 | 1 | 4 | 3 | -4 | 7 |
-| 16 | Lecce | 9 | 1 | 4 | 4 | -6 | 7 |
+| 16 | Lecce | 9 | 1 | 3 | 5 | -7 | 6 |
 | 17 | Hellas Verona | 8 | 0 | 5 | 3 | -7 | 5 |
 | 18 | Fiorentina | 8 | 0 | 4 | 4 | -5 | 4 |
 | 19 | Pisa | 8 | 0 | 4 | 4 | -7 | 4 |
