@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 28 October 2025, 07:37 PM UTC (Wednesday, 29 October 2025, 01:07 AM IST)
+**Last Updated:** Tuesday, 28 October 2025, 08:23 PM UTC (Wednesday, 29 October 2025, 01:53 AM IST)
 
 ### Premier League
 
@@ -122,11 +122,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Napoli | 9 | 7 | 0 | 2 | 8 | 21 |
 | 2 | Roma | 8 | 6 | 0 | 2 | 5 | 18 |
-| 3 | Milan | 8 | 5 | 2 | 1 | 7 | 17 |
+| 3 | Milan | 9 | 5 | 3 | 1 | 7 | 18 |
 | 4 | Inter | 8 | 5 | 0 | 3 | 8 | 15 |
 | 5 | Bologna | 8 | 4 | 2 | 2 | 6 | 14 |
 | 6 | Como | 8 | 3 | 4 | 1 | 4 | 13 |
-| 7 | Atalanta | 8 | 2 | 6 | 0 | 6 | 12 |
+| 7 | Atalanta | 9 | 2 | 7 | 0 | 6 | 13 |
 | 8 | Juventus | 8 | 3 | 3 | 2 | 1 | 12 |
 | 9 | Udinese | 8 | 3 | 3 | 2 | -2 | 12 |
 | 10 | Lazio | 8 | 3 | 2 | 3 | 4 | 11 |
