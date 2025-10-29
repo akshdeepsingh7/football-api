@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 29 October 2025, 06:30 PM UTC",
-        "IST": "Thursday, 30 October 2025, 12:00 AM IST"
+        "UTC": "Wednesday, 29 October 2025, 07:16 PM UTC",
+        "IST": "Thursday, 30 October 2025, 12:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -605,11 +605,11 @@
                 "Position": "2",
                 "Team": "Roma",
                 "Played": "9",
-                "Wins": "6",
-                "Draws": "1",
+                "Wins": "7",
+                "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "5",
-                "Points": "19"
+                "Goal Difference": "7",
+                "Points": "21"
             },
             {
                 "Position": "3",
@@ -623,6 +623,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Como",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "5",
+                "Points": "16"
+            },
+            {
+                "Position": "5",
                 "Team": "Inter",
                 "Played": "8",
                 "Wins": "5",
@@ -632,7 +642,17 @@
                 "Points": "15"
             },
             {
-                "Position": "5",
+                "Position": "6",
+                "Team": "Juventus",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "15"
+            },
+            {
+                "Position": "7",
                 "Team": "Bologna",
                 "Played": "8",
                 "Wins": "4",
@@ -642,17 +662,7 @@
                 "Points": "14"
             },
             {
-                "Position": "6",
-                "Team": "Como",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "4",
-                "Points": "14"
-            },
-            {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Atalanta",
                 "Played": "9",
                 "Wins": "2",
@@ -662,24 +672,14 @@
                 "Points": "13"
             },
             {
-                "Position": "8",
-                "Team": "Juventus",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "13"
-            },
-            {
                 "Position": "9",
                 "Team": "Udinese",
                 "Played": "9",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "13"
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "12"
             },
             {
                 "Position": "10",
@@ -736,10 +736,10 @@
                 "Team": "Parma",
                 "Played": "9",
                 "Wins": "1",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "8"
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-6",
+                "Points": "7"
             },
             {
                 "Position": "16",
@@ -756,10 +756,10 @@
                 "Team": "Hellas Verona",
                 "Played": "9",
                 "Wins": "0",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "-7",
-                "Points": "6"
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "-8",
+                "Points": "5"
             },
             {
                 "Position": "18",
