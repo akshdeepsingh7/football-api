@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 29 October 2025, 05:42 PM UTC (Wednesday, 29 October 2025, 11:12 PM IST)
+**Last Updated:** Wednesday, 29 October 2025, 06:30 PM UTC (Thursday, 30 October 2025, 12:00 AM IST)
 
 ### Premier League
 
@@ -124,11 +124,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Roma | 9 | 6 | 1 | 2 | 5 | 19 |
 | 3 | Milan | 9 | 5 | 3 | 1 | 7 | 18 |
 | 4 | Inter | 8 | 5 | 0 | 3 | 8 | 15 |
-| 5 | Juventus | 9 | 4 | 3 | 2 | 2 | 15 |
-| 6 | Bologna | 8 | 4 | 2 | 2 | 6 | 14 |
-| 7 | Como | 9 | 3 | 5 | 1 | 4 | 14 |
-| 8 | Atalanta | 9 | 2 | 7 | 0 | 6 | 13 |
-| 9 | Udinese | 9 | 3 | 3 | 3 | -3 | 12 |
+| 5 | Bologna | 8 | 4 | 2 | 2 | 6 | 14 |
+| 6 | Como | 9 | 3 | 5 | 1 | 4 | 14 |
+| 7 | Atalanta | 9 | 2 | 7 | 0 | 6 | 13 |
+| 8 | Juventus | 9 | 3 | 4 | 2 | 1 | 13 |
+| 9 | Udinese | 9 | 3 | 4 | 2 | -2 | 13 |
 | 10 | Lazio | 8 | 3 | 2 | 3 | 4 | 11 |
 | 11 | Cremonese | 8 | 2 | 5 | 1 | -1 | 11 |
 | 12 | Torino | 8 | 3 | 2 | 3 | -6 | 11 |
@@ -145,24 +145,24 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 9 | 6 | 2 | 1 | 11 | 20 |
-| 2 | Lens | 9 | 6 | 1 | 2 | 6 | 19 |
+| 1 | PSG | 10 | 6 | 3 | 1 | 11 | 21 |
+| 2 | Lens | 10 | 6 | 2 | 2 | 6 | 20 |
 | 3 | Marseille | 9 | 6 | 0 | 3 | 13 | 18 |
 | 4 | Lyon | 9 | 6 | 0 | 3 | 4 | 18 |
-| 5 | Lille | 9 | 5 | 2 | 2 | 11 | 17 |
+| 5 | Lille | 10 | 5 | 2 | 3 | 10 | 17 |
 | 6 | Monaco | 9 | 5 | 2 | 2 | 5 | 17 |
-| 7 | Strasbourg | 9 | 5 | 1 | 3 | 6 | 16 |
-| 8 | Nice | 9 | 4 | 2 | 3 | -1 | 14 |
+| 7 | Nice | 10 | 5 | 2 | 3 | 0 | 17 |
+| 8 | Strasbourg | 9 | 5 | 1 | 3 | 6 | 16 |
 | 9 | Toulouse | 9 | 4 | 1 | 4 | 2 | 13 |
 | 10 | Rennes | 9 | 2 | 5 | 2 | -2 | 11 |
 | 11 | Paris FC | 9 | 3 | 1 | 5 | -3 | 10 |
-| 12 | Brest | 9 | 2 | 3 | 4 | -3 | 9 |
-| 13 | Nantes | 9 | 2 | 3 | 4 | -3 | 9 |
-| 14 | Le Havre | 9 | 2 | 3 | 4 | -5 | 9 |
+| 12 | Brest | 10 | 2 | 4 | 4 | -3 | 10 |
+| 13 | Le Havre | 10 | 2 | 4 | 4 | -5 | 10 |
+| 14 | Nantes | 9 | 2 | 3 | 4 | -3 | 9 |
 | 15 | Angers | 9 | 2 | 3 | 4 | -6 | 9 |
-| 16 | Lorient | 9 | 2 | 2 | 5 | -9 | 8 |
+| 16 | Lorient | 10 | 2 | 3 | 5 | -9 | 9 |
 | 17 | Auxerre | 9 | 2 | 1 | 6 | -6 | 7 |
-| 18 | Metz | 9 | 0 | 2 | 7 | -20 | 2 |
+| 18 | Metz | 10 | 0 | 3 | 7 | -20 | 3 |
 
 ### Champions League
 
