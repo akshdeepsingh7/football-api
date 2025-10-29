@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 29 October 2025, 05:19 PM UTC",
-        "IST": "Wednesday, 29 October 2025, 10:49 PM IST"
+        "UTC": "Wednesday, 29 October 2025, 05:42 PM UTC",
+        "IST": "Wednesday, 29 October 2025, 11:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -604,12 +604,12 @@
             {
                 "Position": "2",
                 "Team": "Roma",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "6",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "5",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "3",
@@ -633,6 +633,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Juventus",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "15"
+            },
+            {
+                "Position": "6",
                 "Team": "Bologna",
                 "Played": "8",
                 "Wins": "4",
@@ -642,17 +652,17 @@
                 "Points": "14"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Como",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "4",
-                "Points": "13"
+                "Points": "14"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Atalanta",
                 "Played": "9",
                 "Wins": "2",
@@ -662,23 +672,13 @@
                 "Points": "13"
             },
             {
-                "Position": "8",
-                "Team": "Juventus",
-                "Played": "8",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "12"
-            },
-            {
                 "Position": "9",
                 "Team": "Udinese",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "3",
                 "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-2",
+                "Losses": "3",
+                "Goal Difference": "-3",
                 "Points": "12"
             },
             {
@@ -734,12 +734,12 @@
             {
                 "Position": "15",
                 "Team": "Parma",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "1",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "-4",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "16",
@@ -754,12 +754,12 @@
             {
                 "Position": "17",
                 "Team": "Hellas Verona",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "0",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "3",
                 "Goal Difference": "-7",
-                "Points": "5"
+                "Points": "6"
             },
             {
                 "Position": "18",
