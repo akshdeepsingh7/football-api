@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 29 October 2025, 08:23 PM UTC",
-        "IST": "Thursday, 30 October 2025, 01:53 AM IST"
+        "UTC": "Wednesday, 29 October 2025, 08:42 PM UTC",
+        "IST": "Thursday, 30 October 2025, 02:12 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -815,26 +815,6 @@
             },
             {
                 "Position": "3",
-                "Team": "Monaco",
-                "Played": "10",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "6",
-                "Points": "20"
-            },
-            {
-                "Position": "4",
-                "Team": "Marseille",
-                "Played": "10",
-                "Wins": "6",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "13",
-                "Points": "19"
-            },
-            {
-                "Position": "5",
                 "Team": "Lens",
                 "Played": "10",
                 "Wins": "6",
@@ -842,6 +822,26 @@
                 "Losses": "3",
                 "Goal Difference": "4",
                 "Points": "19"
+            },
+            {
+                "Position": "4",
+                "Team": "Marseille",
+                "Played": "10",
+                "Wins": "6",
+                "Draws": "0",
+                "Losses": "4",
+                "Goal Difference": "12",
+                "Points": "18"
+            },
+            {
+                "Position": "5",
+                "Team": "Monaco",
+                "Played": "10",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "5",
+                "Points": "18"
             },
             {
                 "Position": "6",
@@ -905,6 +905,26 @@
             },
             {
                 "Position": "12",
+                "Team": "Angers",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "12"
+            },
+            {
+                "Position": "13",
+                "Team": "Nantes",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "10"
+            },
+            {
+                "Position": "14",
                 "Team": "Paris FC",
                 "Played": "10",
                 "Wins": "3",
@@ -914,28 +934,8 @@
                 "Points": "10"
             },
             {
-                "Position": "13",
-                "Team": "Angers",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-6",
-                "Points": "10"
-            },
-            {
-                "Position": "14",
-                "Team": "Brest",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-4",
-                "Points": "9"
-            },
-            {
                 "Position": "15",
-                "Team": "Nantes",
+                "Team": "Brest",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "3",
