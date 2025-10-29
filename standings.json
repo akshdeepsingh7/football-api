@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 29 October 2025, 07:16 PM UTC",
-        "IST": "Thursday, 30 October 2025, 12:46 AM IST"
+        "UTC": "Wednesday, 29 October 2025, 07:37 PM UTC",
+        "IST": "Thursday, 30 October 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -608,7 +608,7 @@
                 "Wins": "7",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "7",
+                "Goal Difference": "6",
                 "Points": "21"
             },
             {
@@ -628,7 +628,7 @@
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "5",
+                "Goal Difference": "6",
                 "Points": "16"
             },
             {
@@ -648,7 +648,7 @@
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "2",
+                "Goal Difference": "3",
                 "Points": "15"
             },
             {
@@ -678,7 +678,7 @@
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "12"
             },
             {
@@ -738,7 +738,7 @@
                 "Wins": "1",
                 "Draws": "4",
                 "Losses": "4",
-                "Goal Difference": "-6",
+                "Goal Difference": "-5",
                 "Points": "7"
             },
             {
@@ -758,7 +758,7 @@
                 "Wins": "0",
                 "Draws": "5",
                 "Losses": "4",
-                "Goal Difference": "-8",
+                "Goal Difference": "-9",
                 "Points": "5"
             },
             {
@@ -885,6 +885,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Le Havre",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "12"
+            },
+            {
+                "Position": "11",
                 "Team": "Rennes",
                 "Played": "9",
                 "Wins": "2",
@@ -894,7 +904,7 @@
                 "Points": "11"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Paris FC",
                 "Played": "9",
                 "Wins": "3",
@@ -904,33 +914,23 @@
                 "Points": "10"
             },
             {
-                "Position": "12",
-                "Team": "Brest",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "10"
-            },
-            {
                 "Position": "13",
-                "Team": "Le Havre",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "10"
-            },
-            {
-                "Position": "14",
                 "Team": "Nantes",
                 "Played": "9",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-3",
+                "Points": "9"
+            },
+            {
+                "Position": "14",
+                "Team": "Brest",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-4",
                 "Points": "9"
             },
             {
