@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 29 October 2025, 09:39 PM UTC (Thursday, 30 October 2025, 03:09 AM IST)
+**Last Updated:** Wednesday, 29 October 2025, 10:19 PM UTC (Thursday, 30 October 2025, 03:49 AM IST)
 
 ### Premier League
 
@@ -145,21 +145,21 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Marseille | 10 | 7 | 0 | 3 | 14 | 21 |
-| 2 | PSG | 10 | 6 | 3 | 1 | 11 | 21 |
-| 3 | Lyon | 10 | 7 | 0 | 3 | 6 | 21 |
-| 4 | Monaco | 10 | 6 | 2 | 2 | 6 | 20 |
-| 5 | Strasbourg | 10 | 6 | 1 | 3 | 9 | 19 |
+| 1 | PSG | 10 | 6 | 3 | 1 | 11 | 21 |
+| 2 | Monaco | 10 | 6 | 2 | 2 | 7 | 20 |
+| 3 | Marseille | 10 | 6 | 1 | 3 | 13 | 19 |
+| 4 | Strasbourg | 10 | 6 | 1 | 3 | 9 | 19 |
+| 5 | Lyon | 10 | 6 | 1 | 3 | 4 | 19 |
 | 6 | Lens | 10 | 6 | 1 | 3 | 4 | 19 |
 | 7 | Lille | 10 | 5 | 2 | 3 | 9 | 17 |
 | 8 | Nice | 10 | 5 | 2 | 3 | 1 | 17 |
-| 9 | Rennes | 10 | 3 | 5 | 2 | -1 | 14 |
-| 10 | Toulouse | 10 | 4 | 1 | 5 | 1 | 13 |
+| 9 | Toulouse | 10 | 4 | 2 | 4 | 2 | 14 |
+| 10 | Rennes | 10 | 2 | 6 | 2 | -2 | 12 |
 | 11 | Le Havre | 10 | 3 | 3 | 4 | -4 | 12 |
-| 12 | Paris FC | 10 | 3 | 1 | 6 | -5 | 10 |
-| 13 | Brest | 10 | 2 | 3 | 5 | -4 | 9 |
-| 14 | Nantes | 10 | 2 | 3 | 5 | -4 | 9 |
-| 15 | Angers | 10 | 2 | 3 | 5 | -7 | 9 |
+| 12 | Paris FC | 10 | 3 | 2 | 5 | -3 | 11 |
+| 13 | Angers | 10 | 2 | 4 | 4 | -6 | 10 |
+| 14 | Brest | 10 | 2 | 3 | 5 | -4 | 9 |
+| 15 | Nantes | 10 | 2 | 3 | 5 | -5 | 9 |
 | 16 | Lorient | 10 | 2 | 3 | 5 | -9 | 9 |
 | 17 | Auxerre | 10 | 2 | 1 | 7 | -9 | 7 |
 | 18 | Metz | 10 | 1 | 2 | 7 | -18 | 5 |
@@ -437,14 +437,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Mirassol | 30 | 15 | 10 | 5 | 21 | 55 |
 | 5 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
 | 6 | Botafogo | 30 | 13 | 8 | 9 | 13 | 47 |
-| 7 | Fluminense | 29 | 13 | 5 | 11 | 1 | 44 |
+| 7 | Fluminense | 30 | 13 | 6 | 11 | 1 | 45 |
 | 8 | Vasco da Gama | 30 | 12 | 6 | 12 | 8 | 42 |
 | 9 | São Paulo | 30 | 11 | 8 | 11 | 0 | 41 |
 | 10 | Corinthians | 30 | 10 | 9 | 11 | -3 | 39 |
 | 11 | Grêmio | 30 | 10 | 9 | 11 | -5 | 39 |
 | 12 | RB Bragantino | 30 | 10 | 6 | 14 | -13 | 36 |
-| 13 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
-| 14 | Ceará | 29 | 9 | 8 | 12 | -1 | 35 |
+| 13 | Ceará | 30 | 9 | 9 | 12 | -1 | 36 |
+| 14 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
 | 15 | Internacional | 30 | 9 | 8 | 13 | -8 | 35 |
 | 16 | Santos | 29 | 8 | 8 | 13 | -12 | 32 |
 | 17 | Vitória | 30 | 7 | 10 | 13 | -17 | 31 |
