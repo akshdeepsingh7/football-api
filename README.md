@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 29 October 2025, 10:19 PM UTC (Thursday, 30 October 2025, 03:49 AM IST)
+**Last Updated:** Wednesday, 29 October 2025, 10:42 PM UTC (Thursday, 30 October 2025, 04:12 AM IST)
 
 ### Premier League
 
@@ -436,15 +436,15 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Cruzeiro | 30 | 16 | 9 | 5 | 21 | 57 |
 | 4 | Mirassol | 30 | 15 | 10 | 5 | 21 | 55 |
 | 5 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
-| 6 | Botafogo | 30 | 13 | 8 | 9 | 13 | 47 |
-| 7 | Fluminense | 30 | 13 | 6 | 11 | 1 | 45 |
+| 6 | Fluminense | 30 | 14 | 5 | 11 | 2 | 47 |
+| 7 | Botafogo | 30 | 13 | 8 | 9 | 13 | 47 |
 | 8 | Vasco da Gama | 30 | 12 | 6 | 12 | 8 | 42 |
 | 9 | São Paulo | 30 | 11 | 8 | 11 | 0 | 41 |
 | 10 | Corinthians | 30 | 10 | 9 | 11 | -3 | 39 |
 | 11 | Grêmio | 30 | 10 | 9 | 11 | -5 | 39 |
 | 12 | RB Bragantino | 30 | 10 | 6 | 14 | -13 | 36 |
-| 13 | Ceará | 30 | 9 | 9 | 12 | -1 | 36 |
-| 14 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
+| 13 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
+| 14 | Ceará | 30 | 9 | 8 | 13 | -2 | 35 |
 | 15 | Internacional | 30 | 9 | 8 | 13 | -8 | 35 |
 | 16 | Santos | 29 | 8 | 8 | 13 | -12 | 32 |
 | 17 | Vitória | 30 | 7 | 10 | 13 | -17 | 31 |

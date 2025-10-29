@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 29 October 2025, 10:19 PM UTC",
-        "IST": "Thursday, 30 October 2025, 03:49 AM IST"
+        "UTC": "Wednesday, 29 October 2025, 10:42 PM UTC",
+        "IST": "Thursday, 30 October 2025, 04:12 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3273,6 +3273,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Fluminense",
+                "Played": "30",
+                "Wins": "14",
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "2",
+                "Points": "47"
+            },
+            {
+                "Position": "7",
                 "Team": "Botafogo",
                 "Played": "30",
                 "Wins": "13",
@@ -3280,16 +3290,6 @@
                 "Losses": "9",
                 "Goal Difference": "13",
                 "Points": "47"
-            },
-            {
-                "Position": "7",
-                "Team": "Fluminense",
-                "Played": "30",
-                "Wins": "13",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "1",
-                "Points": "45"
             },
             {
                 "Position": "8",
@@ -3343,16 +3343,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Cear\u00e1",
-                "Played": "30",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-1",
-                "Points": "36"
-            },
-            {
-                "Position": "14",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "29",
                 "Wins": "9",
@@ -3360,6 +3350,16 @@
                 "Losses": "11",
                 "Goal Difference": "-5",
                 "Points": "36"
+            },
+            {
+                "Position": "14",
+                "Team": "Cear\u00e1",
+                "Played": "30",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "-2",
+                "Points": "35"
             },
             {
                 "Position": "15",
