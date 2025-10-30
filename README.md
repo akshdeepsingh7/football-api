@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 30 October 2025, 05:18 PM UTC (Thursday, 30 October 2025, 10:48 PM IST)
+**Last Updated:** Thursday, 30 October 2025, 05:41 PM UTC (Thursday, 30 October 2025, 11:11 PM IST)
 
 ### Premier League
 
@@ -132,8 +132,8 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Udinese | 9 | 3 | 3 | 3 | -4 | 12 |
 | 11 | Torino | 9 | 3 | 3 | 3 | -6 | 12 |
 | 12 | Lazio | 8 | 3 | 2 | 3 | 4 | 11 |
-| 13 | Sassuolo | 8 | 3 | 1 | 4 | -1 | 10 |
-| 14 | Cagliari | 8 | 2 | 3 | 3 | -2 | 9 |
+| 13 | Sassuolo | 9 | 3 | 2 | 4 | -1 | 11 |
+| 14 | Cagliari | 9 | 2 | 4 | 3 | -2 | 10 |
 | 15 | Parma | 9 | 1 | 4 | 4 | -5 | 7 |
 | 16 | Lecce | 9 | 1 | 3 | 5 | -7 | 6 |
 | 17 | Hellas Verona | 9 | 0 | 5 | 4 | -9 | 5 |
