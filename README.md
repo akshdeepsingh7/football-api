@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 31 October 2025, 09:37 PM UTC (Saturday, 01 November 2025, 03:07 AM IST)
+**Last Updated:** Friday, 31 October 2025, 10:18 PM UTC (Saturday, 01 November 2025, 03:48 AM IST)
 
 ### Premier League
 
@@ -292,17 +292,17 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 9 | 8 | 1 | 0 | 19 | 25 |
-| 2 | Sporting CP | 10 | 7 | 2 | 1 | 18 | 23 |
+| 2 | Sporting CP | 10 | 8 | 1 | 1 | 20 | 25 |
 | 3 | Benfica | 9 | 6 | 3 | 0 | 14 | 21 |
 | 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Famalicão | 9 | 4 | 4 | 1 | 6 | 16 |
 | 6 | Moreirense | 9 | 5 | 0 | 4 | 0 | 15 |
 | 7 | Braga | 9 | 3 | 4 | 2 | 8 | 13 |
-| 8 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
-| 9 | Alverca | 10 | 3 | 2 | 5 | -5 | 11 |
-| 10 | Vitória S.C. | 9 | 3 | 2 | 4 | -5 | 11 |
-| 11 | Rio Ave | 9 | 2 | 5 | 2 | -1 | 11 |
-| 12 | Nacional | 9 | 3 | 2 | 4 | -3 | 11 |
+| 8 | Vitória S.C. | 9 | 3 | 2 | 4 | -5 | 11 |
+| 9 | Rio Ave | 9 | 2 | 5 | 2 | -1 | 11 |
+| 10 | Nacional | 9 | 3 | 2 | 4 | -3 | 11 |
+| 11 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
+| 12 | Alverca | 10 | 3 | 1 | 6 | -7 | 10 |
 | 13 | Arouca | 9 | 2 | 3 | 4 | -14 | 9 |
 | 14 | Casa Pia | 9 | 2 | 2 | 5 | -9 | 8 |
 | 15 | Estoril | 9 | 1 | 4 | 4 | -3 | 7 |
@@ -411,12 +411,12 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Independiente Rivadavia | 13 | 2 | 6 | 5 | -3 | 12 |
 | 14 | Newell's Old Boys | 13 | 2 | 5 | 6 | -10 | 11 |
 | 15 | Aldosivi | 13 | 2 | 3 | 8 | -10 | 9 |
-| 1 | Riestra | 13 | 8 | 3 | 2 | 9 | 27 |
+| 1 | Riestra | 14 | 8 | 4 | 2 | 9 | 28 |
 | 2 | Rosario | 13 | 7 | 6 | 0 | 9 | 27 |
 | 3 | Lanús | 13 | 8 | 2 | 3 | 6 | 26 |
 | 4 | Vélez | 13 | 7 | 4 | 2 | 10 | 25 |
 | 5 | River Plate | 13 | 6 | 3 | 4 | 8 | 21 |
-| 6 | San Lorenzo | 13 | 5 | 4 | 4 | 1 | 19 |
+| 6 | San Lorenzo | 14 | 5 | 5 | 4 | 1 | 20 |
 | 7 | San Martín SJ | 13 | 4 | 5 | 4 | -1 | 17 |
 | 8 | Atl. Tucumán | 13 | 4 | 3 | 6 | -1 | 15 |
 | 9 | Sarmiento | 13 | 4 | 3 | 6 | -5 | 15 |

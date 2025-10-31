@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 31 October 2025, 09:37 PM UTC",
-        "IST": "Saturday, 01 November 2025, 03:07 AM IST"
+        "UTC": "Friday, 31 October 2025, 10:18 PM UTC",
+        "IST": "Saturday, 01 November 2025, 03:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2075,11 +2075,11 @@
                 "Position": "2",
                 "Team": "Sporting CP",
                 "Played": "10",
-                "Wins": "7",
-                "Draws": "2",
+                "Wins": "8",
+                "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "18",
-                "Points": "23"
+                "Goal Difference": "20",
+                "Points": "25"
             },
             {
                 "Position": "3",
@@ -2133,26 +2133,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Santa Clara",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "11"
-            },
-            {
-                "Position": "9",
-                "Team": "Alverca",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-5",
-                "Points": "11"
-            },
-            {
-                "Position": "10",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "9",
                 "Wins": "3",
@@ -2162,7 +2142,7 @@
                 "Points": "11"
             },
             {
-                "Position": "11",
+                "Position": "9",
                 "Team": "Rio Ave",
                 "Played": "9",
                 "Wins": "2",
@@ -2172,7 +2152,7 @@
                 "Points": "11"
             },
             {
-                "Position": "12",
+                "Position": "10",
                 "Team": "Nacional",
                 "Played": "9",
                 "Wins": "3",
@@ -2180,6 +2160,26 @@
                 "Losses": "4",
                 "Goal Difference": "-3",
                 "Points": "11"
+            },
+            {
+                "Position": "11",
+                "Team": "Santa Clara",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "11"
+            },
+            {
+                "Position": "12",
+                "Team": "Alverca",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "6",
+                "Goal Difference": "-7",
+                "Points": "10"
             },
             {
                 "Position": "13",
@@ -3072,12 +3072,12 @@
             {
                 "Position": "1",
                 "Team": "Riestra",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "8",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "9",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "2",
@@ -3122,12 +3122,12 @@
             {
                 "Position": "6",
                 "Team": "San Lorenzo",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "5",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "1",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "7",
