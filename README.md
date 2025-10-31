@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 31 October 2025, 07:15 PM UTC (Saturday, 01 November 2025, 12:45 AM IST)
+**Last Updated:** Friday, 31 October 2025, 07:38 PM UTC (Saturday, 01 November 2025, 01:08 AM IST)
 
 ### Premier League
 
@@ -99,8 +99,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 8 | 8 | 0 | 0 | 26 | 24 |
 | 2 | RB Leipzig | 8 | 6 | 1 | 1 | 7 | 19 |
-| 3 | VfB Stuttgart | 8 | 6 | 0 | 2 | 6 | 18 |
-| 4 | Borussia Dortmund | 8 | 5 | 2 | 1 | 8 | 17 |
+| 3 | Borussia Dortmund | 9 | 5 | 3 | 1 | 8 | 18 |
+| 4 | VfB Stuttgart | 8 | 6 | 0 | 2 | 6 | 18 |
 | 5 | Bayer Leverkusen | 8 | 5 | 2 | 1 | 7 | 17 |
 | 6 | Eintracht Frankfurt | 8 | 4 | 1 | 3 | 3 | 13 |
 | 7 | Hoffenheim | 8 | 4 | 1 | 3 | 2 | 13 |
@@ -110,8 +110,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | SC Freiburg | 8 | 2 | 3 | 3 | -2 | 9 |
 | 12 | VfL Wolfsburg | 8 | 2 | 2 | 4 | -4 | 8 |
 | 13 | Hamburg | 8 | 2 | 2 | 4 | -4 | 8 |
-| 14 | St. Pauli | 8 | 2 | 1 | 5 | -6 | 7 |
-| 15 | Augsburg | 8 | 2 | 1 | 5 | -8 | 7 |
+| 14 | Augsburg | 9 | 2 | 2 | 5 | -8 | 8 |
+| 15 | St. Pauli | 8 | 2 | 1 | 5 | -6 | 7 |
 | 16 | Mainz 05 | 8 | 1 | 1 | 6 | -7 | 4 |
 | 17 | Heidenheim | 8 | 1 | 1 | 6 | -9 | 4 |
 | 18 | Borussia Mönchengladbach | 8 | 0 | 3 | 5 | -12 | 3 |

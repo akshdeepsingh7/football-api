@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 31 October 2025, 07:15 PM UTC",
-        "IST": "Saturday, 01 November 2025, 12:45 AM IST"
+        "UTC": "Friday, 31 October 2025, 07:38 PM UTC",
+        "IST": "Saturday, 01 November 2025, 01:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -431,6 +431,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Borussia Dortmund",
+                "Played": "9",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "8",
+                "Points": "18"
+            },
+            {
+                "Position": "4",
                 "Team": "VfB Stuttgart",
                 "Played": "8",
                 "Wins": "6",
@@ -438,16 +448,6 @@
                 "Losses": "2",
                 "Goal Difference": "6",
                 "Points": "18"
-            },
-            {
-                "Position": "4",
-                "Team": "Borussia Dortmund",
-                "Played": "8",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "8",
-                "Points": "17"
             },
             {
                 "Position": "5",
@@ -541,22 +541,22 @@
             },
             {
                 "Position": "14",
+                "Team": "Augsburg",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-8",
+                "Points": "8"
+            },
+            {
+                "Position": "15",
                 "Team": "St. Pauli",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "5",
                 "Goal Difference": "-6",
-                "Points": "7"
-            },
-            {
-                "Position": "15",
-                "Team": "Augsburg",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-8",
                 "Points": "7"
             },
             {
