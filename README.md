@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 31 October 2025, 09:16 PM UTC (Saturday, 01 November 2025, 02:46 AM IST)
+**Last Updated:** Friday, 31 October 2025, 09:37 PM UTC (Saturday, 01 November 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -77,8 +77,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Villarreal | 10 | 6 | 2 | 2 | 8 | 20 |
 | 4 | Atlético de Madrid | 10 | 5 | 4 | 1 | 8 | 19 |
 | 5 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
-| 6 | Real Betis | 10 | 4 | 4 | 2 | 3 | 16 |
-| 7 | Getafe | 11 | 4 | 3 | 4 | -2 | 15 |
+| 6 | Getafe | 11 | 5 | 2 | 4 | -1 | 17 |
+| 7 | Real Betis | 10 | 4 | 4 | 2 | 3 | 16 |
 | 8 | Rayo Vallecano | 10 | 4 | 2 | 4 | 2 | 14 |
 | 9 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
 | 10 | Athletic Bilbao | 10 | 4 | 2 | 4 | -1 | 14 |
@@ -90,8 +90,8 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Mallorca | 10 | 2 | 3 | 5 | -4 | 9 |
 | 17 | Real Sociedad | 10 | 2 | 3 | 5 | -4 | 9 |
 | 18 | Valencia | 10 | 2 | 3 | 5 | -6 | 9 |
-| 19 | Girona | 11 | 1 | 5 | 5 | -13 | 8 |
-| 20 | Real Oviedo | 10 | 2 | 1 | 7 | -12 | 7 |
+| 19 | Real Oviedo | 10 | 2 | 1 | 7 | -12 | 7 |
+| 20 | Girona | 11 | 1 | 4 | 6 | -14 | 7 |
 
 ### Bundesliga
 
@@ -314,7 +314,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 13 | 9 | 4 | 0 | 26 | 31 |
+| 1 | Coventry City | 13 | 8 | 4 | 1 | 24 | 28 |
 | 2 | Middlesbrough | 12 | 7 | 4 | 1 | 8 | 25 |
 | 3 | Millwall | 12 | 7 | 2 | 3 | 1 | 23 |
 | 4 | Bristol City | 12 | 6 | 4 | 2 | 9 | 22 |
@@ -324,12 +324,12 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Hull City | 12 | 5 | 4 | 3 | 0 | 19 |
 | 9 | Queens Park Rangers | 12 | 5 | 3 | 4 | -2 | 18 |
 | 10 | Leicester City | 12 | 4 | 5 | 3 | 3 | 17 |
-| 11 | West Bromwich Albion | 12 | 5 | 2 | 5 | -2 | 17 |
-| 12 | Ipswich Town | 11 | 4 | 4 | 3 | 4 | 16 |
-| 13 | Swansea City | 12 | 4 | 4 | 4 | 0 | 16 |
-| 14 | Watford | 12 | 4 | 3 | 5 | -2 | 15 |
-| 15 | Birmingham City | 12 | 4 | 3 | 5 | -4 | 15 |
-| 16 | Wrexham | 13 | 3 | 5 | 5 | -2 | 14 |
+| 11 | Wrexham | 13 | 4 | 5 | 4 | 0 | 17 |
+| 12 | West Bromwich Albion | 12 | 5 | 2 | 5 | -2 | 17 |
+| 13 | Ipswich Town | 11 | 4 | 4 | 3 | 4 | 16 |
+| 14 | Swansea City | 12 | 4 | 4 | 4 | 0 | 16 |
+| 15 | Watford | 12 | 4 | 3 | 5 | -2 | 15 |
+| 16 | Birmingham City | 12 | 4 | 3 | 5 | -4 | 15 |
 | 17 | Derby County | 12 | 3 | 5 | 4 | -3 | 14 |
 | 18 | Portsmouth | 12 | 3 | 4 | 5 | -3 | 13 |
 | 19 | Oxford United | 12 | 3 | 3 | 6 | -2 | 12 |

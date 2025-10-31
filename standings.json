@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 31 October 2025, 09:16 PM UTC",
-        "IST": "Saturday, 01 November 2025, 02:46 AM IST"
+        "UTC": "Friday, 31 October 2025, 09:37 PM UTC",
+        "IST": "Saturday, 01 November 2025, 03:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -259,6 +259,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Getafe",
+                "Played": "11",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "17"
+            },
+            {
+                "Position": "7",
                 "Team": "Real Betis",
                 "Played": "10",
                 "Wins": "4",
@@ -266,16 +276,6 @@
                 "Losses": "2",
                 "Goal Difference": "3",
                 "Points": "16"
-            },
-            {
-                "Position": "7",
-                "Team": "Getafe",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "15"
             },
             {
                 "Position": "8",
@@ -389,22 +389,22 @@
             },
             {
                 "Position": "19",
-                "Team": "Girona",
-                "Played": "11",
-                "Wins": "1",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-13",
-                "Points": "8"
-            },
-            {
-                "Position": "20",
                 "Team": "Real Oviedo",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "7",
                 "Goal Difference": "-12",
+                "Points": "7"
+            },
+            {
+                "Position": "20",
+                "Team": "Girona",
+                "Played": "11",
+                "Wins": "1",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-14",
                 "Points": "7"
             }
         ],
@@ -2247,11 +2247,11 @@
                 "Position": "1",
                 "Team": "Coventry City",
                 "Played": "13",
-                "Wins": "9",
+                "Wins": "8",
                 "Draws": "4",
-                "Losses": "0",
-                "Goal Difference": "26",
-                "Points": "31"
+                "Losses": "1",
+                "Goal Difference": "24",
+                "Points": "28"
             },
             {
                 "Position": "2",
@@ -2345,6 +2345,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Wrexham",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "17"
+            },
+            {
+                "Position": "12",
                 "Team": "West Bromwich Albion",
                 "Played": "12",
                 "Wins": "5",
@@ -2354,7 +2364,7 @@
                 "Points": "17"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Ipswich Town",
                 "Played": "11",
                 "Wins": "4",
@@ -2364,7 +2374,7 @@
                 "Points": "16"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Swansea City",
                 "Played": "12",
                 "Wins": "4",
@@ -2374,7 +2384,7 @@
                 "Points": "16"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Watford",
                 "Played": "12",
                 "Wins": "4",
@@ -2384,7 +2394,7 @@
                 "Points": "15"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Birmingham City",
                 "Played": "12",
                 "Wins": "4",
@@ -2392,16 +2402,6 @@
                 "Losses": "5",
                 "Goal Difference": "-4",
                 "Points": "15"
-            },
-            {
-                "Position": "16",
-                "Team": "Wrexham",
-                "Played": "13",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-2",
-                "Points": "14"
             },
             {
                 "Position": "17",
