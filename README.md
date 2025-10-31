@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 31 October 2025, 08:22 PM UTC (Saturday, 01 November 2025, 01:52 AM IST)
+**Last Updated:** Friday, 31 October 2025, 08:39 PM UTC (Saturday, 01 November 2025, 02:09 AM IST)
 
 ### Premier League
 
@@ -314,7 +314,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 13 | 8 | 5 | 0 | 25 | 29 |
+| 1 | Coventry City | 13 | 9 | 4 | 0 | 26 | 31 |
 | 2 | Middlesbrough | 12 | 7 | 4 | 1 | 8 | 25 |
 | 3 | Millwall | 12 | 7 | 2 | 3 | 1 | 23 |
 | 4 | Bristol City | 12 | 6 | 4 | 2 | 9 | 22 |
@@ -327,9 +327,9 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | West Bromwich Albion | 12 | 5 | 2 | 5 | -2 | 17 |
 | 12 | Ipswich Town | 11 | 4 | 4 | 3 | 4 | 16 |
 | 13 | Swansea City | 12 | 4 | 4 | 4 | 0 | 16 |
-| 14 | Wrexham | 13 | 3 | 6 | 4 | -1 | 15 |
-| 15 | Watford | 12 | 4 | 3 | 5 | -2 | 15 |
-| 16 | Birmingham City | 12 | 4 | 3 | 5 | -4 | 15 |
+| 14 | Watford | 12 | 4 | 3 | 5 | -2 | 15 |
+| 15 | Birmingham City | 12 | 4 | 3 | 5 | -4 | 15 |
+| 16 | Wrexham | 13 | 3 | 5 | 5 | -2 | 14 |
 | 17 | Derby County | 12 | 3 | 5 | 4 | -3 | 14 |
 | 18 | Portsmouth | 12 | 3 | 4 | 5 | -3 | 13 |
 | 19 | Oxford United | 12 | 3 | 3 | 6 | -2 | 12 |
