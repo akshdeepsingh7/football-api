@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 01 November 2025, 01:23 PM UTC (Saturday, 01 November 2025, 06:53 PM IST)
+**Last Updated:** Saturday, 01 November 2025, 01:39 PM UTC (Saturday, 01 November 2025, 07:09 PM IST)
 
 ### Premier League
 
@@ -73,13 +73,13 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 10 | 9 | 0 | 1 | 12 | 27 |
-| 2 | Barcelona | 10 | 7 | 1 | 2 | 13 | 22 |
-| 3 | Villarreal | 11 | 6 | 3 | 2 | 8 | 21 |
+| 2 | Villarreal | 11 | 7 | 2 | 2 | 9 | 23 |
+| 3 | Barcelona | 10 | 7 | 1 | 2 | 13 | 22 |
 | 4 | Atlético de Madrid | 10 | 5 | 4 | 1 | 8 | 19 |
 | 5 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
 | 6 | Getafe | 11 | 5 | 2 | 4 | -1 | 17 |
 | 7 | Real Betis | 10 | 4 | 4 | 2 | 3 | 16 |
-| 8 | Rayo Vallecano | 11 | 4 | 3 | 4 | 2 | 15 |
+| 8 | Rayo Vallecano | 11 | 4 | 2 | 5 | 1 | 14 |
 | 9 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
 | 10 | Athletic Bilbao | 10 | 4 | 2 | 4 | -1 | 14 |
 | 11 | Sevilla | 10 | 4 | 1 | 5 | 1 | 13 |
@@ -318,8 +318,8 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Middlesbrough | 12 | 7 | 4 | 1 | 8 | 25 |
 | 3 | Millwall | 12 | 7 | 2 | 3 | 1 | 23 |
 | 4 | Bristol City | 12 | 6 | 4 | 2 | 9 | 22 |
-| 5 | Stoke City | 12 | 6 | 3 | 3 | 5 | 21 |
-| 6 | Hull City | 13 | 5 | 5 | 3 | 0 | 20 |
+| 5 | Hull City | 13 | 6 | 4 | 3 | 1 | 22 |
+| 6 | Stoke City | 12 | 6 | 3 | 3 | 5 | 21 |
 | 7 | Charlton Athletic | 12 | 5 | 4 | 3 | 4 | 19 |
 | 8 | Preston North End | 12 | 5 | 4 | 3 | 3 | 19 |
 | 9 | Queens Park Rangers | 12 | 5 | 3 | 4 | -2 | 18 |
@@ -335,8 +335,8 @@ The latest league standings are displayed below in Markdown tables:
 | 19 | Blackburn Rovers | 12 | 4 | 1 | 7 | -6 | 13 |
 | 20 | Oxford United | 12 | 3 | 3 | 6 | -2 | 12 |
 | 21 | Southampton | 12 | 2 | 6 | 4 | -4 | 12 |
-| 22 | Norwich City | 13 | 2 | 3 | 8 | -6 | 9 |
-| 23 | Sheffield United | 12 | 3 | 0 | 9 | -11 | 9 |
+| 22 | Sheffield United | 12 | 3 | 0 | 9 | -11 | 9 |
+| 23 | Norwich City | 13 | 2 | 2 | 9 | -7 | 8 |
 | 24 | Sheffield Wednesday | 13 | 1 | 4 | 8 | -15 | -5 |
 
 ### Major League Soccer (MLS)
