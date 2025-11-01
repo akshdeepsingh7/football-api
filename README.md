@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 01 November 2025, 06:25 PM UTC (Saturday, 01 November 2025, 11:55 PM IST)
+**Last Updated:** Saturday, 01 November 2025, 06:44 PM UTC (Sunday, 02 November 2025, 12:14 AM IST)
 
 ### Premier League
 
@@ -79,14 +79,14 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
 | 6 | Getafe | 11 | 5 | 2 | 4 | -1 | 17 |
 | 7 | Real Betis | 10 | 4 | 4 | 2 | 3 | 16 |
-| 8 | Athletic Bilbao | 11 | 4 | 3 | 4 | -1 | 15 |
-| 9 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
-| 10 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
+| 8 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
+| 9 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
+| 10 | Athletic Bilbao | 11 | 4 | 2 | 5 | -2 | 14 |
 | 11 | Sevilla | 11 | 4 | 1 | 6 | -2 | 13 |
 | 12 | Alavés | 10 | 3 | 3 | 4 | 0 | 12 |
-| 13 | Celta de Vigo | 10 | 1 | 7 | 2 | -2 | 10 |
-| 14 | Osasuna | 10 | 3 | 1 | 6 | -3 | 10 |
-| 15 | Real Sociedad | 11 | 2 | 4 | 5 | -4 | 10 |
+| 13 | Real Sociedad | 11 | 3 | 3 | 5 | -3 | 12 |
+| 14 | Celta de Vigo | 10 | 1 | 7 | 2 | -2 | 10 |
+| 15 | Osasuna | 10 | 3 | 1 | 6 | -3 | 10 |
 | 16 | Levante | 10 | 2 | 3 | 5 | -4 | 9 |
 | 17 | Mallorca | 10 | 2 | 3 | 5 | -4 | 9 |
 | 18 | Valencia | 10 | 2 | 3 | 5 | -6 | 9 |
@@ -298,14 +298,14 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Famalicão | 10 | 5 | 4 | 1 | 7 | 19 |
 | 6 | Moreirense | 9 | 5 | 0 | 4 | 0 | 15 |
 | 7 | Braga | 9 | 3 | 4 | 2 | 8 | 13 |
-| 8 | Rio Ave | 10 | 2 | 6 | 2 | -1 | 12 |
-| 9 | Vitória S.C. | 9 | 3 | 2 | 4 | -5 | 11 |
-| 10 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
-| 11 | Nacional | 10 | 3 | 2 | 5 | -4 | 11 |
-| 12 | Alverca | 10 | 3 | 1 | 6 | -7 | 10 |
-| 13 | Casa Pia | 10 | 2 | 3 | 5 | -9 | 9 |
-| 14 | Arouca | 9 | 2 | 3 | 4 | -14 | 9 |
-| 15 | Estoril | 10 | 1 | 5 | 4 | -3 | 8 |
+| 8 | Vitória S.C. | 9 | 3 | 2 | 4 | -5 | 11 |
+| 9 | Rio Ave | 10 | 2 | 5 | 3 | -2 | 11 |
+| 10 | Nacional | 10 | 3 | 2 | 5 | -4 | 11 |
+| 11 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
+| 12 | Estoril | 10 | 2 | 4 | 4 | -2 | 10 |
+| 13 | Alverca | 10 | 3 | 1 | 6 | -7 | 10 |
+| 14 | Casa Pia | 10 | 2 | 3 | 5 | -9 | 9 |
+| 15 | Arouca | 9 | 2 | 3 | 4 | -14 | 9 |
 | 16 | Estrela Amadora | 10 | 1 | 5 | 4 | -3 | 8 |
 | 17 | Tondela | 9 | 1 | 2 | 6 | -13 | 5 |
 | 18 | AVS | 9 | 0 | 1 | 8 | -17 | 1 |
