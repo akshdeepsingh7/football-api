@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 31 October 2025, 11:36 PM UTC",
-        "IST": "Saturday, 01 November 2025, 05:06 AM IST"
+        "UTC": "Saturday, 01 November 2025, 01:41 AM UTC",
+        "IST": "Saturday, 01 November 2025, 07:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2921,6 +2921,16 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
+                "Team": "Uni\u00f3n",
+                "Played": "14",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "3",
+                "Goal Difference": "7",
+                "Points": "23"
+            },
+            {
+                "Position": "2",
                 "Team": "C\u00f3rdoba SdE",
                 "Played": "13",
                 "Wins": "5",
@@ -2930,7 +2940,7 @@
                 "Points": "21"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Estudiantes",
                 "Played": "13",
                 "Wins": "6",
@@ -2940,23 +2950,13 @@
                 "Points": "21"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Boca Juniors",
                 "Played": "13",
                 "Wins": "5",
                 "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "11",
-                "Points": "20"
-            },
-            {
-                "Position": "4",
-                "Team": "Uni\u00f3n",
-                "Played": "13",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "6",
                 "Points": "20"
             },
             {
@@ -3052,11 +3052,11 @@
             {
                 "Position": "14",
                 "Team": "Newell's Old Boys",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "2",
                 "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-10",
+                "Losses": "7",
+                "Goal Difference": "-11",
                 "Points": "11"
             },
             {
@@ -3072,12 +3072,12 @@
             {
                 "Position": "1",
                 "Team": "Rosario",
-                "Played": "13",
-                "Wins": "7",
+                "Played": "14",
+                "Wins": "8",
                 "Draws": "6",
                 "Losses": "0",
-                "Goal Difference": "9",
-                "Points": "27"
+                "Goal Difference": "11",
+                "Points": "30"
             },
             {
                 "Position": "2",
@@ -3162,11 +3162,11 @@
             {
                 "Position": "10",
                 "Team": "Instituto",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "3",
                 "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "-5",
+                "Losses": "5",
+                "Goal Difference": "-7",
                 "Points": "15"
             },
             {

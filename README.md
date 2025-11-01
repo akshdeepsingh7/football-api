@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 31 October 2025, 11:36 PM UTC (Saturday, 01 November 2025, 05:06 AM IST)
+**Last Updated:** Saturday, 01 November 2025, 01:41 AM UTC (Saturday, 01 November 2025, 07:11 AM IST)
 
 ### Premier League
 
@@ -396,10 +396,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Córdoba SdE | 13 | 5 | 6 | 2 | 6 | 21 |
-| 2 | Estudiantes | 13 | 6 | 3 | 4 | 2 | 21 |
-| 3 | Boca Juniors | 13 | 5 | 5 | 3 | 11 | 20 |
-| 4 | Unión | 13 | 5 | 5 | 3 | 6 | 20 |
+| 1 | Unión | 14 | 6 | 5 | 3 | 7 | 23 |
+| 2 | Córdoba SdE | 13 | 5 | 6 | 2 | 6 | 21 |
+| 3 | Estudiantes | 13 | 6 | 3 | 4 | 2 | 21 |
+| 4 | Boca Juniors | 13 | 5 | 5 | 3 | 11 | 20 |
 | 5 | Def y Justicia | 13 | 5 | 4 | 4 | 0 | 19 |
 | 6 | Argentinos Juniors | 13 | 5 | 3 | 5 | 5 | 18 |
 | 7 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
@@ -409,9 +409,9 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
 | 12 | Huracán | 13 | 4 | 4 | 5 | -5 | 16 |
 | 13 | Independiente Rivadavia | 13 | 2 | 6 | 5 | -3 | 12 |
-| 14 | Newell's Old Boys | 13 | 2 | 5 | 6 | -10 | 11 |
+| 14 | Newell's Old Boys | 14 | 2 | 5 | 7 | -11 | 11 |
 | 15 | Aldosivi | 13 | 2 | 3 | 8 | -10 | 9 |
-| 1 | Rosario | 13 | 7 | 6 | 0 | 9 | 27 |
+| 1 | Rosario | 14 | 8 | 6 | 0 | 11 | 30 |
 | 2 | Riestra | 14 | 8 | 3 | 3 | 8 | 27 |
 | 3 | Lanús | 13 | 8 | 2 | 3 | 6 | 26 |
 | 4 | Vélez | 13 | 7 | 4 | 2 | 10 | 25 |
@@ -420,7 +420,7 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | San Martín SJ | 13 | 4 | 5 | 4 | -1 | 17 |
 | 8 | Atl. Tucumán | 13 | 4 | 3 | 6 | -1 | 15 |
 | 9 | Sarmiento | 13 | 4 | 3 | 6 | -5 | 15 |
-| 10 | Instituto | 13 | 3 | 6 | 4 | -5 | 15 |
+| 10 | Instituto | 14 | 3 | 6 | 5 | -7 | 15 |
 | 11 | Talleres | 13 | 3 | 5 | 5 | -5 | 14 |
 | 12 | GELP | 13 | 4 | 1 | 8 | -8 | 13 |
 | 13 | Platense | 13 | 2 | 5 | 6 | -9 | 11 |
