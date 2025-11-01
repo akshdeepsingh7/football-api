@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 01 November 2025, 04:41 PM UTC (Saturday, 01 November 2025, 10:11 PM IST)
+**Last Updated:** Saturday, 01 November 2025, 05:15 PM UTC (Saturday, 01 November 2025, 10:45 PM IST)
 
 ### Premier League
 
@@ -75,14 +75,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Real Madrid | 10 | 9 | 0 | 1 | 12 | 27 |
 | 2 | Villarreal | 11 | 7 | 2 | 2 | 12 | 23 |
 | 3 | Barcelona | 10 | 7 | 1 | 2 | 13 | 22 |
-| 4 | Atlético de Madrid | 11 | 6 | 4 | 1 | 9 | 22 |
+| 4 | Atlético de Madrid | 11 | 6 | 4 | 1 | 11 | 22 |
 | 5 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
 | 6 | Getafe | 11 | 5 | 2 | 4 | -1 | 17 |
 | 7 | Real Betis | 10 | 4 | 4 | 2 | 3 | 16 |
 | 8 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
 | 9 | Athletic Bilbao | 10 | 4 | 2 | 4 | -1 | 14 |
 | 10 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
-| 11 | Sevilla | 11 | 4 | 1 | 6 | 0 | 13 |
+| 11 | Sevilla | 11 | 4 | 1 | 6 | -2 | 13 |
 | 12 | Alavés | 10 | 3 | 3 | 4 | 0 | 12 |
 | 13 | Celta de Vigo | 10 | 1 | 7 | 2 | -2 | 10 |
 | 14 | Osasuna | 10 | 3 | 1 | 6 | -3 | 10 |
@@ -120,11 +120,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Napoli | 9 | 7 | 0 | 2 | 8 | 21 |
+| 1 | Napoli | 10 | 7 | 1 | 2 | 8 | 22 |
 | 2 | Roma | 9 | 7 | 0 | 2 | 6 | 21 |
 | 3 | Inter | 9 | 6 | 0 | 3 | 11 | 18 |
 | 4 | Milan | 9 | 5 | 3 | 1 | 7 | 18 |
-| 5 | Como | 9 | 4 | 4 | 1 | 6 | 16 |
+| 5 | Como | 10 | 4 | 5 | 1 | 6 | 17 |
 | 6 | Bologna | 9 | 4 | 3 | 2 | 6 | 15 |
 | 7 | Juventus | 9 | 4 | 3 | 2 | 3 | 15 |
 | 8 | Udinese | 10 | 4 | 3 | 3 | -3 | 15 |
@@ -315,26 +315,26 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 13 | 8 | 4 | 1 | 24 | 28 |
-| 2 | Millwall | 13 | 8 | 2 | 3 | 2 | 26 |
-| 3 | Middlesbrough | 13 | 7 | 4 | 2 | 5 | 25 |
-| 4 | Stoke City | 13 | 7 | 3 | 3 | 10 | 24 |
-| 5 | Bristol City | 13 | 6 | 4 | 3 | 4 | 22 |
-| 6 | Preston North End | 13 | 6 | 4 | 3 | 4 | 22 |
+| 2 | Middlesbrough | 13 | 7 | 4 | 2 | 5 | 25 |
+| 3 | Stoke City | 13 | 7 | 3 | 3 | 9 | 24 |
+| 4 | Millwall | 13 | 7 | 3 | 3 | 1 | 24 |
+| 5 | Bristol City | 13 | 6 | 4 | 3 | 5 | 22 |
+| 6 | Preston North End | 13 | 6 | 4 | 3 | 5 | 22 |
 | 7 | Hull City | 13 | 6 | 4 | 3 | 2 | 22 |
 | 8 | Charlton Athletic | 13 | 5 | 5 | 3 | 4 | 20 |
 | 9 | Ipswich Town | 12 | 5 | 4 | 3 | 7 | 19 |
 | 10 | Watford | 13 | 5 | 3 | 5 | 1 | 18 |
-| 11 | Birmingham City | 13 | 5 | 3 | 5 | -1 | 18 |
+| 11 | Birmingham City | 13 | 5 | 3 | 5 | 0 | 18 |
 | 12 | West Bromwich Albion | 13 | 5 | 3 | 5 | -2 | 18 |
 | 13 | Queens Park Rangers | 13 | 5 | 3 | 5 | -5 | 18 |
 | 14 | Leicester City | 13 | 4 | 5 | 4 | 1 | 17 |
 | 15 | Wrexham | 13 | 4 | 5 | 4 | 0 | 17 |
 | 16 | Swansea City | 13 | 4 | 5 | 4 | 0 | 17 |
 | 17 | Derby County | 13 | 4 | 5 | 4 | -1 | 17 |
-| 18 | Blackburn Rovers | 12 | 4 | 1 | 7 | -5 | 13 |
-| 19 | Portsmouth | 13 | 3 | 4 | 6 | -6 | 13 |
-| 20 | Oxford United | 13 | 3 | 3 | 7 | -3 | 12 |
-| 21 | Southampton | 13 | 2 | 6 | 5 | -5 | 12 |
+| 18 | Oxford United | 13 | 3 | 4 | 6 | -2 | 13 |
+| 19 | Blackburn Rovers | 12 | 4 | 1 | 7 | -5 | 13 |
+| 20 | Portsmouth | 13 | 3 | 4 | 6 | -7 | 13 |
+| 21 | Southampton | 13 | 2 | 6 | 5 | -6 | 12 |
 | 22 | Sheffield United | 13 | 3 | 0 | 10 | -13 | 9 |
 | 23 | Norwich City | 13 | 2 | 2 | 9 | -8 | 8 |
 | 24 | Sheffield Wednesday | 13 | 1 | 4 | 8 | -15 | -5 |

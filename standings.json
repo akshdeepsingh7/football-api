@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 04:41 PM UTC",
-        "IST": "Saturday, 01 November 2025, 10:11 PM IST"
+        "UTC": "Saturday, 01 November 2025, 05:15 PM UTC",
+        "IST": "Saturday, 01 November 2025, 10:45 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -244,7 +244,7 @@
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "9",
+                "Goal Difference": "11",
                 "Points": "22"
             },
             {
@@ -314,7 +314,7 @@
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "6",
-                "Goal Difference": "0",
+                "Goal Difference": "-2",
                 "Points": "13"
             },
             {
@@ -594,12 +594,12 @@
             {
                 "Position": "1",
                 "Team": "Napoli",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "7",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "8",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "2",
@@ -634,12 +634,12 @@
             {
                 "Position": "5",
                 "Team": "Como",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "4",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "6",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "6",
@@ -2255,16 +2255,6 @@
             },
             {
                 "Position": "2",
-                "Team": "Millwall",
-                "Played": "13",
-                "Wins": "8",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "2",
-                "Points": "26"
-            },
-            {
-                "Position": "3",
                 "Team": "Middlesbrough",
                 "Played": "13",
                 "Wins": "7",
@@ -2274,13 +2264,23 @@
                 "Points": "25"
             },
             {
-                "Position": "4",
+                "Position": "3",
                 "Team": "Stoke City",
                 "Played": "13",
                 "Wins": "7",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "10",
+                "Goal Difference": "9",
+                "Points": "24"
+            },
+            {
+                "Position": "4",
+                "Team": "Millwall",
+                "Played": "13",
+                "Wins": "7",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "1",
                 "Points": "24"
             },
             {
@@ -2290,7 +2290,7 @@
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "3",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "22"
             },
             {
@@ -2300,7 +2300,7 @@
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "3",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "22"
             },
             {
@@ -2350,7 +2350,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "-1",
+                "Goal Difference": "0",
                 "Points": "18"
             },
             {
@@ -2415,6 +2415,16 @@
             },
             {
                 "Position": "18",
+                "Team": "Oxford United",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-2",
+                "Points": "13"
+            },
+            {
+                "Position": "19",
                 "Team": "Blackburn Rovers",
                 "Played": "12",
                 "Wins": "4",
@@ -2424,24 +2434,14 @@
                 "Points": "13"
             },
             {
-                "Position": "19",
+                "Position": "20",
                 "Team": "Portsmouth",
                 "Played": "13",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "6",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "13"
-            },
-            {
-                "Position": "20",
-                "Team": "Oxford United",
-                "Played": "13",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "-3",
-                "Points": "12"
             },
             {
                 "Position": "21",
@@ -2450,7 +2450,7 @@
                 "Wins": "2",
                 "Draws": "6",
                 "Losses": "5",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "12"
             },
             {
