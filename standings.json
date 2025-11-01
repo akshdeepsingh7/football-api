@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 01:39 PM UTC",
-        "IST": "Saturday, 01 November 2025, 07:09 PM IST"
+        "UTC": "Saturday, 01 November 2025, 02:16 PM UTC",
+        "IST": "Saturday, 01 November 2025, 07:46 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -224,7 +224,7 @@
                 "Wins": "7",
                 "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "9",
+                "Goal Difference": "10",
                 "Points": "23"
             },
             {
@@ -279,22 +279,22 @@
             },
             {
                 "Position": "8",
-                "Team": "Rayo Vallecano",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "1",
-                "Points": "14"
-            },
-            {
-                "Position": "9",
                 "Team": "Elche",
                 "Played": "10",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "1",
+                "Points": "14"
+            },
+            {
+                "Position": "9",
+                "Team": "Rayo Vallecano",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "0",
                 "Points": "14"
             },
             {
@@ -674,12 +674,12 @@
             {
                 "Position": "9",
                 "Team": "Atalanta",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "2",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "0",
                 "Goal Difference": "6",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "10",
@@ -693,22 +693,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Udinese",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "-4",
+                "Points": "13"
+            },
+            {
+                "Position": "12",
                 "Team": "Lazio",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "4",
-                "Points": "12"
-            },
-            {
-                "Position": "12",
-                "Team": "Udinese",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-4",
                 "Points": "12"
             },
             {
@@ -2350,7 +2350,7 @@
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "4",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "17"
             },
             {
@@ -2430,7 +2430,7 @@
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "7",
-                "Goal Difference": "-6",
+                "Goal Difference": "-5",
                 "Points": "13"
             },
             {
