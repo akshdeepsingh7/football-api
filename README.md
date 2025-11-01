@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 01 November 2025, 09:15 PM UTC (Sunday, 02 November 2025, 02:45 AM IST)
+**Last Updated:** Saturday, 01 November 2025, 09:37 PM UTC (Sunday, 02 November 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -49,7 +49,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 10 | 8 | 1 | 1 | 15 | 25 |
 | 2 | AFC Bournemouth | 9 | 5 | 3 | 1 | 5 | 18 |
-| 3 | Liverpool FC | 10 | 6 | 0 | 4 | 3 | 18 |
+| 3 | Liverpool FC | 10 | 6 | 0 | 4 | 4 | 18 |
 | 4 | Tottenham Hotspur | 10 | 5 | 2 | 3 | 9 | 17 |
 | 5 | Chelsea | 10 | 5 | 2 | 3 | 7 | 17 |
 | 6 | Sunderland | 9 | 5 | 2 | 2 | 4 | 17 |
@@ -57,7 +57,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Manchester City | 9 | 5 | 1 | 3 | 10 | 16 |
 | 9 | Crystal Palace | 10 | 4 | 4 | 2 | 5 | 16 |
 | 10 | Brighton & Hove Albion | 10 | 4 | 3 | 3 | 2 | 15 |
-| 11 | Aston Villa | 10 | 4 | 3 | 3 | 0 | 15 |
+| 11 | Aston Villa | 10 | 4 | 3 | 3 | -1 | 15 |
 | 12 | Brentford | 10 | 4 | 1 | 5 | -2 | 13 |
 | 13 | Newcastle United | 9 | 3 | 3 | 3 | 1 | 12 |
 | 14 | Fulham | 10 | 3 | 2 | 5 | -2 | 11 |
@@ -124,11 +124,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Roma | 9 | 7 | 0 | 2 | 6 | 21 |
 | 3 | Inter | 9 | 6 | 0 | 3 | 11 | 18 |
 | 4 | Milan | 9 | 5 | 3 | 1 | 7 | 18 |
-| 5 | Juventus | 10 | 5 | 3 | 2 | 5 | 18 |
+| 5 | Juventus | 10 | 5 | 3 | 2 | 4 | 18 |
 | 6 | Como | 10 | 4 | 5 | 1 | 6 | 17 |
 | 7 | Bologna | 9 | 4 | 3 | 2 | 6 | 15 |
 | 8 | Udinese | 10 | 4 | 3 | 3 | -3 | 15 |
-| 9 | Cremonese | 10 | 3 | 5 | 2 | -1 | 14 |
+| 9 | Cremonese | 10 | 3 | 5 | 2 | 0 | 14 |
 | 10 | Sassuolo | 9 | 4 | 1 | 4 | 0 | 13 |
 | 11 | Atalanta | 10 | 2 | 7 | 1 | 5 | 13 |
 | 12 | Lazio | 9 | 3 | 3 | 3 | 4 | 12 |
