@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 07:13 PM UTC",
-        "IST": "Sunday, 02 November 2025, 12:43 AM IST"
+        "UTC": "Saturday, 01 November 2025, 07:37 PM UTC",
+        "IST": "Sunday, 02 November 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2143,22 +2143,22 @@
             },
             {
                 "Position": "9",
-                "Team": "Rio Ave",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "11"
-            },
-            {
-                "Position": "10",
                 "Team": "Nacional",
                 "Played": "10",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "5",
                 "Goal Difference": "-4",
+                "Points": "11"
+            },
+            {
+                "Position": "10",
+                "Team": "Rio Ave",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "5",
+                "Losses": "3",
+                "Goal Difference": "-5",
                 "Points": "11"
             },
             {
@@ -2173,7 +2173,7 @@
             },
             {
                 "Position": "12",
-                "Team": "Estoril",
+                "Team": "Estrela Amadora",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "4",
@@ -2183,6 +2183,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Estoril",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "1",
+                "Points": "10"
+            },
+            {
+                "Position": "14",
                 "Team": "Alverca",
                 "Played": "10",
                 "Wins": "3",
@@ -2190,16 +2200,6 @@
                 "Losses": "6",
                 "Goal Difference": "-7",
                 "Points": "10"
-            },
-            {
-                "Position": "14",
-                "Team": "Casa Pia",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-9",
-                "Points": "9"
             },
             {
                 "Position": "15",
@@ -2213,12 +2213,12 @@
             },
             {
                 "Position": "16",
-                "Team": "Estrela Amadora",
+                "Team": "Casa Pia",
                 "Played": "10",
-                "Wins": "1",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "-3",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-11",
                 "Points": "8"
             },
             {
@@ -3046,7 +3046,7 @@
                 "Wins": "2",
                 "Draws": "6",
                 "Losses": "6",
-                "Goal Difference": "-6",
+                "Goal Difference": "-5",
                 "Points": "12"
             },
             {
@@ -3056,7 +3056,7 @@
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "8",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "12"
             },
             {
@@ -3248,7 +3248,7 @@
                 "Wins": "17",
                 "Draws": "9",
                 "Losses": "5",
-                "Goal Difference": "22",
+                "Goal Difference": "23",
                 "Points": "60"
             },
             {
@@ -3376,10 +3376,10 @@
                 "Team": "Santos",
                 "Played": "30",
                 "Wins": "8",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-12",
-                "Points": "33"
+                "Draws": "8",
+                "Losses": "14",
+                "Goal Difference": "-13",
+                "Points": "32"
             },
             {
                 "Position": "17",
@@ -3388,18 +3388,18 @@
                 "Wins": "7",
                 "Draws": "10",
                 "Losses": "14",
-                "Goal Difference": "-18",
+                "Goal Difference": "-19",
                 "Points": "31"
             },
             {
                 "Position": "18",
                 "Team": "Fortaleza",
                 "Played": "30",
-                "Wins": "7",
-                "Draws": "7",
+                "Wins": "8",
+                "Draws": "6",
                 "Losses": "16",
-                "Goal Difference": "-17",
-                "Points": "28"
+                "Goal Difference": "-16",
+                "Points": "30"
             },
             {
                 "Position": "19",

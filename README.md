@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 01 November 2025, 07:13 PM UTC (Sunday, 02 November 2025, 12:43 AM IST)
+**Last Updated:** Saturday, 01 November 2025, 07:37 PM UTC (Sunday, 02 November 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -299,14 +299,14 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Moreirense | 9 | 5 | 0 | 4 | 0 | 15 |
 | 7 | Braga | 9 | 3 | 4 | 2 | 8 | 13 |
 | 8 | Vitória S.C. | 9 | 3 | 2 | 4 | -5 | 11 |
-| 9 | Rio Ave | 10 | 2 | 5 | 3 | -3 | 11 |
-| 10 | Nacional | 10 | 3 | 2 | 5 | -4 | 11 |
+| 9 | Nacional | 10 | 3 | 2 | 5 | -4 | 11 |
+| 10 | Rio Ave | 10 | 2 | 5 | 3 | -5 | 11 |
 | 11 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
-| 12 | Estoril | 10 | 2 | 4 | 4 | -1 | 10 |
-| 13 | Alverca | 10 | 3 | 1 | 6 | -7 | 10 |
-| 14 | Casa Pia | 10 | 2 | 3 | 5 | -9 | 9 |
+| 12 | Estrela Amadora | 10 | 2 | 4 | 4 | -1 | 10 |
+| 13 | Estoril | 10 | 2 | 4 | 4 | 1 | 10 |
+| 14 | Alverca | 10 | 3 | 1 | 6 | -7 | 10 |
 | 15 | Arouca | 9 | 2 | 3 | 4 | -14 | 9 |
-| 16 | Estrela Amadora | 10 | 1 | 5 | 4 | -3 | 8 |
+| 16 | Casa Pia | 10 | 2 | 2 | 6 | -11 | 8 |
 | 17 | Tondela | 9 | 1 | 2 | 6 | -13 | 5 |
 | 18 | AVS | 9 | 0 | 1 | 8 | -17 | 1 |
 
@@ -408,8 +408,8 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
 | 11 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
 | 12 | Huracán | 13 | 4 | 4 | 5 | -5 | 16 |
-| 13 | Independiente Rivadavia | 14 | 2 | 6 | 6 | -6 | 12 |
-| 14 | Aldosivi | 14 | 3 | 3 | 8 | -7 | 12 |
+| 13 | Independiente Rivadavia | 14 | 2 | 6 | 6 | -5 | 12 |
+| 14 | Aldosivi | 14 | 3 | 3 | 8 | -8 | 12 |
 | 15 | Newell's Old Boys | 14 | 2 | 5 | 7 | -11 | 11 |
 | 1 | Rosario | 14 | 8 | 6 | 0 | 11 | 30 |
 | 2 | Riestra | 14 | 8 | 3 | 3 | 8 | 27 |
@@ -433,7 +433,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 29 | 19 | 5 | 5 | 27 | 62 |
 | 2 | Flamengo | 29 | 18 | 7 | 4 | 40 | 61 |
-| 3 | Cruzeiro | 31 | 17 | 9 | 5 | 22 | 60 |
+| 3 | Cruzeiro | 31 | 17 | 9 | 5 | 23 | 60 |
 | 4 | Mirassol | 30 | 15 | 10 | 5 | 21 | 55 |
 | 5 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
 | 6 | Fluminense | 30 | 14 | 5 | 11 | 2 | 47 |
@@ -446,9 +446,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
 | 14 | Ceará | 30 | 9 | 8 | 13 | -2 | 35 |
 | 15 | Internacional | 30 | 9 | 8 | 13 | -8 | 35 |
-| 16 | Santos | 30 | 8 | 9 | 13 | -12 | 33 |
-| 17 | Vitória | 31 | 7 | 10 | 14 | -18 | 31 |
-| 18 | Fortaleza | 30 | 7 | 7 | 16 | -17 | 28 |
+| 16 | Santos | 30 | 8 | 8 | 14 | -13 | 32 |
+| 17 | Vitória | 31 | 7 | 10 | 14 | -19 | 31 |
+| 18 | Fortaleza | 30 | 8 | 6 | 16 | -16 | 30 |
 | 19 | Juventude | 30 | 7 | 5 | 18 | -32 | 26 |
 | 20 | Sport | 29 | 2 | 11 | 16 | -24 | 17 |
 
