@@ -41,23 +41,23 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 01 November 2025, 05:15 PM UTC (Saturday, 01 November 2025, 10:45 PM IST)
+**Last Updated:** Saturday, 01 November 2025, 05:37 PM UTC (Saturday, 01 November 2025, 11:07 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 10 | 8 | 1 | 1 | 15 | 25 |
-| 2 | AFC Bournemouth | 9 | 5 | 3 | 1 | 5 | 18 |
-| 3 | Tottenham Hotspur | 9 | 5 | 2 | 2 | 10 | 17 |
+| 2 | Tottenham Hotspur | 10 | 5 | 3 | 2 | 10 | 18 |
+| 3 | AFC Bournemouth | 9 | 5 | 3 | 1 | 5 | 18 |
 | 4 | Sunderland | 9 | 5 | 2 | 2 | 4 | 17 |
 | 5 | Manchester United | 10 | 5 | 2 | 3 | 1 | 17 |
 | 6 | Manchester City | 9 | 5 | 1 | 3 | 10 | 16 |
 | 7 | Crystal Palace | 10 | 4 | 4 | 2 | 5 | 16 |
-| 8 | Brighton & Hove Albion | 10 | 4 | 3 | 3 | 2 | 15 |
-| 9 | Liverpool FC | 9 | 5 | 0 | 4 | 2 | 15 |
-| 10 | Aston Villa | 9 | 4 | 3 | 2 | 1 | 15 |
-| 11 | Chelsea | 9 | 4 | 2 | 3 | 6 | 14 |
+| 8 | Chelsea | 10 | 4 | 3 | 3 | 6 | 15 |
+| 9 | Brighton & Hove Albion | 10 | 4 | 3 | 3 | 2 | 15 |
+| 10 | Liverpool FC | 9 | 5 | 0 | 4 | 2 | 15 |
+| 11 | Aston Villa | 9 | 4 | 3 | 2 | 1 | 15 |
 | 12 | Brentford | 10 | 4 | 1 | 5 | -2 | 13 |
 | 13 | Newcastle United | 9 | 3 | 3 | 3 | 1 | 12 |
 | 14 | Fulham | 10 | 3 | 2 | 5 | -2 | 11 |
@@ -79,16 +79,16 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
 | 6 | Getafe | 11 | 5 | 2 | 4 | -1 | 17 |
 | 7 | Real Betis | 10 | 4 | 4 | 2 | 3 | 16 |
-| 8 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
-| 9 | Athletic Bilbao | 10 | 4 | 2 | 4 | -1 | 14 |
+| 8 | Athletic Bilbao | 11 | 4 | 3 | 4 | -1 | 15 |
+| 9 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
 | 10 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
 | 11 | Sevilla | 11 | 4 | 1 | 6 | -2 | 13 |
 | 12 | Alavés | 10 | 3 | 3 | 4 | 0 | 12 |
 | 13 | Celta de Vigo | 10 | 1 | 7 | 2 | -2 | 10 |
 | 14 | Osasuna | 10 | 3 | 1 | 6 | -3 | 10 |
-| 15 | Levante | 10 | 2 | 3 | 5 | -4 | 9 |
-| 16 | Mallorca | 10 | 2 | 3 | 5 | -4 | 9 |
-| 17 | Real Sociedad | 10 | 2 | 3 | 5 | -4 | 9 |
+| 15 | Real Sociedad | 11 | 2 | 4 | 5 | -4 | 10 |
+| 16 | Levante | 10 | 2 | 3 | 5 | -4 | 9 |
+| 17 | Mallorca | 10 | 2 | 3 | 5 | -4 | 9 |
 | 18 | Valencia | 10 | 2 | 3 | 5 | -6 | 9 |
 | 19 | Real Oviedo | 10 | 2 | 1 | 7 | -12 | 7 |
 | 20 | Girona | 11 | 1 | 4 | 6 | -14 | 7 |
@@ -97,11 +97,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 8 | 8 | 0 | 0 | 26 | 24 |
+| 1 | Bayern Munich | 9 | 8 | 1 | 0 | 26 | 25 |
 | 2 | RB Leipzig | 9 | 7 | 1 | 1 | 9 | 22 |
 | 3 | Borussia Dortmund | 9 | 6 | 2 | 1 | 9 | 20 |
-| 4 | VfB Stuttgart | 9 | 6 | 0 | 3 | 4 | 18 |
-| 5 | Bayer Leverkusen | 8 | 5 | 2 | 1 | 7 | 17 |
+| 4 | Bayer Leverkusen | 9 | 5 | 3 | 1 | 7 | 18 |
+| 5 | VfB Stuttgart | 9 | 6 | 0 | 3 | 4 | 18 |
 | 6 | Eintracht Frankfurt | 9 | 4 | 2 | 3 | 3 | 14 |
 | 7 | Hoffenheim | 8 | 4 | 1 | 3 | 2 | 13 |
 | 8 | Werder Bremen | 9 | 3 | 3 | 3 | -4 | 12 |
