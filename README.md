@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 01 November 2025, 07:37 PM UTC (Sunday, 02 November 2025, 01:07 AM IST)
+**Last Updated:** Saturday, 01 November 2025, 08:18 PM UTC (Sunday, 02 November 2025, 01:48 AM IST)
 
 ### Premier League
 
@@ -55,9 +55,9 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Manchester United | 10 | 5 | 2 | 3 | 1 | 17 |
 | 7 | Manchester City | 9 | 5 | 1 | 3 | 10 | 16 |
 | 8 | Crystal Palace | 10 | 4 | 4 | 2 | 5 | 16 |
-| 9 | Brighton & Hove Albion | 10 | 4 | 3 | 3 | 2 | 15 |
-| 10 | Liverpool FC | 9 | 5 | 0 | 4 | 2 | 15 |
-| 11 | Aston Villa | 9 | 4 | 3 | 2 | 1 | 15 |
+| 9 | Liverpool FC | 10 | 5 | 1 | 4 | 2 | 16 |
+| 10 | Aston Villa | 10 | 4 | 4 | 2 | 1 | 16 |
+| 11 | Brighton & Hove Albion | 10 | 4 | 3 | 3 | 2 | 15 |
 | 12 | Brentford | 10 | 4 | 1 | 5 | -2 | 13 |
 | 13 | Newcastle United | 9 | 3 | 3 | 3 | 1 | 12 |
 | 14 | Fulham | 10 | 3 | 2 | 5 | -2 | 11 |
@@ -72,7 +72,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Real Madrid | 10 | 9 | 0 | 1 | 12 | 27 |
+| 1 | Real Madrid | 11 | 9 | 1 | 1 | 12 | 28 |
 | 2 | Villarreal | 11 | 7 | 2 | 2 | 12 | 23 |
 | 3 | Barcelona | 10 | 7 | 1 | 2 | 13 | 22 |
 | 4 | Atlético de Madrid | 11 | 6 | 4 | 1 | 11 | 22 |
@@ -87,9 +87,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Real Sociedad | 11 | 3 | 3 | 5 | -3 | 12 |
 | 14 | Celta de Vigo | 10 | 1 | 7 | 2 | -2 | 10 |
 | 15 | Osasuna | 10 | 3 | 1 | 6 | -3 | 10 |
-| 16 | Levante | 10 | 2 | 3 | 5 | -4 | 9 |
-| 17 | Mallorca | 10 | 2 | 3 | 5 | -4 | 9 |
-| 18 | Valencia | 10 | 2 | 3 | 5 | -6 | 9 |
+| 16 | Valencia | 11 | 2 | 4 | 5 | -6 | 10 |
+| 17 | Levante | 10 | 2 | 3 | 5 | -4 | 9 |
+| 18 | Mallorca | 10 | 2 | 3 | 5 | -4 | 9 |
 | 19 | Real Oviedo | 10 | 2 | 1 | 7 | -12 | 7 |
 | 20 | Girona | 11 | 1 | 4 | 6 | -14 | 7 |
 
@@ -124,11 +124,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Roma | 9 | 7 | 0 | 2 | 6 | 21 |
 | 3 | Inter | 9 | 6 | 0 | 3 | 11 | 18 |
 | 4 | Milan | 9 | 5 | 3 | 1 | 7 | 18 |
-| 5 | Como | 10 | 4 | 5 | 1 | 6 | 17 |
-| 6 | Bologna | 9 | 4 | 3 | 2 | 6 | 15 |
-| 7 | Juventus | 9 | 4 | 3 | 2 | 3 | 15 |
+| 5 | Juventus | 10 | 5 | 3 | 2 | 4 | 18 |
+| 6 | Como | 10 | 4 | 5 | 1 | 6 | 17 |
+| 7 | Bologna | 9 | 4 | 3 | 2 | 6 | 15 |
 | 8 | Udinese | 10 | 4 | 3 | 3 | -3 | 15 |
-| 9 | Cremonese | 9 | 3 | 5 | 1 | 1 | 14 |
+| 9 | Cremonese | 10 | 3 | 5 | 2 | 0 | 14 |
 | 10 | Sassuolo | 9 | 4 | 1 | 4 | 0 | 13 |
 | 11 | Atalanta | 10 | 2 | 7 | 1 | 5 | 13 |
 | 12 | Lazio | 9 | 3 | 3 | 3 | 4 | 12 |
@@ -146,8 +146,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 11 | 7 | 3 | 1 | 12 | 24 |
-| 2 | Monaco | 11 | 6 | 2 | 3 | 6 | 20 |
-| 3 | Marseille | 10 | 6 | 1 | 3 | 13 | 19 |
+| 2 | Marseille | 11 | 6 | 2 | 3 | 13 | 20 |
+| 3 | Monaco | 11 | 6 | 2 | 3 | 6 | 20 |
 | 4 | Strasbourg | 10 | 6 | 1 | 3 | 9 | 19 |
 | 5 | Lyon | 10 | 6 | 1 | 3 | 4 | 19 |
 | 6 | Lens | 10 | 6 | 1 | 3 | 4 | 19 |
@@ -161,7 +161,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Brest | 10 | 2 | 3 | 5 | -4 | 9 |
 | 15 | Nantes | 10 | 2 | 3 | 5 | -5 | 9 |
 | 16 | Lorient | 10 | 2 | 3 | 5 | -9 | 9 |
-| 17 | Auxerre | 10 | 2 | 1 | 7 | -9 | 7 |
+| 17 | Auxerre | 11 | 2 | 2 | 7 | -9 | 8 |
 | 18 | Metz | 10 | 1 | 2 | 7 | -18 | 5 |
 
 ### Champions League
@@ -413,15 +413,15 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Newell's Old Boys | 14 | 2 | 5 | 7 | -11 | 11 |
 | 1 | Rosario | 14 | 8 | 6 | 0 | 11 | 30 |
 | 2 | Riestra | 14 | 8 | 3 | 3 | 8 | 27 |
-| 3 | Lanús | 13 | 8 | 2 | 3 | 6 | 26 |
-| 4 | Vélez | 13 | 7 | 4 | 2 | 10 | 25 |
+| 3 | Vélez | 14 | 7 | 5 | 2 | 10 | 26 |
+| 4 | Lanús | 13 | 8 | 2 | 3 | 6 | 26 |
 | 5 | San Lorenzo | 14 | 6 | 4 | 4 | 2 | 22 |
 | 6 | River Plate | 13 | 6 | 3 | 4 | 8 | 21 |
 | 7 | San Martín SJ | 13 | 4 | 5 | 4 | -1 | 17 |
 | 8 | Atl. Tucumán | 13 | 4 | 3 | 6 | -1 | 15 |
 | 9 | Sarmiento | 13 | 4 | 3 | 6 | -5 | 15 |
-| 10 | Instituto | 14 | 3 | 6 | 5 | -7 | 15 |
-| 11 | Talleres | 13 | 3 | 5 | 5 | -5 | 14 |
+| 10 | Talleres | 14 | 3 | 6 | 5 | -5 | 15 |
+| 11 | Instituto | 14 | 3 | 6 | 5 | -7 | 15 |
 | 12 | GELP | 13 | 4 | 1 | 8 | -8 | 13 |
 | 13 | Platense | 13 | 2 | 5 | 6 | -9 | 11 |
 | 14 | Godoy Cruz | 13 | 1 | 7 | 5 | -7 | 10 |
