@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 01 November 2025, 02:16 PM UTC (Saturday, 01 November 2025, 07:46 PM IST)
+**Last Updated:** Saturday, 01 November 2025, 02:38 PM UTC (Saturday, 01 November 2025, 08:08 PM IST)
 
 ### Premier League
 
@@ -73,15 +73,15 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 10 | 9 | 0 | 1 | 12 | 27 |
-| 2 | Villarreal | 11 | 7 | 2 | 2 | 10 | 23 |
+| 2 | Villarreal | 11 | 7 | 2 | 2 | 12 | 23 |
 | 3 | Barcelona | 10 | 7 | 1 | 2 | 13 | 22 |
 | 4 | Atlético de Madrid | 10 | 5 | 4 | 1 | 8 | 19 |
 | 5 | Espanyol | 10 | 5 | 3 | 2 | 3 | 18 |
 | 6 | Getafe | 11 | 5 | 2 | 4 | -1 | 17 |
 | 7 | Real Betis | 10 | 4 | 4 | 2 | 3 | 16 |
 | 8 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
-| 9 | Rayo Vallecano | 11 | 4 | 2 | 5 | 0 | 14 |
-| 10 | Athletic Bilbao | 10 | 4 | 2 | 4 | -1 | 14 |
+| 9 | Athletic Bilbao | 10 | 4 | 2 | 4 | -1 | 14 |
+| 10 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
 | 11 | Sevilla | 10 | 4 | 1 | 5 | 1 | 13 |
 | 12 | Alavés | 10 | 3 | 3 | 4 | 0 | 12 |
 | 13 | Celta de Vigo | 10 | 1 | 7 | 2 | -2 | 10 |
@@ -99,22 +99,22 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 8 | 8 | 0 | 0 | 26 | 24 |
 | 2 | Borussia Dortmund | 9 | 6 | 2 | 1 | 9 | 20 |
-| 3 | RB Leipzig | 8 | 6 | 1 | 1 | 7 | 19 |
-| 4 | VfB Stuttgart | 8 | 6 | 0 | 2 | 6 | 18 |
+| 3 | RB Leipzig | 9 | 6 | 2 | 1 | 7 | 20 |
+| 4 | VfB Stuttgart | 9 | 6 | 1 | 2 | 6 | 19 |
 | 5 | Bayer Leverkusen | 8 | 5 | 2 | 1 | 7 | 17 |
-| 6 | Eintracht Frankfurt | 8 | 4 | 1 | 3 | 3 | 13 |
+| 6 | Eintracht Frankfurt | 9 | 4 | 2 | 3 | 3 | 14 |
 | 7 | Hoffenheim | 8 | 4 | 1 | 3 | 2 | 13 |
-| 8 | Köln | 8 | 3 | 2 | 3 | 1 | 11 |
-| 9 | Werder Bremen | 8 | 3 | 2 | 3 | -4 | 11 |
-| 10 | Union Berlin | 8 | 3 | 1 | 4 | -4 | 10 |
-| 11 | SC Freiburg | 8 | 2 | 3 | 3 | -2 | 9 |
+| 8 | Werder Bremen | 9 | 3 | 3 | 3 | -4 | 12 |
+| 9 | Köln | 8 | 3 | 2 | 3 | 1 | 11 |
+| 10 | Union Berlin | 9 | 3 | 2 | 4 | -4 | 11 |
+| 11 | SC Freiburg | 9 | 2 | 4 | 3 | -2 | 10 |
 | 12 | VfL Wolfsburg | 8 | 2 | 2 | 4 | -4 | 8 |
 | 13 | Hamburg | 8 | 2 | 2 | 4 | -4 | 8 |
-| 14 | St. Pauli | 8 | 2 | 1 | 5 | -6 | 7 |
+| 14 | St. Pauli | 9 | 2 | 2 | 5 | -6 | 8 |
 | 15 | Augsburg | 9 | 2 | 1 | 6 | -9 | 7 |
-| 16 | Mainz 05 | 8 | 1 | 1 | 6 | -7 | 4 |
-| 17 | Heidenheim | 8 | 1 | 1 | 6 | -9 | 4 |
-| 18 | Borussia Mönchengladbach | 8 | 0 | 3 | 5 | -12 | 3 |
+| 16 | Mainz 05 | 9 | 1 | 2 | 6 | -7 | 5 |
+| 17 | Heidenheim | 9 | 1 | 2 | 6 | -9 | 5 |
+| 18 | Borussia Mönchengladbach | 9 | 0 | 4 | 5 | -12 | 4 |
 
 ### Serie A
 
@@ -318,7 +318,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Middlesbrough | 12 | 7 | 4 | 1 | 8 | 25 |
 | 3 | Millwall | 12 | 7 | 2 | 3 | 1 | 23 |
 | 4 | Bristol City | 12 | 6 | 4 | 2 | 9 | 22 |
-| 5 | Hull City | 13 | 6 | 4 | 3 | 1 | 22 |
+| 5 | Hull City | 13 | 6 | 4 | 3 | 2 | 22 |
 | 6 | Stoke City | 12 | 6 | 3 | 3 | 5 | 21 |
 | 7 | Charlton Athletic | 12 | 5 | 4 | 3 | 4 | 19 |
 | 8 | Preston North End | 12 | 5 | 4 | 3 | 3 | 19 |
@@ -336,7 +336,7 @@ The latest league standings are displayed below in Markdown tables:
 | 20 | Oxford United | 12 | 3 | 3 | 6 | -2 | 12 |
 | 21 | Southampton | 12 | 2 | 6 | 4 | -4 | 12 |
 | 22 | Sheffield United | 12 | 3 | 0 | 9 | -11 | 9 |
-| 23 | Norwich City | 13 | 2 | 2 | 9 | -7 | 8 |
+| 23 | Norwich City | 13 | 2 | 2 | 9 | -8 | 8 |
 | 24 | Sheffield Wednesday | 13 | 1 | 4 | 8 | -15 | -5 |
 
 ### Major League Soccer (MLS)
