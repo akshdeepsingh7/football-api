@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 01 November 2025, 11:37 AM UTC (Saturday, 01 November 2025, 05:07 PM IST)
+**Last Updated:** Saturday, 01 November 2025, 12:36 PM UTC (Saturday, 01 November 2025, 06:06 PM IST)
 
 ### Premier League
 
@@ -319,13 +319,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Millwall | 12 | 7 | 2 | 3 | 1 | 23 |
 | 4 | Bristol City | 12 | 6 | 4 | 2 | 9 | 22 |
 | 5 | Stoke City | 12 | 6 | 3 | 3 | 5 | 21 |
-| 6 | Charlton Athletic | 12 | 5 | 4 | 3 | 4 | 19 |
-| 7 | Preston North End | 12 | 5 | 4 | 3 | 3 | 19 |
-| 8 | Hull City | 12 | 5 | 4 | 3 | 0 | 19 |
-| 9 | Queens Park Rangers | 12 | 5 | 3 | 4 | -2 | 18 |
-| 10 | Leicester City | 12 | 4 | 5 | 3 | 3 | 17 |
-| 11 | Wrexham | 13 | 4 | 5 | 4 | 0 | 17 |
-| 12 | West Bromwich Albion | 12 | 5 | 2 | 5 | -2 | 17 |
+| 6 | Hull City | 13 | 5 | 5 | 3 | 0 | 20 |
+| 7 | Charlton Athletic | 12 | 5 | 4 | 3 | 4 | 19 |
+| 8 | Preston North End | 12 | 5 | 4 | 3 | 3 | 19 |
+| 9 | Leicester City | 13 | 4 | 6 | 3 | 3 | 18 |
+| 10 | Queens Park Rangers | 12 | 5 | 3 | 4 | -2 | 18 |
+| 11 | West Bromwich Albion | 13 | 5 | 3 | 5 | -2 | 18 |
+| 12 | Wrexham | 13 | 4 | 5 | 4 | 0 | 17 |
 | 13 | Ipswich Town | 11 | 4 | 4 | 3 | 4 | 16 |
 | 14 | Swansea City | 12 | 4 | 4 | 4 | 0 | 16 |
 | 15 | Watford | 12 | 4 | 3 | 5 | -2 | 15 |
@@ -334,10 +334,10 @@ The latest league standings are displayed below in Markdown tables:
 | 18 | Portsmouth | 12 | 3 | 4 | 5 | -3 | 13 |
 | 19 | Oxford United | 12 | 3 | 3 | 6 | -2 | 12 |
 | 20 | Southampton | 12 | 2 | 6 | 4 | -4 | 12 |
-| 21 | Blackburn Rovers | 11 | 3 | 1 | 7 | -7 | 10 |
-| 22 | Sheffield United | 12 | 3 | 0 | 9 | -11 | 9 |
-| 23 | Norwich City | 12 | 2 | 2 | 8 | -6 | 8 |
-| 24 | Sheffield Wednesday | 12 | 1 | 3 | 8 | -15 | -6 |
+| 21 | Blackburn Rovers | 12 | 3 | 2 | 7 | -7 | 11 |
+| 22 | Norwich City | 13 | 2 | 3 | 8 | -6 | 9 |
+| 23 | Sheffield United | 12 | 3 | 0 | 9 | -11 | 9 |
+| 24 | Sheffield Wednesday | 13 | 1 | 4 | 8 | -15 | -5 |
 
 ### Major League Soccer (MLS)
 
