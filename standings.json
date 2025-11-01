@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 08:18 PM UTC",
-        "IST": "Sunday, 02 November 2025, 01:48 AM IST"
+        "UTC": "Saturday, 01 November 2025, 08:38 PM UTC",
+        "IST": "Sunday, 02 November 2025, 02:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -211,11 +211,11 @@
                 "Position": "1",
                 "Team": "Real Madrid",
                 "Played": "11",
-                "Wins": "9",
-                "Draws": "1",
+                "Wins": "10",
+                "Draws": "0",
                 "Losses": "1",
-                "Goal Difference": "12",
-                "Points": "28"
+                "Goal Difference": "14",
+                "Points": "30"
             },
             {
                 "Position": "2",
@@ -359,16 +359,6 @@
             },
             {
                 "Position": "16",
-                "Team": "Valencia",
-                "Played": "11",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "-6",
-                "Points": "10"
-            },
-            {
-                "Position": "17",
                 "Team": "Levante",
                 "Played": "10",
                 "Wins": "2",
@@ -378,13 +368,23 @@
                 "Points": "9"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Mallorca",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "-4",
+                "Points": "9"
+            },
+            {
+                "Position": "18",
+                "Team": "Valencia",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-8",
                 "Points": "9"
             },
             {
@@ -807,11 +807,11 @@
                 "Position": "2",
                 "Team": "Marseille",
                 "Played": "11",
-                "Wins": "6",
-                "Draws": "2",
+                "Wins": "7",
+                "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "13",
-                "Points": "20"
+                "Goal Difference": "14",
+                "Points": "22"
             },
             {
                 "Position": "3",
@@ -958,10 +958,10 @@
                 "Team": "Auxerre",
                 "Played": "11",
                 "Wins": "2",
-                "Draws": "2",
-                "Losses": "7",
-                "Goal Difference": "-9",
-                "Points": "8"
+                "Draws": "1",
+                "Losses": "8",
+                "Goal Difference": "-10",
+                "Points": "7"
             },
             {
                 "Position": "18",
@@ -2084,12 +2084,12 @@
             {
                 "Position": "3",
                 "Team": "Benfica",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "6",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "0",
                 "Goal Difference": "14",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "4",
@@ -2134,12 +2134,12 @@
             {
                 "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "3",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "11"
+                "Points": "12"
             },
             {
                 "Position": "9",
@@ -3376,10 +3376,10 @@
                 "Team": "Santos",
                 "Played": "30",
                 "Wins": "8",
-                "Draws": "8",
-                "Losses": "14",
-                "Goal Difference": "-13",
-                "Points": "32"
+                "Draws": "9",
+                "Losses": "13",
+                "Goal Difference": "-12",
+                "Points": "33"
             },
             {
                 "Position": "17",
@@ -3395,11 +3395,11 @@
                 "Position": "18",
                 "Team": "Fortaleza",
                 "Played": "30",
-                "Wins": "8",
-                "Draws": "6",
+                "Wins": "7",
+                "Draws": "7",
                 "Losses": "16",
-                "Goal Difference": "-16",
-                "Points": "30"
+                "Goal Difference": "-17",
+                "Points": "28"
             },
             {
                 "Position": "19",
