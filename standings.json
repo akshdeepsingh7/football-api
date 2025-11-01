@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 08:38 PM UTC",
-        "IST": "Sunday, 02 November 2025, 02:08 AM IST"
+        "UTC": "Saturday, 01 November 2025, 09:15 PM UTC",
+        "IST": "Sunday, 02 November 2025, 02:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -27,6 +27,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Liverpool FC",
+                "Played": "10",
+                "Wins": "6",
+                "Draws": "0",
+                "Losses": "4",
+                "Goal Difference": "3",
+                "Points": "18"
+            },
+            {
+                "Position": "4",
                 "Team": "Tottenham Hotspur",
                 "Played": "10",
                 "Wins": "5",
@@ -36,7 +46,7 @@
                 "Points": "17"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Chelsea",
                 "Played": "10",
                 "Wins": "5",
@@ -46,7 +56,7 @@
                 "Points": "17"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Sunderland",
                 "Played": "9",
                 "Wins": "5",
@@ -56,7 +66,7 @@
                 "Points": "17"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Manchester United",
                 "Played": "10",
                 "Wins": "5",
@@ -66,7 +76,7 @@
                 "Points": "17"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Manchester City",
                 "Played": "9",
                 "Wins": "5",
@@ -76,7 +86,7 @@
                 "Points": "16"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Crystal Palace",
                 "Played": "10",
                 "Wins": "4",
@@ -86,33 +96,23 @@
                 "Points": "16"
             },
             {
-                "Position": "9",
-                "Team": "Liverpool FC",
-                "Played": "10",
-                "Wins": "5",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "2",
-                "Points": "16"
-            },
-            {
                 "Position": "10",
-                "Team": "Aston Villa",
-                "Played": "10",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "16"
-            },
-            {
-                "Position": "11",
                 "Team": "Brighton & Hove Albion",
                 "Played": "10",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "2",
+                "Points": "15"
+            },
+            {
+                "Position": "11",
+                "Team": "Aston Villa",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "0",
                 "Points": "15"
             },
             {
@@ -214,7 +214,7 @@
                 "Wins": "10",
                 "Draws": "0",
                 "Losses": "1",
-                "Goal Difference": "14",
+                "Goal Difference": "15",
                 "Points": "30"
             },
             {
@@ -384,7 +384,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "-8",
+                "Goal Difference": "-9",
                 "Points": "9"
             },
             {
@@ -638,7 +638,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "18"
             },
             {
@@ -678,7 +678,7 @@
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "2",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "14"
             },
             {
@@ -2941,22 +2941,22 @@
             },
             {
                 "Position": "3",
+                "Team": "Barracas",
+                "Played": "14",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "21"
+            },
+            {
+                "Position": "4",
                 "Team": "Estudiantes",
                 "Played": "13",
                 "Wins": "6",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "2",
-                "Points": "21"
-            },
-            {
-                "Position": "4",
-                "Team": "Barracas",
-                "Played": "14",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "1",
                 "Points": "21"
             },
             {
@@ -2986,7 +2986,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "4",
+                "Goal Difference": "3",
                 "Points": "18"
             },
             {
@@ -3091,16 +3091,6 @@
             },
             {
                 "Position": "3",
-                "Team": "V\u00e9lez",
-                "Played": "14",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "10",
-                "Points": "26"
-            },
-            {
-                "Position": "4",
                 "Team": "Lan\u00fas",
                 "Played": "13",
                 "Wins": "8",
@@ -3108,6 +3098,16 @@
                 "Losses": "3",
                 "Goal Difference": "6",
                 "Points": "26"
+            },
+            {
+                "Position": "4",
+                "Team": "V\u00e9lez",
+                "Played": "14",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "9",
+                "Points": "25"
             },
             {
                 "Position": "5",
@@ -3141,6 +3141,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Talleres",
+                "Played": "14",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "-4",
+                "Points": "17"
+            },
+            {
+                "Position": "9",
                 "Team": "Atl. Tucum\u00e1n",
                 "Played": "13",
                 "Wins": "4",
@@ -3150,22 +3160,12 @@
                 "Points": "15"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Sarmiento",
                 "Played": "13",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "15"
-            },
-            {
-                "Position": "10",
-                "Team": "Talleres",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "5",
                 "Goal Difference": "-5",
                 "Points": "15"
             },
@@ -3254,12 +3254,12 @@
             {
                 "Position": "4",
                 "Team": "Mirassol",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "15",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "5",
                 "Goal Difference": "21",
-                "Points": "55"
+                "Points": "56"
             },
             {
                 "Position": "5",
@@ -3273,22 +3273,22 @@
             },
             {
                 "Position": "6",
+                "Team": "Botafogo",
+                "Played": "31",
+                "Wins": "13",
+                "Draws": "9",
+                "Losses": "9",
+                "Goal Difference": "13",
+                "Points": "48"
+            },
+            {
+                "Position": "7",
                 "Team": "Fluminense",
                 "Played": "30",
                 "Wins": "14",
                 "Draws": "5",
                 "Losses": "11",
                 "Goal Difference": "2",
-                "Points": "47"
-            },
-            {
-                "Position": "7",
-                "Team": "Botafogo",
-                "Played": "30",
-                "Wins": "13",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "13",
                 "Points": "47"
             },
             {
