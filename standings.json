@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 11:17 PM UTC",
-        "IST": "Monday, 03 November 2025, 04:47 AM IST"
+        "UTC": "Sunday, 02 November 2025, 11:37 PM UTC",
+        "IST": "Monday, 03 November 2025, 05:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3111,6 +3111,16 @@
             },
             {
                 "Position": "5",
+                "Team": "River Plate",
+                "Played": "14",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "8",
+                "Points": "22"
+            },
+            {
+                "Position": "6",
                 "Team": "San Lorenzo",
                 "Played": "14",
                 "Wins": "6",
@@ -3118,16 +3128,6 @@
                 "Losses": "4",
                 "Goal Difference": "2",
                 "Points": "22"
-            },
-            {
-                "Position": "6",
-                "Team": "River Plate",
-                "Played": "13",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "8",
-                "Points": "21"
             },
             {
                 "Position": "7",
@@ -3182,12 +3182,12 @@
             {
                 "Position": "12",
                 "Team": "GELP",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "4",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "8",
                 "Goal Difference": "-8",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "13",
@@ -3294,15 +3294,25 @@
             {
                 "Position": "8",
                 "Team": "Vasco da Gama",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "12",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "12",
                 "Goal Difference": "8",
-                "Points": "42"
+                "Points": "43"
             },
             {
                 "Position": "9",
+                "Team": "S\u00e3o Paulo",
+                "Played": "31",
+                "Wins": "11",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "0",
+                "Points": "42"
+            },
+            {
+                "Position": "10",
                 "Team": "Corinthians",
                 "Played": "31",
                 "Wins": "11",
@@ -3310,16 +3320,6 @@
                 "Losses": "11",
                 "Goal Difference": "-1",
                 "Points": "42"
-            },
-            {
-                "Position": "10",
-                "Team": "S\u00e3o Paulo",
-                "Played": "30",
-                "Wins": "11",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "0",
-                "Points": "41"
             },
             {
                 "Position": "11",
