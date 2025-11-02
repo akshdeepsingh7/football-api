@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 05:16 PM UTC",
-        "IST": "Sunday, 02 November 2025, 10:46 PM IST"
+        "UTC": "Sunday, 02 November 2025, 05:38 PM UTC",
+        "IST": "Sunday, 02 November 2025, 11:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -219,6 +219,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Barcelona",
+                "Played": "11",
+                "Wins": "7",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "13",
+                "Points": "23"
+            },
+            {
+                "Position": "3",
                 "Team": "Villarreal",
                 "Played": "11",
                 "Wins": "7",
@@ -226,16 +236,6 @@
                 "Losses": "2",
                 "Goal Difference": "12",
                 "Points": "23"
-            },
-            {
-                "Position": "3",
-                "Team": "Barcelona",
-                "Played": "10",
-                "Wins": "7",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "13",
-                "Points": "22"
             },
             {
                 "Position": "4",
@@ -279,6 +279,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Elche",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "15"
+            },
+            {
+                "Position": "9",
                 "Team": "Alav\u00e9s",
                 "Played": "11",
                 "Wins": "4",
@@ -286,16 +296,6 @@
                 "Losses": "4",
                 "Goal Difference": "1",
                 "Points": "15"
-            },
-            {
-                "Position": "9",
-                "Team": "Elche",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "14"
             },
             {
                 "Position": "10",
@@ -656,10 +656,10 @@
                 "Team": "Bologna",
                 "Played": "10",
                 "Wins": "4",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "5",
-                "Points": "15"
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "16"
             },
             {
                 "Position": "8",
@@ -723,16 +723,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Parma",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "10"
-            },
-            {
-                "Position": "15",
                 "Team": "Cagliari",
                 "Played": "9",
                 "Wins": "2",
@@ -742,7 +732,7 @@
                 "Points": "9"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Lecce",
                 "Played": "10",
                 "Wins": "2",
@@ -750,6 +740,16 @@
                 "Losses": "5",
                 "Goal Difference": "-6",
                 "Points": "9"
+            },
+            {
+                "Position": "16",
+                "Team": "Parma",
+                "Played": "10",
+                "Wins": "1",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "8"
             },
             {
                 "Position": "17",
