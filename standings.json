@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 12:36 PM UTC",
-        "IST": "Sunday, 02 November 2025, 06:06 PM IST"
+        "UTC": "Sunday, 02 November 2025, 01:23 PM UTC",
+        "IST": "Sunday, 02 November 2025, 06:53 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -340,12 +340,12 @@
             {
                 "Position": "14",
                 "Team": "Celta de Vigo",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "1",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "2",
                 "Goal Difference": "-2",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "15",
@@ -360,12 +360,12 @@
             {
                 "Position": "16",
                 "Team": "Levante",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "2",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "-4",
-                "Points": "9"
+                "Points": "10"
             },
             {
                 "Position": "17",
