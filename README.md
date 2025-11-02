@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 02 November 2025, 09:16 PM UTC (Monday, 03 November 2025, 02:46 AM IST)
+**Last Updated:** Sunday, 02 November 2025, 09:37 PM UTC (Monday, 03 November 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -291,13 +291,13 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 10 | 8 | 2 | 0 | 19 | 26 |
+| 1 | Porto | 10 | 9 | 1 | 0 | 20 | 28 |
 | 2 | Sporting CP | 10 | 8 | 1 | 1 | 20 | 25 |
 | 3 | Benfica | 10 | 7 | 3 | 0 | 17 | 24 |
 | 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Famalicão | 10 | 5 | 4 | 1 | 7 | 19 |
 | 6 | Moreirense | 10 | 6 | 0 | 4 | 2 | 18 |
-| 7 | Braga | 10 | 3 | 5 | 2 | 8 | 14 |
+| 7 | Braga | 10 | 3 | 4 | 3 | 7 | 13 |
 | 8 | Vitória S.C. | 10 | 3 | 2 | 5 | -8 | 11 |
 | 9 | Nacional | 10 | 3 | 2 | 5 | -4 | 11 |
 | 10 | Rio Ave | 10 | 2 | 5 | 3 | -5 | 11 |
@@ -417,22 +417,22 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Vélez | 14 | 7 | 4 | 3 | 9 | 25 |
 | 5 | San Lorenzo | 14 | 6 | 4 | 4 | 2 | 22 |
 | 6 | River Plate | 13 | 6 | 3 | 4 | 8 | 21 |
-| 7 | San Martín SJ | 13 | 4 | 5 | 4 | -1 | 17 |
+| 7 | San Martín SJ | 14 | 4 | 6 | 4 | -1 | 18 |
 | 8 | Talleres | 14 | 4 | 5 | 5 | -4 | 17 |
 | 9 | Atl. Tucumán | 14 | 4 | 3 | 7 | -4 | 15 |
 | 10 | Sarmiento | 13 | 4 | 3 | 6 | -5 | 15 |
 | 11 | Instituto | 14 | 3 | 6 | 5 | -7 | 15 |
 | 12 | GELP | 13 | 4 | 1 | 8 | -8 | 13 |
 | 13 | Independiente | 14 | 2 | 6 | 6 | -1 | 12 |
-| 14 | Platense | 13 | 2 | 5 | 6 | -9 | 11 |
-| 15 | Godoy Cruz | 13 | 1 | 7 | 5 | -7 | 10 |
+| 14 | Godoy Cruz | 14 | 1 | 8 | 5 | -7 | 11 |
+| 15 | Platense | 13 | 2 | 5 | 6 | -9 | 11 |
 
 ### Brasileirão
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 30 | 19 | 7 | 4 | 43 | 64 |
-| 2 | Palmeiras | 29 | 19 | 5 | 5 | 27 | 62 |
+| 2 | Palmeiras | 30 | 19 | 6 | 5 | 27 | 63 |
 | 3 | Cruzeiro | 31 | 17 | 9 | 5 | 23 | 60 |
 | 4 | Mirassol | 31 | 15 | 11 | 5 | 21 | 56 |
 | 5 | Bahia | 31 | 15 | 7 | 9 | 7 | 52 |
@@ -443,13 +443,13 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | São Paulo | 30 | 11 | 8 | 11 | 0 | 41 |
 | 11 | Grêmio | 31 | 10 | 9 | 12 | -7 | 39 |
 | 12 | Ceará | 31 | 10 | 8 | 13 | 0 | 38 |
-| 13 | RB Bragantino | 31 | 10 | 6 | 15 | -14 | 36 |
-| 14 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
-| 15 | Internacional | 30 | 9 | 8 | 13 | -8 | 35 |
+| 13 | Atlético Mineiro | 30 | 9 | 10 | 11 | -5 | 37 |
+| 14 | RB Bragantino | 31 | 10 | 6 | 15 | -14 | 36 |
+| 15 | Internacional | 31 | 9 | 9 | 13 | -8 | 36 |
 | 16 | Santos | 30 | 8 | 9 | 13 | -12 | 33 |
 | 17 | Vitória | 31 | 7 | 10 | 14 | -19 | 31 |
 | 18 | Fortaleza | 30 | 7 | 7 | 16 | -17 | 28 |
-| 19 | Juventude | 30 | 7 | 5 | 18 | -32 | 26 |
+| 19 | Juventude | 31 | 7 | 6 | 18 | -32 | 27 |
 | 20 | Sport | 30 | 2 | 11 | 17 | -27 | 17 |
 
 
