@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 02 November 2025, 03:17 PM UTC (Sunday, 02 November 2025, 08:47 PM IST)
+**Last Updated:** Sunday, 02 November 2025, 03:37 PM UTC (Sunday, 02 November 2025, 09:07 PM IST)
 
 ### Premier League
 
@@ -76,13 +76,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Villarreal | 11 | 7 | 2 | 2 | 12 | 23 |
 | 3 | Barcelona | 10 | 7 | 1 | 2 | 13 | 22 |
 | 4 | Atlético de Madrid | 11 | 6 | 4 | 1 | 11 | 22 |
-| 5 | Espanyol | 11 | 5 | 4 | 2 | 3 | 19 |
+| 5 | Espanyol | 11 | 5 | 3 | 3 | 2 | 18 |
 | 6 | Getafe | 11 | 5 | 2 | 4 | -1 | 17 |
 | 7 | Real Betis | 10 | 4 | 4 | 2 | 3 | 16 |
-| 8 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
-| 9 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
-| 10 | Athletic Bilbao | 11 | 4 | 2 | 5 | -2 | 14 |
-| 11 | Alavés | 11 | 3 | 4 | 4 | 0 | 13 |
+| 8 | Alavés | 11 | 4 | 3 | 4 | 1 | 15 |
+| 9 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
+| 10 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
+| 11 | Athletic Bilbao | 11 | 4 | 2 | 5 | -2 | 14 |
 | 12 | Celta de Vigo | 11 | 2 | 7 | 2 | -1 | 13 |
 | 13 | Sevilla | 11 | 4 | 1 | 6 | -2 | 13 |
 | 14 | Real Sociedad | 11 | 3 | 3 | 5 | -3 | 12 |
@@ -307,8 +307,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Alverca | 10 | 3 | 1 | 6 | -7 | 10 |
 | 15 | Arouca | 9 | 2 | 3 | 4 | -14 | 9 |
 | 16 | Casa Pia | 10 | 2 | 2 | 6 | -11 | 8 |
-| 17 | Tondela | 9 | 1 | 2 | 6 | -13 | 5 |
-| 18 | AVS | 9 | 0 | 1 | 8 | -17 | 1 |
+| 17 | Tondela | 10 | 1 | 3 | 6 | -13 | 6 |
+| 18 | AVS | 10 | 0 | 2 | 8 | -17 | 2 |
 
 ### EFL Championship
 

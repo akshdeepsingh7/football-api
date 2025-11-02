@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 03:17 PM UTC",
-        "IST": "Sunday, 02 November 2025, 08:47 PM IST"
+        "UTC": "Sunday, 02 November 2025, 03:37 PM UTC",
+        "IST": "Sunday, 02 November 2025, 09:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -252,10 +252,10 @@
                 "Team": "Espanyol",
                 "Played": "11",
                 "Wins": "5",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "19"
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "18"
             },
             {
                 "Position": "6",
@@ -279,6 +279,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Alav\u00e9s",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "1",
+                "Points": "15"
+            },
+            {
+                "Position": "9",
                 "Team": "Elche",
                 "Played": "10",
                 "Wins": "3",
@@ -288,7 +298,7 @@
                 "Points": "14"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Rayo Vallecano",
                 "Played": "11",
                 "Wins": "4",
@@ -298,7 +308,7 @@
                 "Points": "14"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Athletic Bilbao",
                 "Played": "11",
                 "Wins": "4",
@@ -306,16 +316,6 @@
                 "Losses": "5",
                 "Goal Difference": "-2",
                 "Points": "14"
-            },
-            {
-                "Position": "11",
-                "Team": "Alav\u00e9s",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "0",
-                "Points": "13"
             },
             {
                 "Position": "12",
@@ -2224,22 +2224,22 @@
             {
                 "Position": "17",
                 "Team": "Tondela",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "1",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "-13",
-                "Points": "5"
+                "Points": "6"
             },
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "0",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "8",
                 "Goal Difference": "-17",
-                "Points": "1"
+                "Points": "2"
             }
         ],
         "EFL Championship": [
