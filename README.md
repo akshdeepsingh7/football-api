@@ -41,16 +41,16 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 02 November 2025, 04:42 PM UTC (Sunday, 02 November 2025, 10:12 PM IST)
+**Last Updated:** Sunday, 02 November 2025, 05:16 PM UTC (Sunday, 02 November 2025, 10:46 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 10 | 8 | 1 | 1 | 15 | 25 |
-| 2 | AFC Bournemouth | 10 | 5 | 4 | 1 | 5 | 19 |
+| 2 | Manchester City | 10 | 6 | 1 | 3 | 11 | 19 |
 | 3 | Liverpool FC | 10 | 6 | 0 | 4 | 4 | 18 |
-| 4 | Manchester City | 10 | 5 | 2 | 3 | 10 | 17 |
+| 4 | AFC Bournemouth | 10 | 5 | 3 | 2 | 4 | 18 |
 | 5 | Tottenham Hotspur | 10 | 5 | 2 | 3 | 9 | 17 |
 | 6 | Chelsea | 10 | 5 | 2 | 3 | 7 | 17 |
 | 7 | Sunderland | 9 | 5 | 2 | 2 | 4 | 17 |
@@ -126,16 +126,16 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Milan | 9 | 5 | 3 | 1 | 7 | 18 |
 | 5 | Juventus | 10 | 5 | 3 | 2 | 4 | 18 |
 | 6 | Como | 10 | 4 | 5 | 1 | 6 | 17 |
-| 7 | Bologna | 9 | 4 | 3 | 2 | 6 | 15 |
+| 7 | Bologna | 10 | 4 | 3 | 3 | 5 | 15 |
 | 8 | Udinese | 10 | 4 | 3 | 3 | -3 | 15 |
 | 9 | Cremonese | 10 | 3 | 5 | 2 | 0 | 14 |
 | 10 | Sassuolo | 9 | 4 | 1 | 4 | 0 | 13 |
 | 11 | Atalanta | 10 | 2 | 7 | 1 | 5 | 13 |
 | 12 | Torino | 10 | 3 | 4 | 3 | -6 | 13 |
 | 13 | Lazio | 9 | 3 | 3 | 3 | 4 | 12 |
-| 14 | Cagliari | 9 | 2 | 3 | 4 | -3 | 9 |
-| 15 | Lecce | 10 | 2 | 3 | 5 | -6 | 9 |
-| 16 | Parma | 9 | 1 | 4 | 4 | -5 | 7 |
+| 14 | Parma | 10 | 2 | 4 | 4 | -4 | 10 |
+| 15 | Cagliari | 9 | 2 | 3 | 4 | -3 | 9 |
+| 16 | Lecce | 10 | 2 | 3 | 5 | -6 | 9 |
 | 17 | Pisa | 10 | 0 | 6 | 4 | -7 | 6 |
 | 18 | Hellas Verona | 10 | 0 | 5 | 5 | -10 | 5 |
 | 19 | Fiorentina | 10 | 0 | 4 | 6 | -9 | 4 |
@@ -148,17 +148,17 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 11 | 7 | 3 | 1 | 12 | 24 |
 | 2 | Marseille | 11 | 7 | 1 | 3 | 14 | 22 |
 | 3 | Lens | 11 | 7 | 1 | 3 | 5 | 22 |
-| 4 | Monaco | 11 | 6 | 2 | 3 | 6 | 20 |
-| 5 | Strasbourg | 11 | 6 | 1 | 4 | 6 | 19 |
-| 6 | Lyon | 10 | 6 | 1 | 3 | 4 | 19 |
-| 7 | Lille | 11 | 5 | 3 | 3 | 9 | 18 |
+| 4 | Lille | 11 | 6 | 2 | 3 | 10 | 20 |
+| 5 | Monaco | 11 | 6 | 2 | 3 | 6 | 20 |
+| 6 | Strasbourg | 11 | 6 | 1 | 4 | 6 | 19 |
+| 7 | Lyon | 10 | 6 | 1 | 3 | 4 | 19 |
 | 8 | Nice | 11 | 5 | 2 | 4 | 0 | 17 |
 | 9 | Toulouse | 11 | 4 | 3 | 4 | 2 | 15 |
 | 10 | Rennes | 11 | 3 | 6 | 2 | 1 | 15 |
 | 11 | Paris FC | 11 | 4 | 2 | 5 | -2 | 14 |
 | 12 | Le Havre | 11 | 3 | 4 | 4 | -4 | 13 |
-| 13 | Angers | 11 | 2 | 5 | 4 | -6 | 11 |
-| 14 | Nantes | 11 | 2 | 4 | 5 | -5 | 10 |
+| 13 | Nantes | 11 | 2 | 4 | 5 | -5 | 10 |
+| 14 | Angers | 11 | 2 | 4 | 5 | -7 | 10 |
 | 15 | Brest | 10 | 2 | 3 | 5 | -4 | 9 |
 | 16 | Lorient | 11 | 2 | 3 | 6 | -10 | 9 |
 | 17 | Auxerre | 11 | 2 | 1 | 8 | -10 | 7 |

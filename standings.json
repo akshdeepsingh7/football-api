@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 04:42 PM UTC",
-        "IST": "Sunday, 02 November 2025, 10:12 PM IST"
+        "UTC": "Sunday, 02 November 2025, 05:16 PM UTC",
+        "IST": "Sunday, 02 November 2025, 10:46 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -17,12 +17,12 @@
             },
             {
                 "Position": "2",
-                "Team": "AFC Bournemouth",
+                "Team": "Manchester City",
                 "Played": "10",
-                "Wins": "5",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "5",
+                "Wins": "6",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "11",
                 "Points": "19"
             },
             {
@@ -37,13 +37,13 @@
             },
             {
                 "Position": "4",
-                "Team": "Manchester City",
+                "Team": "AFC Bournemouth",
                 "Played": "10",
                 "Wins": "5",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "10",
-                "Points": "17"
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "18"
             },
             {
                 "Position": "5",
@@ -654,11 +654,11 @@
             {
                 "Position": "7",
                 "Team": "Bologna",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "4",
                 "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "6",
+                "Losses": "3",
+                "Goal Difference": "5",
                 "Points": "15"
             },
             {
@@ -723,6 +723,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Parma",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "10"
+            },
+            {
+                "Position": "15",
                 "Team": "Cagliari",
                 "Played": "9",
                 "Wins": "2",
@@ -732,7 +742,7 @@
                 "Points": "9"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Lecce",
                 "Played": "10",
                 "Wins": "2",
@@ -740,16 +750,6 @@
                 "Losses": "5",
                 "Goal Difference": "-6",
                 "Points": "9"
-            },
-            {
-                "Position": "16",
-                "Team": "Parma",
-                "Played": "9",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "7"
             },
             {
                 "Position": "17",
@@ -825,6 +825,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Lille",
+                "Played": "11",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "10",
+                "Points": "20"
+            },
+            {
+                "Position": "5",
                 "Team": "Monaco",
                 "Played": "11",
                 "Wins": "6",
@@ -834,7 +844,7 @@
                 "Points": "20"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Strasbourg",
                 "Played": "11",
                 "Wins": "6",
@@ -844,7 +854,7 @@
                 "Points": "19"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Lyon",
                 "Played": "10",
                 "Wins": "6",
@@ -852,16 +862,6 @@
                 "Losses": "3",
                 "Goal Difference": "4",
                 "Points": "19"
-            },
-            {
-                "Position": "7",
-                "Team": "Lille",
-                "Played": "11",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "9",
-                "Points": "18"
             },
             {
                 "Position": "8",
@@ -915,22 +915,22 @@
             },
             {
                 "Position": "13",
-                "Team": "Angers",
-                "Played": "11",
-                "Wins": "2",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "-6",
-                "Points": "11"
-            },
-            {
-                "Position": "14",
                 "Team": "Nantes",
                 "Played": "11",
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "-5",
+                "Points": "10"
+            },
+            {
+                "Position": "14",
+                "Team": "Angers",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-7",
                 "Points": "10"
             },
             {
