@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 03:37 PM UTC",
-        "IST": "Sunday, 02 November 2025, 09:07 PM IST"
+        "UTC": "Sunday, 02 November 2025, 04:22 PM UTC",
+        "IST": "Sunday, 02 November 2025, 09:52 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -132,7 +132,7 @@
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "12"
             },
             {
@@ -182,7 +182,7 @@
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "7",
-                "Goal Difference": "-12",
+                "Goal Difference": "-11",
                 "Points": "7"
             },
             {
@@ -254,7 +254,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "18"
             },
             {
@@ -284,7 +284,7 @@
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "15"
             },
             {
@@ -825,6 +825,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Lens",
+                "Played": "11",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "4",
+                "Points": "20"
+            },
+            {
+                "Position": "5",
                 "Team": "Strasbourg",
                 "Played": "11",
                 "Wins": "6",
@@ -834,18 +844,8 @@
                 "Points": "19"
             },
             {
-                "Position": "5",
-                "Team": "Lyon",
-                "Played": "10",
-                "Wins": "6",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "4",
-                "Points": "19"
-            },
-            {
                 "Position": "6",
-                "Team": "Lens",
+                "Team": "Lyon",
                 "Played": "10",
                 "Wins": "6",
                 "Draws": "1",
@@ -856,12 +856,12 @@
             {
                 "Position": "7",
                 "Team": "Lille",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "5",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "9",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "8",
@@ -875,6 +875,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Toulouse",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "2",
+                "Points": "15"
+            },
+            {
+                "Position": "10",
                 "Team": "Rennes",
                 "Played": "11",
                 "Wins": "3",
@@ -882,16 +892,6 @@
                 "Losses": "2",
                 "Goal Difference": "1",
                 "Points": "15"
-            },
-            {
-                "Position": "10",
-                "Team": "Toulouse",
-                "Played": "10",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "2",
-                "Points": "14"
             },
             {
                 "Position": "11",
@@ -906,51 +906,51 @@
             {
                 "Position": "12",
                 "Team": "Le Havre",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "3",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "-4",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "13",
                 "Team": "Angers",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "2",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "-6",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "14",
+                "Team": "Nantes",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-5",
+                "Points": "10"
+            },
+            {
+                "Position": "15",
+                "Team": "Lorient",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-9",
+                "Points": "10"
+            },
+            {
+                "Position": "16",
                 "Team": "Brest",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "-4",
-                "Points": "9"
-            },
-            {
-                "Position": "15",
-                "Team": "Nantes",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-5",
-                "Points": "9"
-            },
-            {
-                "Position": "16",
-                "Team": "Lorient",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-9",
                 "Points": "9"
             },
             {
@@ -966,12 +966,12 @@
             {
                 "Position": "18",
                 "Team": "Metz",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "1",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "7",
                 "Goal Difference": "-18",
-                "Points": "5"
+                "Points": "6"
             }
         ],
         "Champions League": [

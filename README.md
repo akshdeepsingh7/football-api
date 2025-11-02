@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 02 November 2025, 03:37 PM UTC (Sunday, 02 November 2025, 09:07 PM IST)
+**Last Updated:** Sunday, 02 November 2025, 04:22 PM UTC (Sunday, 02 November 2025, 09:52 PM IST)
 
 ### Premier League
 
@@ -59,12 +59,12 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Brighton & Hove Albion | 10 | 4 | 3 | 3 | 2 | 15 |
 | 11 | Aston Villa | 10 | 4 | 3 | 3 | -1 | 15 |
 | 12 | Brentford | 10 | 4 | 1 | 5 | -2 | 13 |
-| 13 | Newcastle United | 10 | 3 | 3 | 4 | 0 | 12 |
+| 13 | Newcastle United | 10 | 3 | 3 | 4 | -1 | 12 |
 | 14 | Fulham | 10 | 3 | 2 | 5 | -2 | 11 |
 | 15 | Everton | 9 | 3 | 2 | 4 | -3 | 11 |
 | 16 | Leeds United | 10 | 3 | 2 | 5 | -8 | 11 |
 | 17 | Burnley | 10 | 3 | 1 | 6 | -7 | 10 |
-| 18 | West Ham United | 10 | 2 | 1 | 7 | -12 | 7 |
+| 18 | West Ham United | 10 | 2 | 1 | 7 | -11 | 7 |
 | 19 | Nottingham Forest | 10 | 1 | 3 | 6 | -12 | 6 |
 | 20 | Wolverhampton Wanderers | 10 | 0 | 2 | 8 | -15 | 2 |
 
@@ -76,10 +76,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Villarreal | 11 | 7 | 2 | 2 | 12 | 23 |
 | 3 | Barcelona | 10 | 7 | 1 | 2 | 13 | 22 |
 | 4 | Atlético de Madrid | 11 | 6 | 4 | 1 | 11 | 22 |
-| 5 | Espanyol | 11 | 5 | 3 | 3 | 2 | 18 |
+| 5 | Espanyol | 11 | 5 | 3 | 3 | 1 | 18 |
 | 6 | Getafe | 11 | 5 | 2 | 4 | -1 | 17 |
 | 7 | Real Betis | 10 | 4 | 4 | 2 | 3 | 16 |
-| 8 | Alavés | 11 | 4 | 3 | 4 | 1 | 15 |
+| 8 | Alavés | 11 | 4 | 3 | 4 | 2 | 15 |
 | 9 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
 | 10 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
 | 11 | Athletic Bilbao | 11 | 4 | 2 | 5 | -2 | 14 |
@@ -148,21 +148,21 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 11 | 7 | 3 | 1 | 12 | 24 |
 | 2 | Marseille | 11 | 7 | 1 | 3 | 14 | 22 |
 | 3 | Monaco | 11 | 6 | 2 | 3 | 6 | 20 |
-| 4 | Strasbourg | 11 | 6 | 1 | 4 | 6 | 19 |
-| 5 | Lyon | 10 | 6 | 1 | 3 | 4 | 19 |
-| 6 | Lens | 10 | 6 | 1 | 3 | 4 | 19 |
-| 7 | Lille | 10 | 5 | 2 | 3 | 9 | 17 |
+| 4 | Lens | 11 | 6 | 2 | 3 | 4 | 20 |
+| 5 | Strasbourg | 11 | 6 | 1 | 4 | 6 | 19 |
+| 6 | Lyon | 10 | 6 | 1 | 3 | 4 | 19 |
+| 7 | Lille | 11 | 5 | 3 | 3 | 9 | 18 |
 | 8 | Nice | 11 | 5 | 2 | 4 | 0 | 17 |
-| 9 | Rennes | 11 | 3 | 6 | 2 | 1 | 15 |
-| 10 | Toulouse | 10 | 4 | 2 | 4 | 2 | 14 |
+| 9 | Toulouse | 11 | 4 | 3 | 4 | 2 | 15 |
+| 10 | Rennes | 11 | 3 | 6 | 2 | 1 | 15 |
 | 11 | Paris FC | 11 | 4 | 2 | 5 | -2 | 14 |
-| 12 | Le Havre | 10 | 3 | 3 | 4 | -4 | 12 |
-| 13 | Angers | 10 | 2 | 4 | 4 | -6 | 10 |
-| 14 | Brest | 10 | 2 | 3 | 5 | -4 | 9 |
-| 15 | Nantes | 10 | 2 | 3 | 5 | -5 | 9 |
-| 16 | Lorient | 10 | 2 | 3 | 5 | -9 | 9 |
+| 12 | Le Havre | 11 | 3 | 4 | 4 | -4 | 13 |
+| 13 | Angers | 11 | 2 | 5 | 4 | -6 | 11 |
+| 14 | Nantes | 11 | 2 | 4 | 5 | -5 | 10 |
+| 15 | Lorient | 11 | 2 | 4 | 5 | -9 | 10 |
+| 16 | Brest | 10 | 2 | 3 | 5 | -4 | 9 |
 | 17 | Auxerre | 11 | 2 | 1 | 8 | -10 | 7 |
-| 18 | Metz | 10 | 1 | 2 | 7 | -18 | 5 |
+| 18 | Metz | 11 | 1 | 3 | 7 | -18 | 6 |
 
 ### Champions League
 
