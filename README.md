@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 02 November 2025, 02:16 PM UTC (Sunday, 02 November 2025, 07:46 PM IST)
+**Last Updated:** Sunday, 02 November 2025, 02:38 PM UTC (Sunday, 02 November 2025, 08:08 PM IST)
 
 ### Premier League
 
@@ -57,15 +57,15 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Manchester City | 9 | 5 | 1 | 3 | 10 | 16 |
 | 9 | Crystal Palace | 10 | 4 | 4 | 2 | 5 | 16 |
 | 10 | Brighton & Hove Albion | 10 | 4 | 3 | 3 | 2 | 15 |
-| 11 | Newcastle United | 10 | 4 | 3 | 3 | 2 | 15 |
-| 12 | Aston Villa | 10 | 4 | 3 | 3 | -1 | 15 |
+| 11 | Aston Villa | 10 | 4 | 3 | 3 | -1 | 15 |
+| 12 | Newcastle United | 10 | 3 | 4 | 3 | 1 | 13 |
 | 13 | Brentford | 10 | 4 | 1 | 5 | -2 | 13 |
 | 14 | Fulham | 10 | 3 | 2 | 5 | -2 | 11 |
 | 15 | Everton | 9 | 3 | 2 | 4 | -3 | 11 |
 | 16 | Leeds United | 10 | 3 | 2 | 5 | -8 | 11 |
 | 17 | Burnley | 10 | 3 | 1 | 6 | -7 | 10 |
 | 18 | Nottingham Forest | 10 | 1 | 3 | 6 | -12 | 6 |
-| 19 | West Ham United | 10 | 1 | 1 | 8 | -14 | 4 |
+| 19 | West Ham United | 10 | 1 | 2 | 7 | -13 | 5 |
 | 20 | Wolverhampton Wanderers | 10 | 0 | 2 | 8 | -15 | 2 |
 
 ### La Liga
@@ -82,13 +82,13 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Elche | 10 | 3 | 5 | 2 | 1 | 14 |
 | 9 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
 | 10 | Athletic Bilbao | 11 | 4 | 2 | 5 | -2 | 14 |
-| 11 | Celta de Vigo | 11 | 2 | 7 | 2 | -1 | 13 |
-| 12 | Sevilla | 11 | 4 | 1 | 6 | -2 | 13 |
-| 13 | Alavés | 10 | 3 | 3 | 4 | 0 | 12 |
-| 14 | Real Sociedad | 11 | 3 | 3 | 5 | -3 | 12 |
+| 11 | Sevilla | 11 | 4 | 1 | 6 | -2 | 13 |
+| 12 | Alavés | 10 | 3 | 3 | 4 | 0 | 12 |
+| 13 | Real Sociedad | 11 | 3 | 3 | 5 | -3 | 12 |
+| 14 | Celta de Vigo | 11 | 1 | 8 | 2 | -2 | 11 |
 | 15 | Osasuna | 10 | 3 | 1 | 6 | -3 | 10 |
-| 16 | Mallorca | 10 | 2 | 3 | 5 | -4 | 9 |
-| 17 | Levante | 11 | 2 | 3 | 6 | -5 | 9 |
+| 16 | Levante | 11 | 2 | 4 | 5 | -4 | 10 |
+| 17 | Mallorca | 10 | 2 | 3 | 5 | -4 | 9 |
 | 18 | Valencia | 11 | 2 | 3 | 6 | -10 | 9 |
 | 19 | Real Oviedo | 10 | 2 | 1 | 7 | -12 | 7 |
 | 20 | Girona | 11 | 1 | 4 | 6 | -14 | 7 |
@@ -104,12 +104,12 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Bayer Leverkusen | 9 | 5 | 2 | 2 | 4 | 17 |
 | 6 | Eintracht Frankfurt | 9 | 4 | 2 | 3 | 3 | 14 |
 | 7 | Hoffenheim | 8 | 4 | 1 | 3 | 2 | 13 |
-| 8 | Werder Bremen | 9 | 3 | 3 | 3 | -4 | 12 |
-| 9 | Köln | 8 | 3 | 2 | 3 | 1 | 11 |
+| 8 | Köln | 9 | 3 | 3 | 3 | 1 | 12 |
+| 9 | Werder Bremen | 9 | 3 | 3 | 3 | -4 | 12 |
 | 10 | Union Berlin | 9 | 3 | 2 | 4 | -4 | 11 |
 | 11 | SC Freiburg | 9 | 2 | 4 | 3 | -2 | 10 |
-| 12 | VfL Wolfsburg | 8 | 2 | 2 | 4 | -4 | 8 |
-| 13 | Hamburg | 8 | 2 | 2 | 4 | -4 | 8 |
+| 12 | Hamburg | 9 | 2 | 3 | 4 | -4 | 9 |
+| 13 | VfL Wolfsburg | 8 | 2 | 2 | 4 | -4 | 8 |
 | 14 | Augsburg | 9 | 2 | 1 | 6 | -9 | 7 |
 | 15 | St. Pauli | 9 | 2 | 1 | 6 | -10 | 7 |
 | 16 | Borussia Mönchengladbach | 9 | 1 | 3 | 5 | -8 | 6 |
@@ -132,13 +132,13 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Sassuolo | 9 | 4 | 1 | 4 | 0 | 13 |
 | 11 | Atalanta | 10 | 2 | 7 | 1 | 5 | 13 |
 | 12 | Lazio | 9 | 3 | 3 | 3 | 4 | 12 |
-| 13 | Torino | 10 | 3 | 3 | 4 | -7 | 12 |
+| 13 | Torino | 10 | 3 | 3 | 4 | -8 | 12 |
 | 14 | Cagliari | 9 | 2 | 3 | 4 | -3 | 9 |
-| 15 | Pisa | 10 | 1 | 5 | 4 | -6 | 8 |
-| 16 | Parma | 9 | 1 | 4 | 4 | -5 | 7 |
-| 17 | Lecce | 10 | 1 | 4 | 5 | -7 | 7 |
-| 18 | Fiorentina | 10 | 0 | 5 | 5 | -8 | 5 |
-| 19 | Hellas Verona | 10 | 0 | 5 | 5 | -10 | 5 |
+| 15 | Lecce | 10 | 2 | 3 | 5 | -6 | 9 |
+| 16 | Pisa | 10 | 1 | 5 | 4 | -5 | 8 |
+| 17 | Parma | 9 | 1 | 4 | 4 | -5 | 7 |
+| 18 | Hellas Verona | 10 | 0 | 5 | 5 | -10 | 5 |
+| 19 | Fiorentina | 10 | 0 | 4 | 6 | -9 | 4 |
 | 20 | Genoa | 9 | 0 | 3 | 6 | -9 | 3 |
 
 ### Ligue 1
@@ -148,12 +148,12 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 11 | 7 | 3 | 1 | 12 | 24 |
 | 2 | Marseille | 11 | 7 | 1 | 3 | 14 | 22 |
 | 3 | Monaco | 11 | 6 | 2 | 3 | 6 | 20 |
-| 4 | Strasbourg | 11 | 6 | 1 | 4 | 8 | 19 |
+| 4 | Strasbourg | 11 | 6 | 1 | 4 | 7 | 19 |
 | 5 | Lyon | 10 | 6 | 1 | 3 | 4 | 19 |
 | 6 | Lens | 10 | 6 | 1 | 3 | 4 | 19 |
 | 7 | Lille | 10 | 5 | 2 | 3 | 9 | 17 |
 | 8 | Nice | 11 | 5 | 2 | 4 | 0 | 17 |
-| 9 | Rennes | 11 | 3 | 6 | 2 | -1 | 15 |
+| 9 | Rennes | 11 | 3 | 6 | 2 | 0 | 15 |
 | 10 | Toulouse | 10 | 4 | 2 | 4 | 2 | 14 |
 | 11 | Paris FC | 11 | 4 | 2 | 5 | -2 | 14 |
 | 12 | Le Havre | 10 | 3 | 3 | 4 | -4 | 12 |
