@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 01 November 2025, 11:37 PM UTC (Sunday, 02 November 2025, 05:07 AM IST)
+**Last Updated:** Sunday, 02 November 2025, 01:43 AM UTC (Sunday, 02 November 2025, 07:13 AM IST)
 
 ### Premier League
 
@@ -419,11 +419,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | River Plate | 13 | 6 | 3 | 4 | 8 | 21 |
 | 7 | San Martín SJ | 13 | 4 | 5 | 4 | -1 | 17 |
 | 8 | Talleres | 14 | 4 | 5 | 5 | -4 | 17 |
-| 9 | Atl. Tucumán | 14 | 4 | 3 | 7 | -3 | 15 |
+| 9 | Atl. Tucumán | 14 | 4 | 3 | 7 | -4 | 15 |
 | 10 | Sarmiento | 13 | 4 | 3 | 6 | -5 | 15 |
 | 11 | Instituto | 14 | 3 | 6 | 5 | -7 | 15 |
 | 12 | GELP | 13 | 4 | 1 | 8 | -8 | 13 |
-| 13 | Independiente | 14 | 2 | 6 | 6 | -2 | 12 |
+| 13 | Independiente | 14 | 2 | 6 | 6 | -1 | 12 |
 | 14 | Platense | 13 | 2 | 5 | 6 | -9 | 11 |
 | 15 | Godoy Cruz | 13 | 1 | 7 | 5 | -7 | 10 |
 
@@ -431,8 +431,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 29 | 19 | 5 | 5 | 27 | 62 |
-| 2 | Flamengo | 29 | 18 | 7 | 4 | 40 | 61 |
+| 1 | Flamengo | 30 | 19 | 7 | 4 | 43 | 64 |
+| 2 | Palmeiras | 29 | 19 | 5 | 5 | 27 | 62 |
 | 3 | Cruzeiro | 31 | 17 | 9 | 5 | 23 | 60 |
 | 4 | Mirassol | 31 | 15 | 11 | 5 | 21 | 56 |
 | 5 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
@@ -450,7 +450,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Vitória | 31 | 7 | 10 | 14 | -19 | 31 |
 | 18 | Fortaleza | 30 | 7 | 7 | 16 | -17 | 28 |
 | 19 | Juventude | 30 | 7 | 5 | 18 | -32 | 26 |
-| 20 | Sport | 29 | 2 | 11 | 16 | -24 | 17 |
+| 20 | Sport | 30 | 2 | 11 | 17 | -27 | 17 |
 
 
 <!-- END_TABLE -->

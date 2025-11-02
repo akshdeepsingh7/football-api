@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 01 November 2025, 11:37 PM UTC",
-        "IST": "Sunday, 02 November 2025, 05:07 AM IST"
+        "UTC": "Sunday, 02 November 2025, 01:43 AM UTC",
+        "IST": "Sunday, 02 November 2025, 07:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3156,7 +3156,7 @@
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "7",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "15"
             },
             {
@@ -3196,7 +3196,7 @@
                 "Wins": "2",
                 "Draws": "6",
                 "Losses": "6",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "12"
             },
             {
@@ -3223,6 +3223,16 @@
         "Brasileir\u00e3o": [
             {
                 "Position": "1",
+                "Team": "Flamengo",
+                "Played": "30",
+                "Wins": "19",
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "43",
+                "Points": "64"
+            },
+            {
+                "Position": "2",
                 "Team": "Palmeiras",
                 "Played": "29",
                 "Wins": "19",
@@ -3230,16 +3240,6 @@
                 "Losses": "5",
                 "Goal Difference": "27",
                 "Points": "62"
-            },
-            {
-                "Position": "2",
-                "Team": "Flamengo",
-                "Played": "29",
-                "Wins": "18",
-                "Draws": "7",
-                "Losses": "4",
-                "Goal Difference": "40",
-                "Points": "61"
             },
             {
                 "Position": "3",
@@ -3414,11 +3414,11 @@
             {
                 "Position": "20",
                 "Team": "Sport",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "2",
                 "Draws": "11",
-                "Losses": "16",
-                "Goal Difference": "-24",
+                "Losses": "17",
+                "Goal Difference": "-27",
                 "Points": "17"
             }
         ]
