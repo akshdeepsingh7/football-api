@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 09:37 PM UTC",
-        "IST": "Monday, 03 November 2025, 03:07 AM IST"
+        "UTC": "Sunday, 02 November 2025, 10:17 PM UTC",
+        "IST": "Monday, 03 November 2025, 03:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3223,6 +3223,16 @@
         "Brasileir\u00e3o": [
             {
                 "Position": "1",
+                "Team": "Palmeiras",
+                "Played": "30",
+                "Wins": "20",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "28",
+                "Points": "65"
+            },
+            {
+                "Position": "2",
                 "Team": "Flamengo",
                 "Played": "30",
                 "Wins": "19",
@@ -3230,16 +3240,6 @@
                 "Losses": "4",
                 "Goal Difference": "43",
                 "Points": "64"
-            },
-            {
-                "Position": "2",
-                "Team": "Palmeiras",
-                "Played": "30",
-                "Wins": "19",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "27",
-                "Points": "63"
             },
             {
                 "Position": "3",
@@ -3406,10 +3406,10 @@
                 "Team": "Juventude",
                 "Played": "31",
                 "Wins": "7",
-                "Draws": "6",
-                "Losses": "18",
-                "Goal Difference": "-32",
-                "Points": "27"
+                "Draws": "5",
+                "Losses": "19",
+                "Goal Difference": "-33",
+                "Points": "26"
             },
             {
                 "Position": "20",
