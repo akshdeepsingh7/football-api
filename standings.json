@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 05:38 PM UTC",
-        "IST": "Sunday, 02 November 2025, 11:08 PM IST"
+        "UTC": "Sunday, 02 November 2025, 06:24 PM UTC",
+        "IST": "Sunday, 02 November 2025, 11:54 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -22,7 +22,7 @@
                 "Wins": "6",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "11",
+                "Goal Difference": "12",
                 "Points": "19"
             },
             {
@@ -42,7 +42,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "4",
+                "Goal Difference": "3",
                 "Points": "18"
             },
             {
@@ -221,11 +221,11 @@
                 "Position": "2",
                 "Team": "Barcelona",
                 "Played": "11",
-                "Wins": "7",
-                "Draws": "2",
+                "Wins": "8",
+                "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "13",
-                "Points": "23"
+                "Goal Difference": "14",
+                "Points": "25"
             },
             {
                 "Position": "3",
@@ -279,16 +279,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Elche",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "15"
-            },
-            {
-                "Position": "9",
                 "Team": "Alav\u00e9s",
                 "Played": "11",
                 "Wins": "4",
@@ -296,6 +286,16 @@
                 "Losses": "4",
                 "Goal Difference": "1",
                 "Points": "15"
+            },
+            {
+                "Position": "9",
+                "Team": "Elche",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "14"
             },
             {
                 "Position": "10",
@@ -461,6 +461,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Hoffenheim",
+                "Played": "9",
+                "Wins": "5",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "3",
+                "Points": "16"
+            },
+            {
+                "Position": "7",
                 "Team": "K\u00f6ln",
                 "Played": "9",
                 "Wins": "4",
@@ -470,23 +480,13 @@
                 "Points": "14"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Eintracht Frankfurt",
                 "Played": "9",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "3",
-                "Points": "14"
-            },
-            {
-                "Position": "8",
-                "Team": "Hoffenheim",
-                "Played": "9",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "2",
                 "Points": "14"
             },
             {
@@ -524,10 +524,10 @@
                 "Team": "VfL Wolfsburg",
                 "Played": "9",
                 "Wins": "2",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "9"
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-5",
+                "Points": "8"
             },
             {
                 "Position": "13",
@@ -820,7 +820,7 @@
                 "Wins": "7",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "5",
+                "Goal Difference": "7",
                 "Points": "22"
             },
             {
@@ -915,16 +915,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Nantes",
-                "Played": "11",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "-5",
-                "Points": "10"
-            },
-            {
-                "Position": "14",
                 "Team": "Angers",
                 "Played": "11",
                 "Wins": "2",
@@ -934,7 +924,7 @@
                 "Points": "10"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Brest",
                 "Played": "10",
                 "Wins": "2",
@@ -944,17 +934,37 @@
                 "Points": "9"
             },
             {
+                "Position": "15",
+                "Team": "Nantes",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-7",
+                "Points": "9"
+            },
+            {
                 "Position": "16",
                 "Team": "Lorient",
                 "Played": "11",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "-10",
+                "Goal Difference": "-12",
                 "Points": "9"
             },
             {
                 "Position": "17",
+                "Team": "Metz",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "7",
+                "Goal Difference": "-16",
+                "Points": "8"
+            },
+            {
+                "Position": "18",
                 "Team": "Auxerre",
                 "Played": "11",
                 "Wins": "2",
@@ -962,16 +972,6 @@
                 "Losses": "8",
                 "Goal Difference": "-10",
                 "Points": "7"
-            },
-            {
-                "Position": "18",
-                "Team": "Metz",
-                "Played": "11",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "-18",
-                "Points": "6"
             }
         ],
         "Champions League": [
@@ -2114,12 +2114,12 @@
             {
                 "Position": "6",
                 "Team": "Moreirense",
-                "Played": "9",
-                "Wins": "5",
+                "Played": "10",
+                "Wins": "6",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "0",
-                "Points": "15"
+                "Goal Difference": "1",
+                "Points": "18"
             },
             {
                 "Position": "7",
@@ -2204,11 +2204,11 @@
             {
                 "Position": "15",
                 "Team": "Arouca",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "2",
                 "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-14",
+                "Losses": "5",
+                "Goal Difference": "-15",
                 "Points": "9"
             },
             {
