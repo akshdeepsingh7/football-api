@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 02 November 2025, 06:43 PM UTC (Monday, 03 November 2025, 12:13 AM IST)
+**Last Updated:** Sunday, 02 November 2025, 07:14 PM UTC (Monday, 03 November 2025, 12:44 AM IST)
 
 ### Premier League
 
@@ -73,14 +73,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 11 | 10 | 0 | 1 | 16 | 30 |
-| 2 | Barcelona | 11 | 8 | 1 | 2 | 14 | 25 |
+| 2 | Barcelona | 11 | 8 | 1 | 2 | 15 | 25 |
 | 3 | Villarreal | 11 | 7 | 2 | 2 | 12 | 23 |
 | 4 | Atlético de Madrid | 11 | 6 | 4 | 1 | 11 | 22 |
 | 5 | Espanyol | 11 | 5 | 3 | 3 | 2 | 18 |
 | 6 | Getafe | 11 | 5 | 2 | 4 | -1 | 17 |
 | 7 | Real Betis | 10 | 4 | 4 | 2 | 3 | 16 |
 | 8 | Alavés | 11 | 4 | 3 | 4 | 1 | 15 |
-| 9 | Elche | 11 | 3 | 5 | 3 | 0 | 14 |
+| 9 | Elche | 11 | 3 | 5 | 3 | -1 | 14 |
 | 10 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
 | 11 | Athletic Bilbao | 11 | 4 | 2 | 5 | -2 | 14 |
 | 12 | Celta de Vigo | 11 | 2 | 7 | 2 | -1 | 13 |
@@ -124,7 +124,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Roma | 9 | 7 | 0 | 2 | 6 | 21 |
 | 3 | Inter | 10 | 7 | 0 | 3 | 12 | 21 |
 | 4 | Milan | 9 | 5 | 3 | 1 | 7 | 18 |
-| 5 | Bologna | 10 | 5 | 3 | 2 | 7 | 18 |
+| 5 | Bologna | 10 | 5 | 3 | 2 | 8 | 18 |
 | 6 | Juventus | 10 | 5 | 3 | 2 | 4 | 18 |
 | 7 | Como | 10 | 4 | 5 | 1 | 6 | 17 |
 | 8 | Udinese | 10 | 4 | 3 | 3 | -3 | 15 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Lazio | 9 | 3 | 3 | 3 | 4 | 12 |
 | 14 | Cagliari | 9 | 2 | 3 | 4 | -3 | 9 |
 | 15 | Lecce | 10 | 2 | 3 | 5 | -6 | 9 |
-| 16 | Parma | 10 | 1 | 4 | 5 | -6 | 7 |
+| 16 | Parma | 10 | 1 | 4 | 5 | -7 | 7 |
 | 17 | Pisa | 10 | 0 | 6 | 4 | -7 | 6 |
 | 18 | Hellas Verona | 10 | 0 | 5 | 5 | -10 | 5 |
 | 19 | Fiorentina | 10 | 0 | 4 | 6 | -9 | 4 |
@@ -397,10 +397,10 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Unión | 14 | 6 | 5 | 3 | 7 | 23 |
-| 2 | Córdoba SdE | 13 | 5 | 6 | 2 | 6 | 21 |
-| 3 | Barracas | 14 | 5 | 6 | 3 | 2 | 21 |
-| 4 | Estudiantes | 13 | 6 | 3 | 4 | 2 | 21 |
-| 5 | Boca Juniors | 13 | 5 | 5 | 3 | 11 | 20 |
+| 2 | Estudiantes | 14 | 6 | 4 | 4 | 2 | 22 |
+| 3 | Boca Juniors | 14 | 5 | 6 | 3 | 11 | 21 |
+| 4 | Córdoba SdE | 13 | 5 | 6 | 2 | 6 | 21 |
+| 5 | Barracas | 14 | 5 | 6 | 3 | 2 | 21 |
 | 6 | Def y Justicia | 13 | 5 | 4 | 4 | 0 | 19 |
 | 7 | Argentinos Juniors | 14 | 5 | 3 | 6 | 3 | 18 |
 | 8 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
@@ -435,16 +435,16 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Palmeiras | 29 | 19 | 5 | 5 | 27 | 62 |
 | 3 | Cruzeiro | 31 | 17 | 9 | 5 | 23 | 60 |
 | 4 | Mirassol | 31 | 15 | 11 | 5 | 21 | 56 |
-| 5 | Bahia | 30 | 14 | 7 | 9 | 6 | 49 |
-| 6 | Botafogo | 31 | 13 | 9 | 9 | 13 | 48 |
-| 7 | Fluminense | 30 | 14 | 5 | 11 | 2 | 47 |
+| 5 | Bahia | 31 | 14 | 8 | 9 | 6 | 50 |
+| 6 | Fluminense | 31 | 14 | 6 | 11 | 2 | 48 |
+| 7 | Botafogo | 31 | 13 | 9 | 9 | 13 | 48 |
 | 8 | Vasco da Gama | 30 | 12 | 6 | 12 | 8 | 42 |
 | 9 | São Paulo | 30 | 11 | 8 | 11 | 0 | 41 |
-| 10 | Corinthians | 30 | 10 | 9 | 11 | -3 | 39 |
-| 11 | Grêmio | 30 | 10 | 9 | 11 | -5 | 39 |
-| 12 | RB Bragantino | 30 | 10 | 6 | 14 | -13 | 36 |
-| 13 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
-| 14 | Ceará | 30 | 9 | 8 | 13 | -2 | 35 |
+| 10 | Corinthians | 31 | 10 | 10 | 11 | -3 | 40 |
+| 11 | Grêmio | 31 | 10 | 10 | 11 | -5 | 40 |
+| 12 | RB Bragantino | 31 | 10 | 7 | 14 | -13 | 37 |
+| 13 | Ceará | 31 | 9 | 9 | 13 | -2 | 36 |
+| 14 | Atlético Mineiro | 29 | 9 | 9 | 11 | -5 | 36 |
 | 15 | Internacional | 30 | 9 | 8 | 13 | -8 | 35 |
 | 16 | Santos | 30 | 8 | 9 | 13 | -12 | 33 |
 | 17 | Vitória | 31 | 7 | 10 | 14 | -19 | 31 |

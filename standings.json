@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 06:43 PM UTC",
-        "IST": "Monday, 03 November 2025, 12:13 AM IST"
+        "UTC": "Sunday, 02 November 2025, 07:14 PM UTC",
+        "IST": "Monday, 03 November 2025, 12:44 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -224,7 +224,7 @@
                 "Wins": "8",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "14",
+                "Goal Difference": "15",
                 "Points": "25"
             },
             {
@@ -294,7 +294,7 @@
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "3",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "14"
             },
             {
@@ -638,7 +638,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "18"
             },
             {
@@ -748,7 +748,7 @@
                 "Wins": "1",
                 "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "7"
             },
             {
@@ -2931,6 +2931,26 @@
             },
             {
                 "Position": "2",
+                "Team": "Estudiantes",
+                "Played": "14",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "2",
+                "Points": "22"
+            },
+            {
+                "Position": "3",
+                "Team": "Boca Juniors",
+                "Played": "14",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "11",
+                "Points": "21"
+            },
+            {
+                "Position": "4",
                 "Team": "C\u00f3rdoba SdE",
                 "Played": "13",
                 "Wins": "5",
@@ -2940,7 +2960,7 @@
                 "Points": "21"
             },
             {
-                "Position": "3",
+                "Position": "5",
                 "Team": "Barracas",
                 "Played": "14",
                 "Wins": "5",
@@ -2948,26 +2968,6 @@
                 "Losses": "3",
                 "Goal Difference": "2",
                 "Points": "21"
-            },
-            {
-                "Position": "4",
-                "Team": "Estudiantes",
-                "Played": "13",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "2",
-                "Points": "21"
-            },
-            {
-                "Position": "5",
-                "Team": "Boca Juniors",
-                "Played": "13",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "11",
-                "Points": "20"
             },
             {
                 "Position": "6",
@@ -3264,15 +3264,25 @@
             {
                 "Position": "5",
                 "Team": "Bahia",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "14",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "9",
                 "Goal Difference": "6",
-                "Points": "49"
+                "Points": "50"
             },
             {
                 "Position": "6",
+                "Team": "Fluminense",
+                "Played": "31",
+                "Wins": "14",
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "2",
+                "Points": "48"
+            },
+            {
+                "Position": "7",
                 "Team": "Botafogo",
                 "Played": "31",
                 "Wins": "13",
@@ -3280,16 +3290,6 @@
                 "Losses": "9",
                 "Goal Difference": "13",
                 "Points": "48"
-            },
-            {
-                "Position": "7",
-                "Team": "Fluminense",
-                "Played": "30",
-                "Wins": "14",
-                "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "2",
-                "Points": "47"
             },
             {
                 "Position": "8",
@@ -3314,35 +3314,45 @@
             {
                 "Position": "10",
                 "Team": "Corinthians",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "10",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "11",
                 "Goal Difference": "-3",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "11",
                 "Team": "Gr\u00eamio",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "10",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "11",
                 "Goal Difference": "-5",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "12",
                 "Team": "RB Bragantino",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "10",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "14",
                 "Goal Difference": "-13",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "13",
+                "Team": "Cear\u00e1",
+                "Played": "31",
+                "Wins": "9",
+                "Draws": "9",
+                "Losses": "13",
+                "Goal Difference": "-2",
+                "Points": "36"
+            },
+            {
+                "Position": "14",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "29",
                 "Wins": "9",
@@ -3350,16 +3360,6 @@
                 "Losses": "11",
                 "Goal Difference": "-5",
                 "Points": "36"
-            },
-            {
-                "Position": "14",
-                "Team": "Cear\u00e1",
-                "Played": "30",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "13",
-                "Goal Difference": "-2",
-                "Points": "35"
             },
             {
                 "Position": "15",
