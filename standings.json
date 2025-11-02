@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 07:14 PM UTC",
-        "IST": "Monday, 03 November 2025, 12:44 AM IST"
+        "UTC": "Sunday, 02 November 2025, 07:37 PM UTC",
+        "IST": "Monday, 03 November 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3266,10 +3266,10 @@
                 "Team": "Bahia",
                 "Played": "31",
                 "Wins": "14",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "6",
-                "Points": "50"
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "5",
+                "Points": "49"
             },
             {
                 "Position": "6",
@@ -3303,6 +3303,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Corinthians",
+                "Played": "31",
+                "Wins": "11",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-2",
+                "Points": "42"
+            },
+            {
+                "Position": "10",
                 "Team": "S\u00e3o Paulo",
                 "Played": "30",
                 "Wins": "11",
@@ -3312,34 +3322,24 @@
                 "Points": "41"
             },
             {
-                "Position": "10",
-                "Team": "Corinthians",
-                "Played": "31",
-                "Wins": "10",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-3",
-                "Points": "40"
-            },
-            {
                 "Position": "11",
-                "Team": "Gr\u00eamio",
+                "Team": "RB Bragantino",
                 "Played": "31",
-                "Wins": "10",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-5",
-                "Points": "40"
+                "Wins": "11",
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "-12",
+                "Points": "39"
             },
             {
                 "Position": "12",
-                "Team": "RB Bragantino",
+                "Team": "Gr\u00eamio",
                 "Played": "31",
                 "Wins": "10",
-                "Draws": "7",
-                "Losses": "14",
-                "Goal Difference": "-13",
-                "Points": "37"
+                "Draws": "9",
+                "Losses": "12",
+                "Goal Difference": "-6",
+                "Points": "39"
             },
             {
                 "Position": "13",
