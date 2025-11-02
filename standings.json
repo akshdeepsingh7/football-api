@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 08:19 PM UTC",
-        "IST": "Monday, 03 November 2025, 01:49 AM IST"
+        "UTC": "Sunday, 02 November 2025, 08:38 PM UTC",
+        "IST": "Monday, 03 November 2025, 02:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -603,16 +603,6 @@
             },
             {
                 "Position": "2",
-                "Team": "Roma",
-                "Played": "10",
-                "Wins": "7",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "6",
-                "Points": "22"
-            },
-            {
-                "Position": "3",
                 "Team": "Inter",
                 "Played": "10",
                 "Wins": "7",
@@ -622,14 +612,24 @@
                 "Points": "21"
             },
             {
-                "Position": "4",
+                "Position": "3",
                 "Team": "Milan",
                 "Played": "10",
-                "Wins": "5",
-                "Draws": "4",
+                "Wins": "6",
+                "Draws": "3",
                 "Losses": "1",
-                "Goal Difference": "7",
-                "Points": "19"
+                "Goal Difference": "8",
+                "Points": "21"
+            },
+            {
+                "Position": "4",
+                "Team": "Roma",
+                "Played": "10",
+                "Wins": "7",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "5",
+                "Points": "21"
             },
             {
                 "Position": "5",
@@ -2064,12 +2064,12 @@
             {
                 "Position": "1",
                 "Team": "Porto",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "8",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "0",
                 "Goal Difference": "19",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "2",
@@ -2124,12 +2124,12 @@
             {
                 "Position": "7",
                 "Team": "Braga",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "8",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "8",
@@ -2921,16 +2921,6 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
-                "Team": "Boca Juniors",
-                "Played": "14",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "12",
-                "Points": "23"
-            },
-            {
-                "Position": "2",
                 "Team": "Uni\u00f3n",
                 "Played": "14",
                 "Wins": "6",
@@ -2940,7 +2930,27 @@
                 "Points": "23"
             },
             {
+                "Position": "2",
+                "Team": "Estudiantes",
+                "Played": "14",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "2",
+                "Points": "22"
+            },
+            {
                 "Position": "3",
+                "Team": "Boca Juniors",
+                "Played": "14",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "11",
+                "Points": "21"
+            },
+            {
+                "Position": "4",
                 "Team": "C\u00f3rdoba SdE",
                 "Played": "13",
                 "Wins": "5",
@@ -2950,23 +2960,13 @@
                 "Points": "21"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Barracas",
                 "Played": "14",
                 "Wins": "5",
                 "Draws": "6",
                 "Losses": "3",
                 "Goal Difference": "2",
-                "Points": "21"
-            },
-            {
-                "Position": "5",
-                "Team": "Estudiantes",
-                "Played": "14",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "1",
                 "Points": "21"
             },
             {
@@ -3266,10 +3266,10 @@
                 "Team": "Bahia",
                 "Played": "31",
                 "Wins": "14",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "5",
-                "Points": "49"
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "6",
+                "Points": "50"
             },
             {
                 "Position": "6",
@@ -3288,7 +3288,7 @@
                 "Wins": "14",
                 "Draws": "5",
                 "Losses": "12",
-                "Goal Difference": "1",
+                "Goal Difference": "0",
                 "Points": "47"
             },
             {
@@ -3323,16 +3323,6 @@
             },
             {
                 "Position": "11",
-                "Team": "RB Bragantino",
-                "Played": "31",
-                "Wins": "11",
-                "Draws": "6",
-                "Losses": "14",
-                "Goal Difference": "-12",
-                "Points": "39"
-            },
-            {
-                "Position": "12",
                 "Team": "Gr\u00eamio",
                 "Played": "31",
                 "Wins": "10",
@@ -3342,14 +3332,24 @@
                 "Points": "39"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Cear\u00e1",
                 "Played": "31",
                 "Wins": "10",
                 "Draws": "8",
                 "Losses": "13",
-                "Goal Difference": "-1",
+                "Goal Difference": "0",
                 "Points": "38"
+            },
+            {
+                "Position": "13",
+                "Team": "RB Bragantino",
+                "Played": "31",
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "14",
+                "Goal Difference": "-13",
+                "Points": "37"
             },
             {
                 "Position": "14",
