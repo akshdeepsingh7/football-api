@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 02 November 2025, 06:24 PM UTC",
-        "IST": "Sunday, 02 November 2025, 11:54 PM IST"
+        "UTC": "Sunday, 02 November 2025, 06:43 PM UTC",
+        "IST": "Monday, 03 November 2025, 12:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -633,6 +633,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Bologna",
+                "Played": "10",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "7",
+                "Points": "18"
+            },
+            {
+                "Position": "6",
                 "Team": "Juventus",
                 "Played": "10",
                 "Wins": "5",
@@ -642,7 +652,7 @@
                 "Points": "18"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Como",
                 "Played": "10",
                 "Wins": "4",
@@ -650,16 +660,6 @@
                 "Losses": "1",
                 "Goal Difference": "6",
                 "Points": "17"
-            },
-            {
-                "Position": "7",
-                "Team": "Bologna",
-                "Played": "10",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "6",
-                "Points": "16"
             },
             {
                 "Position": "8",
@@ -746,10 +746,10 @@
                 "Team": "Parma",
                 "Played": "10",
                 "Wins": "1",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "8"
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-6",
+                "Points": "7"
             },
             {
                 "Position": "17",
@@ -2118,7 +2118,7 @@
                 "Wins": "6",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "18"
             },
             {
@@ -2208,7 +2208,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "-15",
+                "Goal Difference": "-16",
                 "Points": "9"
             },
             {

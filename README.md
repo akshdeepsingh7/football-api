@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 02 November 2025, 06:24 PM UTC (Sunday, 02 November 2025, 11:54 PM IST)
+**Last Updated:** Sunday, 02 November 2025, 06:43 PM UTC (Monday, 03 November 2025, 12:13 AM IST)
 
 ### Premier League
 
@@ -124,9 +124,9 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Roma | 9 | 7 | 0 | 2 | 6 | 21 |
 | 3 | Inter | 10 | 7 | 0 | 3 | 12 | 21 |
 | 4 | Milan | 9 | 5 | 3 | 1 | 7 | 18 |
-| 5 | Juventus | 10 | 5 | 3 | 2 | 4 | 18 |
-| 6 | Como | 10 | 4 | 5 | 1 | 6 | 17 |
-| 7 | Bologna | 10 | 4 | 4 | 2 | 6 | 16 |
+| 5 | Bologna | 10 | 5 | 3 | 2 | 7 | 18 |
+| 6 | Juventus | 10 | 5 | 3 | 2 | 4 | 18 |
+| 7 | Como | 10 | 4 | 5 | 1 | 6 | 17 |
 | 8 | Udinese | 10 | 4 | 3 | 3 | -3 | 15 |
 | 9 | Cremonese | 10 | 3 | 5 | 2 | 0 | 14 |
 | 10 | Sassuolo | 9 | 4 | 1 | 4 | 0 | 13 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Lazio | 9 | 3 | 3 | 3 | 4 | 12 |
 | 14 | Cagliari | 9 | 2 | 3 | 4 | -3 | 9 |
 | 15 | Lecce | 10 | 2 | 3 | 5 | -6 | 9 |
-| 16 | Parma | 10 | 1 | 5 | 4 | -5 | 8 |
+| 16 | Parma | 10 | 1 | 4 | 5 | -6 | 7 |
 | 17 | Pisa | 10 | 0 | 6 | 4 | -7 | 6 |
 | 18 | Hellas Verona | 10 | 0 | 5 | 5 | -10 | 5 |
 | 19 | Fiorentina | 10 | 0 | 4 | 6 | -9 | 4 |
@@ -296,7 +296,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 10 | 7 | 3 | 0 | 17 | 24 |
 | 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
 | 5 | Famalicão | 10 | 5 | 4 | 1 | 7 | 19 |
-| 6 | Moreirense | 10 | 6 | 0 | 4 | 1 | 18 |
+| 6 | Moreirense | 10 | 6 | 0 | 4 | 2 | 18 |
 | 7 | Braga | 9 | 3 | 4 | 2 | 8 | 13 |
 | 8 | Vitória S.C. | 10 | 3 | 2 | 5 | -8 | 11 |
 | 9 | Nacional | 10 | 3 | 2 | 5 | -4 | 11 |
@@ -305,7 +305,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Estrela Amadora | 10 | 2 | 4 | 4 | -1 | 10 |
 | 13 | Estoril | 10 | 2 | 4 | 4 | 1 | 10 |
 | 14 | Alverca | 10 | 3 | 1 | 6 | -7 | 10 |
-| 15 | Arouca | 10 | 2 | 3 | 5 | -15 | 9 |
+| 15 | Arouca | 10 | 2 | 3 | 5 | -16 | 9 |
 | 16 | Casa Pia | 10 | 2 | 2 | 6 | -11 | 8 |
 | 17 | Tondela | 10 | 1 | 3 | 6 | -13 | 6 |
 | 18 | AVS | 10 | 0 | 2 | 8 | -17 | 2 |
