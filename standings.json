@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 03 November 2025, 06:29 PM UTC",
-        "IST": "Monday, 03 November 2025, 11:59 PM IST"
+        "UTC": "Monday, 03 November 2025, 06:48 PM UTC",
+        "IST": "Tuesday, 04 November 2025, 12:18 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -683,22 +683,22 @@
             },
             {
                 "Position": "10",
+                "Team": "Sassuolo",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "14"
+            },
+            {
+                "Position": "11",
                 "Team": "Atalanta",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "7",
                 "Losses": "1",
                 "Goal Difference": "5",
-                "Points": "13"
-            },
-            {
-                "Position": "11",
-                "Team": "Sassuolo",
-                "Played": "10",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-1",
                 "Points": "13"
             },
             {
@@ -763,16 +763,6 @@
             },
             {
                 "Position": "18",
-                "Team": "Genoa",
-                "Played": "10",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-8",
-                "Points": "6"
-            },
-            {
-                "Position": "19",
                 "Team": "Hellas Verona",
                 "Played": "10",
                 "Wins": "0",
@@ -782,8 +772,18 @@
                 "Points": "5"
             },
             {
-                "Position": "20",
+                "Position": "19",
                 "Team": "Fiorentina",
+                "Played": "10",
+                "Wins": "0",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-9",
+                "Points": "4"
+            },
+            {
+                "Position": "20",
+                "Team": "Genoa",
                 "Played": "10",
                 "Wins": "0",
                 "Draws": "4",
