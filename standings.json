@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 03 November 2025, 05:18 PM UTC",
-        "IST": "Monday, 03 November 2025, 10:48 PM IST"
+        "UTC": "Monday, 03 November 2025, 05:41 PM UTC",
+        "IST": "Monday, 03 November 2025, 11:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -684,12 +684,12 @@
             {
                 "Position": "10",
                 "Team": "Sassuolo",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "4",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "0",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "11",
@@ -784,12 +784,12 @@
             {
                 "Position": "20",
                 "Team": "Genoa",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "0",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "6",
                 "Goal Difference": "-9",
-                "Points": "3"
+                "Points": "4"
             }
         ],
         "Ligue 1": [
