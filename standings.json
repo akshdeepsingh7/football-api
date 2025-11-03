@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 03 November 2025, 09:38 PM UTC",
-        "IST": "Tuesday, 04 November 2025, 03:08 AM IST"
+        "UTC": "Monday, 03 November 2025, 10:20 PM UTC",
+        "IST": "Tuesday, 04 November 2025, 03:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2942,12 +2942,12 @@
             {
                 "Position": "3",
                 "Team": "C\u00f3rdoba SdE",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "5",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "2",
                 "Goal Difference": "6",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "4",
@@ -2971,6 +2971,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Racing Club",
+                "Played": "14",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "1",
+                "Points": "19"
+            },
+            {
+                "Position": "7",
                 "Team": "Def y Justicia",
                 "Played": "14",
                 "Wins": "5",
@@ -2980,7 +2990,7 @@
                 "Points": "19"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Hurac\u00e1n",
                 "Played": "14",
                 "Wins": "5",
@@ -2990,7 +3000,7 @@
                 "Points": "19"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Argentinos Juniors",
                 "Played": "14",
                 "Wins": "5",
@@ -3000,7 +3010,7 @@
                 "Points": "18"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Belgrano",
                 "Played": "13",
                 "Wins": "4",
@@ -3010,23 +3020,13 @@
                 "Points": "18"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Tigre",
                 "Played": "13",
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "3",
                 "Goal Difference": "2",
-                "Points": "18"
-            },
-            {
-                "Position": "11",
-                "Team": "Racing Club",
-                "Played": "13",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "1",
                 "Points": "18"
             },
             {

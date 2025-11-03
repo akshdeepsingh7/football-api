@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 03 November 2025, 09:38 PM UTC (Tuesday, 04 November 2025, 03:08 AM IST)
+**Last Updated:** Monday, 03 November 2025, 10:20 PM UTC (Tuesday, 04 November 2025, 03:50 AM IST)
 
 ### Premier League
 
@@ -398,15 +398,15 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Boca Juniors | 14 | 6 | 5 | 3 | 12 | 23 |
 | 2 | Unión | 14 | 6 | 5 | 3 | 7 | 23 |
-| 3 | Córdoba SdE | 13 | 5 | 6 | 2 | 6 | 21 |
+| 3 | Córdoba SdE | 14 | 5 | 7 | 2 | 6 | 22 |
 | 4 | Barracas | 14 | 5 | 6 | 3 | 2 | 21 |
 | 5 | Estudiantes | 14 | 6 | 3 | 5 | 1 | 21 |
-| 6 | Def y Justicia | 14 | 5 | 4 | 5 | -2 | 19 |
-| 7 | Huracán | 14 | 5 | 4 | 5 | -3 | 19 |
-| 8 | Argentinos Juniors | 14 | 5 | 3 | 6 | 3 | 18 |
-| 9 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
-| 10 | Tigre | 13 | 4 | 6 | 3 | 2 | 18 |
-| 11 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
+| 6 | Racing Club | 14 | 5 | 4 | 5 | 1 | 19 |
+| 7 | Def y Justicia | 14 | 5 | 4 | 5 | -2 | 19 |
+| 8 | Huracán | 14 | 5 | 4 | 5 | -3 | 19 |
+| 9 | Argentinos Juniors | 14 | 5 | 3 | 6 | 3 | 18 |
+| 10 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
+| 11 | Tigre | 13 | 4 | 6 | 3 | 2 | 18 |
 | 12 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
 | 13 | Independiente Rivadavia | 14 | 2 | 6 | 6 | -5 | 12 |
 | 14 | Aldosivi | 14 | 3 | 3 | 8 | -8 | 12 |
