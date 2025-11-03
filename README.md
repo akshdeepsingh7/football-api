@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 03 November 2025, 08:42 PM UTC (Tuesday, 04 November 2025, 02:12 AM IST)
+**Last Updated:** Monday, 03 November 2025, 09:18 PM UTC (Tuesday, 04 November 2025, 02:48 AM IST)
 
 ### Premier League
 
@@ -50,17 +50,17 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Arsenal | 10 | 8 | 1 | 1 | 15 | 25 |
 | 2 | Manchester City | 10 | 6 | 1 | 3 | 12 | 19 |
 | 3 | Liverpool FC | 10 | 6 | 0 | 4 | 4 | 18 |
-| 4 | AFC Bournemouth | 10 | 5 | 3 | 2 | 3 | 18 |
-| 5 | Tottenham Hotspur | 10 | 5 | 2 | 3 | 9 | 17 |
-| 6 | Chelsea | 10 | 5 | 2 | 3 | 7 | 17 |
-| 7 | Sunderland | 10 | 5 | 2 | 3 | 3 | 17 |
+| 4 | Sunderland | 10 | 5 | 3 | 2 | 4 | 18 |
+| 5 | AFC Bournemouth | 10 | 5 | 3 | 2 | 3 | 18 |
+| 6 | Tottenham Hotspur | 10 | 5 | 2 | 3 | 9 | 17 |
+| 7 | Chelsea | 10 | 5 | 2 | 3 | 7 | 17 |
 | 8 | Manchester United | 10 | 5 | 2 | 3 | 1 | 17 |
 | 9 | Crystal Palace | 10 | 4 | 4 | 2 | 5 | 16 |
 | 10 | Brighton & Hove Albion | 10 | 4 | 3 | 3 | 2 | 15 |
 | 11 | Aston Villa | 10 | 4 | 3 | 3 | -1 | 15 |
-| 12 | Everton | 10 | 4 | 2 | 4 | -2 | 14 |
-| 13 | Brentford | 10 | 4 | 1 | 5 | -2 | 13 |
-| 14 | Newcastle United | 10 | 3 | 3 | 4 | -1 | 12 |
+| 12 | Brentford | 10 | 4 | 1 | 5 | -2 | 13 |
+| 13 | Newcastle United | 10 | 3 | 3 | 4 | -1 | 12 |
+| 14 | Everton | 10 | 3 | 3 | 4 | -3 | 12 |
 | 15 | Fulham | 10 | 3 | 2 | 5 | -2 | 11 |
 | 16 | Leeds United | 10 | 3 | 2 | 5 | -8 | 11 |
 | 17 | Burnley | 10 | 3 | 1 | 6 | -7 | 10 |
@@ -127,13 +127,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Bologna | 10 | 5 | 3 | 2 | 8 | 18 |
 | 6 | Juventus | 10 | 5 | 3 | 2 | 4 | 18 |
 | 7 | Como | 10 | 4 | 5 | 1 | 6 | 17 |
-| 8 | Udinese | 10 | 4 | 3 | 3 | -3 | 15 |
-| 9 | Cremonese | 10 | 3 | 5 | 2 | 0 | 14 |
-| 10 | Atalanta | 10 | 2 | 7 | 1 | 5 | 13 |
-| 11 | Lazio | 10 | 3 | 4 | 3 | 4 | 13 |
+| 8 | Lazio | 10 | 4 | 3 | 3 | 5 | 15 |
+| 9 | Udinese | 10 | 4 | 3 | 3 | -3 | 15 |
+| 10 | Cremonese | 10 | 3 | 5 | 2 | 0 | 14 |
+| 11 | Atalanta | 10 | 2 | 7 | 1 | 5 | 13 |
 | 12 | Sassuolo | 10 | 4 | 1 | 5 | -1 | 13 |
 | 13 | Torino | 10 | 3 | 4 | 3 | -6 | 13 |
-| 14 | Cagliari | 10 | 2 | 4 | 4 | -3 | 10 |
+| 14 | Cagliari | 10 | 2 | 3 | 5 | -4 | 9 |
 | 15 | Lecce | 10 | 2 | 3 | 5 | -6 | 9 |
 | 16 | Parma | 10 | 1 | 4 | 5 | -7 | 7 |
 | 17 | Pisa | 10 | 0 | 6 | 4 | -7 | 6 |
@@ -294,14 +294,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 10 | 9 | 1 | 0 | 20 | 28 |
 | 2 | Sporting CP | 10 | 8 | 1 | 1 | 20 | 25 |
 | 3 | Benfica | 10 | 7 | 3 | 0 | 17 | 24 |
-| 4 | Gil Vicente | 9 | 6 | 1 | 2 | 10 | 19 |
+| 4 | Gil Vicente | 10 | 7 | 1 | 2 | 11 | 22 |
 | 5 | Famalicão | 10 | 5 | 4 | 1 | 7 | 19 |
 | 6 | Moreirense | 10 | 6 | 0 | 4 | 2 | 18 |
 | 7 | Braga | 10 | 3 | 4 | 3 | 7 | 13 |
 | 8 | Vitória S.C. | 10 | 3 | 2 | 5 | -8 | 11 |
 | 9 | Nacional | 10 | 3 | 2 | 5 | -4 | 11 |
 | 10 | Rio Ave | 10 | 2 | 5 | 3 | -5 | 11 |
-| 11 | Santa Clara | 9 | 3 | 2 | 4 | -2 | 11 |
+| 11 | Santa Clara | 10 | 3 | 2 | 5 | -3 | 11 |
 | 12 | Estrela Amadora | 10 | 2 | 4 | 4 | -1 | 10 |
 | 13 | Estoril | 10 | 2 | 4 | 4 | 1 | 10 |
 | 14 | Alverca | 10 | 3 | 1 | 6 | -7 | 10 |
@@ -401,12 +401,12 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Córdoba SdE | 13 | 5 | 6 | 2 | 6 | 21 |
 | 4 | Barracas | 14 | 5 | 6 | 3 | 2 | 21 |
 | 5 | Estudiantes | 14 | 6 | 3 | 5 | 1 | 21 |
-| 6 | Def y Justicia | 14 | 5 | 4 | 5 | -1 | 19 |
-| 7 | Huracán | 14 | 5 | 4 | 5 | -4 | 19 |
-| 8 | Argentinos Juniors | 14 | 5 | 3 | 6 | 3 | 18 |
-| 9 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
-| 10 | Tigre | 13 | 4 | 6 | 3 | 2 | 18 |
-| 11 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
+| 6 | Def y Justicia | 14 | 5 | 5 | 4 | 0 | 20 |
+| 7 | Argentinos Juniors | 14 | 5 | 3 | 6 | 3 | 18 |
+| 8 | Belgrano | 13 | 4 | 6 | 3 | 3 | 18 |
+| 9 | Tigre | 13 | 4 | 6 | 3 | 2 | 18 |
+| 10 | Racing Club | 13 | 5 | 3 | 5 | 1 | 18 |
+| 11 | Huracán | 14 | 4 | 5 | 5 | -5 | 17 |
 | 12 | Banfield | 13 | 5 | 2 | 6 | -6 | 17 |
 | 13 | Independiente Rivadavia | 14 | 2 | 6 | 6 | -5 | 12 |
 | 14 | Aldosivi | 14 | 3 | 3 | 8 | -8 | 12 |
@@ -418,14 +418,14 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | San Lorenzo | 14 | 6 | 4 | 4 | 2 | 22 |
 | 6 | River Plate | 14 | 6 | 3 | 5 | 7 | 21 |
 | 7 | San Martín SJ | 14 | 4 | 6 | 4 | -1 | 18 |
-| 8 | Talleres | 14 | 4 | 5 | 5 | -4 | 17 |
-| 9 | Sarmiento | 14 | 4 | 4 | 6 | -5 | 16 |
+| 8 | Sarmiento | 14 | 5 | 3 | 6 | -4 | 18 |
+| 9 | Talleres | 14 | 4 | 5 | 5 | -4 | 17 |
 | 10 | GELP | 14 | 5 | 1 | 8 | -7 | 16 |
 | 11 | Atl. Tucumán | 14 | 4 | 3 | 7 | -4 | 15 |
 | 12 | Instituto | 14 | 3 | 6 | 5 | -7 | 15 |
 | 13 | Independiente | 14 | 2 | 6 | 6 | -1 | 12 |
-| 14 | Platense | 14 | 2 | 6 | 6 | -9 | 12 |
-| 15 | Godoy Cruz | 14 | 1 | 8 | 5 | -7 | 11 |
+| 14 | Godoy Cruz | 14 | 1 | 8 | 5 | -7 | 11 |
+| 15 | Platense | 14 | 2 | 5 | 7 | -10 | 11 |
 
 ### Brasileirão
 
