@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 03 November 2025, 11:38 PM UTC",
-        "IST": "Tuesday, 04 November 2025, 05:08 AM IST"
+        "UTC": "Tuesday, 04 November 2025, 01:38 AM UTC",
+        "IST": "Tuesday, 04 November 2025, 07:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2971,6 +2971,36 @@
             },
             {
                 "Position": "6",
+                "Team": "Banfield",
+                "Played": "14",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-5",
+                "Points": "20"
+            },
+            {
+                "Position": "7",
+                "Team": "Belgrano",
+                "Played": "14",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "3",
+                "Goal Difference": "3",
+                "Points": "19"
+            },
+            {
+                "Position": "8",
+                "Team": "Tigre",
+                "Played": "14",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "19"
+            },
+            {
+                "Position": "9",
                 "Team": "Racing Club",
                 "Played": "14",
                 "Wins": "5",
@@ -2980,7 +3010,7 @@
                 "Points": "19"
             },
             {
-                "Position": "7",
+                "Position": "10",
                 "Team": "Def y Justicia",
                 "Played": "14",
                 "Wins": "5",
@@ -2990,7 +3020,7 @@
                 "Points": "19"
             },
             {
-                "Position": "8",
+                "Position": "11",
                 "Team": "Hurac\u00e1n",
                 "Played": "14",
                 "Wins": "5",
@@ -3000,7 +3030,7 @@
                 "Points": "19"
             },
             {
-                "Position": "9",
+                "Position": "12",
                 "Team": "Argentinos Juniors",
                 "Played": "14",
                 "Wins": "5",
@@ -3008,36 +3038,6 @@
                 "Losses": "6",
                 "Goal Difference": "3",
                 "Points": "18"
-            },
-            {
-                "Position": "10",
-                "Team": "Belgrano",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "3",
-                "Points": "18"
-            },
-            {
-                "Position": "11",
-                "Team": "Tigre",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "2",
-                "Points": "18"
-            },
-            {
-                "Position": "12",
-                "Team": "Banfield",
-                "Played": "13",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "-6",
-                "Points": "17"
             },
             {
                 "Position": "13",
@@ -3092,11 +3092,11 @@
             {
                 "Position": "3",
                 "Team": "Lan\u00fas",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "8",
                 "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "6",
+                "Losses": "4",
+                "Goal Difference": "5",
                 "Points": "26"
             },
             {
