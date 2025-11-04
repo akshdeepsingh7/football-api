@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 04 November 2025, 06:51 PM UTC (Wednesday, 05 November 2025, 12:21 AM IST)
+**Last Updated:** Tuesday, 04 November 2025, 07:16 PM UTC (Wednesday, 05 November 2025, 12:46 AM IST)
 
 ### Premier League
 
@@ -168,7 +168,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 4 | 4 | 0 | 0 | 9 | 12 |
+| 1 | Arsenal | 4 | 4 | 0 | 0 | 11 | 12 |
 | 2 | PSG | 3 | 3 | 0 | 0 | 10 | 9 |
 | 3 | Bayern Munich | 3 | 3 | 0 | 0 | 10 | 9 |
 | 4 | Inter | 3 | 3 | 0 | 0 | 9 | 9 |
@@ -195,9 +195,9 @@ The latest league standings are displayed below in Markdown tables:
 | 25 | Juventus | 3 | 0 | 2 | 1 | -1 | 2 |
 | 26 | Bodø/Glimt | 3 | 0 | 2 | 1 | -2 | 2 |
 | 27 | Monaco | 3 | 0 | 2 | 1 | -3 | 2 |
-| 28 | Slavia Prague | 4 | 0 | 2 | 2 | -4 | 2 |
-| 29 | Pafos | 3 | 0 | 2 | 1 | -4 | 2 |
-| 30 | Bayer Leverkusen | 3 | 0 | 2 | 1 | -5 | 2 |
+| 28 | Pafos | 3 | 0 | 2 | 1 | -4 | 2 |
+| 29 | Bayer Leverkusen | 3 | 0 | 2 | 1 | -5 | 2 |
+| 30 | Slavia Prague | 4 | 0 | 2 | 2 | -6 | 2 |
 | 31 | Villarreal | 3 | 0 | 1 | 2 | -3 | 1 |
 | 32 | FC Copenhagen | 3 | 0 | 1 | 2 | -4 | 1 |
 | 33 | Olympiacos | 3 | 0 | 1 | 2 | -7 | 1 |
