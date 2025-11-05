@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 05 November 2025, 06:52 PM UTC (Thursday, 06 November 2025, 12:22 AM IST)
+**Last Updated:** Wednesday, 05 November 2025, 07:16 PM UTC (Thursday, 06 November 2025, 12:46 AM IST)
 
 ### Premier League
 
@@ -174,14 +174,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Inter | 3 | 3 | 0 | 0 | 9 | 9 |
 | 5 | Real Madrid | 4 | 3 | 0 | 1 | 6 | 9 |
 | 6 | Liverpool FC | 4 | 3 | 0 | 1 | 5 | 9 |
-| 7 | Qarabağ | 4 | 3 | 0 | 1 | 2 | 9 |
-| 8 | Tottenham Hotspur | 4 | 2 | 2 | 0 | 5 | 8 |
-| 9 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
-| 10 | Manchester City | 3 | 2 | 1 | 0 | 4 | 7 |
+| 7 | Tottenham Hotspur | 4 | 2 | 2 | 0 | 5 | 8 |
+| 8 | Borussia Dortmund | 3 | 2 | 1 | 0 | 5 | 7 |
+| 9 | Manchester City | 3 | 2 | 1 | 0 | 4 | 7 |
+| 10 | Chelsea | 4 | 2 | 1 | 1 | 3 | 7 |
 | 11 | Sporting CP | 4 | 2 | 1 | 1 | 3 | 7 |
-| 12 | Newcastle United | 3 | 2 | 0 | 1 | 6 | 6 |
-| 13 | Barcelona | 3 | 2 | 0 | 1 | 5 | 6 |
-| 14 | Chelsea | 4 | 2 | 0 | 2 | 2 | 6 |
+| 12 | Qarabağ | 4 | 2 | 1 | 1 | 1 | 7 |
+| 13 | Newcastle United | 3 | 2 | 0 | 1 | 6 | 6 |
+| 14 | Barcelona | 3 | 2 | 0 | 1 | 5 | 6 |
 | 15 | Atlético de Madrid | 4 | 2 | 0 | 2 | 1 | 6 |
 | 16 | Galatasaray | 3 | 2 | 0 | 1 | -1 | 6 |
 | 17 | PSV | 4 | 1 | 2 | 1 | 2 | 5 |
