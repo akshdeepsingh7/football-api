@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 05 November 2025, 06:29 PM UTC (Wednesday, 05 November 2025, 11:59 PM IST)
+**Last Updated:** Wednesday, 05 November 2025, 06:52 PM UTC (Thursday, 06 November 2025, 12:22 AM IST)
 
 ### Premier League
 
@@ -186,20 +186,20 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Galatasaray | 3 | 2 | 0 | 1 | -1 | 6 |
 | 17 | PSV | 4 | 1 | 2 | 1 | 2 | 5 |
 | 18 | Monaco | 4 | 1 | 2 | 1 | -2 | 5 |
-| 19 | Atalanta | 3 | 1 | 1 | 1 | -3 | 4 |
-| 20 | Eintracht Frankfurt | 4 | 1 | 1 | 2 | -4 | 4 |
-| 21 | Napoli | 4 | 1 | 1 | 2 | -5 | 4 |
-| 22 | Marseille | 3 | 1 | 0 | 2 | 2 | 3 |
-| 23 | Juventus | 4 | 0 | 3 | 1 | -1 | 3 |
-| 24 | Club Brugge | 3 | 1 | 0 | 2 | -2 | 3 |
-| 25 | Athletic Bilbao | 3 | 1 | 0 | 2 | -3 | 3 |
-| 26 | Pafos | 4 | 0 | 3 | 1 | -4 | 3 |
+| 19 | Pafos | 4 | 1 | 2 | 1 | -3 | 5 |
+| 20 | Atalanta | 3 | 1 | 1 | 1 | -3 | 4 |
+| 21 | Eintracht Frankfurt | 4 | 1 | 1 | 2 | -4 | 4 |
+| 22 | Napoli | 4 | 1 | 1 | 2 | -5 | 4 |
+| 23 | Marseille | 3 | 1 | 0 | 2 | 2 | 3 |
+| 24 | Juventus | 4 | 0 | 3 | 1 | -1 | 3 |
+| 25 | Club Brugge | 3 | 1 | 0 | 2 | -2 | 3 |
+| 26 | Athletic Bilbao | 3 | 1 | 0 | 2 | -3 | 3 |
 | 27 | Union Saint-Gilloise | 4 | 1 | 0 | 3 | -8 | 3 |
 | 28 | Bodø/Glimt | 4 | 0 | 2 | 2 | -3 | 2 |
-| 29 | Villarreal | 4 | 0 | 2 | 2 | -3 | 2 |
-| 30 | Bayer Leverkusen | 3 | 0 | 2 | 1 | -5 | 2 |
-| 31 | Slavia Prague | 4 | 0 | 2 | 2 | -6 | 2 |
-| 32 | Olympiacos | 4 | 0 | 2 | 2 | -7 | 2 |
+| 29 | Bayer Leverkusen | 3 | 0 | 2 | 1 | -5 | 2 |
+| 30 | Slavia Prague | 4 | 0 | 2 | 2 | -6 | 2 |
+| 31 | Olympiacos | 4 | 0 | 2 | 2 | -7 | 2 |
+| 32 | Villarreal | 4 | 0 | 1 | 3 | -4 | 1 |
 | 33 | FC Copenhagen | 4 | 0 | 1 | 3 | -8 | 1 |
 | 34 | Kairat | 3 | 0 | 1 | 2 | -8 | 1 |
 | 35 | Benfica | 3 | 0 | 0 | 3 | -5 | 0 |
