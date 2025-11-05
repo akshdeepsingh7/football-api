@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 05 November 2025, 10:18 PM UTC",
-        "IST": "Thursday, 06 November 2025, 03:48 AM IST"
+        "UTC": "Wednesday, 05 November 2025, 10:41 PM UTC",
+        "IST": "Thursday, 06 November 2025, 04:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3274,12 +3274,12 @@
             {
                 "Position": "6",
                 "Team": "Botafogo",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "13",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "9",
                 "Goal Difference": "13",
-                "Points": "48"
+                "Points": "49"
             },
             {
                 "Position": "7",
@@ -3303,6 +3303,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Vasco da Gama",
+                "Played": "32",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "6",
+                "Points": "43"
+            },
+            {
+                "Position": "10",
                 "Team": "Corinthians",
                 "Played": "32",
                 "Wins": "11",
@@ -3310,16 +3320,6 @@
                 "Losses": "11",
                 "Goal Difference": "-1",
                 "Points": "43"
-            },
-            {
-                "Position": "10",
-                "Team": "Vasco da Gama",
-                "Played": "31",
-                "Wins": "12",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "6",
-                "Points": "42"
             },
             {
                 "Position": "11",
