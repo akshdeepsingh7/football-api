@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 05 November 2025, 10:41 PM UTC (Thursday, 06 November 2025, 04:11 AM IST)
+**Last Updated:** Wednesday, 05 November 2025, 11:18 PM UTC (Thursday, 06 November 2025, 04:48 AM IST)
 
 ### Premier League
 
@@ -433,24 +433,24 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 30 | 20 | 5 | 5 | 29 | 65 |
 | 2 | Flamengo | 30 | 19 | 7 | 4 | 43 | 64 |
-| 3 | Cruzeiro | 31 | 17 | 9 | 5 | 23 | 60 |
+| 3 | Cruzeiro | 32 | 17 | 10 | 5 | 23 | 61 |
 | 4 | Mirassol | 31 | 15 | 11 | 5 | 21 | 56 |
-| 5 | Bahia | 31 | 15 | 7 | 9 | 7 | 52 |
-| 6 | Botafogo | 32 | 13 | 10 | 9 | 13 | 49 |
+| 5 | Bahia | 32 | 15 | 8 | 9 | 7 | 53 |
+| 6 | Botafogo | 32 | 14 | 9 | 9 | 14 | 51 |
 | 7 | Fluminense | 31 | 14 | 5 | 12 | 0 | 47 |
 | 8 | São Paulo | 31 | 12 | 8 | 11 | 2 | 44 |
-| 9 | Vasco da Gama | 32 | 12 | 7 | 13 | 6 | 43 |
-| 10 | Corinthians | 32 | 11 | 10 | 11 | -1 | 43 |
-| 11 | Grêmio | 31 | 10 | 9 | 12 | -7 | 39 |
-| 12 | Ceará | 31 | 10 | 8 | 13 | 0 | 38 |
-| 13 | RB Bragantino | 32 | 10 | 7 | 15 | -14 | 37 |
-| 14 | Atlético Mineiro | 30 | 9 | 10 | 11 | -5 | 37 |
+| 9 | Vasco da Gama | 32 | 12 | 6 | 14 | 5 | 42 |
+| 10 | Corinthians | 32 | 11 | 9 | 12 | -2 | 42 |
+| 11 | Grêmio | 32 | 10 | 10 | 12 | -7 | 40 |
+| 12 | RB Bragantino | 32 | 11 | 6 | 15 | -13 | 39 |
+| 13 | Ceará | 31 | 10 | 8 | 13 | 0 | 38 |
+| 14 | Atlético Mineiro | 31 | 9 | 11 | 11 | -5 | 38 |
 | 15 | Internacional | 32 | 9 | 10 | 13 | -8 | 37 |
 | 16 | Santos | 30 | 8 | 9 | 13 | -12 | 33 |
 | 17 | Vitória | 32 | 7 | 11 | 14 | -19 | 32 |
-| 18 | Fortaleza | 30 | 7 | 7 | 16 | -17 | 28 |
-| 19 | Juventude | 32 | 7 | 6 | 19 | -34 | 27 |
-| 20 | Sport | 31 | 2 | 12 | 17 | -27 | 18 |
+| 18 | Juventude | 32 | 8 | 5 | 19 | -33 | 29 |
+| 19 | Fortaleza | 30 | 7 | 7 | 16 | -17 | 28 |
+| 20 | Sport | 31 | 2 | 11 | 18 | -28 | 17 |
 
 
 <!-- END_TABLE -->
