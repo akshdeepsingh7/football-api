@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 05 November 2025, 11:18 PM UTC",
-        "IST": "Thursday, 06 November 2025, 04:48 AM IST"
+        "UTC": "Wednesday, 05 November 2025, 11:39 PM UTC",
+        "IST": "Thursday, 06 November 2025, 05:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3303,22 +3303,22 @@
             },
             {
                 "Position": "9",
+                "Team": "Corinthians",
+                "Played": "32",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "11",
+                "Goal Difference": "-1",
+                "Points": "43"
+            },
+            {
+                "Position": "10",
                 "Team": "Vasco da Gama",
                 "Played": "32",
                 "Wins": "12",
                 "Draws": "6",
                 "Losses": "14",
                 "Goal Difference": "5",
-                "Points": "42"
-            },
-            {
-                "Position": "10",
-                "Team": "Corinthians",
-                "Played": "32",
-                "Wins": "11",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-2",
                 "Points": "42"
             },
             {
@@ -3333,16 +3333,6 @@
             },
             {
                 "Position": "12",
-                "Team": "RB Bragantino",
-                "Played": "32",
-                "Wins": "11",
-                "Draws": "6",
-                "Losses": "15",
-                "Goal Difference": "-13",
-                "Points": "39"
-            },
-            {
-                "Position": "13",
                 "Team": "Cear\u00e1",
                 "Played": "31",
                 "Wins": "10",
@@ -3352,7 +3342,7 @@
                 "Points": "38"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "31",
                 "Wins": "9",
@@ -3362,17 +3352,37 @@
                 "Points": "38"
             },
             {
+                "Position": "14",
+                "Team": "RB Bragantino",
+                "Played": "32",
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-14",
+                "Points": "37"
+            },
+            {
                 "Position": "15",
                 "Team": "Internacional",
                 "Played": "32",
                 "Wins": "9",
-                "Draws": "10",
-                "Losses": "13",
-                "Goal Difference": "-8",
-                "Points": "37"
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "-9",
+                "Points": "36"
             },
             {
                 "Position": "16",
+                "Team": "Vit\u00f3ria",
+                "Played": "32",
+                "Wins": "8",
+                "Draws": "10",
+                "Losses": "14",
+                "Goal Difference": "-18",
+                "Points": "34"
+            },
+            {
+                "Position": "17",
                 "Team": "Santos",
                 "Played": "30",
                 "Wins": "8",
@@ -3380,16 +3390,6 @@
                 "Losses": "13",
                 "Goal Difference": "-12",
                 "Points": "33"
-            },
-            {
-                "Position": "17",
-                "Team": "Vit\u00f3ria",
-                "Played": "32",
-                "Wins": "7",
-                "Draws": "11",
-                "Losses": "14",
-                "Goal Difference": "-19",
-                "Points": "32"
             },
             {
                 "Position": "18",
