@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 05 November 2025, 09:37 PM UTC",
-        "IST": "Thursday, 06 November 2025, 03:07 AM IST"
+        "UTC": "Wednesday, 05 November 2025, 10:18 PM UTC",
+        "IST": "Thursday, 06 November 2025, 03:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1012,7 +1012,7 @@
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "6",
+                "Goal Difference": "7",
                 "Points": "10"
             },
             {
@@ -1087,16 +1087,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Borussia Dortmund",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "3",
-                "Points": "7"
-            },
-            {
-                "Position": "13",
                 "Team": "Chelsea",
                 "Played": "4",
                 "Wins": "2",
@@ -1106,13 +1096,23 @@
                 "Points": "7"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Sporting CP",
                 "Played": "4",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "3",
+                "Points": "7"
+            },
+            {
+                "Position": "14",
+                "Team": "Borussia Dortmund",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "2",
                 "Points": "7"
             },
             {
@@ -1127,6 +1127,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Atalanta",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-2",
+                "Points": "7"
+            },
+            {
+                "Position": "17",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "4",
                 "Wins": "2",
@@ -1136,7 +1146,7 @@
                 "Points": "6"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "PSV",
                 "Played": "4",
                 "Wins": "1",
@@ -1146,23 +1156,13 @@
                 "Points": "5"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Monaco",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "-2",
-                "Points": "5"
-            },
-            {
-                "Position": "19",
-                "Team": "Atalanta",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "-3",
                 "Points": "5"
             },
             {
@@ -1187,16 +1187,6 @@
             },
             {
                 "Position": "22",
-                "Team": "Marseille",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "4"
-            },
-            {
-                "Position": "23",
                 "Team": "Club Brugge",
                 "Played": "4",
                 "Wins": "1",
@@ -1206,7 +1196,7 @@
                 "Points": "4"
             },
             {
-                "Position": "24",
+                "Position": "23",
                 "Team": "Eintracht Frankfurt",
                 "Played": "4",
                 "Wins": "1",
@@ -1216,7 +1206,7 @@
                 "Points": "4"
             },
             {
-                "Position": "25",
+                "Position": "24",
                 "Team": "Napoli",
                 "Played": "4",
                 "Wins": "1",
@@ -1224,6 +1214,16 @@
                 "Losses": "2",
                 "Goal Difference": "-5",
                 "Points": "4"
+            },
+            {
+                "Position": "25",
+                "Team": "Marseille",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "1",
+                "Points": "3"
             },
             {
                 "Position": "26",
@@ -3303,22 +3303,22 @@
             },
             {
                 "Position": "9",
+                "Team": "Corinthians",
+                "Played": "32",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "11",
+                "Goal Difference": "-1",
+                "Points": "43"
+            },
+            {
+                "Position": "10",
                 "Team": "Vasco da Gama",
                 "Played": "31",
                 "Wins": "12",
                 "Draws": "6",
                 "Losses": "13",
                 "Goal Difference": "6",
-                "Points": "42"
-            },
-            {
-                "Position": "10",
-                "Team": "Corinthians",
-                "Played": "31",
-                "Wins": "11",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-1",
                 "Points": "42"
             },
             {
@@ -3343,6 +3343,16 @@
             },
             {
                 "Position": "13",
+                "Team": "RB Bragantino",
+                "Played": "32",
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-14",
+                "Points": "37"
+            },
+            {
+                "Position": "14",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "30",
                 "Wins": "9",
@@ -3352,24 +3362,14 @@
                 "Points": "37"
             },
             {
-                "Position": "14",
-                "Team": "RB Bragantino",
-                "Played": "31",
-                "Wins": "10",
-                "Draws": "6",
-                "Losses": "15",
-                "Goal Difference": "-14",
-                "Points": "36"
-            },
-            {
                 "Position": "15",
                 "Team": "Internacional",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "9",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "13",
                 "Goal Difference": "-8",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "16",
@@ -3384,12 +3384,12 @@
             {
                 "Position": "17",
                 "Team": "Vit\u00f3ria",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "7",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "14",
                 "Goal Difference": "-19",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "18",
@@ -3404,22 +3404,22 @@
             {
                 "Position": "19",
                 "Team": "Juventude",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "7",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "19",
                 "Goal Difference": "-34",
-                "Points": "26"
+                "Points": "27"
             },
             {
                 "Position": "20",
                 "Team": "Sport",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "2",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "17",
                 "Goal Difference": "-27",
-                "Points": "17"
+                "Points": "18"
             }
         ]
     }

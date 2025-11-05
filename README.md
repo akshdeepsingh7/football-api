@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 05 November 2025, 09:37 PM UTC (Thursday, 06 November 2025, 03:07 AM IST)
+**Last Updated:** Wednesday, 05 November 2025, 10:18 PM UTC (Thursday, 06 November 2025, 03:48 AM IST)
 
 ### Premier League
 
@@ -171,7 +171,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 4 | 4 | 0 | 0 | 11 | 12 |
 | 2 | Arsenal | 4 | 4 | 0 | 0 | 11 | 12 |
 | 3 | Inter | 4 | 4 | 0 | 0 | 10 | 12 |
-| 4 | Manchester City | 4 | 3 | 1 | 0 | 6 | 10 |
+| 4 | Manchester City | 4 | 3 | 1 | 0 | 7 | 10 |
 | 5 | PSG | 4 | 3 | 0 | 1 | 9 | 9 |
 | 6 | Newcastle United | 4 | 3 | 0 | 1 | 8 | 9 |
 | 7 | Real Madrid | 4 | 3 | 0 | 1 | 6 | 9 |
@@ -179,20 +179,20 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Galatasaray | 4 | 3 | 0 | 1 | 2 | 9 |
 | 10 | Tottenham Hotspur | 4 | 2 | 2 | 0 | 5 | 8 |
 | 11 | Barcelona | 4 | 2 | 1 | 1 | 5 | 7 |
-| 12 | Borussia Dortmund | 4 | 2 | 1 | 1 | 3 | 7 |
-| 13 | Chelsea | 4 | 2 | 1 | 1 | 3 | 7 |
-| 14 | Sporting CP | 4 | 2 | 1 | 1 | 3 | 7 |
+| 12 | Chelsea | 4 | 2 | 1 | 1 | 3 | 7 |
+| 13 | Sporting CP | 4 | 2 | 1 | 1 | 3 | 7 |
+| 14 | Borussia Dortmund | 4 | 2 | 1 | 1 | 2 | 7 |
 | 15 | Qarabağ | 4 | 2 | 1 | 1 | 1 | 7 |
-| 16 | Atlético de Madrid | 4 | 2 | 0 | 2 | 1 | 6 |
-| 17 | PSV | 4 | 1 | 2 | 1 | 2 | 5 |
-| 18 | Monaco | 4 | 1 | 2 | 1 | -2 | 5 |
-| 19 | Atalanta | 4 | 1 | 2 | 1 | -3 | 5 |
+| 16 | Atalanta | 4 | 2 | 1 | 1 | -2 | 7 |
+| 17 | Atlético de Madrid | 4 | 2 | 0 | 2 | 1 | 6 |
+| 18 | PSV | 4 | 1 | 2 | 1 | 2 | 5 |
+| 19 | Monaco | 4 | 1 | 2 | 1 | -2 | 5 |
 | 20 | Pafos | 4 | 1 | 2 | 1 | -3 | 5 |
 | 21 | Bayer Leverkusen | 4 | 1 | 2 | 1 | -4 | 5 |
-| 22 | Marseille | 4 | 1 | 1 | 2 | 2 | 4 |
-| 23 | Club Brugge | 4 | 1 | 1 | 2 | -2 | 4 |
-| 24 | Eintracht Frankfurt | 4 | 1 | 1 | 2 | -4 | 4 |
-| 25 | Napoli | 4 | 1 | 1 | 2 | -5 | 4 |
+| 22 | Club Brugge | 4 | 1 | 1 | 2 | -2 | 4 |
+| 23 | Eintracht Frankfurt | 4 | 1 | 1 | 2 | -4 | 4 |
+| 24 | Napoli | 4 | 1 | 1 | 2 | -5 | 4 |
+| 25 | Marseille | 4 | 1 | 0 | 3 | 1 | 3 |
 | 26 | Juventus | 4 | 0 | 3 | 1 | -1 | 3 |
 | 27 | Athletic Bilbao | 4 | 1 | 0 | 3 | -5 | 3 |
 | 28 | Union Saint-Gilloise | 4 | 1 | 0 | 3 | -8 | 3 |
@@ -439,18 +439,18 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Botafogo | 31 | 13 | 9 | 9 | 13 | 48 |
 | 7 | Fluminense | 31 | 14 | 5 | 12 | 0 | 47 |
 | 8 | São Paulo | 31 | 12 | 8 | 11 | 2 | 44 |
-| 9 | Vasco da Gama | 31 | 12 | 6 | 13 | 6 | 42 |
-| 10 | Corinthians | 31 | 11 | 9 | 11 | -1 | 42 |
+| 9 | Corinthians | 32 | 11 | 10 | 11 | -1 | 43 |
+| 10 | Vasco da Gama | 31 | 12 | 6 | 13 | 6 | 42 |
 | 11 | Grêmio | 31 | 10 | 9 | 12 | -7 | 39 |
 | 12 | Ceará | 31 | 10 | 8 | 13 | 0 | 38 |
-| 13 | Atlético Mineiro | 30 | 9 | 10 | 11 | -5 | 37 |
-| 14 | RB Bragantino | 31 | 10 | 6 | 15 | -14 | 36 |
-| 15 | Internacional | 31 | 9 | 9 | 13 | -8 | 36 |
+| 13 | RB Bragantino | 32 | 10 | 7 | 15 | -14 | 37 |
+| 14 | Atlético Mineiro | 30 | 9 | 10 | 11 | -5 | 37 |
+| 15 | Internacional | 32 | 9 | 10 | 13 | -8 | 37 |
 | 16 | Santos | 30 | 8 | 9 | 13 | -12 | 33 |
-| 17 | Vitória | 31 | 7 | 10 | 14 | -19 | 31 |
+| 17 | Vitória | 32 | 7 | 11 | 14 | -19 | 32 |
 | 18 | Fortaleza | 30 | 7 | 7 | 16 | -17 | 28 |
-| 19 | Juventude | 31 | 7 | 5 | 19 | -34 | 26 |
-| 20 | Sport | 30 | 2 | 11 | 17 | -27 | 17 |
+| 19 | Juventude | 32 | 7 | 6 | 19 | -34 | 27 |
+| 20 | Sport | 31 | 2 | 12 | 17 | -27 | 18 |
 
 
 <!-- END_TABLE -->
