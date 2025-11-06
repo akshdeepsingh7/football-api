@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 06 November 2025, 08:23 PM UTC (Friday, 07 November 2025, 01:53 AM IST)
+**Last Updated:** Thursday, 06 November 2025, 08:42 PM UTC (Friday, 07 November 2025, 02:12 AM IST)
 
 ### Premier League
 
@@ -210,41 +210,41 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Midtjylland | 4 | 4 | 0 | 0 | 8 | 12 |
-| 2 | SC Freiburg | 4 | 3 | 1 | 0 | 5 | 10 |
-| 3 | Braga | 4 | 3 | 1 | 0 | 5 | 10 |
-| 4 | Lyon | 4 | 3 | 1 | 0 | 5 | 10 |
+| 2 | Braga | 4 | 4 | 0 | 0 | 6 | 12 |
+| 3 | SC Freiburg | 4 | 3 | 1 | 0 | 5 | 10 |
+| 4 | Ferencváros | 4 | 3 | 1 | 0 | 3 | 10 |
 | 5 | Celta de Vigo | 4 | 3 | 0 | 1 | 5 | 9 |
-| 6 | Plzeň | 4 | 2 | 2 | 0 | 4 | 8 |
-| 7 | Ferencváros | 4 | 2 | 2 | 0 | 2 | 8 |
-| 8 | Brann | 4 | 2 | 1 | 1 | 3 | 7 |
-| 9 | Aston Villa | 4 | 2 | 1 | 1 | 2 | 7 |
-| 10 | Dinamo Zagreb | 4 | 2 | 1 | 1 | 1 | 7 |
-| 11 | BSC Young Boys | 4 | 2 | 1 | 1 | 0 | 7 |
-| 12 | Porto | 4 | 2 | 1 | 1 | 0 | 7 |
-| 13 | Fenerbahçe | 4 | 2 | 1 | 1 | 0 | 7 |
-| 14 | Real Betis | 4 | 1 | 3 | 0 | 2 | 6 |
+| 6 | Lyon | 4 | 3 | 0 | 1 | 3 | 9 |
+| 7 | Plzeň | 4 | 2 | 2 | 0 | 4 | 8 |
+| 8 | Real Betis | 4 | 2 | 2 | 0 | 4 | 8 |
+| 9 | Brann | 4 | 2 | 1 | 1 | 3 | 7 |
+| 10 | Aston Villa | 4 | 2 | 1 | 1 | 2 | 7 |
+| 11 | Dinamo Zagreb | 4 | 2 | 1 | 1 | 1 | 7 |
+| 12 | BSC Young Boys | 4 | 2 | 1 | 1 | 0 | 7 |
+| 13 | Porto | 4 | 2 | 1 | 1 | 0 | 7 |
+| 14 | Fenerbahçe | 4 | 2 | 1 | 1 | 0 | 7 |
 | 15 | Panathinaikos | 4 | 2 | 0 | 2 | 1 | 6 |
 | 16 | FC Basel | 4 | 2 | 0 | 2 | 1 | 6 |
-| 17 | Lille | 4 | 2 | 0 | 2 | 0 | 6 |
-| 18 | Roma | 4 | 2 | 0 | 2 | 0 | 6 |
+| 17 | Roma | 4 | 2 | 0 | 2 | 1 | 6 |
+| 18 | Lille | 4 | 2 | 0 | 2 | 0 | 6 |
 | 19 | Go Ahead Eagles | 4 | 2 | 0 | 2 | -1 | 6 |
 | 20 | Nottingham Forest | 4 | 1 | 2 | 1 | 1 | 5 |
 | 21 | Bologna | 4 | 1 | 2 | 1 | 0 | 5 |
-| 22 | KRC Genk | 4 | 1 | 2 | 1 | 0 | 5 |
-| 23 | PAOK | 4 | 1 | 2 | 1 | -1 | 5 |
-| 24 | Feyenoord | 4 | 1 | 1 | 2 | -1 | 4 |
-| 25 | Ludogorets | 4 | 1 | 1 | 2 | -2 | 4 |
-| 26 | Red Star Belgrade | 4 | 1 | 1 | 2 | -2 | 4 |
-| 27 | Sturm Graz | 4 | 1 | 1 | 2 | -2 | 4 |
-| 28 | VfB Stuttgart | 4 | 1 | 1 | 2 | -2 | 4 |
-| 29 | Celtic | 4 | 1 | 1 | 2 | -3 | 4 |
-| 30 | RB Salzburg | 4 | 1 | 0 | 3 | -2 | 3 |
+| 22 | PAOK | 4 | 1 | 2 | 1 | -1 | 5 |
+| 23 | Feyenoord | 4 | 1 | 1 | 2 | -1 | 4 |
+| 24 | KRC Genk | 4 | 1 | 1 | 2 | -1 | 4 |
+| 25 | Red Star Belgrade | 4 | 1 | 1 | 2 | -2 | 4 |
+| 26 | Sturm Graz | 4 | 1 | 1 | 2 | -2 | 4 |
+| 27 | VfB Stuttgart | 4 | 1 | 1 | 2 | -2 | 4 |
+| 28 | Celtic | 4 | 1 | 1 | 2 | -3 | 4 |
+| 29 | RB Salzburg | 4 | 1 | 0 | 3 | -2 | 3 |
+| 30 | Ludogorets | 4 | 1 | 0 | 3 | -3 | 3 |
 | 31 | FCSB | 4 | 1 | 0 | 3 | -4 | 3 |
 | 32 | Maccabi Tel Aviv | 4 | 0 | 2 | 2 | -5 | 2 |
 | 33 | Utrecht | 4 | 0 | 1 | 3 | -4 | 1 |
 | 34 | Malmö | 4 | 0 | 1 | 3 | -5 | 1 |
 | 35 | Nice | 4 | 0 | 0 | 4 | -5 | 0 |
-| 36 | Rangers | 4 | 0 | 0 | 4 | -6 | 0 |
+| 36 | Rangers | 4 | 0 | 0 | 4 | -7 | 0 |
 
 ### Europa Conference League
 
@@ -255,37 +255,37 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Mainz 05 | 3 | 3 | 0 | 0 | 3 | 9 |
 | 4 | AEK Larnaca | 3 | 2 | 1 | 0 | 5 | 7 |
 | 5 | Lausanne-Sport | 3 | 2 | 1 | 0 | 4 | 7 |
-| 6 | Fiorentina | 3 | 2 | 0 | 1 | 4 | 6 |
-| 7 | Lech | 3 | 2 | 0 | 1 | 3 | 6 |
-| 8 | Shakhtar Donetsk | 3 | 2 | 0 | 1 | 2 | 6 |
-| 9 | KuPS | 3 | 1 | 2 | 0 | 2 | 5 |
-| 10 | Raków | 3 | 1 | 2 | 0 | 2 | 5 |
-| 11 | Strasbourg | 3 | 1 | 2 | 0 | 1 | 5 |
-| 12 | Jagiellonia | 3 | 1 | 2 | 0 | 1 | 5 |
-| 13 | AEK Athens | 3 | 1 | 1 | 1 | 4 | 4 |
-| 14 | Zrinjski Mostar | 3 | 1 | 1 | 1 | 4 | 4 |
+| 6 | Strasbourg | 3 | 2 | 1 | 0 | 2 | 7 |
+| 7 | Lech | 3 | 2 | 0 | 1 | 4 | 6 |
+| 8 | Fiorentina | 3 | 2 | 0 | 1 | 4 | 6 |
+| 9 | Shakhtar Donetsk | 3 | 2 | 0 | 1 | 2 | 6 |
+| 10 | Crystal Palace | 3 | 2 | 0 | 1 | 2 | 6 |
+| 11 | KuPS | 3 | 1 | 2 | 0 | 2 | 5 |
+| 12 | Raków | 3 | 1 | 2 | 0 | 2 | 5 |
+| 13 | Jagiellonia | 3 | 1 | 2 | 0 | 1 | 5 |
+| 14 | AEK Athens | 3 | 1 | 1 | 1 | 4 | 4 |
 | 15 | Sparta Prague | 3 | 1 | 1 | 1 | 2 | 4 |
-| 16 | Rayo Vallecano | 3 | 1 | 1 | 1 | 1 | 4 |
-| 17 | Crystal Palace | 3 | 1 | 1 | 1 | 1 | 4 |
-| 18 | Noah | 3 | 1 | 1 | 1 | 0 | 4 |
-| 19 | Rijeka | 3 | 1 | 1 | 1 | 0 | 4 |
-| 20 | Sigma Olomouc | 3 | 1 | 1 | 1 | -1 | 4 |
+| 16 | Rayo Vallecano | 3 | 1 | 1 | 1 | 0 | 4 |
+| 17 | Noah | 3 | 1 | 1 | 1 | 0 | 4 |
+| 18 | Rijeka | 3 | 1 | 1 | 1 | 0 | 4 |
+| 19 | Sigma Olomouc | 3 | 1 | 1 | 1 | -1 | 4 |
+| 20 | Universitatea Craiova | 3 | 1 | 1 | 1 | -1 | 4 |
 | 21 | Shkëndija | 3 | 1 | 1 | 1 | -1 | 4 |
-| 22 | AZ | 3 | 1 | 1 | 1 | -3 | 4 |
-| 23 | Lincoln Red Imps | 3 | 1 | 1 | 1 | -4 | 4 |
+| 22 | Lincoln Red Imps | 3 | 1 | 1 | 1 | -4 | 4 |
+| 23 | Zrinjski Mostar | 3 | 1 | 0 | 2 | 3 | 3 |
 | 24 | Drita | 3 | 0 | 3 | 0 | 0 | 3 |
-| 25 | Häcken | 3 | 0 | 3 | 0 | 0 | 3 |
-| 26 | Legia | 3 | 1 | 0 | 2 | -1 | 3 |
-| 27 | Omonia | 3 | 0 | 2 | 1 | -1 | 2 |
-| 28 | Shelbourne | 3 | 0 | 2 | 1 | -1 | 2 |
-| 29 | Universitatea Craiova | 3 | 0 | 2 | 1 | -2 | 2 |
-| 30 | Shamrock Rovers | 3 | 0 | 1 | 2 | -5 | 1 |
-| 31 | Breiðablik | 3 | 0 | 1 | 2 | -5 | 1 |
-| 32 | Dynamo Kyiv | 3 | 0 | 1 | 2 | -5 | 1 |
-| 33 | Rapid Vienna | 3 | 0 | 1 | 2 | -6 | 1 |
-| 34 | Aberdeen | 3 | 0 | 1 | 2 | -7 | 1 |
-| 35 | Slovan Bratislava | 3 | 0 | 0 | 3 | -4 | 0 |
-| 36 | Hamrun Spartans | 3 | 0 | 0 | 3 | -5 | 0 |
+| 25 | Legia | 3 | 1 | 0 | 2 | -1 | 3 |
+| 26 | AZ | 3 | 1 | 0 | 2 | -4 | 3 |
+| 27 | Dynamo Kyiv | 3 | 1 | 0 | 2 | -4 | 3 |
+| 28 | Omonia | 3 | 0 | 2 | 1 | -1 | 2 |
+| 29 | Häcken | 3 | 0 | 2 | 1 | -1 | 2 |
+| 30 | Shelbourne | 3 | 0 | 2 | 1 | -1 | 2 |
+| 31 | Shamrock Rovers | 3 | 0 | 1 | 2 | -5 | 1 |
+| 32 | Breiðablik | 3 | 0 | 1 | 2 | -5 | 1 |
+| 33 | Aberdeen | 3 | 0 | 1 | 2 | -7 | 1 |
+| 34 | Slovan Bratislava | 3 | 0 | 0 | 3 | -4 | 0 |
+| 35 | Hamrun Spartans | 3 | 0 | 0 | 3 | -5 | 0 |
+| 36 | Rapid Vienna | 3 | 0 | 0 | 3 | -7 | 0 |
 
 ### Liga Portugal
 
