@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 05 November 2025, 11:39 PM UTC (Thursday, 06 November 2025, 05:09 AM IST)
+**Last Updated:** Thursday, 06 November 2025, 01:39 AM UTC (Thursday, 06 November 2025, 07:09 AM IST)
 
 ### Premier League
 
@@ -432,25 +432,25 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 30 | 20 | 5 | 5 | 29 | 65 |
-| 2 | Flamengo | 30 | 19 | 7 | 4 | 43 | 64 |
-| 3 | Cruzeiro | 32 | 17 | 10 | 5 | 23 | 61 |
+| 2 | Flamengo | 31 | 19 | 8 | 4 | 43 | 65 |
+| 3 | Cruzeiro | 32 | 18 | 9 | 5 | 24 | 63 |
 | 4 | Mirassol | 31 | 15 | 11 | 5 | 21 | 56 |
-| 5 | Bahia | 32 | 15 | 8 | 9 | 7 | 53 |
-| 6 | Botafogo | 32 | 14 | 9 | 9 | 14 | 51 |
+| 5 | Bahia | 32 | 15 | 7 | 10 | 4 | 52 |
+| 6 | Botafogo | 32 | 14 | 9 | 9 | 16 | 51 |
 | 7 | Fluminense | 31 | 14 | 5 | 12 | 0 | 47 |
-| 8 | São Paulo | 31 | 12 | 8 | 11 | 2 | 44 |
-| 9 | Corinthians | 32 | 11 | 10 | 11 | -1 | 43 |
-| 10 | Vasco da Gama | 32 | 12 | 6 | 14 | 5 | 42 |
-| 11 | Grêmio | 32 | 10 | 10 | 12 | -7 | 40 |
-| 12 | Ceará | 31 | 10 | 8 | 13 | 0 | 38 |
-| 13 | Atlético Mineiro | 31 | 9 | 11 | 11 | -5 | 38 |
-| 14 | RB Bragantino | 32 | 10 | 7 | 15 | -14 | 37 |
+| 8 | São Paulo | 32 | 12 | 9 | 11 | 2 | 45 |
+| 9 | Vasco da Gama | 32 | 12 | 6 | 14 | 3 | 42 |
+| 10 | Corinthians | 32 | 11 | 9 | 12 | -2 | 42 |
+| 11 | Atlético Mineiro | 31 | 10 | 10 | 11 | -2 | 40 |
+| 12 | RB Bragantino | 32 | 11 | 6 | 15 | -13 | 39 |
+| 13 | Grêmio | 32 | 10 | 9 | 13 | -8 | 39 |
+| 14 | Ceará | 31 | 10 | 8 | 13 | 0 | 38 |
 | 15 | Internacional | 32 | 9 | 9 | 14 | -9 | 36 |
 | 16 | Vitória | 32 | 8 | 10 | 14 | -18 | 34 |
 | 17 | Santos | 30 | 8 | 9 | 13 | -12 | 33 |
-| 18 | Juventude | 32 | 8 | 5 | 19 | -33 | 29 |
+| 18 | Juventude | 32 | 8 | 5 | 19 | -32 | 29 |
 | 19 | Fortaleza | 30 | 7 | 7 | 16 | -17 | 28 |
-| 20 | Sport | 31 | 2 | 11 | 18 | -28 | 17 |
+| 20 | Sport | 31 | 2 | 11 | 18 | -29 | 17 |
 
 
 <!-- END_TABLE -->
