@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 07 November 2025, 08:19 PM UTC (Saturday, 08 November 2025, 01:49 AM IST)
+**Last Updated:** Friday, 07 November 2025, 08:39 PM UTC (Saturday, 08 November 2025, 02:09 AM IST)
 
 ### Premier League
 
@@ -320,11 +320,11 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Preston North End | 14 | 7 | 4 | 3 | 6 | 25 |
 | 5 | Millwall | 14 | 7 | 3 | 4 | -3 | 24 |
 | 6 | Charlton Athletic | 14 | 6 | 5 | 3 | 5 | 23 |
-| 7 | Bristol City | 15 | 6 | 4 | 5 | 3 | 22 |
-| 8 | Watford | 15 | 6 | 4 | 5 | 2 | 22 |
-| 9 | Hull City | 14 | 6 | 4 | 4 | 1 | 22 |
-| 10 | Birmingham City | 14 | 6 | 3 | 5 | 4 | 21 |
-| 11 | Ipswich Town | 13 | 5 | 5 | 3 | 7 | 20 |
+| 7 | Bristol City | 15 | 6 | 5 | 4 | 4 | 23 |
+| 8 | Hull City | 14 | 6 | 4 | 4 | 1 | 22 |
+| 9 | Birmingham City | 14 | 6 | 3 | 5 | 4 | 21 |
+| 10 | Ipswich Town | 13 | 5 | 5 | 3 | 7 | 20 |
+| 11 | Watford | 15 | 5 | 5 | 5 | 1 | 20 |
 | 12 | Derby County | 14 | 5 | 5 | 4 | 0 | 20 |
 | 13 | Leicester City | 14 | 4 | 6 | 4 | 1 | 18 |
 | 14 | Wrexham | 14 | 4 | 6 | 4 | 0 | 18 |
