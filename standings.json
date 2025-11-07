@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 07 November 2025, 08:39 PM UTC",
-        "IST": "Saturday, 08 November 2025, 02:09 AM IST"
+        "UTC": "Friday, 07 November 2025, 09:14 PM UTC",
+        "IST": "Saturday, 08 November 2025, 02:44 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -494,23 +494,13 @@
                 "Team": "Werder Bremen",
                 "Played": "10",
                 "Wins": "3",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "12"
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "-4",
+                "Points": "13"
             },
             {
                 "Position": "10",
-                "Team": "VfL Wolfsburg",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-4",
-                "Points": "11"
-            },
-            {
-                "Position": "11",
                 "Team": "Union Berlin",
                 "Played": "9",
                 "Wins": "3",
@@ -520,7 +510,7 @@
                 "Points": "11"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "SC Freiburg",
                 "Played": "9",
                 "Wins": "2",
@@ -528,6 +518,16 @@
                 "Losses": "3",
                 "Goal Difference": "-2",
                 "Points": "10"
+            },
+            {
+                "Position": "12",
+                "Team": "VfL Wolfsburg",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-5",
+                "Points": "9"
             },
             {
                 "Position": "13",
