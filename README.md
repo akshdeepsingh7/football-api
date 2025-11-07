@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 07 November 2025, 09:37 PM UTC (Saturday, 08 November 2025, 03:07 AM IST)
+**Last Updated:** Friday, 07 November 2025, 10:18 PM UTC (Saturday, 08 November 2025, 03:48 AM IST)
 
 ### Premier League
 
@@ -78,14 +78,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Atlético de Madrid | 11 | 6 | 4 | 1 | 11 | 22 |
 | 5 | Real Betis | 11 | 5 | 4 | 2 | 6 | 19 |
 | 6 | Espanyol | 11 | 5 | 3 | 3 | 2 | 18 |
-| 7 | Elche | 12 | 4 | 5 | 3 | 0 | 17 |
-| 8 | Getafe | 11 | 5 | 2 | 4 | -1 | 17 |
-| 9 | Alavés | 11 | 4 | 3 | 4 | 1 | 15 |
+| 7 | Getafe | 11 | 5 | 2 | 4 | -1 | 17 |
+| 8 | Alavés | 11 | 4 | 3 | 4 | 1 | 15 |
+| 9 | Elche | 12 | 3 | 6 | 3 | -1 | 15 |
 | 10 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
 | 11 | Athletic Bilbao | 11 | 4 | 2 | 5 | -2 | 14 |
 | 12 | Celta de Vigo | 11 | 2 | 7 | 2 | -1 | 13 |
 | 13 | Sevilla | 11 | 4 | 1 | 6 | -2 | 13 |
-| 14 | Real Sociedad | 12 | 3 | 3 | 6 | -4 | 12 |
+| 14 | Real Sociedad | 12 | 3 | 4 | 5 | -3 | 13 |
 | 15 | Osasuna | 11 | 3 | 2 | 6 | -3 | 11 |
 | 16 | Levante | 11 | 2 | 3 | 6 | -5 | 9 |
 | 17 | Mallorca | 11 | 2 | 3 | 6 | -7 | 9 |
