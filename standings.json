@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 01:39 PM UTC",
-        "IST": "Saturday, 08 November 2025, 07:09 PM IST"
+        "UTC": "Saturday, 08 November 2025, 02:16 PM UTC",
+        "IST": "Saturday, 08 November 2025, 07:46 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -17,16 +17,6 @@
             },
             {
                 "Position": "2",
-                "Team": "Manchester United",
-                "Played": "11",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "2",
-                "Points": "20"
-            },
-            {
-                "Position": "3",
                 "Team": "Manchester City",
                 "Played": "10",
                 "Wins": "6",
@@ -34,6 +24,16 @@
                 "Losses": "3",
                 "Goal Difference": "12",
                 "Points": "19"
+            },
+            {
+                "Position": "3",
+                "Team": "Tottenham Hotspur",
+                "Played": "11",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "9",
+                "Points": "18"
             },
             {
                 "Position": "4",
@@ -67,13 +67,13 @@
             },
             {
                 "Position": "7",
-                "Team": "Tottenham Hotspur",
+                "Team": "Manchester United",
                 "Played": "11",
                 "Wins": "5",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "8",
-                "Points": "17"
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "1",
+                "Points": "18"
             },
             {
                 "Position": "8",
@@ -654,12 +654,12 @@
             {
                 "Position": "7",
                 "Team": "Como",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "1",
                 "Goal Difference": "6",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "8",
@@ -724,22 +724,22 @@
             {
                 "Position": "14",
                 "Team": "Cagliari",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "2",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "-5",
-                "Points": "9"
+                "Points": "10"
             },
             {
                 "Position": "15",
                 "Team": "Lecce",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "2",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "-6",
-                "Points": "9"
+                "Points": "10"
             },
             {
                 "Position": "16",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Hellas Verona",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "0",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "5",
                 "Goal Difference": "-10",
-                "Points": "5"
+                "Points": "6"
             },
             {
                 "Position": "20",
@@ -2285,6 +2285,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Hull City",
+                "Played": "15",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "2",
+                "Points": "25"
+            },
+            {
+                "Position": "6",
                 "Team": "Millwall",
                 "Played": "15",
                 "Wins": "7",
@@ -2294,7 +2304,7 @@
                 "Points": "25"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Charlton Athletic",
                 "Played": "14",
                 "Wins": "6",
@@ -2304,7 +2314,7 @@
                 "Points": "23"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Bristol City",
                 "Played": "15",
                 "Wins": "6",
@@ -2314,18 +2324,8 @@
                 "Points": "23"
             },
             {
-                "Position": "8",
-                "Team": "Derby County",
-                "Played": "15",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "2",
-                "Points": "23"
-            },
-            {
                 "Position": "9",
-                "Team": "Hull City",
+                "Team": "Derby County",
                 "Played": "15",
                 "Wins": "6",
                 "Draws": "5",
@@ -2420,7 +2420,7 @@
                 "Wins": "5",
                 "Draws": "1",
                 "Losses": "8",
-                "Goal Difference": "-6",
+                "Goal Difference": "-5",
                 "Points": "16"
             },
             {
@@ -2438,10 +2438,10 @@
                 "Team": "Portsmouth",
                 "Played": "15",
                 "Wins": "3",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "-7",
-                "Points": "15"
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "-8",
+                "Points": "14"
             },
             {
                 "Position": "21",
