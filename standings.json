@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 11:17 PM UTC",
-        "IST": "Sunday, 09 November 2025, 04:47 AM IST"
+        "UTC": "Saturday, 08 November 2025, 11:37 PM UTC",
+        "IST": "Sunday, 09 November 2025, 05:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3266,10 +3266,10 @@
                 "Team": "Bahia",
                 "Played": "33",
                 "Wins": "15",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "3",
-                "Points": "52"
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "4",
+                "Points": "53"
             },
             {
                 "Position": "6",
@@ -3353,16 +3353,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Internacional",
-                "Played": "33",
-                "Wins": "10",
-                "Draws": "9",
-                "Losses": "14",
-                "Goal Difference": "-8",
-                "Points": "39"
-            },
-            {
-                "Position": "15",
                 "Team": "Gr\u00eamio",
                 "Played": "32",
                 "Wins": "10",
@@ -3370,6 +3360,16 @@
                 "Losses": "13",
                 "Goal Difference": "-8",
                 "Points": "39"
+            },
+            {
+                "Position": "15",
+                "Team": "Internacional",
+                "Played": "33",
+                "Wins": "9",
+                "Draws": "10",
+                "Losses": "14",
+                "Goal Difference": "-9",
+                "Points": "37"
             },
             {
                 "Position": "16",
