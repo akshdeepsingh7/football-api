@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 07 November 2025, 11:37 PM UTC (Saturday, 08 November 2025, 05:07 AM IST)
+**Last Updated:** Saturday, 08 November 2025, 01:26 AM UTC (Saturday, 08 November 2025, 06:56 AM IST)
 
 ### Premier League
 
@@ -411,11 +411,11 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Independiente Rivadavia | 14 | 2 | 6 | 6 | -5 | 12 |
 | 14 | Aldosivi | 14 | 3 | 3 | 8 | -8 | 12 |
 | 15 | Newell's Old Boys | 14 | 2 | 5 | 7 | -11 | 11 |
-| 1 | Rosario | 14 | 8 | 6 | 0 | 11 | 30 |
+| 1 | Rosario | 15 | 8 | 7 | 0 | 11 | 31 |
 | 2 | Riestra | 14 | 8 | 3 | 3 | 8 | 27 |
 | 3 | Lanús | 14 | 8 | 2 | 4 | 5 | 26 |
 | 4 | Vélez | 14 | 7 | 4 | 3 | 9 | 25 |
-| 5 | San Lorenzo | 14 | 6 | 4 | 4 | 2 | 22 |
+| 5 | San Lorenzo | 15 | 6 | 5 | 4 | 2 | 23 |
 | 6 | River Plate | 14 | 6 | 3 | 5 | 7 | 21 |
 | 7 | San Martín SJ | 14 | 4 | 6 | 4 | -1 | 18 |
 | 8 | Talleres | 14 | 4 | 5 | 5 | -4 | 17 |
