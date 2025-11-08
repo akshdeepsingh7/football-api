@@ -1,19 +1,19 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 05:15 PM UTC",
-        "IST": "Saturday, 08 November 2025, 10:45 PM IST"
+        "UTC": "Saturday, 08 November 2025, 05:37 PM UTC",
+        "IST": "Saturday, 08 November 2025, 11:07 PM IST"
     },
     "standings": {
         "Premier League": [
             {
                 "Position": "1",
                 "Team": "Arsenal",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "8",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "15",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "2",
@@ -27,6 +27,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Sunderland",
+                "Played": "11",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "19"
+            },
+            {
+                "Position": "4",
                 "Team": "Tottenham Hotspur",
                 "Played": "11",
                 "Wins": "5",
@@ -36,22 +46,12 @@
                 "Points": "18"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Liverpool FC",
                 "Played": "10",
                 "Wins": "6",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "4",
-                "Points": "18"
-            },
-            {
-                "Position": "5",
-                "Team": "Sunderland",
-                "Played": "10",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "2",
                 "Goal Difference": "4",
                 "Points": "18"
             },
@@ -240,12 +240,12 @@
             {
                 "Position": "4",
                 "Team": "Atl\u00e9tico de Madrid",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "6",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "11",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "5",
@@ -359,6 +359,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Levante",
+                "Played": "12",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-5",
+                "Points": "10"
+            },
+            {
+                "Position": "17",
                 "Team": "Girona",
                 "Played": "12",
                 "Wins": "2",
@@ -366,16 +376,6 @@
                 "Losses": "6",
                 "Goal Difference": "-13",
                 "Points": "10"
-            },
-            {
-                "Position": "17",
-                "Team": "Levante",
-                "Played": "11",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "9"
             },
             {
                 "Position": "18",
@@ -471,6 +471,16 @@
             },
             {
                 "Position": "7",
+                "Team": "K\u00f6ln",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "4",
+                "Points": "15"
+            },
+            {
+                "Position": "8",
                 "Team": "Werder Bremen",
                 "Played": "10",
                 "Wins": "4",
@@ -478,16 +488,6 @@
                 "Losses": "3",
                 "Goal Difference": "-3",
                 "Points": "15"
-            },
-            {
-                "Position": "8",
-                "Team": "K\u00f6ln",
-                "Played": "9",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "4",
-                "Points": "14"
             },
             {
                 "Position": "9",
@@ -541,6 +541,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Played": "10",
+                "Wins": "1",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-8",
+                "Points": "7"
+            },
+            {
+                "Position": "15",
                 "Team": "Augsburg",
                 "Played": "9",
                 "Wins": "2",
@@ -550,7 +560,7 @@
                 "Points": "7"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "St. Pauli",
                 "Played": "9",
                 "Wins": "2",
@@ -558,16 +568,6 @@
                 "Losses": "6",
                 "Goal Difference": "-10",
                 "Points": "7"
-            },
-            {
-                "Position": "16",
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "9",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-8",
-                "Points": "6"
             },
             {
                 "Position": "17",
