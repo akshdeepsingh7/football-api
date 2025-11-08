@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 06:46 PM UTC",
-        "IST": "Sunday, 09 November 2025, 12:16 AM IST"
+        "UTC": "Saturday, 08 November 2025, 07:14 PM UTC",
+        "IST": "Sunday, 09 November 2025, 12:44 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -9,24 +9,14 @@
                 "Position": "1",
                 "Team": "Arsenal",
                 "Played": "11",
-                "Wins": "8",
+                "Wins": "9",
                 "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "14",
-                "Points": "25"
+                "Losses": "1",
+                "Goal Difference": "16",
+                "Points": "28"
             },
             {
                 "Position": "2",
-                "Team": "Sunderland",
-                "Played": "11",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "5",
-                "Points": "21"
-            },
-            {
-                "Position": "3",
                 "Team": "Manchester City",
                 "Played": "10",
                 "Wins": "6",
@@ -36,7 +26,7 @@
                 "Points": "19"
             },
             {
-                "Position": "4",
+                "Position": "3",
                 "Team": "Tottenham Hotspur",
                 "Played": "11",
                 "Wins": "5",
@@ -46,7 +36,7 @@
                 "Points": "18"
             },
             {
-                "Position": "5",
+                "Position": "4",
                 "Team": "Liverpool FC",
                 "Played": "10",
                 "Wins": "6",
@@ -56,12 +46,22 @@
                 "Points": "18"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "AFC Bournemouth",
                 "Played": "10",
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "2",
+                "Goal Difference": "3",
+                "Points": "18"
+            },
+            {
+                "Position": "6",
+                "Team": "Sunderland",
+                "Played": "11",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "3",
                 "Goal Difference": "3",
                 "Points": "18"
             },
@@ -229,22 +229,22 @@
             },
             {
                 "Position": "3",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "12",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "13",
+                "Points": "25"
+            },
+            {
+                "Position": "4",
                 "Team": "Villarreal",
                 "Played": "11",
                 "Wins": "7",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "12",
-                "Points": "23"
-            },
-            {
-                "Position": "4",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "12",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "11",
                 "Points": "23"
             },
             {
@@ -359,16 +359,6 @@
             },
             {
                 "Position": "16",
-                "Team": "Levante",
-                "Played": "12",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "10"
-            },
-            {
-                "Position": "17",
                 "Team": "Girona",
                 "Played": "12",
                 "Wins": "2",
@@ -376,6 +366,16 @@
                 "Losses": "6",
                 "Goal Difference": "-13",
                 "Points": "10"
+            },
+            {
+                "Position": "17",
+                "Team": "Levante",
+                "Played": "12",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-7",
+                "Points": "9"
             },
             {
                 "Position": "18",
@@ -496,7 +496,7 @@
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "3",
+                "Goal Difference": "1",
                 "Points": "14"
             },
             {
@@ -526,7 +526,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "-7",
+                "Goal Difference": "-5",
                 "Points": "9"
             },
             {
