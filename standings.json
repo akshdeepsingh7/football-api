@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 09:16 PM UTC",
-        "IST": "Sunday, 09 November 2025, 02:46 AM IST"
+        "UTC": "Saturday, 08 November 2025, 09:36 PM UTC",
+        "IST": "Sunday, 09 November 2025, 03:06 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -22,7 +22,7 @@
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "3",
-                "Goal Difference": "8",
+                "Goal Difference": "10",
                 "Points": "20"
             },
             {
@@ -202,7 +202,7 @@
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "9",
-                "Goal Difference": "-16",
+                "Goal Difference": "-18",
                 "Points": "2"
             }
         ],
@@ -810,7 +810,7 @@
                 "Wins": "8",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "9",
+                "Goal Difference": "10",
                 "Points": "25"
             },
             {
@@ -835,22 +835,22 @@
             },
             {
                 "Position": "5",
-                "Team": "Monaco",
-                "Played": "12",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "4",
-                "Points": "20"
-            },
-            {
-                "Position": "6",
                 "Team": "Lyon",
                 "Played": "11",
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "4",
+                "Points": "20"
+            },
+            {
+                "Position": "6",
+                "Team": "Monaco",
+                "Played": "12",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "3",
                 "Points": "20"
             },
             {
@@ -3264,12 +3264,12 @@
             {
                 "Position": "5",
                 "Team": "Bahia",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "15",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "4",
-                "Points": "52"
+                "Points": "53"
             },
             {
                 "Position": "6",
@@ -3293,6 +3293,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Vasco da Gama",
+                "Played": "33",
+                "Wins": "13",
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "4",
+                "Points": "45"
+            },
+            {
+                "Position": "9",
                 "Team": "S\u00e3o Paulo",
                 "Played": "32",
                 "Wins": "12",
@@ -3300,16 +3310,6 @@
                 "Losses": "11",
                 "Goal Difference": "2",
                 "Points": "45"
-            },
-            {
-                "Position": "9",
-                "Team": "Vasco da Gama",
-                "Played": "33",
-                "Wins": "12",
-                "Draws": "7",
-                "Losses": "14",
-                "Goal Difference": "3",
-                "Points": "43"
             },
             {
                 "Position": "10",
@@ -3364,12 +3364,12 @@
             {
                 "Position": "15",
                 "Team": "Internacional",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "9",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "14",
                 "Goal Difference": "-9",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "16",
@@ -3396,10 +3396,10 @@
                 "Team": "Juventude",
                 "Played": "33",
                 "Wins": "8",
-                "Draws": "6",
-                "Losses": "19",
-                "Goal Difference": "-32",
-                "Points": "30"
+                "Draws": "5",
+                "Losses": "20",
+                "Goal Difference": "-33",
+                "Points": "29"
             },
             {
                 "Position": "19",

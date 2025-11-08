@@ -41,14 +41,14 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 08 November 2025, 09:16 PM UTC (Sunday, 09 November 2025, 02:46 AM IST)
+**Last Updated:** Saturday, 08 November 2025, 09:36 PM UTC (Sunday, 09 November 2025, 03:06 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 11 | 8 | 2 | 1 | 15 | 26 |
-| 2 | Chelsea | 11 | 6 | 2 | 3 | 8 | 20 |
+| 2 | Chelsea | 11 | 6 | 2 | 3 | 10 | 20 |
 | 3 | Manchester City | 10 | 6 | 1 | 3 | 12 | 19 |
 | 4 | Sunderland | 11 | 5 | 4 | 2 | 4 | 19 |
 | 5 | Tottenham Hotspur | 11 | 5 | 3 | 3 | 9 | 18 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Burnley | 11 | 3 | 1 | 7 | -8 | 10 |
 | 18 | West Ham United | 11 | 3 | 1 | 7 | -10 | 10 |
 | 19 | Nottingham Forest | 10 | 1 | 3 | 6 | -12 | 6 |
-| 20 | Wolverhampton Wanderers | 11 | 0 | 2 | 9 | -16 | 2 |
+| 20 | Wolverhampton Wanderers | 11 | 0 | 2 | 9 | -18 | 2 |
 
 ### La Liga
 
@@ -146,11 +146,11 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Marseille | 12 | 8 | 1 | 3 | 17 | 25 |
-| 2 | Lens | 12 | 8 | 1 | 3 | 9 | 25 |
+| 2 | Lens | 12 | 8 | 1 | 3 | 10 | 25 |
 | 3 | PSG | 11 | 7 | 3 | 1 | 12 | 24 |
 | 4 | Lille | 11 | 6 | 2 | 3 | 10 | 20 |
-| 5 | Monaco | 12 | 6 | 2 | 4 | 4 | 20 |
-| 6 | Lyon | 11 | 6 | 2 | 3 | 4 | 20 |
+| 5 | Lyon | 11 | 6 | 2 | 3 | 4 | 20 |
+| 6 | Monaco | 12 | 6 | 2 | 4 | 3 | 20 |
 | 7 | Strasbourg | 11 | 6 | 1 | 4 | 6 | 19 |
 | 8 | Rennes | 12 | 4 | 6 | 2 | 2 | 18 |
 | 9 | Nice | 11 | 5 | 2 | 4 | 0 | 17 |
@@ -435,20 +435,20 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Flamengo | 31 | 19 | 8 | 4 | 43 | 65 |
 | 3 | Cruzeiro | 32 | 18 | 9 | 5 | 24 | 63 |
 | 4 | Mirassol | 32 | 15 | 11 | 6 | 20 | 56 |
-| 5 | Bahia | 32 | 15 | 7 | 10 | 4 | 52 |
+| 5 | Bahia | 33 | 15 | 8 | 10 | 4 | 53 |
 | 6 | Botafogo | 32 | 14 | 9 | 9 | 16 | 51 |
 | 7 | Fluminense | 32 | 15 | 5 | 12 | 1 | 50 |
-| 8 | São Paulo | 32 | 12 | 9 | 11 | 2 | 45 |
-| 9 | Vasco da Gama | 33 | 12 | 7 | 14 | 3 | 43 |
+| 8 | Vasco da Gama | 33 | 13 | 6 | 14 | 4 | 45 |
+| 9 | São Paulo | 32 | 12 | 9 | 11 | 2 | 45 |
 | 10 | Atlético Mineiro | 32 | 11 | 10 | 11 | 0 | 43 |
 | 11 | Corinthians | 32 | 11 | 9 | 12 | -2 | 42 |
 | 12 | RB Bragantino | 32 | 11 | 6 | 15 | -13 | 39 |
 | 13 | Ceará | 32 | 10 | 9 | 13 | 0 | 39 |
 | 14 | Grêmio | 32 | 10 | 9 | 13 | -8 | 39 |
-| 15 | Internacional | 32 | 9 | 9 | 14 | -9 | 36 |
+| 15 | Internacional | 33 | 9 | 10 | 14 | -9 | 37 |
 | 16 | Vitória | 32 | 8 | 10 | 14 | -18 | 34 |
 | 17 | Santos | 31 | 8 | 9 | 14 | -14 | 33 |
-| 18 | Juventude | 33 | 8 | 6 | 19 | -32 | 30 |
+| 18 | Juventude | 33 | 8 | 5 | 20 | -33 | 29 |
 | 19 | Fortaleza | 31 | 7 | 8 | 16 | -17 | 29 |
 | 20 | Sport | 32 | 2 | 11 | 19 | -31 | 17 |
 
