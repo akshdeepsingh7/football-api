@@ -41,18 +41,18 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 08 November 2025, 07:14 PM UTC (Sunday, 09 November 2025, 12:44 AM IST)
+**Last Updated:** Saturday, 08 November 2025, 07:37 PM UTC (Sunday, 09 November 2025, 01:07 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 11 | 9 | 1 | 1 | 16 | 28 |
+| 1 | Arsenal | 11 | 8 | 2 | 1 | 15 | 26 |
 | 2 | Manchester City | 10 | 6 | 1 | 3 | 12 | 19 |
-| 3 | Tottenham Hotspur | 11 | 5 | 3 | 3 | 9 | 18 |
-| 4 | Liverpool FC | 10 | 6 | 0 | 4 | 4 | 18 |
-| 5 | AFC Bournemouth | 10 | 5 | 3 | 2 | 3 | 18 |
-| 6 | Sunderland | 11 | 5 | 3 | 3 | 3 | 18 |
+| 3 | Sunderland | 11 | 5 | 4 | 2 | 4 | 19 |
+| 4 | Tottenham Hotspur | 11 | 5 | 3 | 3 | 9 | 18 |
+| 5 | Liverpool FC | 10 | 6 | 0 | 4 | 4 | 18 |
+| 6 | AFC Bournemouth | 10 | 5 | 3 | 2 | 3 | 18 |
 | 7 | Manchester United | 11 | 5 | 3 | 3 | 1 | 18 |
 | 8 | Chelsea | 10 | 5 | 2 | 3 | 7 | 17 |
 | 9 | Crystal Palace | 10 | 4 | 4 | 2 | 5 | 16 |
@@ -105,10 +105,10 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | VfB Stuttgart | 9 | 6 | 0 | 3 | 4 | 18 |
 | 7 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
 | 8 | Eintracht Frankfurt | 9 | 4 | 2 | 3 | 3 | 14 |
-| 9 | Köln | 10 | 4 | 2 | 4 | 1 | 14 |
+| 9 | Köln | 10 | 4 | 2 | 4 | 2 | 14 |
 | 10 | Union Berlin | 10 | 3 | 3 | 4 | -4 | 12 |
 | 11 | SC Freiburg | 9 | 2 | 4 | 3 | -2 | 10 |
-| 12 | Borussia Mönchengladbach | 10 | 2 | 3 | 5 | -5 | 9 |
+| 12 | Borussia Mönchengladbach | 10 | 2 | 3 | 5 | -6 | 9 |
 | 13 | Hamburg | 10 | 2 | 3 | 5 | -7 | 9 |
 | 14 | VfL Wolfsburg | 10 | 2 | 2 | 6 | -6 | 8 |
 | 15 | Augsburg | 9 | 2 | 1 | 6 | -9 | 7 |
@@ -441,7 +441,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | São Paulo | 32 | 12 | 9 | 11 | 2 | 45 |
 | 9 | Vasco da Gama | 32 | 12 | 6 | 14 | 3 | 42 |
 | 10 | Corinthians | 32 | 11 | 9 | 12 | -2 | 42 |
-| 11 | Atlético Mineiro | 31 | 10 | 10 | 11 | -2 | 40 |
+| 11 | Atlético Mineiro | 32 | 10 | 10 | 12 | -3 | 40 |
 | 12 | RB Bragantino | 32 | 11 | 6 | 15 | -13 | 39 |
 | 13 | Ceará | 32 | 10 | 9 | 13 | 0 | 39 |
 | 14 | Grêmio | 32 | 10 | 9 | 13 | -8 | 39 |
@@ -450,7 +450,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Santos | 31 | 8 | 9 | 14 | -14 | 33 |
 | 18 | Juventude | 32 | 8 | 5 | 19 | -32 | 29 |
 | 19 | Fortaleza | 31 | 7 | 8 | 16 | -17 | 29 |
-| 20 | Sport | 31 | 2 | 11 | 18 | -29 | 17 |
+| 20 | Sport | 32 | 3 | 11 | 18 | -28 | 20 |
 
 
 <!-- END_TABLE -->

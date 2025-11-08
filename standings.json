@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 07:14 PM UTC",
-        "IST": "Sunday, 09 November 2025, 12:44 AM IST"
+        "UTC": "Saturday, 08 November 2025, 07:37 PM UTC",
+        "IST": "Sunday, 09 November 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -9,11 +9,11 @@
                 "Position": "1",
                 "Team": "Arsenal",
                 "Played": "11",
-                "Wins": "9",
-                "Draws": "1",
+                "Wins": "8",
+                "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "16",
-                "Points": "28"
+                "Goal Difference": "15",
+                "Points": "26"
             },
             {
                 "Position": "2",
@@ -27,6 +27,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Sunderland",
+                "Played": "11",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "19"
+            },
+            {
+                "Position": "4",
                 "Team": "Tottenham Hotspur",
                 "Played": "11",
                 "Wins": "5",
@@ -36,7 +46,7 @@
                 "Points": "18"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Liverpool FC",
                 "Played": "10",
                 "Wins": "6",
@@ -46,22 +56,12 @@
                 "Points": "18"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "AFC Bournemouth",
                 "Played": "10",
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "18"
-            },
-            {
-                "Position": "6",
-                "Team": "Sunderland",
-                "Played": "11",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "3",
                 "Goal Difference": "3",
                 "Points": "18"
             },
@@ -496,7 +496,7 @@
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "14"
             },
             {
@@ -526,7 +526,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "9"
             },
             {
@@ -3324,11 +3324,11 @@
             {
                 "Position": "11",
                 "Team": "Atl\u00e9tico Mineiro",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "10",
                 "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-2",
+                "Losses": "12",
+                "Goal Difference": "-3",
                 "Points": "40"
             },
             {
@@ -3414,12 +3414,12 @@
             {
                 "Position": "20",
                 "Team": "Sport",
-                "Played": "31",
-                "Wins": "2",
+                "Played": "32",
+                "Wins": "3",
                 "Draws": "11",
                 "Losses": "18",
-                "Goal Difference": "-29",
-                "Points": "17"
+                "Goal Difference": "-28",
+                "Points": "20"
             }
         ]
     }
