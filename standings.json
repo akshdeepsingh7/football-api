@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 05:37 PM UTC",
-        "IST": "Saturday, 08 November 2025, 11:07 PM IST"
+        "UTC": "Saturday, 08 November 2025, 06:26 PM UTC",
+        "IST": "Saturday, 08 November 2025, 11:56 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -10,29 +10,29 @@
                 "Team": "Arsenal",
                 "Played": "11",
                 "Wins": "8",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "15",
-                "Points": "26"
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "14",
+                "Points": "25"
             },
             {
                 "Position": "2",
+                "Team": "Sunderland",
+                "Played": "11",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "5",
+                "Points": "21"
+            },
+            {
+                "Position": "3",
                 "Team": "Manchester City",
                 "Played": "10",
                 "Wins": "6",
                 "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "12",
-                "Points": "19"
-            },
-            {
-                "Position": "3",
-                "Team": "Sunderland",
-                "Played": "11",
-                "Wins": "5",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "4",
                 "Points": "19"
             },
             {
@@ -471,16 +471,6 @@
             },
             {
                 "Position": "7",
-                "Team": "K\u00f6ln",
-                "Played": "10",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "4",
-                "Points": "15"
-            },
-            {
-                "Position": "8",
                 "Team": "Werder Bremen",
                 "Played": "10",
                 "Wins": "4",
@@ -490,12 +480,22 @@
                 "Points": "15"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Eintracht Frankfurt",
                 "Played": "9",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "3",
+                "Goal Difference": "3",
+                "Points": "14"
+            },
+            {
+                "Position": "9",
+                "Team": "K\u00f6ln",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "4",
                 "Goal Difference": "3",
                 "Points": "14"
             },
@@ -521,7 +521,7 @@
             },
             {
                 "Position": "12",
-                "Team": "Hamburg",
+                "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "3",
@@ -531,6 +531,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Hamburg",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-7",
+                "Points": "9"
+            },
+            {
+                "Position": "14",
                 "Team": "VfL Wolfsburg",
                 "Played": "10",
                 "Wins": "2",
@@ -538,16 +548,6 @@
                 "Losses": "6",
                 "Goal Difference": "-6",
                 "Points": "8"
-            },
-            {
-                "Position": "14",
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "10",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "-8",
-                "Points": "7"
             },
             {
                 "Position": "15",
@@ -800,7 +800,7 @@
                 "Wins": "8",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "16",
+                "Goal Difference": "17",
                 "Points": "25"
             },
             {
@@ -906,25 +906,35 @@
             {
                 "Position": "12",
                 "Team": "Le Havre",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "3",
                 "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-4",
+                "Losses": "5",
+                "Goal Difference": "-5",
                 "Points": "13"
             },
             {
                 "Position": "13",
+                "Team": "Nantes",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-6",
+                "Points": "12"
+            },
+            {
+                "Position": "14",
                 "Team": "Brest",
                 "Played": "12",
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "6",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "10"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Angers",
                 "Played": "11",
                 "Wins": "2",
@@ -932,16 +942,6 @@
                 "Losses": "5",
                 "Goal Difference": "-7",
                 "Points": "10"
-            },
-            {
-                "Position": "15",
-                "Team": "Nantes",
-                "Played": "11",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-7",
-                "Points": "9"
             },
             {
                 "Position": "16",
@@ -2153,6 +2153,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-8",
+                "Points": "12"
+            },
+            {
+                "Position": "11",
                 "Team": "Santa Clara",
                 "Played": "10",
                 "Wins": "3",
@@ -2162,33 +2172,23 @@
                 "Points": "11"
             },
             {
-                "Position": "11",
-                "Team": "Alverca",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "-7",
-                "Points": "11"
-            },
-            {
                 "Position": "12",
-                "Team": "Vit\u00f3ria S.C.",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-8",
-                "Points": "11"
-            },
-            {
-                "Position": "13",
                 "Team": "Nacional",
                 "Played": "10",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "5",
                 "Goal Difference": "-4",
+                "Points": "11"
+            },
+            {
+                "Position": "13",
+                "Team": "Alverca",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-7",
                 "Points": "11"
             },
             {
@@ -2224,12 +2224,12 @@
             {
                 "Position": "17",
                 "Team": "Tondela",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "1",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "6",
                 "Goal Difference": "-13",
-                "Points": "6"
+                "Points": "7"
             },
             {
                 "Position": "18",
