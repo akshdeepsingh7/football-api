@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 10:16 PM UTC",
-        "IST": "Sunday, 09 November 2025, 03:46 AM IST"
+        "UTC": "Saturday, 08 November 2025, 10:38 PM UTC",
+        "IST": "Sunday, 09 November 2025, 04:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2075,11 +2075,11 @@
                 "Position": "2",
                 "Team": "Sporting CP",
                 "Played": "11",
-                "Wins": "8",
-                "Draws": "2",
+                "Wins": "9",
+                "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "20",
-                "Points": "26"
+                "Goal Difference": "21",
+                "Points": "28"
             },
             {
                 "Position": "3",
@@ -2153,16 +2153,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Santa Clara",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-3",
-                "Points": "12"
-            },
-            {
-                "Position": "11",
                 "Team": "Rio Ave",
                 "Played": "11",
                 "Wins": "2",
@@ -2170,6 +2160,16 @@
                 "Losses": "3",
                 "Goal Difference": "-5",
                 "Points": "12"
+            },
+            {
+                "Position": "11",
+                "Team": "Santa Clara",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-4",
+                "Points": "11"
             },
             {
                 "Position": "12",
@@ -3131,22 +3131,22 @@
             },
             {
                 "Position": "7",
+                "Team": "Talleres",
+                "Played": "15",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "-3",
+                "Points": "20"
+            },
+            {
+                "Position": "8",
                 "Team": "San Mart\u00edn SJ",
                 "Played": "14",
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "4",
                 "Goal Difference": "-1",
-                "Points": "18"
-            },
-            {
-                "Position": "8",
-                "Team": "Talleres",
-                "Played": "15",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "-4",
                 "Points": "18"
             },
             {
@@ -3191,22 +3191,22 @@
             },
             {
                 "Position": "13",
-                "Team": "Platense",
-                "Played": "15",
-                "Wins": "2",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "-9",
-                "Points": "13"
-            },
-            {
-                "Position": "14",
                 "Team": "Independiente",
                 "Played": "14",
                 "Wins": "2",
                 "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "-1",
+                "Points": "12"
+            },
+            {
+                "Position": "14",
+                "Team": "Platense",
+                "Played": "15",
+                "Wins": "2",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "-10",
                 "Points": "12"
             },
             {

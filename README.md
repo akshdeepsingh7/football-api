@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 08 November 2025, 10:16 PM UTC (Sunday, 09 November 2025, 03:46 AM IST)
+**Last Updated:** Saturday, 08 November 2025, 10:38 PM UTC (Sunday, 09 November 2025, 04:08 AM IST)
 
 ### Premier League
 
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 10 | 9 | 1 | 0 | 20 | 28 |
-| 2 | Sporting CP | 11 | 8 | 2 | 1 | 20 | 26 |
+| 2 | Sporting CP | 11 | 9 | 1 | 1 | 21 | 28 |
 | 3 | Benfica | 10 | 7 | 3 | 0 | 17 | 24 |
 | 4 | Gil Vicente | 10 | 7 | 1 | 2 | 11 | 22 |
 | 5 | Famalicão | 10 | 5 | 4 | 1 | 7 | 19 |
@@ -300,8 +300,8 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Vitória S.C. | 11 | 4 | 2 | 5 | -7 | 14 |
 | 8 | Braga | 10 | 3 | 4 | 3 | 7 | 13 |
 | 9 | Estoril | 11 | 3 | 4 | 4 | 2 | 13 |
-| 10 | Santa Clara | 11 | 3 | 3 | 5 | -3 | 12 |
-| 11 | Rio Ave | 11 | 2 | 6 | 3 | -5 | 12 |
+| 10 | Rio Ave | 11 | 2 | 6 | 3 | -5 | 12 |
+| 11 | Santa Clara | 11 | 3 | 2 | 6 | -4 | 11 |
 | 12 | Nacional | 10 | 3 | 2 | 5 | -4 | 11 |
 | 13 | Alverca | 11 | 3 | 2 | 6 | -7 | 11 |
 | 14 | Estrela Amadora | 10 | 2 | 4 | 4 | -1 | 10 |
@@ -417,14 +417,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Vélez | 14 | 7 | 4 | 3 | 9 | 25 |
 | 5 | San Lorenzo | 15 | 6 | 5 | 4 | 2 | 23 |
 | 6 | River Plate | 14 | 6 | 3 | 5 | 7 | 21 |
-| 7 | San Martín SJ | 14 | 4 | 6 | 4 | -1 | 18 |
-| 8 | Talleres | 15 | 4 | 6 | 5 | -4 | 18 |
+| 7 | Talleres | 15 | 5 | 5 | 5 | -3 | 20 |
+| 8 | San Martín SJ | 14 | 4 | 6 | 4 | -1 | 18 |
 | 9 | Sarmiento | 14 | 4 | 4 | 6 | -5 | 16 |
 | 10 | GELP | 14 | 5 | 1 | 8 | -7 | 16 |
 | 11 | Atl. Tucumán | 14 | 4 | 3 | 7 | -4 | 15 |
 | 12 | Instituto | 14 | 3 | 6 | 5 | -7 | 15 |
-| 13 | Platense | 15 | 2 | 7 | 6 | -9 | 13 |
-| 14 | Independiente | 14 | 2 | 6 | 6 | -1 | 12 |
+| 13 | Independiente | 14 | 2 | 6 | 6 | -1 | 12 |
+| 14 | Platense | 15 | 2 | 6 | 7 | -10 | 12 |
 | 15 | Godoy Cruz | 14 | 1 | 8 | 5 | -7 | 11 |
 
 ### Brasileirão
