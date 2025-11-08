@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 08 November 2025, 02:16 PM UTC (Saturday, 08 November 2025, 07:46 PM IST)
+**Last Updated:** Saturday, 08 November 2025, 02:39 PM UTC (Saturday, 08 November 2025, 08:09 PM IST)
 
 ### Premier League
 
@@ -97,24 +97,24 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 9 | 9 | 0 | 0 | 29 | 27 |
-| 2 | RB Leipzig | 9 | 7 | 1 | 1 | 9 | 22 |
-| 3 | Borussia Dortmund | 9 | 6 | 2 | 1 | 9 | 20 |
-| 4 | VfB Stuttgart | 9 | 6 | 0 | 3 | 4 | 18 |
-| 5 | Bayer Leverkusen | 9 | 5 | 2 | 2 | 4 | 17 |
-| 6 | Hoffenheim | 9 | 5 | 1 | 3 | 3 | 16 |
+| 1 | Bayern Munich | 10 | 9 | 1 | 0 | 29 | 28 |
+| 2 | RB Leipzig | 10 | 7 | 2 | 1 | 9 | 23 |
+| 3 | Borussia Dortmund | 10 | 6 | 3 | 1 | 9 | 21 |
+| 4 | Bayer Leverkusen | 10 | 6 | 2 | 2 | 5 | 20 |
+| 5 | VfB Stuttgart | 9 | 6 | 0 | 3 | 4 | 18 |
+| 6 | Hoffenheim | 10 | 5 | 2 | 3 | 3 | 17 |
 | 7 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
 | 8 | Köln | 9 | 4 | 2 | 3 | 4 | 14 |
 | 9 | Eintracht Frankfurt | 9 | 4 | 2 | 3 | 3 | 14 |
-| 10 | Union Berlin | 9 | 3 | 2 | 4 | -4 | 11 |
+| 10 | Union Berlin | 10 | 3 | 3 | 4 | -4 | 12 |
 | 11 | SC Freiburg | 9 | 2 | 4 | 3 | -2 | 10 |
-| 12 | VfL Wolfsburg | 10 | 2 | 2 | 6 | -6 | 8 |
-| 13 | Hamburg | 9 | 2 | 2 | 5 | -7 | 8 |
+| 12 | Hamburg | 10 | 2 | 3 | 5 | -7 | 9 |
+| 13 | VfL Wolfsburg | 10 | 2 | 2 | 6 | -6 | 8 |
 | 14 | Augsburg | 9 | 2 | 1 | 6 | -9 | 7 |
 | 15 | St. Pauli | 9 | 2 | 1 | 6 | -10 | 7 |
 | 16 | Borussia Mönchengladbach | 9 | 1 | 3 | 5 | -8 | 6 |
 | 17 | Mainz 05 | 9 | 1 | 2 | 6 | -7 | 5 |
-| 18 | Heidenheim | 9 | 1 | 2 | 6 | -9 | 5 |
+| 18 | Heidenheim | 10 | 1 | 2 | 7 | -10 | 5 |
 
 ### Serie A
 
