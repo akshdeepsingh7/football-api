@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 08 November 2025, 03:18 PM UTC (Saturday, 08 November 2025, 08:48 PM IST)
+**Last Updated:** Saturday, 08 November 2025, 03:37 PM UTC (Saturday, 08 November 2025, 09:07 PM IST)
 
 ### Premier League
 
@@ -60,11 +60,11 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Aston Villa | 10 | 4 | 3 | 3 | -1 | 15 |
 | 12 | Brentford | 10 | 4 | 1 | 5 | -2 | 13 |
 | 13 | Everton | 11 | 3 | 4 | 4 | -3 | 13 |
-| 14 | Newcastle United | 10 | 3 | 3 | 4 | -1 | 12 |
-| 15 | Fulham | 11 | 3 | 3 | 5 | -2 | 12 |
-| 16 | Burnley | 11 | 3 | 2 | 6 | -7 | 11 |
+| 14 | Burnley | 11 | 4 | 1 | 6 | -6 | 13 |
+| 15 | Newcastle United | 10 | 3 | 3 | 4 | -1 | 12 |
+| 16 | Fulham | 11 | 3 | 3 | 5 | -2 | 12 |
 | 17 | Leeds United | 10 | 3 | 2 | 5 | -8 | 11 |
-| 18 | West Ham United | 11 | 2 | 2 | 7 | -11 | 8 |
+| 18 | West Ham United | 11 | 2 | 1 | 8 | -12 | 7 |
 | 19 | Nottingham Forest | 10 | 1 | 3 | 6 | -12 | 6 |
 | 20 | Wolverhampton Wanderers | 10 | 0 | 2 | 8 | -15 | 2 |
 
@@ -299,12 +299,12 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Moreirense | 10 | 6 | 0 | 4 | 2 | 18 |
 | 7 | Braga | 10 | 3 | 4 | 3 | 7 | 13 |
 | 8 | Estoril | 11 | 3 | 4 | 4 | 2 | 13 |
-| 9 | Vitória S.C. | 10 | 3 | 2 | 5 | -8 | 11 |
-| 10 | Nacional | 10 | 3 | 2 | 5 | -4 | 11 |
-| 11 | Rio Ave | 10 | 2 | 5 | 3 | -5 | 11 |
-| 12 | Santa Clara | 10 | 3 | 2 | 5 | -3 | 11 |
-| 13 | Estrela Amadora | 10 | 2 | 4 | 4 | -1 | 10 |
-| 14 | Alverca | 10 | 3 | 1 | 6 | -7 | 10 |
+| 9 | Rio Ave | 11 | 2 | 6 | 3 | -5 | 12 |
+| 10 | Santa Clara | 10 | 3 | 2 | 5 | -3 | 11 |
+| 11 | Alverca | 11 | 3 | 2 | 6 | -7 | 11 |
+| 12 | Vitória S.C. | 10 | 3 | 2 | 5 | -8 | 11 |
+| 13 | Nacional | 10 | 3 | 2 | 5 | -4 | 11 |
+| 14 | Estrela Amadora | 10 | 2 | 4 | 4 | -1 | 10 |
 | 15 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
 | 16 | Casa Pia | 10 | 2 | 2 | 6 | -11 | 8 |
 | 17 | Tondela | 10 | 1 | 3 | 6 | -13 | 6 |

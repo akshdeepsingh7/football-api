@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 08 November 2025, 03:18 PM UTC",
-        "IST": "Saturday, 08 November 2025, 08:48 PM IST"
+        "UTC": "Saturday, 08 November 2025, 03:37 PM UTC",
+        "IST": "Saturday, 08 November 2025, 09:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -137,6 +137,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Burnley",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "6",
+                "Goal Difference": "-6",
+                "Points": "13"
+            },
+            {
+                "Position": "15",
                 "Team": "Newcastle United",
                 "Played": "10",
                 "Wins": "3",
@@ -146,7 +156,7 @@
                 "Points": "12"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Fulham",
                 "Played": "11",
                 "Wins": "3",
@@ -154,16 +164,6 @@
                 "Losses": "5",
                 "Goal Difference": "-2",
                 "Points": "12"
-            },
-            {
-                "Position": "16",
-                "Team": "Burnley",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "-7",
-                "Points": "11"
             },
             {
                 "Position": "17",
@@ -180,10 +180,10 @@
                 "Team": "West Ham United",
                 "Played": "11",
                 "Wins": "2",
-                "Draws": "2",
-                "Losses": "7",
-                "Goal Difference": "-11",
-                "Points": "8"
+                "Draws": "1",
+                "Losses": "8",
+                "Goal Difference": "-12",
+                "Points": "7"
             },
             {
                 "Position": "19",
@@ -2143,36 +2143,16 @@
             },
             {
                 "Position": "9",
-                "Team": "Vit\u00f3ria S.C.",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-8",
-                "Points": "11"
+                "Team": "Rio Ave",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "-5",
+                "Points": "12"
             },
             {
                 "Position": "10",
-                "Team": "Nacional",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-4",
-                "Points": "11"
-            },
-            {
-                "Position": "11",
-                "Team": "Rio Ave",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-5",
-                "Points": "11"
-            },
-            {
-                "Position": "12",
                 "Team": "Santa Clara",
                 "Played": "10",
                 "Wins": "3",
@@ -2182,23 +2162,43 @@
                 "Points": "11"
             },
             {
+                "Position": "11",
+                "Team": "Alverca",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-7",
+                "Points": "11"
+            },
+            {
+                "Position": "12",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-8",
+                "Points": "11"
+            },
+            {
                 "Position": "13",
+                "Team": "Nacional",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-4",
+                "Points": "11"
+            },
+            {
+                "Position": "14",
                 "Team": "Estrela Amadora",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "-1",
-                "Points": "10"
-            },
-            {
-                "Position": "14",
-                "Team": "Alverca",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "6",
-                "Goal Difference": "-7",
                 "Points": "10"
             },
             {
