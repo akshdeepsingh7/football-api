@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 09 November 2025, 06:25 PM UTC (Sunday, 09 November 2025, 11:55 PM IST)
+**Last Updated:** Sunday, 09 November 2025, 06:44 PM UTC (Monday, 10 November 2025, 12:14 AM IST)
 
 ### Premier League
 
@@ -103,8 +103,8 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | VfB Stuttgart | 10 | 7 | 0 | 3 | 5 | 21 |
 | 5 | Bayer Leverkusen | 10 | 6 | 2 | 2 | 10 | 20 |
 | 6 | Hoffenheim | 10 | 6 | 1 | 3 | 5 | 19 |
-| 7 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
-| 8 | Eintracht Frankfurt | 9 | 4 | 2 | 3 | 3 | 14 |
+| 7 | Eintracht Frankfurt | 10 | 4 | 3 | 3 | 3 | 15 |
+| 8 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
 | 9 | Köln | 10 | 4 | 2 | 4 | 2 | 14 |
 | 10 | SC Freiburg | 10 | 3 | 4 | 3 | -1 | 13 |
 | 11 | Union Berlin | 10 | 3 | 3 | 4 | -4 | 12 |
@@ -113,7 +113,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | VfL Wolfsburg | 10 | 2 | 2 | 6 | -6 | 8 |
 | 15 | Augsburg | 10 | 2 | 1 | 7 | -10 | 7 |
 | 16 | St. Pauli | 10 | 2 | 1 | 7 | -11 | 7 |
-| 17 | Mainz 05 | 9 | 1 | 2 | 6 | -7 | 5 |
+| 17 | Mainz 05 | 10 | 1 | 3 | 6 | -7 | 6 |
 | 18 | Heidenheim | 10 | 1 | 2 | 7 | -15 | 5 |
 
 ### Serie A
@@ -291,11 +291,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 11 | 9 | 2 | 0 | 20 | 29 |
+| 1 | Porto | 11 | 10 | 1 | 0 | 21 | 31 |
 | 2 | Sporting CP | 11 | 9 | 1 | 1 | 21 | 28 |
 | 3 | Benfica | 10 | 7 | 3 | 0 | 17 | 24 |
 | 4 | Gil Vicente | 11 | 7 | 2 | 2 | 11 | 23 |
-| 5 | Famalicão | 11 | 5 | 5 | 1 | 7 | 20 |
+| 5 | Famalicão | 11 | 5 | 4 | 2 | 6 | 19 |
 | 6 | Moreirense | 10 | 6 | 0 | 4 | 2 | 18 |
 | 7 | Vitória S.C. | 11 | 4 | 2 | 5 | -7 | 14 |
 | 8 | Braga | 10 | 3 | 4 | 3 | 7 | 13 |
