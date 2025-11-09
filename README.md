@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 09 November 2025, 02:38 PM UTC (Sunday, 09 November 2025, 08:08 PM IST)
+**Last Updated:** Sunday, 09 November 2025, 03:17 PM UTC (Sunday, 09 November 2025, 08:47 PM IST)
 
 ### Premier League
 
@@ -53,9 +53,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Sunderland | 11 | 5 | 4 | 2 | 4 | 19 |
 | 5 | Tottenham Hotspur | 11 | 5 | 3 | 3 | 9 | 18 |
 | 6 | Liverpool FC | 10 | 6 | 0 | 4 | 4 | 18 |
-| 7 | AFC Bournemouth | 11 | 5 | 3 | 3 | 2 | 18 |
-| 8 | Manchester United | 11 | 5 | 3 | 3 | 1 | 18 |
-| 9 | Aston Villa | 11 | 5 | 3 | 3 | 0 | 18 |
+| 7 | Manchester United | 11 | 5 | 3 | 3 | 1 | 18 |
+| 8 | AFC Bournemouth | 11 | 5 | 3 | 3 | 1 | 18 |
+| 9 | Aston Villa | 11 | 5 | 3 | 3 | 1 | 18 |
 | 10 | Crystal Palace | 11 | 4 | 5 | 2 | 5 | 17 |
 | 11 | Brighton & Hove Albion | 11 | 4 | 4 | 3 | 2 | 16 |
 | 12 | Newcastle United | 11 | 4 | 3 | 4 | 0 | 15 |
@@ -72,7 +72,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Real Madrid | 11 | 10 | 0 | 1 | 16 | 30 |
+| 1 | Real Madrid | 12 | 10 | 1 | 1 | 16 | 31 |
 | 2 | Villarreal | 12 | 8 | 2 | 2 | 14 | 26 |
 | 3 | Barcelona | 11 | 8 | 1 | 2 | 15 | 25 |
 | 4 | Atlético de Madrid | 12 | 7 | 4 | 1 | 13 | 25 |
@@ -83,7 +83,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Sevilla | 12 | 5 | 1 | 6 | -1 | 16 |
 | 10 | Alavés | 12 | 4 | 3 | 5 | 0 | 15 |
 | 11 | Elche | 12 | 3 | 6 | 3 | -1 | 15 |
-| 12 | Rayo Vallecano | 11 | 4 | 2 | 5 | -2 | 14 |
+| 12 | Rayo Vallecano | 12 | 4 | 3 | 5 | -2 | 15 |
 | 13 | Celta de Vigo | 11 | 2 | 7 | 2 | -1 | 13 |
 | 14 | Real Sociedad | 12 | 3 | 4 | 5 | -3 | 13 |
 | 15 | Osasuna | 12 | 3 | 2 | 7 | -4 | 11 |
@@ -106,13 +106,13 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
 | 8 | Eintracht Frankfurt | 9 | 4 | 2 | 3 | 3 | 14 |
 | 9 | Köln | 10 | 4 | 2 | 4 | 2 | 14 |
-| 10 | Union Berlin | 10 | 3 | 3 | 4 | -4 | 12 |
-| 11 | SC Freiburg | 10 | 2 | 5 | 3 | -2 | 11 |
+| 10 | SC Freiburg | 10 | 3 | 4 | 3 | -1 | 13 |
+| 11 | Union Berlin | 10 | 3 | 3 | 4 | -4 | 12 |
 | 12 | Borussia Mönchengladbach | 10 | 2 | 3 | 5 | -6 | 9 |
 | 13 | Hamburg | 10 | 2 | 3 | 5 | -7 | 9 |
 | 14 | VfL Wolfsburg | 10 | 2 | 2 | 6 | -6 | 8 |
-| 15 | St. Pauli | 10 | 2 | 2 | 6 | -10 | 8 |
-| 16 | Augsburg | 9 | 2 | 1 | 6 | -9 | 7 |
+| 15 | Augsburg | 9 | 2 | 1 | 6 | -9 | 7 |
+| 16 | St. Pauli | 10 | 2 | 1 | 7 | -11 | 7 |
 | 17 | Mainz 05 | 9 | 1 | 2 | 6 | -7 | 5 |
 | 18 | Heidenheim | 10 | 1 | 2 | 7 | -15 | 5 |
 
@@ -120,11 +120,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Napoli | 11 | 7 | 2 | 2 | 8 | 23 |
-| 2 | Milan | 11 | 6 | 4 | 1 | 8 | 22 |
+| 1 | Milan | 11 | 6 | 4 | 1 | 8 | 22 |
+| 2 | Napoli | 11 | 7 | 1 | 3 | 7 | 22 |
 | 3 | Inter | 10 | 7 | 0 | 3 | 12 | 21 |
 | 4 | Roma | 10 | 7 | 0 | 3 | 5 | 21 |
-| 5 | Bologna | 11 | 5 | 4 | 2 | 8 | 19 |
+| 5 | Bologna | 11 | 6 | 3 | 2 | 9 | 21 |
 | 6 | Juventus | 11 | 5 | 4 | 2 | 4 | 19 |
 | 7 | Como | 11 | 4 | 6 | 1 | 6 | 18 |
 | 8 | Sassuolo | 11 | 5 | 1 | 5 | 2 | 16 |
@@ -137,9 +137,9 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Lecce | 11 | 2 | 4 | 5 | -6 | 10 |
 | 16 | Pisa | 11 | 1 | 6 | 4 | -6 | 9 |
 | 17 | Parma | 11 | 1 | 5 | 5 | -7 | 8 |
-| 18 | Genoa | 11 | 1 | 4 | 6 | -8 | 7 |
-| 19 | Hellas Verona | 11 | 0 | 6 | 5 | -10 | 6 |
-| 20 | Fiorentina | 11 | 0 | 5 | 6 | -9 | 5 |
+| 18 | Fiorentina | 11 | 1 | 4 | 6 | -8 | 7 |
+| 19 | Genoa | 11 | 1 | 3 | 7 | -9 | 6 |
+| 20 | Hellas Verona | 11 | 0 | 6 | 5 | -10 | 6 |
 
 ### Ligue 1
 
@@ -154,13 +154,13 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Strasbourg | 11 | 6 | 1 | 4 | 6 | 19 |
 | 8 | Rennes | 12 | 4 | 6 | 2 | 2 | 18 |
 | 9 | Nice | 11 | 5 | 2 | 4 | 0 | 17 |
-| 10 | Toulouse | 12 | 4 | 4 | 4 | 2 | 16 |
+| 10 | Toulouse | 12 | 4 | 3 | 5 | 1 | 15 |
 | 11 | Paris FC | 12 | 4 | 2 | 6 | -3 | 14 |
 | 12 | Le Havre | 12 | 3 | 5 | 4 | -4 | 14 |
-| 13 | Brest | 12 | 2 | 4 | 6 | -7 | 10 |
-| 14 | Nantes | 12 | 2 | 4 | 6 | -7 | 10 |
-| 15 | Angers | 11 | 2 | 4 | 5 | -7 | 10 |
-| 16 | Lorient | 12 | 2 | 4 | 6 | -12 | 10 |
+| 13 | Lorient | 12 | 3 | 3 | 6 | -11 | 12 |
+| 14 | Brest | 12 | 2 | 4 | 6 | -7 | 10 |
+| 15 | Nantes | 12 | 2 | 4 | 6 | -7 | 10 |
+| 16 | Angers | 11 | 2 | 4 | 5 | -7 | 10 |
 | 17 | Metz | 11 | 2 | 2 | 7 | -16 | 8 |
 | 18 | Auxerre | 11 | 2 | 1 | 8 | -10 | 7 |
 
