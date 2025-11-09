@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 11:17 PM UTC",
-        "IST": "Monday, 10 November 2025, 04:47 AM IST"
+        "UTC": "Sunday, 09 November 2025, 11:38 PM UTC",
+        "IST": "Monday, 10 November 2025, 05:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3224,11 +3224,11 @@
             {
                 "Position": "1",
                 "Team": "Palmeiras",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "21",
                 "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "31",
+                "Losses": "6",
+                "Goal Difference": "30",
                 "Points": "68"
             },
             {
@@ -3238,7 +3238,7 @@
                 "Wins": "20",
                 "Draws": "8",
                 "Losses": "4",
-                "Goal Difference": "46",
+                "Goal Difference": "44",
                 "Points": "68"
             },
             {
@@ -3254,12 +3254,12 @@
             {
                 "Position": "4",
                 "Team": "Mirassol",
-                "Played": "32",
-                "Wins": "15",
+                "Played": "33",
+                "Wins": "16",
                 "Draws": "11",
                 "Losses": "6",
-                "Goal Difference": "20",
-                "Points": "56"
+                "Goal Difference": "21",
+                "Points": "59"
             },
             {
                 "Position": "5",
@@ -3354,11 +3354,11 @@
             {
                 "Position": "14",
                 "Team": "Gr\u00eamio",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "10",
                 "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-8",
+                "Losses": "14",
+                "Goal Difference": "-9",
                 "Points": "39"
             },
             {
@@ -3388,7 +3388,7 @@
                 "Wins": "8",
                 "Draws": "9",
                 "Losses": "15",
-                "Goal Difference": "-17",
+                "Goal Difference": "-15",
                 "Points": "33"
             },
             {
@@ -3404,12 +3404,12 @@
             {
                 "Position": "19",
                 "Team": "Fortaleza",
-                "Played": "31",
-                "Wins": "7",
+                "Played": "32",
+                "Wins": "8",
                 "Draws": "8",
                 "Losses": "16",
-                "Goal Difference": "-17",
-                "Points": "29"
+                "Goal Difference": "-16",
+                "Points": "32"
             },
             {
                 "Position": "20",
