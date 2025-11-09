@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 08 November 2025, 11:37 PM UTC (Sunday, 09 November 2025, 05:07 AM IST)
+**Last Updated:** Sunday, 09 November 2025, 01:42 AM UTC (Sunday, 09 November 2025, 07:12 AM IST)
 
 ### Premier League
 
@@ -396,11 +396,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Boca Juniors | 14 | 6 | 5 | 3 | 12 | 23 |
-| 2 | Unión | 14 | 6 | 5 | 3 | 7 | 23 |
+| 1 | Unión | 15 | 6 | 6 | 3 | 7 | 24 |
+| 2 | Boca Juniors | 14 | 6 | 5 | 3 | 12 | 23 |
 | 3 | Córdoba SdE | 14 | 5 | 7 | 2 | 6 | 22 |
-| 4 | Racing Club | 15 | 6 | 4 | 5 | 2 | 22 |
-| 5 | Barracas | 14 | 5 | 6 | 3 | 2 | 21 |
+| 4 | Barracas | 15 | 5 | 7 | 3 | 2 | 22 |
+| 5 | Racing Club | 15 | 6 | 4 | 5 | 2 | 22 |
 | 6 | Estudiantes | 14 | 6 | 3 | 5 | 1 | 21 |
 | 7 | Banfield | 14 | 6 | 2 | 6 | -5 | 20 |
 | 8 | Belgrano | 14 | 4 | 7 | 3 | 3 | 19 |
@@ -412,13 +412,13 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Independiente Rivadavia | 14 | 2 | 6 | 6 | -5 | 12 |
 | 15 | Aldosivi | 14 | 3 | 3 | 8 | -8 | 12 |
 | 1 | Rosario | 15 | 8 | 7 | 0 | 11 | 31 |
-| 2 | Riestra | 14 | 8 | 3 | 3 | 8 | 27 |
-| 3 | Lanús | 14 | 8 | 2 | 4 | 5 | 26 |
+| 2 | Lanús | 15 | 9 | 2 | 4 | 6 | 29 |
+| 3 | Riestra | 14 | 8 | 3 | 3 | 8 | 27 |
 | 4 | Vélez | 14 | 7 | 4 | 3 | 9 | 25 |
 | 5 | San Lorenzo | 15 | 6 | 5 | 4 | 2 | 23 |
 | 6 | River Plate | 14 | 6 | 3 | 5 | 7 | 21 |
 | 7 | Talleres | 15 | 5 | 5 | 5 | -3 | 20 |
-| 8 | San Martín SJ | 14 | 4 | 6 | 4 | -1 | 18 |
+| 8 | San Martín SJ | 15 | 4 | 6 | 5 | -2 | 18 |
 | 9 | Sarmiento | 14 | 4 | 4 | 6 | -5 | 16 |
 | 10 | GELP | 14 | 5 | 1 | 8 | -7 | 16 |
 | 11 | Atl. Tucumán | 14 | 4 | 3 | 7 | -4 | 15 |
@@ -438,11 +438,11 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Bahia | 33 | 15 | 8 | 10 | 4 | 53 |
 | 6 | Botafogo | 32 | 14 | 9 | 9 | 16 | 51 |
 | 7 | Fluminense | 32 | 15 | 5 | 12 | 1 | 50 |
-| 8 | São Paulo | 32 | 12 | 9 | 11 | 2 | 45 |
+| 8 | São Paulo | 33 | 12 | 9 | 12 | 1 | 45 |
 | 9 | Atlético Mineiro | 32 | 11 | 10 | 11 | 0 | 43 |
 | 10 | Vasco da Gama | 33 | 12 | 6 | 15 | 1 | 42 |
-| 11 | Corinthians | 32 | 11 | 9 | 12 | -2 | 42 |
-| 12 | RB Bragantino | 32 | 11 | 6 | 15 | -13 | 39 |
+| 11 | RB Bragantino | 33 | 12 | 6 | 15 | -12 | 42 |
+| 12 | Corinthians | 32 | 11 | 9 | 12 | -2 | 42 |
 | 13 | Ceará | 32 | 10 | 9 | 13 | 0 | 39 |
 | 14 | Grêmio | 32 | 10 | 9 | 13 | -8 | 39 |
 | 15 | Internacional | 33 | 9 | 10 | 14 | -9 | 37 |
