@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 12:37 PM UTC",
-        "IST": "Sunday, 09 November 2025, 06:07 PM IST"
+        "UTC": "Sunday, 09 November 2025, 01:23 PM UTC",
+        "IST": "Sunday, 09 November 2025, 06:53 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -309,17 +309,17 @@
             },
             {
                 "Position": "11",
-                "Team": "Rayo Vallecano",
-                "Played": "11",
+                "Team": "Athletic Bilbao",
+                "Played": "12",
                 "Wins": "4",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "-2",
-                "Points": "14"
+                "Points": "15"
             },
             {
                 "Position": "12",
-                "Team": "Athletic Bilbao",
+                "Team": "Rayo Vallecano",
                 "Played": "11",
                 "Wins": "4",
                 "Draws": "2",
@@ -400,12 +400,12 @@
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "7",
                 "Goal Difference": "-12",
-                "Points": "8"
+                "Points": "9"
             }
         ],
         "Bundesliga": [
@@ -668,7 +668,7 @@
                 "Wins": "5",
                 "Draws": "1",
                 "Losses": "5",
-                "Goal Difference": "0",
+                "Goal Difference": "2",
                 "Points": "16"
             },
             {
@@ -718,7 +718,7 @@
                 "Wins": "2",
                 "Draws": "7",
                 "Losses": "2",
-                "Goal Difference": "4",
+                "Goal Difference": "2",
                 "Points": "13"
             },
             {
