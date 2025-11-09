@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 10:18 PM UTC",
-        "IST": "Monday, 10 November 2025, 03:48 AM IST"
+        "UTC": "Sunday, 09 November 2025, 10:39 PM UTC",
+        "IST": "Monday, 10 November 2025, 04:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2085,11 +2085,11 @@
                 "Position": "3",
                 "Team": "Benfica",
                 "Played": "11",
-                "Wins": "8",
-                "Draws": "3",
+                "Wins": "7",
+                "Draws": "4",
                 "Losses": "0",
-                "Goal Difference": "18",
-                "Points": "27"
+                "Goal Difference": "17",
+                "Points": "25"
             },
             {
                 "Position": "4",
@@ -2203,6 +2203,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Casa Pia",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-11",
+                "Points": "9"
+            },
+            {
+                "Position": "16",
                 "Team": "Arouca",
                 "Played": "11",
                 "Wins": "2",
@@ -2210,16 +2220,6 @@
                 "Losses": "6",
                 "Goal Difference": "-17",
                 "Points": "9"
-            },
-            {
-                "Position": "16",
-                "Team": "Casa Pia",
-                "Played": "11",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "7",
-                "Goal Difference": "-12",
-                "Points": "8"
             },
             {
                 "Position": "17",
@@ -2982,12 +2982,12 @@
             {
                 "Position": "7",
                 "Team": "Banfield",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "6",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "-5",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "8",
@@ -3051,22 +3051,22 @@
             },
             {
                 "Position": "14",
+                "Team": "Aldosivi",
+                "Played": "15",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-8",
+                "Points": "13"
+            },
+            {
+                "Position": "15",
                 "Team": "Independiente Rivadavia",
                 "Played": "14",
                 "Wins": "2",
                 "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "-5",
-                "Points": "12"
-            },
-            {
-                "Position": "15",
-                "Team": "Aldosivi",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-8",
                 "Points": "12"
             },
             {
@@ -3152,12 +3152,12 @@
             {
                 "Position": "9",
                 "Team": "Sarmiento",
-                "Played": "14",
-                "Wins": "4",
+                "Played": "15",
+                "Wins": "5",
                 "Draws": "4",
                 "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "16"
+                "Goal Difference": "-3",
+                "Points": "19"
             },
             {
                 "Position": "10",
@@ -3182,11 +3182,11 @@
             {
                 "Position": "12",
                 "Team": "Instituto",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "3",
                 "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "-7",
+                "Losses": "6",
+                "Goal Difference": "-9",
                 "Points": "15"
             },
             {

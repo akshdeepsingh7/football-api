@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 09 November 2025, 10:18 PM UTC (Monday, 10 November 2025, 03:48 AM IST)
+**Last Updated:** Sunday, 09 November 2025, 10:39 PM UTC (Monday, 10 November 2025, 04:09 AM IST)
 
 ### Premier League
 
@@ -293,7 +293,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 11 | 10 | 1 | 0 | 21 | 31 |
 | 2 | Sporting CP | 11 | 9 | 1 | 1 | 21 | 28 |
-| 3 | Benfica | 11 | 8 | 3 | 0 | 18 | 27 |
+| 3 | Benfica | 11 | 7 | 4 | 0 | 17 | 25 |
 | 4 | Gil Vicente | 11 | 7 | 2 | 2 | 11 | 23 |
 | 5 | Famalicão | 11 | 5 | 4 | 2 | 6 | 19 |
 | 6 | Moreirense | 11 | 6 | 0 | 5 | 1 | 18 |
@@ -305,8 +305,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Santa Clara | 11 | 3 | 2 | 6 | -4 | 11 |
 | 13 | Estrela Amadora | 11 | 2 | 5 | 4 | -1 | 11 |
 | 14 | Alverca | 11 | 3 | 2 | 6 | -7 | 11 |
-| 15 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
-| 16 | Casa Pia | 11 | 2 | 2 | 7 | -12 | 8 |
+| 15 | Casa Pia | 11 | 2 | 3 | 6 | -11 | 9 |
+| 16 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
 | 17 | Tondela | 11 | 1 | 3 | 7 | -14 | 6 |
 | 18 | AVS | 11 | 0 | 3 | 8 | -17 | 3 |
 
@@ -402,15 +402,15 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Barracas | 15 | 5 | 7 | 3 | 2 | 22 |
 | 5 | Racing Club | 15 | 6 | 4 | 5 | 2 | 22 |
 | 6 | Estudiantes | 14 | 6 | 3 | 5 | 1 | 21 |
-| 7 | Banfield | 14 | 6 | 2 | 6 | -5 | 20 |
+| 7 | Banfield | 15 | 6 | 3 | 6 | -5 | 21 |
 | 8 | Belgrano | 14 | 4 | 7 | 3 | 3 | 19 |
 | 9 | Tigre | 14 | 4 | 7 | 3 | 2 | 19 |
 | 10 | Def y Justicia | 15 | 5 | 4 | 6 | -3 | 19 |
 | 11 | Huracán | 15 | 5 | 4 | 6 | -5 | 19 |
 | 12 | Argentinos Juniors | 14 | 5 | 3 | 6 | 3 | 18 |
 | 13 | Newell's Old Boys | 15 | 3 | 5 | 7 | -9 | 14 |
-| 14 | Independiente Rivadavia | 14 | 2 | 6 | 6 | -5 | 12 |
-| 15 | Aldosivi | 14 | 3 | 3 | 8 | -8 | 12 |
+| 14 | Aldosivi | 15 | 3 | 4 | 8 | -8 | 13 |
+| 15 | Independiente Rivadavia | 14 | 2 | 6 | 6 | -5 | 12 |
 | 1 | Rosario | 15 | 8 | 7 | 0 | 11 | 31 |
 | 2 | Riestra | 14 | 8 | 3 | 3 | 8 | 27 |
 | 3 | Lanús | 15 | 8 | 3 | 4 | 5 | 27 |
@@ -419,10 +419,10 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | River Plate | 15 | 6 | 3 | 6 | 5 | 21 |
 | 7 | Talleres | 15 | 5 | 5 | 5 | -3 | 20 |
 | 8 | San Martín SJ | 15 | 4 | 7 | 4 | -1 | 19 |
-| 9 | Sarmiento | 14 | 4 | 4 | 6 | -5 | 16 |
+| 9 | Sarmiento | 15 | 5 | 4 | 6 | -3 | 19 |
 | 10 | GELP | 14 | 5 | 1 | 8 | -7 | 16 |
 | 11 | Atl. Tucumán | 14 | 4 | 3 | 7 | -4 | 15 |
-| 12 | Instituto | 14 | 3 | 6 | 5 | -7 | 15 |
+| 12 | Instituto | 15 | 3 | 6 | 6 | -9 | 15 |
 | 13 | Independiente | 14 | 2 | 6 | 6 | -1 | 12 |
 | 14 | Platense | 15 | 2 | 6 | 7 | -10 | 12 |
 | 15 | Godoy Cruz | 14 | 1 | 8 | 5 | -7 | 11 |
