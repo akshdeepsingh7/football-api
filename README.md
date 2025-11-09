@@ -41,18 +41,18 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 09 November 2025, 04:22 PM UTC (Sunday, 09 November 2025, 09:52 PM IST)
+**Last Updated:** Sunday, 09 November 2025, 04:43 PM UTC (Sunday, 09 November 2025, 10:13 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 11 | 8 | 2 | 1 | 15 | 26 |
-| 2 | Chelsea | 11 | 6 | 2 | 3 | 10 | 20 |
-| 3 | Manchester City | 10 | 6 | 1 | 3 | 12 | 19 |
-| 4 | Sunderland | 11 | 5 | 4 | 2 | 4 | 19 |
-| 5 | Tottenham Hotspur | 11 | 5 | 3 | 3 | 9 | 18 |
-| 6 | Liverpool FC | 10 | 6 | 0 | 4 | 4 | 18 |
+| 2 | Manchester City | 11 | 6 | 2 | 3 | 12 | 20 |
+| 3 | Chelsea | 11 | 6 | 2 | 3 | 10 | 20 |
+| 4 | Liverpool FC | 11 | 6 | 1 | 4 | 4 | 19 |
+| 5 | Sunderland | 11 | 5 | 4 | 2 | 4 | 19 |
+| 6 | Tottenham Hotspur | 11 | 5 | 3 | 3 | 9 | 18 |
 | 7 | Aston Villa | 11 | 5 | 3 | 3 | 3 | 18 |
 | 8 | Manchester United | 11 | 5 | 3 | 3 | 1 | 18 |
 | 9 | AFC Bournemouth | 11 | 5 | 3 | 3 | -1 | 18 |
@@ -102,16 +102,16 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Borussia Dortmund | 10 | 6 | 3 | 1 | 9 | 21 |
 | 4 | Bayer Leverkusen | 10 | 6 | 2 | 2 | 10 | 20 |
 | 5 | Hoffenheim | 10 | 6 | 1 | 3 | 5 | 19 |
-| 6 | VfB Stuttgart | 9 | 6 | 0 | 3 | 4 | 18 |
+| 6 | VfB Stuttgart | 10 | 6 | 0 | 4 | 3 | 18 |
 | 7 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
 | 8 | Eintracht Frankfurt | 9 | 4 | 2 | 3 | 3 | 14 |
 | 9 | Köln | 10 | 4 | 2 | 4 | 2 | 14 |
 | 10 | SC Freiburg | 10 | 3 | 4 | 3 | -1 | 13 |
 | 11 | Union Berlin | 10 | 3 | 3 | 4 | -4 | 12 |
-| 12 | Borussia Mönchengladbach | 10 | 2 | 3 | 5 | -6 | 9 |
-| 13 | Hamburg | 10 | 2 | 3 | 5 | -7 | 9 |
-| 14 | VfL Wolfsburg | 10 | 2 | 2 | 6 | -6 | 8 |
-| 15 | Augsburg | 9 | 2 | 1 | 6 | -9 | 7 |
+| 12 | Augsburg | 10 | 3 | 1 | 6 | -8 | 10 |
+| 13 | Borussia Mönchengladbach | 10 | 2 | 3 | 5 | -6 | 9 |
+| 14 | Hamburg | 10 | 2 | 3 | 5 | -7 | 9 |
+| 15 | VfL Wolfsburg | 10 | 2 | 2 | 6 | -6 | 8 |
 | 16 | St. Pauli | 10 | 2 | 1 | 7 | -11 | 7 |
 | 17 | Mainz 05 | 9 | 1 | 2 | 6 | -7 | 5 |
 | 18 | Heidenheim | 10 | 1 | 2 | 7 | -15 | 5 |

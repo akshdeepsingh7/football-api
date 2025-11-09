@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 04:22 PM UTC",
-        "IST": "Sunday, 09 November 2025, 09:52 PM IST"
+        "UTC": "Sunday, 09 November 2025, 04:43 PM UTC",
+        "IST": "Sunday, 09 November 2025, 10:13 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -17,6 +17,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Manchester City",
+                "Played": "11",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "12",
+                "Points": "20"
+            },
+            {
+                "Position": "3",
                 "Team": "Chelsea",
                 "Played": "11",
                 "Wins": "6",
@@ -26,17 +36,17 @@
                 "Points": "20"
             },
             {
-                "Position": "3",
-                "Team": "Manchester City",
-                "Played": "10",
+                "Position": "4",
+                "Team": "Liverpool FC",
+                "Played": "11",
                 "Wins": "6",
                 "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "12",
+                "Losses": "4",
+                "Goal Difference": "4",
                 "Points": "19"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Sunderland",
                 "Played": "11",
                 "Wins": "5",
@@ -46,23 +56,13 @@
                 "Points": "19"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Tottenham Hotspur",
                 "Played": "11",
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "9",
-                "Points": "18"
-            },
-            {
-                "Position": "6",
-                "Team": "Liverpool FC",
-                "Played": "10",
-                "Wins": "6",
-                "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "4",
                 "Points": "18"
             },
             {
@@ -462,11 +462,11 @@
             {
                 "Position": "6",
                 "Team": "VfB Stuttgart",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "6",
                 "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "4",
+                "Losses": "4",
+                "Goal Difference": "3",
                 "Points": "18"
             },
             {
@@ -521,6 +521,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Augsburg",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "6",
+                "Goal Difference": "-8",
+                "Points": "10"
+            },
+            {
+                "Position": "13",
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "10",
                 "Wins": "2",
@@ -530,7 +540,7 @@
                 "Points": "9"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Hamburg",
                 "Played": "10",
                 "Wins": "2",
@@ -540,7 +550,7 @@
                 "Points": "9"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "VfL Wolfsburg",
                 "Played": "10",
                 "Wins": "2",
@@ -548,16 +558,6 @@
                 "Losses": "6",
                 "Goal Difference": "-6",
                 "Points": "8"
-            },
-            {
-                "Position": "15",
-                "Team": "Augsburg",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "6",
-                "Goal Difference": "-9",
-                "Points": "7"
             },
             {
                 "Position": "16",
