@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 09 November 2025, 08:20 PM UTC (Monday, 10 November 2025, 01:50 AM IST)
+**Last Updated:** Sunday, 09 November 2025, 08:39 PM UTC (Monday, 10 November 2025, 02:09 AM IST)
 
 ### Premier League
 
@@ -293,20 +293,20 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 11 | 10 | 1 | 0 | 21 | 31 |
 | 2 | Sporting CP | 11 | 9 | 1 | 1 | 21 | 28 |
-| 3 | Benfica | 10 | 7 | 3 | 0 | 17 | 24 |
+| 3 | Benfica | 11 | 7 | 4 | 0 | 17 | 25 |
 | 4 | Gil Vicente | 11 | 7 | 2 | 2 | 11 | 23 |
 | 5 | Famalicão | 11 | 5 | 4 | 2 | 6 | 19 |
-| 6 | Moreirense | 10 | 6 | 0 | 4 | 2 | 18 |
-| 7 | Vitória S.C. | 11 | 4 | 2 | 5 | -7 | 14 |
-| 8 | Braga | 10 | 3 | 4 | 3 | 7 | 13 |
+| 6 | Moreirense | 11 | 6 | 1 | 4 | 2 | 19 |
+| 7 | Braga | 11 | 3 | 5 | 3 | 7 | 14 |
+| 8 | Vitória S.C. | 11 | 4 | 2 | 5 | -7 | 14 |
 | 9 | Estoril | 11 | 3 | 4 | 4 | 2 | 13 |
 | 10 | Nacional | 11 | 3 | 3 | 5 | -4 | 12 |
 | 11 | Rio Ave | 11 | 2 | 6 | 3 | -5 | 12 |
 | 12 | Santa Clara | 11 | 3 | 2 | 6 | -4 | 11 |
 | 13 | Estrela Amadora | 11 | 2 | 5 | 4 | -1 | 11 |
 | 14 | Alverca | 11 | 3 | 2 | 6 | -7 | 11 |
-| 15 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
-| 16 | Casa Pia | 10 | 2 | 2 | 6 | -11 | 8 |
+| 15 | Casa Pia | 11 | 2 | 3 | 6 | -11 | 9 |
+| 16 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
 | 17 | Tondela | 11 | 1 | 3 | 7 | -14 | 6 |
 | 18 | AVS | 11 | 0 | 3 | 8 | -17 | 3 |
 
@@ -396,7 +396,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Boca Juniors | 15 | 6 | 6 | 3 | 12 | 24 |
+| 1 | Boca Juniors | 15 | 7 | 5 | 3 | 13 | 26 |
 | 2 | Unión | 15 | 6 | 6 | 3 | 7 | 24 |
 | 3 | Córdoba SdE | 14 | 5 | 7 | 2 | 6 | 22 |
 | 4 | Barracas | 15 | 5 | 7 | 3 | 2 | 22 |
@@ -416,7 +416,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Lanús | 15 | 8 | 3 | 4 | 5 | 27 |
 | 4 | Vélez | 14 | 7 | 4 | 3 | 9 | 25 |
 | 5 | San Lorenzo | 15 | 6 | 5 | 4 | 2 | 23 |
-| 6 | River Plate | 15 | 6 | 4 | 5 | 7 | 22 |
+| 6 | River Plate | 15 | 6 | 3 | 6 | 6 | 21 |
 | 7 | Talleres | 15 | 5 | 5 | 5 | -3 | 20 |
 | 8 | San Martín SJ | 15 | 4 | 7 | 4 | -1 | 19 |
 | 9 | Sarmiento | 14 | 4 | 4 | 6 | -5 | 16 |

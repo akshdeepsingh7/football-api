@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 08:20 PM UTC",
-        "IST": "Monday, 10 November 2025, 01:50 AM IST"
+        "UTC": "Sunday, 09 November 2025, 08:39 PM UTC",
+        "IST": "Monday, 10 November 2025, 02:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2084,12 +2084,12 @@
             {
                 "Position": "3",
                 "Team": "Benfica",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "7",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "0",
                 "Goal Difference": "17",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "4",
@@ -2114,15 +2114,25 @@
             {
                 "Position": "6",
                 "Team": "Moreirense",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "6",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "4",
                 "Goal Difference": "2",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "7",
+                "Team": "Braga",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "3",
+                "Goal Difference": "7",
+                "Points": "14"
+            },
+            {
+                "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "11",
                 "Wins": "4",
@@ -2130,16 +2140,6 @@
                 "Losses": "5",
                 "Goal Difference": "-7",
                 "Points": "14"
-            },
-            {
-                "Position": "8",
-                "Team": "Braga",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "7",
-                "Points": "13"
             },
             {
                 "Position": "9",
@@ -2203,6 +2203,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Casa Pia",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-11",
+                "Points": "9"
+            },
+            {
+                "Position": "16",
                 "Team": "Arouca",
                 "Played": "11",
                 "Wins": "2",
@@ -2210,16 +2220,6 @@
                 "Losses": "6",
                 "Goal Difference": "-17",
                 "Points": "9"
-            },
-            {
-                "Position": "16",
-                "Team": "Casa Pia",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "-11",
-                "Points": "8"
             },
             {
                 "Position": "17",
@@ -2923,11 +2923,11 @@
                 "Position": "1",
                 "Team": "Boca Juniors",
                 "Played": "15",
-                "Wins": "6",
-                "Draws": "6",
+                "Wins": "7",
+                "Draws": "5",
                 "Losses": "3",
-                "Goal Difference": "12",
-                "Points": "24"
+                "Goal Difference": "13",
+                "Points": "26"
             },
             {
                 "Position": "2",
@@ -3124,10 +3124,10 @@
                 "Team": "River Plate",
                 "Played": "15",
                 "Wins": "6",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "7",
-                "Points": "22"
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "6",
+                "Points": "21"
             },
             {
                 "Position": "7",
