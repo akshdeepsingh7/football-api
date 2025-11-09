@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 09 November 2025, 03:17 PM UTC (Sunday, 09 November 2025, 08:47 PM IST)
+**Last Updated:** Sunday, 09 November 2025, 03:37 PM UTC (Sunday, 09 November 2025, 09:07 PM IST)
 
 ### Premier League
 
@@ -58,14 +58,14 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Aston Villa | 11 | 5 | 3 | 3 | 1 | 18 |
 | 10 | Crystal Palace | 11 | 4 | 5 | 2 | 5 | 17 |
 | 11 | Brighton & Hove Albion | 11 | 4 | 4 | 3 | 2 | 16 |
-| 12 | Newcastle United | 11 | 4 | 3 | 4 | 0 | 15 |
-| 13 | Everton | 11 | 4 | 3 | 4 | -1 | 15 |
-| 14 | Brentford | 11 | 4 | 1 | 6 | -3 | 13 |
-| 15 | Leeds United | 11 | 3 | 3 | 5 | -8 | 12 |
-| 16 | Fulham | 11 | 3 | 2 | 6 | -4 | 11 |
+| 12 | Everton | 11 | 4 | 3 | 4 | -1 | 15 |
+| 13 | Brentford | 11 | 4 | 2 | 5 | -2 | 14 |
+| 14 | Newcastle United | 11 | 3 | 4 | 4 | -1 | 13 |
+| 15 | Fulham | 11 | 3 | 2 | 6 | -4 | 11 |
+| 16 | Leeds United | 11 | 3 | 2 | 6 | -9 | 11 |
 | 17 | Burnley | 11 | 3 | 1 | 7 | -8 | 10 |
 | 18 | West Ham United | 11 | 3 | 1 | 7 | -10 | 10 |
-| 19 | Nottingham Forest | 11 | 1 | 4 | 6 | -12 | 7 |
+| 19 | Nottingham Forest | 11 | 2 | 3 | 6 | -11 | 9 |
 | 20 | Wolverhampton Wanderers | 11 | 0 | 2 | 9 | -18 | 2 |
 
 ### La Liga
@@ -121,10 +121,10 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Milan | 11 | 6 | 4 | 1 | 8 | 22 |
-| 2 | Napoli | 11 | 7 | 1 | 3 | 7 | 22 |
+| 2 | Napoli | 11 | 7 | 1 | 3 | 6 | 22 |
 | 3 | Inter | 10 | 7 | 0 | 3 | 12 | 21 |
 | 4 | Roma | 10 | 7 | 0 | 3 | 5 | 21 |
-| 5 | Bologna | 11 | 6 | 3 | 2 | 9 | 21 |
+| 5 | Bologna | 11 | 6 | 3 | 2 | 10 | 21 |
 | 6 | Juventus | 11 | 5 | 4 | 2 | 4 | 19 |
 | 7 | Como | 11 | 4 | 6 | 1 | 6 | 18 |
 | 8 | Sassuolo | 11 | 5 | 1 | 5 | 2 | 16 |
@@ -137,9 +137,9 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Lecce | 11 | 2 | 4 | 5 | -6 | 10 |
 | 16 | Pisa | 11 | 1 | 6 | 4 | -6 | 9 |
 | 17 | Parma | 11 | 1 | 5 | 5 | -7 | 8 |
-| 18 | Fiorentina | 11 | 1 | 4 | 6 | -8 | 7 |
-| 19 | Genoa | 11 | 1 | 3 | 7 | -9 | 6 |
-| 20 | Hellas Verona | 11 | 0 | 6 | 5 | -10 | 6 |
+| 18 | Genoa | 11 | 1 | 4 | 6 | -8 | 7 |
+| 19 | Hellas Verona | 11 | 0 | 6 | 5 | -10 | 6 |
+| 20 | Fiorentina | 11 | 0 | 5 | 6 | -9 | 5 |
 
 ### Ligue 1
 
@@ -154,13 +154,13 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Strasbourg | 11 | 6 | 1 | 4 | 6 | 19 |
 | 8 | Rennes | 12 | 4 | 6 | 2 | 2 | 18 |
 | 9 | Nice | 11 | 5 | 2 | 4 | 0 | 17 |
-| 10 | Toulouse | 12 | 4 | 3 | 5 | 1 | 15 |
+| 10 | Toulouse | 12 | 4 | 4 | 4 | 2 | 16 |
 | 11 | Paris FC | 12 | 4 | 2 | 6 | -3 | 14 |
 | 12 | Le Havre | 12 | 3 | 5 | 4 | -4 | 14 |
-| 13 | Lorient | 12 | 3 | 3 | 6 | -11 | 12 |
-| 14 | Brest | 12 | 2 | 4 | 6 | -7 | 10 |
-| 15 | Nantes | 12 | 2 | 4 | 6 | -7 | 10 |
-| 16 | Angers | 11 | 2 | 4 | 5 | -7 | 10 |
+| 13 | Brest | 12 | 2 | 4 | 6 | -7 | 10 |
+| 14 | Nantes | 12 | 2 | 4 | 6 | -7 | 10 |
+| 15 | Angers | 11 | 2 | 4 | 5 | -7 | 10 |
+| 16 | Lorient | 12 | 2 | 4 | 6 | -12 | 10 |
 | 17 | Metz | 11 | 2 | 2 | 7 | -16 | 8 |
 | 18 | Auxerre | 11 | 2 | 1 | 8 | -10 | 7 |
 
@@ -294,21 +294,21 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 10 | 9 | 1 | 0 | 20 | 28 |
 | 2 | Sporting CP | 11 | 9 | 1 | 1 | 21 | 28 |
 | 3 | Benfica | 10 | 7 | 3 | 0 | 17 | 24 |
-| 4 | Gil Vicente | 10 | 7 | 1 | 2 | 11 | 22 |
+| 4 | Gil Vicente | 11 | 7 | 2 | 2 | 11 | 23 |
 | 5 | Famalicão | 10 | 5 | 4 | 1 | 7 | 19 |
 | 6 | Moreirense | 10 | 6 | 0 | 4 | 2 | 18 |
 | 7 | Vitória S.C. | 11 | 4 | 2 | 5 | -7 | 14 |
 | 8 | Braga | 10 | 3 | 4 | 3 | 7 | 13 |
 | 9 | Estoril | 11 | 3 | 4 | 4 | 2 | 13 |
-| 10 | Rio Ave | 11 | 2 | 6 | 3 | -5 | 12 |
-| 11 | Santa Clara | 11 | 3 | 2 | 6 | -4 | 11 |
-| 12 | Nacional | 10 | 3 | 2 | 5 | -4 | 11 |
-| 13 | Alverca | 11 | 3 | 2 | 6 | -7 | 11 |
-| 14 | Estrela Amadora | 10 | 2 | 4 | 4 | -1 | 10 |
+| 10 | Nacional | 11 | 3 | 3 | 5 | -4 | 12 |
+| 11 | Rio Ave | 11 | 2 | 6 | 3 | -5 | 12 |
+| 12 | Santa Clara | 11 | 3 | 2 | 6 | -4 | 11 |
+| 13 | Estrela Amadora | 11 | 2 | 5 | 4 | -1 | 11 |
+| 14 | Alverca | 11 | 3 | 2 | 6 | -7 | 11 |
 | 15 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
 | 16 | Casa Pia | 10 | 2 | 2 | 6 | -11 | 8 |
 | 17 | Tondela | 11 | 1 | 3 | 7 | -14 | 6 |
-| 18 | AVS | 10 | 0 | 2 | 8 | -17 | 2 |
+| 18 | AVS | 11 | 0 | 3 | 8 | -17 | 3 |
 
 ### EFL Championship
 

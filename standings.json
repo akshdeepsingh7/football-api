@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 03:17 PM UTC",
-        "IST": "Sunday, 09 November 2025, 08:47 PM IST"
+        "UTC": "Sunday, 09 November 2025, 03:37 PM UTC",
+        "IST": "Sunday, 09 November 2025, 09:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -117,16 +117,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Newcastle United",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "0",
-                "Points": "15"
-            },
-            {
-                "Position": "13",
                 "Team": "Everton",
                 "Played": "11",
                 "Wins": "4",
@@ -136,33 +126,43 @@
                 "Points": "15"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Brentford",
                 "Played": "11",
                 "Wins": "4",
-                "Draws": "1",
-                "Losses": "6",
-                "Goal Difference": "-3",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-2",
+                "Points": "14"
+            },
+            {
+                "Position": "14",
+                "Team": "Newcastle United",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-1",
                 "Points": "13"
             },
             {
                 "Position": "15",
-                "Team": "Leeds United",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-8",
-                "Points": "12"
-            },
-            {
-                "Position": "16",
                 "Team": "Fulham",
                 "Played": "11",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "6",
                 "Goal Difference": "-4",
+                "Points": "11"
+            },
+            {
+                "Position": "16",
+                "Team": "Leeds United",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-9",
                 "Points": "11"
             },
             {
@@ -189,11 +189,11 @@
                 "Position": "19",
                 "Team": "Nottingham Forest",
                 "Played": "11",
-                "Wins": "1",
-                "Draws": "4",
+                "Wins": "2",
+                "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "-12",
-                "Points": "7"
+                "Goal Difference": "-11",
+                "Points": "9"
             },
             {
                 "Position": "20",
@@ -608,7 +608,7 @@
                 "Wins": "7",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "7",
+                "Goal Difference": "6",
                 "Points": "22"
             },
             {
@@ -638,7 +638,7 @@
                 "Wins": "6",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "9",
+                "Goal Difference": "10",
                 "Points": "21"
             },
             {
@@ -763,7 +763,7 @@
             },
             {
                 "Position": "18",
-                "Team": "Fiorentina",
+                "Team": "Genoa",
                 "Played": "11",
                 "Wins": "1",
                 "Draws": "4",
@@ -773,16 +773,6 @@
             },
             {
                 "Position": "19",
-                "Team": "Genoa",
-                "Played": "11",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "-9",
-                "Points": "6"
-            },
-            {
-                "Position": "20",
                 "Team": "Hellas Verona",
                 "Played": "11",
                 "Wins": "0",
@@ -790,6 +780,16 @@
                 "Losses": "5",
                 "Goal Difference": "-10",
                 "Points": "6"
+            },
+            {
+                "Position": "20",
+                "Team": "Fiorentina",
+                "Played": "11",
+                "Wins": "0",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-9",
+                "Points": "5"
             }
         ],
         "Ligue 1": [
@@ -888,10 +888,10 @@
                 "Team": "Toulouse",
                 "Played": "12",
                 "Wins": "4",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "1",
-                "Points": "15"
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "2",
+                "Points": "16"
             },
             {
                 "Position": "11",
@@ -915,16 +915,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Lorient",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-11",
-                "Points": "12"
-            },
-            {
-                "Position": "14",
                 "Team": "Brest",
                 "Played": "12",
                 "Wins": "2",
@@ -934,7 +924,7 @@
                 "Points": "10"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Nantes",
                 "Played": "12",
                 "Wins": "2",
@@ -944,13 +934,23 @@
                 "Points": "10"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Angers",
                 "Played": "11",
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "-7",
+                "Points": "10"
+            },
+            {
+                "Position": "16",
+                "Team": "Lorient",
+                "Played": "12",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-12",
                 "Points": "10"
             },
             {
@@ -2094,12 +2094,12 @@
             {
                 "Position": "4",
                 "Team": "Gil Vicente",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "7",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "11",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "5",
@@ -2153,6 +2153,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Nacional",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-4",
+                "Points": "12"
+            },
+            {
+                "Position": "11",
                 "Team": "Rio Ave",
                 "Played": "11",
                 "Wins": "2",
@@ -2162,7 +2172,7 @@
                 "Points": "12"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Santa Clara",
                 "Played": "11",
                 "Wins": "3",
@@ -2172,17 +2182,17 @@
                 "Points": "11"
             },
             {
-                "Position": "12",
-                "Team": "Nacional",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-4",
+                "Position": "13",
+                "Team": "Estrela Amadora",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "-1",
                 "Points": "11"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Alverca",
                 "Played": "11",
                 "Wins": "3",
@@ -2190,16 +2200,6 @@
                 "Losses": "6",
                 "Goal Difference": "-7",
                 "Points": "11"
-            },
-            {
-                "Position": "14",
-                "Team": "Estrela Amadora",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "10"
             },
             {
                 "Position": "15",
@@ -2234,12 +2234,12 @@
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "0",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "8",
                 "Goal Difference": "-17",
-                "Points": "2"
+                "Points": "3"
             }
         ],
         "EFL Championship": [
