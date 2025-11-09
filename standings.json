@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 11:15 AM UTC",
-        "IST": "Sunday, 09 November 2025, 04:45 PM IST"
+        "UTC": "Sunday, 09 November 2025, 11:37 AM UTC",
+        "IST": "Sunday, 09 November 2025, 05:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -683,6 +683,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Atalanta",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "8",
+                "Losses": "1",
+                "Goal Difference": "5",
+                "Points": "14"
+            },
+            {
+                "Position": "11",
                 "Team": "Cremonese",
                 "Played": "11",
                 "Wins": "3",
@@ -692,7 +702,17 @@
                 "Points": "14"
             },
             {
-                "Position": "11",
+                "Position": "12",
+                "Team": "Sassuolo",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-1",
+                "Points": "14"
+            },
+            {
+                "Position": "13",
                 "Team": "Torino",
                 "Played": "11",
                 "Wins": "3",
@@ -700,26 +720,6 @@
                 "Losses": "3",
                 "Goal Difference": "-6",
                 "Points": "14"
-            },
-            {
-                "Position": "12",
-                "Team": "Atalanta",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "7",
-                "Losses": "1",
-                "Goal Difference": "5",
-                "Points": "13"
-            },
-            {
-                "Position": "13",
-                "Team": "Sassuolo",
-                "Played": "10",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-1",
-                "Points": "13"
             },
             {
                 "Position": "14",
