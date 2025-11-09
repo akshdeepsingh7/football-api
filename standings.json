@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 02:16 PM UTC",
-        "IST": "Sunday, 09 November 2025, 07:46 PM IST"
+        "UTC": "Sunday, 09 November 2025, 02:38 PM UTC",
+        "IST": "Sunday, 09 November 2025, 08:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -47,16 +47,6 @@
             },
             {
                 "Position": "5",
-                "Team": "AFC Bournemouth",
-                "Played": "11",
-                "Wins": "5",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "19"
-            },
-            {
-                "Position": "6",
                 "Team": "Tottenham Hotspur",
                 "Played": "11",
                 "Wins": "5",
@@ -66,13 +56,23 @@
                 "Points": "18"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Liverpool FC",
                 "Played": "10",
                 "Wins": "6",
                 "Draws": "0",
                 "Losses": "4",
                 "Goal Difference": "4",
+                "Points": "18"
+            },
+            {
+                "Position": "7",
+                "Team": "AFC Bournemouth",
+                "Played": "11",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "2",
                 "Points": "18"
             },
             {
@@ -87,6 +87,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Aston Villa",
+                "Played": "11",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "0",
+                "Points": "18"
+            },
+            {
+                "Position": "10",
                 "Team": "Crystal Palace",
                 "Played": "11",
                 "Wins": "4",
@@ -96,7 +106,7 @@
                 "Points": "17"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Brighton & Hove Albion",
                 "Played": "11",
                 "Wins": "4",
@@ -106,17 +116,17 @@
                 "Points": "16"
             },
             {
-                "Position": "11",
-                "Team": "Aston Villa",
+                "Position": "12",
+                "Team": "Newcastle United",
                 "Played": "11",
                 "Wins": "4",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "16"
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "15"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Everton",
                 "Played": "11",
                 "Wins": "4",
@@ -126,34 +136,24 @@
                 "Points": "15"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Brentford",
                 "Played": "11",
                 "Wins": "4",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-2",
-                "Points": "14"
-            },
-            {
-                "Position": "14",
-                "Team": "Leeds United",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-7",
-                "Points": "14"
+                "Draws": "1",
+                "Losses": "6",
+                "Goal Difference": "-3",
+                "Points": "13"
             },
             {
                 "Position": "15",
-                "Team": "Newcastle United",
+                "Team": "Leeds United",
                 "Played": "11",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "13"
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-8",
+                "Points": "12"
             },
             {
                 "Position": "16",
@@ -190,10 +190,10 @@
                 "Team": "Nottingham Forest",
                 "Played": "11",
                 "Wins": "1",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "-13",
-                "Points": "6"
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-12",
+                "Points": "7"
             },
             {
                 "Position": "20",
@@ -512,12 +512,12 @@
             {
                 "Position": "11",
                 "Team": "SC Freiburg",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "2",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "12",
@@ -551,22 +551,22 @@
             },
             {
                 "Position": "15",
+                "Team": "St. Pauli",
+                "Played": "10",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-10",
+                "Points": "8"
+            },
+            {
+                "Position": "16",
                 "Team": "Augsburg",
                 "Played": "9",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "6",
                 "Goal Difference": "-9",
-                "Points": "7"
-            },
-            {
-                "Position": "16",
-                "Team": "St. Pauli",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "6",
-                "Goal Difference": "-10",
                 "Points": "7"
             },
             {
@@ -753,16 +753,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Genoa",
-                "Played": "11",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-7",
-                "Points": "9"
-            },
-            {
-                "Position": "18",
                 "Team": "Parma",
                 "Played": "11",
                 "Wins": "1",
@@ -770,6 +760,16 @@
                 "Losses": "5",
                 "Goal Difference": "-7",
                 "Points": "8"
+            },
+            {
+                "Position": "18",
+                "Team": "Genoa",
+                "Played": "11",
+                "Wins": "1",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-8",
+                "Points": "7"
             },
             {
                 "Position": "19",
@@ -786,10 +786,10 @@
                 "Team": "Fiorentina",
                 "Played": "11",
                 "Wins": "0",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-10",
-                "Points": "4"
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-9",
+                "Points": "5"
             }
         ],
         "Ligue 1": [
