@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 09:37 PM UTC",
-        "IST": "Monday, 10 November 2025, 03:07 AM IST"
+        "UTC": "Sunday, 09 November 2025, 10:18 PM UTC",
+        "IST": "Monday, 10 November 2025, 03:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -224,7 +224,7 @@
                 "Wins": "9",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "16",
+                "Goal Difference": "17",
                 "Points": "28"
             },
             {
@@ -334,7 +334,7 @@
                 "Wins": "2",
                 "Draws": "7",
                 "Losses": "3",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "13"
             },
             {
@@ -795,22 +795,22 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "PSG",
+                "Played": "12",
+                "Wins": "8",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "13",
+                "Points": "27"
+            },
+            {
+                "Position": "2",
                 "Team": "Marseille",
                 "Played": "12",
                 "Wins": "8",
                 "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "17",
-                "Points": "25"
-            },
-            {
-                "Position": "2",
-                "Team": "PSG",
-                "Played": "12",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "12",
                 "Points": "25"
             },
             {
@@ -835,16 +835,6 @@
             },
             {
                 "Position": "5",
-                "Team": "Lyon",
-                "Played": "12",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "4",
-                "Points": "21"
-            },
-            {
-                "Position": "6",
                 "Team": "Lille",
                 "Played": "12",
                 "Wins": "6",
@@ -854,8 +844,18 @@
                 "Points": "20"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Monaco",
+                "Played": "12",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "3",
+                "Points": "20"
+            },
+            {
+                "Position": "7",
+                "Team": "Lyon",
                 "Played": "12",
                 "Wins": "6",
                 "Draws": "2",
@@ -3235,11 +3235,11 @@
                 "Position": "2",
                 "Team": "Flamengo",
                 "Played": "32",
-                "Wins": "19",
-                "Draws": "9",
+                "Wins": "20",
+                "Draws": "8",
                 "Losses": "4",
-                "Goal Difference": "43",
-                "Points": "66"
+                "Goal Difference": "44",
+                "Points": "68"
             },
             {
                 "Position": "3",
@@ -3386,10 +3386,10 @@
                 "Team": "Santos",
                 "Played": "32",
                 "Wins": "8",
-                "Draws": "10",
-                "Losses": "14",
-                "Goal Difference": "-14",
-                "Points": "34"
+                "Draws": "9",
+                "Losses": "15",
+                "Goal Difference": "-15",
+                "Points": "33"
             },
             {
                 "Position": "18",
