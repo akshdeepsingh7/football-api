@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 07:37 PM UTC",
-        "IST": "Monday, 10 November 2025, 01:07 AM IST"
+        "UTC": "Sunday, 09 November 2025, 08:20 PM UTC",
+        "IST": "Monday, 10 November 2025, 01:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -219,6 +219,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Barcelona",
+                "Played": "12",
+                "Wins": "8",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "15",
+                "Points": "26"
+            },
+            {
+                "Position": "3",
                 "Team": "Villarreal",
                 "Played": "12",
                 "Wins": "8",
@@ -226,16 +236,6 @@
                 "Losses": "2",
                 "Goal Difference": "14",
                 "Points": "26"
-            },
-            {
-                "Position": "3",
-                "Team": "Barcelona",
-                "Played": "11",
-                "Wins": "8",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "15",
-                "Points": "25"
             },
             {
                 "Position": "4",
@@ -330,12 +330,12 @@
             {
                 "Position": "13",
                 "Team": "Celta de Vigo",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "2",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "2",
                 "Goal Difference": "-1",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "14",
@@ -473,11 +473,11 @@
                 "Position": "7",
                 "Team": "Eintracht Frankfurt",
                 "Played": "10",
-                "Wins": "4",
-                "Draws": "3",
+                "Wins": "5",
+                "Draws": "2",
                 "Losses": "3",
-                "Goal Difference": "3",
-                "Points": "15"
+                "Goal Difference": "4",
+                "Points": "17"
             },
             {
                 "Position": "8",
@@ -574,10 +574,10 @@
                 "Team": "Mainz 05",
                 "Played": "10",
                 "Wins": "1",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-7",
-                "Points": "6"
+                "Draws": "2",
+                "Losses": "7",
+                "Goal Difference": "-8",
+                "Points": "5"
             },
             {
                 "Position": "18",
@@ -593,6 +593,16 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Inter",
+                "Played": "11",
+                "Wins": "8",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "13",
+                "Points": "24"
+            },
+            {
+                "Position": "2",
                 "Team": "Roma",
                 "Played": "11",
                 "Wins": "8",
@@ -602,7 +612,7 @@
                 "Points": "24"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Milan",
                 "Played": "11",
                 "Wins": "6",
@@ -612,7 +622,7 @@
                 "Points": "22"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Napoli",
                 "Played": "11",
                 "Wins": "7",
@@ -620,16 +630,6 @@
                 "Losses": "3",
                 "Goal Difference": "6",
                 "Points": "22"
-            },
-            {
-                "Position": "4",
-                "Team": "Inter",
-                "Played": "10",
-                "Wins": "7",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "12",
-                "Points": "21"
             },
             {
                 "Position": "5",
@@ -674,11 +674,11 @@
             {
                 "Position": "9",
                 "Team": "Lazio",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "4",
                 "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "6",
+                "Losses": "4",
+                "Goal Difference": "5",
                 "Points": "15"
             },
             {
@@ -795,6 +795,16 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "PSG",
+                "Played": "12",
+                "Wins": "8",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "13",
+                "Points": "27"
+            },
+            {
+                "Position": "2",
                 "Team": "Marseille",
                 "Played": "12",
                 "Wins": "8",
@@ -804,7 +814,7 @@
                 "Points": "25"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Lens",
                 "Played": "12",
                 "Wins": "8",
@@ -812,16 +822,6 @@
                 "Losses": "3",
                 "Goal Difference": "10",
                 "Points": "25"
-            },
-            {
-                "Position": "3",
-                "Team": "PSG",
-                "Played": "11",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "12",
-                "Points": "24"
             },
             {
                 "Position": "4",
@@ -845,17 +845,17 @@
             },
             {
                 "Position": "6",
-                "Team": "Lyon",
-                "Played": "11",
+                "Team": "Monaco",
+                "Played": "12",
                 "Wins": "6",
                 "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "4",
+                "Losses": "4",
+                "Goal Difference": "3",
                 "Points": "20"
             },
             {
                 "Position": "7",
-                "Team": "Monaco",
+                "Team": "Lyon",
                 "Played": "12",
                 "Wins": "6",
                 "Draws": "2",

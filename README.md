@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 09 November 2025, 07:37 PM UTC (Monday, 10 November 2025, 01:07 AM IST)
+**Last Updated:** Sunday, 09 November 2025, 08:20 PM UTC (Monday, 10 November 2025, 01:50 AM IST)
 
 ### Premier League
 
@@ -73,8 +73,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 12 | 10 | 1 | 1 | 16 | 31 |
-| 2 | Villarreal | 12 | 8 | 2 | 2 | 14 | 26 |
-| 3 | Barcelona | 11 | 8 | 1 | 2 | 15 | 25 |
+| 2 | Barcelona | 12 | 8 | 2 | 2 | 15 | 26 |
+| 3 | Villarreal | 12 | 8 | 2 | 2 | 14 | 26 |
 | 4 | Atlético de Madrid | 12 | 7 | 4 | 1 | 13 | 25 |
 | 5 | Real Betis | 12 | 5 | 5 | 2 | 6 | 20 |
 | 6 | Espanyol | 12 | 5 | 3 | 4 | 0 | 18 |
@@ -84,7 +84,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Alavés | 12 | 4 | 3 | 5 | 0 | 15 |
 | 11 | Elche | 12 | 3 | 6 | 3 | -1 | 15 |
 | 12 | Rayo Vallecano | 12 | 4 | 3 | 5 | -2 | 15 |
-| 13 | Celta de Vigo | 11 | 2 | 7 | 2 | -1 | 13 |
+| 13 | Celta de Vigo | 12 | 2 | 8 | 2 | -1 | 14 |
 | 14 | Real Sociedad | 12 | 3 | 4 | 5 | -3 | 13 |
 | 15 | Mallorca | 12 | 3 | 3 | 6 | -6 | 12 |
 | 16 | Osasuna | 12 | 3 | 2 | 7 | -4 | 11 |
@@ -103,7 +103,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | VfB Stuttgart | 10 | 7 | 0 | 3 | 5 | 21 |
 | 5 | Bayer Leverkusen | 10 | 6 | 2 | 2 | 10 | 20 |
 | 6 | Hoffenheim | 10 | 6 | 1 | 3 | 5 | 19 |
-| 7 | Eintracht Frankfurt | 10 | 4 | 3 | 3 | 3 | 15 |
+| 7 | Eintracht Frankfurt | 10 | 5 | 2 | 3 | 4 | 17 |
 | 8 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
 | 9 | Köln | 10 | 4 | 2 | 4 | 2 | 14 |
 | 10 | SC Freiburg | 10 | 3 | 4 | 3 | -1 | 13 |
@@ -113,22 +113,22 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | VfL Wolfsburg | 10 | 2 | 2 | 6 | -6 | 8 |
 | 15 | Augsburg | 10 | 2 | 1 | 7 | -10 | 7 |
 | 16 | St. Pauli | 10 | 2 | 1 | 7 | -11 | 7 |
-| 17 | Mainz 05 | 10 | 1 | 3 | 6 | -7 | 6 |
+| 17 | Mainz 05 | 10 | 1 | 2 | 7 | -8 | 5 |
 | 18 | Heidenheim | 10 | 1 | 2 | 7 | -15 | 5 |
 
 ### Serie A
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Roma | 11 | 8 | 0 | 3 | 7 | 24 |
-| 2 | Milan | 11 | 6 | 4 | 1 | 8 | 22 |
-| 3 | Napoli | 11 | 7 | 1 | 3 | 6 | 22 |
-| 4 | Inter | 10 | 7 | 0 | 3 | 12 | 21 |
+| 1 | Inter | 11 | 8 | 0 | 3 | 13 | 24 |
+| 2 | Roma | 11 | 8 | 0 | 3 | 7 | 24 |
+| 3 | Milan | 11 | 6 | 4 | 1 | 8 | 22 |
+| 4 | Napoli | 11 | 7 | 1 | 3 | 6 | 22 |
 | 5 | Bologna | 11 | 6 | 3 | 2 | 10 | 21 |
 | 6 | Juventus | 11 | 5 | 4 | 2 | 4 | 19 |
 | 7 | Como | 11 | 4 | 6 | 1 | 6 | 18 |
 | 8 | Sassuolo | 11 | 5 | 1 | 5 | 2 | 16 |
-| 9 | Lazio | 10 | 4 | 3 | 3 | 6 | 15 |
+| 9 | Lazio | 11 | 4 | 3 | 4 | 5 | 15 |
 | 10 | Udinese | 11 | 4 | 3 | 4 | -5 | 15 |
 | 11 | Cremonese | 11 | 3 | 5 | 3 | -1 | 14 |
 | 12 | Torino | 11 | 3 | 5 | 3 | -6 | 14 |
@@ -145,13 +145,13 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Marseille | 12 | 8 | 1 | 3 | 17 | 25 |
-| 2 | Lens | 12 | 8 | 1 | 3 | 10 | 25 |
-| 3 | PSG | 11 | 7 | 3 | 1 | 12 | 24 |
+| 1 | PSG | 12 | 8 | 3 | 1 | 13 | 27 |
+| 2 | Marseille | 12 | 8 | 1 | 3 | 17 | 25 |
+| 3 | Lens | 12 | 8 | 1 | 3 | 10 | 25 |
 | 4 | Strasbourg | 12 | 7 | 1 | 4 | 8 | 22 |
 | 5 | Lille | 12 | 6 | 2 | 4 | 8 | 20 |
-| 6 | Lyon | 11 | 6 | 2 | 3 | 4 | 20 |
-| 7 | Monaco | 12 | 6 | 2 | 4 | 3 | 20 |
+| 6 | Monaco | 12 | 6 | 2 | 4 | 3 | 20 |
+| 7 | Lyon | 12 | 6 | 2 | 4 | 3 | 20 |
 | 8 | Rennes | 12 | 4 | 6 | 2 | 2 | 18 |
 | 9 | Nice | 12 | 5 | 2 | 5 | -1 | 17 |
 | 10 | Toulouse | 12 | 4 | 4 | 4 | 2 | 16 |
