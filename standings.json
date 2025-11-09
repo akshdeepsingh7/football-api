@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 09 November 2025, 07:14 PM UTC",
-        "IST": "Monday, 10 November 2025, 12:44 AM IST"
+        "UTC": "Sunday, 09 November 2025, 07:37 PM UTC",
+        "IST": "Monday, 10 November 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2921,6 +2921,16 @@
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",
+                "Team": "Boca Juniors",
+                "Played": "15",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "12",
+                "Points": "24"
+            },
+            {
+                "Position": "2",
                 "Team": "Uni\u00f3n",
                 "Played": "15",
                 "Wins": "6",
@@ -2928,16 +2938,6 @@
                 "Losses": "3",
                 "Goal Difference": "7",
                 "Points": "24"
-            },
-            {
-                "Position": "2",
-                "Team": "Boca Juniors",
-                "Played": "14",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "12",
-                "Points": "23"
             },
             {
                 "Position": "3",
@@ -3122,12 +3122,12 @@
             {
                 "Position": "6",
                 "Team": "River Plate",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "6",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "7",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "7",
@@ -3313,16 +3313,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Corinthians",
-                "Played": "33",
-                "Wins": "11",
-                "Draws": "10",
-                "Losses": "12",
-                "Goal Difference": "-2",
-                "Points": "43"
-            },
-            {
-                "Position": "11",
                 "Team": "Vasco da Gama",
                 "Played": "33",
                 "Wins": "12",
@@ -3332,7 +3322,7 @@
                 "Points": "42"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "RB Bragantino",
                 "Played": "33",
                 "Wins": "12",
@@ -3342,14 +3332,24 @@
                 "Points": "42"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Cear\u00e1",
                 "Played": "33",
-                "Wins": "10",
-                "Draws": "10",
+                "Wins": "11",
+                "Draws": "9",
                 "Losses": "13",
-                "Goal Difference": "0",
-                "Points": "40"
+                "Goal Difference": "1",
+                "Points": "42"
+            },
+            {
+                "Position": "13",
+                "Team": "Corinthians",
+                "Played": "33",
+                "Wins": "11",
+                "Draws": "9",
+                "Losses": "13",
+                "Goal Difference": "-3",
+                "Points": "42"
             },
             {
                 "Position": "14",

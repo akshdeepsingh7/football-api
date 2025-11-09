@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 09 November 2025, 07:14 PM UTC (Monday, 10 November 2025, 12:44 AM IST)
+**Last Updated:** Sunday, 09 November 2025, 07:37 PM UTC (Monday, 10 November 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -396,8 +396,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Unión | 15 | 6 | 6 | 3 | 7 | 24 |
-| 2 | Boca Juniors | 14 | 6 | 5 | 3 | 12 | 23 |
+| 1 | Boca Juniors | 15 | 6 | 6 | 3 | 12 | 24 |
+| 2 | Unión | 15 | 6 | 6 | 3 | 7 | 24 |
 | 3 | Córdoba SdE | 14 | 5 | 7 | 2 | 6 | 22 |
 | 4 | Barracas | 15 | 5 | 7 | 3 | 2 | 22 |
 | 5 | Racing Club | 15 | 6 | 4 | 5 | 2 | 22 |
@@ -416,7 +416,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Lanús | 15 | 8 | 3 | 4 | 5 | 27 |
 | 4 | Vélez | 14 | 7 | 4 | 3 | 9 | 25 |
 | 5 | San Lorenzo | 15 | 6 | 5 | 4 | 2 | 23 |
-| 6 | River Plate | 14 | 6 | 3 | 5 | 7 | 21 |
+| 6 | River Plate | 15 | 6 | 4 | 5 | 7 | 22 |
 | 7 | Talleres | 15 | 5 | 5 | 5 | -3 | 20 |
 | 8 | San Martín SJ | 15 | 4 | 7 | 4 | -1 | 19 |
 | 9 | Sarmiento | 14 | 4 | 4 | 6 | -5 | 16 |
@@ -440,10 +440,10 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Fluminense | 33 | 15 | 6 | 12 | 1 | 51 |
 | 8 | São Paulo | 33 | 12 | 9 | 12 | 1 | 45 |
 | 9 | Atlético Mineiro | 32 | 11 | 10 | 11 | 0 | 43 |
-| 10 | Corinthians | 33 | 11 | 10 | 12 | -2 | 43 |
-| 11 | Vasco da Gama | 33 | 12 | 6 | 15 | 1 | 42 |
-| 12 | RB Bragantino | 33 | 12 | 6 | 15 | -12 | 42 |
-| 13 | Ceará | 33 | 10 | 10 | 13 | 0 | 40 |
+| 10 | Vasco da Gama | 33 | 12 | 6 | 15 | 1 | 42 |
+| 11 | RB Bragantino | 33 | 12 | 6 | 15 | -12 | 42 |
+| 12 | Ceará | 33 | 11 | 9 | 13 | 1 | 42 |
+| 13 | Corinthians | 33 | 11 | 9 | 13 | -3 | 42 |
 | 14 | Grêmio | 32 | 10 | 9 | 13 | -8 | 39 |
 | 15 | Internacional | 33 | 9 | 10 | 14 | -9 | 37 |
 | 16 | Vitória | 33 | 8 | 11 | 14 | -18 | 35 |
