@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 09 November 2025, 11:37 AM UTC (Sunday, 09 November 2025, 05:07 PM IST)
+**Last Updated:** Sunday, 09 November 2025, 12:37 PM UTC (Sunday, 09 November 2025, 06:07 PM IST)
 
 ### Premier League
 
@@ -127,12 +127,12 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Juventus | 11 | 5 | 4 | 2 | 4 | 19 |
 | 6 | Bologna | 10 | 5 | 3 | 2 | 8 | 18 |
 | 7 | Como | 11 | 4 | 6 | 1 | 6 | 18 |
-| 8 | Lazio | 10 | 4 | 3 | 3 | 6 | 15 |
-| 9 | Udinese | 10 | 4 | 3 | 3 | -3 | 15 |
-| 10 | Atalanta | 11 | 2 | 8 | 1 | 5 | 14 |
+| 8 | Sassuolo | 11 | 5 | 1 | 5 | 0 | 16 |
+| 9 | Lazio | 10 | 4 | 3 | 3 | 6 | 15 |
+| 10 | Udinese | 10 | 4 | 3 | 3 | -3 | 15 |
 | 11 | Cremonese | 11 | 3 | 5 | 3 | -1 | 14 |
-| 12 | Sassuolo | 11 | 4 | 2 | 5 | -1 | 14 |
-| 13 | Torino | 11 | 3 | 5 | 3 | -6 | 14 |
+| 12 | Torino | 11 | 3 | 5 | 3 | -6 | 14 |
+| 13 | Atalanta | 11 | 2 | 7 | 2 | 4 | 13 |
 | 14 | Cagliari | 11 | 2 | 4 | 5 | -5 | 10 |
 | 15 | Lecce | 11 | 2 | 4 | 5 | -6 | 10 |
 | 16 | Pisa | 11 | 1 | 6 | 4 | -6 | 9 |
