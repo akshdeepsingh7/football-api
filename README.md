@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 09 November 2025, 01:40 PM UTC (Sunday, 09 November 2025, 07:10 PM IST)
+**Last Updated:** Sunday, 09 November 2025, 02:16 PM UTC (Sunday, 09 November 2025, 07:46 PM IST)
 
 ### Premier League
 
@@ -51,21 +51,21 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Chelsea | 11 | 6 | 2 | 3 | 10 | 20 |
 | 3 | Manchester City | 10 | 6 | 1 | 3 | 12 | 19 |
 | 4 | Sunderland | 11 | 5 | 4 | 2 | 4 | 19 |
-| 5 | Tottenham Hotspur | 11 | 5 | 3 | 3 | 9 | 18 |
-| 6 | Liverpool FC | 10 | 6 | 0 | 4 | 4 | 18 |
-| 7 | AFC Bournemouth | 10 | 5 | 3 | 2 | 3 | 18 |
+| 5 | AFC Bournemouth | 11 | 5 | 4 | 2 | 3 | 19 |
+| 6 | Tottenham Hotspur | 11 | 5 | 3 | 3 | 9 | 18 |
+| 7 | Liverpool FC | 10 | 6 | 0 | 4 | 4 | 18 |
 | 8 | Manchester United | 11 | 5 | 3 | 3 | 1 | 18 |
-| 9 | Crystal Palace | 10 | 4 | 4 | 2 | 5 | 16 |
-| 10 | Brighton & Hove Albion | 10 | 4 | 3 | 3 | 2 | 15 |
-| 11 | Everton | 11 | 4 | 3 | 4 | -1 | 15 |
-| 12 | Aston Villa | 10 | 4 | 3 | 3 | -1 | 15 |
-| 13 | Brentford | 10 | 4 | 1 | 5 | -2 | 13 |
-| 14 | Newcastle United | 10 | 3 | 3 | 4 | -1 | 12 |
-| 15 | Fulham | 11 | 3 | 2 | 6 | -4 | 11 |
-| 16 | Leeds United | 10 | 3 | 2 | 5 | -8 | 11 |
+| 9 | Crystal Palace | 11 | 4 | 5 | 2 | 5 | 17 |
+| 10 | Brighton & Hove Albion | 11 | 4 | 4 | 3 | 2 | 16 |
+| 11 | Aston Villa | 11 | 4 | 4 | 3 | -1 | 16 |
+| 12 | Everton | 11 | 4 | 3 | 4 | -1 | 15 |
+| 13 | Brentford | 11 | 4 | 2 | 5 | -2 | 14 |
+| 14 | Leeds United | 11 | 4 | 2 | 5 | -7 | 14 |
+| 15 | Newcastle United | 11 | 3 | 4 | 4 | -1 | 13 |
+| 16 | Fulham | 11 | 3 | 2 | 6 | -4 | 11 |
 | 17 | Burnley | 11 | 3 | 1 | 7 | -8 | 10 |
 | 18 | West Ham United | 11 | 3 | 1 | 7 | -10 | 10 |
-| 19 | Nottingham Forest | 10 | 1 | 3 | 6 | -12 | 6 |
+| 19 | Nottingham Forest | 11 | 1 | 3 | 7 | -13 | 6 |
 | 20 | Wolverhampton Wanderers | 11 | 0 | 2 | 9 | -18 | 2 |
 
 ### La Liga
@@ -120,12 +120,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Napoli | 10 | 7 | 1 | 2 | 8 | 22 |
+| 1 | Napoli | 11 | 7 | 2 | 2 | 8 | 23 |
 | 2 | Milan | 11 | 6 | 4 | 1 | 8 | 22 |
 | 3 | Inter | 10 | 7 | 0 | 3 | 12 | 21 |
 | 4 | Roma | 10 | 7 | 0 | 3 | 5 | 21 |
-| 5 | Juventus | 11 | 5 | 4 | 2 | 4 | 19 |
-| 6 | Bologna | 10 | 5 | 3 | 2 | 8 | 18 |
+| 5 | Bologna | 11 | 5 | 4 | 2 | 8 | 19 |
+| 6 | Juventus | 11 | 5 | 4 | 2 | 4 | 19 |
 | 7 | Como | 11 | 4 | 6 | 1 | 6 | 18 |
 | 8 | Sassuolo | 11 | 5 | 1 | 5 | 2 | 16 |
 | 9 | Lazio | 10 | 4 | 3 | 3 | 6 | 15 |
@@ -136,10 +136,10 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Cagliari | 11 | 2 | 4 | 5 | -5 | 10 |
 | 15 | Lecce | 11 | 2 | 4 | 5 | -6 | 10 |
 | 16 | Pisa | 11 | 1 | 6 | 4 | -6 | 9 |
-| 17 | Parma | 11 | 1 | 5 | 5 | -7 | 8 |
-| 18 | Genoa | 10 | 1 | 3 | 6 | -8 | 6 |
+| 17 | Genoa | 11 | 2 | 3 | 6 | -7 | 9 |
+| 18 | Parma | 11 | 1 | 5 | 5 | -7 | 8 |
 | 19 | Hellas Verona | 11 | 0 | 6 | 5 | -10 | 6 |
-| 20 | Fiorentina | 10 | 0 | 4 | 6 | -9 | 4 |
+| 20 | Fiorentina | 11 | 0 | 4 | 7 | -10 | 4 |
 
 ### Ligue 1
 
@@ -154,13 +154,13 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Strasbourg | 11 | 6 | 1 | 4 | 6 | 19 |
 | 8 | Rennes | 12 | 4 | 6 | 2 | 2 | 18 |
 | 9 | Nice | 11 | 5 | 2 | 4 | 0 | 17 |
-| 10 | Toulouse | 11 | 4 | 3 | 4 | 2 | 15 |
+| 10 | Toulouse | 12 | 4 | 4 | 4 | 2 | 16 |
 | 11 | Paris FC | 12 | 4 | 2 | 6 | -3 | 14 |
 | 12 | Le Havre | 12 | 3 | 5 | 4 | -4 | 14 |
 | 13 | Brest | 12 | 2 | 4 | 6 | -7 | 10 |
 | 14 | Nantes | 12 | 2 | 4 | 6 | -7 | 10 |
 | 15 | Angers | 11 | 2 | 4 | 5 | -7 | 10 |
-| 16 | Lorient | 11 | 2 | 3 | 6 | -12 | 9 |
+| 16 | Lorient | 12 | 2 | 4 | 6 | -12 | 10 |
 | 17 | Metz | 11 | 2 | 2 | 7 | -16 | 8 |
 | 18 | Auxerre | 11 | 2 | 1 | 8 | -10 | 7 |
 
