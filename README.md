@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 09 November 2025, 11:38 PM UTC (Monday, 10 November 2025, 05:08 AM IST)
+**Last Updated:** Monday, 10 November 2025, 01:43 AM UTC (Monday, 10 November 2025, 07:13 AM IST)
 
 ### Premier League
 
@@ -399,17 +399,17 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Boca Juniors | 15 | 7 | 5 | 3 | 14 | 26 |
 | 2 | Unión | 15 | 6 | 6 | 3 | 7 | 24 |
 | 3 | Córdoba SdE | 14 | 5 | 7 | 2 | 6 | 22 |
-| 4 | Barracas | 15 | 5 | 7 | 3 | 2 | 22 |
-| 5 | Racing Club | 15 | 6 | 4 | 5 | 2 | 22 |
-| 6 | Estudiantes | 14 | 6 | 3 | 5 | 1 | 21 |
-| 7 | Banfield | 15 | 6 | 3 | 6 | -5 | 21 |
-| 8 | Belgrano | 14 | 4 | 7 | 3 | 3 | 19 |
-| 9 | Tigre | 14 | 4 | 7 | 3 | 2 | 19 |
+| 4 | Tigre | 15 | 5 | 7 | 3 | 3 | 22 |
+| 5 | Barracas | 15 | 5 | 7 | 3 | 2 | 22 |
+| 6 | Racing Club | 15 | 6 | 4 | 5 | 2 | 22 |
+| 7 | Estudiantes | 15 | 6 | 3 | 6 | 0 | 21 |
+| 8 | Banfield | 15 | 6 | 2 | 7 | -6 | 20 |
+| 9 | Belgrano | 14 | 4 | 7 | 3 | 3 | 19 |
 | 10 | Def y Justicia | 15 | 5 | 4 | 6 | -3 | 19 |
 | 11 | Huracán | 15 | 5 | 4 | 6 | -5 | 19 |
 | 12 | Argentinos Juniors | 14 | 5 | 3 | 6 | 3 | 18 |
-| 13 | Newell's Old Boys | 15 | 3 | 5 | 7 | -9 | 14 |
-| 14 | Aldosivi | 15 | 3 | 4 | 8 | -8 | 13 |
+| 13 | Aldosivi | 15 | 4 | 3 | 8 | -7 | 15 |
+| 14 | Newell's Old Boys | 15 | 3 | 5 | 7 | -9 | 14 |
 | 15 | Independiente Rivadavia | 14 | 2 | 6 | 6 | -5 | 12 |
 | 1 | Rosario | 15 | 8 | 7 | 0 | 11 | 31 |
 | 2 | Riestra | 14 | 8 | 3 | 3 | 8 | 27 |
@@ -419,13 +419,13 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | River Plate | 15 | 6 | 3 | 6 | 5 | 21 |
 | 7 | Talleres | 15 | 5 | 5 | 5 | -3 | 20 |
 | 8 | San Martín SJ | 15 | 4 | 7 | 4 | -1 | 19 |
-| 9 | Sarmiento | 15 | 5 | 4 | 6 | -3 | 19 |
-| 10 | GELP | 14 | 5 | 1 | 8 | -7 | 16 |
-| 11 | Atl. Tucumán | 14 | 4 | 3 | 7 | -4 | 15 |
-| 12 | Instituto | 15 | 3 | 6 | 6 | -9 | 15 |
+| 9 | Sarmiento | 15 | 5 | 4 | 6 | -4 | 19 |
+| 10 | Atl. Tucumán | 15 | 5 | 3 | 7 | -3 | 18 |
+| 11 | GELP | 14 | 5 | 1 | 8 | -7 | 16 |
+| 12 | Instituto | 15 | 3 | 6 | 6 | -8 | 15 |
 | 13 | Independiente | 14 | 2 | 6 | 6 | -1 | 12 |
 | 14 | Platense | 15 | 2 | 6 | 7 | -10 | 12 |
-| 15 | Godoy Cruz | 14 | 1 | 8 | 5 | -7 | 11 |
+| 15 | Godoy Cruz | 15 | 1 | 8 | 6 | -8 | 11 |
 
 ### Brasileirão
 
@@ -444,12 +444,12 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | RB Bragantino | 33 | 12 | 6 | 15 | -12 | 42 |
 | 12 | Ceará | 33 | 11 | 9 | 13 | 1 | 42 |
 | 13 | Corinthians | 33 | 11 | 9 | 13 | -3 | 42 |
-| 14 | Grêmio | 33 | 10 | 9 | 14 | -9 | 39 |
+| 14 | Grêmio | 33 | 10 | 10 | 13 | -8 | 40 |
 | 15 | Internacional | 33 | 9 | 10 | 14 | -9 | 37 |
 | 16 | Vitória | 33 | 8 | 11 | 14 | -18 | 35 |
 | 17 | Santos | 32 | 8 | 9 | 15 | -15 | 33 |
 | 18 | Juventude | 33 | 9 | 5 | 19 | -30 | 32 |
-| 19 | Fortaleza | 32 | 8 | 8 | 16 | -16 | 32 |
+| 19 | Fortaleza | 32 | 7 | 9 | 16 | -17 | 30 |
 | 20 | Sport | 32 | 2 | 11 | 19 | -31 | 17 |
 
 
