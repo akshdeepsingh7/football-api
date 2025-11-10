@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 10 November 2025, 08:24 PM UTC",
-        "IST": "Tuesday, 11 November 2025, 01:54 AM IST"
+        "UTC": "Monday, 10 November 2025, 08:44 PM UTC",
+        "IST": "Tuesday, 11 November 2025, 02:14 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3104,10 +3104,10 @@
                 "Team": "V\u00e9lez",
                 "Played": "15",
                 "Wins": "7",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "9",
-                "Points": "26"
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "8",
+                "Points": "25"
             },
             {
                 "Position": "5",
@@ -3161,6 +3161,16 @@
             },
             {
                 "Position": "10",
+                "Team": "GELP",
+                "Played": "15",
+                "Wins": "6",
+                "Draws": "1",
+                "Losses": "8",
+                "Goal Difference": "-6",
+                "Points": "19"
+            },
+            {
+                "Position": "11",
                 "Team": "Atl. Tucum\u00e1n",
                 "Played": "15",
                 "Wins": "5",
@@ -3168,16 +3178,6 @@
                 "Losses": "7",
                 "Goal Difference": "-3",
                 "Points": "18"
-            },
-            {
-                "Position": "11",
-                "Team": "GELP",
-                "Played": "15",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "-7",
-                "Points": "17"
             },
             {
                 "Position": "12",
