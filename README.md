@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 10 November 2025, 11:38 PM UTC (Tuesday, 11 November 2025, 05:08 AM IST)
+**Last Updated:** Tuesday, 11 November 2025, 01:40 AM UTC (Tuesday, 11 November 2025, 07:10 AM IST)
 
 ### Premier League
 
@@ -398,21 +398,21 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Boca Juniors | 15 | 7 | 5 | 3 | 14 | 26 |
 | 2 | Unión | 15 | 6 | 6 | 3 | 7 | 24 |
-| 3 | Córdoba SdE | 14 | 5 | 7 | 2 | 6 | 22 |
+| 3 | Córdoba SdE | 15 | 5 | 8 | 2 | 6 | 23 |
 | 4 | Tigre | 15 | 5 | 7 | 3 | 3 | 22 |
 | 5 | Barracas | 15 | 5 | 7 | 3 | 2 | 22 |
 | 6 | Racing Club | 15 | 6 | 4 | 5 | 2 | 22 |
-| 7 | Estudiantes | 15 | 6 | 3 | 6 | 0 | 21 |
-| 8 | Banfield | 15 | 6 | 2 | 7 | -6 | 20 |
-| 9 | Belgrano | 14 | 4 | 7 | 3 | 3 | 19 |
-| 10 | Def y Justicia | 15 | 5 | 4 | 6 | -3 | 19 |
-| 11 | Huracán | 15 | 5 | 4 | 6 | -5 | 19 |
-| 12 | Argentinos Juniors | 14 | 5 | 3 | 6 | 3 | 18 |
+| 7 | Argentinos Juniors | 15 | 6 | 3 | 6 | 4 | 21 |
+| 8 | Estudiantes | 15 | 6 | 3 | 6 | 0 | 21 |
+| 9 | Banfield | 15 | 6 | 2 | 7 | -6 | 20 |
+| 10 | Belgrano | 15 | 4 | 7 | 4 | 2 | 19 |
+| 11 | Def y Justicia | 15 | 5 | 4 | 6 | -3 | 19 |
+| 12 | Huracán | 15 | 5 | 4 | 6 | -5 | 19 |
 | 13 | Aldosivi | 15 | 4 | 3 | 8 | -7 | 15 |
 | 14 | Newell's Old Boys | 15 | 3 | 5 | 7 | -9 | 14 |
-| 15 | Independiente Rivadavia | 14 | 2 | 6 | 6 | -5 | 12 |
+| 15 | Independiente Rivadavia | 15 | 2 | 7 | 6 | -5 | 13 |
 | 1 | Rosario | 15 | 8 | 7 | 0 | 11 | 31 |
-| 2 | Riestra | 15 | 8 | 4 | 3 | 8 | 28 |
+| 2 | Riestra | 15 | 8 | 3 | 4 | 7 | 27 |
 | 3 | Lanús | 15 | 8 | 3 | 4 | 5 | 27 |
 | 4 | Vélez | 15 | 7 | 4 | 4 | 7 | 25 |
 | 5 | San Lorenzo | 15 | 6 | 5 | 4 | 2 | 23 |
@@ -422,8 +422,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Sarmiento | 15 | 5 | 4 | 6 | -4 | 19 |
 | 10 | GELP | 15 | 6 | 1 | 8 | -5 | 19 |
 | 11 | Atl. Tucumán | 15 | 5 | 3 | 7 | -3 | 18 |
-| 12 | Instituto | 15 | 3 | 6 | 6 | -8 | 15 |
-| 13 | Independiente | 15 | 2 | 7 | 6 | -1 | 13 |
+| 12 | Independiente | 15 | 3 | 6 | 6 | 0 | 15 |
+| 13 | Instituto | 15 | 3 | 6 | 6 | -8 | 15 |
 | 14 | Platense | 15 | 2 | 6 | 7 | -10 | 12 |
 | 15 | Godoy Cruz | 15 | 1 | 8 | 6 | -8 | 11 |
 
