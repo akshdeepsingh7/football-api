@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 13 November 2025, 09:37 PM UTC (Friday, 14 November 2025, 03:07 AM IST)
+**Last Updated:** Thursday, 13 November 2025, 10:19 PM UTC (Friday, 14 November 2025, 03:49 AM IST)
 
 ### Premier League
 
@@ -289,7 +289,26 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Liga Portugal
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Porto | 11 | 10 | 1 | 0 | 21 | 31 |
+| 2 | Sporting CP | 11 | 9 | 1 | 1 | 21 | 28 |
+| 3 | Benfica | 11 | 7 | 4 | 0 | 17 | 25 |
+| 4 | Gil Vicente | 11 | 7 | 2 | 2 | 11 | 23 |
+| 5 | Famalicão | 11 | 5 | 4 | 2 | 6 | 19 |
+| 6 | Moreirense | 11 | 6 | 0 | 5 | 1 | 18 |
+| 7 | Braga | 11 | 4 | 4 | 3 | 8 | 16 |
+| 8 | Vitória S.C. | 11 | 4 | 2 | 5 | -7 | 14 |
+| 9 | Estoril | 11 | 3 | 4 | 4 | 2 | 13 |
+| 10 | Nacional | 11 | 3 | 3 | 5 | -4 | 12 |
+| 11 | Rio Ave | 11 | 2 | 6 | 3 | -5 | 12 |
+| 12 | Santa Clara | 11 | 3 | 2 | 6 | -4 | 11 |
+| 13 | Estrela Amadora | 11 | 2 | 5 | 4 | -1 | 11 |
+| 14 | Alverca | 11 | 3 | 2 | 6 | -7 | 11 |
+| 15 | Casa Pia | 11 | 2 | 3 | 6 | -11 | 9 |
+| 16 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
+| 17 | Tondela | 11 | 1 | 3 | 7 | -14 | 6 |
+| 18 | AVS | 11 | 0 | 3 | 8 | -17 | 3 |
 
 ### EFL Championship
 
