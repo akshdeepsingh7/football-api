@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 14 November 2025, 03:43 PM UTC (Friday, 14 November 2025, 09:13 PM IST)
+**Last Updated:** Friday, 14 November 2025, 04:28 PM UTC (Friday, 14 November 2025, 09:58 PM IST)
 
 ### Premier League
 
@@ -70,28 +70,7 @@ The latest league standings are displayed below in Markdown tables:
 
 ### La Liga
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Real Madrid | 12 | 10 | 1 | 1 | 16 | 31 |
-| 2 | Barcelona | 12 | 9 | 1 | 2 | 17 | 28 |
-| 3 | Villarreal | 12 | 8 | 2 | 2 | 14 | 26 |
-| 4 | Atlético de Madrid | 12 | 7 | 4 | 1 | 13 | 25 |
-| 5 | Real Betis | 12 | 5 | 5 | 2 | 6 | 20 |
-| 6 | Espanyol | 12 | 5 | 3 | 4 | 0 | 18 |
-| 7 | Athletic Bilbao | 12 | 5 | 2 | 5 | -1 | 17 |
-| 8 | Getafe | 12 | 5 | 2 | 5 | -2 | 17 |
-| 9 | Sevilla | 12 | 5 | 1 | 6 | -1 | 16 |
-| 10 | Alavés | 12 | 4 | 3 | 5 | 0 | 15 |
-| 11 | Elche | 12 | 3 | 6 | 3 | -1 | 15 |
-| 12 | Rayo Vallecano | 12 | 4 | 3 | 5 | -2 | 15 |
-| 13 | Celta de Vigo | 12 | 2 | 7 | 3 | -3 | 13 |
-| 14 | Real Sociedad | 12 | 3 | 4 | 5 | -3 | 13 |
-| 15 | Mallorca | 12 | 3 | 3 | 6 | -6 | 12 |
-| 16 | Osasuna | 12 | 3 | 2 | 7 | -4 | 11 |
-| 17 | Valencia | 12 | 2 | 4 | 6 | -10 | 10 |
-| 18 | Girona | 12 | 2 | 4 | 6 | -13 | 10 |
-| 19 | Levante | 12 | 2 | 3 | 7 | -7 | 9 |
-| 20 | Real Oviedo | 12 | 2 | 2 | 8 | -13 | 8 |
+Data not available.
 
 ### Bundesliga
 
