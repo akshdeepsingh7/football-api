@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 14 November 2025, 10:41 PM UTC",
-        "IST": "Saturday, 15 November 2025, 04:11 AM IST"
+        "UTC": "Friday, 14 November 2025, 11:18 PM UTC",
+        "IST": "Saturday, 15 November 2025, 04:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3081,22 +3081,22 @@
             },
             {
                 "Position": "2",
+                "Team": "Lan\u00fas",
+                "Played": "16",
+                "Wins": "9",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "6",
+                "Points": "30"
+            },
+            {
+                "Position": "3",
                 "Team": "Riestra",
                 "Played": "15",
                 "Wins": "8",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "7",
-                "Points": "27"
-            },
-            {
-                "Position": "3",
-                "Team": "Lan\u00fas",
-                "Played": "15",
-                "Wins": "8",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "5",
                 "Points": "27"
             },
             {
@@ -3172,11 +3172,11 @@
             {
                 "Position": "11",
                 "Team": "Atl. Tucum\u00e1n",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "5",
                 "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "-3",
+                "Losses": "8",
+                "Goal Difference": "-4",
                 "Points": "18"
             },
             {
