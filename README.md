@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 14 November 2025, 11:18 PM UTC (Saturday, 15 November 2025, 04:48 AM IST)
+**Last Updated:** Friday, 14 November 2025, 11:38 PM UTC (Saturday, 15 November 2025, 05:08 AM IST)
 
 ### Premier League
 
@@ -412,16 +412,16 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Newell's Old Boys | 15 | 3 | 5 | 7 | -9 | 14 |
 | 15 | Independiente Rivadavia | 15 | 2 | 7 | 6 | -5 | 13 |
 | 1 | Rosario | 15 | 8 | 7 | 0 | 11 | 31 |
-| 2 | Lanús | 16 | 9 | 3 | 4 | 6 | 30 |
+| 2 | Lanús | 16 | 8 | 4 | 4 | 5 | 28 |
 | 3 | Riestra | 15 | 8 | 3 | 4 | 7 | 27 |
 | 4 | Vélez | 15 | 7 | 4 | 4 | 7 | 25 |
 | 5 | San Lorenzo | 15 | 6 | 5 | 4 | 2 | 23 |
 | 6 | Club Atlético River Plate | 15 | 6 | 3 | 6 | 5 | 21 |
 | 7 | Talleres | 15 | 5 | 5 | 5 | -3 | 20 |
 | 8 | San Martín SJ | 15 | 4 | 7 | 4 | -1 | 19 |
-| 9 | Sarmiento | 15 | 5 | 4 | 6 | -4 | 19 |
-| 10 | GELP | 15 | 6 | 1 | 8 | -5 | 19 |
-| 11 | Atl. Tucumán | 16 | 5 | 3 | 8 | -4 | 18 |
+| 9 | Atl. Tucumán | 16 | 5 | 4 | 7 | -3 | 19 |
+| 10 | Sarmiento | 15 | 5 | 4 | 6 | -4 | 19 |
+| 11 | GELP | 15 | 6 | 1 | 8 | -5 | 19 |
 | 12 | Independiente | 15 | 3 | 6 | 6 | 0 | 15 |
 | 13 | Instituto | 15 | 3 | 6 | 6 | -8 | 15 |
 | 14 | Platense | 15 | 2 | 6 | 7 | -10 | 12 |
