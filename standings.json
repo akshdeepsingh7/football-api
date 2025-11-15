@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 15 November 2025, 09:37 PM UTC",
-        "IST": "Sunday, 16 November 2025, 03:07 AM IST"
+        "UTC": "Saturday, 15 November 2025, 10:16 PM UTC",
+        "IST": "Sunday, 16 November 2025, 03:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3043,11 +3043,11 @@
                 "Position": "13",
                 "Team": "Aldosivi",
                 "Played": "16",
-                "Wins": "4",
+                "Wins": "5",
                 "Draws": "3",
-                "Losses": "9",
-                "Goal Difference": "-8",
-                "Points": "15"
+                "Losses": "8",
+                "Goal Difference": "-5",
+                "Points": "18"
             },
             {
                 "Position": "14",
@@ -3121,16 +3121,6 @@
             },
             {
                 "Position": "6",
-                "Team": "San Mart\u00edn SJ",
-                "Played": "16",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "4",
-                "Goal Difference": "0",
-                "Points": "22"
-            },
-            {
-                "Position": "7",
                 "Team": "Club Atl\u00e9tico River Plate",
                 "Played": "15",
                 "Wins": "6",
@@ -3140,7 +3130,7 @@
                 "Points": "21"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Talleres",
                 "Played": "15",
                 "Wins": "5",
@@ -3148,6 +3138,16 @@
                 "Losses": "5",
                 "Goal Difference": "-3",
                 "Points": "20"
+            },
+            {
+                "Position": "8",
+                "Team": "San Mart\u00edn SJ",
+                "Played": "16",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "5",
+                "Goal Difference": "-3",
+                "Points": "19"
             },
             {
                 "Position": "9",
