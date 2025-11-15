@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 15 November 2025, 09:17 PM UTC (Sunday, 16 November 2025, 02:47 AM IST)
+**Last Updated:** Saturday, 15 November 2025, 09:37 PM UTC (Sunday, 16 November 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -408,7 +408,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Belgrano | 15 | 4 | 7 | 4 | 2 | 19 |
 | 11 | Def y Justicia | 15 | 5 | 4 | 6 | -3 | 19 |
 | 12 | Huracán | 15 | 5 | 4 | 6 | -5 | 19 |
-| 13 | Aldosivi | 16 | 4 | 4 | 8 | -7 | 16 |
+| 13 | Aldosivi | 16 | 4 | 3 | 9 | -8 | 15 |
 | 14 | Newell's Old Boys | 15 | 3 | 5 | 7 | -9 | 14 |
 | 15 | Independiente Rivadavia | 15 | 2 | 7 | 6 | -5 | 13 |
 | 1 | Rosario | 15 | 8 | 7 | 0 | 11 | 31 |
@@ -416,8 +416,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Riestra | 16 | 8 | 4 | 4 | 7 | 28 |
 | 4 | Vélez | 15 | 7 | 4 | 4 | 7 | 25 |
 | 5 | San Lorenzo | 15 | 6 | 5 | 4 | 2 | 23 |
-| 6 | Club Atlético River Plate | 15 | 6 | 3 | 6 | 5 | 21 |
-| 7 | San Martín SJ | 16 | 4 | 8 | 4 | -1 | 20 |
+| 6 | San Martín SJ | 16 | 5 | 7 | 4 | 0 | 22 |
+| 7 | Club Atlético River Plate | 15 | 6 | 3 | 6 | 5 | 21 |
 | 8 | Talleres | 15 | 5 | 5 | 5 | -3 | 20 |
 | 9 | Sarmiento | 15 | 5 | 4 | 6 | -4 | 19 |
 | 10 | GELP | 15 | 6 | 1 | 8 | -5 | 19 |
@@ -431,8 +431,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 32 | 21 | 5 | 6 | 30 | 68 |
-| 2 | Flamengo | 32 | 20 | 8 | 4 | 44 | 68 |
+| 1 | Flamengo | 33 | 20 | 9 | 4 | 44 | 69 |
+| 2 | Palmeiras | 32 | 21 | 5 | 6 | 30 | 68 |
 | 3 | Cruzeiro | 33 | 18 | 10 | 5 | 24 | 64 |
 | 4 | Mirassol | 33 | 16 | 11 | 6 | 21 | 59 |
 | 5 | Bahia | 33 | 15 | 8 | 10 | 4 | 53 |
@@ -450,7 +450,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Santos | 32 | 8 | 9 | 15 | -15 | 33 |
 | 18 | Juventude | 33 | 9 | 5 | 19 | -30 | 32 |
 | 19 | Fortaleza | 33 | 7 | 10 | 16 | -17 | 31 |
-| 20 | Sport | 32 | 2 | 11 | 19 | -31 | 17 |
+| 20 | Sport | 33 | 2 | 12 | 19 | -31 | 18 |
 
 
 <!-- END_TABLE -->
