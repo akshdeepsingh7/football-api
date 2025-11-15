@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 15 November 2025, 07:37 PM UTC",
-        "IST": "Sunday, 16 November 2025, 01:07 AM IST"
+        "UTC": "Saturday, 15 November 2025, 08:20 PM UTC",
+        "IST": "Sunday, 16 November 2025, 01:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3042,12 +3042,12 @@
             {
                 "Position": "13",
                 "Team": "Aldosivi",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "4",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "8",
                 "Goal Difference": "-7",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "14",
@@ -3092,12 +3092,12 @@
             {
                 "Position": "3",
                 "Team": "Riestra",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "8",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "7",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "4",
@@ -3131,6 +3131,16 @@
             },
             {
                 "Position": "7",
+                "Team": "San Mart\u00edn SJ",
+                "Played": "16",
+                "Wins": "4",
+                "Draws": "8",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "20"
+            },
+            {
+                "Position": "8",
                 "Team": "Talleres",
                 "Played": "15",
                 "Wins": "5",
@@ -3138,16 +3148,6 @@
                 "Losses": "5",
                 "Goal Difference": "-3",
                 "Points": "20"
-            },
-            {
-                "Position": "8",
-                "Team": "San Mart\u00edn SJ",
-                "Played": "15",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "19"
             },
             {
                 "Position": "9",
@@ -3201,6 +3201,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Godoy Cruz",
+                "Played": "16",
+                "Wins": "1",
+                "Draws": "9",
+                "Losses": "6",
+                "Goal Difference": "-8",
+                "Points": "12"
+            },
+            {
+                "Position": "15",
                 "Team": "Platense",
                 "Played": "15",
                 "Wins": "2",
@@ -3208,16 +3218,6 @@
                 "Losses": "7",
                 "Goal Difference": "-10",
                 "Points": "12"
-            },
-            {
-                "Position": "15",
-                "Team": "Godoy Cruz",
-                "Played": "15",
-                "Wins": "1",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "-8",
-                "Points": "11"
             }
         ],
         "Brasileir\u00e3o": [
