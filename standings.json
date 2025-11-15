@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 15 November 2025, 10:38 PM UTC",
-        "IST": "Sunday, 16 November 2025, 04:08 AM IST"
+        "UTC": "Saturday, 15 November 2025, 11:17 PM UTC",
+        "IST": "Sunday, 16 November 2025, 04:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3225,11 +3225,11 @@
                 "Position": "1",
                 "Team": "Flamengo",
                 "Played": "33",
-                "Wins": "20",
-                "Draws": "9",
+                "Wins": "21",
+                "Draws": "8",
                 "Losses": "4",
-                "Goal Difference": "44",
-                "Points": "69"
+                "Goal Difference": "48",
+                "Points": "71"
             },
             {
                 "Position": "2",
@@ -3416,10 +3416,10 @@
                 "Team": "Sport",
                 "Played": "33",
                 "Wins": "2",
-                "Draws": "12",
-                "Losses": "19",
-                "Goal Difference": "-31",
-                "Points": "18"
+                "Draws": "11",
+                "Losses": "20",
+                "Goal Difference": "-35",
+                "Points": "17"
             }
         ]
     }
