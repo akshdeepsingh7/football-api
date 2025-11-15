@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 15 November 2025, 10:16 PM UTC",
-        "IST": "Sunday, 16 November 2025, 03:46 AM IST"
+        "UTC": "Saturday, 15 November 2025, 10:38 PM UTC",
+        "IST": "Sunday, 16 November 2025, 04:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3101,6 +3101,16 @@
             },
             {
                 "Position": "4",
+                "Team": "San Lorenzo",
+                "Played": "16",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "3",
+                "Points": "26"
+            },
+            {
+                "Position": "5",
                 "Team": "V\u00e9lez",
                 "Played": "15",
                 "Wins": "7",
@@ -3108,16 +3118,6 @@
                 "Losses": "4",
                 "Goal Difference": "7",
                 "Points": "25"
-            },
-            {
-                "Position": "5",
-                "Team": "San Lorenzo",
-                "Played": "15",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "2",
-                "Points": "23"
             },
             {
                 "Position": "6",
@@ -3152,11 +3152,11 @@
             {
                 "Position": "9",
                 "Team": "Sarmiento",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "5",
                 "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "-4",
+                "Losses": "7",
+                "Goal Difference": "-5",
                 "Points": "19"
             },
             {
