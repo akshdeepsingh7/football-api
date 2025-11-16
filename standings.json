@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 16 November 2025, 09:38 PM UTC",
-        "IST": "Monday, 17 November 2025, 03:08 AM IST"
+        "UTC": "Sunday, 16 November 2025, 10:18 PM UTC",
+        "IST": "Monday, 17 November 2025, 03:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3304,31 +3304,31 @@
             {
                 "Position": "9",
                 "Team": "Atl\u00e9tico Mineiro",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "11",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "11",
                 "Goal Difference": "0",
-                "Points": "44"
+                "Points": "45"
             },
             {
                 "Position": "10",
+                "Team": "RB Bragantino",
+                "Played": "34",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-12",
+                "Points": "43"
+            },
+            {
+                "Position": "11",
                 "Team": "Vasco da Gama",
                 "Played": "33",
                 "Wins": "12",
                 "Draws": "6",
                 "Losses": "15",
                 "Goal Difference": "1",
-                "Points": "42"
-            },
-            {
-                "Position": "11",
-                "Team": "RB Bragantino",
-                "Played": "33",
-                "Wins": "12",
-                "Draws": "6",
-                "Losses": "15",
-                "Goal Difference": "-12",
                 "Points": "42"
             },
             {
