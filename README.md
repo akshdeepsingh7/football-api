@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 15 November 2025, 11:37 PM UTC (Sunday, 16 November 2025, 05:07 AM IST)
+**Last Updated:** Sunday, 16 November 2025, 01:44 AM UTC (Sunday, 16 November 2025, 07:14 AM IST)
 
 ### Premier League
 
@@ -411,18 +411,18 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Aldosivi | 16 | 5 | 3 | 8 | -5 | 18 |
 | 14 | Newell's Old Boys | 15 | 3 | 5 | 7 | -9 | 14 |
 | 15 | Independiente Rivadavia | 15 | 2 | 7 | 6 | -5 | 13 |
-| 1 | Rosario | 15 | 8 | 7 | 0 | 11 | 31 |
+| 1 | Rosario | 16 | 8 | 7 | 1 | 10 | 31 |
 | 2 | Lanús | 16 | 9 | 3 | 4 | 7 | 30 |
 | 3 | Riestra | 16 | 8 | 4 | 4 | 7 | 28 |
-| 4 | San Lorenzo | 16 | 7 | 5 | 4 | 3 | 26 |
-| 5 | Vélez | 15 | 7 | 4 | 4 | 7 | 25 |
+| 4 | Vélez | 15 | 7 | 4 | 4 | 7 | 25 |
+| 5 | San Lorenzo | 16 | 6 | 6 | 4 | 2 | 24 |
 | 6 | Club Atlético River Plate | 15 | 6 | 3 | 6 | 5 | 21 |
 | 7 | Talleres | 15 | 5 | 5 | 5 | -3 | 20 |
-| 8 | San Martín SJ | 16 | 4 | 7 | 5 | -3 | 19 |
-| 9 | Sarmiento | 16 | 5 | 4 | 7 | -5 | 19 |
+| 8 | Sarmiento | 16 | 5 | 5 | 6 | -4 | 20 |
+| 9 | San Martín SJ | 16 | 4 | 7 | 5 | -3 | 19 |
 | 10 | GELP | 15 | 6 | 1 | 8 | -5 | 19 |
-| 11 | Atl. Tucumán | 16 | 5 | 3 | 8 | -5 | 18 |
-| 12 | Independiente | 15 | 3 | 6 | 6 | 0 | 15 |
+| 11 | Independiente | 16 | 4 | 6 | 6 | 1 | 18 |
+| 12 | Atl. Tucumán | 16 | 5 | 3 | 8 | -5 | 18 |
 | 13 | Instituto | 15 | 3 | 6 | 6 | -8 | 15 |
 | 14 | Godoy Cruz | 16 | 1 | 9 | 6 | -8 | 12 |
 | 15 | Platense | 15 | 2 | 6 | 7 | -10 | 12 |
@@ -432,7 +432,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 33 | 21 | 8 | 4 | 48 | 71 |
-| 2 | Palmeiras | 32 | 21 | 5 | 6 | 30 | 68 |
+| 2 | Palmeiras | 33 | 21 | 6 | 6 | 30 | 69 |
 | 3 | Cruzeiro | 33 | 18 | 10 | 5 | 24 | 64 |
 | 4 | Mirassol | 33 | 16 | 11 | 6 | 21 | 59 |
 | 5 | Bahia | 33 | 15 | 8 | 10 | 4 | 53 |
@@ -447,7 +447,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Grêmio | 33 | 10 | 10 | 13 | -8 | 40 |
 | 15 | Internacional | 33 | 9 | 10 | 14 | -9 | 37 |
 | 16 | Vitória | 33 | 8 | 11 | 14 | -18 | 35 |
-| 17 | Santos | 32 | 8 | 9 | 15 | -15 | 33 |
+| 17 | Santos | 33 | 8 | 10 | 15 | -15 | 34 |
 | 18 | Juventude | 33 | 9 | 5 | 19 | -30 | 32 |
 | 19 | Fortaleza | 33 | 7 | 10 | 16 | -17 | 31 |
 | 20 | Sport | 33 | 2 | 11 | 20 | -35 | 17 |
