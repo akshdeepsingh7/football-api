@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 16 November 2025, 01:44 AM UTC",
-        "IST": "Sunday, 16 November 2025, 07:14 AM IST"
+        "UTC": "Sunday, 16 November 2025, 03:18 AM UTC",
+        "IST": "Sunday, 16 November 2025, 08:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3236,10 +3236,10 @@
                 "Team": "Palmeiras",
                 "Played": "33",
                 "Wins": "21",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "30",
-                "Points": "69"
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "29",
+                "Points": "68"
             },
             {
                 "Position": "3",
@@ -3373,6 +3373,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Santos",
+                "Played": "33",
+                "Wins": "9",
+                "Draws": "9",
+                "Losses": "15",
+                "Goal Difference": "-14",
+                "Points": "36"
+            },
+            {
+                "Position": "17",
                 "Team": "Vit\u00f3ria",
                 "Played": "33",
                 "Wins": "8",
@@ -3380,16 +3390,6 @@
                 "Losses": "14",
                 "Goal Difference": "-18",
                 "Points": "35"
-            },
-            {
-                "Position": "17",
-                "Team": "Santos",
-                "Played": "33",
-                "Wins": "8",
-                "Draws": "10",
-                "Losses": "15",
-                "Goal Difference": "-15",
-                "Points": "34"
             },
             {
                 "Position": "18",
