@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 17 November 2025, 07:38 PM UTC",
-        "IST": "Tuesday, 18 November 2025, 01:08 AM IST"
+        "UTC": "Monday, 17 November 2025, 08:24 PM UTC",
+        "IST": "Tuesday, 18 November 2025, 01:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2931,6 +2931,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Uni\u00f3n",
+                "Played": "16",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "3",
+                "Goal Difference": "7",
+                "Points": "25"
+            },
+            {
+                "Position": "3",
                 "Team": "Racing Club",
                 "Played": "16",
                 "Wins": "7",
@@ -2938,16 +2948,6 @@
                 "Losses": "5",
                 "Goal Difference": "3",
                 "Points": "25"
-            },
-            {
-                "Position": "3",
-                "Team": "Uni\u00f3n",
-                "Played": "15",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "7",
-                "Points": "24"
             },
             {
                 "Position": "4",
@@ -2972,12 +2972,12 @@
             {
                 "Position": "6",
                 "Team": "Barracas",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "5",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "3",
                 "Goal Difference": "2",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "7",
@@ -3012,31 +3012,31 @@
             {
                 "Position": "10",
                 "Team": "Belgrano",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "4",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "4",
                 "Goal Difference": "2",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "11",
-                "Team": "Def y Justicia",
-                "Played": "15",
+                "Team": "Hurac\u00e1n",
+                "Played": "16",
                 "Wins": "5",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "-3",
-                "Points": "19"
+                "Goal Difference": "-5",
+                "Points": "20"
             },
             {
                 "Position": "12",
-                "Team": "Hurac\u00e1n",
-                "Played": "15",
+                "Team": "Def y Justicia",
+                "Played": "16",
                 "Wins": "5",
                 "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "-5",
+                "Losses": "7",
+                "Goal Difference": "-4",
                 "Points": "19"
             },
             {
@@ -3051,6 +3051,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Independiente Rivadavia",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "-4",
+                "Points": "16"
+            },
+            {
+                "Position": "15",
                 "Team": "Newell's Old Boys",
                 "Played": "16",
                 "Wins": "3",
@@ -3058,16 +3068,6 @@
                 "Losses": "8",
                 "Goal Difference": "-10",
                 "Points": "14"
-            },
-            {
-                "Position": "15",
-                "Team": "Independiente Rivadavia",
-                "Played": "15",
-                "Wins": "2",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "13"
             },
             {
                 "Position": "1",
