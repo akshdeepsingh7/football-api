@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 17 November 2025, 08:24 PM UTC",
-        "IST": "Tuesday, 18 November 2025, 01:54 AM IST"
+        "UTC": "Monday, 17 November 2025, 08:42 PM UTC",
+        "IST": "Tuesday, 18 November 2025, 02:12 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2974,10 +2974,10 @@
                 "Team": "Barracas",
                 "Played": "16",
                 "Wins": "5",
-                "Draws": "8",
-                "Losses": "3",
-                "Goal Difference": "2",
-                "Points": "23"
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "1",
+                "Points": "22"
             },
             {
                 "Position": "7",
@@ -2991,6 +2991,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Hurac\u00e1n",
+                "Played": "16",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-4",
+                "Points": "22"
+            },
+            {
+                "Position": "9",
                 "Team": "Estudiantes",
                 "Played": "16",
                 "Wins": "6",
@@ -3000,7 +3010,7 @@
                 "Points": "21"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Banfield",
                 "Played": "16",
                 "Wins": "6",
@@ -3010,23 +3020,13 @@
                 "Points": "21"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Belgrano",
                 "Played": "16",
                 "Wins": "4",
                 "Draws": "8",
                 "Losses": "4",
                 "Goal Difference": "2",
-                "Points": "20"
-            },
-            {
-                "Position": "11",
-                "Team": "Hurac\u00e1n",
-                "Played": "16",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-5",
                 "Points": "20"
             },
             {
