@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 16 November 2025, 11:38 PM UTC (Monday, 17 November 2025, 05:08 AM IST)
+**Last Updated:** Monday, 17 November 2025, 01:41 AM UTC (Monday, 17 November 2025, 07:11 AM IST)
 
 ### Premier League
 
@@ -396,20 +396,20 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Boca Juniors | 16 | 7 | 6 | 3 | 14 | 27 |
-| 2 | Unión | 15 | 6 | 6 | 3 | 7 | 24 |
-| 3 | Córdoba SdE | 16 | 5 | 9 | 2 | 6 | 24 |
-| 4 | Tigre | 16 | 5 | 8 | 3 | 3 | 23 |
-| 5 | Racing Club | 16 | 6 | 5 | 5 | 2 | 23 |
-| 6 | Argentinos Juniors | 16 | 6 | 4 | 6 | 4 | 22 |
-| 7 | Barracas | 15 | 5 | 7 | 3 | 2 | 22 |
-| 8 | Estudiantes | 16 | 6 | 4 | 6 | 0 | 22 |
+| 1 | Boca Juniors | 16 | 8 | 5 | 3 | 16 | 29 |
+| 2 | Racing Club | 16 | 7 | 4 | 5 | 3 | 25 |
+| 3 | Unión | 15 | 6 | 6 | 3 | 7 | 24 |
+| 4 | Córdoba SdE | 16 | 5 | 9 | 2 | 6 | 24 |
+| 5 | Argentinos Juniors | 16 | 7 | 3 | 6 | 5 | 24 |
+| 6 | Barracas | 15 | 5 | 7 | 3 | 2 | 22 |
+| 7 | Tigre | 16 | 5 | 7 | 4 | 1 | 22 |
+| 8 | Estudiantes | 16 | 6 | 3 | 7 | -1 | 21 |
 | 9 | Banfield | 16 | 6 | 3 | 7 | -6 | 21 |
 | 10 | Belgrano | 15 | 4 | 7 | 4 | 2 | 19 |
 | 11 | Def y Justicia | 15 | 5 | 4 | 6 | -3 | 19 |
 | 12 | Huracán | 15 | 5 | 4 | 6 | -5 | 19 |
 | 13 | Aldosivi | 16 | 5 | 3 | 8 | -5 | 18 |
-| 14 | Newell's Old Boys | 16 | 3 | 6 | 7 | -9 | 15 |
+| 14 | Newell's Old Boys | 16 | 3 | 5 | 8 | -10 | 14 |
 | 15 | Independiente Rivadavia | 15 | 2 | 7 | 6 | -5 | 13 |
 | 1 | Rosario | 16 | 8 | 7 | 1 | 10 | 31 |
 | 2 | Lanús | 16 | 9 | 3 | 4 | 7 | 30 |

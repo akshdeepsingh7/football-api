@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 16 November 2025, 11:38 PM UTC",
-        "IST": "Monday, 17 November 2025, 05:08 AM IST"
+        "UTC": "Monday, 17 November 2025, 01:41 AM UTC",
+        "IST": "Monday, 17 November 2025, 07:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2923,14 +2923,24 @@
                 "Position": "1",
                 "Team": "Boca Juniors",
                 "Played": "16",
-                "Wins": "7",
-                "Draws": "6",
+                "Wins": "8",
+                "Draws": "5",
                 "Losses": "3",
-                "Goal Difference": "14",
-                "Points": "27"
+                "Goal Difference": "16",
+                "Points": "29"
             },
             {
                 "Position": "2",
+                "Team": "Racing Club",
+                "Played": "16",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "3",
+                "Points": "25"
+            },
+            {
+                "Position": "3",
                 "Team": "Uni\u00f3n",
                 "Played": "15",
                 "Wins": "6",
@@ -2940,7 +2950,7 @@
                 "Points": "24"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "C\u00f3rdoba SdE",
                 "Played": "16",
                 "Wins": "5",
@@ -2950,37 +2960,17 @@
                 "Points": "24"
             },
             {
-                "Position": "4",
-                "Team": "Tigre",
-                "Played": "16",
-                "Wins": "5",
-                "Draws": "8",
-                "Losses": "3",
-                "Goal Difference": "3",
-                "Points": "23"
-            },
-            {
                 "Position": "5",
-                "Team": "Racing Club",
+                "Team": "Argentinos Juniors",
                 "Played": "16",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "2",
-                "Points": "23"
+                "Wins": "7",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "5",
+                "Points": "24"
             },
             {
                 "Position": "6",
-                "Team": "Argentinos Juniors",
-                "Played": "16",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "4",
-                "Points": "22"
-            },
-            {
-                "Position": "7",
                 "Team": "Barracas",
                 "Played": "15",
                 "Wins": "5",
@@ -2990,14 +2980,24 @@
                 "Points": "22"
             },
             {
+                "Position": "7",
+                "Team": "Tigre",
+                "Played": "16",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "1",
+                "Points": "22"
+            },
+            {
                 "Position": "8",
                 "Team": "Estudiantes",
                 "Played": "16",
                 "Wins": "6",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "0",
-                "Points": "22"
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-1",
+                "Points": "21"
             },
             {
                 "Position": "9",
@@ -3054,10 +3054,10 @@
                 "Team": "Newell's Old Boys",
                 "Played": "16",
                 "Wins": "3",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-9",
-                "Points": "15"
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "-10",
+                "Points": "14"
             },
             {
                 "Position": "15",
