@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 17 November 2025, 10:19 PM UTC",
-        "IST": "Tuesday, 18 November 2025, 03:49 AM IST"
+        "UTC": "Monday, 17 November 2025, 10:42 PM UTC",
+        "IST": "Tuesday, 18 November 2025, 04:12 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3151,22 +3151,22 @@
             },
             {
                 "Position": "9",
+                "Team": "GELP",
+                "Played": "16",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "8",
+                "Goal Difference": "-5",
+                "Points": "20"
+            },
+            {
+                "Position": "10",
                 "Team": "San Mart\u00edn SJ",
                 "Played": "16",
                 "Wins": "4",
                 "Draws": "7",
                 "Losses": "5",
                 "Goal Difference": "-3",
-                "Points": "19"
-            },
-            {
-                "Position": "10",
-                "Team": "GELP",
-                "Played": "15",
-                "Wins": "6",
-                "Draws": "1",
-                "Losses": "8",
-                "Goal Difference": "-5",
                 "Points": "19"
             },
             {
@@ -3201,22 +3201,22 @@
             },
             {
                 "Position": "14",
+                "Team": "Platense",
+                "Played": "16",
+                "Wins": "2",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "-10",
+                "Points": "13"
+            },
+            {
+                "Position": "15",
                 "Team": "Godoy Cruz",
                 "Played": "16",
                 "Wins": "1",
                 "Draws": "9",
                 "Losses": "6",
                 "Goal Difference": "-8",
-                "Points": "12"
-            },
-            {
-                "Position": "15",
-                "Team": "Platense",
-                "Played": "15",
-                "Wins": "2",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-10",
                 "Points": "12"
             }
         ],
