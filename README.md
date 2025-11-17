@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 17 November 2025, 10:42 PM UTC (Tuesday, 18 November 2025, 04:12 AM IST)
+**Last Updated:** Monday, 17 November 2025, 11:18 PM UTC (Tuesday, 18 November 2025, 04:48 AM IST)
 
 ### Premier League
 
@@ -417,15 +417,15 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Vélez | 16 | 7 | 5 | 4 | 7 | 26 |
 | 5 | San Lorenzo | 16 | 6 | 6 | 4 | 2 | 24 |
 | 6 | Club Atlético River Plate | 16 | 6 | 4 | 6 | 5 | 22 |
-| 7 | Talleres | 16 | 5 | 6 | 5 | -3 | 21 |
-| 8 | Sarmiento | 16 | 5 | 5 | 6 | -4 | 20 |
-| 9 | GELP | 16 | 6 | 2 | 8 | -5 | 20 |
+| 7 | GELP | 16 | 7 | 1 | 8 | -3 | 22 |
+| 8 | Talleres | 16 | 5 | 6 | 5 | -3 | 21 |
+| 9 | Sarmiento | 16 | 5 | 5 | 6 | -4 | 20 |
 | 10 | San Martín SJ | 16 | 4 | 7 | 5 | -3 | 19 |
 | 11 | Independiente | 16 | 4 | 6 | 6 | 1 | 18 |
 | 12 | Atl. Tucumán | 16 | 5 | 3 | 8 | -5 | 18 |
 | 13 | Instituto | 16 | 3 | 7 | 6 | -8 | 16 |
-| 14 | Platense | 16 | 2 | 7 | 7 | -10 | 13 |
-| 15 | Godoy Cruz | 16 | 1 | 9 | 6 | -8 | 12 |
+| 14 | Godoy Cruz | 16 | 1 | 9 | 6 | -8 | 12 |
+| 15 | Platense | 16 | 2 | 6 | 8 | -12 | 12 |
 
 ### Brasileirão
 
