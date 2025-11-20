@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 20 November 2025, 01:38 AM UTC",
-        "IST": "Thursday, 20 November 2025, 07:08 AM IST"
+        "UTC": "Thursday, 20 November 2025, 03:09 AM UTC",
+        "IST": "Thursday, 20 November 2025, 08:39 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3228,7 +3228,7 @@
                 "Wins": "21",
                 "Draws": "8",
                 "Losses": "5",
-                "Goal Difference": "46",
+                "Goal Difference": "47",
                 "Points": "71"
             },
             {
@@ -3256,10 +3256,10 @@
                 "Team": "Mirassol",
                 "Played": "34",
                 "Wins": "16",
-                "Draws": "11",
-                "Losses": "7",
-                "Goal Difference": "20",
-                "Points": "59"
+                "Draws": "12",
+                "Losses": "6",
+                "Goal Difference": "21",
+                "Points": "60"
             },
             {
                 "Position": "5",
@@ -3278,7 +3278,7 @@
                 "Wins": "16",
                 "Draws": "6",
                 "Losses": "12",
-                "Goal Difference": "3",
+                "Goal Difference": "2",
                 "Points": "54"
             },
             {
@@ -3323,16 +3323,26 @@
             },
             {
                 "Position": "11",
-                "Team": "Vasco da Gama",
+                "Team": "Gr\u00eamio",
                 "Played": "34",
-                "Wins": "12",
-                "Draws": "7",
-                "Losses": "15",
-                "Goal Difference": "1",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "13",
+                "Goal Difference": "-6",
                 "Points": "43"
             },
             {
                 "Position": "12",
+                "Team": "Vasco da Gama",
+                "Played": "34",
+                "Wins": "12",
+                "Draws": "6",
+                "Losses": "16",
+                "Goal Difference": "-1",
+                "Points": "42"
+            },
+            {
+                "Position": "13",
                 "Team": "Cear\u00e1",
                 "Played": "33",
                 "Wins": "11",
@@ -3342,7 +3352,7 @@
                 "Points": "42"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Corinthians",
                 "Played": "33",
                 "Wins": "11",
@@ -3352,33 +3362,23 @@
                 "Points": "42"
             },
             {
-                "Position": "14",
-                "Team": "Gr\u00eamio",
-                "Played": "34",
-                "Wins": "10",
-                "Draws": "11",
-                "Losses": "13",
-                "Goal Difference": "-8",
-                "Points": "41"
-            },
-            {
                 "Position": "15",
-                "Team": "Santos",
-                "Played": "34",
-                "Wins": "10",
-                "Draws": "9",
-                "Losses": "15",
-                "Goal Difference": "-13",
-                "Points": "39"
-            },
-            {
-                "Position": "16",
                 "Team": "Internacional",
                 "Played": "33",
                 "Wins": "9",
                 "Draws": "10",
                 "Losses": "14",
                 "Goal Difference": "-9",
+                "Points": "37"
+            },
+            {
+                "Position": "16",
+                "Team": "Santos",
+                "Played": "34",
+                "Wins": "9",
+                "Draws": "10",
+                "Losses": "15",
+                "Goal Difference": "-14",
                 "Points": "37"
             },
             {
