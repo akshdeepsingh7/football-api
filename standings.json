@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 20 November 2025, 09:18 PM UTC",
-        "IST": "Friday, 21 November 2025, 02:48 AM IST"
+        "UTC": "Thursday, 20 November 2025, 09:36 PM UTC",
+        "IST": "Friday, 21 November 2025, 03:06 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3286,10 +3286,10 @@
                 "Team": "Bahia",
                 "Played": "34",
                 "Wins": "15",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "4",
-                "Points": "54"
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "3",
+                "Points": "53"
             },
             {
                 "Position": "8",
@@ -3393,6 +3393,16 @@
             },
             {
                 "Position": "18",
+                "Team": "Fortaleza",
+                "Played": "34",
+                "Wins": "8",
+                "Draws": "10",
+                "Losses": "16",
+                "Goal Difference": "-16",
+                "Points": "34"
+            },
+            {
+                "Position": "19",
                 "Team": "Juventude",
                 "Played": "34",
                 "Wins": "9",
@@ -3400,16 +3410,6 @@
                 "Losses": "19",
                 "Goal Difference": "-30",
                 "Points": "33"
-            },
-            {
-                "Position": "19",
-                "Team": "Fortaleza",
-                "Played": "34",
-                "Wins": "7",
-                "Draws": "11",
-                "Losses": "16",
-                "Goal Difference": "-17",
-                "Points": "32"
             },
             {
                 "Position": "20",
