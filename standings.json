@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 20 November 2025, 06:30 PM UTC",
-        "IST": "Friday, 21 November 2025, 12:00 AM IST"
+        "UTC": "Thursday, 20 November 2025, 07:16 PM UTC",
+        "IST": "Friday, 21 November 2025, 12:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3244,11 +3244,11 @@
             {
                 "Position": "3",
                 "Team": "Cruzeiro",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "18",
                 "Draws": "10",
-                "Losses": "5",
-                "Goal Difference": "24",
+                "Losses": "6",
+                "Goal Difference": "23",
                 "Points": "64"
             },
             {
@@ -3394,12 +3394,12 @@
             {
                 "Position": "18",
                 "Team": "Juventude",
-                "Played": "33",
-                "Wins": "9",
+                "Played": "34",
+                "Wins": "10",
                 "Draws": "5",
                 "Losses": "19",
-                "Goal Difference": "-30",
-                "Points": "32"
+                "Goal Difference": "-29",
+                "Points": "35"
             },
             {
                 "Position": "19",
