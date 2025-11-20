@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 19 November 2025, 11:38 PM UTC",
-        "IST": "Thursday, 20 November 2025, 05:08 AM IST"
+        "UTC": "Thursday, 20 November 2025, 01:38 AM UTC",
+        "IST": "Thursday, 20 November 2025, 07:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3224,11 +3224,11 @@
             {
                 "Position": "1",
                 "Team": "Flamengo",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "21",
                 "Draws": "8",
-                "Losses": "4",
-                "Goal Difference": "48",
+                "Losses": "5",
+                "Goal Difference": "46",
                 "Points": "71"
             },
             {
@@ -3254,11 +3254,11 @@
             {
                 "Position": "4",
                 "Team": "Mirassol",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "16",
                 "Draws": "11",
-                "Losses": "6",
-                "Goal Difference": "21",
+                "Losses": "7",
+                "Goal Difference": "20",
                 "Points": "59"
             },
             {
@@ -3273,6 +3273,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Fluminense",
+                "Played": "34",
+                "Wins": "16",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "3",
+                "Points": "54"
+            },
+            {
+                "Position": "7",
                 "Team": "Bahia",
                 "Played": "33",
                 "Wins": "15",
@@ -3280,16 +3290,6 @@
                 "Losses": "10",
                 "Goal Difference": "4",
                 "Points": "53"
-            },
-            {
-                "Position": "7",
-                "Team": "Fluminense",
-                "Played": "33",
-                "Wins": "15",
-                "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "1",
-                "Points": "51"
             },
             {
                 "Position": "8",
@@ -3324,12 +3324,12 @@
             {
                 "Position": "11",
                 "Team": "Vasco da Gama",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "12",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "15",
                 "Goal Difference": "1",
-                "Points": "42"
+                "Points": "43"
             },
             {
                 "Position": "12",
@@ -3354,15 +3354,25 @@
             {
                 "Position": "14",
                 "Team": "Gr\u00eamio",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "10",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "13",
                 "Goal Difference": "-8",
-                "Points": "40"
+                "Points": "41"
             },
             {
                 "Position": "15",
+                "Team": "Santos",
+                "Played": "34",
+                "Wins": "10",
+                "Draws": "9",
+                "Losses": "15",
+                "Goal Difference": "-13",
+                "Points": "39"
+            },
+            {
+                "Position": "16",
                 "Team": "Internacional",
                 "Played": "33",
                 "Wins": "9",
@@ -3370,16 +3380,6 @@
                 "Losses": "14",
                 "Goal Difference": "-9",
                 "Points": "37"
-            },
-            {
-                "Position": "16",
-                "Team": "Santos",
-                "Played": "33",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "15",
-                "Goal Difference": "-14",
-                "Points": "36"
             },
             {
                 "Position": "17",
