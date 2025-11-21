@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 21 November 2025, 09:18 PM UTC",
-        "IST": "Saturday, 22 November 2025, 02:48 AM IST"
+        "UTC": "Friday, 21 November 2025, 09:38 PM UTC",
+        "IST": "Saturday, 22 November 2025, 03:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -800,7 +800,7 @@
                 "Wins": "9",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "20",
+                "Goal Difference": "21",
                 "Points": "28"
             },
             {
@@ -880,7 +880,7 @@
                 "Wins": "5",
                 "Draws": "2",
                 "Losses": "6",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "17"
             },
             {
@@ -2278,10 +2278,10 @@
                 "Team": "Preston North End",
                 "Played": "16",
                 "Wins": "7",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "6",
-                "Points": "27"
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "5",
+                "Points": "26"
             },
             {
                 "Position": "5",
@@ -2395,6 +2395,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Blackburn Rovers",
+                "Played": "15",
+                "Wins": "6",
+                "Draws": "1",
+                "Losses": "8",
+                "Goal Difference": "-4",
+                "Points": "19"
+            },
+            {
+                "Position": "17",
                 "Team": "Queens Park Rangers",
                 "Played": "15",
                 "Wins": "5",
@@ -2404,7 +2414,7 @@
                 "Points": "19"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Southampton",
                 "Played": "15",
                 "Wins": "4",
@@ -2414,23 +2424,13 @@
                 "Points": "18"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Swansea City",
                 "Played": "15",
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "-4",
-                "Points": "17"
-            },
-            {
-                "Position": "19",
-                "Team": "Blackburn Rovers",
-                "Played": "15",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "-5",
                 "Points": "17"
             },
             {

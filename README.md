@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 21 November 2025, 09:18 PM UTC (Saturday, 22 November 2025, 02:48 AM IST)
+**Last Updated:** Friday, 21 November 2025, 09:38 PM UTC (Saturday, 22 November 2025, 03:08 AM IST)
 
 ### Premier League
 
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Marseille | 13 | 9 | 1 | 3 | 20 | 28 |
+| 1 | Marseille | 13 | 9 | 1 | 3 | 21 | 28 |
 | 2 | PSG | 12 | 8 | 3 | 1 | 13 | 27 |
 | 3 | Lens | 12 | 8 | 1 | 3 | 10 | 25 |
 | 4 | Strasbourg | 12 | 7 | 1 | 4 | 8 | 22 |
@@ -153,7 +153,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Monaco | 12 | 6 | 2 | 4 | 3 | 20 |
 | 7 | Lyon | 12 | 6 | 2 | 4 | 3 | 20 |
 | 8 | Rennes | 12 | 4 | 6 | 2 | 2 | 18 |
-| 9 | Nice | 13 | 5 | 2 | 6 | -4 | 17 |
+| 9 | Nice | 13 | 5 | 2 | 6 | -5 | 17 |
 | 10 | Toulouse | 12 | 4 | 4 | 4 | 2 | 16 |
 | 11 | Paris FC | 12 | 4 | 2 | 6 | -3 | 14 |
 | 12 | Le Havre | 12 | 3 | 5 | 4 | -4 | 14 |
@@ -317,7 +317,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Coventry City | 15 | 10 | 4 | 1 | 27 | 34 |
 | 2 | Middlesbrough | 15 | 8 | 5 | 2 | 6 | 29 |
 | 3 | Stoke City | 15 | 8 | 3 | 4 | 11 | 27 |
-| 4 | Preston North End | 16 | 7 | 6 | 3 | 6 | 27 |
+| 4 | Preston North End | 16 | 7 | 5 | 4 | 5 | 26 |
 | 5 | Hull City | 15 | 7 | 4 | 4 | 2 | 25 |
 | 6 | Millwall | 15 | 7 | 4 | 4 | -3 | 25 |
 | 7 | Ipswich Town | 14 | 6 | 5 | 3 | 10 | 23 |
@@ -329,10 +329,10 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Wrexham | 15 | 5 | 6 | 4 | 1 | 21 |
 | 14 | West Bromwich Albion | 15 | 6 | 3 | 6 | -2 | 21 |
 | 15 | Watford | 15 | 5 | 5 | 5 | 1 | 20 |
-| 16 | Queens Park Rangers | 15 | 5 | 4 | 6 | -6 | 19 |
-| 17 | Southampton | 15 | 4 | 6 | 5 | -3 | 18 |
-| 18 | Swansea City | 15 | 4 | 5 | 6 | -4 | 17 |
-| 19 | Blackburn Rovers | 15 | 5 | 2 | 8 | -5 | 17 |
+| 16 | Blackburn Rovers | 15 | 6 | 1 | 8 | -4 | 19 |
+| 17 | Queens Park Rangers | 15 | 5 | 4 | 6 | -6 | 19 |
+| 18 | Southampton | 15 | 4 | 6 | 5 | -3 | 18 |
+| 19 | Swansea City | 15 | 4 | 5 | 6 | -4 | 17 |
 | 20 | Portsmouth | 15 | 3 | 5 | 7 | -8 | 14 |
 | 21 | Oxford United | 15 | 3 | 4 | 8 | -6 | 13 |
 | 22 | Sheffield United | 15 | 3 | 1 | 11 | -15 | 10 |
