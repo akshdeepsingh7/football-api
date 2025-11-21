@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 21 November 2025, 01:39 AM UTC (Friday, 21 November 2025, 07:09 AM IST)
+**Last Updated:** Friday, 21 November 2025, 03:10 AM UTC (Friday, 21 November 2025, 08:40 AM IST)
 
 ### Premier League
 
@@ -442,10 +442,10 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | São Paulo | 34 | 12 | 9 | 13 | -1 | 45 |
 | 10 | Corinthians | 34 | 12 | 9 | 13 | -1 | 45 |
 | 11 | Atlético Mineiro | 34 | 11 | 11 | 12 | -2 | 44 |
-| 12 | Ceará | 34 | 11 | 10 | 13 | 1 | 43 |
-| 13 | Grêmio | 34 | 11 | 10 | 13 | -6 | 43 |
-| 14 | Vasco da Gama | 34 | 12 | 6 | 16 | -1 | 42 |
-| 15 | Internacional | 34 | 9 | 11 | 14 | -9 | 38 |
+| 12 | Grêmio | 34 | 11 | 10 | 13 | -6 | 43 |
+| 13 | Vasco da Gama | 34 | 12 | 6 | 16 | -1 | 42 |
+| 14 | Ceará | 34 | 11 | 9 | 14 | 0 | 42 |
+| 15 | Internacional | 34 | 10 | 10 | 14 | -8 | 40 |
 | 16 | Santos | 34 | 9 | 10 | 15 | -14 | 37 |
 | 17 | Vitória | 34 | 8 | 12 | 14 | -18 | 36 |
 | 18 | Fortaleza | 34 | 8 | 10 | 16 | -16 | 34 |
