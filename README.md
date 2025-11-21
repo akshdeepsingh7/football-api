@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 21 November 2025, 08:42 PM UTC (Saturday, 22 November 2025, 02:12 AM IST)
+**Last Updated:** Friday, 21 November 2025, 09:18 PM UTC (Saturday, 22 November 2025, 02:48 AM IST)
 
 ### Premier League
 
@@ -99,10 +99,10 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 10 | 9 | 1 | 0 | 29 | 28 |
 | 2 | RB Leipzig | 10 | 7 | 1 | 2 | 7 | 22 |
-| 3 | Hoffenheim | 11 | 7 | 1 | 3 | 6 | 22 |
-| 4 | Borussia Dortmund | 10 | 6 | 3 | 1 | 9 | 21 |
-| 5 | VfB Stuttgart | 10 | 7 | 0 | 3 | 5 | 21 |
-| 6 | Bayer Leverkusen | 10 | 6 | 2 | 2 | 10 | 20 |
+| 3 | Borussia Dortmund | 10 | 6 | 3 | 1 | 9 | 21 |
+| 4 | VfB Stuttgart | 10 | 7 | 0 | 3 | 5 | 21 |
+| 5 | Bayer Leverkusen | 10 | 6 | 2 | 2 | 10 | 20 |
+| 6 | Hoffenheim | 11 | 6 | 2 | 3 | 5 | 20 |
 | 7 | Eintracht Frankfurt | 10 | 5 | 2 | 3 | 4 | 17 |
 | 8 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
 | 9 | Köln | 10 | 4 | 2 | 4 | 2 | 14 |
@@ -113,7 +113,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | VfL Wolfsburg | 10 | 2 | 2 | 6 | -6 | 8 |
 | 15 | Augsburg | 10 | 2 | 1 | 7 | -10 | 7 |
 | 16 | St. Pauli | 10 | 2 | 1 | 7 | -11 | 7 |
-| 17 | Mainz 05 | 11 | 1 | 2 | 8 | -9 | 5 |
+| 17 | Mainz 05 | 11 | 1 | 3 | 7 | -8 | 6 |
 | 18 | Heidenheim | 10 | 1 | 2 | 7 | -15 | 5 |
 
 ### Serie A
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Marseille | 13 | 9 | 1 | 3 | 19 | 28 |
+| 1 | Marseille | 13 | 9 | 1 | 3 | 20 | 28 |
 | 2 | PSG | 12 | 8 | 3 | 1 | 13 | 27 |
 | 3 | Lens | 12 | 8 | 1 | 3 | 10 | 25 |
 | 4 | Strasbourg | 12 | 7 | 1 | 4 | 8 | 22 |
@@ -153,7 +153,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Monaco | 12 | 6 | 2 | 4 | 3 | 20 |
 | 7 | Lyon | 12 | 6 | 2 | 4 | 3 | 20 |
 | 8 | Rennes | 12 | 4 | 6 | 2 | 2 | 18 |
-| 9 | Nice | 13 | 5 | 2 | 6 | -3 | 17 |
+| 9 | Nice | 13 | 5 | 2 | 6 | -4 | 17 |
 | 10 | Toulouse | 12 | 4 | 4 | 4 | 2 | 16 |
 | 11 | Paris FC | 12 | 4 | 2 | 6 | -3 | 14 |
 | 12 | Le Havre | 12 | 3 | 5 | 4 | -4 | 14 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 21 November 2025, 08:42 PM UTC",
-        "IST": "Saturday, 22 November 2025, 02:12 AM IST"
+        "UTC": "Friday, 21 November 2025, 09:18 PM UTC",
+        "IST": "Saturday, 22 November 2025, 02:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -431,16 +431,6 @@
             },
             {
                 "Position": "3",
-                "Team": "Hoffenheim",
-                "Played": "11",
-                "Wins": "7",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "6",
-                "Points": "22"
-            },
-            {
-                "Position": "4",
                 "Team": "Borussia Dortmund",
                 "Played": "10",
                 "Wins": "6",
@@ -450,7 +440,7 @@
                 "Points": "21"
             },
             {
-                "Position": "5",
+                "Position": "4",
                 "Team": "VfB Stuttgart",
                 "Played": "10",
                 "Wins": "7",
@@ -460,13 +450,23 @@
                 "Points": "21"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Bayer Leverkusen",
                 "Played": "10",
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "10",
+                "Points": "20"
+            },
+            {
+                "Position": "6",
+                "Team": "Hoffenheim",
+                "Played": "11",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "5",
                 "Points": "20"
             },
             {
@@ -574,10 +574,10 @@
                 "Team": "Mainz 05",
                 "Played": "11",
                 "Wins": "1",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "-9",
-                "Points": "5"
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-8",
+                "Points": "6"
             },
             {
                 "Position": "18",
@@ -800,7 +800,7 @@
                 "Wins": "9",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "19",
+                "Goal Difference": "20",
                 "Points": "28"
             },
             {
@@ -880,7 +880,7 @@
                 "Wins": "5",
                 "Draws": "2",
                 "Losses": "6",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "17"
             },
             {
