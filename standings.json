@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 21 November 2025, 09:38 PM UTC",
-        "IST": "Saturday, 22 November 2025, 03:08 AM IST"
+        "UTC": "Friday, 21 November 2025, 10:20 PM UTC",
+        "IST": "Saturday, 22 November 2025, 03:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -349,6 +349,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Valencia",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-9",
+                "Points": "13"
+            },
+            {
+                "Position": "16",
                 "Team": "Mallorca",
                 "Played": "12",
                 "Wins": "3",
@@ -358,7 +368,7 @@
                 "Points": "12"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Osasuna",
                 "Played": "12",
                 "Wins": "3",
@@ -368,27 +378,7 @@
                 "Points": "11"
             },
             {
-                "Position": "17",
-                "Team": "Valencia",
-                "Played": "13",
-                "Wins": "2",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-10",
-                "Points": "11"
-            },
-            {
                 "Position": "18",
-                "Team": "Levante",
-                "Played": "13",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-7",
-                "Points": "10"
-            },
-            {
-                "Position": "19",
                 "Team": "Girona",
                 "Played": "12",
                 "Wins": "2",
@@ -396,6 +386,16 @@
                 "Losses": "6",
                 "Goal Difference": "-13",
                 "Points": "10"
+            },
+            {
+                "Position": "19",
+                "Team": "Levante",
+                "Played": "13",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-8",
+                "Points": "9"
             },
             {
                 "Position": "20",
