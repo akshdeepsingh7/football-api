@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 20 November 2025, 11:39 PM UTC",
-        "IST": "Friday, 21 November 2025, 05:09 AM IST"
+        "UTC": "Friday, 21 November 2025, 01:39 AM UTC",
+        "IST": "Friday, 21 November 2025, 07:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3308,7 +3308,7 @@
                 "Wins": "12",
                 "Draws": "9",
                 "Losses": "13",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "45"
             },
             {
@@ -3318,7 +3318,7 @@
                 "Wins": "12",
                 "Draws": "9",
                 "Losses": "13",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "45"
             },
             {
@@ -3333,6 +3333,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Cear\u00e1",
+                "Played": "34",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "13",
+                "Goal Difference": "1",
+                "Points": "43"
+            },
+            {
+                "Position": "13",
                 "Team": "Gr\u00eamio",
                 "Played": "34",
                 "Wins": "11",
@@ -3342,7 +3352,7 @@
                 "Points": "43"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Vasco da Gama",
                 "Played": "34",
                 "Wins": "12",
@@ -3352,24 +3362,14 @@
                 "Points": "42"
             },
             {
-                "Position": "14",
-                "Team": "Cear\u00e1",
-                "Played": "33",
-                "Wins": "11",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "1",
-                "Points": "42"
-            },
-            {
                 "Position": "15",
                 "Team": "Internacional",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "9",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "14",
                 "Goal Difference": "-9",
-                "Points": "37"
+                "Points": "38"
             },
             {
                 "Position": "16",
