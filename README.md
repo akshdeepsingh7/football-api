@@ -41,15 +41,15 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 22 November 2025, 05:16 PM UTC (Saturday, 22 November 2025, 10:46 PM IST)
+**Last Updated:** Saturday, 22 November 2025, 05:38 PM UTC (Saturday, 22 November 2025, 11:08 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 11 | 8 | 2 | 1 | 15 | 26 |
-| 2 | Chelsea | 12 | 7 | 2 | 3 | 12 | 23 |
-| 3 | Manchester City | 11 | 7 | 1 | 3 | 15 | 22 |
+| 2 | Manchester City | 12 | 7 | 2 | 3 | 15 | 23 |
+| 3 | Chelsea | 12 | 7 | 2 | 3 | 12 | 23 |
 | 4 | Crystal Palace | 12 | 5 | 5 | 2 | 7 | 20 |
 | 5 | Brighton & Hove Albion | 12 | 5 | 4 | 3 | 3 | 19 |
 | 6 | Sunderland | 12 | 5 | 4 | 3 | 3 | 19 |
@@ -61,7 +61,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Brentford | 12 | 5 | 1 | 6 | -1 | 16 |
 | 13 | Everton | 11 | 4 | 3 | 4 | -1 | 15 |
 | 14 | Fulham | 12 | 4 | 2 | 6 | -3 | 14 |
-| 15 | Newcastle United | 11 | 3 | 3 | 5 | -3 | 12 |
+| 15 | Newcastle United | 12 | 3 | 4 | 5 | -3 | 13 |
 | 16 | Nottingham Forest | 12 | 3 | 3 | 6 | -7 | 12 |
 | 17 | West Ham United | 12 | 3 | 2 | 7 | -10 | 11 |
 | 18 | Leeds United | 11 | 3 | 2 | 6 | -10 | 11 |
@@ -85,10 +85,10 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Elche | 12 | 3 | 6 | 3 | -1 | 15 |
 | 12 | Alavés | 13 | 4 | 3 | 6 | -1 | 15 |
 | 13 | Rayo Vallecano | 12 | 4 | 3 | 5 | -2 | 15 |
-| 14 | Real Sociedad | 12 | 3 | 4 | 5 | -3 | 13 |
+| 14 | Real Sociedad | 13 | 3 | 5 | 5 | -3 | 14 |
 | 15 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
-| 16 | Mallorca | 12 | 3 | 3 | 6 | -6 | 12 |
-| 17 | Osasuna | 12 | 3 | 2 | 7 | -4 | 11 |
+| 16 | Osasuna | 13 | 3 | 3 | 7 | -4 | 12 |
+| 17 | Mallorca | 12 | 3 | 3 | 6 | -6 | 12 |
 | 18 | Girona | 12 | 2 | 4 | 6 | -13 | 10 |
 | 19 | Levante | 13 | 2 | 3 | 8 | -8 | 9 |
 | 20 | Real Oviedo | 12 | 2 | 2 | 8 | -13 | 8 |
@@ -103,9 +103,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | RB Leipzig | 10 | 7 | 1 | 2 | 7 | 22 |
 | 5 | VfB Stuttgart | 11 | 7 | 1 | 3 | 5 | 22 |
 | 6 | Hoffenheim | 11 | 6 | 2 | 3 | 5 | 20 |
-| 7 | Eintracht Frankfurt | 10 | 5 | 2 | 3 | 4 | 17 |
-| 8 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
-| 9 | Köln | 10 | 4 | 2 | 4 | 2 | 14 |
+| 7 | Eintracht Frankfurt | 11 | 5 | 2 | 4 | 3 | 17 |
+| 8 | Köln | 11 | 5 | 2 | 4 | 3 | 17 |
+| 9 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
 | 10 | SC Freiburg | 11 | 3 | 4 | 4 | -5 | 13 |
 | 11 | Borussia Mönchengladbach | 11 | 3 | 3 | 5 | -3 | 12 |
 | 12 | Union Berlin | 10 | 3 | 3 | 4 | -4 | 12 |
@@ -146,9 +146,9 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Marseille | 13 | 9 | 1 | 3 | 21 | 28 |
-| 2 | PSG | 12 | 8 | 3 | 1 | 13 | 27 |
-| 3 | Lens | 13 | 8 | 2 | 3 | 10 | 26 |
-| 4 | Strasbourg | 13 | 7 | 2 | 4 | 8 | 23 |
+| 2 | Lens | 13 | 9 | 1 | 3 | 11 | 28 |
+| 3 | PSG | 12 | 8 | 3 | 1 | 13 | 27 |
+| 4 | Strasbourg | 13 | 7 | 1 | 5 | 7 | 22 |
 | 5 | Lille | 12 | 6 | 2 | 4 | 8 | 20 |
 | 6 | Monaco | 12 | 6 | 2 | 4 | 3 | 20 |
 | 7 | Lyon | 12 | 6 | 2 | 4 | 3 | 20 |
