@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 22 November 2025, 09:37 PM UTC (Sunday, 23 November 2025, 03:07 AM IST)
+**Last Updated:** Saturday, 22 November 2025, 10:19 PM UTC (Sunday, 23 November 2025, 03:49 AM IST)
 
 ### Premier League
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 13 | 10 | 1 | 2 | 21 | 31 |
 | 2 | Real Madrid | 12 | 10 | 1 | 1 | 16 | 31 |
-| 3 | Villarreal | 13 | 8 | 3 | 2 | 14 | 27 |
+| 3 | Villarreal | 13 | 9 | 2 | 2 | 15 | 29 |
 | 4 | Atlético de Madrid | 12 | 7 | 4 | 1 | 13 | 25 |
 | 5 | Real Betis | 12 | 5 | 5 | 2 | 6 | 20 |
 | 6 | Espanyol | 12 | 5 | 3 | 4 | 0 | 18 |
@@ -86,8 +86,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Elche | 12 | 3 | 6 | 3 | -1 | 15 |
 | 13 | Alavés | 13 | 4 | 3 | 6 | -1 | 15 |
 | 14 | Rayo Vallecano | 12 | 4 | 3 | 5 | -2 | 15 |
-| 15 | Mallorca | 13 | 3 | 4 | 6 | -6 | 13 |
-| 16 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
+| 15 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
+| 16 | Mallorca | 13 | 3 | 3 | 7 | -7 | 12 |
 | 17 | Osasuna | 13 | 3 | 2 | 8 | -6 | 11 |
 | 18 | Girona | 12 | 2 | 4 | 6 | -13 | 10 |
 | 19 | Levante | 13 | 2 | 3 | 8 | -8 | 9 |
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 13 | 9 | 3 | 1 | 15 | 30 |
+| 1 | PSG | 13 | 9 | 3 | 1 | 16 | 30 |
 | 2 | Marseille | 13 | 9 | 1 | 3 | 21 | 28 |
 | 3 | Lens | 13 | 9 | 1 | 3 | 11 | 28 |
 | 4 | Strasbourg | 13 | 7 | 1 | 5 | 7 | 22 |
@@ -156,7 +156,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Nice | 13 | 5 | 2 | 6 | -5 | 17 |
 | 10 | Toulouse | 12 | 4 | 4 | 4 | 2 | 16 |
 | 11 | Paris FC | 12 | 4 | 2 | 6 | -3 | 14 |
-| 12 | Le Havre | 13 | 3 | 5 | 5 | -6 | 14 |
+| 12 | Le Havre | 13 | 3 | 5 | 5 | -7 | 14 |
 | 13 | Angers | 12 | 3 | 4 | 5 | -5 | 13 |
 | 14 | Metz | 12 | 3 | 2 | 7 | -15 | 11 |
 | 15 | Brest | 12 | 2 | 4 | 6 | -7 | 10 |
