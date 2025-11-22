@@ -41,14 +41,14 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 22 November 2025, 02:17 PM UTC (Saturday, 22 November 2025, 07:47 PM IST)
+**Last Updated:** Saturday, 22 November 2025, 02:39 PM UTC (Saturday, 22 November 2025, 08:09 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 11 | 8 | 2 | 1 | 15 | 26 |
-| 2 | Chelsea | 12 | 7 | 2 | 3 | 11 | 23 |
+| 2 | Chelsea | 12 | 7 | 2 | 3 | 12 | 23 |
 | 3 | Manchester City | 11 | 7 | 1 | 3 | 15 | 22 |
 | 4 | Sunderland | 11 | 5 | 4 | 2 | 4 | 19 |
 | 5 | Tottenham Hotspur | 11 | 5 | 3 | 3 | 9 | 18 |
@@ -63,7 +63,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Newcastle United | 11 | 3 | 3 | 5 | -3 | 12 |
 | 15 | Fulham | 11 | 3 | 2 | 6 | -4 | 11 |
 | 16 | Leeds United | 11 | 3 | 2 | 6 | -10 | 11 |
-| 17 | Burnley | 12 | 3 | 1 | 8 | -9 | 10 |
+| 17 | Burnley | 12 | 3 | 1 | 8 | -10 | 10 |
 | 18 | West Ham United | 11 | 3 | 1 | 7 | -10 | 10 |
 | 19 | Nottingham Forest | 11 | 2 | 3 | 6 | -10 | 9 |
 | 20 | Wolverhampton Wanderers | 11 | 0 | 2 | 9 | -18 | 2 |
@@ -97,24 +97,24 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 10 | 9 | 1 | 0 | 29 | 28 |
-| 2 | RB Leipzig | 10 | 7 | 1 | 2 | 7 | 22 |
-| 3 | Borussia Dortmund | 10 | 6 | 3 | 1 | 9 | 21 |
-| 4 | VfB Stuttgart | 10 | 7 | 0 | 3 | 5 | 21 |
-| 5 | Bayer Leverkusen | 10 | 6 | 2 | 2 | 10 | 20 |
+| 1 | Bayern Munich | 11 | 9 | 2 | 0 | 29 | 29 |
+| 2 | Borussia Dortmund | 11 | 6 | 4 | 1 | 9 | 22 |
+| 3 | RB Leipzig | 10 | 7 | 1 | 2 | 7 | 22 |
+| 4 | VfB Stuttgart | 11 | 7 | 1 | 3 | 5 | 22 |
+| 5 | Bayer Leverkusen | 11 | 6 | 3 | 2 | 10 | 21 |
 | 6 | Hoffenheim | 11 | 6 | 2 | 3 | 5 | 20 |
 | 7 | Eintracht Frankfurt | 10 | 5 | 2 | 3 | 4 | 17 |
 | 8 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
 | 9 | Köln | 10 | 4 | 2 | 4 | 2 | 14 |
-| 10 | SC Freiburg | 10 | 3 | 4 | 3 | -1 | 13 |
+| 10 | SC Freiburg | 11 | 3 | 5 | 3 | -1 | 14 |
 | 11 | Union Berlin | 10 | 3 | 3 | 4 | -4 | 12 |
-| 12 | Borussia Mönchengladbach | 10 | 2 | 3 | 5 | -6 | 9 |
-| 13 | Hamburg | 10 | 2 | 3 | 5 | -7 | 9 |
-| 14 | VfL Wolfsburg | 10 | 2 | 2 | 6 | -6 | 8 |
-| 15 | Augsburg | 10 | 2 | 1 | 7 | -10 | 7 |
+| 12 | Borussia Mönchengladbach | 11 | 2 | 4 | 5 | -6 | 10 |
+| 13 | Hamburg | 11 | 2 | 4 | 5 | -7 | 10 |
+| 14 | VfL Wolfsburg | 11 | 2 | 3 | 6 | -6 | 9 |
+| 15 | Augsburg | 11 | 2 | 2 | 7 | -10 | 8 |
 | 16 | St. Pauli | 10 | 2 | 1 | 7 | -11 | 7 |
 | 17 | Mainz 05 | 11 | 1 | 3 | 7 | -8 | 6 |
-| 18 | Heidenheim | 10 | 1 | 2 | 7 | -15 | 5 |
+| 18 | Heidenheim | 11 | 1 | 3 | 7 | -15 | 6 |
 
 ### Serie A
 
