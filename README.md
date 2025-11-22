@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 22 November 2025, 01:39 PM UTC (Saturday, 22 November 2025, 07:09 PM IST)
+**Last Updated:** Saturday, 22 November 2025, 02:17 PM UTC (Saturday, 22 November 2025, 07:47 PM IST)
 
 ### Premier League
 
@@ -80,11 +80,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Espanyol | 12 | 5 | 3 | 4 | 0 | 18 |
 | 7 | Athletic Bilbao | 12 | 5 | 2 | 5 | -1 | 17 |
 | 8 | Getafe | 12 | 5 | 2 | 5 | -2 | 17 |
-| 9 | Alavés | 13 | 4 | 4 | 5 | 0 | 16 |
-| 10 | Sevilla | 12 | 5 | 1 | 6 | -1 | 16 |
+| 9 | Sevilla | 12 | 5 | 1 | 6 | -1 | 16 |
+| 10 | Celta de Vigo | 13 | 3 | 7 | 3 | -2 | 16 |
 | 11 | Elche | 12 | 3 | 6 | 3 | -1 | 15 |
-| 12 | Rayo Vallecano | 12 | 4 | 3 | 5 | -2 | 15 |
-| 13 | Celta de Vigo | 13 | 2 | 8 | 3 | -3 | 14 |
+| 12 | Alavés | 13 | 4 | 3 | 6 | -1 | 15 |
+| 13 | Rayo Vallecano | 12 | 4 | 3 | 5 | -2 | 15 |
 | 14 | Real Sociedad | 12 | 3 | 4 | 5 | -3 | 13 |
 | 15 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
 | 16 | Mallorca | 12 | 3 | 3 | 6 | -6 | 12 |
@@ -124,20 +124,20 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Roma | 11 | 8 | 0 | 3 | 7 | 24 |
 | 3 | Milan | 11 | 6 | 4 | 1 | 8 | 22 |
 | 4 | Napoli | 11 | 7 | 1 | 3 | 6 | 22 |
-| 5 | Bologna | 11 | 6 | 3 | 2 | 10 | 21 |
+| 5 | Bologna | 12 | 6 | 4 | 2 | 10 | 22 |
 | 6 | Juventus | 11 | 5 | 4 | 2 | 4 | 19 |
 | 7 | Como | 11 | 4 | 6 | 1 | 6 | 18 |
 | 8 | Sassuolo | 11 | 5 | 1 | 5 | 2 | 16 |
-| 9 | Lazio | 11 | 4 | 3 | 4 | 4 | 15 |
-| 10 | Udinese | 11 | 4 | 3 | 4 | -5 | 15 |
+| 9 | Udinese | 12 | 4 | 4 | 4 | -5 | 16 |
+| 10 | Lazio | 11 | 4 | 3 | 4 | 4 | 15 |
 | 11 | Cremonese | 11 | 3 | 5 | 3 | -1 | 14 |
 | 12 | Torino | 11 | 3 | 5 | 3 | -6 | 14 |
 | 13 | Atalanta | 11 | 2 | 7 | 2 | 2 | 13 |
-| 14 | Cagliari | 11 | 2 | 4 | 5 | -5 | 10 |
+| 14 | Cagliari | 12 | 2 | 5 | 5 | -5 | 11 |
 | 15 | Lecce | 11 | 2 | 4 | 5 | -6 | 10 |
 | 16 | Pisa | 11 | 1 | 6 | 4 | -6 | 9 |
 | 17 | Parma | 11 | 1 | 5 | 5 | -7 | 8 |
-| 18 | Genoa | 11 | 1 | 4 | 6 | -8 | 7 |
+| 18 | Genoa | 12 | 1 | 5 | 6 | -8 | 8 |
 | 19 | Hellas Verona | 11 | 0 | 6 | 5 | -10 | 6 |
 | 20 | Fiorentina | 11 | 0 | 5 | 6 | -9 | 5 |
 
@@ -314,25 +314,25 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 16 | 10 | 4 | 2 | 26 | 34 |
+| 1 | Coventry City | 16 | 11 | 4 | 1 | 28 | 37 |
 | 2 | Middlesbrough | 15 | 8 | 5 | 2 | 6 | 29 |
 | 3 | Stoke City | 15 | 8 | 3 | 4 | 11 | 27 |
-| 4 | Bristol City | 16 | 7 | 5 | 4 | 6 | 26 |
+| 4 | Bristol City | 16 | 7 | 5 | 4 | 7 | 26 |
 | 5 | Preston North End | 16 | 7 | 5 | 4 | 5 | 26 |
 | 6 | Hull City | 15 | 7 | 4 | 4 | 2 | 25 |
 | 7 | Millwall | 15 | 7 | 4 | 4 | -3 | 25 |
-| 8 | West Bromwich Albion | 16 | 7 | 3 | 6 | -1 | 24 |
-| 9 | Ipswich Town | 14 | 6 | 5 | 3 | 10 | 23 |
-| 10 | Derby County | 15 | 6 | 5 | 4 | 1 | 23 |
-| 11 | Charlton Athletic | 16 | 6 | 5 | 5 | 0 | 23 |
-| 12 | Birmingham City | 15 | 6 | 3 | 6 | 3 | 21 |
-| 13 | Leicester City | 15 | 5 | 6 | 4 | 2 | 21 |
-| 14 | Southampton | 16 | 5 | 6 | 5 | 1 | 21 |
-| 15 | Wrexham | 15 | 5 | 6 | 4 | 1 | 21 |
+| 8 | Ipswich Town | 14 | 6 | 5 | 3 | 10 | 23 |
+| 9 | Derby County | 15 | 6 | 5 | 4 | 1 | 23 |
+| 10 | Charlton Athletic | 16 | 6 | 5 | 5 | 0 | 23 |
+| 11 | Birmingham City | 15 | 6 | 3 | 6 | 3 | 21 |
+| 12 | Leicester City | 15 | 5 | 6 | 4 | 2 | 21 |
+| 13 | Southampton | 16 | 5 | 6 | 5 | 1 | 21 |
+| 14 | Wrexham | 15 | 5 | 6 | 4 | 1 | 21 |
+| 15 | West Bromwich Albion | 16 | 6 | 3 | 7 | -3 | 21 |
 | 16 | Watford | 15 | 5 | 5 | 5 | 1 | 20 |
 | 17 | Blackburn Rovers | 15 | 6 | 1 | 8 | -4 | 19 |
 | 18 | Queens Park Rangers | 15 | 5 | 4 | 6 | -6 | 19 |
-| 19 | Swansea City | 16 | 4 | 5 | 7 | -6 | 17 |
+| 19 | Swansea City | 16 | 4 | 5 | 7 | -7 | 17 |
 | 20 | Portsmouth | 15 | 3 | 5 | 7 | -8 | 14 |
 | 21 | Oxford United | 15 | 3 | 4 | 8 | -6 | 13 |
 | 22 | Sheffield United | 15 | 3 | 1 | 11 | -15 | 10 |

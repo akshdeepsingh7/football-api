@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 22 November 2025, 01:39 PM UTC",
-        "IST": "Saturday, 22 November 2025, 07:09 PM IST"
+        "UTC": "Saturday, 22 November 2025, 02:17 PM UTC",
+        "IST": "Saturday, 22 November 2025, 07:47 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -289,22 +289,22 @@
             },
             {
                 "Position": "9",
-                "Team": "Alav\u00e9s",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "0",
-                "Points": "16"
-            },
-            {
-                "Position": "10",
                 "Team": "Sevilla",
                 "Played": "12",
                 "Wins": "5",
                 "Draws": "1",
                 "Losses": "6",
                 "Goal Difference": "-1",
+                "Points": "16"
+            },
+            {
+                "Position": "10",
+                "Team": "Celta de Vigo",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "3",
+                "Goal Difference": "-2",
                 "Points": "16"
             },
             {
@@ -319,6 +319,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Alav\u00e9s",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-1",
+                "Points": "15"
+            },
+            {
+                "Position": "13",
                 "Team": "Rayo Vallecano",
                 "Played": "12",
                 "Wins": "4",
@@ -326,16 +336,6 @@
                 "Losses": "5",
                 "Goal Difference": "-2",
                 "Points": "15"
-            },
-            {
-                "Position": "13",
-                "Team": "Celta de Vigo",
-                "Played": "13",
-                "Wins": "2",
-                "Draws": "8",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "14"
             },
             {
                 "Position": "14",
@@ -634,12 +634,12 @@
             {
                 "Position": "5",
                 "Team": "Bologna",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "6",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "10",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "6",
@@ -673,22 +673,22 @@
             },
             {
                 "Position": "9",
+                "Team": "Udinese",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "16"
+            },
+            {
+                "Position": "10",
                 "Team": "Lazio",
                 "Played": "11",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "4",
-                "Points": "15"
-            },
-            {
-                "Position": "10",
-                "Team": "Udinese",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-5",
                 "Points": "15"
             },
             {
@@ -724,12 +724,12 @@
             {
                 "Position": "14",
                 "Team": "Cagliari",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "2",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "5",
                 "Goal Difference": "-5",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "15",
@@ -764,12 +764,12 @@
             {
                 "Position": "18",
                 "Team": "Genoa",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "1",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "-8",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "19",
@@ -2247,11 +2247,11 @@
                 "Position": "1",
                 "Team": "Coventry City",
                 "Played": "16",
-                "Wins": "10",
+                "Wins": "11",
                 "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "26",
-                "Points": "34"
+                "Losses": "1",
+                "Goal Difference": "28",
+                "Points": "37"
             },
             {
                 "Position": "2",
@@ -2280,7 +2280,7 @@
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "4",
-                "Goal Difference": "6",
+                "Goal Difference": "7",
                 "Points": "26"
             },
             {
@@ -2315,16 +2315,6 @@
             },
             {
                 "Position": "8",
-                "Team": "West Bromwich Albion",
-                "Played": "16",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-1",
-                "Points": "24"
-            },
-            {
-                "Position": "9",
                 "Team": "Ipswich Town",
                 "Played": "14",
                 "Wins": "6",
@@ -2334,7 +2324,7 @@
                 "Points": "23"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Derby County",
                 "Played": "15",
                 "Wins": "6",
@@ -2344,7 +2334,7 @@
                 "Points": "23"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Charlton Athletic",
                 "Played": "16",
                 "Wins": "6",
@@ -2354,7 +2344,7 @@
                 "Points": "23"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Birmingham City",
                 "Played": "15",
                 "Wins": "6",
@@ -2364,7 +2354,7 @@
                 "Points": "21"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Leicester City",
                 "Played": "15",
                 "Wins": "5",
@@ -2374,7 +2364,7 @@
                 "Points": "21"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Southampton",
                 "Played": "16",
                 "Wins": "5",
@@ -2384,13 +2374,23 @@
                 "Points": "21"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Wrexham",
                 "Played": "15",
                 "Wins": "5",
                 "Draws": "6",
                 "Losses": "4",
                 "Goal Difference": "1",
+                "Points": "21"
+            },
+            {
+                "Position": "15",
+                "Team": "West Bromwich Albion",
+                "Played": "16",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-3",
                 "Points": "21"
             },
             {
@@ -2430,7 +2430,7 @@
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "17"
             },
             {
