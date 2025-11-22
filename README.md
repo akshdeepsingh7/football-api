@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 22 November 2025, 07:15 PM UTC (Sunday, 23 November 2025, 12:45 AM IST)
+**Last Updated:** Saturday, 22 November 2025, 07:37 PM UTC (Sunday, 23 November 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -102,10 +102,10 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Borussia Dortmund | 11 | 6 | 4 | 1 | 9 | 22 |
 | 4 | RB Leipzig | 10 | 7 | 1 | 2 | 7 | 22 |
 | 5 | VfB Stuttgart | 11 | 7 | 1 | 3 | 5 | 22 |
-| 6 | Eintracht Frankfurt | 11 | 6 | 2 | 3 | 7 | 20 |
+| 6 | Eintracht Frankfurt | 11 | 6 | 2 | 3 | 5 | 20 |
 | 7 | Hoffenheim | 11 | 6 | 2 | 3 | 5 | 20 |
 | 8 | Werder Bremen | 10 | 4 | 3 | 3 | -3 | 15 |
-| 9 | Köln | 11 | 4 | 2 | 5 | -1 | 14 |
+| 9 | Köln | 11 | 4 | 2 | 5 | 1 | 14 |
 | 10 | SC Freiburg | 11 | 3 | 4 | 4 | -5 | 13 |
 | 11 | Borussia Mönchengladbach | 11 | 3 | 3 | 5 | -3 | 12 |
 | 12 | Union Berlin | 10 | 3 | 3 | 4 | -4 | 12 |
@@ -149,10 +149,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 13 | 9 | 1 | 3 | 11 | 28 |
 | 3 | PSG | 12 | 8 | 3 | 1 | 13 | 27 |
 | 4 | Strasbourg | 13 | 7 | 1 | 5 | 7 | 22 |
-| 5 | Rennes | 13 | 5 | 6 | 2 | 4 | 21 |
+| 5 | Rennes | 13 | 5 | 6 | 2 | 5 | 21 |
 | 6 | Lille | 12 | 6 | 2 | 4 | 8 | 20 |
 | 7 | Lyon | 12 | 6 | 2 | 4 | 3 | 20 |
-| 8 | Monaco | 13 | 6 | 2 | 5 | 1 | 20 |
+| 8 | Monaco | 13 | 6 | 2 | 5 | 0 | 20 |
 | 9 | Nice | 13 | 5 | 2 | 6 | -5 | 17 |
 | 10 | Toulouse | 12 | 4 | 4 | 4 | 2 | 16 |
 | 11 | Paris FC | 12 | 4 | 2 | 6 | -3 | 14 |
