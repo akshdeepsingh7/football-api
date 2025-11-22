@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 22 November 2025, 07:37 PM UTC",
-        "IST": "Sunday, 23 November 2025, 01:07 AM IST"
+        "UTC": "Saturday, 22 November 2025, 08:21 PM UTC",
+        "IST": "Sunday, 23 November 2025, 01:51 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -230,12 +230,12 @@
             {
                 "Position": "3",
                 "Team": "Villarreal",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "8",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "14",
-                "Points": "26"
+                "Points": "27"
             },
             {
                 "Position": "4",
@@ -349,6 +349,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Mallorca",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-6",
+                "Points": "13"
+            },
+            {
+                "Position": "16",
                 "Team": "Valencia",
                 "Played": "13",
                 "Wins": "3",
@@ -356,16 +366,6 @@
                 "Losses": "6",
                 "Goal Difference": "-9",
                 "Points": "13"
-            },
-            {
-                "Position": "16",
-                "Team": "Mallorca",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-6",
-                "Points": "12"
             },
             {
                 "Position": "17",
@@ -593,6 +593,16 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Napoli",
+                "Played": "12",
+                "Wins": "8",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "7",
+                "Points": "25"
+            },
+            {
+                "Position": "2",
                 "Team": "Inter",
                 "Played": "11",
                 "Wins": "8",
@@ -602,7 +612,7 @@
                 "Points": "24"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Roma",
                 "Played": "11",
                 "Wins": "8",
@@ -612,7 +622,7 @@
                 "Points": "24"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Bologna",
                 "Played": "12",
                 "Wins": "7",
@@ -622,23 +632,13 @@
                 "Points": "24"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Milan",
                 "Played": "11",
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "8",
-                "Points": "22"
-            },
-            {
-                "Position": "5",
-                "Team": "Napoli",
-                "Played": "11",
-                "Wins": "7",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "6",
                 "Points": "22"
             },
             {
@@ -714,11 +714,11 @@
             {
                 "Position": "13",
                 "Team": "Atalanta",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "2",
                 "Draws": "7",
-                "Losses": "2",
-                "Goal Difference": "2",
+                "Losses": "3",
+                "Goal Difference": "1",
                 "Points": "13"
             },
             {
@@ -805,6 +805,16 @@
             },
             {
                 "Position": "2",
+                "Team": "PSG",
+                "Played": "13",
+                "Wins": "8",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "13",
+                "Points": "28"
+            },
+            {
+                "Position": "3",
                 "Team": "Lens",
                 "Played": "13",
                 "Wins": "9",
@@ -812,16 +822,6 @@
                 "Losses": "3",
                 "Goal Difference": "11",
                 "Points": "28"
-            },
-            {
-                "Position": "3",
-                "Team": "PSG",
-                "Played": "12",
-                "Wins": "8",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "13",
-                "Points": "27"
             },
             {
                 "Position": "4",
@@ -895,22 +895,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Le Havre",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "15"
+            },
+            {
+                "Position": "12",
                 "Team": "Paris FC",
                 "Played": "12",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "6",
                 "Goal Difference": "-3",
-                "Points": "14"
-            },
-            {
-                "Position": "12",
-                "Team": "Le Havre",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "-4",
                 "Points": "14"
             },
             {
