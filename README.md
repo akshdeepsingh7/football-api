@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 22 November 2025, 08:40 PM UTC (Sunday, 23 November 2025, 02:10 AM IST)
+**Last Updated:** Saturday, 22 November 2025, 09:17 PM UTC (Sunday, 23 November 2025, 02:47 AM IST)
 
 ### Premier League
 
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Napoli | 12 | 8 | 1 | 3 | 9 | 25 |
+| 1 | Napoli | 12 | 8 | 1 | 3 | 8 | 25 |
 | 2 | Inter | 11 | 8 | 0 | 3 | 14 | 24 |
 | 3 | Roma | 11 | 8 | 0 | 3 | 7 | 24 |
 | 4 | Bologna | 12 | 7 | 3 | 2 | 13 | 24 |
@@ -132,7 +132,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Udinese | 12 | 4 | 3 | 5 | -8 | 15 |
 | 11 | Cremonese | 11 | 3 | 5 | 3 | -1 | 14 |
 | 12 | Torino | 11 | 3 | 5 | 3 | -6 | 14 |
-| 13 | Atalanta | 12 | 2 | 7 | 3 | -1 | 13 |
+| 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
 | 14 | Cagliari | 12 | 2 | 5 | 5 | -5 | 11 |
 | 15 | Lecce | 11 | 2 | 4 | 5 | -6 | 10 |
 | 16 | Pisa | 11 | 1 | 6 | 4 | -6 | 9 |
