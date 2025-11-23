@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 11:15 AM UTC",
-        "IST": "Sunday, 23 November 2025, 04:45 PM IST"
+        "UTC": "Sunday, 23 November 2025, 11:37 AM UTC",
+        "IST": "Sunday, 23 November 2025, 05:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -754,12 +754,12 @@
             {
                 "Position": "17",
                 "Team": "Parma",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "1",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "5",
                 "Goal Difference": "-7",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "18",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Hellas Verona",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "0",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "5",
                 "Goal Difference": "-10",
-                "Points": "6"
+                "Points": "7"
             },
             {
                 "Position": "20",
