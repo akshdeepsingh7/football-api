@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 23 November 2025, 01:39 PM UTC (Sunday, 23 November 2025, 07:09 PM IST)
+**Last Updated:** Sunday, 23 November 2025, 02:17 PM UTC (Sunday, 23 November 2025, 07:47 PM IST)
 
 ### Premier League
 
@@ -55,16 +55,16 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Sunderland | 12 | 5 | 4 | 3 | 3 | 19 |
 | 7 | AFC Bournemouth | 12 | 5 | 4 | 3 | -1 | 19 |
 | 8 | Tottenham Hotspur | 11 | 5 | 3 | 3 | 9 | 18 |
-| 9 | Aston Villa | 11 | 5 | 3 | 3 | 3 | 18 |
+| 9 | Aston Villa | 12 | 5 | 3 | 4 | 2 | 18 |
 | 10 | Manchester United | 11 | 5 | 3 | 3 | 1 | 18 |
 | 11 | Liverpool FC | 12 | 6 | 0 | 6 | -2 | 18 |
 | 12 | Brentford | 12 | 5 | 1 | 6 | -1 | 16 |
 | 13 | Everton | 11 | 4 | 3 | 4 | -1 | 15 |
 | 14 | Newcastle United | 12 | 4 | 3 | 5 | -2 | 15 |
 | 15 | Fulham | 12 | 4 | 2 | 6 | -3 | 14 |
-| 16 | Nottingham Forest | 12 | 3 | 3 | 6 | -7 | 12 |
-| 17 | West Ham United | 12 | 3 | 2 | 7 | -10 | 11 |
-| 18 | Leeds United | 11 | 3 | 2 | 6 | -10 | 11 |
+| 16 | Leeds United | 12 | 4 | 2 | 6 | -9 | 14 |
+| 17 | Nottingham Forest | 12 | 3 | 3 | 6 | -7 | 12 |
+| 18 | West Ham United | 12 | 3 | 2 | 7 | -10 | 11 |
 | 19 | Burnley | 12 | 3 | 1 | 8 | -10 | 10 |
 | 20 | Wolverhampton Wanderers | 12 | 0 | 2 | 10 | -20 | 2 |
 
@@ -121,16 +121,16 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Napoli | 12 | 8 | 1 | 3 | 8 | 25 |
-| 2 | Inter | 11 | 8 | 0 | 3 | 14 | 24 |
-| 3 | Roma | 11 | 8 | 0 | 3 | 7 | 24 |
+| 2 | Roma | 12 | 8 | 1 | 3 | 7 | 25 |
+| 3 | Inter | 11 | 8 | 0 | 3 | 14 | 24 |
 | 4 | Bologna | 12 | 7 | 3 | 2 | 13 | 24 |
 | 5 | Milan | 11 | 6 | 4 | 1 | 8 | 22 |
 | 6 | Juventus | 12 | 5 | 5 | 2 | 4 | 20 |
 | 7 | Como | 11 | 4 | 6 | 1 | 6 | 18 |
 | 8 | Sassuolo | 11 | 5 | 1 | 5 | 2 | 16 |
 | 9 | Lazio | 11 | 4 | 3 | 4 | 4 | 15 |
-| 10 | Udinese | 12 | 4 | 3 | 5 | -8 | 15 |
-| 11 | Cremonese | 11 | 3 | 5 | 3 | -1 | 14 |
+| 10 | Cremonese | 12 | 3 | 6 | 3 | -1 | 15 |
+| 11 | Udinese | 12 | 4 | 3 | 5 | -8 | 15 |
 | 12 | Torino | 11 | 3 | 5 | 3 | -6 | 14 |
 | 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
 | 14 | Cagliari | 12 | 2 | 5 | 5 | -5 | 11 |
@@ -150,8 +150,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Lens | 13 | 9 | 1 | 3 | 11 | 28 |
 | 4 | Strasbourg | 13 | 7 | 1 | 5 | 7 | 22 |
 | 5 | Rennes | 13 | 5 | 6 | 2 | 5 | 21 |
-| 6 | Lille | 12 | 6 | 2 | 4 | 8 | 20 |
-| 7 | Lyon | 12 | 6 | 2 | 4 | 3 | 20 |
+| 6 | Lyon | 13 | 6 | 3 | 4 | 3 | 21 |
+| 7 | Lille | 12 | 6 | 2 | 4 | 8 | 20 |
 | 8 | Monaco | 13 | 6 | 2 | 5 | 0 | 20 |
 | 9 | Nice | 13 | 5 | 2 | 6 | -5 | 17 |
 | 10 | Toulouse | 12 | 4 | 4 | 4 | 2 | 16 |
@@ -162,7 +162,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Brest | 12 | 2 | 4 | 6 | -7 | 10 |
 | 16 | Nantes | 12 | 2 | 4 | 6 | -7 | 10 |
 | 17 | Lorient | 12 | 2 | 4 | 6 | -12 | 10 |
-| 18 | Auxerre | 12 | 2 | 1 | 9 | -12 | 7 |
+| 18 | Auxerre | 13 | 2 | 2 | 9 | -12 | 8 |
 
 ### Champions League
 
@@ -335,9 +335,9 @@ The latest league standings are displayed below in Markdown tables:
 | 19 | Portsmouth | 16 | 4 | 5 | 7 | -6 | 17 |
 | 20 | Swansea City | 16 | 4 | 5 | 7 | -7 | 17 |
 | 21 | Oxford United | 16 | 3 | 5 | 8 | -6 | 14 |
-| 22 | Sheffield United | 16 | 4 | 1 | 11 | -13 | 13 |
+| 22 | Sheffield United | 16 | 4 | 1 | 11 | -12 | 13 |
 | 23 | Norwich City | 16 | 2 | 3 | 11 | -12 | 9 |
-| 24 | Sheffield Wednesday | 16 | 1 | 5 | 10 | -19 | -4 |
+| 24 | Sheffield Wednesday | 16 | 1 | 5 | 10 | -20 | -4 |
 
 ### Major League Soccer (MLS)
 

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 01:39 PM UTC",
-        "IST": "Sunday, 23 November 2025, 07:09 PM IST"
+        "UTC": "Sunday, 23 November 2025, 02:17 PM UTC",
+        "IST": "Sunday, 23 November 2025, 07:47 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -88,11 +88,11 @@
             {
                 "Position": "9",
                 "Team": "Aston Villa",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "5",
                 "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "3",
+                "Losses": "4",
+                "Goal Difference": "2",
                 "Points": "18"
             },
             {
@@ -157,6 +157,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Leeds United",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-9",
+                "Points": "14"
+            },
+            {
+                "Position": "17",
                 "Team": "Nottingham Forest",
                 "Played": "12",
                 "Wins": "3",
@@ -166,22 +176,12 @@
                 "Points": "12"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "West Ham United",
                 "Played": "12",
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "7",
-                "Goal Difference": "-10",
-                "Points": "11"
-            },
-            {
-                "Position": "18",
-                "Team": "Leeds United",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "6",
                 "Goal Difference": "-10",
                 "Points": "11"
             },
@@ -603,22 +603,22 @@
             },
             {
                 "Position": "2",
+                "Team": "Roma",
+                "Played": "12",
+                "Wins": "8",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "7",
+                "Points": "25"
+            },
+            {
+                "Position": "3",
                 "Team": "Inter",
                 "Played": "11",
                 "Wins": "8",
                 "Draws": "0",
                 "Losses": "3",
                 "Goal Difference": "14",
-                "Points": "24"
-            },
-            {
-                "Position": "3",
-                "Team": "Roma",
-                "Played": "11",
-                "Wins": "8",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "7",
                 "Points": "24"
             },
             {
@@ -683,6 +683,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Cremonese",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "15"
+            },
+            {
+                "Position": "11",
                 "Team": "Udinese",
                 "Played": "12",
                 "Wins": "4",
@@ -690,16 +700,6 @@
                 "Losses": "5",
                 "Goal Difference": "-8",
                 "Points": "15"
-            },
-            {
-                "Position": "11",
-                "Team": "Cremonese",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "14"
             },
             {
                 "Position": "12",
@@ -845,22 +845,22 @@
             },
             {
                 "Position": "6",
+                "Team": "Lyon",
+                "Played": "13",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "3",
+                "Points": "21"
+            },
+            {
+                "Position": "7",
                 "Team": "Lille",
                 "Played": "12",
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "8",
-                "Points": "20"
-            },
-            {
-                "Position": "7",
-                "Team": "Lyon",
-                "Played": "12",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "3",
                 "Points": "20"
             },
             {
@@ -966,12 +966,12 @@
             {
                 "Position": "18",
                 "Team": "Auxerre",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "2",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "9",
                 "Goal Difference": "-12",
-                "Points": "7"
+                "Points": "8"
             }
         ],
         "Champions League": [
@@ -2460,7 +2460,7 @@
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "11",
-                "Goal Difference": "-13",
+                "Goal Difference": "-12",
                 "Points": "13"
             },
             {
@@ -2480,7 +2480,7 @@
                 "Wins": "1",
                 "Draws": "5",
                 "Losses": "10",
-                "Goal Difference": "-19",
+                "Goal Difference": "-20",
                 "Points": "-4"
             }
         ],
