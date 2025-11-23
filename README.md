@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 23 November 2025, 03:18 PM UTC (Sunday, 23 November 2025, 08:48 PM IST)
+**Last Updated:** Sunday, 23 November 2025, 03:38 PM UTC (Sunday, 23 November 2025, 09:08 PM IST)
 
 ### Premier League
 
@@ -76,7 +76,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Real Madrid | 12 | 10 | 1 | 1 | 16 | 31 |
 | 3 | Villarreal | 13 | 9 | 2 | 2 | 15 | 29 |
 | 4 | Atlético de Madrid | 12 | 7 | 4 | 1 | 13 | 25 |
-| 5 | Real Betis | 12 | 5 | 5 | 2 | 6 | 20 |
+| 5 | Real Betis | 13 | 5 | 6 | 2 | 6 | 21 |
 | 6 | Espanyol | 12 | 5 | 3 | 4 | 0 | 18 |
 | 7 | Getafe | 12 | 5 | 2 | 5 | -2 | 17 |
 | 8 | Athletic Bilbao | 13 | 5 | 2 | 6 | -5 | 17 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
 | 16 | Mallorca | 13 | 3 | 3 | 7 | -7 | 12 |
 | 17 | Osasuna | 13 | 3 | 2 | 8 | -6 | 11 |
-| 18 | Girona | 12 | 2 | 4 | 6 | -13 | 10 |
+| 18 | Girona | 13 | 2 | 5 | 6 | -13 | 11 |
 | 19 | Levante | 13 | 2 | 3 | 8 | -8 | 9 |
 | 20 | Real Oviedo | 13 | 2 | 3 | 8 | -13 | 9 |
 
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Roma | 12 | 9 | 0 | 3 | 8 | 27 |
+| 1 | Roma | 12 | 9 | 0 | 3 | 10 | 27 |
 | 2 | Napoli | 12 | 8 | 1 | 3 | 8 | 25 |
 | 3 | Inter | 11 | 8 | 0 | 3 | 14 | 24 |
 | 4 | Bologna | 12 | 7 | 3 | 2 | 13 | 24 |
@@ -131,7 +131,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Lazio | 11 | 4 | 3 | 4 | 4 | 15 |
 | 10 | Udinese | 12 | 4 | 3 | 5 | -8 | 15 |
 | 11 | Torino | 11 | 3 | 5 | 3 | -6 | 14 |
-| 12 | Cremonese | 12 | 3 | 5 | 4 | -2 | 14 |
+| 12 | Cremonese | 12 | 3 | 5 | 4 | -4 | 14 |
 | 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
 | 14 | Cagliari | 12 | 2 | 5 | 5 | -5 | 11 |
 | 15 | Parma | 12 | 2 | 5 | 5 | -6 | 11 |
