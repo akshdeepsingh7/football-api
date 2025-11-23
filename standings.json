@@ -1,19 +1,19 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 04:23 PM UTC",
-        "IST": "Sunday, 23 November 2025, 09:53 PM IST"
+        "UTC": "Sunday, 23 November 2025, 04:44 PM UTC",
+        "IST": "Sunday, 23 November 2025, 10:14 PM IST"
     },
     "standings": {
         "Premier League": [
             {
                 "Position": "1",
                 "Team": "Arsenal",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "8",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "15",
-                "Points": "26"
+                "Points": "27"
             },
             {
                 "Position": "2",
@@ -57,6 +57,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Tottenham Hotspur",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "9",
+                "Points": "19"
+            },
+            {
+                "Position": "7",
                 "Team": "Brighton & Hove Albion",
                 "Played": "12",
                 "Wins": "5",
@@ -66,7 +76,7 @@
                 "Points": "19"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Sunderland",
                 "Played": "12",
                 "Wins": "5",
@@ -76,7 +86,7 @@
                 "Points": "19"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "AFC Bournemouth",
                 "Played": "12",
                 "Wins": "5",
@@ -84,16 +94,6 @@
                 "Losses": "3",
                 "Goal Difference": "-1",
                 "Points": "19"
-            },
-            {
-                "Position": "9",
-                "Team": "Tottenham Hotspur",
-                "Played": "11",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "9",
-                "Points": "18"
             },
             {
                 "Position": "10",
@@ -501,6 +501,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Union Berlin",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "13"
+            },
+            {
+                "Position": "11",
                 "Team": "SC Freiburg",
                 "Played": "11",
                 "Wins": "3",
@@ -510,23 +520,13 @@
                 "Points": "13"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "11",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "-3",
-                "Points": "12"
-            },
-            {
-                "Position": "12",
-                "Team": "Union Berlin",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-4",
                 "Points": "12"
             },
             {
@@ -562,12 +562,12 @@
             {
                 "Position": "16",
                 "Team": "St. Pauli",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "2",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "7",
                 "Goal Difference": "-11",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "17",
@@ -875,16 +875,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Toulouse",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "2",
-                "Points": "17"
-            },
-            {
-                "Position": "10",
                 "Team": "Nice",
                 "Played": "13",
                 "Wins": "5",
@@ -894,23 +884,33 @@
                 "Points": "17"
             },
             {
+                "Position": "10",
+                "Team": "Toulouse",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "1",
+                "Points": "16"
+            },
+            {
                 "Position": "11",
+                "Team": "Angers",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-4",
+                "Points": "16"
+            },
+            {
+                "Position": "12",
                 "Team": "Paris FC",
                 "Played": "12",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "6",
                 "Goal Difference": "-3",
-                "Points": "14"
-            },
-            {
-                "Position": "12",
-                "Team": "Angers",
-                "Played": "13",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-5",
                 "Points": "14"
             },
             {

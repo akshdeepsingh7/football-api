@@ -41,21 +41,21 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 23 November 2025, 04:23 PM UTC (Sunday, 23 November 2025, 09:53 PM IST)
+**Last Updated:** Sunday, 23 November 2025, 04:44 PM UTC (Sunday, 23 November 2025, 10:14 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 11 | 8 | 2 | 1 | 15 | 26 |
+| 1 | Arsenal | 12 | 8 | 3 | 1 | 15 | 27 |
 | 2 | Chelsea | 12 | 7 | 2 | 3 | 12 | 23 |
 | 3 | Manchester City | 12 | 7 | 1 | 4 | 14 | 22 |
 | 4 | Aston Villa | 12 | 6 | 3 | 3 | 4 | 21 |
 | 5 | Crystal Palace | 12 | 5 | 5 | 2 | 7 | 20 |
-| 6 | Brighton & Hove Albion | 12 | 5 | 4 | 3 | 3 | 19 |
-| 7 | Sunderland | 12 | 5 | 4 | 3 | 3 | 19 |
-| 8 | AFC Bournemouth | 12 | 5 | 4 | 3 | -1 | 19 |
-| 9 | Tottenham Hotspur | 11 | 5 | 3 | 3 | 9 | 18 |
+| 6 | Tottenham Hotspur | 12 | 5 | 4 | 3 | 9 | 19 |
+| 7 | Brighton & Hove Albion | 12 | 5 | 4 | 3 | 3 | 19 |
+| 8 | Sunderland | 12 | 5 | 4 | 3 | 3 | 19 |
+| 9 | AFC Bournemouth | 12 | 5 | 4 | 3 | -1 | 19 |
 | 10 | Manchester United | 11 | 5 | 3 | 3 | 1 | 18 |
 | 11 | Liverpool FC | 12 | 6 | 0 | 6 | -2 | 18 |
 | 12 | Brentford | 12 | 5 | 1 | 6 | -1 | 16 |
@@ -106,13 +106,13 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Hoffenheim | 11 | 6 | 2 | 3 | 5 | 20 |
 | 8 | Werder Bremen | 11 | 4 | 3 | 4 | -5 | 15 |
 | 9 | Köln | 11 | 4 | 2 | 5 | 1 | 14 |
-| 10 | SC Freiburg | 11 | 3 | 4 | 4 | -5 | 13 |
-| 11 | Borussia Mönchengladbach | 11 | 3 | 3 | 5 | -3 | 12 |
-| 12 | Union Berlin | 10 | 3 | 3 | 4 | -4 | 12 |
+| 10 | Union Berlin | 11 | 3 | 4 | 4 | -4 | 13 |
+| 11 | SC Freiburg | 11 | 3 | 4 | 4 | -5 | 13 |
+| 12 | Borussia Mönchengladbach | 11 | 3 | 3 | 5 | -3 | 12 |
 | 13 | Augsburg | 11 | 3 | 1 | 7 | -9 | 10 |
 | 14 | Hamburg | 11 | 2 | 3 | 6 | -8 | 9 |
 | 15 | VfL Wolfsburg | 11 | 2 | 2 | 7 | -8 | 8 |
-| 16 | St. Pauli | 10 | 2 | 1 | 7 | -11 | 7 |
+| 16 | St. Pauli | 11 | 2 | 2 | 7 | -11 | 8 |
 | 17 | Mainz 05 | 11 | 1 | 3 | 7 | -8 | 6 |
 | 18 | Heidenheim | 11 | 1 | 2 | 8 | -18 | 5 |
 
@@ -153,10 +153,10 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Lyon | 13 | 6 | 3 | 4 | 3 | 21 |
 | 7 | Lille | 12 | 6 | 2 | 4 | 8 | 20 |
 | 8 | Monaco | 13 | 6 | 2 | 5 | 0 | 20 |
-| 9 | Toulouse | 13 | 4 | 5 | 4 | 2 | 17 |
-| 10 | Nice | 13 | 5 | 2 | 6 | -5 | 17 |
-| 11 | Paris FC | 12 | 4 | 2 | 6 | -3 | 14 |
-| 12 | Angers | 13 | 3 | 5 | 5 | -5 | 14 |
+| 9 | Nice | 13 | 5 | 2 | 6 | -5 | 17 |
+| 10 | Toulouse | 13 | 4 | 4 | 5 | 1 | 16 |
+| 11 | Angers | 13 | 4 | 4 | 5 | -4 | 16 |
+| 12 | Paris FC | 12 | 4 | 2 | 6 | -3 | 14 |
 | 13 | Le Havre | 13 | 3 | 5 | 5 | -7 | 14 |
 | 14 | Metz | 13 | 3 | 3 | 7 | -15 | 12 |
 | 15 | Brest | 13 | 2 | 5 | 6 | -7 | 11 |
