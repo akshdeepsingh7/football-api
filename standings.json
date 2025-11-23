@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 02:39 PM UTC",
-        "IST": "Sunday, 23 November 2025, 08:09 PM IST"
+        "UTC": "Sunday, 23 November 2025, 03:18 PM UTC",
+        "IST": "Sunday, 23 November 2025, 08:48 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -57,7 +57,7 @@
             },
             {
                 "Position": "6",
-                "Team": "Sunderland",
+                "Team": "Aston Villa",
                 "Played": "12",
                 "Wins": "5",
                 "Draws": "4",
@@ -67,6 +67,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Sunderland",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "3",
+                "Points": "19"
+            },
+            {
+                "Position": "8",
                 "Team": "AFC Bournemouth",
                 "Played": "12",
                 "Wins": "5",
@@ -76,23 +86,13 @@
                 "Points": "19"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Tottenham Hotspur",
                 "Played": "11",
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "9",
-                "Points": "18"
-            },
-            {
-                "Position": "9",
-                "Team": "Aston Villa",
-                "Played": "12",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "2",
                 "Points": "18"
             },
             {
@@ -157,22 +157,22 @@
             },
             {
                 "Position": "16",
-                "Team": "Leeds United",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "-9",
-                "Points": "14"
-            },
-            {
-                "Position": "17",
                 "Team": "Nottingham Forest",
                 "Played": "12",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "-7",
+                "Points": "12"
+            },
+            {
+                "Position": "17",
+                "Team": "Leeds United",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-10",
                 "Points": "12"
             },
             {
