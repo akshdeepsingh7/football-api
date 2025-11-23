@@ -41,11 +41,32 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 23 November 2025, 05:16 PM UTC (Sunday, 23 November 2025, 10:46 PM IST)
+**Last Updated:** Sunday, 23 November 2025, 05:39 PM UTC (Sunday, 23 November 2025, 11:09 PM IST)
 
 ### Premier League
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Arsenal | 12 | 9 | 2 | 1 | 18 | 29 |
+| 2 | Chelsea | 12 | 7 | 2 | 3 | 12 | 23 |
+| 3 | Manchester City | 12 | 7 | 1 | 4 | 14 | 22 |
+| 4 | Aston Villa | 12 | 6 | 3 | 3 | 4 | 21 |
+| 5 | Crystal Palace | 12 | 5 | 5 | 2 | 7 | 20 |
+| 6 | Brighton & Hove Albion | 12 | 5 | 4 | 3 | 3 | 19 |
+| 7 | Sunderland | 12 | 5 | 4 | 3 | 3 | 19 |
+| 8 | AFC Bournemouth | 12 | 5 | 4 | 3 | -1 | 19 |
+| 9 | Tottenham Hotspur | 12 | 5 | 3 | 4 | 6 | 18 |
+| 10 | Manchester United | 11 | 5 | 3 | 3 | 1 | 18 |
+| 11 | Liverpool FC | 12 | 6 | 0 | 6 | -2 | 18 |
+| 12 | Brentford | 12 | 5 | 1 | 6 | -1 | 16 |
+| 13 | Everton | 11 | 4 | 3 | 4 | -1 | 15 |
+| 14 | Newcastle United | 12 | 4 | 3 | 5 | -2 | 15 |
+| 15 | Fulham | 12 | 4 | 2 | 6 | -3 | 14 |
+| 16 | Nottingham Forest | 12 | 3 | 3 | 6 | -7 | 12 |
+| 17 | West Ham United | 12 | 3 | 2 | 7 | -10 | 11 |
+| 18 | Leeds United | 12 | 3 | 2 | 7 | -11 | 11 |
+| 19 | Burnley | 12 | 3 | 1 | 8 | -10 | 10 |
+| 20 | Wolverhampton Wanderers | 12 | 0 | 2 | 10 | -20 | 2 |
 
 ### La Liga
 
@@ -54,10 +75,10 @@ Data not available.
 | 1 | Barcelona | 13 | 10 | 1 | 2 | 21 | 31 |
 | 2 | Real Madrid | 12 | 10 | 1 | 1 | 16 | 31 |
 | 3 | Villarreal | 13 | 9 | 2 | 2 | 15 | 29 |
-| 4 | Atlético de Madrid | 12 | 7 | 4 | 1 | 13 | 25 |
+| 4 | Atlético de Madrid | 13 | 7 | 5 | 1 | 13 | 26 |
 | 5 | Real Betis | 13 | 5 | 6 | 2 | 6 | 21 |
 | 6 | Espanyol | 12 | 5 | 3 | 4 | 0 | 18 |
-| 7 | Getafe | 12 | 5 | 2 | 5 | -2 | 17 |
+| 7 | Getafe | 13 | 5 | 3 | 5 | -2 | 18 |
 | 8 | Athletic Bilbao | 13 | 5 | 2 | 6 | -5 | 17 |
 | 9 | Sevilla | 12 | 5 | 1 | 6 | -1 | 16 |
 | 10 | Real Sociedad | 13 | 4 | 4 | 5 | -1 | 16 |
@@ -106,15 +127,15 @@ Data not available.
 | 5 | Milan | 11 | 6 | 4 | 1 | 8 | 22 |
 | 6 | Juventus | 12 | 5 | 5 | 2 | 4 | 20 |
 | 7 | Como | 11 | 4 | 6 | 1 | 6 | 18 |
-| 8 | Sassuolo | 11 | 5 | 1 | 5 | 2 | 16 |
-| 9 | Lazio | 12 | 4 | 4 | 4 | 4 | 16 |
+| 8 | Lazio | 12 | 5 | 3 | 4 | 5 | 18 |
+| 9 | Sassuolo | 11 | 5 | 1 | 5 | 2 | 16 |
 | 10 | Udinese | 12 | 4 | 3 | 5 | -8 | 15 |
 | 11 | Torino | 11 | 3 | 5 | 3 | -6 | 14 |
 | 12 | Cremonese | 12 | 3 | 5 | 4 | -3 | 14 |
 | 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
 | 14 | Cagliari | 12 | 2 | 5 | 5 | -5 | 11 |
 | 15 | Parma | 12 | 2 | 5 | 5 | -6 | 11 |
-| 16 | Lecce | 12 | 2 | 5 | 5 | -6 | 11 |
+| 16 | Lecce | 12 | 2 | 4 | 6 | -7 | 10 |
 | 17 | Pisa | 11 | 1 | 6 | 4 | -6 | 9 |
 | 18 | Genoa | 12 | 1 | 5 | 6 | -8 | 8 |
 | 19 | Fiorentina | 12 | 0 | 6 | 6 | -9 | 6 |
@@ -137,9 +158,9 @@ Data not available.
 | 11 | Angers | 13 | 4 | 4 | 5 | -4 | 16 |
 | 12 | Paris FC | 12 | 4 | 2 | 6 | -3 | 14 |
 | 13 | Le Havre | 13 | 3 | 5 | 5 | -7 | 14 |
-| 14 | Lorient | 13 | 3 | 4 | 6 | -11 | 13 |
-| 15 | Metz | 13 | 3 | 3 | 7 | -15 | 12 |
-| 16 | Brest | 13 | 2 | 5 | 6 | -7 | 11 |
+| 14 | Brest | 13 | 3 | 4 | 6 | -6 | 13 |
+| 15 | Lorient | 13 | 3 | 4 | 6 | -11 | 13 |
+| 16 | Metz | 13 | 3 | 2 | 8 | -16 | 11 |
 | 17 | Nantes | 13 | 2 | 4 | 7 | -8 | 10 |
 | 18 | Auxerre | 13 | 2 | 2 | 9 | -12 | 8 |
 
