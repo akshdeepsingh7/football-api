@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 02:17 PM UTC",
-        "IST": "Sunday, 23 November 2025, 07:47 PM IST"
+        "UTC": "Sunday, 23 November 2025, 02:39 PM UTC",
+        "IST": "Sunday, 23 November 2025, 08:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -431,22 +431,22 @@
             },
             {
                 "Position": "3",
+                "Team": "RB Leipzig",
+                "Played": "11",
+                "Wins": "7",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "7",
+                "Points": "23"
+            },
+            {
+                "Position": "4",
                 "Team": "Borussia Dortmund",
                 "Played": "11",
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "9",
-                "Points": "22"
-            },
-            {
-                "Position": "4",
-                "Team": "RB Leipzig",
-                "Played": "10",
-                "Wins": "7",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "7",
                 "Points": "22"
             },
             {
@@ -482,12 +482,12 @@
             {
                 "Position": "8",
                 "Team": "Werder Bremen",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "4",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "3",
                 "Goal Difference": "-3",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "9",
@@ -593,22 +593,22 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Roma",
+                "Played": "12",
+                "Wins": "9",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "8",
+                "Points": "27"
+            },
+            {
+                "Position": "2",
                 "Team": "Napoli",
                 "Played": "12",
                 "Wins": "8",
                 "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "8",
-                "Points": "25"
-            },
-            {
-                "Position": "2",
-                "Team": "Roma",
-                "Played": "12",
-                "Wins": "8",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "7",
                 "Points": "25"
             },
             {
@@ -683,16 +683,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Cremonese",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "-1",
-                "Points": "15"
-            },
-            {
-                "Position": "11",
                 "Team": "Udinese",
                 "Played": "12",
                 "Wins": "4",
@@ -702,13 +692,23 @@
                 "Points": "15"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Torino",
                 "Played": "11",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "-6",
+                "Points": "14"
+            },
+            {
+                "Position": "12",
+                "Team": "Cremonese",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "-2",
                 "Points": "14"
             },
             {
