@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 12:36 PM UTC",
-        "IST": "Sunday, 23 November 2025, 06:06 PM IST"
+        "UTC": "Sunday, 23 November 2025, 01:24 PM UTC",
+        "IST": "Sunday, 23 November 2025, 06:54 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -319,6 +319,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Rayo Vallecano",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-2",
+                "Points": "16"
+            },
+            {
+                "Position": "13",
                 "Team": "Elche",
                 "Played": "12",
                 "Wins": "3",
@@ -328,23 +338,13 @@
                 "Points": "15"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Alav\u00e9s",
                 "Played": "13",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "-1",
-                "Points": "15"
-            },
-            {
-                "Position": "14",
-                "Team": "Rayo Vallecano",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-2",
                 "Points": "15"
             },
             {
@@ -400,12 +400,12 @@
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "8",
                 "Goal Difference": "-13",
-                "Points": "8"
+                "Points": "9"
             }
         ],
         "Bundesliga": [
@@ -2460,7 +2460,7 @@
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "11",
-                "Goal Difference": "-14",
+                "Goal Difference": "-13",
                 "Points": "13"
             },
             {
@@ -2480,7 +2480,7 @@
                 "Wins": "1",
                 "Draws": "5",
                 "Losses": "10",
-                "Goal Difference": "-18",
+                "Goal Difference": "-19",
                 "Points": "-4"
             }
         ],
