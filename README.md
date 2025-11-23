@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 23 November 2025, 11:37 AM UTC (Sunday, 23 November 2025, 05:07 PM IST)
+**Last Updated:** Sunday, 23 November 2025, 12:36 PM UTC (Sunday, 23 November 2025, 06:06 PM IST)
 
 ### Premier League
 
@@ -134,12 +134,12 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Torino | 11 | 3 | 5 | 3 | -6 | 14 |
 | 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
 | 14 | Cagliari | 12 | 2 | 5 | 5 | -5 | 11 |
-| 15 | Lecce | 11 | 2 | 4 | 5 | -6 | 10 |
-| 16 | Pisa | 11 | 1 | 6 | 4 | -6 | 9 |
-| 17 | Parma | 12 | 1 | 6 | 5 | -7 | 9 |
+| 15 | Parma | 12 | 2 | 5 | 5 | -6 | 11 |
+| 16 | Lecce | 11 | 2 | 4 | 5 | -6 | 10 |
+| 17 | Pisa | 11 | 1 | 6 | 4 | -6 | 9 |
 | 18 | Genoa | 12 | 1 | 5 | 6 | -8 | 8 |
-| 19 | Hellas Verona | 12 | 0 | 7 | 5 | -10 | 7 |
-| 20 | Fiorentina | 12 | 0 | 6 | 6 | -9 | 6 |
+| 19 | Fiorentina | 12 | 0 | 6 | 6 | -9 | 6 |
+| 20 | Hellas Verona | 12 | 0 | 6 | 6 | -11 | 6 |
 
 ### Ligue 1
 
@@ -335,9 +335,9 @@ The latest league standings are displayed below in Markdown tables:
 | 19 | Portsmouth | 16 | 4 | 5 | 7 | -6 | 17 |
 | 20 | Swansea City | 16 | 4 | 5 | 7 | -7 | 17 |
 | 21 | Oxford United | 16 | 3 | 5 | 8 | -6 | 14 |
-| 22 | Sheffield United | 15 | 3 | 1 | 11 | -15 | 10 |
+| 22 | Sheffield United | 16 | 4 | 1 | 11 | -14 | 13 |
 | 23 | Norwich City | 16 | 2 | 3 | 11 | -12 | 9 |
-| 24 | Sheffield Wednesday | 15 | 1 | 5 | 9 | -17 | -4 |
+| 24 | Sheffield Wednesday | 16 | 1 | 5 | 10 | -18 | -4 |
 
 ### Major League Soccer (MLS)
 
