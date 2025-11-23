@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 23 November 2025, 09:38 PM UTC (Monday, 24 November 2025, 03:08 AM IST)
+**Last Updated:** Sunday, 23 November 2025, 10:19 PM UTC (Monday, 24 November 2025, 03:49 AM IST)
 
 ### Premier League
 
@@ -148,7 +148,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 13 | 9 | 3 | 1 | 16 | 30 |
 | 2 | Marseille | 13 | 9 | 1 | 3 | 21 | 28 |
 | 3 | Lens | 13 | 9 | 1 | 3 | 11 | 28 |
-| 4 | Lille | 13 | 7 | 2 | 4 | 9 | 23 |
+| 4 | Lille | 13 | 7 | 2 | 4 | 10 | 23 |
 | 5 | Strasbourg | 13 | 7 | 1 | 5 | 7 | 22 |
 | 6 | Rennes | 13 | 5 | 6 | 2 | 5 | 21 |
 | 7 | Lyon | 13 | 6 | 3 | 4 | 3 | 21 |
@@ -156,7 +156,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Nice | 13 | 5 | 2 | 6 | -5 | 17 |
 | 10 | Toulouse | 13 | 4 | 4 | 5 | 1 | 16 |
 | 11 | Angers | 13 | 4 | 4 | 5 | -4 | 16 |
-| 12 | Paris FC | 13 | 4 | 2 | 7 | -4 | 14 |
+| 12 | Paris FC | 13 | 4 | 2 | 7 | -5 | 14 |
 | 13 | Le Havre | 13 | 3 | 5 | 5 | -7 | 14 |
 | 14 | Brest | 13 | 3 | 4 | 6 | -6 | 13 |
 | 15 | Nantes | 13 | 2 | 5 | 6 | -7 | 11 |
@@ -446,11 +446,11 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Vasco da Gama | 35 | 12 | 6 | 17 | -2 | 42 |
 | 14 | Ceará | 34 | 11 | 9 | 14 | 0 | 42 |
 | 15 | Internacional | 34 | 10 | 10 | 14 | -8 | 40 |
-| 16 | Santos | 34 | 9 | 10 | 15 | -14 | 37 |
-| 17 | Vitória | 35 | 8 | 13 | 14 | -18 | 37 |
+| 16 | Vitória | 35 | 9 | 12 | 14 | -17 | 39 |
+| 17 | Santos | 34 | 9 | 10 | 15 | -14 | 37 |
 | 18 | Fortaleza | 34 | 8 | 10 | 16 | -16 | 34 |
 | 19 | Juventude | 35 | 9 | 6 | 20 | -31 | 33 |
-| 20 | Sport | 35 | 2 | 12 | 21 | -36 | 18 |
+| 20 | Sport | 35 | 2 | 11 | 22 | -37 | 17 |
 
 
 <!-- END_TABLE -->
