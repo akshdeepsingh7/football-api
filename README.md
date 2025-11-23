@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 23 November 2025, 09:17 PM UTC (Monday, 24 November 2025, 02:47 AM IST)
+**Last Updated:** Sunday, 23 November 2025, 09:38 PM UTC (Monday, 24 November 2025, 03:08 AM IST)
 
 ### Premier League
 
@@ -72,17 +72,17 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 13 | 10 | 1 | 2 | 21 | 31 |
-| 2 | Real Madrid | 13 | 10 | 1 | 2 | 15 | 31 |
+| 1 | Real Madrid | 13 | 10 | 2 | 1 | 16 | 32 |
+| 2 | Barcelona | 13 | 10 | 1 | 2 | 21 | 31 |
 | 3 | Villarreal | 13 | 9 | 2 | 2 | 15 | 29 |
 | 4 | Atlético de Madrid | 13 | 8 | 4 | 1 | 14 | 28 |
 | 5 | Real Betis | 13 | 5 | 6 | 2 | 6 | 21 |
 | 6 | Espanyol | 12 | 5 | 3 | 4 | 0 | 18 |
-| 7 | Elche | 13 | 4 | 6 | 3 | 0 | 18 |
-| 8 | Getafe | 13 | 5 | 2 | 6 | -3 | 17 |
-| 9 | Athletic Bilbao | 13 | 5 | 2 | 6 | -5 | 17 |
-| 10 | Sevilla | 12 | 5 | 1 | 6 | -1 | 16 |
-| 11 | Real Sociedad | 13 | 4 | 4 | 5 | -1 | 16 |
+| 7 | Getafe | 13 | 5 | 2 | 6 | -3 | 17 |
+| 8 | Athletic Bilbao | 13 | 5 | 2 | 6 | -5 | 17 |
+| 9 | Sevilla | 12 | 5 | 1 | 6 | -1 | 16 |
+| 10 | Real Sociedad | 13 | 4 | 4 | 5 | -1 | 16 |
+| 11 | Elche | 13 | 3 | 7 | 3 | -1 | 16 |
 | 12 | Celta de Vigo | 13 | 3 | 7 | 3 | -2 | 16 |
 | 13 | Rayo Vallecano | 13 | 4 | 4 | 5 | -2 | 16 |
 | 14 | Alavés | 13 | 4 | 3 | 6 | -1 | 15 |
@@ -148,15 +148,15 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 13 | 9 | 3 | 1 | 16 | 30 |
 | 2 | Marseille | 13 | 9 | 1 | 3 | 21 | 28 |
 | 3 | Lens | 13 | 9 | 1 | 3 | 11 | 28 |
-| 4 | Strasbourg | 13 | 7 | 1 | 5 | 7 | 22 |
-| 5 | Lille | 13 | 6 | 3 | 4 | 8 | 21 |
+| 4 | Lille | 13 | 7 | 2 | 4 | 9 | 23 |
+| 5 | Strasbourg | 13 | 7 | 1 | 5 | 7 | 22 |
 | 6 | Rennes | 13 | 5 | 6 | 2 | 5 | 21 |
 | 7 | Lyon | 13 | 6 | 3 | 4 | 3 | 21 |
 | 8 | Monaco | 13 | 6 | 2 | 5 | 0 | 20 |
 | 9 | Nice | 13 | 5 | 2 | 6 | -5 | 17 |
 | 10 | Toulouse | 13 | 4 | 4 | 5 | 1 | 16 |
 | 11 | Angers | 13 | 4 | 4 | 5 | -4 | 16 |
-| 12 | Paris FC | 13 | 4 | 3 | 6 | -3 | 15 |
+| 12 | Paris FC | 13 | 4 | 2 | 7 | -4 | 14 |
 | 13 | Le Havre | 13 | 3 | 5 | 5 | -7 | 14 |
 | 14 | Brest | 13 | 3 | 4 | 6 | -6 | 13 |
 | 15 | Nantes | 13 | 2 | 5 | 6 | -7 | 11 |
@@ -447,10 +447,10 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Ceará | 34 | 11 | 9 | 14 | 0 | 42 |
 | 15 | Internacional | 34 | 10 | 10 | 14 | -8 | 40 |
 | 16 | Santos | 34 | 9 | 10 | 15 | -14 | 37 |
-| 17 | Vitória | 34 | 8 | 12 | 14 | -18 | 36 |
+| 17 | Vitória | 35 | 8 | 13 | 14 | -18 | 37 |
 | 18 | Fortaleza | 34 | 8 | 10 | 16 | -16 | 34 |
 | 19 | Juventude | 35 | 9 | 6 | 20 | -31 | 33 |
-| 20 | Sport | 34 | 2 | 11 | 21 | -36 | 17 |
+| 20 | Sport | 35 | 2 | 12 | 21 | -36 | 18 |
 
 
 <!-- END_TABLE -->
