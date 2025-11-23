@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 23 November 2025, 05:39 PM UTC",
-        "IST": "Sunday, 23 November 2025, 11:09 PM IST"
+        "UTC": "Sunday, 23 November 2025, 06:27 PM UTC",
+        "IST": "Sunday, 23 November 2025, 11:57 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -935,16 +935,26 @@
             },
             {
                 "Position": "15",
-                "Team": "Lorient",
+                "Team": "Nantes",
                 "Played": "13",
-                "Wins": "3",
-                "Draws": "4",
+                "Wins": "2",
+                "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "-11",
-                "Points": "13"
+                "Goal Difference": "-7",
+                "Points": "11"
             },
             {
                 "Position": "16",
+                "Team": "Lorient",
+                "Played": "13",
+                "Wins": "2",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-12",
+                "Points": "11"
+            },
+            {
+                "Position": "17",
                 "Team": "Metz",
                 "Played": "13",
                 "Wins": "3",
@@ -952,16 +962,6 @@
                 "Losses": "8",
                 "Goal Difference": "-16",
                 "Points": "11"
-            },
-            {
-                "Position": "17",
-                "Team": "Nantes",
-                "Played": "13",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-8",
-                "Points": "10"
             },
             {
                 "Position": "18",
