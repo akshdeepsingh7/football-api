@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 23 November 2025, 06:48 PM UTC (Monday, 24 November 2025, 12:18 AM IST)
+**Last Updated:** Sunday, 23 November 2025, 07:16 PM UTC (Monday, 24 November 2025, 12:46 AM IST)
 
 ### Premier League
 
@@ -75,10 +75,10 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Barcelona | 13 | 10 | 1 | 2 | 21 | 31 |
 | 2 | Real Madrid | 12 | 10 | 1 | 1 | 16 | 31 |
 | 3 | Villarreal | 13 | 9 | 2 | 2 | 15 | 29 |
-| 4 | Atlético de Madrid | 13 | 7 | 5 | 1 | 13 | 26 |
+| 4 | Atlético de Madrid | 13 | 8 | 4 | 1 | 14 | 28 |
 | 5 | Real Betis | 13 | 5 | 6 | 2 | 6 | 21 |
 | 6 | Espanyol | 12 | 5 | 3 | 4 | 0 | 18 |
-| 7 | Getafe | 13 | 5 | 3 | 5 | -2 | 18 |
+| 7 | Getafe | 13 | 5 | 2 | 6 | -3 | 17 |
 | 8 | Athletic Bilbao | 13 | 5 | 2 | 6 | -5 | 17 |
 | 9 | Sevilla | 12 | 5 | 1 | 6 | -1 | 16 |
 | 10 | Real Sociedad | 13 | 4 | 4 | 5 | -1 | 16 |
@@ -127,7 +127,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Milan | 11 | 6 | 4 | 1 | 8 | 22 |
 | 6 | Juventus | 12 | 5 | 5 | 2 | 4 | 20 |
 | 7 | Como | 11 | 4 | 6 | 1 | 6 | 18 |
-| 8 | Lazio | 12 | 5 | 3 | 4 | 5 | 18 |
+| 8 | Lazio | 12 | 5 | 3 | 4 | 6 | 18 |
 | 9 | Sassuolo | 11 | 5 | 1 | 5 | 2 | 16 |
 | 10 | Udinese | 12 | 4 | 3 | 5 | -8 | 15 |
 | 11 | Torino | 11 | 3 | 5 | 3 | -6 | 14 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
 | 14 | Cagliari | 12 | 2 | 5 | 5 | -5 | 11 |
 | 15 | Parma | 12 | 2 | 5 | 5 | -6 | 11 |
-| 16 | Lecce | 12 | 2 | 4 | 6 | -7 | 10 |
+| 16 | Lecce | 12 | 2 | 4 | 6 | -8 | 10 |
 | 17 | Pisa | 11 | 1 | 6 | 4 | -6 | 9 |
 | 18 | Genoa | 12 | 1 | 5 | 6 | -8 | 8 |
 | 19 | Fiorentina | 12 | 0 | 6 | 6 | -9 | 6 |
@@ -437,19 +437,19 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Mirassol | 34 | 16 | 12 | 6 | 21 | 60 |
 | 5 | Botafogo | 35 | 16 | 10 | 9 | 18 | 58 |
 | 6 | Fluminense | 35 | 16 | 7 | 12 | 2 | 55 |
-| 7 | Bahia | 34 | 15 | 8 | 11 | 3 | 53 |
-| 8 | RB Bragantino | 35 | 13 | 6 | 16 | -13 | 45 |
-| 9 | São Paulo | 34 | 12 | 9 | 13 | -1 | 45 |
+| 7 | Bahia | 35 | 15 | 9 | 11 | 3 | 54 |
+| 8 | São Paulo | 35 | 13 | 9 | 13 | 0 | 48 |
+| 9 | RB Bragantino | 35 | 13 | 6 | 16 | -13 | 45 |
 | 10 | Corinthians | 34 | 12 | 9 | 13 | -1 | 45 |
 | 11 | Atlético Mineiro | 34 | 11 | 11 | 12 | -2 | 44 |
-| 12 | Grêmio | 35 | 11 | 10 | 14 | -7 | 43 |
-| 13 | Vasco da Gama | 34 | 12 | 6 | 16 | -1 | 42 |
+| 12 | Vasco da Gama | 35 | 12 | 7 | 16 | -1 | 43 |
+| 13 | Grêmio | 35 | 11 | 10 | 14 | -7 | 43 |
 | 14 | Ceará | 34 | 11 | 9 | 14 | 0 | 42 |
 | 15 | Internacional | 34 | 10 | 10 | 14 | -8 | 40 |
 | 16 | Santos | 34 | 9 | 10 | 15 | -14 | 37 |
 | 17 | Vitória | 34 | 8 | 12 | 14 | -18 | 36 |
 | 18 | Fortaleza | 34 | 8 | 10 | 16 | -16 | 34 |
-| 19 | Juventude | 34 | 9 | 6 | 19 | -30 | 33 |
+| 19 | Juventude | 35 | 9 | 6 | 20 | -31 | 33 |
 | 20 | Sport | 34 | 2 | 11 | 21 | -36 | 17 |
 
 
