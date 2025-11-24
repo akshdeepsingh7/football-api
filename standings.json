@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 24 November 2025, 08:24 PM UTC",
-        "IST": "Tuesday, 25 November 2025, 01:54 AM IST"
+        "UTC": "Monday, 24 November 2025, 08:41 PM UTC",
+        "IST": "Tuesday, 25 November 2025, 02:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -77,16 +77,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Manchester United",
-                "Played": "12",
-                "Wins": "5",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "1",
-                "Points": "19"
-            },
-            {
-                "Position": "9",
                 "Team": "AFC Bournemouth",
                 "Played": "12",
                 "Wins": "5",
@@ -96,7 +86,7 @@
                 "Points": "19"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Tottenham Hotspur",
                 "Played": "12",
                 "Wins": "5",
@@ -106,7 +96,27 @@
                 "Points": "18"
             },
             {
+                "Position": "10",
+                "Team": "Manchester United",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "18"
+            },
+            {
                 "Position": "11",
+                "Team": "Everton",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "18"
+            },
+            {
+                "Position": "12",
                 "Team": "Liverpool FC",
                 "Played": "12",
                 "Wins": "6",
@@ -116,22 +126,12 @@
                 "Points": "18"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Brentford",
                 "Played": "12",
                 "Wins": "5",
                 "Draws": "1",
                 "Losses": "6",
-                "Goal Difference": "-1",
-                "Points": "16"
-            },
-            {
-                "Position": "13",
-                "Team": "Everton",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "4",
                 "Goal Difference": "-1",
                 "Points": "16"
             },

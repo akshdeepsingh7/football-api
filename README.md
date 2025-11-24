@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 24 November 2025, 08:24 PM UTC (Tuesday, 25 November 2025, 01:54 AM IST)
+**Last Updated:** Monday, 24 November 2025, 08:41 PM UTC (Tuesday, 25 November 2025, 02:11 AM IST)
 
 ### Premier League
 
@@ -54,12 +54,12 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Crystal Palace | 12 | 5 | 5 | 2 | 7 | 20 |
 | 6 | Brighton & Hove Albion | 12 | 5 | 4 | 3 | 3 | 19 |
 | 7 | Sunderland | 12 | 5 | 4 | 3 | 3 | 19 |
-| 8 | Manchester United | 12 | 5 | 4 | 3 | 1 | 19 |
-| 9 | AFC Bournemouth | 12 | 5 | 4 | 3 | -1 | 19 |
-| 10 | Tottenham Hotspur | 12 | 5 | 3 | 4 | 6 | 18 |
-| 11 | Liverpool FC | 12 | 6 | 0 | 6 | -2 | 18 |
-| 12 | Brentford | 12 | 5 | 1 | 6 | -1 | 16 |
-| 13 | Everton | 12 | 4 | 4 | 4 | -1 | 16 |
+| 8 | AFC Bournemouth | 12 | 5 | 4 | 3 | -1 | 19 |
+| 9 | Tottenham Hotspur | 12 | 5 | 3 | 4 | 6 | 18 |
+| 10 | Manchester United | 12 | 5 | 3 | 4 | 0 | 18 |
+| 11 | Everton | 12 | 5 | 3 | 4 | 0 | 18 |
+| 12 | Liverpool FC | 12 | 6 | 0 | 6 | -2 | 18 |
+| 13 | Brentford | 12 | 5 | 1 | 6 | -1 | 16 |
 | 14 | Newcastle United | 12 | 4 | 3 | 5 | -2 | 15 |
 | 15 | Fulham | 12 | 4 | 2 | 6 | -3 | 14 |
 | 16 | Nottingham Forest | 12 | 3 | 3 | 6 | -7 | 12 |
