@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 24 November 2025, 06:30 PM UTC",
-        "IST": "Tuesday, 25 November 2025, 12:00 AM IST"
+        "UTC": "Monday, 24 November 2025, 07:14 PM UTC",
+        "IST": "Tuesday, 25 November 2025, 12:44 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -643,6 +643,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Como",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "1",
+                "Goal Difference": "9",
+                "Points": "21"
+            },
+            {
+                "Position": "7",
                 "Team": "Juventus",
                 "Played": "12",
                 "Wins": "5",
@@ -650,16 +660,6 @@
                 "Losses": "2",
                 "Goal Difference": "4",
                 "Points": "20"
-            },
-            {
-                "Position": "7",
-                "Team": "Como",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "1",
-                "Goal Difference": "6",
-                "Points": "19"
             },
             {
                 "Position": "8",
@@ -683,16 +683,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Torino",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "-6",
-                "Points": "15"
-            },
-            {
-                "Position": "11",
                 "Team": "Udinese",
                 "Played": "12",
                 "Wins": "4",
@@ -702,13 +692,23 @@
                 "Points": "15"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Cremonese",
                 "Played": "12",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "-3",
+                "Points": "14"
+            },
+            {
+                "Position": "12",
+                "Team": "Torino",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "-9",
                 "Points": "14"
             },
             {
