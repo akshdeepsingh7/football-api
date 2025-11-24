@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 24 November 2025, 05:19 PM UTC",
-        "IST": "Monday, 24 November 2025, 10:49 PM IST"
+        "UTC": "Monday, 24 November 2025, 05:43 PM UTC",
+        "IST": "Monday, 24 November 2025, 11:13 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -654,12 +654,12 @@
             {
                 "Position": "7",
                 "Team": "Como",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "4",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "1",
                 "Goal Difference": "6",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "8",
@@ -683,6 +683,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Torino",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "-6",
+                "Points": "15"
+            },
+            {
+                "Position": "11",
                 "Team": "Udinese",
                 "Played": "12",
                 "Wins": "4",
@@ -690,16 +700,6 @@
                 "Losses": "5",
                 "Goal Difference": "-8",
                 "Points": "15"
-            },
-            {
-                "Position": "11",
-                "Team": "Torino",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-6",
-                "Points": "14"
             },
             {
                 "Position": "12",
