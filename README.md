@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 24 November 2025, 07:14 PM UTC (Tuesday, 25 November 2025, 12:44 AM IST)
+**Last Updated:** Monday, 24 November 2025, 07:38 PM UTC (Tuesday, 25 November 2025, 01:08 AM IST)
 
 ### Premier League
 
@@ -125,13 +125,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Napoli | 12 | 8 | 1 | 3 | 8 | 25 |
 | 4 | Inter | 12 | 8 | 0 | 4 | 13 | 24 |
 | 5 | Bologna | 12 | 7 | 3 | 2 | 13 | 24 |
-| 6 | Como | 12 | 5 | 6 | 1 | 9 | 21 |
+| 6 | Como | 12 | 5 | 6 | 1 | 10 | 21 |
 | 7 | Juventus | 12 | 5 | 5 | 2 | 4 | 20 |
 | 8 | Lazio | 12 | 5 | 3 | 4 | 6 | 18 |
 | 9 | Sassuolo | 11 | 5 | 1 | 5 | 2 | 16 |
 | 10 | Udinese | 12 | 4 | 3 | 5 | -8 | 15 |
 | 11 | Cremonese | 12 | 3 | 5 | 4 | -3 | 14 |
-| 12 | Torino | 12 | 3 | 5 | 4 | -9 | 14 |
+| 12 | Torino | 12 | 3 | 5 | 4 | -10 | 14 |
 | 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
 | 14 | Cagliari | 12 | 2 | 5 | 5 | -5 | 11 |
 | 15 | Parma | 12 | 2 | 5 | 5 | -6 | 11 |
