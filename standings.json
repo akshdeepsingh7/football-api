@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 24 November 2025, 09:40 PM UTC",
-        "IST": "Tuesday, 25 November 2025, 03:10 AM IST"
+        "UTC": "Monday, 24 November 2025, 10:19 PM UTC",
+        "IST": "Tuesday, 25 November 2025, 03:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3254,12 +3254,12 @@
             {
                 "Position": "4",
                 "Team": "Mirassol",
-                "Played": "34",
-                "Wins": "16",
+                "Played": "35",
+                "Wins": "17",
                 "Draws": "12",
                 "Losses": "6",
-                "Goal Difference": "21",
-                "Points": "60"
+                "Goal Difference": "22",
+                "Points": "63"
             },
             {
                 "Position": "5",
@@ -3354,11 +3354,11 @@
             {
                 "Position": "14",
                 "Team": "Cear\u00e1",
-                "Played": "34",
+                "Played": "35",
                 "Wins": "11",
                 "Draws": "9",
-                "Losses": "14",
-                "Goal Difference": "0",
+                "Losses": "15",
+                "Goal Difference": "-1",
                 "Points": "42"
             },
             {
