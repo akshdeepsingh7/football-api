@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 25 November 2025, 07:17 PM UTC",
-        "IST": "Wednesday, 26 November 2025, 12:47 AM IST"
+        "UTC": "Tuesday, 25 November 2025, 07:39 PM UTC",
+        "IST": "Wednesday, 26 November 2025, 01:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1247,21 +1247,21 @@
             },
             {
                 "Position": "28",
-                "Team": "Athletic Bilbao",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-5",
-                "Points": "3"
-            },
-            {
-                "Position": "29",
                 "Team": "Benfica",
                 "Played": "5",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "3"
+            },
+            {
+                "Position": "29",
+                "Team": "Athletic Bilbao",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "3",
                 "Goal Difference": "-5",
                 "Points": "3"
             },
@@ -1332,7 +1332,7 @@
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "5",
-                "Goal Difference": "-14",
+                "Goal Difference": "-15",
                 "Points": "0"
             }
         ],
