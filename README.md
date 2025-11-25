@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 25 November 2025, 05:43 PM UTC (Tuesday, 25 November 2025, 11:13 PM IST)
+**Last Updated:** Tuesday, 25 November 2025, 06:32 PM UTC (Wednesday, 26 November 2025, 12:02 AM IST)
 
 ### Premier League
 
@@ -172,11 +172,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Arsenal | 4 | 4 | 0 | 0 | 11 | 12 |
 | 3 | Inter | 4 | 4 | 0 | 0 | 10 | 12 |
 | 4 | Manchester City | 4 | 3 | 1 | 0 | 7 | 10 |
-| 5 | PSG | 4 | 3 | 0 | 1 | 9 | 9 |
-| 6 | Newcastle United | 4 | 3 | 0 | 1 | 8 | 9 |
-| 7 | Real Madrid | 4 | 3 | 0 | 1 | 6 | 9 |
-| 8 | Liverpool FC | 4 | 3 | 0 | 1 | 5 | 9 |
-| 9 | Galatasaray | 4 | 3 | 0 | 1 | 2 | 9 |
+| 5 | Galatasaray | 5 | 3 | 1 | 1 | 2 | 10 |
+| 6 | PSG | 4 | 3 | 0 | 1 | 9 | 9 |
+| 7 | Newcastle United | 4 | 3 | 0 | 1 | 8 | 9 |
+| 8 | Real Madrid | 4 | 3 | 0 | 1 | 6 | 9 |
+| 9 | Liverpool FC | 4 | 3 | 0 | 1 | 5 | 9 |
 | 10 | Tottenham Hotspur | 4 | 2 | 2 | 0 | 5 | 8 |
 | 11 | Barcelona | 4 | 2 | 1 | 1 | 5 | 7 |
 | 12 | Chelsea | 4 | 2 | 1 | 1 | 3 | 7 |
@@ -192,18 +192,18 @@ The latest league standings are displayed below in Markdown tables:
 | 22 | Club Brugge | 4 | 1 | 1 | 2 | -2 | 4 |
 | 23 | Eintracht Frankfurt | 4 | 1 | 1 | 2 | -4 | 4 |
 | 24 | Napoli | 4 | 1 | 1 | 2 | -5 | 4 |
-| 25 | Marseille | 4 | 1 | 0 | 3 | 1 | 3 |
-| 26 | Juventus | 4 | 0 | 3 | 1 | -1 | 3 |
-| 27 | Athletic Bilbao | 4 | 1 | 0 | 3 | -5 | 3 |
-| 28 | Union Saint-Gilloise | 4 | 1 | 0 | 3 | -8 | 3 |
-| 29 | Bodø/Glimt | 4 | 0 | 2 | 2 | -3 | 2 |
-| 30 | Slavia Prague | 4 | 0 | 2 | 2 | -6 | 2 |
-| 31 | Olympiacos | 4 | 0 | 2 | 2 | -7 | 2 |
-| 32 | Villarreal | 4 | 0 | 1 | 3 | -4 | 1 |
-| 33 | FC Copenhagen | 4 | 0 | 1 | 3 | -8 | 1 |
-| 34 | Kairat | 4 | 0 | 1 | 3 | -9 | 1 |
-| 35 | Benfica | 4 | 0 | 0 | 4 | -6 | 0 |
-| 36 | Ajax | 4 | 0 | 0 | 4 | -13 | 0 |
+| 25 | Union Saint-Gilloise | 5 | 1 | 1 | 3 | -8 | 4 |
+| 26 | Marseille | 4 | 1 | 0 | 3 | 1 | 3 |
+| 27 | Juventus | 4 | 0 | 3 | 1 | -1 | 3 |
+| 28 | Athletic Bilbao | 4 | 1 | 0 | 3 | -5 | 3 |
+| 29 | Benfica | 5 | 1 | 0 | 4 | -5 | 3 |
+| 30 | Bodø/Glimt | 4 | 0 | 2 | 2 | -3 | 2 |
+| 31 | Slavia Prague | 4 | 0 | 2 | 2 | -6 | 2 |
+| 32 | Olympiacos | 4 | 0 | 2 | 2 | -7 | 2 |
+| 33 | Villarreal | 4 | 0 | 1 | 3 | -4 | 1 |
+| 34 | FC Copenhagen | 4 | 0 | 1 | 3 | -8 | 1 |
+| 35 | Kairat | 4 | 0 | 1 | 3 | -9 | 1 |
+| 36 | Ajax | 5 | 0 | 0 | 5 | -14 | 0 |
 
 ### Europa League
 
