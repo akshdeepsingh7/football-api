@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 25 November 2025, 09:39 PM UTC (Wednesday, 26 November 2025, 03:09 AM IST)
+**Last Updated:** Tuesday, 25 November 2025, 10:20 PM UTC (Wednesday, 26 November 2025, 03:50 AM IST)
 
 ### Premier League
 
@@ -171,8 +171,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 4 | 4 | 0 | 0 | 11 | 12 |
 | 2 | Arsenal | 4 | 4 | 0 | 0 | 11 | 12 |
 | 3 | Inter | 4 | 4 | 0 | 0 | 10 | 12 |
-| 4 | Chelsea | 5 | 3 | 1 | 1 | 6 | 10 |
-| 5 | Borussia Dortmund | 5 | 3 | 1 | 1 | 5 | 10 |
+| 4 | Borussia Dortmund | 5 | 3 | 1 | 1 | 6 | 10 |
+| 5 | Chelsea | 5 | 3 | 1 | 1 | 6 | 10 |
 | 6 | Manchester City | 5 | 3 | 1 | 1 | 5 | 10 |
 | 7 | PSG | 4 | 3 | 0 | 1 | 9 | 9 |
 | 8 | Newcastle United | 5 | 3 | 0 | 2 | 7 | 9 |
@@ -200,8 +200,8 @@ The latest league standings are displayed below in Markdown tables:
 | 30 | Slavia Prague | 5 | 0 | 3 | 2 | -6 | 3 |
 | 31 | Bodø/Glimt | 5 | 0 | 2 | 3 | -4 | 2 |
 | 32 | Olympiacos | 4 | 0 | 2 | 2 | -7 | 2 |
-| 33 | Villarreal | 5 | 0 | 1 | 4 | -7 | 1 |
-| 34 | FC Copenhagen | 4 | 0 | 1 | 3 | -8 | 1 |
+| 33 | FC Copenhagen | 4 | 0 | 1 | 3 | -8 | 1 |
+| 34 | Villarreal | 5 | 0 | 1 | 4 | -8 | 1 |
 | 35 | Kairat | 4 | 0 | 1 | 3 | -9 | 1 |
 | 36 | Ajax | 5 | 0 | 0 | 5 | -15 | 0 |
 
