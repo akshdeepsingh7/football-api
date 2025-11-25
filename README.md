@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 25 November 2025, 06:32 PM UTC (Wednesday, 26 November 2025, 12:02 AM IST)
+**Last Updated:** Tuesday, 25 November 2025, 07:17 PM UTC (Wednesday, 26 November 2025, 12:47 AM IST)
 
 ### Premier League
 
@@ -172,11 +172,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Arsenal | 4 | 4 | 0 | 0 | 11 | 12 |
 | 3 | Inter | 4 | 4 | 0 | 0 | 10 | 12 |
 | 4 | Manchester City | 4 | 3 | 1 | 0 | 7 | 10 |
-| 5 | Galatasaray | 5 | 3 | 1 | 1 | 2 | 10 |
-| 6 | PSG | 4 | 3 | 0 | 1 | 9 | 9 |
-| 7 | Newcastle United | 4 | 3 | 0 | 1 | 8 | 9 |
-| 8 | Real Madrid | 4 | 3 | 0 | 1 | 6 | 9 |
-| 9 | Liverpool FC | 4 | 3 | 0 | 1 | 5 | 9 |
+| 5 | PSG | 4 | 3 | 0 | 1 | 9 | 9 |
+| 6 | Newcastle United | 4 | 3 | 0 | 1 | 8 | 9 |
+| 7 | Real Madrid | 4 | 3 | 0 | 1 | 6 | 9 |
+| 8 | Liverpool FC | 4 | 3 | 0 | 1 | 5 | 9 |
+| 9 | Galatasaray | 5 | 3 | 0 | 2 | 1 | 9 |
 | 10 | Tottenham Hotspur | 4 | 2 | 2 | 0 | 5 | 8 |
 | 11 | Barcelona | 4 | 2 | 1 | 1 | 5 | 7 |
 | 12 | Chelsea | 4 | 2 | 1 | 1 | 3 | 7 |
@@ -185,14 +185,14 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Qarabağ | 4 | 2 | 1 | 1 | 1 | 7 |
 | 16 | Atalanta | 4 | 2 | 1 | 1 | -2 | 7 |
 | 17 | Atlético de Madrid | 4 | 2 | 0 | 2 | 1 | 6 |
-| 18 | PSV | 4 | 1 | 2 | 1 | 2 | 5 |
-| 19 | Monaco | 4 | 1 | 2 | 1 | -2 | 5 |
-| 20 | Pafos | 4 | 1 | 2 | 1 | -3 | 5 |
-| 21 | Bayer Leverkusen | 4 | 1 | 2 | 1 | -4 | 5 |
-| 22 | Club Brugge | 4 | 1 | 1 | 2 | -2 | 4 |
-| 23 | Eintracht Frankfurt | 4 | 1 | 1 | 2 | -4 | 4 |
-| 24 | Napoli | 4 | 1 | 1 | 2 | -5 | 4 |
-| 25 | Union Saint-Gilloise | 5 | 1 | 1 | 3 | -8 | 4 |
+| 18 | Union Saint-Gilloise | 5 | 2 | 0 | 3 | -7 | 6 |
+| 19 | PSV | 4 | 1 | 2 | 1 | 2 | 5 |
+| 20 | Monaco | 4 | 1 | 2 | 1 | -2 | 5 |
+| 21 | Pafos | 4 | 1 | 2 | 1 | -3 | 5 |
+| 22 | Bayer Leverkusen | 4 | 1 | 2 | 1 | -4 | 5 |
+| 23 | Club Brugge | 4 | 1 | 1 | 2 | -2 | 4 |
+| 24 | Eintracht Frankfurt | 4 | 1 | 1 | 2 | -4 | 4 |
+| 25 | Napoli | 4 | 1 | 1 | 2 | -5 | 4 |
 | 26 | Marseille | 4 | 1 | 0 | 3 | 1 | 3 |
 | 27 | Juventus | 4 | 0 | 3 | 1 | -1 | 3 |
 | 28 | Athletic Bilbao | 4 | 1 | 0 | 3 | -5 | 3 |
