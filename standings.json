@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 26 November 2025, 06:48 PM UTC",
-        "IST": "Thursday, 27 November 2025, 12:18 AM IST"
+        "UTC": "Wednesday, 26 November 2025, 07:16 PM UTC",
+        "IST": "Thursday, 27 November 2025, 12:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1247,7 +1247,7 @@
             },
             {
                 "Position": "28",
-                "Team": "Athletic Bilbao",
+                "Team": "FC Copenhagen",
                 "Played": "5",
                 "Wins": "1",
                 "Draws": "1",
@@ -1257,12 +1257,12 @@
             },
             {
                 "Position": "29",
-                "Team": "FC Copenhagen",
+                "Team": "Athletic Bilbao",
                 "Played": "5",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "-7",
+                "Goal Difference": "-5",
                 "Points": "4"
             },
             {
@@ -1322,7 +1322,7 @@
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "-10",
+                "Goal Difference": "-12",
                 "Points": "1"
             },
             {
