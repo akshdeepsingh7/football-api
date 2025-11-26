@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 25 November 2025, 11:39 PM UTC (Wednesday, 26 November 2025, 05:09 AM IST)
+**Last Updated:** Wednesday, 26 November 2025, 01:40 AM UTC (Wednesday, 26 November 2025, 07:10 AM IST)
 
 ### Premier League
 
@@ -431,18 +431,18 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Flamengo | 35 | 22 | 8 | 5 | 50 | 74 |
-| 2 | Palmeiras | 35 | 21 | 7 | 7 | 29 | 70 |
+| 1 | Flamengo | 36 | 22 | 8 | 6 | 49 | 74 |
+| 2 | Palmeiras | 36 | 21 | 8 | 7 | 29 | 71 |
 | 3 | Cruzeiro | 35 | 19 | 11 | 5 | 27 | 68 |
 | 4 | Mirassol | 35 | 17 | 12 | 6 | 24 | 63 |
 | 5 | Botafogo | 35 | 16 | 10 | 9 | 18 | 58 |
 | 6 | Bahia | 35 | 16 | 8 | 11 | 4 | 56 |
 | 7 | Fluminense | 35 | 16 | 7 | 12 | 2 | 55 |
 | 8 | São Paulo | 35 | 13 | 9 | 13 | 0 | 48 |
-| 9 | RB Bragantino | 35 | 13 | 6 | 16 | -13 | 45 |
-| 10 | Corinthians | 35 | 12 | 9 | 14 | -4 | 45 |
-| 11 | Atlético Mineiro | 34 | 11 | 11 | 12 | -2 | 44 |
-| 12 | Grêmio | 35 | 11 | 10 | 14 | -7 | 43 |
+| 9 | Atlético Mineiro | 35 | 12 | 11 | 12 | -1 | 47 |
+| 10 | RB Bragantino | 35 | 13 | 6 | 16 | -13 | 45 |
+| 11 | Corinthians | 35 | 12 | 9 | 14 | -4 | 45 |
+| 12 | Grêmio | 36 | 11 | 11 | 14 | -7 | 44 |
 | 13 | Vasco da Gama | 35 | 12 | 6 | 17 | -2 | 42 |
 | 14 | Ceará | 35 | 11 | 9 | 15 | -3 | 42 |
 | 15 | Internacional | 35 | 10 | 11 | 14 | -8 | 41 |
