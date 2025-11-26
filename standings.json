@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 26 November 2025, 01:40 AM UTC",
-        "IST": "Wednesday, 26 November 2025, 07:10 AM IST"
+        "UTC": "Wednesday, 26 November 2025, 03:15 AM UTC",
+        "IST": "Wednesday, 26 November 2025, 08:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3226,20 +3226,20 @@
                 "Team": "Flamengo",
                 "Played": "36",
                 "Wins": "22",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "49",
-                "Points": "74"
+                "Draws": "9",
+                "Losses": "5",
+                "Goal Difference": "50",
+                "Points": "75"
             },
             {
                 "Position": "2",
                 "Team": "Palmeiras",
                 "Played": "36",
                 "Wins": "21",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "29",
-                "Points": "71"
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "28",
+                "Points": "70"
             },
             {
                 "Position": "3",
@@ -3303,13 +3303,13 @@
             },
             {
                 "Position": "9",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "35",
+                "Team": "Gr\u00eamio",
+                "Played": "36",
                 "Wins": "12",
-                "Draws": "11",
-                "Losses": "12",
-                "Goal Difference": "-1",
-                "Points": "47"
+                "Draws": "10",
+                "Losses": "14",
+                "Goal Difference": "-6",
+                "Points": "46"
             },
             {
                 "Position": "10",
@@ -3333,13 +3333,13 @@
             },
             {
                 "Position": "12",
-                "Team": "Gr\u00eamio",
-                "Played": "36",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "35",
                 "Wins": "11",
-                "Draws": "11",
-                "Losses": "14",
-                "Goal Difference": "-7",
-                "Points": "44"
+                "Draws": "12",
+                "Losses": "12",
+                "Goal Difference": "-2",
+                "Points": "45"
             },
             {
                 "Position": "13",
