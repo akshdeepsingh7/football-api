@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 27 November 2025, 09:38 PM UTC (Friday, 28 November 2025, 03:08 AM IST)
+**Last Updated:** Thursday, 27 November 2025, 10:19 PM UTC (Friday, 28 November 2025, 03:49 AM IST)
 
 ### Premier League
 
@@ -220,24 +220,24 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | KRC Genk | 5 | 3 | 1 | 1 | 2 | 10 |
 | 10 | Celta de Vigo | 5 | 3 | 0 | 2 | 4 | 9 |
 | 11 | Lille | 5 | 3 | 0 | 2 | 4 | 9 |
-| 12 | Plzeň | 5 | 2 | 3 | 0 | 4 | 9 |
-| 13 | VfB Stuttgart | 5 | 3 | 0 | 2 | 3 | 9 |
+| 12 | VfB Stuttgart | 5 | 3 | 0 | 2 | 4 | 9 |
+| 13 | Plzeň | 5 | 2 | 3 | 0 | 4 | 9 |
 | 14 | Panathinaikos | 5 | 3 | 0 | 2 | 2 | 9 |
 | 15 | Roma | 5 | 3 | 0 | 2 | 2 | 9 |
 | 16 | Nottingham Forest | 5 | 2 | 2 | 1 | 4 | 8 |
 | 17 | PAOK | 5 | 2 | 2 | 1 | 3 | 8 |
-| 18 | Brann | 5 | 2 | 2 | 1 | 3 | 8 |
-| 19 | Bologna | 5 | 2 | 2 | 1 | 2 | 8 |
+| 18 | Bologna | 5 | 2 | 2 | 1 | 3 | 8 |
+| 19 | Brann | 5 | 2 | 2 | 1 | 3 | 8 |
 | 20 | Fenerbahçe | 5 | 2 | 2 | 1 | 0 | 8 |
 | 21 | Celtic | 5 | 2 | 1 | 2 | -1 | 7 |
 | 22 | Red Star Belgrade | 5 | 2 | 1 | 2 | -1 | 7 |
 | 23 | Dinamo Zagreb | 5 | 2 | 1 | 2 | -3 | 7 |
 | 24 | FC Basel | 5 | 2 | 0 | 3 | 0 | 6 |
 | 25 | Ludogorets | 5 | 2 | 0 | 3 | -3 | 6 |
-| 26 | Go Ahead Eagles | 5 | 2 | 0 | 3 | -4 | 6 |
-| 27 | BSC Young Boys | 5 | 2 | 0 | 3 | -5 | 6 |
+| 26 | BSC Young Boys | 5 | 2 | 0 | 3 | -5 | 6 |
+| 27 | Go Ahead Eagles | 5 | 2 | 0 | 3 | -5 | 6 |
 | 28 | Sturm Graz | 5 | 1 | 1 | 3 | -3 | 4 |
-| 29 | RB Salzburg | 5 | 1 | 0 | 4 | -4 | 3 |
+| 29 | RB Salzburg | 5 | 1 | 0 | 4 | -5 | 3 |
 | 30 | Feyenoord | 5 | 1 | 0 | 4 | -5 | 3 |
 | 31 | FCSB | 5 | 1 | 0 | 4 | -5 | 3 |
 | 32 | Utrecht | 5 | 0 | 1 | 4 | -5 | 1 |
@@ -252,8 +252,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Samsunspor | 4 | 3 | 1 | 0 | 7 | 10 |
 | 2 | Strasbourg | 4 | 3 | 1 | 0 | 3 | 10 |
-| 3 | Shakhtar Donetsk | 4 | 3 | 0 | 1 | 5 | 9 |
-| 4 | Celje | 4 | 3 | 0 | 1 | 4 | 9 |
+| 3 | Celje | 4 | 3 | 0 | 1 | 4 | 9 |
+| 4 | Shakhtar Donetsk | 4 | 3 | 0 | 1 | 3 | 9 |
 | 5 | Mainz 05 | 4 | 3 | 0 | 1 | 2 | 9 |
 | 6 | Raków | 4 | 2 | 2 | 0 | 5 | 8 |
 | 7 | AEK Larnaca | 4 | 2 | 2 | 0 | 5 | 8 |
@@ -284,7 +284,7 @@ The latest league standings are displayed below in Markdown tables:
 | 32 | Breiðablik | 4 | 0 | 2 | 2 | -5 | 2 |
 | 33 | Aberdeen | 4 | 0 | 2 | 2 | -7 | 2 |
 | 34 | Shelbourne | 4 | 0 | 1 | 3 | -4 | 1 |
-| 35 | Shamrock Rovers | 4 | 0 | 1 | 3 | -8 | 1 |
+| 35 | Shamrock Rovers | 4 | 0 | 1 | 3 | -6 | 1 |
 | 36 | Rapid Vienna | 4 | 0 | 0 | 4 | -10 | 0 |
 
 ### Liga Portugal
