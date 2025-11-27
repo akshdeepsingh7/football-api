@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 27 November 2025, 06:28 PM UTC (Thursday, 27 November 2025, 11:58 PM IST)
+**Last Updated:** Thursday, 27 November 2025, 06:50 PM UTC (Friday, 28 November 2025, 12:20 AM IST)
 
 ### Premier League
 
@@ -210,7 +210,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Midtjylland | 5 | 4 | 0 | 1 | 7 | 12 |
-| 2 | Aston Villa | 5 | 4 | 0 | 1 | 5 | 12 |
+| 2 | Aston Villa | 5 | 4 | 0 | 1 | 6 | 12 |
 | 3 | SC Freiburg | 5 | 3 | 2 | 0 | 5 | 11 |
 | 4 | Ferencváros | 5 | 3 | 2 | 0 | 4 | 11 |
 | 5 | Porto | 5 | 3 | 1 | 1 | 2 | 10 |
@@ -226,19 +226,19 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Fenerbahçe | 5 | 2 | 2 | 1 | 0 | 8 |
 | 16 | KRC Genk | 4 | 2 | 1 | 1 | 1 | 7 |
 | 17 | Dinamo Zagreb | 5 | 2 | 1 | 2 | -1 | 7 |
-| 18 | Panathinaikos | 4 | 2 | 0 | 2 | 1 | 6 |
-| 19 | FC Basel | 4 | 2 | 0 | 2 | 1 | 6 |
-| 20 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
-| 21 | Go Ahead Eagles | 4 | 2 | 0 | 2 | -1 | 6 |
-| 22 | Ludogorets | 5 | 2 | 0 | 3 | -3 | 6 |
-| 23 | BSC Young Boys | 5 | 2 | 0 | 3 | -5 | 6 |
-| 24 | Nottingham Forest | 4 | 1 | 2 | 1 | 1 | 5 |
-| 25 | Bologna | 4 | 1 | 2 | 1 | 0 | 5 |
-| 26 | Celtic | 5 | 1 | 2 | 2 | -3 | 5 |
+| 18 | Celtic | 5 | 2 | 1 | 2 | -2 | 7 |
+| 19 | Panathinaikos | 4 | 2 | 0 | 2 | 1 | 6 |
+| 20 | FC Basel | 4 | 2 | 0 | 2 | 1 | 6 |
+| 21 | VfB Stuttgart | 4 | 2 | 0 | 2 | 0 | 6 |
+| 22 | Go Ahead Eagles | 4 | 2 | 0 | 2 | -1 | 6 |
+| 23 | Ludogorets | 5 | 2 | 0 | 3 | -3 | 6 |
+| 24 | BSC Young Boys | 5 | 2 | 0 | 3 | -6 | 6 |
+| 25 | Nottingham Forest | 4 | 1 | 2 | 1 | 1 | 5 |
+| 26 | Bologna | 4 | 1 | 2 | 1 | 0 | 5 |
 | 27 | Red Star Belgrade | 4 | 1 | 1 | 2 | -2 | 4 |
 | 28 | Sturm Graz | 4 | 1 | 1 | 2 | -2 | 4 |
-| 29 | Feyenoord | 5 | 1 | 1 | 3 | -3 | 4 |
-| 30 | RB Salzburg | 4 | 1 | 0 | 3 | -2 | 3 |
+| 29 | RB Salzburg | 4 | 1 | 0 | 3 | -2 | 3 |
+| 30 | Feyenoord | 5 | 1 | 0 | 4 | -4 | 3 |
 | 31 | FCSB | 4 | 1 | 0 | 3 | -4 | 3 |
 | 32 | Utrecht | 4 | 0 | 1 | 3 | -4 | 1 |
 | 33 | Malmö | 4 | 0 | 1 | 3 | -5 | 1 |
