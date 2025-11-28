@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 28 November 2025, 07:16 PM UTC (Saturday, 29 November 2025, 12:46 AM IST)
+**Last Updated:** Friday, 28 November 2025, 07:37 PM UTC (Saturday, 29 November 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -98,7 +98,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 11 | 10 | 1 | 0 | 33 | 31 |
-| 2 | RB Leipzig | 11 | 8 | 1 | 2 | 9 | 25 |
+| 2 | RB Leipzig | 12 | 8 | 2 | 2 | 9 | 26 |
 | 3 | Bayer Leverkusen | 11 | 7 | 2 | 2 | 12 | 23 |
 | 4 | Borussia Dortmund | 11 | 6 | 4 | 1 | 9 | 22 |
 | 5 | VfB Stuttgart | 11 | 7 | 1 | 3 | 5 | 22 |
@@ -107,8 +107,8 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Union Berlin | 11 | 4 | 3 | 4 | -3 | 15 |
 | 9 | Werder Bremen | 11 | 4 | 3 | 4 | -5 | 15 |
 | 10 | Köln | 11 | 4 | 2 | 5 | 1 | 14 |
-| 11 | SC Freiburg | 11 | 3 | 4 | 4 | -5 | 13 |
-| 12 | Borussia Mönchengladbach | 11 | 3 | 3 | 5 | -3 | 12 |
+| 11 | Borussia Mönchengladbach | 12 | 3 | 4 | 5 | -3 | 13 |
+| 12 | SC Freiburg | 11 | 3 | 4 | 4 | -5 | 13 |
 | 13 | Augsburg | 11 | 3 | 1 | 7 | -9 | 10 |
 | 14 | Hamburg | 11 | 2 | 3 | 6 | -8 | 9 |
 | 15 | VfL Wolfsburg | 11 | 2 | 2 | 7 | -8 | 8 |
