@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 28 November 2025, 10:18 PM UTC",
-        "IST": "Saturday, 29 November 2025, 03:48 AM IST"
+        "UTC": "Friday, 28 November 2025, 10:42 PM UTC",
+        "IST": "Saturday, 29 November 2025, 04:12 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3313,6 +3313,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Vasco da Gama",
+                "Played": "36",
+                "Wins": "13",
+                "Draws": "6",
+                "Losses": "17",
+                "Goal Difference": "0",
+                "Points": "45"
+            },
+            {
+                "Position": "11",
                 "Team": "RB Bragantino",
                 "Played": "36",
                 "Wins": "13",
@@ -3322,7 +3332,7 @@
                 "Points": "45"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Corinthians",
                 "Played": "35",
                 "Wins": "12",
@@ -3332,7 +3342,7 @@
                 "Points": "45"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "35",
                 "Wins": "11",
@@ -3340,16 +3350,6 @@
                 "Losses": "12",
                 "Goal Difference": "-2",
                 "Points": "45"
-            },
-            {
-                "Position": "13",
-                "Team": "Vasco da Gama",
-                "Played": "35",
-                "Wins": "12",
-                "Draws": "6",
-                "Losses": "17",
-                "Goal Difference": "-2",
-                "Points": "42"
             },
             {
                 "Position": "14",
@@ -3364,11 +3364,11 @@
             {
                 "Position": "15",
                 "Team": "Internacional",
-                "Played": "35",
+                "Played": "36",
                 "Wins": "10",
                 "Draws": "11",
-                "Losses": "14",
-                "Goal Difference": "-8",
+                "Losses": "15",
+                "Goal Difference": "-10",
                 "Points": "41"
             },
             {
