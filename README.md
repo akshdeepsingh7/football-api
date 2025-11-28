@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 28 November 2025, 09:17 PM UTC (Saturday, 29 November 2025, 02:47 AM IST)
+**Last Updated:** Friday, 28 November 2025, 09:38 PM UTC (Saturday, 29 November 2025, 03:08 AM IST)
 
 ### Premier League
 
@@ -78,12 +78,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Atlético de Madrid | 13 | 8 | 4 | 1 | 14 | 28 |
 | 5 | Real Betis | 13 | 5 | 6 | 2 | 6 | 21 |
 | 6 | Espanyol | 13 | 6 | 3 | 4 | 1 | 21 |
-| 7 | Getafe | 14 | 5 | 3 | 6 | -3 | 18 |
-| 8 | Elche | 14 | 3 | 8 | 3 | -1 | 17 |
-| 9 | Athletic Bilbao | 13 | 5 | 2 | 6 | -5 | 17 |
-| 10 | Real Sociedad | 13 | 4 | 4 | 5 | -1 | 16 |
-| 11 | Sevilla | 13 | 5 | 1 | 7 | -2 | 16 |
-| 12 | Celta de Vigo | 13 | 3 | 7 | 3 | -2 | 16 |
+| 7 | Getafe | 14 | 6 | 2 | 6 | -2 | 20 |
+| 8 | Athletic Bilbao | 13 | 5 | 2 | 6 | -5 | 17 |
+| 9 | Real Sociedad | 13 | 4 | 4 | 5 | -1 | 16 |
+| 10 | Sevilla | 13 | 5 | 1 | 7 | -2 | 16 |
+| 11 | Celta de Vigo | 13 | 3 | 7 | 3 | -2 | 16 |
+| 12 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
 | 13 | Rayo Vallecano | 13 | 4 | 4 | 5 | -2 | 16 |
 | 14 | Alavés | 13 | 4 | 3 | 6 | -1 | 15 |
 | 15 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
@@ -317,8 +317,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Coventry City | 17 | 12 | 4 | 1 | 30 | 40 |
 | 2 | Stoke City | 17 | 9 | 3 | 5 | 13 | 30 |
 | 3 | Middlesbrough | 17 | 8 | 6 | 3 | 4 | 30 |
-| 4 | Ipswich Town | 17 | 7 | 7 | 3 | 12 | 28 |
-| 5 | Millwall | 17 | 8 | 4 | 5 | -4 | 28 |
+| 4 | Millwall | 17 | 8 | 4 | 5 | -4 | 28 |
+| 5 | Ipswich Town | 17 | 7 | 6 | 4 | 11 | 27 |
 | 6 | Preston North End | 17 | 7 | 6 | 4 | 5 | 27 |
 | 7 | Bristol City | 17 | 7 | 5 | 5 | 5 | 26 |
 | 8 | Derby County | 17 | 7 | 5 | 5 | 1 | 26 |
@@ -332,9 +332,9 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Charlton Athletic | 17 | 6 | 5 | 6 | -3 | 23 |
 | 17 | West Bromwich Albion | 17 | 6 | 4 | 7 | -3 | 22 |
 | 18 | Blackburn Rovers | 16 | 6 | 1 | 9 | -5 | 19 |
-| 19 | Swansea City | 17 | 4 | 5 | 8 | -8 | 17 |
-| 20 | Portsmouth | 17 | 4 | 5 | 8 | -9 | 17 |
-| 21 | Oxford United | 18 | 3 | 7 | 8 | -6 | 16 |
+| 19 | Oxford United | 18 | 4 | 6 | 8 | -5 | 18 |
+| 20 | Swansea City | 17 | 4 | 5 | 8 | -8 | 17 |
+| 21 | Portsmouth | 17 | 4 | 5 | 8 | -9 | 17 |
 | 22 | Sheffield United | 17 | 5 | 1 | 11 | -9 | 16 |
 | 23 | Norwich City | 17 | 2 | 4 | 11 | -12 | 10 |
 | 24 | Sheffield Wednesday | 17 | 1 | 5 | 11 | -21 | -4 |
