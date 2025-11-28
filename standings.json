@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 27 November 2025, 11:39 PM UTC",
-        "IST": "Friday, 28 November 2025, 05:09 AM IST"
+        "UTC": "Friday, 28 November 2025, 01:38 AM UTC",
+        "IST": "Friday, 28 November 2025, 07:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3263,6 +3263,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Fluminense",
+                "Played": "36",
+                "Wins": "17",
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "8",
+                "Points": "58"
+            },
+            {
+                "Position": "6",
                 "Team": "Botafogo",
                 "Played": "35",
                 "Wins": "16",
@@ -3272,7 +3282,7 @@
                 "Points": "58"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Bahia",
                 "Played": "35",
                 "Wins": "16",
@@ -3282,24 +3292,14 @@
                 "Points": "56"
             },
             {
-                "Position": "7",
-                "Team": "Fluminense",
-                "Played": "36",
-                "Wins": "16",
-                "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "2",
-                "Points": "56"
-            },
-            {
                 "Position": "8",
                 "Team": "S\u00e3o Paulo",
                 "Played": "36",
                 "Wins": "13",
-                "Draws": "10",
-                "Losses": "13",
-                "Goal Difference": "0",
-                "Points": "49"
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "-6",
+                "Points": "48"
             },
             {
                 "Position": "9",
