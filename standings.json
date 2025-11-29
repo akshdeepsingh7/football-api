@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 29 November 2025, 07:15 PM UTC",
-        "IST": "Sunday, 30 November 2025, 12:45 AM IST"
+        "UTC": "Saturday, 29 November 2025, 07:37 PM UTC",
+        "IST": "Sunday, 30 November 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2086,10 +2086,10 @@
                 "Team": "Benfica",
                 "Played": "12",
                 "Wins": "7",
-                "Draws": "5",
-                "Losses": "0",
-                "Goal Difference": "17",
-                "Points": "26"
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "16",
+                "Points": "25"
             },
             {
                 "Position": "4",
@@ -2143,6 +2143,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Nacional",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-3",
+                "Points": "15"
+            },
+            {
+                "Position": "10",
                 "Team": "Alverca",
                 "Played": "12",
                 "Wins": "4",
@@ -2152,23 +2162,13 @@
                 "Points": "14"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Estoril",
                 "Played": "11",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "2",
-                "Points": "13"
-            },
-            {
-                "Position": "11",
-                "Team": "Nacional",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "-4",
                 "Points": "13"
             },
             {
@@ -3256,10 +3256,10 @@
                 "Team": "Mirassol",
                 "Played": "36",
                 "Wins": "17",
-                "Draws": "13",
-                "Losses": "6",
-                "Goal Difference": "24",
-                "Points": "64"
+                "Draws": "12",
+                "Losses": "7",
+                "Goal Difference": "23",
+                "Points": "63"
             },
             {
                 "Position": "5",
@@ -3363,6 +3363,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Vit\u00f3ria",
+                "Played": "36",
+                "Wins": "10",
+                "Draws": "12",
+                "Losses": "14",
+                "Goal Difference": "-15",
+                "Points": "42"
+            },
+            {
+                "Position": "16",
                 "Team": "Santos",
                 "Played": "36",
                 "Wins": "10",
@@ -3372,7 +3382,7 @@
                 "Points": "41"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Internacional",
                 "Played": "36",
                 "Wins": "10",
@@ -3380,16 +3390,6 @@
                 "Losses": "15",
                 "Goal Difference": "-12",
                 "Points": "41"
-            },
-            {
-                "Position": "17",
-                "Team": "Vit\u00f3ria",
-                "Played": "36",
-                "Wins": "9",
-                "Draws": "13",
-                "Losses": "14",
-                "Goal Difference": "-16",
-                "Points": "40"
             },
             {
                 "Position": "18",

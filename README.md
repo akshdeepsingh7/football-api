@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 29 November 2025, 07:15 PM UTC (Sunday, 30 November 2025, 12:45 AM IST)
+**Last Updated:** Saturday, 29 November 2025, 07:37 PM UTC (Sunday, 30 November 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -293,15 +293,15 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 11 | 10 | 1 | 0 | 21 | 31 |
 | 2 | Sporting CP | 11 | 9 | 1 | 1 | 21 | 28 |
-| 3 | Benfica | 12 | 7 | 5 | 0 | 17 | 26 |
+| 3 | Benfica | 12 | 7 | 4 | 1 | 16 | 25 |
 | 4 | Gil Vicente | 11 | 7 | 2 | 2 | 11 | 23 |
 | 5 | Famalicão | 12 | 5 | 5 | 2 | 6 | 20 |
 | 6 | Moreirense | 12 | 6 | 1 | 5 | 1 | 19 |
 | 7 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
 | 8 | Braga | 11 | 4 | 4 | 3 | 8 | 16 |
-| 9 | Alverca | 12 | 4 | 2 | 6 | -5 | 14 |
-| 10 | Estoril | 11 | 3 | 4 | 4 | 2 | 13 |
-| 11 | Nacional | 12 | 3 | 4 | 5 | -4 | 13 |
+| 9 | Nacional | 12 | 4 | 3 | 5 | -3 | 15 |
+| 10 | Alverca | 12 | 4 | 2 | 6 | -5 | 14 |
+| 11 | Estoril | 11 | 3 | 4 | 4 | 2 | 13 |
 | 12 | Rio Ave | 11 | 2 | 6 | 3 | -5 | 12 |
 | 13 | Estrela Amadora | 11 | 2 | 5 | 4 | -1 | 11 |
 | 14 | Santa Clara | 11 | 3 | 2 | 6 | -4 | 11 |
@@ -434,7 +434,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Flamengo | 36 | 22 | 9 | 5 | 50 | 75 |
 | 2 | Palmeiras | 36 | 21 | 7 | 8 | 28 | 70 |
 | 3 | Cruzeiro | 35 | 19 | 11 | 5 | 27 | 68 |
-| 4 | Mirassol | 36 | 17 | 13 | 6 | 24 | 64 |
+| 4 | Mirassol | 36 | 17 | 12 | 7 | 23 | 63 |
 | 5 | Fluminense | 36 | 17 | 7 | 12 | 8 | 58 |
 | 6 | Botafogo | 35 | 16 | 10 | 9 | 18 | 58 |
 | 7 | Bahia | 36 | 16 | 9 | 11 | 4 | 57 |
@@ -445,9 +445,9 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Corinthians | 35 | 12 | 9 | 14 | -4 | 45 |
 | 13 | Atlético Mineiro | 35 | 11 | 12 | 12 | -2 | 45 |
 | 14 | Ceará | 35 | 11 | 9 | 15 | -3 | 42 |
-| 15 | Santos | 36 | 10 | 11 | 15 | -11 | 41 |
-| 16 | Internacional | 36 | 10 | 11 | 15 | -12 | 41 |
-| 17 | Vitória | 36 | 9 | 13 | 14 | -16 | 40 |
+| 15 | Vitória | 36 | 10 | 12 | 14 | -15 | 42 |
+| 16 | Santos | 36 | 10 | 11 | 15 | -11 | 41 |
+| 17 | Internacional | 36 | 10 | 11 | 15 | -12 | 41 |
 | 18 | Fortaleza | 35 | 9 | 10 | 16 | -15 | 37 |
 | 19 | Juventude | 36 | 9 | 7 | 20 | -31 | 34 |
 | 20 | Sport | 36 | 2 | 11 | 23 | -41 | 17 |
