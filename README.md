@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 29 November 2025, 02:18 PM UTC (Saturday, 29 November 2025, 07:48 PM IST)
+**Last Updated:** Saturday, 29 November 2025, 02:40 PM UTC (Saturday, 29 November 2025, 08:10 PM IST)
 
 ### Premier League
 
@@ -86,9 +86,9 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
 | 13 | Rayo Vallecano | 13 | 4 | 4 | 5 | -2 | 16 |
 | 14 | Alavés | 13 | 4 | 3 | 6 | -1 | 15 |
-| 15 | Mallorca | 14 | 3 | 4 | 7 | -7 | 13 |
+| 15 | Mallorca | 14 | 4 | 3 | 7 | -5 | 15 |
 | 16 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
-| 17 | Osasuna | 14 | 3 | 3 | 8 | -6 | 12 |
+| 17 | Osasuna | 14 | 3 | 2 | 9 | -8 | 11 |
 | 18 | Girona | 13 | 2 | 5 | 6 | -13 | 11 |
 | 19 | Levante | 13 | 2 | 3 | 8 | -8 | 9 |
 | 20 | Real Oviedo | 13 | 2 | 3 | 8 | -13 | 9 |
@@ -97,24 +97,24 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 11 | 10 | 1 | 0 | 33 | 31 |
+| 1 | Bayern Munich | 12 | 10 | 1 | 1 | 32 | 31 |
 | 2 | RB Leipzig | 12 | 8 | 2 | 2 | 9 | 26 |
 | 3 | Bayer Leverkusen | 11 | 7 | 2 | 2 | 12 | 23 |
 | 4 | Borussia Dortmund | 11 | 6 | 4 | 1 | 9 | 22 |
 | 5 | VfB Stuttgart | 11 | 7 | 1 | 3 | 5 | 22 |
-| 6 | Eintracht Frankfurt | 11 | 6 | 2 | 3 | 5 | 20 |
-| 7 | Hoffenheim | 11 | 6 | 2 | 3 | 5 | 20 |
-| 8 | Union Berlin | 11 | 4 | 3 | 4 | -3 | 15 |
-| 9 | Werder Bremen | 11 | 4 | 3 | 4 | -5 | 15 |
-| 10 | Köln | 11 | 4 | 2 | 5 | 1 | 14 |
+| 6 | Hoffenheim | 12 | 6 | 3 | 3 | 5 | 21 |
+| 7 | Eintracht Frankfurt | 11 | 6 | 2 | 3 | 5 | 20 |
+| 8 | Union Berlin | 12 | 4 | 4 | 4 | -3 | 16 |
+| 9 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
+| 10 | Köln | 12 | 4 | 3 | 5 | 1 | 15 |
 | 11 | Borussia Mönchengladbach | 12 | 3 | 4 | 5 | -3 | 13 |
 | 12 | SC Freiburg | 11 | 3 | 4 | 4 | -5 | 13 |
-| 13 | Augsburg | 11 | 3 | 1 | 7 | -9 | 10 |
-| 14 | Hamburg | 11 | 2 | 3 | 6 | -8 | 9 |
-| 15 | VfL Wolfsburg | 11 | 2 | 2 | 7 | -8 | 8 |
-| 16 | St. Pauli | 11 | 2 | 1 | 8 | -12 | 7 |
+| 13 | Augsburg | 12 | 3 | 2 | 7 | -9 | 11 |
+| 14 | St. Pauli | 12 | 3 | 1 | 8 | -11 | 10 |
+| 15 | Hamburg | 11 | 2 | 3 | 6 | -8 | 9 |
+| 16 | VfL Wolfsburg | 11 | 2 | 2 | 7 | -8 | 8 |
 | 17 | Mainz 05 | 11 | 1 | 3 | 7 | -8 | 6 |
-| 18 | Heidenheim | 11 | 1 | 2 | 8 | -18 | 5 |
+| 18 | Heidenheim | 12 | 1 | 3 | 8 | -18 | 6 |
 
 ### Serie A
 
@@ -137,8 +137,8 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Parma | 13 | 2 | 5 | 6 | -7 | 11 |
 | 16 | Pisa | 12 | 1 | 7 | 4 | -6 | 10 |
 | 17 | Lecce | 12 | 2 | 4 | 6 | -8 | 10 |
-| 18 | Genoa | 13 | 1 | 6 | 6 | -8 | 9 |
-| 19 | Hellas Verona | 13 | 0 | 7 | 6 | -11 | 7 |
+| 18 | Hellas Verona | 13 | 1 | 6 | 6 | -10 | 9 |
+| 19 | Genoa | 13 | 1 | 5 | 7 | -9 | 8 |
 | 20 | Fiorentina | 12 | 0 | 6 | 6 | -9 | 6 |
 
 ### Ligue 1
@@ -315,14 +315,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 17 | 12 | 4 | 1 | 30 | 40 |
-| 2 | Stoke City | 18 | 9 | 4 | 5 | 13 | 31 |
+| 2 | Stoke City | 18 | 9 | 3 | 6 | 12 | 30 |
 | 3 | Middlesbrough | 17 | 8 | 6 | 3 | 4 | 30 |
 | 4 | Bristol City | 18 | 8 | 5 | 5 | 6 | 29 |
-| 5 | Millwall | 17 | 8 | 4 | 5 | -4 | 28 |
-| 6 | Ipswich Town | 17 | 7 | 6 | 4 | 11 | 27 |
-| 7 | Preston North End | 17 | 7 | 6 | 4 | 5 | 27 |
-| 8 | Derby County | 17 | 7 | 5 | 5 | 1 | 26 |
-| 9 | Hull City | 18 | 7 | 5 | 6 | -1 | 26 |
+| 5 | Hull City | 18 | 8 | 4 | 6 | 0 | 28 |
+| 6 | Millwall | 17 | 8 | 4 | 5 | -4 | 28 |
+| 7 | Ipswich Town | 17 | 7 | 6 | 4 | 11 | 27 |
+| 8 | Preston North End | 17 | 7 | 6 | 4 | 5 | 27 |
+| 9 | Derby County | 17 | 7 | 5 | 5 | 1 | 26 |
 | 10 | Birmingham City | 17 | 7 | 4 | 6 | 6 | 25 |
 | 11 | Wrexham | 17 | 6 | 7 | 4 | 3 | 25 |
 | 12 | Queens Park Rangers | 17 | 7 | 4 | 6 | -4 | 25 |
