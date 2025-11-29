@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 29 November 2025, 01:43 PM UTC (Saturday, 29 November 2025, 07:13 PM IST)
+**Last Updated:** Saturday, 29 November 2025, 02:18 PM UTC (Saturday, 29 November 2025, 07:48 PM IST)
 
 ### Premier League
 
@@ -128,18 +128,18 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Como | 13 | 6 | 6 | 1 | 12 | 24 |
 | 7 | Juventus | 12 | 5 | 5 | 2 | 4 | 20 |
 | 8 | Lazio | 12 | 5 | 3 | 4 | 6 | 18 |
-| 9 | Sassuolo | 13 | 5 | 2 | 6 | 0 | 17 |
-| 10 | Udinese | 12 | 4 | 3 | 5 | -8 | 15 |
+| 9 | Udinese | 13 | 5 | 3 | 5 | -7 | 18 |
+| 10 | Sassuolo | 13 | 5 | 2 | 6 | 0 | 17 |
 | 11 | Cremonese | 12 | 3 | 5 | 4 | -3 | 14 |
 | 12 | Torino | 12 | 3 | 5 | 4 | -10 | 14 |
 | 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
 | 14 | Cagliari | 12 | 2 | 5 | 5 | -5 | 11 |
-| 15 | Parma | 12 | 2 | 5 | 5 | -6 | 11 |
+| 15 | Parma | 13 | 2 | 5 | 6 | -7 | 11 |
 | 16 | Pisa | 12 | 1 | 7 | 4 | -6 | 10 |
 | 17 | Lecce | 12 | 2 | 4 | 6 | -8 | 10 |
-| 18 | Genoa | 12 | 1 | 5 | 6 | -8 | 8 |
-| 19 | Fiorentina | 12 | 0 | 6 | 6 | -9 | 6 |
-| 20 | Hellas Verona | 12 | 0 | 6 | 6 | -11 | 6 |
+| 18 | Genoa | 13 | 1 | 6 | 6 | -8 | 9 |
+| 19 | Hellas Verona | 13 | 0 | 7 | 6 | -11 | 7 |
+| 20 | Fiorentina | 12 | 0 | 6 | 6 | -9 | 6 |
 
 ### Ligue 1
 
@@ -328,11 +328,11 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Queens Park Rangers | 17 | 7 | 4 | 6 | -4 | 25 |
 | 13 | Southampton | 17 | 6 | 6 | 5 | 4 | 24 |
 | 14 | Watford | 17 | 6 | 6 | 5 | 2 | 24 |
-| 15 | Leicester City | 18 | 6 | 6 | 6 | -2 | 24 |
+| 15 | Leicester City | 18 | 6 | 6 | 6 | -1 | 24 |
 | 16 | Charlton Athletic | 17 | 6 | 5 | 6 | -3 | 23 |
 | 17 | West Bromwich Albion | 17 | 6 | 4 | 7 | -3 | 22 |
 | 18 | Blackburn Rovers | 16 | 6 | 1 | 9 | -5 | 19 |
-| 19 | Sheffield United | 18 | 6 | 1 | 11 | -7 | 19 |
+| 19 | Sheffield United | 18 | 6 | 1 | 11 | -8 | 19 |
 | 20 | Oxford United | 18 | 4 | 6 | 8 | -5 | 18 |
 | 21 | Swansea City | 17 | 4 | 5 | 8 | -8 | 17 |
 | 22 | Portsmouth | 18 | 4 | 5 | 9 | -10 | 17 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 29 November 2025, 01:43 PM UTC",
-        "IST": "Saturday, 29 November 2025, 07:13 PM IST"
+        "UTC": "Saturday, 29 November 2025, 02:18 PM UTC",
+        "IST": "Saturday, 29 November 2025, 07:48 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -673,6 +673,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Udinese",
+                "Played": "13",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-7",
+                "Points": "18"
+            },
+            {
+                "Position": "10",
                 "Team": "Sassuolo",
                 "Played": "13",
                 "Wins": "5",
@@ -680,16 +690,6 @@
                 "Losses": "6",
                 "Goal Difference": "0",
                 "Points": "17"
-            },
-            {
-                "Position": "10",
-                "Team": "Udinese",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-8",
-                "Points": "15"
             },
             {
                 "Position": "11",
@@ -734,11 +734,11 @@
             {
                 "Position": "15",
                 "Team": "Parma",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "2",
                 "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-6",
+                "Losses": "6",
+                "Goal Difference": "-7",
                 "Points": "11"
             },
             {
@@ -764,31 +764,31 @@
             {
                 "Position": "18",
                 "Team": "Genoa",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "1",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "-8",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "19",
+                "Team": "Hellas Verona",
+                "Played": "13",
+                "Wins": "0",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "-11",
+                "Points": "7"
+            },
+            {
+                "Position": "20",
                 "Team": "Fiorentina",
                 "Played": "12",
                 "Wins": "0",
                 "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "-9",
-                "Points": "6"
-            },
-            {
-                "Position": "20",
-                "Team": "Hellas Verona",
-                "Played": "12",
-                "Wins": "0",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "-11",
                 "Points": "6"
             }
         ],
@@ -2390,7 +2390,7 @@
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "6",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "24"
             },
             {
@@ -2430,7 +2430,7 @@
                 "Wins": "6",
                 "Draws": "1",
                 "Losses": "11",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "19"
             },
             {
