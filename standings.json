@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 28 November 2025, 11:38 PM UTC",
-        "IST": "Saturday, 29 November 2025, 05:08 AM IST"
+        "UTC": "Saturday, 29 November 2025, 01:38 AM UTC",
+        "IST": "Saturday, 29 November 2025, 07:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3318,7 +3318,7 @@
                 "Wins": "13",
                 "Draws": "6",
                 "Losses": "17",
-                "Goal Difference": "-1",
+                "Goal Difference": "2",
                 "Points": "45"
             },
             {
@@ -3368,11 +3368,21 @@
                 "Wins": "10",
                 "Draws": "11",
                 "Losses": "15",
-                "Goal Difference": "-9",
+                "Goal Difference": "-12",
                 "Points": "41"
             },
             {
                 "Position": "16",
+                "Team": "Santos",
+                "Played": "36",
+                "Wins": "10",
+                "Draws": "11",
+                "Losses": "15",
+                "Goal Difference": "-12",
+                "Points": "41"
+            },
+            {
+                "Position": "17",
                 "Team": "Vit\u00f3ria",
                 "Played": "35",
                 "Wins": "9",
@@ -3380,16 +3390,6 @@
                 "Losses": "14",
                 "Goal Difference": "-16",
                 "Points": "39"
-            },
-            {
-                "Position": "17",
-                "Team": "Santos",
-                "Played": "35",
-                "Wins": "9",
-                "Draws": "11",
-                "Losses": "15",
-                "Goal Difference": "-14",
-                "Points": "38"
             },
             {
                 "Position": "18",
@@ -3414,11 +3414,11 @@
             {
                 "Position": "20",
                 "Team": "Sport",
-                "Played": "35",
+                "Played": "36",
                 "Wins": "2",
                 "Draws": "11",
-                "Losses": "22",
-                "Goal Difference": "-38",
+                "Losses": "23",
+                "Goal Difference": "-40",
                 "Points": "17"
             }
         ]
