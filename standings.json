@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 29 November 2025, 06:49 PM UTC",
-        "IST": "Sunday, 30 November 2025, 12:19 AM IST"
+        "UTC": "Saturday, 29 November 2025, 07:15 PM UTC",
+        "IST": "Sunday, 30 November 2025, 12:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -112,7 +112,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "18"
             },
             {
@@ -142,7 +142,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "18"
             },
             {
@@ -3254,12 +3254,12 @@
             {
                 "Position": "4",
                 "Team": "Mirassol",
-                "Played": "35",
+                "Played": "36",
                 "Wins": "17",
-                "Draws": "12",
+                "Draws": "13",
                 "Losses": "6",
                 "Goal Difference": "24",
-                "Points": "63"
+                "Points": "64"
             },
             {
                 "Position": "5",
@@ -3384,12 +3384,12 @@
             {
                 "Position": "17",
                 "Team": "Vit\u00f3ria",
-                "Played": "35",
+                "Played": "36",
                 "Wins": "9",
-                "Draws": "12",
+                "Draws": "13",
                 "Losses": "14",
                 "Goal Difference": "-16",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "18",
