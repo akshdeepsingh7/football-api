@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 29 November 2025, 08:22 PM UTC",
-        "IST": "Sunday, 30 November 2025, 01:52 AM IST"
+        "UTC": "Saturday, 29 November 2025, 08:41 PM UTC",
+        "IST": "Sunday, 30 November 2025, 02:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -234,7 +234,7 @@
                 "Wins": "9",
                 "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "15",
+                "Goal Difference": "16",
                 "Points": "31"
             },
             {
@@ -404,7 +404,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "9",
-                "Goal Difference": "-14",
+                "Goal Difference": "-15",
                 "Points": "9"
             }
         ],
@@ -2094,12 +2094,12 @@
             {
                 "Position": "4",
                 "Team": "Gil Vicente",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "7",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "11",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "5",
@@ -2224,12 +2224,12 @@
             {
                 "Position": "17",
                 "Team": "Tondela",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "1",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "7",
                 "Goal Difference": "-14",
-                "Points": "6"
+                "Points": "7"
             },
             {
                 "Position": "18",

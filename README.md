@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 29 November 2025, 08:22 PM UTC (Sunday, 30 November 2025, 01:52 AM IST)
+**Last Updated:** Saturday, 29 November 2025, 08:41 PM UTC (Sunday, 30 November 2025, 02:11 AM IST)
 
 ### Premier League
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 14 | 11 | 1 | 2 | 23 | 34 |
 | 2 | Real Madrid | 13 | 10 | 2 | 1 | 16 | 32 |
-| 3 | Atlético de Madrid | 14 | 9 | 4 | 1 | 15 | 31 |
+| 3 | Atlético de Madrid | 14 | 9 | 4 | 1 | 16 | 31 |
 | 4 | Villarreal | 13 | 9 | 2 | 2 | 15 | 29 |
 | 5 | Real Betis | 13 | 5 | 6 | 2 | 6 | 21 |
 | 6 | Espanyol | 13 | 6 | 3 | 4 | 1 | 21 |
@@ -91,7 +91,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Osasuna | 14 | 3 | 3 | 8 | -6 | 12 |
 | 18 | Girona | 13 | 2 | 5 | 6 | -13 | 11 |
 | 19 | Levante | 14 | 2 | 3 | 9 | -10 | 9 |
-| 20 | Real Oviedo | 14 | 2 | 3 | 9 | -14 | 9 |
+| 20 | Real Oviedo | 14 | 2 | 3 | 9 | -15 | 9 |
 
 ### Bundesliga
 
@@ -294,7 +294,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 11 | 10 | 1 | 0 | 21 | 31 |
 | 2 | Sporting CP | 11 | 9 | 1 | 1 | 21 | 28 |
 | 3 | Benfica | 12 | 8 | 4 | 0 | 18 | 28 |
-| 4 | Gil Vicente | 11 | 7 | 2 | 2 | 11 | 23 |
+| 4 | Gil Vicente | 12 | 7 | 3 | 2 | 11 | 24 |
 | 5 | Famalicão | 12 | 5 | 5 | 2 | 6 | 20 |
 | 6 | Moreirense | 12 | 6 | 1 | 5 | 1 | 19 |
 | 7 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
@@ -307,7 +307,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Santa Clara | 11 | 3 | 2 | 6 | -4 | 11 |
 | 15 | Casa Pia | 12 | 2 | 3 | 7 | -13 | 9 |
 | 16 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
-| 17 | Tondela | 11 | 1 | 3 | 7 | -14 | 6 |
+| 17 | Tondela | 12 | 1 | 4 | 7 | -14 | 7 |
 | 18 | AVS | 12 | 0 | 3 | 9 | -21 | 3 |
 
 ### EFL Championship
