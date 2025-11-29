@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 29 November 2025, 09:17 PM UTC (Sunday, 30 November 2025, 02:47 AM IST)
+**Last Updated:** Saturday, 29 November 2025, 09:37 PM UTC (Sunday, 30 November 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -56,12 +56,12 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Brighton & Hove Albion | 12 | 5 | 4 | 3 | 3 | 19 |
 | 8 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
 | 9 | AFC Bournemouth | 13 | 5 | 4 | 4 | -2 | 19 |
-| 10 | Tottenham Hotspur | 13 | 5 | 3 | 5 | 4 | 18 |
+| 10 | Tottenham Hotspur | 13 | 5 | 3 | 5 | 5 | 18 |
 | 11 | Newcastle United | 13 | 5 | 3 | 5 | 1 | 18 |
 | 12 | Manchester United | 12 | 5 | 3 | 4 | 0 | 18 |
 | 13 | Liverpool FC | 12 | 6 | 0 | 6 | -2 | 18 |
 | 14 | Everton | 13 | 5 | 3 | 5 | -3 | 18 |
-| 15 | Fulham | 13 | 5 | 2 | 6 | -1 | 17 |
+| 15 | Fulham | 13 | 5 | 2 | 6 | -2 | 17 |
 | 16 | Nottingham Forest | 12 | 3 | 3 | 6 | -7 | 12 |
 | 17 | West Ham United | 12 | 3 | 2 | 7 | -10 | 11 |
 | 18 | Leeds United | 13 | 3 | 2 | 8 | -12 | 11 |
@@ -146,14 +146,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 14 | 9 | 3 | 2 | 15 | 30 |
-| 2 | Marseille | 14 | 9 | 1 | 4 | 20 | 28 |
+| 2 | Marseille | 14 | 9 | 2 | 3 | 21 | 29 |
 | 3 | Lens | 13 | 9 | 1 | 3 | 11 | 28 |
 | 4 | Rennes | 14 | 6 | 6 | 2 | 6 | 24 |
 | 5 | Lille | 13 | 7 | 2 | 4 | 10 | 23 |
 | 6 | Monaco | 14 | 7 | 2 | 5 | 1 | 23 |
 | 7 | Strasbourg | 13 | 7 | 1 | 5 | 7 | 22 |
 | 8 | Lyon | 13 | 6 | 3 | 4 | 3 | 21 |
-| 9 | Toulouse | 14 | 5 | 4 | 5 | 2 | 19 |
+| 9 | Toulouse | 14 | 4 | 5 | 5 | 1 | 17 |
 | 10 | Nice | 13 | 5 | 2 | 6 | -5 | 17 |
 | 11 | Angers | 13 | 4 | 4 | 5 | -4 | 16 |
 | 12 | Paris FC | 14 | 4 | 3 | 7 | -5 | 15 |
