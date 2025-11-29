@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 29 November 2025, 07:37 PM UTC",
-        "IST": "Sunday, 30 November 2025, 01:07 AM IST"
+        "UTC": "Saturday, 29 November 2025, 08:22 PM UTC",
+        "IST": "Sunday, 30 November 2025, 01:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -98,11 +98,11 @@
             {
                 "Position": "10",
                 "Team": "Tottenham Hotspur",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "5",
                 "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "6",
+                "Losses": "5",
+                "Goal Difference": "4",
                 "Points": "18"
             },
             {
@@ -148,12 +148,12 @@
             {
                 "Position": "15",
                 "Team": "Fulham",
-                "Played": "12",
-                "Wins": "4",
+                "Played": "13",
+                "Wins": "5",
                 "Draws": "2",
                 "Losses": "6",
-                "Goal Difference": "-3",
-                "Points": "14"
+                "Goal Difference": "-1",
+                "Points": "17"
             },
             {
                 "Position": "16",
@@ -229,6 +229,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "14",
+                "Wins": "9",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "15",
+                "Points": "31"
+            },
+            {
+                "Position": "4",
                 "Team": "Villarreal",
                 "Played": "13",
                 "Wins": "9",
@@ -236,16 +246,6 @@
                 "Losses": "2",
                 "Goal Difference": "15",
                 "Points": "29"
-            },
-            {
-                "Position": "4",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "13",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "14",
-                "Points": "28"
             },
             {
                 "Position": "5",
@@ -400,11 +400,11 @@
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "2",
                 "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-13",
+                "Losses": "9",
+                "Goal Difference": "-14",
                 "Points": "9"
             }
         ],
@@ -604,12 +604,12 @@
             {
                 "Position": "2",
                 "Team": "Milan",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "7",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "9",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "3",
@@ -664,12 +664,12 @@
             {
                 "Position": "8",
                 "Team": "Lazio",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "5",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "6",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "9",
@@ -806,11 +806,11 @@
             {
                 "Position": "2",
                 "Team": "Marseille",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "9",
                 "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "21",
+                "Losses": "4",
+                "Goal Difference": "20",
                 "Points": "28"
             },
             {
@@ -875,6 +875,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Toulouse",
+                "Played": "14",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "2",
+                "Points": "19"
+            },
+            {
+                "Position": "10",
                 "Team": "Nice",
                 "Played": "13",
                 "Wins": "5",
@@ -882,16 +892,6 @@
                 "Losses": "6",
                 "Goal Difference": "-5",
                 "Points": "17"
-            },
-            {
-                "Position": "10",
-                "Team": "Toulouse",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "1",
-                "Points": "16"
             },
             {
                 "Position": "11",
@@ -2085,11 +2085,11 @@
                 "Position": "3",
                 "Team": "Benfica",
                 "Played": "12",
-                "Wins": "7",
+                "Wins": "8",
                 "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "16",
-                "Points": "25"
+                "Losses": "0",
+                "Goal Difference": "18",
+                "Points": "28"
             },
             {
                 "Position": "4",
@@ -2143,16 +2143,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Nacional",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-3",
-                "Points": "15"
-            },
-            {
-                "Position": "10",
                 "Team": "Alverca",
                 "Played": "12",
                 "Wins": "4",
@@ -2162,7 +2152,7 @@
                 "Points": "14"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Estoril",
                 "Played": "11",
                 "Wins": "3",
@@ -2170,6 +2160,16 @@
                 "Losses": "4",
                 "Goal Difference": "2",
                 "Points": "13"
+            },
+            {
+                "Position": "11",
+                "Team": "Nacional",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-5",
+                "Points": "12"
             },
             {
                 "Position": "12",
