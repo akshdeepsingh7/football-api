@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 29 November 2025, 01:38 AM UTC",
-        "IST": "Saturday, 29 November 2025, 07:08 AM IST"
+        "UTC": "Saturday, 29 November 2025, 03:12 AM UTC",
+        "IST": "Saturday, 29 November 2025, 08:42 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3363,17 +3363,17 @@
             },
             {
                 "Position": "15",
-                "Team": "Internacional",
+                "Team": "Santos",
                 "Played": "36",
                 "Wins": "10",
                 "Draws": "11",
                 "Losses": "15",
-                "Goal Difference": "-12",
+                "Goal Difference": "-11",
                 "Points": "41"
             },
             {
                 "Position": "16",
-                "Team": "Santos",
+                "Team": "Internacional",
                 "Played": "36",
                 "Wins": "10",
                 "Draws": "11",
@@ -3418,7 +3418,7 @@
                 "Wins": "2",
                 "Draws": "11",
                 "Losses": "23",
-                "Goal Difference": "-40",
+                "Goal Difference": "-41",
                 "Points": "17"
             }
         ]
