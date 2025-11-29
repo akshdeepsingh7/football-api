@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 29 November 2025, 06:28 PM UTC (Saturday, 29 November 2025, 11:58 PM IST)
+**Last Updated:** Saturday, 29 November 2025, 06:49 PM UTC (Sunday, 30 November 2025, 12:19 AM IST)
 
 ### Premier League
 
@@ -57,10 +57,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
 | 9 | AFC Bournemouth | 13 | 5 | 4 | 4 | -2 | 19 |
 | 10 | Tottenham Hotspur | 12 | 5 | 3 | 4 | 6 | 18 |
-| 11 | Newcastle United | 13 | 5 | 3 | 5 | 1 | 18 |
+| 11 | Newcastle United | 13 | 5 | 3 | 5 | 2 | 18 |
 | 12 | Manchester United | 12 | 5 | 3 | 4 | 0 | 18 |
 | 13 | Liverpool FC | 12 | 6 | 0 | 6 | -2 | 18 |
-| 14 | Everton | 13 | 5 | 3 | 5 | -3 | 18 |
+| 14 | Everton | 13 | 5 | 3 | 5 | -4 | 18 |
 | 15 | Fulham | 12 | 4 | 2 | 6 | -3 | 14 |
 | 16 | Nottingham Forest | 12 | 3 | 3 | 6 | -7 | 12 |
 | 17 | West Ham United | 12 | 3 | 2 | 7 | -10 | 11 |
