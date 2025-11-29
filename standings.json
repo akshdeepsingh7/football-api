@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 29 November 2025, 08:41 PM UTC",
-        "IST": "Sunday, 30 November 2025, 02:11 AM IST"
+        "UTC": "Saturday, 29 November 2025, 09:17 PM UTC",
+        "IST": "Sunday, 30 November 2025, 02:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -593,6 +593,16 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Milan",
+                "Played": "13",
+                "Wins": "8",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "10",
+                "Points": "28"
+            },
+            {
+                "Position": "2",
                 "Team": "Roma",
                 "Played": "12",
                 "Wins": "9",
@@ -600,16 +610,6 @@
                 "Losses": "3",
                 "Goal Difference": "9",
                 "Points": "27"
-            },
-            {
-                "Position": "2",
-                "Team": "Milan",
-                "Played": "13",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "9",
-                "Points": "26"
             },
             {
                 "Position": "3",
@@ -666,10 +666,10 @@
                 "Team": "Lazio",
                 "Played": "13",
                 "Wins": "5",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "6",
-                "Points": "19"
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "5",
+                "Points": "18"
             },
             {
                 "Position": "9",
@@ -2096,10 +2096,10 @@
                 "Team": "Gil Vicente",
                 "Played": "12",
                 "Wins": "7",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "11",
-                "Points": "24"
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "10",
+                "Points": "23"
             },
             {
                 "Position": "5",
@@ -2213,6 +2213,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Tondela",
+                "Played": "12",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-13",
+                "Points": "9"
+            },
+            {
+                "Position": "17",
                 "Team": "Arouca",
                 "Played": "11",
                 "Wins": "2",
@@ -2220,16 +2230,6 @@
                 "Losses": "6",
                 "Goal Difference": "-17",
                 "Points": "9"
-            },
-            {
-                "Position": "17",
-                "Team": "Tondela",
-                "Played": "12",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-14",
-                "Points": "7"
             },
             {
                 "Position": "18",
@@ -3258,7 +3258,7 @@
                 "Wins": "17",
                 "Draws": "12",
                 "Losses": "7",
-                "Goal Difference": "23",
+                "Goal Difference": "22",
                 "Points": "63"
             },
             {
@@ -3368,7 +3368,7 @@
                 "Wins": "10",
                 "Draws": "12",
                 "Losses": "14",
-                "Goal Difference": "-15",
+                "Goal Difference": "-14",
                 "Points": "42"
             },
             {

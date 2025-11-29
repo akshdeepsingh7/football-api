@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 29 November 2025, 08:41 PM UTC (Sunday, 30 November 2025, 02:11 AM IST)
+**Last Updated:** Saturday, 29 November 2025, 09:17 PM UTC (Sunday, 30 November 2025, 02:47 AM IST)
 
 ### Premier League
 
@@ -120,14 +120,14 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Roma | 12 | 9 | 0 | 3 | 9 | 27 |
-| 2 | Milan | 13 | 7 | 5 | 1 | 9 | 26 |
+| 1 | Milan | 13 | 8 | 4 | 1 | 10 | 28 |
+| 2 | Roma | 12 | 9 | 0 | 3 | 9 | 27 |
 | 3 | Napoli | 12 | 8 | 1 | 3 | 8 | 25 |
 | 4 | Inter | 12 | 8 | 0 | 4 | 13 | 24 |
 | 5 | Bologna | 12 | 7 | 3 | 2 | 13 | 24 |
 | 6 | Como | 13 | 6 | 6 | 1 | 12 | 24 |
 | 7 | Juventus | 13 | 6 | 5 | 2 | 5 | 23 |
-| 8 | Lazio | 13 | 5 | 4 | 4 | 6 | 19 |
+| 8 | Lazio | 13 | 5 | 3 | 5 | 5 | 18 |
 | 9 | Udinese | 13 | 5 | 3 | 5 | -6 | 18 |
 | 10 | Sassuolo | 13 | 5 | 2 | 6 | 0 | 17 |
 | 11 | Cremonese | 12 | 3 | 5 | 4 | -3 | 14 |
@@ -294,7 +294,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 11 | 10 | 1 | 0 | 21 | 31 |
 | 2 | Sporting CP | 11 | 9 | 1 | 1 | 21 | 28 |
 | 3 | Benfica | 12 | 8 | 4 | 0 | 18 | 28 |
-| 4 | Gil Vicente | 12 | 7 | 3 | 2 | 11 | 24 |
+| 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
 | 5 | Famalicão | 12 | 5 | 5 | 2 | 6 | 20 |
 | 6 | Moreirense | 12 | 6 | 1 | 5 | 1 | 19 |
 | 7 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
@@ -306,8 +306,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Estrela Amadora | 11 | 2 | 5 | 4 | -1 | 11 |
 | 14 | Santa Clara | 11 | 3 | 2 | 6 | -4 | 11 |
 | 15 | Casa Pia | 12 | 2 | 3 | 7 | -13 | 9 |
-| 16 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
-| 17 | Tondela | 12 | 1 | 4 | 7 | -14 | 7 |
+| 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
+| 17 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
 | 18 | AVS | 12 | 0 | 3 | 9 | -21 | 3 |
 
 ### EFL Championship
@@ -434,7 +434,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Flamengo | 36 | 22 | 9 | 5 | 50 | 75 |
 | 2 | Palmeiras | 36 | 21 | 7 | 8 | 28 | 70 |
 | 3 | Cruzeiro | 35 | 19 | 11 | 5 | 27 | 68 |
-| 4 | Mirassol | 36 | 17 | 12 | 7 | 23 | 63 |
+| 4 | Mirassol | 36 | 17 | 12 | 7 | 22 | 63 |
 | 5 | Fluminense | 36 | 17 | 7 | 12 | 8 | 58 |
 | 6 | Botafogo | 35 | 16 | 10 | 9 | 18 | 58 |
 | 7 | Bahia | 36 | 16 | 9 | 11 | 4 | 57 |
@@ -445,7 +445,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Corinthians | 35 | 12 | 9 | 14 | -4 | 45 |
 | 13 | Atlético Mineiro | 35 | 11 | 12 | 12 | -2 | 45 |
 | 14 | Ceará | 35 | 11 | 9 | 15 | -3 | 42 |
-| 15 | Vitória | 36 | 10 | 12 | 14 | -15 | 42 |
+| 15 | Vitória | 36 | 10 | 12 | 14 | -14 | 42 |
 | 16 | Santos | 36 | 10 | 11 | 15 | -11 | 41 |
 | 17 | Internacional | 36 | 10 | 11 | 15 | -12 | 41 |
 | 18 | Fortaleza | 35 | 9 | 10 | 16 | -15 | 37 |
