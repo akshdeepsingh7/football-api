@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 29 November 2025, 11:37 AM UTC (Saturday, 29 November 2025, 05:07 PM IST)
+**Last Updated:** Saturday, 29 November 2025, 12:39 PM UTC (Saturday, 29 November 2025, 06:09 PM IST)
 
 ### Premier League
 
@@ -315,27 +315,27 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 17 | 12 | 4 | 1 | 30 | 40 |
-| 2 | Stoke City | 17 | 9 | 3 | 5 | 13 | 30 |
+| 2 | Stoke City | 18 | 9 | 4 | 5 | 13 | 31 |
 | 3 | Middlesbrough | 17 | 8 | 6 | 3 | 4 | 30 |
 | 4 | Millwall | 17 | 8 | 4 | 5 | -4 | 28 |
 | 5 | Ipswich Town | 17 | 7 | 6 | 4 | 11 | 27 |
 | 6 | Preston North End | 17 | 7 | 6 | 4 | 5 | 27 |
 | 7 | Bristol City | 17 | 7 | 5 | 5 | 5 | 26 |
 | 8 | Derby County | 17 | 7 | 5 | 5 | 1 | 26 |
-| 9 | Birmingham City | 17 | 7 | 4 | 6 | 6 | 25 |
-| 10 | Wrexham | 17 | 6 | 7 | 4 | 3 | 25 |
-| 11 | Hull City | 17 | 7 | 4 | 6 | -1 | 25 |
+| 9 | Hull City | 18 | 7 | 5 | 6 | -1 | 26 |
+| 10 | Birmingham City | 17 | 7 | 4 | 6 | 6 | 25 |
+| 11 | Wrexham | 17 | 6 | 7 | 4 | 3 | 25 |
 | 12 | Queens Park Rangers | 17 | 7 | 4 | 6 | -4 | 25 |
 | 13 | Southampton | 17 | 6 | 6 | 5 | 4 | 24 |
 | 14 | Watford | 17 | 6 | 6 | 5 | 2 | 24 |
-| 15 | Leicester City | 17 | 6 | 6 | 5 | 0 | 24 |
+| 15 | Leicester City | 18 | 6 | 6 | 6 | -2 | 24 |
 | 16 | Charlton Athletic | 17 | 6 | 5 | 6 | -3 | 23 |
 | 17 | West Bromwich Albion | 17 | 6 | 4 | 7 | -3 | 22 |
 | 18 | Blackburn Rovers | 16 | 6 | 1 | 9 | -5 | 19 |
-| 19 | Oxford United | 18 | 4 | 6 | 8 | -5 | 18 |
-| 20 | Swansea City | 17 | 4 | 5 | 8 | -8 | 17 |
-| 21 | Portsmouth | 17 | 4 | 5 | 8 | -9 | 17 |
-| 22 | Sheffield United | 17 | 5 | 1 | 11 | -9 | 16 |
+| 19 | Sheffield United | 18 | 6 | 1 | 11 | -7 | 19 |
+| 20 | Oxford United | 18 | 4 | 6 | 8 | -5 | 18 |
+| 21 | Swansea City | 17 | 4 | 5 | 8 | -8 | 17 |
+| 22 | Portsmouth | 17 | 4 | 5 | 8 | -9 | 17 |
 | 23 | Norwich City | 17 | 2 | 4 | 11 | -12 | 10 |
 | 24 | Sheffield Wednesday | 17 | 1 | 5 | 11 | -21 | -4 |
 
