@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 30 November 2025, 06:28 PM UTC (Sunday, 30 November 2025, 11:58 PM IST)
+**Last Updated:** Sunday, 30 November 2025, 06:49 PM UTC (Monday, 01 December 2025, 12:19 AM IST)
 
 ### Premier League
 
@@ -104,17 +104,17 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Hoffenheim | 12 | 7 | 2 | 3 | 8 | 23 |
 | 6 | VfB Stuttgart | 12 | 7 | 1 | 4 | 4 | 22 |
 | 7 | Eintracht Frankfurt | 12 | 6 | 3 | 3 | 5 | 21 |
-| 8 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
-| 9 | Köln | 12 | 4 | 3 | 5 | 1 | 15 |
-| 10 | Union Berlin | 12 | 4 | 3 | 5 | -4 | 15 |
-| 11 | Borussia Mönchengladbach | 12 | 3 | 4 | 5 | -3 | 13 |
-| 12 | SC Freiburg | 11 | 3 | 4 | 4 | -5 | 13 |
+| 8 | SC Freiburg | 12 | 4 | 4 | 4 | -4 | 16 |
+| 9 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
+| 10 | Köln | 12 | 4 | 3 | 5 | 1 | 15 |
+| 11 | Union Berlin | 12 | 4 | 3 | 5 | -4 | 15 |
+| 12 | Borussia Mönchengladbach | 12 | 3 | 4 | 5 | -3 | 13 |
 | 13 | Hamburg | 12 | 3 | 3 | 6 | -7 | 12 |
 | 14 | Augsburg | 12 | 3 | 1 | 8 | -12 | 10 |
 | 15 | VfL Wolfsburg | 12 | 2 | 3 | 7 | -8 | 9 |
 | 16 | Heidenheim | 12 | 2 | 2 | 8 | -17 | 8 |
 | 17 | St. Pauli | 12 | 2 | 1 | 9 | -14 | 7 |
-| 18 | Mainz 05 | 11 | 1 | 3 | 7 | -8 | 6 |
+| 18 | Mainz 05 | 12 | 1 | 3 | 8 | -9 | 6 |
 
 ### Serie A
 
@@ -376,7 +376,21 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Indian Super League
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Mohun Bagan SG | 24 | 17 | 5 | 2 | 31 | 56 |
+| 2 | FC Goa | 24 | 14 | 6 | 4 | 16 | 48 |
+| 3 | Bengaluru | 24 | 11 | 5 | 8 | 9 | 38 |
+| 4 | NorthEast Utd | 24 | 10 | 8 | 6 | 17 | 38 |
+| 5 | Jamshedpur | 24 | 12 | 2 | 10 | -6 | 38 |
+| 6 | Mumbai City | 24 | 9 | 9 | 6 | 1 | 36 |
+| 7 | Odisha | 24 | 8 | 9 | 7 | 7 | 33 |
+| 8 | Kerala Blasters | 24 | 8 | 5 | 11 | -4 | 29 |
+| 9 | East Bengal | 24 | 8 | 4 | 12 | -6 | 28 |
+| 10 | Punjab FC | 24 | 8 | 4 | 12 | -4 | 28 |
+| 11 | Chennaiyin | 24 | 7 | 6 | 11 | -5 | 27 |
+| 12 | Hyderabad | 24 | 4 | 6 | 14 | -25 | 18 |
+| 13 | Mohammedan | 24 | 2 | 7 | 15 | -31 | 13 |
 
 ### Liga Profesional Argentina (Clausura)
 
