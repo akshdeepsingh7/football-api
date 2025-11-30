@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 30 November 2025, 09:18 PM UTC",
-        "IST": "Monday, 01 December 2025, 02:48 AM IST"
+        "UTC": "Sunday, 30 November 2025, 09:38 PM UTC",
+        "IST": "Monday, 01 December 2025, 03:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -219,22 +219,22 @@
             },
             {
                 "Position": "2",
+                "Team": "Real Madrid",
+                "Played": "14",
+                "Wins": "10",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "16",
+                "Points": "33"
+            },
+            {
+                "Position": "3",
                 "Team": "Villarreal",
                 "Played": "14",
                 "Wins": "10",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "16",
-                "Points": "32"
-            },
-            {
-                "Position": "3",
-                "Team": "Real Madrid",
-                "Played": "14",
-                "Wins": "10",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "15",
                 "Points": "32"
             },
             {
@@ -349,16 +349,6 @@
             },
             {
                 "Position": "15",
-                "Team": "Girona",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-12",
-                "Points": "14"
-            },
-            {
-                "Position": "16",
                 "Team": "Mallorca",
                 "Played": "14",
                 "Wins": "3",
@@ -368,7 +358,7 @@
                 "Points": "13"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Valencia",
                 "Played": "13",
                 "Wins": "3",
@@ -378,13 +368,23 @@
                 "Points": "13"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Osasuna",
                 "Played": "14",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "8",
                 "Goal Difference": "-6",
+                "Points": "12"
+            },
+            {
+                "Position": "18",
+                "Team": "Girona",
+                "Played": "14",
+                "Wins": "2",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "-13",
                 "Points": "12"
             },
             {
@@ -850,7 +850,7 @@
                 "Wins": "7",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "5",
+                "Goal Difference": "6",
                 "Points": "24"
             },
             {
@@ -950,7 +950,7 @@
                 "Wins": "2",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "-9",
+                "Goal Difference": "-10",
                 "Points": "11"
             },
             {
@@ -3323,6 +3323,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "36",
+                "Wins": "11",
+                "Draws": "13",
+                "Losses": "12",
+                "Goal Difference": "-2",
+                "Points": "46"
+            },
+            {
+                "Position": "12",
                 "Team": "Vasco da Gama",
                 "Played": "36",
                 "Wins": "13",
@@ -3332,23 +3342,13 @@
                 "Points": "45"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "RB Bragantino",
                 "Played": "36",
                 "Wins": "13",
                 "Draws": "6",
                 "Losses": "17",
                 "Goal Difference": "-14",
-                "Points": "45"
-            },
-            {
-                "Position": "13",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "35",
-                "Wins": "11",
-                "Draws": "12",
-                "Losses": "12",
-                "Goal Difference": "-2",
                 "Points": "45"
             },
             {
@@ -3394,12 +3394,12 @@
             {
                 "Position": "18",
                 "Team": "Fortaleza",
-                "Played": "35",
+                "Played": "36",
                 "Wins": "9",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "16",
                 "Goal Difference": "-15",
-                "Points": "37"
+                "Points": "38"
             },
             {
                 "Position": "19",

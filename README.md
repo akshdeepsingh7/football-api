@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 30 November 2025, 09:18 PM UTC (Monday, 01 December 2025, 02:48 AM IST)
+**Last Updated:** Sunday, 30 November 2025, 09:38 PM UTC (Monday, 01 December 2025, 03:08 AM IST)
 
 ### Premier League
 
@@ -73,8 +73,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 14 | 11 | 1 | 2 | 23 | 34 |
-| 2 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
-| 3 | Real Madrid | 14 | 10 | 2 | 2 | 15 | 32 |
+| 2 | Real Madrid | 14 | 10 | 3 | 1 | 16 | 33 |
+| 3 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
 | 4 | Atlético de Madrid | 14 | 9 | 4 | 1 | 16 | 31 |
 | 5 | Real Betis | 14 | 6 | 6 | 2 | 8 | 24 |
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
@@ -86,10 +86,10 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Celta de Vigo | 14 | 3 | 7 | 4 | -3 | 16 |
 | 13 | Sevilla | 14 | 5 | 1 | 8 | -4 | 16 |
 | 14 | Alavés | 14 | 4 | 3 | 7 | -3 | 15 |
-| 15 | Girona | 14 | 3 | 5 | 6 | -12 | 14 |
-| 16 | Mallorca | 14 | 3 | 4 | 7 | -7 | 13 |
-| 17 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
-| 18 | Osasuna | 14 | 3 | 3 | 8 | -6 | 12 |
+| 15 | Mallorca | 14 | 3 | 4 | 7 | -7 | 13 |
+| 16 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
+| 17 | Osasuna | 14 | 3 | 3 | 8 | -6 | 12 |
+| 18 | Girona | 14 | 2 | 6 | 6 | -13 | 12 |
 | 19 | Levante | 14 | 2 | 3 | 9 | -10 | 9 |
 | 20 | Real Oviedo | 14 | 2 | 3 | 9 | -15 | 9 |
 
@@ -150,7 +150,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Marseille | 14 | 9 | 2 | 3 | 21 | 29 |
 | 4 | Lille | 14 | 8 | 2 | 4 | 11 | 26 |
 | 5 | Rennes | 14 | 6 | 6 | 2 | 6 | 24 |
-| 6 | Lyon | 14 | 7 | 3 | 4 | 5 | 24 |
+| 6 | Lyon | 14 | 7 | 3 | 4 | 6 | 24 |
 | 7 | Monaco | 14 | 7 | 2 | 5 | 1 | 23 |
 | 8 | Strasbourg | 14 | 7 | 1 | 6 | 6 | 22 |
 | 9 | Toulouse | 14 | 4 | 5 | 5 | 1 | 17 |
@@ -160,7 +160,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Paris FC | 14 | 4 | 3 | 7 | -5 | 15 |
 | 14 | Le Havre | 14 | 3 | 5 | 6 | -8 | 14 |
 | 15 | Lorient | 14 | 3 | 5 | 6 | -10 | 14 |
-| 16 | Nantes | 14 | 2 | 5 | 7 | -9 | 11 |
+| 16 | Nantes | 14 | 2 | 5 | 7 | -10 | 11 |
 | 17 | Metz | 14 | 3 | 2 | 9 | -17 | 11 |
 | 18 | Auxerre | 14 | 2 | 3 | 9 | -12 | 9 |
 
@@ -441,14 +441,14 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | São Paulo | 36 | 13 | 9 | 14 | -6 | 48 |
 | 9 | Corinthians | 36 | 12 | 10 | 14 | -4 | 46 |
 | 10 | Grêmio | 36 | 12 | 10 | 14 | -6 | 46 |
-| 11 | Vasco da Gama | 36 | 13 | 6 | 17 | 2 | 45 |
-| 12 | RB Bragantino | 36 | 13 | 6 | 17 | -14 | 45 |
-| 13 | Atlético Mineiro | 35 | 11 | 12 | 12 | -2 | 45 |
+| 11 | Atlético Mineiro | 36 | 11 | 13 | 12 | -2 | 46 |
+| 12 | Vasco da Gama | 36 | 13 | 6 | 17 | 2 | 45 |
+| 13 | RB Bragantino | 36 | 13 | 6 | 17 | -14 | 45 |
 | 14 | Ceará | 36 | 11 | 10 | 15 | -3 | 43 |
 | 15 | Vitória | 36 | 10 | 12 | 14 | -14 | 42 |
 | 16 | Santos | 36 | 10 | 11 | 15 | -11 | 41 |
 | 17 | Internacional | 36 | 10 | 11 | 15 | -12 | 41 |
-| 18 | Fortaleza | 35 | 9 | 10 | 16 | -15 | 37 |
+| 18 | Fortaleza | 36 | 9 | 11 | 16 | -15 | 38 |
 | 19 | Juventude | 36 | 9 | 7 | 20 | -31 | 34 |
 | 20 | Sport | 36 | 2 | 11 | 23 | -41 | 17 |
 
