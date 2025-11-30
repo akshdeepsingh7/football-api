@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 30 November 2025, 01:27 PM UTC",
-        "IST": "Sunday, 30 November 2025, 06:57 PM IST"
+        "UTC": "Sunday, 30 November 2025, 01:43 PM UTC",
+        "IST": "Sunday, 30 November 2025, 07:13 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -229,6 +229,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Villarreal",
+                "Played": "14",
+                "Wins": "10",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "16",
+                "Points": "32"
+            },
+            {
+                "Position": "4",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "14",
                 "Wins": "9",
@@ -236,16 +246,6 @@
                 "Losses": "1",
                 "Goal Difference": "16",
                 "Points": "31"
-            },
-            {
-                "Position": "4",
-                "Team": "Villarreal",
-                "Played": "14",
-                "Wins": "9",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "15",
-                "Points": "30"
             },
             {
                 "Position": "5",
@@ -289,21 +289,21 @@
             },
             {
                 "Position": "9",
-                "Team": "Real Sociedad",
-                "Played": "14",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-1",
-                "Points": "17"
-            },
-            {
-                "Position": "10",
                 "Team": "Sevilla",
                 "Played": "13",
                 "Wins": "5",
                 "Draws": "1",
                 "Losses": "7",
+                "Goal Difference": "-2",
+                "Points": "16"
+            },
+            {
+                "Position": "10",
+                "Team": "Real Sociedad",
+                "Played": "14",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "6",
                 "Goal Difference": "-2",
                 "Points": "16"
             },
