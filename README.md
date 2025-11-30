@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 30 November 2025, 11:37 AM UTC (Sunday, 30 November 2025, 05:07 PM IST)
+**Last Updated:** Sunday, 30 November 2025, 12:38 PM UTC (Sunday, 30 November 2025, 06:08 PM IST)
 
 ### Premier League
 
@@ -50,15 +50,15 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Arsenal | 12 | 9 | 2 | 1 | 18 | 29 |
 | 2 | Manchester City | 13 | 8 | 1 | 4 | 15 | 25 |
 | 3 | Chelsea | 12 | 7 | 2 | 3 | 12 | 23 |
-| 4 | Sunderland | 13 | 6 | 4 | 3 | 4 | 22 |
-| 5 | Aston Villa | 12 | 6 | 3 | 3 | 4 | 21 |
-| 6 | Crystal Palace | 12 | 5 | 5 | 2 | 7 | 20 |
+| 4 | Crystal Palace | 13 | 6 | 5 | 2 | 8 | 23 |
+| 5 | Sunderland | 13 | 6 | 4 | 3 | 4 | 22 |
+| 6 | Aston Villa | 12 | 6 | 3 | 3 | 4 | 21 |
 | 7 | Brighton & Hove Albion | 12 | 5 | 4 | 3 | 3 | 19 |
 | 8 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
 | 9 | AFC Bournemouth | 13 | 5 | 4 | 4 | -2 | 19 |
 | 10 | Tottenham Hotspur | 13 | 5 | 3 | 5 | 5 | 18 |
 | 11 | Newcastle United | 13 | 5 | 3 | 5 | 1 | 18 |
-| 12 | Manchester United | 12 | 5 | 3 | 4 | 0 | 18 |
+| 12 | Manchester United | 13 | 5 | 3 | 5 | -1 | 18 |
 | 13 | Liverpool FC | 12 | 6 | 0 | 6 | -2 | 18 |
 | 14 | Everton | 13 | 5 | 3 | 5 | -3 | 18 |
 | 15 | Fulham | 13 | 5 | 2 | 6 | -2 | 17 |
@@ -130,13 +130,13 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Lazio | 13 | 5 | 3 | 5 | 5 | 18 |
 | 9 | Udinese | 13 | 5 | 3 | 5 | -6 | 18 |
 | 10 | Sassuolo | 13 | 5 | 2 | 6 | 0 | 17 |
-| 11 | Torino | 13 | 3 | 6 | 4 | -10 | 15 |
-| 12 | Cremonese | 12 | 3 | 5 | 4 | -3 | 14 |
+| 11 | Cremonese | 12 | 3 | 5 | 4 | -3 | 14 |
+| 12 | Torino | 13 | 3 | 5 | 5 | -12 | 14 |
 | 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
-| 14 | Cagliari | 13 | 2 | 5 | 6 | -6 | 11 |
-| 15 | Genoa | 13 | 2 | 5 | 6 | -7 | 11 |
-| 16 | Parma | 13 | 2 | 5 | 6 | -8 | 11 |
-| 17 | Lecce | 13 | 2 | 5 | 6 | -8 | 11 |
+| 14 | Lecce | 13 | 3 | 4 | 6 | -6 | 13 |
+| 15 | Cagliari | 13 | 2 | 5 | 6 | -6 | 11 |
+| 16 | Genoa | 13 | 2 | 5 | 6 | -7 | 11 |
+| 17 | Parma | 13 | 2 | 5 | 6 | -8 | 11 |
 | 18 | Pisa | 12 | 1 | 7 | 4 | -6 | 10 |
 | 19 | Fiorentina | 12 | 0 | 6 | 6 | -9 | 6 |
 | 20 | Hellas Verona | 13 | 0 | 6 | 7 | -12 | 6 |
