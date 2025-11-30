@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 30 November 2025, 05:41 PM UTC",
-        "IST": "Sunday, 30 November 2025, 11:11 PM IST"
+        "UTC": "Sunday, 30 November 2025, 06:28 PM UTC",
+        "IST": "Sunday, 30 November 2025, 11:58 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -693,22 +693,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Atalanta",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "16"
+            },
+            {
+                "Position": "12",
                 "Team": "Cremonese",
                 "Played": "12",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "-3",
-                "Points": "14"
-            },
-            {
-                "Position": "12",
-                "Team": "Atalanta",
-                "Played": "13",
-                "Wins": "2",
-                "Draws": "8",
-                "Losses": "3",
-                "Goal Difference": "0",
                 "Points": "14"
             },
             {
@@ -776,10 +776,10 @@
                 "Team": "Fiorentina",
                 "Played": "13",
                 "Wins": "0",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "-9",
-                "Points": "7"
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "-11",
+                "Points": "6"
             },
             {
                 "Position": "20",
@@ -827,11 +827,11 @@
                 "Position": "4",
                 "Team": "Lille",
                 "Played": "14",
-                "Wins": "7",
-                "Draws": "3",
+                "Wins": "8",
+                "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "10",
-                "Points": "24"
+                "Goal Difference": "11",
+                "Points": "26"
             },
             {
                 "Position": "5",
@@ -928,10 +928,10 @@
                 "Team": "Le Havre",
                 "Played": "14",
                 "Wins": "3",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "-7",
-                "Points": "15"
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-8",
+                "Points": "14"
             },
             {
                 "Position": "15",
@@ -2074,12 +2074,12 @@
             {
                 "Position": "2",
                 "Team": "Sporting CP",
-                "Played": "11",
-                "Wins": "9",
+                "Played": "12",
+                "Wins": "10",
                 "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "21",
-                "Points": "28"
+                "Goal Difference": "24",
+                "Points": "31"
             },
             {
                 "Position": "3",
@@ -2194,11 +2194,11 @@
             {
                 "Position": "14",
                 "Team": "Estrela Amadora",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "2",
                 "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "-1",
+                "Losses": "5",
+                "Goal Difference": "-4",
                 "Points": "11"
             },
             {
@@ -2786,138 +2786,7 @@
                 "Points": "28"
             }
         ],
-        "Indian Super League": [
-            {
-                "Position": "1",
-                "Team": "Mohun Bagan SG",
-                "Played": "24",
-                "Wins": "17",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "31",
-                "Points": "56"
-            },
-            {
-                "Position": "2",
-                "Team": "FC Goa",
-                "Played": "24",
-                "Wins": "14",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "16",
-                "Points": "48"
-            },
-            {
-                "Position": "3",
-                "Team": "Bengaluru",
-                "Played": "24",
-                "Wins": "11",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "9",
-                "Points": "38"
-            },
-            {
-                "Position": "4",
-                "Team": "NorthEast Utd",
-                "Played": "24",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "17",
-                "Points": "38"
-            },
-            {
-                "Position": "5",
-                "Team": "Jamshedpur",
-                "Played": "24",
-                "Wins": "12",
-                "Draws": "2",
-                "Losses": "10",
-                "Goal Difference": "-6",
-                "Points": "38"
-            },
-            {
-                "Position": "6",
-                "Team": "Mumbai City",
-                "Played": "24",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "6",
-                "Goal Difference": "1",
-                "Points": "36"
-            },
-            {
-                "Position": "7",
-                "Team": "Odisha",
-                "Played": "24",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "7",
-                "Goal Difference": "7",
-                "Points": "33"
-            },
-            {
-                "Position": "8",
-                "Team": "Kerala Blasters",
-                "Played": "24",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-4",
-                "Points": "29"
-            },
-            {
-                "Position": "9",
-                "Team": "East Bengal",
-                "Played": "24",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-6",
-                "Points": "28"
-            },
-            {
-                "Position": "10",
-                "Team": "Punjab FC",
-                "Played": "24",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-4",
-                "Points": "28"
-            },
-            {
-                "Position": "11",
-                "Team": "Chennaiyin",
-                "Played": "24",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-5",
-                "Points": "27"
-            },
-            {
-                "Position": "12",
-                "Team": "Hyderabad",
-                "Played": "24",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "14",
-                "Goal Difference": "-25",
-                "Points": "18"
-            },
-            {
-                "Position": "13",
-                "Team": "Mohammedan",
-                "Played": "24",
-                "Wins": "2",
-                "Draws": "7",
-                "Losses": "15",
-                "Goal Difference": "-31",
-                "Points": "13"
-            }
-        ],
+        "Indian Super League": [],
         "Liga Profesional Argentina (Clausura)": [
             {
                 "Position": "1",

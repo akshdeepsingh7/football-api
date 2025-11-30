@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 30 November 2025, 05:41 PM UTC (Sunday, 30 November 2025, 11:11 PM IST)
+**Last Updated:** Sunday, 30 November 2025, 06:28 PM UTC (Sunday, 30 November 2025, 11:58 PM IST)
 
 ### Premier League
 
@@ -130,15 +130,15 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Lazio | 13 | 5 | 3 | 5 | 5 | 18 |
 | 9 | Udinese | 13 | 5 | 3 | 5 | -6 | 18 |
 | 10 | Sassuolo | 13 | 5 | 2 | 6 | 0 | 17 |
-| 11 | Cremonese | 12 | 3 | 5 | 4 | -3 | 14 |
-| 12 | Atalanta | 13 | 2 | 8 | 3 | 0 | 14 |
+| 11 | Atalanta | 13 | 3 | 7 | 3 | 2 | 16 |
+| 12 | Cremonese | 12 | 3 | 5 | 4 | -3 | 14 |
 | 13 | Torino | 13 | 3 | 5 | 5 | -11 | 14 |
 | 14 | Lecce | 13 | 3 | 4 | 6 | -7 | 13 |
 | 15 | Cagliari | 13 | 2 | 5 | 6 | -6 | 11 |
 | 16 | Genoa | 13 | 2 | 5 | 6 | -7 | 11 |
 | 17 | Parma | 13 | 2 | 5 | 6 | -8 | 11 |
 | 18 | Pisa | 13 | 1 | 7 | 5 | -8 | 10 |
-| 19 | Fiorentina | 13 | 0 | 7 | 6 | -9 | 7 |
+| 19 | Fiorentina | 13 | 0 | 6 | 7 | -11 | 6 |
 | 20 | Hellas Verona | 13 | 0 | 6 | 7 | -12 | 6 |
 
 ### Ligue 1
@@ -148,7 +148,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Lens | 14 | 10 | 1 | 3 | 12 | 31 |
 | 2 | PSG | 14 | 9 | 3 | 2 | 15 | 30 |
 | 3 | Marseille | 14 | 9 | 2 | 3 | 21 | 29 |
-| 4 | Lille | 14 | 7 | 3 | 4 | 10 | 24 |
+| 4 | Lille | 14 | 8 | 2 | 4 | 11 | 26 |
 | 5 | Rennes | 14 | 6 | 6 | 2 | 6 | 24 |
 | 6 | Monaco | 14 | 7 | 2 | 5 | 1 | 23 |
 | 7 | Strasbourg | 14 | 7 | 1 | 6 | 6 | 22 |
@@ -158,7 +158,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Brest | 14 | 4 | 4 | 6 | -5 | 16 |
 | 12 | Angers | 14 | 4 | 4 | 6 | -5 | 16 |
 | 13 | Paris FC | 14 | 4 | 3 | 7 | -5 | 15 |
-| 14 | Le Havre | 14 | 3 | 6 | 5 | -7 | 15 |
+| 14 | Le Havre | 14 | 3 | 5 | 6 | -8 | 14 |
 | 15 | Lorient | 14 | 3 | 5 | 6 | -10 | 14 |
 | 16 | Nantes | 13 | 2 | 5 | 6 | -7 | 11 |
 | 17 | Metz | 14 | 3 | 2 | 9 | -17 | 11 |
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 11 | 10 | 1 | 0 | 21 | 31 |
-| 2 | Sporting CP | 11 | 9 | 1 | 1 | 21 | 28 |
+| 2 | Sporting CP | 12 | 10 | 1 | 1 | 24 | 31 |
 | 3 | Benfica | 12 | 8 | 4 | 0 | 18 | 28 |
 | 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
 | 5 | Famalicão | 12 | 5 | 5 | 2 | 6 | 20 |
@@ -304,7 +304,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Rio Ave | 12 | 2 | 7 | 3 | -5 | 13 |
 | 12 | Santa Clara | 12 | 3 | 3 | 6 | -4 | 12 |
 | 13 | Nacional | 12 | 3 | 3 | 6 | -5 | 12 |
-| 14 | Estrela Amadora | 11 | 2 | 5 | 4 | -1 | 11 |
+| 14 | Estrela Amadora | 12 | 2 | 5 | 5 | -4 | 11 |
 | 15 | Casa Pia | 12 | 2 | 3 | 7 | -13 | 9 |
 | 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
 | 17 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
@@ -376,21 +376,7 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Indian Super League
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Mohun Bagan SG | 24 | 17 | 5 | 2 | 31 | 56 |
-| 2 | FC Goa | 24 | 14 | 6 | 4 | 16 | 48 |
-| 3 | Bengaluru | 24 | 11 | 5 | 8 | 9 | 38 |
-| 4 | NorthEast Utd | 24 | 10 | 8 | 6 | 17 | 38 |
-| 5 | Jamshedpur | 24 | 12 | 2 | 10 | -6 | 38 |
-| 6 | Mumbai City | 24 | 9 | 9 | 6 | 1 | 36 |
-| 7 | Odisha | 24 | 8 | 9 | 7 | 7 | 33 |
-| 8 | Kerala Blasters | 24 | 8 | 5 | 11 | -4 | 29 |
-| 9 | East Bengal | 24 | 8 | 4 | 12 | -6 | 28 |
-| 10 | Punjab FC | 24 | 8 | 4 | 12 | -4 | 28 |
-| 11 | Chennaiyin | 24 | 7 | 6 | 11 | -5 | 27 |
-| 12 | Hyderabad | 24 | 4 | 6 | 14 | -25 | 18 |
-| 13 | Mohammedan | 24 | 2 | 7 | 15 | -31 | 13 |
+Data not available.
 
 ### Liga Profesional Argentina (Clausura)
 
