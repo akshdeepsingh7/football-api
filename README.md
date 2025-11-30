@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 30 November 2025, 03:19 PM UTC (Sunday, 30 November 2025, 08:49 PM IST)
+**Last Updated:** Sunday, 30 November 2025, 04:25 PM UTC (Sunday, 30 November 2025, 09:55 PM IST)
 
 ### Premier League
 
@@ -49,24 +49,24 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 12 | 9 | 2 | 1 | 18 | 29 |
 | 2 | Manchester City | 13 | 8 | 1 | 4 | 15 | 25 |
-| 3 | Chelsea | 12 | 7 | 2 | 3 | 12 | 23 |
-| 4 | Brighton & Hove Albion | 13 | 6 | 4 | 3 | 4 | 22 |
-| 5 | Sunderland | 13 | 6 | 4 | 3 | 4 | 22 |
-| 6 | Aston Villa | 13 | 6 | 4 | 3 | 4 | 22 |
+| 3 | Aston Villa | 13 | 7 | 3 | 3 | 5 | 24 |
+| 4 | Chelsea | 12 | 7 | 2 | 3 | 12 | 23 |
+| 5 | Brighton & Hove Albion | 13 | 6 | 4 | 3 | 5 | 22 |
+| 6 | Sunderland | 13 | 6 | 4 | 3 | 4 | 22 |
 | 7 | Manchester United | 13 | 6 | 3 | 4 | 1 | 21 |
-| 8 | Crystal Palace | 13 | 5 | 5 | 3 | 6 | 20 |
-| 9 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
-| 10 | AFC Bournemouth | 13 | 5 | 4 | 4 | -2 | 19 |
-| 11 | Liverpool FC | 13 | 6 | 1 | 6 | -2 | 19 |
+| 8 | Liverpool FC | 13 | 7 | 0 | 6 | 0 | 21 |
+| 9 | Crystal Palace | 13 | 5 | 5 | 3 | 6 | 20 |
+| 10 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
+| 11 | AFC Bournemouth | 13 | 5 | 4 | 4 | -2 | 19 |
 | 12 | Tottenham Hotspur | 13 | 5 | 3 | 5 | 5 | 18 |
 | 13 | Newcastle United | 13 | 5 | 3 | 5 | 1 | 18 |
 | 14 | Everton | 13 | 5 | 3 | 5 | -3 | 18 |
 | 15 | Fulham | 13 | 5 | 2 | 6 | -2 | 17 |
-| 16 | Nottingham Forest | 13 | 3 | 3 | 7 | -8 | 12 |
-| 17 | West Ham United | 13 | 3 | 3 | 7 | -10 | 12 |
+| 16 | Nottingham Forest | 13 | 3 | 3 | 7 | -9 | 12 |
+| 17 | West Ham United | 13 | 3 | 2 | 8 | -12 | 11 |
 | 18 | Leeds United | 13 | 3 | 2 | 8 | -12 | 11 |
 | 19 | Burnley | 13 | 3 | 1 | 9 | -12 | 10 |
-| 20 | Wolverhampton Wanderers | 13 | 0 | 3 | 10 | -20 | 3 |
+| 20 | Wolverhampton Wanderers | 13 | 0 | 2 | 11 | -21 | 2 |
 
 ### La Liga
 
@@ -102,14 +102,14 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Borussia Dortmund | 12 | 7 | 4 | 1 | 10 | 25 |
 | 4 | Bayer Leverkusen | 12 | 7 | 2 | 3 | 11 | 23 |
 | 5 | Hoffenheim | 12 | 7 | 2 | 3 | 8 | 23 |
-| 6 | VfB Stuttgart | 12 | 7 | 1 | 4 | 4 | 22 |
+| 6 | VfB Stuttgart | 12 | 7 | 2 | 3 | 5 | 23 |
 | 7 | Eintracht Frankfurt | 11 | 6 | 2 | 3 | 5 | 20 |
 | 8 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
 | 9 | Köln | 12 | 4 | 3 | 5 | 1 | 15 |
 | 10 | Union Berlin | 12 | 4 | 3 | 5 | -4 | 15 |
 | 11 | Borussia Mönchengladbach | 12 | 3 | 4 | 5 | -3 | 13 |
 | 12 | SC Freiburg | 11 | 3 | 4 | 4 | -5 | 13 |
-| 13 | Hamburg | 12 | 3 | 3 | 6 | -7 | 12 |
+| 13 | Hamburg | 12 | 2 | 4 | 6 | -8 | 10 |
 | 14 | Augsburg | 12 | 3 | 1 | 8 | -12 | 10 |
 | 15 | VfL Wolfsburg | 11 | 2 | 2 | 7 | -8 | 8 |
 | 16 | Heidenheim | 12 | 2 | 2 | 8 | -17 | 8 |
@@ -122,8 +122,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Milan | 13 | 8 | 4 | 1 | 10 | 28 |
 | 2 | Roma | 12 | 9 | 0 | 3 | 9 | 27 |
-| 3 | Napoli | 12 | 8 | 1 | 3 | 8 | 25 |
-| 4 | Inter | 13 | 8 | 1 | 4 | 13 | 25 |
+| 3 | Inter | 13 | 9 | 0 | 4 | 15 | 27 |
+| 4 | Napoli | 12 | 8 | 1 | 3 | 8 | 25 |
 | 5 | Bologna | 12 | 7 | 3 | 2 | 13 | 24 |
 | 6 | Como | 13 | 6 | 6 | 1 | 12 | 24 |
 | 7 | Juventus | 13 | 6 | 5 | 2 | 5 | 23 |
@@ -135,9 +135,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
 | 14 | Lecce | 13 | 3 | 4 | 6 | -7 | 13 |
 | 15 | Cagliari | 13 | 2 | 5 | 6 | -6 | 11 |
-| 16 | Pisa | 13 | 1 | 8 | 4 | -6 | 11 |
-| 17 | Genoa | 13 | 2 | 5 | 6 | -7 | 11 |
-| 18 | Parma | 13 | 2 | 5 | 6 | -8 | 11 |
+| 16 | Genoa | 13 | 2 | 5 | 6 | -7 | 11 |
+| 17 | Parma | 13 | 2 | 5 | 6 | -8 | 11 |
+| 18 | Pisa | 13 | 1 | 7 | 5 | -8 | 10 |
 | 19 | Fiorentina | 12 | 0 | 6 | 6 | -9 | 6 |
 | 20 | Hellas Verona | 13 | 0 | 6 | 7 | -12 | 6 |
 
@@ -147,20 +147,20 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 14 | 9 | 3 | 2 | 15 | 30 |
 | 2 | Marseille | 14 | 9 | 2 | 3 | 21 | 29 |
-| 3 | Lens | 13 | 9 | 1 | 3 | 11 | 28 |
-| 4 | Rennes | 14 | 6 | 6 | 2 | 6 | 24 |
-| 5 | Lille | 13 | 7 | 2 | 4 | 10 | 23 |
-| 6 | Strasbourg | 14 | 7 | 2 | 5 | 7 | 23 |
-| 7 | Monaco | 14 | 7 | 2 | 5 | 1 | 23 |
+| 3 | Lens | 14 | 9 | 2 | 3 | 11 | 29 |
+| 4 | Lille | 14 | 7 | 3 | 4 | 10 | 24 |
+| 5 | Rennes | 14 | 6 | 6 | 2 | 6 | 24 |
+| 6 | Monaco | 14 | 7 | 2 | 5 | 1 | 23 |
+| 7 | Strasbourg | 14 | 7 | 1 | 6 | 6 | 22 |
 | 8 | Lyon | 13 | 6 | 3 | 4 | 3 | 21 |
-| 9 | Toulouse | 14 | 4 | 5 | 5 | 1 | 17 |
-| 10 | Nice | 13 | 5 | 2 | 6 | -5 | 17 |
-| 11 | Angers | 13 | 4 | 4 | 5 | -4 | 16 |
-| 12 | Paris FC | 14 | 4 | 3 | 7 | -5 | 15 |
-| 13 | Brest | 14 | 3 | 5 | 6 | -6 | 14 |
-| 14 | Le Havre | 13 | 3 | 5 | 5 | -7 | 14 |
-| 15 | Nantes | 13 | 2 | 5 | 6 | -7 | 11 |
-| 16 | Lorient | 13 | 2 | 5 | 6 | -12 | 11 |
+| 9 | Nice | 14 | 5 | 3 | 6 | -5 | 18 |
+| 10 | Toulouse | 14 | 4 | 5 | 5 | 1 | 17 |
+| 11 | Angers | 14 | 4 | 5 | 5 | -4 | 17 |
+| 12 | Brest | 14 | 4 | 4 | 6 | -5 | 16 |
+| 13 | Paris FC | 14 | 4 | 3 | 7 | -5 | 15 |
+| 14 | Le Havre | 14 | 3 | 6 | 5 | -7 | 15 |
+| 15 | Lorient | 14 | 2 | 6 | 6 | -12 | 12 |
+| 16 | Nantes | 13 | 2 | 5 | 6 | -7 | 11 |
 | 17 | Metz | 14 | 3 | 2 | 9 | -17 | 11 |
 | 18 | Auxerre | 14 | 2 | 3 | 9 | -12 | 9 |
 
@@ -301,10 +301,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Braga | 11 | 4 | 4 | 3 | 8 | 16 |
 | 9 | Alverca | 12 | 4 | 2 | 6 | -5 | 14 |
 | 10 | Estoril | 11 | 3 | 4 | 4 | 2 | 13 |
-| 11 | Nacional | 12 | 3 | 3 | 6 | -5 | 12 |
-| 12 | Rio Ave | 11 | 2 | 6 | 3 | -5 | 12 |
-| 13 | Estrela Amadora | 11 | 2 | 5 | 4 | -1 | 11 |
-| 14 | Santa Clara | 11 | 3 | 2 | 6 | -4 | 11 |
+| 11 | Rio Ave | 12 | 2 | 7 | 3 | -5 | 13 |
+| 12 | Santa Clara | 12 | 3 | 3 | 6 | -4 | 12 |
+| 13 | Nacional | 12 | 3 | 3 | 6 | -5 | 12 |
+| 14 | Estrela Amadora | 11 | 2 | 5 | 4 | -1 | 11 |
 | 15 | Casa Pia | 12 | 2 | 3 | 7 | -13 | 9 |
 | 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
 | 17 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
