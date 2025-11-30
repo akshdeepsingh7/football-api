@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 30 November 2025, 07:15 PM UTC",
-        "IST": "Monday, 01 December 2025, 12:45 AM IST"
+        "UTC": "Sunday, 30 November 2025, 07:37 PM UTC",
+        "IST": "Monday, 01 December 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -261,11 +261,11 @@
                 "Position": "6",
                 "Team": "Espanyol",
                 "Played": "14",
-                "Wins": "6",
-                "Draws": "4",
+                "Wins": "7",
+                "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "1",
-                "Points": "22"
+                "Goal Difference": "2",
+                "Points": "24"
             },
             {
                 "Position": "7",
@@ -289,16 +289,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Celta de Vigo",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "8",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "17"
-            },
-            {
-                "Position": "10",
                 "Team": "Real Sociedad",
                 "Played": "14",
                 "Wins": "4",
@@ -308,7 +298,7 @@
                 "Points": "16"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Elche",
                 "Played": "14",
                 "Wins": "3",
@@ -318,13 +308,23 @@
                 "Points": "16"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Rayo Vallecano",
                 "Played": "13",
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "-2",
+                "Points": "16"
+            },
+            {
+                "Position": "12",
+                "Team": "Celta de Vigo",
+                "Played": "14",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "-3",
                 "Points": "16"
             },
             {
