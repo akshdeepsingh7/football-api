@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 30 November 2025, 09:38 PM UTC",
-        "IST": "Monday, 01 December 2025, 03:08 AM IST"
+        "UTC": "Sunday, 30 November 2025, 10:19 PM UTC",
+        "IST": "Monday, 01 December 2025, 03:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3323,16 +3323,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "36",
-                "Wins": "11",
-                "Draws": "13",
-                "Losses": "12",
-                "Goal Difference": "-2",
-                "Points": "46"
-            },
-            {
-                "Position": "12",
                 "Team": "Vasco da Gama",
                 "Played": "36",
                 "Wins": "13",
@@ -3342,13 +3332,23 @@
                 "Points": "45"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "RB Bragantino",
                 "Played": "36",
                 "Wins": "13",
                 "Draws": "6",
                 "Losses": "17",
                 "Goal Difference": "-14",
+                "Points": "45"
+            },
+            {
+                "Position": "13",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "36",
+                "Wins": "11",
+                "Draws": "12",
+                "Losses": "13",
+                "Goal Difference": "-3",
                 "Points": "45"
             },
             {
@@ -3395,11 +3395,11 @@
                 "Position": "18",
                 "Team": "Fortaleza",
                 "Played": "36",
-                "Wins": "9",
-                "Draws": "11",
+                "Wins": "10",
+                "Draws": "10",
                 "Losses": "16",
-                "Goal Difference": "-15",
-                "Points": "38"
+                "Goal Difference": "-14",
+                "Points": "40"
             },
             {
                 "Position": "19",
