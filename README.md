@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 30 November 2025, 07:37 PM UTC (Monday, 01 December 2025, 01:07 AM IST)
+**Last Updated:** Sunday, 30 November 2025, 08:23 PM UTC (Monday, 01 December 2025, 01:53 AM IST)
 
 ### Premier League
 
@@ -73,8 +73,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 14 | 11 | 1 | 2 | 23 | 34 |
-| 2 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
-| 3 | Real Madrid | 13 | 10 | 2 | 1 | 16 | 32 |
+| 2 | Real Madrid | 14 | 10 | 3 | 1 | 16 | 33 |
+| 3 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
 | 4 | Atlético de Madrid | 14 | 9 | 4 | 1 | 16 | 31 |
 | 5 | Real Betis | 14 | 6 | 6 | 2 | 8 | 24 |
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Mallorca | 14 | 3 | 4 | 7 | -7 | 13 |
 | 16 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
 | 17 | Osasuna | 14 | 3 | 3 | 8 | -6 | 12 |
-| 18 | Girona | 13 | 2 | 5 | 6 | -13 | 11 |
+| 18 | Girona | 14 | 2 | 6 | 6 | -13 | 12 |
 | 19 | Levante | 14 | 2 | 3 | 9 | -10 | 9 |
 | 20 | Real Oviedo | 14 | 2 | 3 | 9 | -15 | 9 |
 
@@ -104,7 +104,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Hoffenheim | 12 | 7 | 2 | 3 | 8 | 23 |
 | 6 | VfB Stuttgart | 12 | 7 | 1 | 4 | 4 | 22 |
 | 7 | Eintracht Frankfurt | 12 | 6 | 3 | 3 | 5 | 21 |
-| 8 | SC Freiburg | 12 | 4 | 4 | 4 | -3 | 16 |
+| 8 | SC Freiburg | 12 | 4 | 4 | 4 | -1 | 16 |
 | 9 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
 | 10 | Köln | 12 | 4 | 3 | 5 | 1 | 15 |
 | 11 | Union Berlin | 12 | 4 | 3 | 5 | -4 | 15 |
@@ -114,16 +114,16 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | VfL Wolfsburg | 12 | 2 | 3 | 7 | -8 | 9 |
 | 16 | Heidenheim | 12 | 2 | 2 | 8 | -17 | 8 |
 | 17 | St. Pauli | 12 | 2 | 1 | 9 | -14 | 7 |
-| 18 | Mainz 05 | 12 | 1 | 3 | 8 | -10 | 6 |
+| 18 | Mainz 05 | 12 | 1 | 3 | 8 | -12 | 6 |
 
 ### Serie A
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Milan | 13 | 8 | 4 | 1 | 10 | 28 |
-| 2 | Roma | 12 | 9 | 0 | 3 | 9 | 27 |
+| 2 | Napoli | 13 | 9 | 1 | 3 | 9 | 28 |
 | 3 | Inter | 13 | 9 | 0 | 4 | 15 | 27 |
-| 4 | Napoli | 12 | 8 | 1 | 3 | 8 | 25 |
+| 4 | Roma | 13 | 9 | 0 | 4 | 8 | 27 |
 | 5 | Bologna | 12 | 7 | 3 | 2 | 13 | 24 |
 | 6 | Como | 13 | 6 | 6 | 1 | 12 | 24 |
 | 7 | Juventus | 13 | 6 | 5 | 2 | 5 | 23 |
@@ -152,7 +152,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Rennes | 14 | 6 | 6 | 2 | 6 | 24 |
 | 6 | Monaco | 14 | 7 | 2 | 5 | 1 | 23 |
 | 7 | Strasbourg | 14 | 7 | 1 | 6 | 6 | 22 |
-| 8 | Lyon | 13 | 6 | 3 | 4 | 3 | 21 |
+| 8 | Lyon | 14 | 6 | 4 | 4 | 3 | 22 |
 | 9 | Toulouse | 14 | 4 | 5 | 5 | 1 | 17 |
 | 10 | Nice | 14 | 5 | 2 | 7 | -7 | 17 |
 | 11 | Brest | 14 | 4 | 4 | 6 | -5 | 16 |
@@ -160,7 +160,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Paris FC | 14 | 4 | 3 | 7 | -5 | 15 |
 | 14 | Le Havre | 14 | 3 | 5 | 6 | -8 | 14 |
 | 15 | Lorient | 14 | 3 | 5 | 6 | -10 | 14 |
-| 16 | Nantes | 13 | 2 | 5 | 6 | -7 | 11 |
+| 16 | Nantes | 14 | 2 | 6 | 6 | -7 | 12 |
 | 17 | Metz | 14 | 3 | 2 | 9 | -17 | 11 |
 | 18 | Auxerre | 14 | 2 | 3 | 9 | -12 | 9 |
 
@@ -435,11 +435,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Palmeiras | 36 | 21 | 7 | 8 | 28 | 70 |
 | 3 | Cruzeiro | 36 | 19 | 12 | 5 | 27 | 69 |
 | 4 | Mirassol | 36 | 17 | 12 | 7 | 22 | 63 |
-| 5 | Fluminense | 36 | 17 | 7 | 12 | 8 | 58 |
-| 6 | Botafogo | 36 | 16 | 10 | 10 | 17 | 58 |
+| 5 | Botafogo | 36 | 16 | 11 | 9 | 18 | 59 |
+| 6 | Fluminense | 36 | 17 | 7 | 12 | 8 | 58 |
 | 7 | Bahia | 36 | 16 | 9 | 11 | 4 | 57 |
-| 8 | Corinthians | 36 | 13 | 9 | 14 | -3 | 48 |
-| 9 | São Paulo | 36 | 13 | 9 | 14 | -6 | 48 |
+| 8 | São Paulo | 36 | 13 | 9 | 14 | -6 | 48 |
+| 9 | Corinthians | 36 | 12 | 10 | 14 | -4 | 46 |
 | 10 | Grêmio | 36 | 12 | 10 | 14 | -6 | 46 |
 | 11 | Vasco da Gama | 36 | 13 | 6 | 17 | 2 | 45 |
 | 12 | RB Bragantino | 36 | 13 | 6 | 17 | -14 | 45 |
