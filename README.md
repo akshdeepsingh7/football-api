@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 30 November 2025, 12:38 PM UTC (Sunday, 30 November 2025, 06:08 PM IST)
+**Last Updated:** Sunday, 30 November 2025, 01:27 PM UTC (Sunday, 30 November 2025, 06:57 PM IST)
 
 ### Premier League
 
@@ -50,15 +50,15 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Arsenal | 12 | 9 | 2 | 1 | 18 | 29 |
 | 2 | Manchester City | 13 | 8 | 1 | 4 | 15 | 25 |
 | 3 | Chelsea | 12 | 7 | 2 | 3 | 12 | 23 |
-| 4 | Crystal Palace | 13 | 6 | 5 | 2 | 8 | 23 |
-| 5 | Sunderland | 13 | 6 | 4 | 3 | 4 | 22 |
-| 6 | Aston Villa | 12 | 6 | 3 | 3 | 4 | 21 |
-| 7 | Brighton & Hove Albion | 12 | 5 | 4 | 3 | 3 | 19 |
-| 8 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
-| 9 | AFC Bournemouth | 13 | 5 | 4 | 4 | -2 | 19 |
-| 10 | Tottenham Hotspur | 13 | 5 | 3 | 5 | 5 | 18 |
-| 11 | Newcastle United | 13 | 5 | 3 | 5 | 1 | 18 |
-| 12 | Manchester United | 13 | 5 | 3 | 5 | -1 | 18 |
+| 4 | Sunderland | 13 | 6 | 4 | 3 | 4 | 22 |
+| 5 | Aston Villa | 12 | 6 | 3 | 3 | 4 | 21 |
+| 6 | Manchester United | 13 | 6 | 3 | 4 | 1 | 21 |
+| 7 | Crystal Palace | 13 | 5 | 5 | 3 | 6 | 20 |
+| 8 | Brighton & Hove Albion | 12 | 5 | 4 | 3 | 3 | 19 |
+| 9 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
+| 10 | AFC Bournemouth | 13 | 5 | 4 | 4 | -2 | 19 |
+| 11 | Tottenham Hotspur | 13 | 5 | 3 | 5 | 5 | 18 |
+| 12 | Newcastle United | 13 | 5 | 3 | 5 | 1 | 18 |
 | 13 | Liverpool FC | 12 | 6 | 0 | 6 | -2 | 18 |
 | 14 | Everton | 13 | 5 | 3 | 5 | -3 | 18 |
 | 15 | Fulham | 13 | 5 | 2 | 6 | -2 | 17 |
@@ -75,12 +75,12 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Barcelona | 14 | 11 | 1 | 2 | 23 | 34 |
 | 2 | Real Madrid | 13 | 10 | 2 | 1 | 16 | 32 |
 | 3 | Atlético de Madrid | 14 | 9 | 4 | 1 | 16 | 31 |
-| 4 | Villarreal | 13 | 9 | 2 | 2 | 15 | 29 |
+| 4 | Villarreal | 14 | 9 | 3 | 2 | 15 | 30 |
 | 5 | Real Betis | 13 | 5 | 6 | 2 | 6 | 21 |
 | 6 | Espanyol | 13 | 6 | 3 | 4 | 1 | 21 |
 | 7 | Getafe | 14 | 6 | 2 | 6 | -2 | 20 |
 | 8 | Athletic Bilbao | 14 | 6 | 2 | 6 | -3 | 20 |
-| 9 | Real Sociedad | 13 | 4 | 4 | 5 | -1 | 16 |
+| 9 | Real Sociedad | 14 | 4 | 5 | 5 | -1 | 17 |
 | 10 | Sevilla | 13 | 5 | 1 | 7 | -2 | 16 |
 | 11 | Celta de Vigo | 13 | 3 | 7 | 3 | -2 | 16 |
 | 12 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
@@ -131,9 +131,9 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Udinese | 13 | 5 | 3 | 5 | -6 | 18 |
 | 10 | Sassuolo | 13 | 5 | 2 | 6 | 0 | 17 |
 | 11 | Cremonese | 12 | 3 | 5 | 4 | -3 | 14 |
-| 12 | Torino | 13 | 3 | 5 | 5 | -12 | 14 |
+| 12 | Torino | 13 | 3 | 5 | 5 | -11 | 14 |
 | 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
-| 14 | Lecce | 13 | 3 | 4 | 6 | -6 | 13 |
+| 14 | Lecce | 13 | 3 | 4 | 6 | -7 | 13 |
 | 15 | Cagliari | 13 | 2 | 5 | 6 | -6 | 11 |
 | 16 | Genoa | 13 | 2 | 5 | 6 | -7 | 11 |
 | 17 | Parma | 13 | 2 | 5 | 6 | -8 | 11 |
