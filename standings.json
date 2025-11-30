@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 30 November 2025, 02:40 PM UTC",
-        "IST": "Sunday, 30 November 2025, 08:10 PM IST"
+        "UTC": "Sunday, 30 November 2025, 03:19 PM UTC",
+        "IST": "Sunday, 30 November 2025, 08:49 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -37,7 +37,7 @@
             },
             {
                 "Position": "4",
-                "Team": "Sunderland",
+                "Team": "Brighton & Hove Albion",
                 "Played": "13",
                 "Wins": "6",
                 "Draws": "4",
@@ -47,7 +47,7 @@
             },
             {
                 "Position": "5",
-                "Team": "Aston Villa",
+                "Team": "Sunderland",
                 "Played": "13",
                 "Wins": "6",
                 "Draws": "4",
@@ -57,6 +57,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Aston Villa",
+                "Played": "13",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "4",
+                "Points": "22"
+            },
+            {
+                "Position": "7",
                 "Team": "Manchester United",
                 "Played": "13",
                 "Wins": "6",
@@ -66,23 +76,13 @@
                 "Points": "21"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Crystal Palace",
                 "Played": "13",
                 "Wins": "5",
                 "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "6",
-                "Points": "20"
-            },
-            {
-                "Position": "8",
-                "Team": "Brighton & Hove Albion",
-                "Played": "13",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "3",
                 "Points": "20"
             },
             {
@@ -160,10 +160,10 @@
                 "Team": "Nottingham Forest",
                 "Played": "13",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "-7",
-                "Points": "13"
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-8",
+                "Points": "12"
             },
             {
                 "Position": "17",
@@ -219,21 +219,21 @@
             },
             {
                 "Position": "2",
-                "Team": "Real Madrid",
-                "Played": "13",
-                "Wins": "10",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "16",
-                "Points": "32"
-            },
-            {
-                "Position": "3",
                 "Team": "Villarreal",
                 "Played": "14",
                 "Wins": "10",
                 "Draws": "2",
                 "Losses": "2",
+                "Goal Difference": "16",
+                "Points": "32"
+            },
+            {
+                "Position": "3",
+                "Team": "Real Madrid",
+                "Played": "13",
+                "Wins": "10",
+                "Draws": "2",
+                "Losses": "1",
                 "Goal Difference": "16",
                 "Points": "32"
             },
@@ -250,12 +250,12 @@
             {
                 "Position": "5",
                 "Team": "Real Betis",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "5",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "2",
                 "Goal Difference": "6",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "6",
@@ -290,12 +290,12 @@
             {
                 "Position": "9",
                 "Team": "Sevilla",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "5",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "7",
                 "Goal Difference": "-2",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "10",
@@ -464,10 +464,10 @@
                 "Team": "VfB Stuttgart",
                 "Played": "12",
                 "Wins": "7",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "5",
-                "Points": "23"
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "4",
+                "Points": "22"
             },
             {
                 "Position": "7",
@@ -533,11 +533,11 @@
                 "Position": "13",
                 "Team": "Hamburg",
                 "Played": "12",
-                "Wins": "2",
-                "Draws": "4",
+                "Wins": "3",
+                "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "-8",
-                "Points": "10"
+                "Goal Difference": "-7",
+                "Points": "12"
             },
             {
                 "Position": "14",
@@ -825,16 +825,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Strasbourg",
-                "Played": "14",
-                "Wins": "8",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "8",
-                "Points": "25"
-            },
-            {
-                "Position": "5",
                 "Team": "Rennes",
                 "Played": "14",
                 "Wins": "6",
@@ -844,13 +834,23 @@
                 "Points": "24"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Lille",
                 "Played": "13",
                 "Wins": "7",
                 "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "10",
+                "Points": "23"
+            },
+            {
+                "Position": "6",
+                "Team": "Strasbourg",
+                "Played": "14",
+                "Wins": "7",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "7",
                 "Points": "23"
             },
             {
@@ -915,6 +915,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Brest",
+                "Played": "14",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-6",
+                "Points": "14"
+            },
+            {
+                "Position": "14",
                 "Team": "Le Havre",
                 "Played": "13",
                 "Wins": "3",
@@ -922,16 +932,6 @@
                 "Losses": "5",
                 "Goal Difference": "-7",
                 "Points": "14"
-            },
-            {
-                "Position": "14",
-                "Team": "Brest",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-7",
-                "Points": "13"
             },
             {
                 "Position": "15",
