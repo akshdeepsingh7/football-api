@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 30 November 2025, 11:16 AM UTC",
-        "IST": "Sunday, 30 November 2025, 04:46 PM IST"
+        "UTC": "Sunday, 30 November 2025, 11:37 AM UTC",
+        "IST": "Sunday, 30 November 2025, 05:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -693,22 +693,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Torino",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "-10",
+                "Points": "15"
+            },
+            {
+                "Position": "12",
                 "Team": "Cremonese",
                 "Played": "12",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "-3",
-                "Points": "14"
-            },
-            {
-                "Position": "12",
-                "Team": "Torino",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "-10",
                 "Points": "14"
             },
             {
@@ -753,22 +753,22 @@
             },
             {
                 "Position": "17",
+                "Team": "Lecce",
+                "Played": "13",
+                "Wins": "2",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-8",
+                "Points": "11"
+            },
+            {
+                "Position": "18",
                 "Team": "Pisa",
                 "Played": "12",
                 "Wins": "1",
                 "Draws": "7",
                 "Losses": "4",
                 "Goal Difference": "-6",
-                "Points": "10"
-            },
-            {
-                "Position": "18",
-                "Team": "Lecce",
-                "Played": "12",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "-8",
                 "Points": "10"
             },
             {
