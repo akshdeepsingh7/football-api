@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 30 November 2025, 06:49 PM UTC (Monday, 01 December 2025, 12:19 AM IST)
+**Last Updated:** Sunday, 30 November 2025, 07:15 PM UTC (Monday, 01 December 2025, 12:45 AM IST)
 
 ### Premier League
 
@@ -104,7 +104,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Hoffenheim | 12 | 7 | 2 | 3 | 8 | 23 |
 | 6 | VfB Stuttgart | 12 | 7 | 1 | 4 | 4 | 22 |
 | 7 | Eintracht Frankfurt | 12 | 6 | 3 | 3 | 5 | 21 |
-| 8 | SC Freiburg | 12 | 4 | 4 | 4 | -4 | 16 |
+| 8 | SC Freiburg | 12 | 4 | 4 | 4 | -3 | 16 |
 | 9 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
 | 10 | Köln | 12 | 4 | 3 | 5 | 1 | 15 |
 | 11 | Union Berlin | 12 | 4 | 3 | 5 | -4 | 15 |
@@ -114,7 +114,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | VfL Wolfsburg | 12 | 2 | 3 | 7 | -8 | 9 |
 | 16 | Heidenheim | 12 | 2 | 2 | 8 | -17 | 8 |
 | 17 | St. Pauli | 12 | 2 | 1 | 9 | -14 | 7 |
-| 18 | Mainz 05 | 12 | 1 | 3 | 8 | -9 | 6 |
+| 18 | Mainz 05 | 12 | 1 | 3 | 8 | -10 | 6 |
 
 ### Serie A
 
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 11 | 10 | 1 | 0 | 21 | 31 |
-| 2 | Sporting CP | 12 | 10 | 1 | 1 | 24 | 31 |
+| 2 | Sporting CP | 12 | 10 | 1 | 1 | 25 | 31 |
 | 3 | Benfica | 12 | 8 | 4 | 0 | 18 | 28 |
 | 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
 | 5 | Famalicão | 12 | 5 | 5 | 2 | 6 | 20 |
@@ -304,7 +304,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Rio Ave | 12 | 2 | 7 | 3 | -5 | 13 |
 | 12 | Santa Clara | 12 | 3 | 3 | 6 | -4 | 12 |
 | 13 | Nacional | 12 | 3 | 3 | 6 | -5 | 12 |
-| 14 | Estrela Amadora | 12 | 2 | 5 | 5 | -4 | 11 |
+| 14 | Estrela Amadora | 12 | 2 | 5 | 5 | -5 | 11 |
 | 15 | Casa Pia | 12 | 2 | 3 | 7 | -13 | 9 |
 | 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
 | 17 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
@@ -436,13 +436,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Cruzeiro | 36 | 19 | 12 | 5 | 27 | 69 |
 | 4 | Mirassol | 36 | 17 | 12 | 7 | 22 | 63 |
 | 5 | Fluminense | 36 | 17 | 7 | 12 | 8 | 58 |
-| 6 | Botafogo | 35 | 16 | 10 | 9 | 18 | 58 |
+| 6 | Botafogo | 36 | 16 | 10 | 10 | 17 | 58 |
 | 7 | Bahia | 36 | 16 | 9 | 11 | 4 | 57 |
-| 8 | São Paulo | 36 | 13 | 9 | 14 | -6 | 48 |
-| 9 | Grêmio | 36 | 12 | 10 | 14 | -6 | 46 |
-| 10 | Vasco da Gama | 36 | 13 | 6 | 17 | 2 | 45 |
-| 11 | RB Bragantino | 36 | 13 | 6 | 17 | -14 | 45 |
-| 12 | Corinthians | 35 | 12 | 9 | 14 | -4 | 45 |
+| 8 | Corinthians | 36 | 13 | 9 | 14 | -3 | 48 |
+| 9 | São Paulo | 36 | 13 | 9 | 14 | -6 | 48 |
+| 10 | Grêmio | 36 | 12 | 10 | 14 | -6 | 46 |
+| 11 | Vasco da Gama | 36 | 13 | 6 | 17 | 2 | 45 |
+| 12 | RB Bragantino | 36 | 13 | 6 | 17 | -14 | 45 |
 | 13 | Atlético Mineiro | 35 | 11 | 12 | 12 | -2 | 45 |
 | 14 | Ceará | 36 | 11 | 10 | 15 | -3 | 43 |
 | 15 | Vitória | 36 | 10 | 12 | 14 | -14 | 42 |

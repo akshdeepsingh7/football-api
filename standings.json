@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 30 November 2025, 06:49 PM UTC",
-        "IST": "Monday, 01 December 2025, 12:19 AM IST"
+        "UTC": "Sunday, 30 November 2025, 07:15 PM UTC",
+        "IST": "Monday, 01 December 2025, 12:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -486,7 +486,7 @@
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "4",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "16"
             },
             {
@@ -586,7 +586,7 @@
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "8",
-                "Goal Difference": "-9",
+                "Goal Difference": "-10",
                 "Points": "6"
             }
         ],
@@ -2078,7 +2078,7 @@
                 "Wins": "10",
                 "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "24",
+                "Goal Difference": "25",
                 "Points": "31"
             },
             {
@@ -2198,7 +2198,7 @@
                 "Wins": "2",
                 "Draws": "5",
                 "Losses": "5",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "11"
             },
             {
@@ -3274,11 +3274,11 @@
             {
                 "Position": "6",
                 "Team": "Botafogo",
-                "Played": "35",
+                "Played": "36",
                 "Wins": "16",
                 "Draws": "10",
-                "Losses": "9",
-                "Goal Difference": "18",
+                "Losses": "10",
+                "Goal Difference": "17",
                 "Points": "58"
             },
             {
@@ -3293,6 +3293,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Corinthians",
+                "Played": "36",
+                "Wins": "13",
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "-3",
+                "Points": "48"
+            },
+            {
+                "Position": "9",
                 "Team": "S\u00e3o Paulo",
                 "Played": "36",
                 "Wins": "13",
@@ -3302,7 +3312,7 @@
                 "Points": "48"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Gr\u00eamio",
                 "Played": "36",
                 "Wins": "12",
@@ -3312,7 +3322,7 @@
                 "Points": "46"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Vasco da Gama",
                 "Played": "36",
                 "Wins": "13",
@@ -3322,23 +3332,13 @@
                 "Points": "45"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "RB Bragantino",
                 "Played": "36",
                 "Wins": "13",
                 "Draws": "6",
                 "Losses": "17",
                 "Goal Difference": "-14",
-                "Points": "45"
-            },
-            {
-                "Position": "12",
-                "Team": "Corinthians",
-                "Played": "35",
-                "Wins": "12",
-                "Draws": "9",
-                "Losses": "14",
-                "Goal Difference": "-4",
                 "Points": "45"
             },
             {
