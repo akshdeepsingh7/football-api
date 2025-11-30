@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 30 November 2025, 05:17 PM UTC (Sunday, 30 November 2025, 10:47 PM IST)
+**Last Updated:** Sunday, 30 November 2025, 05:41 PM UTC (Sunday, 30 November 2025, 11:11 PM IST)
 
 ### Premier League
 
@@ -76,15 +76,15 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
 | 3 | Real Madrid | 13 | 10 | 2 | 1 | 16 | 32 |
 | 4 | Atlético de Madrid | 14 | 9 | 4 | 1 | 16 | 31 |
-| 5 | Real Betis | 13 | 5 | 6 | 2 | 6 | 21 |
-| 6 | Espanyol | 13 | 6 | 3 | 4 | 1 | 21 |
+| 5 | Real Betis | 14 | 6 | 6 | 2 | 8 | 24 |
+| 6 | Espanyol | 14 | 6 | 4 | 4 | 1 | 22 |
 | 7 | Getafe | 14 | 6 | 2 | 6 | -2 | 20 |
 | 8 | Athletic Bilbao | 14 | 6 | 2 | 6 | -3 | 20 |
-| 9 | Real Sociedad | 14 | 4 | 4 | 6 | -2 | 16 |
-| 10 | Sevilla | 13 | 5 | 1 | 7 | -2 | 16 |
-| 11 | Celta de Vigo | 13 | 3 | 7 | 3 | -2 | 16 |
-| 12 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
-| 13 | Rayo Vallecano | 13 | 4 | 4 | 5 | -2 | 16 |
+| 9 | Celta de Vigo | 14 | 3 | 8 | 3 | -2 | 17 |
+| 10 | Real Sociedad | 14 | 4 | 4 | 6 | -2 | 16 |
+| 11 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
+| 12 | Rayo Vallecano | 13 | 4 | 4 | 5 | -2 | 16 |
+| 13 | Sevilla | 14 | 5 | 1 | 8 | -4 | 16 |
 | 14 | Alavés | 14 | 4 | 3 | 7 | -3 | 15 |
 | 15 | Mallorca | 14 | 3 | 4 | 7 | -7 | 13 |
 | 16 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
@@ -154,12 +154,12 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Strasbourg | 14 | 7 | 1 | 6 | 6 | 22 |
 | 8 | Lyon | 13 | 6 | 3 | 4 | 3 | 21 |
 | 9 | Toulouse | 14 | 4 | 5 | 5 | 1 | 17 |
-| 10 | Nice | 14 | 5 | 2 | 7 | -6 | 17 |
+| 10 | Nice | 14 | 5 | 2 | 7 | -7 | 17 |
 | 11 | Brest | 14 | 4 | 4 | 6 | -5 | 16 |
 | 12 | Angers | 14 | 4 | 4 | 6 | -5 | 16 |
 | 13 | Paris FC | 14 | 4 | 3 | 7 | -5 | 15 |
 | 14 | Le Havre | 14 | 3 | 6 | 5 | -7 | 15 |
-| 15 | Lorient | 14 | 3 | 5 | 6 | -11 | 14 |
+| 15 | Lorient | 14 | 3 | 5 | 6 | -10 | 14 |
 | 16 | Nantes | 13 | 2 | 5 | 6 | -7 | 11 |
 | 17 | Metz | 14 | 3 | 2 | 9 | -17 | 11 |
 | 18 | Auxerre | 14 | 2 | 3 | 9 | -12 | 9 |
