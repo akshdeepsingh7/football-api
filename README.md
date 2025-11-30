@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 30 November 2025, 04:45 PM UTC (Sunday, 30 November 2025, 10:15 PM IST)
+**Last Updated:** Sunday, 30 November 2025, 05:17 PM UTC (Sunday, 30 November 2025, 10:47 PM IST)
 
 ### Premier League
 
@@ -76,15 +76,15 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
 | 3 | Real Madrid | 13 | 10 | 2 | 1 | 16 | 32 |
 | 4 | Atlético de Madrid | 14 | 9 | 4 | 1 | 16 | 31 |
-| 5 | Real Betis | 14 | 6 | 6 | 2 | 8 | 24 |
+| 5 | Real Betis | 13 | 5 | 6 | 2 | 6 | 21 |
 | 6 | Espanyol | 13 | 6 | 3 | 4 | 1 | 21 |
 | 7 | Getafe | 14 | 6 | 2 | 6 | -2 | 20 |
 | 8 | Athletic Bilbao | 14 | 6 | 2 | 6 | -3 | 20 |
 | 9 | Real Sociedad | 14 | 4 | 4 | 6 | -2 | 16 |
-| 10 | Celta de Vigo | 13 | 3 | 7 | 3 | -2 | 16 |
-| 11 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
-| 12 | Rayo Vallecano | 13 | 4 | 4 | 5 | -2 | 16 |
-| 13 | Sevilla | 14 | 5 | 1 | 8 | -4 | 16 |
+| 10 | Sevilla | 13 | 5 | 1 | 7 | -2 | 16 |
+| 11 | Celta de Vigo | 13 | 3 | 7 | 3 | -2 | 16 |
+| 12 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
+| 13 | Rayo Vallecano | 13 | 4 | 4 | 5 | -2 | 16 |
 | 14 | Alavés | 14 | 4 | 3 | 7 | -3 | 15 |
 | 15 | Mallorca | 14 | 3 | 4 | 7 | -7 | 13 |
 | 16 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
@@ -131,36 +131,36 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Udinese | 13 | 5 | 3 | 5 | -6 | 18 |
 | 10 | Sassuolo | 13 | 5 | 2 | 6 | 0 | 17 |
 | 11 | Cremonese | 12 | 3 | 5 | 4 | -3 | 14 |
-| 12 | Torino | 13 | 3 | 5 | 5 | -11 | 14 |
-| 13 | Atalanta | 12 | 2 | 7 | 3 | 0 | 13 |
+| 12 | Atalanta | 13 | 2 | 8 | 3 | 0 | 14 |
+| 13 | Torino | 13 | 3 | 5 | 5 | -11 | 14 |
 | 14 | Lecce | 13 | 3 | 4 | 6 | -7 | 13 |
 | 15 | Cagliari | 13 | 2 | 5 | 6 | -6 | 11 |
 | 16 | Genoa | 13 | 2 | 5 | 6 | -7 | 11 |
 | 17 | Parma | 13 | 2 | 5 | 6 | -8 | 11 |
 | 18 | Pisa | 13 | 1 | 7 | 5 | -8 | 10 |
-| 19 | Fiorentina | 12 | 0 | 6 | 6 | -9 | 6 |
+| 19 | Fiorentina | 13 | 0 | 7 | 6 | -9 | 7 |
 | 20 | Hellas Verona | 13 | 0 | 6 | 7 | -12 | 6 |
 
 ### Ligue 1
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 14 | 9 | 3 | 2 | 15 | 30 |
-| 2 | Marseille | 14 | 9 | 2 | 3 | 21 | 29 |
-| 3 | Lens | 14 | 9 | 2 | 3 | 11 | 29 |
+| 1 | Lens | 14 | 10 | 1 | 3 | 12 | 31 |
+| 2 | PSG | 14 | 9 | 3 | 2 | 15 | 30 |
+| 3 | Marseille | 14 | 9 | 2 | 3 | 21 | 29 |
 | 4 | Lille | 14 | 7 | 3 | 4 | 10 | 24 |
 | 5 | Rennes | 14 | 6 | 6 | 2 | 6 | 24 |
 | 6 | Monaco | 14 | 7 | 2 | 5 | 1 | 23 |
 | 7 | Strasbourg | 14 | 7 | 1 | 6 | 6 | 22 |
 | 8 | Lyon | 13 | 6 | 3 | 4 | 3 | 21 |
-| 9 | Nice | 14 | 6 | 2 | 6 | -4 | 20 |
-| 10 | Toulouse | 14 | 4 | 5 | 5 | 1 | 17 |
-| 11 | Angers | 14 | 4 | 5 | 5 | -4 | 17 |
-| 12 | Brest | 14 | 4 | 4 | 6 | -5 | 16 |
+| 9 | Toulouse | 14 | 4 | 5 | 5 | 1 | 17 |
+| 10 | Nice | 14 | 5 | 2 | 7 | -6 | 17 |
+| 11 | Brest | 14 | 4 | 4 | 6 | -5 | 16 |
+| 12 | Angers | 14 | 4 | 4 | 6 | -5 | 16 |
 | 13 | Paris FC | 14 | 4 | 3 | 7 | -5 | 15 |
 | 14 | Le Havre | 14 | 3 | 6 | 5 | -7 | 15 |
-| 15 | Nantes | 13 | 2 | 5 | 6 | -7 | 11 |
-| 16 | Lorient | 14 | 2 | 5 | 7 | -13 | 11 |
+| 15 | Lorient | 14 | 3 | 5 | 6 | -11 | 14 |
+| 16 | Nantes | 13 | 2 | 5 | 6 | -7 | 11 |
 | 17 | Metz | 14 | 3 | 2 | 9 | -17 | 11 |
 | 18 | Auxerre | 14 | 2 | 3 | 9 | -12 | 9 |
 
