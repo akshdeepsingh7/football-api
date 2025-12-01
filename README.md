@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 01 December 2025, 07:42 PM UTC (Tuesday, 02 December 2025, 01:12 AM IST)
+**Last Updated:** Monday, 01 December 2025, 08:21 PM UTC (Tuesday, 02 December 2025, 01:51 AM IST)
 
 ### Premier League
 
@@ -80,14 +80,14 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
 | 7 | Getafe | 14 | 6 | 2 | 6 | -2 | 20 |
 | 8 | Athletic Bilbao | 14 | 6 | 2 | 6 | -3 | 20 |
-| 9 | Real Sociedad | 14 | 4 | 4 | 6 | -2 | 16 |
-| 10 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
-| 11 | Rayo Vallecano | 13 | 4 | 4 | 5 | -2 | 16 |
+| 9 | Rayo Vallecano | 14 | 4 | 5 | 5 | -2 | 17 |
+| 10 | Real Sociedad | 14 | 4 | 4 | 6 | -2 | 16 |
+| 11 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
 | 12 | Celta de Vigo | 14 | 3 | 7 | 4 | -3 | 16 |
 | 13 | Sevilla | 14 | 5 | 1 | 8 | -4 | 16 |
 | 14 | Alavés | 14 | 4 | 3 | 7 | -3 | 15 |
-| 15 | Mallorca | 14 | 3 | 4 | 7 | -7 | 13 |
-| 16 | Valencia | 13 | 3 | 4 | 6 | -9 | 13 |
+| 15 | Valencia | 14 | 3 | 5 | 6 | -9 | 14 |
+| 16 | Mallorca | 14 | 3 | 4 | 7 | -7 | 13 |
 | 17 | Osasuna | 14 | 3 | 3 | 8 | -6 | 12 |
 | 18 | Girona | 14 | 2 | 6 | 6 | -13 | 12 |
 | 19 | Levante | 14 | 2 | 3 | 9 | -10 | 9 |
@@ -95,7 +95,26 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Bundesliga
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Bayern Munich | 12 | 11 | 1 | 0 | 35 | 34 |
+| 2 | RB Leipzig | 12 | 8 | 2 | 2 | 9 | 26 |
+| 3 | Borussia Dortmund | 12 | 7 | 4 | 1 | 10 | 25 |
+| 4 | Bayer Leverkusen | 12 | 7 | 2 | 3 | 11 | 23 |
+| 5 | Hoffenheim | 12 | 7 | 2 | 3 | 8 | 23 |
+| 6 | VfB Stuttgart | 12 | 7 | 1 | 4 | 4 | 22 |
+| 7 | Eintracht Frankfurt | 12 | 6 | 3 | 3 | 5 | 21 |
+| 8 | SC Freiburg | 12 | 4 | 4 | 4 | -1 | 16 |
+| 9 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
+| 10 | Köln | 12 | 4 | 3 | 5 | 1 | 15 |
+| 11 | Union Berlin | 12 | 4 | 3 | 5 | -4 | 15 |
+| 12 | Borussia Mönchengladbach | 12 | 3 | 4 | 5 | -3 | 13 |
+| 13 | Hamburg | 12 | 3 | 3 | 6 | -7 | 12 |
+| 14 | Augsburg | 12 | 3 | 1 | 8 | -12 | 10 |
+| 15 | VfL Wolfsburg | 12 | 2 | 3 | 7 | -8 | 9 |
+| 16 | Heidenheim | 12 | 2 | 2 | 8 | -17 | 8 |
+| 17 | St. Pauli | 12 | 2 | 1 | 9 | -14 | 7 |
+| 18 | Mainz 05 | 12 | 1 | 3 | 8 | -12 | 6 |
 
 ### Serie A
 
@@ -105,14 +124,14 @@ Data not available.
 | 2 | Napoli | 13 | 9 | 1 | 3 | 9 | 28 |
 | 3 | Inter | 13 | 9 | 0 | 4 | 15 | 27 |
 | 4 | Roma | 13 | 9 | 0 | 4 | 8 | 27 |
-| 5 | Bologna | 12 | 7 | 3 | 2 | 13 | 24 |
+| 5 | Bologna | 13 | 7 | 3 | 3 | 12 | 24 |
 | 6 | Como | 13 | 6 | 6 | 1 | 12 | 24 |
 | 7 | Juventus | 13 | 6 | 5 | 2 | 5 | 23 |
 | 8 | Lazio | 13 | 5 | 3 | 5 | 5 | 18 |
 | 9 | Udinese | 13 | 5 | 3 | 5 | -6 | 18 |
 | 10 | Sassuolo | 13 | 5 | 2 | 6 | 0 | 17 |
-| 11 | Atalanta | 13 | 3 | 7 | 3 | 2 | 16 |
-| 12 | Cremonese | 12 | 3 | 5 | 4 | -3 | 14 |
+| 11 | Cremonese | 13 | 4 | 5 | 4 | -2 | 17 |
+| 12 | Atalanta | 13 | 3 | 7 | 3 | 2 | 16 |
 | 13 | Torino | 13 | 3 | 5 | 5 | -11 | 14 |
 | 14 | Lecce | 13 | 3 | 4 | 6 | -7 | 13 |
 | 15 | Cagliari | 13 | 2 | 5 | 6 | -6 | 11 |
@@ -278,17 +297,17 @@ Data not available.
 | 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
 | 5 | Famalicão | 12 | 5 | 5 | 2 | 6 | 20 |
 | 6 | Moreirense | 12 | 6 | 1 | 5 | 1 | 19 |
-| 7 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
-| 8 | Braga | 11 | 4 | 4 | 3 | 8 | 16 |
+| 7 | Braga | 12 | 4 | 5 | 3 | 8 | 17 |
+| 8 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
 | 9 | Alverca | 12 | 4 | 2 | 6 | -5 | 14 |
 | 10 | Estoril | 12 | 3 | 4 | 5 | 1 | 13 |
 | 11 | Rio Ave | 12 | 2 | 7 | 3 | -5 | 13 |
 | 12 | Santa Clara | 12 | 3 | 3 | 6 | -4 | 12 |
 | 13 | Nacional | 12 | 3 | 3 | 6 | -5 | 12 |
 | 14 | Estrela Amadora | 12 | 2 | 5 | 5 | -5 | 11 |
-| 15 | Casa Pia | 12 | 2 | 3 | 7 | -13 | 9 |
-| 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
-| 17 | Arouca | 11 | 2 | 3 | 6 | -17 | 9 |
+| 15 | Arouca | 12 | 2 | 4 | 6 | -17 | 10 |
+| 16 | Casa Pia | 12 | 2 | 3 | 7 | -13 | 9 |
+| 17 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
 | 18 | AVS | 12 | 0 | 3 | 9 | -21 | 3 |
 
 ### EFL Championship
@@ -303,13 +322,13 @@ Data not available.
 | 6 | Bristol City | 18 | 8 | 5 | 5 | 6 | 29 |
 | 7 | Hull City | 18 | 8 | 4 | 6 | 0 | 28 |
 | 8 | Ipswich Town | 17 | 7 | 6 | 4 | 11 | 27 |
-| 9 | Wrexham | 18 | 6 | 8 | 4 | 3 | 26 |
-| 10 | Derby County | 18 | 7 | 5 | 6 | 0 | 26 |
-| 11 | Birmingham City | 17 | 7 | 4 | 6 | 6 | 25 |
-| 12 | West Bromwich Albion | 18 | 7 | 4 | 7 | -2 | 25 |
-| 13 | Queens Park Rangers | 18 | 7 | 4 | 7 | -6 | 25 |
-| 14 | Southampton | 18 | 6 | 6 | 6 | 3 | 24 |
-| 15 | Watford | 17 | 6 | 6 | 5 | 2 | 24 |
+| 9 | Birmingham City | 18 | 7 | 5 | 6 | 6 | 26 |
+| 10 | Wrexham | 18 | 6 | 8 | 4 | 3 | 26 |
+| 11 | Derby County | 18 | 7 | 5 | 6 | 0 | 26 |
+| 12 | Watford | 18 | 6 | 7 | 5 | 2 | 25 |
+| 13 | West Bromwich Albion | 18 | 7 | 4 | 7 | -2 | 25 |
+| 14 | Queens Park Rangers | 18 | 7 | 4 | 7 | -6 | 25 |
+| 15 | Southampton | 18 | 6 | 6 | 6 | 3 | 24 |
 | 16 | Leicester City | 18 | 6 | 6 | 6 | -1 | 24 |
 | 17 | Charlton Athletic | 18 | 6 | 5 | 7 | -5 | 23 |
 | 18 | Blackburn Rovers | 17 | 6 | 2 | 9 | -5 | 20 |
