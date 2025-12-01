@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 01 December 2025, 09:37 PM UTC (Tuesday, 02 December 2025, 03:07 AM IST)
+**Last Updated:** Monday, 01 December 2025, 10:20 PM UTC (Tuesday, 02 December 2025, 03:50 AM IST)
 
 ### Premier League
 
@@ -296,7 +296,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 12 | 8 | 4 | 0 | 18 | 28 |
 | 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
 | 5 | Famalicão | 12 | 5 | 5 | 2 | 6 | 20 |
-| 6 | Braga | 12 | 5 | 4 | 3 | 11 | 19 |
+| 6 | Braga | 12 | 5 | 4 | 3 | 12 | 19 |
 | 7 | Moreirense | 12 | 6 | 1 | 5 | 1 | 19 |
 | 8 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
 | 9 | Alverca | 12 | 4 | 2 | 6 | -5 | 14 |
@@ -307,7 +307,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Estrela Amadora | 12 | 2 | 5 | 5 | -5 | 11 |
 | 15 | Casa Pia | 12 | 2 | 3 | 7 | -13 | 9 |
 | 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
-| 17 | Arouca | 12 | 2 | 3 | 7 | -20 | 9 |
+| 17 | Arouca | 12 | 2 | 3 | 7 | -21 | 9 |
 | 18 | AVS | 12 | 0 | 3 | 9 | -21 | 3 |
 
 ### EFL Championship
