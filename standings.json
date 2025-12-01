@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 01 December 2025, 09:17 PM UTC",
-        "IST": "Tuesday, 02 December 2025, 02:47 AM IST"
+        "UTC": "Monday, 01 December 2025, 09:37 PM UTC",
+        "IST": "Tuesday, 02 December 2025, 03:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -291,11 +291,11 @@
                 "Position": "9",
                 "Team": "Rayo Vallecano",
                 "Played": "14",
-                "Wins": "5",
-                "Draws": "4",
+                "Wins": "4",
+                "Draws": "5",
                 "Losses": "5",
-                "Goal Difference": "-1",
-                "Points": "19"
+                "Goal Difference": "-2",
+                "Points": "17"
             },
             {
                 "Position": "10",
@@ -349,22 +349,22 @@
             },
             {
                 "Position": "15",
+                "Team": "Valencia",
+                "Played": "14",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-9",
+                "Points": "14"
+            },
+            {
+                "Position": "16",
                 "Team": "Mallorca",
                 "Played": "14",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "7",
                 "Goal Difference": "-7",
-                "Points": "13"
-            },
-            {
-                "Position": "16",
-                "Team": "Valencia",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-10",
                 "Points": "13"
             },
             {
@@ -2310,7 +2310,7 @@
                 "Wins": "8",
                 "Draws": "4",
                 "Losses": "6",
-                "Goal Difference": "8",
+                "Goal Difference": "7",
                 "Points": "28"
             },
             {
@@ -2390,7 +2390,7 @@
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "6",
-                "Goal Difference": "0",
+                "Goal Difference": "1",
                 "Points": "24"
             },
             {

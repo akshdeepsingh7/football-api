@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 01 December 2025, 09:17 PM UTC (Tuesday, 02 December 2025, 02:47 AM IST)
+**Last Updated:** Monday, 01 December 2025, 09:37 PM UTC (Tuesday, 02 December 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -80,14 +80,14 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
 | 7 | Getafe | 14 | 6 | 2 | 6 | -2 | 20 |
 | 8 | Athletic Bilbao | 14 | 6 | 2 | 6 | -3 | 20 |
-| 9 | Rayo Vallecano | 14 | 5 | 4 | 5 | -1 | 19 |
+| 9 | Rayo Vallecano | 14 | 4 | 5 | 5 | -2 | 17 |
 | 10 | Real Sociedad | 14 | 4 | 4 | 6 | -2 | 16 |
 | 11 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
 | 12 | Celta de Vigo | 14 | 3 | 7 | 4 | -3 | 16 |
 | 13 | Sevilla | 14 | 5 | 1 | 8 | -4 | 16 |
 | 14 | Alavés | 14 | 4 | 3 | 7 | -3 | 15 |
-| 15 | Mallorca | 14 | 3 | 4 | 7 | -7 | 13 |
-| 16 | Valencia | 14 | 3 | 4 | 7 | -10 | 13 |
+| 15 | Valencia | 14 | 3 | 5 | 6 | -9 | 14 |
+| 16 | Mallorca | 14 | 3 | 4 | 7 | -7 | 13 |
 | 17 | Osasuna | 14 | 3 | 3 | 8 | -6 | 12 |
 | 18 | Girona | 14 | 2 | 6 | 6 | -13 | 12 |
 | 19 | Levante | 14 | 2 | 3 | 9 | -10 | 9 |
@@ -320,7 +320,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Stoke City | 18 | 9 | 3 | 6 | 12 | 30 |
 | 5 | Preston North End | 18 | 8 | 6 | 4 | 6 | 30 |
 | 6 | Bristol City | 18 | 8 | 5 | 5 | 6 | 29 |
-| 7 | Birmingham City | 18 | 8 | 4 | 6 | 8 | 28 |
+| 7 | Birmingham City | 18 | 8 | 4 | 6 | 7 | 28 |
 | 8 | Hull City | 18 | 8 | 4 | 6 | 0 | 28 |
 | 9 | Ipswich Town | 17 | 7 | 6 | 4 | 11 | 27 |
 | 10 | Wrexham | 18 | 6 | 8 | 4 | 3 | 26 |
@@ -328,7 +328,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | West Bromwich Albion | 18 | 7 | 4 | 7 | -2 | 25 |
 | 13 | Queens Park Rangers | 18 | 7 | 4 | 7 | -6 | 25 |
 | 14 | Southampton | 18 | 6 | 6 | 6 | 3 | 24 |
-| 15 | Watford | 18 | 6 | 6 | 6 | 0 | 24 |
+| 15 | Watford | 18 | 6 | 6 | 6 | 1 | 24 |
 | 16 | Leicester City | 18 | 6 | 6 | 6 | -1 | 24 |
 | 17 | Charlton Athletic | 18 | 6 | 5 | 7 | -5 | 23 |
 | 18 | Blackburn Rovers | 17 | 6 | 2 | 9 | -5 | 20 |
