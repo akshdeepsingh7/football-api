@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 01 December 2025, 08:39 PM UTC (Tuesday, 02 December 2025, 02:09 AM IST)
+**Last Updated:** Monday, 01 December 2025, 09:17 PM UTC (Tuesday, 02 December 2025, 02:47 AM IST)
 
 ### Premier League
 
@@ -124,13 +124,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Napoli | 13 | 9 | 1 | 3 | 9 | 28 |
 | 3 | Inter | 13 | 9 | 0 | 4 | 15 | 27 |
 | 4 | Roma | 13 | 9 | 0 | 4 | 8 | 27 |
-| 5 | Bologna | 13 | 7 | 3 | 3 | 12 | 24 |
-| 6 | Como | 13 | 6 | 6 | 1 | 12 | 24 |
+| 5 | Como | 13 | 6 | 6 | 1 | 12 | 24 |
+| 6 | Bologna | 13 | 7 | 3 | 3 | 11 | 24 |
 | 7 | Juventus | 13 | 6 | 5 | 2 | 5 | 23 |
 | 8 | Lazio | 13 | 5 | 3 | 5 | 5 | 18 |
 | 9 | Udinese | 13 | 5 | 3 | 5 | -6 | 18 |
 | 10 | Sassuolo | 13 | 5 | 2 | 6 | 0 | 17 |
-| 11 | Cremonese | 13 | 4 | 5 | 4 | -2 | 17 |
+| 11 | Cremonese | 13 | 4 | 5 | 4 | -1 | 17 |
 | 12 | Atalanta | 13 | 3 | 7 | 3 | 2 | 16 |
 | 13 | Torino | 13 | 3 | 5 | 5 | -11 | 14 |
 | 14 | Lecce | 13 | 3 | 4 | 6 | -7 | 13 |
@@ -296,8 +296,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 12 | 8 | 4 | 0 | 18 | 28 |
 | 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
 | 5 | Famalicão | 12 | 5 | 5 | 2 | 6 | 20 |
-| 6 | Moreirense | 12 | 6 | 1 | 5 | 1 | 19 |
-| 7 | Braga | 12 | 4 | 5 | 3 | 8 | 17 |
+| 6 | Braga | 12 | 5 | 4 | 3 | 11 | 19 |
+| 7 | Moreirense | 12 | 6 | 1 | 5 | 1 | 19 |
 | 8 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
 | 9 | Alverca | 12 | 4 | 2 | 6 | -5 | 14 |
 | 10 | Estoril | 12 | 3 | 4 | 5 | 1 | 13 |
@@ -305,9 +305,9 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Santa Clara | 12 | 3 | 3 | 6 | -4 | 12 |
 | 13 | Nacional | 12 | 3 | 3 | 6 | -5 | 12 |
 | 14 | Estrela Amadora | 12 | 2 | 5 | 5 | -5 | 11 |
-| 15 | Arouca | 12 | 2 | 4 | 6 | -17 | 10 |
-| 16 | Casa Pia | 12 | 2 | 3 | 7 | -13 | 9 |
-| 17 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
+| 15 | Casa Pia | 12 | 2 | 3 | 7 | -13 | 9 |
+| 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
+| 17 | Arouca | 12 | 2 | 3 | 7 | -20 | 9 |
 | 18 | AVS | 12 | 0 | 3 | 9 | -21 | 3 |
 
 ### EFL Championship
@@ -320,7 +320,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Stoke City | 18 | 9 | 3 | 6 | 12 | 30 |
 | 5 | Preston North End | 18 | 8 | 6 | 4 | 6 | 30 |
 | 6 | Bristol City | 18 | 8 | 5 | 5 | 6 | 29 |
-| 7 | Birmingham City | 18 | 8 | 4 | 6 | 7 | 28 |
+| 7 | Birmingham City | 18 | 8 | 4 | 6 | 8 | 28 |
 | 8 | Hull City | 18 | 8 | 4 | 6 | 0 | 28 |
 | 9 | Ipswich Town | 17 | 7 | 6 | 4 | 11 | 27 |
 | 10 | Wrexham | 18 | 6 | 8 | 4 | 3 | 26 |
@@ -328,7 +328,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | West Bromwich Albion | 18 | 7 | 4 | 7 | -2 | 25 |
 | 13 | Queens Park Rangers | 18 | 7 | 4 | 7 | -6 | 25 |
 | 14 | Southampton | 18 | 6 | 6 | 6 | 3 | 24 |
-| 15 | Watford | 18 | 6 | 6 | 6 | 1 | 24 |
+| 15 | Watford | 18 | 6 | 6 | 6 | 0 | 24 |
 | 16 | Leicester City | 18 | 6 | 6 | 6 | -1 | 24 |
 | 17 | Charlton Athletic | 18 | 6 | 5 | 7 | -5 | 23 |
 | 18 | Blackburn Rovers | 17 | 6 | 2 | 9 | -5 | 20 |
