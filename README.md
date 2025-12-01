@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 01 December 2025, 05:22 PM UTC (Monday, 01 December 2025, 10:52 PM IST)
+**Last Updated:** Monday, 01 December 2025, 05:48 PM UTC (Monday, 01 December 2025, 11:18 PM IST)
 
 ### Premier League
 
@@ -337,7 +337,7 @@ The latest league standings are displayed below in Markdown tables:
 | 21 | Swansea City | 18 | 4 | 5 | 9 | -9 | 17 |
 | 22 | Portsmouth | 18 | 4 | 5 | 9 | -10 | 17 |
 | 23 | Norwich City | 18 | 3 | 4 | 11 | -10 | 13 |
-| 24 | Sheffield Wednesday | 18 | 1 | 5 | 12 | -22 | -4 |
+| 24 | Sheffield Wednesday | 18 | 1 | 5 | 12 | -22 | -10 |
 
 ### Major League Soccer (MLS)
 
