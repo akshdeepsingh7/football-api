@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 02 December 2025, 07:40 PM UTC",
-        "IST": "Wednesday, 03 December 2025, 01:10 AM IST"
+        "UTC": "Tuesday, 02 December 2025, 08:26 PM UTC",
+        "IST": "Wednesday, 03 December 2025, 01:56 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -19,11 +19,11 @@
                 "Position": "2",
                 "Team": "Manchester City",
                 "Played": "14",
-                "Wins": "8",
-                "Draws": "2",
+                "Wins": "9",
+                "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "15",
-                "Points": "26"
+                "Goal Difference": "17",
+                "Points": "28"
             },
             {
                 "Position": "3",
@@ -107,6 +107,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Tottenham Hotspur",
+                "Played": "14",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "5",
+                "Points": "19"
+            },
+            {
+                "Position": "12",
                 "Team": "Brentford",
                 "Played": "13",
                 "Wins": "6",
@@ -116,7 +126,17 @@
                 "Points": "19"
             },
             {
-                "Position": "12",
+                "Position": "13",
+                "Team": "Newcastle United",
+                "Played": "14",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "1",
+                "Points": "19"
+            },
+            {
+                "Position": "14",
                 "Team": "Everton",
                 "Played": "14",
                 "Wins": "5",
@@ -126,34 +146,14 @@
                 "Points": "19"
             },
             {
-                "Position": "13",
-                "Team": "Tottenham Hotspur",
-                "Played": "13",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "5",
-                "Points": "18"
-            },
-            {
-                "Position": "14",
-                "Team": "Newcastle United",
-                "Played": "13",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "1",
-                "Points": "18"
-            },
-            {
                 "Position": "15",
                 "Team": "Fulham",
                 "Played": "14",
                 "Wins": "5",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-2",
-                "Points": "18"
+                "Draws": "2",
+                "Losses": "7",
+                "Goal Difference": "-4",
+                "Points": "17"
             },
             {
                 "Position": "16",
@@ -210,15 +210,25 @@
             {
                 "Position": "1",
                 "Team": "Barcelona",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "11",
                 "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "23",
+                "Losses": "3",
+                "Goal Difference": "22",
                 "Points": "34"
             },
             {
                 "Position": "2",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "15",
+                "Wins": "10",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "17",
+                "Points": "34"
+            },
+            {
+                "Position": "3",
                 "Team": "Real Madrid",
                 "Played": "14",
                 "Wins": "10",
@@ -228,7 +238,7 @@
                 "Points": "33"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Villarreal",
                 "Played": "14",
                 "Wins": "10",
@@ -236,16 +246,6 @@
                 "Losses": "2",
                 "Goal Difference": "16",
                 "Points": "32"
-            },
-            {
-                "Position": "4",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "14",
-                "Wins": "9",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "16",
-                "Points": "31"
             },
             {
                 "Position": "5",
@@ -2305,6 +2305,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Ipswich Town",
+                "Played": "18",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "11",
+                "Points": "28"
+            },
+            {
+                "Position": "8",
                 "Team": "Birmingham City",
                 "Played": "18",
                 "Wins": "8",
@@ -2314,7 +2324,7 @@
                 "Points": "28"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Hull City",
                 "Played": "18",
                 "Wins": "8",
@@ -2322,16 +2332,6 @@
                 "Losses": "6",
                 "Goal Difference": "0",
                 "Points": "28"
-            },
-            {
-                "Position": "9",
-                "Team": "Ipswich Town",
-                "Played": "17",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "11",
-                "Points": "27"
             },
             {
                 "Position": "10",
@@ -2416,12 +2416,12 @@
             {
                 "Position": "18",
                 "Team": "Blackburn Rovers",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "6",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "9",
                 "Goal Difference": "-5",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "19",
