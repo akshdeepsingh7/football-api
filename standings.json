@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 02 December 2025, 08:26 PM UTC",
-        "IST": "Wednesday, 03 December 2025, 01:56 AM IST"
+        "UTC": "Tuesday, 02 December 2025, 08:46 PM UTC",
+        "IST": "Wednesday, 03 December 2025, 02:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -22,7 +22,7 @@
                 "Wins": "9",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "17",
+                "Goal Difference": "18",
                 "Points": "28"
             },
             {
@@ -152,7 +152,7 @@
                 "Wins": "5",
                 "Draws": "2",
                 "Losses": "7",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "17"
             },
             {
@@ -212,23 +212,13 @@
                 "Team": "Barcelona",
                 "Played": "15",
                 "Wins": "11",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "22",
-                "Points": "34"
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "23",
+                "Points": "35"
             },
             {
                 "Position": "2",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "15",
-                "Wins": "10",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "17",
-                "Points": "34"
-            },
-            {
-                "Position": "3",
                 "Team": "Real Madrid",
                 "Played": "14",
                 "Wins": "10",
@@ -238,12 +228,22 @@
                 "Points": "33"
             },
             {
-                "Position": "4",
+                "Position": "3",
                 "Team": "Villarreal",
                 "Played": "14",
                 "Wins": "10",
                 "Draws": "2",
                 "Losses": "2",
+                "Goal Difference": "16",
+                "Points": "32"
+            },
+            {
+                "Position": "4",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "15",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "1",
                 "Goal Difference": "16",
                 "Points": "32"
             },

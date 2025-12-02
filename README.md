@@ -41,14 +41,14 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 02 December 2025, 08:26 PM UTC (Wednesday, 03 December 2025, 01:56 AM IST)
+**Last Updated:** Tuesday, 02 December 2025, 08:46 PM UTC (Wednesday, 03 December 2025, 02:16 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 13 | 9 | 3 | 1 | 18 | 30 |
-| 2 | Manchester City | 14 | 9 | 1 | 4 | 17 | 28 |
+| 2 | Manchester City | 14 | 9 | 1 | 4 | 18 | 28 |
 | 3 | Chelsea | 13 | 7 | 3 | 3 | 12 | 24 |
 | 4 | Aston Villa | 13 | 7 | 3 | 3 | 5 | 24 |
 | 5 | Brighton & Hove Albion | 13 | 6 | 4 | 3 | 5 | 22 |
@@ -61,7 +61,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
 | 13 | Newcastle United | 14 | 5 | 4 | 5 | 1 | 19 |
 | 14 | Everton | 14 | 5 | 4 | 5 | -3 | 19 |
-| 15 | Fulham | 14 | 5 | 2 | 7 | -4 | 17 |
+| 15 | Fulham | 14 | 5 | 2 | 7 | -5 | 17 |
 | 16 | Nottingham Forest | 13 | 3 | 3 | 7 | -9 | 12 |
 | 17 | West Ham United | 13 | 3 | 2 | 8 | -12 | 11 |
 | 18 | Leeds United | 13 | 3 | 2 | 8 | -12 | 11 |
@@ -72,10 +72,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 15 | 11 | 1 | 3 | 22 | 34 |
-| 2 | Atlético de Madrid | 15 | 10 | 4 | 1 | 17 | 34 |
-| 3 | Real Madrid | 14 | 10 | 3 | 1 | 16 | 33 |
-| 4 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
+| 1 | Barcelona | 15 | 11 | 2 | 2 | 23 | 35 |
+| 2 | Real Madrid | 14 | 10 | 3 | 1 | 16 | 33 |
+| 3 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
+| 4 | Atlético de Madrid | 15 | 9 | 5 | 1 | 16 | 32 |
 | 5 | Real Betis | 14 | 6 | 6 | 2 | 8 | 24 |
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
 | 7 | Getafe | 14 | 6 | 2 | 6 | -2 | 20 |
