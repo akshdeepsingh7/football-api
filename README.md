@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 02 December 2025, 03:19 AM UTC (Tuesday, 02 December 2025, 08:49 AM IST)
+**Last Updated:** Tuesday, 02 December 2025, 04:03 AM UTC (Tuesday, 02 December 2025, 09:33 AM IST)
 
 ### Premier League
 
@@ -166,44 +166,7 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Champions League
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 5 | 5 | 0 | 0 | 13 | 15 |
-| 2 | PSG | 5 | 4 | 0 | 1 | 11 | 12 |
-| 3 | Bayern Munich | 5 | 4 | 0 | 1 | 9 | 12 |
-| 4 | Inter | 5 | 4 | 0 | 1 | 9 | 12 |
-| 5 | Real Madrid | 5 | 4 | 0 | 1 | 7 | 12 |
-| 6 | Borussia Dortmund | 5 | 3 | 1 | 1 | 6 | 10 |
-| 7 | Chelsea | 5 | 3 | 1 | 1 | 6 | 10 |
-| 8 | Sporting CP | 5 | 3 | 1 | 1 | 6 | 10 |
-| 9 | Manchester City | 5 | 3 | 1 | 1 | 5 | 10 |
-| 10 | Atalanta | 5 | 3 | 1 | 1 | 1 | 10 |
-| 11 | Newcastle United | 5 | 3 | 0 | 2 | 7 | 9 |
-| 12 | Atlético de Madrid | 5 | 3 | 0 | 2 | 2 | 9 |
-| 13 | Liverpool FC | 5 | 3 | 0 | 2 | 2 | 9 |
-| 14 | Galatasaray | 5 | 3 | 0 | 2 | 1 | 9 |
-| 15 | PSV | 5 | 2 | 2 | 1 | 5 | 8 |
-| 16 | Tottenham Hotspur | 5 | 2 | 2 | 1 | 3 | 8 |
-| 17 | Bayer Leverkusen | 5 | 2 | 2 | 1 | -2 | 8 |
-| 18 | Barcelona | 5 | 2 | 1 | 2 | 2 | 7 |
-| 19 | Qarabağ | 5 | 2 | 1 | 2 | -1 | 7 |
-| 20 | Napoli | 5 | 2 | 1 | 2 | -3 | 7 |
-| 21 | Marseille | 5 | 2 | 0 | 3 | 2 | 6 |
-| 22 | Juventus | 5 | 1 | 3 | 1 | 0 | 6 |
-| 23 | Monaco | 5 | 1 | 3 | 1 | -2 | 6 |
-| 24 | Pafos | 5 | 1 | 3 | 1 | -3 | 6 |
-| 25 | Union Saint-Gilloise | 5 | 2 | 0 | 3 | -7 | 6 |
-| 26 | Club Brugge | 5 | 1 | 1 | 3 | -5 | 4 |
-| 27 | Athletic Bilbao | 5 | 1 | 1 | 3 | -5 | 4 |
-| 28 | Eintracht Frankfurt | 5 | 1 | 1 | 3 | -7 | 4 |
-| 29 | FC Copenhagen | 5 | 1 | 1 | 3 | -7 | 4 |
-| 30 | Benfica | 5 | 1 | 0 | 4 | -4 | 3 |
-| 31 | Slavia Prague | 5 | 0 | 3 | 2 | -6 | 3 |
-| 32 | Bodø/Glimt | 5 | 0 | 2 | 3 | -4 | 2 |
-| 33 | Olympiacos | 5 | 0 | 2 | 3 | -8 | 2 |
-| 34 | Villarreal | 5 | 0 | 1 | 4 | -8 | 1 |
-| 35 | Kairat | 5 | 0 | 1 | 4 | -10 | 1 |
-| 36 | Ajax | 5 | 0 | 0 | 5 | -15 | 0 |
+Data not available.
 
 ### Europa League
 
@@ -248,44 +211,7 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Europa Conference League
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Samsunspor | 4 | 3 | 1 | 0 | 7 | 10 |
-| 2 | Strasbourg | 4 | 3 | 1 | 0 | 3 | 10 |
-| 3 | Celje | 4 | 3 | 0 | 1 | 4 | 9 |
-| 4 | Shakhtar Donetsk | 4 | 3 | 0 | 1 | 3 | 9 |
-| 5 | Mainz 05 | 4 | 3 | 0 | 1 | 2 | 9 |
-| 6 | Raków | 4 | 2 | 2 | 0 | 5 | 8 |
-| 7 | AEK Larnaca | 4 | 2 | 2 | 0 | 5 | 8 |
-| 8 | Drita | 4 | 2 | 2 | 0 | 2 | 8 |
-| 9 | Jagiellonia | 4 | 2 | 2 | 0 | 2 | 8 |
-| 10 | AEK Athens | 4 | 2 | 1 | 1 | 5 | 7 |
-| 11 | Sparta Prague | 4 | 2 | 1 | 1 | 3 | 7 |
-| 12 | Rayo Vallecano | 4 | 2 | 1 | 1 | 2 | 7 |
-| 13 | Lausanne-Sport | 4 | 2 | 1 | 1 | 2 | 7 |
-| 14 | Sigma Olomouc | 4 | 2 | 1 | 1 | 0 | 7 |
-| 15 | Universitatea Craiova | 4 | 2 | 1 | 1 | 0 | 7 |
-| 16 | Lech | 4 | 2 | 0 | 2 | 3 | 6 |
-| 17 | Fiorentina | 4 | 2 | 0 | 2 | 3 | 6 |
-| 18 | Crystal Palace | 4 | 2 | 0 | 2 | 2 | 6 |
-| 19 | Zrinjski Mostar | 4 | 2 | 0 | 2 | -1 | 6 |
-| 20 | AZ | 4 | 2 | 0 | 2 | -3 | 6 |
-| 21 | Omonia | 4 | 1 | 2 | 1 | 1 | 5 |
-| 22 | KuPS | 4 | 1 | 2 | 1 | 1 | 5 |
-| 23 | Noah | 4 | 1 | 2 | 1 | 0 | 5 |
-| 24 | Rijeka | 4 | 1 | 2 | 1 | 0 | 5 |
-| 25 | Shkëndija | 4 | 1 | 1 | 2 | -2 | 4 |
-| 26 | Lincoln Red Imps | 4 | 1 | 1 | 2 | -6 | 4 |
-| 27 | Dynamo Kyiv | 4 | 1 | 0 | 3 | -1 | 3 |
-| 28 | Legia | 4 | 1 | 0 | 3 | -2 | 3 |
-| 29 | Slovan Bratislava | 4 | 1 | 0 | 3 | -3 | 3 |
-| 30 | Hamrun Spartans | 4 | 1 | 0 | 3 | -3 | 3 |
-| 31 | Häcken | 4 | 0 | 2 | 2 | -2 | 2 |
-| 32 | Breiðablik | 4 | 0 | 2 | 2 | -5 | 2 |
-| 33 | Aberdeen | 4 | 0 | 2 | 2 | -7 | 2 |
-| 34 | Shelbourne | 4 | 0 | 1 | 3 | -4 | 1 |
-| 35 | Shamrock Rovers | 4 | 0 | 1 | 3 | -6 | 1 |
-| 36 | Rapid Vienna | 4 | 0 | 0 | 4 | -10 | 0 |
+Data not available.
 
 ### Liga Portugal
 
