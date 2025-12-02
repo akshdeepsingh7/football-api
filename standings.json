@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 02 December 2025, 07:19 PM UTC",
-        "IST": "Wednesday, 03 December 2025, 12:49 AM IST"
+        "UTC": "Tuesday, 02 December 2025, 07:40 PM UTC",
+        "IST": "Wednesday, 03 December 2025, 01:10 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -18,12 +18,12 @@
             {
                 "Position": "2",
                 "Team": "Manchester City",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "8",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "15",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "3",
@@ -97,6 +97,16 @@
             },
             {
                 "Position": "10",
+                "Team": "AFC Bournemouth",
+                "Played": "14",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "20"
+            },
+            {
+                "Position": "11",
                 "Team": "Brentford",
                 "Played": "13",
                 "Wins": "6",
@@ -106,17 +116,17 @@
                 "Points": "19"
             },
             {
-                "Position": "11",
-                "Team": "AFC Bournemouth",
-                "Played": "13",
+                "Position": "12",
+                "Team": "Everton",
+                "Played": "14",
                 "Wins": "5",
                 "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-2",
+                "Losses": "5",
+                "Goal Difference": "-3",
                 "Points": "19"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Tottenham Hotspur",
                 "Played": "13",
                 "Wins": "5",
@@ -126,7 +136,7 @@
                 "Points": "18"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Newcastle United",
                 "Played": "13",
                 "Wins": "5",
@@ -136,24 +146,14 @@
                 "Points": "18"
             },
             {
-                "Position": "14",
-                "Team": "Everton",
-                "Played": "13",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-3",
-                "Points": "18"
-            },
-            {
                 "Position": "15",
                 "Team": "Fulham",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "5",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "-2",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "16",

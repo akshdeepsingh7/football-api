@@ -41,14 +41,14 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 02 December 2025, 07:19 PM UTC (Wednesday, 03 December 2025, 12:49 AM IST)
+**Last Updated:** Tuesday, 02 December 2025, 07:40 PM UTC (Wednesday, 03 December 2025, 01:10 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 13 | 9 | 3 | 1 | 18 | 30 |
-| 2 | Manchester City | 13 | 8 | 1 | 4 | 15 | 25 |
+| 2 | Manchester City | 14 | 8 | 2 | 4 | 15 | 26 |
 | 3 | Chelsea | 13 | 7 | 3 | 3 | 12 | 24 |
 | 4 | Aston Villa | 13 | 7 | 3 | 3 | 5 | 24 |
 | 5 | Brighton & Hove Albion | 13 | 6 | 4 | 3 | 5 | 22 |
@@ -56,12 +56,12 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Manchester United | 13 | 6 | 3 | 4 | 1 | 21 |
 | 8 | Liverpool FC | 13 | 7 | 0 | 6 | 0 | 21 |
 | 9 | Crystal Palace | 13 | 5 | 5 | 3 | 6 | 20 |
-| 10 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
-| 11 | AFC Bournemouth | 13 | 5 | 4 | 4 | -2 | 19 |
-| 12 | Tottenham Hotspur | 13 | 5 | 3 | 5 | 5 | 18 |
-| 13 | Newcastle United | 13 | 5 | 3 | 5 | 1 | 18 |
-| 14 | Everton | 13 | 5 | 3 | 5 | -3 | 18 |
-| 15 | Fulham | 13 | 5 | 2 | 6 | -2 | 17 |
+| 10 | AFC Bournemouth | 14 | 5 | 5 | 4 | -2 | 20 |
+| 11 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
+| 12 | Everton | 14 | 5 | 4 | 5 | -3 | 19 |
+| 13 | Tottenham Hotspur | 13 | 5 | 3 | 5 | 5 | 18 |
+| 14 | Newcastle United | 13 | 5 | 3 | 5 | 1 | 18 |
+| 15 | Fulham | 14 | 5 | 3 | 6 | -2 | 18 |
 | 16 | Nottingham Forest | 13 | 3 | 3 | 7 | -9 | 12 |
 | 17 | West Ham United | 13 | 3 | 2 | 8 | -12 | 11 |
 | 18 | Leeds United | 13 | 3 | 2 | 8 | -12 | 11 |
