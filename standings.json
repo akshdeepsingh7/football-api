@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 02 December 2025, 09:20 PM UTC",
-        "IST": "Wednesday, 03 December 2025, 02:50 AM IST"
+        "UTC": "Tuesday, 02 December 2025, 09:38 PM UTC",
+        "IST": "Wednesday, 03 December 2025, 03:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -211,11 +211,11 @@
                 "Position": "1",
                 "Team": "Barcelona",
                 "Played": "15",
-                "Wins": "11",
-                "Draws": "2",
+                "Wins": "12",
+                "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "23",
-                "Points": "35"
+                "Goal Difference": "24",
+                "Points": "37"
             },
             {
                 "Position": "2",
@@ -242,10 +242,10 @@
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "15",
                 "Wins": "9",
-                "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "16",
-                "Points": "32"
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "15",
+                "Points": "31"
             },
             {
                 "Position": "5",
@@ -2305,6 +2305,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Ipswich Town",
+                "Played": "18",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "11",
+                "Points": "28"
+            },
+            {
+                "Position": "8",
                 "Team": "Birmingham City",
                 "Played": "18",
                 "Wins": "8",
@@ -2314,7 +2324,7 @@
                 "Points": "28"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Hull City",
                 "Played": "18",
                 "Wins": "8",
@@ -2322,16 +2332,6 @@
                 "Losses": "6",
                 "Goal Difference": "0",
                 "Points": "28"
-            },
-            {
-                "Position": "9",
-                "Team": "Ipswich Town",
-                "Played": "18",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "10",
-                "Points": "27"
             },
             {
                 "Position": "10",
@@ -2405,16 +2405,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Blackburn Rovers",
-                "Played": "18",
-                "Wins": "7",
-                "Draws": "2",
-                "Losses": "9",
-                "Goal Difference": "-4",
-                "Points": "23"
-            },
-            {
-                "Position": "18",
                 "Team": "Charlton Athletic",
                 "Played": "18",
                 "Wins": "6",
@@ -2422,6 +2412,16 @@
                 "Losses": "7",
                 "Goal Difference": "-5",
                 "Points": "23"
+            },
+            {
+                "Position": "18",
+                "Team": "Blackburn Rovers",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-5",
+                "Points": "21"
             },
             {
                 "Position": "19",

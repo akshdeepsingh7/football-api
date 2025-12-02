@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 02 December 2025, 09:20 PM UTC (Wednesday, 03 December 2025, 02:50 AM IST)
+**Last Updated:** Tuesday, 02 December 2025, 09:38 PM UTC (Wednesday, 03 December 2025, 03:08 AM IST)
 
 ### Premier League
 
@@ -72,10 +72,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 15 | 11 | 2 | 2 | 23 | 35 |
+| 1 | Barcelona | 15 | 12 | 1 | 2 | 24 | 37 |
 | 2 | Real Madrid | 14 | 10 | 3 | 1 | 16 | 33 |
 | 3 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
-| 4 | Atlético de Madrid | 15 | 9 | 5 | 1 | 16 | 32 |
+| 4 | Atlético de Madrid | 15 | 9 | 4 | 2 | 15 | 31 |
 | 5 | Real Betis | 14 | 6 | 6 | 2 | 8 | 24 |
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
 | 7 | Getafe | 14 | 6 | 2 | 6 | -2 | 20 |
@@ -320,9 +320,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Stoke City | 18 | 9 | 3 | 6 | 12 | 30 |
 | 5 | Preston North End | 18 | 8 | 6 | 4 | 6 | 30 |
 | 6 | Bristol City | 18 | 8 | 5 | 5 | 6 | 29 |
-| 7 | Birmingham City | 18 | 8 | 4 | 6 | 7 | 28 |
-| 8 | Hull City | 18 | 8 | 4 | 6 | 0 | 28 |
-| 9 | Ipswich Town | 18 | 7 | 6 | 5 | 10 | 27 |
+| 7 | Ipswich Town | 18 | 7 | 7 | 4 | 11 | 28 |
+| 8 | Birmingham City | 18 | 8 | 4 | 6 | 7 | 28 |
+| 9 | Hull City | 18 | 8 | 4 | 6 | 0 | 28 |
 | 10 | Wrexham | 18 | 6 | 8 | 4 | 3 | 26 |
 | 11 | Derby County | 18 | 7 | 5 | 6 | 0 | 26 |
 | 12 | West Bromwich Albion | 18 | 7 | 4 | 7 | -2 | 25 |
@@ -330,8 +330,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Southampton | 18 | 6 | 6 | 6 | 3 | 24 |
 | 15 | Watford | 18 | 6 | 6 | 6 | 1 | 24 |
 | 16 | Leicester City | 18 | 6 | 6 | 6 | -1 | 24 |
-| 17 | Blackburn Rovers | 18 | 7 | 2 | 9 | -4 | 23 |
-| 18 | Charlton Athletic | 18 | 6 | 5 | 7 | -5 | 23 |
+| 17 | Charlton Athletic | 18 | 6 | 5 | 7 | -5 | 23 |
+| 18 | Blackburn Rovers | 18 | 6 | 3 | 9 | -5 | 21 |
 | 19 | Sheffield United | 18 | 6 | 1 | 11 | -8 | 19 |
 | 20 | Oxford United | 18 | 4 | 6 | 8 | -5 | 18 |
 | 21 | Swansea City | 18 | 4 | 5 | 9 | -9 | 17 |
