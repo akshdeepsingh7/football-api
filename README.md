@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 02 December 2025, 09:38 PM UTC (Wednesday, 03 December 2025, 03:08 AM IST)
+**Last Updated:** Tuesday, 02 December 2025, 10:18 PM UTC (Wednesday, 03 December 2025, 03:48 AM IST)
 
 ### Premier League
 
@@ -72,10 +72,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 15 | 12 | 1 | 2 | 24 | 37 |
+| 1 | Barcelona | 15 | 12 | 1 | 2 | 25 | 37 |
 | 2 | Real Madrid | 14 | 10 | 3 | 1 | 16 | 33 |
 | 3 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
-| 4 | Atlético de Madrid | 15 | 9 | 4 | 2 | 15 | 31 |
+| 4 | Atlético de Madrid | 15 | 9 | 4 | 2 | 14 | 31 |
 | 5 | Real Betis | 14 | 6 | 6 | 2 | 8 | 24 |
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
 | 7 | Getafe | 14 | 6 | 2 | 6 | -2 | 20 |
@@ -434,14 +434,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Flamengo | 36 | 22 | 9 | 5 | 50 | 75 |
 | 2 | Palmeiras | 36 | 21 | 7 | 8 | 28 | 70 |
 | 3 | Cruzeiro | 36 | 19 | 12 | 5 | 27 | 69 |
-| 4 | Mirassol | 36 | 17 | 12 | 7 | 22 | 63 |
+| 4 | Mirassol | 37 | 17 | 13 | 7 | 22 | 64 |
 | 5 | Botafogo | 36 | 16 | 11 | 9 | 18 | 59 |
 | 6 | Fluminense | 36 | 17 | 7 | 12 | 8 | 58 |
 | 7 | Bahia | 36 | 16 | 9 | 11 | 4 | 57 |
 | 8 | São Paulo | 36 | 13 | 9 | 14 | -6 | 48 |
-| 9 | Corinthians | 36 | 12 | 10 | 14 | -4 | 46 |
-| 10 | Grêmio | 36 | 12 | 10 | 14 | -6 | 46 |
-| 11 | Vasco da Gama | 36 | 13 | 6 | 17 | 2 | 45 |
+| 9 | Vasco da Gama | 37 | 13 | 7 | 17 | 2 | 46 |
+| 10 | Corinthians | 36 | 12 | 10 | 14 | -4 | 46 |
+| 11 | Grêmio | 36 | 12 | 10 | 14 | -6 | 46 |
 | 12 | RB Bragantino | 36 | 13 | 6 | 17 | -14 | 45 |
 | 13 | Atlético Mineiro | 36 | 11 | 12 | 13 | -3 | 45 |
 | 14 | Ceará | 36 | 11 | 10 | 15 | -3 | 43 |

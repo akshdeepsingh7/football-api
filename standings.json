@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 02 December 2025, 09:38 PM UTC",
-        "IST": "Wednesday, 03 December 2025, 03:08 AM IST"
+        "UTC": "Tuesday, 02 December 2025, 10:18 PM UTC",
+        "IST": "Wednesday, 03 December 2025, 03:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -214,7 +214,7 @@
                 "Wins": "12",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "24",
+                "Goal Difference": "25",
                 "Points": "37"
             },
             {
@@ -244,7 +244,7 @@
                 "Wins": "9",
                 "Draws": "4",
                 "Losses": "2",
-                "Goal Difference": "15",
+                "Goal Difference": "14",
                 "Points": "31"
             },
             {
@@ -3254,12 +3254,12 @@
             {
                 "Position": "4",
                 "Team": "Mirassol",
-                "Played": "36",
+                "Played": "37",
                 "Wins": "17",
-                "Draws": "12",
+                "Draws": "13",
                 "Losses": "7",
                 "Goal Difference": "22",
-                "Points": "63"
+                "Points": "64"
             },
             {
                 "Position": "5",
@@ -3303,6 +3303,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Vasco da Gama",
+                "Played": "37",
+                "Wins": "13",
+                "Draws": "7",
+                "Losses": "17",
+                "Goal Difference": "2",
+                "Points": "46"
+            },
+            {
+                "Position": "10",
                 "Team": "Corinthians",
                 "Played": "36",
                 "Wins": "12",
@@ -3312,7 +3322,7 @@
                 "Points": "46"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Gr\u00eamio",
                 "Played": "36",
                 "Wins": "12",
@@ -3320,16 +3330,6 @@
                 "Losses": "14",
                 "Goal Difference": "-6",
                 "Points": "46"
-            },
-            {
-                "Position": "11",
-                "Team": "Vasco da Gama",
-                "Played": "36",
-                "Wins": "13",
-                "Draws": "6",
-                "Losses": "17",
-                "Goal Difference": "2",
-                "Points": "45"
             },
             {
                 "Position": "12",
