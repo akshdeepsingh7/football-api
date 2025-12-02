@@ -41,27 +41,27 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 02 December 2025, 08:46 PM UTC (Wednesday, 03 December 2025, 02:16 AM IST)
+**Last Updated:** Tuesday, 02 December 2025, 09:20 PM UTC (Wednesday, 03 December 2025, 02:50 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 13 | 9 | 3 | 1 | 18 | 30 |
-| 2 | Manchester City | 14 | 9 | 1 | 4 | 18 | 28 |
+| 2 | Manchester City | 14 | 9 | 1 | 4 | 16 | 28 |
 | 3 | Chelsea | 13 | 7 | 3 | 3 | 12 | 24 |
 | 4 | Aston Villa | 13 | 7 | 3 | 3 | 5 | 24 |
 | 5 | Brighton & Hove Albion | 13 | 6 | 4 | 3 | 5 | 22 |
 | 6 | Sunderland | 13 | 6 | 4 | 3 | 4 | 22 |
 | 7 | Manchester United | 13 | 6 | 3 | 4 | 1 | 21 |
 | 8 | Liverpool FC | 13 | 7 | 0 | 6 | 0 | 21 |
-| 9 | Crystal Palace | 13 | 5 | 5 | 3 | 6 | 20 |
-| 10 | AFC Bournemouth | 14 | 5 | 5 | 4 | -2 | 20 |
+| 9 | Everton | 14 | 6 | 3 | 5 | -2 | 21 |
+| 10 | Crystal Palace | 13 | 5 | 5 | 3 | 6 | 20 |
 | 11 | Tottenham Hotspur | 14 | 5 | 4 | 5 | 5 | 19 |
 | 12 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
 | 13 | Newcastle United | 14 | 5 | 4 | 5 | 1 | 19 |
-| 14 | Everton | 14 | 5 | 4 | 5 | -3 | 19 |
-| 15 | Fulham | 14 | 5 | 2 | 7 | -5 | 17 |
+| 14 | AFC Bournemouth | 14 | 5 | 4 | 5 | -3 | 19 |
+| 15 | Fulham | 14 | 5 | 2 | 7 | -3 | 17 |
 | 16 | Nottingham Forest | 13 | 3 | 3 | 7 | -9 | 12 |
 | 17 | West Ham United | 13 | 3 | 2 | 8 | -12 | 11 |
 | 18 | Leeds United | 13 | 3 | 2 | 8 | -12 | 11 |
@@ -320,9 +320,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Stoke City | 18 | 9 | 3 | 6 | 12 | 30 |
 | 5 | Preston North End | 18 | 8 | 6 | 4 | 6 | 30 |
 | 6 | Bristol City | 18 | 8 | 5 | 5 | 6 | 29 |
-| 7 | Ipswich Town | 18 | 7 | 7 | 4 | 11 | 28 |
-| 8 | Birmingham City | 18 | 8 | 4 | 6 | 7 | 28 |
-| 9 | Hull City | 18 | 8 | 4 | 6 | 0 | 28 |
+| 7 | Birmingham City | 18 | 8 | 4 | 6 | 7 | 28 |
+| 8 | Hull City | 18 | 8 | 4 | 6 | 0 | 28 |
+| 9 | Ipswich Town | 18 | 7 | 6 | 5 | 10 | 27 |
 | 10 | Wrexham | 18 | 6 | 8 | 4 | 3 | 26 |
 | 11 | Derby County | 18 | 7 | 5 | 6 | 0 | 26 |
 | 12 | West Bromwich Albion | 18 | 7 | 4 | 7 | -2 | 25 |
@@ -330,8 +330,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Southampton | 18 | 6 | 6 | 6 | 3 | 24 |
 | 15 | Watford | 18 | 6 | 6 | 6 | 1 | 24 |
 | 16 | Leicester City | 18 | 6 | 6 | 6 | -1 | 24 |
-| 17 | Charlton Athletic | 18 | 6 | 5 | 7 | -5 | 23 |
-| 18 | Blackburn Rovers | 18 | 6 | 3 | 9 | -5 | 21 |
+| 17 | Blackburn Rovers | 18 | 7 | 2 | 9 | -4 | 23 |
+| 18 | Charlton Athletic | 18 | 6 | 5 | 7 | -5 | 23 |
 | 19 | Sheffield United | 18 | 6 | 1 | 11 | -8 | 19 |
 | 20 | Oxford United | 18 | 4 | 6 | 8 | -5 | 18 |
 | 21 | Swansea City | 18 | 4 | 5 | 9 | -9 | 17 |
