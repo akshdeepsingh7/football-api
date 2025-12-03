@@ -41,31 +41,31 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 03 December 2025, 07:39 PM UTC (Thursday, 04 December 2025, 01:09 AM IST)
+**Last Updated:** Wednesday, 03 December 2025, 08:25 PM UTC (Thursday, 04 December 2025, 01:55 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 14 | 9 | 4 | 1 | 18 | 31 |
+| 1 | Arsenal | 14 | 10 | 3 | 1 | 19 | 33 |
 | 2 | Manchester City | 14 | 9 | 1 | 4 | 16 | 28 |
 | 3 | Aston Villa | 14 | 7 | 4 | 3 | 5 | 25 |
-| 4 | Chelsea | 13 | 7 | 3 | 3 | 12 | 24 |
-| 5 | Brighton & Hove Albion | 14 | 6 | 5 | 3 | 5 | 23 |
-| 6 | Sunderland | 13 | 6 | 4 | 3 | 4 | 22 |
-| 7 | Crystal Palace | 14 | 5 | 6 | 3 | 6 | 21 |
-| 8 | Manchester United | 13 | 6 | 3 | 4 | 1 | 21 |
-| 9 | Liverpool FC | 13 | 7 | 0 | 6 | 0 | 21 |
+| 4 | Chelsea | 14 | 7 | 3 | 4 | 11 | 24 |
+| 5 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
+| 6 | Brighton & Hove Albion | 14 | 6 | 5 | 3 | 5 | 23 |
+| 7 | Sunderland | 14 | 6 | 5 | 3 | 4 | 23 |
+| 8 | Liverpool FC | 14 | 7 | 1 | 6 | 0 | 22 |
+| 9 | Manchester United | 13 | 6 | 3 | 4 | 1 | 21 |
 | 10 | Everton | 14 | 6 | 3 | 5 | -2 | 21 |
-| 11 | Brentford | 14 | 6 | 2 | 6 | 1 | 20 |
-| 12 | Tottenham Hotspur | 14 | 5 | 4 | 5 | 5 | 19 |
-| 13 | Newcastle United | 14 | 5 | 4 | 5 | 1 | 19 |
+| 11 | Tottenham Hotspur | 14 | 5 | 4 | 5 | 5 | 19 |
+| 12 | Newcastle United | 14 | 5 | 4 | 5 | 1 | 19 |
+| 13 | Brentford | 14 | 6 | 1 | 7 | 0 | 19 |
 | 14 | AFC Bournemouth | 14 | 5 | 4 | 5 | -3 | 19 |
 | 15 | Fulham | 14 | 5 | 2 | 7 | -3 | 17 |
-| 16 | Nottingham Forest | 14 | 3 | 4 | 7 | -9 | 13 |
-| 17 | Burnley | 14 | 3 | 2 | 9 | -12 | 11 |
+| 16 | Leeds United | 14 | 4 | 2 | 8 | -11 | 14 |
+| 17 | Nottingham Forest | 14 | 3 | 4 | 7 | -9 | 13 |
 | 18 | West Ham United | 13 | 3 | 2 | 8 | -12 | 11 |
-| 19 | Leeds United | 13 | 3 | 2 | 8 | -12 | 11 |
+| 19 | Burnley | 14 | 3 | 1 | 10 | -13 | 10 |
 | 20 | Wolverhampton Wanderers | 14 | 0 | 3 | 11 | -21 | 3 |
 
 ### La Liga
