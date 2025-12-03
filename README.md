@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 03 December 2025, 09:38 PM UTC (Thursday, 04 December 2025, 03:08 AM IST)
+**Last Updated:** Wednesday, 03 December 2025, 10:20 PM UTC (Thursday, 04 December 2025, 03:50 AM IST)
 
 ### Premier League
 
@@ -50,7 +50,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Arsenal | 14 | 10 | 3 | 1 | 20 | 33 |
 | 2 | Manchester City | 14 | 9 | 1 | 4 | 16 | 28 |
 | 3 | Aston Villa | 14 | 8 | 3 | 3 | 6 | 27 |
-| 4 | Chelsea | 14 | 7 | 3 | 4 | 11 | 24 |
+| 4 | Chelsea | 14 | 7 | 3 | 4 | 10 | 24 |
 | 5 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
 | 6 | Sunderland | 14 | 6 | 5 | 3 | 4 | 23 |
 | 7 | Brighton & Hove Albion | 14 | 6 | 4 | 4 | 4 | 22 |
@@ -63,7 +63,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | AFC Bournemouth | 14 | 5 | 4 | 5 | -3 | 19 |
 | 15 | Fulham | 14 | 5 | 2 | 7 | -3 | 17 |
 | 16 | Nottingham Forest | 14 | 4 | 3 | 7 | -8 | 15 |
-| 17 | Leeds United | 14 | 4 | 2 | 8 | -11 | 14 |
+| 17 | Leeds United | 14 | 4 | 2 | 8 | -10 | 14 |
 | 18 | West Ham United | 13 | 3 | 2 | 8 | -12 | 11 |
 | 19 | Burnley | 14 | 3 | 1 | 10 | -13 | 10 |
 | 20 | Wolverhampton Wanderers | 14 | 0 | 2 | 12 | -22 | 2 |
@@ -438,17 +438,17 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Fluminense | 37 | 18 | 7 | 12 | 9 | 61 |
 | 6 | Botafogo | 36 | 16 | 11 | 9 | 18 | 59 |
 | 7 | Bahia | 36 | 16 | 9 | 11 | 4 | 57 |
-| 8 | São Paulo | 36 | 13 | 9 | 14 | -6 | 48 |
-| 9 | Corinthians | 36 | 12 | 10 | 14 | -4 | 46 |
-| 10 | Grêmio | 37 | 12 | 10 | 15 | -7 | 46 |
-| 11 | Vasco da Gama | 37 | 13 | 6 | 18 | 0 | 45 |
-| 12 | RB Bragantino | 36 | 13 | 6 | 17 | -14 | 45 |
+| 8 | RB Bragantino | 37 | 14 | 6 | 17 | -12 | 48 |
+| 9 | São Paulo | 36 | 13 | 9 | 14 | -6 | 48 |
+| 10 | Corinthians | 37 | 12 | 10 | 15 | -5 | 46 |
+| 11 | Grêmio | 37 | 12 | 10 | 15 | -7 | 46 |
+| 12 | Vasco da Gama | 37 | 13 | 6 | 18 | 0 | 45 |
 | 13 | Atlético Mineiro | 36 | 11 | 12 | 13 | -3 | 45 |
 | 14 | Ceará | 36 | 11 | 10 | 15 | -3 | 43 |
-| 15 | Vitória | 36 | 10 | 12 | 14 | -14 | 42 |
-| 16 | Santos | 36 | 10 | 11 | 15 | -11 | 41 |
-| 17 | Internacional | 36 | 10 | 11 | 15 | -12 | 41 |
-| 18 | Fortaleza | 36 | 10 | 10 | 16 | -14 | 40 |
+| 15 | Fortaleza | 37 | 11 | 10 | 16 | -13 | 43 |
+| 16 | Vitória | 37 | 10 | 12 | 15 | -16 | 42 |
+| 17 | Santos | 36 | 10 | 11 | 15 | -11 | 41 |
+| 18 | Internacional | 36 | 10 | 11 | 15 | -12 | 41 |
 | 19 | Juventude | 36 | 9 | 7 | 20 | -31 | 34 |
 | 20 | Sport | 36 | 2 | 11 | 23 | -41 | 17 |
 

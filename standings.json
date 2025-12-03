@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 03 December 2025, 09:38 PM UTC",
-        "IST": "Thursday, 04 December 2025, 03:08 AM IST"
+        "UTC": "Wednesday, 03 December 2025, 10:20 PM UTC",
+        "IST": "Thursday, 04 December 2025, 03:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -42,7 +42,7 @@
                 "Wins": "7",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "11",
+                "Goal Difference": "10",
                 "Points": "24"
             },
             {
@@ -172,7 +172,7 @@
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "8",
-                "Goal Difference": "-11",
+                "Goal Difference": "-10",
                 "Points": "14"
             },
             {
@@ -3293,6 +3293,16 @@
             },
             {
                 "Position": "8",
+                "Team": "RB Bragantino",
+                "Played": "37",
+                "Wins": "14",
+                "Draws": "6",
+                "Losses": "17",
+                "Goal Difference": "-12",
+                "Points": "48"
+            },
+            {
+                "Position": "9",
                 "Team": "S\u00e3o Paulo",
                 "Played": "36",
                 "Wins": "13",
@@ -3302,17 +3312,17 @@
                 "Points": "48"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Corinthians",
-                "Played": "36",
+                "Played": "37",
                 "Wins": "12",
                 "Draws": "10",
-                "Losses": "14",
-                "Goal Difference": "-4",
+                "Losses": "15",
+                "Goal Difference": "-5",
                 "Points": "46"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Gr\u00eamio",
                 "Played": "37",
                 "Wins": "12",
@@ -3322,23 +3332,13 @@
                 "Points": "46"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Vasco da Gama",
                 "Played": "37",
                 "Wins": "13",
                 "Draws": "6",
                 "Losses": "18",
                 "Goal Difference": "0",
-                "Points": "45"
-            },
-            {
-                "Position": "12",
-                "Team": "RB Bragantino",
-                "Played": "36",
-                "Wins": "13",
-                "Draws": "6",
-                "Losses": "17",
-                "Goal Difference": "-14",
                 "Points": "45"
             },
             {
@@ -3363,16 +3363,26 @@
             },
             {
                 "Position": "15",
-                "Team": "Vit\u00f3ria",
-                "Played": "36",
-                "Wins": "10",
-                "Draws": "12",
-                "Losses": "14",
-                "Goal Difference": "-14",
-                "Points": "42"
+                "Team": "Fortaleza",
+                "Played": "37",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "16",
+                "Goal Difference": "-13",
+                "Points": "43"
             },
             {
                 "Position": "16",
+                "Team": "Vit\u00f3ria",
+                "Played": "37",
+                "Wins": "10",
+                "Draws": "12",
+                "Losses": "15",
+                "Goal Difference": "-16",
+                "Points": "42"
+            },
+            {
+                "Position": "17",
                 "Team": "Santos",
                 "Played": "36",
                 "Wins": "10",
@@ -3382,7 +3392,7 @@
                 "Points": "41"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Internacional",
                 "Played": "36",
                 "Wins": "10",
@@ -3390,16 +3400,6 @@
                 "Losses": "15",
                 "Goal Difference": "-12",
                 "Points": "41"
-            },
-            {
-                "Position": "18",
-                "Team": "Fortaleza",
-                "Played": "36",
-                "Wins": "10",
-                "Draws": "10",
-                "Losses": "16",
-                "Goal Difference": "-14",
-                "Points": "40"
             },
             {
                 "Position": "19",
