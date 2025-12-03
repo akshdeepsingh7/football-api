@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 03 December 2025, 11:18 PM UTC",
-        "IST": "Thursday, 04 December 2025, 04:48 AM IST"
+        "UTC": "Wednesday, 03 December 2025, 11:38 PM UTC",
+        "IST": "Thursday, 04 December 2025, 05:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3295,11 +3295,11 @@
                 "Position": "8",
                 "Team": "S\u00e3o Paulo",
                 "Played": "37",
-                "Wins": "13",
-                "Draws": "10",
+                "Wins": "14",
+                "Draws": "9",
                 "Losses": "14",
-                "Goal Difference": "-6",
-                "Points": "49"
+                "Goal Difference": "-5",
+                "Points": "51"
             },
             {
                 "Position": "9",
@@ -3308,7 +3308,7 @@
                 "Wins": "14",
                 "Draws": "6",
                 "Losses": "17",
-                "Goal Difference": "-11",
+                "Goal Difference": "-10",
                 "Points": "48"
             },
             {
@@ -3383,23 +3383,23 @@
             },
             {
                 "Position": "17",
-                "Team": "Internacional",
-                "Played": "37",
-                "Wins": "10",
-                "Draws": "12",
-                "Losses": "15",
-                "Goal Difference": "-12",
-                "Points": "42"
-            },
-            {
-                "Position": "18",
                 "Team": "Vit\u00f3ria",
                 "Played": "37",
                 "Wins": "10",
                 "Draws": "12",
                 "Losses": "15",
-                "Goal Difference": "-17",
+                "Goal Difference": "-18",
                 "Points": "42"
+            },
+            {
+                "Position": "18",
+                "Team": "Internacional",
+                "Played": "37",
+                "Wins": "10",
+                "Draws": "11",
+                "Losses": "16",
+                "Goal Difference": "-13",
+                "Points": "41"
             },
             {
                 "Position": "19",
