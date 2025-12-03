@@ -41,45 +41,45 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 03 December 2025, 07:18 PM UTC (Thursday, 04 December 2025, 12:48 AM IST)
+**Last Updated:** Wednesday, 03 December 2025, 07:39 PM UTC (Thursday, 04 December 2025, 01:09 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 13 | 9 | 3 | 1 | 18 | 30 |
+| 1 | Arsenal | 14 | 9 | 4 | 1 | 18 | 31 |
 | 2 | Manchester City | 14 | 9 | 1 | 4 | 16 | 28 |
-| 3 | Chelsea | 13 | 7 | 3 | 3 | 12 | 24 |
-| 4 | Aston Villa | 13 | 7 | 3 | 3 | 5 | 24 |
-| 5 | Brighton & Hove Albion | 13 | 6 | 4 | 3 | 5 | 22 |
+| 3 | Aston Villa | 14 | 7 | 4 | 3 | 5 | 25 |
+| 4 | Chelsea | 13 | 7 | 3 | 3 | 12 | 24 |
+| 5 | Brighton & Hove Albion | 14 | 6 | 5 | 3 | 5 | 23 |
 | 6 | Sunderland | 13 | 6 | 4 | 3 | 4 | 22 |
-| 7 | Manchester United | 13 | 6 | 3 | 4 | 1 | 21 |
-| 8 | Liverpool FC | 13 | 7 | 0 | 6 | 0 | 21 |
-| 9 | Everton | 14 | 6 | 3 | 5 | -2 | 21 |
-| 10 | Crystal Palace | 13 | 5 | 5 | 3 | 6 | 20 |
-| 11 | Tottenham Hotspur | 14 | 5 | 4 | 5 | 5 | 19 |
-| 12 | Brentford | 13 | 6 | 1 | 6 | 1 | 19 |
+| 7 | Crystal Palace | 14 | 5 | 6 | 3 | 6 | 21 |
+| 8 | Manchester United | 13 | 6 | 3 | 4 | 1 | 21 |
+| 9 | Liverpool FC | 13 | 7 | 0 | 6 | 0 | 21 |
+| 10 | Everton | 14 | 6 | 3 | 5 | -2 | 21 |
+| 11 | Brentford | 14 | 6 | 2 | 6 | 1 | 20 |
+| 12 | Tottenham Hotspur | 14 | 5 | 4 | 5 | 5 | 19 |
 | 13 | Newcastle United | 14 | 5 | 4 | 5 | 1 | 19 |
 | 14 | AFC Bournemouth | 14 | 5 | 4 | 5 | -3 | 19 |
 | 15 | Fulham | 14 | 5 | 2 | 7 | -3 | 17 |
-| 16 | Nottingham Forest | 13 | 3 | 3 | 7 | -9 | 12 |
-| 17 | West Ham United | 13 | 3 | 2 | 8 | -12 | 11 |
-| 18 | Leeds United | 13 | 3 | 2 | 8 | -12 | 11 |
-| 19 | Burnley | 13 | 3 | 1 | 9 | -12 | 10 |
-| 20 | Wolverhampton Wanderers | 13 | 0 | 2 | 11 | -21 | 2 |
+| 16 | Nottingham Forest | 14 | 3 | 4 | 7 | -9 | 13 |
+| 17 | Burnley | 14 | 3 | 2 | 9 | -12 | 11 |
+| 18 | West Ham United | 13 | 3 | 2 | 8 | -12 | 11 |
+| 19 | Leeds United | 13 | 3 | 2 | 8 | -12 | 11 |
+| 20 | Wolverhampton Wanderers | 14 | 0 | 3 | 11 | -21 | 3 |
 
 ### La Liga
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 15 | 12 | 1 | 2 | 25 | 37 |
-| 2 | Real Madrid | 15 | 11 | 3 | 1 | 18 | 36 |
+| 2 | Real Madrid | 15 | 11 | 3 | 1 | 19 | 36 |
 | 3 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
 | 4 | Atlético de Madrid | 15 | 9 | 4 | 2 | 14 | 31 |
 | 5 | Real Betis | 14 | 6 | 6 | 2 | 8 | 24 |
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
 | 7 | Getafe | 14 | 6 | 2 | 6 | -2 | 20 |
-| 8 | Athletic Bilbao | 15 | 6 | 2 | 7 | -5 | 20 |
+| 8 | Athletic Bilbao | 15 | 6 | 2 | 7 | -6 | 20 |
 | 9 | Rayo Vallecano | 14 | 4 | 5 | 5 | -2 | 17 |
 | 10 | Real Sociedad | 14 | 4 | 4 | 6 | -2 | 16 |
 | 11 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
