@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 03 December 2025, 10:43 PM UTC",
-        "IST": "Thursday, 04 December 2025, 04:13 AM IST"
+        "UTC": "Wednesday, 03 December 2025, 11:18 PM UTC",
+        "IST": "Thursday, 04 December 2025, 04:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3284,31 +3284,31 @@
             {
                 "Position": "7",
                 "Team": "Bahia",
-                "Played": "36",
+                "Played": "37",
                 "Wins": "16",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "11",
                 "Goal Difference": "4",
-                "Points": "57"
+                "Points": "58"
             },
             {
                 "Position": "8",
+                "Team": "S\u00e3o Paulo",
+                "Played": "37",
+                "Wins": "13",
+                "Draws": "10",
+                "Losses": "14",
+                "Goal Difference": "-6",
+                "Points": "49"
+            },
+            {
+                "Position": "9",
                 "Team": "RB Bragantino",
                 "Played": "37",
                 "Wins": "14",
                 "Draws": "6",
                 "Losses": "17",
-                "Goal Difference": "-12",
-                "Points": "48"
-            },
-            {
-                "Position": "9",
-                "Team": "S\u00e3o Paulo",
-                "Played": "36",
-                "Wins": "13",
-                "Draws": "9",
-                "Losses": "14",
-                "Goal Difference": "-6",
+                "Goal Difference": "-11",
                 "Points": "48"
             },
             {
@@ -3383,23 +3383,23 @@
             },
             {
                 "Position": "17",
+                "Team": "Internacional",
+                "Played": "37",
+                "Wins": "10",
+                "Draws": "12",
+                "Losses": "15",
+                "Goal Difference": "-12",
+                "Points": "42"
+            },
+            {
+                "Position": "18",
                 "Team": "Vit\u00f3ria",
                 "Played": "37",
                 "Wins": "10",
                 "Draws": "12",
                 "Losses": "15",
-                "Goal Difference": "-16",
+                "Goal Difference": "-17",
                 "Points": "42"
-            },
-            {
-                "Position": "18",
-                "Team": "Internacional",
-                "Played": "36",
-                "Wins": "10",
-                "Draws": "11",
-                "Losses": "15",
-                "Goal Difference": "-12",
-                "Points": "41"
             },
             {
                 "Position": "19",
@@ -3414,12 +3414,12 @@
             {
                 "Position": "20",
                 "Team": "Sport",
-                "Played": "36",
+                "Played": "37",
                 "Wins": "2",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "23",
                 "Goal Difference": "-41",
-                "Points": "17"
+                "Points": "18"
             }
         ]
     }
