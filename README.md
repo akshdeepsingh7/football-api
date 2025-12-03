@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 03 December 2025, 08:46 PM UTC (Thursday, 04 December 2025, 02:16 AM IST)
+**Last Updated:** Wednesday, 03 December 2025, 09:19 PM UTC (Thursday, 04 December 2025, 02:49 AM IST)
 
 ### Premier League
 
@@ -49,11 +49,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 14 | 10 | 3 | 1 | 19 | 33 |
 | 2 | Manchester City | 14 | 9 | 1 | 4 | 16 | 28 |
-| 3 | Aston Villa | 14 | 7 | 4 | 3 | 5 | 25 |
-| 4 | Chelsea | 14 | 7 | 3 | 4 | 11 | 24 |
+| 3 | Aston Villa | 14 | 8 | 3 | 3 | 6 | 27 |
+| 4 | Chelsea | 14 | 7 | 3 | 4 | 10 | 24 |
 | 5 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
-| 6 | Brighton & Hove Albion | 14 | 6 | 5 | 3 | 5 | 23 |
-| 7 | Sunderland | 14 | 6 | 5 | 3 | 4 | 23 |
+| 6 | Sunderland | 14 | 6 | 5 | 3 | 4 | 23 |
+| 7 | Brighton & Hove Albion | 14 | 6 | 4 | 4 | 4 | 22 |
 | 8 | Liverpool FC | 14 | 7 | 1 | 6 | 0 | 22 |
 | 9 | Manchester United | 13 | 6 | 3 | 4 | 1 | 21 |
 | 10 | Everton | 14 | 6 | 3 | 5 | -2 | 21 |
@@ -62,11 +62,11 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Brentford | 14 | 6 | 1 | 7 | 0 | 19 |
 | 14 | AFC Bournemouth | 14 | 5 | 4 | 5 | -3 | 19 |
 | 15 | Fulham | 14 | 5 | 2 | 7 | -3 | 17 |
-| 16 | Leeds United | 14 | 4 | 2 | 8 | -11 | 14 |
-| 17 | Nottingham Forest | 14 | 3 | 4 | 7 | -9 | 13 |
+| 16 | Nottingham Forest | 14 | 4 | 3 | 7 | -8 | 15 |
+| 17 | Leeds United | 14 | 4 | 2 | 8 | -10 | 14 |
 | 18 | West Ham United | 13 | 3 | 2 | 8 | -12 | 11 |
 | 19 | Burnley | 14 | 3 | 1 | 10 | -13 | 10 |
-| 20 | Wolverhampton Wanderers | 14 | 0 | 3 | 11 | -21 | 3 |
+| 20 | Wolverhampton Wanderers | 14 | 0 | 2 | 12 | -22 | 2 |
 
 ### La Liga
 

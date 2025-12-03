@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 03 December 2025, 08:46 PM UTC",
-        "IST": "Thursday, 04 December 2025, 02:16 AM IST"
+        "UTC": "Wednesday, 03 December 2025, 09:19 PM UTC",
+        "IST": "Thursday, 04 December 2025, 02:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -29,11 +29,11 @@
                 "Position": "3",
                 "Team": "Aston Villa",
                 "Played": "14",
-                "Wins": "7",
-                "Draws": "4",
+                "Wins": "8",
+                "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "5",
-                "Points": "25"
+                "Goal Difference": "6",
+                "Points": "27"
             },
             {
                 "Position": "4",
@@ -42,7 +42,7 @@
                 "Wins": "7",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "11",
+                "Goal Difference": "10",
                 "Points": "24"
             },
             {
@@ -57,16 +57,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Brighton & Hove Albion",
-                "Played": "14",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "5",
-                "Points": "23"
-            },
-            {
-                "Position": "7",
                 "Team": "Sunderland",
                 "Played": "14",
                 "Wins": "6",
@@ -74,6 +64,16 @@
                 "Losses": "3",
                 "Goal Difference": "4",
                 "Points": "23"
+            },
+            {
+                "Position": "7",
+                "Team": "Brighton & Hove Albion",
+                "Played": "14",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "4",
+                "Points": "22"
             },
             {
                 "Position": "8",
@@ -157,23 +157,23 @@
             },
             {
                 "Position": "16",
+                "Team": "Nottingham Forest",
+                "Played": "14",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-8",
+                "Points": "15"
+            },
+            {
+                "Position": "17",
                 "Team": "Leeds United",
                 "Played": "14",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "8",
-                "Goal Difference": "-11",
+                "Goal Difference": "-10",
                 "Points": "14"
-            },
-            {
-                "Position": "17",
-                "Team": "Nottingham Forest",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-9",
-                "Points": "13"
             },
             {
                 "Position": "18",
@@ -200,10 +200,10 @@
                 "Team": "Wolverhampton Wanderers",
                 "Played": "14",
                 "Wins": "0",
-                "Draws": "3",
-                "Losses": "11",
-                "Goal Difference": "-21",
-                "Points": "3"
+                "Draws": "2",
+                "Losses": "12",
+                "Goal Difference": "-22",
+                "Points": "2"
             }
         ],
         "La Liga": [
