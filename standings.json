@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 03 December 2025, 09:19 PM UTC",
-        "IST": "Thursday, 04 December 2025, 02:49 AM IST"
+        "UTC": "Wednesday, 03 December 2025, 09:38 PM UTC",
+        "IST": "Thursday, 04 December 2025, 03:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -12,7 +12,7 @@
                 "Wins": "10",
                 "Draws": "3",
                 "Losses": "1",
-                "Goal Difference": "19",
+                "Goal Difference": "20",
                 "Points": "33"
             },
             {
@@ -42,7 +42,7 @@
                 "Wins": "7",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "10",
+                "Goal Difference": "11",
                 "Points": "24"
             },
             {
@@ -132,7 +132,7 @@
                 "Wins": "6",
                 "Draws": "1",
                 "Losses": "7",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "19"
             },
             {
@@ -172,7 +172,7 @@
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "8",
-                "Goal Difference": "-10",
+                "Goal Difference": "-11",
                 "Points": "14"
             },
             {

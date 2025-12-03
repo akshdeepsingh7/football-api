@@ -41,16 +41,16 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 03 December 2025, 09:19 PM UTC (Thursday, 04 December 2025, 02:49 AM IST)
+**Last Updated:** Wednesday, 03 December 2025, 09:38 PM UTC (Thursday, 04 December 2025, 03:08 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 14 | 10 | 3 | 1 | 19 | 33 |
+| 1 | Arsenal | 14 | 10 | 3 | 1 | 20 | 33 |
 | 2 | Manchester City | 14 | 9 | 1 | 4 | 16 | 28 |
 | 3 | Aston Villa | 14 | 8 | 3 | 3 | 6 | 27 |
-| 4 | Chelsea | 14 | 7 | 3 | 4 | 10 | 24 |
+| 4 | Chelsea | 14 | 7 | 3 | 4 | 11 | 24 |
 | 5 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
 | 6 | Sunderland | 14 | 6 | 5 | 3 | 4 | 23 |
 | 7 | Brighton & Hove Albion | 14 | 6 | 4 | 4 | 4 | 22 |
@@ -59,11 +59,11 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Everton | 14 | 6 | 3 | 5 | -2 | 21 |
 | 11 | Tottenham Hotspur | 14 | 5 | 4 | 5 | 5 | 19 |
 | 12 | Newcastle United | 14 | 5 | 4 | 5 | 1 | 19 |
-| 13 | Brentford | 14 | 6 | 1 | 7 | 0 | 19 |
+| 13 | Brentford | 14 | 6 | 1 | 7 | -1 | 19 |
 | 14 | AFC Bournemouth | 14 | 5 | 4 | 5 | -3 | 19 |
 | 15 | Fulham | 14 | 5 | 2 | 7 | -3 | 17 |
 | 16 | Nottingham Forest | 14 | 4 | 3 | 7 | -8 | 15 |
-| 17 | Leeds United | 14 | 4 | 2 | 8 | -10 | 14 |
+| 17 | Leeds United | 14 | 4 | 2 | 8 | -11 | 14 |
 | 18 | West Ham United | 13 | 3 | 2 | 8 | -12 | 11 |
 | 19 | Burnley | 14 | 3 | 1 | 10 | -13 | 10 |
 | 20 | Wolverhampton Wanderers | 14 | 0 | 2 | 12 | -22 | 2 |
