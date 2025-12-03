@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 03 December 2025, 10:20 PM UTC",
-        "IST": "Thursday, 04 December 2025, 03:50 AM IST"
+        "UTC": "Wednesday, 03 December 2025, 10:43 PM UTC",
+        "IST": "Thursday, 04 December 2025, 04:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3373,6 +3373,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Santos",
+                "Played": "37",
+                "Wins": "10",
+                "Draws": "12",
+                "Losses": "15",
+                "Goal Difference": "-11",
+                "Points": "42"
+            },
+            {
+                "Position": "17",
                 "Team": "Vit\u00f3ria",
                 "Played": "37",
                 "Wins": "10",
@@ -3380,16 +3390,6 @@
                 "Losses": "15",
                 "Goal Difference": "-16",
                 "Points": "42"
-            },
-            {
-                "Position": "17",
-                "Team": "Santos",
-                "Played": "36",
-                "Wins": "10",
-                "Draws": "11",
-                "Losses": "15",
-                "Goal Difference": "-11",
-                "Points": "41"
             },
             {
                 "Position": "18",
@@ -3404,12 +3404,12 @@
             {
                 "Position": "19",
                 "Team": "Juventude",
-                "Played": "36",
+                "Played": "37",
                 "Wins": "9",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "20",
                 "Goal Difference": "-31",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "20",

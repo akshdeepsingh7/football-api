@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 03 December 2025, 10:20 PM UTC (Thursday, 04 December 2025, 03:50 AM IST)
+**Last Updated:** Wednesday, 03 December 2025, 10:43 PM UTC (Thursday, 04 December 2025, 04:13 AM IST)
 
 ### Premier League
 
@@ -446,10 +446,10 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Atlético Mineiro | 36 | 11 | 12 | 13 | -3 | 45 |
 | 14 | Ceará | 36 | 11 | 10 | 15 | -3 | 43 |
 | 15 | Fortaleza | 37 | 11 | 10 | 16 | -13 | 43 |
-| 16 | Vitória | 37 | 10 | 12 | 15 | -16 | 42 |
-| 17 | Santos | 36 | 10 | 11 | 15 | -11 | 41 |
+| 16 | Santos | 37 | 10 | 12 | 15 | -11 | 42 |
+| 17 | Vitória | 37 | 10 | 12 | 15 | -16 | 42 |
 | 18 | Internacional | 36 | 10 | 11 | 15 | -12 | 41 |
-| 19 | Juventude | 36 | 9 | 7 | 20 | -31 | 34 |
+| 19 | Juventude | 37 | 9 | 8 | 20 | -31 | 35 |
 | 20 | Sport | 36 | 2 | 11 | 23 | -41 | 17 |
 
 
