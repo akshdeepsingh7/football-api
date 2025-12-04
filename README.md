@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 04 December 2025, 10:41 PM UTC (Friday, 05 December 2025, 04:11 AM IST)
+**Last Updated:** Thursday, 04 December 2025, 11:21 PM UTC (Friday, 05 December 2025, 04:51 AM IST)
 
 ### Premier League
 
@@ -433,11 +433,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 37 | 23 | 9 | 5 | 51 | 78 |
 | 2 | Palmeiras | 37 | 22 | 7 | 8 | 31 | 73 |
-| 3 | Cruzeiro | 37 | 19 | 13 | 5 | 27 | 70 |
+| 3 | Cruzeiro | 37 | 20 | 12 | 5 | 28 | 72 |
 | 4 | Mirassol | 37 | 18 | 12 | 7 | 24 | 66 |
 | 5 | Fluminense | 37 | 18 | 7 | 12 | 9 | 61 |
 | 6 | Bahia | 37 | 17 | 9 | 11 | 6 | 60 |
-| 7 | Botafogo | 37 | 16 | 12 | 9 | 18 | 60 |
+| 7 | Botafogo | 37 | 16 | 11 | 10 | 17 | 59 |
 | 8 | São Paulo | 37 | 14 | 9 | 14 | -3 | 51 |
 | 9 | RB Bragantino | 37 | 14 | 6 | 17 | -10 | 48 |
 | 10 | Corinthians | 37 | 12 | 10 | 15 | -5 | 46 |
