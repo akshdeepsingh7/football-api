@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 04 December 2025, 01:43 AM UTC (Thursday, 04 December 2025, 07:13 AM IST)
+**Last Updated:** Thursday, 04 December 2025, 03:19 AM UTC (Thursday, 04 December 2025, 08:49 AM IST)
 
 ### Premier League
 
@@ -432,7 +432,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 37 | 23 | 9 | 5 | 51 | 78 |
-| 2 | Palmeiras | 37 | 22 | 7 | 8 | 30 | 73 |
+| 2 | Palmeiras | 37 | 22 | 7 | 8 | 31 | 73 |
 | 3 | Cruzeiro | 36 | 19 | 12 | 5 | 27 | 69 |
 | 4 | Mirassol | 37 | 18 | 12 | 7 | 24 | 66 |
 | 5 | Fluminense | 37 | 18 | 7 | 12 | 9 | 61 |
@@ -443,7 +443,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Corinthians | 37 | 12 | 10 | 15 | -5 | 46 |
 | 11 | Grêmio | 37 | 12 | 10 | 15 | -7 | 46 |
 | 12 | Vasco da Gama | 37 | 13 | 6 | 18 | 0 | 45 |
-| 13 | Atlético Mineiro | 37 | 11 | 12 | 14 | -5 | 45 |
+| 13 | Atlético Mineiro | 37 | 11 | 12 | 14 | -6 | 45 |
 | 14 | Santos | 37 | 11 | 11 | 15 | -8 | 44 |
 | 15 | Ceará | 37 | 11 | 10 | 16 | -4 | 43 |
 | 16 | Fortaleza | 37 | 11 | 10 | 16 | -13 | 43 |
