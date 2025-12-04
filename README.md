@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 03 December 2025, 11:38 PM UTC (Thursday, 04 December 2025, 05:08 AM IST)
+**Last Updated:** Thursday, 04 December 2025, 01:43 AM UTC (Thursday, 04 December 2025, 07:13 AM IST)
 
 ### Premier League
 
@@ -431,26 +431,26 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Flamengo | 36 | 22 | 9 | 5 | 50 | 75 |
-| 2 | Palmeiras | 36 | 21 | 7 | 8 | 28 | 70 |
+| 1 | Flamengo | 37 | 23 | 9 | 5 | 51 | 78 |
+| 2 | Palmeiras | 37 | 22 | 7 | 8 | 30 | 73 |
 | 3 | Cruzeiro | 36 | 19 | 12 | 5 | 27 | 69 |
 | 4 | Mirassol | 37 | 18 | 12 | 7 | 24 | 66 |
 | 5 | Fluminense | 37 | 18 | 7 | 12 | 9 | 61 |
-| 6 | Botafogo | 36 | 16 | 11 | 9 | 18 | 59 |
-| 7 | Bahia | 37 | 16 | 10 | 11 | 4 | 58 |
-| 8 | São Paulo | 37 | 14 | 9 | 14 | -5 | 51 |
+| 6 | Bahia | 37 | 17 | 9 | 11 | 6 | 60 |
+| 7 | Botafogo | 36 | 16 | 11 | 9 | 18 | 59 |
+| 8 | São Paulo | 37 | 14 | 9 | 14 | -3 | 51 |
 | 9 | RB Bragantino | 37 | 14 | 6 | 17 | -10 | 48 |
 | 10 | Corinthians | 37 | 12 | 10 | 15 | -5 | 46 |
 | 11 | Grêmio | 37 | 12 | 10 | 15 | -7 | 46 |
 | 12 | Vasco da Gama | 37 | 13 | 6 | 18 | 0 | 45 |
-| 13 | Atlético Mineiro | 36 | 11 | 12 | 13 | -3 | 45 |
-| 14 | Ceará | 36 | 11 | 10 | 15 | -3 | 43 |
-| 15 | Fortaleza | 37 | 11 | 10 | 16 | -13 | 43 |
-| 16 | Santos | 37 | 10 | 12 | 15 | -11 | 42 |
+| 13 | Atlético Mineiro | 37 | 11 | 12 | 14 | -5 | 45 |
+| 14 | Santos | 37 | 11 | 11 | 15 | -8 | 44 |
+| 15 | Ceará | 37 | 11 | 10 | 16 | -4 | 43 |
+| 16 | Fortaleza | 37 | 11 | 10 | 16 | -13 | 43 |
 | 17 | Vitória | 37 | 10 | 12 | 15 | -18 | 42 |
-| 18 | Internacional | 37 | 10 | 11 | 16 | -13 | 41 |
-| 19 | Juventude | 37 | 9 | 8 | 20 | -31 | 35 |
-| 20 | Sport | 37 | 2 | 12 | 23 | -41 | 18 |
+| 18 | Internacional | 37 | 10 | 11 | 16 | -15 | 41 |
+| 19 | Juventude | 37 | 9 | 7 | 21 | -34 | 34 |
+| 20 | Sport | 37 | 2 | 11 | 24 | -43 | 17 |
 
 
 <!-- END_TABLE -->
