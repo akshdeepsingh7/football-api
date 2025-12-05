@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 04 December 2025, 11:40 PM UTC",
-        "IST": "Friday, 05 December 2025, 05:10 AM IST"
+        "UTC": "Friday, 05 December 2025, 01:43 AM UTC",
+        "IST": "Friday, 05 December 2025, 07:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3245,11 +3245,11 @@
                 "Position": "3",
                 "Team": "Cruzeiro",
                 "Played": "37",
-                "Wins": "20",
-                "Draws": "12",
+                "Wins": "19",
+                "Draws": "13",
                 "Losses": "5",
-                "Goal Difference": "28",
-                "Points": "72"
+                "Goal Difference": "27",
+                "Points": "70"
             },
             {
                 "Position": "4",
@@ -3286,10 +3286,10 @@
                 "Team": "Botafogo",
                 "Played": "37",
                 "Wins": "16",
-                "Draws": "11",
-                "Losses": "10",
-                "Goal Difference": "17",
-                "Points": "59"
+                "Draws": "12",
+                "Losses": "9",
+                "Goal Difference": "18",
+                "Points": "60"
             },
             {
                 "Position": "8",
