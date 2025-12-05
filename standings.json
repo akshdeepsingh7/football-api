@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 05 December 2025, 08:44 PM UTC",
-        "IST": "Saturday, 06 December 2025, 02:14 AM IST"
+        "UTC": "Friday, 05 December 2025, 09:19 PM UTC",
+        "IST": "Saturday, 06 December 2025, 02:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -491,6 +491,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-2",
+                "Points": "16"
+            },
+            {
+                "Position": "10",
                 "Team": "Werder Bremen",
                 "Played": "12",
                 "Wins": "4",
@@ -500,7 +510,7 @@
                 "Points": "16"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "K\u00f6ln",
                 "Played": "12",
                 "Wins": "4",
@@ -510,7 +520,7 @@
                 "Points": "15"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Union Berlin",
                 "Played": "12",
                 "Wins": "4",
@@ -518,16 +528,6 @@
                 "Losses": "5",
                 "Goal Difference": "-4",
                 "Points": "15"
-            },
-            {
-                "Position": "12",
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "13",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-3",
-                "Points": "14"
             },
             {
                 "Position": "13",
@@ -571,16 +571,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Mainz 05",
-                "Played": "13",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "-12",
-                "Points": "7"
-            },
-            {
-                "Position": "18",
                 "Team": "St. Pauli",
                 "Played": "12",
                 "Wins": "2",
@@ -588,6 +578,16 @@
                 "Losses": "9",
                 "Goal Difference": "-14",
                 "Points": "7"
+            },
+            {
+                "Position": "18",
+                "Team": "Mainz 05",
+                "Played": "13",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-13",
+                "Points": "6"
             }
         ],
         "Serie A": [
@@ -2075,21 +2075,21 @@
                 "Position": "2",
                 "Team": "Sporting CP",
                 "Played": "13",
-                "Wins": "11",
-                "Draws": "1",
+                "Wins": "10",
+                "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "26",
-                "Points": "34"
+                "Goal Difference": "25",
+                "Points": "32"
             },
             {
                 "Position": "3",
                 "Team": "Benfica",
                 "Played": "13",
                 "Wins": "8",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "17",
-                "Points": "28"
+                "Draws": "5",
+                "Losses": "0",
+                "Goal Difference": "18",
+                "Points": "29"
             },
             {
                 "Position": "4",
@@ -2260,7 +2260,7 @@
                 "Wins": "10",
                 "Draws": "6",
                 "Losses": "3",
-                "Goal Difference": "6",
+                "Goal Difference": "9",
                 "Points": "36"
             },
             {
@@ -2330,7 +2330,7 @@
                 "Wins": "8",
                 "Draws": "4",
                 "Losses": "7",
-                "Goal Difference": "-1",
+                "Goal Difference": "-4",
                 "Points": "28"
             },
             {

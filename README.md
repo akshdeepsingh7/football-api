@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 05 December 2025, 08:44 PM UTC (Saturday, 06 December 2025, 02:14 AM IST)
+**Last Updated:** Friday, 05 December 2025, 09:19 PM UTC (Saturday, 06 December 2025, 02:49 AM IST)
 
 ### Premier League
 
@@ -105,16 +105,16 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | VfB Stuttgart | 12 | 7 | 1 | 4 | 4 | 22 |
 | 7 | Eintracht Frankfurt | 12 | 6 | 3 | 3 | 5 | 21 |
 | 8 | SC Freiburg | 12 | 4 | 4 | 4 | -1 | 16 |
-| 9 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
-| 10 | Köln | 12 | 4 | 3 | 5 | 1 | 15 |
-| 11 | Union Berlin | 12 | 4 | 3 | 5 | -4 | 15 |
-| 12 | Borussia Mönchengladbach | 13 | 3 | 5 | 5 | -3 | 14 |
+| 9 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
+| 10 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
+| 11 | Köln | 12 | 4 | 3 | 5 | 1 | 15 |
+| 12 | Union Berlin | 12 | 4 | 3 | 5 | -4 | 15 |
 | 13 | Hamburg | 12 | 3 | 3 | 6 | -7 | 12 |
 | 14 | Augsburg | 12 | 3 | 1 | 8 | -12 | 10 |
 | 15 | VfL Wolfsburg | 12 | 2 | 3 | 7 | -8 | 9 |
 | 16 | Heidenheim | 12 | 2 | 2 | 8 | -17 | 8 |
-| 17 | Mainz 05 | 13 | 1 | 4 | 8 | -12 | 7 |
-| 18 | St. Pauli | 12 | 2 | 1 | 9 | -14 | 7 |
+| 17 | St. Pauli | 12 | 2 | 1 | 9 | -14 | 7 |
+| 18 | Mainz 05 | 13 | 1 | 3 | 9 | -13 | 6 |
 
 ### Serie A
 
@@ -292,8 +292,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 12 | 11 | 1 | 0 | 22 | 34 |
-| 2 | Sporting CP | 13 | 11 | 1 | 1 | 26 | 34 |
-| 3 | Benfica | 13 | 8 | 4 | 1 | 17 | 28 |
+| 2 | Sporting CP | 13 | 10 | 2 | 1 | 25 | 32 |
+| 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
 | 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
 | 5 | Famalicão | 12 | 5 | 5 | 2 | 6 | 20 |
 | 6 | Braga | 12 | 5 | 4 | 3 | 12 | 19 |
@@ -315,14 +315,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 18 | 13 | 4 | 1 | 32 | 43 |
-| 2 | Middlesbrough | 19 | 10 | 6 | 3 | 6 | 36 |
+| 2 | Middlesbrough | 19 | 10 | 6 | 3 | 9 | 36 |
 | 3 | Millwall | 18 | 9 | 4 | 5 | -3 | 31 |
 | 4 | Stoke City | 18 | 9 | 3 | 6 | 12 | 30 |
 | 5 | Preston North End | 18 | 8 | 6 | 4 | 6 | 30 |
 | 6 | Bristol City | 18 | 8 | 5 | 5 | 6 | 29 |
 | 7 | Ipswich Town | 18 | 7 | 7 | 4 | 11 | 28 |
 | 8 | Birmingham City | 18 | 8 | 4 | 6 | 7 | 28 |
-| 9 | Hull City | 19 | 8 | 4 | 7 | -1 | 28 |
+| 9 | Hull City | 19 | 8 | 4 | 7 | -4 | 28 |
 | 10 | Wrexham | 18 | 6 | 8 | 4 | 3 | 26 |
 | 11 | Derby County | 18 | 7 | 5 | 6 | 0 | 26 |
 | 12 | West Bromwich Albion | 18 | 7 | 4 | 7 | -2 | 25 |
