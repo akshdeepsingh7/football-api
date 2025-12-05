@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 05 December 2025, 07:17 PM UTC",
-        "IST": "Saturday, 06 December 2025, 12:47 AM IST"
+        "UTC": "Friday, 05 December 2025, 07:38 PM UTC",
+        "IST": "Saturday, 06 December 2025, 01:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -522,12 +522,12 @@
             {
                 "Position": "12",
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "5",
                 "Goal Difference": "-3",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "13",
@@ -571,6 +571,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Mainz 05",
+                "Played": "13",
+                "Wins": "1",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-12",
+                "Points": "7"
+            },
+            {
+                "Position": "18",
                 "Team": "St. Pauli",
                 "Played": "12",
                 "Wins": "2",
@@ -578,16 +588,6 @@
                 "Losses": "9",
                 "Goal Difference": "-14",
                 "Points": "7"
-            },
-            {
-                "Position": "18",
-                "Team": "Mainz 05",
-                "Played": "12",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-12",
-                "Points": "6"
             }
         ],
         "Serie A": [
