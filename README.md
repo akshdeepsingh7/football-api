@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 05 December 2025, 09:19 PM UTC (Saturday, 06 December 2025, 02:49 AM IST)
+**Last Updated:** Friday, 05 December 2025, 09:40 PM UTC (Saturday, 06 December 2025, 03:10 AM IST)
 
 ### Premier League
 
@@ -315,14 +315,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 18 | 13 | 4 | 1 | 32 | 43 |
-| 2 | Middlesbrough | 19 | 10 | 6 | 3 | 9 | 36 |
+| 2 | Middlesbrough | 19 | 10 | 6 | 3 | 8 | 36 |
 | 3 | Millwall | 18 | 9 | 4 | 5 | -3 | 31 |
 | 4 | Stoke City | 18 | 9 | 3 | 6 | 12 | 30 |
 | 5 | Preston North End | 18 | 8 | 6 | 4 | 6 | 30 |
 | 6 | Bristol City | 18 | 8 | 5 | 5 | 6 | 29 |
 | 7 | Ipswich Town | 18 | 7 | 7 | 4 | 11 | 28 |
 | 8 | Birmingham City | 18 | 8 | 4 | 6 | 7 | 28 |
-| 9 | Hull City | 19 | 8 | 4 | 7 | -4 | 28 |
+| 9 | Hull City | 19 | 8 | 4 | 7 | -3 | 28 |
 | 10 | Wrexham | 18 | 6 | 8 | 4 | 3 | 26 |
 | 11 | Derby County | 18 | 7 | 5 | 6 | 0 | 26 |
 | 12 | West Bromwich Albion | 18 | 7 | 4 | 7 | -2 | 25 |
