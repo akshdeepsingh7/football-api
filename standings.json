@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 07:37 PM UTC",
-        "IST": "Sunday, 07 December 2025, 01:07 AM IST"
+        "UTC": "Saturday, 06 December 2025, 08:21 PM UTC",
+        "IST": "Sunday, 07 December 2025, 01:51 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -240,12 +240,12 @@
             {
                 "Position": "4",
                 "Team": "Atl\u00e9tico de Madrid",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "9",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "14",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "5",
@@ -269,22 +269,22 @@
             },
             {
                 "Position": "7",
+                "Team": "Athletic Bilbao",
+                "Played": "16",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-6",
+                "Points": "21"
+            },
+            {
+                "Position": "8",
                 "Team": "Getafe",
                 "Played": "15",
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "7",
                 "Goal Difference": "-4",
-                "Points": "20"
-            },
-            {
-                "Position": "8",
-                "Team": "Athletic Bilbao",
-                "Played": "15",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "7",
-                "Goal Difference": "-6",
                 "Points": "20"
             },
             {
@@ -704,11 +704,11 @@
             {
                 "Position": "12",
                 "Team": "Atalanta",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "3",
                 "Draws": "7",
-                "Losses": "3",
-                "Goal Difference": "2",
+                "Losses": "4",
+                "Goal Difference": "1",
                 "Points": "16"
             },
             {
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Hellas Verona",
-                "Played": "13",
-                "Wins": "0",
+                "Played": "14",
+                "Wins": "1",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "-12",
-                "Points": "6"
+                "Goal Difference": "-11",
+                "Points": "9"
             },
             {
                 "Position": "20",
@@ -806,12 +806,12 @@
             {
                 "Position": "2",
                 "Team": "PSG",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "9",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "15",
-                "Points": "30"
+                "Points": "31"
             },
             {
                 "Position": "3",
@@ -836,12 +836,12 @@
             {
                 "Position": "5",
                 "Team": "Rennes",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "2",
                 "Goal Difference": "6",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "6",
@@ -2143,6 +2143,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Rio Ave",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "3",
+                "Goal Difference": "-4",
+                "Points": "16"
+            },
+            {
+                "Position": "10",
                 "Team": "Santa Clara",
                 "Played": "13",
                 "Wins": "4",
@@ -2152,22 +2162,12 @@
                 "Points": "15"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Alverca",
                 "Played": "12",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "14"
-            },
-            {
-                "Position": "11",
-                "Team": "Rio Ave",
-                "Played": "13",
-                "Wins": "2",
-                "Draws": "8",
-                "Losses": "3",
                 "Goal Difference": "-5",
                 "Points": "14"
             },
@@ -2236,10 +2236,10 @@
                 "Team": "AVS",
                 "Played": "13",
                 "Wins": "0",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-21",
-                "Points": "4"
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-22",
+                "Points": "3"
             }
         ],
         "EFL Championship": [
