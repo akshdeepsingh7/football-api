@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 05:17 PM UTC",
-        "IST": "Saturday, 06 December 2025, 10:47 PM IST"
+        "UTC": "Saturday, 06 December 2025, 05:39 PM UTC",
+        "IST": "Saturday, 06 December 2025, 11:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -77,6 +77,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Liverpool FC",
+                "Played": "15",
+                "Wins": "7",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "0",
+                "Points": "23"
+            },
+            {
+                "Position": "9",
                 "Team": "Tottenham Hotspur",
                 "Played": "15",
                 "Wins": "6",
@@ -86,7 +96,7 @@
                 "Points": "22"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Brighton & Hove Albion",
                 "Played": "14",
                 "Wins": "6",
@@ -96,7 +106,7 @@
                 "Points": "22"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Newcastle United",
                 "Played": "15",
                 "Wins": "6",
@@ -106,23 +116,13 @@
                 "Points": "22"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Manchester United",
                 "Played": "14",
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "1",
-                "Points": "22"
-            },
-            {
-                "Position": "12",
-                "Team": "Liverpool FC",
-                "Played": "14",
-                "Wins": "7",
-                "Draws": "1",
-                "Losses": "6",
-                "Goal Difference": "0",
                 "Points": "22"
             },
             {
@@ -157,6 +157,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Leeds United",
+                "Played": "15",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-10",
+                "Points": "15"
+            },
+            {
+                "Position": "17",
                 "Team": "Nottingham Forest",
                 "Played": "15",
                 "Wins": "4",
@@ -164,16 +174,6 @@
                 "Losses": "8",
                 "Goal Difference": "-11",
                 "Points": "15"
-            },
-            {
-                "Position": "17",
-                "Team": "Leeds United",
-                "Played": "14",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "-10",
-                "Points": "14"
             },
             {
                 "Position": "18",
@@ -210,12 +210,12 @@
             {
                 "Position": "1",
                 "Team": "Barcelona",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "12",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "25",
-                "Points": "37"
+                "Points": "38"
             },
             {
                 "Position": "2",
@@ -250,12 +250,12 @@
             {
                 "Position": "5",
                 "Team": "Real Betis",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "2",
                 "Goal Difference": "8",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "6",
@@ -422,12 +422,12 @@
             {
                 "Position": "2",
                 "Team": "RB Leipzig",
-                "Played": "12",
-                "Wins": "8",
+                "Played": "13",
+                "Wins": "9",
                 "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "9",
-                "Points": "26"
+                "Goal Difference": "10",
+                "Points": "29"
             },
             {
                 "Position": "3",
@@ -472,11 +472,11 @@
             {
                 "Position": "7",
                 "Team": "Eintracht Frankfurt",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "6",
                 "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "5",
+                "Losses": "4",
+                "Goal Difference": "4",
                 "Points": "21"
             },
             {

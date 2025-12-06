@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 06 December 2025, 05:17 PM UTC (Saturday, 06 December 2025, 10:47 PM IST)
+**Last Updated:** Saturday, 06 December 2025, 05:39 PM UTC (Saturday, 06 December 2025, 11:09 PM IST)
 
 ### Premier League
 
@@ -54,16 +54,16 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
 | 6 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
 | 7 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
-| 8 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
-| 9 | Brighton & Hove Albion | 14 | 6 | 4 | 4 | 4 | 22 |
-| 10 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
-| 11 | Manchester United | 14 | 6 | 4 | 4 | 1 | 22 |
-| 12 | Liverpool FC | 14 | 7 | 1 | 6 | 0 | 22 |
+| 8 | Liverpool FC | 15 | 7 | 2 | 6 | 0 | 23 |
+| 9 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
+| 10 | Brighton & Hove Albion | 14 | 6 | 4 | 4 | 4 | 22 |
+| 11 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
+| 12 | Manchester United | 14 | 6 | 4 | 4 | 1 | 22 |
 | 13 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
 | 14 | Brentford | 15 | 6 | 1 | 8 | -3 | 19 |
 | 15 | Fulham | 14 | 5 | 2 | 7 | -3 | 17 |
-| 16 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
-| 17 | Leeds United | 14 | 4 | 2 | 8 | -10 | 14 |
+| 16 | Leeds United | 15 | 4 | 3 | 8 | -10 | 15 |
+| 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 18 | West Ham United | 14 | 3 | 3 | 8 | -12 | 12 |
 | 19 | Burnley | 15 | 3 | 1 | 11 | -14 | 10 |
 | 20 | Wolverhampton Wanderers | 14 | 0 | 2 | 12 | -22 | 2 |
@@ -72,11 +72,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 15 | 12 | 1 | 2 | 25 | 37 |
+| 1 | Barcelona | 16 | 12 | 2 | 2 | 25 | 38 |
 | 2 | Real Madrid | 15 | 11 | 3 | 1 | 19 | 36 |
 | 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
 | 4 | Atlético de Madrid | 15 | 9 | 4 | 2 | 14 | 31 |
-| 5 | Real Betis | 14 | 6 | 6 | 2 | 8 | 24 |
+| 5 | Real Betis | 15 | 6 | 7 | 2 | 8 | 25 |
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
 | 7 | Getafe | 15 | 6 | 2 | 7 | -4 | 20 |
 | 8 | Athletic Bilbao | 15 | 6 | 2 | 7 | -6 | 20 |
@@ -98,12 +98,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 13 | 12 | 1 | 0 | 40 | 37 |
-| 2 | RB Leipzig | 12 | 8 | 2 | 2 | 9 | 26 |
+| 2 | RB Leipzig | 13 | 9 | 2 | 2 | 10 | 29 |
 | 3 | Borussia Dortmund | 12 | 7 | 4 | 1 | 10 | 25 |
 | 4 | Bayer Leverkusen | 13 | 7 | 2 | 4 | 9 | 23 |
 | 5 | Hoffenheim | 12 | 7 | 2 | 3 | 8 | 23 |
 | 6 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
-| 7 | Eintracht Frankfurt | 12 | 6 | 3 | 3 | 5 | 21 |
+| 7 | Eintracht Frankfurt | 13 | 6 | 3 | 4 | 4 | 21 |
 | 8 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
 | 9 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
 | 10 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
