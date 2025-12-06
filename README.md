@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 06 December 2025, 06:27 PM UTC (Saturday, 06 December 2025, 11:57 PM IST)
+**Last Updated:** Saturday, 06 December 2025, 06:49 PM UTC (Sunday, 07 December 2025, 12:19 AM IST)
 
 ### Premier League
 
@@ -51,10 +51,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 15 | 10 | 1 | 4 | 19 | 31 |
 | 3 | Aston Villa | 15 | 9 | 3 | 3 | 7 | 30 |
 | 4 | Chelsea | 15 | 7 | 4 | 4 | 10 | 25 |
-| 5 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
-| 6 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
-| 7 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
-| 8 | Liverpool FC | 15 | 7 | 2 | 6 | 0 | 23 |
+| 5 | Liverpool FC | 15 | 8 | 1 | 6 | 2 | 25 |
+| 6 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
+| 7 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
+| 8 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
 | 9 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
 | 10 | Brighton & Hove Albion | 14 | 6 | 4 | 4 | 4 | 22 |
 | 11 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
@@ -62,8 +62,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
 | 14 | Brentford | 15 | 6 | 1 | 8 | -3 | 19 |
 | 15 | Fulham | 14 | 5 | 2 | 7 | -3 | 17 |
-| 16 | Leeds United | 15 | 4 | 3 | 8 | -10 | 15 |
-| 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
+| 16 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
+| 17 | Leeds United | 15 | 4 | 2 | 9 | -12 | 14 |
 | 18 | West Ham United | 14 | 3 | 3 | 8 | -12 | 12 |
 | 19 | Burnley | 15 | 3 | 1 | 11 | -14 | 10 |
 | 20 | Wolverhampton Wanderers | 14 | 0 | 2 | 12 | -22 | 2 |
@@ -98,12 +98,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 13 | 12 | 1 | 0 | 40 | 37 |
-| 2 | RB Leipzig | 13 | 9 | 2 | 2 | 11 | 29 |
+| 2 | RB Leipzig | 13 | 9 | 2 | 2 | 13 | 29 |
 | 3 | Borussia Dortmund | 12 | 7 | 4 | 1 | 10 | 25 |
 | 4 | Bayer Leverkusen | 13 | 7 | 2 | 4 | 9 | 23 |
 | 5 | Hoffenheim | 12 | 7 | 2 | 3 | 8 | 23 |
 | 6 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
-| 7 | Eintracht Frankfurt | 13 | 6 | 3 | 4 | 3 | 21 |
+| 7 | Eintracht Frankfurt | 13 | 6 | 3 | 4 | 1 | 21 |
 | 8 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
 | 9 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
 | 10 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
@@ -120,12 +120,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 14 | 10 | 0 | 4 | 17 | 30 |
+| 1 | Inter | 14 | 10 | 0 | 4 | 18 | 30 |
 | 2 | Milan | 13 | 8 | 4 | 1 | 10 | 28 |
 | 3 | Napoli | 13 | 9 | 1 | 3 | 9 | 28 |
 | 4 | Roma | 13 | 9 | 0 | 4 | 8 | 27 |
 | 5 | Bologna | 13 | 7 | 3 | 3 | 11 | 24 |
-| 6 | Como | 14 | 6 | 6 | 2 | 10 | 24 |
+| 6 | Como | 14 | 6 | 6 | 2 | 9 | 24 |
 | 7 | Juventus | 13 | 6 | 5 | 2 | 5 | 23 |
 | 8 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
 | 9 | Lazio | 13 | 5 | 3 | 5 | 5 | 18 |
@@ -299,16 +299,16 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Braga | 12 | 5 | 4 | 3 | 12 | 19 |
 | 7 | Moreirense | 12 | 6 | 1 | 5 | 1 | 19 |
 | 8 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
-| 9 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
-| 10 | Alverca | 12 | 4 | 2 | 6 | -5 | 14 |
-| 11 | Rio Ave | 13 | 2 | 8 | 3 | -5 | 14 |
+| 9 | Rio Ave | 13 | 3 | 7 | 3 | -4 | 16 |
+| 10 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
+| 11 | Alverca | 12 | 4 | 2 | 6 | -5 | 14 |
 | 12 | Estoril | 12 | 3 | 4 | 5 | 1 | 13 |
 | 13 | Nacional | 12 | 3 | 3 | 6 | -5 | 12 |
 | 14 | Estrela Amadora | 12 | 2 | 5 | 5 | -5 | 11 |
 | 15 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
 | 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
 | 17 | Arouca | 12 | 2 | 3 | 7 | -21 | 9 |
-| 18 | AVS | 13 | 0 | 4 | 9 | -21 | 4 |
+| 18 | AVS | 13 | 0 | 3 | 10 | -22 | 3 |
 
 ### EFL Championship
 

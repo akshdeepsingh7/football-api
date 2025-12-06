@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 06:27 PM UTC",
-        "IST": "Saturday, 06 December 2025, 11:57 PM IST"
+        "UTC": "Saturday, 06 December 2025, 06:49 PM UTC",
+        "IST": "Sunday, 07 December 2025, 12:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -47,6 +47,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Liverpool FC",
+                "Played": "15",
+                "Wins": "8",
+                "Draws": "1",
+                "Losses": "6",
+                "Goal Difference": "2",
+                "Points": "25"
+            },
+            {
+                "Position": "6",
                 "Team": "Everton",
                 "Played": "15",
                 "Wins": "7",
@@ -56,7 +66,7 @@
                 "Points": "24"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Crystal Palace",
                 "Played": "14",
                 "Wins": "6",
@@ -66,23 +76,13 @@
                 "Points": "23"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Sunderland",
                 "Played": "15",
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "1",
-                "Points": "23"
-            },
-            {
-                "Position": "8",
-                "Team": "Liverpool FC",
-                "Played": "15",
-                "Wins": "7",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "0",
                 "Points": "23"
             },
             {
@@ -157,16 +157,6 @@
             },
             {
                 "Position": "16",
-                "Team": "Leeds United",
-                "Played": "15",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-10",
-                "Points": "15"
-            },
-            {
-                "Position": "17",
                 "Team": "Nottingham Forest",
                 "Played": "15",
                 "Wins": "4",
@@ -174,6 +164,16 @@
                 "Losses": "8",
                 "Goal Difference": "-11",
                 "Points": "15"
+            },
+            {
+                "Position": "17",
+                "Team": "Leeds United",
+                "Played": "15",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "9",
+                "Goal Difference": "-12",
+                "Points": "14"
             },
             {
                 "Position": "18",
@@ -426,7 +426,7 @@
                 "Wins": "9",
                 "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "11",
+                "Goal Difference": "13",
                 "Points": "29"
             },
             {
@@ -476,7 +476,7 @@
                 "Wins": "6",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "3",
+                "Goal Difference": "1",
                 "Points": "21"
             },
             {
@@ -598,7 +598,7 @@
                 "Wins": "10",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "17",
+                "Goal Difference": "18",
                 "Points": "30"
             },
             {
@@ -648,7 +648,7 @@
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "2",
-                "Goal Difference": "10",
+                "Goal Difference": "9",
                 "Points": "24"
             },
             {
@@ -2143,6 +2143,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Rio Ave",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "3",
+                "Goal Difference": "-4",
+                "Points": "16"
+            },
+            {
+                "Position": "10",
                 "Team": "Santa Clara",
                 "Played": "13",
                 "Wins": "4",
@@ -2152,22 +2162,12 @@
                 "Points": "15"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Alverca",
                 "Played": "12",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "14"
-            },
-            {
-                "Position": "11",
-                "Team": "Rio Ave",
-                "Played": "13",
-                "Wins": "2",
-                "Draws": "8",
-                "Losses": "3",
                 "Goal Difference": "-5",
                 "Points": "14"
             },
@@ -2236,10 +2236,10 @@
                 "Team": "AVS",
                 "Played": "13",
                 "Wins": "0",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-21",
-                "Points": "4"
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-22",
+                "Points": "3"
             }
         ],
         "EFL Championship": [
