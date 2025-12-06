@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 08:21 PM UTC",
-        "IST": "Sunday, 07 December 2025, 01:51 AM IST"
+        "UTC": "Saturday, 06 December 2025, 08:41 PM UTC",
+        "IST": "Sunday, 07 December 2025, 02:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -708,7 +708,7 @@
                 "Wins": "3",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "1",
+                "Goal Difference": "0",
                 "Points": "16"
             },
             {
@@ -778,7 +778,7 @@
                 "Wins": "1",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "-11",
+                "Goal Difference": "-10",
                 "Points": "9"
             },
             {
@@ -807,11 +807,11 @@
                 "Position": "2",
                 "Team": "PSG",
                 "Played": "15",
-                "Wins": "9",
-                "Draws": "4",
+                "Wins": "10",
+                "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "15",
-                "Points": "31"
+                "Goal Difference": "16",
+                "Points": "33"
             },
             {
                 "Position": "3",
@@ -835,22 +835,22 @@
             },
             {
                 "Position": "5",
-                "Team": "Rennes",
-                "Played": "15",
-                "Wins": "6",
-                "Draws": "7",
-                "Losses": "2",
-                "Goal Difference": "6",
-                "Points": "25"
-            },
-            {
-                "Position": "6",
                 "Team": "Lyon",
                 "Played": "14",
                 "Wins": "7",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "6",
+                "Points": "24"
+            },
+            {
+                "Position": "6",
+                "Team": "Rennes",
+                "Played": "15",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "5",
                 "Points": "24"
             },
             {
@@ -2104,22 +2104,22 @@
             {
                 "Position": "5",
                 "Team": "Famalic\u00e3o",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "5",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "2",
                 "Goal Difference": "6",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "6",
                 "Team": "Braga",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "5",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "12",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "7",

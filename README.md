@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 06 December 2025, 08:21 PM UTC (Sunday, 07 December 2025, 01:51 AM IST)
+**Last Updated:** Saturday, 06 December 2025, 08:41 PM UTC (Sunday, 07 December 2025, 02:11 AM IST)
 
 ### Premier League
 
@@ -131,14 +131,14 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Lazio | 13 | 5 | 3 | 5 | 5 | 18 |
 | 10 | Udinese | 13 | 5 | 3 | 5 | -6 | 18 |
 | 11 | Cremonese | 13 | 4 | 5 | 4 | -1 | 17 |
-| 12 | Atalanta | 14 | 3 | 7 | 4 | 1 | 16 |
+| 12 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
 | 13 | Torino | 13 | 3 | 5 | 5 | -11 | 14 |
 | 14 | Lecce | 13 | 3 | 4 | 6 | -7 | 13 |
 | 15 | Cagliari | 13 | 2 | 5 | 6 | -6 | 11 |
 | 16 | Genoa | 13 | 2 | 5 | 6 | -7 | 11 |
 | 17 | Parma | 13 | 2 | 5 | 6 | -8 | 11 |
 | 18 | Pisa | 13 | 1 | 7 | 5 | -8 | 10 |
-| 19 | Hellas Verona | 14 | 1 | 6 | 7 | -11 | 9 |
+| 19 | Hellas Verona | 14 | 1 | 6 | 7 | -10 | 9 |
 | 20 | Fiorentina | 14 | 0 | 6 | 8 | -13 | 6 |
 
 ### Ligue 1
@@ -146,11 +146,11 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Lens | 15 | 11 | 1 | 3 | 13 | 34 |
-| 2 | PSG | 15 | 9 | 4 | 2 | 15 | 31 |
+| 2 | PSG | 15 | 10 | 3 | 2 | 16 | 33 |
 | 3 | Marseille | 15 | 9 | 2 | 4 | 20 | 29 |
 | 4 | Lille | 15 | 9 | 2 | 4 | 12 | 29 |
-| 5 | Rennes | 15 | 6 | 7 | 2 | 6 | 25 |
-| 6 | Lyon | 14 | 7 | 3 | 4 | 6 | 24 |
+| 5 | Lyon | 14 | 7 | 3 | 4 | 6 | 24 |
+| 6 | Rennes | 15 | 6 | 6 | 3 | 5 | 24 |
 | 7 | Monaco | 15 | 7 | 2 | 6 | 0 | 23 |
 | 8 | Strasbourg | 15 | 7 | 1 | 7 | 5 | 22 |
 | 9 | Toulouse | 15 | 5 | 5 | 5 | 2 | 20 |
@@ -295,8 +295,8 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 13 | 10 | 2 | 1 | 25 | 32 |
 | 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
 | 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
-| 5 | Famalicão | 12 | 5 | 5 | 2 | 6 | 20 |
-| 6 | Braga | 12 | 5 | 4 | 3 | 12 | 19 |
+| 5 | Famalicão | 13 | 5 | 6 | 2 | 6 | 21 |
+| 6 | Braga | 13 | 5 | 5 | 3 | 12 | 20 |
 | 7 | Moreirense | 12 | 6 | 1 | 5 | 1 | 19 |
 | 8 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
 | 9 | Rio Ave | 13 | 3 | 7 | 3 | -4 | 16 |
