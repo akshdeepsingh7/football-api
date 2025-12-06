@@ -41,15 +41,15 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 06 December 2025, 02:17 PM UTC (Saturday, 06 December 2025, 07:47 PM IST)
+**Last Updated:** Saturday, 06 December 2025, 02:40 PM UTC (Saturday, 06 December 2025, 08:10 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 15 | 10 | 4 | 1 | 20 | 34 |
-| 2 | Manchester City | 14 | 9 | 1 | 4 | 16 | 28 |
-| 3 | Aston Villa | 15 | 8 | 4 | 3 | 6 | 28 |
+| 1 | Arsenal | 15 | 10 | 3 | 2 | 19 | 33 |
+| 2 | Aston Villa | 15 | 9 | 3 | 3 | 7 | 30 |
+| 3 | Manchester City | 14 | 9 | 1 | 4 | 16 | 28 |
 | 4 | Chelsea | 14 | 7 | 3 | 4 | 10 | 24 |
 | 5 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
 | 6 | Sunderland | 14 | 6 | 5 | 3 | 4 | 23 |
@@ -74,11 +74,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 15 | 12 | 1 | 2 | 25 | 37 |
 | 2 | Real Madrid | 15 | 11 | 3 | 1 | 19 | 36 |
-| 3 | Villarreal | 15 | 11 | 2 | 2 | 17 | 35 |
+| 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
 | 4 | Atlético de Madrid | 15 | 9 | 4 | 2 | 14 | 31 |
 | 5 | Real Betis | 14 | 6 | 6 | 2 | 8 | 24 |
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
-| 7 | Getafe | 15 | 6 | 2 | 7 | -3 | 20 |
+| 7 | Getafe | 15 | 6 | 2 | 7 | -4 | 20 |
 | 8 | Athletic Bilbao | 15 | 6 | 2 | 7 | -6 | 20 |
 | 9 | Rayo Vallecano | 14 | 4 | 5 | 5 | -2 | 17 |
 | 10 | Real Sociedad | 14 | 4 | 4 | 6 | -2 | 16 |
@@ -97,23 +97,23 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 12 | 11 | 1 | 0 | 35 | 34 |
+| 1 | Bayern Munich | 13 | 11 | 2 | 0 | 35 | 35 |
 | 2 | RB Leipzig | 12 | 8 | 2 | 2 | 9 | 26 |
 | 3 | Borussia Dortmund | 12 | 7 | 4 | 1 | 10 | 25 |
-| 4 | Bayer Leverkusen | 12 | 7 | 2 | 3 | 11 | 23 |
+| 4 | Bayer Leverkusen | 13 | 7 | 2 | 4 | 10 | 23 |
 | 5 | Hoffenheim | 12 | 7 | 2 | 3 | 8 | 23 |
-| 6 | VfB Stuttgart | 12 | 7 | 1 | 4 | 4 | 22 |
+| 6 | VfB Stuttgart | 13 | 7 | 2 | 4 | 4 | 23 |
 | 7 | Eintracht Frankfurt | 12 | 6 | 3 | 3 | 5 | 21 |
-| 8 | SC Freiburg | 12 | 4 | 4 | 4 | -1 | 16 |
-| 9 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
-| 10 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
-| 11 | Köln | 12 | 4 | 3 | 5 | 1 | 15 |
-| 12 | Union Berlin | 12 | 4 | 3 | 5 | -4 | 15 |
-| 13 | Hamburg | 12 | 3 | 3 | 6 | -7 | 12 |
-| 14 | Augsburg | 12 | 3 | 1 | 8 | -12 | 10 |
-| 15 | VfL Wolfsburg | 12 | 2 | 3 | 7 | -8 | 9 |
-| 16 | Heidenheim | 12 | 2 | 2 | 8 | -17 | 8 |
-| 17 | St. Pauli | 12 | 2 | 1 | 9 | -14 | 7 |
+| 8 | SC Freiburg | 13 | 4 | 5 | 4 | -1 | 17 |
+| 9 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
+| 10 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
+| 11 | Union Berlin | 13 | 4 | 4 | 5 | -4 | 16 |
+| 12 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
+| 13 | Augsburg | 13 | 4 | 1 | 8 | -11 | 13 |
+| 14 | Hamburg | 12 | 3 | 3 | 6 | -7 | 12 |
+| 15 | VfL Wolfsburg | 13 | 2 | 4 | 7 | -8 | 10 |
+| 16 | Heidenheim | 13 | 2 | 3 | 8 | -17 | 9 |
+| 17 | St. Pauli | 13 | 2 | 2 | 9 | -14 | 8 |
 | 18 | Mainz 05 | 13 | 1 | 3 | 9 | -13 | 6 |
 
 ### Serie A
