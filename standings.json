@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 09:18 PM UTC",
-        "IST": "Sunday, 07 December 2025, 02:48 AM IST"
+        "UTC": "Saturday, 06 December 2025, 09:38 PM UTC",
+        "IST": "Sunday, 07 December 2025, 03:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -810,7 +810,7 @@
                 "Wins": "10",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "17",
+                "Goal Difference": "18",
                 "Points": "33"
             },
             {
@@ -850,7 +850,7 @@
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "3",
-                "Goal Difference": "4",
+                "Goal Difference": "3",
                 "Points": "24"
             },
             {
@@ -3224,12 +3224,12 @@
             {
                 "Position": "1",
                 "Team": "Flamengo",
-                "Played": "37",
+                "Played": "38",
                 "Wins": "23",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "5",
                 "Goal Difference": "51",
-                "Points": "78"
+                "Points": "79"
             },
             {
                 "Position": "2",
@@ -3254,12 +3254,12 @@
             {
                 "Position": "4",
                 "Team": "Mirassol",
-                "Played": "37",
+                "Played": "38",
                 "Wins": "18",
-                "Draws": "12",
+                "Draws": "13",
                 "Losses": "7",
                 "Goal Difference": "24",
-                "Points": "66"
+                "Points": "67"
             },
             {
                 "Position": "5",
