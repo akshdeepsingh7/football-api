@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 06 December 2025, 07:15 PM UTC (Sunday, 07 December 2025, 12:45 AM IST)
+**Last Updated:** Saturday, 06 December 2025, 07:37 PM UTC (Sunday, 07 December 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -51,10 +51,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 15 | 10 | 1 | 4 | 19 | 31 |
 | 3 | Aston Villa | 15 | 9 | 3 | 3 | 7 | 30 |
 | 4 | Chelsea | 15 | 7 | 4 | 4 | 10 | 25 |
-| 5 | Liverpool FC | 15 | 8 | 1 | 6 | 1 | 25 |
-| 6 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
-| 7 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
-| 8 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
+| 5 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
+| 6 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
+| 7 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
+| 8 | Liverpool FC | 15 | 7 | 2 | 6 | 0 | 23 |
 | 9 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
 | 10 | Brighton & Hove Albion | 14 | 6 | 4 | 4 | 4 | 22 |
 | 11 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
@@ -62,8 +62,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
 | 14 | Brentford | 15 | 6 | 1 | 8 | -3 | 19 |
 | 15 | Fulham | 14 | 5 | 2 | 7 | -3 | 17 |
-| 16 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
-| 17 | Leeds United | 15 | 4 | 2 | 9 | -11 | 14 |
+| 16 | Leeds United | 15 | 4 | 3 | 8 | -10 | 15 |
+| 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 18 | West Ham United | 14 | 3 | 3 | 8 | -12 | 12 |
 | 19 | Burnley | 15 | 3 | 1 | 11 | -14 | 10 |
 | 20 | Wolverhampton Wanderers | 14 | 0 | 2 | 12 | -22 | 2 |
@@ -72,11 +72,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 16 | 13 | 1 | 2 | 29 | 40 |
+| 1 | Barcelona | 16 | 13 | 1 | 2 | 27 | 40 |
 | 2 | Real Madrid | 15 | 11 | 3 | 1 | 19 | 36 |
 | 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
 | 4 | Atlético de Madrid | 15 | 9 | 4 | 2 | 14 | 31 |
-| 5 | Real Betis | 15 | 6 | 6 | 3 | 4 | 24 |
+| 5 | Real Betis | 15 | 6 | 6 | 3 | 6 | 24 |
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
 | 7 | Getafe | 15 | 6 | 2 | 7 | -4 | 20 |
 | 8 | Athletic Bilbao | 15 | 6 | 2 | 7 | -6 | 20 |
