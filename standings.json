@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 04:45 PM UTC",
-        "IST": "Saturday, 06 December 2025, 10:15 PM IST"
+        "UTC": "Saturday, 06 December 2025, 05:17 PM UTC",
+        "IST": "Saturday, 06 December 2025, 10:47 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -102,7 +102,7 @@
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "3",
+                "Goal Difference": "2",
                 "Points": "22"
             },
             {
@@ -192,7 +192,7 @@
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "11",
-                "Goal Difference": "-15",
+                "Goal Difference": "-14",
                 "Points": "10"
             },
             {
@@ -593,6 +593,16 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Inter",
+                "Played": "14",
+                "Wins": "10",
+                "Draws": "0",
+                "Losses": "4",
+                "Goal Difference": "16",
+                "Points": "30"
+            },
+            {
+                "Position": "2",
                 "Team": "Milan",
                 "Played": "13",
                 "Wins": "8",
@@ -602,7 +612,7 @@
                 "Points": "28"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Napoli",
                 "Played": "13",
                 "Wins": "9",
@@ -610,16 +620,6 @@
                 "Losses": "3",
                 "Goal Difference": "9",
                 "Points": "28"
-            },
-            {
-                "Position": "3",
-                "Team": "Inter",
-                "Played": "13",
-                "Wins": "9",
-                "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "15",
-                "Points": "27"
             },
             {
                 "Position": "4",
@@ -633,21 +633,21 @@
             },
             {
                 "Position": "5",
-                "Team": "Como",
-                "Played": "13",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "1",
-                "Goal Difference": "12",
-                "Points": "24"
-            },
-            {
-                "Position": "6",
                 "Team": "Bologna",
                 "Played": "13",
                 "Wins": "7",
                 "Draws": "3",
                 "Losses": "3",
+                "Goal Difference": "11",
+                "Points": "24"
+            },
+            {
+                "Position": "6",
+                "Team": "Como",
+                "Played": "14",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "2",
                 "Goal Difference": "11",
                 "Points": "24"
             },
@@ -2250,7 +2250,7 @@
                 "Wins": "13",
                 "Draws": "4",
                 "Losses": "2",
-                "Goal Difference": "30",
+                "Goal Difference": "29",
                 "Points": "43"
             },
             {
@@ -2280,7 +2280,7 @@
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "13",
+                "Goal Difference": "14",
                 "Points": "31"
             },
             {
@@ -2340,7 +2340,7 @@
                 "Wins": "8",
                 "Draws": "4",
                 "Losses": "7",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "28"
             },
             {
@@ -2400,7 +2400,7 @@
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "8",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "25"
             },
             {

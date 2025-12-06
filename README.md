@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 06 December 2025, 04:45 PM UTC (Saturday, 06 December 2025, 10:15 PM IST)
+**Last Updated:** Saturday, 06 December 2025, 05:17 PM UTC (Saturday, 06 December 2025, 10:47 PM IST)
 
 ### Premier League
 
@@ -56,7 +56,7 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
 | 8 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
 | 9 | Brighton & Hove Albion | 14 | 6 | 4 | 4 | 4 | 22 |
-| 10 | Newcastle United | 15 | 6 | 4 | 5 | 3 | 22 |
+| 10 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
 | 11 | Manchester United | 14 | 6 | 4 | 4 | 1 | 22 |
 | 12 | Liverpool FC | 14 | 7 | 1 | 6 | 0 | 22 |
 | 13 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
@@ -65,7 +65,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 17 | Leeds United | 14 | 4 | 2 | 8 | -10 | 14 |
 | 18 | West Ham United | 14 | 3 | 3 | 8 | -12 | 12 |
-| 19 | Burnley | 15 | 3 | 1 | 11 | -15 | 10 |
+| 19 | Burnley | 15 | 3 | 1 | 11 | -14 | 10 |
 | 20 | Wolverhampton Wanderers | 14 | 0 | 2 | 12 | -22 | 2 |
 
 ### La Liga
@@ -120,12 +120,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Milan | 13 | 8 | 4 | 1 | 10 | 28 |
-| 2 | Napoli | 13 | 9 | 1 | 3 | 9 | 28 |
-| 3 | Inter | 13 | 9 | 0 | 4 | 15 | 27 |
+| 1 | Inter | 14 | 10 | 0 | 4 | 16 | 30 |
+| 2 | Milan | 13 | 8 | 4 | 1 | 10 | 28 |
+| 3 | Napoli | 13 | 9 | 1 | 3 | 9 | 28 |
 | 4 | Roma | 13 | 9 | 0 | 4 | 8 | 27 |
-| 5 | Como | 13 | 6 | 6 | 1 | 12 | 24 |
-| 6 | Bologna | 13 | 7 | 3 | 3 | 11 | 24 |
+| 5 | Bologna | 13 | 7 | 3 | 3 | 11 | 24 |
+| 6 | Como | 14 | 6 | 6 | 2 | 11 | 24 |
 | 7 | Juventus | 13 | 6 | 5 | 2 | 5 | 23 |
 | 8 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
 | 9 | Lazio | 13 | 5 | 3 | 5 | 5 | 18 |
@@ -314,22 +314,22 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 19 | 13 | 4 | 2 | 30 | 43 |
+| 1 | Coventry City | 19 | 13 | 4 | 2 | 29 | 43 |
 | 2 | Middlesbrough | 19 | 10 | 6 | 3 | 8 | 36 |
 | 3 | Millwall | 19 | 10 | 4 | 5 | -2 | 34 |
-| 4 | Ipswich Town | 19 | 8 | 7 | 4 | 13 | 31 |
+| 4 | Ipswich Town | 19 | 8 | 7 | 4 | 14 | 31 |
 | 5 | Preston North End | 19 | 8 | 7 | 4 | 6 | 31 |
 | 6 | Stoke City | 19 | 9 | 3 | 7 | 8 | 30 |
 | 7 | Bristol City | 19 | 8 | 5 | 6 | 5 | 29 |
 | 8 | Birmingham City | 19 | 8 | 4 | 7 | 5 | 28 |
 | 9 | Hull City | 19 | 8 | 4 | 7 | -3 | 28 |
-| 10 | Queens Park Rangers | 19 | 8 | 4 | 7 | -5 | 28 |
+| 10 | Queens Park Rangers | 19 | 8 | 4 | 7 | -4 | 28 |
 | 11 | Southampton | 19 | 7 | 6 | 6 | 5 | 27 |
 | 12 | Wrexham | 19 | 6 | 9 | 4 | 3 | 27 |
 | 13 | Watford | 19 | 7 | 6 | 6 | 2 | 27 |
 | 14 | Leicester City | 19 | 7 | 6 | 6 | 1 | 27 |
 | 15 | Derby County | 19 | 7 | 5 | 7 | -2 | 26 |
-| 16 | West Bromwich Albion | 19 | 7 | 4 | 8 | -3 | 25 |
+| 16 | West Bromwich Albion | 19 | 7 | 4 | 8 | -4 | 25 |
 | 17 | Charlton Athletic | 18 | 6 | 5 | 7 | -5 | 23 |
 | 18 | Sheffield United | 19 | 7 | 1 | 11 | -4 | 22 |
 | 19 | Blackburn Rovers | 18 | 6 | 3 | 9 | -5 | 21 |
