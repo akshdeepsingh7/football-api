@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 04:24 PM UTC",
-        "IST": "Saturday, 06 December 2025, 09:54 PM IST"
+        "UTC": "Saturday, 06 December 2025, 04:45 PM UTC",
+        "IST": "Saturday, 06 December 2025, 10:15 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -22,7 +22,7 @@
                 "Wins": "10",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "18",
+                "Goal Difference": "19",
                 "Points": "31"
             },
             {
@@ -52,7 +52,7 @@
                 "Wins": "7",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "0",
+                "Goal Difference": "1",
                 "Points": "24"
             },
             {
@@ -72,7 +72,7 @@
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "4",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "23"
             },
             {
@@ -162,7 +162,7 @@
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "8",
-                "Goal Difference": "-10",
+                "Goal Difference": "-11",
                 "Points": "15"
             },
             {
@@ -2060,7 +2060,188 @@
                 "Points": "0"
             }
         ],
-        "Liga Portugal": [],
+        "Liga Portugal": [
+            {
+                "Position": "1",
+                "Team": "Porto",
+                "Played": "12",
+                "Wins": "11",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "22",
+                "Points": "34"
+            },
+            {
+                "Position": "2",
+                "Team": "Sporting CP",
+                "Played": "13",
+                "Wins": "10",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "25",
+                "Points": "32"
+            },
+            {
+                "Position": "3",
+                "Team": "Benfica",
+                "Played": "13",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "0",
+                "Goal Difference": "18",
+                "Points": "29"
+            },
+            {
+                "Position": "4",
+                "Team": "Gil Vicente",
+                "Played": "12",
+                "Wins": "7",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "10",
+                "Points": "23"
+            },
+            {
+                "Position": "5",
+                "Team": "Famalic\u00e3o",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "20"
+            },
+            {
+                "Position": "6",
+                "Team": "Braga",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "12",
+                "Points": "19"
+            },
+            {
+                "Position": "7",
+                "Team": "Moreirense",
+                "Played": "12",
+                "Wins": "6",
+                "Draws": "1",
+                "Losses": "5",
+                "Goal Difference": "1",
+                "Points": "19"
+            },
+            {
+                "Position": "8",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-3",
+                "Points": "17"
+            },
+            {
+                "Position": "9",
+                "Team": "Santa Clara",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-3",
+                "Points": "15"
+            },
+            {
+                "Position": "10",
+                "Team": "Alverca",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-5",
+                "Points": "14"
+            },
+            {
+                "Position": "11",
+                "Team": "Estoril",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "1",
+                "Points": "13"
+            },
+            {
+                "Position": "12",
+                "Team": "Rio Ave",
+                "Played": "12",
+                "Wins": "2",
+                "Draws": "7",
+                "Losses": "3",
+                "Goal Difference": "-5",
+                "Points": "13"
+            },
+            {
+                "Position": "13",
+                "Team": "Nacional",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-5",
+                "Points": "12"
+            },
+            {
+                "Position": "14",
+                "Team": "Estrela Amadora",
+                "Played": "12",
+                "Wins": "2",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "-5",
+                "Points": "11"
+            },
+            {
+                "Position": "15",
+                "Team": "Casa Pia",
+                "Played": "13",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-14",
+                "Points": "9"
+            },
+            {
+                "Position": "16",
+                "Team": "Tondela",
+                "Played": "12",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-13",
+                "Points": "9"
+            },
+            {
+                "Position": "17",
+                "Team": "Arouca",
+                "Played": "12",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-21",
+                "Points": "9"
+            },
+            {
+                "Position": "18",
+                "Team": "AVS",
+                "Played": "12",
+                "Wins": "0",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-21",
+                "Points": "3"
+            }
+        ],
         "EFL Championship": [
             {
                 "Position": "1",
@@ -2104,22 +2285,22 @@
             },
             {
                 "Position": "5",
+                "Team": "Preston North End",
+                "Played": "19",
+                "Wins": "8",
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "6",
+                "Points": "31"
+            },
+            {
+                "Position": "6",
                 "Team": "Stoke City",
                 "Played": "19",
                 "Wins": "9",
                 "Draws": "3",
                 "Losses": "7",
-                "Goal Difference": "9",
-                "Points": "30"
-            },
-            {
-                "Position": "6",
-                "Team": "Preston North End",
-                "Played": "19",
-                "Wins": "8",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "5",
+                "Goal Difference": "8",
                 "Points": "30"
             },
             {
@@ -2134,16 +2315,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Wrexham",
-                "Played": "19",
-                "Wins": "7",
-                "Draws": "8",
-                "Losses": "4",
-                "Goal Difference": "4",
-                "Points": "29"
-            },
-            {
-                "Position": "9",
                 "Team": "Birmingham City",
                 "Played": "19",
                 "Wins": "8",
@@ -2153,7 +2324,7 @@
                 "Points": "28"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Hull City",
                 "Played": "19",
                 "Wins": "8",
@@ -2163,23 +2334,33 @@
                 "Points": "28"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Queens Park Rangers",
                 "Played": "19",
                 "Wins": "8",
                 "Draws": "4",
                 "Losses": "7",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "28"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Southampton",
                 "Played": "19",
                 "Wins": "7",
                 "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "5",
+                "Points": "27"
+            },
+            {
+                "Position": "12",
+                "Team": "Wrexham",
+                "Played": "19",
+                "Wins": "6",
+                "Draws": "9",
+                "Losses": "4",
+                "Goal Difference": "3",
                 "Points": "27"
             },
             {
@@ -2219,7 +2400,7 @@
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "8",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "25"
             },
             {
@@ -2239,7 +2420,7 @@
                 "Wins": "7",
                 "Draws": "1",
                 "Losses": "11",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "22"
             },
             {
