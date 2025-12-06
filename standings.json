@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 09:38 PM UTC",
-        "IST": "Sunday, 07 December 2025, 03:08 AM IST"
+        "UTC": "Saturday, 06 December 2025, 10:19 PM UTC",
+        "IST": "Sunday, 07 December 2025, 03:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -242,10 +242,10 @@
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "16",
                 "Wins": "9",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "14",
-                "Points": "32"
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "13",
+                "Points": "31"
             },
             {
                 "Position": "5",
@@ -271,11 +271,11 @@
                 "Position": "7",
                 "Team": "Athletic Bilbao",
                 "Played": "16",
-                "Wins": "6",
-                "Draws": "3",
+                "Wins": "7",
+                "Draws": "2",
                 "Losses": "7",
-                "Goal Difference": "-6",
-                "Points": "21"
+                "Goal Difference": "-5",
+                "Points": "23"
             },
             {
                 "Position": "8",
@@ -810,7 +810,7 @@
                 "Wins": "10",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "18",
+                "Goal Difference": "20",
                 "Points": "33"
             },
             {
@@ -850,7 +850,7 @@
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "3",
-                "Goal Difference": "3",
+                "Goal Difference": "1",
                 "Points": "24"
             },
             {
@@ -2103,22 +2103,22 @@
             },
             {
                 "Position": "5",
-                "Team": "Famalic\u00e3o",
+                "Team": "Braga",
                 "Played": "13",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "2",
-                "Goal Difference": "6",
-                "Points": "21"
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "13",
+                "Points": "22"
             },
             {
                 "Position": "6",
-                "Team": "Braga",
+                "Team": "Famalic\u00e3o",
                 "Played": "13",
                 "Wins": "5",
                 "Draws": "5",
                 "Losses": "3",
-                "Goal Difference": "12",
+                "Goal Difference": "5",
                 "Points": "20"
             },
             {
