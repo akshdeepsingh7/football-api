@@ -41,15 +41,15 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 06 December 2025, 12:39 PM UTC (Saturday, 06 December 2025, 06:09 PM IST)
+**Last Updated:** Saturday, 06 December 2025, 01:27 PM UTC (Saturday, 06 December 2025, 06:57 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 15 | 10 | 4 | 1 | 20 | 34 |
-| 2 | Manchester City | 14 | 9 | 1 | 4 | 16 | 28 |
-| 3 | Aston Villa | 15 | 8 | 4 | 3 | 6 | 28 |
+| 1 | Arsenal | 15 | 10 | 3 | 2 | 19 | 33 |
+| 2 | Aston Villa | 15 | 9 | 3 | 3 | 7 | 30 |
+| 3 | Manchester City | 14 | 9 | 1 | 4 | 16 | 28 |
 | 4 | Chelsea | 14 | 7 | 3 | 4 | 10 | 24 |
 | 5 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
 | 6 | Sunderland | 14 | 6 | 5 | 3 | 4 | 23 |
@@ -74,11 +74,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 15 | 12 | 1 | 2 | 25 | 37 |
 | 2 | Real Madrid | 15 | 11 | 3 | 1 | 19 | 36 |
-| 3 | Villarreal | 14 | 10 | 2 | 2 | 16 | 32 |
+| 3 | Villarreal | 15 | 10 | 3 | 2 | 16 | 33 |
 | 4 | Atlético de Madrid | 15 | 9 | 4 | 2 | 14 | 31 |
 | 5 | Real Betis | 14 | 6 | 6 | 2 | 8 | 24 |
 | 6 | Espanyol | 14 | 7 | 3 | 4 | 2 | 24 |
-| 7 | Getafe | 14 | 6 | 2 | 6 | -2 | 20 |
+| 7 | Getafe | 15 | 6 | 3 | 6 | -2 | 21 |
 | 8 | Athletic Bilbao | 15 | 6 | 2 | 7 | -6 | 20 |
 | 9 | Rayo Vallecano | 14 | 4 | 5 | 5 | -2 | 17 |
 | 10 | Real Sociedad | 14 | 4 | 4 | 6 | -2 | 16 |
@@ -323,20 +323,20 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Ipswich Town | 18 | 7 | 7 | 4 | 11 | 28 |
 | 8 | Birmingham City | 18 | 8 | 4 | 6 | 7 | 28 |
 | 9 | Hull City | 19 | 8 | 4 | 7 | -3 | 28 |
-| 10 | Leicester City | 19 | 7 | 6 | 6 | 0 | 27 |
+| 10 | Leicester City | 19 | 7 | 6 | 6 | 2 | 27 |
 | 11 | Wrexham | 18 | 6 | 8 | 4 | 3 | 26 |
-| 12 | Derby County | 19 | 7 | 5 | 7 | -1 | 26 |
-| 13 | Watford | 19 | 6 | 7 | 6 | 1 | 25 |
-| 14 | West Bromwich Albion | 18 | 7 | 4 | 7 | -2 | 25 |
-| 15 | Queens Park Rangers | 18 | 7 | 4 | 7 | -6 | 25 |
-| 16 | Southampton | 18 | 6 | 6 | 6 | 3 | 24 |
-| 17 | Charlton Athletic | 19 | 6 | 6 | 7 | -5 | 24 |
+| 12 | Derby County | 19 | 7 | 5 | 7 | -3 | 26 |
+| 13 | West Bromwich Albion | 18 | 7 | 4 | 7 | -2 | 25 |
+| 14 | Queens Park Rangers | 18 | 7 | 4 | 7 | -6 | 25 |
+| 15 | Southampton | 18 | 6 | 6 | 6 | 3 | 24 |
+| 16 | Watford | 19 | 6 | 6 | 7 | 0 | 24 |
+| 17 | Charlton Athletic | 18 | 6 | 5 | 7 | -5 | 23 |
 | 18 | Blackburn Rovers | 18 | 6 | 3 | 9 | -5 | 21 |
 | 19 | Sheffield United | 18 | 6 | 1 | 11 | -8 | 19 |
 | 20 | Oxford United | 18 | 4 | 6 | 8 | -5 | 18 |
-| 21 | Portsmouth | 19 | 4 | 6 | 9 | -10 | 18 |
-| 22 | Swansea City | 18 | 4 | 5 | 9 | -9 | 17 |
-| 23 | Norwich City | 19 | 3 | 5 | 11 | -10 | 14 |
+| 21 | Swansea City | 18 | 4 | 5 | 9 | -9 | 17 |
+| 22 | Portsmouth | 18 | 4 | 5 | 9 | -10 | 17 |
+| 23 | Norwich City | 19 | 4 | 4 | 11 | -9 | 16 |
 | 24 | Sheffield Wednesday | 18 | 1 | 5 | 12 | -22 | -10 |
 
 ### Major League Soccer (MLS)
