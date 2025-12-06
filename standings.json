@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 06 December 2025, 01:43 PM UTC",
-        "IST": "Saturday, 06 December 2025, 07:13 PM IST"
+        "UTC": "Saturday, 06 December 2025, 02:17 PM UTC",
+        "IST": "Saturday, 06 December 2025, 07:47 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -231,11 +231,11 @@
                 "Position": "3",
                 "Team": "Villarreal",
                 "Played": "15",
-                "Wins": "10",
-                "Draws": "3",
+                "Wins": "11",
+                "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "16",
-                "Points": "33"
+                "Goal Difference": "17",
+                "Points": "35"
             },
             {
                 "Position": "4",
@@ -272,10 +272,10 @@
                 "Team": "Getafe",
                 "Played": "15",
                 "Wins": "6",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-2",
-                "Points": "21"
+                "Draws": "2",
+                "Losses": "7",
+                "Goal Difference": "-3",
+                "Points": "20"
             },
             {
                 "Position": "8",
@@ -684,12 +684,12 @@
             {
                 "Position": "10",
                 "Team": "Sassuolo",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "5",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "0",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "11",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Fiorentina",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "0",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "7",
                 "Goal Difference": "-11",
-                "Points": "6"
+                "Points": "7"
             },
             {
                 "Position": "20",
@@ -2335,7 +2335,7 @@
             },
             {
                 "Position": "10",
-                "Team": "Leicester City",
+                "Team": "Watford",
                 "Played": "19",
                 "Wins": "7",
                 "Draws": "6",
@@ -2345,6 +2345,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Leicester City",
+                "Played": "19",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "1",
+                "Points": "27"
+            },
+            {
+                "Position": "12",
                 "Team": "Wrexham",
                 "Played": "18",
                 "Wins": "6",
@@ -2354,17 +2364,17 @@
                 "Points": "26"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Derby County",
                 "Played": "19",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "26"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "West Bromwich Albion",
                 "Played": "18",
                 "Wins": "7",
@@ -2374,7 +2384,7 @@
                 "Points": "25"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Queens Park Rangers",
                 "Played": "18",
                 "Wins": "7",
@@ -2384,23 +2394,13 @@
                 "Points": "25"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Southampton",
                 "Played": "18",
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "3",
-                "Points": "24"
-            },
-            {
-                "Position": "16",
-                "Team": "Watford",
-                "Played": "19",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "0",
                 "Points": "24"
             },
             {
@@ -2467,11 +2467,11 @@
                 "Position": "23",
                 "Team": "Norwich City",
                 "Played": "19",
-                "Wins": "4",
+                "Wins": "3",
                 "Draws": "4",
-                "Losses": "11",
-                "Goal Difference": "-9",
-                "Points": "16"
+                "Losses": "12",
+                "Goal Difference": "-11",
+                "Points": "13"
             },
             {
                 "Position": "24",
