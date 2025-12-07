@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 07 December 2025, 07:16 PM UTC (Monday, 08 December 2025, 12:46 AM IST)
+**Last Updated:** Sunday, 07 December 2025, 07:37 PM UTC (Monday, 08 December 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -303,11 +303,11 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
 | 11 | Alverca | 13 | 4 | 3 | 6 | -5 | 15 |
 | 12 | Estoril | 13 | 3 | 5 | 5 | 1 | 14 |
-| 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -3 | 14 |
+| 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -4 | 14 |
 | 14 | Nacional | 13 | 3 | 4 | 6 | -5 | 13 |
 | 15 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
 | 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
-| 17 | Arouca | 13 | 2 | 3 | 8 | -23 | 9 |
+| 17 | Arouca | 13 | 2 | 3 | 8 | -22 | 9 |
 | 18 | AVS | 13 | 0 | 3 | 10 | -22 | 3 |
 
 ### EFL Championship
@@ -433,24 +433,24 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 38 | 23 | 10 | 5 | 51 | 79 |
 | 2 | Palmeiras | 38 | 22 | 8 | 8 | 31 | 74 |
-| 3 | Cruzeiro | 38 | 19 | 14 | 5 | 27 | 71 |
+| 3 | Cruzeiro | 38 | 19 | 13 | 6 | 25 | 70 |
 | 4 | Mirassol | 38 | 18 | 13 | 7 | 24 | 67 |
 | 5 | Fluminense | 38 | 18 | 8 | 12 | 9 | 62 |
 | 6 | Bahia | 38 | 17 | 10 | 11 | 6 | 61 |
-| 7 | Botafogo | 38 | 16 | 13 | 9 | 18 | 61 |
+| 7 | Botafogo | 38 | 16 | 12 | 10 | 17 | 60 |
 | 8 | São Paulo | 38 | 14 | 10 | 14 | -3 | 52 |
 | 9 | RB Bragantino | 38 | 14 | 7 | 17 | -10 | 49 |
-| 10 | Corinthians | 38 | 12 | 11 | 15 | -5 | 47 |
-| 11 | Grêmio | 38 | 12 | 11 | 15 | -7 | 47 |
-| 12 | Vasco da Gama | 38 | 13 | 7 | 18 | 0 | 46 |
-| 13 | Atlético Mineiro | 38 | 11 | 13 | 14 | -6 | 46 |
-| 14 | Santos | 38 | 11 | 12 | 15 | -8 | 45 |
-| 15 | Ceará | 38 | 11 | 11 | 16 | -4 | 44 |
-| 16 | Fortaleza | 38 | 11 | 11 | 16 | -13 | 44 |
+| 10 | Corinthians | 38 | 13 | 10 | 15 | -4 | 49 |
+| 11 | Grêmio | 38 | 13 | 10 | 15 | -5 | 49 |
+| 12 | Atlético Mineiro | 38 | 12 | 12 | 14 | -4 | 48 |
+| 13 | Santos | 38 | 12 | 11 | 15 | -6 | 47 |
+| 14 | Fortaleza | 38 | 12 | 10 | 16 | -12 | 46 |
+| 15 | Vasco da Gama | 38 | 13 | 6 | 19 | -2 | 45 |
+| 16 | Ceará | 38 | 11 | 11 | 16 | -4 | 44 |
 | 17 | Vitória | 38 | 10 | 13 | 15 | -18 | 43 |
 | 18 | Internacional | 38 | 10 | 12 | 16 | -15 | 42 |
-| 19 | Juventude | 38 | 9 | 8 | 21 | -34 | 35 |
-| 20 | Sport | 38 | 2 | 12 | 24 | -43 | 18 |
+| 19 | Juventude | 38 | 9 | 7 | 22 | -35 | 34 |
+| 20 | Sport | 38 | 2 | 11 | 25 | -45 | 17 |
 
 
 <!-- END_TABLE -->
