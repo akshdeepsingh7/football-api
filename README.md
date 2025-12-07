@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 07 December 2025, 09:37 PM UTC (Monday, 08 December 2025, 03:07 AM IST)
+**Last Updated:** Sunday, 07 December 2025, 10:18 PM UTC (Monday, 08 December 2025, 03:48 AM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 16 | 13 | 1 | 2 | 27 | 40 |
-| 2 | Real Madrid | 16 | 11 | 3 | 2 | 18 | 36 |
+| 2 | Real Madrid | 16 | 11 | 3 | 2 | 17 | 36 |
 | 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
 | 4 | Atlético de Madrid | 16 | 9 | 4 | 3 | 13 | 31 |
 | 5 | Espanyol | 15 | 8 | 3 | 4 | 3 | 27 |
@@ -81,7 +81,7 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Athletic Bilbao | 16 | 7 | 2 | 7 | -5 | 23 |
 | 8 | Getafe | 15 | 6 | 2 | 7 | -4 | 20 |
 | 9 | Elche | 15 | 4 | 7 | 4 | 1 | 19 |
-| 10 | Celta de Vigo | 15 | 4 | 7 | 4 | -2 | 19 |
+| 10 | Celta de Vigo | 15 | 4 | 7 | 4 | -1 | 19 |
 | 11 | Alavés | 15 | 5 | 3 | 7 | -2 | 18 |
 | 12 | Rayo Vallecano | 15 | 4 | 5 | 6 | -3 | 17 |
 | 13 | Sevilla | 15 | 5 | 2 | 8 | -4 | 17 |
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 13 | 11 | 2 | 0 | 22 | 35 |
+| 1 | Porto | 13 | 12 | 1 | 0 | 24 | 37 |
 | 2 | Sporting CP | 13 | 10 | 2 | 1 | 25 | 32 |
 | 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
 | 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
@@ -305,8 +305,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Estoril | 13 | 3 | 5 | 5 | 1 | 14 |
 | 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -3 | 14 |
 | 14 | Nacional | 13 | 3 | 3 | 7 | -6 | 12 |
-| 15 | Tondela | 13 | 2 | 4 | 7 | -13 | 10 |
-| 16 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
+| 15 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
+| 16 | Tondela | 13 | 2 | 3 | 8 | -15 | 9 |
 | 17 | Arouca | 13 | 2 | 3 | 8 | -23 | 9 |
 | 18 | AVS | 13 | 0 | 3 | 10 | -22 | 3 |
 

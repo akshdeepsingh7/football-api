@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 07 December 2025, 09:37 PM UTC",
-        "IST": "Monday, 08 December 2025, 03:07 AM IST"
+        "UTC": "Sunday, 07 December 2025, 10:18 PM UTC",
+        "IST": "Monday, 08 December 2025, 03:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -224,7 +224,7 @@
                 "Wins": "11",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "18",
+                "Goal Difference": "17",
                 "Points": "36"
             },
             {
@@ -304,7 +304,7 @@
                 "Wins": "4",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "19"
             },
             {
@@ -2065,11 +2065,11 @@
                 "Position": "1",
                 "Team": "Porto",
                 "Played": "13",
-                "Wins": "11",
-                "Draws": "2",
+                "Wins": "12",
+                "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "22",
-                "Points": "35"
+                "Goal Difference": "24",
+                "Points": "37"
             },
             {
                 "Position": "2",
@@ -2203,22 +2203,22 @@
             },
             {
                 "Position": "15",
-                "Team": "Tondela",
-                "Played": "13",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-13",
-                "Points": "10"
-            },
-            {
-                "Position": "16",
                 "Team": "Casa Pia",
                 "Played": "13",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "8",
                 "Goal Difference": "-14",
+                "Points": "9"
+            },
+            {
+                "Position": "16",
+                "Team": "Tondela",
+                "Played": "13",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-15",
                 "Points": "9"
             },
             {
