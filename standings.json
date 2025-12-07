@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 07 December 2025, 05:16 PM UTC",
-        "IST": "Sunday, 07 December 2025, 10:46 PM IST"
+        "UTC": "Sunday, 07 December 2025, 05:39 PM UTC",
+        "IST": "Sunday, 07 December 2025, 11:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -249,22 +249,22 @@
             },
             {
                 "Position": "5",
+                "Team": "Espanyol",
+                "Played": "15",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "2",
+                "Points": "25"
+            },
+            {
+                "Position": "6",
                 "Team": "Real Betis",
                 "Played": "15",
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "3",
                 "Goal Difference": "6",
-                "Points": "24"
-            },
-            {
-                "Position": "6",
-                "Team": "Espanyol",
-                "Played": "14",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "2",
                 "Points": "24"
             },
             {
@@ -310,12 +310,12 @@
             {
                 "Position": "11",
                 "Team": "Rayo Vallecano",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "5",
                 "Goal Difference": "-2",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "12",
@@ -2126,10 +2126,10 @@
                 "Team": "Moreirense",
                 "Played": "13",
                 "Wins": "6",
-                "Draws": "1",
-                "Losses": "6",
-                "Goal Difference": "0",
-                "Points": "19"
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "1",
+                "Points": "20"
             },
             {
                 "Position": "8",
@@ -2143,16 +2143,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Estoril",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "2",
-                "Points": "16"
-            },
-            {
-                "Position": "10",
                 "Team": "Rio Ave",
                 "Played": "13",
                 "Wins": "3",
@@ -2162,7 +2152,7 @@
                 "Points": "16"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Santa Clara",
                 "Played": "13",
                 "Wins": "4",
@@ -2170,6 +2160,16 @@
                 "Losses": "6",
                 "Goal Difference": "-3",
                 "Points": "15"
+            },
+            {
+                "Position": "11",
+                "Team": "Estoril",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "1",
+                "Points": "14"
             },
             {
                 "Position": "12",
