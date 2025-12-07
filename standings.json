@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 07 December 2025, 06:27 PM UTC",
-        "IST": "Sunday, 07 December 2025, 11:57 PM IST"
+        "UTC": "Sunday, 07 December 2025, 06:48 PM UTC",
+        "IST": "Monday, 08 December 2025, 12:18 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2183,6 +2183,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Estrela Amadora",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "-3",
+                "Points": "14"
+            },
+            {
+                "Position": "14",
                 "Team": "Nacional",
                 "Played": "13",
                 "Wins": "3",
@@ -2192,24 +2202,14 @@
                 "Points": "13"
             },
             {
-                "Position": "14",
-                "Team": "Estrela Amadora",
-                "Played": "13",
-                "Wins": "2",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "-5",
-                "Points": "12"
-            },
-            {
                 "Position": "15",
-                "Team": "Arouca",
+                "Team": "Casa Pia",
                 "Played": "13",
                 "Wins": "2",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-21",
-                "Points": "10"
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-14",
+                "Points": "9"
             },
             {
                 "Position": "16",
@@ -2223,12 +2223,12 @@
             },
             {
                 "Position": "17",
-                "Team": "Casa Pia",
+                "Team": "Arouca",
                 "Played": "13",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "8",
-                "Goal Difference": "-14",
+                "Goal Difference": "-23",
                 "Points": "9"
             },
             {

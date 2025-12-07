@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 07 December 2025, 06:27 PM UTC (Sunday, 07 December 2025, 11:57 PM IST)
+**Last Updated:** Sunday, 07 December 2025, 06:48 PM UTC (Monday, 08 December 2025, 12:18 AM IST)
 
 ### Premier League
 
@@ -303,11 +303,11 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
 | 11 | Alverca | 13 | 4 | 3 | 6 | -5 | 15 |
 | 12 | Estoril | 13 | 3 | 5 | 5 | 1 | 14 |
-| 13 | Nacional | 13 | 3 | 4 | 6 | -5 | 13 |
-| 14 | Estrela Amadora | 13 | 2 | 6 | 5 | -5 | 12 |
-| 15 | Arouca | 13 | 2 | 4 | 7 | -21 | 10 |
+| 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -3 | 14 |
+| 14 | Nacional | 13 | 3 | 4 | 6 | -5 | 13 |
+| 15 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
 | 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
-| 17 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
+| 17 | Arouca | 13 | 2 | 3 | 8 | -23 | 9 |
 | 18 | AVS | 13 | 0 | 3 | 10 | -22 | 3 |
 
 ### EFL Championship
