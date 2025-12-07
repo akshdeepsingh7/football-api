@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 07 December 2025, 07:37 PM UTC",
-        "IST": "Monday, 08 December 2025, 01:07 AM IST"
+        "UTC": "Sunday, 07 December 2025, 08:21 PM UTC",
+        "IST": "Monday, 08 December 2025, 01:51 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,12 +220,12 @@
             {
                 "Position": "2",
                 "Team": "Real Madrid",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "11",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "19",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "3",
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Celta de Vigo",
+                "Played": "15",
+                "Wins": "3",
+                "Draws": "8",
+                "Losses": "4",
+                "Goal Difference": "-3",
+                "Points": "17"
+            },
+            {
+                "Position": "12",
                 "Team": "Rayo Vallecano",
                 "Played": "15",
                 "Wins": "4",
@@ -318,7 +328,7 @@
                 "Points": "17"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Sevilla",
                 "Played": "15",
                 "Wins": "5",
@@ -328,22 +338,12 @@
                 "Points": "17"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Real Sociedad",
                 "Played": "15",
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "7",
-                "Goal Difference": "-3",
-                "Points": "16"
-            },
-            {
-                "Position": "14",
-                "Team": "Celta de Vigo",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "7",
-                "Losses": "4",
                 "Goal Difference": "-3",
                 "Points": "16"
             },
@@ -593,6 +593,16 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Napoli",
+                "Played": "14",
+                "Wins": "10",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "10",
+                "Points": "31"
+            },
+            {
+                "Position": "2",
                 "Team": "Inter",
                 "Played": "14",
                 "Wins": "10",
@@ -602,23 +612,13 @@
                 "Points": "30"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Milan",
                 "Played": "13",
                 "Wins": "8",
                 "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "10",
-                "Points": "28"
-            },
-            {
-                "Position": "3",
-                "Team": "Napoli",
-                "Played": "13",
-                "Wins": "9",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "9",
                 "Points": "28"
             },
             {
@@ -654,11 +654,11 @@
             {
                 "Position": "7",
                 "Team": "Juventus",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "6",
                 "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "5",
+                "Losses": "3",
+                "Goal Difference": "4",
                 "Points": "23"
             },
             {
@@ -836,12 +836,12 @@
             {
                 "Position": "5",
                 "Team": "Lyon",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "7",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "6",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "6",
@@ -936,12 +936,12 @@
             {
                 "Position": "15",
                 "Team": "Lorient",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "3",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "-10",
-                "Points": "14"
+                "Points": "15"
             },
             {
                 "Position": "16",
@@ -2133,6 +2133,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Alverca",
+                "Played": "13",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-4",
+                "Points": "17"
+            },
+            {
+                "Position": "9",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "12",
                 "Wins": "5",
@@ -2142,7 +2152,7 @@
                 "Points": "17"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Rio Ave",
                 "Played": "13",
                 "Wins": "3",
@@ -2152,23 +2162,13 @@
                 "Points": "16"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Santa Clara",
                 "Played": "13",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "-3",
-                "Points": "15"
-            },
-            {
-                "Position": "11",
-                "Team": "Alverca",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-5",
                 "Points": "15"
             },
             {
@@ -2188,7 +2188,7 @@
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "5",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "14"
             },
             {
@@ -2196,10 +2196,10 @@
                 "Team": "Nacional",
                 "Played": "13",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "13"
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-6",
+                "Points": "12"
             },
             {
                 "Position": "15",
@@ -2228,7 +2228,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "8",
-                "Goal Difference": "-22",
+                "Goal Difference": "-23",
                 "Points": "9"
             },
             {
@@ -3263,6 +3263,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Botafogo",
+                "Played": "38",
+                "Wins": "17",
+                "Draws": "12",
+                "Losses": "9",
+                "Goal Difference": "19",
+                "Points": "63"
+            },
+            {
+                "Position": "6",
                 "Team": "Fluminense",
                 "Played": "38",
                 "Wins": "18",
@@ -3272,7 +3282,7 @@
                 "Points": "62"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Bahia",
                 "Played": "38",
                 "Wins": "17",
@@ -3280,16 +3290,6 @@
                 "Losses": "11",
                 "Goal Difference": "6",
                 "Points": "61"
-            },
-            {
-                "Position": "7",
-                "Team": "Botafogo",
-                "Played": "38",
-                "Wins": "16",
-                "Draws": "12",
-                "Losses": "10",
-                "Goal Difference": "17",
-                "Points": "60"
             },
             {
                 "Position": "8",
@@ -3303,12 +3303,12 @@
             },
             {
                 "Position": "9",
-                "Team": "RB Bragantino",
+                "Team": "Gr\u00eamio",
                 "Played": "38",
-                "Wins": "14",
-                "Draws": "7",
-                "Losses": "17",
-                "Goal Difference": "-10",
+                "Wins": "13",
+                "Draws": "10",
+                "Losses": "15",
+                "Goal Difference": "-3",
                 "Points": "49"
             },
             {
@@ -3323,13 +3323,13 @@
             },
             {
                 "Position": "11",
-                "Team": "Gr\u00eamio",
+                "Team": "RB Bragantino",
                 "Played": "38",
-                "Wins": "13",
-                "Draws": "10",
-                "Losses": "15",
-                "Goal Difference": "-5",
-                "Points": "49"
+                "Wins": "14",
+                "Draws": "6",
+                "Losses": "18",
+                "Goal Difference": "-11",
+                "Points": "48"
             },
             {
                 "Position": "12",
@@ -3338,7 +3338,7 @@
                 "Wins": "12",
                 "Draws": "12",
                 "Losses": "14",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "48"
             },
             {
@@ -3353,26 +3353,16 @@
             },
             {
                 "Position": "14",
-                "Team": "Fortaleza",
-                "Played": "38",
-                "Wins": "12",
-                "Draws": "10",
-                "Losses": "16",
-                "Goal Difference": "-12",
-                "Points": "46"
-            },
-            {
-                "Position": "15",
                 "Team": "Vasco da Gama",
                 "Played": "38",
                 "Wins": "13",
                 "Draws": "6",
                 "Losses": "19",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "45"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Cear\u00e1",
                 "Played": "38",
                 "Wins": "11",
@@ -3382,7 +3372,27 @@
                 "Points": "44"
             },
             {
+                "Position": "16",
+                "Team": "Internacional",
+                "Played": "38",
+                "Wins": "11",
+                "Draws": "11",
+                "Losses": "16",
+                "Goal Difference": "-14",
+                "Points": "44"
+            },
+            {
                 "Position": "17",
+                "Team": "Fortaleza",
+                "Played": "38",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "17",
+                "Goal Difference": "-14",
+                "Points": "43"
+            },
+            {
+                "Position": "18",
                 "Team": "Vit\u00f3ria",
                 "Played": "38",
                 "Wins": "10",
@@ -3390,16 +3400,6 @@
                 "Losses": "15",
                 "Goal Difference": "-18",
                 "Points": "43"
-            },
-            {
-                "Position": "18",
-                "Team": "Internacional",
-                "Played": "38",
-                "Wins": "10",
-                "Draws": "12",
-                "Losses": "16",
-                "Goal Difference": "-15",
-                "Points": "42"
             },
             {
                 "Position": "19",
@@ -3418,7 +3418,7 @@
                 "Wins": "2",
                 "Draws": "11",
                 "Losses": "25",
-                "Goal Difference": "-45",
+                "Goal Difference": "-47",
                 "Points": "17"
             }
         ]

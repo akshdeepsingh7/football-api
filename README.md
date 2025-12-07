@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 07 December 2025, 07:37 PM UTC (Monday, 08 December 2025, 01:07 AM IST)
+**Last Updated:** Sunday, 07 December 2025, 08:21 PM UTC (Monday, 08 December 2025, 01:51 AM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 16 | 13 | 1 | 2 | 27 | 40 |
-| 2 | Real Madrid | 15 | 11 | 3 | 1 | 19 | 36 |
+| 2 | Real Madrid | 16 | 11 | 4 | 1 | 19 | 37 |
 | 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
 | 4 | Atlético de Madrid | 16 | 9 | 4 | 3 | 13 | 31 |
 | 5 | Espanyol | 15 | 8 | 3 | 4 | 3 | 27 |
@@ -82,10 +82,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Getafe | 15 | 6 | 2 | 7 | -4 | 20 |
 | 9 | Elche | 15 | 4 | 7 | 4 | 1 | 19 |
 | 10 | Alavés | 15 | 5 | 3 | 7 | -2 | 18 |
-| 11 | Rayo Vallecano | 15 | 4 | 5 | 6 | -3 | 17 |
-| 12 | Sevilla | 15 | 5 | 2 | 8 | -4 | 17 |
-| 13 | Real Sociedad | 15 | 4 | 4 | 7 | -3 | 16 |
-| 14 | Celta de Vigo | 14 | 3 | 7 | 4 | -3 | 16 |
+| 11 | Celta de Vigo | 15 | 3 | 8 | 4 | -3 | 17 |
+| 12 | Rayo Vallecano | 15 | 4 | 5 | 6 | -3 | 17 |
+| 13 | Sevilla | 15 | 5 | 2 | 8 | -4 | 17 |
+| 14 | Real Sociedad | 15 | 4 | 4 | 7 | -3 | 16 |
 | 15 | Valencia | 15 | 3 | 6 | 6 | -9 | 15 |
 | 16 | Mallorca | 15 | 3 | 5 | 7 | -7 | 14 |
 | 17 | Osasuna | 14 | 3 | 3 | 8 | -6 | 12 |
@@ -120,13 +120,13 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 14 | 10 | 0 | 4 | 19 | 30 |
-| 2 | Milan | 13 | 8 | 4 | 1 | 10 | 28 |
-| 3 | Napoli | 13 | 9 | 1 | 3 | 9 | 28 |
+| 1 | Napoli | 14 | 10 | 1 | 3 | 10 | 31 |
+| 2 | Inter | 14 | 10 | 0 | 4 | 19 | 30 |
+| 3 | Milan | 13 | 8 | 4 | 1 | 10 | 28 |
 | 4 | Roma | 14 | 9 | 0 | 5 | 7 | 27 |
 | 5 | Bologna | 14 | 7 | 4 | 3 | 11 | 25 |
 | 6 | Como | 14 | 6 | 6 | 2 | 8 | 24 |
-| 7 | Juventus | 13 | 6 | 5 | 2 | 5 | 23 |
+| 7 | Juventus | 14 | 6 | 5 | 3 | 4 | 23 |
 | 8 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
 | 9 | Cremonese | 14 | 5 | 5 | 4 | 1 | 20 |
 | 10 | Lazio | 14 | 5 | 4 | 5 | 5 | 19 |
@@ -149,7 +149,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | PSG | 15 | 10 | 3 | 2 | 20 | 33 |
 | 3 | Marseille | 15 | 9 | 2 | 4 | 20 | 29 |
 | 4 | Lille | 15 | 9 | 2 | 4 | 12 | 29 |
-| 5 | Lyon | 14 | 7 | 3 | 4 | 6 | 24 |
+| 5 | Lyon | 15 | 7 | 4 | 4 | 6 | 25 |
 | 6 | Rennes | 15 | 6 | 6 | 3 | 1 | 24 |
 | 7 | Monaco | 15 | 7 | 2 | 6 | 0 | 23 |
 | 8 | Strasbourg | 15 | 7 | 1 | 7 | 5 | 22 |
@@ -159,7 +159,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Nice | 15 | 5 | 2 | 8 | -8 | 17 |
 | 13 | Paris FC | 15 | 4 | 4 | 7 | -5 | 16 |
 | 14 | Le Havre | 15 | 3 | 6 | 6 | -8 | 15 |
-| 15 | Lorient | 14 | 3 | 5 | 6 | -10 | 14 |
+| 15 | Lorient | 15 | 3 | 6 | 6 | -10 | 15 |
 | 16 | Auxerre | 15 | 3 | 3 | 9 | -10 | 12 |
 | 17 | Nantes | 15 | 2 | 5 | 8 | -11 | 11 |
 | 18 | Metz | 15 | 3 | 2 | 10 | -19 | 11 |
@@ -298,16 +298,16 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
 | 6 | Famalicão | 13 | 5 | 5 | 3 | 5 | 20 |
 | 7 | Moreirense | 13 | 6 | 2 | 5 | 1 | 20 |
-| 8 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
-| 9 | Rio Ave | 13 | 3 | 7 | 3 | -4 | 16 |
-| 10 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
-| 11 | Alverca | 13 | 4 | 3 | 6 | -5 | 15 |
+| 8 | Alverca | 13 | 5 | 2 | 6 | -4 | 17 |
+| 9 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
+| 10 | Rio Ave | 13 | 3 | 7 | 3 | -4 | 16 |
+| 11 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
 | 12 | Estoril | 13 | 3 | 5 | 5 | 1 | 14 |
-| 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -4 | 14 |
-| 14 | Nacional | 13 | 3 | 4 | 6 | -5 | 13 |
+| 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -3 | 14 |
+| 14 | Nacional | 13 | 3 | 3 | 7 | -6 | 12 |
 | 15 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
 | 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
-| 17 | Arouca | 13 | 2 | 3 | 8 | -22 | 9 |
+| 17 | Arouca | 13 | 2 | 3 | 8 | -23 | 9 |
 | 18 | AVS | 13 | 0 | 3 | 10 | -22 | 3 |
 
 ### EFL Championship
@@ -435,22 +435,22 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Palmeiras | 38 | 22 | 8 | 8 | 31 | 74 |
 | 3 | Cruzeiro | 38 | 19 | 13 | 6 | 25 | 70 |
 | 4 | Mirassol | 38 | 18 | 13 | 7 | 24 | 67 |
-| 5 | Fluminense | 38 | 18 | 8 | 12 | 9 | 62 |
-| 6 | Bahia | 38 | 17 | 10 | 11 | 6 | 61 |
-| 7 | Botafogo | 38 | 16 | 12 | 10 | 17 | 60 |
+| 5 | Botafogo | 38 | 17 | 12 | 9 | 19 | 63 |
+| 6 | Fluminense | 38 | 18 | 8 | 12 | 9 | 62 |
+| 7 | Bahia | 38 | 17 | 10 | 11 | 6 | 61 |
 | 8 | São Paulo | 38 | 14 | 10 | 14 | -3 | 52 |
-| 9 | RB Bragantino | 38 | 14 | 7 | 17 | -10 | 49 |
+| 9 | Grêmio | 38 | 13 | 10 | 15 | -3 | 49 |
 | 10 | Corinthians | 38 | 13 | 10 | 15 | -4 | 49 |
-| 11 | Grêmio | 38 | 13 | 10 | 15 | -5 | 49 |
-| 12 | Atlético Mineiro | 38 | 12 | 12 | 14 | -4 | 48 |
+| 11 | RB Bragantino | 38 | 14 | 6 | 18 | -11 | 48 |
+| 12 | Atlético Mineiro | 38 | 12 | 12 | 14 | -3 | 48 |
 | 13 | Santos | 38 | 12 | 11 | 15 | -6 | 47 |
-| 14 | Fortaleza | 38 | 12 | 10 | 16 | -12 | 46 |
-| 15 | Vasco da Gama | 38 | 13 | 6 | 19 | -2 | 45 |
-| 16 | Ceará | 38 | 11 | 11 | 16 | -4 | 44 |
-| 17 | Vitória | 38 | 10 | 13 | 15 | -18 | 43 |
-| 18 | Internacional | 38 | 10 | 12 | 16 | -15 | 42 |
+| 14 | Vasco da Gama | 38 | 13 | 6 | 19 | -3 | 45 |
+| 15 | Ceará | 38 | 11 | 11 | 16 | -4 | 44 |
+| 16 | Internacional | 38 | 11 | 11 | 16 | -14 | 44 |
+| 17 | Fortaleza | 38 | 11 | 10 | 17 | -14 | 43 |
+| 18 | Vitória | 38 | 10 | 13 | 15 | -18 | 43 |
 | 19 | Juventude | 38 | 9 | 7 | 22 | -35 | 34 |
-| 20 | Sport | 38 | 2 | 11 | 25 | -45 | 17 |
+| 20 | Sport | 38 | 2 | 11 | 25 | -47 | 17 |
 
 
 <!-- END_TABLE -->
