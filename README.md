@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 07 December 2025, 09:17 PM UTC (Monday, 08 December 2025, 02:47 AM IST)
+**Last Updated:** Sunday, 07 December 2025, 09:37 PM UTC (Monday, 08 December 2025, 03:07 AM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 16 | 13 | 1 | 2 | 27 | 40 |
-| 2 | Real Madrid | 16 | 11 | 4 | 1 | 19 | 37 |
+| 2 | Real Madrid | 16 | 11 | 3 | 2 | 18 | 36 |
 | 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
 | 4 | Atlético de Madrid | 16 | 9 | 4 | 3 | 13 | 31 |
 | 5 | Espanyol | 15 | 8 | 3 | 4 | 3 | 27 |
@@ -81,8 +81,8 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Athletic Bilbao | 16 | 7 | 2 | 7 | -5 | 23 |
 | 8 | Getafe | 15 | 6 | 2 | 7 | -4 | 20 |
 | 9 | Elche | 15 | 4 | 7 | 4 | 1 | 19 |
-| 10 | Alavés | 15 | 5 | 3 | 7 | -2 | 18 |
-| 11 | Celta de Vigo | 15 | 3 | 8 | 4 | -3 | 17 |
+| 10 | Celta de Vigo | 15 | 4 | 7 | 4 | -2 | 19 |
+| 11 | Alavés | 15 | 5 | 3 | 7 | -2 | 18 |
 | 12 | Rayo Vallecano | 15 | 4 | 5 | 6 | -3 | 17 |
 | 13 | Sevilla | 15 | 5 | 2 | 8 | -4 | 17 |
 | 14 | Real Sociedad | 15 | 4 | 4 | 7 | -3 | 16 |
@@ -120,13 +120,13 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 14 | 10 | 0 | 4 | 19 | 30 |
-| 2 | Napoli | 14 | 9 | 2 | 3 | 9 | 29 |
+| 1 | Napoli | 14 | 10 | 1 | 3 | 10 | 31 |
+| 2 | Inter | 14 | 10 | 0 | 4 | 19 | 30 |
 | 3 | Milan | 13 | 8 | 4 | 1 | 10 | 28 |
 | 4 | Roma | 14 | 9 | 0 | 5 | 7 | 27 |
 | 5 | Bologna | 14 | 7 | 4 | 3 | 11 | 25 |
 | 6 | Como | 14 | 6 | 6 | 2 | 8 | 24 |
-| 7 | Juventus | 14 | 6 | 6 | 2 | 5 | 24 |
+| 7 | Juventus | 14 | 6 | 5 | 3 | 4 | 23 |
 | 8 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
 | 9 | Cremonese | 14 | 5 | 5 | 4 | 1 | 20 |
 | 10 | Lazio | 14 | 5 | 4 | 5 | 5 | 19 |
