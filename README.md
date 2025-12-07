@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 07 December 2025, 02:18 PM UTC (Sunday, 07 December 2025, 07:48 PM IST)
+**Last Updated:** Sunday, 07 December 2025, 02:40 PM UTC (Sunday, 07 December 2025, 08:10 PM IST)
 
 ### Premier League
 
@@ -104,14 +104,14 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Hoffenheim | 12 | 7 | 2 | 3 | 8 | 23 |
 | 6 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
 | 7 | Eintracht Frankfurt | 13 | 6 | 3 | 4 | -1 | 21 |
-| 8 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
-| 9 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
-| 10 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
-| 11 | Werder Bremen | 12 | 4 | 4 | 4 | -5 | 16 |
+| 8 | Werder Bremen | 13 | 4 | 5 | 4 | -5 | 17 |
+| 9 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
+| 10 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
+| 11 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
 | 12 | Union Berlin | 13 | 4 | 3 | 6 | -6 | 15 |
-| 13 | Augsburg | 13 | 4 | 1 | 8 | -10 | 13 |
-| 14 | VfL Wolfsburg | 13 | 3 | 3 | 7 | -6 | 12 |
-| 15 | Hamburg | 12 | 3 | 3 | 6 | -7 | 12 |
+| 13 | Hamburg | 13 | 3 | 4 | 6 | -7 | 13 |
+| 14 | Augsburg | 13 | 4 | 1 | 8 | -10 | 13 |
+| 15 | VfL Wolfsburg | 13 | 3 | 3 | 7 | -6 | 12 |
 | 16 | Heidenheim | 13 | 3 | 2 | 8 | -16 | 11 |
 | 17 | St. Pauli | 13 | 2 | 2 | 9 | -14 | 8 |
 | 18 | Mainz 05 | 13 | 1 | 3 | 9 | -13 | 6 |
@@ -155,8 +155,8 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Strasbourg | 15 | 7 | 1 | 7 | 5 | 22 |
 | 9 | Toulouse | 15 | 5 | 5 | 5 | 2 | 20 |
 | 10 | Brest | 15 | 5 | 4 | 6 | -4 | 19 |
-| 11 | Nice | 15 | 5 | 3 | 7 | -7 | 18 |
-| 12 | Angers | 15 | 4 | 5 | 6 | -5 | 17 |
+| 11 | Angers | 15 | 5 | 4 | 6 | -4 | 19 |
+| 12 | Nice | 15 | 5 | 2 | 8 | -8 | 17 |
 | 13 | Paris FC | 14 | 4 | 3 | 7 | -5 | 15 |
 | 14 | Le Havre | 14 | 3 | 5 | 6 | -8 | 14 |
 | 15 | Lorient | 14 | 3 | 5 | 6 | -10 | 14 |
