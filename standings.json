@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 07 December 2025, 08:41 PM UTC",
-        "IST": "Monday, 08 December 2025, 02:11 AM IST"
+        "UTC": "Sunday, 07 December 2025, 09:17 PM UTC",
+        "IST": "Monday, 08 December 2025, 02:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -593,16 +593,6 @@
         "Serie A": [
             {
                 "Position": "1",
-                "Team": "Napoli",
-                "Played": "14",
-                "Wins": "10",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "10",
-                "Points": "31"
-            },
-            {
-                "Position": "2",
                 "Team": "Inter",
                 "Played": "14",
                 "Wins": "10",
@@ -610,6 +600,16 @@
                 "Losses": "4",
                 "Goal Difference": "19",
                 "Points": "30"
+            },
+            {
+                "Position": "2",
+                "Team": "Napoli",
+                "Played": "14",
+                "Wins": "9",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "9",
+                "Points": "29"
             },
             {
                 "Position": "3",
@@ -656,10 +656,10 @@
                 "Team": "Juventus",
                 "Played": "14",
                 "Wins": "6",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "4",
-                "Points": "23"
+                "Draws": "6",
+                "Losses": "2",
+                "Goal Difference": "5",
+                "Points": "24"
             },
             {
                 "Position": "8",
@@ -3265,31 +3265,31 @@
                 "Position": "5",
                 "Team": "Fluminense",
                 "Played": "38",
-                "Wins": "18",
-                "Draws": "8",
+                "Wins": "19",
+                "Draws": "7",
                 "Losses": "12",
-                "Goal Difference": "9",
-                "Points": "62"
+                "Goal Difference": "11",
+                "Points": "64"
             },
             {
                 "Position": "6",
-                "Team": "Bahia",
+                "Team": "Botafogo",
                 "Played": "38",
                 "Wins": "17",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "6",
-                "Points": "61"
+                "Draws": "12",
+                "Losses": "9",
+                "Goal Difference": "20",
+                "Points": "63"
             },
             {
                 "Position": "7",
-                "Team": "Botafogo",
+                "Team": "Bahia",
                 "Played": "38",
-                "Wins": "16",
-                "Draws": "13",
-                "Losses": "9",
-                "Goal Difference": "18",
-                "Points": "61"
+                "Wins": "17",
+                "Draws": "9",
+                "Losses": "12",
+                "Goal Difference": "4",
+                "Points": "60"
             },
             {
                 "Position": "8",
@@ -3313,37 +3313,37 @@
             },
             {
                 "Position": "10",
-                "Team": "Corinthians",
-                "Played": "38",
-                "Wins": "13",
-                "Draws": "10",
-                "Losses": "15",
-                "Goal Difference": "-4",
-                "Points": "49"
-            },
-            {
-                "Position": "11",
                 "Team": "RB Bragantino",
                 "Played": "38",
                 "Wins": "14",
                 "Draws": "6",
                 "Losses": "18",
-                "Goal Difference": "-11",
+                "Goal Difference": "-12",
                 "Points": "48"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "38",
                 "Wins": "12",
                 "Draws": "12",
                 "Losses": "14",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "48"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Santos",
+                "Played": "38",
+                "Wins": "12",
+                "Draws": "11",
+                "Losses": "15",
+                "Goal Difference": "-5",
+                "Points": "47"
+            },
+            {
+                "Position": "13",
+                "Team": "Corinthians",
                 "Played": "38",
                 "Wins": "12",
                 "Draws": "11",
@@ -3358,7 +3358,7 @@
                 "Wins": "13",
                 "Draws": "6",
                 "Losses": "19",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "45"
             },
             {
@@ -3373,7 +3373,7 @@
             },
             {
                 "Position": "16",
-                "Team": "Fortaleza",
+                "Team": "Internacional",
                 "Played": "38",
                 "Wins": "11",
                 "Draws": "11",
@@ -3383,16 +3383,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Internacional",
-                "Played": "38",
-                "Wins": "11",
-                "Draws": "11",
-                "Losses": "16",
-                "Goal Difference": "-14",
-                "Points": "44"
-            },
-            {
-                "Position": "18",
                 "Team": "Cear\u00e1",
                 "Played": "38",
                 "Wins": "11",
@@ -3402,14 +3392,24 @@
                 "Points": "43"
             },
             {
+                "Position": "18",
+                "Team": "Fortaleza",
+                "Played": "38",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "17",
+                "Goal Difference": "-15",
+                "Points": "43"
+            },
+            {
                 "Position": "19",
                 "Team": "Juventude",
                 "Played": "38",
                 "Wins": "9",
-                "Draws": "7",
-                "Losses": "22",
-                "Goal Difference": "-35",
-                "Points": "34"
+                "Draws": "8",
+                "Losses": "21",
+                "Goal Difference": "-34",
+                "Points": "35"
             },
             {
                 "Position": "20",
