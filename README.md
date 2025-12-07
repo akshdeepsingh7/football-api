@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 07 December 2025, 08:21 PM UTC (Monday, 08 December 2025, 01:51 AM IST)
+**Last Updated:** Sunday, 07 December 2025, 08:41 PM UTC (Monday, 08 December 2025, 02:11 AM IST)
 
 ### Premier League
 
@@ -149,7 +149,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | PSG | 15 | 10 | 3 | 2 | 20 | 33 |
 | 3 | Marseille | 15 | 9 | 2 | 4 | 20 | 29 |
 | 4 | Lille | 15 | 9 | 2 | 4 | 12 | 29 |
-| 5 | Lyon | 15 | 7 | 4 | 4 | 6 | 25 |
+| 5 | Lyon | 15 | 7 | 3 | 5 | 5 | 24 |
 | 6 | Rennes | 15 | 6 | 6 | 3 | 1 | 24 |
 | 7 | Monaco | 15 | 7 | 2 | 6 | 0 | 23 |
 | 8 | Strasbourg | 15 | 7 | 1 | 7 | 5 | 22 |
@@ -157,9 +157,9 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Brest | 15 | 5 | 4 | 6 | -4 | 19 |
 | 11 | Angers | 15 | 5 | 4 | 6 | -4 | 19 |
 | 12 | Nice | 15 | 5 | 2 | 8 | -8 | 17 |
-| 13 | Paris FC | 15 | 4 | 4 | 7 | -5 | 16 |
-| 14 | Le Havre | 15 | 3 | 6 | 6 | -8 | 15 |
-| 15 | Lorient | 15 | 3 | 6 | 6 | -10 | 15 |
+| 13 | Lorient | 15 | 4 | 5 | 6 | -9 | 17 |
+| 14 | Paris FC | 15 | 4 | 4 | 7 | -5 | 16 |
+| 15 | Le Havre | 15 | 3 | 6 | 6 | -8 | 15 |
 | 16 | Auxerre | 15 | 3 | 3 | 9 | -10 | 12 |
 | 17 | Nantes | 15 | 2 | 5 | 8 | -11 | 11 |
 | 18 | Metz | 15 | 3 | 2 | 10 | -19 | 11 |
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 12 | 11 | 1 | 0 | 22 | 34 |
+| 1 | Porto | 13 | 11 | 2 | 0 | 22 | 35 |
 | 2 | Sporting CP | 13 | 10 | 2 | 1 | 25 | 32 |
 | 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
 | 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
@@ -305,8 +305,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Estoril | 13 | 3 | 5 | 5 | 1 | 14 |
 | 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -3 | 14 |
 | 14 | Nacional | 13 | 3 | 3 | 7 | -6 | 12 |
-| 15 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
-| 16 | Tondela | 12 | 2 | 3 | 7 | -13 | 9 |
+| 15 | Tondela | 13 | 2 | 4 | 7 | -13 | 10 |
+| 16 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
 | 17 | Arouca | 13 | 2 | 3 | 8 | -23 | 9 |
 | 18 | AVS | 13 | 0 | 3 | 10 | -22 | 3 |
 
@@ -432,23 +432,23 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Flamengo | 38 | 23 | 10 | 5 | 51 | 79 |
-| 2 | Palmeiras | 38 | 22 | 8 | 8 | 31 | 74 |
-| 3 | Cruzeiro | 38 | 19 | 13 | 6 | 25 | 70 |
+| 2 | Palmeiras | 38 | 23 | 7 | 8 | 33 | 76 |
+| 3 | Cruzeiro | 38 | 19 | 13 | 6 | 24 | 70 |
 | 4 | Mirassol | 38 | 18 | 13 | 7 | 24 | 67 |
-| 5 | Botafogo | 38 | 17 | 12 | 9 | 19 | 63 |
-| 6 | Fluminense | 38 | 18 | 8 | 12 | 9 | 62 |
-| 7 | Bahia | 38 | 17 | 10 | 11 | 6 | 61 |
-| 8 | São Paulo | 38 | 14 | 10 | 14 | -3 | 52 |
+| 5 | Fluminense | 38 | 18 | 8 | 12 | 9 | 62 |
+| 6 | Bahia | 38 | 17 | 10 | 11 | 6 | 61 |
+| 7 | Botafogo | 38 | 16 | 13 | 9 | 18 | 61 |
+| 8 | São Paulo | 38 | 14 | 9 | 15 | -4 | 51 |
 | 9 | Grêmio | 38 | 13 | 10 | 15 | -3 | 49 |
 | 10 | Corinthians | 38 | 13 | 10 | 15 | -4 | 49 |
 | 11 | RB Bragantino | 38 | 14 | 6 | 18 | -11 | 48 |
-| 12 | Atlético Mineiro | 38 | 12 | 12 | 14 | -3 | 48 |
-| 13 | Santos | 38 | 12 | 11 | 15 | -6 | 47 |
-| 14 | Vasco da Gama | 38 | 13 | 6 | 19 | -3 | 45 |
-| 15 | Ceará | 38 | 11 | 11 | 16 | -4 | 44 |
-| 16 | Internacional | 38 | 11 | 11 | 16 | -14 | 44 |
-| 17 | Fortaleza | 38 | 11 | 10 | 17 | -14 | 43 |
-| 18 | Vitória | 38 | 10 | 13 | 15 | -18 | 43 |
+| 12 | Atlético Mineiro | 38 | 12 | 12 | 14 | -2 | 48 |
+| 13 | Santos | 38 | 12 | 11 | 15 | -5 | 47 |
+| 14 | Vasco da Gama | 38 | 13 | 6 | 19 | -4 | 45 |
+| 15 | Vitória | 38 | 11 | 12 | 15 | -17 | 45 |
+| 16 | Fortaleza | 38 | 11 | 11 | 16 | -13 | 44 |
+| 17 | Internacional | 38 | 11 | 11 | 16 | -14 | 44 |
+| 18 | Ceará | 38 | 11 | 10 | 17 | -6 | 43 |
 | 19 | Juventude | 38 | 9 | 7 | 22 | -35 | 34 |
 | 20 | Sport | 38 | 2 | 11 | 25 | -47 | 17 |
 
