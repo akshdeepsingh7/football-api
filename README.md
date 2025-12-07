@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 07 December 2025, 03:38 PM UTC (Sunday, 07 December 2025, 09:08 PM IST)
+**Last Updated:** Sunday, 07 December 2025, 04:23 PM UTC (Sunday, 07 December 2025, 09:53 PM IST)
 
 ### Premier League
 
@@ -53,18 +53,18 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Chelsea | 15 | 7 | 4 | 4 | 10 | 25 |
 | 5 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
 | 6 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
-| 7 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
-| 8 | Liverpool FC | 15 | 7 | 2 | 6 | 0 | 23 |
-| 9 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
-| 10 | Brighton & Hove Albion | 15 | 6 | 4 | 5 | 3 | 22 |
+| 7 | Brighton & Hove Albion | 15 | 6 | 5 | 4 | 4 | 23 |
+| 8 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
+| 9 | Liverpool FC | 15 | 7 | 2 | 6 | 0 | 23 |
+| 10 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
 | 11 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
 | 12 | Manchester United | 14 | 6 | 4 | 4 | 1 | 22 |
 | 13 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
 | 14 | Brentford | 15 | 6 | 1 | 8 | -3 | 19 |
 | 15 | Fulham | 14 | 5 | 2 | 7 | -3 | 17 |
 | 16 | Leeds United | 15 | 4 | 3 | 8 | -10 | 15 |
-| 17 | West Ham United | 15 | 4 | 3 | 8 | -11 | 15 |
-| 18 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
+| 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
+| 18 | West Ham United | 15 | 3 | 4 | 8 | -12 | 13 |
 | 19 | Burnley | 15 | 3 | 1 | 11 | -14 | 10 |
 | 20 | Wolverhampton Wanderers | 14 | 0 | 2 | 12 | -22 | 2 |
 
@@ -104,14 +104,14 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Hoffenheim | 12 | 7 | 2 | 3 | 8 | 23 |
 | 6 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
 | 7 | Eintracht Frankfurt | 13 | 6 | 3 | 4 | -1 | 21 |
-| 8 | Werder Bremen | 13 | 5 | 4 | 4 | -4 | 19 |
-| 9 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
-| 10 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
-| 11 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
+| 8 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
+| 9 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
+| 10 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
+| 11 | Werder Bremen | 13 | 4 | 4 | 5 | -6 | 16 |
 | 12 | Union Berlin | 13 | 4 | 3 | 6 | -6 | 15 |
-| 13 | Augsburg | 13 | 4 | 1 | 8 | -10 | 13 |
-| 14 | VfL Wolfsburg | 13 | 3 | 3 | 7 | -6 | 12 |
-| 15 | Hamburg | 13 | 3 | 3 | 7 | -8 | 12 |
+| 13 | Hamburg | 13 | 4 | 3 | 6 | -6 | 15 |
+| 14 | Augsburg | 13 | 4 | 1 | 8 | -10 | 13 |
+| 15 | VfL Wolfsburg | 13 | 3 | 3 | 7 | -6 | 12 |
 | 16 | Heidenheim | 13 | 3 | 2 | 8 | -16 | 11 |
 | 17 | St. Pauli | 13 | 2 | 2 | 9 | -14 | 8 |
 | 18 | Mainz 05 | 13 | 1 | 3 | 9 | -13 | 6 |
@@ -123,7 +123,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 14 | 10 | 0 | 4 | 19 | 30 |
 | 2 | Milan | 13 | 8 | 4 | 1 | 10 | 28 |
 | 3 | Napoli | 13 | 9 | 1 | 3 | 9 | 28 |
-| 4 | Roma | 14 | 9 | 1 | 4 | 8 | 28 |
+| 4 | Roma | 14 | 9 | 0 | 5 | 7 | 27 |
 | 5 | Bologna | 13 | 7 | 3 | 3 | 11 | 24 |
 | 6 | Como | 14 | 6 | 6 | 2 | 8 | 24 |
 | 7 | Juventus | 13 | 6 | 5 | 2 | 5 | 23 |
@@ -133,8 +133,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Udinese | 13 | 5 | 3 | 5 | -6 | 18 |
 | 12 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
 | 13 | Torino | 13 | 3 | 5 | 5 | -11 | 14 |
-| 14 | Lecce | 14 | 3 | 4 | 7 | -9 | 13 |
-| 15 | Cagliari | 14 | 2 | 6 | 6 | -6 | 12 |
+| 14 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
+| 15 | Lecce | 14 | 3 | 4 | 7 | -9 | 13 |
 | 16 | Genoa | 13 | 2 | 5 | 6 | -7 | 11 |
 | 17 | Parma | 13 | 2 | 5 | 6 | -8 | 11 |
 | 18 | Pisa | 13 | 1 | 7 | 5 | -8 | 10 |
@@ -157,12 +157,12 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Brest | 15 | 5 | 4 | 6 | -4 | 19 |
 | 11 | Angers | 15 | 5 | 4 | 6 | -4 | 19 |
 | 12 | Nice | 15 | 5 | 2 | 8 | -8 | 17 |
-| 13 | Paris FC | 14 | 4 | 3 | 7 | -5 | 15 |
-| 14 | Le Havre | 14 | 3 | 5 | 6 | -8 | 14 |
+| 13 | Paris FC | 15 | 4 | 4 | 7 | -5 | 16 |
+| 14 | Le Havre | 15 | 3 | 6 | 6 | -8 | 15 |
 | 15 | Lorient | 14 | 3 | 5 | 6 | -10 | 14 |
-| 16 | Nantes | 15 | 2 | 5 | 8 | -11 | 11 |
-| 17 | Metz | 14 | 3 | 2 | 9 | -17 | 11 |
-| 18 | Auxerre | 14 | 2 | 3 | 9 | -12 | 9 |
+| 16 | Metz | 15 | 3 | 3 | 9 | -17 | 12 |
+| 17 | Nantes | 15 | 2 | 5 | 8 | -11 | 11 |
+| 18 | Auxerre | 15 | 2 | 4 | 9 | -12 | 10 |
 
 ### Champions League
 
@@ -296,13 +296,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
 | 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
 | 5 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
-| 6 | Moreirense | 13 | 7 | 1 | 5 | 2 | 22 |
-| 7 | Famalicão | 13 | 5 | 5 | 3 | 5 | 20 |
+| 6 | Famalicão | 13 | 5 | 5 | 3 | 5 | 20 |
+| 7 | Moreirense | 13 | 6 | 2 | 5 | 1 | 20 |
 | 8 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
 | 9 | Rio Ave | 13 | 3 | 7 | 3 | -4 | 16 |
 | 10 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
-| 11 | Alverca | 12 | 4 | 2 | 6 | -5 | 14 |
-| 12 | Estoril | 13 | 3 | 4 | 6 | 0 | 13 |
+| 11 | Estoril | 13 | 3 | 5 | 5 | 1 | 14 |
+| 12 | Alverca | 12 | 4 | 2 | 6 | -5 | 14 |
 | 13 | Nacional | 12 | 3 | 3 | 6 | -5 | 12 |
 | 14 | Estrela Amadora | 12 | 2 | 5 | 5 | -5 | 11 |
 | 15 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
