@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 07 December 2025, 03:18 PM UTC (Sunday, 07 December 2025, 08:48 PM IST)
+**Last Updated:** Sunday, 07 December 2025, 03:38 PM UTC (Sunday, 07 December 2025, 09:08 PM IST)
 
 ### Premier League
 
@@ -53,18 +53,18 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Chelsea | 15 | 7 | 4 | 4 | 10 | 25 |
 | 5 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
 | 6 | Crystal Palace | 14 | 6 | 5 | 3 | 7 | 23 |
-| 7 | Brighton & Hove Albion | 15 | 6 | 5 | 4 | 4 | 23 |
-| 8 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
-| 9 | Liverpool FC | 15 | 7 | 2 | 6 | 0 | 23 |
-| 10 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
+| 7 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
+| 8 | Liverpool FC | 15 | 7 | 2 | 6 | 0 | 23 |
+| 9 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
+| 10 | Brighton & Hove Albion | 15 | 6 | 4 | 5 | 3 | 22 |
 | 11 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
 | 12 | Manchester United | 14 | 6 | 4 | 4 | 1 | 22 |
 | 13 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
 | 14 | Brentford | 15 | 6 | 1 | 8 | -3 | 19 |
 | 15 | Fulham | 14 | 5 | 2 | 7 | -3 | 17 |
 | 16 | Leeds United | 15 | 4 | 3 | 8 | -10 | 15 |
-| 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
-| 18 | West Ham United | 15 | 3 | 4 | 8 | -12 | 13 |
+| 17 | West Ham United | 15 | 4 | 3 | 8 | -11 | 15 |
+| 18 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 19 | Burnley | 15 | 3 | 1 | 11 | -14 | 10 |
 | 20 | Wolverhampton Wanderers | 14 | 0 | 2 | 12 | -22 | 2 |
 
@@ -296,13 +296,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
 | 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
 | 5 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
-| 6 | Famalicão | 13 | 5 | 5 | 3 | 5 | 20 |
-| 7 | Moreirense | 12 | 6 | 1 | 5 | 1 | 19 |
+| 6 | Moreirense | 13 | 7 | 1 | 5 | 2 | 22 |
+| 7 | Famalicão | 13 | 5 | 5 | 3 | 5 | 20 |
 | 8 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
 | 9 | Rio Ave | 13 | 3 | 7 | 3 | -4 | 16 |
 | 10 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
 | 11 | Alverca | 12 | 4 | 2 | 6 | -5 | 14 |
-| 12 | Estoril | 12 | 3 | 4 | 5 | 1 | 13 |
+| 12 | Estoril | 13 | 3 | 4 | 6 | 0 | 13 |
 | 13 | Nacional | 12 | 3 | 3 | 6 | -5 | 12 |
 | 14 | Estrela Amadora | 12 | 2 | 5 | 5 | -5 | 11 |
 | 15 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
