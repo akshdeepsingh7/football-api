@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 07 December 2025, 12:38 PM UTC",
-        "IST": "Sunday, 07 December 2025, 06:08 PM IST"
+        "UTC": "Sunday, 07 December 2025, 01:26 PM UTC",
+        "IST": "Sunday, 07 December 2025, 06:56 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Elche",
+                "Played": "15",
+                "Wins": "3",
+                "Draws": "8",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "17"
+            },
+            {
+                "Position": "11",
                 "Team": "Rayo Vallecano",
                 "Played": "14",
                 "Wins": "4",
@@ -306,16 +316,6 @@
                 "Losses": "5",
                 "Goal Difference": "-2",
                 "Points": "17"
-            },
-            {
-                "Position": "11",
-                "Team": "Elche",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "7",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "16"
             },
             {
                 "Position": "12",
@@ -369,22 +369,22 @@
             },
             {
                 "Position": "17",
+                "Team": "Girona",
+                "Played": "15",
+                "Wins": "2",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "-13",
+                "Points": "13"
+            },
+            {
+                "Position": "18",
                 "Team": "Osasuna",
                 "Played": "14",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "8",
                 "Goal Difference": "-6",
-                "Points": "12"
-            },
-            {
-                "Position": "18",
-                "Team": "Girona",
-                "Played": "14",
-                "Wins": "2",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "-13",
                 "Points": "12"
             },
             {
@@ -673,6 +673,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Cremonese",
+                "Played": "14",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "1",
+                "Points": "20"
+            },
+            {
+                "Position": "10",
                 "Team": "Lazio",
                 "Played": "13",
                 "Wins": "5",
@@ -682,23 +692,13 @@
                 "Points": "18"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Udinese",
                 "Played": "13",
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "-6",
-                "Points": "18"
-            },
-            {
-                "Position": "11",
-                "Team": "Cremonese",
-                "Played": "14",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "-1",
                 "Points": "18"
             },
             {
@@ -726,10 +726,10 @@
                 "Team": "Lecce",
                 "Played": "14",
                 "Wins": "3",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-7",
-                "Points": "14"
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "-9",
+                "Points": "13"
             },
             {
                 "Position": "15",

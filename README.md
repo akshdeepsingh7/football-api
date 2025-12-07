@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 07 December 2025, 12:38 PM UTC (Sunday, 07 December 2025, 06:08 PM IST)
+**Last Updated:** Sunday, 07 December 2025, 01:26 PM UTC (Sunday, 07 December 2025, 06:56 PM IST)
 
 ### Premier League
 
@@ -81,15 +81,15 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Athletic Bilbao | 16 | 7 | 2 | 7 | -5 | 23 |
 | 8 | Getafe | 15 | 6 | 2 | 7 | -4 | 20 |
 | 9 | Alavés | 15 | 5 | 3 | 7 | -2 | 18 |
-| 10 | Rayo Vallecano | 14 | 4 | 5 | 5 | -2 | 17 |
-| 11 | Elche | 14 | 3 | 7 | 4 | -2 | 16 |
+| 10 | Elche | 15 | 3 | 8 | 4 | -2 | 17 |
+| 11 | Rayo Vallecano | 14 | 4 | 5 | 5 | -2 | 17 |
 | 12 | Real Sociedad | 15 | 4 | 4 | 7 | -3 | 16 |
 | 13 | Celta de Vigo | 14 | 3 | 7 | 4 | -3 | 16 |
 | 14 | Sevilla | 14 | 5 | 1 | 8 | -4 | 16 |
 | 15 | Mallorca | 15 | 3 | 5 | 7 | -7 | 14 |
 | 16 | Valencia | 14 | 3 | 5 | 6 | -9 | 14 |
-| 17 | Osasuna | 14 | 3 | 3 | 8 | -6 | 12 |
-| 18 | Girona | 14 | 2 | 6 | 6 | -13 | 12 |
+| 17 | Girona | 15 | 2 | 7 | 6 | -13 | 13 |
+| 18 | Osasuna | 14 | 3 | 3 | 8 | -6 | 12 |
 | 19 | Real Oviedo | 15 | 2 | 4 | 9 | -15 | 10 |
 | 20 | Levante | 14 | 2 | 3 | 9 | -10 | 9 |
 
@@ -128,12 +128,12 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Como | 14 | 6 | 6 | 2 | 8 | 24 |
 | 7 | Juventus | 13 | 6 | 5 | 2 | 5 | 23 |
 | 8 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
-| 9 | Lazio | 13 | 5 | 3 | 5 | 5 | 18 |
-| 10 | Udinese | 13 | 5 | 3 | 5 | -6 | 18 |
-| 11 | Cremonese | 14 | 4 | 6 | 4 | -1 | 18 |
+| 9 | Cremonese | 14 | 5 | 5 | 4 | 1 | 20 |
+| 10 | Lazio | 13 | 5 | 3 | 5 | 5 | 18 |
+| 11 | Udinese | 13 | 5 | 3 | 5 | -6 | 18 |
 | 12 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
 | 13 | Torino | 13 | 3 | 5 | 5 | -11 | 14 |
-| 14 | Lecce | 14 | 3 | 5 | 6 | -7 | 14 |
+| 14 | Lecce | 14 | 3 | 4 | 7 | -9 | 13 |
 | 15 | Cagliari | 13 | 2 | 5 | 6 | -6 | 11 |
 | 16 | Genoa | 13 | 2 | 5 | 6 | -7 | 11 |
 | 17 | Parma | 13 | 2 | 5 | 6 | -8 | 11 |
