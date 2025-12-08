@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 08 December 2025, 08:45 PM UTC",
-        "IST": "Tuesday, 09 December 2025, 02:15 AM IST"
+        "UTC": "Monday, 08 December 2025, 09:17 PM UTC",
+        "IST": "Tuesday, 09 December 2025, 02:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -616,10 +616,10 @@
                 "Team": "Milan",
                 "Played": "14",
                 "Wins": "8",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "9",
-                "Points": "28"
+                "Draws": "5",
+                "Losses": "1",
+                "Goal Difference": "10",
+                "Points": "29"
             },
             {
                 "Position": "4",
@@ -703,16 +703,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Torino",
-                "Played": "14",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-10",
-                "Points": "17"
-            },
-            {
-                "Position": "13",
                 "Team": "Atalanta",
                 "Played": "14",
                 "Wins": "3",
@@ -720,6 +710,16 @@
                 "Losses": "4",
                 "Goal Difference": "0",
                 "Points": "16"
+            },
+            {
+                "Position": "13",
+                "Team": "Torino",
+                "Played": "14",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "5",
+                "Goal Difference": "-11",
+                "Points": "15"
             },
             {
                 "Position": "14",
