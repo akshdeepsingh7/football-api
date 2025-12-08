@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 08 December 2025, 08:24 PM UTC",
-        "IST": "Tuesday, 09 December 2025, 01:54 AM IST"
+        "UTC": "Monday, 08 December 2025, 08:45 PM UTC",
+        "IST": "Tuesday, 09 December 2025, 02:15 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -57,6 +57,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Manchester United",
+                "Played": "15",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "2",
+                "Points": "25"
+            },
+            {
+                "Position": "7",
                 "Team": "Everton",
                 "Played": "15",
                 "Wins": "7",
@@ -66,23 +76,13 @@
                 "Points": "24"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Brighton & Hove Albion",
                 "Played": "15",
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "4",
-                "Points": "23"
-            },
-            {
-                "Position": "8",
-                "Team": "Manchester United",
-                "Played": "15",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "1",
                 "Points": "23"
             },
             {
@@ -200,10 +200,10 @@
                 "Team": "Wolverhampton Wanderers",
                 "Played": "15",
                 "Wins": "0",
-                "Draws": "3",
-                "Losses": "12",
-                "Goal Difference": "-22",
-                "Points": "3"
+                "Draws": "2",
+                "Losses": "13",
+                "Goal Difference": "-23",
+                "Points": "2"
             }
         ],
         "La Liga": [
@@ -354,7 +354,7 @@
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "8",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "15"
             },
             {
@@ -404,7 +404,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "10",
-                "Goal Difference": "-11",
+                "Goal Difference": "-12",
                 "Points": "9"
             }
         ],
@@ -2094,12 +2094,12 @@
             {
                 "Position": "4",
                 "Team": "Gil Vicente",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "7",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "10",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "5",
@@ -2133,22 +2133,22 @@
             },
             {
                 "Position": "8",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "13",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-3",
+                "Points": "18"
+            },
+            {
+                "Position": "9",
                 "Team": "Alverca",
                 "Played": "13",
                 "Wins": "5",
                 "Draws": "2",
                 "Losses": "6",
                 "Goal Difference": "-4",
-                "Points": "17"
-            },
-            {
-                "Position": "9",
-                "Team": "Vit\u00f3ria S.C.",
-                "Played": "12",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-3",
                 "Points": "17"
             },
             {

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 08 December 2025, 08:24 PM UTC (Tuesday, 09 December 2025, 01:54 AM IST)
+**Last Updated:** Monday, 08 December 2025, 08:45 PM UTC (Tuesday, 09 December 2025, 02:15 AM IST)
 
 ### Premier League
 
@@ -52,9 +52,9 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Aston Villa | 15 | 9 | 3 | 3 | 7 | 30 |
 | 4 | Crystal Palace | 15 | 7 | 5 | 3 | 8 | 26 |
 | 5 | Chelsea | 15 | 7 | 4 | 4 | 10 | 25 |
-| 6 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
-| 7 | Brighton & Hove Albion | 15 | 6 | 5 | 4 | 4 | 23 |
-| 8 | Manchester United | 15 | 6 | 5 | 4 | 1 | 23 |
+| 6 | Manchester United | 15 | 7 | 4 | 4 | 2 | 25 |
+| 7 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
+| 8 | Brighton & Hove Albion | 15 | 6 | 5 | 4 | 4 | 23 |
 | 9 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
 | 10 | Liverpool FC | 15 | 7 | 2 | 6 | 0 | 23 |
 | 11 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 18 | West Ham United | 15 | 3 | 4 | 8 | -12 | 13 |
 | 19 | Burnley | 15 | 3 | 1 | 11 | -14 | 10 |
-| 20 | Wolverhampton Wanderers | 15 | 0 | 3 | 12 | -22 | 3 |
+| 20 | Wolverhampton Wanderers | 15 | 0 | 2 | 13 | -23 | 2 |
 
 ### La Liga
 
@@ -86,12 +86,12 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Rayo Vallecano | 15 | 4 | 5 | 6 | -3 | 17 |
 | 13 | Sevilla | 15 | 5 | 2 | 8 | -4 | 17 |
 | 14 | Real Sociedad | 15 | 4 | 4 | 7 | -3 | 16 |
-| 15 | Osasuna | 15 | 4 | 3 | 8 | -5 | 15 |
+| 15 | Osasuna | 15 | 4 | 3 | 8 | -4 | 15 |
 | 16 | Valencia | 15 | 3 | 6 | 6 | -9 | 15 |
 | 17 | Mallorca | 15 | 3 | 5 | 7 | -7 | 14 |
 | 18 | Girona | 15 | 2 | 6 | 7 | -16 | 12 |
 | 19 | Real Oviedo | 15 | 2 | 4 | 9 | -15 | 10 |
-| 20 | Levante | 15 | 2 | 3 | 10 | -11 | 9 |
+| 20 | Levante | 15 | 2 | 3 | 10 | -12 | 9 |
 
 ### Bundesliga
 
@@ -294,12 +294,12 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 13 | 12 | 1 | 0 | 24 | 37 |
 | 2 | Sporting CP | 13 | 10 | 2 | 1 | 25 | 32 |
 | 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
-| 4 | Gil Vicente | 12 | 7 | 2 | 3 | 10 | 23 |
+| 4 | Gil Vicente | 13 | 7 | 3 | 3 | 10 | 24 |
 | 5 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
 | 6 | Famalicão | 13 | 5 | 5 | 3 | 5 | 20 |
 | 7 | Moreirense | 13 | 6 | 2 | 5 | 1 | 20 |
-| 8 | Alverca | 13 | 5 | 2 | 6 | -4 | 17 |
-| 9 | Vitória S.C. | 12 | 5 | 2 | 5 | -3 | 17 |
+| 8 | Vitória S.C. | 13 | 5 | 3 | 5 | -3 | 18 |
+| 9 | Alverca | 13 | 5 | 2 | 6 | -4 | 17 |
 | 10 | Rio Ave | 13 | 3 | 7 | 3 | -4 | 16 |
 | 11 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
 | 12 | Estoril | 13 | 3 | 5 | 5 | 1 | 14 |
