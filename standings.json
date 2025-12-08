@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 08 December 2025, 02:23 PM UTC",
-        "IST": "Monday, 08 December 2025, 07:53 PM IST"
+        "UTC": "Monday, 08 December 2025, 02:48 PM UTC",
+        "IST": "Monday, 08 December 2025, 08:18 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -733,6 +733,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Parma",
+                "Played": "14",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-7",
+                "Points": "14"
+            },
+            {
+                "Position": "16",
                 "Team": "Lecce",
                 "Played": "14",
                 "Wins": "3",
@@ -740,16 +750,6 @@
                 "Losses": "7",
                 "Goal Difference": "-9",
                 "Points": "13"
-            },
-            {
-                "Position": "16",
-                "Team": "Parma",
-                "Played": "14",
-                "Wins": "2",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "-8",
-                "Points": "12"
             },
             {
                 "Position": "17",
@@ -766,10 +766,10 @@
                 "Team": "Pisa",
                 "Played": "14",
                 "Wins": "1",
-                "Draws": "8",
-                "Losses": "5",
-                "Goal Difference": "-8",
-                "Points": "11"
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "-9",
+                "Points": "10"
             },
             {
                 "Position": "19",
