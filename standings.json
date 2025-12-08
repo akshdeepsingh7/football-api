@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 08 December 2025, 09:17 PM UTC",
-        "IST": "Tuesday, 09 December 2025, 02:47 AM IST"
+        "UTC": "Monday, 08 December 2025, 09:39 PM UTC",
+        "IST": "Tuesday, 09 December 2025, 03:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -62,7 +62,7 @@
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "4",
-                "Goal Difference": "2",
+                "Goal Difference": "3",
                 "Points": "25"
             },
             {
@@ -202,7 +202,7 @@
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "13",
-                "Goal Difference": "-23",
+                "Goal Difference": "-24",
                 "Points": "2"
             }
         ],
@@ -593,6 +593,16 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Milan",
+                "Played": "14",
+                "Wins": "9",
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "11",
+                "Points": "31"
+            },
+            {
+                "Position": "2",
                 "Team": "Napoli",
                 "Played": "14",
                 "Wins": "10",
@@ -602,7 +612,7 @@
                 "Points": "31"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Inter",
                 "Played": "14",
                 "Wins": "10",
@@ -610,16 +620,6 @@
                 "Losses": "4",
                 "Goal Difference": "19",
                 "Points": "30"
-            },
-            {
-                "Position": "3",
-                "Team": "Milan",
-                "Played": "14",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "10",
-                "Points": "29"
             },
             {
                 "Position": "4",
@@ -713,16 +713,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Torino",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "-11",
-                "Points": "15"
-            },
-            {
-                "Position": "14",
                 "Team": "Cagliari",
                 "Played": "14",
                 "Wins": "3",
@@ -732,7 +722,7 @@
                 "Points": "14"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Genoa",
                 "Played": "14",
                 "Wins": "3",
@@ -742,13 +732,23 @@
                 "Points": "14"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Parma",
                 "Played": "14",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "-7",
+                "Points": "14"
+            },
+            {
+                "Position": "16",
+                "Team": "Torino",
+                "Played": "14",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-12",
                 "Points": "14"
             },
             {

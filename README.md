@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 08 December 2025, 09:17 PM UTC (Tuesday, 09 December 2025, 02:47 AM IST)
+**Last Updated:** Monday, 08 December 2025, 09:39 PM UTC (Tuesday, 09 December 2025, 03:09 AM IST)
 
 ### Premier League
 
@@ -52,7 +52,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Aston Villa | 15 | 9 | 3 | 3 | 7 | 30 |
 | 4 | Crystal Palace | 15 | 7 | 5 | 3 | 8 | 26 |
 | 5 | Chelsea | 15 | 7 | 4 | 4 | 10 | 25 |
-| 6 | Manchester United | 15 | 7 | 4 | 4 | 2 | 25 |
+| 6 | Manchester United | 15 | 7 | 4 | 4 | 3 | 25 |
 | 7 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
 | 8 | Brighton & Hove Albion | 15 | 6 | 5 | 4 | 4 | 23 |
 | 9 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 18 | West Ham United | 15 | 3 | 4 | 8 | -12 | 13 |
 | 19 | Burnley | 15 | 3 | 1 | 11 | -14 | 10 |
-| 20 | Wolverhampton Wanderers | 15 | 0 | 2 | 13 | -23 | 2 |
+| 20 | Wolverhampton Wanderers | 15 | 0 | 2 | 13 | -24 | 2 |
 
 ### La Liga
 
@@ -120,9 +120,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Napoli | 14 | 10 | 1 | 3 | 10 | 31 |
-| 2 | Inter | 14 | 10 | 0 | 4 | 19 | 30 |
-| 3 | Milan | 14 | 8 | 5 | 1 | 10 | 29 |
+| 1 | Milan | 14 | 9 | 4 | 1 | 11 | 31 |
+| 2 | Napoli | 14 | 10 | 1 | 3 | 10 | 31 |
+| 3 | Inter | 14 | 10 | 0 | 4 | 19 | 30 |
 | 4 | Roma | 14 | 9 | 0 | 5 | 7 | 27 |
 | 5 | Bologna | 14 | 7 | 4 | 3 | 11 | 25 |
 | 6 | Como | 14 | 6 | 6 | 2 | 8 | 24 |
@@ -132,10 +132,10 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Lazio | 14 | 5 | 4 | 5 | 5 | 19 |
 | 11 | Udinese | 14 | 5 | 3 | 6 | -7 | 18 |
 | 12 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
-| 13 | Torino | 14 | 3 | 6 | 5 | -11 | 15 |
-| 14 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
-| 15 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
-| 16 | Parma | 14 | 3 | 5 | 6 | -7 | 14 |
+| 13 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
+| 14 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
+| 15 | Parma | 14 | 3 | 5 | 6 | -7 | 14 |
+| 16 | Torino | 14 | 3 | 5 | 6 | -12 | 14 |
 | 17 | Lecce | 14 | 3 | 4 | 7 | -9 | 13 |
 | 18 | Pisa | 14 | 1 | 7 | 6 | -9 | 10 |
 | 19 | Hellas Verona | 14 | 1 | 6 | 7 | -10 | 9 |
