@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 08 December 2025, 09:39 PM UTC (Tuesday, 09 December 2025, 03:09 AM IST)
+**Last Updated:** Monday, 08 December 2025, 10:20 PM UTC (Tuesday, 09 December 2025, 03:50 AM IST)
 
 ### Premier League
 
@@ -52,7 +52,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Aston Villa | 15 | 9 | 3 | 3 | 7 | 30 |
 | 4 | Crystal Palace | 15 | 7 | 5 | 3 | 8 | 26 |
 | 5 | Chelsea | 15 | 7 | 4 | 4 | 10 | 25 |
-| 6 | Manchester United | 15 | 7 | 4 | 4 | 3 | 25 |
+| 6 | Manchester United | 15 | 7 | 4 | 4 | 4 | 25 |
 | 7 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
 | 8 | Brighton & Hove Albion | 15 | 6 | 5 | 4 | 4 | 23 |
 | 9 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 18 | West Ham United | 15 | 3 | 4 | 8 | -12 | 13 |
 | 19 | Burnley | 15 | 3 | 1 | 11 | -14 | 10 |
-| 20 | Wolverhampton Wanderers | 15 | 0 | 2 | 13 | -24 | 2 |
+| 20 | Wolverhampton Wanderers | 15 | 0 | 2 | 13 | -25 | 2 |
 
 ### La Liga
 
