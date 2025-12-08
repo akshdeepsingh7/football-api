@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 08 December 2025, 07:38 PM UTC (Tuesday, 09 December 2025, 01:08 AM IST)
+**Last Updated:** Monday, 08 December 2025, 08:24 PM UTC (Tuesday, 09 December 2025, 01:54 AM IST)
 
 ### Premier League
 
@@ -54,11 +54,11 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Chelsea | 15 | 7 | 4 | 4 | 10 | 25 |
 | 6 | Everton | 15 | 7 | 3 | 5 | 1 | 24 |
 | 7 | Brighton & Hove Albion | 15 | 6 | 5 | 4 | 4 | 23 |
-| 8 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
-| 9 | Liverpool FC | 15 | 7 | 2 | 6 | 0 | 23 |
-| 10 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
-| 11 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
-| 12 | Manchester United | 14 | 6 | 4 | 4 | 1 | 22 |
+| 8 | Manchester United | 15 | 6 | 5 | 4 | 1 | 23 |
+| 9 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
+| 10 | Liverpool FC | 15 | 7 | 2 | 6 | 0 | 23 |
+| 11 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
+| 12 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
 | 13 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
 | 14 | Brentford | 15 | 6 | 1 | 8 | -3 | 19 |
 | 15 | Fulham | 15 | 5 | 2 | 8 | -4 | 17 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 18 | West Ham United | 15 | 3 | 4 | 8 | -12 | 13 |
 | 19 | Burnley | 15 | 3 | 1 | 11 | -14 | 10 |
-| 20 | Wolverhampton Wanderers | 14 | 0 | 2 | 12 | -22 | 2 |
+| 20 | Wolverhampton Wanderers | 15 | 0 | 3 | 12 | -22 | 3 |
 
 ### La Liga
 
@@ -86,12 +86,12 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Rayo Vallecano | 15 | 4 | 5 | 6 | -3 | 17 |
 | 13 | Sevilla | 15 | 5 | 2 | 8 | -4 | 17 |
 | 14 | Real Sociedad | 15 | 4 | 4 | 7 | -3 | 16 |
-| 15 | Valencia | 15 | 3 | 6 | 6 | -9 | 15 |
-| 16 | Mallorca | 15 | 3 | 5 | 7 | -7 | 14 |
-| 17 | Osasuna | 14 | 3 | 3 | 8 | -6 | 12 |
+| 15 | Osasuna | 15 | 4 | 3 | 8 | -5 | 15 |
+| 16 | Valencia | 15 | 3 | 6 | 6 | -9 | 15 |
+| 17 | Mallorca | 15 | 3 | 5 | 7 | -7 | 14 |
 | 18 | Girona | 15 | 2 | 6 | 7 | -16 | 12 |
 | 19 | Real Oviedo | 15 | 2 | 4 | 9 | -15 | 10 |
-| 20 | Levante | 14 | 2 | 3 | 9 | -10 | 9 |
+| 20 | Levante | 15 | 2 | 3 | 10 | -11 | 9 |
 
 ### Bundesliga
 
@@ -122,7 +122,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Napoli | 14 | 10 | 1 | 3 | 10 | 31 |
 | 2 | Inter | 14 | 10 | 0 | 4 | 19 | 30 |
-| 3 | Milan | 13 | 8 | 4 | 1 | 10 | 28 |
+| 3 | Milan | 14 | 8 | 4 | 2 | 9 | 28 |
 | 4 | Roma | 14 | 9 | 0 | 5 | 7 | 27 |
 | 5 | Bologna | 14 | 7 | 4 | 3 | 11 | 25 |
 | 6 | Como | 14 | 6 | 6 | 2 | 8 | 24 |
@@ -131,8 +131,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Cremonese | 14 | 5 | 5 | 4 | 1 | 20 |
 | 10 | Lazio | 14 | 5 | 4 | 5 | 5 | 19 |
 | 11 | Udinese | 14 | 5 | 3 | 6 | -7 | 18 |
-| 12 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
-| 13 | Torino | 13 | 3 | 5 | 5 | -11 | 14 |
+| 12 | Torino | 14 | 4 | 5 | 5 | -10 | 17 |
+| 13 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
 | 14 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
 | 15 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
 | 16 | Parma | 14 | 3 | 5 | 6 | -7 | 14 |
