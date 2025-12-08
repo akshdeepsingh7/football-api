@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 08 December 2025, 01:35 PM UTC",
-        "IST": "Monday, 08 December 2025, 07:05 PM IST"
+        "UTC": "Monday, 08 December 2025, 02:23 PM UTC",
+        "IST": "Monday, 08 December 2025, 07:53 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -743,6 +743,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Parma",
+                "Played": "14",
+                "Wins": "2",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "-8",
+                "Points": "12"
+            },
+            {
+                "Position": "17",
                 "Team": "Genoa",
                 "Played": "13",
                 "Wins": "2",
@@ -752,24 +762,14 @@
                 "Points": "11"
             },
             {
-                "Position": "17",
-                "Team": "Parma",
-                "Played": "13",
-                "Wins": "2",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-8",
-                "Points": "11"
-            },
-            {
                 "Position": "18",
                 "Team": "Pisa",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "1",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "5",
                 "Goal Difference": "-8",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "19",
