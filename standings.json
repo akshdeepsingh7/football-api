@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 09 December 2025, 05:44 PM UTC",
-        "IST": "Tuesday, 09 December 2025, 11:14 PM IST"
+        "UTC": "Tuesday, 09 December 2025, 06:28 PM UTC",
+        "IST": "Tuesday, 09 December 2025, 11:58 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -987,22 +987,22 @@
             },
             {
                 "Position": "2",
+                "Team": "Bayern Munich",
+                "Played": "6",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "9",
+                "Points": "13"
+            },
+            {
+                "Position": "3",
                 "Team": "PSG",
                 "Played": "5",
                 "Wins": "4",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "11",
-                "Points": "12"
-            },
-            {
-                "Position": "3",
-                "Team": "Bayern Munich",
-                "Played": "5",
-                "Wins": "4",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "9",
                 "Points": "12"
             },
             {
@@ -1027,6 +1027,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Sporting CP",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "6",
+                "Points": "11"
+            },
+            {
+                "Position": "7",
                 "Team": "Borussia Dortmund",
                 "Played": "5",
                 "Wins": "3",
@@ -1036,18 +1046,8 @@
                 "Points": "10"
             },
             {
-                "Position": "7",
-                "Team": "Chelsea",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "6",
-                "Points": "10"
-            },
-            {
                 "Position": "8",
-                "Team": "Sporting CP",
+                "Team": "Chelsea",
                 "Played": "5",
                 "Wins": "3",
                 "Draws": "1",
