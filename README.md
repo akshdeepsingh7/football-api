@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 09 December 2025, 09:40 PM UTC (Wednesday, 10 December 2025, 03:10 AM IST)
+**Last Updated:** Tuesday, 09 December 2025, 10:20 PM UTC (Wednesday, 10 December 2025, 03:50 AM IST)
 
 ### Premier League
 
@@ -170,23 +170,23 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 5 | 5 | 0 | 0 | 13 | 15 |
 | 2 | Bayern Munich | 6 | 5 | 0 | 1 | 11 | 15 |
-| 3 | Inter | 6 | 4 | 1 | 1 | 9 | 13 |
+| 3 | Atalanta | 6 | 4 | 1 | 1 | 2 | 13 |
 | 4 | PSG | 5 | 4 | 0 | 1 | 11 | 12 |
-| 5 | Real Madrid | 5 | 4 | 0 | 1 | 7 | 12 |
-| 6 | Atlético de Madrid | 6 | 4 | 0 | 2 | 4 | 12 |
-| 7 | Tottenham Hotspur | 6 | 3 | 2 | 1 | 6 | 11 |
-| 8 | Chelsea | 6 | 3 | 2 | 1 | 6 | 11 |
-| 9 | Atalanta | 6 | 3 | 2 | 1 | 1 | 11 |
+| 5 | Inter | 6 | 4 | 0 | 2 | 8 | 12 |
+| 6 | Real Madrid | 5 | 4 | 0 | 1 | 7 | 12 |
+| 7 | Atlético de Madrid | 6 | 4 | 0 | 2 | 3 | 12 |
+| 8 | Liverpool FC | 6 | 4 | 0 | 2 | 3 | 12 |
+| 9 | Tottenham Hotspur | 6 | 3 | 2 | 1 | 6 | 11 |
 | 10 | Borussia Dortmund | 5 | 3 | 1 | 1 | 6 | 10 |
-| 11 | Manchester City | 5 | 3 | 1 | 1 | 5 | 10 |
-| 12 | Sporting CP | 6 | 3 | 1 | 2 | 4 | 10 |
-| 13 | Barcelona | 6 | 3 | 1 | 2 | 3 | 10 |
-| 14 | Liverpool FC | 6 | 3 | 1 | 2 | 2 | 10 |
+| 11 | Chelsea | 6 | 3 | 1 | 2 | 5 | 10 |
+| 12 | Manchester City | 5 | 3 | 1 | 1 | 5 | 10 |
+| 13 | Sporting CP | 6 | 3 | 1 | 2 | 4 | 10 |
+| 14 | Barcelona | 6 | 3 | 1 | 2 | 3 | 10 |
 | 15 | Newcastle United | 5 | 3 | 0 | 2 | 7 | 9 |
 | 16 | Marseille | 6 | 3 | 0 | 3 | 3 | 9 |
 | 17 | Galatasaray | 6 | 3 | 0 | 3 | 0 | 9 |
 | 18 | Monaco | 6 | 2 | 3 | 1 | -1 | 9 |
-| 19 | PSV | 6 | 2 | 2 | 2 | 3 | 8 |
+| 19 | PSV | 6 | 2 | 2 | 2 | 4 | 8 |
 | 20 | Bayer Leverkusen | 5 | 2 | 2 | 1 | -2 | 8 |
 | 21 | Qarabağ | 5 | 2 | 1 | 2 | -1 | 7 |
 | 22 | Napoli | 5 | 2 | 1 | 2 | -3 | 7 |
@@ -324,9 +324,9 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Southampton | 20 | 8 | 6 | 6 | 6 | 30 |
 | 9 | Bristol City | 19 | 8 | 5 | 6 | 5 | 29 |
 | 10 | Birmingham City | 20 | 8 | 4 | 8 | 4 | 28 |
-| 11 | Hull City | 19 | 8 | 4 | 7 | -3 | 28 |
-| 12 | Wrexham | 19 | 6 | 9 | 4 | 3 | 27 |
-| 13 | Watford | 20 | 7 | 6 | 7 | 1 | 27 |
+| 11 | Watford | 20 | 7 | 7 | 6 | 2 | 28 |
+| 12 | Hull City | 19 | 8 | 4 | 7 | -3 | 28 |
+| 13 | Wrexham | 19 | 6 | 9 | 4 | 3 | 27 |
 | 14 | Leicester City | 19 | 7 | 6 | 6 | 1 | 27 |
 | 15 | Derby County | 19 | 7 | 5 | 7 | -2 | 26 |
 | 16 | West Bromwich Albion | 20 | 7 | 4 | 9 | -5 | 25 |
@@ -337,7 +337,7 @@ The latest league standings are displayed below in Markdown tables:
 | 21 | Oxford United | 20 | 4 | 7 | 9 | -7 | 19 |
 | 22 | Portsmouth | 19 | 4 | 5 | 10 | -11 | 17 |
 | 23 | Norwich City | 20 | 3 | 5 | 12 | -11 | 14 |
-| 24 | Sheffield Wednesday | 19 | 2 | 5 | 12 | -21 | -7 |
+| 24 | Sheffield Wednesday | 19 | 1 | 6 | 12 | -22 | -9 |
 
 ### Major League Soccer (MLS)
 
