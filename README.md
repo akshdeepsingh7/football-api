@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 09 December 2025, 03:26 PM UTC (Tuesday, 09 December 2025, 08:56 PM IST)
+**Last Updated:** Tuesday, 09 December 2025, 03:45 PM UTC (Tuesday, 09 December 2025, 09:15 PM IST)
 
 ### Premier League
 
@@ -199,10 +199,10 @@ The latest league standings are displayed below in Markdown tables:
 | 29 | FC Copenhagen | 5 | 1 | 1 | 3 | -7 | 4 |
 | 30 | Benfica | 5 | 1 | 0 | 4 | -4 | 3 |
 | 31 | Slavia Prague | 5 | 0 | 3 | 2 | -6 | 3 |
-| 32 | Bodø/Glimt | 5 | 0 | 2 | 3 | -4 | 2 |
-| 33 | Olympiacos | 5 | 0 | 2 | 3 | -8 | 2 |
-| 34 | Villarreal | 5 | 0 | 1 | 4 | -8 | 1 |
-| 35 | Kairat | 5 | 0 | 1 | 4 | -10 | 1 |
+| 32 | Olympiacos | 6 | 0 | 3 | 3 | -8 | 3 |
+| 33 | Bodø/Glimt | 5 | 0 | 2 | 3 | -4 | 2 |
+| 34 | Kairat | 6 | 0 | 2 | 4 | -10 | 2 |
+| 35 | Villarreal | 5 | 0 | 1 | 4 | -8 | 1 |
 | 36 | Ajax | 5 | 0 | 0 | 5 | -15 | 0 |
 
 ### Europa League

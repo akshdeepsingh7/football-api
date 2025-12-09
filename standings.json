@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 09 December 2025, 03:26 PM UTC",
-        "IST": "Tuesday, 09 December 2025, 08:56 PM IST"
+        "UTC": "Tuesday, 09 December 2025, 03:45 PM UTC",
+        "IST": "Tuesday, 09 December 2025, 09:15 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -1287,6 +1287,16 @@
             },
             {
                 "Position": "32",
+                "Team": "Olympiacos",
+                "Played": "6",
+                "Wins": "0",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-8",
+                "Points": "3"
+            },
+            {
+                "Position": "33",
                 "Team": "Bod\u00f8/Glimt",
                 "Played": "5",
                 "Wins": "0",
@@ -1296,33 +1306,23 @@
                 "Points": "2"
             },
             {
-                "Position": "33",
-                "Team": "Olympiacos",
-                "Played": "5",
+                "Position": "34",
+                "Team": "Kairat",
+                "Played": "6",
                 "Wins": "0",
                 "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-8",
+                "Losses": "4",
+                "Goal Difference": "-10",
                 "Points": "2"
             },
             {
-                "Position": "34",
+                "Position": "35",
                 "Team": "Villarreal",
                 "Played": "5",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "4",
                 "Goal Difference": "-8",
-                "Points": "1"
-            },
-            {
-                "Position": "35",
-                "Team": "Kairat",
-                "Played": "5",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-10",
                 "Points": "1"
             },
             {
