@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 09 December 2025, 07:15 PM UTC (Wednesday, 10 December 2025, 12:45 AM IST)
+**Last Updated:** Tuesday, 09 December 2025, 07:41 PM UTC (Wednesday, 10 December 2025, 01:11 AM IST)
 
 ### Premier League
 
@@ -169,14 +169,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 5 | 5 | 0 | 0 | 13 | 15 |
-| 2 | Bayern Munich | 6 | 5 | 0 | 1 | 10 | 15 |
+| 2 | Bayern Munich | 6 | 5 | 0 | 1 | 11 | 15 |
 | 3 | PSG | 5 | 4 | 0 | 1 | 11 | 12 |
 | 4 | Inter | 5 | 4 | 0 | 1 | 9 | 12 |
 | 5 | Real Madrid | 5 | 4 | 0 | 1 | 7 | 12 |
 | 6 | Borussia Dortmund | 5 | 3 | 1 | 1 | 6 | 10 |
 | 7 | Chelsea | 5 | 3 | 1 | 1 | 6 | 10 |
-| 8 | Sporting CP | 6 | 3 | 1 | 2 | 5 | 10 |
-| 9 | Manchester City | 5 | 3 | 1 | 1 | 5 | 10 |
+| 8 | Manchester City | 5 | 3 | 1 | 1 | 5 | 10 |
+| 9 | Sporting CP | 6 | 3 | 1 | 2 | 4 | 10 |
 | 10 | Atalanta | 5 | 3 | 1 | 1 | 1 | 10 |
 | 11 | Newcastle United | 5 | 3 | 0 | 2 | 7 | 9 |
 | 12 | Atlético de Madrid | 5 | 3 | 0 | 2 | 2 | 9 |
