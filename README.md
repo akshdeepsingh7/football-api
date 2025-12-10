@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 10 December 2025, 05:23 PM UTC (Wednesday, 10 December 2025, 10:53 PM IST)
+**Last Updated:** Wednesday, 10 December 2025, 05:46 PM UTC (Wednesday, 10 December 2025, 11:16 PM IST)
 
 ### Premier League
 
@@ -187,23 +187,23 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Galatasaray | 6 | 3 | 0 | 3 | 0 | 9 |
 | 18 | Monaco | 6 | 2 | 3 | 1 | -1 | 9 |
 | 19 | PSV | 6 | 2 | 2 | 2 | 4 | 8 |
-| 20 | Bayer Leverkusen | 5 | 2 | 2 | 1 | -2 | 8 |
-| 21 | Qarabağ | 5 | 2 | 1 | 2 | -1 | 7 |
+| 20 | Qarabağ | 6 | 2 | 2 | 2 | -1 | 8 |
+| 21 | Bayer Leverkusen | 5 | 2 | 2 | 1 | -2 | 8 |
 | 22 | Napoli | 5 | 2 | 1 | 2 | -3 | 7 |
 | 23 | Juventus | 5 | 1 | 3 | 1 | 0 | 6 |
 | 24 | Pafos | 5 | 1 | 3 | 1 | -3 | 6 |
 | 25 | Union Saint-Gilloise | 6 | 2 | 0 | 4 | -8 | 6 |
-| 26 | Olympiacos | 6 | 1 | 2 | 3 | -7 | 5 |
-| 27 | Club Brugge | 5 | 1 | 1 | 3 | -5 | 4 |
-| 28 | Athletic Bilbao | 5 | 1 | 1 | 3 | -5 | 4 |
-| 29 | FC Copenhagen | 5 | 1 | 1 | 3 | -7 | 4 |
+| 26 | FC Copenhagen | 6 | 1 | 2 | 3 | -7 | 5 |
+| 27 | Olympiacos | 6 | 1 | 2 | 3 | -7 | 5 |
+| 28 | Club Brugge | 5 | 1 | 1 | 3 | -5 | 4 |
+| 29 | Athletic Bilbao | 5 | 1 | 1 | 3 | -5 | 4 |
 | 30 | Eintracht Frankfurt | 6 | 1 | 1 | 4 | -8 | 4 |
 | 31 | Benfica | 5 | 1 | 0 | 4 | -4 | 3 |
 | 32 | Slavia Prague | 6 | 0 | 3 | 3 | -9 | 3 |
 | 33 | Bodø/Glimt | 5 | 0 | 2 | 3 | -4 | 2 |
-| 34 | Villarreal | 5 | 0 | 1 | 4 | -8 | 1 |
+| 34 | Villarreal | 6 | 0 | 2 | 4 | -8 | 2 |
 | 35 | Kairat | 6 | 0 | 1 | 5 | -11 | 1 |
-| 36 | Ajax | 5 | 0 | 0 | 5 | -15 | 0 |
+| 36 | Ajax | 6 | 0 | 1 | 5 | -15 | 1 |
 
 ### Europa League
 
