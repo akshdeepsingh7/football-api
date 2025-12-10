@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 10 December 2025, 09:47 AM UTC (Wednesday, 10 December 2025, 03:17 PM IST)
+**Last Updated:** Wednesday, 10 December 2025, 10:26 AM UTC (Wednesday, 10 December 2025, 03:56 PM IST)
 
 ### Premier League
 
@@ -343,36 +343,36 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Philadelphia Union | 34 | 20 | 6 | 8 | 22 | 66 |
-| 2 | Cincinnati | 34 | 20 | 5 | 9 | 12 | 65 |
-| 3 | Inter Miami | 34 | 19 | 8 | 7 | 26 | 65 |
-| 4 | Charlotte | 34 | 19 | 2 | 13 | 9 | 59 |
-| 5 | NYCFC | 34 | 17 | 5 | 12 | 6 | 56 |
-| 6 | Nashville | 34 | 16 | 6 | 12 | 13 | 54 |
-| 7 | Columbus Crew | 34 | 14 | 12 | 8 | 4 | 54 |
-| 8 | Chicago Fire | 34 | 15 | 8 | 11 | 8 | 53 |
-| 9 | Orlando City | 34 | 14 | 11 | 9 | 12 | 53 |
-| 10 | New York RB | 34 | 12 | 7 | 15 | 1 | 43 |
-| 11 | New England Revolution | 34 | 9 | 9 | 16 | -7 | 36 |
-| 12 | Toronto | 34 | 6 | 14 | 14 | -7 | 32 |
-| 13 | CF Montréal | 34 | 6 | 10 | 18 | -26 | 28 |
-| 14 | Atlanta United | 34 | 5 | 13 | 16 | -25 | 28 |
-| 15 | DC United | 34 | 5 | 11 | 18 | -36 | 26 |
-| 1 | San Diego | 34 | 19 | 6 | 9 | 23 | 63 |
-| 2 | Vancouver Whitecaps | 34 | 18 | 9 | 7 | 28 | 63 |
-| 3 | LAFC | 34 | 17 | 9 | 8 | 25 | 60 |
-| 4 | Minnesota United | 34 | 16 | 10 | 8 | 17 | 58 |
-| 5 | Seattle Sounders | 34 | 15 | 10 | 9 | 10 | 55 |
-| 6 | Austin | 34 | 13 | 8 | 13 | -8 | 47 |
-| 7 | Dallas | 34 | 11 | 11 | 12 | -3 | 44 |
-| 8 | Portland Timbers | 34 | 11 | 11 | 12 | -7 | 44 |
-| 9 | Real Salt Lake | 34 | 12 | 5 | 17 | -11 | 41 |
-| 10 | San Jose Earthquakes | 34 | 11 | 8 | 15 | -3 | 41 |
-| 11 | Colorado Rapids | 34 | 11 | 8 | 15 | -12 | 41 |
-| 12 | Houston Dynamo | 34 | 9 | 10 | 15 | -13 | 37 |
-| 13 | St. Louis City | 34 | 8 | 8 | 18 | -14 | 32 |
-| 14 | LA Galaxy | 34 | 7 | 9 | 18 | -20 | 30 |
-| 15 | Sporting KC | 34 | 7 | 7 | 20 | -24 | 28 |
+| 1 | Atlanta United | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | CF Montréal | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Charlotte | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Chicago Fire | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Columbus Crew | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | DC United | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Cincinnati | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Inter Miami | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Nashville | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | New England Revolution | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | NYCFC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | New York RB | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Orlando City | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Philadelphia Union | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Toronto | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Austin | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Colorado Rapids | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Dallas | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Houston Dynamo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | LA Galaxy | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | LAFC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Minnesota United | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Portland Timbers | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Real Salt Lake | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | San Diego | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | San Jose Earthquakes | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Seattle Sounders | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Sporting KC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | St. Louis City | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Vancouver Whitecaps | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ### Indian Super League
 
