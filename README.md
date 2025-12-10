@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 10 December 2025, 10:50 AM UTC (Wednesday, 10 December 2025, 04:20 PM IST)
+**Last Updated:** Wednesday, 10 December 2025, 11:19 AM UTC (Wednesday, 10 December 2025, 04:49 PM IST)
 
 ### Premier League
 
@@ -344,13 +344,13 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Atlanta United | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | CF Montréal | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Charlotte | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Chicago Fire | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Charlotte | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Chicago Fire | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Cincinnati | 0 | 0 | 0 | 0 | 0 | 0 |
 | 5 | Columbus Crew | 0 | 0 | 0 | 0 | 0 | 0 |
 | 6 | DC United | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Cincinnati | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Inter Miami | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Inter Miami | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | CF Montréal | 0 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Nashville | 0 | 0 | 0 | 0 | 0 | 0 |
 | 10 | New England Revolution | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | NYCFC | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -367,8 +367,8 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Minnesota United | 0 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Portland Timbers | 0 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Real Salt Lake | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | San Diego | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | San Jose Earthquakes | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | San Jose Earthquakes | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | San Diego | 0 | 0 | 0 | 0 | 0 | 0 |
 | 12 | Seattle Sounders | 0 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Sporting KC | 0 | 0 | 0 | 0 | 0 | 0 |
 | 14 | St. Louis City | 0 | 0 | 0 | 0 | 0 | 0 |
