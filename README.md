@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 10 December 2025, 09:44 PM UTC (Thursday, 11 December 2025, 03:14 AM IST)
+**Last Updated:** Wednesday, 10 December 2025, 10:21 PM UTC (Thursday, 11 December 2025, 03:51 AM IST)
 
 ### Premier League
 
@@ -173,13 +173,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | PSG | 6 | 4 | 1 | 1 | 11 | 13 |
 | 4 | Manchester City | 6 | 4 | 1 | 1 | 6 | 13 |
 | 5 | Atalanta | 6 | 4 | 1 | 1 | 2 | 13 |
-| 6 | Newcastle United | 6 | 4 | 0 | 2 | 8 | 12 |
-| 7 | Inter | 6 | 4 | 0 | 2 | 8 | 12 |
-| 8 | Real Madrid | 6 | 4 | 0 | 2 | 6 | 12 |
-| 9 | Atlético de Madrid | 6 | 4 | 0 | 2 | 3 | 12 |
-| 10 | Liverpool FC | 6 | 4 | 0 | 2 | 3 | 12 |
-| 11 | Borussia Dortmund | 6 | 3 | 2 | 1 | 6 | 11 |
-| 12 | Tottenham Hotspur | 6 | 3 | 2 | 1 | 6 | 11 |
+| 6 | Inter | 6 | 4 | 0 | 2 | 8 | 12 |
+| 7 | Real Madrid | 6 | 4 | 0 | 2 | 6 | 12 |
+| 8 | Atlético de Madrid | 6 | 4 | 0 | 2 | 3 | 12 |
+| 9 | Liverpool FC | 6 | 4 | 0 | 2 | 3 | 12 |
+| 10 | Borussia Dortmund | 6 | 3 | 2 | 1 | 6 | 11 |
+| 11 | Tottenham Hotspur | 6 | 3 | 2 | 1 | 6 | 11 |
+| 12 | Newcastle United | 6 | 3 | 1 | 2 | 7 | 10 |
 | 13 | Chelsea | 6 | 3 | 1 | 2 | 5 | 10 |
 | 14 | Sporting CP | 6 | 3 | 1 | 2 | 4 | 10 |
 | 15 | Barcelona | 6 | 3 | 1 | 2 | 3 | 10 |
@@ -187,8 +187,8 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Juventus | 6 | 2 | 3 | 1 | 2 | 9 |
 | 18 | Galatasaray | 6 | 3 | 0 | 3 | 0 | 9 |
 | 19 | Monaco | 6 | 2 | 3 | 1 | -1 | 9 |
-| 20 | PSV | 6 | 2 | 2 | 2 | 4 | 8 |
-| 21 | Bayer Leverkusen | 6 | 2 | 2 | 2 | -3 | 8 |
+| 20 | Bayer Leverkusen | 6 | 2 | 3 | 1 | -2 | 9 |
+| 21 | PSV | 6 | 2 | 2 | 2 | 4 | 8 |
 | 22 | Qarabağ | 6 | 2 | 1 | 3 | -3 | 7 |
 | 23 | Napoli | 6 | 2 | 1 | 3 | -5 | 7 |
 | 24 | FC Copenhagen | 6 | 2 | 1 | 3 | -6 | 7 |
