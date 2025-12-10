@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 10 December 2025, 05:46 PM UTC",
-        "IST": "Wednesday, 10 December 2025, 11:16 PM IST"
+        "UTC": "Wednesday, 10 December 2025, 06:31 PM UTC",
+        "IST": "Thursday, 11 December 2025, 12:01 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1197,6 +1197,16 @@
             },
             {
                 "Position": "23",
+                "Team": "FC Copenhagen",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-6",
+                "Points": "7"
+            },
+            {
+                "Position": "24",
                 "Team": "Juventus",
                 "Played": "5",
                 "Wins": "1",
@@ -1206,7 +1216,7 @@
                 "Points": "6"
             },
             {
-                "Position": "24",
+                "Position": "25",
                 "Team": "Pafos",
                 "Played": "5",
                 "Wins": "1",
@@ -1216,7 +1226,7 @@
                 "Points": "6"
             },
             {
-                "Position": "25",
+                "Position": "26",
                 "Team": "Union Saint-Gilloise",
                 "Played": "6",
                 "Wins": "2",
@@ -1224,16 +1234,6 @@
                 "Losses": "4",
                 "Goal Difference": "-8",
                 "Points": "6"
-            },
-            {
-                "Position": "26",
-                "Team": "FC Copenhagen",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-7",
-                "Points": "5"
             },
             {
                 "Position": "27",
@@ -1310,10 +1310,10 @@
                 "Team": "Villarreal",
                 "Played": "6",
                 "Wins": "0",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-8",
-                "Points": "2"
+                "Draws": "1",
+                "Losses": "5",
+                "Goal Difference": "-9",
+                "Points": "1"
             },
             {
                 "Position": "35",
