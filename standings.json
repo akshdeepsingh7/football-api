@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 10 December 2025, 06:31 PM UTC",
-        "IST": "Thursday, 11 December 2025, 12:01 AM IST"
+        "UTC": "Wednesday, 10 December 2025, 07:18 PM UTC",
+        "IST": "Thursday, 11 December 2025, 12:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1117,6 +1117,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Qaraba\u011f",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "10"
+            },
+            {
+                "Position": "16",
                 "Team": "Newcastle United",
                 "Played": "5",
                 "Wins": "3",
@@ -1126,7 +1136,7 @@
                 "Points": "9"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Marseille",
                 "Played": "6",
                 "Wins": "3",
@@ -1136,7 +1146,7 @@
                 "Points": "9"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Galatasaray",
                 "Played": "6",
                 "Wins": "3",
@@ -1146,7 +1156,7 @@
                 "Points": "9"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Monaco",
                 "Played": "6",
                 "Wins": "2",
@@ -1156,23 +1166,13 @@
                 "Points": "9"
             },
             {
-                "Position": "19",
+                "Position": "20",
                 "Team": "PSV",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "4",
-                "Points": "8"
-            },
-            {
-                "Position": "20",
-                "Team": "Qaraba\u011f",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-1",
                 "Points": "8"
             },
             {
@@ -1197,16 +1197,6 @@
             },
             {
                 "Position": "23",
-                "Team": "FC Copenhagen",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-6",
-                "Points": "7"
-            },
-            {
-                "Position": "24",
                 "Team": "Juventus",
                 "Played": "5",
                 "Wins": "1",
@@ -1216,7 +1206,7 @@
                 "Points": "6"
             },
             {
-                "Position": "25",
+                "Position": "24",
                 "Team": "Pafos",
                 "Played": "5",
                 "Wins": "1",
@@ -1226,7 +1216,7 @@
                 "Points": "6"
             },
             {
-                "Position": "26",
+                "Position": "25",
                 "Team": "Union Saint-Gilloise",
                 "Played": "6",
                 "Wins": "2",
@@ -1234,6 +1224,16 @@
                 "Losses": "4",
                 "Goal Difference": "-8",
                 "Points": "6"
+            },
+            {
+                "Position": "26",
+                "Team": "FC Copenhagen",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-7",
+                "Points": "5"
             },
             {
                 "Position": "27",
@@ -1310,10 +1310,10 @@
                 "Team": "Villarreal",
                 "Played": "6",
                 "Wins": "0",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-9",
-                "Points": "1"
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-8",
+                "Points": "2"
             },
             {
                 "Position": "35",
@@ -1330,10 +1330,10 @@
                 "Team": "Ajax",
                 "Played": "6",
                 "Wins": "0",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-15",
-                "Points": "1"
+                "Draws": "0",
+                "Losses": "6",
+                "Goal Difference": "-16",
+                "Points": "0"
             }
         ],
         "Europa League": [

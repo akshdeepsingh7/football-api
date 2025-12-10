@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 10 December 2025, 06:31 PM UTC (Thursday, 11 December 2025, 12:01 AM IST)
+**Last Updated:** Wednesday, 10 December 2025, 07:18 PM UTC (Thursday, 11 December 2025, 12:48 AM IST)
 
 ### Premier League
 
@@ -182,18 +182,18 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Manchester City | 5 | 3 | 1 | 1 | 5 | 10 |
 | 13 | Sporting CP | 6 | 3 | 1 | 2 | 4 | 10 |
 | 14 | Barcelona | 6 | 3 | 1 | 2 | 3 | 10 |
-| 15 | Newcastle United | 5 | 3 | 0 | 2 | 7 | 9 |
-| 16 | Marseille | 6 | 3 | 0 | 3 | 3 | 9 |
-| 17 | Galatasaray | 6 | 3 | 0 | 3 | 0 | 9 |
-| 18 | Monaco | 6 | 2 | 3 | 1 | -1 | 9 |
-| 19 | PSV | 6 | 2 | 2 | 2 | 4 | 8 |
-| 20 | Qarabağ | 6 | 2 | 2 | 2 | -1 | 8 |
+| 15 | Qarabağ | 6 | 3 | 1 | 2 | 0 | 10 |
+| 16 | Newcastle United | 5 | 3 | 0 | 2 | 7 | 9 |
+| 17 | Marseille | 6 | 3 | 0 | 3 | 3 | 9 |
+| 18 | Galatasaray | 6 | 3 | 0 | 3 | 0 | 9 |
+| 19 | Monaco | 6 | 2 | 3 | 1 | -1 | 9 |
+| 20 | PSV | 6 | 2 | 2 | 2 | 4 | 8 |
 | 21 | Bayer Leverkusen | 5 | 2 | 2 | 1 | -2 | 8 |
 | 22 | Napoli | 5 | 2 | 1 | 2 | -3 | 7 |
-| 23 | FC Copenhagen | 6 | 2 | 1 | 3 | -6 | 7 |
-| 24 | Juventus | 5 | 1 | 3 | 1 | 0 | 6 |
-| 25 | Pafos | 5 | 1 | 3 | 1 | -3 | 6 |
-| 26 | Union Saint-Gilloise | 6 | 2 | 0 | 4 | -8 | 6 |
+| 23 | Juventus | 5 | 1 | 3 | 1 | 0 | 6 |
+| 24 | Pafos | 5 | 1 | 3 | 1 | -3 | 6 |
+| 25 | Union Saint-Gilloise | 6 | 2 | 0 | 4 | -8 | 6 |
+| 26 | FC Copenhagen | 6 | 1 | 2 | 3 | -7 | 5 |
 | 27 | Olympiacos | 6 | 1 | 2 | 3 | -7 | 5 |
 | 28 | Club Brugge | 5 | 1 | 1 | 3 | -5 | 4 |
 | 29 | Athletic Bilbao | 5 | 1 | 1 | 3 | -5 | 4 |
@@ -201,9 +201,9 @@ The latest league standings are displayed below in Markdown tables:
 | 31 | Benfica | 5 | 1 | 0 | 4 | -4 | 3 |
 | 32 | Slavia Prague | 6 | 0 | 3 | 3 | -9 | 3 |
 | 33 | Bodø/Glimt | 5 | 0 | 2 | 3 | -4 | 2 |
-| 34 | Villarreal | 6 | 0 | 1 | 5 | -9 | 1 |
+| 34 | Villarreal | 6 | 0 | 2 | 4 | -8 | 2 |
 | 35 | Kairat | 6 | 0 | 1 | 5 | -11 | 1 |
-| 36 | Ajax | 6 | 0 | 1 | 5 | -15 | 1 |
+| 36 | Ajax | 6 | 0 | 0 | 6 | -16 | 0 |
 
 ### Europa League
 
