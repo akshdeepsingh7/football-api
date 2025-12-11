@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 11 December 2025, 09:23 PM UTC (Friday, 12 December 2025, 02:53 AM IST)
+**Last Updated:** Thursday, 11 December 2025, 09:41 PM UTC (Friday, 12 December 2025, 03:11 AM IST)
 
 ### Premier League
 
@@ -218,19 +218,19 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Braga | 6 | 4 | 1 | 1 | 5 | 13 |
 | 8 | Porto | 6 | 4 | 1 | 1 | 5 | 13 |
 | 9 | VfB Stuttgart | 6 | 4 | 0 | 2 | 7 | 12 |
-| 10 | Celta de Vigo | 6 | 4 | 0 | 2 | 5 | 12 |
-| 11 | Roma | 6 | 4 | 0 | 2 | 5 | 12 |
-| 12 | Nottingham Forest | 6 | 3 | 2 | 1 | 5 | 11 |
-| 13 | Fenerbahçe | 6 | 3 | 2 | 1 | 3 | 11 |
+| 10 | Roma | 6 | 4 | 0 | 2 | 5 | 12 |
+| 11 | Nottingham Forest | 6 | 3 | 2 | 1 | 5 | 11 |
+| 12 | Fenerbahçe | 6 | 3 | 2 | 1 | 4 | 11 |
+| 13 | Bologna | 6 | 3 | 2 | 1 | 4 | 11 |
 | 14 | Plzeň | 6 | 2 | 4 | 0 | 4 | 10 |
 | 15 | Panathinaikos | 6 | 3 | 1 | 2 | 2 | 10 |
 | 16 | KRC Genk | 6 | 3 | 1 | 2 | 1 | 10 |
 | 17 | Red Star Belgrade | 6 | 3 | 1 | 2 | 0 | 10 |
 | 18 | PAOK | 6 | 2 | 3 | 1 | 3 | 9 |
-| 19 | Lille | 6 | 3 | 0 | 3 | 3 | 9 |
-| 20 | BSC Young Boys | 6 | 3 | 0 | 3 | -4 | 9 |
-| 21 | Bologna | 6 | 2 | 2 | 2 | 2 | 8 |
-| 22 | Brann | 6 | 2 | 2 | 2 | 0 | 8 |
+| 19 | Celta de Vigo | 6 | 3 | 0 | 3 | 3 | 9 |
+| 20 | Lille | 6 | 3 | 0 | 3 | 3 | 9 |
+| 21 | BSC Young Boys | 6 | 3 | 0 | 3 | -4 | 9 |
+| 22 | Brann | 6 | 2 | 2 | 2 | -1 | 8 |
 | 23 | Ludogorets | 6 | 2 | 1 | 3 | -3 | 7 |
 | 24 | Celtic | 6 | 2 | 1 | 3 | -4 | 7 |
 | 25 | Dinamo Zagreb | 6 | 2 | 1 | 3 | -5 | 7 |
@@ -251,7 +251,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Strasbourg | 5 | 4 | 1 | 0 | 4 | 13 |
-| 2 | Shakhtar Donetsk | 5 | 4 | 0 | 1 | 4 | 12 |
+| 2 | Shakhtar Donetsk | 5 | 4 | 0 | 1 | 5 | 12 |
 | 3 | Raków | 5 | 3 | 2 | 0 | 6 | 11 |
 | 4 | AEK Athens | 5 | 3 | 1 | 1 | 6 | 10 |
 | 5 | Samsunspor | 5 | 3 | 1 | 1 | 6 | 10 |
@@ -261,27 +261,27 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Crystal Palace | 5 | 3 | 0 | 2 | 5 | 9 |
 | 10 | AEK Larnaca | 5 | 2 | 3 | 0 | 5 | 9 |
 | 11 | Fiorentina | 5 | 3 | 0 | 2 | 4 | 9 |
-| 12 | Celje | 5 | 3 | 0 | 2 | 3 | 9 |
+| 12 | Celje | 5 | 3 | 0 | 2 | 1 | 9 |
 | 13 | AZ | 5 | 3 | 0 | 2 | 0 | 9 |
-| 14 | Omonia | 5 | 2 | 2 | 1 | 2 | 8 |
-| 15 | Lausanne-Sport | 5 | 2 | 2 | 1 | 2 | 8 |
-| 16 | Noah | 5 | 2 | 2 | 1 | 1 | 8 |
-| 17 | Jagiellonia | 5 | 2 | 2 | 1 | 1 | 8 |
-| 18 | Rijeka | 5 | 2 | 2 | 1 | 1 | 8 |
-| 19 | Sigma Olomouc | 5 | 2 | 2 | 1 | 0 | 8 |
-| 20 | Drita | 5 | 2 | 2 | 1 | -1 | 8 |
-| 21 | Lech | 5 | 2 | 1 | 2 | 3 | 7 |
-| 22 | Shkëndija | 5 | 2 | 1 | 2 | 0 | 7 |
+| 14 | Rijeka | 5 | 2 | 2 | 1 | 3 | 8 |
+| 15 | Omonia | 5 | 2 | 2 | 1 | 2 | 8 |
+| 16 | Lausanne-Sport | 5 | 2 | 2 | 1 | 2 | 8 |
+| 17 | Noah | 5 | 2 | 2 | 1 | 1 | 8 |
+| 18 | Jagiellonia | 5 | 2 | 2 | 1 | 1 | 8 |
+| 19 | Drita | 5 | 2 | 2 | 1 | -1 | 8 |
+| 20 | Lech | 5 | 2 | 1 | 2 | 3 | 7 |
+| 21 | Shkëndija | 5 | 2 | 1 | 2 | 0 | 7 |
+| 22 | Sigma Olomouc | 5 | 2 | 1 | 2 | -1 | 7 |
 | 23 | Universitatea Craiova | 5 | 2 | 1 | 2 | -1 | 7 |
-| 24 | KuPS | 5 | 1 | 3 | 1 | 1 | 6 |
-| 25 | Zrinjski Mostar | 5 | 2 | 0 | 3 | -2 | 6 |
-| 26 | Breiðablik | 5 | 1 | 2 | 2 | -3 | 5 |
-| 27 | Lincoln Red Imps | 5 | 1 | 2 | 2 | -6 | 5 |
+| 24 | Lincoln Red Imps | 5 | 2 | 1 | 2 | -5 | 7 |
+| 25 | KuPS | 5 | 1 | 3 | 1 | 1 | 6 |
+| 26 | Zrinjski Mostar | 5 | 2 | 0 | 3 | -2 | 6 |
+| 27 | Breiðablik | 5 | 1 | 2 | 2 | -3 | 5 |
 | 28 | Dynamo Kyiv | 5 | 1 | 0 | 4 | -2 | 3 |
 | 29 | Häcken | 5 | 0 | 3 | 2 | -2 | 3 |
 | 30 | Legia | 5 | 1 | 0 | 4 | -3 | 3 |
-| 31 | Hamrun Spartans | 5 | 1 | 0 | 4 | -4 | 3 |
-| 32 | Slovan Bratislava | 5 | 1 | 0 | 4 | -5 | 3 |
+| 31 | Slovan Bratislava | 5 | 1 | 0 | 4 | -5 | 3 |
+| 32 | Hamrun Spartans | 5 | 1 | 0 | 4 | -5 | 3 |
 | 33 | Aberdeen | 5 | 0 | 2 | 3 | -8 | 2 |
 | 34 | Shelbourne | 5 | 0 | 1 | 4 | -7 | 1 |
 | 35 | Shamrock Rovers | 5 | 0 | 1 | 4 | -8 | 1 |
