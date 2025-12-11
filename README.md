@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 11 December 2025, 09:41 PM UTC (Friday, 12 December 2025, 03:11 AM IST)
+**Last Updated:** Thursday, 11 December 2025, 10:21 PM UTC (Friday, 12 December 2025, 03:51 AM IST)
 
 ### Premier League
 
@@ -216,7 +216,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | SC Freiburg | 6 | 4 | 2 | 0 | 6 | 14 |
 | 6 | Ferencváros | 6 | 4 | 2 | 0 | 5 | 14 |
 | 7 | Braga | 6 | 4 | 1 | 1 | 5 | 13 |
-| 8 | Porto | 6 | 4 | 1 | 1 | 5 | 13 |
+| 8 | Porto | 6 | 4 | 1 | 1 | 4 | 13 |
 | 9 | VfB Stuttgart | 6 | 4 | 0 | 2 | 7 | 12 |
 | 10 | Roma | 6 | 4 | 0 | 2 | 5 | 12 |
 | 11 | Nottingham Forest | 6 | 3 | 2 | 1 | 5 | 11 |
@@ -235,14 +235,14 @@ The latest league standings are displayed below in Markdown tables:
 | 24 | Celtic | 6 | 2 | 1 | 3 | -4 | 7 |
 | 25 | Dinamo Zagreb | 6 | 2 | 1 | 3 | -5 | 7 |
 | 26 | FC Basel | 6 | 2 | 0 | 4 | -1 | 6 |
-| 27 | Feyenoord | 6 | 2 | 0 | 4 | -4 | 6 |
+| 27 | FCSB | 6 | 2 | 0 | 4 | -4 | 6 |
 | 28 | Go Ahead Eagles | 6 | 2 | 0 | 4 | -6 | 6 |
 | 29 | Sturm Graz | 6 | 1 | 1 | 4 | -4 | 4 |
-| 30 | FCSB | 6 | 1 | 0 | 5 | -6 | 3 |
+| 30 | Feyenoord | 6 | 1 | 0 | 5 | -6 | 3 |
 | 31 | RB Salzburg | 6 | 1 | 0 | 5 | -6 | 3 |
 | 32 | Utrecht | 6 | 0 | 1 | 5 | -6 | 1 |
 | 33 | Rangers | 6 | 0 | 1 | 5 | -8 | 1 |
-| 34 | Malmö | 6 | 0 | 1 | 5 | -10 | 1 |
+| 34 | Malmö | 6 | 0 | 1 | 5 | -9 | 1 |
 | 35 | Maccabi Tel Aviv | 6 | 0 | 1 | 5 | -16 | 1 |
 | 36 | Nice | 6 | 0 | 0 | 6 | -9 | 0 |
 
