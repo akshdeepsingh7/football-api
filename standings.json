@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 12 December 2025, 09:39 PM UTC",
-        "IST": "Saturday, 13 December 2025, 03:09 AM IST"
+        "UTC": "Friday, 12 December 2025, 10:20 PM UTC",
+        "IST": "Saturday, 13 December 2025, 03:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -319,16 +319,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Real Sociedad",
-                "Played": "16",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-3",
-                "Points": "17"
-            },
-            {
-                "Position": "13",
                 "Team": "Rayo Vallecano",
                 "Played": "15",
                 "Wins": "4",
@@ -338,7 +328,7 @@
                 "Points": "17"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Sevilla",
                 "Played": "15",
                 "Wins": "5",
@@ -346,6 +336,16 @@
                 "Losses": "8",
                 "Goal Difference": "-4",
                 "Points": "17"
+            },
+            {
+                "Position": "14",
+                "Team": "Real Sociedad",
+                "Played": "16",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-4",
+                "Points": "16"
             },
             {
                 "Position": "15",
@@ -369,6 +369,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Girona",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "-15",
+                "Points": "15"
+            },
+            {
+                "Position": "18",
                 "Team": "Mallorca",
                 "Played": "15",
                 "Wins": "3",
@@ -376,16 +386,6 @@
                 "Losses": "7",
                 "Goal Difference": "-7",
                 "Points": "14"
-            },
-            {
-                "Position": "18",
-                "Team": "Girona",
-                "Played": "16",
-                "Wins": "2",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-16",
-                "Points": "13"
             },
             {
                 "Position": "19",
