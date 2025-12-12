@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 12 December 2025, 08:24 PM UTC",
-        "IST": "Saturday, 13 December 2025, 01:54 AM IST"
+        "UTC": "Friday, 12 December 2025, 08:44 PM UTC",
+        "IST": "Saturday, 13 December 2025, 02:14 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Real Sociedad",
+                "Played": "16",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "-2",
+                "Points": "19"
+            },
+            {
+                "Position": "12",
                 "Team": "Alav\u00e9s",
                 "Played": "15",
                 "Wins": "5",
@@ -316,16 +326,6 @@
                 "Losses": "7",
                 "Goal Difference": "-2",
                 "Points": "18"
-            },
-            {
-                "Position": "12",
-                "Team": "Real Sociedad",
-                "Played": "16",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-3",
-                "Points": "17"
             },
             {
                 "Position": "13",
@@ -382,10 +382,10 @@
                 "Team": "Girona",
                 "Played": "16",
                 "Wins": "2",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-16",
-                "Points": "13"
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "-17",
+                "Points": "12"
             },
             {
                 "Position": "19",
