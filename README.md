@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 12 December 2025, 09:19 PM UTC (Saturday, 13 December 2025, 02:49 AM IST)
+**Last Updated:** Friday, 12 December 2025, 09:39 PM UTC (Saturday, 13 December 2025, 03:09 AM IST)
 
 ### Premier League
 
@@ -82,14 +82,14 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Getafe | 15 | 6 | 2 | 7 | -4 | 20 |
 | 9 | Elche | 15 | 4 | 7 | 4 | 1 | 19 |
 | 10 | Celta de Vigo | 15 | 4 | 7 | 4 | -1 | 19 |
-| 11 | Real Sociedad | 16 | 5 | 4 | 7 | -2 | 19 |
-| 12 | Alavés | 15 | 5 | 3 | 7 | -2 | 18 |
+| 11 | Alavés | 15 | 5 | 3 | 7 | -2 | 18 |
+| 12 | Real Sociedad | 16 | 4 | 5 | 7 | -3 | 17 |
 | 13 | Rayo Vallecano | 15 | 4 | 5 | 6 | -3 | 17 |
 | 14 | Sevilla | 15 | 5 | 2 | 8 | -4 | 17 |
 | 15 | Osasuna | 15 | 4 | 3 | 8 | -4 | 15 |
 | 16 | Valencia | 15 | 3 | 6 | 6 | -9 | 15 |
 | 17 | Mallorca | 15 | 3 | 5 | 7 | -7 | 14 |
-| 18 | Girona | 16 | 2 | 6 | 8 | -17 | 12 |
+| 18 | Girona | 16 | 2 | 7 | 7 | -16 | 13 |
 | 19 | Real Oviedo | 15 | 2 | 4 | 9 | -15 | 10 |
 | 20 | Levante | 15 | 2 | 3 | 10 | -12 | 9 |
 
@@ -98,13 +98,13 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 13 | 12 | 1 | 0 | 40 | 37 |
-| 2 | RB Leipzig | 14 | 9 | 2 | 3 | 14 | 29 |
+| 2 | RB Leipzig | 14 | 9 | 2 | 3 | 13 | 29 |
 | 3 | Borussia Dortmund | 13 | 8 | 4 | 1 | 12 | 28 |
 | 4 | Bayer Leverkusen | 13 | 7 | 2 | 4 | 9 | 23 |
 | 5 | Hoffenheim | 13 | 7 | 2 | 4 | 6 | 23 |
 | 6 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
 | 7 | Eintracht Frankfurt | 13 | 6 | 3 | 4 | -1 | 21 |
-| 8 | Union Berlin | 14 | 5 | 3 | 6 | -5 | 18 |
+| 8 | Union Berlin | 14 | 5 | 3 | 6 | -4 | 18 |
 | 9 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
 | 10 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
 | 11 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
@@ -132,12 +132,12 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Lazio | 14 | 5 | 4 | 5 | 5 | 19 |
 | 11 | Udinese | 14 | 5 | 3 | 6 | -7 | 18 |
 | 12 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
-| 13 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
-| 14 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
-| 15 | Parma | 14 | 3 | 5 | 6 | -7 | 14 |
-| 16 | Torino | 14 | 3 | 5 | 6 | -12 | 14 |
-| 17 | Lecce | 15 | 3 | 5 | 7 | -9 | 14 |
-| 18 | Pisa | 15 | 1 | 8 | 6 | -9 | 11 |
+| 13 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
+| 14 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
+| 15 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
+| 16 | Parma | 14 | 3 | 5 | 6 | -7 | 14 |
+| 17 | Torino | 14 | 3 | 5 | 6 | -12 | 14 |
+| 18 | Pisa | 15 | 1 | 7 | 7 | -10 | 10 |
 | 19 | Hellas Verona | 14 | 1 | 6 | 7 | -10 | 9 |
 | 20 | Fiorentina | 14 | 0 | 6 | 8 | -13 | 6 |
 
@@ -153,7 +153,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Rennes | 15 | 6 | 6 | 3 | 1 | 24 |
 | 7 | Monaco | 15 | 7 | 2 | 6 | 0 | 23 |
 | 8 | Strasbourg | 15 | 7 | 1 | 7 | 5 | 22 |
-| 9 | Angers | 16 | 6 | 4 | 6 | -2 | 22 |
+| 9 | Angers | 16 | 6 | 4 | 6 | -1 | 22 |
 | 10 | Toulouse | 15 | 5 | 5 | 5 | 2 | 20 |
 | 11 | Brest | 15 | 5 | 4 | 6 | -4 | 19 |
 | 12 | Nice | 15 | 5 | 2 | 8 | -8 | 17 |
@@ -161,7 +161,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Paris FC | 15 | 4 | 4 | 7 | -5 | 16 |
 | 15 | Le Havre | 15 | 3 | 6 | 6 | -8 | 15 |
 | 16 | Auxerre | 15 | 3 | 3 | 9 | -10 | 12 |
-| 17 | Nantes | 16 | 2 | 5 | 9 | -13 | 11 |
+| 17 | Nantes | 16 | 2 | 5 | 9 | -14 | 11 |
 | 18 | Metz | 15 | 3 | 2 | 10 | -19 | 11 |
 
 ### Champions League
