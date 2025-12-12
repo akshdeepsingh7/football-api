@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 12 December 2025, 08:44 PM UTC (Saturday, 13 December 2025, 02:14 AM IST)
+**Last Updated:** Friday, 12 December 2025, 09:19 PM UTC (Saturday, 13 December 2025, 02:49 AM IST)
 
 ### Premier League
 
@@ -98,17 +98,17 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 13 | 12 | 1 | 0 | 40 | 37 |
-| 2 | RB Leipzig | 14 | 9 | 3 | 2 | 15 | 30 |
+| 2 | RB Leipzig | 14 | 9 | 2 | 3 | 14 | 29 |
 | 3 | Borussia Dortmund | 13 | 8 | 4 | 1 | 12 | 28 |
 | 4 | Bayer Leverkusen | 13 | 7 | 2 | 4 | 9 | 23 |
 | 5 | Hoffenheim | 13 | 7 | 2 | 4 | 6 | 23 |
 | 6 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
 | 7 | Eintracht Frankfurt | 13 | 6 | 3 | 4 | -1 | 21 |
-| 8 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
-| 9 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
-| 10 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
-| 11 | Werder Bremen | 13 | 4 | 4 | 5 | -6 | 16 |
-| 12 | Union Berlin | 14 | 4 | 4 | 6 | -6 | 16 |
+| 8 | Union Berlin | 14 | 5 | 3 | 6 | -5 | 18 |
+| 9 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
+| 10 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
+| 11 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
+| 12 | Werder Bremen | 13 | 4 | 4 | 5 | -6 | 16 |
 | 13 | Hamburg | 13 | 4 | 3 | 6 | -6 | 15 |
 | 14 | Augsburg | 13 | 4 | 1 | 8 | -10 | 13 |
 | 15 | VfL Wolfsburg | 13 | 3 | 3 | 7 | -6 | 12 |
@@ -153,7 +153,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Rennes | 15 | 6 | 6 | 3 | 1 | 24 |
 | 7 | Monaco | 15 | 7 | 2 | 6 | 0 | 23 |
 | 8 | Strasbourg | 15 | 7 | 1 | 7 | 5 | 22 |
-| 9 | Angers | 16 | 6 | 4 | 6 | -3 | 22 |
+| 9 | Angers | 16 | 6 | 4 | 6 | -2 | 22 |
 | 10 | Toulouse | 15 | 5 | 5 | 5 | 2 | 20 |
 | 11 | Brest | 15 | 5 | 4 | 6 | -4 | 19 |
 | 12 | Nice | 15 | 5 | 2 | 8 | -8 | 17 |
@@ -161,7 +161,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Paris FC | 15 | 4 | 4 | 7 | -5 | 16 |
 | 15 | Le Havre | 15 | 3 | 6 | 6 | -8 | 15 |
 | 16 | Auxerre | 15 | 3 | 3 | 9 | -10 | 12 |
-| 17 | Nantes | 16 | 2 | 5 | 9 | -12 | 11 |
+| 17 | Nantes | 16 | 2 | 5 | 9 | -13 | 11 |
 | 18 | Metz | 15 | 3 | 2 | 10 | -19 | 11 |
 
 ### Champions League
@@ -327,10 +327,10 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Birmingham City | 20 | 8 | 4 | 8 | 4 | 28 |
 | 12 | Watford | 20 | 7 | 7 | 6 | 2 | 28 |
 | 13 | Leicester City | 20 | 7 | 7 | 6 | 1 | 28 |
-| 14 | Wrexham | 20 | 6 | 9 | 5 | 1 | 27 |
-| 15 | Derby County | 20 | 7 | 6 | 7 | -2 | 27 |
-| 16 | West Bromwich Albion | 21 | 7 | 5 | 9 | -5 | 26 |
-| 17 | Sheffield United | 21 | 7 | 3 | 11 | -4 | 24 |
+| 14 | West Bromwich Albion | 21 | 8 | 4 | 9 | -3 | 28 |
+| 15 | Wrexham | 20 | 6 | 9 | 5 | 1 | 27 |
+| 16 | Derby County | 20 | 7 | 6 | 7 | -2 | 27 |
+| 17 | Sheffield United | 21 | 7 | 2 | 12 | -6 | 23 |
 | 18 | Swansea City | 20 | 6 | 5 | 9 | -6 | 23 |
 | 19 | Charlton Athletic | 19 | 6 | 5 | 8 | -6 | 23 |
 | 20 | Blackburn Rovers | 19 | 6 | 4 | 9 | -5 | 22 |

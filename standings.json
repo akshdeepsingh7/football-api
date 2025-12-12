@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 12 December 2025, 08:44 PM UTC",
-        "IST": "Saturday, 13 December 2025, 02:14 AM IST"
+        "UTC": "Friday, 12 December 2025, 09:19 PM UTC",
+        "IST": "Saturday, 13 December 2025, 02:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -424,10 +424,10 @@
                 "Team": "RB Leipzig",
                 "Played": "14",
                 "Wins": "9",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "15",
-                "Points": "30"
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "14",
+                "Points": "29"
             },
             {
                 "Position": "3",
@@ -481,6 +481,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Union Berlin",
+                "Played": "14",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-5",
+                "Points": "18"
+            },
+            {
+                "Position": "9",
                 "Team": "K\u00f6ln",
                 "Played": "13",
                 "Wins": "4",
@@ -490,7 +500,7 @@
                 "Points": "16"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "SC Freiburg",
                 "Played": "13",
                 "Wins": "4",
@@ -500,7 +510,7 @@
                 "Points": "16"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "13",
                 "Wins": "4",
@@ -510,22 +520,12 @@
                 "Points": "16"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Werder Bremen",
                 "Played": "13",
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "-6",
-                "Points": "16"
-            },
-            {
-                "Position": "12",
-                "Team": "Union Berlin",
-                "Played": "14",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "6",
                 "Goal Difference": "-6",
                 "Points": "16"
             },
@@ -880,7 +880,7 @@
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "6",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "22"
             },
             {
@@ -960,7 +960,7 @@
                 "Wins": "2",
                 "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "-12",
+                "Goal Difference": "-13",
                 "Points": "11"
             },
             {
@@ -2375,6 +2375,16 @@
             },
             {
                 "Position": "14",
+                "Team": "West Bromwich Albion",
+                "Played": "21",
+                "Wins": "8",
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "-3",
+                "Points": "28"
+            },
+            {
+                "Position": "15",
                 "Team": "Wrexham",
                 "Played": "20",
                 "Wins": "6",
@@ -2384,7 +2394,7 @@
                 "Points": "27"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Derby County",
                 "Played": "20",
                 "Wins": "7",
@@ -2394,24 +2404,14 @@
                 "Points": "27"
             },
             {
-                "Position": "16",
-                "Team": "West Bromwich Albion",
-                "Played": "21",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-5",
-                "Points": "26"
-            },
-            {
                 "Position": "17",
                 "Team": "Sheffield United",
                 "Played": "21",
                 "Wins": "7",
-                "Draws": "3",
-                "Losses": "11",
-                "Goal Difference": "-4",
-                "Points": "24"
+                "Draws": "2",
+                "Losses": "12",
+                "Goal Difference": "-6",
+                "Points": "23"
             },
             {
                 "Position": "18",
