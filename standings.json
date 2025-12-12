@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 12 December 2025, 07:18 PM UTC",
-        "IST": "Saturday, 13 December 2025, 12:48 AM IST"
+        "UTC": "Friday, 12 December 2025, 07:39 PM UTC",
+        "IST": "Saturday, 13 December 2025, 01:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -422,12 +422,12 @@
             {
                 "Position": "2",
                 "Team": "RB Leipzig",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "9",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "15",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "3",
@@ -522,12 +522,12 @@
             {
                 "Position": "12",
                 "Team": "Union Berlin",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "4",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "6",
                 "Goal Difference": "-6",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "13",
