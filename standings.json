@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 05:17 PM UTC",
-        "IST": "Saturday, 13 December 2025, 10:47 PM IST"
+        "UTC": "Saturday, 13 December 2025, 05:39 PM UTC",
+        "IST": "Saturday, 13 December 2025, 11:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -148,12 +148,12 @@
             {
                 "Position": "15",
                 "Team": "Fulham",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "5",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "8",
                 "Goal Difference": "-4",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "16",
@@ -188,12 +188,12 @@
             {
                 "Position": "19",
                 "Team": "Burnley",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "3",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "11",
                 "Goal Difference": "-14",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "20",
@@ -210,12 +210,12 @@
             {
                 "Position": "1",
                 "Team": "Barcelona",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "13",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "27",
-                "Points": "40"
+                "Points": "41"
             },
             {
                 "Position": "2",
@@ -360,12 +360,12 @@
             {
                 "Position": "16",
                 "Team": "Osasuna",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "4",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "8",
                 "Goal Difference": "-4",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "17",
@@ -451,6 +451,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Bayer Leverkusen",
+                "Played": "14",
+                "Wins": "7",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "9",
+                "Points": "24"
+            },
+            {
+                "Position": "6",
                 "Team": "Eintracht Frankfurt",
                 "Played": "14",
                 "Wins": "7",
@@ -458,16 +468,6 @@
                 "Losses": "4",
                 "Goal Difference": "0",
                 "Points": "24"
-            },
-            {
-                "Position": "6",
-                "Team": "Bayer Leverkusen",
-                "Played": "13",
-                "Wins": "7",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "9",
-                "Points": "23"
             },
             {
                 "Position": "7",
@@ -492,12 +492,12 @@
             {
                 "Position": "9",
                 "Team": "K\u00f6ln",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "4",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "5",
                 "Goal Difference": "1",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "10",

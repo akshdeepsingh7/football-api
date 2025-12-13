@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 05:17 PM UTC (Saturday, 13 December 2025, 10:47 PM IST)
+**Last Updated:** Saturday, 13 December 2025, 05:39 PM UTC (Saturday, 13 December 2025, 11:09 PM IST)
 
 ### Premier League
 
@@ -61,18 +61,18 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
 | 13 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
 | 14 | Brentford | 15 | 6 | 1 | 8 | -3 | 19 |
-| 15 | Fulham | 15 | 5 | 2 | 8 | -4 | 17 |
+| 15 | Fulham | 16 | 5 | 3 | 8 | -4 | 18 |
 | 16 | Leeds United | 15 | 4 | 3 | 8 | -10 | 15 |
 | 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 18 | West Ham United | 15 | 3 | 4 | 8 | -12 | 13 |
-| 19 | Burnley | 15 | 3 | 1 | 11 | -14 | 10 |
+| 19 | Burnley | 16 | 3 | 2 | 11 | -14 | 11 |
 | 20 | Wolverhampton Wanderers | 15 | 0 | 2 | 13 | -25 | 2 |
 
 ### La Liga
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 16 | 13 | 1 | 2 | 27 | 40 |
+| 1 | Barcelona | 17 | 13 | 2 | 2 | 27 | 41 |
 | 2 | Real Madrid | 16 | 11 | 3 | 2 | 17 | 36 |
 | 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
 | 4 | Atlético de Madrid | 17 | 10 | 4 | 3 | 14 | 34 |
@@ -87,7 +87,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Sevilla | 15 | 5 | 2 | 8 | -4 | 17 |
 | 14 | Mallorca | 16 | 4 | 5 | 7 | -5 | 17 |
 | 15 | Real Sociedad | 16 | 4 | 4 | 8 | -4 | 16 |
-| 16 | Osasuna | 15 | 4 | 3 | 8 | -4 | 15 |
+| 16 | Osasuna | 16 | 4 | 4 | 8 | -4 | 16 |
 | 17 | Valencia | 16 | 3 | 6 | 7 | -10 | 15 |
 | 18 | Girona | 16 | 3 | 6 | 7 | -15 | 15 |
 | 19 | Real Oviedo | 15 | 2 | 4 | 9 | -15 | 10 |
@@ -101,11 +101,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | RB Leipzig | 14 | 9 | 2 | 3 | 13 | 29 |
 | 3 | Borussia Dortmund | 13 | 8 | 4 | 1 | 12 | 28 |
 | 4 | Hoffenheim | 14 | 8 | 2 | 4 | 9 | 26 |
-| 5 | Eintracht Frankfurt | 14 | 7 | 3 | 4 | 0 | 24 |
-| 6 | Bayer Leverkusen | 13 | 7 | 2 | 4 | 9 | 23 |
+| 5 | Bayer Leverkusen | 14 | 7 | 3 | 4 | 9 | 24 |
+| 6 | Eintracht Frankfurt | 14 | 7 | 3 | 4 | 0 | 24 |
 | 7 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
 | 8 | Union Berlin | 14 | 5 | 3 | 6 | -4 | 18 |
-| 9 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
+| 9 | Köln | 14 | 4 | 5 | 5 | 1 | 17 |
 | 10 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
 | 11 | Borussia Mönchengladbach | 14 | 4 | 4 | 6 | -4 | 16 |
 | 12 | Werder Bremen | 13 | 4 | 4 | 5 | -6 | 16 |
