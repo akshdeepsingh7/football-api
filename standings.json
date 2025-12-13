@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 08:41 PM UTC",
-        "IST": "Sunday, 14 December 2025, 02:11 AM IST"
+        "UTC": "Saturday, 13 December 2025, 09:17 PM UTC",
+        "IST": "Sunday, 14 December 2025, 02:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -251,11 +251,11 @@
                 "Position": "5",
                 "Team": "Espanyol",
                 "Played": "16",
-                "Wins": "8",
-                "Draws": "4",
+                "Wins": "9",
+                "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "3",
-                "Points": "28"
+                "Goal Difference": "4",
+                "Points": "30"
             },
             {
                 "Position": "6",
@@ -282,10 +282,10 @@
                 "Team": "Getafe",
                 "Played": "16",
                 "Wins": "6",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "-4",
-                "Points": "21"
+                "Draws": "2",
+                "Losses": "8",
+                "Goal Difference": "-5",
+                "Points": "20"
             },
             {
                 "Position": "9",
@@ -860,7 +860,7 @@
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "5",
-                "Goal Difference": "3",
+                "Goal Difference": "4",
                 "Points": "23"
             },
             {
@@ -930,7 +930,7 @@
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "8",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "16"
             },
             {
@@ -2075,11 +2075,11 @@
                 "Position": "2",
                 "Team": "Sporting CP",
                 "Played": "14",
-                "Wins": "10",
-                "Draws": "3",
+                "Wins": "11",
+                "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "25",
-                "Points": "33"
+                "Goal Difference": "28",
+                "Points": "35"
             },
             {
                 "Position": "3",
@@ -2236,10 +2236,10 @@
                 "Team": "AVS",
                 "Played": "14",
                 "Wins": "0",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "-22",
-                "Points": "4"
+                "Draws": "3",
+                "Losses": "11",
+                "Goal Difference": "-25",
+                "Points": "3"
             }
         ],
         "EFL Championship": [
