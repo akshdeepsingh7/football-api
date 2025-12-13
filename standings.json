@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 08:22 PM UTC",
-        "IST": "Sunday, 14 December 2025, 01:52 AM IST"
+        "UTC": "Saturday, 13 December 2025, 08:41 PM UTC",
+        "IST": "Sunday, 14 December 2025, 02:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -855,6 +855,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Toulouse",
+                "Played": "16",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "3",
+                "Points": "23"
+            },
+            {
+                "Position": "8",
                 "Team": "Monaco",
                 "Played": "15",
                 "Wins": "7",
@@ -864,7 +874,7 @@
                 "Points": "23"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Strasbourg",
                 "Played": "15",
                 "Wins": "7",
@@ -874,7 +884,7 @@
                 "Points": "22"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Angers",
                 "Played": "16",
                 "Wins": "6",
@@ -882,16 +892,6 @@
                 "Losses": "6",
                 "Goal Difference": "-1",
                 "Points": "22"
-            },
-            {
-                "Position": "10",
-                "Team": "Toulouse",
-                "Played": "16",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "2",
-                "Points": "21"
             },
             {
                 "Position": "11",
@@ -905,16 +905,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Paris FC",
-                "Played": "16",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-5",
-                "Points": "17"
-            },
-            {
-                "Position": "13",
                 "Team": "Nice",
                 "Played": "15",
                 "Wins": "5",
@@ -924,7 +914,7 @@
                 "Points": "17"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Lorient",
                 "Played": "15",
                 "Wins": "4",
@@ -932,6 +922,16 @@
                 "Losses": "6",
                 "Goal Difference": "-9",
                 "Points": "17"
+            },
+            {
+                "Position": "14",
+                "Team": "Paris FC",
+                "Played": "16",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-6",
+                "Points": "16"
             },
             {
                 "Position": "15",
@@ -2074,12 +2074,12 @@
             {
                 "Position": "2",
                 "Team": "Sporting CP",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "10",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "25",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "3",
@@ -2234,12 +2234,12 @@
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "0",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "10",
                 "Goal Difference": "-22",
-                "Points": "3"
+                "Points": "4"
             }
         ],
         "EFL Championship": [
