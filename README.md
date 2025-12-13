@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 06:27 PM UTC (Saturday, 13 December 2025, 11:57 PM IST)
+**Last Updated:** Saturday, 13 December 2025, 06:48 PM UTC (Sunday, 14 December 2025, 12:18 AM IST)
 
 ### Premier League
 
@@ -59,13 +59,13 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
 | 11 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
 | 12 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
-| 13 | Fulham | 16 | 6 | 2 | 8 | -3 | 20 |
+| 13 | Fulham | 16 | 6 | 2 | 8 | -2 | 20 |
 | 14 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
 | 15 | Brentford | 15 | 6 | 1 | 8 | -3 | 19 |
 | 16 | Leeds United | 15 | 4 | 3 | 8 | -10 | 15 |
 | 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 18 | West Ham United | 15 | 3 | 4 | 8 | -12 | 13 |
-| 19 | Burnley | 16 | 3 | 1 | 12 | -15 | 10 |
+| 19 | Burnley | 16 | 3 | 1 | 12 | -16 | 10 |
 | 20 | Wolverhampton Wanderers | 15 | 0 | 2 | 13 | -25 | 2 |
 
 ### La Liga
@@ -127,16 +127,16 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Bologna | 14 | 7 | 4 | 3 | 11 | 25 |
 | 6 | Como | 14 | 6 | 6 | 2 | 8 | 24 |
 | 7 | Juventus | 14 | 6 | 5 | 3 | 4 | 23 |
-| 8 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
-| 9 | Lazio | 15 | 5 | 5 | 5 | 5 | 20 |
+| 8 | Lazio | 15 | 6 | 4 | 5 | 6 | 22 |
+| 9 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
 | 10 | Cremonese | 15 | 5 | 5 | 5 | 0 | 20 |
 | 11 | Udinese | 14 | 5 | 3 | 6 | -7 | 18 |
 | 12 | Torino | 15 | 4 | 5 | 6 | -11 | 17 |
 | 13 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
 | 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
-| 15 | Parma | 15 | 3 | 6 | 6 | -7 | 15 |
-| 16 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
-| 17 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
+| 15 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
+| 16 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
+| 17 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
 | 18 | Pisa | 15 | 1 | 7 | 7 | -10 | 10 |
 | 19 | Hellas Verona | 14 | 1 | 6 | 7 | -10 | 9 |
 | 20 | Fiorentina | 14 | 0 | 6 | 8 | -13 | 6 |
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 16 | 10 | 4 | 2 | 20 | 34 |
+| 1 | PSG | 16 | 11 | 3 | 2 | 21 | 36 |
 | 2 | Lens | 15 | 11 | 1 | 3 | 13 | 34 |
 | 3 | Marseille | 15 | 9 | 2 | 4 | 20 | 29 |
 | 4 | Lille | 15 | 9 | 2 | 4 | 12 | 29 |
@@ -161,8 +161,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Paris FC | 15 | 4 | 4 | 7 | -5 | 16 |
 | 15 | Le Havre | 15 | 3 | 6 | 6 | -8 | 15 |
 | 16 | Auxerre | 15 | 3 | 3 | 9 | -10 | 12 |
-| 17 | Metz | 16 | 3 | 3 | 10 | -19 | 12 |
-| 18 | Nantes | 16 | 2 | 5 | 9 | -14 | 11 |
+| 17 | Nantes | 16 | 2 | 5 | 9 | -14 | 11 |
+| 18 | Metz | 16 | 3 | 2 | 11 | -20 | 11 |
 
 ### Champions League
 
@@ -296,11 +296,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
 | 4 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
 | 5 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
-| 6 | Famalicão | 13 | 5 | 5 | 3 | 5 | 20 |
-| 7 | Moreirense | 13 | 6 | 2 | 5 | 1 | 20 |
-| 8 | Vitória S.C. | 14 | 5 | 4 | 5 | -3 | 19 |
+| 6 | Vitória S.C. | 14 | 6 | 3 | 5 | -2 | 21 |
+| 7 | Famalicão | 13 | 5 | 5 | 3 | 5 | 20 |
+| 8 | Moreirense | 13 | 6 | 2 | 5 | 1 | 20 |
 | 9 | Alverca | 13 | 5 | 2 | 6 | -4 | 17 |
-| 10 | Rio Ave | 14 | 3 | 8 | 3 | -4 | 17 |
+| 10 | Rio Ave | 14 | 3 | 7 | 4 | -5 | 16 |
 | 11 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
 | 12 | Estoril | 13 | 3 | 5 | 5 | 1 | 14 |
 | 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -3 | 14 |
