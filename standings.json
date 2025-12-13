@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 01:44 PM UTC",
-        "IST": "Saturday, 13 December 2025, 07:14 PM IST"
+        "UTC": "Saturday, 13 December 2025, 02:18 PM UTC",
+        "IST": "Saturday, 13 December 2025, 07:48 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -663,22 +663,22 @@
             },
             {
                 "Position": "8",
+                "Team": "Cremonese",
+                "Played": "15",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "1",
+                "Points": "21"
+            },
+            {
+                "Position": "9",
                 "Team": "Sassuolo",
                 "Played": "14",
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "6",
                 "Goal Difference": "2",
-                "Points": "20"
-            },
-            {
-                "Position": "9",
-                "Team": "Cremonese",
-                "Played": "14",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "1",
                 "Points": "20"
             },
             {
@@ -723,6 +723,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Torino",
+                "Played": "15",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "-12",
+                "Points": "15"
+            },
+            {
+                "Position": "15",
                 "Team": "Cagliari",
                 "Played": "14",
                 "Wins": "3",
@@ -732,7 +742,7 @@
                 "Points": "14"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Genoa",
                 "Played": "14",
                 "Wins": "3",
@@ -742,23 +752,13 @@
                 "Points": "14"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Parma",
                 "Played": "14",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "-7",
-                "Points": "14"
-            },
-            {
-                "Position": "17",
-                "Team": "Torino",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-12",
                 "Points": "14"
             },
             {

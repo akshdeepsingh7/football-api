@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 01:44 PM UTC (Saturday, 13 December 2025, 07:14 PM IST)
+**Last Updated:** Saturday, 13 December 2025, 02:18 PM UTC (Saturday, 13 December 2025, 07:48 PM IST)
 
 ### Premier League
 
@@ -127,16 +127,16 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Bologna | 14 | 7 | 4 | 3 | 11 | 25 |
 | 6 | Como | 14 | 6 | 6 | 2 | 8 | 24 |
 | 7 | Juventus | 14 | 6 | 5 | 3 | 4 | 23 |
-| 8 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
-| 9 | Cremonese | 14 | 5 | 5 | 4 | 1 | 20 |
+| 8 | Cremonese | 15 | 5 | 6 | 4 | 1 | 21 |
+| 9 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
 | 10 | Lazio | 14 | 5 | 4 | 5 | 5 | 19 |
 | 11 | Udinese | 14 | 5 | 3 | 6 | -7 | 18 |
 | 12 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
 | 13 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
-| 14 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
-| 15 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
-| 16 | Parma | 14 | 3 | 5 | 6 | -7 | 14 |
-| 17 | Torino | 14 | 3 | 5 | 6 | -12 | 14 |
+| 14 | Torino | 15 | 3 | 6 | 6 | -12 | 15 |
+| 15 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
+| 16 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
+| 17 | Parma | 14 | 3 | 5 | 6 | -7 | 14 |
 | 18 | Pisa | 15 | 1 | 7 | 7 | -10 | 10 |
 | 19 | Hellas Verona | 14 | 1 | 6 | 7 | -10 | 9 |
 | 20 | Fiorentina | 14 | 0 | 6 | 8 | -13 | 6 |
