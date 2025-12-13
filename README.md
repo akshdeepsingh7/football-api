@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 07:15 PM UTC (Sunday, 14 December 2025, 12:45 AM IST)
+**Last Updated:** Saturday, 13 December 2025, 07:37 PM UTC (Sunday, 14 December 2025, 01:07 AM IST)
 
 ### Premier League
 
@@ -59,20 +59,20 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
 | 11 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
 | 12 | Newcastle United | 15 | 6 | 4 | 5 | 2 | 22 |
-| 13 | Fulham | 16 | 6 | 2 | 8 | -2 | 20 |
+| 13 | Fulham | 16 | 6 | 2 | 8 | -3 | 20 |
 | 14 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
 | 15 | Brentford | 15 | 6 | 1 | 8 | -3 | 19 |
 | 16 | Leeds United | 15 | 4 | 3 | 8 | -10 | 15 |
 | 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 18 | West Ham United | 15 | 3 | 4 | 8 | -12 | 13 |
-| 19 | Burnley | 16 | 3 | 1 | 12 | -16 | 10 |
+| 19 | Burnley | 16 | 3 | 1 | 12 | -15 | 10 |
 | 20 | Wolverhampton Wanderers | 15 | 0 | 2 | 13 | -25 | 2 |
 
 ### La Liga
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 17 | 14 | 1 | 2 | 28 | 43 |
+| 1 | Barcelona | 17 | 14 | 1 | 2 | 29 | 43 |
 | 2 | Real Madrid | 16 | 11 | 3 | 2 | 17 | 36 |
 | 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
 | 4 | Atlético de Madrid | 17 | 10 | 4 | 3 | 14 | 34 |
@@ -87,7 +87,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Sevilla | 15 | 5 | 2 | 8 | -4 | 17 |
 | 14 | Mallorca | 16 | 4 | 5 | 7 | -5 | 17 |
 | 15 | Real Sociedad | 16 | 4 | 4 | 8 | -4 | 16 |
-| 16 | Osasuna | 16 | 4 | 3 | 9 | -5 | 15 |
+| 16 | Osasuna | 16 | 4 | 3 | 9 | -6 | 15 |
 | 17 | Valencia | 16 | 3 | 6 | 7 | -10 | 15 |
 | 18 | Girona | 16 | 3 | 6 | 7 | -15 | 15 |
 | 19 | Real Oviedo | 15 | 2 | 4 | 9 | -15 | 10 |
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 16 | 11 | 3 | 2 | 21 | 36 |
+| 1 | PSG | 16 | 11 | 3 | 2 | 22 | 36 |
 | 2 | Lens | 15 | 11 | 1 | 3 | 13 | 34 |
 | 3 | Marseille | 15 | 9 | 2 | 4 | 20 | 29 |
 | 4 | Lille | 15 | 9 | 2 | 4 | 12 | 29 |
@@ -162,7 +162,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Le Havre | 15 | 3 | 6 | 6 | -8 | 15 |
 | 16 | Auxerre | 15 | 3 | 3 | 9 | -10 | 12 |
 | 17 | Nantes | 16 | 2 | 5 | 9 | -14 | 11 |
-| 18 | Metz | 16 | 3 | 2 | 11 | -20 | 11 |
+| 18 | Metz | 16 | 3 | 2 | 11 | -21 | 11 |
 
 ### Champions League
 
