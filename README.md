@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 10:19 PM UTC (Sunday, 14 December 2025, 03:49 AM IST)
+**Last Updated:** Saturday, 13 December 2025, 10:42 PM UTC (Sunday, 14 December 2025, 04:12 AM IST)
 
 ### Premier League
 
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 13 | 12 | 1 | 0 | 24 | 37 |
-| 2 | Sporting CP | 14 | 11 | 2 | 1 | 30 | 35 |
+| 2 | Sporting CP | 14 | 11 | 2 | 1 | 31 | 35 |
 | 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
 | 4 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
 | 5 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
@@ -308,7 +308,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Casa Pia | 14 | 2 | 4 | 8 | -14 | 10 |
 | 16 | Tondela | 13 | 2 | 3 | 8 | -15 | 9 |
 | 17 | Arouca | 13 | 2 | 3 | 8 | -23 | 9 |
-| 18 | AVS | 14 | 0 | 3 | 11 | -27 | 3 |
+| 18 | AVS | 14 | 0 | 3 | 11 | -28 | 3 |
 
 ### EFL Championship
 
