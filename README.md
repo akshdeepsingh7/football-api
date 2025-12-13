@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 02:18 PM UTC (Saturday, 13 December 2025, 07:48 PM IST)
+**Last Updated:** Saturday, 13 December 2025, 02:41 PM UTC (Saturday, 13 December 2025, 08:11 PM IST)
 
 ### Premier League
 
@@ -100,20 +100,20 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 13 | 12 | 1 | 0 | 40 | 37 |
 | 2 | RB Leipzig | 14 | 9 | 2 | 3 | 13 | 29 |
 | 3 | Borussia Dortmund | 13 | 8 | 4 | 1 | 12 | 28 |
-| 4 | Bayer Leverkusen | 13 | 7 | 2 | 4 | 9 | 23 |
-| 5 | Hoffenheim | 13 | 7 | 2 | 4 | 6 | 23 |
-| 6 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
-| 7 | Eintracht Frankfurt | 13 | 6 | 3 | 4 | -1 | 21 |
+| 4 | Hoffenheim | 14 | 8 | 2 | 4 | 7 | 26 |
+| 5 | Bayer Leverkusen | 13 | 7 | 2 | 4 | 9 | 23 |
+| 6 | Eintracht Frankfurt | 14 | 6 | 4 | 4 | -1 | 22 |
+| 7 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
 | 8 | Union Berlin | 14 | 5 | 3 | 6 | -4 | 18 |
 | 9 | Köln | 13 | 4 | 4 | 5 | 1 | 16 |
 | 10 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
-| 11 | Borussia Mönchengladbach | 13 | 4 | 4 | 5 | -2 | 16 |
+| 11 | Borussia Mönchengladbach | 14 | 4 | 4 | 6 | -3 | 16 |
 | 12 | Werder Bremen | 13 | 4 | 4 | 5 | -6 | 16 |
-| 13 | Hamburg | 13 | 4 | 3 | 6 | -6 | 15 |
-| 14 | Augsburg | 13 | 4 | 1 | 8 | -10 | 13 |
-| 15 | VfL Wolfsburg | 13 | 3 | 3 | 7 | -6 | 12 |
-| 16 | Heidenheim | 13 | 3 | 2 | 8 | -16 | 11 |
-| 17 | St. Pauli | 13 | 2 | 2 | 9 | -14 | 8 |
+| 13 | VfL Wolfsburg | 14 | 4 | 3 | 7 | -5 | 15 |
+| 14 | Hamburg | 14 | 4 | 3 | 7 | -7 | 15 |
+| 15 | Augsburg | 14 | 4 | 2 | 8 | -10 | 14 |
+| 16 | Heidenheim | 14 | 3 | 3 | 8 | -16 | 12 |
+| 17 | St. Pauli | 14 | 2 | 3 | 9 | -14 | 9 |
 | 18 | Mainz 05 | 13 | 1 | 3 | 9 | -13 | 6 |
 
 ### Serie A
@@ -127,13 +127,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Bologna | 14 | 7 | 4 | 3 | 11 | 25 |
 | 6 | Como | 14 | 6 | 6 | 2 | 8 | 24 |
 | 7 | Juventus | 14 | 6 | 5 | 3 | 4 | 23 |
-| 8 | Cremonese | 15 | 5 | 6 | 4 | 1 | 21 |
-| 9 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
+| 8 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
+| 9 | Cremonese | 15 | 5 | 5 | 5 | 0 | 20 |
 | 10 | Lazio | 14 | 5 | 4 | 5 | 5 | 19 |
 | 11 | Udinese | 14 | 5 | 3 | 6 | -7 | 18 |
-| 12 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
-| 13 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
-| 14 | Torino | 15 | 3 | 6 | 6 | -12 | 15 |
+| 12 | Torino | 15 | 4 | 5 | 6 | -11 | 17 |
+| 13 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
+| 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
 | 15 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
 | 16 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
 | 17 | Parma | 14 | 3 | 5 | 6 | -7 | 14 |
