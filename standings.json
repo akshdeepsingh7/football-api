@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 06:48 PM UTC",
-        "IST": "Sunday, 14 December 2025, 12:18 AM IST"
+        "UTC": "Saturday, 13 December 2025, 07:15 PM UTC",
+        "IST": "Sunday, 14 December 2025, 12:45 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -211,11 +211,11 @@
                 "Position": "1",
                 "Team": "Barcelona",
                 "Played": "17",
-                "Wins": "13",
-                "Draws": "2",
+                "Wins": "14",
+                "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "27",
-                "Points": "41"
+                "Goal Difference": "28",
+                "Points": "43"
             },
             {
                 "Position": "2",
@@ -362,10 +362,10 @@
                 "Team": "Osasuna",
                 "Played": "16",
                 "Wins": "4",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "-4",
-                "Points": "16"
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-5",
+                "Points": "15"
             },
             {
                 "Position": "17",
@@ -441,6 +441,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Bayer Leverkusen",
+                "Played": "14",
+                "Wins": "8",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "11",
+                "Points": "26"
+            },
+            {
+                "Position": "5",
                 "Team": "Hoffenheim",
                 "Played": "14",
                 "Wins": "8",
@@ -448,16 +458,6 @@
                 "Losses": "4",
                 "Goal Difference": "9",
                 "Points": "26"
-            },
-            {
-                "Position": "5",
-                "Team": "Bayer Leverkusen",
-                "Played": "14",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "9",
-                "Points": "24"
             },
             {
                 "Position": "6",
@@ -494,10 +494,10 @@
                 "Team": "K\u00f6ln",
                 "Played": "14",
                 "Wins": "4",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "1",
-                "Points": "17"
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-1",
+                "Points": "16"
             },
             {
                 "Position": "10",

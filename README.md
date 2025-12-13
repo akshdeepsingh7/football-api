@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 06:48 PM UTC (Sunday, 14 December 2025, 12:18 AM IST)
+**Last Updated:** Saturday, 13 December 2025, 07:15 PM UTC (Sunday, 14 December 2025, 12:45 AM IST)
 
 ### Premier League
 
@@ -72,7 +72,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 17 | 13 | 2 | 2 | 27 | 41 |
+| 1 | Barcelona | 17 | 14 | 1 | 2 | 28 | 43 |
 | 2 | Real Madrid | 16 | 11 | 3 | 2 | 17 | 36 |
 | 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
 | 4 | Atlético de Madrid | 17 | 10 | 4 | 3 | 14 | 34 |
@@ -87,7 +87,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Sevilla | 15 | 5 | 2 | 8 | -4 | 17 |
 | 14 | Mallorca | 16 | 4 | 5 | 7 | -5 | 17 |
 | 15 | Real Sociedad | 16 | 4 | 4 | 8 | -4 | 16 |
-| 16 | Osasuna | 16 | 4 | 4 | 8 | -4 | 16 |
+| 16 | Osasuna | 16 | 4 | 3 | 9 | -5 | 15 |
 | 17 | Valencia | 16 | 3 | 6 | 7 | -10 | 15 |
 | 18 | Girona | 16 | 3 | 6 | 7 | -15 | 15 |
 | 19 | Real Oviedo | 15 | 2 | 4 | 9 | -15 | 10 |
@@ -100,12 +100,12 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 13 | 12 | 1 | 0 | 40 | 37 |
 | 2 | RB Leipzig | 14 | 9 | 2 | 3 | 13 | 29 |
 | 3 | Borussia Dortmund | 13 | 8 | 4 | 1 | 12 | 28 |
-| 4 | Hoffenheim | 14 | 8 | 2 | 4 | 9 | 26 |
-| 5 | Bayer Leverkusen | 14 | 7 | 3 | 4 | 9 | 24 |
+| 4 | Bayer Leverkusen | 14 | 8 | 2 | 4 | 11 | 26 |
+| 5 | Hoffenheim | 14 | 8 | 2 | 4 | 9 | 26 |
 | 6 | Eintracht Frankfurt | 14 | 7 | 3 | 4 | 0 | 24 |
 | 7 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
 | 8 | Union Berlin | 14 | 5 | 3 | 6 | -4 | 18 |
-| 9 | Köln | 14 | 4 | 5 | 5 | 1 | 17 |
+| 9 | Köln | 14 | 4 | 4 | 6 | -1 | 16 |
 | 10 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
 | 11 | Borussia Mönchengladbach | 14 | 4 | 4 | 6 | -4 | 16 |
 | 12 | Werder Bremen | 13 | 4 | 4 | 5 | -6 | 16 |
