@@ -41,13 +41,13 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 09:17 PM UTC (Sunday, 14 December 2025, 02:47 AM IST)
+**Last Updated:** Saturday, 13 December 2025, 09:40 PM UTC (Sunday, 14 December 2025, 03:10 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 16 | 10 | 4 | 2 | 19 | 34 |
+| 1 | Arsenal | 16 | 11 | 3 | 2 | 20 | 36 |
 | 2 | Manchester City | 15 | 10 | 1 | 4 | 19 | 31 |
 | 3 | Aston Villa | 15 | 9 | 3 | 3 | 7 | 30 |
 | 4 | Chelsea | 16 | 8 | 4 | 4 | 12 | 28 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 18 | West Ham United | 15 | 3 | 4 | 8 | -12 | 13 |
 | 19 | Burnley | 16 | 3 | 1 | 12 | -15 | 10 |
-| 20 | Wolverhampton Wanderers | 16 | 0 | 3 | 13 | -25 | 3 |
+| 20 | Wolverhampton Wanderers | 16 | 0 | 2 | 14 | -26 | 2 |
 
 ### La Liga
 
@@ -151,14 +151,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Lille | 15 | 9 | 2 | 4 | 12 | 29 |
 | 5 | Rennes | 16 | 7 | 6 | 3 | 3 | 27 |
 | 6 | Lyon | 15 | 7 | 3 | 5 | 5 | 24 |
-| 7 | Toulouse | 16 | 6 | 5 | 5 | 4 | 23 |
+| 7 | Toulouse | 16 | 6 | 5 | 5 | 5 | 23 |
 | 8 | Monaco | 15 | 7 | 2 | 6 | 0 | 23 |
 | 9 | Strasbourg | 15 | 7 | 1 | 7 | 5 | 22 |
 | 10 | Angers | 16 | 6 | 4 | 6 | -1 | 22 |
 | 11 | Brest | 16 | 5 | 4 | 7 | -6 | 19 |
 | 12 | Nice | 15 | 5 | 2 | 8 | -8 | 17 |
 | 13 | Lorient | 15 | 4 | 5 | 6 | -9 | 17 |
-| 14 | Paris FC | 16 | 4 | 4 | 8 | -7 | 16 |
+| 14 | Paris FC | 16 | 4 | 4 | 8 | -8 | 16 |
 | 15 | Le Havre | 15 | 3 | 6 | 6 | -8 | 15 |
 | 16 | Auxerre | 15 | 3 | 3 | 9 | -10 | 12 |
 | 17 | Nantes | 16 | 2 | 5 | 9 | -14 | 11 |
