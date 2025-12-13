@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 03:20 PM UTC (Saturday, 13 December 2025, 08:50 PM IST)
+**Last Updated:** Saturday, 13 December 2025, 03:40 PM UTC (Saturday, 13 December 2025, 09:10 PM IST)
 
 ### Premier League
 
@@ -50,11 +50,11 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Arsenal | 15 | 10 | 3 | 2 | 19 | 33 |
 | 2 | Manchester City | 15 | 10 | 1 | 4 | 19 | 31 |
 | 3 | Aston Villa | 15 | 9 | 3 | 3 | 7 | 30 |
-| 4 | Chelsea | 16 | 7 | 5 | 4 | 10 | 26 |
+| 4 | Chelsea | 16 | 8 | 4 | 4 | 11 | 28 |
 | 5 | Crystal Palace | 15 | 7 | 5 | 3 | 8 | 26 |
 | 6 | Liverpool FC | 16 | 8 | 2 | 6 | 1 | 26 |
 | 7 | Manchester United | 15 | 7 | 4 | 4 | 4 | 25 |
-| 8 | Everton | 16 | 7 | 4 | 5 | 1 | 25 |
+| 8 | Everton | 16 | 7 | 3 | 6 | 0 | 24 |
 | 9 | Brighton & Hove Albion | 16 | 6 | 5 | 5 | 3 | 23 |
 | 10 | Sunderland | 15 | 6 | 5 | 4 | 1 | 23 |
 | 11 | Tottenham Hotspur | 15 | 6 | 4 | 5 | 7 | 22 |
@@ -294,7 +294,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 13 | 12 | 1 | 0 | 24 | 37 |
 | 2 | Sporting CP | 13 | 10 | 2 | 1 | 25 | 32 |
 | 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
-| 4 | Gil Vicente | 13 | 7 | 3 | 3 | 10 | 24 |
+| 4 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
 | 5 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
 | 6 | Famalicão | 13 | 5 | 5 | 3 | 5 | 20 |
 | 7 | Moreirense | 13 | 6 | 2 | 5 | 1 | 20 |
@@ -305,7 +305,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Estoril | 13 | 3 | 5 | 5 | 1 | 14 |
 | 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -3 | 14 |
 | 14 | Nacional | 13 | 3 | 3 | 7 | -6 | 12 |
-| 15 | Casa Pia | 13 | 2 | 3 | 8 | -14 | 9 |
+| 15 | Casa Pia | 14 | 2 | 4 | 8 | -14 | 10 |
 | 16 | Tondela | 13 | 2 | 3 | 8 | -15 | 9 |
 | 17 | Arouca | 13 | 2 | 3 | 8 | -23 | 9 |
 | 18 | AVS | 13 | 0 | 3 | 10 | -22 | 3 |
@@ -315,28 +315,28 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 21 | 13 | 6 | 2 | 29 | 45 |
-| 2 | Middlesbrough | 21 | 11 | 7 | 3 | 9 | 40 |
+| 2 | Middlesbrough | 21 | 12 | 6 | 3 | 11 | 42 |
 | 3 | Preston North End | 21 | 9 | 8 | 4 | 7 | 35 |
 | 4 | Millwall | 21 | 10 | 5 | 6 | -4 | 35 |
 | 5 | Ipswich Town | 21 | 9 | 7 | 5 | 14 | 34 |
 | 6 | Hull City | 21 | 10 | 4 | 7 | 1 | 34 |
 | 7 | Stoke City | 21 | 10 | 3 | 8 | 8 | 33 |
-| 8 | Queens Park Rangers | 21 | 9 | 5 | 7 | -3 | 32 |
+| 8 | Birmingham City | 21 | 9 | 4 | 8 | 5 | 31 |
 | 9 | Bristol City | 21 | 8 | 7 | 6 | 5 | 31 |
 | 10 | Leicester City | 21 | 8 | 7 | 6 | 2 | 31 |
-| 11 | Southampton | 21 | 8 | 6 | 7 | 5 | 30 |
-| 12 | Birmingham City | 21 | 8 | 5 | 8 | 4 | 29 |
+| 11 | Queens Park Rangers | 21 | 9 | 4 | 8 | -5 | 31 |
+| 12 | Southampton | 21 | 8 | 6 | 7 | 5 | 30 |
 | 13 | Watford | 21 | 7 | 8 | 6 | 2 | 29 |
 | 14 | Wrexham | 21 | 6 | 10 | 5 | 1 | 28 |
 | 15 | West Bromwich Albion | 21 | 8 | 4 | 9 | -3 | 28 |
 | 16 | Derby County | 20 | 7 | 6 | 7 | -2 | 27 |
-| 17 | Charlton Athletic | 20 | 6 | 6 | 8 | -6 | 24 |
-| 18 | Blackburn Rovers | 20 | 6 | 5 | 9 | -5 | 23 |
-| 19 | Sheffield United | 21 | 7 | 2 | 12 | -6 | 23 |
-| 20 | Swansea City | 21 | 6 | 5 | 10 | -7 | 23 |
+| 17 | Blackburn Rovers | 20 | 7 | 4 | 9 | -4 | 25 |
+| 18 | Sheffield United | 21 | 7 | 2 | 12 | -6 | 23 |
+| 19 | Swansea City | 21 | 6 | 5 | 10 | -7 | 23 |
+| 20 | Charlton Athletic | 20 | 6 | 5 | 9 | -7 | 23 |
 | 21 | Oxford United | 21 | 4 | 7 | 10 | -8 | 19 |
-| 22 | Portsmouth | 20 | 4 | 6 | 10 | -11 | 18 |
-| 23 | Norwich City | 21 | 4 | 5 | 12 | -10 | 17 |
+| 22 | Norwich City | 21 | 4 | 5 | 12 | -10 | 17 |
+| 23 | Portsmouth | 20 | 4 | 5 | 11 | -12 | 17 |
 | 24 | Sheffield Wednesday | 19 | 1 | 6 | 12 | -22 | -9 |
 
 ### Major League Soccer (MLS)
