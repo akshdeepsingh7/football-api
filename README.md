@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 11:37 AM UTC (Saturday, 13 December 2025, 05:07 PM IST)
+**Last Updated:** Saturday, 13 December 2025, 12:40 PM UTC (Saturday, 13 December 2025, 06:10 PM IST)
 
 ### Premier League
 
@@ -318,11 +318,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Middlesbrough | 20 | 11 | 6 | 3 | 9 | 39 |
 | 3 | Millwall | 20 | 10 | 5 | 5 | -2 | 35 |
 | 4 | Ipswich Town | 20 | 9 | 7 | 4 | 15 | 34 |
-| 5 | Preston North End | 20 | 8 | 8 | 4 | 6 | 32 |
-| 6 | Hull City | 20 | 9 | 4 | 7 | -1 | 31 |
-| 7 | Queens Park Rangers | 20 | 9 | 4 | 7 | -3 | 31 |
-| 8 | Stoke City | 20 | 9 | 3 | 8 | 7 | 30 |
-| 9 | Southampton | 20 | 8 | 6 | 6 | 6 | 30 |
+| 5 | Preston North End | 21 | 8 | 9 | 4 | 6 | 33 |
+| 6 | Stoke City | 21 | 9 | 4 | 8 | 7 | 31 |
+| 7 | Southampton | 21 | 8 | 7 | 6 | 6 | 31 |
+| 8 | Hull City | 20 | 9 | 4 | 7 | -1 | 31 |
+| 9 | Queens Park Rangers | 20 | 9 | 4 | 7 | -3 | 31 |
 | 10 | Bristol City | 20 | 8 | 6 | 6 | 5 | 30 |
 | 11 | Birmingham City | 20 | 8 | 4 | 8 | 4 | 28 |
 | 12 | Watford | 20 | 7 | 7 | 6 | 2 | 28 |
@@ -330,13 +330,13 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | West Bromwich Albion | 21 | 8 | 4 | 9 | -3 | 28 |
 | 15 | Wrexham | 20 | 6 | 9 | 5 | 1 | 27 |
 | 16 | Derby County | 20 | 7 | 6 | 7 | -2 | 27 |
-| 17 | Sheffield United | 21 | 7 | 2 | 12 | -6 | 23 |
-| 18 | Swansea City | 20 | 6 | 5 | 9 | -6 | 23 |
+| 17 | Swansea City | 21 | 6 | 6 | 9 | -6 | 24 |
+| 18 | Sheffield United | 21 | 7 | 2 | 12 | -6 | 23 |
 | 19 | Charlton Athletic | 19 | 6 | 5 | 8 | -6 | 23 |
 | 20 | Blackburn Rovers | 19 | 6 | 4 | 9 | -5 | 22 |
-| 21 | Oxford United | 20 | 4 | 7 | 9 | -7 | 19 |
+| 21 | Oxford United | 21 | 4 | 8 | 9 | -7 | 20 |
 | 22 | Portsmouth | 19 | 4 | 5 | 10 | -11 | 17 |
-| 23 | Norwich City | 20 | 3 | 5 | 12 | -11 | 14 |
+| 23 | Norwich City | 21 | 3 | 6 | 12 | -11 | 15 |
 | 24 | Sheffield Wednesday | 19 | 1 | 6 | 12 | -22 | -9 |
 
 ### Major League Soccer (MLS)

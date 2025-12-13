@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 11:37 AM UTC",
-        "IST": "Saturday, 13 December 2025, 05:07 PM IST"
+        "UTC": "Saturday, 13 December 2025, 12:40 PM UTC",
+        "IST": "Saturday, 13 December 2025, 06:10 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2286,15 +2286,35 @@
             {
                 "Position": "5",
                 "Team": "Preston North End",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "8",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "4",
                 "Goal Difference": "6",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "6",
+                "Team": "Stoke City",
+                "Played": "21",
+                "Wins": "9",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "7",
+                "Points": "31"
+            },
+            {
+                "Position": "7",
+                "Team": "Southampton",
+                "Played": "21",
+                "Wins": "8",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "6",
+                "Points": "31"
+            },
+            {
+                "Position": "8",
                 "Team": "Hull City",
                 "Played": "20",
                 "Wins": "9",
@@ -2304,7 +2324,7 @@
                 "Points": "31"
             },
             {
-                "Position": "7",
+                "Position": "9",
                 "Team": "Queens Park Rangers",
                 "Played": "20",
                 "Wins": "9",
@@ -2312,26 +2332,6 @@
                 "Losses": "7",
                 "Goal Difference": "-3",
                 "Points": "31"
-            },
-            {
-                "Position": "8",
-                "Team": "Stoke City",
-                "Played": "20",
-                "Wins": "9",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "7",
-                "Points": "30"
-            },
-            {
-                "Position": "9",
-                "Team": "Southampton",
-                "Played": "20",
-                "Wins": "8",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "6",
-                "Points": "30"
             },
             {
                 "Position": "10",
@@ -2405,21 +2405,21 @@
             },
             {
                 "Position": "17",
+                "Team": "Swansea City",
+                "Played": "21",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-6",
+                "Points": "24"
+            },
+            {
+                "Position": "18",
                 "Team": "Sheffield United",
                 "Played": "21",
                 "Wins": "7",
                 "Draws": "2",
                 "Losses": "12",
-                "Goal Difference": "-6",
-                "Points": "23"
-            },
-            {
-                "Position": "18",
-                "Team": "Swansea City",
-                "Played": "20",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "9",
                 "Goal Difference": "-6",
                 "Points": "23"
             },
@@ -2446,12 +2446,12 @@
             {
                 "Position": "21",
                 "Team": "Oxford United",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "4",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "9",
                 "Goal Difference": "-7",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "22",
@@ -2466,12 +2466,12 @@
             {
                 "Position": "23",
                 "Team": "Norwich City",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "3",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "-11",
-                "Points": "14"
+                "Points": "15"
             },
             {
                 "Position": "24",
