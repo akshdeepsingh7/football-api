@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 13 December 2025, 05:39 PM UTC",
-        "IST": "Saturday, 13 December 2025, 11:09 PM IST"
+        "UTC": "Saturday, 13 December 2025, 06:27 PM UTC",
+        "IST": "Saturday, 13 December 2025, 11:57 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -127,6 +127,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Fulham",
+                "Played": "16",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "8",
+                "Goal Difference": "-3",
+                "Points": "20"
+            },
+            {
+                "Position": "14",
                 "Team": "AFC Bournemouth",
                 "Played": "15",
                 "Wins": "5",
@@ -136,7 +146,7 @@
                 "Points": "20"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Brentford",
                 "Played": "15",
                 "Wins": "6",
@@ -144,16 +154,6 @@
                 "Losses": "8",
                 "Goal Difference": "-3",
                 "Points": "19"
-            },
-            {
-                "Position": "15",
-                "Team": "Fulham",
-                "Played": "16",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-4",
-                "Points": "18"
             },
             {
                 "Position": "16",
@@ -190,10 +190,10 @@
                 "Team": "Burnley",
                 "Played": "16",
                 "Wins": "3",
-                "Draws": "2",
-                "Losses": "11",
-                "Goal Difference": "-14",
-                "Points": "11"
+                "Draws": "1",
+                "Losses": "12",
+                "Goal Difference": "-15",
+                "Points": "10"
             },
             {
                 "Position": "20",
@@ -795,6 +795,16 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "PSG",
+                "Played": "16",
+                "Wins": "10",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "20",
+                "Points": "34"
+            },
+            {
+                "Position": "2",
                 "Team": "Lens",
                 "Played": "15",
                 "Wins": "11",
@@ -802,16 +812,6 @@
                 "Losses": "3",
                 "Goal Difference": "13",
                 "Points": "34"
-            },
-            {
-                "Position": "2",
-                "Team": "PSG",
-                "Played": "15",
-                "Wins": "10",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "20",
-                "Points": "33"
             },
             {
                 "Position": "3",
@@ -840,7 +840,7 @@
                 "Wins": "7",
                 "Draws": "6",
                 "Losses": "3",
-                "Goal Difference": "2",
+                "Goal Difference": "3",
                 "Points": "27"
             },
             {
@@ -900,7 +900,7 @@
                 "Wins": "5",
                 "Draws": "4",
                 "Losses": "7",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "19"
             },
             {
@@ -955,22 +955,22 @@
             },
             {
                 "Position": "17",
+                "Team": "Metz",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-19",
+                "Points": "12"
+            },
+            {
+                "Position": "18",
                 "Team": "Nantes",
                 "Played": "16",
                 "Wins": "2",
                 "Draws": "5",
                 "Losses": "9",
                 "Goal Difference": "-14",
-                "Points": "11"
-            },
-            {
-                "Position": "18",
-                "Team": "Metz",
-                "Played": "15",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "10",
-                "Goal Difference": "-19",
                 "Points": "11"
             }
         ],
@@ -2134,12 +2134,12 @@
             {
                 "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "5",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "-3",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "9",
@@ -2154,12 +2154,12 @@
             {
                 "Position": "10",
                 "Team": "Rio Ave",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "3",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "3",
                 "Goal Difference": "-4",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "11",
