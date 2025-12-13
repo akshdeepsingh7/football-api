@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 01:27 PM UTC (Saturday, 13 December 2025, 06:57 PM IST)
+**Last Updated:** Saturday, 13 December 2025, 01:44 PM UTC (Saturday, 13 December 2025, 07:14 PM IST)
 
 ### Premier League
 
@@ -320,9 +320,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Millwall | 20 | 10 | 5 | 5 | -2 | 35 |
 | 5 | Ipswich Town | 20 | 9 | 7 | 4 | 15 | 34 |
 | 6 | Stoke City | 21 | 10 | 3 | 8 | 8 | 33 |
-| 7 | Southampton | 21 | 8 | 7 | 6 | 6 | 31 |
-| 8 | Hull City | 20 | 9 | 4 | 7 | -1 | 31 |
-| 9 | Queens Park Rangers | 20 | 9 | 4 | 7 | -3 | 31 |
+| 7 | Hull City | 20 | 9 | 4 | 7 | -1 | 31 |
+| 8 | Queens Park Rangers | 20 | 9 | 4 | 7 | -3 | 31 |
+| 9 | Southampton | 21 | 8 | 6 | 7 | 5 | 30 |
 | 10 | Bristol City | 20 | 8 | 6 | 6 | 5 | 30 |
 | 11 | Birmingham City | 20 | 8 | 4 | 8 | 4 | 28 |
 | 12 | Watford | 20 | 7 | 7 | 6 | 2 | 28 |
@@ -335,8 +335,8 @@ The latest league standings are displayed below in Markdown tables:
 | 19 | Swansea City | 21 | 6 | 5 | 10 | -7 | 23 |
 | 20 | Blackburn Rovers | 19 | 6 | 4 | 9 | -5 | 22 |
 | 21 | Oxford United | 21 | 4 | 7 | 10 | -8 | 19 |
-| 22 | Portsmouth | 19 | 4 | 5 | 10 | -11 | 17 |
-| 23 | Norwich City | 21 | 3 | 6 | 12 | -11 | 15 |
+| 22 | Norwich City | 21 | 4 | 5 | 12 | -10 | 17 |
+| 23 | Portsmouth | 19 | 4 | 5 | 10 | -11 | 17 |
 | 24 | Sheffield Wednesday | 19 | 1 | 6 | 12 | -22 | -9 |
 
 ### Major League Soccer (MLS)
