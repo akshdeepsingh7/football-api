@@ -41,13 +41,13 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 13 December 2025, 07:37 PM UTC (Sunday, 14 December 2025, 01:07 AM IST)
+**Last Updated:** Saturday, 13 December 2025, 08:22 PM UTC (Sunday, 14 December 2025, 01:52 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 15 | 10 | 3 | 2 | 19 | 33 |
+| 1 | Arsenal | 16 | 10 | 4 | 2 | 19 | 34 |
 | 2 | Manchester City | 15 | 10 | 1 | 4 | 19 | 31 |
 | 3 | Aston Villa | 15 | 9 | 3 | 3 | 7 | 30 |
 | 4 | Chelsea | 16 | 8 | 4 | 4 | 12 | 28 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Nottingham Forest | 15 | 4 | 3 | 8 | -11 | 15 |
 | 18 | West Ham United | 15 | 3 | 4 | 8 | -12 | 13 |
 | 19 | Burnley | 16 | 3 | 1 | 12 | -15 | 10 |
-| 20 | Wolverhampton Wanderers | 15 | 0 | 2 | 13 | -25 | 2 |
+| 20 | Wolverhampton Wanderers | 16 | 0 | 3 | 13 | -25 | 3 |
 
 ### La Liga
 
@@ -76,10 +76,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Real Madrid | 16 | 11 | 3 | 2 | 17 | 36 |
 | 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
 | 4 | Atlético de Madrid | 17 | 10 | 4 | 3 | 14 | 34 |
-| 5 | Espanyol | 15 | 8 | 3 | 4 | 3 | 27 |
+| 5 | Espanyol | 16 | 8 | 4 | 4 | 3 | 28 |
 | 6 | Real Betis | 15 | 6 | 6 | 3 | 6 | 24 |
 | 7 | Athletic Bilbao | 16 | 7 | 2 | 7 | -5 | 23 |
-| 8 | Getafe | 15 | 6 | 2 | 7 | -4 | 20 |
+| 8 | Getafe | 16 | 6 | 3 | 7 | -4 | 21 |
 | 9 | Elche | 16 | 4 | 7 | 5 | -1 | 19 |
 | 10 | Celta de Vigo | 15 | 4 | 7 | 4 | -1 | 19 |
 | 11 | Alavés | 15 | 5 | 3 | 7 | -2 | 18 |
@@ -130,12 +130,12 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Lazio | 15 | 6 | 4 | 5 | 6 | 22 |
 | 9 | Sassuolo | 14 | 6 | 2 | 6 | 2 | 20 |
 | 10 | Cremonese | 15 | 5 | 5 | 5 | 0 | 20 |
-| 11 | Udinese | 14 | 5 | 3 | 6 | -7 | 18 |
-| 12 | Torino | 15 | 4 | 5 | 6 | -11 | 17 |
-| 13 | Atalanta | 14 | 3 | 7 | 4 | 0 | 16 |
+| 11 | Atalanta | 15 | 4 | 7 | 4 | 1 | 19 |
+| 12 | Udinese | 14 | 5 | 3 | 6 | -7 | 18 |
+| 13 | Torino | 15 | 4 | 5 | 6 | -11 | 17 |
 | 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
-| 15 | Cagliari | 14 | 3 | 5 | 6 | -5 | 14 |
-| 16 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
+| 15 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
+| 16 | Cagliari | 15 | 3 | 5 | 7 | -6 | 14 |
 | 17 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
 | 18 | Pisa | 15 | 1 | 7 | 7 | -10 | 10 |
 | 19 | Hellas Verona | 14 | 1 | 6 | 7 | -10 | 9 |
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 16 | 11 | 3 | 2 | 22 | 36 |
+| 1 | PSG | 16 | 11 | 3 | 2 | 21 | 36 |
 | 2 | Lens | 15 | 11 | 1 | 3 | 13 | 34 |
 | 3 | Marseille | 15 | 9 | 2 | 4 | 20 | 29 |
 | 4 | Lille | 15 | 9 | 2 | 4 | 12 | 29 |
@@ -154,15 +154,15 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Monaco | 15 | 7 | 2 | 6 | 0 | 23 |
 | 8 | Strasbourg | 15 | 7 | 1 | 7 | 5 | 22 |
 | 9 | Angers | 16 | 6 | 4 | 6 | -1 | 22 |
-| 10 | Toulouse | 15 | 5 | 5 | 5 | 2 | 20 |
+| 10 | Toulouse | 16 | 5 | 6 | 5 | 2 | 21 |
 | 11 | Brest | 16 | 5 | 4 | 7 | -6 | 19 |
-| 12 | Nice | 15 | 5 | 2 | 8 | -8 | 17 |
-| 13 | Lorient | 15 | 4 | 5 | 6 | -9 | 17 |
-| 14 | Paris FC | 15 | 4 | 4 | 7 | -5 | 16 |
+| 12 | Paris FC | 16 | 4 | 5 | 7 | -5 | 17 |
+| 13 | Nice | 15 | 5 | 2 | 8 | -8 | 17 |
+| 14 | Lorient | 15 | 4 | 5 | 6 | -9 | 17 |
 | 15 | Le Havre | 15 | 3 | 6 | 6 | -8 | 15 |
 | 16 | Auxerre | 15 | 3 | 3 | 9 | -10 | 12 |
 | 17 | Nantes | 16 | 2 | 5 | 9 | -14 | 11 |
-| 18 | Metz | 16 | 3 | 2 | 11 | -21 | 11 |
+| 18 | Metz | 16 | 3 | 2 | 11 | -20 | 11 |
 
 ### Champions League
 
