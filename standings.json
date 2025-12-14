@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 09:18 PM UTC",
-        "IST": "Monday, 15 December 2025, 02:48 AM IST"
+        "UTC": "Sunday, 14 December 2025, 09:39 PM UTC",
+        "IST": "Monday, 15 December 2025, 03:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -815,6 +815,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Marseille",
+                "Played": "16",
+                "Wins": "10",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "21",
+                "Points": "32"
+            },
+            {
+                "Position": "4",
                 "Team": "Lille",
                 "Played": "16",
                 "Wins": "10",
@@ -822,16 +832,6 @@
                 "Losses": "4",
                 "Goal Difference": "13",
                 "Points": "32"
-            },
-            {
-                "Position": "4",
-                "Team": "Marseille",
-                "Played": "16",
-                "Wins": "9",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "20",
-                "Points": "30"
             },
             {
                 "Position": "5",
@@ -855,16 +855,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Monaco",
-                "Played": "16",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "0",
-                "Points": "24"
-            },
-            {
-                "Position": "8",
                 "Team": "Strasbourg",
                 "Played": "16",
                 "Wins": "7",
@@ -874,13 +864,23 @@
                 "Points": "23"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Toulouse",
                 "Played": "16",
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "5",
                 "Goal Difference": "5",
+                "Points": "23"
+            },
+            {
+                "Position": "9",
+                "Team": "Monaco",
+                "Played": "16",
+                "Wins": "7",
+                "Draws": "2",
+                "Losses": "7",
+                "Goal Difference": "-1",
                 "Points": "23"
             },
             {

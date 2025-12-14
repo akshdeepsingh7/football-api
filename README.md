@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 December 2025, 09:18 PM UTC (Monday, 15 December 2025, 02:48 AM IST)
+**Last Updated:** Sunday, 14 December 2025, 09:39 PM UTC (Monday, 15 December 2025, 03:09 AM IST)
 
 ### Premier League
 
@@ -147,13 +147,13 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Lens | 16 | 12 | 1 | 3 | 15 | 37 |
 | 2 | PSG | 16 | 11 | 3 | 2 | 21 | 36 |
-| 3 | Lille | 16 | 10 | 2 | 4 | 13 | 32 |
-| 4 | Marseille | 16 | 9 | 3 | 4 | 20 | 30 |
+| 3 | Marseille | 16 | 10 | 2 | 4 | 21 | 32 |
+| 4 | Lille | 16 | 10 | 2 | 4 | 13 | 32 |
 | 5 | Lyon | 16 | 8 | 3 | 5 | 6 | 27 |
 | 6 | Rennes | 16 | 7 | 6 | 3 | 3 | 27 |
-| 7 | Monaco | 16 | 7 | 3 | 6 | 0 | 24 |
-| 8 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
-| 9 | Toulouse | 16 | 6 | 5 | 5 | 5 | 23 |
+| 7 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
+| 8 | Toulouse | 16 | 6 | 5 | 5 | 5 | 23 |
+| 9 | Monaco | 16 | 7 | 2 | 7 | -1 | 23 |
 | 10 | Angers | 16 | 6 | 4 | 6 | -1 | 22 |
 | 11 | Brest | 16 | 5 | 4 | 7 | -6 | 19 |
 | 12 | Lorient | 16 | 4 | 6 | 6 | -9 | 18 |
