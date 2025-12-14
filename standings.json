@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 08:42 PM UTC",
-        "IST": "Monday, 15 December 2025, 02:12 AM IST"
+        "UTC": "Sunday, 14 December 2025, 09:18 PM UTC",
+        "IST": "Monday, 15 December 2025, 02:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -633,32 +633,32 @@
             },
             {
                 "Position": "5",
-                "Team": "Bologna",
+                "Team": "Juventus",
                 "Played": "15",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "3",
-                "Goal Difference": "11",
+                "Goal Difference": "5",
                 "Points": "26"
             },
             {
                 "Position": "6",
+                "Team": "Bologna",
+                "Played": "15",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "10",
+                "Points": "25"
+            },
+            {
+                "Position": "7",
                 "Team": "Como",
                 "Played": "14",
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "2",
                 "Goal Difference": "8",
-                "Points": "24"
-            },
-            {
-                "Position": "7",
-                "Team": "Juventus",
-                "Played": "15",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "4",
                 "Points": "24"
             },
             {
