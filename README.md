@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 December 2025, 04:46 PM UTC (Sunday, 14 December 2025, 10:16 PM IST)
+**Last Updated:** Sunday, 14 December 2025, 05:17 PM UTC (Sunday, 14 December 2025, 10:47 PM IST)
 
 ### Premier League
 
@@ -97,7 +97,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 14 | 12 | 2 | 0 | 40 | 38 |
+| 1 | Bayern Munich | 14 | 13 | 1 | 0 | 41 | 40 |
 | 2 | RB Leipzig | 14 | 9 | 2 | 3 | 13 | 29 |
 | 3 | Borussia Dortmund | 14 | 8 | 5 | 1 | 12 | 29 |
 | 4 | Bayer Leverkusen | 14 | 8 | 2 | 4 | 11 | 26 |
@@ -114,15 +114,15 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Augsburg | 14 | 4 | 1 | 9 | -11 | 13 |
 | 16 | St. Pauli | 14 | 3 | 2 | 9 | -13 | 11 |
 | 17 | Heidenheim | 14 | 3 | 2 | 9 | -17 | 11 |
-| 18 | Mainz 05 | 14 | 1 | 4 | 9 | -13 | 7 |
+| 18 | Mainz 05 | 14 | 1 | 3 | 10 | -14 | 6 |
 
 ### Serie A
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Milan | 15 | 9 | 5 | 1 | 11 | 32 |
-| 2 | Napoli | 15 | 10 | 1 | 4 | 9 | 31 |
-| 3 | Inter | 14 | 10 | 0 | 4 | 19 | 30 |
+| 1 | Inter | 15 | 11 | 0 | 4 | 20 | 33 |
+| 2 | Milan | 15 | 9 | 5 | 1 | 11 | 32 |
+| 3 | Napoli | 15 | 10 | 1 | 4 | 9 | 31 |
 | 4 | Roma | 14 | 9 | 0 | 5 | 7 | 27 |
 | 5 | Bologna | 14 | 7 | 4 | 3 | 11 | 25 |
 | 6 | Como | 14 | 6 | 6 | 2 | 8 | 24 |
@@ -134,8 +134,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Atalanta | 15 | 4 | 7 | 4 | 1 | 19 |
 | 13 | Torino | 15 | 4 | 5 | 6 | -11 | 17 |
 | 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
-| 15 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
-| 16 | Cagliari | 15 | 3 | 5 | 7 | -6 | 14 |
+| 15 | Cagliari | 15 | 3 | 5 | 7 | -6 | 14 |
+| 16 | Genoa | 15 | 3 | 5 | 7 | -7 | 14 |
 | 17 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
 | 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
 | 19 | Pisa | 15 | 1 | 7 | 7 | -10 | 10 |
@@ -295,14 +295,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 14 | 11 | 2 | 1 | 31 | 35 |
 | 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
 | 4 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
-| 5 | Famalicão | 14 | 6 | 5 | 3 | 8 | 23 |
+| 5 | Famalicão | 14 | 6 | 5 | 3 | 9 | 23 |
 | 6 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
 | 7 | Vitória S.C. | 14 | 6 | 3 | 5 | -2 | 21 |
 | 8 | Moreirense | 13 | 6 | 2 | 5 | 1 | 20 |
 | 9 | Alverca | 13 | 5 | 2 | 6 | -4 | 17 |
 | 10 | Rio Ave | 14 | 3 | 7 | 4 | -5 | 16 |
 | 11 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
-| 12 | Estoril | 14 | 3 | 5 | 6 | -2 | 14 |
+| 12 | Estoril | 14 | 3 | 5 | 6 | -3 | 14 |
 | 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -3 | 14 |
 | 14 | Nacional | 13 | 3 | 3 | 7 | -6 | 12 |
 | 15 | Casa Pia | 14 | 2 | 4 | 8 | -14 | 10 |

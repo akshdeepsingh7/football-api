@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 04:46 PM UTC",
-        "IST": "Sunday, 14 December 2025, 10:16 PM IST"
+        "UTC": "Sunday, 14 December 2025, 05:17 PM UTC",
+        "IST": "Sunday, 14 December 2025, 10:47 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -413,11 +413,11 @@
                 "Position": "1",
                 "Team": "Bayern Munich",
                 "Played": "14",
-                "Wins": "12",
-                "Draws": "2",
+                "Wins": "13",
+                "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "40",
-                "Points": "38"
+                "Goal Difference": "41",
+                "Points": "40"
             },
             {
                 "Position": "2",
@@ -584,15 +584,25 @@
                 "Team": "Mainz 05",
                 "Played": "14",
                 "Wins": "1",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-13",
-                "Points": "7"
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-14",
+                "Points": "6"
             }
         ],
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Inter",
+                "Played": "15",
+                "Wins": "11",
+                "Draws": "0",
+                "Losses": "4",
+                "Goal Difference": "20",
+                "Points": "33"
+            },
+            {
+                "Position": "2",
                 "Team": "Milan",
                 "Played": "15",
                 "Wins": "9",
@@ -602,7 +612,7 @@
                 "Points": "32"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Napoli",
                 "Played": "15",
                 "Wins": "10",
@@ -610,16 +620,6 @@
                 "Losses": "4",
                 "Goal Difference": "9",
                 "Points": "31"
-            },
-            {
-                "Position": "3",
-                "Team": "Inter",
-                "Played": "14",
-                "Wins": "10",
-                "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "19",
-                "Points": "30"
             },
             {
                 "Position": "4",
@@ -733,22 +733,22 @@
             },
             {
                 "Position": "15",
-                "Team": "Genoa",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-6",
-                "Points": "14"
-            },
-            {
-                "Position": "16",
                 "Team": "Cagliari",
                 "Played": "15",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "7",
                 "Goal Difference": "-6",
+                "Points": "14"
+            },
+            {
+                "Position": "16",
+                "Team": "Genoa",
+                "Played": "15",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "-7",
                 "Points": "14"
             },
             {
@@ -2108,7 +2108,7 @@
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "3",
-                "Goal Difference": "8",
+                "Goal Difference": "9",
                 "Points": "23"
             },
             {
@@ -2178,7 +2178,7 @@
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "14"
             },
             {
