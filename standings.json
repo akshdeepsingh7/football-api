@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 06:29 PM UTC",
-        "IST": "Sunday, 14 December 2025, 11:59 PM IST"
+        "UTC": "Sunday, 14 December 2025, 06:50 PM UTC",
+        "IST": "Monday, 15 December 2025, 12:20 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -472,12 +472,12 @@
             {
                 "Position": "7",
                 "Team": "VfB Stuttgart",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "7",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "5",
                 "Goal Difference": "-1",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "8",
@@ -501,6 +501,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Werder Bremen",
+                "Played": "14",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "-6",
+                "Points": "17"
+            },
+            {
+                "Position": "11",
                 "Team": "K\u00f6ln",
                 "Played": "14",
                 "Wins": "4",
@@ -510,23 +520,13 @@
                 "Points": "16"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "14",
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "6",
                 "Goal Difference": "-4",
-                "Points": "16"
-            },
-            {
-                "Position": "12",
-                "Team": "Werder Bremen",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "-6",
                 "Points": "16"
             },
             {
@@ -598,7 +598,7 @@
                 "Wins": "11",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "21",
+                "Goal Difference": "20",
                 "Points": "33"
             },
             {
@@ -748,7 +748,7 @@
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "-8",
+                "Goal Difference": "-7",
                 "Points": "14"
             },
             {
@@ -2085,11 +2085,11 @@
                 "Position": "3",
                 "Team": "Benfica",
                 "Played": "14",
-                "Wins": "8",
-                "Draws": "6",
+                "Wins": "9",
+                "Draws": "5",
                 "Losses": "0",
-                "Goal Difference": "18",
-                "Points": "30"
+                "Goal Difference": "19",
+                "Points": "32"
             },
             {
                 "Position": "4",
@@ -2123,16 +2123,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Moreirense",
-                "Played": "14",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "1",
-                "Points": "21"
-            },
-            {
-                "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "14",
                 "Wins": "6",
@@ -2140,6 +2130,16 @@
                 "Losses": "5",
                 "Goal Difference": "-2",
                 "Points": "21"
+            },
+            {
+                "Position": "8",
+                "Team": "Moreirense",
+                "Played": "14",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "0",
+                "Points": "20"
             },
             {
                 "Position": "9",

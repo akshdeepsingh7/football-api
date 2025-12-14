@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 December 2025, 06:29 PM UTC (Sunday, 14 December 2025, 11:59 PM IST)
+**Last Updated:** Sunday, 14 December 2025, 06:50 PM UTC (Monday, 15 December 2025, 12:20 AM IST)
 
 ### Premier League
 
@@ -103,12 +103,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Bayer Leverkusen | 14 | 8 | 2 | 4 | 11 | 26 |
 | 5 | Hoffenheim | 14 | 8 | 2 | 4 | 9 | 26 |
 | 6 | Eintracht Frankfurt | 14 | 7 | 3 | 4 | 0 | 24 |
-| 7 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
+| 7 | VfB Stuttgart | 14 | 7 | 2 | 5 | -1 | 23 |
 | 8 | Union Berlin | 14 | 5 | 3 | 6 | -4 | 18 |
 | 9 | SC Freiburg | 14 | 4 | 5 | 5 | -2 | 17 |
-| 10 | Köln | 14 | 4 | 4 | 6 | -1 | 16 |
-| 11 | Borussia Mönchengladbach | 14 | 4 | 4 | 6 | -4 | 16 |
-| 12 | Werder Bremen | 13 | 4 | 4 | 5 | -6 | 16 |
+| 10 | Werder Bremen | 14 | 4 | 5 | 5 | -6 | 17 |
+| 11 | Köln | 14 | 4 | 4 | 6 | -1 | 16 |
+| 12 | Borussia Mönchengladbach | 14 | 4 | 4 | 6 | -4 | 16 |
 | 13 | VfL Wolfsburg | 14 | 4 | 3 | 7 | -4 | 15 |
 | 14 | Hamburg | 14 | 4 | 3 | 7 | -9 | 15 |
 | 15 | Augsburg | 14 | 4 | 1 | 9 | -11 | 13 |
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 15 | 11 | 0 | 4 | 21 | 33 |
+| 1 | Inter | 15 | 11 | 0 | 4 | 20 | 33 |
 | 2 | Milan | 15 | 9 | 5 | 1 | 11 | 32 |
 | 3 | Napoli | 15 | 10 | 1 | 4 | 9 | 31 |
 | 4 | Roma | 14 | 9 | 0 | 5 | 7 | 27 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Torino | 15 | 4 | 5 | 6 | -11 | 17 |
 | 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
 | 15 | Cagliari | 15 | 3 | 5 | 7 | -6 | 14 |
-| 16 | Genoa | 15 | 3 | 5 | 7 | -8 | 14 |
+| 16 | Genoa | 15 | 3 | 5 | 7 | -7 | 14 |
 | 17 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
 | 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
 | 19 | Pisa | 15 | 1 | 7 | 7 | -10 | 10 |
@@ -293,12 +293,12 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 13 | 12 | 1 | 0 | 24 | 37 |
 | 2 | Sporting CP | 14 | 11 | 2 | 1 | 31 | 35 |
-| 3 | Benfica | 14 | 8 | 6 | 0 | 18 | 30 |
+| 3 | Benfica | 14 | 9 | 5 | 0 | 19 | 32 |
 | 4 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
 | 5 | Famalicão | 14 | 6 | 5 | 3 | 9 | 23 |
 | 6 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
-| 7 | Moreirense | 14 | 6 | 3 | 5 | 1 | 21 |
-| 8 | Vitória S.C. | 14 | 6 | 3 | 5 | -2 | 21 |
+| 7 | Vitória S.C. | 14 | 6 | 3 | 5 | -2 | 21 |
+| 8 | Moreirense | 14 | 6 | 2 | 6 | 0 | 20 |
 | 9 | Alverca | 13 | 5 | 2 | 6 | -4 | 17 |
 | 10 | Rio Ave | 14 | 3 | 7 | 4 | -5 | 16 |
 | 11 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
