@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 12:40 PM UTC",
-        "IST": "Sunday, 14 December 2025, 06:10 PM IST"
+        "UTC": "Sunday, 14 December 2025, 01:45 PM UTC",
+        "IST": "Sunday, 14 December 2025, 07:15 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -279,6 +279,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Sevilla",
+                "Played": "16",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "8",
+                "Goal Difference": "-2",
+                "Points": "20"
+            },
+            {
+                "Position": "9",
                 "Team": "Getafe",
                 "Played": "16",
                 "Wins": "6",
@@ -288,7 +298,7 @@
                 "Points": "20"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Elche",
                 "Played": "16",
                 "Wins": "4",
@@ -298,7 +308,7 @@
                 "Points": "19"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Celta de Vigo",
                 "Played": "15",
                 "Wins": "4",
@@ -308,7 +318,7 @@
                 "Points": "19"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Alav\u00e9s",
                 "Played": "15",
                 "Wins": "5",
@@ -318,23 +328,13 @@
                 "Points": "18"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Rayo Vallecano",
                 "Played": "15",
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "-3",
-                "Points": "17"
-            },
-            {
-                "Position": "13",
-                "Team": "Sevilla",
-                "Played": "15",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "-4",
                 "Points": "17"
             },
             {
@@ -390,11 +390,11 @@
             {
                 "Position": "19",
                 "Team": "Real Oviedo",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "2",
                 "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-15",
+                "Losses": "10",
+                "Goal Difference": "-17",
                 "Points": "10"
             },
             {
@@ -595,11 +595,11 @@
                 "Position": "1",
                 "Team": "Milan",
                 "Played": "15",
-                "Wins": "10",
-                "Draws": "4",
+                "Wins": "9",
+                "Draws": "5",
                 "Losses": "1",
-                "Goal Difference": "12",
-                "Points": "34"
+                "Goal Difference": "11",
+                "Points": "32"
             },
             {
                 "Position": "2",
@@ -676,10 +676,10 @@
                 "Team": "Sassuolo",
                 "Played": "15",
                 "Wins": "6",
-                "Draws": "2",
-                "Losses": "7",
-                "Goal Difference": "1",
-                "Points": "20"
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "2",
+                "Points": "21"
             },
             {
                 "Position": "10",
