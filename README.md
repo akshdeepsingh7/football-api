@@ -41,30 +41,30 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 December 2025, 03:21 PM UTC (Sunday, 14 December 2025, 08:51 PM IST)
+**Last Updated:** Sunday, 14 December 2025, 03:39 PM UTC (Sunday, 14 December 2025, 09:09 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 16 | 11 | 3 | 2 | 20 | 36 |
-| 2 | Manchester City | 16 | 11 | 1 | 4 | 20 | 34 |
-| 3 | Aston Villa | 16 | 9 | 4 | 3 | 7 | 31 |
+| 2 | Manchester City | 16 | 11 | 1 | 4 | 21 | 34 |
+| 3 | Aston Villa | 16 | 10 | 3 | 3 | 8 | 33 |
 | 4 | Chelsea | 16 | 8 | 4 | 4 | 12 | 28 |
-| 5 | Crystal Palace | 16 | 7 | 5 | 4 | 7 | 26 |
+| 5 | Crystal Palace | 16 | 7 | 5 | 4 | 6 | 26 |
 | 6 | Liverpool FC | 16 | 8 | 2 | 6 | 2 | 26 |
 | 7 | Sunderland | 16 | 7 | 5 | 4 | 2 | 26 |
 | 8 | Manchester United | 15 | 7 | 4 | 4 | 4 | 25 |
 | 9 | Everton | 16 | 7 | 3 | 6 | -1 | 24 |
 | 10 | Brighton & Hove Albion | 16 | 6 | 5 | 5 | 2 | 23 |
-| 11 | Tottenham Hotspur | 16 | 6 | 4 | 6 | 5 | 22 |
+| 11 | Tottenham Hotspur | 16 | 6 | 4 | 6 | 4 | 22 |
 | 12 | Newcastle United | 16 | 6 | 4 | 6 | 1 | 22 |
 | 13 | Fulham | 16 | 6 | 2 | 8 | -3 | 20 |
 | 14 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
 | 15 | Brentford | 15 | 6 | 1 | 8 | -3 | 19 |
-| 16 | Nottingham Forest | 16 | 5 | 3 | 8 | -9 | 18 |
+| 16 | Nottingham Forest | 16 | 5 | 3 | 8 | -8 | 18 |
 | 17 | Leeds United | 15 | 4 | 3 | 8 | -10 | 15 |
-| 18 | West Ham United | 16 | 3 | 5 | 8 | -12 | 14 |
+| 18 | West Ham United | 16 | 3 | 4 | 9 | -13 | 13 |
 | 19 | Burnley | 16 | 3 | 1 | 12 | -15 | 10 |
 | 20 | Wolverhampton Wanderers | 16 | 0 | 2 | 14 | -26 | 2 |
 
@@ -121,7 +121,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Milan | 15 | 9 | 5 | 1 | 11 | 32 |
-| 2 | Napoli | 15 | 10 | 2 | 3 | 10 | 32 |
+| 2 | Napoli | 15 | 10 | 1 | 4 | 9 | 31 |
 | 3 | Inter | 14 | 10 | 0 | 4 | 19 | 30 |
 | 4 | Roma | 14 | 9 | 0 | 5 | 7 | 27 |
 | 5 | Bologna | 14 | 7 | 4 | 3 | 11 | 25 |
@@ -129,17 +129,17 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Juventus | 14 | 6 | 5 | 3 | 4 | 23 |
 | 8 | Lazio | 15 | 6 | 4 | 5 | 6 | 22 |
 | 9 | Sassuolo | 15 | 6 | 3 | 6 | 2 | 21 |
-| 10 | Cremonese | 15 | 5 | 5 | 5 | 0 | 20 |
-| 11 | Atalanta | 15 | 4 | 7 | 4 | 1 | 19 |
-| 12 | Udinese | 15 | 5 | 4 | 6 | -7 | 19 |
+| 10 | Udinese | 15 | 6 | 3 | 6 | -6 | 21 |
+| 11 | Cremonese | 15 | 5 | 5 | 5 | 0 | 20 |
+| 12 | Atalanta | 15 | 4 | 7 | 4 | 1 | 19 |
 | 13 | Torino | 15 | 4 | 5 | 6 | -11 | 17 |
 | 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
 | 15 | Genoa | 14 | 3 | 5 | 6 | -6 | 14 |
 | 16 | Cagliari | 15 | 3 | 5 | 7 | -6 | 14 |
 | 17 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
-| 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
+| 18 | Hellas Verona | 15 | 1 | 7 | 7 | -10 | 10 |
 | 19 | Pisa | 15 | 1 | 7 | 7 | -10 | 10 |
-| 20 | Fiorentina | 15 | 0 | 6 | 9 | -14 | 6 |
+| 20 | Fiorentina | 15 | 0 | 7 | 8 | -13 | 7 |
 
 ### Ligue 1
 
@@ -295,14 +295,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 14 | 11 | 2 | 1 | 31 | 35 |
 | 3 | Benfica | 13 | 8 | 5 | 0 | 18 | 29 |
 | 4 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
-| 5 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
-| 6 | Vitória S.C. | 14 | 6 | 3 | 5 | -2 | 21 |
-| 7 | Famalicão | 13 | 5 | 5 | 3 | 5 | 20 |
+| 5 | Famalicão | 14 | 6 | 5 | 3 | 6 | 23 |
+| 6 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
+| 7 | Vitória S.C. | 14 | 6 | 3 | 5 | -2 | 21 |
 | 8 | Moreirense | 13 | 6 | 2 | 5 | 1 | 20 |
 | 9 | Alverca | 13 | 5 | 2 | 6 | -4 | 17 |
 | 10 | Rio Ave | 14 | 3 | 7 | 4 | -5 | 16 |
 | 11 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
-| 12 | Estoril | 13 | 3 | 5 | 5 | 1 | 14 |
+| 12 | Estoril | 14 | 3 | 5 | 6 | 0 | 14 |
 | 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -3 | 14 |
 | 14 | Nacional | 13 | 3 | 3 | 7 | -6 | 12 |
 | 15 | Casa Pia | 14 | 2 | 4 | 8 | -14 | 10 |
