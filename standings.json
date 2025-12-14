@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 08:22 PM UTC",
-        "IST": "Monday, 15 December 2025, 01:52 AM IST"
+        "UTC": "Sunday, 14 December 2025, 08:42 PM UTC",
+        "IST": "Monday, 15 December 2025, 02:12 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -221,11 +221,11 @@
                 "Position": "2",
                 "Team": "Real Madrid",
                 "Played": "17",
-                "Wins": "11",
-                "Draws": "4",
+                "Wins": "12",
+                "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "17",
-                "Points": "37"
+                "Goal Difference": "18",
+                "Points": "39"
             },
             {
                 "Position": "3",
@@ -322,10 +322,10 @@
                 "Team": "Alav\u00e9s",
                 "Played": "16",
                 "Wins": "5",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-2",
-                "Points": "19"
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-3",
+                "Points": "18"
             },
             {
                 "Position": "13",
@@ -466,7 +466,7 @@
                 "Wins": "8",
                 "Draws": "1",
                 "Losses": "5",
-                "Goal Difference": "2",
+                "Goal Difference": "3",
                 "Points": "25"
             },
             {
@@ -526,7 +526,7 @@
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "6",
-                "Goal Difference": "-9",
+                "Goal Difference": "-10",
                 "Points": "16"
             },
             {
@@ -2144,12 +2144,12 @@
             {
                 "Position": "9",
                 "Team": "Alverca",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "5",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "-4",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "10",
@@ -2213,22 +2213,22 @@
             },
             {
                 "Position": "16",
+                "Team": "Arouca",
+                "Played": "14",
+                "Wins": "2",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-23",
+                "Points": "10"
+            },
+            {
+                "Position": "17",
                 "Team": "Tondela",
                 "Played": "13",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "8",
                 "Goal Difference": "-15",
-                "Points": "9"
-            },
-            {
-                "Position": "17",
-                "Team": "Arouca",
-                "Played": "13",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-23",
                 "Points": "9"
             },
             {
