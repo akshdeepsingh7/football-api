@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 December 2025, 05:17 PM UTC (Sunday, 14 December 2025, 10:47 PM IST)
+**Last Updated:** Sunday, 14 December 2025, 05:40 PM UTC (Sunday, 14 December 2025, 11:10 PM IST)
 
 ### Premier League
 
@@ -97,7 +97,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 14 | 13 | 1 | 0 | 41 | 40 |
+| 1 | Bayern Munich | 14 | 12 | 2 | 0 | 40 | 38 |
 | 2 | RB Leipzig | 14 | 9 | 2 | 3 | 13 | 29 |
 | 3 | Borussia Dortmund | 14 | 8 | 5 | 1 | 12 | 29 |
 | 4 | Bayer Leverkusen | 14 | 8 | 2 | 4 | 11 | 26 |
@@ -114,13 +114,13 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Augsburg | 14 | 4 | 1 | 9 | -11 | 13 |
 | 16 | St. Pauli | 14 | 3 | 2 | 9 | -13 | 11 |
 | 17 | Heidenheim | 14 | 3 | 2 | 9 | -17 | 11 |
-| 18 | Mainz 05 | 14 | 1 | 3 | 10 | -14 | 6 |
+| 18 | Mainz 05 | 14 | 1 | 4 | 9 | -13 | 7 |
 
 ### Serie A
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 15 | 11 | 0 | 4 | 20 | 33 |
+| 1 | Inter | 15 | 11 | 0 | 4 | 21 | 33 |
 | 2 | Milan | 15 | 9 | 5 | 1 | 11 | 32 |
 | 3 | Napoli | 15 | 10 | 1 | 4 | 9 | 31 |
 | 4 | Roma | 14 | 9 | 0 | 5 | 7 | 27 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Torino | 15 | 4 | 5 | 6 | -11 | 17 |
 | 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
 | 15 | Cagliari | 15 | 3 | 5 | 7 | -6 | 14 |
-| 16 | Genoa | 15 | 3 | 5 | 7 | -7 | 14 |
+| 16 | Genoa | 15 | 3 | 5 | 7 | -8 | 14 |
 | 17 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
 | 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
 | 19 | Pisa | 15 | 1 | 7 | 7 | -10 | 10 |
@@ -145,10 +145,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Lens | 16 | 12 | 1 | 3 | 14 | 37 |
+| 1 | Lens | 16 | 12 | 1 | 3 | 15 | 37 |
 | 2 | PSG | 16 | 11 | 3 | 2 | 21 | 36 |
-| 3 | Lille | 16 | 10 | 2 | 4 | 13 | 32 |
-| 4 | Marseille | 15 | 9 | 2 | 4 | 20 | 29 |
+| 3 | Marseille | 15 | 9 | 2 | 4 | 20 | 29 |
+| 4 | Lille | 16 | 9 | 2 | 5 | 11 | 29 |
 | 5 | Lyon | 16 | 8 | 3 | 5 | 6 | 27 |
 | 6 | Rennes | 16 | 7 | 6 | 3 | 3 | 27 |
 | 7 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
@@ -157,10 +157,10 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Angers | 16 | 6 | 4 | 6 | -1 | 22 |
 | 11 | Brest | 16 | 5 | 4 | 7 | -6 | 19 |
 | 12 | Lorient | 16 | 4 | 6 | 6 | -9 | 18 |
-| 13 | Nice | 16 | 5 | 2 | 9 | -9 | 17 |
+| 13 | Nice | 16 | 5 | 2 | 9 | -10 | 17 |
 | 14 | Paris FC | 16 | 4 | 4 | 8 | -8 | 16 |
-| 15 | Le Havre | 16 | 3 | 6 | 7 | -9 | 15 |
-| 16 | Auxerre | 16 | 3 | 3 | 10 | -11 | 12 |
+| 15 | Auxerre | 16 | 4 | 3 | 9 | -9 | 15 |
+| 16 | Le Havre | 16 | 3 | 6 | 7 | -9 | 15 |
 | 17 | Nantes | 16 | 2 | 5 | 9 | -14 | 11 |
 | 18 | Metz | 16 | 3 | 2 | 11 | -20 | 11 |
 
