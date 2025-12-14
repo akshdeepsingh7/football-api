@@ -41,30 +41,30 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 14 December 2025, 02:19 PM UTC (Sunday, 14 December 2025, 07:49 PM IST)
+**Last Updated:** Sunday, 14 December 2025, 02:42 PM UTC (Sunday, 14 December 2025, 08:12 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 16 | 11 | 3 | 2 | 20 | 36 |
-| 2 | Manchester City | 16 | 10 | 2 | 4 | 19 | 32 |
-| 3 | Aston Villa | 16 | 9 | 4 | 3 | 7 | 31 |
+| 2 | Manchester City | 16 | 11 | 1 | 4 | 20 | 34 |
+| 3 | Aston Villa | 16 | 9 | 3 | 4 | 6 | 30 |
 | 4 | Chelsea | 16 | 8 | 4 | 4 | 12 | 28 |
-| 5 | Crystal Palace | 16 | 7 | 6 | 3 | 8 | 27 |
+| 5 | Crystal Palace | 16 | 7 | 5 | 4 | 7 | 26 |
 | 6 | Liverpool FC | 16 | 8 | 2 | 6 | 2 | 26 |
 | 7 | Manchester United | 15 | 7 | 4 | 4 | 4 | 25 |
 | 8 | Sunderland | 16 | 6 | 6 | 4 | 1 | 24 |
 | 9 | Everton | 16 | 7 | 3 | 6 | -1 | 24 |
-| 10 | Tottenham Hotspur | 16 | 6 | 5 | 5 | 7 | 23 |
-| 11 | Brighton & Hove Albion | 16 | 6 | 5 | 5 | 2 | 23 |
-| 12 | Newcastle United | 16 | 6 | 5 | 5 | 2 | 23 |
+| 10 | Brighton & Hove Albion | 16 | 6 | 5 | 5 | 2 | 23 |
+| 11 | Newcastle United | 16 | 6 | 5 | 5 | 2 | 23 |
+| 12 | Tottenham Hotspur | 16 | 6 | 4 | 6 | 6 | 22 |
 | 13 | Fulham | 16 | 6 | 2 | 8 | -3 | 20 |
 | 14 | AFC Bournemouth | 15 | 5 | 5 | 5 | -3 | 20 |
 | 15 | Brentford | 15 | 6 | 1 | 8 | -3 | 19 |
-| 16 | Nottingham Forest | 16 | 4 | 4 | 8 | -11 | 16 |
-| 17 | Leeds United | 15 | 4 | 3 | 8 | -10 | 15 |
-| 18 | West Ham United | 16 | 3 | 5 | 8 | -12 | 14 |
+| 16 | Nottingham Forest | 16 | 5 | 3 | 8 | -10 | 18 |
+| 17 | West Ham United | 16 | 4 | 4 | 8 | -11 | 16 |
+| 18 | Leeds United | 15 | 4 | 3 | 8 | -10 | 15 |
 | 19 | Burnley | 16 | 3 | 1 | 12 | -15 | 10 |
 | 20 | Wolverhampton Wanderers | 16 | 0 | 2 | 14 | -26 | 2 |
 
@@ -99,14 +99,14 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 13 | 12 | 1 | 0 | 40 | 37 |
 | 2 | RB Leipzig | 14 | 9 | 2 | 3 | 13 | 29 |
-| 3 | Borussia Dortmund | 13 | 8 | 4 | 1 | 12 | 28 |
+| 3 | Borussia Dortmund | 14 | 8 | 5 | 1 | 12 | 29 |
 | 4 | Bayer Leverkusen | 14 | 8 | 2 | 4 | 11 | 26 |
 | 5 | Hoffenheim | 14 | 8 | 2 | 4 | 9 | 26 |
 | 6 | Eintracht Frankfurt | 14 | 7 | 3 | 4 | 0 | 24 |
 | 7 | VfB Stuttgart | 13 | 7 | 1 | 5 | -1 | 22 |
 | 8 | Union Berlin | 14 | 5 | 3 | 6 | -4 | 18 |
-| 9 | Köln | 14 | 4 | 4 | 6 | -1 | 16 |
-| 10 | SC Freiburg | 13 | 4 | 4 | 5 | -2 | 16 |
+| 9 | SC Freiburg | 14 | 4 | 5 | 5 | -2 | 17 |
+| 10 | Köln | 14 | 4 | 4 | 6 | -1 | 16 |
 | 11 | Borussia Mönchengladbach | 14 | 4 | 4 | 6 | -4 | 16 |
 | 12 | Werder Bremen | 13 | 4 | 4 | 5 | -6 | 16 |
 | 13 | VfL Wolfsburg | 14 | 4 | 3 | 7 | -4 | 15 |
