@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 11:17 AM UTC",
-        "IST": "Sunday, 14 December 2025, 04:47 PM IST"
+        "UTC": "Sunday, 14 December 2025, 11:37 AM UTC",
+        "IST": "Sunday, 14 December 2025, 05:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -594,12 +594,12 @@
             {
                 "Position": "1",
                 "Team": "Milan",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "9",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "11",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "2",
@@ -674,12 +674,12 @@
             {
                 "Position": "9",
                 "Team": "Sassuolo",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "6",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "2",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "10",
