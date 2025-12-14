@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 09:39 PM UTC",
-        "IST": "Monday, 15 December 2025, 03:09 AM IST"
+        "UTC": "Sunday, 14 December 2025, 10:19 PM UTC",
+        "IST": "Monday, 15 December 2025, 03:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2146,10 +2146,10 @@
                 "Team": "Alverca",
                 "Played": "14",
                 "Wins": "5",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-4",
-                "Points": "18"
+                "Draws": "2",
+                "Losses": "7",
+                "Goal Difference": "-5",
+                "Points": "17"
             },
             {
                 "Position": "10",
@@ -2193,6 +2193,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Arouca",
+                "Played": "14",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-22",
+                "Points": "12"
+            },
+            {
+                "Position": "15",
                 "Team": "Nacional",
                 "Played": "13",
                 "Wins": "3",
@@ -2202,23 +2212,13 @@
                 "Points": "12"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Casa Pia",
                 "Played": "14",
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "8",
                 "Goal Difference": "-14",
-                "Points": "10"
-            },
-            {
-                "Position": "16",
-                "Team": "Arouca",
-                "Played": "14",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "-23",
                 "Points": "10"
             },
             {
