@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 04:24 PM UTC",
-        "IST": "Sunday, 14 December 2025, 09:54 PM IST"
+        "UTC": "Sunday, 14 December 2025, 04:46 PM UTC",
+        "IST": "Sunday, 14 December 2025, 10:16 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -148,12 +148,12 @@
             {
                 "Position": "15",
                 "Team": "Brentford",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "6",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "8",
                 "Goal Difference": "-3",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "16",
@@ -168,12 +168,12 @@
             {
                 "Position": "17",
                 "Team": "Leeds United",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "4",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "8",
                 "Goal Difference": "-10",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "18",
@@ -274,7 +274,7 @@
                 "Wins": "7",
                 "Draws": "2",
                 "Losses": "8",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "23"
             },
             {
@@ -284,7 +284,7 @@
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "0",
+                "Goal Difference": "1",
                 "Points": "22"
             },
             {
@@ -412,12 +412,12 @@
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "12",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "0",
                 "Goal Difference": "40",
-                "Points": "37"
+                "Points": "38"
             },
             {
                 "Position": "2",
@@ -582,12 +582,12 @@
             {
                 "Position": "18",
                 "Team": "Mainz 05",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "1",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "9",
                 "Goal Difference": "-13",
-                "Points": "6"
+                "Points": "7"
             }
         ],
         "Serie A": [
@@ -795,6 +795,16 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "Lens",
+                "Played": "16",
+                "Wins": "12",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "14",
+                "Points": "37"
+            },
+            {
+                "Position": "2",
                 "Team": "PSG",
                 "Played": "16",
                 "Wins": "11",
@@ -804,24 +814,14 @@
                 "Points": "36"
             },
             {
-                "Position": "2",
-                "Team": "Lens",
-                "Played": "16",
-                "Wins": "11",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "13",
-                "Points": "35"
-            },
-            {
                 "Position": "3",
                 "Team": "Lille",
                 "Played": "16",
-                "Wins": "9",
-                "Draws": "3",
+                "Wins": "10",
+                "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "12",
-                "Points": "30"
+                "Goal Difference": "13",
+                "Points": "32"
             },
             {
                 "Position": "4",
@@ -905,16 +905,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Nice",
-                "Played": "16",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-8",
-                "Points": "18"
-            },
-            {
-                "Position": "13",
                 "Team": "Lorient",
                 "Played": "16",
                 "Wins": "4",
@@ -922,6 +912,16 @@
                 "Losses": "6",
                 "Goal Difference": "-9",
                 "Points": "18"
+            },
+            {
+                "Position": "13",
+                "Team": "Nice",
+                "Played": "16",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "9",
+                "Goal Difference": "-9",
+                "Points": "17"
             },
             {
                 "Position": "14",
@@ -948,10 +948,10 @@
                 "Team": "Auxerre",
                 "Played": "16",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-10",
-                "Points": "13"
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-11",
+                "Points": "12"
             },
             {
                 "Position": "17",
@@ -2108,7 +2108,7 @@
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "3",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "23"
             },
             {
@@ -2178,7 +2178,7 @@
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "14"
             },
             {
