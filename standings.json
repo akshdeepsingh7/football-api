@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 14 December 2025, 05:40 PM UTC",
-        "IST": "Sunday, 14 December 2025, 11:10 PM IST"
+        "UTC": "Sunday, 14 December 2025, 06:29 PM UTC",
+        "IST": "Sunday, 14 December 2025, 11:59 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -137,21 +137,21 @@
             },
             {
                 "Position": "14",
-                "Team": "AFC Bournemouth",
-                "Played": "15",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-3",
-                "Points": "20"
-            },
-            {
-                "Position": "15",
                 "Team": "Brentford",
                 "Played": "16",
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "8",
+                "Goal Difference": "-3",
+                "Points": "20"
+            },
+            {
+                "Position": "15",
+                "Team": "AFC Bournemouth",
+                "Played": "15",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "5",
                 "Goal Difference": "-3",
                 "Points": "20"
             },
@@ -815,22 +815,22 @@
             },
             {
                 "Position": "3",
+                "Team": "Lille",
+                "Played": "16",
+                "Wins": "10",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "13",
+                "Points": "32"
+            },
+            {
+                "Position": "4",
                 "Team": "Marseille",
                 "Played": "15",
                 "Wins": "9",
                 "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "20",
-                "Points": "29"
-            },
-            {
-                "Position": "4",
-                "Team": "Lille",
-                "Played": "16",
-                "Wins": "9",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "11",
                 "Points": "29"
             },
             {
@@ -935,16 +935,6 @@
             },
             {
                 "Position": "15",
-                "Team": "Auxerre",
-                "Played": "16",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "9",
-                "Goal Difference": "-9",
-                "Points": "15"
-            },
-            {
-                "Position": "16",
                 "Team": "Le Havre",
                 "Played": "16",
                 "Wins": "3",
@@ -952,6 +942,16 @@
                 "Losses": "7",
                 "Goal Difference": "-9",
                 "Points": "15"
+            },
+            {
+                "Position": "16",
+                "Team": "Auxerre",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-11",
+                "Points": "12"
             },
             {
                 "Position": "17",
@@ -2084,12 +2084,12 @@
             {
                 "Position": "3",
                 "Team": "Benfica",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "8",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "0",
                 "Goal Difference": "18",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "4",
@@ -2123,6 +2123,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Moreirense",
+                "Played": "14",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "1",
+                "Points": "21"
+            },
+            {
+                "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "14",
                 "Wins": "6",
@@ -2130,16 +2140,6 @@
                 "Losses": "5",
                 "Goal Difference": "-2",
                 "Points": "21"
-            },
-            {
-                "Position": "8",
-                "Team": "Moreirense",
-                "Played": "13",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "1",
-                "Points": "20"
             },
             {
                 "Position": "9",
