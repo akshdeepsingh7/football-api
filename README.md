@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 15 December 2025, 06:33 PM UTC (Tuesday, 16 December 2025, 12:03 AM IST)
+**Last Updated:** Monday, 15 December 2025, 07:20 PM UTC (Tuesday, 16 December 2025, 12:50 AM IST)
 
 ### Premier League
 
@@ -295,13 +295,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 14 | 11 | 2 | 1 | 31 | 35 |
 | 3 | Benfica | 14 | 9 | 5 | 0 | 22 | 32 |
 | 4 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
-| 5 | Famalicão | 14 | 6 | 5 | 3 | 9 | 23 |
-| 6 | Braga | 13 | 6 | 4 | 3 | 13 | 22 |
+| 5 | Braga | 14 | 6 | 5 | 3 | 13 | 23 |
+| 6 | Famalicão | 14 | 6 | 5 | 3 | 9 | 23 |
 | 7 | Vitória S.C. | 14 | 6 | 3 | 5 | -2 | 21 |
 | 8 | Moreirense | 14 | 6 | 2 | 6 | -3 | 20 |
 | 9 | Alverca | 14 | 5 | 2 | 7 | -5 | 17 |
-| 10 | Rio Ave | 14 | 3 | 7 | 4 | -5 | 16 |
-| 11 | Santa Clara | 13 | 4 | 3 | 6 | -3 | 15 |
+| 10 | Santa Clara | 14 | 4 | 4 | 6 | -3 | 16 |
+| 11 | Rio Ave | 14 | 3 | 7 | 4 | -5 | 16 |
 | 12 | Estoril | 14 | 3 | 5 | 6 | -3 | 14 |
 | 13 | Estrela Amadora | 13 | 3 | 5 | 5 | -3 | 14 |
 | 14 | Nacional | 14 | 3 | 4 | 7 | -6 | 13 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 December 2025, 06:33 PM UTC",
-        "IST": "Tuesday, 16 December 2025, 12:03 AM IST"
+        "UTC": "Monday, 15 December 2025, 07:20 PM UTC",
+        "IST": "Tuesday, 16 December 2025, 12:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2103,6 +2103,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Braga",
+                "Played": "14",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "3",
+                "Goal Difference": "13",
+                "Points": "23"
+            },
+            {
+                "Position": "6",
                 "Team": "Famalic\u00e3o",
                 "Played": "14",
                 "Wins": "6",
@@ -2110,16 +2120,6 @@
                 "Losses": "3",
                 "Goal Difference": "9",
                 "Points": "23"
-            },
-            {
-                "Position": "6",
-                "Team": "Braga",
-                "Played": "13",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "13",
-                "Points": "22"
             },
             {
                 "Position": "7",
@@ -2153,6 +2153,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Santa Clara",
+                "Played": "14",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-3",
+                "Points": "16"
+            },
+            {
+                "Position": "11",
                 "Team": "Rio Ave",
                 "Played": "14",
                 "Wins": "3",
@@ -2160,16 +2170,6 @@
                 "Losses": "4",
                 "Goal Difference": "-5",
                 "Points": "16"
-            },
-            {
-                "Position": "11",
-                "Team": "Santa Clara",
-                "Played": "13",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-3",
-                "Points": "15"
             },
             {
                 "Position": "12",
