@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 December 2025, 05:25 PM UTC",
-        "IST": "Monday, 15 December 2025, 10:55 PM IST"
+        "UTC": "Monday, 15 December 2025, 05:48 PM UTC",
+        "IST": "Monday, 15 December 2025, 11:18 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2193,22 +2193,22 @@
             },
             {
                 "Position": "14",
+                "Team": "Nacional",
+                "Played": "14",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "-6",
+                "Points": "13"
+            },
+            {
+                "Position": "15",
                 "Team": "Arouca",
                 "Played": "14",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "8",
                 "Goal Difference": "-22",
-                "Points": "12"
-            },
-            {
-                "Position": "15",
-                "Team": "Nacional",
-                "Played": "13",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "-6",
                 "Points": "12"
             },
             {
@@ -2224,12 +2224,12 @@
             {
                 "Position": "17",
                 "Team": "Tondela",
-                "Played": "13",
+                "Played": "14",
                 "Wins": "2",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "8",
                 "Goal Difference": "-15",
-                "Points": "9"
+                "Points": "10"
             },
             {
                 "Position": "18",
