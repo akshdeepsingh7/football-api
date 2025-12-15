@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 December 2025, 09:44 PM UTC",
-        "IST": "Tuesday, 16 December 2025, 03:14 AM IST"
+        "UTC": "Monday, 15 December 2025, 10:21 PM UTC",
+        "IST": "Tuesday, 16 December 2025, 03:51 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -47,22 +47,22 @@
             },
             {
                 "Position": "5",
-                "Team": "Manchester United",
-                "Played": "16",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "5",
-                "Points": "28"
-            },
-            {
-                "Position": "6",
                 "Team": "Crystal Palace",
                 "Played": "16",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "5",
+                "Points": "26"
+            },
+            {
+                "Position": "6",
+                "Team": "Manchester United",
+                "Played": "16",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "4",
                 "Points": "26"
             },
             {
@@ -127,6 +127,16 @@
             },
             {
                 "Position": "13",
+                "Team": "AFC Bournemouth",
+                "Played": "16",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "5",
+                "Goal Difference": "-3",
+                "Points": "21"
+            },
+            {
+                "Position": "14",
                 "Team": "Fulham",
                 "Played": "16",
                 "Wins": "6",
@@ -136,23 +146,13 @@
                 "Points": "20"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Brentford",
                 "Played": "16",
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "8",
                 "Goal Difference": "-3",
-                "Points": "20"
-            },
-            {
-                "Position": "15",
-                "Team": "AFC Bournemouth",
-                "Played": "16",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-4",
                 "Points": "20"
             },
             {

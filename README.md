@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 15 December 2025, 09:44 PM UTC (Tuesday, 16 December 2025, 03:14 AM IST)
+**Last Updated:** Monday, 15 December 2025, 10:21 PM UTC (Tuesday, 16 December 2025, 03:51 AM IST)
 
 ### Premier League
 
@@ -51,17 +51,17 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 16 | 11 | 1 | 4 | 22 | 34 |
 | 3 | Aston Villa | 16 | 10 | 3 | 3 | 8 | 33 |
 | 4 | Chelsea | 16 | 8 | 4 | 4 | 12 | 28 |
-| 5 | Manchester United | 16 | 8 | 4 | 4 | 5 | 28 |
-| 6 | Crystal Palace | 16 | 7 | 5 | 4 | 5 | 26 |
+| 5 | Crystal Palace | 16 | 7 | 5 | 4 | 5 | 26 |
+| 6 | Manchester United | 16 | 7 | 5 | 4 | 4 | 26 |
 | 7 | Liverpool FC | 16 | 8 | 2 | 6 | 2 | 26 |
 | 8 | Sunderland | 16 | 7 | 5 | 4 | 2 | 26 |
 | 9 | Everton | 16 | 7 | 3 | 6 | -1 | 24 |
 | 10 | Brighton & Hove Albion | 16 | 6 | 5 | 5 | 2 | 23 |
 | 11 | Tottenham Hotspur | 16 | 6 | 4 | 6 | 4 | 22 |
 | 12 | Newcastle United | 16 | 6 | 4 | 6 | 1 | 22 |
-| 13 | Fulham | 16 | 6 | 2 | 8 | -3 | 20 |
-| 14 | Brentford | 16 | 6 | 2 | 8 | -3 | 20 |
-| 15 | AFC Bournemouth | 16 | 5 | 5 | 6 | -4 | 20 |
+| 13 | AFC Bournemouth | 16 | 5 | 6 | 5 | -3 | 21 |
+| 14 | Fulham | 16 | 6 | 2 | 8 | -3 | 20 |
+| 15 | Brentford | 16 | 6 | 2 | 8 | -3 | 20 |
 | 16 | Nottingham Forest | 16 | 5 | 3 | 8 | -8 | 18 |
 | 17 | Leeds United | 16 | 4 | 4 | 8 | -10 | 16 |
 | 18 | West Ham United | 16 | 3 | 4 | 9 | -13 | 13 |
