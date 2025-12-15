@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 15 December 2025, 10:21 PM UTC (Tuesday, 16 December 2025, 03:51 AM IST)
+**Last Updated:** Monday, 15 December 2025, 10:44 PM UTC (Tuesday, 16 December 2025, 04:14 AM IST)
 
 ### Premier League
 
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 14 | 13 | 1 | 0 | 25 | 40 |
+| 1 | Porto | 14 | 13 | 1 | 0 | 26 | 40 |
 | 2 | Sporting CP | 14 | 11 | 2 | 1 | 31 | 35 |
 | 3 | Benfica | 14 | 9 | 5 | 0 | 22 | 32 |
 | 4 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
@@ -304,7 +304,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Nacional | 14 | 4 | 3 | 7 | -4 | 15 |
 | 12 | Santa Clara | 14 | 4 | 3 | 7 | -4 | 15 |
 | 13 | Estoril | 14 | 3 | 5 | 6 | -3 | 14 |
-| 14 | Estrela Amadora | 14 | 3 | 5 | 6 | -4 | 14 |
+| 14 | Estrela Amadora | 14 | 3 | 5 | 6 | -5 | 14 |
 | 15 | Arouca | 14 | 3 | 3 | 8 | -22 | 12 |
 | 16 | Casa Pia | 14 | 2 | 4 | 8 | -14 | 10 |
 | 17 | Tondela | 14 | 2 | 3 | 9 | -17 | 9 |
