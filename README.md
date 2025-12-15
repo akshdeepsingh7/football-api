@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 15 December 2025, 03:26 PM UTC (Monday, 15 December 2025, 08:56 PM IST)
+**Last Updated:** Monday, 15 December 2025, 03:49 PM UTC (Monday, 15 December 2025, 09:19 PM IST)
 
 ### Premier League
 
@@ -394,38 +394,7 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Liga Profesional Argentina (Clausura)
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Boca Juniors | 16 | 8 | 5 | 3 | 16 | 29 |
-| 2 | Unión | 16 | 6 | 7 | 3 | 7 | 25 |
-| 3 | Racing Club | 16 | 7 | 4 | 5 | 3 | 25 |
-| 4 | Córdoba SdE | 16 | 5 | 9 | 2 | 6 | 24 |
-| 5 | Argentinos Juniors | 16 | 7 | 3 | 6 | 5 | 24 |
-| 6 | Barracas | 16 | 5 | 8 | 3 | 2 | 23 |
-| 7 | Tigre | 16 | 5 | 7 | 4 | 1 | 22 |
-| 8 | Estudiantes | 16 | 6 | 3 | 7 | -1 | 21 |
-| 9 | Banfield | 16 | 6 | 3 | 7 | -6 | 21 |
-| 10 | Belgrano | 16 | 4 | 8 | 4 | 2 | 20 |
-| 11 | Huracán | 16 | 5 | 5 | 6 | -5 | 20 |
-| 12 | Def y Justicia | 16 | 5 | 4 | 7 | -5 | 19 |
-| 13 | Aldosivi | 16 | 5 | 3 | 8 | -5 | 18 |
-| 14 | Independiente Rivadavia | 16 | 3 | 7 | 6 | -3 | 16 |
-| 15 | Newell's Old Boys | 16 | 3 | 5 | 8 | -10 | 14 |
-| 1 | Rosario | 16 | 8 | 7 | 1 | 10 | 31 |
-| 2 | Lanús | 16 | 9 | 3 | 4 | 7 | 30 |
-| 3 | Riestra | 16 | 8 | 4 | 4 | 7 | 28 |
-| 4 | Vélez | 16 | 7 | 5 | 4 | 7 | 26 |
-| 5 | San Lorenzo | 16 | 6 | 6 | 4 | 2 | 24 |
-| 6 | Club Atlético River Plate | 16 | 6 | 4 | 6 | 5 | 22 |
-| 7 | GELP | 16 | 7 | 1 | 8 | -2 | 22 |
-| 8 | Talleres | 16 | 5 | 6 | 5 | -3 | 21 |
-| 9 | Sarmiento | 16 | 5 | 5 | 6 | -4 | 20 |
-| 10 | San Martín SJ | 16 | 4 | 7 | 5 | -3 | 19 |
-| 11 | Independiente | 16 | 4 | 6 | 6 | 1 | 18 |
-| 12 | Atl. Tucumán | 16 | 5 | 3 | 8 | -5 | 18 |
-| 13 | Instituto | 16 | 3 | 7 | 6 | -8 | 16 |
-| 14 | Godoy Cruz | 16 | 1 | 9 | 6 | -8 | 12 |
-| 15 | Platense | 16 | 2 | 6 | 8 | -13 | 12 |
+Data not available.
 
 ### Brasileirão
 
