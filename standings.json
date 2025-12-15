@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 December 2025, 09:21 PM UTC",
-        "IST": "Tuesday, 16 December 2025, 02:51 AM IST"
+        "UTC": "Monday, 15 December 2025, 09:44 PM UTC",
+        "IST": "Tuesday, 16 December 2025, 03:14 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -47,6 +47,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Manchester United",
+                "Played": "16",
+                "Wins": "8",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "5",
+                "Points": "28"
+            },
+            {
+                "Position": "6",
                 "Team": "Crystal Palace",
                 "Played": "16",
                 "Wins": "7",
@@ -56,7 +66,7 @@
                 "Points": "26"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Liverpool FC",
                 "Played": "16",
                 "Wins": "8",
@@ -66,7 +76,7 @@
                 "Points": "26"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Sunderland",
                 "Played": "16",
                 "Wins": "7",
@@ -74,16 +84,6 @@
                 "Losses": "4",
                 "Goal Difference": "2",
                 "Points": "26"
-            },
-            {
-                "Position": "8",
-                "Team": "Manchester United",
-                "Played": "16",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "3",
-                "Points": "25"
             },
             {
                 "Position": "9",
@@ -107,16 +107,6 @@
             },
             {
                 "Position": "11",
-                "Team": "AFC Bournemouth",
-                "Played": "16",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-2",
-                "Points": "23"
-            },
-            {
-                "Position": "12",
                 "Team": "Tottenham Hotspur",
                 "Played": "16",
                 "Wins": "6",
@@ -126,7 +116,7 @@
                 "Points": "22"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Newcastle United",
                 "Played": "16",
                 "Wins": "6",
@@ -136,7 +126,7 @@
                 "Points": "22"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Fulham",
                 "Played": "16",
                 "Wins": "6",
@@ -146,13 +136,23 @@
                 "Points": "20"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Brentford",
                 "Played": "16",
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "8",
                 "Goal Difference": "-3",
+                "Points": "20"
+            },
+            {
+                "Position": "15",
+                "Team": "AFC Bournemouth",
+                "Played": "16",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-4",
                 "Points": "20"
             },
             {
@@ -2360,7 +2360,7 @@
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "0",
+                "Goal Difference": "1",
                 "Points": "30"
             },
             {
@@ -2480,7 +2480,7 @@
                 "Wins": "1",
                 "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "-24",
+                "Goal Difference": "-25",
                 "Points": "-9"
             }
         ],
