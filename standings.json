@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 December 2025, 07:40 PM UTC",
-        "IST": "Tuesday, 16 December 2025, 01:10 AM IST"
+        "UTC": "Monday, 15 December 2025, 08:25 PM UTC",
+        "IST": "Tuesday, 16 December 2025, 01:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -47,6 +47,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Manchester United",
+                "Played": "16",
+                "Wins": "8",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "5",
+                "Points": "28"
+            },
+            {
+                "Position": "6",
                 "Team": "Crystal Palace",
                 "Played": "16",
                 "Wins": "7",
@@ -56,7 +66,7 @@
                 "Points": "26"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Liverpool FC",
                 "Played": "16",
                 "Wins": "8",
@@ -66,7 +76,7 @@
                 "Points": "26"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Sunderland",
                 "Played": "16",
                 "Wins": "7",
@@ -74,16 +84,6 @@
                 "Losses": "4",
                 "Goal Difference": "2",
                 "Points": "26"
-            },
-            {
-                "Position": "8",
-                "Team": "Manchester United",
-                "Played": "15",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "4",
-                "Points": "25"
             },
             {
                 "Position": "9",
@@ -148,11 +148,11 @@
             {
                 "Position": "15",
                 "Team": "AFC Bournemouth",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "5",
                 "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-3",
+                "Losses": "6",
+                "Goal Difference": "-4",
                 "Points": "20"
             },
             {
@@ -260,12 +260,12 @@
             {
                 "Position": "6",
                 "Team": "Real Betis",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "3",
                 "Goal Difference": "6",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "7",
@@ -330,12 +330,12 @@
             {
                 "Position": "13",
                 "Team": "Rayo Vallecano",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "-3",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "14",
@@ -624,12 +624,12 @@
             {
                 "Position": "4",
                 "Team": "Roma",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "9",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "5",
                 "Goal Difference": "7",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "5",
@@ -654,12 +654,12 @@
             {
                 "Position": "7",
                 "Team": "Como",
-                "Played": "14",
+                "Played": "15",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "2",
                 "Goal Difference": "8",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "8",
@@ -2163,7 +2163,7 @@
             },
             {
                 "Position": "11",
-                "Team": "Santa Clara",
+                "Team": "Nacional",
                 "Played": "14",
                 "Wins": "4",
                 "Draws": "3",
@@ -2173,12 +2173,12 @@
             },
             {
                 "Position": "12",
-                "Team": "Nacional",
+                "Team": "Santa Clara",
                 "Played": "14",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "7",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "15"
             },
             {
@@ -2228,7 +2228,7 @@
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "9",
-                "Goal Difference": "-16",
+                "Goal Difference": "-17",
                 "Points": "9"
             },
             {
@@ -2385,6 +2385,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Derby County",
+                "Played": "21",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "-2",
+                "Points": "28"
+            },
+            {
+                "Position": "16",
                 "Team": "West Bromwich Albion",
                 "Played": "21",
                 "Wins": "8",
@@ -2392,16 +2402,6 @@
                 "Losses": "9",
                 "Goal Difference": "-3",
                 "Points": "28"
-            },
-            {
-                "Position": "16",
-                "Team": "Derby County",
-                "Played": "20",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-2",
-                "Points": "27"
             },
             {
                 "Position": "17",
@@ -2476,12 +2476,12 @@
             {
                 "Position": "24",
                 "Team": "Sheffield Wednesday",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "1",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "12",
                 "Goal Difference": "-22",
-                "Points": "-9"
+                "Points": "-8"
             }
         ],
         "Major League Soccer (MLS)": [
