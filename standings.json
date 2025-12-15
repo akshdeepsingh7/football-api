@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 15 December 2025, 07:20 PM UTC",
-        "IST": "Tuesday, 16 December 2025, 12:50 AM IST"
+        "UTC": "Monday, 15 December 2025, 07:40 PM UTC",
+        "IST": "Tuesday, 16 December 2025, 01:10 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2105,11 +2105,11 @@
                 "Position": "5",
                 "Team": "Braga",
                 "Played": "14",
-                "Wins": "6",
-                "Draws": "5",
+                "Wins": "7",
+                "Draws": "4",
                 "Losses": "3",
-                "Goal Difference": "13",
-                "Points": "23"
+                "Goal Difference": "14",
+                "Points": "25"
             },
             {
                 "Position": "6",
@@ -2153,16 +2153,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Santa Clara",
-                "Played": "14",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "-3",
-                "Points": "16"
-            },
-            {
-                "Position": "11",
                 "Team": "Rio Ave",
                 "Played": "14",
                 "Wins": "3",
@@ -2172,7 +2162,27 @@
                 "Points": "16"
             },
             {
+                "Position": "11",
+                "Team": "Santa Clara",
+                "Played": "14",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-4",
+                "Points": "15"
+            },
+            {
                 "Position": "12",
+                "Team": "Nacional",
+                "Played": "14",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-5",
+                "Points": "15"
+            },
+            {
+                "Position": "13",
                 "Team": "Estoril",
                 "Played": "14",
                 "Wins": "3",
@@ -2182,7 +2192,7 @@
                 "Points": "14"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Estrela Amadora",
                 "Played": "13",
                 "Wins": "3",
@@ -2190,16 +2200,6 @@
                 "Losses": "5",
                 "Goal Difference": "-3",
                 "Points": "14"
-            },
-            {
-                "Position": "14",
-                "Team": "Nacional",
-                "Played": "14",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-6",
-                "Points": "13"
             },
             {
                 "Position": "15",
@@ -2226,10 +2226,10 @@
                 "Team": "Tondela",
                 "Played": "14",
                 "Wins": "2",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "-15",
-                "Points": "10"
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-16",
+                "Points": "9"
             },
             {
                 "Position": "18",
