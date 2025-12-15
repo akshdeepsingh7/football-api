@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 15 December 2025, 08:47 PM UTC (Tuesday, 16 December 2025, 02:17 AM IST)
+**Last Updated:** Monday, 15 December 2025, 09:21 PM UTC (Tuesday, 16 December 2025, 02:51 AM IST)
 
 ### Premier League
 
@@ -52,14 +52,14 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Aston Villa | 16 | 10 | 3 | 3 | 8 | 33 |
 | 4 | Chelsea | 16 | 8 | 4 | 4 | 12 | 28 |
 | 5 | Crystal Palace | 16 | 7 | 5 | 4 | 5 | 26 |
-| 6 | Manchester United | 16 | 7 | 5 | 4 | 4 | 26 |
-| 7 | Liverpool FC | 16 | 8 | 2 | 6 | 2 | 26 |
-| 8 | Sunderland | 16 | 7 | 5 | 4 | 2 | 26 |
+| 6 | Liverpool FC | 16 | 8 | 2 | 6 | 2 | 26 |
+| 7 | Sunderland | 16 | 7 | 5 | 4 | 2 | 26 |
+| 8 | Manchester United | 16 | 7 | 4 | 5 | 3 | 25 |
 | 9 | Everton | 16 | 7 | 3 | 6 | -1 | 24 |
 | 10 | Brighton & Hove Albion | 16 | 6 | 5 | 5 | 2 | 23 |
-| 11 | Tottenham Hotspur | 16 | 6 | 4 | 6 | 4 | 22 |
-| 12 | Newcastle United | 16 | 6 | 4 | 6 | 1 | 22 |
-| 13 | AFC Bournemouth | 16 | 5 | 6 | 5 | -3 | 21 |
+| 11 | AFC Bournemouth | 16 | 6 | 5 | 5 | -2 | 23 |
+| 12 | Tottenham Hotspur | 16 | 6 | 4 | 6 | 4 | 22 |
+| 13 | Newcastle United | 16 | 6 | 4 | 6 | 1 | 22 |
 | 14 | Fulham | 16 | 6 | 2 | 8 | -3 | 20 |
 | 15 | Brentford | 16 | 6 | 2 | 8 | -3 | 20 |
 | 16 | Nottingham Forest | 16 | 5 | 3 | 8 | -8 | 18 |
@@ -123,10 +123,10 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 15 | 11 | 0 | 4 | 20 | 33 |
 | 2 | Milan | 15 | 9 | 5 | 1 | 11 | 32 |
 | 3 | Napoli | 15 | 10 | 1 | 4 | 9 | 31 |
-| 4 | Roma | 15 | 9 | 1 | 5 | 7 | 28 |
+| 4 | Roma | 15 | 10 | 0 | 5 | 8 | 30 |
 | 5 | Juventus | 15 | 7 | 5 | 3 | 5 | 26 |
 | 6 | Bologna | 15 | 7 | 4 | 4 | 10 | 25 |
-| 7 | Como | 15 | 6 | 7 | 2 | 8 | 25 |
+| 7 | Como | 15 | 6 | 6 | 3 | 7 | 24 |
 | 8 | Lazio | 15 | 6 | 4 | 5 | 6 | 22 |
 | 9 | Sassuolo | 15 | 6 | 3 | 6 | 2 | 21 |
 | 10 | Udinese | 15 | 6 | 3 | 6 | -6 | 21 |
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 14 | 12 | 2 | 0 | 24 | 38 |
+| 1 | Porto | 14 | 13 | 1 | 0 | 25 | 40 |
 | 2 | Sporting CP | 14 | 11 | 2 | 1 | 31 | 35 |
 | 3 | Benfica | 14 | 9 | 5 | 0 | 22 | 32 |
 | 4 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
@@ -301,10 +301,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Moreirense | 14 | 6 | 2 | 6 | -3 | 20 |
 | 9 | Alverca | 14 | 5 | 2 | 7 | -5 | 17 |
 | 10 | Rio Ave | 14 | 3 | 7 | 4 | -5 | 16 |
-| 11 | Estrela Amadora | 14 | 3 | 6 | 5 | -3 | 15 |
-| 12 | Nacional | 14 | 4 | 3 | 7 | -4 | 15 |
-| 13 | Santa Clara | 14 | 4 | 3 | 7 | -4 | 15 |
-| 14 | Estoril | 14 | 3 | 5 | 6 | -3 | 14 |
+| 11 | Nacional | 14 | 4 | 3 | 7 | -4 | 15 |
+| 12 | Santa Clara | 14 | 4 | 3 | 7 | -4 | 15 |
+| 13 | Estoril | 14 | 3 | 5 | 6 | -3 | 14 |
+| 14 | Estrela Amadora | 14 | 3 | 5 | 6 | -4 | 14 |
 | 15 | Arouca | 14 | 3 | 3 | 8 | -22 | 12 |
 | 16 | Casa Pia | 14 | 2 | 4 | 8 | -14 | 10 |
 | 17 | Tondela | 14 | 2 | 3 | 9 | -17 | 9 |
@@ -325,7 +325,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Queens Park Rangers | 21 | 9 | 4 | 8 | -5 | 31 |
 | 10 | Southampton | 21 | 8 | 6 | 7 | 5 | 30 |
 | 11 | Bristol City | 21 | 8 | 6 | 7 | 4 | 30 |
-| 12 | Derby County | 21 | 8 | 6 | 7 | -1 | 30 |
+| 12 | Derby County | 21 | 8 | 6 | 7 | 0 | 30 |
 | 13 | Birmingham City | 21 | 8 | 5 | 8 | 4 | 29 |
 | 14 | Watford | 21 | 7 | 8 | 6 | 2 | 29 |
 | 15 | Wrexham | 21 | 6 | 10 | 5 | 1 | 28 |
@@ -337,7 +337,7 @@ The latest league standings are displayed below in Markdown tables:
 | 21 | Portsmouth | 20 | 5 | 5 | 10 | -10 | 20 |
 | 22 | Oxford United | 21 | 4 | 7 | 10 | -8 | 19 |
 | 23 | Norwich City | 21 | 4 | 5 | 12 | -10 | 17 |
-| 24 | Sheffield Wednesday | 20 | 1 | 6 | 13 | -23 | -9 |
+| 24 | Sheffield Wednesday | 20 | 1 | 6 | 13 | -24 | -9 |
 
 ### Major League Soccer (MLS)
 
