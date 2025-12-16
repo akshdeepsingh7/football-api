@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 16 December 2025, 03:45 PM UTC (Tuesday, 16 December 2025, 09:15 PM IST)
+**Last Updated:** Tuesday, 16 December 2025, 04:30 PM UTC (Tuesday, 16 December 2025, 10:00 PM IST)
 
 ### Premier League
 
@@ -400,26 +400,26 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Flamengo | 38 | 23 | 10 | 5 | 51 | 79 |
-| 2 | Palmeiras | 38 | 23 | 7 | 8 | 33 | 76 |
-| 3 | Cruzeiro | 38 | 19 | 13 | 6 | 24 | 70 |
-| 4 | Mirassol | 38 | 18 | 13 | 7 | 24 | 67 |
-| 5 | Fluminense | 38 | 19 | 7 | 12 | 11 | 64 |
-| 6 | Botafogo | 38 | 17 | 12 | 9 | 20 | 63 |
-| 7 | Bahia | 38 | 17 | 9 | 12 | 4 | 60 |
-| 8 | São Paulo | 38 | 14 | 9 | 15 | -4 | 51 |
-| 9 | Grêmio | 38 | 13 | 10 | 15 | -3 | 49 |
-| 10 | RB Bragantino | 38 | 14 | 6 | 18 | -12 | 48 |
-| 11 | Atlético Mineiro | 38 | 12 | 12 | 14 | -1 | 48 |
-| 12 | Santos | 38 | 12 | 11 | 15 | -5 | 47 |
-| 13 | Corinthians | 38 | 12 | 11 | 15 | -5 | 47 |
-| 14 | Vasco da Gama | 38 | 13 | 6 | 19 | -5 | 45 |
-| 15 | Vitória | 38 | 11 | 12 | 15 | -17 | 45 |
-| 16 | Internacional | 38 | 11 | 11 | 16 | -13 | 44 |
-| 17 | Ceará | 38 | 11 | 10 | 17 | -6 | 43 |
-| 18 | Fortaleza | 38 | 11 | 10 | 17 | -15 | 43 |
-| 19 | Juventude | 38 | 9 | 8 | 21 | -34 | 35 |
-| 20 | Sport | 38 | 2 | 11 | 25 | -47 | 17 |
+| 1 | Athletico Paranaense | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Atlético Mineiro | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Bahia | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Botafogo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Chapecoense | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Corinthians | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Coritiba | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Cruzeiro | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Flamengo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Fluminense | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Grêmio | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Internacional | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Mirassol | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Palmeiras | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | RB Bragantino | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Remo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 17 | Santos | 0 | 0 | 0 | 0 | 0 | 0 |
+| 18 | São Paulo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 19 | Vasco da Gama | 0 | 0 | 0 | 0 | 0 | 0 |
+| 20 | Vitória | 0 | 0 | 0 | 0 | 0 | 0 |
 
 
 <!-- END_TABLE -->
