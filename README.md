@@ -41,15 +41,57 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 17 December 2025, 08:48 PM UTC (Thursday, 18 December 2025, 02:18 AM IST)
+**Last Updated:** Wednesday, 17 December 2025, 09:21 PM UTC (Thursday, 18 December 2025, 02:51 AM IST)
 
 ### Premier League
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Arsenal | 16 | 11 | 3 | 2 | 20 | 36 |
+| 2 | Manchester City | 16 | 11 | 1 | 4 | 22 | 34 |
+| 3 | Aston Villa | 16 | 10 | 3 | 3 | 8 | 33 |
+| 4 | Chelsea | 16 | 8 | 4 | 4 | 12 | 28 |
+| 5 | Crystal Palace | 16 | 7 | 5 | 4 | 5 | 26 |
+| 6 | Manchester United | 16 | 7 | 5 | 4 | 4 | 26 |
+| 7 | Liverpool FC | 16 | 8 | 2 | 6 | 2 | 26 |
+| 8 | Sunderland | 16 | 7 | 5 | 4 | 2 | 26 |
+| 9 | Everton | 16 | 7 | 3 | 6 | -1 | 24 |
+| 10 | Brighton & Hove Albion | 16 | 6 | 5 | 5 | 2 | 23 |
+| 11 | Tottenham Hotspur | 16 | 6 | 4 | 6 | 4 | 22 |
+| 12 | Newcastle United | 16 | 6 | 4 | 6 | 1 | 22 |
+| 13 | AFC Bournemouth | 16 | 5 | 6 | 5 | -3 | 21 |
+| 14 | Fulham | 16 | 6 | 2 | 8 | -3 | 20 |
+| 15 | Brentford | 16 | 6 | 2 | 8 | -3 | 20 |
+| 16 | Nottingham Forest | 16 | 5 | 3 | 8 | -8 | 18 |
+| 17 | Leeds United | 16 | 4 | 4 | 8 | -10 | 16 |
+| 18 | West Ham United | 16 | 3 | 4 | 9 | -13 | 13 |
+| 19 | Burnley | 16 | 3 | 1 | 12 | -15 | 10 |
+| 20 | Wolverhampton Wanderers | 16 | 0 | 2 | 14 | -26 | 2 |
 
 ### La Liga
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Barcelona | 17 | 14 | 1 | 2 | 29 | 43 |
+| 2 | Real Madrid | 17 | 12 | 3 | 2 | 18 | 39 |
+| 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
+| 4 | Atlético de Madrid | 17 | 10 | 4 | 3 | 14 | 34 |
+| 5 | Espanyol | 16 | 9 | 3 | 4 | 4 | 30 |
+| 6 | Real Betis | 16 | 6 | 7 | 3 | 6 | 25 |
+| 7 | Athletic Bilbao | 17 | 7 | 2 | 8 | -7 | 23 |
+| 8 | Celta de Vigo | 16 | 5 | 7 | 4 | 1 | 22 |
+| 9 | Sevilla | 16 | 6 | 2 | 8 | 0 | 20 |
+| 10 | Getafe | 16 | 6 | 2 | 8 | -5 | 20 |
+| 11 | Elche | 16 | 4 | 7 | 5 | -1 | 19 |
+| 12 | Alavés | 16 | 5 | 3 | 8 | -3 | 18 |
+| 13 | Rayo Vallecano | 16 | 4 | 6 | 6 | -3 | 18 |
+| 14 | Mallorca | 16 | 4 | 5 | 7 | -5 | 17 |
+| 15 | Real Sociedad | 16 | 4 | 4 | 8 | -4 | 16 |
+| 16 | Osasuna | 16 | 4 | 3 | 9 | -6 | 15 |
+| 17 | Valencia | 16 | 3 | 6 | 7 | -10 | 15 |
+| 18 | Girona | 16 | 3 | 6 | 7 | -15 | 15 |
+| 19 | Real Oviedo | 16 | 2 | 4 | 10 | -19 | 10 |
+| 20 | Levante | 15 | 2 | 3 | 10 | -12 | 9 |
 
 ### Bundesliga
 
