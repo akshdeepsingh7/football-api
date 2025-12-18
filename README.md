@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 18 December 2025, 09:18 PM UTC (Friday, 19 December 2025, 02:48 AM IST)
+**Last Updated:** Thursday, 18 December 2025, 09:39 PM UTC (Friday, 19 December 2025, 03:09 AM IST)
 
 ### Premier League
 
@@ -252,31 +252,31 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Raków | 6 | 4 | 2 | 0 | 7 | 14 |
 | 2 | Strasbourg | 6 | 4 | 2 | 0 | 4 | 14 |
-| 3 | Sparta Prague | 6 | 4 | 1 | 1 | 6 | 13 |
-| 4 | Shakhtar Donetsk | 6 | 4 | 1 | 1 | 5 | 13 |
-| 5 | Rayo Vallecano | 6 | 4 | 1 | 1 | 4 | 13 |
+| 3 | Sparta Prague | 6 | 4 | 1 | 1 | 7 | 13 |
+| 4 | Rayo Vallecano | 6 | 4 | 1 | 1 | 5 | 13 |
+| 5 | Shakhtar Donetsk | 6 | 4 | 1 | 1 | 5 | 13 |
 | 6 | Mainz 05 | 6 | 4 | 1 | 1 | 4 | 13 |
-| 7 | Lech | 6 | 3 | 1 | 2 | 5 | 10 |
-| 8 | AEK Athens | 6 | 3 | 1 | 2 | 5 | 10 |
-| 9 | AEK Larnaca | 6 | 2 | 4 | 0 | 5 | 10 |
-| 10 | Samsunspor | 6 | 3 | 1 | 2 | 4 | 10 |
-| 11 | Fiorentina | 6 | 3 | 1 | 2 | 4 | 10 |
-| 12 | Celje | 6 | 3 | 1 | 2 | 1 | 10 |
-| 13 | AZ | 6 | 3 | 1 | 2 | 0 | 10 |
-| 14 | Universitatea Craiova | 6 | 3 | 1 | 2 | 0 | 10 |
-| 15 | Crystal Palace | 6 | 3 | 0 | 3 | 4 | 9 |
-| 16 | Rijeka | 6 | 2 | 3 | 1 | 3 | 9 |
-| 17 | KuPS | 6 | 2 | 3 | 1 | 2 | 9 |
-| 18 | Lausanne-Sport | 6 | 2 | 3 | 1 | 2 | 9 |
-| 19 | Jagiellonia | 6 | 2 | 3 | 1 | 1 | 9 |
-| 20 | Omonia | 6 | 2 | 2 | 2 | 1 | 8 |
-| 21 | Shkëndija | 6 | 2 | 2 | 2 | 0 | 8 |
-| 22 | Noah | 6 | 2 | 2 | 2 | -1 | 8 |
-| 23 | Drita | 6 | 2 | 2 | 2 | -2 | 8 |
+| 7 | Lausanne-Sport | 6 | 3 | 2 | 1 | 3 | 11 |
+| 8 | Lech | 6 | 3 | 1 | 2 | 5 | 10 |
+| 9 | AEK Athens | 6 | 3 | 1 | 2 | 5 | 10 |
+| 10 | Crystal Palace | 6 | 3 | 1 | 2 | 5 | 10 |
+| 11 | AEK Larnaca | 6 | 2 | 4 | 0 | 5 | 10 |
+| 12 | Samsunspor | 6 | 3 | 1 | 2 | 4 | 10 |
+| 13 | Celje | 6 | 3 | 1 | 2 | 1 | 10 |
+| 14 | AZ | 6 | 3 | 1 | 2 | 0 | 10 |
+| 15 | Universitatea Craiova | 6 | 3 | 1 | 2 | 0 | 10 |
+| 16 | Fiorentina | 6 | 3 | 0 | 3 | 3 | 9 |
+| 17 | Rijeka | 6 | 2 | 3 | 1 | 3 | 9 |
+| 18 | Jagiellonia | 6 | 2 | 3 | 1 | 1 | 9 |
+| 19 | Omonia | 6 | 2 | 2 | 2 | 1 | 8 |
+| 20 | Shkëndija | 6 | 2 | 2 | 2 | 0 | 8 |
+| 21 | Noah | 6 | 2 | 2 | 2 | -1 | 8 |
+| 22 | Drita | 6 | 2 | 2 | 2 | -3 | 8 |
+| 23 | KuPS | 6 | 1 | 4 | 1 | 1 | 7 |
 | 24 | Sigma Olomouc | 6 | 2 | 1 | 3 | -3 | 7 |
-| 25 | Lincoln Red Imps | 6 | 2 | 1 | 3 | -6 | 7 |
+| 25 | Lincoln Red Imps | 6 | 2 | 1 | 3 | -8 | 7 |
 | 26 | Dynamo Kyiv | 6 | 2 | 0 | 4 | 0 | 6 |
-| 27 | Legia | 6 | 2 | 0 | 4 | -2 | 6 |
+| 27 | Legia | 6 | 2 | 0 | 4 | 0 | 6 |
 | 28 | Zrinjski Mostar | 6 | 2 | 0 | 4 | -3 | 6 |
 | 29 | Breiðablik | 6 | 1 | 3 | 2 | -3 | 6 |
 | 30 | Häcken | 6 | 0 | 4 | 2 | -2 | 4 |
@@ -285,7 +285,7 @@ The latest league standings are displayed below in Markdown tables:
 | 33 | Hamrun Spartans | 6 | 1 | 0 | 5 | -6 | 3 |
 | 34 | Rapid Vienna | 6 | 1 | 0 | 5 | -10 | 3 |
 | 35 | Shelbourne | 6 | 0 | 2 | 4 | -7 | 2 |
-| 36 | Aberdeen | 6 | 0 | 2 | 4 | -10 | 2 |
+| 36 | Aberdeen | 6 | 0 | 2 | 4 | -11 | 2 |
 
 ### Liga Portugal
 
