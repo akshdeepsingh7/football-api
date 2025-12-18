@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 18 December 2025, 07:38 PM UTC (Friday, 19 December 2025, 01:08 AM IST)
+**Last Updated:** Thursday, 18 December 2025, 08:21 PM UTC (Friday, 19 December 2025, 01:51 AM IST)
 
 ### Premier League
 
@@ -250,42 +250,42 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Strasbourg | 5 | 4 | 1 | 0 | 4 | 13 |
-| 2 | Shakhtar Donetsk | 5 | 4 | 0 | 1 | 5 | 12 |
-| 3 | Raków | 5 | 3 | 2 | 0 | 6 | 11 |
-| 4 | AEK Athens | 5 | 3 | 1 | 1 | 6 | 10 |
-| 5 | Samsunspor | 5 | 3 | 1 | 1 | 6 | 10 |
-| 6 | Sparta Prague | 5 | 3 | 1 | 1 | 4 | 10 |
-| 7 | Rayo Vallecano | 5 | 3 | 1 | 1 | 3 | 10 |
-| 8 | Mainz 05 | 5 | 3 | 1 | 1 | 2 | 10 |
-| 9 | Crystal Palace | 5 | 3 | 0 | 2 | 5 | 9 |
-| 10 | AEK Larnaca | 5 | 2 | 3 | 0 | 5 | 9 |
-| 11 | Fiorentina | 5 | 3 | 0 | 2 | 4 | 9 |
-| 12 | Celje | 5 | 3 | 0 | 2 | 1 | 9 |
-| 13 | AZ | 5 | 3 | 0 | 2 | 0 | 9 |
-| 14 | Rijeka | 5 | 2 | 2 | 1 | 3 | 8 |
-| 15 | Omonia | 5 | 2 | 2 | 1 | 2 | 8 |
-| 16 | Lausanne-Sport | 5 | 2 | 2 | 1 | 2 | 8 |
-| 17 | Noah | 5 | 2 | 2 | 1 | 1 | 8 |
-| 18 | Jagiellonia | 5 | 2 | 2 | 1 | 1 | 8 |
-| 19 | Drita | 5 | 2 | 2 | 1 | -1 | 8 |
-| 20 | Lech | 5 | 2 | 1 | 2 | 3 | 7 |
-| 21 | Shkëndija | 5 | 2 | 1 | 2 | 0 | 7 |
-| 22 | Sigma Olomouc | 5 | 2 | 1 | 2 | -1 | 7 |
-| 23 | Universitatea Craiova | 5 | 2 | 1 | 2 | -1 | 7 |
-| 24 | Lincoln Red Imps | 5 | 2 | 1 | 2 | -5 | 7 |
-| 25 | KuPS | 5 | 1 | 3 | 1 | 1 | 6 |
-| 26 | Zrinjski Mostar | 5 | 2 | 0 | 3 | -2 | 6 |
-| 27 | Breiðablik | 5 | 1 | 2 | 2 | -3 | 5 |
-| 28 | Dynamo Kyiv | 5 | 1 | 0 | 4 | -2 | 3 |
-| 29 | Häcken | 5 | 0 | 3 | 2 | -2 | 3 |
-| 30 | Legia | 5 | 1 | 0 | 4 | -3 | 3 |
-| 31 | Slovan Bratislava | 5 | 1 | 0 | 4 | -5 | 3 |
-| 32 | Hamrun Spartans | 5 | 1 | 0 | 4 | -5 | 3 |
-| 33 | Aberdeen | 5 | 0 | 2 | 3 | -8 | 2 |
-| 34 | Shelbourne | 5 | 0 | 1 | 4 | -7 | 1 |
-| 35 | Shamrock Rovers | 5 | 0 | 1 | 4 | -8 | 1 |
-| 36 | Rapid Vienna | 5 | 0 | 0 | 5 | -11 | 0 |
+| 1 | Strasbourg | 6 | 5 | 1 | 0 | 5 | 16 |
+| 2 | Shakhtar Donetsk | 6 | 4 | 1 | 1 | 5 | 13 |
+| 3 | Sparta Prague | 6 | 4 | 1 | 1 | 5 | 13 |
+| 4 | Crystal Palace | 6 | 4 | 0 | 2 | 6 | 12 |
+| 5 | Raków | 6 | 3 | 3 | 0 | 6 | 12 |
+| 6 | AEK Athens | 6 | 3 | 2 | 1 | 6 | 11 |
+| 7 | Samsunspor | 6 | 3 | 2 | 1 | 6 | 11 |
+| 8 | Rayo Vallecano | 6 | 3 | 2 | 1 | 3 | 11 |
+| 9 | Mainz 05 | 6 | 3 | 2 | 1 | 2 | 11 |
+| 10 | AEK Larnaca | 6 | 2 | 4 | 0 | 5 | 10 |
+| 11 | Fiorentina | 6 | 3 | 1 | 2 | 4 | 10 |
+| 12 | Celje | 6 | 3 | 1 | 2 | 1 | 10 |
+| 13 | AZ | 6 | 3 | 1 | 2 | 0 | 10 |
+| 14 | Rijeka | 6 | 2 | 3 | 1 | 3 | 9 |
+| 15 | Omonia | 6 | 2 | 3 | 1 | 2 | 9 |
+| 16 | Lausanne-Sport | 6 | 2 | 3 | 1 | 2 | 9 |
+| 17 | Noah | 6 | 2 | 3 | 1 | 1 | 9 |
+| 18 | Jagiellonia | 6 | 2 | 3 | 1 | 1 | 9 |
+| 19 | Drita | 6 | 2 | 3 | 1 | -1 | 9 |
+| 20 | Lech | 6 | 2 | 2 | 2 | 3 | 8 |
+| 21 | Shkëndija | 6 | 2 | 2 | 2 | 0 | 8 |
+| 22 | Sigma Olomouc | 6 | 2 | 2 | 2 | -1 | 8 |
+| 23 | Universitatea Craiova | 6 | 2 | 2 | 2 | -1 | 8 |
+| 24 | Lincoln Red Imps | 6 | 2 | 1 | 3 | -6 | 7 |
+| 25 | KuPS | 6 | 1 | 3 | 2 | 0 | 6 |
+| 26 | Legia | 6 | 2 | 0 | 4 | -2 | 6 |
+| 27 | Zrinjski Mostar | 6 | 2 | 0 | 4 | -3 | 6 |
+| 28 | Breiðablik | 6 | 1 | 2 | 3 | -4 | 5 |
+| 29 | Dynamo Kyiv | 6 | 1 | 1 | 4 | -2 | 4 |
+| 30 | Häcken | 6 | 0 | 4 | 2 | -2 | 4 |
+| 31 | Hamrun Spartans | 6 | 1 | 1 | 4 | -5 | 4 |
+| 32 | Slovan Bratislava | 6 | 1 | 1 | 4 | -5 | 4 |
+| 33 | Rapid Vienna | 6 | 1 | 0 | 5 | -10 | 3 |
+| 34 | Shelbourne | 6 | 0 | 2 | 4 | -7 | 2 |
+| 35 | Shamrock Rovers | 6 | 0 | 2 | 4 | -8 | 2 |
+| 36 | Aberdeen | 6 | 0 | 2 | 4 | -9 | 2 |
 
 ### Liga Portugal
 
