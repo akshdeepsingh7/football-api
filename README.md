@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 19 December 2025, 07:17 PM UTC (Saturday, 20 December 2025, 12:47 AM IST)
+**Last Updated:** Friday, 19 December 2025, 07:38 PM UTC (Saturday, 20 December 2025, 01:08 AM IST)
 
 ### Premier League
 
@@ -98,16 +98,16 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 14 | 12 | 2 | 0 | 40 | 38 |
-| 2 | RB Leipzig | 14 | 9 | 2 | 3 | 13 | 29 |
-| 3 | Borussia Dortmund | 14 | 8 | 5 | 1 | 12 | 29 |
+| 2 | Borussia Dortmund | 15 | 8 | 6 | 1 | 12 | 30 |
+| 3 | RB Leipzig | 14 | 9 | 2 | 3 | 13 | 29 |
 | 4 | Bayer Leverkusen | 14 | 8 | 2 | 4 | 11 | 26 |
 | 5 | Hoffenheim | 14 | 8 | 2 | 4 | 9 | 26 |
 | 6 | VfB Stuttgart | 14 | 8 | 1 | 5 | 3 | 25 |
 | 7 | Eintracht Frankfurt | 14 | 7 | 3 | 4 | 0 | 24 |
 | 8 | Union Berlin | 14 | 5 | 3 | 6 | -4 | 18 |
 | 9 | SC Freiburg | 14 | 4 | 5 | 5 | -2 | 17 |
-| 10 | Köln | 14 | 4 | 4 | 6 | -1 | 16 |
-| 11 | Borussia Mönchengladbach | 14 | 4 | 4 | 6 | -4 | 16 |
+| 10 | Borussia Mönchengladbach | 15 | 4 | 5 | 6 | -4 | 17 |
+| 11 | Köln | 14 | 4 | 4 | 6 | -1 | 16 |
 | 12 | Werder Bremen | 14 | 4 | 4 | 6 | -10 | 16 |
 | 13 | VfL Wolfsburg | 14 | 4 | 3 | 7 | -4 | 15 |
 | 14 | Hamburg | 14 | 4 | 3 | 7 | -9 | 15 |
