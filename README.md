@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 19 December 2025, 08:45 PM UTC (Saturday, 20 December 2025, 02:15 AM IST)
+**Last Updated:** Friday, 19 December 2025, 09:20 PM UTC (Saturday, 20 December 2025, 02:50 AM IST)
 
 ### Premier League
 
@@ -81,14 +81,14 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Athletic Bilbao | 17 | 7 | 2 | 8 | -7 | 23 |
 | 8 | Celta de Vigo | 16 | 5 | 7 | 4 | 1 | 22 |
 | 9 | Sevilla | 16 | 6 | 2 | 8 | 0 | 20 |
-| 10 | Mallorca | 17 | 5 | 5 | 7 | -4 | 20 |
-| 11 | Getafe | 16 | 6 | 2 | 8 | -5 | 20 |
-| 12 | Elche | 16 | 4 | 7 | 5 | -1 | 19 |
-| 13 | Alavés | 16 | 5 | 3 | 8 | -3 | 18 |
-| 14 | Rayo Vallecano | 16 | 4 | 6 | 6 | -3 | 18 |
+| 10 | Getafe | 16 | 6 | 2 | 8 | -5 | 20 |
+| 11 | Elche | 16 | 4 | 7 | 5 | -1 | 19 |
+| 12 | Alavés | 16 | 5 | 3 | 8 | -3 | 18 |
+| 13 | Rayo Vallecano | 16 | 4 | 6 | 6 | -3 | 18 |
+| 14 | Mallorca | 17 | 4 | 6 | 7 | -5 | 18 |
 | 15 | Real Sociedad | 16 | 4 | 4 | 8 | -4 | 16 |
-| 16 | Osasuna | 16 | 4 | 3 | 9 | -6 | 15 |
-| 17 | Valencia | 17 | 3 | 6 | 8 | -11 | 15 |
+| 16 | Valencia | 17 | 3 | 7 | 7 | -10 | 16 |
+| 17 | Osasuna | 16 | 4 | 3 | 9 | -6 | 15 |
 | 18 | Girona | 16 | 3 | 6 | 7 | -15 | 15 |
 | 19 | Real Oviedo | 16 | 2 | 4 | 10 | -19 | 10 |
 | 20 | Levante | 15 | 2 | 3 | 10 | -12 | 9 |
@@ -294,16 +294,16 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 14 | 13 | 1 | 0 | 26 | 40 |
 | 2 | Sporting CP | 14 | 11 | 2 | 1 | 31 | 35 |
 | 3 | Benfica | 14 | 9 | 5 | 0 | 22 | 32 |
-| 4 | Braga | 15 | 7 | 5 | 3 | 14 | 26 |
-| 5 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
+| 4 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
+| 5 | Braga | 15 | 7 | 4 | 4 | 13 | 25 |
 | 6 | Famalicão | 14 | 6 | 5 | 3 | 9 | 23 |
 | 7 | Vitória S.C. | 14 | 6 | 3 | 5 | -2 | 21 |
 | 8 | Moreirense | 14 | 6 | 2 | 6 | -3 | 20 |
-| 9 | Alverca | 14 | 5 | 2 | 7 | -5 | 17 |
-| 10 | Rio Ave | 14 | 3 | 7 | 4 | -5 | 16 |
-| 11 | Santa Clara | 14 | 4 | 3 | 7 | -4 | 15 |
-| 12 | Estoril | 15 | 3 | 6 | 6 | -3 | 15 |
-| 13 | Nacional | 14 | 4 | 3 | 7 | -4 | 15 |
+| 9 | Estoril | 15 | 4 | 5 | 6 | -2 | 17 |
+| 10 | Alverca | 14 | 5 | 2 | 7 | -5 | 17 |
+| 11 | Rio Ave | 14 | 3 | 7 | 4 | -5 | 16 |
+| 12 | Nacional | 14 | 4 | 3 | 7 | -4 | 15 |
+| 13 | Santa Clara | 14 | 4 | 3 | 7 | -4 | 15 |
 | 14 | Estrela Amadora | 14 | 3 | 5 | 6 | -5 | 14 |
 | 15 | Arouca | 14 | 3 | 3 | 8 | -22 | 12 |
 | 16 | Casa Pia | 14 | 2 | 4 | 8 | -14 | 10 |
