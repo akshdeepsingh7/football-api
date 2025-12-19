@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 19 December 2025, 09:20 PM UTC (Saturday, 20 December 2025, 02:50 AM IST)
+**Last Updated:** Friday, 19 December 2025, 09:40 PM UTC (Saturday, 20 December 2025, 03:10 AM IST)
 
 ### Premier League
 
@@ -98,7 +98,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 14 | 12 | 2 | 0 | 40 | 38 |
-| 2 | Borussia Dortmund | 15 | 9 | 5 | 1 | 13 | 32 |
+| 2 | Borussia Dortmund | 15 | 9 | 5 | 1 | 14 | 32 |
 | 3 | RB Leipzig | 14 | 9 | 2 | 3 | 13 | 29 |
 | 4 | Bayer Leverkusen | 14 | 8 | 2 | 4 | 11 | 26 |
 | 5 | Hoffenheim | 14 | 8 | 2 | 4 | 9 | 26 |
@@ -107,7 +107,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Union Berlin | 14 | 5 | 3 | 6 | -4 | 18 |
 | 9 | SC Freiburg | 14 | 4 | 5 | 5 | -2 | 17 |
 | 10 | Köln | 14 | 4 | 4 | 6 | -1 | 16 |
-| 11 | Borussia Mönchengladbach | 15 | 4 | 4 | 7 | -5 | 16 |
+| 11 | Borussia Mönchengladbach | 15 | 4 | 4 | 7 | -6 | 16 |
 | 12 | Werder Bremen | 14 | 4 | 4 | 6 | -10 | 16 |
 | 13 | VfL Wolfsburg | 14 | 4 | 3 | 7 | -4 | 15 |
 | 14 | Hamburg | 14 | 4 | 3 | 7 | -9 | 15 |
@@ -322,17 +322,17 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Hull City | 21 | 10 | 4 | 7 | 1 | 34 |
 | 7 | Stoke City | 21 | 10 | 3 | 8 | 8 | 33 |
 | 8 | Leicester City | 21 | 8 | 7 | 6 | 3 | 31 |
-| 9 | Wrexham | 22 | 7 | 10 | 5 | 2 | 31 |
-| 10 | Queens Park Rangers | 21 | 9 | 4 | 8 | -5 | 31 |
-| 11 | Southampton | 21 | 8 | 6 | 7 | 5 | 30 |
-| 12 | Bristol City | 21 | 8 | 6 | 7 | 4 | 30 |
-| 13 | Derby County | 21 | 8 | 6 | 7 | 1 | 30 |
-| 14 | Birmingham City | 21 | 8 | 5 | 8 | 4 | 29 |
-| 15 | Watford | 21 | 7 | 8 | 6 | 2 | 29 |
+| 9 | Queens Park Rangers | 21 | 9 | 4 | 8 | -5 | 31 |
+| 10 | Southampton | 21 | 8 | 6 | 7 | 5 | 30 |
+| 11 | Bristol City | 21 | 8 | 6 | 7 | 4 | 30 |
+| 12 | Derby County | 21 | 8 | 6 | 7 | 1 | 30 |
+| 13 | Birmingham City | 21 | 8 | 5 | 8 | 4 | 29 |
+| 14 | Watford | 21 | 7 | 8 | 6 | 2 | 29 |
+| 15 | Wrexham | 22 | 6 | 11 | 5 | 1 | 29 |
 | 16 | West Bromwich Albion | 21 | 8 | 4 | 9 | -3 | 28 |
 | 17 | Charlton Athletic | 20 | 6 | 6 | 8 | -6 | 24 |
-| 18 | Sheffield United | 21 | 7 | 2 | 12 | -6 | 23 |
-| 19 | Swansea City | 22 | 6 | 5 | 11 | -8 | 23 |
+| 18 | Swansea City | 22 | 6 | 6 | 10 | -7 | 24 |
+| 19 | Sheffield United | 21 | 7 | 2 | 12 | -6 | 23 |
 | 20 | Blackburn Rovers | 20 | 6 | 4 | 10 | -6 | 22 |
 | 21 | Portsmouth | 20 | 5 | 5 | 10 | -10 | 20 |
 | 22 | Oxford United | 21 | 4 | 7 | 10 | -8 | 19 |
