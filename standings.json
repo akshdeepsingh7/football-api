@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 19 December 2025, 08:23 PM UTC",
-        "IST": "Saturday, 20 December 2025, 01:53 AM IST"
+        "UTC": "Friday, 19 December 2025, 08:45 PM UTC",
+        "IST": "Saturday, 20 December 2025, 02:15 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Mallorca",
+                "Played": "17",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "-4",
+                "Points": "20"
+            },
+            {
+                "Position": "11",
                 "Team": "Getafe",
                 "Played": "16",
                 "Wins": "6",
@@ -308,7 +318,7 @@
                 "Points": "20"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Elche",
                 "Played": "16",
                 "Wins": "4",
@@ -318,7 +328,7 @@
                 "Points": "19"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Alav\u00e9s",
                 "Played": "16",
                 "Wins": "5",
@@ -328,23 +338,13 @@
                 "Points": "18"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Rayo Vallecano",
                 "Played": "16",
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "-3",
-                "Points": "18"
-            },
-            {
-                "Position": "14",
-                "Team": "Mallorca",
-                "Played": "17",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-5",
                 "Points": "18"
             },
             {
@@ -359,22 +359,22 @@
             },
             {
                 "Position": "16",
-                "Team": "Valencia",
-                "Played": "17",
-                "Wins": "3",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-10",
-                "Points": "16"
-            },
-            {
-                "Position": "17",
                 "Team": "Osasuna",
                 "Played": "16",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "9",
                 "Goal Difference": "-6",
+                "Points": "15"
+            },
+            {
+                "Position": "17",
+                "Team": "Valencia",
+                "Played": "17",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "-11",
                 "Points": "15"
             },
             {
