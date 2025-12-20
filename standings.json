@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 07:16 PM UTC",
-        "IST": "Sunday, 21 December 2025, 12:46 AM IST"
+        "UTC": "Saturday, 20 December 2025, 07:37 PM UTC",
+        "IST": "Sunday, 21 December 2025, 01:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -319,22 +319,22 @@
             },
             {
                 "Position": "12",
+                "Team": "Osasuna",
+                "Played": "17",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-3",
+                "Points": "18"
+            },
+            {
+                "Position": "13",
                 "Team": "Rayo Vallecano",
                 "Played": "16",
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "-3",
-                "Points": "18"
-            },
-            {
-                "Position": "13",
-                "Team": "Osasuna",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "9",
-                "Goal Difference": "-4",
                 "Points": "18"
             },
             {
@@ -354,7 +354,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "9",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "18"
             },
             {
@@ -436,7 +436,7 @@
                 "Wins": "9",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "12",
+                "Goal Difference": "13",
                 "Points": "29"
             },
             {
@@ -446,7 +446,7 @@
                 "Wins": "9",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "12",
+                "Goal Difference": "11",
                 "Points": "29"
             },
             {
@@ -2096,10 +2096,10 @@
                 "Team": "Gil Vicente",
                 "Played": "15",
                 "Wins": "7",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "10",
-                "Points": "26"
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "9",
+                "Points": "25"
             },
             {
                 "Position": "5",
@@ -2143,6 +2143,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Rio Ave",
+                "Played": "15",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "19"
+            },
+            {
+                "Position": "10",
                 "Team": "Estoril",
                 "Played": "15",
                 "Wins": "4",
@@ -2152,22 +2162,12 @@
                 "Points": "17"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Alverca",
                 "Played": "14",
                 "Wins": "5",
                 "Draws": "2",
                 "Losses": "7",
-                "Goal Difference": "-5",
-                "Points": "17"
-            },
-            {
-                "Position": "11",
-                "Team": "Rio Ave",
-                "Played": "15",
-                "Wins": "3",
-                "Draws": "8",
-                "Losses": "4",
                 "Goal Difference": "-5",
                 "Points": "17"
             },
