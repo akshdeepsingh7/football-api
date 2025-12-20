@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 06:27 PM UTC",
-        "IST": "Saturday, 20 December 2025, 11:57 PM IST"
+        "UTC": "Saturday, 20 December 2025, 06:48 PM UTC",
+        "IST": "Sunday, 21 December 2025, 12:18 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -49,11 +49,11 @@
                 "Position": "5",
                 "Team": "Liverpool FC",
                 "Played": "17",
-                "Wins": "8",
-                "Draws": "3",
+                "Wins": "9",
+                "Draws": "2",
                 "Losses": "6",
-                "Goal Difference": "2",
-                "Points": "27"
+                "Goal Difference": "3",
+                "Points": "29"
             },
             {
                 "Position": "6",
@@ -107,16 +107,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Tottenham Hotspur",
-                "Played": "17",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "4",
-                "Points": "23"
-            },
-            {
-                "Position": "12",
                 "Team": "Newcastle United",
                 "Played": "17",
                 "Wins": "6",
@@ -126,7 +116,7 @@
                 "Points": "23"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Brentford",
                 "Played": "17",
                 "Wins": "7",
@@ -134,6 +124,16 @@
                 "Losses": "8",
                 "Goal Difference": "-1",
                 "Points": "23"
+            },
+            {
+                "Position": "13",
+                "Team": "Tottenham Hotspur",
+                "Played": "17",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "3",
+                "Points": "22"
             },
             {
                 "Position": "14",
