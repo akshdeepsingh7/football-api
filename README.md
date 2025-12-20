@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 December 2025, 01:27 PM UTC (Saturday, 20 December 2025, 06:57 PM IST)
+**Last Updated:** Saturday, 20 December 2025, 01:44 PM UTC (Saturday, 20 December 2025, 07:14 PM IST)
 
 ### Premier League
 
@@ -50,12 +50,12 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Arsenal | 16 | 11 | 3 | 2 | 20 | 36 |
 | 2 | Manchester City | 16 | 11 | 1 | 4 | 22 | 34 |
 | 3 | Aston Villa | 16 | 10 | 3 | 3 | 8 | 33 |
-| 4 | Chelsea | 17 | 8 | 4 | 5 | 10 | 28 |
+| 4 | Chelsea | 17 | 8 | 4 | 5 | 11 | 28 |
 | 5 | Crystal Palace | 16 | 7 | 5 | 4 | 5 | 26 |
 | 6 | Manchester United | 16 | 7 | 5 | 4 | 4 | 26 |
 | 7 | Liverpool FC | 16 | 8 | 2 | 6 | 2 | 26 |
 | 8 | Sunderland | 16 | 7 | 5 | 4 | 2 | 26 |
-| 9 | Newcastle United | 17 | 7 | 4 | 6 | 3 | 25 |
+| 9 | Newcastle United | 17 | 7 | 4 | 6 | 2 | 25 |
 | 10 | Everton | 16 | 7 | 3 | 6 | -1 | 24 |
 | 11 | Brighton & Hove Albion | 16 | 6 | 5 | 5 | 2 | 23 |
 | 12 | Tottenham Hotspur | 16 | 6 | 4 | 6 | 4 | 22 |
@@ -314,16 +314,16 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 22 | 15 | 5 | 2 | 31 | 50 |
+| 1 | Coventry City | 22 | 14 | 6 | 2 | 30 | 48 |
 | 2 | Middlesbrough | 21 | 12 | 6 | 3 | 11 | 42 |
 | 3 | Preston North End | 22 | 9 | 9 | 4 | 7 | 36 |
 | 4 | Millwall | 22 | 10 | 5 | 7 | -6 | 35 |
 | 5 | Ipswich Town | 21 | 9 | 7 | 5 | 13 | 34 |
 | 6 | Hull City | 21 | 10 | 4 | 7 | 1 | 34 |
 | 7 | Stoke City | 21 | 10 | 3 | 8 | 8 | 33 |
-| 8 | Leicester City | 21 | 8 | 7 | 6 | 3 | 31 |
-| 9 | Queens Park Rangers | 21 | 9 | 4 | 8 | -5 | 31 |
-| 10 | Southampton | 22 | 8 | 6 | 8 | 4 | 30 |
+| 8 | Southampton | 22 | 8 | 7 | 7 | 5 | 31 |
+| 9 | Leicester City | 21 | 8 | 7 | 6 | 3 | 31 |
+| 10 | Queens Park Rangers | 21 | 9 | 4 | 8 | -5 | 31 |
 | 11 | Bristol City | 21 | 8 | 6 | 7 | 4 | 30 |
 | 12 | Derby County | 21 | 8 | 6 | 7 | 1 | 30 |
 | 13 | Birmingham City | 21 | 8 | 5 | 8 | 4 | 29 |
