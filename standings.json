@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 06:48 PM UTC",
-        "IST": "Sunday, 21 December 2025, 12:18 AM IST"
+        "UTC": "Saturday, 20 December 2025, 07:16 PM UTC",
+        "IST": "Sunday, 21 December 2025, 12:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -319,22 +319,22 @@
             },
             {
                 "Position": "12",
-                "Team": "Alav\u00e9s",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "-3",
-                "Points": "19"
-            },
-            {
-                "Position": "13",
                 "Team": "Rayo Vallecano",
                 "Played": "16",
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "-3",
+                "Points": "18"
+            },
+            {
+                "Position": "13",
+                "Team": "Osasuna",
+                "Played": "17",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-4",
                 "Points": "18"
             },
             {
@@ -349,6 +349,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Alav\u00e9s",
+                "Played": "17",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-5",
+                "Points": "18"
+            },
+            {
+                "Position": "16",
                 "Team": "Real Sociedad",
                 "Played": "17",
                 "Wins": "4",
@@ -356,16 +366,6 @@
                 "Losses": "8",
                 "Goal Difference": "-4",
                 "Points": "17"
-            },
-            {
-                "Position": "16",
-                "Team": "Osasuna",
-                "Played": "17",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-6",
-                "Points": "16"
             },
             {
                 "Position": "17",
