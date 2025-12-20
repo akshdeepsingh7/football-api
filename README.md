@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 December 2025, 09:17 PM UTC (Sunday, 21 December 2025, 02:47 AM IST)
+**Last Updated:** Saturday, 20 December 2025, 09:38 PM UTC (Sunday, 21 December 2025, 03:08 AM IST)
 
 ### Premier League
 
@@ -54,7 +54,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Liverpool FC | 17 | 9 | 2 | 6 | 3 | 29 |
 | 6 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
 | 7 | Manchester United | 16 | 7 | 5 | 4 | 4 | 26 |
-| 8 | Crystal Palace | 17 | 7 | 5 | 5 | 3 | 26 |
+| 8 | Crystal Palace | 17 | 7 | 5 | 5 | 2 | 26 |
 | 9 | Brighton & Hove Albion | 17 | 6 | 6 | 5 | 2 | 24 |
 | 10 | Everton | 17 | 7 | 3 | 7 | -2 | 24 |
 | 11 | Newcastle United | 17 | 6 | 5 | 6 | 1 | 23 |
@@ -62,7 +62,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Tottenham Hotspur | 17 | 6 | 4 | 7 | 3 | 22 |
 | 14 | AFC Bournemouth | 17 | 5 | 7 | 5 | -3 | 22 |
 | 15 | Fulham | 16 | 6 | 2 | 8 | -3 | 20 |
-| 16 | Leeds United | 17 | 5 | 4 | 8 | -8 | 19 |
+| 16 | Leeds United | 17 | 5 | 4 | 8 | -7 | 19 |
 | 17 | Nottingham Forest | 16 | 5 | 3 | 8 | -8 | 18 |
 | 18 | West Ham United | 17 | 3 | 4 | 10 | -16 | 13 |
 | 19 | Burnley | 17 | 3 | 2 | 12 | -15 | 11 |
@@ -123,8 +123,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 15 | 11 | 0 | 4 | 20 | 33 |
 | 2 | Milan | 15 | 9 | 5 | 1 | 11 | 32 |
 | 3 | Napoli | 15 | 10 | 1 | 4 | 9 | 31 |
-| 4 | Roma | 16 | 10 | 0 | 6 | 6 | 30 |
-| 5 | Juventus | 16 | 8 | 5 | 3 | 7 | 29 |
+| 4 | Roma | 16 | 10 | 0 | 6 | 7 | 30 |
+| 5 | Juventus | 16 | 8 | 5 | 3 | 6 | 29 |
 | 6 | Bologna | 15 | 7 | 4 | 4 | 10 | 25 |
 | 7 | Como | 15 | 6 | 6 | 3 | 7 | 24 |
 | 8 | Lazio | 16 | 6 | 5 | 5 | 6 | 23 |
