@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 December 2025, 05:39 PM UTC (Saturday, 20 December 2025, 11:09 PM IST)
+**Last Updated:** Saturday, 20 December 2025, 06:27 PM UTC (Saturday, 20 December 2025, 11:57 PM IST)
 
 ### Premier League
 
@@ -99,8 +99,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 14 | 12 | 2 | 0 | 40 | 38 |
 | 2 | Borussia Dortmund | 15 | 9 | 5 | 1 | 14 | 32 |
-| 3 | RB Leipzig | 15 | 9 | 3 | 3 | 13 | 30 |
-| 4 | Bayer Leverkusen | 15 | 8 | 3 | 4 | 11 | 27 |
+| 3 | Bayer Leverkusen | 15 | 9 | 2 | 4 | 12 | 29 |
+| 4 | RB Leipzig | 15 | 9 | 2 | 4 | 12 | 29 |
 | 5 | Hoffenheim | 15 | 8 | 3 | 4 | 9 | 27 |
 | 6 | VfB Stuttgart | 15 | 8 | 2 | 5 | 3 | 26 |
 | 7 | Eintracht Frankfurt | 15 | 7 | 4 | 4 | 0 | 25 |
@@ -294,14 +294,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 14 | 13 | 1 | 0 | 26 | 40 |
 | 2 | Sporting CP | 14 | 11 | 2 | 1 | 31 | 35 |
 | 3 | Benfica | 14 | 9 | 5 | 0 | 22 | 32 |
-| 4 | Gil Vicente | 14 | 7 | 4 | 3 | 10 | 25 |
+| 4 | Gil Vicente | 15 | 7 | 5 | 3 | 10 | 26 |
 | 5 | Braga | 15 | 7 | 4 | 4 | 13 | 25 |
 | 6 | Famalicão | 14 | 6 | 5 | 3 | 9 | 23 |
 | 7 | Vitória S.C. | 14 | 6 | 3 | 5 | -2 | 21 |
 | 8 | Moreirense | 14 | 6 | 2 | 6 | -3 | 20 |
 | 9 | Estoril | 15 | 4 | 5 | 6 | -2 | 17 |
 | 10 | Alverca | 14 | 5 | 2 | 7 | -5 | 17 |
-| 11 | Rio Ave | 14 | 3 | 7 | 4 | -5 | 16 |
+| 11 | Rio Ave | 15 | 3 | 8 | 4 | -5 | 17 |
 | 12 | Nacional | 14 | 4 | 3 | 7 | -4 | 15 |
 | 13 | Santa Clara | 14 | 4 | 3 | 7 | -4 | 15 |
 | 14 | Estrela Amadora | 14 | 3 | 5 | 6 | -5 | 14 |
