@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 12:40 PM UTC",
-        "IST": "Saturday, 20 December 2025, 06:10 PM IST"
+        "UTC": "Saturday, 20 December 2025, 01:27 PM UTC",
+        "IST": "Saturday, 20 December 2025, 06:57 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -42,7 +42,7 @@
                 "Wins": "8",
                 "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "11",
+                "Goal Difference": "10",
                 "Points": "28"
             },
             {
@@ -92,7 +92,7 @@
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "6",
-                "Goal Difference": "2",
+                "Goal Difference": "3",
                 "Points": "25"
             },
             {
@@ -269,6 +269,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Celta de Vigo",
+                "Played": "17",
+                "Wins": "5",
+                "Draws": "8",
+                "Losses": "4",
+                "Goal Difference": "1",
+                "Points": "23"
+            },
+            {
+                "Position": "8",
                 "Team": "Athletic Bilbao",
                 "Played": "17",
                 "Wins": "7",
@@ -276,16 +286,6 @@
                 "Losses": "8",
                 "Goal Difference": "-7",
                 "Points": "23"
-            },
-            {
-                "Position": "8",
-                "Team": "Celta de Vigo",
-                "Played": "16",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "4",
-                "Goal Difference": "1",
-                "Points": "22"
             },
             {
                 "Position": "9",
@@ -390,12 +390,12 @@
             {
                 "Position": "19",
                 "Team": "Real Oviedo",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "2",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "-19",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "20",
@@ -2247,11 +2247,11 @@
                 "Position": "1",
                 "Team": "Coventry City",
                 "Played": "22",
-                "Wins": "14",
-                "Draws": "6",
+                "Wins": "15",
+                "Draws": "5",
                 "Losses": "2",
-                "Goal Difference": "30",
-                "Points": "48"
+                "Goal Difference": "31",
+                "Points": "50"
             },
             {
                 "Position": "2",
@@ -2280,7 +2280,7 @@
                 "Wins": "10",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "35"
             },
             {
@@ -2315,16 +2315,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Southampton",
-                "Played": "22",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "5",
-                "Points": "31"
-            },
-            {
-                "Position": "9",
                 "Team": "Leicester City",
                 "Played": "21",
                 "Wins": "8",
@@ -2334,7 +2324,7 @@
                 "Points": "31"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Queens Park Rangers",
                 "Played": "21",
                 "Wins": "9",
@@ -2342,6 +2332,16 @@
                 "Losses": "8",
                 "Goal Difference": "-5",
                 "Points": "31"
+            },
+            {
+                "Position": "10",
+                "Team": "Southampton",
+                "Played": "22",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "4",
+                "Points": "30"
             },
             {
                 "Position": "11",
@@ -2420,7 +2420,7 @@
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "10",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "25"
             },
             {
