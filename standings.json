@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 07:37 PM UTC",
-        "IST": "Sunday, 21 December 2025, 01:07 AM IST"
+        "UTC": "Saturday, 20 December 2025, 08:21 PM UTC",
+        "IST": "Sunday, 21 December 2025, 01:51 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -18,12 +18,12 @@
             {
                 "Position": "2",
                 "Team": "Arsenal",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "11",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "20",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "3",
@@ -57,6 +57,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Crystal Palace",
+                "Played": "17",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "5",
+                "Points": "27"
+            },
+            {
+                "Position": "7",
                 "Team": "Sunderland",
                 "Played": "17",
                 "Wins": "7",
@@ -64,16 +74,6 @@
                 "Losses": "4",
                 "Goal Difference": "2",
                 "Points": "27"
-            },
-            {
-                "Position": "7",
-                "Team": "Crystal Palace",
-                "Played": "16",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "5",
-                "Points": "26"
             },
             {
                 "Position": "8",
@@ -87,22 +87,22 @@
             },
             {
                 "Position": "9",
+                "Team": "Everton",
+                "Played": "17",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-1",
+                "Points": "25"
+            },
+            {
+                "Position": "10",
                 "Team": "Brighton & Hove Albion",
                 "Played": "17",
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "5",
                 "Goal Difference": "2",
-                "Points": "24"
-            },
-            {
-                "Position": "10",
-                "Team": "Everton",
-                "Played": "16",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-1",
                 "Points": "24"
             },
             {
@@ -168,12 +168,12 @@
             {
                 "Position": "17",
                 "Team": "Leeds United",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "4",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "-10",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "18",
@@ -220,12 +220,12 @@
             {
                 "Position": "2",
                 "Team": "Real Madrid",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "12",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "18",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "3",
@@ -290,12 +290,12 @@
             {
                 "Position": "9",
                 "Team": "Sevilla",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "6",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "8",
                 "Goal Difference": "0",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "10",
@@ -624,22 +624,22 @@
             {
                 "Position": "4",
                 "Team": "Roma",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "10",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "5",
                 "Goal Difference": "8",
-                "Points": "30"
+                "Points": "31"
             },
             {
                 "Position": "5",
                 "Team": "Juventus",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "7",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "3",
                 "Goal Difference": "5",
-                "Points": "26"
+                "Points": "27"
             },
             {
                 "Position": "6",
@@ -2096,10 +2096,10 @@
                 "Team": "Gil Vicente",
                 "Played": "15",
                 "Wins": "7",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "9",
-                "Points": "25"
+                "Draws": "5",
+                "Losses": "3",
+                "Goal Difference": "10",
+                "Points": "26"
             },
             {
                 "Position": "5",
@@ -2143,16 +2143,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Rio Ave",
-                "Played": "15",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "19"
-            },
-            {
-                "Position": "10",
                 "Team": "Estoril",
                 "Played": "15",
                 "Wins": "4",
@@ -2162,12 +2152,22 @@
                 "Points": "17"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Alverca",
                 "Played": "14",
                 "Wins": "5",
                 "Draws": "2",
                 "Losses": "7",
+                "Goal Difference": "-5",
+                "Points": "17"
+            },
+            {
+                "Position": "11",
+                "Team": "Rio Ave",
+                "Played": "15",
+                "Wins": "3",
+                "Draws": "8",
+                "Losses": "4",
                 "Goal Difference": "-5",
                 "Points": "17"
             },
