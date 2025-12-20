@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 20 December 2025, 04:45 PM UTC",
-        "IST": "Saturday, 20 December 2025, 10:15 PM IST"
+        "UTC": "Saturday, 20 December 2025, 05:17 PM UTC",
+        "IST": "Saturday, 20 December 2025, 10:47 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -107,16 +107,6 @@
             },
             {
                 "Position": "11",
-                "Team": "AFC Bournemouth",
-                "Played": "17",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "-2",
-                "Points": "24"
-            },
-            {
-                "Position": "12",
                 "Team": "Newcastle United",
                 "Played": "17",
                 "Wins": "6",
@@ -126,7 +116,7 @@
                 "Points": "23"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Brentford",
                 "Played": "17",
                 "Wins": "7",
@@ -136,13 +126,23 @@
                 "Points": "23"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Tottenham Hotspur",
                 "Played": "16",
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "6",
                 "Goal Difference": "4",
+                "Points": "22"
+            },
+            {
+                "Position": "14",
+                "Team": "AFC Bournemouth",
+                "Played": "17",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "5",
+                "Goal Difference": "-3",
                 "Points": "22"
             },
             {
@@ -190,10 +190,10 @@
                 "Team": "Burnley",
                 "Played": "17",
                 "Wins": "3",
-                "Draws": "1",
-                "Losses": "13",
-                "Goal Difference": "-16",
-                "Points": "10"
+                "Draws": "2",
+                "Losses": "12",
+                "Goal Difference": "-15",
+                "Points": "11"
             },
             {
                 "Position": "20",
@@ -319,16 +319,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Real Sociedad",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "-3",
-                "Points": "19"
-            },
-            {
-                "Position": "13",
                 "Team": "Alav\u00e9s",
                 "Played": "16",
                 "Wins": "5",
@@ -338,7 +328,7 @@
                 "Points": "18"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Rayo Vallecano",
                 "Played": "16",
                 "Wins": "4",
@@ -348,7 +338,7 @@
                 "Points": "18"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Mallorca",
                 "Played": "17",
                 "Wins": "4",
@@ -356,6 +346,16 @@
                 "Losses": "7",
                 "Goal Difference": "-5",
                 "Points": "18"
+            },
+            {
+                "Position": "15",
+                "Team": "Real Sociedad",
+                "Played": "17",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "-4",
+                "Points": "17"
             },
             {
                 "Position": "16",
@@ -402,10 +402,10 @@
                 "Team": "Levante",
                 "Played": "16",
                 "Wins": "2",
-                "Draws": "3",
-                "Losses": "11",
-                "Goal Difference": "-13",
-                "Points": "9"
+                "Draws": "4",
+                "Losses": "10",
+                "Goal Difference": "-12",
+                "Points": "10"
             }
         ],
         "Bundesliga": [
@@ -664,12 +664,12 @@
             {
                 "Position": "8",
                 "Team": "Lazio",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "6",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "5",
                 "Goal Difference": "6",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "9",
@@ -694,12 +694,12 @@
             {
                 "Position": "11",
                 "Team": "Cremonese",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "5",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "5",
                 "Goal Difference": "0",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "12",
@@ -2270,7 +2270,7 @@
                 "Wins": "10",
                 "Draws": "7",
                 "Losses": "5",
-                "Goal Difference": "14",
+                "Goal Difference": "15",
                 "Points": "37"
             },
             {
@@ -2480,7 +2480,7 @@
                 "Wins": "1",
                 "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-26",
+                "Goal Difference": "-27",
                 "Points": "-9"
             }
         ],
