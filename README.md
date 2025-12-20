@@ -41,13 +41,13 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 December 2025, 04:25 PM UTC (Saturday, 20 December 2025, 09:55 PM IST)
+**Last Updated:** Saturday, 20 December 2025, 04:45 PM UTC (Saturday, 20 December 2025, 10:15 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Manchester City | 17 | 12 | 1 | 4 | 24 | 37 |
+| 1 | Manchester City | 17 | 12 | 1 | 4 | 25 | 37 |
 | 2 | Arsenal | 16 | 11 | 3 | 2 | 20 | 36 |
 | 3 | Aston Villa | 16 | 10 | 3 | 3 | 8 | 33 |
 | 4 | Chelsea | 17 | 8 | 5 | 4 | 12 | 29 |
@@ -57,16 +57,16 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Liverpool FC | 16 | 8 | 2 | 6 | 2 | 26 |
 | 9 | Brighton & Hove Albion | 17 | 6 | 6 | 5 | 2 | 24 |
 | 10 | Everton | 16 | 7 | 3 | 6 | -1 | 24 |
-| 11 | Newcastle United | 17 | 6 | 5 | 6 | 1 | 23 |
-| 12 | Brentford | 17 | 7 | 2 | 8 | -2 | 23 |
-| 13 | Tottenham Hotspur | 16 | 6 | 4 | 6 | 4 | 22 |
-| 14 | AFC Bournemouth | 17 | 5 | 7 | 5 | -3 | 22 |
+| 11 | AFC Bournemouth | 17 | 6 | 6 | 5 | -2 | 24 |
+| 12 | Newcastle United | 17 | 6 | 5 | 6 | 1 | 23 |
+| 13 | Brentford | 17 | 7 | 2 | 8 | -1 | 23 |
+| 14 | Tottenham Hotspur | 16 | 6 | 4 | 6 | 4 | 22 |
 | 15 | Fulham | 16 | 6 | 2 | 8 | -3 | 20 |
 | 16 | Nottingham Forest | 16 | 5 | 3 | 8 | -8 | 18 |
 | 17 | Leeds United | 16 | 4 | 4 | 8 | -10 | 16 |
-| 18 | West Ham United | 17 | 3 | 4 | 10 | -15 | 13 |
-| 19 | Burnley | 17 | 3 | 2 | 12 | -15 | 11 |
-| 20 | Wolverhampton Wanderers | 17 | 0 | 2 | 15 | -27 | 2 |
+| 18 | West Ham United | 17 | 3 | 4 | 10 | -16 | 13 |
+| 19 | Burnley | 17 | 3 | 1 | 13 | -16 | 10 |
+| 20 | Wolverhampton Wanderers | 17 | 0 | 2 | 15 | -28 | 2 |
 
 ### La Liga
 
@@ -316,28 +316,28 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 22 | 14 | 6 | 2 | 30 | 48 |
 | 2 | Middlesbrough | 22 | 12 | 6 | 4 | 9 | 42 |
-| 3 | Ipswich Town | 22 | 10 | 7 | 5 | 15 | 37 |
+| 3 | Ipswich Town | 22 | 10 | 7 | 5 | 14 | 37 |
 | 4 | Hull City | 22 | 11 | 4 | 7 | 2 | 37 |
 | 5 | Preston North End | 22 | 9 | 9 | 4 | 7 | 36 |
 | 6 | Millwall | 22 | 10 | 5 | 7 | -6 | 35 |
-| 7 | Stoke City | 22 | 10 | 4 | 8 | 8 | 34 |
-| 8 | Queens Park Rangers | 22 | 10 | 4 | 8 | -1 | 34 |
+| 7 | Queens Park Rangers | 22 | 10 | 4 | 8 | -2 | 34 |
+| 8 | Stoke City | 22 | 10 | 3 | 9 | 7 | 33 |
 | 9 | Bristol City | 22 | 9 | 6 | 7 | 6 | 33 |
-| 10 | Southampton | 22 | 8 | 7 | 7 | 5 | 31 |
-| 11 | Derby County | 22 | 8 | 7 | 7 | 1 | 31 |
-| 12 | Leicester City | 22 | 8 | 7 | 7 | -1 | 31 |
-| 13 | Watford | 22 | 7 | 9 | 6 | 2 | 30 |
+| 10 | Watford | 22 | 8 | 8 | 6 | 3 | 32 |
+| 11 | Southampton | 22 | 8 | 7 | 7 | 5 | 31 |
+| 12 | Derby County | 22 | 8 | 7 | 7 | 1 | 31 |
+| 13 | Leicester City | 22 | 8 | 7 | 7 | 0 | 31 |
 | 14 | Birmingham City | 22 | 8 | 5 | 9 | 1 | 29 |
 | 15 | Wrexham | 22 | 6 | 10 | 6 | 0 | 28 |
 | 16 | West Bromwich Albion | 22 | 8 | 4 | 10 | -4 | 28 |
-| 17 | Sheffield United | 22 | 8 | 2 | 12 | -3 | 26 |
-| 18 | Swansea City | 22 | 7 | 5 | 10 | -6 | 26 |
-| 19 | Blackburn Rovers | 21 | 7 | 4 | 10 | -4 | 25 |
-| 20 | Charlton Athletic | 21 | 6 | 7 | 8 | -6 | 25 |
+| 17 | Charlton Athletic | 21 | 7 | 6 | 8 | -5 | 27 |
+| 18 | Sheffield United | 22 | 8 | 2 | 12 | -3 | 26 |
+| 19 | Swansea City | 22 | 7 | 5 | 10 | -6 | 26 |
+| 20 | Blackburn Rovers | 21 | 7 | 4 | 10 | -4 | 25 |
 | 21 | Portsmouth | 21 | 5 | 6 | 10 | -10 | 21 |
-| 22 | Oxford United | 22 | 4 | 8 | 10 | -8 | 20 |
+| 22 | Oxford United | 22 | 4 | 7 | 11 | -9 | 19 |
 | 23 | Norwich City | 22 | 4 | 6 | 12 | -10 | 18 |
-| 24 | Sheffield Wednesday | 21 | 1 | 6 | 14 | -27 | -9 |
+| 24 | Sheffield Wednesday | 21 | 1 | 6 | 14 | -26 | -9 |
 
 ### Major League Soccer (MLS)
 
