@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 20 December 2025, 02:18 PM UTC (Saturday, 20 December 2025, 07:48 PM IST)
+**Last Updated:** Saturday, 20 December 2025, 02:41 PM UTC (Saturday, 20 December 2025, 08:11 PM IST)
 
 ### Premier League
 
@@ -100,18 +100,18 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 14 | 12 | 2 | 0 | 40 | 38 |
 | 2 | Borussia Dortmund | 15 | 9 | 5 | 1 | 14 | 32 |
 | 3 | RB Leipzig | 14 | 9 | 2 | 3 | 13 | 29 |
-| 4 | Bayer Leverkusen | 14 | 8 | 2 | 4 | 11 | 26 |
-| 5 | Hoffenheim | 14 | 8 | 2 | 4 | 9 | 26 |
-| 6 | VfB Stuttgart | 14 | 8 | 1 | 5 | 3 | 25 |
-| 7 | Eintracht Frankfurt | 14 | 7 | 3 | 4 | 0 | 24 |
-| 8 | Union Berlin | 14 | 5 | 3 | 6 | -4 | 18 |
-| 9 | SC Freiburg | 14 | 4 | 5 | 5 | -2 | 17 |
-| 10 | Köln | 14 | 4 | 4 | 6 | -1 | 16 |
-| 11 | Borussia Mönchengladbach | 15 | 4 | 4 | 7 | -6 | 16 |
-| 12 | Werder Bremen | 14 | 4 | 4 | 6 | -10 | 16 |
-| 13 | VfL Wolfsburg | 14 | 4 | 3 | 7 | -4 | 15 |
-| 14 | Hamburg | 14 | 4 | 3 | 7 | -9 | 15 |
-| 15 | Augsburg | 14 | 4 | 1 | 9 | -11 | 13 |
+| 4 | Hoffenheim | 15 | 8 | 3 | 4 | 9 | 27 |
+| 5 | Bayer Leverkusen | 14 | 8 | 2 | 4 | 11 | 26 |
+| 6 | VfB Stuttgart | 15 | 8 | 2 | 5 | 3 | 26 |
+| 7 | Eintracht Frankfurt | 15 | 7 | 4 | 4 | 0 | 25 |
+| 8 | SC Freiburg | 15 | 5 | 5 | 5 | -1 | 20 |
+| 9 | Union Berlin | 15 | 5 | 4 | 6 | -4 | 19 |
+| 10 | Köln | 15 | 4 | 5 | 6 | -1 | 17 |
+| 11 | Werder Bremen | 15 | 4 | 5 | 6 | -10 | 17 |
+| 12 | Borussia Mönchengladbach | 15 | 4 | 4 | 7 | -6 | 16 |
+| 13 | Hamburg | 15 | 4 | 4 | 7 | -9 | 16 |
+| 14 | VfL Wolfsburg | 15 | 4 | 3 | 8 | -5 | 15 |
+| 15 | Augsburg | 15 | 4 | 2 | 9 | -11 | 14 |
 | 16 | St. Pauli | 14 | 3 | 2 | 9 | -13 | 11 |
 | 17 | Heidenheim | 14 | 3 | 2 | 9 | -17 | 11 |
 | 18 | Mainz 05 | 14 | 1 | 4 | 9 | -13 | 7 |
@@ -316,7 +316,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 22 | 14 | 6 | 2 | 30 | 48 |
 | 2 | Middlesbrough | 21 | 12 | 6 | 3 | 11 | 42 |
-| 3 | Preston North End | 22 | 9 | 8 | 5 | 6 | 35 |
+| 3 | Preston North End | 22 | 9 | 9 | 4 | 7 | 36 |
 | 4 | Millwall | 22 | 10 | 5 | 7 | -6 | 35 |
 | 5 | Ipswich Town | 21 | 9 | 7 | 5 | 13 | 34 |
 | 6 | Hull City | 21 | 10 | 4 | 7 | 1 | 34 |
@@ -334,9 +334,9 @@ The latest league standings are displayed below in Markdown tables:
 | 18 | Blackburn Rovers | 21 | 7 | 4 | 10 | -4 | 25 |
 | 19 | Charlton Athletic | 20 | 6 | 6 | 8 | -6 | 24 |
 | 20 | Sheffield United | 21 | 7 | 2 | 12 | -6 | 23 |
-| 21 | Norwich City | 22 | 5 | 5 | 12 | -9 | 20 |
-| 22 | Portsmouth | 20 | 5 | 5 | 10 | -10 | 20 |
-| 23 | Oxford United | 21 | 4 | 7 | 10 | -8 | 19 |
+| 21 | Portsmouth | 20 | 5 | 5 | 10 | -10 | 20 |
+| 22 | Oxford United | 21 | 4 | 7 | 10 | -8 | 19 |
+| 23 | Norwich City | 22 | 4 | 6 | 12 | -10 | 18 |
 | 24 | Sheffield Wednesday | 20 | 1 | 6 | 13 | -25 | -9 |
 
 ### Major League Soccer (MLS)
