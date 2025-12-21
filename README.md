@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 December 2025, 03:19 PM UTC (Sunday, 21 December 2025, 08:49 PM IST)
+**Last Updated:** Sunday, 21 December 2025, 03:39 PM UTC (Sunday, 21 December 2025, 09:09 PM IST)
 
 ### Premier League
 
@@ -72,10 +72,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 18 | 14 | 2 | 2 | 29 | 44 |
+| 1 | Barcelona | 18 | 15 | 1 | 2 | 30 | 46 |
 | 2 | Real Madrid | 18 | 13 | 3 | 2 | 20 | 42 |
 | 3 | Atlético de Madrid | 18 | 11 | 4 | 3 | 17 | 37 |
-| 4 | Villarreal | 16 | 11 | 3 | 2 | 18 | 36 |
+| 4 | Villarreal | 16 | 11 | 2 | 3 | 17 | 35 |
 | 5 | Espanyol | 16 | 9 | 3 | 4 | 4 | 30 |
 | 6 | Real Betis | 16 | 6 | 7 | 3 | 6 | 25 |
 | 7 | Celta de Vigo | 17 | 5 | 8 | 4 | 1 | 23 |
@@ -128,11 +128,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Bologna | 15 | 7 | 4 | 4 | 10 | 25 |
 | 7 | Como | 15 | 6 | 6 | 3 | 7 | 24 |
 | 8 | Lazio | 16 | 6 | 5 | 5 | 6 | 23 |
-| 9 | Sassuolo | 16 | 6 | 4 | 6 | 2 | 22 |
-| 10 | Udinese | 15 | 6 | 3 | 6 | -6 | 21 |
+| 9 | Udinese | 15 | 6 | 3 | 6 | -6 | 21 |
+| 10 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
 | 11 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
-| 12 | Atalanta | 15 | 4 | 7 | 4 | 1 | 19 |
-| 13 | Torino | 16 | 4 | 6 | 6 | -11 | 18 |
+| 12 | Torino | 16 | 5 | 5 | 6 | -10 | 20 |
+| 13 | Atalanta | 15 | 4 | 7 | 4 | 1 | 19 |
 | 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
 | 15 | Cagliari | 16 | 3 | 6 | 7 | -6 | 15 |
 | 16 | Genoa | 15 | 3 | 5 | 7 | -7 | 14 |
@@ -302,13 +302,13 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Estoril | 15 | 4 | 5 | 6 | -2 | 17 |
 | 10 | Alverca | 14 | 5 | 2 | 7 | -5 | 17 |
 | 11 | Rio Ave | 15 | 3 | 8 | 4 | -5 | 17 |
-| 12 | Estrela Amadora | 15 | 3 | 6 | 6 | -5 | 15 |
-| 13 | Nacional | 14 | 4 | 3 | 7 | -4 | 15 |
-| 14 | Santa Clara | 14 | 4 | 3 | 7 | -4 | 15 |
+| 12 | Nacional | 15 | 4 | 4 | 7 | -4 | 16 |
+| 13 | Santa Clara | 14 | 4 | 3 | 7 | -4 | 15 |
+| 14 | Estrela Amadora | 15 | 3 | 6 | 6 | -5 | 15 |
 | 15 | Arouca | 14 | 3 | 3 | 8 | -22 | 12 |
 | 16 | Casa Pia | 14 | 2 | 4 | 8 | -14 | 10 |
 | 17 | Tondela | 14 | 2 | 3 | 9 | -17 | 9 |
-| 18 | AVS | 14 | 0 | 3 | 11 | -28 | 3 |
+| 18 | AVS | 15 | 0 | 4 | 11 | -28 | 4 |
 
 ### EFL Championship
 
