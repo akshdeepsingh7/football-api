@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 11:17 AM UTC",
-        "IST": "Sunday, 21 December 2025, 04:47 PM IST"
+        "UTC": "Sunday, 21 December 2025, 11:38 AM UTC",
+        "IST": "Sunday, 21 December 2025, 05:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -734,12 +734,12 @@
             {
                 "Position": "15",
                 "Team": "Cagliari",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "3",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "7",
                 "Goal Difference": "-6",
-                "Points": "14"
+                "Points": "15"
             },
             {
                 "Position": "16",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Pisa",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "1",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "7",
                 "Goal Difference": "-10",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "20",
