@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 December 2025, 05:18 PM UTC (Sunday, 21 December 2025, 10:48 PM IST)
+**Last Updated:** Sunday, 21 December 2025, 05:40 PM UTC (Sunday, 21 December 2025, 11:10 PM IST)
 
 ### Premier League
 
@@ -49,11 +49,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 17 | 12 | 3 | 2 | 21 | 39 |
 | 2 | Manchester City | 17 | 12 | 1 | 4 | 25 | 37 |
-| 3 | Aston Villa | 17 | 11 | 3 | 3 | 9 | 36 |
+| 3 | Aston Villa | 17 | 10 | 4 | 3 | 8 | 34 |
 | 4 | Chelsea | 17 | 8 | 5 | 4 | 12 | 29 |
 | 5 | Liverpool FC | 17 | 9 | 2 | 6 | 3 | 29 |
-| 6 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
-| 7 | Manchester United | 17 | 7 | 5 | 5 | 3 | 26 |
+| 6 | Manchester United | 17 | 7 | 6 | 4 | 4 | 27 |
+| 7 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
 | 8 | Crystal Palace | 17 | 7 | 5 | 5 | 2 | 26 |
 | 9 | Brighton & Hove Albion | 17 | 6 | 6 | 5 | 2 | 24 |
 | 10 | Everton | 17 | 7 | 3 | 7 | -2 | 24 |
@@ -80,11 +80,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Real Betis | 16 | 6 | 7 | 3 | 6 | 25 |
 | 7 | Celta de Vigo | 17 | 5 | 8 | 4 | 1 | 23 |
 | 8 | Athletic Bilbao | 17 | 7 | 2 | 8 | -7 | 23 |
-| 9 | Sevilla | 17 | 6 | 2 | 9 | -2 | 20 |
-| 10 | Getafe | 16 | 6 | 2 | 8 | -5 | 20 |
-| 11 | Elche | 16 | 4 | 7 | 5 | -1 | 19 |
+| 9 | Elche | 17 | 5 | 7 | 5 | 0 | 22 |
+| 10 | Sevilla | 17 | 6 | 2 | 9 | -2 | 20 |
+| 11 | Getafe | 16 | 6 | 2 | 8 | -5 | 20 |
 | 12 | Osasuna | 17 | 5 | 3 | 9 | -3 | 18 |
-| 13 | Rayo Vallecano | 16 | 4 | 6 | 6 | -3 | 18 |
+| 13 | Rayo Vallecano | 17 | 4 | 6 | 7 | -4 | 18 |
 | 14 | Mallorca | 17 | 4 | 6 | 7 | -5 | 18 |
 | 15 | Alavés | 17 | 5 | 3 | 9 | -6 | 18 |
 | 16 | Real Sociedad | 17 | 4 | 5 | 8 | -4 | 17 |
@@ -128,9 +128,9 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Bologna | 15 | 7 | 4 | 4 | 10 | 25 |
 | 7 | Como | 15 | 6 | 6 | 3 | 7 | 24 |
 | 8 | Lazio | 16 | 6 | 5 | 5 | 6 | 23 |
-| 9 | Udinese | 16 | 6 | 4 | 6 | -6 | 22 |
-| 10 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
-| 11 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
+| 9 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
+| 10 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
+| 11 | Udinese | 16 | 6 | 3 | 7 | -7 | 21 |
 | 12 | Torino | 16 | 5 | 5 | 6 | -10 | 20 |
 | 13 | Atalanta | 15 | 4 | 7 | 4 | 1 | 19 |
 | 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
@@ -139,7 +139,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
 | 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
 | 19 | Pisa | 16 | 1 | 8 | 7 | -10 | 11 |
-| 20 | Fiorentina | 16 | 0 | 7 | 9 | -14 | 7 |
+| 20 | Fiorentina | 16 | 1 | 6 | 9 | -13 | 9 |
 
 ### Ligue 1
 
