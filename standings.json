@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 11:38 AM UTC",
-        "IST": "Sunday, 21 December 2025, 05:08 PM IST"
+        "UTC": "Sunday, 21 December 2025, 12:40 PM UTC",
+        "IST": "Sunday, 21 December 2025, 06:10 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -733,16 +733,6 @@
             },
             {
                 "Position": "15",
-                "Team": "Cagliari",
-                "Played": "16",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-6",
-                "Points": "15"
-            },
-            {
-                "Position": "16",
                 "Team": "Genoa",
                 "Played": "15",
                 "Wins": "3",
@@ -752,7 +742,7 @@
                 "Points": "14"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Parma",
                 "Played": "15",
                 "Wins": "3",
@@ -762,7 +752,27 @@
                 "Points": "14"
             },
             {
+                "Position": "17",
+                "Team": "Cagliari",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "-7",
+                "Points": "14"
+            },
+            {
                 "Position": "18",
+                "Team": "Pisa",
+                "Played": "16",
+                "Wins": "2",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "-9",
+                "Points": "13"
+            },
+            {
+                "Position": "19",
                 "Team": "Hellas Verona",
                 "Played": "15",
                 "Wins": "2",
@@ -770,16 +780,6 @@
                 "Losses": "7",
                 "Goal Difference": "-9",
                 "Points": "12"
-            },
-            {
-                "Position": "19",
-                "Team": "Pisa",
-                "Played": "16",
-                "Wins": "1",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "-10",
-                "Points": "11"
             },
             {
                 "Position": "20",
