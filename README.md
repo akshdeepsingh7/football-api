@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 December 2025, 12:40 PM UTC (Sunday, 21 December 2025, 06:10 PM IST)
+**Last Updated:** Sunday, 21 December 2025, 01:28 PM UTC (Sunday, 21 December 2025, 06:58 PM IST)
 
 ### Premier League
 
@@ -74,8 +74,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 17 | 14 | 1 | 2 | 29 | 43 |
 | 2 | Real Madrid | 18 | 13 | 3 | 2 | 20 | 42 |
-| 3 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
-| 4 | Atlético de Madrid | 17 | 10 | 4 | 3 | 14 | 34 |
+| 3 | Atlético de Madrid | 18 | 11 | 4 | 3 | 15 | 37 |
+| 4 | Villarreal | 15 | 11 | 2 | 2 | 18 | 35 |
 | 5 | Espanyol | 16 | 9 | 3 | 4 | 4 | 30 |
 | 6 | Real Betis | 16 | 6 | 7 | 3 | 6 | 25 |
 | 7 | Celta de Vigo | 17 | 5 | 8 | 4 | 1 | 23 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Alavés | 17 | 5 | 3 | 9 | -6 | 18 |
 | 16 | Real Sociedad | 17 | 4 | 5 | 8 | -4 | 17 |
 | 17 | Valencia | 17 | 3 | 7 | 7 | -10 | 16 |
-| 18 | Girona | 16 | 3 | 6 | 7 | -15 | 15 |
+| 18 | Girona | 17 | 3 | 6 | 8 | -16 | 15 |
 | 19 | Real Oviedo | 17 | 2 | 5 | 10 | -19 | 11 |
 | 20 | Levante | 16 | 2 | 4 | 10 | -12 | 10 |
 
@@ -134,11 +134,11 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Atalanta | 15 | 4 | 7 | 4 | 1 | 19 |
 | 13 | Torino | 15 | 4 | 5 | 6 | -11 | 17 |
 | 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
-| 15 | Genoa | 15 | 3 | 5 | 7 | -7 | 14 |
-| 16 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
-| 17 | Cagliari | 16 | 3 | 5 | 8 | -7 | 14 |
-| 18 | Pisa | 16 | 2 | 7 | 7 | -9 | 13 |
-| 19 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
+| 15 | Cagliari | 16 | 3 | 6 | 7 | -6 | 15 |
+| 16 | Genoa | 15 | 3 | 5 | 7 | -7 | 14 |
+| 17 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
+| 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
+| 19 | Pisa | 16 | 1 | 8 | 7 | -10 | 11 |
 | 20 | Fiorentina | 15 | 0 | 6 | 9 | -14 | 6 |
 
 ### Ligue 1

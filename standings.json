@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 12:40 PM UTC",
-        "IST": "Sunday, 21 December 2025, 06:10 PM IST"
+        "UTC": "Sunday, 21 December 2025, 01:28 PM UTC",
+        "IST": "Sunday, 21 December 2025, 06:58 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -229,6 +229,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "18",
+                "Wins": "11",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "15",
+                "Points": "37"
+            },
+            {
+                "Position": "4",
                 "Team": "Villarreal",
                 "Played": "15",
                 "Wins": "11",
@@ -236,16 +246,6 @@
                 "Losses": "2",
                 "Goal Difference": "18",
                 "Points": "35"
-            },
-            {
-                "Position": "4",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "17",
-                "Wins": "10",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "14",
-                "Points": "34"
             },
             {
                 "Position": "5",
@@ -380,11 +380,11 @@
             {
                 "Position": "18",
                 "Team": "Girona",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "3",
                 "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-15",
+                "Losses": "8",
+                "Goal Difference": "-16",
                 "Points": "15"
             },
             {
@@ -733,6 +733,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Cagliari",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "-6",
+                "Points": "15"
+            },
+            {
+                "Position": "16",
                 "Team": "Genoa",
                 "Played": "15",
                 "Wins": "3",
@@ -742,7 +752,7 @@
                 "Points": "14"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Parma",
                 "Played": "15",
                 "Wins": "3",
@@ -752,27 +762,7 @@
                 "Points": "14"
             },
             {
-                "Position": "17",
-                "Team": "Cagliari",
-                "Played": "16",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "-7",
-                "Points": "14"
-            },
-            {
                 "Position": "18",
-                "Team": "Pisa",
-                "Played": "16",
-                "Wins": "2",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-9",
-                "Points": "13"
-            },
-            {
-                "Position": "19",
                 "Team": "Hellas Verona",
                 "Played": "15",
                 "Wins": "2",
@@ -780,6 +770,16 @@
                 "Losses": "7",
                 "Goal Difference": "-9",
                 "Points": "12"
+            },
+            {
+                "Position": "19",
+                "Team": "Pisa",
+                "Played": "16",
+                "Wins": "1",
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "-10",
+                "Points": "11"
             },
             {
                 "Position": "20",
