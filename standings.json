@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 06:51 PM UTC",
-        "IST": "Monday, 22 December 2025, 12:21 AM IST"
+        "UTC": "Sunday, 21 December 2025, 07:16 PM UTC",
+        "IST": "Monday, 22 December 2025, 12:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -294,7 +294,7 @@
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "5",
-                "Goal Difference": "0",
+                "Goal Difference": "2",
                 "Points": "22"
             },
             {
@@ -329,16 +329,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Rayo Vallecano",
-                "Played": "17",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-4",
-                "Points": "18"
-            },
-            {
-                "Position": "14",
                 "Team": "Mallorca",
                 "Played": "17",
                 "Wins": "4",
@@ -348,12 +338,22 @@
                 "Points": "18"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Alav\u00e9s",
                 "Played": "17",
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "9",
+                "Goal Difference": "-6",
+                "Points": "18"
+            },
+            {
+                "Position": "15",
+                "Team": "Rayo Vallecano",
+                "Played": "17",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "7",
                 "Goal Difference": "-6",
                 "Points": "18"
             },
