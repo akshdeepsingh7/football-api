@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 December 2025, 02:19 PM UTC (Sunday, 21 December 2025, 07:49 PM IST)
+**Last Updated:** Sunday, 21 December 2025, 02:41 PM UTC (Sunday, 21 December 2025, 08:11 PM IST)
 
 ### Premier League
 
@@ -112,9 +112,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Hamburg | 15 | 4 | 4 | 7 | -9 | 16 |
 | 14 | VfL Wolfsburg | 15 | 4 | 3 | 8 | -5 | 15 |
 | 15 | Augsburg | 15 | 4 | 2 | 9 | -11 | 14 |
-| 16 | St. Pauli | 14 | 3 | 2 | 9 | -13 | 11 |
+| 16 | St. Pauli | 15 | 3 | 3 | 9 | -13 | 12 |
 | 17 | Heidenheim | 14 | 3 | 2 | 9 | -17 | 11 |
-| 18 | Mainz 05 | 14 | 1 | 4 | 9 | -13 | 7 |
+| 18 | Mainz 05 | 15 | 1 | 5 | 9 | -13 | 8 |
 
 ### Serie A
 
