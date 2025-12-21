@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 December 2025, 05:40 PM UTC (Sunday, 21 December 2025, 11:10 PM IST)
+**Last Updated:** Sunday, 21 December 2025, 06:29 PM UTC (Sunday, 21 December 2025, 11:59 PM IST)
 
 ### Premier League
 
@@ -49,11 +49,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 17 | 12 | 3 | 2 | 21 | 39 |
 | 2 | Manchester City | 17 | 12 | 1 | 4 | 25 | 37 |
-| 3 | Aston Villa | 17 | 10 | 4 | 3 | 8 | 34 |
+| 3 | Aston Villa | 17 | 11 | 3 | 3 | 9 | 36 |
 | 4 | Chelsea | 17 | 8 | 5 | 4 | 12 | 29 |
 | 5 | Liverpool FC | 17 | 9 | 2 | 6 | 3 | 29 |
-| 6 | Manchester United | 17 | 7 | 6 | 4 | 4 | 27 |
-| 7 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
+| 6 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
+| 7 | Manchester United | 17 | 7 | 5 | 5 | 3 | 26 |
 | 8 | Crystal Palace | 17 | 7 | 5 | 5 | 2 | 26 |
 | 9 | Brighton & Hove Albion | 17 | 6 | 6 | 5 | 2 | 24 |
 | 10 | Everton | 17 | 7 | 3 | 7 | -2 | 24 |
@@ -97,7 +97,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 15 | 13 | 2 | 0 | 42 | 41 |
+| 1 | Bayern Munich | 15 | 13 | 2 | 0 | 44 | 41 |
 | 2 | Borussia Dortmund | 15 | 9 | 5 | 1 | 14 | 32 |
 | 3 | Bayer Leverkusen | 15 | 9 | 2 | 4 | 13 | 29 |
 | 4 | RB Leipzig | 15 | 9 | 2 | 4 | 11 | 29 |
@@ -113,7 +113,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | VfL Wolfsburg | 15 | 4 | 3 | 8 | -5 | 15 |
 | 15 | Augsburg | 15 | 4 | 2 | 9 | -11 | 14 |
 | 16 | St. Pauli | 15 | 3 | 3 | 9 | -13 | 12 |
-| 17 | Heidenheim | 15 | 3 | 2 | 10 | -19 | 11 |
+| 17 | Heidenheim | 15 | 3 | 2 | 10 | -21 | 11 |
 | 18 | Mainz 05 | 15 | 1 | 5 | 9 | -13 | 8 |
 
 ### Serie A
@@ -130,7 +130,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Lazio | 16 | 6 | 5 | 5 | 6 | 23 |
 | 9 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
 | 10 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
-| 11 | Udinese | 16 | 6 | 3 | 7 | -7 | 21 |
+| 11 | Udinese | 16 | 6 | 3 | 7 | -10 | 21 |
 | 12 | Torino | 16 | 5 | 5 | 6 | -10 | 20 |
 | 13 | Atalanta | 15 | 4 | 7 | 4 | 1 | 19 |
 | 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
@@ -139,7 +139,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
 | 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
 | 19 | Pisa | 16 | 1 | 8 | 7 | -10 | 11 |
-| 20 | Fiorentina | 16 | 1 | 6 | 9 | -13 | 9 |
+| 20 | Fiorentina | 16 | 1 | 6 | 9 | -10 | 9 |
 
 ### Ligue 1
 
@@ -306,8 +306,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Santa Clara | 14 | 4 | 3 | 7 | -4 | 15 |
 | 14 | Estrela Amadora | 15 | 3 | 6 | 6 | -5 | 15 |
 | 15 | Arouca | 14 | 3 | 3 | 8 | -22 | 12 |
-| 16 | Casa Pia | 14 | 2 | 4 | 8 | -14 | 10 |
-| 17 | Tondela | 14 | 2 | 3 | 9 | -17 | 9 |
+| 16 | Casa Pia | 15 | 2 | 5 | 8 | -14 | 11 |
+| 17 | Tondela | 15 | 2 | 4 | 9 | -17 | 10 |
 | 18 | AVS | 15 | 0 | 4 | 11 | -28 | 4 |
 
 ### EFL Championship
