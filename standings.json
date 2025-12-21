@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 04:46 PM UTC",
-        "IST": "Sunday, 21 December 2025, 10:16 PM IST"
+        "UTC": "Sunday, 21 December 2025, 05:18 PM UTC",
+        "IST": "Sunday, 21 December 2025, 10:48 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -29,11 +29,11 @@
                 "Position": "3",
                 "Team": "Aston Villa",
                 "Played": "17",
-                "Wins": "10",
-                "Draws": "4",
+                "Wins": "11",
+                "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "8",
-                "Points": "34"
+                "Goal Difference": "9",
+                "Points": "36"
             },
             {
                 "Position": "4",
@@ -57,16 +57,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Manchester United",
-                "Played": "17",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "4",
-                "Points": "27"
-            },
-            {
-                "Position": "7",
                 "Team": "Sunderland",
                 "Played": "17",
                 "Wins": "7",
@@ -74,6 +64,16 @@
                 "Losses": "4",
                 "Goal Difference": "2",
                 "Points": "27"
+            },
+            {
+                "Position": "7",
+                "Team": "Manchester United",
+                "Played": "17",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "3",
+                "Points": "26"
             },
             {
                 "Position": "8",
@@ -416,7 +416,7 @@
                 "Wins": "13",
                 "Draws": "2",
                 "Losses": "0",
-                "Goal Difference": "41",
+                "Goal Difference": "42",
                 "Points": "41"
             },
             {
@@ -576,7 +576,7 @@
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "10",
-                "Goal Difference": "-18",
+                "Goal Difference": "-19",
                 "Points": "11"
             },
             {
@@ -674,12 +674,12 @@
             {
                 "Position": "9",
                 "Team": "Udinese",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "6",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "6",
                 "Goal Difference": "-6",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "10",
@@ -784,12 +784,12 @@
             {
                 "Position": "20",
                 "Team": "Fiorentina",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "0",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "-14",
-                "Points": "6"
+                "Points": "7"
             }
         ],
         "Ligue 1": [
@@ -2173,13 +2173,13 @@
             },
             {
                 "Position": "12",
-                "Team": "Estrela Amadora",
+                "Team": "Nacional",
                 "Played": "15",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "15"
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "-4",
+                "Points": "16"
             },
             {
                 "Position": "13",
@@ -2193,11 +2193,11 @@
             },
             {
                 "Position": "14",
-                "Team": "Nacional",
+                "Team": "Estrela Amadora",
                 "Played": "15",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "8",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "6",
                 "Goal Difference": "-5",
                 "Points": "15"
             },
@@ -2235,11 +2235,11 @@
                 "Position": "18",
                 "Team": "AVS",
                 "Played": "15",
-                "Wins": "1",
-                "Draws": "3",
+                "Wins": "0",
+                "Draws": "4",
                 "Losses": "11",
-                "Goal Difference": "-27",
-                "Points": "6"
+                "Goal Difference": "-28",
+                "Points": "4"
             }
         ],
         "EFL Championship": [
