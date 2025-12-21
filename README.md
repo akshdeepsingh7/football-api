@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 21 December 2025, 09:39 PM UTC (Monday, 22 December 2025, 03:09 AM IST)
+**Last Updated:** Sunday, 21 December 2025, 10:20 PM UTC (Monday, 22 December 2025, 03:50 AM IST)
 
 ### Premier League
 
@@ -128,15 +128,15 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Bologna | 15 | 7 | 4 | 4 | 10 | 25 |
 | 7 | Como | 15 | 6 | 6 | 3 | 7 | 24 |
 | 8 | Lazio | 16 | 6 | 5 | 5 | 6 | 23 |
-| 9 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
-| 10 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
-| 11 | Udinese | 16 | 6 | 3 | 7 | -10 | 21 |
-| 12 | Atalanta | 16 | 4 | 8 | 4 | 1 | 20 |
+| 9 | Atalanta | 16 | 5 | 7 | 4 | 2 | 22 |
+| 10 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
+| 11 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
+| 12 | Udinese | 16 | 6 | 3 | 7 | -10 | 21 |
 | 13 | Torino | 16 | 5 | 5 | 6 | -10 | 20 |
 | 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
 | 15 | Cagliari | 16 | 3 | 6 | 7 | -6 | 15 |
-| 16 | Genoa | 16 | 3 | 6 | 7 | -7 | 15 |
-| 17 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
+| 16 | Parma | 15 | 3 | 5 | 7 | -8 | 14 |
+| 17 | Genoa | 16 | 3 | 5 | 8 | -8 | 14 |
 | 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
 | 19 | Pisa | 16 | 1 | 8 | 7 | -10 | 11 |
 | 20 | Fiorentina | 16 | 1 | 6 | 9 | -10 | 9 |
