@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 21 December 2025, 02:41 PM UTC",
-        "IST": "Sunday, 21 December 2025, 08:11 PM IST"
+        "UTC": "Sunday, 21 December 2025, 03:19 PM UTC",
+        "IST": "Sunday, 21 December 2025, 08:49 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -210,12 +210,12 @@
             {
                 "Position": "1",
                 "Team": "Barcelona",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "14",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "29",
-                "Points": "43"
+                "Points": "44"
             },
             {
                 "Position": "2",
@@ -234,18 +234,18 @@
                 "Wins": "11",
                 "Draws": "4",
                 "Losses": "3",
-                "Goal Difference": "16",
+                "Goal Difference": "17",
                 "Points": "37"
             },
             {
                 "Position": "4",
                 "Team": "Villarreal",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "11",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "18",
-                "Points": "35"
+                "Points": "36"
             },
             {
                 "Position": "5",
@@ -384,7 +384,7 @@
                 "Wins": "3",
                 "Draws": "6",
                 "Losses": "8",
-                "Goal Difference": "-17",
+                "Goal Difference": "-18",
                 "Points": "15"
             },
             {
