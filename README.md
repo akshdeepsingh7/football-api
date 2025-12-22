@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 22 December 2025, 09:19 PM UTC (Tuesday, 23 December 2025, 02:49 AM IST)
+**Last Updated:** Monday, 22 December 2025, 09:40 PM UTC (Tuesday, 23 December 2025, 03:10 AM IST)
 
 ### Premier League
 
@@ -293,10 +293,10 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 15 | 14 | 1 | 0 | 29 | 43 |
 | 2 | Sporting CP | 14 | 11 | 2 | 1 | 31 | 35 |
-| 3 | Benfica | 15 | 9 | 6 | 0 | 22 | 33 |
+| 3 | Benfica | 15 | 10 | 5 | 0 | 23 | 35 |
 | 4 | Gil Vicente | 15 | 7 | 5 | 3 | 10 | 26 |
 | 5 | Braga | 15 | 7 | 4 | 4 | 13 | 25 |
-| 6 | Famalicão | 15 | 6 | 6 | 3 | 9 | 24 |
+| 6 | Famalicão | 15 | 6 | 5 | 4 | 8 | 23 |
 | 7 | Moreirense | 15 | 6 | 3 | 6 | -3 | 21 |
 | 8 | Vitória S.C. | 14 | 6 | 3 | 5 | -2 | 21 |
 | 9 | Estoril | 15 | 4 | 5 | 6 | -2 | 17 |

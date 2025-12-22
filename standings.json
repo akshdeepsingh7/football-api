@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 December 2025, 09:19 PM UTC",
-        "IST": "Tuesday, 23 December 2025, 02:49 AM IST"
+        "UTC": "Monday, 22 December 2025, 09:40 PM UTC",
+        "IST": "Tuesday, 23 December 2025, 03:10 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2085,11 +2085,11 @@
                 "Position": "3",
                 "Team": "Benfica",
                 "Played": "15",
-                "Wins": "9",
-                "Draws": "6",
+                "Wins": "10",
+                "Draws": "5",
                 "Losses": "0",
-                "Goal Difference": "22",
-                "Points": "33"
+                "Goal Difference": "23",
+                "Points": "35"
             },
             {
                 "Position": "4",
@@ -2116,10 +2116,10 @@
                 "Team": "Famalic\u00e3o",
                 "Played": "15",
                 "Wins": "6",
-                "Draws": "6",
-                "Losses": "3",
-                "Goal Difference": "9",
-                "Points": "24"
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "8",
+                "Points": "23"
             },
             {
                 "Position": "7",
