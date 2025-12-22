@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 22 December 2025, 08:23 PM UTC (Tuesday, 23 December 2025, 01:53 AM IST)
+**Last Updated:** Monday, 22 December 2025, 08:44 PM UTC (Tuesday, 23 December 2025, 02:14 AM IST)
 
 ### Premier League
 
@@ -76,9 +76,9 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Real Madrid | 18 | 13 | 3 | 2 | 20 | 42 |
 | 3 | Atlético de Madrid | 18 | 11 | 4 | 3 | 17 | 37 |
 | 4 | Villarreal | 16 | 11 | 2 | 3 | 16 | 35 |
-| 5 | Espanyol | 17 | 9 | 4 | 4 | 4 | 31 |
+| 5 | Espanyol | 17 | 9 | 3 | 5 | 3 | 30 |
 | 6 | Real Betis | 17 | 7 | 7 | 3 | 10 | 28 |
-| 7 | Athletic Bilbao | 18 | 7 | 3 | 8 | -7 | 24 |
+| 7 | Athletic Bilbao | 18 | 8 | 2 | 8 | -6 | 26 |
 | 8 | Celta de Vigo | 17 | 5 | 8 | 4 | 1 | 23 |
 | 9 | Elche | 17 | 5 | 7 | 5 | 3 | 22 |
 | 10 | Sevilla | 17 | 6 | 2 | 9 | -2 | 20 |
