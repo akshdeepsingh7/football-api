@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 22 December 2025, 07:38 PM UTC (Tuesday, 23 December 2025, 01:08 AM IST)
+**Last Updated:** Monday, 22 December 2025, 08:23 PM UTC (Tuesday, 23 December 2025, 01:53 AM IST)
 
 ### Premier League
 
@@ -61,9 +61,9 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Brentford | 17 | 7 | 2 | 8 | -1 | 23 |
 | 13 | Tottenham Hotspur | 17 | 6 | 4 | 7 | 3 | 22 |
 | 14 | AFC Bournemouth | 17 | 5 | 7 | 5 | -3 | 22 |
-| 15 | Fulham | 16 | 6 | 2 | 8 | -3 | 20 |
+| 15 | Fulham | 17 | 6 | 3 | 8 | -3 | 21 |
 | 16 | Leeds United | 17 | 5 | 4 | 8 | -7 | 19 |
-| 17 | Nottingham Forest | 16 | 5 | 3 | 8 | -8 | 18 |
+| 17 | Nottingham Forest | 17 | 5 | 4 | 8 | -8 | 19 |
 | 18 | West Ham United | 17 | 3 | 4 | 10 | -16 | 13 |
 | 19 | Burnley | 17 | 3 | 2 | 12 | -15 | 11 |
 | 20 | Wolverhampton Wanderers | 17 | 0 | 2 | 15 | -28 | 2 |
@@ -76,10 +76,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Real Madrid | 18 | 13 | 3 | 2 | 20 | 42 |
 | 3 | Atlético de Madrid | 18 | 11 | 4 | 3 | 17 | 37 |
 | 4 | Villarreal | 16 | 11 | 2 | 3 | 16 | 35 |
-| 5 | Espanyol | 16 | 9 | 3 | 4 | 4 | 30 |
+| 5 | Espanyol | 17 | 9 | 4 | 4 | 4 | 31 |
 | 6 | Real Betis | 17 | 7 | 7 | 3 | 10 | 28 |
-| 7 | Celta de Vigo | 17 | 5 | 8 | 4 | 1 | 23 |
-| 8 | Athletic Bilbao | 17 | 7 | 2 | 8 | -7 | 23 |
+| 7 | Athletic Bilbao | 18 | 7 | 3 | 8 | -7 | 24 |
+| 8 | Celta de Vigo | 17 | 5 | 8 | 4 | 1 | 23 |
 | 9 | Elche | 17 | 5 | 7 | 5 | 3 | 22 |
 | 10 | Sevilla | 17 | 6 | 2 | 9 | -2 | 20 |
 | 11 | Getafe | 17 | 6 | 2 | 9 | -9 | 20 |
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 15 | 14 | 1 | 0 | 27 | 43 |
+| 1 | Porto | 15 | 14 | 1 | 0 | 29 | 43 |
 | 2 | Sporting CP | 14 | 11 | 2 | 1 | 31 | 35 |
 | 3 | Benfica | 14 | 9 | 5 | 0 | 22 | 32 |
 | 4 | Gil Vicente | 15 | 7 | 5 | 3 | 10 | 26 |
@@ -301,7 +301,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Vitória S.C. | 14 | 6 | 3 | 5 | -2 | 21 |
 | 9 | Estoril | 15 | 4 | 5 | 6 | -2 | 17 |
 | 10 | Rio Ave | 15 | 3 | 8 | 4 | -5 | 17 |
-| 11 | Alverca | 15 | 5 | 2 | 8 | -6 | 17 |
+| 11 | Alverca | 15 | 5 | 2 | 8 | -8 | 17 |
 | 12 | Nacional | 15 | 4 | 4 | 7 | -4 | 16 |
 | 13 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
 | 14 | Estrela Amadora | 15 | 3 | 6 | 6 | -5 | 15 |

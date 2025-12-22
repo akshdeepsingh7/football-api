@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 22 December 2025, 07:38 PM UTC",
-        "IST": "Tuesday, 23 December 2025, 01:08 AM IST"
+        "UTC": "Monday, 22 December 2025, 08:23 PM UTC",
+        "IST": "Tuesday, 23 December 2025, 01:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -148,12 +148,12 @@
             {
                 "Position": "15",
                 "Team": "Fulham",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "6",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "8",
                 "Goal Difference": "-3",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "16",
@@ -168,12 +168,12 @@
             {
                 "Position": "17",
                 "Team": "Nottingham Forest",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "5",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "8",
                 "Goal Difference": "-8",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "18",
@@ -250,12 +250,12 @@
             {
                 "Position": "5",
                 "Team": "Espanyol",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "9",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "4",
-                "Points": "30"
+                "Points": "31"
             },
             {
                 "Position": "6",
@@ -269,22 +269,22 @@
             },
             {
                 "Position": "7",
+                "Team": "Athletic Bilbao",
+                "Played": "18",
+                "Wins": "7",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-7",
+                "Points": "24"
+            },
+            {
+                "Position": "8",
                 "Team": "Celta de Vigo",
                 "Played": "17",
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "4",
                 "Goal Difference": "1",
-                "Points": "23"
-            },
-            {
-                "Position": "8",
-                "Team": "Athletic Bilbao",
-                "Played": "17",
-                "Wins": "7",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "-7",
                 "Points": "23"
             },
             {
@@ -2068,7 +2068,7 @@
                 "Wins": "14",
                 "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "27",
+                "Goal Difference": "29",
                 "Points": "43"
             },
             {
@@ -2168,7 +2168,7 @@
                 "Wins": "5",
                 "Draws": "2",
                 "Losses": "8",
-                "Goal Difference": "-6",
+                "Goal Difference": "-8",
                 "Points": "17"
             },
             {
