@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 December 2025, 05:41 PM UTC",
-        "IST": "Friday, 26 December 2025, 11:11 PM IST"
+        "UTC": "Friday, 26 December 2025, 06:31 PM UTC",
+        "IST": "Saturday, 27 December 2025, 12:01 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2385,16 +2385,26 @@
             },
             {
                 "Position": "15",
-                "Team": "Wrexham",
+                "Team": "Sheffield United",
                 "Played": "23",
-                "Wins": "6",
-                "Draws": "11",
-                "Losses": "6",
-                "Goal Difference": "0",
+                "Wins": "9",
+                "Draws": "2",
+                "Losses": "12",
+                "Goal Difference": "-2",
                 "Points": "29"
             },
             {
                 "Position": "16",
+                "Team": "Wrexham",
+                "Played": "23",
+                "Wins": "6",
+                "Draws": "10",
+                "Losses": "7",
+                "Goal Difference": "-1",
+                "Points": "28"
+            },
+            {
+                "Position": "17",
                 "Team": "West Bromwich Albion",
                 "Played": "23",
                 "Wins": "8",
@@ -2402,16 +2412,6 @@
                 "Losses": "11",
                 "Goal Difference": "-5",
                 "Points": "28"
-            },
-            {
-                "Position": "17",
-                "Team": "Sheffield United",
-                "Played": "23",
-                "Wins": "8",
-                "Draws": "3",
-                "Losses": "12",
-                "Goal Difference": "-3",
-                "Points": "27"
             },
             {
                 "Position": "18",
