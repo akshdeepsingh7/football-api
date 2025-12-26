@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 December 2025, 01:32 PM UTC",
-        "IST": "Friday, 26 December 2025, 07:02 PM IST"
+        "UTC": "Friday, 26 December 2025, 02:20 PM UTC",
+        "IST": "Friday, 26 December 2025, 07:50 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2305,16 +2305,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Derby County",
-                "Played": "23",
-                "Wins": "9",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "2",
-                "Points": "34"
-            },
-            {
-                "Position": "8",
                 "Team": "Queens Park Rangers",
                 "Played": "22",
                 "Wins": "10",
@@ -2324,7 +2314,7 @@
                 "Points": "34"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Stoke City",
                 "Played": "22",
                 "Wins": "10",
@@ -2334,7 +2324,7 @@
                 "Points": "33"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Bristol City",
                 "Played": "22",
                 "Wins": "9",
@@ -2344,13 +2334,23 @@
                 "Points": "33"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Watford",
                 "Played": "22",
                 "Wins": "8",
                 "Draws": "8",
                 "Losses": "6",
                 "Goal Difference": "3",
+                "Points": "32"
+            },
+            {
+                "Position": "11",
+                "Team": "Derby County",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "1",
                 "Points": "32"
             },
             {
@@ -2378,10 +2378,10 @@
                 "Team": "Birmingham City",
                 "Played": "23",
                 "Wins": "8",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "0",
-                "Points": "29"
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "1",
+                "Points": "30"
             },
             {
                 "Position": "15",
