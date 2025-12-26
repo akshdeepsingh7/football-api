@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 26 December 2025, 12:43 PM UTC (Friday, 26 December 2025, 06:13 PM IST)
+**Last Updated:** Friday, 26 December 2025, 01:32 PM UTC (Friday, 26 December 2025, 07:02 PM IST)
 
 ### Premier League
 
@@ -316,18 +316,18 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 22 | 14 | 6 | 2 | 30 | 48 |
 | 2 | Middlesbrough | 22 | 12 | 6 | 4 | 9 | 42 |
-| 3 | Ipswich Town | 22 | 10 | 7 | 5 | 15 | 37 |
+| 3 | Ipswich Town | 23 | 10 | 8 | 5 | 15 | 38 |
 | 4 | Hull City | 22 | 11 | 4 | 7 | 2 | 37 |
 | 5 | Preston North End | 22 | 9 | 9 | 4 | 7 | 36 |
-| 6 | Millwall | 22 | 10 | 5 | 7 | -6 | 35 |
-| 7 | Queens Park Rangers | 22 | 10 | 4 | 8 | -2 | 34 |
-| 8 | Stoke City | 22 | 10 | 3 | 9 | 7 | 33 |
-| 9 | Bristol City | 22 | 9 | 6 | 7 | 6 | 33 |
-| 10 | Watford | 22 | 8 | 8 | 6 | 3 | 32 |
-| 11 | Derby County | 23 | 8 | 8 | 7 | 1 | 32 |
+| 6 | Millwall | 23 | 10 | 6 | 7 | -6 | 36 |
+| 7 | Derby County | 23 | 9 | 7 | 7 | 2 | 34 |
+| 8 | Queens Park Rangers | 22 | 10 | 4 | 8 | -2 | 34 |
+| 9 | Stoke City | 22 | 10 | 3 | 9 | 7 | 33 |
+| 10 | Bristol City | 22 | 9 | 6 | 7 | 6 | 33 |
+| 11 | Watford | 22 | 8 | 8 | 6 | 3 | 32 |
 | 12 | Southampton | 22 | 8 | 7 | 7 | 5 | 31 |
 | 13 | Leicester City | 22 | 8 | 7 | 7 | 0 | 31 |
-| 14 | Birmingham City | 23 | 8 | 6 | 9 | 1 | 30 |
+| 14 | Birmingham City | 23 | 8 | 5 | 10 | 0 | 29 |
 | 15 | Wrexham | 22 | 6 | 10 | 6 | 0 | 28 |
 | 16 | West Bromwich Albion | 22 | 8 | 4 | 10 | -4 | 28 |
 | 17 | Charlton Athletic | 21 | 7 | 6 | 8 | -5 | 27 |
