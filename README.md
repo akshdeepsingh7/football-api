@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 25 December 2025, 11:40 PM UTC (Friday, 26 December 2025, 05:10 AM IST)
+**Last Updated:** Friday, 26 December 2025, 01:46 AM UTC (Friday, 26 December 2025, 07:16 AM IST)
 
 ### Premier League
 
@@ -398,28 +398,7 @@ Data not available.
 
 ### Brasileirão
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Athletico Paranaense | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Atlético Mineiro | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Bahia | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Botafogo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | Chapecoense | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | Corinthians | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Coritiba | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Cruzeiro | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Flamengo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Fluminense | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Grêmio | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Internacional | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Mirassol | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Palmeiras | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | RB Bragantino | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Remo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Santos | 0 | 0 | 0 | 0 | 0 | 0 |
-| 18 | São Paulo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 19 | Vasco da Gama | 0 | 0 | 0 | 0 | 0 | 0 |
-| 20 | Vitória | 0 | 0 | 0 | 0 | 0 | 0 |
+Data not available.
 
 
 <!-- END_TABLE -->
