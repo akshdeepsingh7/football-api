@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 December 2025, 06:31 PM UTC",
-        "IST": "Saturday, 27 December 2025, 12:01 AM IST"
+        "UTC": "Friday, 26 December 2025, 07:17 PM UTC",
+        "IST": "Saturday, 27 December 2025, 12:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2365,6 +2365,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Wrexham",
+                "Played": "23",
+                "Wins": "7",
+                "Draws": "10",
+                "Losses": "6",
+                "Goal Difference": "2",
+                "Points": "31"
+            },
+            {
+                "Position": "14",
                 "Team": "Leicester City",
                 "Played": "23",
                 "Wins": "8",
@@ -2374,7 +2384,7 @@
                 "Points": "31"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Birmingham City",
                 "Played": "23",
                 "Wins": "8",
@@ -2384,27 +2394,7 @@
                 "Points": "30"
             },
             {
-                "Position": "15",
-                "Team": "Sheffield United",
-                "Played": "23",
-                "Wins": "9",
-                "Draws": "2",
-                "Losses": "12",
-                "Goal Difference": "-2",
-                "Points": "29"
-            },
-            {
                 "Position": "16",
-                "Team": "Wrexham",
-                "Played": "23",
-                "Wins": "6",
-                "Draws": "10",
-                "Losses": "7",
-                "Goal Difference": "-1",
-                "Points": "28"
-            },
-            {
-                "Position": "17",
                 "Team": "West Bromwich Albion",
                 "Played": "23",
                 "Wins": "8",
@@ -2414,7 +2404,7 @@
                 "Points": "28"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Charlton Athletic",
                 "Played": "22",
                 "Wins": "7",
@@ -2424,13 +2414,23 @@
                 "Points": "27"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Blackburn Rovers",
                 "Played": "22",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "-4",
+                "Points": "26"
+            },
+            {
+                "Position": "19",
+                "Team": "Sheffield United",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "2",
+                "Losses": "13",
+                "Goal Difference": "-5",
                 "Points": "26"
             },
             {
