@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 26 December 2025, 07:38 PM UTC (Saturday, 27 December 2025, 01:08 AM IST)
+**Last Updated:** Friday, 26 December 2025, 08:22 PM UTC (Saturday, 27 December 2025, 01:52 AM IST)
 
 ### Premier League
 
@@ -52,12 +52,12 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Aston Villa | 17 | 11 | 3 | 3 | 9 | 36 |
 | 4 | Chelsea | 17 | 8 | 5 | 4 | 12 | 29 |
 | 5 | Liverpool FC | 17 | 9 | 2 | 6 | 3 | 29 |
-| 6 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
-| 7 | Manchester United | 17 | 7 | 5 | 5 | 3 | 26 |
+| 6 | Manchester United | 18 | 7 | 6 | 5 | 3 | 27 |
+| 7 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
 | 8 | Crystal Palace | 17 | 7 | 5 | 5 | 2 | 26 |
 | 9 | Brighton & Hove Albion | 17 | 6 | 6 | 5 | 2 | 24 |
-| 10 | Everton | 17 | 7 | 3 | 7 | -2 | 24 |
-| 11 | Newcastle United | 17 | 6 | 5 | 6 | 1 | 23 |
+| 10 | Newcastle United | 18 | 6 | 6 | 6 | 1 | 24 |
+| 11 | Everton | 17 | 7 | 3 | 7 | -2 | 24 |
 | 12 | Brentford | 17 | 7 | 2 | 8 | -1 | 23 |
 | 13 | Fulham | 17 | 7 | 2 | 8 | -2 | 23 |
 | 14 | Tottenham Hotspur | 17 | 6 | 4 | 7 | 3 | 22 |
