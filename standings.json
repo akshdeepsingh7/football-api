@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 December 2025, 11:39 AM UTC",
-        "IST": "Friday, 26 December 2025, 05:09 PM IST"
+        "UTC": "Friday, 26 December 2025, 12:43 PM UTC",
+        "IST": "Friday, 26 December 2025, 06:13 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2345,22 +2345,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Derby County",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "1",
+                "Points": "32"
+            },
+            {
+                "Position": "12",
                 "Team": "Southampton",
                 "Played": "22",
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "7",
                 "Goal Difference": "5",
-                "Points": "31"
-            },
-            {
-                "Position": "12",
-                "Team": "Derby County",
-                "Played": "22",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "1",
                 "Points": "31"
             },
             {
@@ -2376,12 +2376,12 @@
             {
                 "Position": "14",
                 "Team": "Birmingham City",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "8",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "1",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "15",
