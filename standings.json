@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 December 2025, 03:21 PM UTC",
-        "IST": "Friday, 26 December 2025, 08:51 PM IST"
+        "UTC": "Friday, 26 December 2025, 03:42 PM UTC",
+        "IST": "Friday, 26 December 2025, 09:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2275,6 +2275,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Hull City",
+                "Played": "23",
+                "Wins": "11",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "2",
+                "Points": "38"
+            },
+            {
+                "Position": "5",
                 "Team": "Preston North End",
                 "Played": "23",
                 "Wins": "9",
@@ -2284,23 +2294,13 @@
                 "Points": "37"
             },
             {
-                "Position": "5",
-                "Team": "Hull City",
-                "Played": "23",
-                "Wins": "11",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "1",
-                "Points": "37"
-            },
-            {
                 "Position": "6",
                 "Team": "Bristol City",
                 "Played": "23",
                 "Wins": "10",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "36"
             },
             {
@@ -2395,22 +2395,22 @@
             },
             {
                 "Position": "16",
-                "Team": "West Bromwich Albion",
-                "Played": "23",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "11",
-                "Goal Difference": "-5",
-                "Points": "28"
-            },
-            {
-                "Position": "17",
                 "Team": "Charlton Athletic",
                 "Played": "22",
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "8",
                 "Goal Difference": "-5",
+                "Points": "28"
+            },
+            {
+                "Position": "17",
+                "Team": "West Bromwich Albion",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "4",
+                "Losses": "11",
+                "Goal Difference": "-6",
                 "Points": "28"
             },
             {
@@ -2477,11 +2477,11 @@
                 "Position": "24",
                 "Team": "Sheffield Wednesday",
                 "Played": "22",
-                "Wins": "2",
-                "Draws": "6",
+                "Wins": "1",
+                "Draws": "7",
                 "Losses": "14",
-                "Goal Difference": "-26",
-                "Points": "-6"
+                "Goal Difference": "-27",
+                "Points": "-8"
             }
         ],
         "Major League Soccer (MLS)": [
