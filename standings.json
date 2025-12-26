@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 December 2025, 08:22 PM UTC",
-        "IST": "Saturday, 27 December 2025, 01:52 AM IST"
+        "UTC": "Friday, 26 December 2025, 08:42 PM UTC",
+        "IST": "Saturday, 27 December 2025, 02:12 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -47,6 +47,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Manchester United",
+                "Played": "18",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "4",
+                "Points": "29"
+            },
+            {
+                "Position": "6",
                 "Team": "Liverpool FC",
                 "Played": "17",
                 "Wins": "9",
@@ -54,16 +64,6 @@
                 "Losses": "6",
                 "Goal Difference": "3",
                 "Points": "29"
-            },
-            {
-                "Position": "6",
-                "Team": "Manchester United",
-                "Played": "18",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "3",
-                "Points": "27"
             },
             {
                 "Position": "7",
@@ -97,16 +97,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Newcastle United",
-                "Played": "18",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "1",
-                "Points": "24"
-            },
-            {
-                "Position": "11",
                 "Team": "Everton",
                 "Played": "17",
                 "Wins": "7",
@@ -114,6 +104,16 @@
                 "Losses": "7",
                 "Goal Difference": "-2",
                 "Points": "24"
+            },
+            {
+                "Position": "11",
+                "Team": "Newcastle United",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "0",
+                "Points": "23"
             },
             {
                 "Position": "12",
