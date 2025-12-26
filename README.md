@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 26 December 2025, 05:18 PM UTC (Friday, 26 December 2025, 10:48 PM IST)
+**Last Updated:** Friday, 26 December 2025, 05:41 PM UTC (Friday, 26 December 2025, 11:11 PM IST)
 
 ### Premier League
 
@@ -328,10 +328,10 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Southampton | 23 | 8 | 7 | 8 | 4 | 31 |
 | 13 | Leicester City | 23 | 8 | 7 | 8 | -1 | 31 |
 | 14 | Birmingham City | 23 | 8 | 6 | 9 | 1 | 30 |
-| 15 | Wrexham | 22 | 6 | 10 | 6 | 0 | 28 |
+| 15 | Wrexham | 23 | 6 | 11 | 6 | 0 | 29 |
 | 16 | West Bromwich Albion | 23 | 8 | 4 | 11 | -5 | 28 |
-| 17 | Charlton Athletic | 22 | 7 | 6 | 9 | -6 | 27 |
-| 18 | Sheffield United | 22 | 8 | 2 | 12 | -3 | 26 |
+| 17 | Sheffield United | 23 | 8 | 3 | 12 | -3 | 27 |
+| 18 | Charlton Athletic | 22 | 7 | 6 | 9 | -6 | 27 |
 | 19 | Blackburn Rovers | 22 | 7 | 5 | 10 | -4 | 26 |
 | 20 | Swansea City | 23 | 7 | 5 | 11 | -7 | 26 |
 | 21 | Oxford United | 23 | 5 | 7 | 11 | -8 | 22 |

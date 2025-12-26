@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 26 December 2025, 05:18 PM UTC",
-        "IST": "Friday, 26 December 2025, 10:48 PM IST"
+        "UTC": "Friday, 26 December 2025, 05:41 PM UTC",
+        "IST": "Friday, 26 December 2025, 11:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2386,12 +2386,12 @@
             {
                 "Position": "15",
                 "Team": "Wrexham",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "6",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "6",
                 "Goal Difference": "0",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "16",
@@ -2405,6 +2405,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Sheffield United",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "3",
+                "Losses": "12",
+                "Goal Difference": "-3",
+                "Points": "27"
+            },
+            {
+                "Position": "18",
                 "Team": "Charlton Athletic",
                 "Played": "22",
                 "Wins": "7",
@@ -2412,16 +2422,6 @@
                 "Losses": "9",
                 "Goal Difference": "-6",
                 "Points": "27"
-            },
-            {
-                "Position": "18",
-                "Team": "Sheffield United",
-                "Played": "22",
-                "Wins": "8",
-                "Draws": "2",
-                "Losses": "12",
-                "Goal Difference": "-3",
-                "Points": "26"
             },
             {
                 "Position": "19",
