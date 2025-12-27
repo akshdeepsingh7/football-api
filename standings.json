@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 08:43 PM UTC",
-        "IST": "Sunday, 28 December 2025, 02:13 AM IST"
+        "UTC": "Saturday, 27 December 2025, 09:18 PM UTC",
+        "IST": "Sunday, 28 December 2025, 02:48 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2145,11 +2145,11 @@
                 "Position": "9",
                 "Team": "Estoril",
                 "Played": "16",
-                "Wins": "4",
-                "Draws": "6",
+                "Wins": "5",
+                "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "-2",
-                "Points": "18"
+                "Goal Difference": "0",
+                "Points": "20"
             },
             {
                 "Position": "10",
@@ -2163,22 +2163,22 @@
             },
             {
                 "Position": "11",
-                "Team": "Alverca",
-                "Played": "16",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-8",
-                "Points": "18"
-            },
-            {
-                "Position": "12",
                 "Team": "Rio Ave",
                 "Played": "15",
                 "Wins": "3",
                 "Draws": "8",
                 "Losses": "4",
                 "Goal Difference": "-5",
+                "Points": "17"
+            },
+            {
+                "Position": "12",
+                "Team": "Alverca",
+                "Played": "16",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "9",
+                "Goal Difference": "-10",
                 "Points": "17"
             },
             {
