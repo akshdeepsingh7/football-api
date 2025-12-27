@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 05:40 PM UTC",
-        "IST": "Saturday, 27 December 2025, 11:10 PM IST"
+        "UTC": "Saturday, 27 December 2025, 06:29 PM UTC",
+        "IST": "Saturday, 27 December 2025, 11:59 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -30,13 +30,23 @@
                 "Team": "Aston Villa",
                 "Played": "18",
                 "Wins": "11",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "9",
-                "Points": "37"
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "8",
+                "Points": "36"
             },
             {
                 "Position": "4",
+                "Team": "Chelsea",
+                "Played": "18",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "13",
+                "Points": "32"
+            },
+            {
+                "Position": "5",
                 "Team": "Liverpool FC",
                 "Played": "18",
                 "Wins": "10",
@@ -44,16 +54,6 @@
                 "Losses": "6",
                 "Goal Difference": "4",
                 "Points": "32"
-            },
-            {
-                "Position": "5",
-                "Team": "Chelsea",
-                "Played": "18",
-                "Wins": "8",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "12",
-                "Points": "30"
             },
             {
                 "Position": "6",
@@ -2114,12 +2114,12 @@
             {
                 "Position": "6",
                 "Team": "Famalic\u00e3o",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "6",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "4",
                 "Goal Difference": "8",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "7",
@@ -2173,6 +2173,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Estrela Amadora",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "-5",
+                "Points": "16"
+            },
+            {
+                "Position": "13",
                 "Team": "Nacional",
                 "Played": "15",
                 "Wins": "4",
@@ -2182,7 +2192,7 @@
                 "Points": "16"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Santa Clara",
                 "Played": "15",
                 "Wins": "4",
@@ -2190,16 +2200,6 @@
                 "Losses": "7",
                 "Goal Difference": "-4",
                 "Points": "16"
-            },
-            {
-                "Position": "14",
-                "Team": "Estrela Amadora",
-                "Played": "15",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "15"
             },
             {
                 "Position": "15",

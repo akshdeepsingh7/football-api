@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 December 2025, 05:40 PM UTC (Saturday, 27 December 2025, 11:10 PM IST)
+**Last Updated:** Saturday, 27 December 2025, 06:29 PM UTC (Saturday, 27 December 2025, 11:59 PM IST)
 
 ### Premier League
 
@@ -49,9 +49,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 18 | 13 | 3 | 2 | 22 | 42 |
 | 2 | Manchester City | 18 | 13 | 1 | 4 | 26 | 40 |
-| 3 | Aston Villa | 18 | 11 | 4 | 3 | 9 | 37 |
-| 4 | Liverpool FC | 18 | 10 | 2 | 6 | 4 | 32 |
-| 5 | Chelsea | 18 | 8 | 6 | 4 | 12 | 30 |
+| 3 | Aston Villa | 18 | 11 | 3 | 4 | 8 | 36 |
+| 4 | Chelsea | 18 | 9 | 5 | 4 | 13 | 32 |
+| 5 | Liverpool FC | 18 | 10 | 2 | 6 | 4 | 32 |
 | 6 | Manchester United | 18 | 8 | 5 | 5 | 4 | 29 |
 | 7 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
 | 8 | Brentford | 18 | 8 | 2 | 8 | 2 | 26 |
@@ -296,15 +296,15 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 15 | 10 | 5 | 0 | 23 | 35 |
 | 4 | Gil Vicente | 15 | 7 | 5 | 3 | 10 | 26 |
 | 5 | Braga | 15 | 7 | 4 | 4 | 13 | 25 |
-| 6 | Famalicão | 15 | 6 | 5 | 4 | 8 | 23 |
+| 6 | Famalicão | 16 | 6 | 6 | 4 | 8 | 24 |
 | 7 | Moreirense | 15 | 6 | 3 | 6 | -3 | 21 |
 | 8 | Vitória S.C. | 15 | 6 | 3 | 6 | -5 | 21 |
 | 9 | Estoril | 15 | 4 | 5 | 6 | -2 | 17 |
 | 10 | Rio Ave | 15 | 3 | 8 | 4 | -5 | 17 |
 | 11 | Alverca | 15 | 5 | 2 | 8 | -8 | 17 |
-| 12 | Nacional | 15 | 4 | 4 | 7 | -4 | 16 |
-| 13 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
-| 14 | Estrela Amadora | 15 | 3 | 6 | 6 | -5 | 15 |
+| 12 | Estrela Amadora | 16 | 3 | 7 | 6 | -5 | 16 |
+| 13 | Nacional | 15 | 4 | 4 | 7 | -4 | 16 |
+| 14 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
 | 15 | Casa Pia | 15 | 3 | 4 | 8 | -13 | 13 |
 | 16 | Arouca | 15 | 3 | 4 | 8 | -22 | 13 |
 | 17 | Tondela | 15 | 2 | 3 | 10 | -18 | 9 |
