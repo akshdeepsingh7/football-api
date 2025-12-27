@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 08:23 PM UTC",
-        "IST": "Sunday, 28 December 2025, 01:53 AM IST"
+        "UTC": "Saturday, 27 December 2025, 08:43 PM UTC",
+        "IST": "Sunday, 28 December 2025, 02:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2143,6 +2143,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Estoril",
+                "Played": "16",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "-2",
+                "Points": "18"
+            },
+            {
+                "Position": "10",
                 "Team": "Estrela Amadora",
                 "Played": "16",
                 "Wins": "4",
@@ -2152,33 +2162,23 @@
                 "Points": "18"
             },
             {
-                "Position": "10",
-                "Team": "Estoril",
-                "Played": "15",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-2",
-                "Points": "17"
+                "Position": "11",
+                "Team": "Alverca",
+                "Played": "16",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-8",
+                "Points": "18"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Rio Ave",
                 "Played": "15",
                 "Wins": "3",
                 "Draws": "8",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "17"
-            },
-            {
-                "Position": "12",
-                "Team": "Alverca",
-                "Played": "15",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "-8",
                 "Points": "17"
             },
             {
