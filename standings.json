@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 03:19 PM UTC",
-        "IST": "Saturday, 27 December 2025, 08:49 PM IST"
+        "UTC": "Saturday, 27 December 2025, 03:40 PM UTC",
+        "IST": "Saturday, 27 December 2025, 09:10 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -648,7 +648,7 @@
                 "Wins": "7",
                 "Draws": "6",
                 "Losses": "3",
-                "Goal Difference": "8",
+                "Goal Difference": "10",
                 "Points": "27"
             },
             {
@@ -716,13 +716,23 @@
                 "Team": "Torino",
                 "Played": "17",
                 "Wins": "5",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "-10",
-                "Points": "21"
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "-11",
+                "Points": "20"
             },
             {
                 "Position": "14",
+                "Team": "Cagliari",
+                "Played": "17",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "-5",
+                "Points": "18"
+            },
+            {
+                "Position": "15",
                 "Team": "Parma",
                 "Played": "16",
                 "Wins": "4",
@@ -732,23 +742,13 @@
                 "Points": "17"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Lecce",
                 "Played": "16",
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "8",
-                "Goal Difference": "-9",
-                "Points": "16"
-            },
-            {
-                "Position": "16",
-                "Team": "Cagliari",
-                "Played": "17",
-                "Wins": "3",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-6",
+                "Goal Difference": "-11",
                 "Points": "16"
             },
             {
