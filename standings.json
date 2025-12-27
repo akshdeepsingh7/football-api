@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 04:25 PM UTC",
-        "IST": "Saturday, 27 December 2025, 09:55 PM IST"
+        "UTC": "Saturday, 27 December 2025, 04:47 PM UTC",
+        "IST": "Saturday, 27 December 2025, 10:17 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -77,16 +77,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Brentford",
-                "Played": "18",
-                "Wins": "8",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "2",
-                "Points": "26"
-            },
-            {
-                "Position": "9",
                 "Team": "Crystal Palace",
                 "Played": "17",
                 "Wins": "7",
@@ -96,7 +86,27 @@
                 "Points": "26"
             },
             {
+                "Position": "9",
+                "Team": "Brentford",
+                "Played": "18",
+                "Wins": "8",
+                "Draws": "2",
+                "Losses": "8",
+                "Goal Difference": "1",
+                "Points": "26"
+            },
+            {
                 "Position": "10",
+                "Team": "Fulham",
+                "Played": "18",
+                "Wins": "8",
+                "Draws": "2",
+                "Losses": "8",
+                "Goal Difference": "-1",
+                "Points": "26"
+            },
+            {
+                "Position": "11",
                 "Team": "Everton",
                 "Played": "18",
                 "Wins": "7",
@@ -106,23 +116,13 @@
                 "Points": "25"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Brighton & Hove Albion",
                 "Played": "18",
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "1",
-                "Points": "24"
-            },
-            {
-                "Position": "12",
-                "Team": "Fulham",
-                "Played": "18",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-2",
                 "Points": "24"
             },
             {
@@ -152,7 +152,7 @@
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "-6",
+                "Goal Difference": "-5",
                 "Points": "22"
             },
             {
@@ -180,10 +180,10 @@
                 "Team": "West Ham United",
                 "Played": "18",
                 "Wins": "3",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-16",
-                "Points": "14"
+                "Draws": "4",
+                "Losses": "11",
+                "Goal Difference": "-17",
+                "Points": "13"
             },
             {
                 "Position": "19",
