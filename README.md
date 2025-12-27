@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 December 2025, 09:18 PM UTC (Sunday, 28 December 2025, 02:48 AM IST)
+**Last Updated:** Saturday, 27 December 2025, 09:39 PM UTC (Sunday, 28 December 2025, 03:09 AM IST)
 
 ### Premier League
 
@@ -122,9 +122,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 15 | 11 | 0 | 4 | 20 | 33 |
 | 2 | Milan | 15 | 9 | 5 | 1 | 11 | 32 |
-| 3 | Napoli | 15 | 10 | 1 | 4 | 9 | 31 |
-| 4 | Roma | 16 | 10 | 0 | 6 | 7 | 30 |
-| 5 | Juventus | 17 | 8 | 6 | 3 | 6 | 30 |
+| 3 | Juventus | 17 | 9 | 5 | 3 | 8 | 32 |
+| 4 | Napoli | 15 | 10 | 1 | 4 | 9 | 31 |
+| 5 | Roma | 16 | 10 | 0 | 6 | 7 | 30 |
 | 6 | Como | 16 | 7 | 6 | 3 | 10 | 27 |
 | 7 | Bologna | 15 | 7 | 4 | 4 | 10 | 25 |
 | 8 | Lazio | 17 | 6 | 6 | 5 | 6 | 24 |
@@ -138,7 +138,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Lecce | 16 | 4 | 4 | 8 | -11 | 16 |
 | 17 | Genoa | 16 | 3 | 5 | 8 | -8 | 14 |
 | 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
-| 19 | Pisa | 17 | 1 | 9 | 7 | -10 | 12 |
+| 19 | Pisa | 17 | 1 | 8 | 8 | -12 | 11 |
 | 20 | Fiorentina | 17 | 1 | 6 | 10 | -11 | 9 |
 
 ### Ligue 1
@@ -299,10 +299,10 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Famalicão | 16 | 6 | 5 | 5 | 7 | 23 |
 | 7 | Moreirense | 15 | 6 | 3 | 6 | -3 | 21 |
 | 8 | Vitória S.C. | 15 | 6 | 3 | 6 | -5 | 21 |
-| 9 | Estoril | 16 | 5 | 5 | 6 | 0 | 20 |
+| 9 | Estoril | 16 | 5 | 5 | 6 | 1 | 20 |
 | 10 | Estrela Amadora | 16 | 4 | 6 | 6 | -4 | 18 |
 | 11 | Rio Ave | 15 | 3 | 8 | 4 | -5 | 17 |
-| 12 | Alverca | 16 | 5 | 2 | 9 | -10 | 17 |
+| 12 | Alverca | 16 | 5 | 2 | 9 | -11 | 17 |
 | 13 | Nacional | 15 | 4 | 4 | 7 | -4 | 16 |
 | 14 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
 | 15 | Casa Pia | 15 | 3 | 4 | 8 | -13 | 13 |
