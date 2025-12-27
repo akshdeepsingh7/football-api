@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 03:40 PM UTC",
-        "IST": "Saturday, 27 December 2025, 09:10 PM IST"
+        "UTC": "Saturday, 27 December 2025, 04:25 PM UTC",
+        "IST": "Saturday, 27 December 2025, 09:55 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -39,11 +39,11 @@
                 "Position": "4",
                 "Team": "Liverpool FC",
                 "Played": "18",
-                "Wins": "9",
-                "Draws": "3",
+                "Wins": "10",
+                "Draws": "2",
                 "Losses": "6",
-                "Goal Difference": "3",
-                "Points": "30"
+                "Goal Difference": "4",
+                "Points": "32"
             },
             {
                 "Position": "5",
@@ -77,22 +77,22 @@
             },
             {
                 "Position": "8",
+                "Team": "Brentford",
+                "Played": "18",
+                "Wins": "8",
+                "Draws": "2",
+                "Losses": "8",
+                "Goal Difference": "2",
+                "Points": "26"
+            },
+            {
+                "Position": "9",
                 "Team": "Crystal Palace",
                 "Played": "17",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "5",
                 "Goal Difference": "2",
-                "Points": "26"
-            },
-            {
-                "Position": "9",
-                "Team": "Brentford",
-                "Played": "18",
-                "Wins": "8",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "0",
                 "Points": "26"
             },
             {
@@ -152,7 +152,7 @@
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "-4",
+                "Goal Difference": "-6",
                 "Points": "22"
             },
             {
@@ -200,10 +200,10 @@
                 "Team": "Wolverhampton Wanderers",
                 "Played": "18",
                 "Wins": "0",
-                "Draws": "3",
-                "Losses": "15",
-                "Goal Difference": "-28",
-                "Points": "3"
+                "Draws": "2",
+                "Losses": "16",
+                "Goal Difference": "-29",
+                "Points": "2"
             }
         ],
         "La Liga": [

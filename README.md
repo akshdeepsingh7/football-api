@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 December 2025, 03:40 PM UTC (Saturday, 27 December 2025, 09:10 PM IST)
+**Last Updated:** Saturday, 27 December 2025, 04:25 PM UTC (Saturday, 27 December 2025, 09:55 PM IST)
 
 ### Premier League
 
@@ -50,23 +50,23 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Arsenal | 18 | 13 | 3 | 2 | 22 | 42 |
 | 2 | Manchester City | 18 | 13 | 1 | 4 | 26 | 40 |
 | 3 | Aston Villa | 17 | 11 | 3 | 3 | 9 | 36 |
-| 4 | Liverpool FC | 18 | 9 | 3 | 6 | 3 | 30 |
+| 4 | Liverpool FC | 18 | 10 | 2 | 6 | 4 | 32 |
 | 5 | Chelsea | 17 | 8 | 5 | 4 | 12 | 29 |
 | 6 | Manchester United | 18 | 8 | 5 | 5 | 4 | 29 |
 | 7 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
-| 8 | Crystal Palace | 17 | 7 | 5 | 5 | 2 | 26 |
-| 9 | Brentford | 18 | 8 | 2 | 8 | 0 | 26 |
+| 8 | Brentford | 18 | 8 | 2 | 8 | 2 | 26 |
+| 9 | Crystal Palace | 17 | 7 | 5 | 5 | 2 | 26 |
 | 10 | Everton | 18 | 7 | 4 | 7 | -2 | 25 |
 | 11 | Brighton & Hove Albion | 18 | 6 | 6 | 6 | 1 | 24 |
 | 12 | Fulham | 18 | 7 | 3 | 8 | -2 | 24 |
 | 13 | Newcastle United | 18 | 6 | 5 | 7 | 0 | 23 |
 | 14 | Tottenham Hotspur | 17 | 6 | 4 | 7 | 3 | 22 |
-| 15 | AFC Bournemouth | 18 | 5 | 7 | 6 | -4 | 22 |
+| 15 | AFC Bournemouth | 18 | 5 | 7 | 6 | -6 | 22 |
 | 16 | Leeds United | 17 | 5 | 4 | 8 | -7 | 19 |
 | 17 | Nottingham Forest | 18 | 5 | 3 | 10 | -10 | 18 |
 | 18 | West Ham United | 18 | 3 | 5 | 10 | -16 | 14 |
 | 19 | Burnley | 18 | 3 | 3 | 12 | -15 | 12 |
-| 20 | Wolverhampton Wanderers | 18 | 0 | 3 | 15 | -28 | 3 |
+| 20 | Wolverhampton Wanderers | 18 | 0 | 2 | 16 | -29 | 2 |
 
 ### La Liga
 
