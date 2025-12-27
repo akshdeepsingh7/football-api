@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 December 2025, 05:17 PM UTC (Saturday, 27 December 2025, 10:47 PM IST)
+**Last Updated:** Saturday, 27 December 2025, 05:40 PM UTC (Saturday, 27 December 2025, 11:10 PM IST)
 
 ### Premier League
 
@@ -49,9 +49,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 18 | 13 | 3 | 2 | 22 | 42 |
 | 2 | Manchester City | 18 | 13 | 1 | 4 | 26 | 40 |
-| 3 | Aston Villa | 17 | 11 | 3 | 3 | 9 | 36 |
+| 3 | Aston Villa | 18 | 11 | 4 | 3 | 9 | 37 |
 | 4 | Liverpool FC | 18 | 10 | 2 | 6 | 4 | 32 |
-| 5 | Chelsea | 17 | 8 | 5 | 4 | 12 | 29 |
+| 5 | Chelsea | 18 | 8 | 6 | 4 | 12 | 30 |
 | 6 | Manchester United | 18 | 8 | 5 | 5 | 4 | 29 |
 | 7 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
 | 8 | Brentford | 18 | 8 | 2 | 8 | 2 | 26 |
