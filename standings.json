@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 07:37 PM UTC",
-        "IST": "Sunday, 28 December 2025, 01:07 AM IST"
+        "UTC": "Saturday, 27 December 2025, 08:23 PM UTC",
+        "IST": "Sunday, 28 December 2025, 01:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -634,12 +634,12 @@
             {
                 "Position": "5",
                 "Team": "Juventus",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "8",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "3",
                 "Goal Difference": "6",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "6",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Pisa",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "1",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "-10",
-                "Points": "11"
+                "Points": "12"
             },
             {
                 "Position": "20",
