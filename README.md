@@ -41,32 +41,32 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 December 2025, 02:42 PM UTC (Saturday, 27 December 2025, 08:12 PM IST)
+**Last Updated:** Saturday, 27 December 2025, 03:19 PM UTC (Saturday, 27 December 2025, 08:49 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Manchester City | 18 | 13 | 1 | 4 | 26 | 40 |
-| 2 | Arsenal | 17 | 12 | 3 | 2 | 21 | 39 |
+| 1 | Arsenal | 18 | 13 | 3 | 2 | 22 | 42 |
+| 2 | Manchester City | 18 | 13 | 1 | 4 | 26 | 40 |
 | 3 | Aston Villa | 17 | 11 | 3 | 3 | 9 | 36 |
-| 4 | Chelsea | 17 | 8 | 5 | 4 | 12 | 29 |
-| 5 | Manchester United | 18 | 8 | 5 | 5 | 4 | 29 |
-| 6 | Liverpool FC | 17 | 9 | 2 | 6 | 3 | 29 |
+| 4 | Liverpool FC | 18 | 9 | 3 | 6 | 3 | 30 |
+| 5 | Chelsea | 17 | 8 | 5 | 4 | 12 | 29 |
+| 6 | Manchester United | 18 | 8 | 5 | 5 | 4 | 29 |
 | 7 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
 | 8 | Crystal Palace | 17 | 7 | 5 | 5 | 2 | 26 |
-| 9 | Brighton & Hove Albion | 17 | 6 | 6 | 5 | 2 | 24 |
-| 10 | Everton | 17 | 7 | 3 | 7 | -2 | 24 |
-| 11 | Newcastle United | 18 | 6 | 5 | 7 | 0 | 23 |
-| 12 | Brentford | 17 | 7 | 2 | 8 | -1 | 23 |
-| 13 | Fulham | 17 | 7 | 2 | 8 | -2 | 23 |
+| 9 | Brentford | 18 | 8 | 2 | 8 | 0 | 26 |
+| 10 | Everton | 18 | 7 | 4 | 7 | -2 | 25 |
+| 11 | Brighton & Hove Albion | 18 | 6 | 6 | 6 | 1 | 24 |
+| 12 | Fulham | 18 | 7 | 3 | 8 | -2 | 24 |
+| 13 | Newcastle United | 18 | 6 | 5 | 7 | 0 | 23 |
 | 14 | Tottenham Hotspur | 17 | 6 | 4 | 7 | 3 | 22 |
-| 15 | AFC Bournemouth | 17 | 5 | 7 | 5 | -3 | 22 |
+| 15 | AFC Bournemouth | 18 | 5 | 7 | 6 | -4 | 22 |
 | 16 | Leeds United | 17 | 5 | 4 | 8 | -7 | 19 |
 | 17 | Nottingham Forest | 18 | 5 | 3 | 10 | -10 | 18 |
-| 18 | West Ham United | 17 | 3 | 4 | 10 | -16 | 13 |
-| 19 | Burnley | 17 | 3 | 2 | 12 | -15 | 11 |
-| 20 | Wolverhampton Wanderers | 17 | 0 | 2 | 15 | -28 | 2 |
+| 18 | West Ham United | 18 | 3 | 5 | 10 | -16 | 14 |
+| 19 | Burnley | 18 | 3 | 3 | 12 | -15 | 12 |
+| 20 | Wolverhampton Wanderers | 18 | 0 | 3 | 15 | -28 | 3 |
 
 ### La Liga
 
@@ -128,14 +128,14 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Como | 16 | 7 | 6 | 3 | 8 | 27 |
 | 7 | Bologna | 15 | 7 | 4 | 4 | 10 | 25 |
 | 8 | Lazio | 16 | 6 | 5 | 5 | 6 | 23 |
-| 9 | Torino | 17 | 6 | 5 | 6 | -9 | 23 |
-| 10 | Atalanta | 16 | 5 | 7 | 4 | 2 | 22 |
-| 11 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
-| 12 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
-| 13 | Udinese | 16 | 6 | 3 | 7 | -10 | 21 |
+| 9 | Atalanta | 16 | 5 | 7 | 4 | 2 | 22 |
+| 10 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
+| 11 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
+| 12 | Udinese | 16 | 6 | 3 | 7 | -10 | 21 |
+| 13 | Torino | 17 | 5 | 6 | 6 | -10 | 21 |
 | 14 | Parma | 16 | 4 | 5 | 7 | -7 | 17 |
 | 15 | Lecce | 16 | 4 | 4 | 8 | -9 | 16 |
-| 16 | Cagliari | 17 | 3 | 6 | 8 | -7 | 15 |
+| 16 | Cagliari | 17 | 3 | 7 | 7 | -6 | 16 |
 | 17 | Genoa | 16 | 3 | 5 | 8 | -8 | 14 |
 | 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
 | 19 | Pisa | 16 | 1 | 8 | 7 | -10 | 11 |
