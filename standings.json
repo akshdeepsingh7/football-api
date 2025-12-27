@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 11:17 AM UTC",
-        "IST": "Saturday, 27 December 2025, 04:47 PM IST"
+        "UTC": "Saturday, 27 December 2025, 11:38 AM UTC",
+        "IST": "Saturday, 27 December 2025, 05:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -744,12 +744,12 @@
             {
                 "Position": "16",
                 "Team": "Parma",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "3",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "7",
                 "Goal Difference": "-8",
-                "Points": "14"
+                "Points": "15"
             },
             {
                 "Position": "17",
@@ -784,12 +784,12 @@
             {
                 "Position": "20",
                 "Team": "Fiorentina",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "1",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "-10",
-                "Points": "9"
+                "Points": "10"
             }
         ],
         "Ligue 1": [
