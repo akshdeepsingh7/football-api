@@ -41,14 +41,14 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 December 2025, 11:38 AM UTC (Saturday, 27 December 2025, 05:08 PM IST)
+**Last Updated:** Saturday, 27 December 2025, 12:41 PM UTC (Saturday, 27 December 2025, 06:11 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 17 | 12 | 3 | 2 | 21 | 39 |
-| 2 | Manchester City | 17 | 12 | 1 | 4 | 25 | 37 |
+| 2 | Manchester City | 18 | 12 | 2 | 4 | 25 | 38 |
 | 3 | Aston Villa | 17 | 11 | 3 | 3 | 9 | 36 |
 | 4 | Chelsea | 17 | 8 | 5 | 4 | 12 | 29 |
 | 5 | Manchester United | 18 | 8 | 5 | 5 | 4 | 29 |
@@ -63,7 +63,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Tottenham Hotspur | 17 | 6 | 4 | 7 | 3 | 22 |
 | 15 | AFC Bournemouth | 17 | 5 | 7 | 5 | -3 | 22 |
 | 16 | Leeds United | 17 | 5 | 4 | 8 | -7 | 19 |
-| 17 | Nottingham Forest | 17 | 5 | 3 | 9 | -9 | 18 |
+| 17 | Nottingham Forest | 18 | 5 | 4 | 9 | -9 | 19 |
 | 18 | West Ham United | 17 | 3 | 4 | 10 | -16 | 13 |
 | 19 | Burnley | 17 | 3 | 2 | 12 | -15 | 11 |
 | 20 | Wolverhampton Wanderers | 17 | 0 | 2 | 15 | -28 | 2 |
@@ -133,13 +133,13 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
 | 12 | Udinese | 16 | 6 | 3 | 7 | -10 | 21 |
 | 13 | Torino | 16 | 5 | 5 | 6 | -10 | 20 |
-| 14 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
-| 15 | Cagliari | 16 | 3 | 6 | 7 | -6 | 15 |
-| 16 | Parma | 16 | 3 | 6 | 7 | -8 | 15 |
+| 14 | Parma | 16 | 4 | 5 | 7 | -7 | 17 |
+| 15 | Lecce | 15 | 4 | 4 | 7 | -8 | 16 |
+| 16 | Cagliari | 16 | 3 | 6 | 7 | -6 | 15 |
 | 17 | Genoa | 16 | 3 | 5 | 8 | -8 | 14 |
 | 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
 | 19 | Pisa | 16 | 1 | 8 | 7 | -10 | 11 |
-| 20 | Fiorentina | 17 | 1 | 7 | 9 | -10 | 10 |
+| 20 | Fiorentina | 17 | 1 | 6 | 10 | -11 | 9 |
 
 ### Ligue 1
 

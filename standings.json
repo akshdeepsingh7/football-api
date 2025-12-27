@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 11:38 AM UTC",
-        "IST": "Saturday, 27 December 2025, 05:08 PM IST"
+        "UTC": "Saturday, 27 December 2025, 12:41 PM UTC",
+        "IST": "Saturday, 27 December 2025, 06:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -18,12 +18,12 @@
             {
                 "Position": "2",
                 "Team": "Manchester City",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "12",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "25",
-                "Points": "37"
+                "Points": "38"
             },
             {
                 "Position": "3",
@@ -168,12 +168,12 @@
             {
                 "Position": "17",
                 "Team": "Nottingham Forest",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "5",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "9",
                 "Goal Difference": "-9",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "18",
@@ -723,6 +723,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Parma",
+                "Played": "16",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "-7",
+                "Points": "17"
+            },
+            {
+                "Position": "15",
                 "Team": "Lecce",
                 "Played": "15",
                 "Wins": "4",
@@ -732,23 +742,13 @@
                 "Points": "16"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Cagliari",
                 "Played": "16",
                 "Wins": "3",
                 "Draws": "6",
                 "Losses": "7",
                 "Goal Difference": "-6",
-                "Points": "15"
-            },
-            {
-                "Position": "16",
-                "Team": "Parma",
-                "Played": "16",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-8",
                 "Points": "15"
             },
             {
@@ -786,10 +786,10 @@
                 "Team": "Fiorentina",
                 "Played": "17",
                 "Wins": "1",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-10",
-                "Points": "10"
+                "Draws": "6",
+                "Losses": "10",
+                "Goal Difference": "-11",
+                "Points": "9"
             }
         ],
         "Ligue 1": [
