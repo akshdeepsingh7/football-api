@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 December 2025, 02:19 PM UTC (Saturday, 27 December 2025, 07:49 PM IST)
+**Last Updated:** Saturday, 27 December 2025, 02:42 PM UTC (Saturday, 27 December 2025, 08:12 PM IST)
 
 ### Premier League
 
@@ -125,17 +125,17 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Napoli | 15 | 10 | 1 | 4 | 9 | 31 |
 | 4 | Roma | 16 | 10 | 0 | 6 | 7 | 30 |
 | 5 | Juventus | 16 | 8 | 5 | 3 | 6 | 29 |
-| 6 | Bologna | 15 | 7 | 4 | 4 | 10 | 25 |
-| 7 | Como | 16 | 6 | 7 | 3 | 7 | 25 |
+| 6 | Como | 16 | 7 | 6 | 3 | 8 | 27 |
+| 7 | Bologna | 15 | 7 | 4 | 4 | 10 | 25 |
 | 8 | Lazio | 16 | 6 | 5 | 5 | 6 | 23 |
-| 9 | Atalanta | 16 | 5 | 7 | 4 | 2 | 22 |
-| 10 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
-| 11 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
-| 12 | Udinese | 16 | 6 | 3 | 7 | -10 | 21 |
-| 13 | Torino | 17 | 5 | 6 | 6 | -10 | 21 |
+| 9 | Torino | 17 | 6 | 5 | 6 | -9 | 23 |
+| 10 | Atalanta | 16 | 5 | 7 | 4 | 2 | 22 |
+| 11 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
+| 12 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
+| 13 | Udinese | 16 | 6 | 3 | 7 | -10 | 21 |
 | 14 | Parma | 16 | 4 | 5 | 7 | -7 | 17 |
-| 15 | Lecce | 16 | 4 | 5 | 7 | -8 | 17 |
-| 16 | Cagliari | 17 | 3 | 7 | 7 | -6 | 16 |
+| 15 | Lecce | 16 | 4 | 4 | 8 | -9 | 16 |
+| 16 | Cagliari | 17 | 3 | 6 | 8 | -7 | 15 |
 | 17 | Genoa | 16 | 3 | 5 | 8 | -8 | 14 |
 | 18 | Hellas Verona | 15 | 2 | 6 | 7 | -9 | 12 |
 | 19 | Pisa | 16 | 1 | 8 | 7 | -10 | 11 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 02:19 PM UTC",
-        "IST": "Saturday, 27 December 2025, 07:49 PM IST"
+        "UTC": "Saturday, 27 December 2025, 02:42 PM UTC",
+        "IST": "Saturday, 27 December 2025, 08:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -643,22 +643,22 @@
             },
             {
                 "Position": "6",
+                "Team": "Como",
+                "Played": "16",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "8",
+                "Points": "27"
+            },
+            {
+                "Position": "7",
                 "Team": "Bologna",
                 "Played": "15",
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "10",
-                "Points": "25"
-            },
-            {
-                "Position": "7",
-                "Team": "Como",
-                "Played": "16",
-                "Wins": "6",
-                "Draws": "7",
-                "Losses": "3",
-                "Goal Difference": "7",
                 "Points": "25"
             },
             {
@@ -673,6 +673,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Torino",
+                "Played": "17",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-9",
+                "Points": "23"
+            },
+            {
+                "Position": "10",
                 "Team": "Atalanta",
                 "Played": "16",
                 "Wins": "5",
@@ -682,7 +692,7 @@
                 "Points": "22"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Sassuolo",
                 "Played": "16",
                 "Wins": "6",
@@ -692,7 +702,7 @@
                 "Points": "21"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Cremonese",
                 "Played": "16",
                 "Wins": "5",
@@ -702,22 +712,12 @@
                 "Points": "21"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Udinese",
                 "Played": "16",
                 "Wins": "6",
                 "Draws": "3",
                 "Losses": "7",
-                "Goal Difference": "-10",
-                "Points": "21"
-            },
-            {
-                "Position": "13",
-                "Team": "Torino",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "6",
                 "Goal Difference": "-10",
                 "Points": "21"
             },
@@ -736,20 +736,20 @@
                 "Team": "Lecce",
                 "Played": "16",
                 "Wins": "4",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-8",
-                "Points": "17"
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-9",
+                "Points": "16"
             },
             {
                 "Position": "16",
                 "Team": "Cagliari",
                 "Played": "17",
                 "Wins": "3",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-6",
-                "Points": "16"
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "-7",
+                "Points": "15"
             },
             {
                 "Position": "17",
