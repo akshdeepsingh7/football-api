@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 27 December 2025, 04:47 PM UTC (Saturday, 27 December 2025, 10:17 PM IST)
+**Last Updated:** Saturday, 27 December 2025, 05:17 PM UTC (Saturday, 27 December 2025, 10:47 PM IST)
 
 ### Premier League
 
@@ -54,14 +54,14 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Chelsea | 17 | 8 | 5 | 4 | 12 | 29 |
 | 6 | Manchester United | 18 | 8 | 5 | 5 | 4 | 29 |
 | 7 | Sunderland | 17 | 7 | 6 | 4 | 2 | 27 |
-| 8 | Crystal Palace | 17 | 7 | 5 | 5 | 2 | 26 |
-| 9 | Brentford | 18 | 8 | 2 | 8 | 1 | 26 |
+| 8 | Brentford | 18 | 8 | 2 | 8 | 2 | 26 |
+| 9 | Crystal Palace | 17 | 7 | 5 | 5 | 2 | 26 |
 | 10 | Fulham | 18 | 8 | 2 | 8 | -1 | 26 |
 | 11 | Everton | 18 | 7 | 4 | 7 | -2 | 25 |
 | 12 | Brighton & Hove Albion | 18 | 6 | 6 | 6 | 1 | 24 |
 | 13 | Newcastle United | 18 | 6 | 5 | 7 | 0 | 23 |
 | 14 | Tottenham Hotspur | 17 | 6 | 4 | 7 | 3 | 22 |
-| 15 | AFC Bournemouth | 18 | 5 | 7 | 6 | -5 | 22 |
+| 15 | AFC Bournemouth | 18 | 5 | 7 | 6 | -6 | 22 |
 | 16 | Leeds United | 17 | 5 | 4 | 8 | -7 | 19 |
 | 17 | Nottingham Forest | 18 | 5 | 3 | 10 | -10 | 18 |
 | 18 | West Ham United | 18 | 3 | 4 | 11 | -17 | 13 |
@@ -127,11 +127,11 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Juventus | 16 | 8 | 5 | 3 | 6 | 29 |
 | 6 | Como | 16 | 7 | 6 | 3 | 10 | 27 |
 | 7 | Bologna | 15 | 7 | 4 | 4 | 10 | 25 |
-| 8 | Lazio | 16 | 6 | 5 | 5 | 6 | 23 |
+| 8 | Lazio | 17 | 6 | 6 | 5 | 6 | 24 |
 | 9 | Atalanta | 16 | 5 | 7 | 4 | 2 | 22 |
-| 10 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
-| 11 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
-| 12 | Udinese | 16 | 6 | 3 | 7 | -10 | 21 |
+| 10 | Udinese | 17 | 6 | 4 | 7 | -10 | 22 |
+| 11 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
+| 12 | Cremonese | 16 | 5 | 6 | 5 | 0 | 21 |
 | 13 | Torino | 17 | 5 | 5 | 7 | -11 | 20 |
 | 14 | Cagliari | 17 | 4 | 6 | 7 | -5 | 18 |
 | 15 | Parma | 16 | 4 | 5 | 7 | -7 | 17 |

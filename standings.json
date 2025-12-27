@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 27 December 2025, 04:47 PM UTC",
-        "IST": "Saturday, 27 December 2025, 10:17 PM IST"
+        "UTC": "Saturday, 27 December 2025, 05:17 PM UTC",
+        "IST": "Saturday, 27 December 2025, 10:47 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -77,22 +77,22 @@
             },
             {
                 "Position": "8",
+                "Team": "Brentford",
+                "Played": "18",
+                "Wins": "8",
+                "Draws": "2",
+                "Losses": "8",
+                "Goal Difference": "2",
+                "Points": "26"
+            },
+            {
+                "Position": "9",
                 "Team": "Crystal Palace",
                 "Played": "17",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "5",
                 "Goal Difference": "2",
-                "Points": "26"
-            },
-            {
-                "Position": "9",
-                "Team": "Brentford",
-                "Played": "18",
-                "Wins": "8",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "1",
                 "Points": "26"
             },
             {
@@ -152,7 +152,7 @@
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "22"
             },
             {
@@ -664,12 +664,12 @@
             {
                 "Position": "8",
                 "Team": "Lazio",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "6",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "5",
                 "Goal Difference": "6",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "9",
@@ -683,6 +683,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Udinese",
+                "Played": "17",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "-10",
+                "Points": "22"
+            },
+            {
+                "Position": "11",
                 "Team": "Sassuolo",
                 "Played": "16",
                 "Wins": "6",
@@ -692,23 +702,13 @@
                 "Points": "21"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Cremonese",
                 "Played": "16",
                 "Wins": "5",
                 "Draws": "6",
                 "Losses": "5",
                 "Goal Difference": "0",
-                "Points": "21"
-            },
-            {
-                "Position": "12",
-                "Team": "Udinese",
-                "Played": "16",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "-10",
                 "Points": "21"
             },
             {
