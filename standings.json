@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 December 2025, 11:38 AM UTC",
-        "IST": "Sunday, 28 December 2025, 05:08 PM IST"
+        "UTC": "Sunday, 28 December 2025, 12:41 PM UTC",
+        "IST": "Sunday, 28 December 2025, 06:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -593,22 +593,22 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Milan",
+                "Played": "16",
+                "Wins": "10",
+                "Draws": "5",
+                "Losses": "1",
+                "Goal Difference": "12",
+                "Points": "35"
+            },
+            {
+                "Position": "2",
                 "Team": "Inter",
                 "Played": "15",
                 "Wins": "11",
                 "Draws": "0",
                 "Losses": "4",
                 "Goal Difference": "20",
-                "Points": "33"
-            },
-            {
-                "Position": "2",
-                "Team": "Milan",
-                "Played": "16",
-                "Wins": "9",
-                "Draws": "6",
-                "Losses": "1",
-                "Goal Difference": "11",
                 "Points": "33"
             },
             {
@@ -766,10 +766,10 @@
                 "Team": "Hellas Verona",
                 "Played": "16",
                 "Wins": "2",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-9",
-                "Points": "13"
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "-10",
+                "Points": "12"
             },
             {
                 "Position": "19",
