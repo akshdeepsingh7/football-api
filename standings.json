@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 December 2025, 02:20 PM UTC",
-        "IST": "Sunday, 28 December 2025, 07:50 PM IST"
+        "UTC": "Sunday, 28 December 2025, 02:43 PM UTC",
+        "IST": "Sunday, 28 December 2025, 08:13 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -47,6 +47,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Sunderland",
+                "Played": "18",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "3",
+                "Points": "30"
+            },
+            {
+                "Position": "6",
                 "Team": "Chelsea",
                 "Played": "18",
                 "Wins": "8",
@@ -56,7 +66,7 @@
                 "Points": "29"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Manchester United",
                 "Played": "18",
                 "Wins": "8",
@@ -64,16 +74,6 @@
                 "Losses": "5",
                 "Goal Difference": "4",
                 "Points": "29"
-            },
-            {
-                "Position": "7",
-                "Team": "Sunderland",
-                "Played": "18",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "4",
-                "Goal Difference": "2",
-                "Points": "28"
             },
             {
                 "Position": "8",
@@ -160,10 +160,10 @@
                 "Team": "Leeds United",
                 "Played": "18",
                 "Wins": "5",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "-7",
-                "Points": "20"
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "-8",
+                "Points": "19"
             },
             {
                 "Position": "17",
