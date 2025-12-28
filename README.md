@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 December 2025, 12:41 PM UTC (Sunday, 28 December 2025, 06:11 PM IST)
+**Last Updated:** Sunday, 28 December 2025, 01:29 PM UTC (Sunday, 28 December 2025, 06:59 PM IST)
 
 ### Premier League
 
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Milan | 16 | 10 | 5 | 1 | 12 | 35 |
+| 1 | Milan | 16 | 10 | 5 | 1 | 14 | 35 |
 | 2 | Inter | 15 | 11 | 0 | 4 | 20 | 33 |
 | 3 | Juventus | 17 | 9 | 5 | 3 | 8 | 32 |
 | 4 | Napoli | 15 | 10 | 1 | 4 | 9 | 31 |
@@ -137,7 +137,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Parma | 16 | 4 | 5 | 7 | -7 | 17 |
 | 16 | Lecce | 16 | 4 | 4 | 8 | -11 | 16 |
 | 17 | Genoa | 16 | 3 | 5 | 8 | -8 | 14 |
-| 18 | Hellas Verona | 16 | 2 | 6 | 8 | -10 | 12 |
+| 18 | Hellas Verona | 16 | 2 | 6 | 8 | -12 | 12 |
 | 19 | Pisa | 17 | 1 | 8 | 8 | -12 | 11 |
 | 20 | Fiorentina | 17 | 1 | 6 | 10 | -11 | 9 |
 
