@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 December 2025, 02:43 PM UTC (Sunday, 28 December 2025, 08:13 PM IST)
+**Last Updated:** Sunday, 28 December 2025, 03:20 PM UTC (Sunday, 28 December 2025, 08:50 PM IST)
 
 ### Premier League
 
@@ -51,9 +51,9 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 18 | 13 | 1 | 4 | 26 | 40 |
 | 3 | Aston Villa | 18 | 12 | 3 | 3 | 10 | 39 |
 | 4 | Liverpool FC | 18 | 10 | 2 | 6 | 4 | 32 |
-| 5 | Sunderland | 18 | 8 | 6 | 4 | 3 | 30 |
-| 6 | Chelsea | 18 | 8 | 5 | 5 | 11 | 29 |
-| 7 | Manchester United | 18 | 8 | 5 | 5 | 4 | 29 |
+| 5 | Chelsea | 18 | 8 | 5 | 5 | 11 | 29 |
+| 6 | Manchester United | 18 | 8 | 5 | 5 | 4 | 29 |
+| 7 | Sunderland | 18 | 7 | 7 | 4 | 2 | 28 |
 | 8 | Brentford | 18 | 8 | 2 | 8 | 2 | 26 |
 | 9 | Crystal Palace | 17 | 7 | 5 | 5 | 2 | 26 |
 | 10 | Fulham | 18 | 8 | 2 | 8 | -1 | 26 |
@@ -62,7 +62,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Newcastle United | 18 | 6 | 5 | 7 | 0 | 23 |
 | 14 | Tottenham Hotspur | 17 | 6 | 4 | 7 | 3 | 22 |
 | 15 | AFC Bournemouth | 18 | 5 | 7 | 6 | -6 | 22 |
-| 16 | Leeds United | 18 | 5 | 4 | 9 | -8 | 19 |
+| 16 | Leeds United | 18 | 5 | 5 | 8 | -7 | 20 |
 | 17 | Nottingham Forest | 18 | 5 | 3 | 10 | -10 | 18 |
 | 18 | West Ham United | 18 | 3 | 4 | 11 | -17 | 13 |
 | 19 | Burnley | 18 | 3 | 3 | 12 | -15 | 12 |
@@ -121,7 +121,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Milan | 16 | 10 | 5 | 1 | 14 | 35 |
-| 2 | Napoli | 16 | 11 | 1 | 4 | 10 | 34 |
+| 2 | Napoli | 16 | 11 | 1 | 4 | 11 | 34 |
 | 3 | Inter | 15 | 11 | 0 | 4 | 20 | 33 |
 | 4 | Juventus | 17 | 9 | 5 | 3 | 8 | 32 |
 | 5 | Roma | 16 | 10 | 0 | 6 | 7 | 30 |
@@ -131,7 +131,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Atalanta | 16 | 5 | 7 | 4 | 2 | 22 |
 | 10 | Udinese | 17 | 6 | 4 | 7 | -10 | 22 |
 | 11 | Sassuolo | 16 | 6 | 3 | 7 | 1 | 21 |
-| 12 | Cremonese | 17 | 5 | 6 | 6 | -1 | 21 |
+| 12 | Cremonese | 17 | 5 | 6 | 6 | -2 | 21 |
 | 13 | Torino | 17 | 5 | 5 | 7 | -11 | 20 |
 | 14 | Cagliari | 17 | 4 | 6 | 7 | -5 | 18 |
 | 15 | Parma | 16 | 4 | 5 | 7 | -7 | 17 |
