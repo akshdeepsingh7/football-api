@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 December 2025, 08:44 PM UTC",
-        "IST": "Monday, 29 December 2025, 02:14 AM IST"
+        "UTC": "Sunday, 28 December 2025, 09:19 PM UTC",
+        "IST": "Monday, 29 December 2025, 02:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -593,6 +593,16 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Inter",
+                "Played": "16",
+                "Wins": "12",
+                "Draws": "0",
+                "Losses": "4",
+                "Goal Difference": "21",
+                "Points": "36"
+            },
+            {
+                "Position": "2",
                 "Team": "Milan",
                 "Played": "16",
                 "Wins": "10",
@@ -600,16 +610,6 @@
                 "Losses": "1",
                 "Goal Difference": "14",
                 "Points": "35"
-            },
-            {
-                "Position": "2",
-                "Team": "Inter",
-                "Played": "16",
-                "Wins": "11",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "20",
-                "Points": "34"
             },
             {
                 "Position": "3",
@@ -673,21 +673,21 @@
             },
             {
                 "Position": "9",
-                "Team": "Atalanta",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "8",
-                "Losses": "4",
-                "Goal Difference": "2",
-                "Points": "23"
-            },
-            {
-                "Position": "10",
                 "Team": "Sassuolo",
                 "Played": "17",
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "7",
+                "Goal Difference": "1",
+                "Points": "22"
+            },
+            {
+                "Position": "10",
+                "Team": "Atalanta",
+                "Played": "17",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "5",
                 "Goal Difference": "1",
                 "Points": "22"
             },
@@ -2075,11 +2075,11 @@
                 "Position": "2",
                 "Team": "Sporting CP",
                 "Played": "16",
-                "Wins": "12",
-                "Draws": "3",
+                "Wins": "13",
+                "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "34",
-                "Points": "39"
+                "Goal Difference": "35",
+                "Points": "41"
             },
             {
                 "Position": "3",
@@ -2153,16 +2153,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Rio Ave",
-                "Played": "16",
-                "Wins": "3",
-                "Draws": "9",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "18"
-            },
-            {
-                "Position": "11",
                 "Team": "Estrela Amadora",
                 "Played": "16",
                 "Wins": "4",
@@ -2170,6 +2160,16 @@
                 "Losses": "6",
                 "Goal Difference": "-4",
                 "Points": "18"
+            },
+            {
+                "Position": "11",
+                "Team": "Rio Ave",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "8",
+                "Losses": "5",
+                "Goal Difference": "-6",
+                "Points": "17"
             },
             {
                 "Position": "12",

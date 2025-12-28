@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 December 2025, 08:44 PM UTC (Monday, 29 December 2025, 02:14 AM IST)
+**Last Updated:** Sunday, 28 December 2025, 09:19 PM UTC (Monday, 29 December 2025, 02:49 AM IST)
 
 ### Premier League
 
@@ -120,16 +120,16 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Milan | 16 | 10 | 5 | 1 | 14 | 35 |
-| 2 | Inter | 16 | 11 | 1 | 4 | 20 | 34 |
+| 1 | Inter | 16 | 12 | 0 | 4 | 21 | 36 |
+| 2 | Milan | 16 | 10 | 5 | 1 | 14 | 35 |
 | 3 | Napoli | 16 | 11 | 1 | 4 | 11 | 34 |
 | 4 | Juventus | 17 | 9 | 5 | 3 | 8 | 32 |
 | 5 | Roma | 16 | 10 | 0 | 6 | 7 | 30 |
 | 6 | Como | 16 | 7 | 6 | 3 | 10 | 27 |
 | 7 | Bologna | 16 | 7 | 5 | 4 | 10 | 26 |
 | 8 | Lazio | 17 | 6 | 6 | 5 | 6 | 24 |
-| 9 | Atalanta | 17 | 5 | 8 | 4 | 2 | 23 |
-| 10 | Sassuolo | 17 | 6 | 4 | 7 | 1 | 22 |
+| 9 | Sassuolo | 17 | 6 | 4 | 7 | 1 | 22 |
+| 10 | Atalanta | 17 | 5 | 7 | 5 | 1 | 22 |
 | 11 | Udinese | 17 | 6 | 4 | 7 | -10 | 22 |
 | 12 | Cremonese | 17 | 5 | 6 | 6 | -2 | 21 |
 | 13 | Torino | 17 | 5 | 5 | 7 | -11 | 20 |
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 15 | 14 | 1 | 0 | 29 | 43 |
-| 2 | Sporting CP | 16 | 12 | 3 | 1 | 34 | 39 |
+| 2 | Sporting CP | 16 | 13 | 2 | 1 | 35 | 41 |
 | 3 | Benfica | 16 | 10 | 6 | 0 | 23 | 36 |
 | 4 | Gil Vicente | 16 | 7 | 6 | 3 | 10 | 27 |
 | 5 | Braga | 16 | 7 | 5 | 4 | 13 | 26 |
@@ -300,8 +300,8 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Vitória S.C. | 16 | 6 | 4 | 6 | -5 | 22 |
 | 8 | Moreirense | 15 | 6 | 3 | 6 | -3 | 21 |
 | 9 | Estoril | 16 | 5 | 5 | 6 | 1 | 20 |
-| 10 | Rio Ave | 16 | 3 | 9 | 4 | -5 | 18 |
-| 11 | Estrela Amadora | 16 | 4 | 6 | 6 | -4 | 18 |
+| 10 | Estrela Amadora | 16 | 4 | 6 | 6 | -4 | 18 |
+| 11 | Rio Ave | 16 | 3 | 8 | 5 | -6 | 17 |
 | 12 | Alverca | 16 | 5 | 2 | 9 | -11 | 17 |
 | 13 | Nacional | 15 | 4 | 4 | 7 | -4 | 16 |
 | 14 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
