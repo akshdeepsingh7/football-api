@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 December 2025, 08:24 PM UTC",
-        "IST": "Monday, 29 December 2025, 01:54 AM IST"
+        "UTC": "Sunday, 28 December 2025, 08:44 PM UTC",
+        "IST": "Monday, 29 December 2025, 02:14 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2074,12 +2074,12 @@
             {
                 "Position": "2",
                 "Team": "Sporting CP",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "12",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "34",
-                "Points": "38"
+                "Points": "39"
             },
             {
                 "Position": "3",
@@ -2153,6 +2153,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Rio Ave",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "9",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "18"
+            },
+            {
+                "Position": "11",
                 "Team": "Estrela Amadora",
                 "Played": "16",
                 "Wins": "4",
@@ -2160,16 +2170,6 @@
                 "Losses": "6",
                 "Goal Difference": "-4",
                 "Points": "18"
-            },
-            {
-                "Position": "11",
-                "Team": "Rio Ave",
-                "Played": "15",
-                "Wins": "3",
-                "Draws": "8",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "17"
             },
             {
                 "Position": "12",
