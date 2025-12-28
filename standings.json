@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 December 2025, 04:26 PM UTC",
-        "IST": "Sunday, 28 December 2025, 09:56 PM IST"
+        "UTC": "Sunday, 28 December 2025, 04:48 PM UTC",
+        "IST": "Sunday, 28 December 2025, 10:18 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -88,11 +88,11 @@
             {
                 "Position": "9",
                 "Team": "Crystal Palace",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "7",
                 "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "2",
+                "Losses": "6",
+                "Goal Difference": "1",
                 "Points": "26"
             },
             {
@@ -107,6 +107,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Tottenham Hotspur",
+                "Played": "18",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "4",
+                "Points": "25"
+            },
+            {
+                "Position": "12",
                 "Team": "Everton",
                 "Played": "18",
                 "Wins": "7",
@@ -116,7 +126,7 @@
                 "Points": "25"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Brighton & Hove Albion",
                 "Played": "18",
                 "Wins": "6",
@@ -126,7 +136,7 @@
                 "Points": "24"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Newcastle United",
                 "Played": "18",
                 "Wins": "6",
@@ -134,16 +144,6 @@
                 "Losses": "7",
                 "Goal Difference": "0",
                 "Points": "23"
-            },
-            {
-                "Position": "14",
-                "Team": "Tottenham Hotspur",
-                "Played": "17",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "3",
-                "Points": "22"
             },
             {
                 "Position": "15",
@@ -2096,10 +2096,10 @@
                 "Team": "Gil Vicente",
                 "Played": "16",
                 "Wins": "7",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "9",
-                "Points": "26"
+                "Draws": "6",
+                "Losses": "3",
+                "Goal Difference": "10",
+                "Points": "27"
             },
             {
                 "Position": "5",
@@ -2183,12 +2183,12 @@
             },
             {
                 "Position": "13",
-                "Team": "Arouca",
-                "Played": "16",
+                "Team": "Nacional",
+                "Played": "15",
                 "Wins": "4",
                 "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "-21",
+                "Losses": "7",
+                "Goal Difference": "-4",
                 "Points": "16"
             },
             {
@@ -2203,22 +2203,22 @@
             },
             {
                 "Position": "15",
-                "Team": "Nacional",
-                "Played": "15",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-4",
-                "Points": "16"
-            },
-            {
-                "Position": "16",
                 "Team": "Casa Pia",
                 "Played": "16",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "-13",
+                "Points": "14"
+            },
+            {
+                "Position": "16",
+                "Team": "Arouca",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "-22",
                 "Points": "14"
             },
             {

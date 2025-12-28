@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 28 December 2025, 04:26 PM UTC (Sunday, 28 December 2025, 09:56 PM IST)
+**Last Updated:** Sunday, 28 December 2025, 04:48 PM UTC (Sunday, 28 December 2025, 10:18 PM IST)
 
 ### Premier League
 
@@ -55,12 +55,12 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Manchester United | 18 | 8 | 5 | 5 | 4 | 29 |
 | 7 | Sunderland | 18 | 7 | 7 | 4 | 2 | 28 |
 | 8 | Brentford | 18 | 8 | 2 | 8 | 2 | 26 |
-| 9 | Crystal Palace | 17 | 7 | 5 | 5 | 2 | 26 |
+| 9 | Crystal Palace | 18 | 7 | 5 | 6 | 1 | 26 |
 | 10 | Fulham | 18 | 8 | 2 | 8 | -1 | 26 |
-| 11 | Everton | 18 | 7 | 4 | 7 | -2 | 25 |
-| 12 | Brighton & Hove Albion | 18 | 6 | 6 | 6 | 1 | 24 |
-| 13 | Newcastle United | 18 | 6 | 5 | 7 | 0 | 23 |
-| 14 | Tottenham Hotspur | 17 | 6 | 4 | 7 | 3 | 22 |
+| 11 | Tottenham Hotspur | 18 | 7 | 4 | 7 | 4 | 25 |
+| 12 | Everton | 18 | 7 | 4 | 7 | -2 | 25 |
+| 13 | Brighton & Hove Albion | 18 | 6 | 6 | 6 | 1 | 24 |
+| 14 | Newcastle United | 18 | 6 | 5 | 7 | 0 | 23 |
 | 15 | AFC Bournemouth | 18 | 5 | 7 | 6 | -6 | 22 |
 | 16 | Leeds United | 18 | 5 | 5 | 8 | -7 | 20 |
 | 17 | Nottingham Forest | 18 | 5 | 3 | 10 | -10 | 18 |
@@ -294,7 +294,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 15 | 14 | 1 | 0 | 29 | 43 |
 | 2 | Sporting CP | 15 | 12 | 2 | 1 | 34 | 38 |
 | 3 | Benfica | 15 | 10 | 5 | 0 | 23 | 35 |
-| 4 | Gil Vicente | 16 | 7 | 5 | 4 | 9 | 26 |
+| 4 | Gil Vicente | 16 | 7 | 6 | 3 | 10 | 27 |
 | 5 | Braga | 15 | 7 | 4 | 4 | 13 | 25 |
 | 6 | Famalicão | 16 | 6 | 5 | 5 | 7 | 23 |
 | 7 | Vitória S.C. | 16 | 6 | 4 | 6 | -5 | 22 |
@@ -303,10 +303,10 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Estrela Amadora | 16 | 4 | 6 | 6 | -4 | 18 |
 | 11 | Rio Ave | 15 | 3 | 8 | 4 | -5 | 17 |
 | 12 | Alverca | 16 | 5 | 2 | 9 | -11 | 17 |
-| 13 | Arouca | 16 | 4 | 4 | 8 | -21 | 16 |
+| 13 | Nacional | 15 | 4 | 4 | 7 | -4 | 16 |
 | 14 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
-| 15 | Nacional | 15 | 4 | 4 | 7 | -4 | 16 |
-| 16 | Casa Pia | 16 | 3 | 5 | 8 | -13 | 14 |
+| 15 | Casa Pia | 16 | 3 | 5 | 8 | -13 | 14 |
+| 16 | Arouca | 16 | 3 | 5 | 8 | -22 | 14 |
 | 17 | Tondela | 15 | 2 | 3 | 10 | -18 | 9 |
 | 18 | AVS | 15 | 0 | 4 | 11 | -28 | 4 |
 
