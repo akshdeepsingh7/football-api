@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 December 2025, 04:48 PM UTC",
-        "IST": "Sunday, 28 December 2025, 10:18 PM IST"
+        "UTC": "Sunday, 28 December 2025, 05:18 PM UTC",
+        "IST": "Sunday, 28 December 2025, 10:48 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -654,12 +654,12 @@
             {
                 "Position": "7",
                 "Team": "Bologna",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "7",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "10",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "8",
@@ -683,6 +683,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Sassuolo",
+                "Played": "17",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "1",
+                "Points": "22"
+            },
+            {
+                "Position": "11",
                 "Team": "Udinese",
                 "Played": "17",
                 "Wins": "6",
@@ -690,16 +700,6 @@
                 "Losses": "7",
                 "Goal Difference": "-10",
                 "Points": "22"
-            },
-            {
-                "Position": "11",
-                "Team": "Sassuolo",
-                "Played": "16",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "1",
-                "Points": "21"
             },
             {
                 "Position": "12",
