@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 28 December 2025, 01:48 PM UTC",
-        "IST": "Sunday, 28 December 2025, 07:18 PM IST"
+        "UTC": "Sunday, 28 December 2025, 02:20 PM UTC",
+        "IST": "Sunday, 28 December 2025, 07:50 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -68,12 +68,12 @@
             {
                 "Position": "7",
                 "Team": "Sunderland",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "7",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "4",
                 "Goal Difference": "2",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "8",
@@ -158,12 +158,12 @@
             {
                 "Position": "16",
                 "Team": "Leeds United",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "5",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "-7",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "17",
@@ -603,6 +603,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Napoli",
+                "Played": "16",
+                "Wins": "11",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "10",
+                "Points": "34"
+            },
+            {
+                "Position": "3",
                 "Team": "Inter",
                 "Played": "15",
                 "Wins": "11",
@@ -612,7 +622,7 @@
                 "Points": "33"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Juventus",
                 "Played": "17",
                 "Wins": "9",
@@ -620,16 +630,6 @@
                 "Losses": "3",
                 "Goal Difference": "8",
                 "Points": "32"
-            },
-            {
-                "Position": "4",
-                "Team": "Napoli",
-                "Played": "15",
-                "Wins": "10",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "9",
-                "Points": "31"
             },
             {
                 "Position": "5",
@@ -704,11 +704,11 @@
             {
                 "Position": "12",
                 "Team": "Cremonese",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "5",
                 "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "0",
+                "Losses": "6",
+                "Goal Difference": "-1",
                 "Points": "21"
             },
             {
