@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 December 2025, 08:46 PM UTC (Tuesday, 30 December 2025, 02:16 AM IST)
+**Last Updated:** Monday, 29 December 2025, 09:19 PM UTC (Tuesday, 30 December 2025, 02:49 AM IST)
 
 ### Premier League
 
@@ -318,23 +318,23 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Middlesbrough | 24 | 12 | 7 | 5 | 8 | 43 |
 | 3 | Ipswich Town | 24 | 11 | 8 | 5 | 17 | 41 |
 | 4 | Hull City | 24 | 12 | 5 | 7 | 3 | 41 |
-| 5 | Millwall | 24 | 11 | 6 | 7 | -5 | 39 |
+| 5 | Bristol City | 24 | 10 | 7 | 7 | 7 | 37 |
 | 6 | Preston North End | 24 | 9 | 10 | 5 | 6 | 37 |
-| 7 | Bristol City | 24 | 10 | 6 | 8 | 6 | 36 |
+| 7 | Millwall | 24 | 10 | 7 | 7 | -6 | 37 |
 | 8 | Watford | 24 | 9 | 9 | 6 | 4 | 36 |
-| 9 | Queens Park Rangers | 24 | 10 | 6 | 8 | -2 | 36 |
-| 10 | Stoke City | 24 | 10 | 5 | 9 | 7 | 35 |
+| 9 | Queens Park Rangers | 24 | 10 | 5 | 9 | -3 | 35 |
+| 10 | Stoke City | 24 | 10 | 4 | 10 | 6 | 34 |
 | 11 | Wrexham | 24 | 8 | 10 | 6 | 3 | 34 |
 | 12 | Leicester City | 24 | 9 | 7 | 8 | 0 | 34 |
 | 13 | Southampton | 24 | 8 | 8 | 8 | 4 | 32 |
 | 14 | Derby County | 24 | 8 | 8 | 8 | 0 | 32 |
 | 15 | Birmingham City | 24 | 8 | 7 | 9 | 1 | 31 |
-| 16 | West Bromwich Albion | 24 | 8 | 5 | 11 | -5 | 29 |
-| 17 | Swansea City | 24 | 8 | 5 | 11 | -6 | 29 |
-| 18 | Charlton Athletic | 23 | 7 | 7 | 9 | -6 | 28 |
+| 16 | West Bromwich Albion | 24 | 9 | 4 | 11 | -4 | 31 |
+| 17 | Sheffield United | 24 | 9 | 2 | 13 | -4 | 29 |
+| 18 | Swansea City | 24 | 8 | 5 | 11 | -6 | 29 |
 | 19 | Blackburn Rovers | 23 | 7 | 6 | 10 | -4 | 27 |
-| 20 | Sheffield United | 24 | 8 | 3 | 13 | -5 | 27 |
-| 21 | Portsmouth | 23 | 5 | 8 | 10 | -10 | 23 |
+| 20 | Charlton Athletic | 23 | 7 | 6 | 10 | -7 | 27 |
+| 21 | Portsmouth | 23 | 6 | 7 | 10 | -9 | 25 |
 | 22 | Norwich City | 24 | 5 | 7 | 12 | -9 | 22 |
 | 23 | Oxford United | 24 | 5 | 7 | 12 | -9 | 22 |
 | 24 | Sheffield Wednesday | 23 | 1 | 8 | 14 | -27 | -7 |
