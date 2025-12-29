@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 December 2025, 08:25 PM UTC (Tuesday, 30 December 2025, 01:55 AM IST)
+**Last Updated:** Monday, 29 December 2025, 08:46 PM UTC (Tuesday, 30 December 2025, 02:16 AM IST)
 
 ### Premier League
 
@@ -325,9 +325,9 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Queens Park Rangers | 24 | 10 | 6 | 8 | -2 | 36 |
 | 10 | Stoke City | 24 | 10 | 5 | 9 | 7 | 35 |
 | 11 | Wrexham | 24 | 8 | 10 | 6 | 3 | 34 |
-| 12 | Derby County | 24 | 8 | 9 | 7 | 1 | 33 |
+| 12 | Leicester City | 24 | 9 | 7 | 8 | 0 | 34 |
 | 13 | Southampton | 24 | 8 | 8 | 8 | 4 | 32 |
-| 14 | Leicester City | 24 | 8 | 8 | 8 | -1 | 32 |
+| 14 | Derby County | 24 | 8 | 8 | 8 | 0 | 32 |
 | 15 | Birmingham City | 24 | 8 | 7 | 9 | 1 | 31 |
 | 16 | West Bromwich Albion | 24 | 8 | 5 | 11 | -5 | 29 |
 | 17 | Swansea City | 24 | 8 | 5 | 11 | -6 | 29 |
