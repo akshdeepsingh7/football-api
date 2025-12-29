@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 December 2025, 07:39 PM UTC (Tuesday, 30 December 2025, 01:09 AM IST)
+**Last Updated:** Monday, 29 December 2025, 08:25 PM UTC (Tuesday, 30 December 2025, 01:55 AM IST)
 
 ### Premier League
 
@@ -123,8 +123,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 16 | 12 | 0 | 4 | 21 | 36 |
 | 2 | Milan | 16 | 10 | 5 | 1 | 14 | 35 |
 | 3 | Napoli | 16 | 11 | 1 | 4 | 11 | 34 |
-| 4 | Juventus | 17 | 9 | 5 | 3 | 8 | 32 |
-| 5 | Roma | 16 | 10 | 0 | 6 | 7 | 30 |
+| 4 | Roma | 17 | 11 | 0 | 6 | 10 | 33 |
+| 5 | Juventus | 17 | 9 | 5 | 3 | 8 | 32 |
 | 6 | Como | 16 | 7 | 6 | 3 | 10 | 27 |
 | 7 | Bologna | 16 | 7 | 5 | 4 | 10 | 26 |
 | 8 | Lazio | 17 | 6 | 6 | 5 | 6 | 24 |
@@ -136,7 +136,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Cagliari | 17 | 4 | 6 | 7 | -5 | 18 |
 | 15 | Parma | 16 | 4 | 5 | 7 | -7 | 17 |
 | 16 | Lecce | 16 | 4 | 4 | 8 | -11 | 16 |
-| 17 | Genoa | 16 | 3 | 5 | 8 | -8 | 14 |
+| 17 | Genoa | 17 | 3 | 5 | 9 | -11 | 14 |
 | 18 | Hellas Verona | 16 | 2 | 6 | 8 | -12 | 12 |
 | 19 | Pisa | 17 | 1 | 8 | 8 | -12 | 11 |
 | 20 | Fiorentina | 17 | 1 | 6 | 10 | -11 | 9 |
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 15 | 14 | 1 | 0 | 29 | 43 |
+| 1 | Porto | 16 | 14 | 2 | 0 | 29 | 44 |
 | 2 | Sporting CP | 16 | 13 | 2 | 1 | 38 | 41 |
 | 3 | Benfica | 16 | 10 | 6 | 0 | 23 | 36 |
 | 4 | Gil Vicente | 16 | 7 | 6 | 3 | 10 | 27 |
@@ -308,36 +308,36 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Casa Pia | 16 | 3 | 5 | 8 | -13 | 14 |
 | 16 | Arouca | 16 | 3 | 5 | 8 | -22 | 14 |
 | 17 | Tondela | 15 | 2 | 3 | 10 | -18 | 9 |
-| 18 | AVS | 15 | 0 | 4 | 11 | -28 | 4 |
+| 18 | AVS | 16 | 0 | 5 | 11 | -28 | 5 |
 
 ### EFL Championship
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 24 | 15 | 6 | 3 | 30 | 51 |
-| 2 | Middlesbrough | 23 | 12 | 7 | 4 | 9 | 43 |
-| 3 | Ipswich Town | 24 | 11 | 8 | 5 | 16 | 41 |
-| 4 | Hull City | 23 | 11 | 5 | 7 | 2 | 38 |
-| 5 | Preston North End | 23 | 9 | 10 | 4 | 7 | 37 |
-| 6 | Bristol City | 23 | 10 | 6 | 7 | 7 | 36 |
-| 7 | Millwall | 23 | 10 | 6 | 7 | -6 | 36 |
-| 8 | Watford | 23 | 9 | 8 | 6 | 4 | 35 |
-| 9 | Queens Park Rangers | 23 | 10 | 5 | 8 | -2 | 35 |
-| 10 | Stoke City | 23 | 10 | 4 | 9 | 7 | 34 |
-| 11 | Derby County | 23 | 8 | 8 | 7 | 1 | 32 |
-| 12 | Southampton | 23 | 8 | 7 | 8 | 4 | 31 |
-| 13 | Wrexham | 23 | 7 | 10 | 6 | 2 | 31 |
-| 14 | Leicester City | 23 | 8 | 7 | 8 | -1 | 31 |
-| 15 | Birmingham City | 23 | 8 | 6 | 9 | 1 | 30 |
-| 16 | West Bromwich Albion | 23 | 8 | 4 | 11 | -5 | 28 |
-| 17 | Charlton Athletic | 22 | 7 | 6 | 9 | -6 | 27 |
-| 18 | Blackburn Rovers | 22 | 7 | 5 | 10 | -4 | 26 |
-| 19 | Sheffield United | 23 | 8 | 2 | 13 | -5 | 26 |
-| 20 | Swansea City | 23 | 7 | 5 | 11 | -7 | 26 |
-| 21 | Oxford United | 23 | 5 | 7 | 11 | -8 | 22 |
-| 22 | Portsmouth | 22 | 5 | 7 | 10 | -10 | 22 |
-| 23 | Norwich City | 23 | 5 | 6 | 12 | -9 | 21 |
-| 24 | Sheffield Wednesday | 22 | 1 | 7 | 14 | -27 | -8 |
+| 1 | Coventry City | 24 | 15 | 6 | 3 | 29 | 51 |
+| 2 | Middlesbrough | 24 | 12 | 7 | 5 | 8 | 43 |
+| 3 | Ipswich Town | 24 | 11 | 8 | 5 | 17 | 41 |
+| 4 | Hull City | 24 | 12 | 5 | 7 | 3 | 41 |
+| 5 | Millwall | 24 | 11 | 6 | 7 | -5 | 39 |
+| 6 | Preston North End | 24 | 9 | 10 | 5 | 6 | 37 |
+| 7 | Bristol City | 24 | 10 | 6 | 8 | 6 | 36 |
+| 8 | Watford | 24 | 9 | 9 | 6 | 4 | 36 |
+| 9 | Queens Park Rangers | 24 | 10 | 6 | 8 | -2 | 36 |
+| 10 | Stoke City | 24 | 10 | 5 | 9 | 7 | 35 |
+| 11 | Wrexham | 24 | 8 | 10 | 6 | 3 | 34 |
+| 12 | Derby County | 24 | 8 | 9 | 7 | 1 | 33 |
+| 13 | Southampton | 24 | 8 | 8 | 8 | 4 | 32 |
+| 14 | Leicester City | 24 | 8 | 8 | 8 | -1 | 32 |
+| 15 | Birmingham City | 24 | 8 | 7 | 9 | 1 | 31 |
+| 16 | West Bromwich Albion | 24 | 8 | 5 | 11 | -5 | 29 |
+| 17 | Swansea City | 24 | 8 | 5 | 11 | -6 | 29 |
+| 18 | Charlton Athletic | 23 | 7 | 7 | 9 | -6 | 28 |
+| 19 | Blackburn Rovers | 23 | 7 | 6 | 10 | -4 | 27 |
+| 20 | Sheffield United | 24 | 8 | 3 | 13 | -5 | 27 |
+| 21 | Portsmouth | 23 | 5 | 8 | 10 | -10 | 23 |
+| 22 | Norwich City | 24 | 5 | 7 | 12 | -9 | 22 |
+| 23 | Oxford United | 24 | 5 | 7 | 12 | -9 | 22 |
+| 24 | Sheffield Wednesday | 23 | 1 | 8 | 14 | -27 | -7 |
 
 ### Major League Soccer (MLS)
 
