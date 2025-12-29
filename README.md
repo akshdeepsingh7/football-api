@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 December 2025, 07:17 PM UTC (Tuesday, 30 December 2025, 12:47 AM IST)
+**Last Updated:** Monday, 29 December 2025, 07:39 PM UTC (Tuesday, 30 December 2025, 01:09 AM IST)
 
 ### Premier League
 
@@ -314,9 +314,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 24 | 15 | 7 | 2 | 31 | 52 |
+| 1 | Coventry City | 24 | 15 | 6 | 3 | 30 | 51 |
 | 2 | Middlesbrough | 23 | 12 | 7 | 4 | 9 | 43 |
-| 3 | Ipswich Town | 24 | 10 | 9 | 5 | 15 | 39 |
+| 3 | Ipswich Town | 24 | 11 | 8 | 5 | 16 | 41 |
 | 4 | Hull City | 23 | 11 | 5 | 7 | 2 | 38 |
 | 5 | Preston North End | 23 | 9 | 10 | 4 | 7 | 37 |
 | 6 | Bristol City | 23 | 10 | 6 | 7 | 7 | 36 |
