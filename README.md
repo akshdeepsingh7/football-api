@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 December 2025, 09:19 PM UTC (Tuesday, 30 December 2025, 02:49 AM IST)
+**Last Updated:** Monday, 29 December 2025, 09:41 PM UTC (Tuesday, 30 December 2025, 03:11 AM IST)
 
 ### Premier League
 
@@ -123,7 +123,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 16 | 12 | 0 | 4 | 21 | 36 |
 | 2 | Milan | 16 | 10 | 5 | 1 | 14 | 35 |
 | 3 | Napoli | 16 | 11 | 1 | 4 | 11 | 34 |
-| 4 | Roma | 17 | 11 | 0 | 6 | 10 | 33 |
+| 4 | Roma | 17 | 11 | 0 | 6 | 9 | 33 |
 | 5 | Juventus | 17 | 9 | 5 | 3 | 8 | 32 |
 | 6 | Como | 16 | 7 | 6 | 3 | 10 | 27 |
 | 7 | Bologna | 16 | 7 | 5 | 4 | 10 | 26 |
@@ -136,7 +136,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Cagliari | 17 | 4 | 6 | 7 | -5 | 18 |
 | 15 | Parma | 16 | 4 | 5 | 7 | -7 | 17 |
 | 16 | Lecce | 16 | 4 | 4 | 8 | -11 | 16 |
-| 17 | Genoa | 17 | 3 | 5 | 9 | -11 | 14 |
+| 17 | Genoa | 17 | 3 | 5 | 9 | -10 | 14 |
 | 18 | Hellas Verona | 16 | 2 | 6 | 8 | -12 | 12 |
 | 19 | Pisa | 17 | 1 | 8 | 8 | -12 | 11 |
 | 20 | Fiorentina | 17 | 1 | 6 | 10 | -11 | 9 |
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 16 | 14 | 2 | 0 | 29 | 44 |
+| 1 | Porto | 16 | 15 | 1 | 0 | 30 | 46 |
 | 2 | Sporting CP | 16 | 13 | 2 | 1 | 38 | 41 |
 | 3 | Benfica | 16 | 10 | 6 | 0 | 23 | 36 |
 | 4 | Gil Vicente | 16 | 7 | 6 | 3 | 10 | 27 |
@@ -308,7 +308,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Casa Pia | 16 | 3 | 5 | 8 | -13 | 14 |
 | 16 | Arouca | 16 | 3 | 5 | 8 | -22 | 14 |
 | 17 | Tondela | 15 | 2 | 3 | 10 | -18 | 9 |
-| 18 | AVS | 16 | 0 | 5 | 11 | -28 | 5 |
+| 18 | AVS | 16 | 0 | 4 | 12 | -29 | 4 |
 
 ### EFL Championship
 
@@ -318,25 +318,25 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Middlesbrough | 24 | 12 | 7 | 5 | 8 | 43 |
 | 3 | Ipswich Town | 24 | 11 | 8 | 5 | 17 | 41 |
 | 4 | Hull City | 24 | 12 | 5 | 7 | 3 | 41 |
-| 5 | Bristol City | 24 | 10 | 7 | 7 | 7 | 37 |
-| 6 | Preston North End | 24 | 9 | 10 | 5 | 6 | 37 |
-| 7 | Millwall | 24 | 10 | 7 | 7 | -6 | 37 |
-| 8 | Watford | 24 | 9 | 9 | 6 | 4 | 36 |
+| 5 | Millwall | 24 | 11 | 6 | 7 | -5 | 39 |
+| 6 | Watford | 24 | 10 | 8 | 6 | 5 | 38 |
+| 7 | Preston North End | 24 | 9 | 10 | 5 | 6 | 37 |
+| 8 | Bristol City | 24 | 10 | 6 | 8 | 6 | 36 |
 | 9 | Queens Park Rangers | 24 | 10 | 5 | 9 | -3 | 35 |
 | 10 | Stoke City | 24 | 10 | 4 | 10 | 6 | 34 |
 | 11 | Wrexham | 24 | 8 | 10 | 6 | 3 | 34 |
 | 12 | Leicester City | 24 | 9 | 7 | 8 | 0 | 34 |
-| 13 | Southampton | 24 | 8 | 8 | 8 | 4 | 32 |
+| 13 | Birmingham City | 24 | 9 | 6 | 9 | 2 | 33 |
 | 14 | Derby County | 24 | 8 | 8 | 8 | 0 | 32 |
-| 15 | Birmingham City | 24 | 8 | 7 | 9 | 1 | 31 |
+| 15 | Southampton | 24 | 8 | 7 | 9 | 3 | 31 |
 | 16 | West Bromwich Albion | 24 | 9 | 4 | 11 | -4 | 31 |
 | 17 | Sheffield United | 24 | 9 | 2 | 13 | -4 | 29 |
 | 18 | Swansea City | 24 | 8 | 5 | 11 | -6 | 29 |
 | 19 | Blackburn Rovers | 23 | 7 | 6 | 10 | -4 | 27 |
 | 20 | Charlton Athletic | 23 | 7 | 6 | 10 | -7 | 27 |
 | 21 | Portsmouth | 23 | 6 | 7 | 10 | -9 | 25 |
-| 22 | Norwich City | 24 | 5 | 7 | 12 | -9 | 22 |
-| 23 | Oxford United | 24 | 5 | 7 | 12 | -9 | 22 |
+| 22 | Oxford United | 24 | 5 | 7 | 12 | -9 | 22 |
+| 23 | Norwich City | 24 | 5 | 6 | 13 | -10 | 21 |
 | 24 | Sheffield Wednesday | 23 | 1 | 8 | 14 | -27 | -7 |
 
 ### Major League Soccer (MLS)
