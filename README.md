@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 29 December 2025, 09:41 PM UTC (Tuesday, 30 December 2025, 03:11 AM IST)
+**Last Updated:** Monday, 29 December 2025, 10:20 PM UTC (Tuesday, 30 December 2025, 03:50 AM IST)
 
 ### Premier League
 
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 16 | 15 | 1 | 0 | 30 | 46 |
+| 1 | Porto | 16 | 15 | 1 | 0 | 31 | 46 |
 | 2 | Sporting CP | 16 | 13 | 2 | 1 | 38 | 41 |
 | 3 | Benfica | 16 | 10 | 6 | 0 | 23 | 36 |
 | 4 | Gil Vicente | 16 | 7 | 6 | 3 | 10 | 27 |
@@ -308,7 +308,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Casa Pia | 16 | 3 | 5 | 8 | -13 | 14 |
 | 16 | Arouca | 16 | 3 | 5 | 8 | -22 | 14 |
 | 17 | Tondela | 15 | 2 | 3 | 10 | -18 | 9 |
-| 18 | AVS | 16 | 0 | 4 | 12 | -29 | 4 |
+| 18 | AVS | 16 | 0 | 4 | 12 | -30 | 4 |
 
 ### EFL Championship
 
@@ -326,9 +326,9 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Stoke City | 24 | 10 | 4 | 10 | 6 | 34 |
 | 11 | Wrexham | 24 | 8 | 10 | 6 | 3 | 34 |
 | 12 | Leicester City | 24 | 9 | 7 | 8 | 0 | 34 |
-| 13 | Birmingham City | 24 | 9 | 6 | 9 | 2 | 33 |
+| 13 | Southampton | 24 | 8 | 8 | 8 | 4 | 32 |
 | 14 | Derby County | 24 | 8 | 8 | 8 | 0 | 32 |
-| 15 | Southampton | 24 | 8 | 7 | 9 | 3 | 31 |
+| 15 | Birmingham City | 24 | 8 | 7 | 9 | 1 | 31 |
 | 16 | West Bromwich Albion | 24 | 9 | 4 | 11 | -4 | 31 |
 | 17 | Sheffield United | 24 | 9 | 2 | 13 | -4 | 29 |
 | 18 | Swansea City | 24 | 8 | 5 | 11 | -6 | 29 |
