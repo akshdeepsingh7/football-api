@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 01 January 2026, 05:20 PM UTC",
-        "IST": "Thursday, 01 January 2026, 10:50 PM IST"
+        "UTC": "Thursday, 01 January 2026, 05:42 PM UTC",
+        "IST": "Thursday, 01 January 2026, 11:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -38,12 +38,12 @@
             {
                 "Position": "4",
                 "Team": "Liverpool FC",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "10",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "4",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "5",
@@ -87,6 +87,26 @@
             },
             {
                 "Position": "9",
+                "Team": "Crystal Palace",
+                "Played": "19",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "1",
+                "Points": "27"
+            },
+            {
+                "Position": "10",
+                "Team": "Fulham",
+                "Played": "19",
+                "Wins": "8",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-1",
+                "Points": "27"
+            },
+            {
+                "Position": "11",
                 "Team": "Brentford",
                 "Played": "18",
                 "Wins": "8",
@@ -96,33 +116,13 @@
                 "Points": "26"
             },
             {
-                "Position": "10",
+                "Position": "12",
                 "Team": "Newcastle United",
                 "Played": "19",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "7",
                 "Goal Difference": "2",
-                "Points": "26"
-            },
-            {
-                "Position": "11",
-                "Team": "Crystal Palace",
-                "Played": "18",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "1",
-                "Points": "26"
-            },
-            {
-                "Position": "12",
-                "Team": "Fulham",
-                "Played": "18",
-                "Wins": "8",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "-1",
                 "Points": "26"
             },
             {
@@ -158,12 +158,12 @@
             {
                 "Position": "16",
                 "Team": "Leeds United",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "5",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "8",
                 "Goal Difference": "-7",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "17",
@@ -2355,6 +2355,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Leicester City",
+                "Played": "25",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "8",
+                "Goal Difference": "0",
+                "Points": "35"
+            },
+            {
+                "Position": "13",
                 "Team": "Queens Park Rangers",
                 "Played": "25",
                 "Wins": "10",
@@ -2362,16 +2372,6 @@
                 "Losses": "10",
                 "Goal Difference": "-4",
                 "Points": "35"
-            },
-            {
-                "Position": "13",
-                "Team": "Leicester City",
-                "Played": "24",
-                "Wins": "9",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "0",
-                "Points": "34"
             },
             {
                 "Position": "14",
@@ -2416,12 +2416,12 @@
             {
                 "Position": "18",
                 "Team": "Sheffield United",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "9",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "13",
                 "Goal Difference": "-4",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "19",
