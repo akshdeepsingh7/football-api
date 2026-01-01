@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 01 January 2026, 06:31 PM UTC",
-        "IST": "Friday, 02 January 2026, 12:01 AM IST"
+        "UTC": "Thursday, 01 January 2026, 07:17 PM UTC",
+        "IST": "Friday, 02 January 2026, 12:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -67,16 +67,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Crystal Palace",
-                "Played": "19",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "2",
-                "Points": "29"
-            },
-            {
-                "Position": "8",
                 "Team": "Sunderland",
                 "Played": "18",
                 "Wins": "7",
@@ -86,7 +76,7 @@
                 "Points": "28"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Everton",
                 "Played": "19",
                 "Wins": "8",
@@ -96,7 +86,27 @@
                 "Points": "28"
             },
             {
+                "Position": "9",
+                "Team": "Crystal Palace",
+                "Played": "19",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "1",
+                "Points": "27"
+            },
+            {
                 "Position": "10",
+                "Team": "Fulham",
+                "Played": "19",
+                "Wins": "8",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-1",
+                "Points": "27"
+            },
+            {
+                "Position": "11",
                 "Team": "Brentford",
                 "Played": "18",
                 "Wins": "8",
@@ -106,23 +116,13 @@
                 "Points": "26"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Newcastle United",
                 "Played": "19",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "7",
                 "Goal Difference": "2",
-                "Points": "26"
-            },
-            {
-                "Position": "12",
-                "Team": "Fulham",
-                "Played": "19",
-                "Wins": "8",
-                "Draws": "2",
-                "Losses": "9",
-                "Goal Difference": "-2",
                 "Points": "26"
             },
             {
@@ -2370,7 +2370,7 @@
                 "Wins": "9",
                 "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "-1",
+                "Goal Difference": "-3",
                 "Points": "34"
             },
             {
@@ -2390,7 +2390,7 @@
                 "Wins": "10",
                 "Draws": "2",
                 "Losses": "13",
-                "Goal Difference": "-3",
+                "Goal Difference": "-1",
                 "Points": "32"
             },
             {
