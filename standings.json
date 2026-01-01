@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 01 January 2026, 05:42 PM UTC",
-        "IST": "Thursday, 01 January 2026, 11:12 PM IST"
+        "UTC": "Thursday, 01 January 2026, 06:31 PM UTC",
+        "IST": "Friday, 02 January 2026, 12:01 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -67,6 +67,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Crystal Palace",
+                "Played": "19",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "2",
+                "Points": "29"
+            },
+            {
+                "Position": "8",
                 "Team": "Sunderland",
                 "Played": "18",
                 "Wins": "7",
@@ -76,7 +86,7 @@
                 "Points": "28"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Everton",
                 "Played": "19",
                 "Wins": "8",
@@ -86,27 +96,7 @@
                 "Points": "28"
             },
             {
-                "Position": "9",
-                "Team": "Crystal Palace",
-                "Played": "19",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "1",
-                "Points": "27"
-            },
-            {
                 "Position": "10",
-                "Team": "Fulham",
-                "Played": "19",
-                "Wins": "8",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-1",
-                "Points": "27"
-            },
-            {
-                "Position": "11",
                 "Team": "Brentford",
                 "Played": "18",
                 "Wins": "8",
@@ -116,13 +106,23 @@
                 "Points": "26"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Newcastle United",
                 "Played": "19",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "7",
                 "Goal Difference": "2",
+                "Points": "26"
+            },
+            {
+                "Position": "12",
+                "Team": "Fulham",
+                "Played": "19",
+                "Wins": "8",
+                "Draws": "2",
+                "Losses": "9",
+                "Goal Difference": "-2",
                 "Points": "26"
             },
             {
@@ -2355,16 +2355,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Leicester City",
-                "Played": "25",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "0",
-                "Points": "35"
-            },
-            {
-                "Position": "13",
                 "Team": "Queens Park Rangers",
                 "Played": "25",
                 "Wins": "10",
@@ -2372,6 +2362,16 @@
                 "Losses": "10",
                 "Goal Difference": "-4",
                 "Points": "35"
+            },
+            {
+                "Position": "13",
+                "Team": "Leicester City",
+                "Played": "25",
+                "Wins": "9",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-1",
+                "Points": "34"
             },
             {
                 "Position": "14",
@@ -2385,6 +2385,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Sheffield United",
+                "Played": "25",
+                "Wins": "10",
+                "Draws": "2",
+                "Losses": "13",
+                "Goal Difference": "-3",
+                "Points": "32"
+            },
+            {
+                "Position": "16",
                 "Team": "Swansea City",
                 "Played": "25",
                 "Wins": "9",
@@ -2394,7 +2404,7 @@
                 "Points": "32"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Birmingham City",
                 "Played": "25",
                 "Wins": "8",
@@ -2404,7 +2414,7 @@
                 "Points": "31"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "West Bromwich Albion",
                 "Played": "25",
                 "Wins": "9",
@@ -2412,16 +2422,6 @@
                 "Losses": "12",
                 "Goal Difference": "-5",
                 "Points": "31"
-            },
-            {
-                "Position": "18",
-                "Team": "Sheffield United",
-                "Played": "25",
-                "Wins": "9",
-                "Draws": "3",
-                "Losses": "13",
-                "Goal Difference": "-4",
-                "Points": "30"
             },
             {
                 "Position": "19",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 01 January 2026, 05:42 PM UTC (Thursday, 01 January 2026, 11:12 PM IST)
+**Last Updated:** Thursday, 01 January 2026, 06:31 PM UTC (Friday, 02 January 2026, 12:01 AM IST)
 
 ### Premier League
 
@@ -53,12 +53,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Liverpool FC | 19 | 10 | 3 | 6 | 4 | 33 |
 | 5 | Chelsea | 19 | 8 | 6 | 5 | 11 | 30 |
 | 6 | Manchester United | 19 | 8 | 6 | 5 | 4 | 30 |
-| 7 | Sunderland | 18 | 7 | 7 | 4 | 2 | 28 |
-| 8 | Everton | 19 | 8 | 4 | 7 | 0 | 28 |
-| 9 | Crystal Palace | 19 | 7 | 6 | 6 | 1 | 27 |
-| 10 | Fulham | 19 | 8 | 3 | 8 | -1 | 27 |
-| 11 | Brentford | 18 | 8 | 2 | 8 | 2 | 26 |
-| 12 | Newcastle United | 19 | 7 | 5 | 7 | 2 | 26 |
+| 7 | Crystal Palace | 19 | 8 | 5 | 6 | 2 | 29 |
+| 8 | Sunderland | 18 | 7 | 7 | 4 | 2 | 28 |
+| 9 | Everton | 19 | 8 | 4 | 7 | 0 | 28 |
+| 10 | Brentford | 18 | 8 | 2 | 8 | 2 | 26 |
+| 11 | Newcastle United | 19 | 7 | 5 | 7 | 2 | 26 |
+| 12 | Fulham | 19 | 8 | 2 | 9 | -2 | 26 |
 | 13 | Tottenham Hotspur | 18 | 7 | 4 | 7 | 4 | 25 |
 | 14 | Brighton & Hove Albion | 19 | 6 | 7 | 6 | 1 | 25 |
 | 15 | AFC Bournemouth | 19 | 5 | 8 | 6 | -6 | 23 |
@@ -325,13 +325,13 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Stoke City | 25 | 11 | 4 | 10 | 7 | 37 |
 | 10 | Wrexham | 25 | 9 | 10 | 6 | 5 | 37 |
 | 11 | Derby County | 25 | 9 | 8 | 8 | 1 | 35 |
-| 12 | Leicester City | 25 | 9 | 8 | 8 | 0 | 35 |
-| 13 | Queens Park Rangers | 25 | 10 | 5 | 10 | -4 | 35 |
+| 12 | Queens Park Rangers | 25 | 10 | 5 | 10 | -4 | 35 |
+| 13 | Leicester City | 25 | 9 | 7 | 9 | -1 | 34 |
 | 14 | Southampton | 25 | 8 | 9 | 8 | 4 | 33 |
-| 15 | Swansea City | 25 | 9 | 5 | 11 | -5 | 32 |
-| 16 | Birmingham City | 25 | 8 | 7 | 10 | -2 | 31 |
-| 17 | West Bromwich Albion | 25 | 9 | 4 | 12 | -5 | 31 |
-| 18 | Sheffield United | 25 | 9 | 3 | 13 | -4 | 30 |
+| 15 | Sheffield United | 25 | 10 | 2 | 13 | -3 | 32 |
+| 16 | Swansea City | 25 | 9 | 5 | 11 | -5 | 32 |
+| 17 | Birmingham City | 25 | 8 | 7 | 10 | -2 | 31 |
+| 18 | West Bromwich Albion | 25 | 9 | 4 | 12 | -5 | 31 |
 | 19 | Charlton Athletic | 24 | 7 | 7 | 10 | -7 | 28 |
 | 20 | Blackburn Rovers | 24 | 7 | 6 | 11 | -6 | 27 |
 | 21 | Portsmouth | 24 | 6 | 7 | 11 | -14 | 25 |
