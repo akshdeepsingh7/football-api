@@ -41,25 +41,25 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 01 January 2026, 07:38 PM UTC (Friday, 02 January 2026, 01:08 AM IST)
+**Last Updated:** Thursday, 01 January 2026, 08:25 PM UTC (Friday, 02 January 2026, 01:55 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 19 | 14 | 3 | 2 | 25 | 45 |
-| 2 | Manchester City | 18 | 13 | 1 | 4 | 26 | 40 |
+| 2 | Manchester City | 19 | 13 | 2 | 4 | 26 | 41 |
 | 3 | Aston Villa | 19 | 12 | 3 | 4 | 7 | 39 |
 | 4 | Liverpool FC | 19 | 10 | 3 | 6 | 4 | 33 |
 | 5 | Chelsea | 19 | 8 | 6 | 5 | 11 | 30 |
 | 6 | Manchester United | 19 | 8 | 6 | 5 | 4 | 30 |
-| 7 | Sunderland | 18 | 7 | 7 | 4 | 2 | 28 |
+| 7 | Sunderland | 19 | 7 | 8 | 4 | 2 | 29 |
 | 8 | Everton | 19 | 8 | 4 | 7 | 0 | 28 |
-| 9 | Crystal Palace | 19 | 7 | 6 | 6 | 1 | 27 |
-| 10 | Fulham | 19 | 8 | 3 | 8 | -1 | 27 |
-| 11 | Brentford | 18 | 8 | 2 | 8 | 2 | 26 |
-| 12 | Newcastle United | 19 | 7 | 5 | 7 | 2 | 26 |
-| 13 | Tottenham Hotspur | 18 | 7 | 4 | 7 | 4 | 25 |
+| 9 | Brentford | 19 | 8 | 3 | 8 | 2 | 27 |
+| 10 | Crystal Palace | 19 | 7 | 6 | 6 | 1 | 27 |
+| 11 | Fulham | 19 | 8 | 3 | 8 | -1 | 27 |
+| 12 | Tottenham Hotspur | 19 | 7 | 5 | 7 | 4 | 26 |
+| 13 | Newcastle United | 19 | 7 | 5 | 7 | 2 | 26 |
 | 14 | Brighton & Hove Albion | 19 | 6 | 7 | 6 | 1 | 25 |
 | 15 | AFC Bournemouth | 19 | 5 | 8 | 6 | -6 | 23 |
 | 16 | Leeds United | 19 | 5 | 6 | 8 | -7 | 21 |
