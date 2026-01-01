@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 01 January 2026, 03:43 PM UTC (Thursday, 01 January 2026, 09:13 PM IST)
+**Last Updated:** Thursday, 01 January 2026, 04:28 PM UTC (Thursday, 01 January 2026, 09:58 PM IST)
 
 ### Premier League
 
@@ -317,27 +317,27 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Coventry City | 25 | 16 | 6 | 3 | 30 | 54 |
 | 2 | Ipswich Town | 25 | 12 | 8 | 5 | 18 | 44 |
 | 3 | Middlesbrough | 25 | 12 | 8 | 5 | 8 | 44 |
-| 4 | Watford | 25 | 11 | 8 | 6 | 7 | 41 |
+| 4 | Watford | 25 | 11 | 8 | 6 | 8 | 41 |
 | 5 | Hull City | 25 | 12 | 5 | 8 | 2 | 41 |
-| 6 | Preston North End | 25 | 10 | 10 | 5 | 7 | 40 |
+| 6 | Preston North End | 25 | 10 | 10 | 5 | 8 | 40 |
 | 7 | Millwall | 25 | 11 | 7 | 7 | -5 | 40 |
-| 8 | Bristol City | 25 | 11 | 6 | 8 | 8 | 39 |
+| 8 | Bristol City | 25 | 11 | 6 | 8 | 10 | 39 |
 | 9 | Stoke City | 25 | 11 | 4 | 10 | 7 | 37 |
 | 10 | Wrexham | 25 | 9 | 10 | 6 | 5 | 37 |
-| 11 | Queens Park Rangers | 25 | 10 | 6 | 9 | -3 | 36 |
+| 11 | Queens Park Rangers | 25 | 10 | 5 | 10 | -4 | 35 |
 | 12 | Leicester City | 24 | 9 | 7 | 8 | 0 | 34 |
 | 13 | Southampton | 25 | 8 | 9 | 8 | 4 | 33 |
 | 14 | Derby County | 25 | 8 | 9 | 8 | 0 | 33 |
 | 15 | West Bromwich Albion | 25 | 9 | 5 | 11 | -4 | 32 |
-| 16 | Birmingham City | 25 | 8 | 7 | 10 | -1 | 31 |
+| 16 | Birmingham City | 25 | 8 | 7 | 10 | -2 | 31 |
 | 17 | Swansea City | 25 | 8 | 6 | 11 | -6 | 30 |
 | 18 | Sheffield United | 24 | 9 | 2 | 13 | -4 | 29 |
 | 19 | Blackburn Rovers | 24 | 7 | 6 | 11 | -6 | 27 |
 | 20 | Charlton Athletic | 24 | 7 | 6 | 11 | -8 | 27 |
-| 21 | Portsmouth | 24 | 6 | 7 | 11 | -11 | 25 |
-| 22 | Norwich City | 25 | 5 | 7 | 13 | -10 | 22 |
+| 21 | Portsmouth | 24 | 6 | 7 | 11 | -13 | 25 |
+| 22 | Norwich City | 25 | 6 | 6 | 13 | -9 | 24 |
 | 23 | Oxford United | 25 | 5 | 7 | 13 | -10 | 22 |
-| 24 | Sheffield Wednesday | 24 | 1 | 8 | 15 | -28 | -7 |
+| 24 | Sheffield Wednesday | 24 | 1 | 8 | 15 | -29 | -7 |
 
 ### Major League Soccer (MLS)
 

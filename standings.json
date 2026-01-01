@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 01 January 2026, 03:43 PM UTC",
-        "IST": "Thursday, 01 January 2026, 09:13 PM IST"
+        "UTC": "Thursday, 01 January 2026, 04:28 PM UTC",
+        "IST": "Thursday, 01 January 2026, 09:58 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2280,7 +2280,7 @@
                 "Wins": "11",
                 "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "41"
             },
             {
@@ -2300,7 +2300,7 @@
                 "Wins": "10",
                 "Draws": "10",
                 "Losses": "5",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "40"
             },
             {
@@ -2320,7 +2320,7 @@
                 "Wins": "11",
                 "Draws": "6",
                 "Losses": "8",
-                "Goal Difference": "8",
+                "Goal Difference": "10",
                 "Points": "39"
             },
             {
@@ -2348,10 +2348,10 @@
                 "Team": "Queens Park Rangers",
                 "Played": "25",
                 "Wins": "10",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-3",
-                "Points": "36"
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-4",
+                "Points": "35"
             },
             {
                 "Position": "12",
@@ -2400,7 +2400,7 @@
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "10",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "31"
             },
             {
@@ -2450,18 +2450,18 @@
                 "Wins": "6",
                 "Draws": "7",
                 "Losses": "11",
-                "Goal Difference": "-11",
+                "Goal Difference": "-13",
                 "Points": "25"
             },
             {
                 "Position": "22",
                 "Team": "Norwich City",
                 "Played": "25",
-                "Wins": "5",
-                "Draws": "7",
+                "Wins": "6",
+                "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "-10",
-                "Points": "22"
+                "Goal Difference": "-9",
+                "Points": "24"
             },
             {
                 "Position": "23",
@@ -2480,7 +2480,7 @@
                 "Wins": "1",
                 "Draws": "8",
                 "Losses": "15",
-                "Goal Difference": "-28",
+                "Goal Difference": "-29",
                 "Points": "-7"
             }
         ],
