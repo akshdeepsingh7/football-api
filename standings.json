@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 02 January 2026, 09:39 PM UTC",
-        "IST": "Saturday, 03 January 2026, 03:09 AM IST"
+        "UTC": "Friday, 02 January 2026, 10:21 PM UTC",
+        "IST": "Saturday, 03 January 2026, 03:51 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,12 +299,12 @@
             },
             {
                 "Position": "10",
-                "Team": "Rayo Vallecano",
+                "Team": "Getafe",
                 "Played": "18",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-6",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-9",
                 "Points": "21"
             },
             {
@@ -319,13 +319,13 @@
             },
             {
                 "Position": "12",
-                "Team": "Getafe",
+                "Team": "Rayo Vallecano",
                 "Played": "18",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "10",
-                "Goal Difference": "-10",
-                "Points": "20"
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "-7",
+                "Points": "19"
             },
             {
                 "Position": "13",
@@ -800,7 +800,7 @@
                 "Wins": "13",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "17",
+                "Goal Difference": "18",
                 "Points": "40"
             },
             {
@@ -870,7 +870,7 @@
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "3",
+                "Goal Difference": "2",
                 "Points": "23"
             },
             {
@@ -2113,22 +2113,22 @@
             },
             {
                 "Position": "6",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "17",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-4",
+                "Points": "25"
+            },
+            {
+                "Position": "7",
                 "Team": "Famalic\u00e3o",
                 "Played": "16",
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "5",
                 "Goal Difference": "7",
-                "Points": "23"
-            },
-            {
-                "Position": "7",
-                "Team": "Vit\u00f3ria S.C.",
-                "Played": "17",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-5",
                 "Points": "23"
             },
             {
@@ -2163,16 +2163,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Alverca",
-                "Played": "16",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "9",
-                "Goal Difference": "-11",
-                "Points": "17"
-            },
-            {
-                "Position": "12",
                 "Team": "Rio Ave",
                 "Played": "16",
                 "Wins": "3",
@@ -2182,23 +2172,33 @@
                 "Points": "17"
             },
             {
-                "Position": "13",
-                "Team": "Nacional",
+                "Position": "12",
+                "Team": "Alverca",
                 "Played": "16",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-4",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "9",
+                "Goal Difference": "-11",
                 "Points": "17"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Santa Clara",
                 "Played": "15",
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "7",
                 "Goal Difference": "-4",
+                "Points": "16"
+            },
+            {
+                "Position": "14",
+                "Team": "Nacional",
+                "Played": "16",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-5",
                 "Points": "16"
             },
             {
