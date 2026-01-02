@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 02 January 2026, 08:44 PM UTC",
-        "IST": "Saturday, 03 January 2026, 02:14 AM IST"
+        "UTC": "Friday, 02 January 2026, 09:17 PM UTC",
+        "IST": "Saturday, 03 January 2026, 02:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,12 +299,12 @@
             },
             {
                 "Position": "10",
-                "Team": "Getafe",
+                "Team": "Rayo Vallecano",
                 "Played": "18",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "9",
-                "Goal Difference": "-9",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "-6",
                 "Points": "21"
             },
             {
@@ -319,13 +319,13 @@
             },
             {
                 "Position": "12",
-                "Team": "Rayo Vallecano",
+                "Team": "Getafe",
                 "Played": "18",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-7",
-                "Points": "19"
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "10",
+                "Goal Difference": "-10",
+                "Points": "20"
             },
             {
                 "Position": "13",
@@ -593,22 +593,22 @@
         "Serie A": [
             {
                 "Position": "1",
+                "Team": "Milan",
+                "Played": "17",
+                "Wins": "11",
+                "Draws": "5",
+                "Losses": "1",
+                "Goal Difference": "15",
+                "Points": "38"
+            },
+            {
+                "Position": "2",
                 "Team": "Inter",
                 "Played": "16",
                 "Wins": "12",
                 "Draws": "0",
                 "Losses": "4",
                 "Goal Difference": "21",
-                "Points": "36"
-            },
-            {
-                "Position": "2",
-                "Team": "Milan",
-                "Played": "17",
-                "Wins": "10",
-                "Draws": "6",
-                "Losses": "1",
-                "Goal Difference": "14",
                 "Points": "36"
             },
             {
@@ -726,10 +726,10 @@
                 "Team": "Cagliari",
                 "Played": "18",
                 "Wins": "4",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-5",
-                "Points": "19"
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "-6",
+                "Points": "18"
             },
             {
                 "Position": "15",
@@ -797,11 +797,11 @@
                 "Position": "1",
                 "Team": "Lens",
                 "Played": "17",
-                "Wins": "12",
-                "Draws": "2",
+                "Wins": "13",
+                "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "15",
-                "Points": "38"
+                "Goal Difference": "16",
+                "Points": "40"
             },
             {
                 "Position": "2",
@@ -855,22 +855,22 @@
             },
             {
                 "Position": "7",
-                "Team": "Toulouse",
-                "Played": "17",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "5",
-                "Points": "24"
-            },
-            {
-                "Position": "8",
                 "Team": "Strasbourg",
                 "Played": "16",
                 "Wins": "7",
                 "Draws": "2",
                 "Losses": "7",
                 "Goal Difference": "5",
+                "Points": "23"
+            },
+            {
+                "Position": "8",
+                "Team": "Toulouse",
+                "Played": "17",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "4",
                 "Points": "23"
             },
             {
@@ -2124,12 +2124,12 @@
             {
                 "Position": "7",
                 "Team": "Vit\u00f3ria S.C.",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "6",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "-5",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "8",
@@ -2163,16 +2163,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Rio Ave",
-                "Played": "16",
-                "Wins": "3",
-                "Draws": "8",
-                "Losses": "5",
-                "Goal Difference": "-9",
-                "Points": "17"
-            },
-            {
-                "Position": "12",
                 "Team": "Alverca",
                 "Played": "16",
                 "Wins": "5",
@@ -2182,14 +2172,24 @@
                 "Points": "17"
             },
             {
+                "Position": "12",
+                "Team": "Rio Ave",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "8",
+                "Losses": "5",
+                "Goal Difference": "-9",
+                "Points": "17"
+            },
+            {
                 "Position": "13",
                 "Team": "Nacional",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "4",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "7",
                 "Goal Difference": "-4",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "14",
