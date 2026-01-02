@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 02 January 2026, 07:14 PM UTC",
-        "IST": "Saturday, 03 January 2026, 12:44 AM IST"
+        "UTC": "Friday, 02 January 2026, 07:38 PM UTC",
+        "IST": "Saturday, 03 January 2026, 01:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2075,11 +2075,11 @@
                 "Position": "2",
                 "Team": "Sporting CP",
                 "Played": "17",
-                "Wins": "13",
-                "Draws": "3",
+                "Wins": "14",
+                "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "38",
-                "Points": "42"
+                "Goal Difference": "39",
+                "Points": "44"
             },
             {
                 "Position": "3",
@@ -2096,10 +2096,10 @@
                 "Team": "Gil Vicente",
                 "Played": "17",
                 "Wins": "7",
-                "Draws": "7",
-                "Losses": "3",
-                "Goal Difference": "10",
-                "Points": "28"
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "9",
+                "Points": "27"
             },
             {
                 "Position": "5",
