@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 03 January 2026, 01:47 PM UTC (Saturday, 03 January 2026, 07:17 PM IST)
+**Last Updated:** Saturday, 03 January 2026, 02:19 PM UTC (Saturday, 03 January 2026, 07:49 PM IST)
 
 ### Premier League
 
@@ -127,18 +127,18 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Juventus | 17 | 9 | 5 | 3 | 8 | 32 |
 | 6 | Como | 17 | 8 | 6 | 3 | 11 | 30 |
 | 7 | Bologna | 16 | 7 | 5 | 4 | 10 | 26 |
-| 8 | Lazio | 17 | 6 | 6 | 5 | 6 | 24 |
-| 9 | Sassuolo | 17 | 6 | 4 | 7 | 1 | 22 |
+| 8 | Sassuolo | 18 | 7 | 4 | 7 | 2 | 25 |
+| 9 | Lazio | 17 | 6 | 6 | 5 | 6 | 24 |
 | 10 | Atalanta | 17 | 5 | 7 | 5 | 1 | 22 |
 | 11 | Udinese | 18 | 6 | 4 | 8 | -11 | 22 |
 | 12 | Cremonese | 17 | 5 | 6 | 6 | -2 | 21 |
 | 13 | Torino | 17 | 5 | 5 | 7 | -11 | 20 |
 | 14 | Cagliari | 18 | 4 | 6 | 8 | -6 | 18 |
-| 15 | Parma | 16 | 4 | 5 | 7 | -7 | 17 |
-| 16 | Lecce | 16 | 4 | 4 | 8 | -11 | 16 |
-| 17 | Genoa | 17 | 3 | 5 | 9 | -10 | 14 |
+| 15 | Parma | 17 | 4 | 5 | 8 | -8 | 17 |
+| 16 | Genoa | 18 | 4 | 5 | 9 | -9 | 17 |
+| 17 | Lecce | 16 | 4 | 4 | 8 | -11 | 16 |
 | 18 | Hellas Verona | 16 | 2 | 6 | 8 | -12 | 12 |
-| 19 | Pisa | 17 | 1 | 8 | 8 | -12 | 11 |
+| 19 | Pisa | 18 | 1 | 8 | 9 | -13 | 11 |
 | 20 | Fiorentina | 17 | 1 | 6 | 10 | -11 | 9 |
 
 ### Ligue 1
