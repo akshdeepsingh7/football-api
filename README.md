@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 03 January 2026, 03:20 PM UTC (Saturday, 03 January 2026, 08:50 PM IST)
+**Last Updated:** Saturday, 03 January 2026, 03:41 PM UTC (Saturday, 03 January 2026, 09:11 PM IST)
 
 ### Premier League
 
@@ -54,19 +54,19 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Chelsea | 19 | 8 | 6 | 5 | 11 | 30 |
 | 6 | Manchester United | 19 | 8 | 6 | 5 | 4 | 30 |
 | 7 | Sunderland | 19 | 7 | 8 | 4 | 2 | 29 |
-| 8 | Everton | 19 | 8 | 4 | 7 | 0 | 28 |
-| 9 | Brentford | 19 | 8 | 3 | 8 | 2 | 27 |
-| 10 | Crystal Palace | 19 | 7 | 6 | 6 | 1 | 27 |
-| 11 | Fulham | 19 | 8 | 3 | 8 | -1 | 27 |
-| 12 | Tottenham Hotspur | 19 | 7 | 5 | 7 | 4 | 26 |
-| 13 | Newcastle United | 19 | 7 | 5 | 7 | 2 | 26 |
-| 14 | Brighton & Hove Albion | 20 | 6 | 8 | 6 | 1 | 26 |
+| 8 | Brighton & Hove Albion | 20 | 7 | 7 | 6 | 2 | 28 |
+| 9 | Everton | 19 | 8 | 4 | 7 | 0 | 28 |
+| 10 | Brentford | 19 | 8 | 3 | 8 | 2 | 27 |
+| 11 | Crystal Palace | 19 | 7 | 6 | 6 | 1 | 27 |
+| 12 | Fulham | 19 | 8 | 3 | 8 | -1 | 27 |
+| 13 | Tottenham Hotspur | 19 | 7 | 5 | 7 | 4 | 26 |
+| 14 | Newcastle United | 19 | 7 | 5 | 7 | 2 | 26 |
 | 15 | AFC Bournemouth | 19 | 5 | 8 | 6 | -6 | 23 |
 | 16 | Leeds United | 19 | 5 | 6 | 8 | -7 | 21 |
 | 17 | Nottingham Forest | 20 | 5 | 3 | 12 | -14 | 18 |
-| 18 | West Ham United | 20 | 3 | 5 | 12 | -18 | 14 |
-| 19 | Burnley | 20 | 3 | 4 | 13 | -17 | 13 |
-| 20 | Wolverhampton Wanderers | 20 | 1 | 3 | 16 | -28 | 6 |
+| 18 | West Ham United | 20 | 3 | 5 | 12 | -19 | 14 |
+| 19 | Burnley | 20 | 3 | 3 | 14 | -18 | 12 |
+| 20 | Wolverhampton Wanderers | 20 | 1 | 3 | 16 | -27 | 6 |
 
 ### La Liga
 
@@ -301,13 +301,13 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Moreirense | 15 | 6 | 3 | 6 | -3 | 21 |
 | 9 | Estoril | 16 | 5 | 5 | 6 | 1 | 20 |
 | 10 | Estrela Amadora | 16 | 4 | 6 | 6 | -4 | 18 |
-| 11 | Rio Ave | 16 | 3 | 8 | 5 | -9 | 17 |
-| 12 | Alverca | 16 | 5 | 2 | 9 | -11 | 17 |
-| 13 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
-| 14 | Nacional | 16 | 4 | 4 | 8 | -5 | 16 |
-| 15 | Casa Pia | 16 | 3 | 5 | 8 | -13 | 14 |
-| 16 | Arouca | 16 | 3 | 5 | 8 | -22 | 14 |
-| 17 | Tondela | 15 | 2 | 3 | 10 | -18 | 9 |
+| 11 | Arouca | 17 | 4 | 5 | 8 | -21 | 17 |
+| 12 | Rio Ave | 16 | 3 | 8 | 5 | -9 | 17 |
+| 13 | Alverca | 16 | 5 | 2 | 9 | -11 | 17 |
+| 14 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
+| 15 | Nacional | 16 | 4 | 4 | 8 | -5 | 16 |
+| 16 | Casa Pia | 16 | 3 | 5 | 8 | -13 | 14 |
+| 17 | Tondela | 16 | 2 | 3 | 11 | -19 | 9 |
 | 18 | AVS | 16 | 0 | 4 | 12 | -30 | 4 |
 
 ### EFL Championship
