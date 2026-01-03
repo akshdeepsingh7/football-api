@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 11:17 AM UTC",
-        "IST": "Saturday, 03 January 2026, 04:47 PM IST"
+        "UTC": "Saturday, 03 January 2026, 11:38 AM UTC",
+        "IST": "Saturday, 03 January 2026, 05:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -644,12 +644,12 @@
             {
                 "Position": "6",
                 "Team": "Como",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "7",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "3",
                 "Goal Difference": "10",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "7",
@@ -673,6 +673,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Udinese",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "-10",
+                "Points": "23"
+            },
+            {
+                "Position": "10",
                 "Team": "Sassuolo",
                 "Played": "17",
                 "Wins": "6",
@@ -682,23 +692,13 @@
                 "Points": "22"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Atalanta",
                 "Played": "17",
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "5",
                 "Goal Difference": "1",
-                "Points": "22"
-            },
-            {
-                "Position": "11",
-                "Team": "Udinese",
-                "Played": "17",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-10",
                 "Points": "22"
             },
             {
