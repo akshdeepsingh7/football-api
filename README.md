@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 03 January 2026, 03:41 PM UTC (Saturday, 03 January 2026, 09:11 PM IST)
+**Last Updated:** Saturday, 03 January 2026, 04:26 PM UTC (Saturday, 03 January 2026, 09:56 PM IST)
 
 ### Premier League
 
@@ -54,7 +54,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Chelsea | 19 | 8 | 6 | 5 | 11 | 30 |
 | 6 | Manchester United | 19 | 8 | 6 | 5 | 4 | 30 |
 | 7 | Sunderland | 19 | 7 | 8 | 4 | 2 | 29 |
-| 8 | Brighton & Hove Albion | 20 | 7 | 7 | 6 | 2 | 28 |
+| 8 | Brighton & Hove Albion | 20 | 7 | 7 | 6 | 3 | 28 |
 | 9 | Everton | 19 | 8 | 4 | 7 | 0 | 28 |
 | 10 | Brentford | 19 | 8 | 3 | 8 | 2 | 27 |
 | 11 | Crystal Palace | 19 | 7 | 6 | 6 | 1 | 27 |
@@ -64,9 +64,9 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | AFC Bournemouth | 19 | 5 | 8 | 6 | -6 | 23 |
 | 16 | Leeds United | 19 | 5 | 6 | 8 | -7 | 21 |
 | 17 | Nottingham Forest | 20 | 5 | 3 | 12 | -14 | 18 |
-| 18 | West Ham United | 20 | 3 | 5 | 12 | -19 | 14 |
-| 19 | Burnley | 20 | 3 | 3 | 14 | -18 | 12 |
-| 20 | Wolverhampton Wanderers | 20 | 1 | 3 | 16 | -27 | 6 |
+| 18 | West Ham United | 20 | 3 | 5 | 12 | -20 | 14 |
+| 19 | Burnley | 20 | 3 | 3 | 14 | -19 | 12 |
+| 20 | Wolverhampton Wanderers | 20 | 1 | 3 | 16 | -26 | 6 |
 
 ### La Liga
 
@@ -79,11 +79,11 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Espanyol | 17 | 10 | 3 | 4 | 5 | 33 |
 | 6 | Real Betis | 17 | 7 | 7 | 3 | 10 | 28 |
 | 7 | Celta de Vigo | 18 | 6 | 8 | 4 | 4 | 26 |
-| 8 | Athletic Bilbao | 19 | 7 | 3 | 9 | -8 | 24 |
+| 8 | Athletic Bilbao | 19 | 7 | 2 | 10 | -9 | 23 |
 | 9 | Elche | 17 | 5 | 7 | 5 | 3 | 22 |
-| 10 | Getafe | 18 | 6 | 3 | 9 | -9 | 21 |
-| 11 | Sevilla | 17 | 6 | 2 | 9 | -2 | 20 |
-| 12 | Osasuna | 18 | 5 | 4 | 9 | -3 | 19 |
+| 10 | Osasuna | 18 | 6 | 3 | 9 | -2 | 21 |
+| 11 | Getafe | 18 | 6 | 3 | 9 | -9 | 21 |
+| 12 | Sevilla | 17 | 6 | 2 | 9 | -2 | 20 |
 | 13 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
 | 14 | Mallorca | 17 | 4 | 6 | 7 | -5 | 18 |
 | 15 | Alavés | 17 | 5 | 3 | 9 | -6 | 18 |
@@ -149,11 +149,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | PSG | 16 | 11 | 3 | 2 | 21 | 36 |
 | 3 | Marseille | 16 | 10 | 2 | 4 | 21 | 32 |
 | 4 | Lille | 16 | 10 | 2 | 4 | 13 | 32 |
-| 5 | Lyon | 16 | 8 | 3 | 5 | 6 | 27 |
+| 5 | Lyon | 17 | 8 | 4 | 5 | 6 | 28 |
 | 6 | Rennes | 16 | 7 | 6 | 3 | 3 | 27 |
-| 7 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
-| 8 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
-| 9 | Monaco | 16 | 7 | 2 | 7 | -1 | 23 |
+| 7 | Monaco | 17 | 7 | 3 | 7 | -1 | 24 |
+| 8 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
+| 9 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
 | 10 | Angers | 16 | 6 | 4 | 6 | -1 | 22 |
 | 11 | Brest | 16 | 5 | 4 | 7 | -6 | 19 |
 | 12 | Lorient | 16 | 4 | 6 | 6 | -9 | 18 |
@@ -301,13 +301,13 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Moreirense | 15 | 6 | 3 | 6 | -3 | 21 |
 | 9 | Estoril | 16 | 5 | 5 | 6 | 1 | 20 |
 | 10 | Estrela Amadora | 16 | 4 | 6 | 6 | -4 | 18 |
-| 11 | Arouca | 17 | 4 | 5 | 8 | -21 | 17 |
-| 12 | Rio Ave | 16 | 3 | 8 | 5 | -9 | 17 |
-| 13 | Alverca | 16 | 5 | 2 | 9 | -11 | 17 |
-| 14 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
-| 15 | Nacional | 16 | 4 | 4 | 8 | -5 | 16 |
-| 16 | Casa Pia | 16 | 3 | 5 | 8 | -13 | 14 |
-| 17 | Tondela | 16 | 2 | 3 | 11 | -19 | 9 |
+| 11 | Rio Ave | 16 | 3 | 8 | 5 | -9 | 17 |
+| 12 | Alverca | 16 | 5 | 2 | 9 | -11 | 17 |
+| 13 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
+| 14 | Nacional | 16 | 4 | 4 | 8 | -5 | 16 |
+| 15 | Casa Pia | 16 | 3 | 5 | 8 | -13 | 14 |
+| 16 | Arouca | 17 | 3 | 5 | 9 | -23 | 14 |
+| 17 | Tondela | 16 | 3 | 3 | 10 | -17 | 12 |
 | 18 | AVS | 16 | 0 | 4 | 12 | -30 | 4 |
 
 ### EFL Championship

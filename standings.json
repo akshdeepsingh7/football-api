@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 03:41 PM UTC",
-        "IST": "Saturday, 03 January 2026, 09:11 PM IST"
+        "UTC": "Saturday, 03 January 2026, 04:26 PM UTC",
+        "IST": "Saturday, 03 January 2026, 09:56 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -82,7 +82,7 @@
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "2",
+                "Goal Difference": "3",
                 "Points": "28"
             },
             {
@@ -182,7 +182,7 @@
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "12",
-                "Goal Difference": "-19",
+                "Goal Difference": "-20",
                 "Points": "14"
             },
             {
@@ -192,7 +192,7 @@
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "14",
-                "Goal Difference": "-18",
+                "Goal Difference": "-19",
                 "Points": "12"
             },
             {
@@ -202,7 +202,7 @@
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "16",
-                "Goal Difference": "-27",
+                "Goal Difference": "-26",
                 "Points": "6"
             }
         ],
@@ -282,10 +282,10 @@
                 "Team": "Athletic Bilbao",
                 "Played": "19",
                 "Wins": "7",
-                "Draws": "3",
-                "Losses": "9",
-                "Goal Difference": "-8",
-                "Points": "24"
+                "Draws": "2",
+                "Losses": "10",
+                "Goal Difference": "-9",
+                "Points": "23"
             },
             {
                 "Position": "9",
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Osasuna",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-2",
+                "Points": "21"
+            },
+            {
+                "Position": "11",
                 "Team": "Getafe",
                 "Played": "18",
                 "Wins": "6",
@@ -308,7 +318,7 @@
                 "Points": "21"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Sevilla",
                 "Played": "17",
                 "Wins": "6",
@@ -316,16 +326,6 @@
                 "Losses": "9",
                 "Goal Difference": "-2",
                 "Points": "20"
-            },
-            {
-                "Position": "12",
-                "Team": "Osasuna",
-                "Played": "18",
-                "Wins": "5",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-3",
-                "Points": "19"
             },
             {
                 "Position": "13",
@@ -836,12 +836,12 @@
             {
                 "Position": "5",
                 "Team": "Lyon",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "8",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "6",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "6",
@@ -855,6 +855,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Monaco",
+                "Played": "17",
+                "Wins": "7",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-1",
+                "Points": "24"
+            },
+            {
+                "Position": "8",
                 "Team": "Strasbourg",
                 "Played": "16",
                 "Wins": "7",
@@ -864,23 +874,13 @@
                 "Points": "23"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Toulouse",
                 "Played": "17",
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "2",
-                "Points": "23"
-            },
-            {
-                "Position": "9",
-                "Team": "Monaco",
-                "Played": "16",
-                "Wins": "7",
-                "Draws": "2",
-                "Losses": "7",
-                "Goal Difference": "-1",
                 "Points": "23"
             },
             {
@@ -2163,16 +2163,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Arouca",
-                "Played": "17",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "-21",
-                "Points": "17"
-            },
-            {
-                "Position": "12",
                 "Team": "Rio Ave",
                 "Played": "16",
                 "Wins": "3",
@@ -2182,7 +2172,7 @@
                 "Points": "17"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Alverca",
                 "Played": "16",
                 "Wins": "5",
@@ -2192,7 +2182,7 @@
                 "Points": "17"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Santa Clara",
                 "Played": "15",
                 "Wins": "4",
@@ -2202,7 +2192,7 @@
                 "Points": "16"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Nacional",
                 "Played": "16",
                 "Wins": "4",
@@ -2212,7 +2202,7 @@
                 "Points": "16"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Casa Pia",
                 "Played": "16",
                 "Wins": "3",
@@ -2222,14 +2212,24 @@
                 "Points": "14"
             },
             {
+                "Position": "16",
+                "Team": "Arouca",
+                "Played": "17",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-23",
+                "Points": "14"
+            },
+            {
                 "Position": "17",
                 "Team": "Tondela",
                 "Played": "16",
-                "Wins": "2",
+                "Wins": "3",
                 "Draws": "3",
-                "Losses": "11",
-                "Goal Difference": "-19",
-                "Points": "9"
+                "Losses": "10",
+                "Goal Difference": "-17",
+                "Points": "12"
             },
             {
                 "Position": "18",
