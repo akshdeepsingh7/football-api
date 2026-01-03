@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 08:23 PM UTC",
-        "IST": "Sunday, 04 January 2026, 01:53 AM IST"
+        "UTC": "Saturday, 03 January 2026, 08:43 PM UTC",
+        "IST": "Sunday, 04 January 2026, 02:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2134,12 +2134,12 @@
             {
                 "Position": "8",
                 "Team": "Moreirense",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "6",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "6",
                 "Goal Difference": "-3",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "9",
@@ -2234,12 +2234,12 @@
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "0",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "12",
                 "Goal Difference": "-30",
-                "Points": "4"
+                "Points": "5"
             }
         ],
         "EFL Championship": [

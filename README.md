@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 03 January 2026, 08:23 PM UTC (Sunday, 04 January 2026, 01:53 AM IST)
+**Last Updated:** Saturday, 03 January 2026, 08:43 PM UTC (Sunday, 04 January 2026, 02:13 AM IST)
 
 ### Premier League
 
@@ -298,7 +298,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Braga | 17 | 7 | 6 | 4 | 13 | 27 |
 | 6 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
 | 7 | Famalicão | 16 | 6 | 5 | 5 | 7 | 23 |
-| 8 | Moreirense | 15 | 6 | 3 | 6 | -3 | 21 |
+| 8 | Moreirense | 16 | 6 | 4 | 6 | -3 | 22 |
 | 9 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
 | 10 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
 | 11 | Rio Ave | 16 | 3 | 8 | 5 | -9 | 17 |
@@ -308,7 +308,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Casa Pia | 16 | 3 | 5 | 8 | -13 | 14 |
 | 16 | Arouca | 17 | 3 | 5 | 9 | -24 | 14 |
 | 17 | Tondela | 16 | 3 | 3 | 10 | -16 | 12 |
-| 18 | AVS | 16 | 0 | 4 | 12 | -30 | 4 |
+| 18 | AVS | 17 | 0 | 5 | 12 | -30 | 5 |
 
 ### EFL Championship
 
