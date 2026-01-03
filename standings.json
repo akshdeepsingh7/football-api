@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 09:40 PM UTC",
-        "IST": "Sunday, 04 January 2026, 03:10 AM IST"
+        "UTC": "Saturday, 03 January 2026, 10:20 PM UTC",
+        "IST": "Sunday, 04 January 2026, 03:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -211,11 +211,11 @@
                 "Position": "1",
                 "Team": "Barcelona",
                 "Played": "19",
-                "Wins": "15",
-                "Draws": "2",
+                "Wins": "16",
+                "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "31",
-                "Points": "47"
+                "Goal Difference": "33",
+                "Points": "49"
             },
             {
                 "Position": "2",
@@ -252,10 +252,10 @@
                 "Team": "Espanyol",
                 "Played": "18",
                 "Wins": "10",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "5",
-                "Points": "34"
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "3",
+                "Points": "33"
             },
             {
                 "Position": "6",
@@ -2128,7 +2128,7 @@
                 "Wins": "7",
                 "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "24"
             },
             {
@@ -2238,7 +2238,7 @@
                 "Wins": "0",
                 "Draws": "4",
                 "Losses": "13",
-                "Goal Difference": "-31",
+                "Goal Difference": "-32",
                 "Points": "4"
             }
         ],
