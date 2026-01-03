@@ -41,13 +41,13 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 03 January 2026, 05:18 PM UTC (Saturday, 03 January 2026, 10:48 PM IST)
+**Last Updated:** Saturday, 03 January 2026, 05:41 PM UTC (Saturday, 03 January 2026, 11:11 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 19 | 14 | 3 | 2 | 25 | 45 |
+| 1 | Arsenal | 20 | 14 | 4 | 2 | 25 | 46 |
 | 2 | Aston Villa | 20 | 13 | 3 | 4 | 9 | 42 |
 | 3 | Manchester City | 19 | 13 | 2 | 4 | 26 | 41 |
 | 4 | Liverpool FC | 19 | 10 | 3 | 6 | 4 | 33 |
@@ -61,7 +61,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Fulham | 19 | 8 | 3 | 8 | -1 | 27 |
 | 13 | Tottenham Hotspur | 19 | 7 | 5 | 7 | 4 | 26 |
 | 14 | Newcastle United | 19 | 7 | 5 | 7 | 2 | 26 |
-| 15 | AFC Bournemouth | 19 | 5 | 8 | 6 | -6 | 23 |
+| 15 | AFC Bournemouth | 20 | 5 | 9 | 6 | -6 | 24 |
 | 16 | Leeds United | 19 | 5 | 6 | 8 | -7 | 21 |
 | 17 | Nottingham Forest | 20 | 5 | 3 | 12 | -14 | 18 |
 | 18 | West Ham United | 20 | 3 | 5 | 12 | -20 | 14 |
@@ -74,13 +74,13 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 18 | 15 | 1 | 2 | 31 | 46 |
 | 2 | Real Madrid | 18 | 13 | 3 | 2 | 20 | 42 |
-| 3 | Atlético de Madrid | 18 | 11 | 4 | 3 | 17 | 37 |
-| 4 | Villarreal | 16 | 11 | 2 | 3 | 16 | 35 |
+| 3 | Villarreal | 17 | 12 | 2 | 3 | 17 | 38 |
+| 4 | Atlético de Madrid | 18 | 11 | 4 | 3 | 17 | 37 |
 | 5 | Espanyol | 17 | 10 | 3 | 4 | 5 | 33 |
 | 6 | Real Betis | 17 | 7 | 7 | 3 | 10 | 28 |
 | 7 | Celta de Vigo | 18 | 6 | 8 | 4 | 4 | 26 |
 | 8 | Athletic Bilbao | 19 | 7 | 3 | 9 | -8 | 24 |
-| 9 | Elche | 17 | 5 | 7 | 5 | 3 | 22 |
+| 9 | Elche | 18 | 5 | 7 | 6 | 2 | 22 |
 | 10 | Getafe | 18 | 6 | 3 | 9 | -9 | 21 |
 | 11 | Sevilla | 17 | 6 | 2 | 9 | -2 | 20 |
 | 12 | Osasuna | 18 | 5 | 4 | 9 | -3 | 19 |
@@ -149,11 +149,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | PSG | 16 | 11 | 3 | 2 | 21 | 36 |
 | 3 | Marseille | 16 | 10 | 2 | 4 | 21 | 32 |
 | 4 | Lille | 16 | 10 | 2 | 4 | 13 | 32 |
-| 5 | Lyon | 17 | 8 | 4 | 5 | 6 | 28 |
+| 5 | Lyon | 17 | 9 | 3 | 5 | 7 | 30 |
 | 6 | Rennes | 16 | 7 | 6 | 3 | 3 | 27 |
-| 7 | Monaco | 17 | 7 | 3 | 7 | -1 | 24 |
-| 8 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
-| 9 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
+| 7 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
+| 8 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
+| 9 | Monaco | 17 | 7 | 2 | 8 | -2 | 23 |
 | 10 | Angers | 16 | 6 | 4 | 6 | -1 | 22 |
 | 11 | Brest | 16 | 5 | 4 | 7 | -6 | 19 |
 | 12 | Lorient | 16 | 4 | 6 | 6 | -9 | 18 |
