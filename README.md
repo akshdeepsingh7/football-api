@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 03 January 2026, 02:42 PM UTC (Saturday, 03 January 2026, 08:12 PM IST)
+**Last Updated:** Saturday, 03 January 2026, 03:20 PM UTC (Saturday, 03 January 2026, 08:50 PM IST)
 
 ### Premier League
 
@@ -60,13 +60,13 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Fulham | 19 | 8 | 3 | 8 | -1 | 27 |
 | 12 | Tottenham Hotspur | 19 | 7 | 5 | 7 | 4 | 26 |
 | 13 | Newcastle United | 19 | 7 | 5 | 7 | 2 | 26 |
-| 14 | Brighton & Hove Albion | 19 | 6 | 7 | 6 | 1 | 25 |
+| 14 | Brighton & Hove Albion | 20 | 6 | 8 | 6 | 1 | 26 |
 | 15 | AFC Bournemouth | 19 | 5 | 8 | 6 | -6 | 23 |
 | 16 | Leeds United | 19 | 5 | 6 | 8 | -7 | 21 |
 | 17 | Nottingham Forest | 20 | 5 | 3 | 12 | -14 | 18 |
-| 18 | West Ham United | 19 | 3 | 5 | 11 | -17 | 14 |
-| 19 | Burnley | 19 | 3 | 3 | 13 | -17 | 12 |
-| 20 | Wolverhampton Wanderers | 19 | 0 | 3 | 16 | -29 | 3 |
+| 18 | West Ham United | 20 | 3 | 5 | 12 | -18 | 14 |
+| 19 | Burnley | 20 | 3 | 4 | 13 | -17 | 13 |
+| 20 | Wolverhampton Wanderers | 20 | 1 | 3 | 16 | -28 | 6 |
 
 ### La Liga
 
@@ -78,17 +78,17 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Villarreal | 16 | 11 | 2 | 3 | 16 | 35 |
 | 5 | Espanyol | 17 | 10 | 3 | 4 | 5 | 33 |
 | 6 | Real Betis | 17 | 7 | 7 | 3 | 10 | 28 |
-| 7 | Celta de Vigo | 18 | 6 | 8 | 4 | 2 | 26 |
-| 8 | Athletic Bilbao | 18 | 7 | 2 | 9 | -8 | 23 |
+| 7 | Celta de Vigo | 18 | 6 | 8 | 4 | 4 | 26 |
+| 8 | Athletic Bilbao | 19 | 7 | 3 | 9 | -8 | 24 |
 | 9 | Elche | 17 | 5 | 7 | 5 | 3 | 22 |
 | 10 | Getafe | 18 | 6 | 3 | 9 | -9 | 21 |
 | 11 | Sevilla | 17 | 6 | 2 | 9 | -2 | 20 |
-| 12 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
-| 13 | Osasuna | 17 | 5 | 3 | 9 | -3 | 18 |
+| 12 | Osasuna | 18 | 5 | 4 | 9 | -3 | 19 |
+| 13 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
 | 14 | Mallorca | 17 | 4 | 6 | 7 | -5 | 18 |
 | 15 | Alavés | 17 | 5 | 3 | 9 | -6 | 18 |
 | 16 | Real Sociedad | 17 | 4 | 5 | 8 | -4 | 17 |
-| 17 | Valencia | 18 | 3 | 7 | 8 | -11 | 16 |
+| 17 | Valencia | 18 | 3 | 7 | 8 | -13 | 16 |
 | 18 | Girona | 17 | 3 | 6 | 8 | -18 | 15 |
 | 19 | Real Oviedo | 17 | 2 | 5 | 10 | -19 | 11 |
 | 20 | Levante | 16 | 2 | 4 | 10 | -12 | 10 |

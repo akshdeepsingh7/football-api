@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 02:42 PM UTC",
-        "IST": "Saturday, 03 January 2026, 08:12 PM IST"
+        "UTC": "Saturday, 03 January 2026, 03:20 PM UTC",
+        "IST": "Saturday, 03 January 2026, 08:50 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -138,12 +138,12 @@
             {
                 "Position": "14",
                 "Team": "Brighton & Hove Albion",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "6",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "6",
                 "Goal Difference": "1",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "15",
@@ -178,32 +178,32 @@
             {
                 "Position": "18",
                 "Team": "West Ham United",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "3",
                 "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-17",
+                "Losses": "12",
+                "Goal Difference": "-18",
                 "Points": "14"
             },
             {
                 "Position": "19",
                 "Team": "Burnley",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "3",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "13",
                 "Goal Difference": "-17",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "20",
                 "Team": "Wolverhampton Wanderers",
-                "Played": "19",
-                "Wins": "0",
+                "Played": "20",
+                "Wins": "1",
                 "Draws": "3",
                 "Losses": "16",
-                "Goal Difference": "-29",
-                "Points": "3"
+                "Goal Difference": "-28",
+                "Points": "6"
             }
         ],
         "La Liga": [
@@ -274,18 +274,18 @@
                 "Wins": "6",
                 "Draws": "8",
                 "Losses": "4",
-                "Goal Difference": "2",
+                "Goal Difference": "4",
                 "Points": "26"
             },
             {
                 "Position": "8",
                 "Team": "Athletic Bilbao",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "7",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "9",
                 "Goal Difference": "-8",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "9",
@@ -319,6 +319,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Osasuna",
+                "Played": "18",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "-3",
+                "Points": "19"
+            },
+            {
+                "Position": "13",
                 "Team": "Rayo Vallecano",
                 "Played": "18",
                 "Wins": "4",
@@ -326,16 +336,6 @@
                 "Losses": "7",
                 "Goal Difference": "-7",
                 "Points": "19"
-            },
-            {
-                "Position": "13",
-                "Team": "Osasuna",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "9",
-                "Goal Difference": "-3",
-                "Points": "18"
             },
             {
                 "Position": "14",
@@ -374,7 +374,7 @@
                 "Wins": "3",
                 "Draws": "7",
                 "Losses": "8",
-                "Goal Difference": "-11",
+                "Goal Difference": "-13",
                 "Points": "16"
             },
             {
