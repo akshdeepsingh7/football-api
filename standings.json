@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 02:19 PM UTC",
-        "IST": "Saturday, 03 January 2026, 07:49 PM IST"
+        "UTC": "Saturday, 03 January 2026, 02:42 PM UTC",
+        "IST": "Saturday, 03 January 2026, 08:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -663,16 +663,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Sassuolo",
-                "Played": "18",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "2",
-                "Points": "25"
-            },
-            {
-                "Position": "9",
                 "Team": "Lazio",
                 "Played": "17",
                 "Wins": "6",
@@ -680,6 +670,16 @@
                 "Losses": "5",
                 "Goal Difference": "6",
                 "Points": "24"
+            },
+            {
+                "Position": "9",
+                "Team": "Sassuolo",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "1",
+                "Points": "23"
             },
             {
                 "Position": "10",
@@ -723,6 +723,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Parma",
+                "Played": "17",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "-7",
+                "Points": "18"
+            },
+            {
+                "Position": "15",
                 "Team": "Cagliari",
                 "Played": "18",
                 "Wins": "4",
@@ -732,27 +742,7 @@
                 "Points": "18"
             },
             {
-                "Position": "15",
-                "Team": "Parma",
-                "Played": "17",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "-8",
-                "Points": "17"
-            },
-            {
                 "Position": "16",
-                "Team": "Genoa",
-                "Played": "18",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-9",
-                "Points": "17"
-            },
-            {
-                "Position": "17",
                 "Team": "Lecce",
                 "Played": "16",
                 "Wins": "4",
@@ -760,6 +750,16 @@
                 "Losses": "8",
                 "Goal Difference": "-11",
                 "Points": "16"
+            },
+            {
+                "Position": "17",
+                "Team": "Genoa",
+                "Played": "18",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-10",
+                "Points": "15"
             },
             {
                 "Position": "18",
@@ -776,10 +776,10 @@
                 "Team": "Pisa",
                 "Played": "18",
                 "Wins": "1",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-13",
-                "Points": "11"
+                "Draws": "9",
+                "Losses": "8",
+                "Goal Difference": "-12",
+                "Points": "12"
             },
             {
                 "Position": "20",
