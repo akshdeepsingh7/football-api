@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 03 January 2026, 04:26 PM UTC (Saturday, 03 January 2026, 09:56 PM IST)
+**Last Updated:** Saturday, 03 January 2026, 04:48 PM UTC (Saturday, 03 January 2026, 10:18 PM IST)
 
 ### Premier League
 
@@ -79,11 +79,11 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Espanyol | 17 | 10 | 3 | 4 | 5 | 33 |
 | 6 | Real Betis | 17 | 7 | 7 | 3 | 10 | 28 |
 | 7 | Celta de Vigo | 18 | 6 | 8 | 4 | 4 | 26 |
-| 8 | Athletic Bilbao | 19 | 7 | 2 | 10 | -9 | 23 |
+| 8 | Athletic Bilbao | 19 | 7 | 3 | 9 | -8 | 24 |
 | 9 | Elche | 17 | 5 | 7 | 5 | 3 | 22 |
-| 10 | Osasuna | 18 | 6 | 3 | 9 | -2 | 21 |
-| 11 | Getafe | 18 | 6 | 3 | 9 | -9 | 21 |
-| 12 | Sevilla | 17 | 6 | 2 | 9 | -2 | 20 |
+| 10 | Getafe | 18 | 6 | 3 | 9 | -9 | 21 |
+| 11 | Sevilla | 17 | 6 | 2 | 9 | -2 | 20 |
+| 12 | Osasuna | 18 | 5 | 4 | 9 | -3 | 19 |
 | 13 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
 | 14 | Mallorca | 17 | 4 | 6 | 7 | -5 | 18 |
 | 15 | Alavés | 17 | 5 | 3 | 9 | -6 | 18 |
@@ -149,11 +149,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | PSG | 16 | 11 | 3 | 2 | 21 | 36 |
 | 3 | Marseille | 16 | 10 | 2 | 4 | 21 | 32 |
 | 4 | Lille | 16 | 10 | 2 | 4 | 13 | 32 |
-| 5 | Lyon | 17 | 8 | 4 | 5 | 6 | 28 |
+| 5 | Lyon | 17 | 9 | 3 | 5 | 7 | 30 |
 | 6 | Rennes | 16 | 7 | 6 | 3 | 3 | 27 |
-| 7 | Monaco | 17 | 7 | 3 | 7 | -1 | 24 |
-| 8 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
-| 9 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
+| 7 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
+| 8 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
+| 9 | Monaco | 17 | 7 | 2 | 8 | -2 | 23 |
 | 10 | Angers | 16 | 6 | 4 | 6 | -1 | 22 |
 | 11 | Brest | 16 | 5 | 4 | 7 | -6 | 19 |
 | 12 | Lorient | 16 | 4 | 6 | 6 | -9 | 18 |
