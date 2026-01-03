@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 01:29 PM UTC",
-        "IST": "Saturday, 03 January 2026, 06:59 PM IST"
+        "UTC": "Saturday, 03 January 2026, 01:47 PM UTC",
+        "IST": "Saturday, 03 January 2026, 07:17 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -22,7 +22,7 @@
                 "Wins": "13",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "8",
+                "Goal Difference": "9",
                 "Points": "42"
             },
             {
@@ -172,7 +172,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "12",
-                "Goal Difference": "-13",
+                "Goal Difference": "-14",
                 "Points": "18"
             },
             {
@@ -271,11 +271,11 @@
                 "Position": "7",
                 "Team": "Celta de Vigo",
                 "Played": "18",
-                "Wins": "5",
-                "Draws": "9",
+                "Wins": "6",
+                "Draws": "8",
                 "Losses": "4",
-                "Goal Difference": "1",
-                "Points": "24"
+                "Goal Difference": "2",
+                "Points": "26"
             },
             {
                 "Position": "8",
@@ -372,10 +372,10 @@
                 "Team": "Valencia",
                 "Played": "18",
                 "Wins": "3",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "-10",
-                "Points": "17"
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "-11",
+                "Points": "16"
             },
             {
                 "Position": "18",
