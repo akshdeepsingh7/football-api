@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 03 January 2026, 05:41 PM UTC (Saturday, 03 January 2026, 11:11 PM IST)
+**Last Updated:** Saturday, 03 January 2026, 06:30 PM UTC (Sunday, 04 January 2026, 12:00 AM IST)
 
 ### Premier League
 
@@ -149,15 +149,15 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | PSG | 16 | 11 | 3 | 2 | 21 | 36 |
 | 3 | Marseille | 16 | 10 | 2 | 4 | 21 | 32 |
 | 4 | Lille | 16 | 10 | 2 | 4 | 13 | 32 |
-| 5 | Lyon | 17 | 9 | 3 | 5 | 7 | 30 |
+| 5 | Lyon | 17 | 9 | 3 | 5 | 8 | 30 |
 | 6 | Rennes | 16 | 7 | 6 | 3 | 3 | 27 |
-| 7 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
+| 7 | Strasbourg | 17 | 8 | 2 | 7 | 6 | 26 |
 | 8 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
-| 9 | Monaco | 17 | 7 | 2 | 8 | -2 | 23 |
+| 9 | Monaco | 17 | 7 | 2 | 8 | -3 | 23 |
 | 10 | Angers | 16 | 6 | 4 | 6 | -1 | 22 |
 | 11 | Brest | 16 | 5 | 4 | 7 | -6 | 19 |
 | 12 | Lorient | 16 | 4 | 6 | 6 | -9 | 18 |
-| 13 | Nice | 16 | 5 | 2 | 9 | -10 | 17 |
+| 13 | Nice | 17 | 5 | 2 | 10 | -11 | 17 |
 | 14 | Paris FC | 16 | 4 | 4 | 8 | -8 | 16 |
 | 15 | Le Havre | 16 | 3 | 6 | 7 | -9 | 15 |
 | 16 | Auxerre | 16 | 3 | 3 | 10 | -11 | 12 |
@@ -293,14 +293,14 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 16 | 15 | 1 | 0 | 31 | 46 |
 | 2 | Sporting CP | 17 | 13 | 3 | 1 | 38 | 42 |
-| 3 | Benfica | 16 | 10 | 6 | 0 | 23 | 36 |
+| 3 | Benfica | 17 | 10 | 7 | 0 | 23 | 37 |
 | 4 | Gil Vicente | 17 | 7 | 7 | 3 | 10 | 28 |
-| 5 | Braga | 16 | 7 | 5 | 4 | 13 | 26 |
+| 5 | Braga | 17 | 7 | 6 | 4 | 13 | 27 |
 | 6 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
 | 7 | Famalicão | 16 | 6 | 5 | 5 | 7 | 23 |
-| 8 | Moreirense | 15 | 6 | 3 | 6 | -3 | 21 |
-| 9 | Estoril | 16 | 5 | 5 | 6 | 1 | 20 |
-| 10 | Estrela Amadora | 16 | 4 | 6 | 6 | -4 | 18 |
+| 8 | Estoril | 17 | 5 | 6 | 6 | 1 | 21 |
+| 9 | Moreirense | 15 | 6 | 3 | 6 | -3 | 21 |
+| 10 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
 | 11 | Rio Ave | 16 | 3 | 8 | 5 | -9 | 17 |
 | 12 | Alverca | 16 | 5 | 2 | 9 | -11 | 17 |
 | 13 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
