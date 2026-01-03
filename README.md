@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 03 January 2026, 04:48 PM UTC (Saturday, 03 January 2026, 10:18 PM IST)
+**Last Updated:** Saturday, 03 January 2026, 05:18 PM UTC (Saturday, 03 January 2026, 10:48 PM IST)
 
 ### Premier League
 
@@ -124,7 +124,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Inter | 16 | 12 | 0 | 4 | 21 | 36 |
 | 3 | Napoli | 16 | 11 | 1 | 4 | 11 | 34 |
 | 4 | Roma | 17 | 11 | 0 | 6 | 9 | 33 |
-| 5 | Juventus | 17 | 9 | 5 | 3 | 8 | 32 |
+| 5 | Juventus | 18 | 9 | 6 | 3 | 8 | 33 |
 | 6 | Como | 17 | 8 | 6 | 3 | 11 | 30 |
 | 7 | Bologna | 16 | 7 | 5 | 4 | 10 | 26 |
 | 8 | Lazio | 17 | 6 | 6 | 5 | 6 | 24 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Torino | 17 | 5 | 5 | 7 | -11 | 20 |
 | 14 | Parma | 17 | 4 | 6 | 7 | -7 | 18 |
 | 15 | Cagliari | 18 | 4 | 6 | 8 | -6 | 18 |
-| 16 | Lecce | 16 | 4 | 4 | 8 | -11 | 16 |
+| 16 | Lecce | 17 | 4 | 5 | 8 | -11 | 17 |
 | 17 | Genoa | 18 | 3 | 6 | 9 | -10 | 15 |
 | 18 | Hellas Verona | 16 | 2 | 6 | 8 | -12 | 12 |
 | 19 | Pisa | 18 | 1 | 9 | 8 | -12 | 12 |
@@ -149,11 +149,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | PSG | 16 | 11 | 3 | 2 | 21 | 36 |
 | 3 | Marseille | 16 | 10 | 2 | 4 | 21 | 32 |
 | 4 | Lille | 16 | 10 | 2 | 4 | 13 | 32 |
-| 5 | Lyon | 17 | 9 | 3 | 5 | 7 | 30 |
+| 5 | Lyon | 17 | 8 | 4 | 5 | 6 | 28 |
 | 6 | Rennes | 16 | 7 | 6 | 3 | 3 | 27 |
-| 7 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
-| 8 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
-| 9 | Monaco | 17 | 7 | 2 | 8 | -2 | 23 |
+| 7 | Monaco | 17 | 7 | 3 | 7 | -1 | 24 |
+| 8 | Strasbourg | 16 | 7 | 2 | 7 | 5 | 23 |
+| 9 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
 | 10 | Angers | 16 | 6 | 4 | 6 | -1 | 22 |
 | 11 | Brest | 16 | 5 | 4 | 7 | -6 | 19 |
 | 12 | Lorient | 16 | 4 | 6 | 6 | -9 | 18 |
@@ -306,8 +306,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
 | 14 | Nacional | 16 | 4 | 4 | 8 | -5 | 16 |
 | 15 | Casa Pia | 16 | 3 | 5 | 8 | -13 | 14 |
-| 16 | Arouca | 17 | 3 | 5 | 9 | -23 | 14 |
-| 17 | Tondela | 16 | 3 | 3 | 10 | -17 | 12 |
+| 16 | Arouca | 17 | 3 | 5 | 9 | -24 | 14 |
+| 17 | Tondela | 16 | 3 | 3 | 10 | -16 | 12 |
 | 18 | AVS | 16 | 0 | 4 | 12 | -30 | 4 |
 
 ### EFL Championship
