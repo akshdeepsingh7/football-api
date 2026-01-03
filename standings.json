@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 11:38 AM UTC",
-        "IST": "Saturday, 03 January 2026, 05:08 PM IST"
+        "UTC": "Saturday, 03 January 2026, 12:41 PM UTC",
+        "IST": "Saturday, 03 January 2026, 06:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -28,12 +28,12 @@
             {
                 "Position": "3",
                 "Team": "Aston Villa",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "12",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "7",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "4",
@@ -168,12 +168,12 @@
             {
                 "Position": "17",
                 "Team": "Nottingham Forest",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "5",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "11",
                 "Goal Difference": "-12",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "18",
@@ -645,11 +645,11 @@
                 "Position": "6",
                 "Team": "Como",
                 "Played": "17",
-                "Wins": "7",
-                "Draws": "7",
+                "Wins": "8",
+                "Draws": "6",
                 "Losses": "3",
-                "Goal Difference": "10",
-                "Points": "28"
+                "Goal Difference": "11",
+                "Points": "30"
             },
             {
                 "Position": "7",
@@ -673,16 +673,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Udinese",
-                "Played": "18",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-10",
-                "Points": "23"
-            },
-            {
-                "Position": "10",
                 "Team": "Sassuolo",
                 "Played": "17",
                 "Wins": "6",
@@ -692,13 +682,23 @@
                 "Points": "22"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Atalanta",
                 "Played": "17",
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "5",
                 "Goal Difference": "1",
+                "Points": "22"
+            },
+            {
+                "Position": "11",
+                "Team": "Udinese",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-11",
                 "Points": "22"
             },
             {

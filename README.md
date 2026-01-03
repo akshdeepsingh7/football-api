@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 03 January 2026, 11:38 AM UTC (Saturday, 03 January 2026, 05:08 PM IST)
+**Last Updated:** Saturday, 03 January 2026, 12:41 PM UTC (Saturday, 03 January 2026, 06:11 PM IST)
 
 ### Premier League
 
@@ -49,7 +49,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 19 | 14 | 3 | 2 | 25 | 45 |
 | 2 | Manchester City | 19 | 13 | 2 | 4 | 26 | 41 |
-| 3 | Aston Villa | 19 | 12 | 3 | 4 | 7 | 39 |
+| 3 | Aston Villa | 20 | 12 | 4 | 4 | 7 | 40 |
 | 4 | Liverpool FC | 19 | 10 | 3 | 6 | 4 | 33 |
 | 5 | Chelsea | 19 | 8 | 6 | 5 | 11 | 30 |
 | 6 | Manchester United | 19 | 8 | 6 | 5 | 4 | 30 |
@@ -63,7 +63,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Brighton & Hove Albion | 19 | 6 | 7 | 6 | 1 | 25 |
 | 15 | AFC Bournemouth | 19 | 5 | 8 | 6 | -6 | 23 |
 | 16 | Leeds United | 19 | 5 | 6 | 8 | -7 | 21 |
-| 17 | Nottingham Forest | 19 | 5 | 3 | 11 | -12 | 18 |
+| 17 | Nottingham Forest | 20 | 5 | 4 | 11 | -12 | 19 |
 | 18 | West Ham United | 19 | 3 | 5 | 11 | -17 | 14 |
 | 19 | Burnley | 19 | 3 | 3 | 13 | -17 | 12 |
 | 20 | Wolverhampton Wanderers | 19 | 0 | 3 | 16 | -29 | 3 |
@@ -125,12 +125,12 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Napoli | 16 | 11 | 1 | 4 | 11 | 34 |
 | 4 | Roma | 17 | 11 | 0 | 6 | 9 | 33 |
 | 5 | Juventus | 17 | 9 | 5 | 3 | 8 | 32 |
-| 6 | Como | 17 | 7 | 7 | 3 | 10 | 28 |
+| 6 | Como | 17 | 8 | 6 | 3 | 11 | 30 |
 | 7 | Bologna | 16 | 7 | 5 | 4 | 10 | 26 |
 | 8 | Lazio | 17 | 6 | 6 | 5 | 6 | 24 |
-| 9 | Udinese | 18 | 6 | 5 | 7 | -10 | 23 |
-| 10 | Sassuolo | 17 | 6 | 4 | 7 | 1 | 22 |
-| 11 | Atalanta | 17 | 5 | 7 | 5 | 1 | 22 |
+| 9 | Sassuolo | 17 | 6 | 4 | 7 | 1 | 22 |
+| 10 | Atalanta | 17 | 5 | 7 | 5 | 1 | 22 |
+| 11 | Udinese | 18 | 6 | 4 | 8 | -11 | 22 |
 | 12 | Cremonese | 17 | 5 | 6 | 6 | -2 | 21 |
 | 13 | Torino | 17 | 5 | 5 | 7 | -11 | 20 |
 | 14 | Cagliari | 18 | 4 | 6 | 8 | -6 | 18 |
