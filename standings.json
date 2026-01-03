@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 03 January 2026, 06:30 PM UTC",
-        "IST": "Sunday, 04 January 2026, 12:00 AM IST"
+        "UTC": "Saturday, 03 January 2026, 06:52 PM UTC",
+        "IST": "Sunday, 04 January 2026, 12:22 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -9,11 +9,11 @@
                 "Position": "1",
                 "Team": "Arsenal",
                 "Played": "20",
-                "Wins": "14",
-                "Draws": "4",
+                "Wins": "15",
+                "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "25",
-                "Points": "46"
+                "Goal Difference": "26",
+                "Points": "48"
             },
             {
                 "Position": "2",
@@ -150,10 +150,10 @@
                 "Team": "AFC Bournemouth",
                 "Played": "20",
                 "Wins": "5",
-                "Draws": "9",
-                "Losses": "6",
-                "Goal Difference": "-6",
-                "Points": "24"
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "-7",
+                "Points": "23"
             },
             {
                 "Position": "16",
@@ -2085,11 +2085,11 @@
                 "Position": "3",
                 "Team": "Benfica",
                 "Played": "17",
-                "Wins": "10",
-                "Draws": "7",
+                "Wins": "11",
+                "Draws": "6",
                 "Losses": "0",
-                "Goal Difference": "23",
-                "Points": "37"
+                "Goal Difference": "24",
+                "Points": "39"
             },
             {
                 "Position": "4",
@@ -2133,16 +2133,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Estoril",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "1",
-                "Points": "21"
-            },
-            {
-                "Position": "9",
                 "Team": "Moreirense",
                 "Played": "15",
                 "Wins": "6",
@@ -2150,6 +2140,16 @@
                 "Losses": "6",
                 "Goal Difference": "-3",
                 "Points": "21"
+            },
+            {
+                "Position": "9",
+                "Team": "Estoril",
+                "Played": "17",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "0",
+                "Points": "20"
             },
             {
                 "Position": "10",
