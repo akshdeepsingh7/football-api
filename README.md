@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 04 January 2026, 11:17 AM UTC (Sunday, 04 January 2026, 04:47 PM IST)
+**Last Updated:** Sunday, 04 January 2026, 11:38 AM UTC (Sunday, 04 January 2026, 05:08 PM IST)
 
 ### Premier League
 
@@ -122,13 +122,13 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Milan | 17 | 11 | 5 | 1 | 15 | 38 |
 | 2 | Inter | 16 | 12 | 0 | 4 | 21 | 36 |
-| 3 | Napoli | 16 | 11 | 1 | 4 | 11 | 34 |
+| 3 | Napoli | 17 | 11 | 2 | 4 | 11 | 35 |
 | 4 | Juventus | 18 | 9 | 6 | 3 | 8 | 33 |
 | 5 | Roma | 18 | 11 | 0 | 7 | 8 | 33 |
 | 6 | Como | 17 | 8 | 6 | 3 | 11 | 30 |
 | 7 | Bologna | 16 | 7 | 5 | 4 | 10 | 26 |
-| 8 | Atalanta | 18 | 6 | 7 | 5 | 2 | 25 |
-| 9 | Lazio | 17 | 6 | 6 | 5 | 6 | 24 |
+| 8 | Lazio | 18 | 6 | 7 | 5 | 6 | 25 |
+| 9 | Atalanta | 18 | 6 | 7 | 5 | 2 | 25 |
 | 10 | Sassuolo | 18 | 6 | 5 | 7 | 1 | 23 |
 | 11 | Udinese | 18 | 6 | 4 | 8 | -11 | 22 |
 | 12 | Cremonese | 17 | 5 | 6 | 6 | -2 | 21 |
