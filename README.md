@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 04 January 2026, 08:44 PM UTC (Monday, 05 January 2026, 02:14 AM IST)
+**Last Updated:** Sunday, 04 January 2026, 09:19 PM UTC (Monday, 05 January 2026, 02:49 AM IST)
 
 ### Premier League
 
@@ -120,13 +120,13 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 17 | 13 | 0 | 4 | 22 | 39 |
+| 1 | Inter | 17 | 13 | 0 | 4 | 23 | 39 |
 | 2 | Milan | 17 | 11 | 5 | 1 | 15 | 38 |
 | 3 | Napoli | 17 | 12 | 1 | 4 | 13 | 37 |
 | 4 | Juventus | 18 | 9 | 6 | 3 | 8 | 33 |
 | 5 | Roma | 18 | 11 | 0 | 7 | 8 | 33 |
 | 6 | Como | 17 | 8 | 6 | 3 | 11 | 30 |
-| 7 | Bologna | 17 | 7 | 5 | 5 | 9 | 26 |
+| 7 | Bologna | 17 | 7 | 5 | 5 | 8 | 26 |
 | 8 | Atalanta | 18 | 6 | 7 | 5 | 2 | 25 |
 | 9 | Lazio | 18 | 6 | 6 | 6 | 4 | 24 |
 | 10 | Sassuolo | 18 | 6 | 5 | 7 | 1 | 23 |
