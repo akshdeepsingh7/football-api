@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 04 January 2026, 12:42 PM UTC",
-        "IST": "Sunday, 04 January 2026, 06:12 PM IST"
+        "UTC": "Sunday, 04 January 2026, 01:30 PM UTC",
+        "IST": "Sunday, 04 January 2026, 07:00 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Sevilla",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-2",
+                "Points": "21"
+            },
+            {
+                "Position": "11",
                 "Team": "Getafe",
                 "Played": "18",
                 "Wins": "6",
@@ -306,16 +316,6 @@
                 "Losses": "9",
                 "Goal Difference": "-9",
                 "Points": "21"
-            },
-            {
-                "Position": "11",
-                "Team": "Sevilla",
-                "Played": "17",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "9",
-                "Goal Difference": "-2",
-                "Points": "20"
             },
             {
                 "Position": "12",
@@ -389,6 +389,16 @@
             },
             {
                 "Position": "19",
+                "Team": "Levante",
+                "Played": "17",
+                "Wins": "2",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-12",
+                "Points": "11"
+            },
+            {
+                "Position": "20",
                 "Team": "Real Oviedo",
                 "Played": "17",
                 "Wins": "2",
@@ -396,16 +406,6 @@
                 "Losses": "10",
                 "Goal Difference": "-19",
                 "Points": "11"
-            },
-            {
-                "Position": "20",
-                "Team": "Levante",
-                "Played": "16",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "-12",
-                "Points": "10"
             }
         ],
         "Bundesliga": [
