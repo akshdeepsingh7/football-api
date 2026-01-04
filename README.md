@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 04 January 2026, 10:20 PM UTC (Monday, 05 January 2026, 03:50 AM IST)
+**Last Updated:** Sunday, 04 January 2026, 10:44 PM UTC (Monday, 05 January 2026, 04:14 AM IST)
 
 ### Premier League
 
@@ -297,12 +297,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Gil Vicente | 17 | 7 | 7 | 3 | 10 | 28 |
 | 5 | Braga | 17 | 7 | 6 | 4 | 13 | 27 |
 | 6 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
-| 7 | Famalicão | 17 | 6 | 6 | 5 | 7 | 24 |
-| 8 | Moreirense | 16 | 7 | 3 | 6 | -1 | 24 |
+| 7 | Moreirense | 16 | 7 | 3 | 6 | -1 | 24 |
+| 8 | Famalicão | 17 | 6 | 5 | 6 | 6 | 23 |
 | 9 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
 | 10 | Rio Ave | 17 | 4 | 8 | 5 | -7 | 20 |
-| 11 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
-| 12 | Alverca | 17 | 5 | 3 | 9 | -11 | 18 |
+| 11 | Alverca | 17 | 6 | 2 | 9 | -10 | 20 |
+| 12 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
 | 13 | Nacional | 16 | 4 | 4 | 8 | -5 | 16 |
 | 14 | Santa Clara | 16 | 4 | 4 | 8 | -5 | 16 |
 | 15 | Casa Pia | 17 | 3 | 5 | 9 | -15 | 14 |

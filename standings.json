@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 04 January 2026, 10:20 PM UTC",
-        "IST": "Monday, 05 January 2026, 03:50 AM IST"
+        "UTC": "Sunday, 04 January 2026, 10:44 PM UTC",
+        "IST": "Monday, 05 January 2026, 04:14 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2123,16 +2123,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Famalic\u00e3o",
-                "Played": "17",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "7",
-                "Points": "24"
-            },
-            {
-                "Position": "8",
                 "Team": "Moreirense",
                 "Played": "16",
                 "Wins": "7",
@@ -2140,6 +2130,16 @@
                 "Losses": "6",
                 "Goal Difference": "-1",
                 "Points": "24"
+            },
+            {
+                "Position": "8",
+                "Team": "Famalic\u00e3o",
+                "Played": "17",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "6",
+                "Points": "23"
             },
             {
                 "Position": "9",
@@ -2163,6 +2163,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Alverca",
+                "Played": "17",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "9",
+                "Goal Difference": "-10",
+                "Points": "20"
+            },
+            {
+                "Position": "12",
                 "Team": "Estrela Amadora",
                 "Played": "17",
                 "Wins": "4",
@@ -2170,16 +2180,6 @@
                 "Losses": "6",
                 "Goal Difference": "-4",
                 "Points": "19"
-            },
-            {
-                "Position": "12",
-                "Team": "Alverca",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "9",
-                "Goal Difference": "-11",
-                "Points": "18"
             },
             {
                 "Position": "13",
