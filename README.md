@@ -41,18 +41,18 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 04 January 2026, 05:41 PM UTC (Sunday, 04 January 2026, 11:11 PM IST)
+**Last Updated:** Sunday, 04 January 2026, 06:30 PM UTC (Monday, 05 January 2026, 12:00 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 20 | 15 | 3 | 2 | 26 | 48 |
-| 2 | Manchester City | 20 | 13 | 3 | 4 | 26 | 42 |
+| 2 | Manchester City | 20 | 14 | 2 | 4 | 27 | 44 |
 | 3 | Aston Villa | 20 | 13 | 3 | 4 | 9 | 42 |
 | 4 | Liverpool FC | 20 | 10 | 4 | 6 | 4 | 34 |
-| 5 | Chelsea | 20 | 8 | 7 | 5 | 11 | 31 |
-| 6 | Manchester United | 20 | 8 | 7 | 5 | 4 | 31 |
+| 5 | Manchester United | 20 | 8 | 7 | 5 | 4 | 31 |
+| 6 | Chelsea | 20 | 8 | 6 | 6 | 10 | 30 |
 | 7 | Brentford | 20 | 9 | 3 | 8 | 4 | 30 |
 | 8 | Sunderland | 20 | 7 | 9 | 4 | 2 | 30 |
 | 9 | Newcastle United | 20 | 8 | 5 | 7 | 4 | 29 |
@@ -84,12 +84,12 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Getafe | 18 | 6 | 3 | 9 | -9 | 21 |
 | 11 | Sevilla | 18 | 6 | 2 | 10 | -5 | 20 |
 | 12 | Osasuna | 18 | 5 | 4 | 9 | -3 | 19 |
-| 13 | Mallorca | 18 | 4 | 7 | 7 | -5 | 19 |
-| 14 | Alavés | 18 | 5 | 4 | 9 | -6 | 19 |
-| 15 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
-| 16 | Real Sociedad | 17 | 4 | 5 | 8 | -4 | 17 |
-| 17 | Valencia | 18 | 3 | 7 | 8 | -13 | 16 |
-| 18 | Girona | 18 | 3 | 7 | 8 | -18 | 16 |
+| 13 | Alavés | 18 | 5 | 4 | 9 | -6 | 19 |
+| 14 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
+| 15 | Mallorca | 18 | 4 | 6 | 8 | -6 | 18 |
+| 16 | Girona | 18 | 4 | 6 | 8 | -17 | 18 |
+| 17 | Real Sociedad | 17 | 4 | 5 | 8 | -4 | 17 |
+| 18 | Valencia | 18 | 3 | 7 | 8 | -13 | 16 |
 | 19 | Levante | 17 | 3 | 4 | 10 | -9 | 13 |
 | 20 | Real Oviedo | 18 | 2 | 6 | 10 | -19 | 12 |
 
@@ -153,16 +153,16 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Rennes | 17 | 8 | 6 | 3 | 5 | 30 |
 | 7 | Strasbourg | 17 | 7 | 3 | 7 | 5 | 24 |
 | 8 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
-| 9 | Angers | 17 | 6 | 5 | 6 | -1 | 23 |
-| 10 | Monaco | 17 | 7 | 2 | 8 | -3 | 23 |
-| 11 | Brest | 17 | 6 | 4 | 7 | -5 | 22 |
-| 12 | Nice | 17 | 5 | 3 | 9 | -10 | 18 |
-| 13 | Lorient | 17 | 4 | 6 | 7 | -10 | 18 |
-| 14 | Paris FC | 16 | 4 | 4 | 8 | -8 | 16 |
-| 15 | Le Havre | 17 | 3 | 7 | 7 | -9 | 16 |
+| 9 | Monaco | 17 | 7 | 2 | 8 | -3 | 23 |
+| 10 | Angers | 17 | 6 | 4 | 7 | -2 | 22 |
+| 11 | Brest | 17 | 6 | 4 | 7 | -4 | 22 |
+| 12 | Lorient | 17 | 4 | 7 | 6 | -9 | 19 |
+| 13 | Le Havre | 17 | 4 | 6 | 7 | -8 | 18 |
+| 14 | Nice | 17 | 5 | 3 | 9 | -10 | 18 |
+| 15 | Paris FC | 16 | 4 | 4 | 8 | -8 | 16 |
 | 16 | Nantes | 17 | 3 | 5 | 9 | -12 | 14 |
-| 17 | Metz | 17 | 4 | 2 | 11 | -19 | 14 |
-| 18 | Auxerre | 17 | 3 | 3 | 11 | -12 | 12 |
+| 17 | Auxerre | 17 | 3 | 3 | 11 | -13 | 12 |
+| 18 | Metz | 17 | 3 | 3 | 11 | -20 | 12 |
 
 ### Champions League
 
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 16 | 15 | 1 | 0 | 31 | 46 |
+| 1 | Porto | 17 | 15 | 2 | 0 | 31 | 47 |
 | 2 | Sporting CP | 17 | 13 | 3 | 1 | 38 | 42 |
 | 3 | Benfica | 17 | 11 | 6 | 0 | 25 | 39 |
 | 4 | Gil Vicente | 17 | 7 | 7 | 3 | 10 | 28 |
@@ -302,8 +302,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
 | 10 | Rio Ave | 17 | 4 | 8 | 5 | -7 | 20 |
 | 11 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
-| 12 | Alverca | 16 | 5 | 2 | 9 | -11 | 17 |
-| 13 | Santa Clara | 15 | 4 | 4 | 7 | -4 | 16 |
+| 12 | Santa Clara | 16 | 4 | 5 | 7 | -4 | 17 |
+| 13 | Alverca | 16 | 5 | 2 | 9 | -11 | 17 |
 | 14 | Nacional | 16 | 4 | 4 | 8 | -5 | 16 |
 | 15 | Casa Pia | 17 | 3 | 5 | 9 | -15 | 14 |
 | 16 | Arouca | 17 | 3 | 5 | 9 | -24 | 14 |
