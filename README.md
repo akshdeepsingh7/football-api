@@ -41,18 +41,18 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 04 January 2026, 07:16 PM UTC (Monday, 05 January 2026, 12:46 AM IST)
+**Last Updated:** Sunday, 04 January 2026, 07:38 PM UTC (Monday, 05 January 2026, 01:08 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 20 | 15 | 3 | 2 | 26 | 48 |
-| 2 | Manchester City | 20 | 14 | 2 | 4 | 27 | 44 |
+| 2 | Manchester City | 20 | 13 | 3 | 4 | 26 | 42 |
 | 3 | Aston Villa | 20 | 13 | 3 | 4 | 9 | 42 |
 | 4 | Liverpool FC | 20 | 10 | 4 | 6 | 4 | 34 |
-| 5 | Manchester United | 20 | 8 | 7 | 5 | 4 | 31 |
-| 6 | Chelsea | 20 | 8 | 6 | 6 | 10 | 30 |
+| 5 | Chelsea | 20 | 8 | 7 | 5 | 11 | 31 |
+| 6 | Manchester United | 20 | 8 | 7 | 5 | 4 | 31 |
 | 7 | Brentford | 20 | 9 | 3 | 8 | 4 | 30 |
 | 8 | Sunderland | 20 | 7 | 9 | 4 | 2 | 30 |
 | 9 | Newcastle United | 20 | 8 | 5 | 7 | 4 | 29 |
@@ -86,8 +86,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Osasuna | 18 | 5 | 4 | 9 | -3 | 19 |
 | 13 | Alavés | 18 | 5 | 4 | 9 | -6 | 19 |
 | 14 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
-| 15 | Mallorca | 18 | 4 | 6 | 8 | -7 | 18 |
-| 16 | Girona | 18 | 4 | 6 | 8 | -16 | 18 |
+| 15 | Mallorca | 18 | 4 | 6 | 8 | -6 | 18 |
+| 16 | Girona | 18 | 4 | 6 | 8 | -17 | 18 |
 | 17 | Real Sociedad | 17 | 4 | 5 | 8 | -4 | 17 |
 | 18 | Valencia | 18 | 3 | 7 | 8 | -13 | 16 |
 | 19 | Levante | 17 | 3 | 4 | 10 | -9 | 13 |
