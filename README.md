@@ -41,18 +41,18 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 04 January 2026, 05:18 PM UTC (Sunday, 04 January 2026, 10:48 PM IST)
+**Last Updated:** Sunday, 04 January 2026, 05:41 PM UTC (Sunday, 04 January 2026, 11:11 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 20 | 15 | 3 | 2 | 26 | 48 |
-| 2 | Aston Villa | 20 | 13 | 3 | 4 | 9 | 42 |
-| 3 | Manchester City | 19 | 13 | 2 | 4 | 26 | 41 |
+| 2 | Manchester City | 20 | 13 | 3 | 4 | 26 | 42 |
+| 3 | Aston Villa | 20 | 13 | 3 | 4 | 9 | 42 |
 | 4 | Liverpool FC | 20 | 10 | 4 | 6 | 4 | 34 |
-| 5 | Manchester United | 20 | 8 | 7 | 5 | 4 | 31 |
-| 6 | Chelsea | 19 | 8 | 6 | 5 | 11 | 30 |
+| 5 | Chelsea | 20 | 8 | 7 | 5 | 11 | 31 |
+| 6 | Manchester United | 20 | 8 | 7 | 5 | 4 | 31 |
 | 7 | Brentford | 20 | 9 | 3 | 8 | 4 | 30 |
 | 8 | Sunderland | 20 | 7 | 9 | 4 | 2 | 30 |
 | 9 | Newcastle United | 20 | 8 | 5 | 7 | 4 | 29 |
@@ -84,14 +84,14 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Getafe | 18 | 6 | 3 | 9 | -9 | 21 |
 | 11 | Sevilla | 18 | 6 | 2 | 10 | -5 | 20 |
 | 12 | Osasuna | 18 | 5 | 4 | 9 | -3 | 19 |
-| 13 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
-| 14 | Mallorca | 17 | 4 | 6 | 7 | -5 | 18 |
-| 15 | Alavés | 17 | 5 | 3 | 9 | -6 | 18 |
+| 13 | Mallorca | 18 | 4 | 7 | 7 | -5 | 19 |
+| 14 | Alavés | 18 | 5 | 4 | 9 | -6 | 19 |
+| 15 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
 | 16 | Real Sociedad | 17 | 4 | 5 | 8 | -4 | 17 |
 | 17 | Valencia | 18 | 3 | 7 | 8 | -13 | 16 |
-| 18 | Girona | 17 | 3 | 6 | 8 | -18 | 15 |
+| 18 | Girona | 18 | 3 | 7 | 8 | -18 | 16 |
 | 19 | Levante | 17 | 3 | 4 | 10 | -9 | 13 |
-| 20 | Real Oviedo | 17 | 2 | 5 | 10 | -19 | 11 |
+| 20 | Real Oviedo | 18 | 2 | 6 | 10 | -19 | 12 |
 
 ### Bundesliga
 
@@ -153,13 +153,13 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Rennes | 17 | 8 | 6 | 3 | 5 | 30 |
 | 7 | Strasbourg | 17 | 7 | 3 | 7 | 5 | 24 |
 | 8 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
-| 9 | Monaco | 17 | 7 | 2 | 8 | -3 | 23 |
-| 10 | Angers | 17 | 6 | 4 | 7 | -2 | 22 |
+| 9 | Angers | 17 | 6 | 5 | 6 | -1 | 23 |
+| 10 | Monaco | 17 | 7 | 2 | 8 | -3 | 23 |
 | 11 | Brest | 17 | 6 | 4 | 7 | -5 | 22 |
-| 12 | Le Havre | 17 | 4 | 6 | 7 | -8 | 18 |
-| 13 | Nice | 17 | 5 | 3 | 9 | -10 | 18 |
-| 14 | Lorient | 17 | 4 | 6 | 7 | -10 | 18 |
-| 15 | Paris FC | 16 | 4 | 4 | 8 | -8 | 16 |
+| 12 | Nice | 17 | 5 | 3 | 9 | -10 | 18 |
+| 13 | Lorient | 17 | 4 | 6 | 7 | -10 | 18 |
+| 14 | Paris FC | 16 | 4 | 4 | 8 | -8 | 16 |
+| 15 | Le Havre | 17 | 3 | 7 | 7 | -9 | 16 |
 | 16 | Nantes | 17 | 3 | 5 | 9 | -12 | 14 |
 | 17 | Metz | 17 | 4 | 2 | 11 | -19 | 14 |
 | 18 | Auxerre | 17 | 3 | 3 | 11 | -12 | 12 |
