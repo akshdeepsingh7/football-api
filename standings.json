@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 04 January 2026, 01:47 PM UTC",
-        "IST": "Sunday, 04 January 2026, 07:17 PM IST"
+        "UTC": "Sunday, 04 January 2026, 02:19 PM UTC",
+        "IST": "Sunday, 04 January 2026, 07:49 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,16 +299,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Sevilla",
-                "Played": "18",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "9",
-                "Goal Difference": "-2",
-                "Points": "21"
-            },
-            {
-                "Position": "11",
                 "Team": "Getafe",
                 "Played": "18",
                 "Wins": "6",
@@ -316,6 +306,16 @@
                 "Losses": "9",
                 "Goal Difference": "-9",
                 "Points": "21"
+            },
+            {
+                "Position": "11",
+                "Team": "Sevilla",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "10",
+                "Goal Difference": "-3",
+                "Points": "20"
             },
             {
                 "Position": "12",
@@ -391,11 +391,11 @@
                 "Position": "19",
                 "Team": "Levante",
                 "Played": "17",
-                "Wins": "2",
-                "Draws": "5",
+                "Wins": "3",
+                "Draws": "4",
                 "Losses": "10",
-                "Goal Difference": "-12",
-                "Points": "11"
+                "Goal Difference": "-11",
+                "Points": "13"
             },
             {
                 "Position": "20",
@@ -693,6 +693,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Cremonese",
+                "Played": "18",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "-2",
+                "Points": "22"
+            },
+            {
+                "Position": "12",
                 "Team": "Udinese",
                 "Played": "18",
                 "Wins": "6",
@@ -700,16 +710,6 @@
                 "Losses": "8",
                 "Goal Difference": "-11",
                 "Points": "22"
-            },
-            {
-                "Position": "12",
-                "Team": "Cremonese",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "-2",
-                "Points": "21"
             },
             {
                 "Position": "13",
@@ -784,12 +784,12 @@
             {
                 "Position": "20",
                 "Team": "Fiorentina",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "1",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "10",
                 "Goal Difference": "-11",
-                "Points": "9"
+                "Points": "10"
             }
         ],
         "Ligue 1": [
@@ -816,12 +816,12 @@
             {
                 "Position": "3",
                 "Team": "Marseille",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "10",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "21",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "4",
@@ -956,12 +956,12 @@
             {
                 "Position": "17",
                 "Team": "Nantes",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "2",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "-14",
-                "Points": "11"
+                "Points": "12"
             },
             {
                 "Position": "18",
@@ -2330,7 +2330,7 @@
                 "Wins": "11",
                 "Draws": "5",
                 "Losses": "10",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "38"
             },
             {
@@ -2480,7 +2480,7 @@
                 "Wins": "1",
                 "Draws": "8",
                 "Losses": "16",
-                "Goal Difference": "-32",
+                "Goal Difference": "-33",
                 "Points": "-7"
             }
         ],
