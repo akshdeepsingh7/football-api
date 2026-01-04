@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 04 January 2026, 11:38 AM UTC (Sunday, 04 January 2026, 05:08 PM IST)
+**Last Updated:** Sunday, 04 January 2026, 12:42 PM UTC (Sunday, 04 January 2026, 06:12 PM IST)
 
 ### Premier League
 
@@ -51,8 +51,8 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Aston Villa | 20 | 13 | 3 | 4 | 9 | 42 |
 | 3 | Manchester City | 19 | 13 | 2 | 4 | 26 | 41 |
 | 4 | Liverpool FC | 19 | 10 | 3 | 6 | 4 | 33 |
-| 5 | Chelsea | 19 | 8 | 6 | 5 | 11 | 30 |
-| 6 | Manchester United | 19 | 8 | 6 | 5 | 4 | 30 |
+| 5 | Manchester United | 20 | 8 | 7 | 5 | 4 | 31 |
+| 6 | Chelsea | 19 | 8 | 6 | 5 | 11 | 30 |
 | 7 | Sunderland | 19 | 7 | 8 | 4 | 2 | 29 |
 | 8 | Brighton & Hove Albion | 20 | 7 | 7 | 6 | 3 | 28 |
 | 9 | Everton | 19 | 8 | 4 | 7 | 0 | 28 |
@@ -62,7 +62,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Tottenham Hotspur | 19 | 7 | 5 | 7 | 4 | 26 |
 | 14 | Newcastle United | 19 | 7 | 5 | 7 | 2 | 26 |
 | 15 | AFC Bournemouth | 20 | 5 | 8 | 7 | -7 | 23 |
-| 16 | Leeds United | 19 | 5 | 6 | 8 | -7 | 21 |
+| 16 | Leeds United | 20 | 5 | 7 | 8 | -7 | 22 |
 | 17 | Nottingham Forest | 20 | 5 | 3 | 12 | -14 | 18 |
 | 18 | West Ham United | 20 | 3 | 5 | 12 | -20 | 14 |
 | 19 | Burnley | 20 | 3 | 3 | 14 | -19 | 12 |
@@ -121,14 +121,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Milan | 17 | 11 | 5 | 1 | 15 | 38 |
-| 2 | Inter | 16 | 12 | 0 | 4 | 21 | 36 |
-| 3 | Napoli | 17 | 11 | 2 | 4 | 11 | 35 |
+| 2 | Napoli | 17 | 12 | 1 | 4 | 13 | 37 |
+| 3 | Inter | 16 | 12 | 0 | 4 | 21 | 36 |
 | 4 | Juventus | 18 | 9 | 6 | 3 | 8 | 33 |
 | 5 | Roma | 18 | 11 | 0 | 7 | 8 | 33 |
 | 6 | Como | 17 | 8 | 6 | 3 | 11 | 30 |
 | 7 | Bologna | 16 | 7 | 5 | 4 | 10 | 26 |
-| 8 | Lazio | 18 | 6 | 7 | 5 | 6 | 25 |
-| 9 | Atalanta | 18 | 6 | 7 | 5 | 2 | 25 |
+| 8 | Atalanta | 18 | 6 | 7 | 5 | 2 | 25 |
+| 9 | Lazio | 18 | 6 | 6 | 6 | 4 | 24 |
 | 10 | Sassuolo | 18 | 6 | 5 | 7 | 1 | 23 |
 | 11 | Udinese | 18 | 6 | 4 | 8 | -11 | 22 |
 | 12 | Cremonese | 17 | 5 | 6 | 6 | -2 | 21 |
@@ -314,7 +314,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 25 | 15 | 7 | 3 | 29 | 52 |
+| 1 | Coventry City | 26 | 15 | 7 | 4 | 28 | 52 |
 | 2 | Ipswich Town | 25 | 12 | 8 | 5 | 18 | 44 |
 | 3 | Middlesbrough | 25 | 12 | 7 | 6 | 7 | 43 |
 | 4 | Watford | 25 | 11 | 8 | 6 | 8 | 41 |
@@ -322,22 +322,22 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Preston North End | 25 | 10 | 10 | 5 | 9 | 40 |
 | 7 | Millwall | 25 | 11 | 7 | 7 | -5 | 40 |
 | 8 | Bristol City | 25 | 11 | 6 | 8 | 11 | 39 |
-| 9 | Stoke City | 25 | 11 | 4 | 10 | 7 | 37 |
-| 10 | Wrexham | 25 | 9 | 10 | 6 | 5 | 37 |
-| 11 | Derby County | 25 | 9 | 8 | 8 | 1 | 35 |
-| 12 | Queens Park Rangers | 25 | 10 | 5 | 10 | -4 | 35 |
-| 13 | Leicester City | 25 | 9 | 7 | 9 | -2 | 34 |
-| 14 | Southampton | 25 | 8 | 9 | 8 | 4 | 33 |
-| 15 | Sheffield United | 25 | 10 | 2 | 13 | -2 | 32 |
-| 16 | Swansea City | 25 | 9 | 5 | 11 | -5 | 32 |
-| 17 | Birmingham City | 25 | 8 | 7 | 10 | -2 | 31 |
+| 9 | Queens Park Rangers | 26 | 11 | 5 | 10 | -3 | 38 |
+| 10 | Stoke City | 25 | 11 | 4 | 10 | 7 | 37 |
+| 11 | Wrexham | 25 | 9 | 10 | 6 | 5 | 37 |
+| 12 | Derby County | 25 | 9 | 8 | 8 | 1 | 35 |
+| 13 | Birmingham City | 26 | 9 | 7 | 10 | -1 | 34 |
+| 14 | Leicester City | 25 | 9 | 7 | 9 | -2 | 34 |
+| 15 | Southampton | 25 | 8 | 9 | 8 | 4 | 33 |
+| 16 | Sheffield United | 25 | 10 | 2 | 13 | -2 | 32 |
+| 17 | Swansea City | 25 | 9 | 5 | 11 | -5 | 32 |
 | 18 | West Bromwich Albion | 25 | 9 | 4 | 12 | -5 | 31 |
 | 19 | Charlton Athletic | 24 | 7 | 7 | 10 | -7 | 28 |
 | 20 | Blackburn Rovers | 24 | 7 | 6 | 11 | -6 | 27 |
 | 21 | Portsmouth | 24 | 6 | 7 | 11 | -14 | 25 |
 | 22 | Norwich City | 25 | 6 | 6 | 13 | -9 | 24 |
 | 23 | Oxford United | 25 | 5 | 7 | 13 | -10 | 22 |
-| 24 | Sheffield Wednesday | 24 | 1 | 8 | 15 | -30 | -7 |
+| 24 | Sheffield Wednesday | 25 | 1 | 8 | 16 | -31 | -7 |
 
 ### Major League Soccer (MLS)
 
