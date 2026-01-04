@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 04 January 2026, 06:30 PM UTC",
-        "IST": "Monday, 05 January 2026, 12:00 AM IST"
+        "UTC": "Sunday, 04 January 2026, 07:16 PM UTC",
+        "IST": "Monday, 05 January 2026, 12:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -354,7 +354,7 @@
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "8",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "18"
             },
             {
@@ -364,7 +364,7 @@
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "8",
-                "Goal Difference": "-17",
+                "Goal Difference": "-16",
                 "Points": "18"
             },
             {
@@ -698,7 +698,7 @@
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "-10",
+                "Goal Difference": "-8",
                 "Points": "23"
             },
             {
@@ -768,7 +768,7 @@
                 "Wins": "2",
                 "Draws": "6",
                 "Losses": "9",
-                "Goal Difference": "-13",
+                "Goal Difference": "-15",
                 "Points": "12"
             },
             {
@@ -2065,11 +2065,11 @@
                 "Position": "1",
                 "Team": "Porto",
                 "Played": "17",
-                "Wins": "15",
-                "Draws": "2",
+                "Wins": "16",
+                "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "31",
-                "Points": "47"
+                "Goal Difference": "32",
+                "Points": "49"
             },
             {
                 "Position": "2",
@@ -2173,16 +2173,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Santa Clara",
-                "Played": "16",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-4",
-                "Points": "17"
-            },
-            {
-                "Position": "13",
                 "Team": "Alverca",
                 "Played": "16",
                 "Wins": "5",
@@ -2192,8 +2182,18 @@
                 "Points": "17"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Nacional",
+                "Played": "16",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-5",
+                "Points": "16"
+            },
+            {
+                "Position": "14",
+                "Team": "Santa Clara",
                 "Played": "16",
                 "Wins": "4",
                 "Draws": "4",
