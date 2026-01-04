@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 04 January 2026, 02:19 PM UTC",
-        "IST": "Sunday, 04 January 2026, 07:49 PM IST"
+        "UTC": "Sunday, 04 January 2026, 02:42 PM UTC",
+        "IST": "Sunday, 04 January 2026, 08:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -314,7 +314,7 @@
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "10",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "20"
             },
             {
@@ -394,7 +394,7 @@
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "10",
-                "Goal Difference": "-11",
+                "Goal Difference": "-10",
                 "Points": "13"
             },
             {
@@ -818,10 +818,10 @@
                 "Team": "Marseille",
                 "Played": "17",
                 "Wins": "10",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "21",
-                "Points": "33"
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "20",
+                "Points": "32"
             },
             {
                 "Position": "4",
@@ -945,22 +945,22 @@
             },
             {
                 "Position": "16",
+                "Team": "Nantes",
+                "Played": "17",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-13",
+                "Points": "14"
+            },
+            {
+                "Position": "17",
                 "Team": "Auxerre",
                 "Played": "16",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "10",
                 "Goal Difference": "-11",
-                "Points": "12"
-            },
-            {
-                "Position": "17",
-                "Team": "Nantes",
-                "Played": "17",
-                "Wins": "2",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-14",
                 "Points": "12"
             },
             {

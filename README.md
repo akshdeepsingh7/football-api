@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 04 January 2026, 02:19 PM UTC (Sunday, 04 January 2026, 07:49 PM IST)
+**Last Updated:** Sunday, 04 January 2026, 02:42 PM UTC (Sunday, 04 January 2026, 08:12 PM IST)
 
 ### Premier League
 
@@ -82,7 +82,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Athletic Bilbao | 19 | 7 | 3 | 9 | -8 | 24 |
 | 9 | Elche | 18 | 5 | 7 | 6 | 1 | 22 |
 | 10 | Getafe | 18 | 6 | 3 | 9 | -9 | 21 |
-| 11 | Sevilla | 18 | 6 | 2 | 10 | -3 | 20 |
+| 11 | Sevilla | 18 | 6 | 2 | 10 | -4 | 20 |
 | 12 | Osasuna | 18 | 5 | 4 | 9 | -3 | 19 |
 | 13 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
 | 14 | Mallorca | 17 | 4 | 6 | 7 | -5 | 18 |
@@ -90,7 +90,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Real Sociedad | 17 | 4 | 5 | 8 | -4 | 17 |
 | 17 | Valencia | 18 | 3 | 7 | 8 | -13 | 16 |
 | 18 | Girona | 17 | 3 | 6 | 8 | -18 | 15 |
-| 19 | Levante | 17 | 3 | 4 | 10 | -11 | 13 |
+| 19 | Levante | 17 | 3 | 4 | 10 | -10 | 13 |
 | 20 | Real Oviedo | 17 | 2 | 5 | 10 | -19 | 11 |
 
 ### Bundesliga
@@ -147,7 +147,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Lens | 17 | 13 | 1 | 3 | 18 | 40 |
 | 2 | PSG | 16 | 11 | 3 | 2 | 21 | 36 |
-| 3 | Marseille | 17 | 10 | 3 | 4 | 21 | 33 |
+| 3 | Marseille | 17 | 10 | 2 | 5 | 20 | 32 |
 | 4 | Lille | 17 | 10 | 2 | 5 | 11 | 32 |
 | 5 | Lyon | 17 | 9 | 3 | 5 | 8 | 30 |
 | 6 | Rennes | 17 | 8 | 6 | 3 | 5 | 30 |
@@ -160,8 +160,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Nice | 17 | 5 | 3 | 9 | -10 | 18 |
 | 14 | Paris FC | 16 | 4 | 4 | 8 | -8 | 16 |
 | 15 | Le Havre | 16 | 3 | 6 | 7 | -9 | 15 |
-| 16 | Auxerre | 16 | 3 | 3 | 10 | -11 | 12 |
-| 17 | Nantes | 17 | 2 | 6 | 9 | -14 | 12 |
+| 16 | Nantes | 17 | 3 | 5 | 9 | -13 | 14 |
+| 17 | Auxerre | 16 | 3 | 3 | 10 | -11 | 12 |
 | 18 | Metz | 16 | 3 | 2 | 11 | -20 | 11 |
 
 ### Champions League
