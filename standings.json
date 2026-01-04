@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 04 January 2026, 04:48 PM UTC",
-        "IST": "Sunday, 04 January 2026, 10:18 PM IST"
+        "UTC": "Sunday, 04 January 2026, 05:18 PM UTC",
+        "IST": "Sunday, 04 January 2026, 10:48 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -224,7 +224,7 @@
                 "Wins": "14",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "22",
+                "Goal Difference": "24",
                 "Points": "45"
             },
             {
@@ -264,7 +264,7 @@
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "8",
+                "Goal Difference": "6",
                 "Points": "28"
             },
             {
@@ -693,6 +693,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Torino",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "-10",
+                "Points": "23"
+            },
+            {
+                "Position": "12",
                 "Team": "Udinese",
                 "Played": "18",
                 "Wins": "6",
@@ -702,7 +712,7 @@
                 "Points": "22"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Cremonese",
                 "Played": "18",
                 "Wins": "5",
@@ -710,16 +720,6 @@
                 "Losses": "7",
                 "Goal Difference": "-3",
                 "Points": "21"
-            },
-            {
-                "Position": "13",
-                "Team": "Torino",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-11",
-                "Points": "20"
             },
             {
                 "Position": "14",
@@ -764,11 +764,11 @@
             {
                 "Position": "18",
                 "Team": "Hellas Verona",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "2",
                 "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-12",
+                "Losses": "9",
+                "Goal Difference": "-13",
                 "Points": "12"
             },
             {
@@ -897,11 +897,11 @@
                 "Position": "11",
                 "Team": "Brest",
                 "Played": "17",
-                "Wins": "5",
-                "Draws": "5",
+                "Wins": "6",
+                "Draws": "4",
                 "Losses": "7",
-                "Goal Difference": "-6",
-                "Points": "20"
+                "Goal Difference": "-5",
+                "Points": "22"
             },
             {
                 "Position": "12",
@@ -968,10 +968,10 @@
                 "Team": "Auxerre",
                 "Played": "17",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "-11",
-                "Points": "13"
+                "Draws": "3",
+                "Losses": "11",
+                "Goal Difference": "-12",
+                "Points": "12"
             }
         ],
         "Champions League": [
@@ -2158,7 +2158,7 @@
                 "Wins": "4",
                 "Draws": "8",
                 "Losses": "5",
-                "Goal Difference": "-8",
+                "Goal Difference": "-7",
                 "Points": "20"
             },
             {
@@ -2208,7 +2208,7 @@
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "-14",
+                "Goal Difference": "-15",
                 "Points": "14"
             },
             {
@@ -2285,6 +2285,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Millwall",
+                "Played": "26",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "-4",
+                "Points": "43"
+            },
+            {
+                "Position": "6",
                 "Team": "Watford",
                 "Played": "25",
                 "Wins": "11",
@@ -2294,23 +2304,13 @@
                 "Points": "41"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Hull City",
                 "Played": "25",
                 "Wins": "12",
                 "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "2",
-                "Points": "41"
-            },
-            {
-                "Position": "7",
-                "Team": "Millwall",
-                "Played": "26",
-                "Wins": "11",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "-5",
                 "Points": "41"
             },
             {
@@ -2395,22 +2395,22 @@
             },
             {
                 "Position": "16",
-                "Team": "Swansea City",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-5",
-                "Points": "33"
-            },
-            {
-                "Position": "17",
                 "Team": "Sheffield United",
                 "Played": "25",
                 "Wins": "10",
                 "Draws": "2",
                 "Losses": "13",
                 "Goal Difference": "-2",
+                "Points": "32"
+            },
+            {
+                "Position": "17",
+                "Team": "Swansea City",
+                "Played": "26",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-6",
                 "Points": "32"
             },
             {
