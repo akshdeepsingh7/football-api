@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 04 January 2026, 01:30 PM UTC (Sunday, 04 January 2026, 07:00 PM IST)
+**Last Updated:** Sunday, 04 January 2026, 01:47 PM UTC (Sunday, 04 January 2026, 07:17 PM IST)
 
 ### Premier League
 
@@ -322,7 +322,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Preston North End | 25 | 10 | 10 | 5 | 9 | 40 |
 | 7 | Millwall | 25 | 11 | 7 | 7 | -5 | 40 |
 | 8 | Bristol City | 25 | 11 | 6 | 8 | 11 | 39 |
-| 9 | Queens Park Rangers | 26 | 11 | 5 | 10 | -3 | 38 |
+| 9 | Queens Park Rangers | 26 | 11 | 5 | 10 | -2 | 38 |
 | 10 | Stoke City | 25 | 11 | 4 | 10 | 7 | 37 |
 | 11 | Wrexham | 25 | 9 | 10 | 6 | 5 | 37 |
 | 12 | Derby County | 25 | 9 | 8 | 8 | 1 | 35 |
@@ -337,7 +337,7 @@ The latest league standings are displayed below in Markdown tables:
 | 21 | Portsmouth | 24 | 6 | 7 | 11 | -14 | 25 |
 | 22 | Norwich City | 25 | 6 | 6 | 13 | -9 | 24 |
 | 23 | Oxford United | 25 | 5 | 7 | 13 | -10 | 22 |
-| 24 | Sheffield Wednesday | 25 | 1 | 8 | 16 | -31 | -7 |
+| 24 | Sheffield Wednesday | 25 | 1 | 8 | 16 | -32 | -7 |
 
 ### Major League Soccer (MLS)
 
