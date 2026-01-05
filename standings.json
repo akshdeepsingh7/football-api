@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 05 January 2026, 07:41 PM UTC",
-        "IST": "Tuesday, 06 January 2026, 01:11 AM IST"
+        "UTC": "Monday, 05 January 2026, 08:27 PM UTC",
+        "IST": "Tuesday, 06 January 2026, 01:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2355,6 +2355,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Leicester City",
+                "Played": "26",
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-1",
+                "Points": "37"
+            },
+            {
+                "Position": "13",
                 "Team": "Derby County",
                 "Played": "26",
                 "Wins": "9",
@@ -2364,23 +2374,13 @@
                 "Points": "35"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Birmingham City",
                 "Played": "26",
                 "Wins": "9",
                 "Draws": "7",
                 "Losses": "10",
                 "Goal Difference": "-1",
-                "Points": "34"
-            },
-            {
-                "Position": "14",
-                "Team": "Leicester City",
-                "Played": "25",
-                "Wins": "9",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-2",
                 "Points": "34"
             },
             {
@@ -2416,11 +2416,11 @@
             {
                 "Position": "18",
                 "Team": "West Bromwich Albion",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "9",
                 "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-5",
+                "Losses": "13",
+                "Goal Difference": "-6",
                 "Points": "31"
             },
             {
