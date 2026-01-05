@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 05 January 2026, 09:43 PM UTC",
-        "IST": "Tuesday, 06 January 2026, 03:13 AM IST"
+        "UTC": "Monday, 05 January 2026, 10:21 PM UTC",
+        "IST": "Tuesday, 06 January 2026, 03:51 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2355,22 +2355,22 @@
             },
             {
                 "Position": "12",
+                "Team": "Leicester City",
+                "Played": "26",
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-1",
+                "Points": "37"
+            },
+            {
+                "Position": "13",
                 "Team": "Derby County",
                 "Played": "26",
                 "Wins": "9",
                 "Draws": "8",
                 "Losses": "9",
                 "Goal Difference": "0",
-                "Points": "35"
-            },
-            {
-                "Position": "13",
-                "Team": "Leicester City",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-2",
                 "Points": "35"
             },
             {
@@ -2405,16 +2405,6 @@
             },
             {
                 "Position": "17",
-                "Team": "West Bromwich Albion",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-5",
-                "Points": "32"
-            },
-            {
-                "Position": "18",
                 "Team": "Swansea City",
                 "Played": "26",
                 "Wins": "9",
@@ -2422,6 +2412,16 @@
                 "Losses": "12",
                 "Goal Difference": "-6",
                 "Points": "32"
+            },
+            {
+                "Position": "18",
+                "Team": "West Bromwich Albion",
+                "Played": "26",
+                "Wins": "9",
+                "Draws": "4",
+                "Losses": "13",
+                "Goal Difference": "-6",
+                "Points": "31"
             },
             {
                 "Position": "19",
