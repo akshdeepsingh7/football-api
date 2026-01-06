@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 06 January 2026, 09:43 PM UTC",
-        "IST": "Wednesday, 07 January 2026, 03:13 AM IST"
+        "UTC": "Tuesday, 06 January 2026, 10:22 PM UTC",
+        "IST": "Wednesday, 07 January 2026, 03:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -169,21 +169,21 @@
                 "Position": "17",
                 "Team": "Nottingham Forest",
                 "Played": "21",
-                "Wins": "5",
-                "Draws": "4",
+                "Wins": "6",
+                "Draws": "3",
                 "Losses": "12",
-                "Goal Difference": "-14",
-                "Points": "19"
+                "Goal Difference": "-13",
+                "Points": "21"
             },
             {
                 "Position": "18",
                 "Team": "West Ham United",
                 "Played": "21",
                 "Wins": "3",
-                "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "-20",
-                "Points": "15"
+                "Draws": "5",
+                "Losses": "13",
+                "Goal Difference": "-21",
+                "Points": "14"
             },
             {
                 "Position": "19",
