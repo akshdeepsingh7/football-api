@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 06 January 2026, 04:30 PM UTC",
-        "IST": "Tuesday, 06 January 2026, 10:00 PM IST"
+        "UTC": "Tuesday, 06 January 2026, 05:23 PM UTC",
+        "IST": "Tuesday, 06 January 2026, 10:53 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -623,6 +623,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Roma",
+                "Played": "19",
+                "Wins": "12",
+                "Draws": "0",
+                "Losses": "7",
+                "Goal Difference": "9",
+                "Points": "36"
+            },
+            {
+                "Position": "5",
                 "Team": "Como",
                 "Played": "18",
                 "Wins": "9",
@@ -632,22 +642,12 @@
                 "Points": "33"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Juventus",
                 "Played": "18",
                 "Wins": "9",
                 "Draws": "6",
                 "Losses": "3",
-                "Goal Difference": "8",
-                "Points": "33"
-            },
-            {
-                "Position": "6",
-                "Team": "Roma",
-                "Played": "18",
-                "Wins": "11",
-                "Draws": "0",
-                "Losses": "7",
                 "Goal Difference": "8",
                 "Points": "33"
             },
@@ -744,11 +744,11 @@
             {
                 "Position": "16",
                 "Team": "Lecce",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "4",
                 "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "-11",
+                "Losses": "9",
+                "Goal Difference": "-12",
                 "Points": "17"
             },
             {
