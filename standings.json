@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 06 January 2026, 03:46 PM UTC",
-        "IST": "Tuesday, 06 January 2026, 09:16 PM IST"
+        "UTC": "Tuesday, 06 January 2026, 04:30 PM UTC",
+        "IST": "Tuesday, 06 January 2026, 10:00 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -628,7 +628,7 @@
                 "Wins": "9",
                 "Draws": "6",
                 "Losses": "3",
-                "Goal Difference": "13",
+                "Goal Difference": "14",
                 "Points": "33"
             },
             {
@@ -788,7 +788,7 @@
                 "Wins": "1",
                 "Draws": "9",
                 "Losses": "9",
-                "Goal Difference": "-14",
+                "Goal Difference": "-15",
                 "Points": "12"
             }
         ],
