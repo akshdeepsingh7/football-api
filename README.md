@@ -41,32 +41,32 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 07 January 2026, 07:20 PM UTC (Thursday, 08 January 2026, 12:50 AM IST)
+**Last Updated:** Wednesday, 07 January 2026, 07:41 PM UTC (Thursday, 08 January 2026, 01:11 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 20 | 15 | 3 | 2 | 26 | 48 |
-| 2 | Manchester City | 20 | 13 | 3 | 4 | 26 | 42 |
-| 3 | Aston Villa | 20 | 13 | 3 | 4 | 9 | 42 |
+| 2 | Manchester City | 21 | 13 | 4 | 4 | 26 | 43 |
+| 3 | Aston Villa | 21 | 13 | 4 | 4 | 9 | 43 |
 | 4 | Liverpool FC | 20 | 10 | 4 | 6 | 4 | 34 |
-| 5 | Chelsea | 20 | 8 | 7 | 5 | 11 | 31 |
+| 5 | Chelsea | 21 | 8 | 8 | 5 | 11 | 32 |
 | 6 | Manchester United | 20 | 8 | 7 | 5 | 4 | 31 |
-| 7 | Brentford | 20 | 9 | 3 | 8 | 4 | 30 |
-| 8 | Sunderland | 20 | 7 | 9 | 4 | 2 | 30 |
-| 9 | Newcastle United | 20 | 8 | 5 | 7 | 4 | 29 |
-| 10 | Brighton & Hove Albion | 20 | 7 | 7 | 6 | 3 | 28 |
-| 11 | Fulham | 20 | 8 | 4 | 8 | -1 | 28 |
-| 12 | Everton | 20 | 8 | 4 | 8 | -2 | 28 |
-| 13 | Tottenham Hotspur | 20 | 7 | 6 | 7 | 4 | 27 |
-| 14 | Crystal Palace | 20 | 7 | 6 | 7 | -1 | 27 |
-| 15 | AFC Bournemouth | 20 | 5 | 8 | 7 | -7 | 23 |
+| 7 | Brentford | 21 | 9 | 4 | 8 | 4 | 31 |
+| 8 | Sunderland | 21 | 7 | 10 | 4 | 2 | 31 |
+| 9 | Tottenham Hotspur | 21 | 8 | 6 | 7 | 5 | 30 |
+| 10 | Newcastle United | 20 | 8 | 5 | 7 | 4 | 29 |
+| 11 | Brighton & Hove Albion | 21 | 7 | 8 | 6 | 3 | 29 |
+| 12 | Fulham | 21 | 8 | 5 | 8 | -1 | 29 |
+| 13 | Everton | 21 | 8 | 5 | 8 | -2 | 29 |
+| 14 | Crystal Palace | 21 | 7 | 7 | 7 | -1 | 28 |
+| 15 | AFC Bournemouth | 21 | 5 | 8 | 8 | -8 | 23 |
 | 16 | Leeds United | 20 | 5 | 7 | 8 | -7 | 22 |
 | 17 | Nottingham Forest | 21 | 6 | 3 | 12 | -13 | 21 |
 | 18 | West Ham United | 21 | 3 | 5 | 13 | -21 | 14 |
 | 19 | Burnley | 20 | 3 | 3 | 14 | -19 | 12 |
-| 20 | Wolverhampton Wanderers | 20 | 1 | 3 | 16 | -26 | 6 |
+| 20 | Wolverhampton Wanderers | 21 | 1 | 4 | 16 | -26 | 7 |
 
 ### La Liga
 
