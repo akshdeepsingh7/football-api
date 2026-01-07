@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 07 January 2026, 09:21 PM UTC",
-        "IST": "Thursday, 08 January 2026, 02:51 AM IST"
+        "UTC": "Wednesday, 07 January 2026, 09:42 PM UTC",
+        "IST": "Thursday, 08 January 2026, 03:12 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -57,22 +57,22 @@
             },
             {
                 "Position": "6",
+                "Team": "Manchester United",
+                "Played": "21",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "5",
+                "Goal Difference": "4",
+                "Points": "32"
+            },
+            {
+                "Position": "7",
                 "Team": "Chelsea",
                 "Played": "21",
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "6",
                 "Goal Difference": "10",
-                "Points": "31"
-            },
-            {
-                "Position": "7",
-                "Team": "Manchester United",
-                "Played": "21",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "3",
                 "Points": "31"
             },
             {
@@ -87,6 +87,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Newcastle United",
+                "Played": "21",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "4",
+                "Points": "30"
+            },
+            {
+                "Position": "10",
                 "Team": "Sunderland",
                 "Played": "21",
                 "Wins": "7",
@@ -96,22 +106,12 @@
                 "Points": "30"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Brighton & Hove Albion",
                 "Played": "21",
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "3",
-                "Points": "29"
-            },
-            {
-                "Position": "11",
-                "Team": "Newcastle United",
-                "Played": "21",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "8",
                 "Goal Difference": "3",
                 "Points": "29"
             },
@@ -127,16 +127,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Tottenham Hotspur",
-                "Played": "21",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "4",
-                "Points": "28"
-            },
-            {
-                "Position": "14",
                 "Team": "Crystal Palace",
                 "Played": "21",
                 "Wins": "7",
@@ -146,24 +136,34 @@
                 "Points": "28"
             },
             {
+                "Position": "14",
+                "Team": "Tottenham Hotspur",
+                "Played": "21",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "3",
+                "Points": "27"
+            },
+            {
                 "Position": "15",
-                "Team": "Leeds United",
+                "Team": "AFC Bournemouth",
                 "Played": "21",
                 "Wins": "6",
-                "Draws": "7",
-                "Losses": "8",
+                "Draws": "8",
+                "Losses": "7",
                 "Goal Difference": "-6",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "16",
-                "Team": "AFC Bournemouth",
+                "Team": "Leeds United",
                 "Played": "21",
                 "Wins": "5",
-                "Draws": "9",
-                "Losses": "7",
+                "Draws": "8",
+                "Losses": "8",
                 "Goal Difference": "-7",
-                "Points": "24"
+                "Points": "23"
             },
             {
                 "Position": "17",
@@ -177,16 +177,6 @@
             },
             {
                 "Position": "18",
-                "Team": "Burnley",
-                "Played": "21",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "14",
-                "Goal Difference": "-18",
-                "Points": "15"
-            },
-            {
-                "Position": "19",
                 "Team": "West Ham United",
                 "Played": "21",
                 "Wins": "3",
@@ -194,6 +184,16 @@
                 "Losses": "13",
                 "Goal Difference": "-21",
                 "Points": "14"
+            },
+            {
+                "Position": "19",
+                "Team": "Burnley",
+                "Played": "21",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "14",
+                "Goal Difference": "-19",
+                "Points": "13"
             },
             {
                 "Position": "20",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 07 January 2026, 09:21 PM UTC (Thursday, 08 January 2026, 02:51 AM IST)
+**Last Updated:** Wednesday, 07 January 2026, 09:42 PM UTC (Thursday, 08 January 2026, 03:12 AM IST)
 
 ### Premier League
 
@@ -52,20 +52,20 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Aston Villa | 21 | 13 | 4 | 4 | 9 | 43 |
 | 4 | Liverpool FC | 20 | 10 | 4 | 6 | 4 | 34 |
 | 5 | Brentford | 21 | 10 | 3 | 8 | 7 | 33 |
-| 6 | Chelsea | 21 | 8 | 7 | 6 | 10 | 31 |
-| 7 | Manchester United | 21 | 8 | 7 | 6 | 3 | 31 |
+| 6 | Manchester United | 21 | 8 | 8 | 5 | 4 | 32 |
+| 7 | Chelsea | 21 | 8 | 7 | 6 | 10 | 31 |
 | 8 | Fulham | 21 | 9 | 4 | 8 | 0 | 31 |
-| 9 | Sunderland | 21 | 7 | 9 | 5 | -1 | 30 |
-| 10 | Brighton & Hove Albion | 21 | 7 | 8 | 6 | 3 | 29 |
-| 11 | Newcastle United | 21 | 8 | 5 | 8 | 3 | 29 |
+| 9 | Newcastle United | 21 | 8 | 6 | 7 | 4 | 30 |
+| 10 | Sunderland | 21 | 7 | 9 | 5 | -1 | 30 |
+| 11 | Brighton & Hove Albion | 21 | 7 | 8 | 6 | 3 | 29 |
 | 12 | Everton | 21 | 8 | 5 | 8 | -2 | 29 |
-| 13 | Tottenham Hotspur | 21 | 7 | 7 | 7 | 4 | 28 |
-| 14 | Crystal Palace | 21 | 7 | 7 | 7 | -1 | 28 |
-| 15 | Leeds United | 21 | 6 | 7 | 8 | -6 | 25 |
-| 16 | AFC Bournemouth | 21 | 5 | 9 | 7 | -7 | 24 |
+| 13 | Crystal Palace | 21 | 7 | 7 | 7 | -1 | 28 |
+| 14 | Tottenham Hotspur | 21 | 7 | 6 | 8 | 3 | 27 |
+| 15 | AFC Bournemouth | 21 | 6 | 8 | 7 | -6 | 26 |
+| 16 | Leeds United | 21 | 5 | 8 | 8 | -7 | 23 |
 | 17 | Nottingham Forest | 21 | 6 | 3 | 12 | -13 | 21 |
-| 18 | Burnley | 21 | 4 | 3 | 14 | -18 | 15 |
-| 19 | West Ham United | 21 | 3 | 5 | 13 | -21 | 14 |
+| 18 | West Ham United | 21 | 3 | 5 | 13 | -21 | 14 |
+| 19 | Burnley | 21 | 3 | 4 | 14 | -19 | 13 |
 | 20 | Wolverhampton Wanderers | 21 | 1 | 4 | 16 | -26 | 7 |
 
 ### La Liga
