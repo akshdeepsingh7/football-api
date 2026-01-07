@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 07 January 2026, 05:27 PM UTC",
-        "IST": "Wednesday, 07 January 2026, 10:57 PM IST"
+        "UTC": "Wednesday, 07 January 2026, 05:51 PM UTC",
+        "IST": "Wednesday, 07 January 2026, 11:21 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -614,11 +614,11 @@
             {
                 "Position": "3",
                 "Team": "Napoli",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "12",
                 "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "13",
+                "Losses": "5",
+                "Goal Difference": "12",
                 "Points": "37"
             },
             {
@@ -654,22 +654,22 @@
             {
                 "Position": "7",
                 "Team": "Bologna",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "7",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "5",
                 "Goal Difference": "8",
-                "Points": "26"
+                "Points": "27"
             },
             {
                 "Position": "8",
                 "Team": "Atalanta",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "6",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "5",
                 "Goal Difference": "2",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "9",
@@ -764,12 +764,12 @@
             {
                 "Position": "18",
                 "Team": "Hellas Verona",
-                "Played": "17",
-                "Wins": "2",
+                "Played": "18",
+                "Wins": "3",
                 "Draws": "6",
                 "Losses": "9",
-                "Goal Difference": "-15",
-                "Points": "12"
+                "Goal Difference": "-14",
+                "Points": "15"
             },
             {
                 "Position": "19",
