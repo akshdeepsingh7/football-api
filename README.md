@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 07 January 2026, 08:27 PM UTC (Thursday, 08 January 2026, 01:57 AM IST)
+**Last Updated:** Wednesday, 07 January 2026, 08:49 PM UTC (Thursday, 08 January 2026, 02:19 AM IST)
 
 ### Premier League
 
@@ -52,20 +52,20 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Aston Villa | 21 | 13 | 4 | 4 | 9 | 43 |
 | 4 | Liverpool FC | 20 | 10 | 4 | 6 | 4 | 34 |
 | 5 | Brentford | 21 | 10 | 3 | 8 | 5 | 33 |
-| 6 | Chelsea | 21 | 8 | 8 | 5 | 11 | 32 |
-| 7 | Manchester United | 21 | 8 | 8 | 5 | 4 | 32 |
-| 8 | Everton | 21 | 9 | 4 | 8 | -1 | 31 |
-| 9 | Newcastle United | 21 | 8 | 6 | 7 | 4 | 30 |
+| 6 | Chelsea | 21 | 8 | 7 | 6 | 10 | 31 |
+| 7 | Manchester United | 21 | 8 | 7 | 6 | 3 | 31 |
+| 8 | Fulham | 21 | 9 | 4 | 8 | 0 | 31 |
+| 9 | Everton | 21 | 9 | 4 | 8 | -1 | 31 |
 | 10 | Sunderland | 21 | 7 | 9 | 5 | 1 | 30 |
-| 11 | Fulham | 21 | 8 | 5 | 8 | -1 | 29 |
+| 11 | Newcastle United | 21 | 8 | 5 | 8 | 3 | 29 |
 | 12 | Brighton & Hove Albion | 21 | 7 | 7 | 7 | 2 | 28 |
 | 13 | Crystal Palace | 21 | 7 | 7 | 7 | -1 | 28 |
 | 14 | Tottenham Hotspur | 21 | 7 | 6 | 8 | 3 | 27 |
 | 15 | AFC Bournemouth | 21 | 6 | 8 | 7 | -6 | 26 |
-| 16 | Leeds United | 21 | 5 | 8 | 8 | -7 | 23 |
+| 16 | Leeds United | 21 | 6 | 7 | 8 | -6 | 25 |
 | 17 | Nottingham Forest | 21 | 6 | 3 | 12 | -13 | 21 |
-| 18 | West Ham United | 21 | 3 | 5 | 13 | -21 | 14 |
-| 19 | Burnley | 21 | 3 | 4 | 14 | -19 | 13 |
+| 18 | Burnley | 21 | 4 | 3 | 14 | -18 | 15 |
+| 19 | West Ham United | 21 | 3 | 5 | 13 | -21 | 14 |
 | 20 | Wolverhampton Wanderers | 21 | 1 | 3 | 17 | -27 | 6 |
 
 ### La Liga
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 18 | 13 | 1 | 4 | 23 | 40 |
+| 1 | Inter | 18 | 14 | 0 | 4 | 24 | 42 |
 | 2 | Milan | 17 | 11 | 5 | 1 | 15 | 38 |
 | 3 | Napoli | 18 | 12 | 2 | 4 | 13 | 38 |
 | 4 | Juventus | 19 | 10 | 6 | 3 | 11 | 36 |
@@ -133,8 +133,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Sassuolo | 19 | 6 | 5 | 8 | -2 | 23 |
 | 12 | Udinese | 19 | 6 | 5 | 8 | -11 | 23 |
 | 13 | Cremonese | 18 | 5 | 6 | 7 | -3 | 21 |
-| 14 | Parma | 18 | 4 | 7 | 7 | -7 | 19 |
-| 15 | Cagliari | 18 | 4 | 6 | 8 | -6 | 18 |
+| 14 | Cagliari | 18 | 4 | 6 | 8 | -6 | 18 |
+| 15 | Parma | 18 | 4 | 6 | 8 | -8 | 18 |
 | 16 | Lecce | 18 | 4 | 5 | 9 | -13 | 17 |
 | 17 | Genoa | 18 | 3 | 6 | 9 | -10 | 15 |
 | 18 | Hellas Verona | 18 | 2 | 7 | 9 | -15 | 13 |
