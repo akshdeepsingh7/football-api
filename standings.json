@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 07 January 2026, 07:41 PM UTC",
-        "IST": "Thursday, 08 January 2026, 01:11 AM IST"
+        "UTC": "Wednesday, 07 January 2026, 08:27 PM UTC",
+        "IST": "Thursday, 08 January 2026, 01:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -19,11 +19,11 @@
                 "Position": "2",
                 "Team": "Manchester City",
                 "Played": "21",
-                "Wins": "13",
-                "Draws": "4",
+                "Wins": "14",
+                "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "26",
-                "Points": "43"
+                "Goal Difference": "27",
+                "Points": "45"
             },
             {
                 "Position": "3",
@@ -47,6 +47,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Brentford",
+                "Played": "21",
+                "Wins": "10",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "5",
+                "Points": "33"
+            },
+            {
+                "Position": "6",
                 "Team": "Chelsea",
                 "Played": "21",
                 "Wins": "8",
@@ -56,67 +66,47 @@
                 "Points": "32"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Manchester United",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "8",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "5",
                 "Goal Difference": "4",
-                "Points": "31"
+                "Points": "32"
             },
             {
-                "Position": "7",
-                "Team": "Brentford",
+                "Position": "8",
+                "Team": "Everton",
                 "Played": "21",
                 "Wins": "9",
                 "Draws": "4",
                 "Losses": "8",
-                "Goal Difference": "4",
-                "Points": "31"
-            },
-            {
-                "Position": "8",
-                "Team": "Sunderland",
-                "Played": "21",
-                "Wins": "7",
-                "Draws": "10",
-                "Losses": "4",
-                "Goal Difference": "2",
+                "Goal Difference": "-1",
                 "Points": "31"
             },
             {
                 "Position": "9",
-                "Team": "Tottenham Hotspur",
+                "Team": "Newcastle United",
                 "Played": "21",
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "5",
+                "Goal Difference": "4",
                 "Points": "30"
             },
             {
                 "Position": "10",
-                "Team": "Newcastle United",
-                "Played": "20",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "4",
-                "Points": "29"
+                "Team": "Sunderland",
+                "Played": "21",
+                "Wins": "7",
+                "Draws": "9",
+                "Losses": "5",
+                "Goal Difference": "1",
+                "Points": "30"
             },
             {
                 "Position": "11",
-                "Team": "Brighton & Hove Albion",
-                "Played": "21",
-                "Wins": "7",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "3",
-                "Points": "29"
-            },
-            {
-                "Position": "12",
                 "Team": "Fulham",
                 "Played": "21",
                 "Wins": "8",
@@ -126,17 +116,17 @@
                 "Points": "29"
             },
             {
-                "Position": "13",
-                "Team": "Everton",
+                "Position": "12",
+                "Team": "Brighton & Hove Albion",
                 "Played": "21",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "-2",
-                "Points": "29"
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "2",
+                "Points": "28"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Crystal Palace",
                 "Played": "21",
                 "Wins": "7",
@@ -146,24 +136,34 @@
                 "Points": "28"
             },
             {
+                "Position": "14",
+                "Team": "Tottenham Hotspur",
+                "Played": "21",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "3",
+                "Points": "27"
+            },
+            {
                 "Position": "15",
                 "Team": "AFC Bournemouth",
                 "Played": "21",
-                "Wins": "5",
+                "Wins": "6",
                 "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "-8",
-                "Points": "23"
+                "Losses": "7",
+                "Goal Difference": "-6",
+                "Points": "26"
             },
             {
                 "Position": "16",
                 "Team": "Leeds United",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "5",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "8",
                 "Goal Difference": "-7",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "17",
@@ -188,22 +188,22 @@
             {
                 "Position": "19",
                 "Team": "Burnley",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "3",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "14",
                 "Goal Difference": "-19",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "20",
                 "Team": "Wolverhampton Wanderers",
                 "Played": "21",
                 "Wins": "1",
-                "Draws": "4",
-                "Losses": "16",
-                "Goal Difference": "-26",
-                "Points": "7"
+                "Draws": "3",
+                "Losses": "17",
+                "Goal Difference": "-27",
+                "Points": "6"
             }
         ],
         "La Liga": [
@@ -594,12 +594,12 @@
             {
                 "Position": "1",
                 "Team": "Inter",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "13",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "4",
                 "Goal Difference": "23",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "2",
@@ -674,22 +674,22 @@
             {
                 "Position": "9",
                 "Team": "Lazio",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "6",
                 "Goal Difference": "4",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "10",
                 "Team": "Torino",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "6",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "7",
                 "Goal Difference": "-8",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "11",
@@ -704,12 +704,12 @@
             {
                 "Position": "12",
                 "Team": "Udinese",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "6",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "-11",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "13",
@@ -724,12 +724,12 @@
             {
                 "Position": "14",
                 "Team": "Parma",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "4",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "7",
                 "Goal Difference": "-7",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "15",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Fiorentina",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "2",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "10",
                 "Goal Difference": "-10",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "20",

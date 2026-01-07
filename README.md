@@ -41,32 +41,32 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 07 January 2026, 07:41 PM UTC (Thursday, 08 January 2026, 01:11 AM IST)
+**Last Updated:** Wednesday, 07 January 2026, 08:27 PM UTC (Thursday, 08 January 2026, 01:57 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 20 | 15 | 3 | 2 | 26 | 48 |
-| 2 | Manchester City | 21 | 13 | 4 | 4 | 26 | 43 |
+| 2 | Manchester City | 21 | 14 | 3 | 4 | 27 | 45 |
 | 3 | Aston Villa | 21 | 13 | 4 | 4 | 9 | 43 |
 | 4 | Liverpool FC | 20 | 10 | 4 | 6 | 4 | 34 |
-| 5 | Chelsea | 21 | 8 | 8 | 5 | 11 | 32 |
-| 6 | Manchester United | 20 | 8 | 7 | 5 | 4 | 31 |
-| 7 | Brentford | 21 | 9 | 4 | 8 | 4 | 31 |
-| 8 | Sunderland | 21 | 7 | 10 | 4 | 2 | 31 |
-| 9 | Tottenham Hotspur | 21 | 8 | 6 | 7 | 5 | 30 |
-| 10 | Newcastle United | 20 | 8 | 5 | 7 | 4 | 29 |
-| 11 | Brighton & Hove Albion | 21 | 7 | 8 | 6 | 3 | 29 |
-| 12 | Fulham | 21 | 8 | 5 | 8 | -1 | 29 |
-| 13 | Everton | 21 | 8 | 5 | 8 | -2 | 29 |
-| 14 | Crystal Palace | 21 | 7 | 7 | 7 | -1 | 28 |
-| 15 | AFC Bournemouth | 21 | 5 | 8 | 8 | -8 | 23 |
-| 16 | Leeds United | 20 | 5 | 7 | 8 | -7 | 22 |
+| 5 | Brentford | 21 | 10 | 3 | 8 | 5 | 33 |
+| 6 | Chelsea | 21 | 8 | 8 | 5 | 11 | 32 |
+| 7 | Manchester United | 21 | 8 | 8 | 5 | 4 | 32 |
+| 8 | Everton | 21 | 9 | 4 | 8 | -1 | 31 |
+| 9 | Newcastle United | 21 | 8 | 6 | 7 | 4 | 30 |
+| 10 | Sunderland | 21 | 7 | 9 | 5 | 1 | 30 |
+| 11 | Fulham | 21 | 8 | 5 | 8 | -1 | 29 |
+| 12 | Brighton & Hove Albion | 21 | 7 | 7 | 7 | 2 | 28 |
+| 13 | Crystal Palace | 21 | 7 | 7 | 7 | -1 | 28 |
+| 14 | Tottenham Hotspur | 21 | 7 | 6 | 8 | 3 | 27 |
+| 15 | AFC Bournemouth | 21 | 6 | 8 | 7 | -6 | 26 |
+| 16 | Leeds United | 21 | 5 | 8 | 8 | -7 | 23 |
 | 17 | Nottingham Forest | 21 | 6 | 3 | 12 | -13 | 21 |
 | 18 | West Ham United | 21 | 3 | 5 | 13 | -21 | 14 |
-| 19 | Burnley | 20 | 3 | 3 | 14 | -19 | 12 |
-| 20 | Wolverhampton Wanderers | 21 | 1 | 4 | 16 | -26 | 7 |
+| 19 | Burnley | 21 | 3 | 4 | 14 | -19 | 13 |
+| 20 | Wolverhampton Wanderers | 21 | 1 | 3 | 17 | -27 | 6 |
 
 ### La Liga
 
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 17 | 13 | 0 | 4 | 23 | 39 |
+| 1 | Inter | 18 | 13 | 1 | 4 | 23 | 40 |
 | 2 | Milan | 17 | 11 | 5 | 1 | 15 | 38 |
 | 3 | Napoli | 18 | 12 | 2 | 4 | 13 | 38 |
 | 4 | Juventus | 19 | 10 | 6 | 3 | 11 | 36 |
@@ -128,17 +128,17 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Como | 18 | 9 | 6 | 3 | 14 | 33 |
 | 7 | Atalanta | 19 | 7 | 7 | 5 | 4 | 28 |
 | 8 | Bologna | 18 | 7 | 5 | 6 | 6 | 26 |
-| 9 | Lazio | 18 | 6 | 6 | 6 | 4 | 24 |
-| 10 | Torino | 18 | 6 | 5 | 7 | -8 | 23 |
+| 9 | Lazio | 19 | 6 | 7 | 6 | 4 | 25 |
+| 10 | Torino | 19 | 6 | 6 | 7 | -8 | 24 |
 | 11 | Sassuolo | 19 | 6 | 5 | 8 | -2 | 23 |
-| 12 | Udinese | 18 | 6 | 4 | 8 | -11 | 22 |
+| 12 | Udinese | 19 | 6 | 5 | 8 | -11 | 23 |
 | 13 | Cremonese | 18 | 5 | 6 | 7 | -3 | 21 |
-| 14 | Parma | 17 | 4 | 6 | 7 | -7 | 18 |
+| 14 | Parma | 18 | 4 | 7 | 7 | -7 | 19 |
 | 15 | Cagliari | 18 | 4 | 6 | 8 | -6 | 18 |
 | 16 | Lecce | 18 | 4 | 5 | 9 | -13 | 17 |
 | 17 | Genoa | 18 | 3 | 6 | 9 | -10 | 15 |
 | 18 | Hellas Verona | 18 | 2 | 7 | 9 | -15 | 13 |
-| 19 | Fiorentina | 18 | 2 | 6 | 10 | -10 | 12 |
+| 19 | Fiorentina | 19 | 2 | 7 | 10 | -10 | 13 |
 | 20 | Pisa | 19 | 1 | 9 | 9 | -15 | 12 |
 
 ### Ligue 1
