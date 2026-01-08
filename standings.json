@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 08 January 2026, 09:22 PM UTC",
-        "IST": "Friday, 09 January 2026, 02:52 AM IST"
+        "UTC": "Thursday, 08 January 2026, 09:43 PM UTC",
+        "IST": "Friday, 09 January 2026, 03:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -606,10 +606,10 @@
                 "Team": "Milan",
                 "Played": "18",
                 "Wins": "11",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "14",
-                "Points": "38"
+                "Draws": "6",
+                "Losses": "1",
+                "Goal Difference": "15",
+                "Points": "39"
             },
             {
                 "Position": "3",
@@ -743,16 +743,6 @@
             },
             {
                 "Position": "16",
-                "Team": "Genoa",
-                "Played": "19",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-9",
-                "Points": "18"
-            },
-            {
-                "Position": "17",
                 "Team": "Lecce",
                 "Played": "18",
                 "Wins": "4",
@@ -760,6 +750,16 @@
                 "Losses": "9",
                 "Goal Difference": "-13",
                 "Points": "17"
+            },
+            {
+                "Position": "17",
+                "Team": "Genoa",
+                "Played": "19",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-10",
+                "Points": "16"
             },
             {
                 "Position": "18",
