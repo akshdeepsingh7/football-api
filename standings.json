@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 08 January 2026, 06:30 PM UTC",
-        "IST": "Friday, 09 January 2026, 12:00 AM IST"
+        "UTC": "Thursday, 08 January 2026, 07:20 PM UTC",
+        "IST": "Friday, 09 January 2026, 12:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -693,16 +693,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Cremonese",
-                "Played": "19",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-1",
-                "Points": "24"
-            },
-            {
-                "Position": "12",
                 "Team": "Sassuolo",
                 "Played": "19",
                 "Wins": "6",
@@ -712,7 +702,7 @@
                 "Points": "23"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Torino",
                 "Played": "19",
                 "Wins": "6",
@@ -722,23 +712,33 @@
                 "Points": "23"
             },
             {
+                "Position": "13",
+                "Team": "Cremonese",
+                "Played": "19",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "-3",
+                "Points": "22"
+            },
+            {
                 "Position": "14",
+                "Team": "Cagliari",
+                "Played": "19",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "-6",
+                "Points": "19"
+            },
+            {
+                "Position": "15",
                 "Team": "Parma",
                 "Played": "18",
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "8",
                 "Goal Difference": "-9",
-                "Points": "18"
-            },
-            {
-                "Position": "15",
-                "Team": "Cagliari",
-                "Played": "19",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-8",
                 "Points": "18"
             },
             {
