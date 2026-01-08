@@ -1,19 +1,19 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 08 January 2026, 07:40 PM UTC",
-        "IST": "Friday, 09 January 2026, 01:10 AM IST"
+        "UTC": "Thursday, 08 January 2026, 08:26 PM UTC",
+        "IST": "Friday, 09 January 2026, 01:56 AM IST"
     },
     "standings": {
         "Premier League": [
             {
                 "Position": "1",
                 "Team": "Arsenal",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "15",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "26",
-                "Points": "48"
+                "Points": "49"
             },
             {
                 "Position": "2",
@@ -38,12 +38,12 @@
             {
                 "Position": "4",
                 "Team": "Liverpool FC",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "10",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "4",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "5",
@@ -604,11 +604,11 @@
             {
                 "Position": "2",
                 "Team": "Milan",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "11",
                 "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "15",
+                "Losses": "2",
+                "Goal Difference": "14",
                 "Points": "38"
             },
             {
@@ -743,6 +743,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Genoa",
+                "Played": "19",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-9",
+                "Points": "18"
+            },
+            {
+                "Position": "17",
                 "Team": "Lecce",
                 "Played": "18",
                 "Wins": "4",
@@ -750,16 +760,6 @@
                 "Losses": "9",
                 "Goal Difference": "-13",
                 "Points": "17"
-            },
-            {
-                "Position": "17",
-                "Team": "Genoa",
-                "Played": "18",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-10",
-                "Points": "15"
             },
             {
                 "Position": "18",
