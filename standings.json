@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 09 January 2026, 08:26 PM UTC",
-        "IST": "Saturday, 10 January 2026, 01:56 AM IST"
+        "UTC": "Friday, 09 January 2026, 08:46 PM UTC",
+        "IST": "Saturday, 10 January 2026, 02:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,16 +299,26 @@
             },
             {
                 "Position": "10",
-                "Team": "Getafe",
+                "Team": "Real Sociedad",
                 "Played": "19",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-9",
-                "Points": "22"
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "-3",
+                "Points": "21"
             },
             {
                 "Position": "11",
+                "Team": "Getafe",
+                "Played": "19",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-10",
+                "Points": "21"
+            },
+            {
+                "Position": "12",
                 "Team": "Sevilla",
                 "Played": "18",
                 "Wins": "6",
@@ -318,23 +328,13 @@
                 "Points": "20"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Osasuna",
                 "Played": "18",
                 "Wins": "5",
                 "Draws": "4",
                 "Losses": "9",
                 "Goal Difference": "-3",
-                "Points": "19"
-            },
-            {
-                "Position": "13",
-                "Team": "Real Sociedad",
-                "Played": "19",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "-4",
                 "Points": "19"
             },
             {
