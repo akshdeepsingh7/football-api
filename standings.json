@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 09 January 2026, 07:40 PM UTC",
-        "IST": "Saturday, 10 January 2026, 01:10 AM IST"
+        "UTC": "Friday, 09 January 2026, 08:26 PM UTC",
+        "IST": "Saturday, 10 January 2026, 01:56 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -300,12 +300,12 @@
             {
                 "Position": "10",
                 "Team": "Getafe",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "6",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "9",
                 "Goal Difference": "-9",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "11",
@@ -329,6 +329,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Real Sociedad",
+                "Played": "19",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "-4",
+                "Points": "19"
+            },
+            {
+                "Position": "14",
                 "Team": "Alav\u00e9s",
                 "Played": "18",
                 "Wins": "5",
@@ -338,7 +348,7 @@
                 "Points": "19"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "18",
                 "Wins": "4",
@@ -346,16 +356,6 @@
                 "Losses": "7",
                 "Goal Difference": "-7",
                 "Points": "19"
-            },
-            {
-                "Position": "15",
-                "Team": "Real Sociedad",
-                "Played": "18",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-4",
-                "Points": "18"
             },
             {
                 "Position": "16",
@@ -423,11 +423,11 @@
                 "Position": "2",
                 "Team": "Borussia Dortmund",
                 "Played": "16",
-                "Wins": "10",
-                "Draws": "5",
+                "Wins": "9",
+                "Draws": "6",
                 "Losses": "1",
-                "Goal Difference": "15",
-                "Points": "35"
+                "Goal Difference": "14",
+                "Points": "33"
             },
             {
                 "Position": "3",
@@ -474,10 +474,10 @@
                 "Team": "Eintracht Frankfurt",
                 "Played": "16",
                 "Wins": "7",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "-1",
-                "Points": "25"
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "26"
             },
             {
                 "Position": "8",

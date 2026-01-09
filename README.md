@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 09 January 2026, 07:40 PM UTC (Saturday, 10 January 2026, 01:10 AM IST)
+**Last Updated:** Friday, 09 January 2026, 08:26 PM UTC (Saturday, 10 January 2026, 01:56 AM IST)
 
 ### Premier League
 
@@ -81,12 +81,12 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Celta de Vigo | 18 | 6 | 8 | 4 | 4 | 26 |
 | 8 | Athletic Bilbao | 19 | 7 | 3 | 9 | -8 | 24 |
 | 9 | Elche | 18 | 5 | 7 | 6 | 1 | 22 |
-| 10 | Getafe | 18 | 6 | 3 | 9 | -9 | 21 |
+| 10 | Getafe | 19 | 6 | 4 | 9 | -9 | 22 |
 | 11 | Sevilla | 18 | 6 | 2 | 10 | -5 | 20 |
 | 12 | Osasuna | 18 | 5 | 4 | 9 | -3 | 19 |
-| 13 | Alavés | 18 | 5 | 4 | 9 | -6 | 19 |
-| 14 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
-| 15 | Real Sociedad | 18 | 4 | 6 | 8 | -4 | 18 |
+| 13 | Real Sociedad | 19 | 4 | 7 | 8 | -4 | 19 |
+| 14 | Alavés | 18 | 5 | 4 | 9 | -6 | 19 |
+| 15 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
 | 16 | Mallorca | 18 | 4 | 6 | 8 | -6 | 18 |
 | 17 | Girona | 18 | 4 | 6 | 8 | -17 | 18 |
 | 18 | Valencia | 18 | 3 | 7 | 8 | -13 | 16 |
@@ -98,12 +98,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 15 | 13 | 2 | 0 | 44 | 41 |
-| 2 | Borussia Dortmund | 16 | 10 | 5 | 1 | 15 | 35 |
+| 2 | Borussia Dortmund | 16 | 9 | 6 | 1 | 14 | 33 |
 | 3 | Bayer Leverkusen | 15 | 9 | 2 | 4 | 13 | 29 |
 | 4 | RB Leipzig | 15 | 9 | 2 | 4 | 11 | 29 |
 | 5 | Hoffenheim | 15 | 8 | 3 | 4 | 9 | 27 |
 | 6 | VfB Stuttgart | 15 | 8 | 2 | 5 | 3 | 26 |
-| 7 | Eintracht Frankfurt | 16 | 7 | 4 | 5 | -1 | 25 |
+| 7 | Eintracht Frankfurt | 16 | 7 | 5 | 4 | 0 | 26 |
 | 8 | Union Berlin | 15 | 6 | 3 | 6 | -3 | 21 |
 | 9 | SC Freiburg | 15 | 5 | 5 | 5 | -1 | 20 |
 | 10 | Werder Bremen | 15 | 4 | 5 | 6 | -10 | 17 |
