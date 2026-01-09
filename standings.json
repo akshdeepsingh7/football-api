@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 09 January 2026, 09:21 PM UTC",
-        "IST": "Saturday, 10 January 2026, 02:51 AM IST"
+        "UTC": "Friday, 09 January 2026, 09:42 PM UTC",
+        "IST": "Saturday, 10 January 2026, 03:12 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -424,10 +424,10 @@
                 "Team": "Borussia Dortmund",
                 "Played": "16",
                 "Wins": "9",
-                "Draws": "5",
-                "Losses": "2",
-                "Goal Difference": "13",
-                "Points": "32"
+                "Draws": "6",
+                "Losses": "1",
+                "Goal Difference": "14",
+                "Points": "33"
             },
             {
                 "Position": "3",
@@ -451,16 +451,6 @@
             },
             {
                 "Position": "5",
-                "Team": "Eintracht Frankfurt",
-                "Played": "16",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "1",
-                "Points": "28"
-            },
-            {
-                "Position": "6",
                 "Team": "Hoffenheim",
                 "Played": "15",
                 "Wins": "8",
@@ -470,13 +460,23 @@
                 "Points": "27"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "VfB Stuttgart",
                 "Played": "15",
                 "Wins": "8",
                 "Draws": "2",
                 "Losses": "5",
                 "Goal Difference": "3",
+                "Points": "26"
+            },
+            {
+                "Position": "7",
+                "Team": "Eintracht Frankfurt",
+                "Played": "16",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "0",
                 "Points": "26"
             },
             {

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 09 January 2026, 09:21 PM UTC (Saturday, 10 January 2026, 02:51 AM IST)
+**Last Updated:** Friday, 09 January 2026, 09:42 PM UTC (Saturday, 10 January 2026, 03:12 AM IST)
 
 ### Premier League
 
@@ -98,12 +98,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 15 | 13 | 2 | 0 | 44 | 41 |
-| 2 | Borussia Dortmund | 16 | 9 | 5 | 2 | 13 | 32 |
+| 2 | Borussia Dortmund | 16 | 9 | 6 | 1 | 14 | 33 |
 | 3 | Bayer Leverkusen | 15 | 9 | 2 | 4 | 13 | 29 |
 | 4 | RB Leipzig | 15 | 9 | 2 | 4 | 11 | 29 |
-| 5 | Eintracht Frankfurt | 16 | 8 | 4 | 4 | 1 | 28 |
-| 6 | Hoffenheim | 15 | 8 | 3 | 4 | 9 | 27 |
-| 7 | VfB Stuttgart | 15 | 8 | 2 | 5 | 3 | 26 |
+| 5 | Hoffenheim | 15 | 8 | 3 | 4 | 9 | 27 |
+| 6 | VfB Stuttgart | 15 | 8 | 2 | 5 | 3 | 26 |
+| 7 | Eintracht Frankfurt | 16 | 7 | 5 | 4 | 0 | 26 |
 | 8 | Union Berlin | 15 | 6 | 3 | 6 | -3 | 21 |
 | 9 | SC Freiburg | 15 | 5 | 5 | 5 | -1 | 20 |
 | 10 | Werder Bremen | 15 | 4 | 5 | 6 | -10 | 17 |
