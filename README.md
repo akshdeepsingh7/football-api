@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 10 January 2026, 07:38 PM UTC (Sunday, 11 January 2026, 01:08 AM IST)
+**Last Updated:** Saturday, 10 January 2026, 08:23 PM UTC (Sunday, 11 January 2026, 01:53 AM IST)
 
 ### Premier League
 
@@ -80,7 +80,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Real Betis | 19 | 7 | 8 | 4 | 6 | 29 |
 | 7 | Celta de Vigo | 18 | 6 | 8 | 4 | 4 | 26 |
 | 8 | Athletic Bilbao | 19 | 7 | 3 | 9 | -8 | 24 |
-| 9 | Elche | 18 | 5 | 7 | 6 | 1 | 22 |
+| 9 | Elche | 19 | 5 | 8 | 6 | 1 | 23 |
 | 10 | Real Sociedad | 19 | 5 | 6 | 8 | -3 | 21 |
 | 11 | Getafe | 19 | 6 | 3 | 10 | -10 | 21 |
 | 12 | Girona | 19 | 5 | 6 | 8 | -16 | 21 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
 | 16 | Alavés | 19 | 5 | 4 | 10 | -8 | 19 |
 | 17 | Mallorca | 18 | 4 | 6 | 8 | -6 | 18 |
-| 18 | Valencia | 18 | 3 | 7 | 8 | -13 | 16 |
+| 18 | Valencia | 19 | 3 | 8 | 8 | -13 | 17 |
 | 19 | Levante | 17 | 3 | 4 | 10 | -9 | 13 |
 | 20 | Real Oviedo | 19 | 2 | 7 | 10 | -19 | 13 |
 
@@ -126,12 +126,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Napoli | 18 | 12 | 2 | 4 | 13 | 38 |
 | 5 | Juventus | 19 | 10 | 6 | 3 | 11 | 36 |
 | 6 | Como | 19 | 9 | 7 | 3 | 14 | 34 |
-| 7 | Atalanta | 19 | 7 | 7 | 5 | 4 | 28 |
+| 7 | Atalanta | 20 | 8 | 7 | 5 | 5 | 31 |
 | 8 | Bologna | 19 | 7 | 6 | 6 | 6 | 27 |
 | 9 | Udinese | 20 | 7 | 5 | 8 | -10 | 26 |
 | 10 | Lazio | 19 | 6 | 7 | 6 | 4 | 25 |
-| 11 | Torino | 19 | 6 | 5 | 8 | -9 | 23 |
-| 12 | Sassuolo | 20 | 6 | 5 | 9 | -4 | 23 |
+| 11 | Sassuolo | 20 | 6 | 5 | 9 | -4 | 23 |
+| 12 | Torino | 20 | 6 | 5 | 9 | -10 | 23 |
 | 13 | Cremonese | 19 | 5 | 7 | 7 | -3 | 22 |
 | 14 | Cagliari | 19 | 4 | 7 | 8 | -6 | 19 |
 | 15 | Parma | 18 | 4 | 6 | 8 | -9 | 18 |
