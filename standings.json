@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 10 January 2026, 09:19 PM UTC",
-        "IST": "Sunday, 11 January 2026, 02:49 AM IST"
+        "UTC": "Saturday, 10 January 2026, 09:39 PM UTC",
+        "IST": "Sunday, 11 January 2026, 03:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -279,6 +279,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Elche",
+                "Played": "19",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "2",
+                "Points": "25"
+            },
+            {
+                "Position": "9",
                 "Team": "Athletic Bilbao",
                 "Played": "19",
                 "Wins": "7",
@@ -286,16 +296,6 @@
                 "Losses": "9",
                 "Goal Difference": "-8",
                 "Points": "24"
-            },
-            {
-                "Position": "9",
-                "Team": "Elche",
-                "Played": "19",
-                "Wins": "5",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "1",
-                "Points": "23"
             },
             {
                 "Position": "10",
@@ -382,10 +382,10 @@
                 "Team": "Valencia",
                 "Played": "19",
                 "Wins": "3",
-                "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "-13",
-                "Points": "17"
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-14",
+                "Points": "16"
             },
             {
                 "Position": "19",
