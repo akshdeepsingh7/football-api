@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 10 January 2026, 03:20 PM UTC (Saturday, 10 January 2026, 08:50 PM IST)
+**Last Updated:** Saturday, 10 January 2026, 03:41 PM UTC (Saturday, 10 January 2026, 09:11 PM IST)
 
 ### Premier League
 
@@ -104,16 +104,16 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Hoffenheim | 15 | 8 | 3 | 4 | 9 | 27 |
 | 6 | VfB Stuttgart | 15 | 8 | 2 | 5 | 3 | 26 |
 | 7 | Eintracht Frankfurt | 16 | 7 | 5 | 4 | 0 | 26 |
-| 8 | SC Freiburg | 16 | 5 | 6 | 5 | -1 | 21 |
-| 9 | Union Berlin | 16 | 6 | 3 | 7 | -4 | 21 |
-| 10 | Hamburg | 16 | 4 | 5 | 7 | -9 | 17 |
-| 11 | Werder Bremen | 15 | 4 | 5 | 6 | -10 | 17 |
-| 12 | Köln | 16 | 4 | 4 | 8 | -3 | 16 |
+| 8 | Union Berlin | 16 | 6 | 3 | 7 | -4 | 21 |
+| 9 | SC Freiburg | 16 | 5 | 5 | 6 | -2 | 20 |
+| 10 | Hamburg | 16 | 5 | 4 | 7 | -8 | 19 |
+| 11 | Köln | 16 | 4 | 5 | 7 | -2 | 17 |
+| 12 | Werder Bremen | 15 | 4 | 5 | 6 | -10 | 17 |
 | 13 | Borussia Mönchengladbach | 15 | 4 | 4 | 7 | -6 | 16 |
 | 14 | VfL Wolfsburg | 15 | 4 | 3 | 8 | -5 | 15 |
 | 15 | Augsburg | 15 | 4 | 2 | 9 | -11 | 14 |
-| 16 | Heidenheim | 16 | 4 | 2 | 10 | -20 | 14 |
-| 17 | St. Pauli | 15 | 3 | 3 | 9 | -13 | 12 |
+| 16 | St. Pauli | 15 | 3 | 3 | 9 | -13 | 12 |
+| 17 | Heidenheim | 16 | 3 | 3 | 10 | -21 | 12 |
 | 18 | Mainz 05 | 16 | 2 | 5 | 9 | -12 | 11 |
 
 ### Serie A
@@ -128,7 +128,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Como | 19 | 9 | 6 | 4 | 13 | 33 |
 | 7 | Bologna | 19 | 8 | 5 | 6 | 7 | 29 |
 | 8 | Atalanta | 19 | 7 | 7 | 5 | 4 | 28 |
-| 9 | Udinese | 20 | 8 | 4 | 8 | -9 | 28 |
+| 9 | Udinese | 20 | 7 | 5 | 8 | -10 | 26 |
 | 10 | Lazio | 19 | 6 | 7 | 6 | 4 | 25 |
 | 11 | Sassuolo | 19 | 6 | 5 | 8 | -2 | 23 |
 | 12 | Torino | 19 | 6 | 5 | 8 | -9 | 23 |
@@ -139,7 +139,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Genoa | 19 | 3 | 7 | 9 | -10 | 16 |
 | 18 | Hellas Verona | 18 | 2 | 7 | 9 | -15 | 13 |
 | 19 | Fiorentina | 19 | 2 | 7 | 10 | -10 | 13 |
-| 20 | Pisa | 20 | 1 | 9 | 10 | -16 | 12 |
+| 20 | Pisa | 20 | 1 | 10 | 9 | -15 | 13 |
 
 ### Ligue 1
 

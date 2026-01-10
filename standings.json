@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 10 January 2026, 03:20 PM UTC",
-        "IST": "Saturday, 10 January 2026, 08:50 PM IST"
+        "UTC": "Saturday, 10 January 2026, 03:41 PM UTC",
+        "IST": "Saturday, 10 January 2026, 09:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -481,16 +481,6 @@
             },
             {
                 "Position": "8",
-                "Team": "SC Freiburg",
-                "Played": "16",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "-1",
-                "Points": "21"
-            },
-            {
-                "Position": "9",
                 "Team": "Union Berlin",
                 "Played": "16",
                 "Wins": "6",
@@ -500,17 +490,37 @@
                 "Points": "21"
             },
             {
+                "Position": "9",
+                "Team": "SC Freiburg",
+                "Played": "16",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-2",
+                "Points": "20"
+            },
+            {
                 "Position": "10",
                 "Team": "Hamburg",
+                "Played": "16",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "-8",
+                "Points": "19"
+            },
+            {
+                "Position": "11",
+                "Team": "K\u00f6ln",
                 "Played": "16",
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "-9",
+                "Goal Difference": "-2",
                 "Points": "17"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Werder Bremen",
                 "Played": "15",
                 "Wins": "4",
@@ -518,16 +528,6 @@
                 "Losses": "6",
                 "Goal Difference": "-10",
                 "Points": "17"
-            },
-            {
-                "Position": "12",
-                "Team": "K\u00f6ln",
-                "Played": "16",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "-3",
-                "Points": "16"
             },
             {
                 "Position": "13",
@@ -561,22 +561,22 @@
             },
             {
                 "Position": "16",
-                "Team": "Heidenheim",
-                "Played": "16",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "10",
-                "Goal Difference": "-20",
-                "Points": "14"
-            },
-            {
-                "Position": "17",
                 "Team": "St. Pauli",
                 "Played": "15",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "9",
                 "Goal Difference": "-13",
+                "Points": "12"
+            },
+            {
+                "Position": "17",
+                "Team": "Heidenheim",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-21",
                 "Points": "12"
             },
             {
@@ -675,11 +675,11 @@
                 "Position": "9",
                 "Team": "Udinese",
                 "Played": "20",
-                "Wins": "8",
-                "Draws": "4",
+                "Wins": "7",
+                "Draws": "5",
                 "Losses": "8",
-                "Goal Difference": "-9",
-                "Points": "28"
+                "Goal Difference": "-10",
+                "Points": "26"
             },
             {
                 "Position": "10",
@@ -786,10 +786,10 @@
                 "Team": "Pisa",
                 "Played": "20",
                 "Wins": "1",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-16",
-                "Points": "12"
+                "Draws": "10",
+                "Losses": "9",
+                "Goal Difference": "-15",
+                "Points": "13"
             }
         ],
         "Ligue 1": [
