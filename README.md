@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 10 January 2026, 06:53 PM UTC (Sunday, 11 January 2026, 12:23 AM IST)
+**Last Updated:** Saturday, 10 January 2026, 07:16 PM UTC (Sunday, 11 January 2026, 12:46 AM IST)
 
 ### Premier League
 
@@ -100,8 +100,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 15 | 13 | 2 | 0 | 44 | 41 |
 | 2 | Borussia Dortmund | 16 | 9 | 6 | 1 | 14 | 33 |
 | 3 | RB Leipzig | 15 | 9 | 2 | 4 | 11 | 29 |
-| 4 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 9 | 29 |
-| 5 | VfB Stuttgart | 16 | 9 | 2 | 5 | 7 | 29 |
+| 4 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 10 | 29 |
+| 5 | VfB Stuttgart | 16 | 9 | 2 | 5 | 6 | 29 |
 | 6 | Hoffenheim | 15 | 8 | 3 | 4 | 9 | 27 |
 | 7 | Eintracht Frankfurt | 16 | 7 | 5 | 4 | 0 | 26 |
 | 8 | SC Freiburg | 16 | 6 | 5 | 5 | 0 | 23 |
