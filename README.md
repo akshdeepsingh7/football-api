@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 10 January 2026, 02:19 PM UTC (Saturday, 10 January 2026, 07:49 PM IST)
+**Last Updated:** Saturday, 10 January 2026, 02:42 PM UTC (Saturday, 10 January 2026, 08:12 PM IST)
 
 ### Premier League
 
@@ -104,17 +104,17 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Hoffenheim | 15 | 8 | 3 | 4 | 9 | 27 |
 | 6 | VfB Stuttgart | 15 | 8 | 2 | 5 | 3 | 26 |
 | 7 | Eintracht Frankfurt | 16 | 7 | 5 | 4 | 0 | 26 |
-| 8 | Union Berlin | 15 | 6 | 3 | 6 | -3 | 21 |
-| 9 | SC Freiburg | 15 | 5 | 5 | 5 | -1 | 20 |
-| 10 | Werder Bremen | 15 | 4 | 5 | 6 | -10 | 17 |
-| 11 | Köln | 15 | 4 | 4 | 7 | -2 | 16 |
-| 12 | Borussia Mönchengladbach | 15 | 4 | 4 | 7 | -6 | 16 |
-| 13 | Hamburg | 15 | 4 | 4 | 7 | -9 | 16 |
+| 8 | Union Berlin | 16 | 6 | 4 | 6 | -3 | 22 |
+| 9 | SC Freiburg | 16 | 5 | 6 | 5 | -1 | 21 |
+| 10 | Köln | 16 | 4 | 5 | 7 | -2 | 17 |
+| 11 | Hamburg | 16 | 4 | 5 | 7 | -9 | 17 |
+| 12 | Werder Bremen | 15 | 4 | 5 | 6 | -10 | 17 |
+| 13 | Borussia Mönchengladbach | 15 | 4 | 4 | 7 | -6 | 16 |
 | 14 | VfL Wolfsburg | 15 | 4 | 3 | 8 | -5 | 15 |
 | 15 | Augsburg | 15 | 4 | 2 | 9 | -11 | 14 |
 | 16 | St. Pauli | 15 | 3 | 3 | 9 | -13 | 12 |
-| 17 | Heidenheim | 15 | 3 | 2 | 10 | -21 | 11 |
-| 18 | Mainz 05 | 15 | 1 | 5 | 9 | -13 | 8 |
+| 17 | Heidenheim | 16 | 3 | 3 | 10 | -21 | 12 |
+| 18 | Mainz 05 | 16 | 1 | 6 | 9 | -13 | 9 |
 
 ### Serie A
 
@@ -127,9 +127,9 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Roma | 19 | 12 | 0 | 7 | 10 | 36 |
 | 6 | Como | 19 | 9 | 7 | 3 | 14 | 34 |
 | 7 | Atalanta | 19 | 7 | 7 | 5 | 4 | 28 |
-| 8 | Bologna | 19 | 7 | 6 | 6 | 6 | 27 |
-| 9 | Lazio | 19 | 6 | 7 | 6 | 4 | 25 |
-| 10 | Udinese | 20 | 7 | 4 | 9 | -11 | 25 |
+| 8 | Udinese | 20 | 8 | 4 | 8 | -9 | 28 |
+| 9 | Bologna | 19 | 7 | 6 | 6 | 6 | 27 |
+| 10 | Lazio | 19 | 6 | 7 | 6 | 4 | 25 |
 | 11 | Sassuolo | 19 | 6 | 5 | 8 | -2 | 23 |
 | 12 | Torino | 19 | 6 | 5 | 8 | -9 | 23 |
 | 13 | Cremonese | 19 | 5 | 7 | 7 | -3 | 22 |
@@ -137,9 +137,9 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Parma | 18 | 4 | 6 | 8 | -9 | 18 |
 | 16 | Lecce | 18 | 4 | 5 | 9 | -13 | 17 |
 | 17 | Genoa | 19 | 3 | 7 | 9 | -10 | 16 |
-| 18 | Pisa | 20 | 2 | 9 | 9 | -14 | 15 |
-| 19 | Hellas Verona | 18 | 2 | 7 | 9 | -15 | 13 |
-| 20 | Fiorentina | 19 | 2 | 7 | 10 | -10 | 13 |
+| 18 | Hellas Verona | 18 | 2 | 7 | 9 | -15 | 13 |
+| 19 | Fiorentina | 19 | 2 | 7 | 10 | -10 | 13 |
+| 20 | Pisa | 20 | 1 | 9 | 10 | -16 | 12 |
 
 ### Ligue 1
 
