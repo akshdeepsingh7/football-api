@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 10 January 2026, 06:30 PM UTC",
-        "IST": "Sunday, 11 January 2026, 12:00 AM IST"
+        "UTC": "Saturday, 10 January 2026, 06:53 PM UTC",
+        "IST": "Sunday, 11 January 2026, 12:23 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -613,6 +613,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Roma",
+                "Played": "20",
+                "Wins": "13",
+                "Draws": "0",
+                "Losses": "7",
+                "Goal Difference": "12",
+                "Points": "39"
+            },
+            {
+                "Position": "4",
                 "Team": "Napoli",
                 "Played": "18",
                 "Wins": "12",
@@ -620,16 +630,6 @@
                 "Losses": "4",
                 "Goal Difference": "13",
                 "Points": "38"
-            },
-            {
-                "Position": "4",
-                "Team": "Roma",
-                "Played": "20",
-                "Wins": "12",
-                "Draws": "1",
-                "Losses": "7",
-                "Goal Difference": "10",
-                "Points": "37"
             },
             {
                 "Position": "5",
@@ -693,22 +693,22 @@
             },
             {
                 "Position": "11",
-                "Team": "Sassuolo",
-                "Played": "20",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-2",
-                "Points": "24"
-            },
-            {
-                "Position": "12",
                 "Team": "Torino",
                 "Played": "19",
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "-9",
+                "Points": "23"
+            },
+            {
+                "Position": "12",
+                "Team": "Sassuolo",
+                "Played": "20",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-4",
                 "Points": "23"
             },
             {
