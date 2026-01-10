@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 10 January 2026, 05:41 PM UTC (Saturday, 10 January 2026, 11:11 PM IST)
+**Last Updated:** Saturday, 10 January 2026, 06:30 PM UTC (Sunday, 11 January 2026, 12:00 AM IST)
 
 ### Premier League
 
@@ -83,11 +83,11 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Elche | 18 | 5 | 7 | 6 | 1 | 22 |
 | 10 | Real Sociedad | 19 | 5 | 6 | 8 | -3 | 21 |
 | 11 | Getafe | 19 | 6 | 3 | 10 | -10 | 21 |
-| 12 | Osasuna | 19 | 5 | 5 | 9 | -3 | 20 |
+| 12 | Girona | 19 | 5 | 6 | 8 | -16 | 21 |
 | 13 | Sevilla | 18 | 6 | 2 | 10 | -5 | 20 |
-| 14 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
-| 15 | Alavés | 19 | 5 | 4 | 10 | -8 | 19 |
-| 16 | Girona | 19 | 4 | 7 | 8 | -17 | 19 |
+| 14 | Osasuna | 19 | 5 | 4 | 10 | -4 | 19 |
+| 15 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
+| 16 | Alavés | 19 | 5 | 4 | 10 | -8 | 19 |
 | 17 | Mallorca | 18 | 4 | 6 | 8 | -6 | 18 |
 | 18 | Valencia | 18 | 3 | 7 | 8 | -13 | 16 |
 | 19 | Levante | 17 | 3 | 4 | 10 | -9 | 13 |
@@ -99,9 +99,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 15 | 13 | 2 | 0 | 44 | 41 |
 | 2 | Borussia Dortmund | 16 | 9 | 6 | 1 | 14 | 33 |
-| 3 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 12 | 29 |
-| 4 | RB Leipzig | 15 | 9 | 2 | 4 | 11 | 29 |
-| 5 | VfB Stuttgart | 16 | 9 | 2 | 5 | 4 | 29 |
+| 3 | RB Leipzig | 15 | 9 | 2 | 4 | 11 | 29 |
+| 4 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 9 | 29 |
+| 5 | VfB Stuttgart | 16 | 9 | 2 | 5 | 7 | 29 |
 | 6 | Hoffenheim | 15 | 8 | 3 | 4 | 9 | 27 |
 | 7 | Eintracht Frankfurt | 16 | 7 | 5 | 4 | 0 | 26 |
 | 8 | SC Freiburg | 16 | 6 | 5 | 5 | 0 | 23 |

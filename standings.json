@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 10 January 2026, 05:41 PM UTC",
-        "IST": "Saturday, 10 January 2026, 11:11 PM IST"
+        "UTC": "Saturday, 10 January 2026, 06:30 PM UTC",
+        "IST": "Sunday, 11 January 2026, 12:00 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -319,13 +319,13 @@
             },
             {
                 "Position": "12",
-                "Team": "Osasuna",
+                "Team": "Girona",
                 "Played": "19",
                 "Wins": "5",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-3",
-                "Points": "20"
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "-16",
+                "Points": "21"
             },
             {
                 "Position": "13",
@@ -339,6 +339,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Osasuna",
+                "Played": "19",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "10",
+                "Goal Difference": "-4",
+                "Points": "19"
+            },
+            {
+                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "18",
                 "Wins": "4",
@@ -348,23 +358,13 @@
                 "Points": "19"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Alav\u00e9s",
                 "Played": "19",
                 "Wins": "5",
                 "Draws": "4",
                 "Losses": "10",
                 "Goal Difference": "-8",
-                "Points": "19"
-            },
-            {
-                "Position": "16",
-                "Team": "Girona",
-                "Played": "19",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "-17",
                 "Points": "19"
             },
             {
@@ -431,16 +431,6 @@
             },
             {
                 "Position": "3",
-                "Team": "Bayer Leverkusen",
-                "Played": "16",
-                "Wins": "9",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "12",
-                "Points": "29"
-            },
-            {
-                "Position": "4",
                 "Team": "RB Leipzig",
                 "Played": "15",
                 "Wins": "9",
@@ -450,13 +440,23 @@
                 "Points": "29"
             },
             {
+                "Position": "4",
+                "Team": "Bayer Leverkusen",
+                "Played": "16",
+                "Wins": "9",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "9",
+                "Points": "29"
+            },
+            {
                 "Position": "5",
                 "Team": "VfB Stuttgart",
                 "Played": "16",
                 "Wins": "9",
                 "Draws": "2",
                 "Losses": "5",
-                "Goal Difference": "4",
+                "Goal Difference": "7",
                 "Points": "29"
             },
             {
