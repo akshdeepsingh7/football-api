@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 10 January 2026, 12:41 PM UTC",
-        "IST": "Saturday, 10 January 2026, 06:11 PM IST"
+        "UTC": "Saturday, 10 January 2026, 01:29 PM UTC",
+        "IST": "Saturday, 10 January 2026, 06:59 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -260,12 +260,12 @@
             {
                 "Position": "6",
                 "Team": "Real Betis",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "7",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "4",
                 "Goal Difference": "6",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "7",
@@ -400,12 +400,12 @@
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "2",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "10",
                 "Goal Difference": "-19",
-                "Points": "12"
+                "Points": "13"
             }
         ],
         "Bundesliga": [
