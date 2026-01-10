@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 10 January 2026, 04:47 PM UTC (Saturday, 10 January 2026, 10:17 PM IST)
+**Last Updated:** Saturday, 10 January 2026, 05:18 PM UTC (Saturday, 10 January 2026, 10:48 PM IST)
 
 ### Premier League
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 19 | 16 | 1 | 2 | 33 | 49 |
 | 2 | Real Madrid | 19 | 14 | 3 | 2 | 24 | 45 |
-| 3 | Villarreal | 18 | 13 | 2 | 3 | 21 | 41 |
+| 3 | Villarreal | 18 | 13 | 2 | 3 | 20 | 41 |
 | 4 | Atlético de Madrid | 19 | 11 | 5 | 3 | 17 | 38 |
 | 5 | Espanyol | 18 | 10 | 3 | 5 | 3 | 33 |
 | 6 | Real Betis | 19 | 7 | 8 | 4 | 6 | 29 |
@@ -86,7 +86,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Sevilla | 18 | 6 | 2 | 10 | -5 | 20 |
 | 13 | Osasuna | 18 | 5 | 4 | 9 | -3 | 19 |
 | 14 | Rayo Vallecano | 18 | 4 | 7 | 7 | -7 | 19 |
-| 15 | Alavés | 19 | 5 | 4 | 10 | -9 | 19 |
+| 15 | Alavés | 19 | 5 | 4 | 10 | -8 | 19 |
 | 16 | Mallorca | 18 | 4 | 6 | 8 | -6 | 18 |
 | 17 | Girona | 18 | 4 | 6 | 8 | -17 | 18 |
 | 18 | Valencia | 18 | 3 | 7 | 8 | -13 | 16 |
@@ -123,14 +123,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 18 | 14 | 0 | 4 | 25 | 42 |
 | 2 | Milan | 18 | 11 | 6 | 1 | 15 | 39 |
 | 3 | Napoli | 18 | 12 | 2 | 4 | 13 | 38 |
-| 4 | Juventus | 19 | 10 | 6 | 3 | 11 | 36 |
-| 5 | Roma | 19 | 12 | 0 | 7 | 10 | 36 |
+| 4 | Roma | 20 | 12 | 1 | 7 | 10 | 37 |
+| 5 | Juventus | 19 | 10 | 6 | 3 | 11 | 36 |
 | 6 | Como | 19 | 9 | 7 | 3 | 14 | 34 |
 | 7 | Atalanta | 19 | 7 | 7 | 5 | 4 | 28 |
 | 8 | Bologna | 19 | 7 | 6 | 6 | 6 | 27 |
 | 9 | Udinese | 20 | 7 | 5 | 8 | -10 | 26 |
 | 10 | Lazio | 19 | 6 | 7 | 6 | 4 | 25 |
-| 11 | Sassuolo | 19 | 6 | 5 | 8 | -2 | 23 |
+| 11 | Sassuolo | 20 | 6 | 6 | 8 | -2 | 24 |
 | 12 | Torino | 19 | 6 | 5 | 8 | -9 | 23 |
 | 13 | Cremonese | 19 | 5 | 7 | 7 | -3 | 22 |
 | 14 | Cagliari | 19 | 4 | 7 | 8 | -6 | 19 |
