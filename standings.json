@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 12:42 PM UTC",
-        "IST": "Sunday, 11 January 2026, 06:12 PM IST"
+        "UTC": "Sunday, 11 January 2026, 01:30 PM UTC",
+        "IST": "Sunday, 11 January 2026, 07:00 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Rayo Vallecano",
+                "Played": "19",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "-6",
+                "Points": "22"
+            },
+            {
+                "Position": "11",
                 "Team": "Real Sociedad",
                 "Played": "19",
                 "Wins": "5",
@@ -308,7 +318,7 @@
                 "Points": "21"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Getafe",
                 "Played": "19",
                 "Wins": "6",
@@ -318,7 +328,7 @@
                 "Points": "21"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Girona",
                 "Played": "19",
                 "Wins": "5",
@@ -328,7 +338,7 @@
                 "Points": "21"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Sevilla",
                 "Played": "18",
                 "Wins": "6",
@@ -338,23 +348,13 @@
                 "Points": "20"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Osasuna",
                 "Played": "19",
                 "Wins": "5",
                 "Draws": "4",
                 "Losses": "10",
                 "Goal Difference": "-4",
-                "Points": "19"
-            },
-            {
-                "Position": "15",
-                "Team": "Rayo Vallecano",
-                "Played": "18",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-7",
                 "Points": "19"
             },
             {
@@ -370,11 +370,11 @@
             {
                 "Position": "17",
                 "Team": "Mallorca",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "4",
                 "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-6",
+                "Losses": "9",
+                "Goal Difference": "-7",
                 "Points": "18"
             },
             {
@@ -723,13 +723,13 @@
             },
             {
                 "Position": "14",
-                "Team": "Lecce",
+                "Team": "Parma",
                 "Played": "19",
                 "Wins": "5",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-12",
-                "Points": "20"
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "-8",
+                "Points": "21"
             },
             {
                 "Position": "15",
@@ -743,13 +743,13 @@
             },
             {
                 "Position": "16",
-                "Team": "Parma",
+                "Team": "Lecce",
                 "Played": "19",
                 "Wins": "4",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-10",
-                "Points": "18"
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-14",
+                "Points": "17"
             },
             {
                 "Position": "17",
