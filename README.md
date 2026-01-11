@@ -41,32 +41,11 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 11 January 2026, 07:16 PM UTC (Monday, 12 January 2026, 12:46 AM IST)
+**Last Updated:** Sunday, 11 January 2026, 07:38 PM UTC (Monday, 12 January 2026, 01:08 AM IST)
 
 ### Premier League
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 21 | 15 | 4 | 2 | 26 | 49 |
-| 2 | Manchester City | 21 | 13 | 4 | 4 | 26 | 43 |
-| 3 | Aston Villa | 21 | 13 | 4 | 4 | 9 | 43 |
-| 4 | Liverpool FC | 21 | 10 | 5 | 6 | 4 | 35 |
-| 5 | Brentford | 21 | 10 | 3 | 8 | 7 | 33 |
-| 6 | Newcastle United | 21 | 9 | 5 | 7 | 5 | 32 |
-| 7 | Manchester United | 21 | 8 | 8 | 5 | 4 | 32 |
-| 8 | Chelsea | 21 | 8 | 7 | 6 | 10 | 31 |
-| 9 | Fulham | 21 | 9 | 4 | 8 | 0 | 31 |
-| 10 | Sunderland | 21 | 7 | 9 | 5 | -1 | 30 |
-| 11 | Brighton & Hove Albion | 21 | 7 | 8 | 6 | 3 | 29 |
-| 12 | Everton | 21 | 8 | 5 | 8 | -2 | 29 |
-| 13 | Crystal Palace | 21 | 7 | 7 | 7 | -1 | 28 |
-| 14 | Tottenham Hotspur | 21 | 7 | 6 | 8 | 3 | 27 |
-| 15 | AFC Bournemouth | 21 | 6 | 8 | 7 | -6 | 26 |
-| 16 | Leeds United | 21 | 5 | 7 | 9 | -8 | 22 |
-| 17 | Nottingham Forest | 21 | 6 | 3 | 12 | -13 | 21 |
-| 18 | West Ham United | 21 | 3 | 5 | 13 | -21 | 14 |
-| 19 | Burnley | 21 | 3 | 4 | 14 | -19 | 13 |
-| 20 | Wolverhampton Wanderers | 21 | 1 | 4 | 16 | -26 | 7 |
+Data not available.
 
 ### La Liga
 
@@ -296,7 +275,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 17 | 11 | 6 | 0 | 25 | 39 |
 | 4 | Gil Vicente | 17 | 7 | 7 | 3 | 10 | 28 |
 | 5 | Braga | 17 | 7 | 6 | 4 | 13 | 27 |
-| 6 | Moreirense | 17 | 7 | 4 | 6 | -1 | 25 |
+| 6 | Moreirense | 17 | 8 | 3 | 6 | 0 | 27 |
 | 7 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
 | 8 | Famalicão | 17 | 6 | 5 | 6 | 6 | 23 |
 | 9 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
@@ -307,7 +286,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Santa Clara | 17 | 4 | 5 | 8 | -5 | 17 |
 | 15 | Casa Pia | 17 | 3 | 5 | 9 | -15 | 14 |
 | 16 | Arouca | 17 | 3 | 5 | 9 | -24 | 14 |
-| 17 | Tondela | 17 | 3 | 4 | 10 | -16 | 13 |
+| 17 | Tondela | 17 | 3 | 3 | 11 | -17 | 12 |
 | 18 | AVS | 17 | 0 | 4 | 13 | -32 | 4 |
 
 ### EFL Championship
