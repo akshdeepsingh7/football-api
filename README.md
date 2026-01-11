@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 11 January 2026, 02:43 PM UTC (Sunday, 11 January 2026, 08:13 PM IST)
+**Last Updated:** Sunday, 11 January 2026, 03:20 PM UTC (Sunday, 11 January 2026, 08:50 PM IST)
 
 ### Premier League
 
@@ -76,7 +76,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Real Madrid | 19 | 14 | 3 | 2 | 24 | 45 |
 | 3 | Villarreal | 18 | 13 | 2 | 3 | 20 | 41 |
 | 4 | Atlético de Madrid | 19 | 11 | 5 | 3 | 17 | 38 |
-| 5 | Espanyol | 18 | 10 | 3 | 5 | 3 | 33 |
+| 5 | Espanyol | 19 | 10 | 4 | 5 | 3 | 34 |
 | 6 | Real Betis | 19 | 7 | 8 | 4 | 6 | 29 |
 | 7 | Celta de Vigo | 18 | 6 | 8 | 4 | 4 | 26 |
 | 8 | Athletic Bilbao | 19 | 7 | 3 | 9 | -8 | 24 |
@@ -90,7 +90,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Alavés | 19 | 5 | 4 | 10 | -8 | 19 |
 | 17 | Mallorca | 19 | 4 | 6 | 9 | -7 | 18 |
 | 18 | Valencia | 19 | 3 | 8 | 8 | -13 | 17 |
-| 19 | Levante | 17 | 3 | 4 | 10 | -9 | 13 |
+| 19 | Levante | 18 | 3 | 5 | 10 | -9 | 14 |
 | 20 | Real Oviedo | 19 | 2 | 7 | 10 | -19 | 13 |
 
 ### Bundesliga
@@ -106,12 +106,12 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Eintracht Frankfurt | 16 | 7 | 5 | 4 | 0 | 26 |
 | 8 | SC Freiburg | 16 | 6 | 5 | 5 | 0 | 23 |
 | 9 | Union Berlin | 16 | 6 | 4 | 6 | -3 | 22 |
-| 10 | Borussia Mönchengladbach | 16 | 5 | 4 | 7 | -5 | 19 |
+| 10 | Borussia Mönchengladbach | 16 | 5 | 4 | 7 | -3 | 19 |
 | 11 | Köln | 16 | 4 | 5 | 7 | -2 | 17 |
 | 12 | Werder Bremen | 15 | 4 | 5 | 6 | -10 | 17 |
 | 13 | Hamburg | 16 | 4 | 4 | 8 | -10 | 16 |
 | 14 | VfL Wolfsburg | 15 | 4 | 3 | 8 | -5 | 15 |
-| 15 | Augsburg | 16 | 4 | 2 | 10 | -12 | 14 |
+| 15 | Augsburg | 16 | 4 | 2 | 10 | -14 | 14 |
 | 16 | St. Pauli | 15 | 3 | 3 | 9 | -13 | 12 |
 | 17 | Heidenheim | 16 | 3 | 3 | 10 | -21 | 12 |
 | 18 | Mainz 05 | 16 | 1 | 6 | 9 | -13 | 9 |

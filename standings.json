@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 02:43 PM UTC",
-        "IST": "Sunday, 11 January 2026, 08:13 PM IST"
+        "UTC": "Sunday, 11 January 2026, 03:20 PM UTC",
+        "IST": "Sunday, 11 January 2026, 08:50 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -250,12 +250,12 @@
             {
                 "Position": "5",
                 "Team": "Espanyol",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "10",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "3",
-                "Points": "33"
+                "Points": "34"
             },
             {
                 "Position": "6",
@@ -390,12 +390,12 @@
             {
                 "Position": "19",
                 "Team": "Levante",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "-9",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "20",
@@ -506,7 +506,7 @@
                 "Wins": "5",
                 "Draws": "4",
                 "Losses": "7",
-                "Goal Difference": "-5",
+                "Goal Difference": "-3",
                 "Points": "19"
             },
             {
@@ -556,7 +556,7 @@
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "10",
-                "Goal Difference": "-12",
+                "Goal Difference": "-14",
                 "Points": "14"
             },
             {
