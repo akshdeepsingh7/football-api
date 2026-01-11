@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 11 January 2026, 03:20 PM UTC (Sunday, 11 January 2026, 08:50 PM IST)
+**Last Updated:** Sunday, 11 January 2026, 03:41 PM UTC (Sunday, 11 January 2026, 09:11 PM IST)
 
 ### Premier League
 
@@ -121,7 +121,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 18 | 14 | 0 | 4 | 25 | 42 |
-| 2 | Milan | 19 | 11 | 7 | 1 | 15 | 40 |
+| 2 | Milan | 19 | 11 | 6 | 2 | 14 | 39 |
 | 3 | Roma | 20 | 13 | 0 | 7 | 12 | 39 |
 | 4 | Napoli | 18 | 12 | 2 | 4 | 13 | 38 |
 | 5 | Juventus | 19 | 10 | 6 | 3 | 11 | 36 |
@@ -137,7 +137,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Cagliari | 19 | 4 | 7 | 8 | -6 | 19 |
 | 16 | Lecce | 19 | 4 | 5 | 10 | -14 | 17 |
 | 17 | Genoa | 19 | 3 | 7 | 9 | -10 | 16 |
-| 18 | Fiorentina | 20 | 2 | 8 | 10 | -10 | 14 |
+| 18 | Fiorentina | 20 | 3 | 7 | 10 | -9 | 16 |
 | 19 | Hellas Verona | 18 | 2 | 7 | 9 | -15 | 13 |
 | 20 | Pisa | 20 | 1 | 10 | 9 | -15 | 13 |
 
@@ -302,9 +302,9 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
 | 10 | Rio Ave | 17 | 4 | 8 | 5 | -7 | 20 |
 | 11 | Alverca | 17 | 6 | 2 | 9 | -10 | 20 |
-| 12 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
-| 13 | Nacional | 16 | 4 | 4 | 8 | -5 | 16 |
-| 14 | Santa Clara | 16 | 4 | 4 | 8 | -5 | 16 |
+| 12 | Santa Clara | 17 | 5 | 4 | 8 | -4 | 19 |
+| 13 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
+| 14 | Nacional | 17 | 4 | 4 | 9 | -6 | 16 |
 | 15 | Casa Pia | 17 | 3 | 5 | 9 | -15 | 14 |
 | 16 | Arouca | 17 | 3 | 5 | 9 | -24 | 14 |
 | 17 | Tondela | 16 | 3 | 3 | 10 | -16 | 12 |
