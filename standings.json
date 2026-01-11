@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 04:48 PM UTC",
-        "IST": "Sunday, 11 January 2026, 10:18 PM IST"
+        "UTC": "Sunday, 11 January 2026, 05:18 PM UTC",
+        "IST": "Sunday, 11 January 2026, 10:48 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -413,11 +413,11 @@
                 "Position": "1",
                 "Team": "Bayern Munich",
                 "Played": "16",
-                "Wins": "13",
-                "Draws": "3",
+                "Wins": "14",
+                "Draws": "2",
                 "Losses": "0",
-                "Goal Difference": "44",
-                "Points": "42"
+                "Goal Difference": "45",
+                "Points": "44"
             },
             {
                 "Position": "2",
@@ -531,16 +531,6 @@
             },
             {
                 "Position": "13",
-                "Team": "VfL Wolfsburg",
-                "Played": "16",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "-5",
-                "Points": "16"
-            },
-            {
-                "Position": "14",
                 "Team": "Hamburg",
                 "Played": "16",
                 "Wins": "4",
@@ -548,6 +538,16 @@
                 "Losses": "8",
                 "Goal Difference": "-10",
                 "Points": "16"
+            },
+            {
+                "Position": "14",
+                "Team": "VfL Wolfsburg",
+                "Played": "16",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-6",
+                "Points": "15"
             },
             {
                 "Position": "15",
@@ -673,6 +673,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Lazio",
+                "Played": "20",
+                "Wins": "6",
+                "Draws": "8",
+                "Losses": "6",
+                "Goal Difference": "4",
+                "Points": "26"
+            },
+            {
+                "Position": "10",
                 "Team": "Udinese",
                 "Played": "20",
                 "Wins": "7",
@@ -680,16 +690,6 @@
                 "Losses": "8",
                 "Goal Difference": "-10",
                 "Points": "26"
-            },
-            {
-                "Position": "10",
-                "Team": "Lazio",
-                "Played": "19",
-                "Wins": "6",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "4",
-                "Points": "25"
             },
             {
                 "Position": "11",
@@ -763,6 +763,16 @@
             },
             {
                 "Position": "18",
+                "Team": "Hellas Verona",
+                "Played": "19",
+                "Wins": "2",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "-15",
+                "Points": "14"
+            },
+            {
+                "Position": "19",
                 "Team": "Fiorentina",
                 "Played": "20",
                 "Wins": "2",
@@ -770,16 +780,6 @@
                 "Losses": "10",
                 "Goal Difference": "-10",
                 "Points": "14"
-            },
-            {
-                "Position": "19",
-                "Team": "Hellas Verona",
-                "Played": "18",
-                "Wins": "2",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-15",
-                "Points": "13"
             },
             {
                 "Position": "20",
