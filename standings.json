@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 04:25 PM UTC",
-        "IST": "Sunday, 11 January 2026, 09:55 PM IST"
+        "UTC": "Sunday, 11 January 2026, 04:48 PM UTC",
+        "IST": "Sunday, 11 January 2026, 10:18 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -412,12 +412,12 @@
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "13",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "0",
                 "Goal Difference": "44",
-                "Points": "41"
+                "Points": "42"
             },
             {
                 "Position": "2",
@@ -531,6 +531,16 @@
             },
             {
                 "Position": "13",
+                "Team": "VfL Wolfsburg",
+                "Played": "16",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-5",
+                "Points": "16"
+            },
+            {
+                "Position": "14",
                 "Team": "Hamburg",
                 "Played": "16",
                 "Wins": "4",
@@ -538,16 +548,6 @@
                 "Losses": "8",
                 "Goal Difference": "-10",
                 "Points": "16"
-            },
-            {
-                "Position": "14",
-                "Team": "VfL Wolfsburg",
-                "Played": "15",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-5",
-                "Points": "15"
             },
             {
                 "Position": "15",
@@ -2173,6 +2173,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Nacional",
+                "Played": "17",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-4",
+                "Points": "19"
+            },
+            {
+                "Position": "13",
                 "Team": "Estrela Amadora",
                 "Played": "17",
                 "Wins": "4",
@@ -2182,24 +2192,14 @@
                 "Points": "19"
             },
             {
-                "Position": "13",
-                "Team": "Nacional",
-                "Played": "17",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "-5",
-                "Points": "17"
-            },
-            {
                 "Position": "14",
                 "Team": "Santa Clara",
                 "Played": "17",
                 "Wins": "4",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "-5",
-                "Points": "17"
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "-6",
+                "Points": "16"
             },
             {
                 "Position": "15",

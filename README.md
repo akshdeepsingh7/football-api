@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 11 January 2026, 04:25 PM UTC (Sunday, 11 January 2026, 09:55 PM IST)
+**Last Updated:** Sunday, 11 January 2026, 04:48 PM UTC (Sunday, 11 January 2026, 10:18 PM IST)
 
 ### Premier League
 
@@ -97,7 +97,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 15 | 13 | 2 | 0 | 44 | 41 |
+| 1 | Bayern Munich | 16 | 13 | 3 | 0 | 44 | 42 |
 | 2 | Borussia Dortmund | 16 | 9 | 6 | 1 | 14 | 33 |
 | 3 | RB Leipzig | 15 | 9 | 2 | 4 | 11 | 29 |
 | 4 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 10 | 29 |
@@ -109,8 +109,8 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Borussia Mönchengladbach | 16 | 5 | 4 | 7 | -2 | 19 |
 | 11 | Köln | 16 | 4 | 5 | 7 | -2 | 17 |
 | 12 | Werder Bremen | 15 | 4 | 5 | 6 | -10 | 17 |
-| 13 | Hamburg | 16 | 4 | 4 | 8 | -10 | 16 |
-| 14 | VfL Wolfsburg | 15 | 4 | 3 | 8 | -5 | 15 |
+| 13 | VfL Wolfsburg | 16 | 4 | 4 | 8 | -5 | 16 |
+| 14 | Hamburg | 16 | 4 | 4 | 8 | -10 | 16 |
 | 15 | Augsburg | 16 | 4 | 2 | 10 | -15 | 14 |
 | 16 | St. Pauli | 15 | 3 | 3 | 9 | -13 | 12 |
 | 17 | Heidenheim | 16 | 3 | 3 | 10 | -21 | 12 |
@@ -302,9 +302,9 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
 | 10 | Rio Ave | 17 | 4 | 8 | 5 | -7 | 20 |
 | 11 | Alverca | 17 | 6 | 2 | 9 | -10 | 20 |
-| 12 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
-| 13 | Nacional | 17 | 4 | 5 | 8 | -5 | 17 |
-| 14 | Santa Clara | 17 | 4 | 5 | 8 | -5 | 17 |
+| 12 | Nacional | 17 | 5 | 4 | 8 | -4 | 19 |
+| 13 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
+| 14 | Santa Clara | 17 | 4 | 4 | 9 | -6 | 16 |
 | 15 | Casa Pia | 17 | 3 | 5 | 9 | -15 | 14 |
 | 16 | Arouca | 17 | 3 | 5 | 9 | -24 | 14 |
 | 17 | Tondela | 16 | 3 | 3 | 10 | -16 | 12 |
