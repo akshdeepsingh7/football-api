@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 05:41 PM UTC",
-        "IST": "Sunday, 11 January 2026, 11:11 PM IST"
+        "UTC": "Sunday, 11 January 2026, 06:30 PM UTC",
+        "IST": "Monday, 12 January 2026, 12:00 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -416,7 +416,7 @@
                 "Wins": "14",
                 "Draws": "2",
                 "Losses": "0",
-                "Goal Difference": "46",
+                "Goal Difference": "51",
                 "Points": "44"
             },
             {
@@ -546,7 +546,7 @@
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "9",
-                "Goal Difference": "-7",
+                "Goal Difference": "-12",
                 "Points": "15"
             },
             {
@@ -2113,6 +2113,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Moreirense",
+                "Played": "17",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-1",
+                "Points": "25"
+            },
+            {
+                "Position": "7",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "17",
                 "Wins": "7",
@@ -2120,16 +2130,6 @@
                 "Losses": "6",
                 "Goal Difference": "-4",
                 "Points": "25"
-            },
-            {
-                "Position": "7",
-                "Team": "Moreirense",
-                "Played": "16",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-1",
-                "Points": "24"
             },
             {
                 "Position": "8",
@@ -2224,12 +2224,12 @@
             {
                 "Position": "17",
                 "Team": "Tondela",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "3",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "10",
                 "Goal Difference": "-16",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "18",

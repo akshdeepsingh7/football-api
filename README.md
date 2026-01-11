@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 11 January 2026, 05:41 PM UTC (Sunday, 11 January 2026, 11:11 PM IST)
+**Last Updated:** Sunday, 11 January 2026, 06:30 PM UTC (Monday, 12 January 2026, 12:00 AM IST)
 
 ### Premier League
 
@@ -97,7 +97,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 16 | 14 | 2 | 0 | 46 | 44 |
+| 1 | Bayern Munich | 16 | 14 | 2 | 0 | 51 | 44 |
 | 2 | Borussia Dortmund | 16 | 9 | 6 | 1 | 14 | 33 |
 | 3 | RB Leipzig | 15 | 9 | 2 | 4 | 11 | 29 |
 | 4 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 10 | 29 |
@@ -110,7 +110,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Köln | 16 | 4 | 5 | 7 | -2 | 17 |
 | 12 | Werder Bremen | 15 | 4 | 5 | 6 | -10 | 17 |
 | 13 | Hamburg | 16 | 4 | 4 | 8 | -10 | 16 |
-| 14 | VfL Wolfsburg | 16 | 4 | 3 | 9 | -7 | 15 |
+| 14 | VfL Wolfsburg | 16 | 4 | 3 | 9 | -12 | 15 |
 | 15 | Augsburg | 16 | 4 | 2 | 10 | -15 | 14 |
 | 16 | St. Pauli | 15 | 3 | 3 | 9 | -13 | 12 |
 | 17 | Heidenheim | 16 | 3 | 3 | 10 | -21 | 12 |
@@ -296,8 +296,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 17 | 11 | 6 | 0 | 25 | 39 |
 | 4 | Gil Vicente | 17 | 7 | 7 | 3 | 10 | 28 |
 | 5 | Braga | 17 | 7 | 6 | 4 | 13 | 27 |
-| 6 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
-| 7 | Moreirense | 16 | 7 | 3 | 6 | -1 | 24 |
+| 6 | Moreirense | 17 | 7 | 4 | 6 | -1 | 25 |
+| 7 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
 | 8 | Famalicão | 17 | 6 | 5 | 6 | 6 | 23 |
 | 9 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
 | 10 | Rio Ave | 17 | 4 | 8 | 5 | -7 | 20 |
@@ -307,7 +307,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Santa Clara | 17 | 4 | 5 | 8 | -5 | 17 |
 | 15 | Casa Pia | 17 | 3 | 5 | 9 | -15 | 14 |
 | 16 | Arouca | 17 | 3 | 5 | 9 | -24 | 14 |
-| 17 | Tondela | 16 | 3 | 3 | 10 | -16 | 12 |
+| 17 | Tondela | 17 | 3 | 4 | 10 | -16 | 13 |
 | 18 | AVS | 17 | 0 | 4 | 13 | -32 | 4 |
 
 ### EFL Championship
