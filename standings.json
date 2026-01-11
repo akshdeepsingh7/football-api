@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 05:18 PM UTC",
-        "IST": "Sunday, 11 January 2026, 10:48 PM IST"
+        "UTC": "Sunday, 11 January 2026, 05:41 PM UTC",
+        "IST": "Sunday, 11 January 2026, 11:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -416,7 +416,7 @@
                 "Wins": "14",
                 "Draws": "2",
                 "Losses": "0",
-                "Goal Difference": "45",
+                "Goal Difference": "46",
                 "Points": "44"
             },
             {
@@ -546,7 +546,7 @@
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "9",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "15"
             },
             {
@@ -2173,16 +2173,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Nacional",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "-4",
-                "Points": "19"
-            },
-            {
-                "Position": "13",
                 "Team": "Estrela Amadora",
                 "Played": "17",
                 "Wins": "4",
@@ -2192,14 +2182,24 @@
                 "Points": "19"
             },
             {
+                "Position": "13",
+                "Team": "Nacional",
+                "Played": "17",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "-5",
+                "Points": "17"
+            },
+            {
                 "Position": "14",
                 "Team": "Santa Clara",
                 "Played": "17",
                 "Wins": "4",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-6",
-                "Points": "16"
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "-5",
+                "Points": "17"
             },
             {
                 "Position": "15",
