@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 02:19 PM UTC",
-        "IST": "Sunday, 11 January 2026, 07:49 PM IST"
+        "UTC": "Sunday, 11 January 2026, 02:43 PM UTC",
+        "IST": "Sunday, 11 January 2026, 08:13 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -501,6 +501,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Played": "16",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "-5",
+                "Points": "19"
+            },
+            {
+                "Position": "11",
                 "Team": "K\u00f6ln",
                 "Played": "16",
                 "Wins": "4",
@@ -510,7 +520,7 @@
                 "Points": "17"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Werder Bremen",
                 "Played": "15",
                 "Wins": "4",
@@ -518,16 +528,6 @@
                 "Losses": "6",
                 "Goal Difference": "-10",
                 "Points": "17"
-            },
-            {
-                "Position": "12",
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "15",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-6",
-                "Points": "16"
             },
             {
                 "Position": "13",
@@ -552,11 +552,11 @@
             {
                 "Position": "15",
                 "Team": "Augsburg",
-                "Played": "15",
+                "Played": "16",
                 "Wins": "4",
                 "Draws": "2",
-                "Losses": "9",
-                "Goal Difference": "-11",
+                "Losses": "10",
+                "Goal Difference": "-12",
                 "Points": "14"
             },
             {
