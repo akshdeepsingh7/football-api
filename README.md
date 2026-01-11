@@ -41,11 +41,32 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 11 January 2026, 07:38 PM UTC (Monday, 12 January 2026, 01:08 AM IST)
+**Last Updated:** Sunday, 11 January 2026, 08:24 PM UTC (Monday, 12 January 2026, 01:54 AM IST)
 
 ### Premier League
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Arsenal | 21 | 15 | 4 | 2 | 26 | 49 |
+| 2 | Manchester City | 21 | 13 | 4 | 4 | 26 | 43 |
+| 3 | Aston Villa | 21 | 13 | 4 | 4 | 9 | 43 |
+| 4 | Liverpool FC | 21 | 10 | 5 | 6 | 4 | 35 |
+| 5 | Brentford | 21 | 10 | 3 | 8 | 7 | 33 |
+| 6 | Newcastle United | 21 | 9 | 5 | 7 | 5 | 32 |
+| 7 | Manchester United | 21 | 8 | 8 | 5 | 4 | 32 |
+| 8 | Chelsea | 21 | 8 | 7 | 6 | 10 | 31 |
+| 9 | Fulham | 21 | 9 | 4 | 8 | 0 | 31 |
+| 10 | Sunderland | 21 | 7 | 9 | 5 | -1 | 30 |
+| 11 | Brighton & Hove Albion | 21 | 7 | 8 | 6 | 3 | 29 |
+| 12 | Everton | 21 | 8 | 5 | 8 | -2 | 29 |
+| 13 | Crystal Palace | 21 | 7 | 7 | 7 | -1 | 28 |
+| 14 | Tottenham Hotspur | 21 | 7 | 6 | 8 | 3 | 27 |
+| 15 | AFC Bournemouth | 21 | 6 | 8 | 7 | -6 | 26 |
+| 16 | Leeds United | 21 | 5 | 7 | 9 | -8 | 22 |
+| 17 | Nottingham Forest | 21 | 6 | 3 | 12 | -13 | 21 |
+| 18 | West Ham United | 21 | 3 | 5 | 13 | -21 | 14 |
+| 19 | Burnley | 21 | 3 | 4 | 14 | -19 | 13 |
+| 20 | Wolverhampton Wanderers | 21 | 1 | 4 | 16 | -26 | 7 |
 
 ### La Liga
 
@@ -99,10 +120,10 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 18 | 14 | 0 | 4 | 25 | 42 |
+| 1 | Inter | 19 | 14 | 1 | 4 | 25 | 43 |
 | 2 | Milan | 19 | 11 | 7 | 1 | 15 | 40 |
-| 3 | Roma | 20 | 13 | 0 | 7 | 12 | 39 |
-| 4 | Napoli | 18 | 12 | 2 | 4 | 13 | 38 |
+| 3 | Napoli | 19 | 12 | 3 | 4 | 13 | 39 |
+| 4 | Roma | 20 | 13 | 0 | 7 | 12 | 39 |
 | 5 | Juventus | 19 | 10 | 6 | 3 | 11 | 36 |
 | 6 | Como | 19 | 9 | 7 | 3 | 14 | 34 |
 | 7 | Atalanta | 20 | 8 | 7 | 5 | 6 | 31 |
