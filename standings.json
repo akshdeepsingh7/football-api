@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 06:30 PM UTC",
-        "IST": "Monday, 12 January 2026, 12:00 AM IST"
+        "UTC": "Sunday, 11 January 2026, 07:16 PM UTC",
+        "IST": "Monday, 12 January 2026, 12:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -663,6 +663,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Lazio",
+                "Played": "20",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "5",
+                "Points": "28"
+            },
+            {
+                "Position": "9",
                 "Team": "Bologna",
                 "Played": "19",
                 "Wins": "7",
@@ -670,16 +680,6 @@
                 "Losses": "6",
                 "Goal Difference": "6",
                 "Points": "27"
-            },
-            {
-                "Position": "9",
-                "Team": "Lazio",
-                "Played": "20",
-                "Wins": "6",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "4",
-                "Points": "26"
             },
             {
                 "Position": "10",
@@ -763,16 +763,6 @@
             },
             {
                 "Position": "18",
-                "Team": "Hellas Verona",
-                "Played": "19",
-                "Wins": "2",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-15",
-                "Points": "14"
-            },
-            {
-                "Position": "19",
                 "Team": "Fiorentina",
                 "Played": "20",
                 "Wins": "2",
@@ -780,6 +770,16 @@
                 "Losses": "10",
                 "Goal Difference": "-10",
                 "Points": "14"
+            },
+            {
+                "Position": "19",
+                "Team": "Hellas Verona",
+                "Played": "19",
+                "Wins": "2",
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "-16",
+                "Points": "13"
             },
             {
                 "Position": "20",
