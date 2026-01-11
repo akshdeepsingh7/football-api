@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 11 January 2026, 01:30 PM UTC",
-        "IST": "Sunday, 11 January 2026, 07:00 PM IST"
+        "UTC": "Sunday, 11 January 2026, 02:19 PM UTC",
+        "IST": "Sunday, 11 January 2026, 07:49 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -604,12 +604,12 @@
             {
                 "Position": "2",
                 "Team": "Milan",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "11",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "1",
                 "Goal Difference": "15",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "3",
@@ -763,22 +763,22 @@
             },
             {
                 "Position": "18",
+                "Team": "Fiorentina",
+                "Played": "20",
+                "Wins": "2",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-10",
+                "Points": "14"
+            },
+            {
+                "Position": "19",
                 "Team": "Hellas Verona",
                 "Played": "18",
                 "Wins": "2",
                 "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "-15",
-                "Points": "13"
-            },
-            {
-                "Position": "19",
-                "Team": "Fiorentina",
-                "Played": "19",
-                "Wins": "2",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "-10",
                 "Points": "13"
             },
             {

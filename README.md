@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 11 January 2026, 01:30 PM UTC (Sunday, 11 January 2026, 07:00 PM IST)
+**Last Updated:** Sunday, 11 January 2026, 02:19 PM UTC (Sunday, 11 January 2026, 07:49 PM IST)
 
 ### Premier League
 
@@ -121,7 +121,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 18 | 14 | 0 | 4 | 25 | 42 |
-| 2 | Milan | 18 | 11 | 6 | 1 | 15 | 39 |
+| 2 | Milan | 19 | 11 | 7 | 1 | 15 | 40 |
 | 3 | Roma | 20 | 13 | 0 | 7 | 12 | 39 |
 | 4 | Napoli | 18 | 12 | 2 | 4 | 13 | 38 |
 | 5 | Juventus | 19 | 10 | 6 | 3 | 11 | 36 |
@@ -137,8 +137,8 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Cagliari | 19 | 4 | 7 | 8 | -6 | 19 |
 | 16 | Lecce | 19 | 4 | 5 | 10 | -14 | 17 |
 | 17 | Genoa | 19 | 3 | 7 | 9 | -10 | 16 |
-| 18 | Hellas Verona | 18 | 2 | 7 | 9 | -15 | 13 |
-| 19 | Fiorentina | 19 | 2 | 7 | 10 | -10 | 13 |
+| 18 | Fiorentina | 20 | 2 | 8 | 10 | -10 | 14 |
+| 19 | Hellas Verona | 18 | 2 | 7 | 9 | -15 | 13 |
 | 20 | Pisa | 20 | 1 | 10 | 9 | -15 | 13 |
 
 ### Ligue 1
