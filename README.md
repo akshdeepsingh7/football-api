@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 12 January 2026, 07:41 PM UTC (Tuesday, 13 January 2026, 01:11 AM IST)
+**Last Updated:** Monday, 12 January 2026, 08:26 PM UTC (Tuesday, 13 January 2026, 01:56 AM IST)
 
 ### Premier League
 
@@ -78,14 +78,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Atlético de Madrid | 19 | 11 | 5 | 3 | 17 | 38 |
 | 5 | Espanyol | 19 | 10 | 4 | 5 | 3 | 34 |
 | 6 | Real Betis | 19 | 7 | 8 | 4 | 6 | 29 |
-| 7 | Celta de Vigo | 18 | 6 | 8 | 4 | 4 | 26 |
+| 7 | Celta de Vigo | 19 | 6 | 9 | 4 | 4 | 27 |
 | 8 | Athletic Bilbao | 19 | 7 | 3 | 9 | -8 | 24 |
 | 9 | Elche | 19 | 5 | 8 | 6 | 1 | 23 |
 | 10 | Rayo Vallecano | 19 | 5 | 7 | 7 | -6 | 22 |
 | 11 | Real Sociedad | 19 | 5 | 6 | 8 | -3 | 21 |
-| 12 | Getafe | 19 | 6 | 3 | 10 | -10 | 21 |
-| 13 | Girona | 19 | 5 | 6 | 8 | -16 | 21 |
-| 14 | Sevilla | 18 | 6 | 2 | 10 | -5 | 20 |
+| 12 | Sevilla | 19 | 6 | 3 | 10 | -5 | 21 |
+| 13 | Getafe | 19 | 6 | 3 | 10 | -10 | 21 |
+| 14 | Girona | 19 | 5 | 6 | 8 | -16 | 21 |
 | 15 | Osasuna | 19 | 5 | 4 | 10 | -4 | 19 |
 | 16 | Alavés | 19 | 5 | 4 | 10 | -8 | 19 |
 | 17 | Mallorca | 19 | 4 | 6 | 9 | -7 | 18 |
@@ -123,8 +123,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 19 | 14 | 1 | 4 | 25 | 43 |
 | 2 | Milan | 19 | 11 | 7 | 1 | 15 | 40 |
 | 3 | Napoli | 19 | 12 | 3 | 4 | 13 | 39 |
-| 4 | Roma | 20 | 13 | 0 | 7 | 12 | 39 |
-| 5 | Juventus | 19 | 10 | 6 | 3 | 11 | 36 |
+| 4 | Juventus | 20 | 11 | 6 | 3 | 14 | 39 |
+| 5 | Roma | 20 | 13 | 0 | 7 | 12 | 39 |
 | 6 | Como | 19 | 9 | 7 | 3 | 14 | 34 |
 | 7 | Atalanta | 20 | 8 | 7 | 5 | 6 | 31 |
 | 8 | Lazio | 20 | 7 | 7 | 6 | 5 | 28 |
@@ -132,7 +132,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Udinese | 20 | 7 | 5 | 8 | -10 | 26 |
 | 11 | Sassuolo | 20 | 6 | 5 | 9 | -4 | 23 |
 | 12 | Torino | 20 | 6 | 5 | 9 | -11 | 23 |
-| 13 | Cremonese | 19 | 5 | 7 | 7 | -3 | 22 |
+| 13 | Cremonese | 20 | 5 | 7 | 8 | -6 | 22 |
 | 14 | Parma | 19 | 5 | 6 | 8 | -8 | 21 |
 | 15 | Genoa | 20 | 4 | 7 | 9 | -7 | 19 |
 | 16 | Cagliari | 20 | 4 | 7 | 9 | -9 | 19 |
