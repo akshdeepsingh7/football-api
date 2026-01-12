@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 12 January 2026, 09:43 PM UTC",
-        "IST": "Tuesday, 13 January 2026, 03:13 AM IST"
+        "UTC": "Monday, 12 January 2026, 10:20 PM UTC",
+        "IST": "Tuesday, 13 January 2026, 03:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -271,11 +271,11 @@
                 "Position": "7",
                 "Team": "Celta de Vigo",
                 "Played": "19",
-                "Wins": "6",
-                "Draws": "9",
+                "Wins": "7",
+                "Draws": "8",
                 "Losses": "4",
-                "Goal Difference": "4",
-                "Points": "27"
+                "Goal Difference": "5",
+                "Points": "29"
             },
             {
                 "Position": "8",
@@ -319,16 +319,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Sevilla",
-                "Played": "19",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "10",
-                "Goal Difference": "-5",
-                "Points": "21"
-            },
-            {
-                "Position": "13",
                 "Team": "Getafe",
                 "Played": "19",
                 "Wins": "6",
@@ -338,7 +328,7 @@
                 "Points": "21"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Girona",
                 "Played": "19",
                 "Wins": "5",
@@ -346,6 +336,16 @@
                 "Losses": "8",
                 "Goal Difference": "-16",
                 "Points": "21"
+            },
+            {
+                "Position": "14",
+                "Team": "Sevilla",
+                "Played": "19",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "11",
+                "Goal Difference": "-6",
+                "Points": "20"
             },
             {
                 "Position": "15",

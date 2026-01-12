@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 12 January 2026, 09:43 PM UTC (Tuesday, 13 January 2026, 03:13 AM IST)
+**Last Updated:** Monday, 12 January 2026, 10:20 PM UTC (Tuesday, 13 January 2026, 03:50 AM IST)
 
 ### Premier League
 
@@ -78,14 +78,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Atlético de Madrid | 19 | 11 | 5 | 3 | 17 | 38 |
 | 5 | Espanyol | 19 | 10 | 4 | 5 | 3 | 34 |
 | 6 | Real Betis | 19 | 7 | 8 | 4 | 6 | 29 |
-| 7 | Celta de Vigo | 19 | 6 | 9 | 4 | 4 | 27 |
+| 7 | Celta de Vigo | 19 | 7 | 8 | 4 | 5 | 29 |
 | 8 | Athletic Bilbao | 19 | 7 | 3 | 9 | -8 | 24 |
 | 9 | Elche | 19 | 5 | 8 | 6 | 1 | 23 |
 | 10 | Rayo Vallecano | 19 | 5 | 7 | 7 | -6 | 22 |
 | 11 | Real Sociedad | 19 | 5 | 6 | 8 | -3 | 21 |
-| 12 | Sevilla | 19 | 6 | 3 | 10 | -5 | 21 |
-| 13 | Getafe | 19 | 6 | 3 | 10 | -10 | 21 |
-| 14 | Girona | 19 | 5 | 6 | 8 | -16 | 21 |
+| 12 | Getafe | 19 | 6 | 3 | 10 | -10 | 21 |
+| 13 | Girona | 19 | 5 | 6 | 8 | -16 | 21 |
+| 14 | Sevilla | 19 | 6 | 2 | 11 | -6 | 20 |
 | 15 | Osasuna | 19 | 5 | 4 | 10 | -4 | 19 |
 | 16 | Alavés | 19 | 5 | 4 | 10 | -8 | 19 |
 | 17 | Mallorca | 19 | 4 | 6 | 9 | -7 | 18 |
