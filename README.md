@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 12 January 2026, 06:34 PM UTC (Tuesday, 13 January 2026, 12:04 AM IST)
+**Last Updated:** Monday, 12 January 2026, 07:20 PM UTC (Tuesday, 13 January 2026, 12:50 AM IST)
 
 ### Premier League
 
@@ -134,8 +134,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Torino | 20 | 6 | 5 | 9 | -11 | 23 |
 | 13 | Cremonese | 19 | 5 | 7 | 7 | -3 | 22 |
 | 14 | Parma | 19 | 5 | 6 | 8 | -8 | 21 |
-| 15 | Cagliari | 20 | 4 | 7 | 9 | -7 | 19 |
-| 16 | Genoa | 20 | 4 | 7 | 9 | -9 | 19 |
+| 15 | Genoa | 20 | 4 | 7 | 9 | -7 | 19 |
+| 16 | Cagliari | 20 | 4 | 7 | 9 | -9 | 19 |
 | 17 | Lecce | 19 | 4 | 5 | 10 | -14 | 17 |
 | 18 | Fiorentina | 20 | 2 | 8 | 10 | -10 | 14 |
 | 19 | Hellas Verona | 19 | 2 | 7 | 10 | -16 | 13 |
