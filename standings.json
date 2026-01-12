@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 12 January 2026, 05:26 PM UTC",
-        "IST": "Monday, 12 January 2026, 10:56 PM IST"
+        "UTC": "Monday, 12 January 2026, 05:46 PM UTC",
+        "IST": "Monday, 12 January 2026, 11:16 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -734,15 +734,25 @@
             {
                 "Position": "15",
                 "Team": "Cagliari",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "4",
                 "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "-6",
+                "Losses": "9",
+                "Goal Difference": "-7",
                 "Points": "19"
             },
             {
                 "Position": "16",
+                "Team": "Genoa",
+                "Played": "20",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-9",
+                "Points": "19"
+            },
+            {
+                "Position": "17",
                 "Team": "Lecce",
                 "Played": "19",
                 "Wins": "4",
@@ -750,16 +760,6 @@
                 "Losses": "10",
                 "Goal Difference": "-14",
                 "Points": "17"
-            },
-            {
-                "Position": "17",
-                "Team": "Genoa",
-                "Played": "19",
-                "Wins": "3",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-10",
-                "Points": "16"
             },
             {
                 "Position": "18",
