@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 13 January 2026, 05:52 PM UTC",
-        "IST": "Tuesday, 13 January 2026, 11:22 PM IST"
+        "UTC": "Tuesday, 13 January 2026, 06:32 PM UTC",
+        "IST": "Wednesday, 14 January 2026, 12:02 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -431,6 +431,16 @@
             },
             {
                 "Position": "3",
+                "Team": "VfB Stuttgart",
+                "Played": "17",
+                "Wins": "10",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "7",
+                "Points": "32"
+            },
+            {
+                "Position": "4",
                 "Team": "RB Leipzig",
                 "Played": "15",
                 "Wins": "9",
@@ -440,7 +450,7 @@
                 "Points": "29"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Bayer Leverkusen",
                 "Played": "16",
                 "Wins": "9",
@@ -450,27 +460,7 @@
                 "Points": "29"
             },
             {
-                "Position": "5",
-                "Team": "VfB Stuttgart",
-                "Played": "17",
-                "Wins": "9",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "5",
-                "Points": "29"
-            },
-            {
                 "Position": "6",
-                "Team": "Eintracht Frankfurt",
-                "Played": "17",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "1",
-                "Points": "29"
-            },
-            {
-                "Position": "7",
                 "Team": "Hoffenheim",
                 "Played": "15",
                 "Wins": "8",
@@ -478,6 +468,16 @@
                 "Losses": "4",
                 "Goal Difference": "9",
                 "Points": "27"
+            },
+            {
+                "Position": "7",
+                "Team": "Eintracht Frankfurt",
+                "Played": "17",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "-1",
+                "Points": "26"
             },
             {
                 "Position": "8",
