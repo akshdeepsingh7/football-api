@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 13 January 2026, 07:39 PM UTC (Wednesday, 14 January 2026, 01:09 AM IST)
+**Last Updated:** Tuesday, 13 January 2026, 08:26 PM UTC (Wednesday, 14 January 2026, 01:56 AM IST)
 
 ### Premier League
 
@@ -98,7 +98,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 16 | 14 | 2 | 0 | 51 | 44 |
-| 2 | Borussia Dortmund | 17 | 9 | 7 | 1 | 14 | 34 |
+| 2 | Borussia Dortmund | 17 | 10 | 6 | 1 | 15 | 36 |
 | 3 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
 | 4 | RB Leipzig | 15 | 9 | 2 | 4 | 11 | 29 |
 | 5 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 10 | 29 |
@@ -107,14 +107,14 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | SC Freiburg | 16 | 6 | 5 | 5 | 0 | 23 |
 | 9 | Union Berlin | 16 | 6 | 4 | 6 | -3 | 22 |
 | 10 | Borussia Mönchengladbach | 16 | 5 | 4 | 7 | -2 | 19 |
-| 11 | Werder Bremen | 16 | 4 | 6 | 6 | -10 | 18 |
-| 12 | Köln | 16 | 4 | 5 | 7 | -2 | 17 |
+| 11 | Köln | 16 | 4 | 5 | 7 | -2 | 17 |
+| 12 | Werder Bremen | 16 | 4 | 5 | 7 | -11 | 17 |
 | 13 | Hamburg | 16 | 4 | 4 | 8 | -10 | 16 |
 | 14 | VfL Wolfsburg | 16 | 4 | 3 | 9 | -12 | 15 |
 | 15 | Augsburg | 16 | 4 | 2 | 10 | -15 | 14 |
-| 16 | Heidenheim | 17 | 3 | 4 | 10 | -21 | 13 |
+| 16 | Mainz 05 | 17 | 2 | 6 | 9 | -12 | 12 |
 | 17 | St. Pauli | 15 | 3 | 3 | 9 | -13 | 12 |
-| 18 | Mainz 05 | 17 | 1 | 7 | 9 | -13 | 10 |
+| 18 | Heidenheim | 17 | 3 | 3 | 11 | -22 | 12 |
 
 ### Serie A
 
