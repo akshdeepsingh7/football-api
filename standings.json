@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 14 January 2026, 08:45 PM UTC",
-        "IST": "Thursday, 15 January 2026, 02:15 AM IST"
+        "UTC": "Wednesday, 14 January 2026, 09:22 PM UTC",
+        "IST": "Thursday, 15 January 2026, 02:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -413,11 +413,11 @@
                 "Position": "1",
                 "Team": "Bayern Munich",
                 "Played": "17",
-                "Wins": "14",
-                "Draws": "3",
+                "Wins": "15",
+                "Draws": "2",
                 "Losses": "0",
-                "Goal Difference": "51",
-                "Points": "45"
+                "Goal Difference": "52",
+                "Points": "47"
             },
             {
                 "Position": "2",
@@ -436,7 +436,7 @@
                 "Wins": "10",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "12",
+                "Goal Difference": "13",
                 "Points": "32"
             },
             {
@@ -486,7 +486,7 @@
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "23"
             },
             {
@@ -511,16 +511,6 @@
             },
             {
                 "Position": "11",
-                "Team": "K\u00f6ln",
-                "Played": "17",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-2",
-                "Points": "18"
-            },
-            {
-                "Position": "12",
                 "Team": "VfL Wolfsburg",
                 "Played": "17",
                 "Wins": "5",
@@ -528,6 +518,16 @@
                 "Losses": "9",
                 "Goal Difference": "-11",
                 "Points": "18"
+            },
+            {
+                "Position": "12",
+                "Team": "K\u00f6ln",
+                "Played": "17",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "-3",
+                "Points": "17"
             },
             {
                 "Position": "13",
