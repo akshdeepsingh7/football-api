@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 14 January 2026, 07:19 PM UTC (Thursday, 15 January 2026, 12:49 AM IST)
+**Last Updated:** Wednesday, 14 January 2026, 07:41 PM UTC (Thursday, 15 January 2026, 01:11 AM IST)
 
 ### Premier League
 
@@ -97,18 +97,18 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 16 | 14 | 2 | 0 | 51 | 44 |
+| 1 | Bayern Munich | 17 | 14 | 3 | 0 | 51 | 45 |
 | 2 | Borussia Dortmund | 17 | 10 | 6 | 1 | 17 | 36 |
 | 3 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
-| 4 | RB Leipzig | 15 | 9 | 2 | 4 | 11 | 29 |
+| 4 | RB Leipzig | 16 | 9 | 3 | 4 | 11 | 30 |
 | 5 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 10 | 29 |
-| 6 | Hoffenheim | 15 | 8 | 3 | 4 | 9 | 27 |
+| 6 | Hoffenheim | 16 | 8 | 4 | 4 | 9 | 28 |
 | 7 | Eintracht Frankfurt | 17 | 7 | 5 | 5 | -1 | 26 |
-| 8 | SC Freiburg | 16 | 6 | 5 | 5 | 0 | 23 |
+| 8 | SC Freiburg | 17 | 6 | 6 | 5 | 0 | 24 |
 | 9 | Union Berlin | 16 | 6 | 4 | 6 | -3 | 22 |
-| 10 | Borussia Mönchengladbach | 16 | 5 | 4 | 7 | -2 | 19 |
-| 11 | VfL Wolfsburg | 17 | 5 | 3 | 9 | -11 | 18 |
-| 12 | Köln | 16 | 4 | 5 | 7 | -2 | 17 |
+| 10 | Borussia Mönchengladbach | 17 | 5 | 5 | 7 | -2 | 20 |
+| 11 | Köln | 17 | 4 | 6 | 7 | -2 | 18 |
+| 12 | VfL Wolfsburg | 17 | 5 | 3 | 9 | -11 | 18 |
 | 13 | Werder Bremen | 16 | 4 | 5 | 7 | -13 | 17 |
 | 14 | Hamburg | 16 | 4 | 4 | 8 | -10 | 16 |
 | 15 | Augsburg | 16 | 4 | 2 | 10 | -15 | 14 |
