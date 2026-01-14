@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 14 January 2026, 07:41 PM UTC",
-        "IST": "Thursday, 15 January 2026, 01:11 AM IST"
+        "UTC": "Wednesday, 14 January 2026, 08:23 PM UTC",
+        "IST": "Thursday, 15 January 2026, 01:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -441,6 +441,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Hoffenheim",
+                "Played": "16",
+                "Wins": "9",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "13",
+                "Points": "30"
+            },
+            {
+                "Position": "5",
                 "Team": "RB Leipzig",
                 "Played": "16",
                 "Wins": "9",
@@ -450,7 +460,7 @@
                 "Points": "30"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Bayer Leverkusen",
                 "Played": "16",
                 "Wins": "9",
@@ -458,16 +468,6 @@
                 "Losses": "5",
                 "Goal Difference": "10",
                 "Points": "29"
-            },
-            {
-                "Position": "6",
-                "Team": "Hoffenheim",
-                "Played": "16",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "9",
-                "Points": "28"
             },
             {
                 "Position": "7",
@@ -504,10 +504,10 @@
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "17",
                 "Wins": "5",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-2",
-                "Points": "20"
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-6",
+                "Points": "19"
             },
             {
                 "Position": "11",
@@ -594,12 +594,12 @@
             {
                 "Position": "1",
                 "Team": "Inter",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "14",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "25",
-                "Points": "43"
+                "Points": "44"
             },
             {
                 "Position": "2",
@@ -754,12 +754,12 @@
             {
                 "Position": "17",
                 "Team": "Lecce",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "10",
                 "Goal Difference": "-14",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "18",
@@ -2484,308 +2484,7 @@
                 "Points": "-7"
             }
         ],
-        "Major League Soccer (MLS)": [
-            {
-                "Position": "1",
-                "Team": "Atlanta United",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "2",
-                "Team": "Charlotte",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "3",
-                "Team": "Chicago Fire",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "4",
-                "Team": "Cincinnati",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "5",
-                "Team": "Columbus Crew",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "6",
-                "Team": "DC United",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "7",
-                "Team": "Inter Miami",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "8",
-                "Team": "CF Montr\u00e9al",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "9",
-                "Team": "Nashville",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "10",
-                "Team": "New England Revolution",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "11",
-                "Team": "NYCFC",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "12",
-                "Team": "New York RB",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "13",
-                "Team": "Orlando City",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "14",
-                "Team": "Philadelphia Union",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "15",
-                "Team": "Toronto",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "1",
-                "Team": "Austin",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "2",
-                "Team": "Colorado Rapids",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "3",
-                "Team": "Dallas",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "4",
-                "Team": "Houston Dynamo",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "5",
-                "Team": "LA Galaxy",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "6",
-                "Team": "LAFC",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "7",
-                "Team": "Minnesota United",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "8",
-                "Team": "Portland Timbers",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "9",
-                "Team": "Real Salt Lake",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "10",
-                "Team": "San Jose Earthquakes",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "11",
-                "Team": "San Diego",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "12",
-                "Team": "Seattle Sounders",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "13",
-                "Team": "Sporting KC",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "14",
-                "Team": "St. Louis City",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "15",
-                "Team": "Vancouver Whitecaps",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            }
-        ],
+        "Major League Soccer (MLS)": [],
         "Indian Super League": [
             {
                 "Position": "1",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 14 January 2026, 07:41 PM UTC (Thursday, 15 January 2026, 01:11 AM IST)
+**Last Updated:** Wednesday, 14 January 2026, 08:23 PM UTC (Thursday, 15 January 2026, 01:53 AM IST)
 
 ### Premier League
 
@@ -100,13 +100,13 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 17 | 14 | 3 | 0 | 51 | 45 |
 | 2 | Borussia Dortmund | 17 | 10 | 6 | 1 | 17 | 36 |
 | 3 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
-| 4 | RB Leipzig | 16 | 9 | 3 | 4 | 11 | 30 |
-| 5 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 10 | 29 |
-| 6 | Hoffenheim | 16 | 8 | 4 | 4 | 9 | 28 |
+| 4 | Hoffenheim | 16 | 9 | 3 | 4 | 13 | 30 |
+| 5 | RB Leipzig | 16 | 9 | 3 | 4 | 11 | 30 |
+| 6 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 10 | 29 |
 | 7 | Eintracht Frankfurt | 17 | 7 | 5 | 5 | -1 | 26 |
 | 8 | SC Freiburg | 17 | 6 | 6 | 5 | 0 | 24 |
 | 9 | Union Berlin | 16 | 6 | 4 | 6 | -3 | 22 |
-| 10 | Borussia Mönchengladbach | 17 | 5 | 5 | 7 | -2 | 20 |
+| 10 | Borussia Mönchengladbach | 17 | 5 | 4 | 8 | -6 | 19 |
 | 11 | Köln | 17 | 4 | 6 | 7 | -2 | 18 |
 | 12 | VfL Wolfsburg | 17 | 5 | 3 | 9 | -11 | 18 |
 | 13 | Werder Bremen | 16 | 4 | 5 | 7 | -13 | 17 |
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 19 | 14 | 1 | 4 | 25 | 43 |
+| 1 | Inter | 20 | 14 | 2 | 4 | 25 | 44 |
 | 2 | Milan | 19 | 11 | 7 | 1 | 15 | 40 |
 | 3 | Napoli | 20 | 12 | 4 | 4 | 13 | 40 |
 | 4 | Juventus | 20 | 11 | 6 | 3 | 16 | 39 |
@@ -136,7 +136,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Parma | 20 | 5 | 7 | 8 | -8 | 22 |
 | 15 | Genoa | 20 | 4 | 7 | 9 | -7 | 19 |
 | 16 | Cagliari | 20 | 4 | 7 | 9 | -9 | 19 |
-| 17 | Lecce | 19 | 4 | 5 | 10 | -14 | 17 |
+| 17 | Lecce | 20 | 4 | 6 | 10 | -14 | 18 |
 | 18 | Fiorentina | 20 | 2 | 8 | 10 | -10 | 14 |
 | 19 | Hellas Verona | 19 | 2 | 7 | 10 | -16 | 13 |
 | 20 | Pisa | 20 | 1 | 10 | 9 | -15 | 13 |
@@ -341,38 +341,7 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Major League Soccer (MLS)
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Atlanta United | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Charlotte | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Chicago Fire | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Cincinnati | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | Columbus Crew | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | DC United | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Inter Miami | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | CF Montréal | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Nashville | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | New England Revolution | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | NYCFC | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | New York RB | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Orlando City | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Philadelphia Union | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | Toronto | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | Austin | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Colorado Rapids | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Dallas | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Houston Dynamo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | LA Galaxy | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | LAFC | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Minnesota United | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Portland Timbers | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Real Salt Lake | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | San Jose Earthquakes | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | San Diego | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Seattle Sounders | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Sporting KC | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | St. Louis City | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | Vancouver Whitecaps | 0 | 0 | 0 | 0 | 0 | 0 |
+Data not available.
 
 ### Indian Super League
 
