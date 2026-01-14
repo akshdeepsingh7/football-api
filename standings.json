@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 14 January 2026, 06:35 PM UTC",
-        "IST": "Thursday, 15 January 2026, 12:05 AM IST"
+        "UTC": "Wednesday, 14 January 2026, 07:19 PM UTC",
+        "IST": "Thursday, 15 January 2026, 12:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -511,6 +511,16 @@
             },
             {
                 "Position": "11",
+                "Team": "VfL Wolfsburg",
+                "Played": "17",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-11",
+                "Points": "18"
+            },
+            {
+                "Position": "12",
                 "Team": "K\u00f6ln",
                 "Played": "16",
                 "Wins": "4",
@@ -520,7 +530,7 @@
                 "Points": "17"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Werder Bremen",
                 "Played": "16",
                 "Wins": "4",
@@ -530,23 +540,13 @@
                 "Points": "17"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Hamburg",
                 "Played": "16",
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "8",
                 "Goal Difference": "-10",
-                "Points": "16"
-            },
-            {
-                "Position": "14",
-                "Team": "VfL Wolfsburg",
-                "Played": "17",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-12",
                 "Points": "16"
             },
             {
@@ -561,22 +561,22 @@
             },
             {
                 "Position": "16",
-                "Team": "St. Pauli",
-                "Played": "16",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-13",
-                "Points": "13"
-            },
-            {
-                "Position": "17",
                 "Team": "Mainz 05",
                 "Played": "17",
                 "Wins": "2",
                 "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "-12",
+                "Points": "12"
+            },
+            {
+                "Position": "17",
+                "Team": "St. Pauli",
+                "Played": "16",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-14",
                 "Points": "12"
             },
             {
