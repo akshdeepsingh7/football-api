@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 14 January 2026, 09:22 PM UTC (Thursday, 15 January 2026, 02:52 AM IST)
+**Last Updated:** Wednesday, 14 January 2026, 09:44 PM UTC (Thursday, 15 January 2026, 03:14 AM IST)
 
 ### Premier League
 
@@ -97,7 +97,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 17 | 15 | 2 | 0 | 52 | 47 |
+| 1 | Bayern Munich | 17 | 15 | 2 | 0 | 53 | 47 |
 | 2 | Borussia Dortmund | 17 | 10 | 6 | 1 | 17 | 36 |
 | 3 | RB Leipzig | 16 | 10 | 2 | 4 | 13 | 32 |
 | 4 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
@@ -108,7 +108,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Union Berlin | 16 | 6 | 4 | 6 | -3 | 22 |
 | 10 | Borussia Mönchengladbach | 17 | 5 | 4 | 8 | -6 | 19 |
 | 11 | VfL Wolfsburg | 17 | 5 | 3 | 9 | -11 | 18 |
-| 12 | Köln | 17 | 4 | 5 | 8 | -3 | 17 |
+| 12 | Köln | 17 | 4 | 5 | 8 | -4 | 17 |
 | 13 | Werder Bremen | 16 | 4 | 5 | 7 | -13 | 17 |
 | 14 | Hamburg | 16 | 4 | 4 | 8 | -10 | 16 |
 | 15 | Augsburg | 16 | 4 | 2 | 10 | -15 | 14 |
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 20 | 14 | 2 | 4 | 25 | 44 |
+| 1 | Inter | 20 | 15 | 1 | 4 | 26 | 46 |
 | 2 | Milan | 19 | 11 | 7 | 1 | 15 | 40 |
 | 3 | Napoli | 20 | 12 | 4 | 4 | 13 | 40 |
 | 4 | Juventus | 20 | 11 | 6 | 3 | 16 | 39 |
@@ -136,7 +136,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Parma | 20 | 5 | 7 | 8 | -8 | 22 |
 | 15 | Genoa | 20 | 4 | 7 | 9 | -7 | 19 |
 | 16 | Cagliari | 20 | 4 | 7 | 9 | -9 | 19 |
-| 17 | Lecce | 20 | 4 | 6 | 10 | -14 | 18 |
+| 17 | Lecce | 20 | 4 | 5 | 11 | -15 | 17 |
 | 18 | Fiorentina | 20 | 2 | 8 | 10 | -10 | 14 |
 | 19 | Hellas Verona | 19 | 2 | 7 | 10 | -16 | 13 |
 | 20 | Pisa | 20 | 1 | 10 | 9 | -15 | 13 |
@@ -376,21 +376,7 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Indian Super League
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Mohun Bagan SG | 24 | 17 | 5 | 2 | 31 | 56 |
-| 2 | FC Goa | 24 | 14 | 6 | 4 | 16 | 48 |
-| 3 | Bengaluru | 24 | 11 | 5 | 8 | 9 | 38 |
-| 4 | NorthEast Utd | 24 | 10 | 8 | 6 | 17 | 38 |
-| 5 | Jamshedpur | 24 | 12 | 2 | 10 | -6 | 38 |
-| 6 | Mumbai City | 24 | 9 | 9 | 6 | 1 | 36 |
-| 7 | Odisha | 24 | 8 | 9 | 7 | 7 | 33 |
-| 8 | Kerala Blasters | 24 | 8 | 5 | 11 | -4 | 29 |
-| 9 | East Bengal | 24 | 8 | 4 | 12 | -6 | 28 |
-| 10 | Punjab FC | 24 | 8 | 4 | 12 | -4 | 28 |
-| 11 | Chennaiyin | 24 | 7 | 6 | 11 | -5 | 27 |
-| 12 | Hyderabad | 24 | 4 | 6 | 14 | -25 | 18 |
-| 13 | Mohammedan | 24 | 2 | 7 | 15 | -31 | 13 |
+Data not available.
 
 ### Liga Profesional Argentina (Clausura)
 
