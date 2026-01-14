@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 14 January 2026, 08:23 PM UTC (Thursday, 15 January 2026, 01:53 AM IST)
+**Last Updated:** Wednesday, 14 January 2026, 08:45 PM UTC (Thursday, 15 January 2026, 02:15 AM IST)
 
 ### Premier League
 
@@ -99,12 +99,12 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 17 | 14 | 3 | 0 | 51 | 45 |
 | 2 | Borussia Dortmund | 17 | 10 | 6 | 1 | 17 | 36 |
-| 3 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
-| 4 | Hoffenheim | 16 | 9 | 3 | 4 | 13 | 30 |
-| 5 | RB Leipzig | 16 | 9 | 3 | 4 | 11 | 30 |
+| 3 | RB Leipzig | 16 | 10 | 2 | 4 | 12 | 32 |
+| 4 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
+| 5 | Hoffenheim | 16 | 9 | 3 | 4 | 13 | 30 |
 | 6 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 10 | 29 |
 | 7 | Eintracht Frankfurt | 17 | 7 | 5 | 5 | -1 | 26 |
-| 8 | SC Freiburg | 17 | 6 | 6 | 5 | 0 | 24 |
+| 8 | SC Freiburg | 17 | 6 | 5 | 6 | -1 | 23 |
 | 9 | Union Berlin | 16 | 6 | 4 | 6 | -3 | 22 |
 | 10 | Borussia Mönchengladbach | 17 | 5 | 4 | 8 | -6 | 19 |
 | 11 | Köln | 17 | 4 | 6 | 7 | -2 | 18 |
@@ -341,7 +341,38 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Major League Soccer (MLS)
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Atlanta United | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Charlotte | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Chicago Fire | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Cincinnati | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Columbus Crew | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | DC United | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Inter Miami | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | CF Montréal | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Nashville | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | New England Revolution | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | NYCFC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | New York RB | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Orlando City | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Philadelphia Union | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Toronto | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Austin | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Colorado Rapids | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Dallas | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Houston Dynamo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | LA Galaxy | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | LAFC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Minnesota United | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Portland Timbers | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Real Salt Lake | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | San Jose Earthquakes | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | San Diego | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Seattle Sounders | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Sporting KC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | St. Louis City | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Vancouver Whitecaps | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ### Indian Super League
 
