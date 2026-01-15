@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 15 January 2026, 04:38 PM UTC",
-        "IST": "Thursday, 15 January 2026, 10:08 PM IST"
+        "UTC": "Thursday, 15 January 2026, 05:32 PM UTC",
+        "IST": "Thursday, 15 January 2026, 11:02 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -663,6 +663,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Bologna",
+                "Played": "20",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "6",
+                "Points": "28"
+            },
+            {
+                "Position": "9",
                 "Team": "Lazio",
                 "Played": "20",
                 "Wins": "7",
@@ -670,16 +680,6 @@
                 "Losses": "6",
                 "Goal Difference": "5",
                 "Points": "28"
-            },
-            {
-                "Position": "9",
-                "Team": "Bologna",
-                "Played": "19",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "6",
-                "Points": "27"
             },
             {
                 "Position": "10",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Hellas Verona",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "2",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "-16",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "20",
