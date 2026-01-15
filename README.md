@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 15 January 2026, 07:25 PM UTC (Friday, 16 January 2026, 12:55 AM IST)
+**Last Updated:** Thursday, 15 January 2026, 07:46 PM UTC (Friday, 16 January 2026, 01:16 AM IST)
 
 ### Premier League
 
@@ -105,13 +105,13 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 10 | 29 |
 | 7 | Eintracht Frankfurt | 17 | 7 | 5 | 5 | -1 | 26 |
 | 8 | SC Freiburg | 17 | 6 | 5 | 6 | -2 | 23 |
-| 9 | Union Berlin | 16 | 6 | 4 | 6 | -3 | 22 |
+| 9 | Union Berlin | 17 | 6 | 5 | 6 | -3 | 23 |
 | 10 | Borussia Mönchengladbach | 17 | 5 | 4 | 8 | -6 | 19 |
 | 11 | VfL Wolfsburg | 17 | 5 | 3 | 9 | -11 | 18 |
 | 12 | Köln | 17 | 4 | 5 | 8 | -4 | 17 |
 | 13 | Werder Bremen | 16 | 4 | 5 | 7 | -13 | 17 |
 | 14 | Hamburg | 16 | 4 | 4 | 8 | -10 | 16 |
-| 15 | Augsburg | 16 | 4 | 2 | 10 | -15 | 14 |
+| 15 | Augsburg | 17 | 4 | 3 | 10 | -15 | 15 |
 | 16 | Mainz 05 | 17 | 2 | 6 | 9 | -12 | 12 |
 | 17 | St. Pauli | 16 | 3 | 3 | 10 | -14 | 12 |
 | 18 | Heidenheim | 17 | 3 | 3 | 11 | -22 | 12 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 15 January 2026, 07:25 PM UTC",
-        "IST": "Friday, 16 January 2026, 12:55 AM IST"
+        "UTC": "Thursday, 15 January 2026, 07:46 PM UTC",
+        "IST": "Friday, 16 January 2026, 01:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -492,12 +492,12 @@
             {
                 "Position": "9",
                 "Team": "Union Berlin",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "6",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "-3",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "10",
@@ -552,12 +552,12 @@
             {
                 "Position": "15",
                 "Team": "Augsburg",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "4",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "10",
                 "Goal Difference": "-15",
-                "Points": "14"
+                "Points": "15"
             },
             {
                 "Position": "16",
