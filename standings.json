@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 15 January 2026, 05:32 PM UTC",
-        "IST": "Thursday, 15 January 2026, 11:02 PM IST"
+        "UTC": "Thursday, 15 January 2026, 06:38 PM UTC",
+        "IST": "Friday, 16 January 2026, 12:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -665,11 +665,11 @@
                 "Position": "8",
                 "Team": "Bologna",
                 "Played": "20",
-                "Wins": "7",
-                "Draws": "7",
+                "Wins": "8",
+                "Draws": "6",
                 "Losses": "6",
-                "Goal Difference": "6",
-                "Points": "28"
+                "Goal Difference": "8",
+                "Points": "30"
             },
             {
                 "Position": "9",
@@ -773,22 +773,22 @@
             },
             {
                 "Position": "19",
-                "Team": "Hellas Verona",
-                "Played": "20",
-                "Wins": "2",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-16",
-                "Points": "14"
-            },
-            {
-                "Position": "20",
                 "Team": "Pisa",
                 "Played": "20",
                 "Wins": "1",
                 "Draws": "10",
                 "Losses": "9",
                 "Goal Difference": "-15",
+                "Points": "13"
+            },
+            {
+                "Position": "20",
+                "Team": "Hellas Verona",
+                "Played": "20",
+                "Wins": "2",
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-18",
                 "Points": "13"
             }
         ],
