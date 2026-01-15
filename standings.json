@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 15 January 2026, 08:27 PM UTC",
-        "IST": "Friday, 16 January 2026, 01:57 AM IST"
+        "UTC": "Thursday, 15 January 2026, 08:49 PM UTC",
+        "IST": "Friday, 16 January 2026, 02:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -606,10 +606,10 @@
                 "Team": "Milan",
                 "Played": "20",
                 "Wins": "11",
-                "Draws": "7",
-                "Losses": "2",
-                "Goal Difference": "14",
-                "Points": "40"
+                "Draws": "8",
+                "Losses": "1",
+                "Goal Difference": "15",
+                "Points": "41"
             },
             {
                 "Position": "3",
@@ -645,11 +645,11 @@
                 "Position": "6",
                 "Team": "Como",
                 "Played": "20",
-                "Wins": "10",
-                "Draws": "7",
+                "Wins": "9",
+                "Draws": "8",
                 "Losses": "3",
-                "Goal Difference": "15",
-                "Points": "37"
+                "Goal Difference": "14",
+                "Points": "35"
             },
             {
                 "Position": "7",
