@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 15 January 2026, 09:22 PM UTC",
-        "IST": "Friday, 16 January 2026, 02:52 AM IST"
+        "UTC": "Thursday, 15 January 2026, 09:43 PM UTC",
+        "IST": "Friday, 16 January 2026, 03:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -494,10 +494,10 @@
                 "Team": "Union Berlin",
                 "Played": "17",
                 "Wins": "6",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-4",
-                "Points": "22"
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-3",
+                "Points": "23"
             },
             {
                 "Position": "10",
@@ -541,16 +541,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Augsburg",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "10",
-                "Goal Difference": "-14",
-                "Points": "17"
-            },
-            {
-                "Position": "15",
                 "Team": "Hamburg",
                 "Played": "16",
                 "Wins": "4",
@@ -558,6 +548,16 @@
                 "Losses": "8",
                 "Goal Difference": "-10",
                 "Points": "16"
+            },
+            {
+                "Position": "15",
+                "Team": "Augsburg",
+                "Played": "17",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-15",
+                "Points": "15"
             },
             {
                 "Position": "16",
@@ -608,7 +608,7 @@
                 "Wins": "12",
                 "Draws": "7",
                 "Losses": "1",
-                "Goal Difference": "16",
+                "Goal Difference": "17",
                 "Points": "43"
             },
             {
@@ -648,7 +648,7 @@
                 "Wins": "9",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "13",
+                "Goal Difference": "12",
                 "Points": "34"
             },
             {
