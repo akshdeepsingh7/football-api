@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 15 January 2026, 07:46 PM UTC",
-        "IST": "Friday, 16 January 2026, 01:16 AM IST"
+        "UTC": "Thursday, 15 January 2026, 08:27 PM UTC",
+        "IST": "Friday, 16 January 2026, 01:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -494,10 +494,10 @@
                 "Team": "Union Berlin",
                 "Played": "17",
                 "Wins": "6",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-3",
-                "Points": "23"
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "-4",
+                "Points": "22"
             },
             {
                 "Position": "10",
@@ -541,6 +541,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Augsburg",
+                "Played": "17",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "10",
+                "Goal Difference": "-14",
+                "Points": "17"
+            },
+            {
+                "Position": "15",
                 "Team": "Hamburg",
                 "Played": "16",
                 "Wins": "4",
@@ -548,16 +558,6 @@
                 "Losses": "8",
                 "Goal Difference": "-10",
                 "Points": "16"
-            },
-            {
-                "Position": "15",
-                "Team": "Augsburg",
-                "Played": "17",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "10",
-                "Goal Difference": "-15",
-                "Points": "15"
             },
             {
                 "Position": "16",
@@ -604,11 +604,11 @@
             {
                 "Position": "2",
                 "Team": "Milan",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "11",
                 "Draws": "7",
-                "Losses": "1",
-                "Goal Difference": "15",
+                "Losses": "2",
+                "Goal Difference": "14",
                 "Points": "40"
             },
             {
@@ -644,12 +644,12 @@
             {
                 "Position": "6",
                 "Team": "Como",
-                "Played": "19",
-                "Wins": "9",
+                "Played": "20",
+                "Wins": "10",
                 "Draws": "7",
                 "Losses": "3",
-                "Goal Difference": "14",
-                "Points": "34"
+                "Goal Difference": "15",
+                "Points": "37"
             },
             {
                 "Position": "7",
