@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 16 January 2026, 07:20 PM UTC",
-        "IST": "Saturday, 17 January 2026, 12:50 AM IST"
+        "UTC": "Friday, 16 January 2026, 07:38 PM UTC",
+        "IST": "Saturday, 17 January 2026, 01:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -472,12 +472,12 @@
             {
                 "Position": "7",
                 "Team": "Eintracht Frankfurt",
-                "Played": "17",
-                "Wins": "7",
+                "Played": "18",
+                "Wins": "8",
                 "Draws": "5",
                 "Losses": "5",
-                "Goal Difference": "-1",
-                "Points": "26"
+                "Goal Difference": "0",
+                "Points": "29"
             },
             {
                 "Position": "8",
@@ -532,11 +532,11 @@
             {
                 "Position": "13",
                 "Team": "Werder Bremen",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "4",
                 "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-13",
+                "Losses": "8",
+                "Goal Difference": "-14",
                 "Points": "17"
             },
             {
