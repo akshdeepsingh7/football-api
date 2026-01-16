@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 16 January 2026, 05:47 PM UTC",
-        "IST": "Friday, 16 January 2026, 11:17 PM IST"
+        "UTC": "Friday, 16 January 2026, 06:34 PM UTC",
+        "IST": "Saturday, 17 January 2026, 12:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -865,22 +865,22 @@
             },
             {
                 "Position": "8",
+                "Team": "Monaco",
+                "Played": "18",
+                "Wins": "7",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "-3",
+                "Points": "24"
+            },
+            {
+                "Position": "9",
                 "Team": "Toulouse",
                 "Played": "17",
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "2",
-                "Points": "23"
-            },
-            {
-                "Position": "9",
-                "Team": "Monaco",
-                "Played": "17",
-                "Wins": "7",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "-3",
                 "Points": "23"
             },
             {
@@ -906,12 +906,12 @@
             {
                 "Position": "12",
                 "Team": "Lorient",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "4",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "6",
                 "Goal Difference": "-9",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "13",
