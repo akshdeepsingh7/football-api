@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 16 January 2026, 09:22 PM UTC (Saturday, 17 January 2026, 02:52 AM IST)
+**Last Updated:** Friday, 16 January 2026, 09:43 PM UTC (Saturday, 17 January 2026, 03:13 AM IST)
 
 ### Premier League
 
@@ -103,12 +103,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
 | 5 | Hoffenheim | 16 | 9 | 3 | 4 | 13 | 30 |
 | 6 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 10 | 29 |
-| 7 | Eintracht Frankfurt | 18 | 7 | 5 | 6 | -2 | 26 |
+| 7 | Eintracht Frankfurt | 18 | 7 | 6 | 5 | -1 | 27 |
 | 8 | SC Freiburg | 17 | 6 | 5 | 6 | -2 | 23 |
 | 9 | Union Berlin | 17 | 6 | 5 | 6 | -3 | 23 |
-| 10 | Werder Bremen | 17 | 5 | 5 | 7 | -12 | 20 |
-| 11 | Borussia Mönchengladbach | 17 | 5 | 4 | 8 | -6 | 19 |
-| 12 | VfL Wolfsburg | 17 | 5 | 3 | 9 | -11 | 18 |
+| 10 | Borussia Mönchengladbach | 17 | 5 | 4 | 8 | -6 | 19 |
+| 11 | VfL Wolfsburg | 17 | 5 | 3 | 9 | -11 | 18 |
+| 12 | Werder Bremen | 17 | 4 | 6 | 7 | -13 | 18 |
 | 13 | Köln | 17 | 4 | 5 | 8 | -4 | 17 |
 | 14 | Hamburg | 16 | 4 | 4 | 8 | -10 | 16 |
 | 15 | Augsburg | 17 | 4 | 3 | 10 | -15 | 15 |
@@ -315,7 +315,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 26 | 15 | 7 | 4 | 28 | 52 |
-| 2 | Middlesbrough | 27 | 14 | 7 | 6 | 13 | 49 |
+| 2 | Middlesbrough | 27 | 13 | 8 | 6 | 11 | 47 |
 | 3 | Ipswich Town | 25 | 12 | 8 | 5 | 18 | 44 |
 | 4 | Preston North End | 26 | 11 | 10 | 5 | 11 | 43 |
 | 5 | Millwall | 26 | 12 | 7 | 7 | -4 | 43 |
@@ -330,8 +330,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Birmingham City | 26 | 9 | 7 | 10 | -1 | 34 |
 | 15 | Southampton | 26 | 8 | 9 | 9 | 0 | 33 |
 | 16 | Sheffield United | 25 | 10 | 2 | 13 | -2 | 32 |
-| 17 | Swansea City | 26 | 9 | 5 | 12 | -6 | 32 |
-| 18 | West Bromwich Albion | 27 | 9 | 4 | 14 | -8 | 31 |
+| 17 | West Bromwich Albion | 27 | 9 | 5 | 13 | -6 | 32 |
+| 18 | Swansea City | 26 | 9 | 5 | 12 | -6 | 32 |
 | 19 | Charlton Athletic | 25 | 7 | 8 | 10 | -7 | 29 |
 | 20 | Blackburn Rovers | 25 | 7 | 7 | 11 | -6 | 28 |
 | 21 | Portsmouth | 24 | 6 | 7 | 11 | -14 | 25 |

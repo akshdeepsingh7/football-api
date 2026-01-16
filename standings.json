@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 16 January 2026, 09:22 PM UTC",
-        "IST": "Saturday, 17 January 2026, 02:52 AM IST"
+        "UTC": "Friday, 16 January 2026, 09:43 PM UTC",
+        "IST": "Saturday, 17 January 2026, 03:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -474,10 +474,10 @@
                 "Team": "Eintracht Frankfurt",
                 "Played": "18",
                 "Wins": "7",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-2",
-                "Points": "26"
+                "Draws": "6",
+                "Losses": "5",
+                "Goal Difference": "-1",
+                "Points": "27"
             },
             {
                 "Position": "8",
@@ -501,16 +501,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Werder Bremen",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-12",
-                "Points": "20"
-            },
-            {
-                "Position": "11",
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "17",
                 "Wins": "5",
@@ -520,13 +510,23 @@
                 "Points": "19"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "VfL Wolfsburg",
                 "Played": "17",
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "9",
                 "Goal Difference": "-11",
+                "Points": "18"
+            },
+            {
+                "Position": "12",
+                "Team": "Werder Bremen",
+                "Played": "17",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "-13",
                 "Points": "18"
             },
             {
@@ -2257,11 +2257,11 @@
                 "Position": "2",
                 "Team": "Middlesbrough",
                 "Played": "27",
-                "Wins": "14",
-                "Draws": "7",
+                "Wins": "13",
+                "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "13",
-                "Points": "49"
+                "Goal Difference": "11",
+                "Points": "47"
             },
             {
                 "Position": "3",
@@ -2405,6 +2405,16 @@
             },
             {
                 "Position": "17",
+                "Team": "West Bromwich Albion",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "13",
+                "Goal Difference": "-6",
+                "Points": "32"
+            },
+            {
+                "Position": "18",
                 "Team": "Swansea City",
                 "Played": "26",
                 "Wins": "9",
@@ -2412,16 +2422,6 @@
                 "Losses": "12",
                 "Goal Difference": "-6",
                 "Points": "32"
-            },
-            {
-                "Position": "18",
-                "Team": "West Bromwich Albion",
-                "Played": "27",
-                "Wins": "9",
-                "Draws": "4",
-                "Losses": "14",
-                "Goal Difference": "-8",
-                "Points": "31"
             },
             {
                 "Position": "19",
