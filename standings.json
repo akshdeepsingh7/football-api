@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 16 January 2026, 07:38 PM UTC",
-        "IST": "Saturday, 17 January 2026, 01:08 AM IST"
+        "UTC": "Friday, 16 January 2026, 08:23 PM UTC",
+        "IST": "Saturday, 17 January 2026, 01:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -250,12 +250,12 @@
             {
                 "Position": "5",
                 "Team": "Espanyol",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "10",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "5",
                 "Goal Difference": "3",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "6",
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Girona",
+                "Played": "20",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "-16",
+                "Points": "22"
+            },
+            {
+                "Position": "12",
                 "Team": "Real Sociedad",
                 "Played": "19",
                 "Wins": "5",
@@ -318,23 +328,13 @@
                 "Points": "21"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Getafe",
                 "Played": "19",
                 "Wins": "6",
                 "Draws": "3",
                 "Losses": "10",
                 "Goal Difference": "-10",
-                "Points": "21"
-            },
-            {
-                "Position": "13",
-                "Team": "Girona",
-                "Played": "19",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-16",
                 "Points": "21"
             },
             {
@@ -473,11 +473,11 @@
                 "Position": "7",
                 "Team": "Eintracht Frankfurt",
                 "Played": "18",
-                "Wins": "8",
-                "Draws": "5",
+                "Wins": "7",
+                "Draws": "6",
                 "Losses": "5",
-                "Goal Difference": "0",
-                "Points": "29"
+                "Goal Difference": "-1",
+                "Points": "27"
             },
             {
                 "Position": "8",
@@ -521,22 +521,22 @@
             },
             {
                 "Position": "12",
+                "Team": "Werder Bremen",
+                "Played": "17",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "-13",
+                "Points": "18"
+            },
+            {
+                "Position": "13",
                 "Team": "K\u00f6ln",
                 "Played": "17",
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "-4",
-                "Points": "17"
-            },
-            {
-                "Position": "13",
-                "Team": "Werder Bremen",
-                "Played": "17",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "-14",
                 "Points": "17"
             },
             {
@@ -654,12 +654,12 @@
             {
                 "Position": "7",
                 "Team": "Atalanta",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "8",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "5",
                 "Goal Difference": "6",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "8",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Pisa",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "1",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "9",
                 "Goal Difference": "-15",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "20",
@@ -795,6 +795,16 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "PSG",
+                "Played": "18",
+                "Wins": "13",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "23",
+                "Points": "42"
+            },
+            {
+                "Position": "2",
                 "Team": "Lens",
                 "Played": "17",
                 "Wins": "13",
@@ -802,16 +812,6 @@
                 "Losses": "3",
                 "Goal Difference": "18",
                 "Points": "40"
-            },
-            {
-                "Position": "2",
-                "Team": "PSG",
-                "Played": "17",
-                "Wins": "12",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "22",
-                "Points": "39"
             },
             {
                 "Position": "3",
@@ -826,11 +826,11 @@
             {
                 "Position": "4",
                 "Team": "Lille",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "10",
                 "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "11",
+                "Losses": "6",
+                "Goal Difference": "10",
                 "Points": "32"
             },
             {
@@ -865,22 +865,22 @@
             },
             {
                 "Position": "8",
-                "Team": "Monaco",
-                "Played": "18",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "-3",
-                "Points": "24"
-            },
-            {
-                "Position": "9",
                 "Team": "Toulouse",
                 "Played": "17",
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "2",
+                "Points": "23"
+            },
+            {
+                "Position": "9",
+                "Team": "Monaco",
+                "Played": "18",
+                "Wins": "7",
+                "Draws": "2",
+                "Losses": "9",
+                "Goal Difference": "-5",
                 "Points": "23"
             },
             {
@@ -907,11 +907,11 @@
                 "Position": "12",
                 "Team": "Lorient",
                 "Played": "18",
-                "Wins": "4",
-                "Draws": "8",
+                "Wins": "5",
+                "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "-9",
-                "Points": "20"
+                "Goal Difference": "-7",
+                "Points": "22"
             },
             {
                 "Position": "13",
@@ -2074,12 +2074,12 @@
             {
                 "Position": "2",
                 "Team": "Sporting CP",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "13",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "38",
-                "Points": "42"
+                "Points": "43"
             },
             {
                 "Position": "3",
@@ -2204,12 +2204,12 @@
             {
                 "Position": "15",
                 "Team": "Casa Pia",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "3",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "-15",
-                "Points": "14"
+                "Points": "15"
             },
             {
                 "Position": "16",
@@ -2256,12 +2256,12 @@
             {
                 "Position": "2",
                 "Team": "Middlesbrough",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "13",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "6",
                 "Goal Difference": "11",
-                "Points": "46"
+                "Points": "47"
             },
             {
                 "Position": "3",
@@ -2405,6 +2405,16 @@
             },
             {
                 "Position": "17",
+                "Team": "West Bromwich Albion",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "13",
+                "Goal Difference": "-6",
+                "Points": "32"
+            },
+            {
+                "Position": "18",
                 "Team": "Swansea City",
                 "Played": "26",
                 "Wins": "9",
@@ -2412,16 +2422,6 @@
                 "Losses": "12",
                 "Goal Difference": "-6",
                 "Points": "32"
-            },
-            {
-                "Position": "18",
-                "Team": "West Bromwich Albion",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "4",
-                "Losses": "13",
-                "Goal Difference": "-6",
-                "Points": "31"
             },
             {
                 "Position": "19",
