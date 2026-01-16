@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 16 January 2026, 08:23 PM UTC",
-        "IST": "Saturday, 17 January 2026, 01:53 AM IST"
+        "UTC": "Friday, 16 January 2026, 08:43 PM UTC",
+        "IST": "Saturday, 17 January 2026, 02:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2257,11 +2257,11 @@
                 "Position": "2",
                 "Team": "Middlesbrough",
                 "Played": "27",
-                "Wins": "13",
-                "Draws": "8",
+                "Wins": "14",
+                "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "11",
-                "Points": "47"
+                "Goal Difference": "12",
+                "Points": "49"
             },
             {
                 "Position": "3",
@@ -2405,16 +2405,6 @@
             },
             {
                 "Position": "17",
-                "Team": "West Bromwich Albion",
-                "Played": "27",
-                "Wins": "9",
-                "Draws": "5",
-                "Losses": "13",
-                "Goal Difference": "-6",
-                "Points": "32"
-            },
-            {
-                "Position": "18",
                 "Team": "Swansea City",
                 "Played": "26",
                 "Wins": "9",
@@ -2422,6 +2412,16 @@
                 "Losses": "12",
                 "Goal Difference": "-6",
                 "Points": "32"
+            },
+            {
+                "Position": "18",
+                "Team": "West Bromwich Albion",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "4",
+                "Losses": "14",
+                "Goal Difference": "-7",
+                "Points": "31"
             },
             {
                 "Position": "19",
