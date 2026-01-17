@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 03:20 PM UTC",
-        "IST": "Saturday, 17 January 2026, 08:50 PM IST"
+        "UTC": "Saturday, 17 January 2026, 03:41 PM UTC",
+        "IST": "Saturday, 17 January 2026, 09:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -57,23 +57,23 @@
             },
             {
                 "Position": "6",
-                "Team": "Brentford",
+                "Team": "Chelsea",
                 "Played": "22",
-                "Wins": "10",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "7",
+                "Wins": "9",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "11",
                 "Points": "34"
             },
             {
                 "Position": "7",
-                "Team": "Chelsea",
+                "Team": "Brentford",
                 "Played": "22",
-                "Wins": "8",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "10",
-                "Points": "32"
+                "Wins": "10",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "6",
+                "Points": "33"
             },
             {
                 "Position": "8",
@@ -2094,12 +2094,12 @@
             {
                 "Position": "4",
                 "Team": "Gil Vicente",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "7",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "3",
                 "Goal Difference": "10",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "5",
@@ -2184,12 +2184,12 @@
             {
                 "Position": "13",
                 "Team": "Nacional",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "8",
                 "Goal Difference": "-5",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "14",
@@ -2297,11 +2297,11 @@
                 "Position": "6",
                 "Team": "Hull City",
                 "Played": "26",
-                "Wins": "12",
-                "Draws": "6",
+                "Wins": "13",
+                "Draws": "5",
                 "Losses": "8",
-                "Goal Difference": "2",
-                "Points": "42"
+                "Goal Difference": "4",
+                "Points": "44"
             },
             {
                 "Position": "7",
@@ -2315,6 +2315,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Wrexham",
+                "Played": "27",
+                "Wins": "10",
+                "Draws": "11",
+                "Losses": "6",
+                "Goal Difference": "6",
+                "Points": "41"
+            },
+            {
+                "Position": "9",
                 "Team": "Watford",
                 "Played": "26",
                 "Wins": "11",
@@ -2324,23 +2334,13 @@
                 "Points": "41"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Bristol City",
                 "Played": "27",
                 "Wins": "11",
                 "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "9",
-                "Points": "40"
-            },
-            {
-                "Position": "10",
-                "Team": "Wrexham",
-                "Played": "27",
-                "Wins": "10",
-                "Draws": "10",
-                "Losses": "7",
-                "Goal Difference": "5",
                 "Points": "40"
             },
             {
@@ -2375,16 +2375,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Southampton",
-                "Played": "27",
-                "Wins": "8",
-                "Draws": "10",
-                "Losses": "9",
-                "Goal Difference": "0",
-                "Points": "34"
-            },
-            {
-                "Position": "15",
                 "Team": "Birmingham City",
                 "Played": "26",
                 "Wins": "9",
@@ -2392,6 +2382,16 @@
                 "Losses": "10",
                 "Goal Difference": "-1",
                 "Points": "34"
+            },
+            {
+                "Position": "15",
+                "Team": "Southampton",
+                "Played": "27",
+                "Wins": "8",
+                "Draws": "9",
+                "Losses": "10",
+                "Goal Difference": "-2",
+                "Points": "33"
             },
             {
                 "Position": "16",
@@ -2445,16 +2445,6 @@
             },
             {
                 "Position": "21",
-                "Team": "Norwich City",
-                "Played": "27",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "14",
-                "Goal Difference": "-10",
-                "Points": "27"
-            },
-            {
-                "Position": "22",
                 "Team": "Portsmouth",
                 "Played": "25",
                 "Wins": "6",
@@ -2462,6 +2452,16 @@
                 "Losses": "11",
                 "Goal Difference": "-14",
                 "Points": "26"
+            },
+            {
+                "Position": "22",
+                "Team": "Norwich City",
+                "Played": "27",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "14",
+                "Goal Difference": "-11",
+                "Points": "25"
             },
             {
                 "Position": "23",
