@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 01:29 PM UTC",
-        "IST": "Saturday, 17 January 2026, 06:59 PM IST"
+        "UTC": "Saturday, 17 January 2026, 01:46 PM UTC",
+        "IST": "Saturday, 17 January 2026, 07:16 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2248,10 +2248,10 @@
                 "Team": "Coventry City",
                 "Played": "27",
                 "Wins": "15",
-                "Draws": "7",
-                "Losses": "5",
-                "Goal Difference": "27",
-                "Points": "52"
+                "Draws": "8",
+                "Losses": "4",
+                "Goal Difference": "28",
+                "Points": "53"
             },
             {
                 "Position": "2",
@@ -2335,16 +2335,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Leicester City",
-                "Played": "27",
-                "Wins": "11",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "0",
-                "Points": "40"
-            },
-            {
-                "Position": "11",
                 "Team": "Bristol City",
                 "Played": "26",
                 "Wins": "11",
@@ -2354,12 +2344,22 @@
                 "Points": "39"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Queens Park Rangers",
                 "Played": "26",
                 "Wins": "11",
                 "Draws": "5",
                 "Losses": "10",
+                "Goal Difference": "-1",
+                "Points": "38"
+            },
+            {
+                "Position": "12",
+                "Team": "Leicester City",
+                "Played": "27",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "9",
                 "Goal Difference": "-1",
                 "Points": "38"
             },

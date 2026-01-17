@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 17 January 2026, 01:29 PM UTC (Saturday, 17 January 2026, 06:59 PM IST)
+**Last Updated:** Saturday, 17 January 2026, 01:46 PM UTC (Saturday, 17 January 2026, 07:16 PM IST)
 
 ### Premier League
 
@@ -314,7 +314,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 27 | 15 | 7 | 5 | 27 | 52 |
+| 1 | Coventry City | 27 | 15 | 8 | 4 | 28 | 53 |
 | 2 | Middlesbrough | 27 | 14 | 7 | 6 | 12 | 49 |
 | 3 | Ipswich Town | 26 | 13 | 8 | 5 | 20 | 47 |
 | 4 | Millwall | 27 | 12 | 8 | 7 | -4 | 44 |
@@ -323,9 +323,9 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Hull City | 25 | 12 | 5 | 8 | 2 | 41 |
 | 8 | Stoke City | 26 | 12 | 4 | 10 | 9 | 40 |
 | 9 | Wrexham | 26 | 10 | 10 | 6 | 6 | 40 |
-| 10 | Leicester City | 27 | 11 | 7 | 9 | 0 | 40 |
-| 11 | Bristol City | 26 | 11 | 6 | 9 | 9 | 39 |
-| 12 | Queens Park Rangers | 26 | 11 | 5 | 10 | -1 | 38 |
+| 10 | Bristol City | 26 | 11 | 6 | 9 | 9 | 39 |
+| 11 | Queens Park Rangers | 26 | 11 | 5 | 10 | -1 | 38 |
+| 12 | Leicester City | 27 | 10 | 8 | 9 | -1 | 38 |
 | 13 | Derby County | 26 | 9 | 8 | 9 | 0 | 35 |
 | 14 | Birmingham City | 26 | 9 | 7 | 10 | -1 | 34 |
 | 15 | Southampton | 26 | 8 | 9 | 9 | 0 | 33 |
