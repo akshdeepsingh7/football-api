@@ -1,19 +1,19 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 05:18 PM UTC",
-        "IST": "Saturday, 17 January 2026, 10:48 PM IST"
+        "UTC": "Saturday, 17 January 2026, 05:40 PM UTC",
+        "IST": "Saturday, 17 January 2026, 11:10 PM IST"
     },
     "standings": {
         "Premier League": [
             {
                 "Position": "1",
                 "Team": "Arsenal",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "15",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "26",
-                "Points": "49"
+                "Points": "50"
             },
             {
                 "Position": "2",
@@ -168,12 +168,12 @@
             {
                 "Position": "17",
                 "Team": "Nottingham Forest",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "6",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "12",
                 "Goal Difference": "-13",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "18",
@@ -349,6 +349,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Osasuna",
+                "Played": "20",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-4",
+                "Points": "20"
+            },
+            {
+                "Position": "16",
                 "Team": "Sevilla",
                 "Played": "19",
                 "Wins": "6",
@@ -356,16 +366,6 @@
                 "Losses": "11",
                 "Goal Difference": "-6",
                 "Points": "20"
-            },
-            {
-                "Position": "16",
-                "Team": "Osasuna",
-                "Played": "19",
-                "Wins": "5",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "-4",
-                "Points": "19"
             },
             {
                 "Position": "17",
@@ -400,24 +400,24 @@
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "2",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "-19",
-                "Points": "13"
+                "Points": "14"
             }
         ],
         "Bundesliga": [
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "15",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "0",
                 "Goal Difference": "53",
-                "Points": "47"
+                "Points": "48"
             },
             {
                 "Position": "2",
@@ -442,12 +442,12 @@
             {
                 "Position": "4",
                 "Team": "RB Leipzig",
-                "Played": "16",
+                "Played": "17",
                 "Wins": "10",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "13",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "5",
@@ -795,6 +795,16 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "Lens",
+                "Played": "18",
+                "Wins": "14",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "19",
+                "Points": "43"
+            },
+            {
+                "Position": "2",
                 "Team": "PSG",
                 "Played": "18",
                 "Wins": "13",
@@ -802,16 +812,6 @@
                 "Losses": "2",
                 "Goal Difference": "25",
                 "Points": "42"
-            },
-            {
-                "Position": "2",
-                "Team": "Lens",
-                "Played": "18",
-                "Wins": "13",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "18",
-                "Points": "41"
             },
             {
                 "Position": "3",
@@ -958,10 +958,10 @@
                 "Team": "Auxerre",
                 "Played": "18",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "11",
-                "Goal Difference": "-13",
-                "Points": "13"
+                "Draws": "3",
+                "Losses": "12",
+                "Goal Difference": "-14",
+                "Points": "12"
             },
             {
                 "Position": "18",
@@ -2376,12 +2376,12 @@
             {
                 "Position": "14",
                 "Team": "Birmingham City",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "9",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "-1",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "15",
@@ -2395,22 +2395,22 @@
             },
             {
                 "Position": "16",
+                "Team": "Swansea City",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-6",
+                "Points": "33"
+            },
+            {
+                "Position": "17",
                 "Team": "Sheffield United",
                 "Played": "26",
                 "Wins": "10",
                 "Draws": "2",
                 "Losses": "14",
                 "Goal Difference": "-3",
-                "Points": "32"
-            },
-            {
-                "Position": "17",
-                "Team": "Swansea City",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-6",
                 "Points": "32"
             },
             {
