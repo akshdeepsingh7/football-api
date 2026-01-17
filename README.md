@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 17 January 2026, 09:40 PM UTC (Sunday, 18 January 2026, 03:10 AM IST)
+**Last Updated:** Saturday, 17 January 2026, 10:20 PM UTC (Sunday, 18 January 2026, 03:50 AM IST)
 
 ### Premier League
 
@@ -74,10 +74,10 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 19 | 16 | 1 | 2 | 33 | 49 |
 | 2 | Real Madrid | 20 | 15 | 3 | 2 | 26 | 48 |
-| 3 | Villarreal | 19 | 13 | 2 | 4 | 19 | 41 |
+| 3 | Villarreal | 19 | 13 | 2 | 4 | 18 | 41 |
 | 4 | Atlético de Madrid | 19 | 11 | 5 | 3 | 17 | 38 |
 | 5 | Espanyol | 20 | 10 | 4 | 6 | 1 | 34 |
-| 6 | Real Betis | 20 | 8 | 8 | 4 | 7 | 32 |
+| 6 | Real Betis | 20 | 8 | 8 | 4 | 8 | 32 |
 | 7 | Celta de Vigo | 19 | 7 | 8 | 4 | 5 | 29 |
 | 8 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
 | 9 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
