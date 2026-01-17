@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 07:37 PM UTC",
-        "IST": "Sunday, 18 January 2026, 01:07 AM IST"
+        "UTC": "Saturday, 17 January 2026, 08:23 PM UTC",
+        "IST": "Sunday, 18 January 2026, 01:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -230,12 +230,12 @@
             {
                 "Position": "3",
                 "Team": "Villarreal",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "13",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "20",
-                "Points": "41"
+                "Points": "42"
             },
             {
                 "Position": "4",
@@ -260,12 +260,12 @@
             {
                 "Position": "6",
                 "Team": "Real Betis",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "7",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "4",
                 "Goal Difference": "6",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "7",
@@ -624,12 +624,12 @@
             {
                 "Position": "4",
                 "Team": "Juventus",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "11",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "3",
                 "Goal Difference": "16",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "5",
@@ -733,22 +733,22 @@
             },
             {
                 "Position": "15",
+                "Team": "Cagliari",
+                "Played": "21",
+                "Wins": "4",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "-9",
+                "Points": "20"
+            },
+            {
+                "Position": "16",
                 "Team": "Genoa",
                 "Played": "20",
                 "Wins": "4",
                 "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "-7",
-                "Points": "19"
-            },
-            {
-                "Position": "16",
-                "Team": "Cagliari",
-                "Played": "20",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-9",
                 "Points": "19"
             },
             {
@@ -816,12 +816,12 @@
             {
                 "Position": "3",
                 "Team": "Marseille",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "10",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "19",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "4",
@@ -860,7 +860,7 @@
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "5",
+                "Goal Difference": "6",
                 "Points": "26"
             },
             {
@@ -875,6 +875,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Angers",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "-2",
+                "Points": "23"
+            },
+            {
+                "Position": "10",
                 "Team": "Monaco",
                 "Played": "18",
                 "Wins": "7",
@@ -882,16 +892,6 @@
                 "Losses": "9",
                 "Goal Difference": "-5",
                 "Points": "23"
-            },
-            {
-                "Position": "10",
-                "Team": "Angers",
-                "Played": "17",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-2",
-                "Points": "22"
             },
             {
                 "Position": "11",
@@ -930,7 +930,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "10",
-                "Goal Difference": "-13",
+                "Goal Difference": "-14",
                 "Points": "18"
             },
             {
