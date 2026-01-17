@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 17 January 2026, 05:40 PM UTC (Saturday, 17 January 2026, 11:10 PM IST)
+**Last Updated:** Saturday, 17 January 2026, 06:30 PM UTC (Sunday, 18 January 2026, 12:00 AM IST)
 
 ### Premier League
 
@@ -97,10 +97,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 18 | 15 | 3 | 0 | 53 | 48 |
+| 1 | Bayern Munich | 18 | 15 | 2 | 1 | 52 | 47 |
 | 2 | Borussia Dortmund | 18 | 11 | 6 | 1 | 18 | 39 |
-| 3 | Hoffenheim | 17 | 10 | 3 | 4 | 14 | 33 |
-| 4 | RB Leipzig | 17 | 10 | 3 | 4 | 13 | 33 |
+| 3 | RB Leipzig | 17 | 11 | 2 | 4 | 14 | 35 |
+| 4 | Hoffenheim | 17 | 10 | 3 | 4 | 14 | 33 |
 | 5 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
 | 6 | Bayer Leverkusen | 17 | 9 | 2 | 6 | 9 | 29 |
 | 7 | Eintracht Frankfurt | 18 | 7 | 6 | 5 | -1 | 27 |
@@ -151,14 +151,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Lille | 18 | 10 | 2 | 6 | 8 | 32 |
 | 5 | Lyon | 17 | 9 | 3 | 5 | 8 | 30 |
 | 6 | Rennes | 17 | 8 | 6 | 3 | 5 | 30 |
-| 7 | Strasbourg | 17 | 7 | 3 | 7 | 5 | 24 |
-| 8 | Toulouse | 17 | 6 | 5 | 6 | 2 | 23 |
+| 7 | Toulouse | 18 | 7 | 5 | 6 | 3 | 26 |
+| 8 | Strasbourg | 17 | 7 | 3 | 7 | 5 | 24 |
 | 9 | Monaco | 18 | 7 | 2 | 9 | -5 | 23 |
 | 10 | Angers | 17 | 6 | 4 | 7 | -2 | 22 |
 | 11 | Brest | 17 | 6 | 4 | 7 | -4 | 22 |
 | 12 | Lorient | 18 | 5 | 7 | 6 | -7 | 22 |
 | 13 | Le Havre | 17 | 4 | 6 | 7 | -8 | 18 |
-| 14 | Nice | 17 | 5 | 3 | 9 | -10 | 18 |
+| 14 | Nice | 18 | 5 | 3 | 10 | -11 | 18 |
 | 15 | Paris FC | 17 | 4 | 4 | 9 | -9 | 16 |
 | 16 | Nantes | 17 | 3 | 5 | 9 | -12 | 14 |
 | 17 | Auxerre | 18 | 3 | 3 | 12 | -14 | 12 |
@@ -295,20 +295,20 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 18 | 14 | 3 | 1 | 41 | 45 |
 | 3 | Benfica | 17 | 11 | 6 | 0 | 25 | 39 |
 | 4 | Gil Vicente | 18 | 8 | 7 | 3 | 11 | 31 |
-| 5 | Braga | 17 | 7 | 6 | 4 | 13 | 27 |
-| 6 | Moreirense | 17 | 8 | 3 | 6 | 0 | 27 |
+| 5 | Moreirense | 18 | 8 | 4 | 6 | 0 | 28 |
+| 6 | Braga | 17 | 7 | 6 | 4 | 13 | 27 |
 | 7 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
 | 8 | Famalicão | 17 | 6 | 5 | 6 | 6 | 23 |
-| 9 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
-| 10 | Rio Ave | 17 | 4 | 8 | 5 | -7 | 20 |
-| 11 | Alverca | 17 | 6 | 2 | 9 | -10 | 20 |
+| 9 | Alverca | 18 | 6 | 3 | 9 | -10 | 21 |
+| 10 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
+| 11 | Rio Ave | 17 | 4 | 8 | 5 | -7 | 20 |
 | 12 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
 | 13 | Santa Clara | 17 | 4 | 5 | 8 | -5 | 17 |
 | 14 | Nacional | 18 | 4 | 5 | 9 | -6 | 17 |
-| 15 | Casa Pia | 18 | 3 | 5 | 10 | -18 | 14 |
-| 16 | Arouca | 17 | 3 | 5 | 9 | -24 | 14 |
+| 15 | Arouca | 18 | 3 | 6 | 9 | -24 | 15 |
+| 16 | Casa Pia | 18 | 3 | 5 | 10 | -18 | 14 |
 | 17 | Tondela | 17 | 3 | 3 | 11 | -17 | 12 |
-| 18 | AVS | 17 | 0 | 4 | 13 | -32 | 4 |
+| 18 | AVS | 18 | 0 | 5 | 13 | -32 | 5 |
 
 ### EFL Championship
 
@@ -323,19 +323,19 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Stoke City | 27 | 12 | 5 | 10 | 9 | 41 |
 | 8 | Watford | 26 | 11 | 8 | 7 | 6 | 41 |
 | 9 | Bristol City | 27 | 11 | 7 | 9 | 9 | 40 |
-| 10 | Wrexham | 26 | 10 | 10 | 6 | 6 | 40 |
+| 10 | Wrexham | 27 | 10 | 10 | 7 | 5 | 40 |
 | 11 | Queens Park Rangers | 27 | 11 | 6 | 10 | -1 | 39 |
 | 12 | Derby County | 27 | 10 | 8 | 9 | 1 | 38 |
 | 13 | Leicester City | 27 | 10 | 7 | 10 | -2 | 37 |
-| 14 | Birmingham City | 27 | 9 | 8 | 10 | -1 | 35 |
-| 15 | Southampton | 27 | 8 | 9 | 10 | -1 | 33 |
-| 16 | Swansea City | 27 | 9 | 6 | 12 | -6 | 33 |
+| 14 | Swansea City | 27 | 10 | 5 | 12 | -5 | 35 |
+| 15 | Birmingham City | 27 | 9 | 7 | 11 | -2 | 34 |
+| 16 | Southampton | 27 | 8 | 9 | 10 | -1 | 33 |
 | 17 | Sheffield United | 26 | 10 | 2 | 14 | -3 | 32 |
 | 18 | Charlton Athletic | 26 | 8 | 8 | 10 | -6 | 32 |
 | 19 | West Bromwich Albion | 27 | 9 | 4 | 14 | -7 | 31 |
 | 20 | Blackburn Rovers | 26 | 7 | 7 | 12 | -9 | 28 |
 | 21 | Portsmouth | 25 | 7 | 7 | 11 | -13 | 28 |
-| 22 | Norwich City | 26 | 6 | 6 | 14 | -11 | 24 |
+| 22 | Norwich City | 27 | 7 | 6 | 14 | -10 | 27 |
 | 23 | Oxford United | 26 | 5 | 8 | 13 | -10 | 23 |
 | 24 | Sheffield Wednesday | 26 | 1 | 8 | 17 | -34 | -7 |
 
