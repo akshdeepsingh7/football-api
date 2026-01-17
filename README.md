@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 17 January 2026, 08:43 PM UTC (Sunday, 18 January 2026, 02:13 AM IST)
+**Last Updated:** Saturday, 17 January 2026, 09:19 PM UTC (Sunday, 18 January 2026, 02:49 AM IST)
 
 ### Premier League
 
@@ -74,10 +74,10 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 19 | 16 | 1 | 2 | 33 | 49 |
 | 2 | Real Madrid | 20 | 15 | 3 | 2 | 26 | 48 |
-| 3 | Villarreal | 19 | 13 | 3 | 3 | 20 | 42 |
+| 3 | Villarreal | 19 | 13 | 2 | 4 | 19 | 41 |
 | 4 | Atlético de Madrid | 19 | 11 | 5 | 3 | 17 | 38 |
 | 5 | Espanyol | 20 | 10 | 4 | 6 | 1 | 34 |
-| 6 | Real Betis | 20 | 7 | 9 | 4 | 6 | 30 |
+| 6 | Real Betis | 20 | 8 | 8 | 4 | 7 | 32 |
 | 7 | Celta de Vigo | 19 | 7 | 8 | 4 | 5 | 29 |
 | 8 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
 | 9 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
@@ -123,8 +123,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 21 | 16 | 1 | 4 | 27 | 49 |
 | 2 | Milan | 20 | 12 | 7 | 1 | 17 | 43 |
 | 3 | Napoli | 21 | 13 | 4 | 4 | 14 | 43 |
-| 4 | Juventus | 21 | 11 | 7 | 3 | 16 | 40 |
-| 5 | Roma | 20 | 13 | 0 | 7 | 12 | 39 |
+| 4 | Roma | 20 | 13 | 0 | 7 | 12 | 39 |
+| 5 | Juventus | 21 | 11 | 6 | 4 | 15 | 39 |
 | 6 | Como | 20 | 9 | 7 | 4 | 12 | 34 |
 | 7 | Atalanta | 21 | 8 | 8 | 5 | 6 | 32 |
 | 8 | Bologna | 20 | 8 | 6 | 6 | 7 | 30 |
@@ -134,7 +134,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Sassuolo | 21 | 6 | 5 | 10 | -5 | 23 |
 | 13 | Cremonese | 20 | 5 | 7 | 8 | -8 | 22 |
 | 14 | Parma | 20 | 5 | 7 | 8 | -8 | 22 |
-| 15 | Cagliari | 21 | 4 | 8 | 9 | -9 | 20 |
+| 15 | Cagliari | 21 | 5 | 7 | 9 | -8 | 22 |
 | 16 | Genoa | 20 | 4 | 7 | 9 | -7 | 19 |
 | 17 | Lecce | 20 | 4 | 5 | 11 | -15 | 17 |
 | 18 | Fiorentina | 20 | 2 | 8 | 10 | -10 | 14 |
@@ -147,7 +147,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Lens | 18 | 14 | 1 | 3 | 19 | 43 |
 | 2 | PSG | 18 | 13 | 3 | 2 | 25 | 42 |
-| 3 | Marseille | 18 | 11 | 2 | 5 | 21 | 35 |
+| 3 | Marseille | 18 | 11 | 2 | 5 | 22 | 35 |
 | 4 | Lille | 18 | 10 | 2 | 6 | 8 | 32 |
 | 5 | Lyon | 17 | 9 | 3 | 5 | 8 | 30 |
 | 6 | Rennes | 17 | 8 | 6 | 3 | 5 | 30 |
@@ -155,7 +155,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Strasbourg | 17 | 7 | 3 | 7 | 5 | 24 |
 | 9 | Monaco | 18 | 7 | 2 | 9 | -5 | 23 |
 | 10 | Brest | 17 | 6 | 4 | 7 | -4 | 22 |
-| 11 | Angers | 18 | 6 | 4 | 8 | -4 | 22 |
+| 11 | Angers | 18 | 6 | 4 | 8 | -5 | 22 |
 | 12 | Lorient | 18 | 5 | 7 | 6 | -7 | 22 |
 | 13 | Le Havre | 17 | 4 | 6 | 7 | -8 | 18 |
 | 14 | Nice | 18 | 5 | 3 | 10 | -14 | 18 |
@@ -293,15 +293,15 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 17 | 16 | 1 | 0 | 32 | 49 |
 | 2 | Sporting CP | 18 | 14 | 3 | 1 | 41 | 45 |
-| 3 | Benfica | 18 | 11 | 7 | 0 | 25 | 40 |
+| 3 | Benfica | 18 | 12 | 6 | 0 | 27 | 42 |
 | 4 | Gil Vicente | 18 | 8 | 7 | 3 | 11 | 31 |
 | 5 | Braga | 17 | 7 | 6 | 4 | 13 | 27 |
 | 6 | Moreirense | 18 | 8 | 3 | 7 | -1 | 27 |
 | 7 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
 | 8 | Alverca | 18 | 7 | 2 | 9 | -9 | 23 |
 | 9 | Famalicão | 17 | 6 | 5 | 6 | 6 | 23 |
-| 10 | Rio Ave | 18 | 4 | 9 | 5 | -7 | 21 |
-| 11 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
+| 10 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
+| 11 | Rio Ave | 18 | 4 | 8 | 6 | -9 | 20 |
 | 12 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
 | 13 | Arouca | 18 | 4 | 5 | 9 | -23 | 17 |
 | 14 | Santa Clara | 17 | 4 | 5 | 8 | -5 | 17 |
