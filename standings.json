@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 08:23 PM UTC",
-        "IST": "Sunday, 18 January 2026, 01:53 AM IST"
+        "UTC": "Saturday, 17 January 2026, 08:43 PM UTC",
+        "IST": "Sunday, 18 January 2026, 02:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -817,11 +817,11 @@
                 "Position": "3",
                 "Team": "Marseille",
                 "Played": "18",
-                "Wins": "10",
-                "Draws": "3",
+                "Wins": "11",
+                "Draws": "2",
                 "Losses": "5",
-                "Goal Difference": "19",
-                "Points": "33"
+                "Goal Difference": "21",
+                "Points": "35"
             },
             {
                 "Position": "4",
@@ -875,16 +875,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Angers",
-                "Played": "18",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-2",
-                "Points": "23"
-            },
-            {
-                "Position": "10",
                 "Team": "Monaco",
                 "Played": "18",
                 "Wins": "7",
@@ -894,12 +884,22 @@
                 "Points": "23"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Brest",
                 "Played": "17",
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "7",
+                "Goal Difference": "-4",
+                "Points": "22"
+            },
+            {
+                "Position": "11",
+                "Team": "Angers",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "8",
                 "Goal Difference": "-4",
                 "Points": "22"
             },
@@ -2084,12 +2084,12 @@
             {
                 "Position": "3",
                 "Team": "Benfica",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "11",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "0",
                 "Goal Difference": "25",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "4",
@@ -2153,22 +2153,22 @@
             },
             {
                 "Position": "10",
+                "Team": "Rio Ave",
+                "Played": "18",
+                "Wins": "4",
+                "Draws": "9",
+                "Losses": "5",
+                "Goal Difference": "-7",
+                "Points": "21"
+            },
+            {
+                "Position": "11",
                 "Team": "Estoril",
                 "Played": "17",
                 "Wins": "5",
                 "Draws": "5",
                 "Losses": "7",
                 "Goal Difference": "-1",
-                "Points": "20"
-            },
-            {
-                "Position": "11",
-                "Team": "Rio Ave",
-                "Played": "17",
-                "Wins": "4",
-                "Draws": "8",
-                "Losses": "5",
-                "Goal Difference": "-7",
                 "Points": "20"
             },
             {
