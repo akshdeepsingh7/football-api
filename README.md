@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 17 January 2026, 04:46 PM UTC (Saturday, 17 January 2026, 10:16 PM IST)
+**Last Updated:** Saturday, 17 January 2026, 05:18 PM UTC (Saturday, 17 January 2026, 10:48 PM IST)
 
 ### Premier League
 
@@ -56,15 +56,15 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Brentford | 22 | 10 | 3 | 9 | 5 | 33 |
 | 8 | Sunderland | 22 | 8 | 9 | 5 | 0 | 33 |
 | 9 | Newcastle United | 21 | 9 | 5 | 7 | 5 | 32 |
-| 10 | Fulham | 22 | 9 | 5 | 8 | 0 | 32 |
+| 10 | Fulham | 22 | 9 | 4 | 9 | -1 | 31 |
 | 11 | Brighton & Hove Albion | 21 | 7 | 8 | 6 | 3 | 29 |
 | 12 | Everton | 21 | 8 | 5 | 8 | -2 | 29 |
-| 13 | Tottenham Hotspur | 22 | 7 | 7 | 8 | 3 | 28 |
-| 14 | Crystal Palace | 22 | 7 | 7 | 8 | -2 | 28 |
+| 13 | Crystal Palace | 22 | 7 | 7 | 8 | -2 | 28 |
+| 14 | Tottenham Hotspur | 22 | 7 | 6 | 9 | 2 | 27 |
 | 15 | AFC Bournemouth | 21 | 6 | 8 | 7 | -6 | 26 |
-| 16 | Leeds United | 22 | 5 | 8 | 9 | -8 | 23 |
+| 16 | Leeds United | 22 | 6 | 7 | 9 | -7 | 25 |
 | 17 | Nottingham Forest | 21 | 6 | 3 | 12 | -13 | 21 |
-| 18 | West Ham United | 22 | 3 | 6 | 13 | -21 | 15 |
+| 18 | West Ham United | 22 | 4 | 5 | 13 | -20 | 17 |
 | 19 | Burnley | 22 | 3 | 5 | 14 | -19 | 14 |
 | 20 | Wolverhampton Wanderers | 21 | 1 | 4 | 16 | -26 | 7 |
 
@@ -79,15 +79,15 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Espanyol | 20 | 10 | 4 | 6 | 1 | 34 |
 | 6 | Real Betis | 19 | 7 | 8 | 4 | 6 | 29 |
 | 7 | Celta de Vigo | 19 | 7 | 8 | 4 | 5 | 29 |
-| 8 | Athletic Bilbao | 20 | 7 | 4 | 9 | -8 | 25 |
+| 8 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
 | 9 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
 | 10 | Elche | 19 | 5 | 8 | 6 | 1 | 23 |
 | 11 | Rayo Vallecano | 19 | 5 | 7 | 7 | -6 | 22 |
 | 12 | Real Sociedad | 19 | 5 | 6 | 8 | -3 | 21 |
-| 13 | Getafe | 19 | 6 | 3 | 10 | -10 | 21 |
-| 14 | Sevilla | 19 | 6 | 2 | 11 | -6 | 20 |
-| 15 | Osasuna | 19 | 5 | 4 | 10 | -4 | 19 |
-| 16 | Mallorca | 20 | 4 | 7 | 9 | -7 | 19 |
+| 13 | Mallorca | 20 | 5 | 6 | 9 | -6 | 21 |
+| 14 | Getafe | 19 | 6 | 3 | 10 | -10 | 21 |
+| 15 | Sevilla | 19 | 6 | 2 | 11 | -6 | 20 |
+| 16 | Osasuna | 19 | 5 | 4 | 10 | -4 | 19 |
 | 17 | Alavés | 19 | 5 | 4 | 10 | -8 | 19 |
 | 18 | Valencia | 19 | 3 | 8 | 8 | -13 | 17 |
 | 19 | Levante | 19 | 3 | 5 | 11 | -11 | 14 |
@@ -122,7 +122,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 21 | 16 | 1 | 4 | 27 | 49 |
 | 2 | Milan | 20 | 12 | 7 | 1 | 17 | 43 |
-| 3 | Napoli | 20 | 12 | 4 | 4 | 13 | 40 |
+| 3 | Napoli | 21 | 13 | 4 | 4 | 14 | 43 |
 | 4 | Juventus | 20 | 11 | 6 | 3 | 16 | 39 |
 | 5 | Roma | 20 | 13 | 0 | 7 | 12 | 39 |
 | 6 | Como | 20 | 9 | 7 | 4 | 12 | 34 |
@@ -130,8 +130,8 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Bologna | 20 | 8 | 6 | 6 | 7 | 30 |
 | 9 | Lazio | 20 | 7 | 7 | 6 | 5 | 28 |
 | 10 | Udinese | 21 | 7 | 5 | 9 | -11 | 26 |
-| 11 | Sassuolo | 20 | 6 | 5 | 9 | -4 | 23 |
-| 12 | Torino | 20 | 6 | 5 | 9 | -11 | 23 |
+| 11 | Torino | 20 | 6 | 5 | 9 | -11 | 23 |
+| 12 | Sassuolo | 21 | 6 | 5 | 10 | -5 | 23 |
 | 13 | Cremonese | 20 | 5 | 7 | 8 | -8 | 22 |
 | 14 | Parma | 20 | 5 | 7 | 8 | -8 | 22 |
 | 15 | Genoa | 20 | 4 | 7 | 9 | -7 | 19 |
@@ -294,7 +294,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 17 | 16 | 1 | 0 | 32 | 49 |
 | 2 | Sporting CP | 18 | 14 | 3 | 1 | 41 | 45 |
 | 3 | Benfica | 17 | 11 | 6 | 0 | 25 | 39 |
-| 4 | Gil Vicente | 18 | 7 | 8 | 3 | 10 | 29 |
+| 4 | Gil Vicente | 18 | 8 | 7 | 3 | 11 | 31 |
 | 5 | Braga | 17 | 7 | 6 | 4 | 13 | 27 |
 | 6 | Moreirense | 17 | 8 | 3 | 6 | 0 | 27 |
 | 7 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
@@ -303,8 +303,8 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Rio Ave | 17 | 4 | 8 | 5 | -7 | 20 |
 | 11 | Alverca | 17 | 6 | 2 | 9 | -10 | 20 |
 | 12 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
-| 13 | Nacional | 18 | 4 | 6 | 8 | -5 | 18 |
-| 14 | Santa Clara | 17 | 4 | 5 | 8 | -5 | 17 |
+| 13 | Santa Clara | 17 | 4 | 5 | 8 | -5 | 17 |
+| 14 | Nacional | 18 | 4 | 5 | 9 | -6 | 17 |
 | 15 | Casa Pia | 18 | 3 | 5 | 10 | -18 | 14 |
 | 16 | Arouca | 17 | 3 | 5 | 9 | -24 | 14 |
 | 17 | Tondela | 17 | 3 | 3 | 11 | -17 | 12 |

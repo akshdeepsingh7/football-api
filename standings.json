@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 04:46 PM UTC",
-        "IST": "Saturday, 17 January 2026, 10:16 PM IST"
+        "UTC": "Saturday, 17 January 2026, 05:18 PM UTC",
+        "IST": "Saturday, 17 January 2026, 10:48 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -100,10 +100,10 @@
                 "Team": "Fulham",
                 "Played": "22",
                 "Wins": "9",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "0",
-                "Points": "32"
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "-1",
+                "Points": "31"
             },
             {
                 "Position": "11",
@@ -127,16 +127,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Tottenham Hotspur",
-                "Played": "22",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "3",
-                "Points": "28"
-            },
-            {
-                "Position": "14",
                 "Team": "Crystal Palace",
                 "Played": "22",
                 "Wins": "7",
@@ -144,6 +134,16 @@
                 "Losses": "8",
                 "Goal Difference": "-2",
                 "Points": "28"
+            },
+            {
+                "Position": "14",
+                "Team": "Tottenham Hotspur",
+                "Played": "22",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "2",
+                "Points": "27"
             },
             {
                 "Position": "15",
@@ -159,11 +159,11 @@
                 "Position": "16",
                 "Team": "Leeds United",
                 "Played": "22",
-                "Wins": "5",
-                "Draws": "8",
+                "Wins": "6",
+                "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "-8",
-                "Points": "23"
+                "Goal Difference": "-7",
+                "Points": "25"
             },
             {
                 "Position": "17",
@@ -179,11 +179,11 @@
                 "Position": "18",
                 "Team": "West Ham United",
                 "Played": "22",
-                "Wins": "3",
-                "Draws": "6",
+                "Wins": "4",
+                "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-21",
-                "Points": "15"
+                "Goal Difference": "-20",
+                "Points": "17"
             },
             {
                 "Position": "19",
@@ -282,10 +282,10 @@
                 "Team": "Athletic Bilbao",
                 "Played": "20",
                 "Wins": "7",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-8",
-                "Points": "25"
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-9",
+                "Points": "24"
             },
             {
                 "Position": "9",
@@ -329,6 +329,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Mallorca",
+                "Played": "20",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-6",
+                "Points": "21"
+            },
+            {
+                "Position": "14",
                 "Team": "Getafe",
                 "Played": "19",
                 "Wins": "6",
@@ -338,7 +348,7 @@
                 "Points": "21"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Sevilla",
                 "Played": "19",
                 "Wins": "6",
@@ -348,23 +358,13 @@
                 "Points": "20"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Osasuna",
                 "Played": "19",
                 "Wins": "5",
                 "Draws": "4",
                 "Losses": "10",
                 "Goal Difference": "-4",
-                "Points": "19"
-            },
-            {
-                "Position": "16",
-                "Team": "Mallorca",
-                "Played": "20",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-7",
                 "Points": "19"
             },
             {
@@ -614,12 +614,12 @@
             {
                 "Position": "3",
                 "Team": "Napoli",
-                "Played": "20",
-                "Wins": "12",
+                "Played": "21",
+                "Wins": "13",
                 "Draws": "4",
                 "Losses": "4",
-                "Goal Difference": "13",
-                "Points": "40"
+                "Goal Difference": "14",
+                "Points": "43"
             },
             {
                 "Position": "4",
@@ -693,22 +693,22 @@
             },
             {
                 "Position": "11",
-                "Team": "Sassuolo",
-                "Played": "20",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-4",
-                "Points": "23"
-            },
-            {
-                "Position": "12",
                 "Team": "Torino",
                 "Played": "20",
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "9",
                 "Goal Difference": "-11",
+                "Points": "23"
+            },
+            {
+                "Position": "12",
+                "Team": "Sassuolo",
+                "Played": "21",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-5",
                 "Points": "23"
             },
             {
@@ -2095,11 +2095,11 @@
                 "Position": "4",
                 "Team": "Gil Vicente",
                 "Played": "18",
-                "Wins": "7",
-                "Draws": "8",
+                "Wins": "8",
+                "Draws": "7",
                 "Losses": "3",
-                "Goal Difference": "10",
-                "Points": "29"
+                "Goal Difference": "11",
+                "Points": "31"
             },
             {
                 "Position": "5",
@@ -2183,22 +2183,22 @@
             },
             {
                 "Position": "13",
-                "Team": "Nacional",
-                "Played": "18",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-5",
-                "Points": "18"
-            },
-            {
-                "Position": "14",
                 "Team": "Santa Clara",
                 "Played": "17",
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "-5",
+                "Points": "17"
+            },
+            {
+                "Position": "14",
+                "Team": "Nacional",
+                "Played": "18",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-6",
                 "Points": "17"
             },
             {
