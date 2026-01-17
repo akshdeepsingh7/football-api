@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 17 January 2026, 02:19 PM UTC (Saturday, 17 January 2026, 07:49 PM IST)
+**Last Updated:** Saturday, 17 January 2026, 02:42 PM UTC (Saturday, 17 January 2026, 08:12 PM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 19 | 16 | 1 | 2 | 33 | 49 |
-| 2 | Real Madrid | 20 | 14 | 4 | 2 | 24 | 46 |
+| 2 | Real Madrid | 20 | 15 | 3 | 2 | 26 | 48 |
 | 3 | Villarreal | 18 | 13 | 2 | 3 | 20 | 41 |
 | 4 | Atlético de Madrid | 19 | 11 | 5 | 3 | 17 | 38 |
 | 5 | Espanyol | 20 | 10 | 4 | 6 | 1 | 34 |
@@ -90,7 +90,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Alavés | 19 | 5 | 4 | 10 | -8 | 19 |
 | 17 | Mallorca | 19 | 4 | 6 | 9 | -7 | 18 |
 | 18 | Valencia | 19 | 3 | 8 | 8 | -13 | 17 |
-| 19 | Levante | 19 | 3 | 6 | 10 | -9 | 15 |
+| 19 | Levante | 19 | 3 | 5 | 11 | -11 | 14 |
 | 20 | Real Oviedo | 19 | 2 | 7 | 10 | -19 | 13 |
 
 ### Bundesliga
@@ -98,29 +98,29 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 17 | 15 | 2 | 0 | 53 | 47 |
-| 2 | Borussia Dortmund | 17 | 10 | 6 | 1 | 17 | 36 |
-| 3 | RB Leipzig | 16 | 10 | 2 | 4 | 13 | 32 |
-| 4 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
-| 5 | Hoffenheim | 16 | 9 | 3 | 4 | 13 | 30 |
-| 6 | Bayer Leverkusen | 16 | 9 | 2 | 5 | 10 | 29 |
+| 2 | Borussia Dortmund | 18 | 10 | 7 | 1 | 17 | 37 |
+| 3 | Hoffenheim | 17 | 10 | 3 | 4 | 14 | 33 |
+| 4 | RB Leipzig | 16 | 10 | 2 | 4 | 13 | 32 |
+| 5 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
+| 6 | Bayer Leverkusen | 17 | 9 | 2 | 6 | 9 | 29 |
 | 7 | Eintracht Frankfurt | 18 | 7 | 6 | 5 | -1 | 27 |
 | 8 | SC Freiburg | 17 | 6 | 5 | 6 | -2 | 23 |
 | 9 | Union Berlin | 17 | 6 | 5 | 6 | -3 | 23 |
-| 10 | Borussia Mönchengladbach | 17 | 5 | 4 | 8 | -6 | 19 |
-| 11 | VfL Wolfsburg | 17 | 5 | 3 | 9 | -11 | 18 |
-| 12 | Werder Bremen | 17 | 4 | 6 | 7 | -13 | 18 |
-| 13 | Köln | 17 | 4 | 5 | 8 | -4 | 17 |
-| 14 | Hamburg | 16 | 4 | 4 | 8 | -10 | 16 |
+| 10 | Borussia Mönchengladbach | 18 | 5 | 5 | 8 | -6 | 20 |
+| 11 | VfL Wolfsburg | 18 | 5 | 4 | 9 | -11 | 19 |
+| 12 | Köln | 18 | 4 | 6 | 8 | -4 | 18 |
+| 13 | Werder Bremen | 17 | 4 | 6 | 7 | -13 | 18 |
+| 14 | Hamburg | 17 | 4 | 5 | 8 | -10 | 17 |
 | 15 | Augsburg | 17 | 4 | 3 | 10 | -15 | 15 |
-| 16 | Mainz 05 | 17 | 2 | 6 | 9 | -12 | 12 |
-| 17 | St. Pauli | 16 | 3 | 3 | 10 | -14 | 12 |
-| 18 | Heidenheim | 17 | 3 | 3 | 11 | -22 | 12 |
+| 16 | Mainz 05 | 18 | 2 | 7 | 9 | -12 | 13 |
+| 17 | St. Pauli | 17 | 3 | 4 | 10 | -14 | 13 |
+| 18 | Heidenheim | 18 | 3 | 4 | 11 | -22 | 13 |
 
 ### Serie A
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 21 | 15 | 2 | 4 | 26 | 47 |
+| 1 | Inter | 21 | 16 | 1 | 4 | 27 | 49 |
 | 2 | Milan | 20 | 12 | 7 | 1 | 17 | 43 |
 | 3 | Napoli | 20 | 12 | 4 | 4 | 13 | 40 |
 | 4 | Juventus | 20 | 11 | 6 | 3 | 16 | 39 |
@@ -129,7 +129,7 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Atalanta | 21 | 8 | 8 | 5 | 6 | 32 |
 | 8 | Bologna | 20 | 8 | 6 | 6 | 7 | 30 |
 | 9 | Lazio | 20 | 7 | 7 | 6 | 5 | 28 |
-| 10 | Udinese | 21 | 7 | 6 | 8 | -10 | 27 |
+| 10 | Udinese | 21 | 7 | 5 | 9 | -11 | 26 |
 | 11 | Sassuolo | 20 | 6 | 5 | 9 | -4 | 23 |
 | 12 | Torino | 20 | 6 | 5 | 9 | -11 | 23 |
 | 13 | Cremonese | 20 | 5 | 7 | 8 | -8 | 22 |
