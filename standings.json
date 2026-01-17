@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 06:52 PM UTC",
-        "IST": "Sunday, 18 January 2026, 12:22 AM IST"
+        "UTC": "Saturday, 17 January 2026, 07:16 PM UTC",
+        "IST": "Sunday, 18 January 2026, 12:46 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -413,11 +413,11 @@
                 "Position": "1",
                 "Team": "Bayern Munich",
                 "Played": "18",
-                "Wins": "15",
-                "Draws": "3",
+                "Wins": "16",
+                "Draws": "2",
                 "Losses": "0",
-                "Goal Difference": "53",
-                "Points": "48"
+                "Goal Difference": "55",
+                "Points": "50"
             },
             {
                 "Position": "2",
@@ -444,10 +444,10 @@
                 "Team": "RB Leipzig",
                 "Played": "17",
                 "Wins": "10",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "13",
-                "Points": "33"
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "11",
+                "Points": "32"
             },
             {
                 "Position": "5",
@@ -2375,32 +2375,32 @@
             },
             {
                 "Position": "14",
-                "Team": "Swansea City",
+                "Team": "Birmingham City",
                 "Played": "27",
-                "Wins": "10",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-5",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-1",
                 "Points": "35"
             },
             {
                 "Position": "15",
-                "Team": "Birmingham City",
-                "Played": "27",
-                "Wins": "9",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-2",
-                "Points": "34"
-            },
-            {
-                "Position": "16",
                 "Team": "Southampton",
                 "Played": "27",
                 "Wins": "8",
                 "Draws": "9",
                 "Losses": "10",
                 "Goal Difference": "-1",
+                "Points": "33"
+            },
+            {
+                "Position": "16",
+                "Team": "Swansea City",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-6",
                 "Points": "33"
             },
             {

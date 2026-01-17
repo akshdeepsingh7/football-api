@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 17 January 2026, 06:52 PM UTC (Sunday, 18 January 2026, 12:22 AM IST)
+**Last Updated:** Saturday, 17 January 2026, 07:16 PM UTC (Sunday, 18 January 2026, 12:46 AM IST)
 
 ### Premier League
 
@@ -97,10 +97,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 18 | 15 | 3 | 0 | 53 | 48 |
+| 1 | Bayern Munich | 18 | 16 | 2 | 0 | 55 | 50 |
 | 2 | Borussia Dortmund | 18 | 11 | 6 | 1 | 18 | 39 |
 | 3 | Hoffenheim | 17 | 10 | 3 | 4 | 14 | 33 |
-| 4 | RB Leipzig | 17 | 10 | 3 | 4 | 13 | 33 |
+| 4 | RB Leipzig | 17 | 10 | 2 | 5 | 11 | 32 |
 | 5 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
 | 6 | Bayer Leverkusen | 17 | 9 | 2 | 6 | 9 | 29 |
 | 7 | Eintracht Frankfurt | 18 | 7 | 6 | 5 | -1 | 27 |
@@ -327,9 +327,9 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Queens Park Rangers | 27 | 11 | 6 | 10 | -1 | 39 |
 | 12 | Derby County | 27 | 10 | 8 | 9 | 1 | 38 |
 | 13 | Leicester City | 27 | 10 | 7 | 10 | -2 | 37 |
-| 14 | Swansea City | 27 | 10 | 5 | 12 | -5 | 35 |
-| 15 | Birmingham City | 27 | 9 | 7 | 11 | -2 | 34 |
-| 16 | Southampton | 27 | 8 | 9 | 10 | -1 | 33 |
+| 14 | Birmingham City | 27 | 9 | 8 | 10 | -1 | 35 |
+| 15 | Southampton | 27 | 8 | 9 | 10 | -1 | 33 |
+| 16 | Swansea City | 27 | 9 | 6 | 12 | -6 | 33 |
 | 17 | Sheffield United | 26 | 10 | 2 | 14 | -3 | 32 |
 | 18 | Charlton Athletic | 26 | 8 | 8 | 10 | -6 | 32 |
 | 19 | West Bromwich Albion | 27 | 9 | 4 | 14 | -7 | 31 |
