@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 12:41 PM UTC",
-        "IST": "Saturday, 17 January 2026, 06:11 PM IST"
+        "UTC": "Saturday, 17 January 2026, 01:29 PM UTC",
+        "IST": "Saturday, 17 January 2026, 06:59 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,12 +220,12 @@
             {
                 "Position": "2",
                 "Team": "Real Madrid",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "14",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "24",
-                "Points": "45"
+                "Points": "46"
             },
             {
                 "Position": "3",
@@ -390,12 +390,12 @@
             {
                 "Position": "19",
                 "Team": "Levante",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "3",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "10",
                 "Goal Difference": "-9",
-                "Points": "14"
+                "Points": "15"
             },
             {
                 "Position": "20",
@@ -2248,10 +2248,10 @@
                 "Team": "Coventry City",
                 "Played": "27",
                 "Wins": "15",
-                "Draws": "8",
-                "Losses": "4",
-                "Goal Difference": "28",
-                "Points": "53"
+                "Draws": "7",
+                "Losses": "5",
+                "Goal Difference": "27",
+                "Points": "52"
             },
             {
                 "Position": "2",
@@ -2270,7 +2270,7 @@
                 "Wins": "13",
                 "Draws": "8",
                 "Losses": "5",
-                "Goal Difference": "19",
+                "Goal Difference": "20",
                 "Points": "47"
             },
             {
@@ -2335,6 +2335,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Leicester City",
+                "Played": "27",
+                "Wins": "11",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "0",
+                "Points": "40"
+            },
+            {
+                "Position": "11",
                 "Team": "Bristol City",
                 "Played": "26",
                 "Wins": "11",
@@ -2344,22 +2354,12 @@
                 "Points": "39"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Queens Park Rangers",
                 "Played": "26",
                 "Wins": "11",
                 "Draws": "5",
                 "Losses": "10",
-                "Goal Difference": "-1",
-                "Points": "38"
-            },
-            {
-                "Position": "12",
-                "Team": "Leicester City",
-                "Played": "27",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "9",
                 "Goal Difference": "-1",
                 "Points": "38"
             },
@@ -2440,7 +2440,7 @@
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "12",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "28"
             },
             {
