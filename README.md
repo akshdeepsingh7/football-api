@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 17 January 2026, 06:30 PM UTC (Sunday, 18 January 2026, 12:00 AM IST)
+**Last Updated:** Saturday, 17 January 2026, 06:52 PM UTC (Sunday, 18 January 2026, 12:22 AM IST)
 
 ### Premier League
 
@@ -97,10 +97,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 18 | 15 | 2 | 1 | 52 | 47 |
+| 1 | Bayern Munich | 18 | 15 | 3 | 0 | 53 | 48 |
 | 2 | Borussia Dortmund | 18 | 11 | 6 | 1 | 18 | 39 |
-| 3 | RB Leipzig | 17 | 11 | 2 | 4 | 14 | 35 |
-| 4 | Hoffenheim | 17 | 10 | 3 | 4 | 14 | 33 |
+| 3 | Hoffenheim | 17 | 10 | 3 | 4 | 14 | 33 |
+| 4 | RB Leipzig | 17 | 10 | 3 | 4 | 13 | 33 |
 | 5 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
 | 6 | Bayer Leverkusen | 17 | 9 | 2 | 6 | 9 | 29 |
 | 7 | Eintracht Frankfurt | 18 | 7 | 6 | 5 | -1 | 27 |
@@ -151,14 +151,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Lille | 18 | 10 | 2 | 6 | 8 | 32 |
 | 5 | Lyon | 17 | 9 | 3 | 5 | 8 | 30 |
 | 6 | Rennes | 17 | 8 | 6 | 3 | 5 | 30 |
-| 7 | Toulouse | 18 | 7 | 5 | 6 | 3 | 26 |
+| 7 | Toulouse | 18 | 7 | 5 | 6 | 4 | 26 |
 | 8 | Strasbourg | 17 | 7 | 3 | 7 | 5 | 24 |
 | 9 | Monaco | 18 | 7 | 2 | 9 | -5 | 23 |
 | 10 | Angers | 17 | 6 | 4 | 7 | -2 | 22 |
 | 11 | Brest | 17 | 6 | 4 | 7 | -4 | 22 |
 | 12 | Lorient | 18 | 5 | 7 | 6 | -7 | 22 |
 | 13 | Le Havre | 17 | 4 | 6 | 7 | -8 | 18 |
-| 14 | Nice | 18 | 5 | 3 | 10 | -11 | 18 |
+| 14 | Nice | 18 | 5 | 3 | 10 | -12 | 18 |
 | 15 | Paris FC | 17 | 4 | 4 | 9 | -9 | 16 |
 | 16 | Nantes | 17 | 3 | 5 | 9 | -12 | 14 |
 | 17 | Auxerre | 18 | 3 | 3 | 12 | -14 | 12 |
@@ -303,12 +303,12 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
 | 11 | Rio Ave | 17 | 4 | 8 | 5 | -7 | 20 |
 | 12 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
-| 13 | Santa Clara | 17 | 4 | 5 | 8 | -5 | 17 |
-| 14 | Nacional | 18 | 4 | 5 | 9 | -6 | 17 |
-| 15 | Arouca | 18 | 3 | 6 | 9 | -24 | 15 |
+| 13 | Arouca | 18 | 4 | 5 | 9 | -23 | 17 |
+| 14 | Santa Clara | 17 | 4 | 5 | 8 | -5 | 17 |
+| 15 | Nacional | 18 | 4 | 5 | 9 | -6 | 17 |
 | 16 | Casa Pia | 18 | 3 | 5 | 10 | -18 | 14 |
 | 17 | Tondela | 17 | 3 | 3 | 11 | -17 | 12 |
-| 18 | AVS | 18 | 0 | 5 | 13 | -32 | 5 |
+| 18 | AVS | 18 | 0 | 4 | 14 | -33 | 4 |
 
 ### EFL Championship
 

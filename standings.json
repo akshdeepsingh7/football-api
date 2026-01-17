@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 17 January 2026, 06:30 PM UTC",
-        "IST": "Sunday, 18 January 2026, 12:00 AM IST"
+        "UTC": "Saturday, 17 January 2026, 06:52 PM UTC",
+        "IST": "Sunday, 18 January 2026, 12:22 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -414,10 +414,10 @@
                 "Team": "Bayern Munich",
                 "Played": "18",
                 "Wins": "15",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "52",
-                "Points": "47"
+                "Draws": "3",
+                "Losses": "0",
+                "Goal Difference": "53",
+                "Points": "48"
             },
             {
                 "Position": "2",
@@ -431,22 +431,22 @@
             },
             {
                 "Position": "3",
-                "Team": "RB Leipzig",
-                "Played": "17",
-                "Wins": "11",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "14",
-                "Points": "35"
-            },
-            {
-                "Position": "4",
                 "Team": "Hoffenheim",
                 "Played": "17",
                 "Wins": "10",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "14",
+                "Points": "33"
+            },
+            {
+                "Position": "4",
+                "Team": "RB Leipzig",
+                "Played": "17",
+                "Wins": "10",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "13",
                 "Points": "33"
             },
             {
@@ -860,7 +860,7 @@
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "3",
+                "Goal Difference": "4",
                 "Points": "26"
             },
             {
@@ -930,7 +930,7 @@
                 "Wins": "5",
                 "Draws": "3",
                 "Losses": "10",
-                "Goal Difference": "-11",
+                "Goal Difference": "-12",
                 "Points": "18"
             },
             {
@@ -2183,6 +2183,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Arouca",
+                "Played": "18",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-23",
+                "Points": "17"
+            },
+            {
+                "Position": "14",
                 "Team": "Santa Clara",
                 "Played": "17",
                 "Wins": "4",
@@ -2192,7 +2202,7 @@
                 "Points": "17"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Nacional",
                 "Played": "18",
                 "Wins": "4",
@@ -2200,16 +2210,6 @@
                 "Losses": "9",
                 "Goal Difference": "-6",
                 "Points": "17"
-            },
-            {
-                "Position": "15",
-                "Team": "Arouca",
-                "Played": "18",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-24",
-                "Points": "15"
             },
             {
                 "Position": "16",
@@ -2236,10 +2236,10 @@
                 "Team": "AVS",
                 "Played": "18",
                 "Wins": "0",
-                "Draws": "5",
-                "Losses": "13",
-                "Goal Difference": "-32",
-                "Points": "5"
+                "Draws": "4",
+                "Losses": "14",
+                "Goal Difference": "-33",
+                "Points": "4"
             }
         ],
         "EFL Championship": [
