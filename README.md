@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 18 January 2026, 08:24 PM UTC (Monday, 19 January 2026, 01:54 AM IST)
+**Last Updated:** Sunday, 18 January 2026, 08:43 PM UTC (Monday, 19 January 2026, 02:13 AM IST)
 
 ### Premier League
 
@@ -72,17 +72,17 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 20 | 16 | 2 | 2 | 33 | 50 |
+| 1 | Barcelona | 20 | 16 | 1 | 3 | 32 | 49 |
 | 2 | Real Madrid | 20 | 15 | 3 | 2 | 26 | 48 |
 | 3 | Villarreal | 19 | 13 | 2 | 4 | 18 | 41 |
 | 4 | Atlético de Madrid | 20 | 12 | 5 | 3 | 18 | 41 |
 | 5 | Espanyol | 20 | 10 | 4 | 6 | 1 | 34 |
 | 6 | Real Betis | 20 | 8 | 8 | 4 | 8 | 32 |
 | 7 | Celta de Vigo | 20 | 8 | 8 | 4 | 8 | 32 |
-| 8 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
-| 9 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
-| 10 | Elche | 19 | 5 | 8 | 6 | 1 | 23 |
-| 11 | Real Sociedad | 20 | 5 | 7 | 8 | -3 | 22 |
+| 8 | Real Sociedad | 20 | 6 | 6 | 8 | -2 | 24 |
+| 9 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
+| 10 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
+| 11 | Elche | 19 | 5 | 8 | 6 | 1 | 23 |
 | 12 | Osasuna | 20 | 6 | 4 | 10 | -3 | 22 |
 | 13 | Rayo Vallecano | 20 | 5 | 7 | 8 | -9 | 22 |
 | 14 | Mallorca | 20 | 5 | 6 | 9 | -6 | 21 |
@@ -148,14 +148,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Lens | 18 | 14 | 1 | 3 | 19 | 43 |
 | 2 | PSG | 18 | 13 | 3 | 2 | 25 | 42 |
 | 3 | Marseille | 18 | 11 | 2 | 5 | 22 | 35 |
-| 4 | Lille | 18 | 10 | 2 | 6 | 8 | 32 |
-| 5 | Lyon | 18 | 9 | 4 | 5 | 8 | 31 |
+| 4 | Lyon | 18 | 10 | 3 | 5 | 10 | 33 |
+| 5 | Lille | 18 | 10 | 2 | 6 | 8 | 32 |
 | 6 | Rennes | 18 | 8 | 7 | 3 | 5 | 31 |
 | 7 | Strasbourg | 18 | 8 | 3 | 7 | 6 | 27 |
 | 8 | Toulouse | 18 | 7 | 5 | 6 | 6 | 26 |
-| 9 | Brest | 18 | 6 | 5 | 7 | -4 | 23 |
-| 10 | Monaco | 18 | 7 | 2 | 9 | -5 | 23 |
-| 11 | Angers | 18 | 6 | 4 | 8 | -5 | 22 |
+| 9 | Monaco | 18 | 7 | 2 | 9 | -5 | 23 |
+| 10 | Angers | 18 | 6 | 4 | 8 | -5 | 22 |
+| 11 | Brest | 18 | 6 | 4 | 8 | -6 | 22 |
 | 12 | Lorient | 18 | 5 | 7 | 6 | -7 | 22 |
 | 13 | Paris FC | 18 | 5 | 4 | 9 | -8 | 19 |
 | 14 | Le Havre | 18 | 4 | 7 | 7 | -8 | 19 |
@@ -291,14 +291,14 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 17 | 16 | 1 | 0 | 32 | 49 |
+| 1 | Porto | 18 | 16 | 2 | 0 | 32 | 50 |
 | 2 | Sporting CP | 18 | 14 | 3 | 1 | 41 | 45 |
 | 3 | Benfica | 18 | 12 | 6 | 0 | 27 | 42 |
 | 4 | Gil Vicente | 18 | 8 | 7 | 3 | 11 | 31 |
 | 5 | Braga | 18 | 8 | 6 | 4 | 14 | 30 |
 | 6 | Moreirense | 18 | 8 | 3 | 7 | -1 | 27 |
 | 7 | Famalicão | 18 | 7 | 5 | 6 | 7 | 26 |
-| 8 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
+| 8 | Vitória S.C. | 18 | 7 | 5 | 6 | -4 | 26 |
 | 9 | Alverca | 18 | 7 | 2 | 9 | -9 | 23 |
 | 10 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
 | 11 | Rio Ave | 18 | 4 | 8 | 6 | -9 | 20 |
