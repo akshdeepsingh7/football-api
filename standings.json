@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 11:17 AM UTC",
-        "IST": "Sunday, 18 January 2026, 04:47 PM IST"
+        "UTC": "Sunday, 18 January 2026, 11:38 AM UTC",
+        "IST": "Sunday, 18 January 2026, 05:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -713,17 +713,17 @@
             },
             {
                 "Position": "13",
-                "Team": "Cremonese",
-                "Played": "20",
+                "Team": "Parma",
+                "Played": "21",
                 "Wins": "5",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "8",
                 "Goal Difference": "-8",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "14",
-                "Team": "Parma",
+                "Team": "Cremonese",
                 "Played": "20",
                 "Wins": "5",
                 "Draws": "7",
@@ -744,12 +744,12 @@
             {
                 "Position": "16",
                 "Team": "Genoa",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "4",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "9",
                 "Goal Difference": "-7",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "17",
