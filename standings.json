@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 07:37 PM UTC",
-        "IST": "Monday, 19 January 2026, 01:07 AM IST"
+        "UTC": "Sunday, 18 January 2026, 08:24 PM UTC",
+        "IST": "Monday, 19 January 2026, 01:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -210,12 +210,12 @@
             {
                 "Position": "1",
                 "Team": "Barcelona",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "16",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "33",
-                "Points": "49"
+                "Points": "50"
             },
             {
                 "Position": "2",
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Real Sociedad",
+                "Played": "20",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "-3",
+                "Points": "22"
+            },
+            {
+                "Position": "12",
                 "Team": "Osasuna",
                 "Played": "20",
                 "Wins": "6",
@@ -318,7 +328,7 @@
                 "Points": "22"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Rayo Vallecano",
                 "Played": "20",
                 "Wins": "5",
@@ -326,16 +336,6 @@
                 "Losses": "8",
                 "Goal Difference": "-9",
                 "Points": "22"
-            },
-            {
-                "Position": "13",
-                "Team": "Real Sociedad",
-                "Played": "19",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-3",
-                "Points": "21"
             },
             {
                 "Position": "14",
@@ -604,12 +604,12 @@
             {
                 "Position": "2",
                 "Team": "Milan",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "12",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "1",
                 "Goal Difference": "17",
-                "Points": "43"
+                "Points": "44"
             },
             {
                 "Position": "3",
@@ -754,12 +754,12 @@
             {
                 "Position": "17",
                 "Team": "Lecce",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "11",
                 "Goal Difference": "-15",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "18",
@@ -835,6 +835,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Lyon",
+                "Played": "18",
+                "Wins": "9",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "8",
+                "Points": "31"
+            },
+            {
+                "Position": "6",
                 "Team": "Rennes",
                 "Played": "18",
                 "Wins": "8",
@@ -842,16 +852,6 @@
                 "Losses": "3",
                 "Goal Difference": "5",
                 "Points": "31"
-            },
-            {
-                "Position": "6",
-                "Team": "Lyon",
-                "Played": "17",
-                "Wins": "9",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "8",
-                "Points": "30"
             },
             {
                 "Position": "7",
@@ -875,6 +875,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Brest",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "-4",
+                "Points": "23"
+            },
+            {
+                "Position": "10",
                 "Team": "Monaco",
                 "Played": "18",
                 "Wins": "7",
@@ -882,16 +892,6 @@
                 "Losses": "9",
                 "Goal Difference": "-5",
                 "Points": "23"
-            },
-            {
-                "Position": "10",
-                "Team": "Brest",
-                "Played": "17",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "-4",
-                "Points": "22"
             },
             {
                 "Position": "11",
@@ -2105,11 +2105,11 @@
                 "Position": "5",
                 "Team": "Braga",
                 "Played": "18",
-                "Wins": "7",
-                "Draws": "7",
+                "Wins": "8",
+                "Draws": "6",
                 "Losses": "4",
-                "Goal Difference": "13",
-                "Points": "28"
+                "Goal Difference": "14",
+                "Points": "30"
             },
             {
                 "Position": "6",
@@ -2226,10 +2226,10 @@
                 "Team": "Tondela",
                 "Played": "18",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "11",
-                "Goal Difference": "-17",
-                "Points": "13"
+                "Draws": "3",
+                "Losses": "12",
+                "Goal Difference": "-18",
+                "Points": "12"
             },
             {
                 "Position": "18",

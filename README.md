@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 18 January 2026, 07:37 PM UTC (Monday, 19 January 2026, 01:07 AM IST)
+**Last Updated:** Sunday, 18 January 2026, 08:24 PM UTC (Monday, 19 January 2026, 01:54 AM IST)
 
 ### Premier League
 
@@ -72,7 +72,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 19 | 16 | 1 | 2 | 33 | 49 |
+| 1 | Barcelona | 20 | 16 | 2 | 2 | 33 | 50 |
 | 2 | Real Madrid | 20 | 15 | 3 | 2 | 26 | 48 |
 | 3 | Villarreal | 19 | 13 | 2 | 4 | 18 | 41 |
 | 4 | Atlético de Madrid | 20 | 12 | 5 | 3 | 18 | 41 |
@@ -82,9 +82,9 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
 | 9 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
 | 10 | Elche | 19 | 5 | 8 | 6 | 1 | 23 |
-| 11 | Osasuna | 20 | 6 | 4 | 10 | -3 | 22 |
-| 12 | Rayo Vallecano | 20 | 5 | 7 | 8 | -9 | 22 |
-| 13 | Real Sociedad | 19 | 5 | 6 | 8 | -3 | 21 |
+| 11 | Real Sociedad | 20 | 5 | 7 | 8 | -3 | 22 |
+| 12 | Osasuna | 20 | 6 | 4 | 10 | -3 | 22 |
+| 13 | Rayo Vallecano | 20 | 5 | 7 | 8 | -9 | 22 |
 | 14 | Mallorca | 20 | 5 | 6 | 9 | -6 | 21 |
 | 15 | Getafe | 20 | 6 | 3 | 11 | -11 | 21 |
 | 16 | Sevilla | 19 | 6 | 2 | 11 | -6 | 20 |
@@ -121,7 +121,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 21 | 16 | 1 | 4 | 27 | 49 |
-| 2 | Milan | 20 | 12 | 7 | 1 | 17 | 43 |
+| 2 | Milan | 21 | 12 | 8 | 1 | 17 | 44 |
 | 3 | Napoli | 21 | 13 | 4 | 4 | 14 | 43 |
 | 4 | Roma | 21 | 14 | 0 | 7 | 14 | 42 |
 | 5 | Juventus | 21 | 11 | 6 | 4 | 15 | 39 |
@@ -136,7 +136,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Cremonese | 20 | 5 | 7 | 8 | -8 | 22 |
 | 15 | Cagliari | 21 | 5 | 7 | 9 | -8 | 22 |
 | 16 | Genoa | 21 | 4 | 8 | 9 | -7 | 20 |
-| 17 | Lecce | 20 | 4 | 5 | 11 | -15 | 17 |
+| 17 | Lecce | 21 | 4 | 6 | 11 | -15 | 18 |
 | 18 | Fiorentina | 21 | 3 | 8 | 10 | -9 | 17 |
 | 19 | Pisa | 21 | 1 | 11 | 9 | -15 | 14 |
 | 20 | Hellas Verona | 20 | 2 | 7 | 11 | -17 | 13 |
@@ -149,12 +149,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | PSG | 18 | 13 | 3 | 2 | 25 | 42 |
 | 3 | Marseille | 18 | 11 | 2 | 5 | 22 | 35 |
 | 4 | Lille | 18 | 10 | 2 | 6 | 8 | 32 |
-| 5 | Rennes | 18 | 8 | 7 | 3 | 5 | 31 |
-| 6 | Lyon | 17 | 9 | 3 | 5 | 8 | 30 |
+| 5 | Lyon | 18 | 9 | 4 | 5 | 8 | 31 |
+| 6 | Rennes | 18 | 8 | 7 | 3 | 5 | 31 |
 | 7 | Strasbourg | 18 | 8 | 3 | 7 | 6 | 27 |
 | 8 | Toulouse | 18 | 7 | 5 | 6 | 6 | 26 |
-| 9 | Monaco | 18 | 7 | 2 | 9 | -5 | 23 |
-| 10 | Brest | 17 | 6 | 4 | 7 | -4 | 22 |
+| 9 | Brest | 18 | 6 | 5 | 7 | -4 | 23 |
+| 10 | Monaco | 18 | 7 | 2 | 9 | -5 | 23 |
 | 11 | Angers | 18 | 6 | 4 | 8 | -5 | 22 |
 | 12 | Lorient | 18 | 5 | 7 | 6 | -7 | 22 |
 | 13 | Paris FC | 18 | 5 | 4 | 9 | -8 | 19 |
@@ -295,7 +295,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 18 | 14 | 3 | 1 | 41 | 45 |
 | 3 | Benfica | 18 | 12 | 6 | 0 | 27 | 42 |
 | 4 | Gil Vicente | 18 | 8 | 7 | 3 | 11 | 31 |
-| 5 | Braga | 18 | 7 | 7 | 4 | 13 | 28 |
+| 5 | Braga | 18 | 8 | 6 | 4 | 14 | 30 |
 | 6 | Moreirense | 18 | 8 | 3 | 7 | -1 | 27 |
 | 7 | Famalicão | 18 | 7 | 5 | 6 | 7 | 26 |
 | 8 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
@@ -307,7 +307,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Santa Clara | 18 | 4 | 5 | 9 | -6 | 17 |
 | 15 | Nacional | 18 | 4 | 5 | 9 | -6 | 17 |
 | 16 | Casa Pia | 18 | 3 | 5 | 10 | -18 | 14 |
-| 17 | Tondela | 18 | 3 | 4 | 11 | -17 | 13 |
+| 17 | Tondela | 18 | 3 | 3 | 12 | -18 | 12 |
 | 18 | AVS | 18 | 0 | 4 | 14 | -33 | 4 |
 
 ### EFL Championship
