@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 01:47 PM UTC",
-        "IST": "Sunday, 18 January 2026, 07:17 PM IST"
+        "UTC": "Sunday, 18 January 2026, 02:19 PM UTC",
+        "IST": "Sunday, 18 January 2026, 07:49 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -77,6 +77,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Newcastle United",
+                "Played": "22",
+                "Wins": "9",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "5",
+                "Points": "33"
+            },
+            {
+                "Position": "9",
                 "Team": "Sunderland",
                 "Played": "22",
                 "Wins": "8",
@@ -84,16 +94,6 @@
                 "Losses": "5",
                 "Goal Difference": "0",
                 "Points": "33"
-            },
-            {
-                "Position": "9",
-                "Team": "Newcastle United",
-                "Played": "21",
-                "Wins": "9",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "5",
-                "Points": "32"
             },
             {
                 "Position": "10",
@@ -198,12 +198,12 @@
             {
                 "Position": "20",
                 "Team": "Wolverhampton Wanderers",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "1",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "16",
                 "Goal Difference": "-26",
-                "Points": "7"
+                "Points": "8"
             }
         ],
         "La Liga": [
@@ -664,11 +664,11 @@
             {
                 "Position": "8",
                 "Team": "Bologna",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "8",
                 "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "7",
+                "Losses": "7",
+                "Goal Difference": "6",
                 "Points": "30"
             },
             {
@@ -764,12 +764,12 @@
             {
                 "Position": "18",
                 "Team": "Fiorentina",
-                "Played": "20",
-                "Wins": "2",
+                "Played": "21",
+                "Wins": "3",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-10",
-                "Points": "14"
+                "Goal Difference": "-9",
+                "Points": "17"
             },
             {
                 "Position": "19",
@@ -855,6 +855,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Strasbourg",
+                "Played": "18",
+                "Wins": "8",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "6",
+                "Points": "27"
+            },
+            {
+                "Position": "8",
                 "Team": "Toulouse",
                 "Played": "18",
                 "Wins": "7",
@@ -862,16 +872,6 @@
                 "Losses": "6",
                 "Goal Difference": "6",
                 "Points": "26"
-            },
-            {
-                "Position": "8",
-                "Team": "Strasbourg",
-                "Played": "17",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "5",
-                "Points": "24"
             },
             {
                 "Position": "9",
@@ -966,11 +966,11 @@
             {
                 "Position": "18",
                 "Team": "Metz",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "3",
                 "Draws": "3",
-                "Losses": "11",
-                "Goal Difference": "-20",
+                "Losses": "12",
+                "Goal Difference": "-21",
                 "Points": "12"
             }
         ],
