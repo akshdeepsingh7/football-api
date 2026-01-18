@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 02:41 PM UTC",
-        "IST": "Sunday, 18 January 2026, 08:11 PM IST"
+        "UTC": "Sunday, 18 January 2026, 03:20 PM UTC",
+        "IST": "Sunday, 18 January 2026, 08:50 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -240,12 +240,12 @@
             {
                 "Position": "4",
                 "Team": "Atl\u00e9tico de Madrid",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "11",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "3",
                 "Goal Difference": "17",
-                "Points": "38"
+                "Points": "39"
             },
             {
                 "Position": "5",
@@ -329,16 +329,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Getafe",
-                "Played": "20",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "-10",
-                "Points": "22"
-            },
-            {
-                "Position": "14",
                 "Team": "Real Sociedad",
                 "Played": "19",
                 "Wins": "5",
@@ -348,13 +338,23 @@
                 "Points": "21"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Mallorca",
                 "Played": "20",
                 "Wins": "5",
                 "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "-6",
+                "Points": "21"
+            },
+            {
+                "Position": "15",
+                "Team": "Getafe",
+                "Played": "20",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "11",
+                "Goal Difference": "-11",
                 "Points": "21"
             },
             {
@@ -370,22 +370,22 @@
             {
                 "Position": "17",
                 "Team": "Alav\u00e9s",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "5",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "-8",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "18",
                 "Team": "Valencia",
                 "Played": "20",
-                "Wins": "3",
-                "Draws": "9",
+                "Wins": "4",
+                "Draws": "8",
                 "Losses": "8",
-                "Goal Difference": "-13",
-                "Points": "18"
+                "Goal Difference": "-12",
+                "Points": "20"
             },
             {
                 "Position": "19",
@@ -668,7 +668,7 @@
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "6",
+                "Goal Difference": "5",
                 "Points": "30"
             },
             {
@@ -768,7 +768,7 @@
                 "Wins": "3",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-9",
+                "Goal Difference": "-8",
                 "Points": "17"
             },
             {
@@ -855,6 +855,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Strasbourg",
+                "Played": "18",
+                "Wins": "8",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "6",
+                "Points": "27"
+            },
+            {
+                "Position": "8",
                 "Team": "Toulouse",
                 "Played": "18",
                 "Wins": "7",
@@ -862,16 +872,6 @@
                 "Losses": "6",
                 "Goal Difference": "6",
                 "Points": "26"
-            },
-            {
-                "Position": "8",
-                "Team": "Strasbourg",
-                "Played": "18",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "5",
-                "Points": "25"
             },
             {
                 "Position": "9",
@@ -955,22 +955,22 @@
             },
             {
                 "Position": "17",
-                "Team": "Metz",
-                "Played": "18",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "11",
-                "Goal Difference": "-20",
-                "Points": "13"
-            },
-            {
-                "Position": "18",
                 "Team": "Auxerre",
                 "Played": "18",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "12",
                 "Goal Difference": "-14",
+                "Points": "12"
+            },
+            {
+                "Position": "18",
+                "Team": "Metz",
+                "Played": "18",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "12",
+                "Goal Difference": "-21",
                 "Points": "12"
             }
         ],
