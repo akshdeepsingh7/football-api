@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 18 January 2026, 04:48 PM UTC (Sunday, 18 January 2026, 10:18 PM IST)
+**Last Updated:** Sunday, 18 January 2026, 05:18 PM UTC (Sunday, 18 January 2026, 10:48 PM IST)
 
 ### Premier League
 
@@ -123,14 +123,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 21 | 16 | 1 | 4 | 27 | 49 |
 | 2 | Milan | 20 | 12 | 7 | 1 | 17 | 43 |
 | 3 | Napoli | 21 | 13 | 4 | 4 | 14 | 43 |
-| 4 | Roma | 20 | 13 | 0 | 7 | 12 | 39 |
+| 4 | Roma | 21 | 13 | 1 | 7 | 12 | 40 |
 | 5 | Juventus | 21 | 11 | 6 | 4 | 15 | 39 |
 | 6 | Como | 20 | 9 | 7 | 4 | 12 | 34 |
 | 7 | Atalanta | 21 | 8 | 8 | 5 | 6 | 32 |
 | 8 | Bologna | 21 | 8 | 6 | 7 | 6 | 30 |
 | 9 | Lazio | 20 | 7 | 7 | 6 | 5 | 28 |
 | 10 | Udinese | 21 | 7 | 5 | 9 | -11 | 26 |
-| 11 | Torino | 20 | 6 | 5 | 9 | -11 | 23 |
+| 11 | Torino | 21 | 6 | 6 | 9 | -11 | 24 |
 | 12 | Sassuolo | 21 | 6 | 5 | 10 | -5 | 23 |
 | 13 | Parma | 21 | 5 | 8 | 8 | -8 | 23 |
 | 14 | Cremonese | 20 | 5 | 7 | 8 | -8 | 22 |
@@ -297,14 +297,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Gil Vicente | 18 | 8 | 7 | 3 | 11 | 31 |
 | 5 | Braga | 17 | 7 | 6 | 4 | 13 | 27 |
 | 6 | Moreirense | 18 | 8 | 3 | 7 | -1 | 27 |
-| 7 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
-| 8 | Famalicão | 18 | 6 | 6 | 6 | 6 | 24 |
+| 7 | Famalicão | 18 | 7 | 5 | 6 | 7 | 26 |
+| 8 | Vitória S.C. | 17 | 7 | 4 | 6 | -4 | 25 |
 | 9 | Alverca | 18 | 7 | 2 | 9 | -9 | 23 |
 | 10 | Estoril | 17 | 5 | 5 | 7 | -1 | 20 |
 | 11 | Rio Ave | 18 | 4 | 8 | 6 | -9 | 20 |
 | 12 | Estrela Amadora | 17 | 4 | 7 | 6 | -4 | 19 |
-| 13 | Santa Clara | 18 | 4 | 6 | 8 | -5 | 18 |
-| 14 | Arouca | 18 | 4 | 5 | 9 | -23 | 17 |
+| 13 | Arouca | 18 | 4 | 5 | 9 | -23 | 17 |
+| 14 | Santa Clara | 18 | 4 | 5 | 9 | -6 | 17 |
 | 15 | Nacional | 18 | 4 | 5 | 9 | -6 | 17 |
 | 16 | Casa Pia | 18 | 3 | 5 | 10 | -18 | 14 |
 | 17 | Tondela | 17 | 3 | 3 | 11 | -17 | 12 |
