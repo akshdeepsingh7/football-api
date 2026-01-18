@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 12:41 PM UTC",
-        "IST": "Sunday, 18 January 2026, 06:11 PM IST"
+        "UTC": "Sunday, 18 January 2026, 01:29 PM UTC",
+        "IST": "Sunday, 18 January 2026, 06:59 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -329,6 +329,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Getafe",
+                "Played": "20",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "10",
+                "Goal Difference": "-10",
+                "Points": "22"
+            },
+            {
+                "Position": "14",
                 "Team": "Real Sociedad",
                 "Played": "19",
                 "Wins": "5",
@@ -338,23 +348,13 @@
                 "Points": "21"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Mallorca",
                 "Played": "20",
                 "Wins": "5",
                 "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "-6",
-                "Points": "21"
-            },
-            {
-                "Position": "15",
-                "Team": "Getafe",
-                "Played": "19",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "10",
-                "Goal Difference": "-10",
                 "Points": "21"
             },
             {
@@ -380,12 +380,12 @@
             {
                 "Position": "18",
                 "Team": "Valencia",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "3",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "8",
                 "Goal Difference": "-13",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "19",
