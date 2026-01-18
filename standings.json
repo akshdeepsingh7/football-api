@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 05:18 PM UTC",
-        "IST": "Sunday, 18 January 2026, 10:48 PM IST"
+        "UTC": "Sunday, 18 January 2026, 05:42 PM UTC",
+        "IST": "Sunday, 18 January 2026, 11:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -270,12 +270,12 @@
             {
                 "Position": "7",
                 "Team": "Celta de Vigo",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "7",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "4",
                 "Goal Difference": "5",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "8",
@@ -309,22 +309,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Rayo Vallecano",
+                "Played": "20",
+                "Wins": "5",
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "-6",
+                "Points": "23"
+            },
+            {
+                "Position": "12",
                 "Team": "Osasuna",
                 "Played": "20",
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "10",
                 "Goal Difference": "-3",
-                "Points": "22"
-            },
-            {
-                "Position": "12",
-                "Team": "Rayo Vallecano",
-                "Played": "19",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-6",
                 "Points": "22"
             },
             {
@@ -625,11 +625,11 @@
                 "Position": "4",
                 "Team": "Roma",
                 "Played": "21",
-                "Wins": "13",
-                "Draws": "1",
+                "Wins": "14",
+                "Draws": "0",
                 "Losses": "7",
-                "Goal Difference": "12",
-                "Points": "40"
+                "Goal Difference": "13",
+                "Points": "42"
             },
             {
                 "Position": "5",
@@ -693,16 +693,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Torino",
-                "Played": "21",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-11",
-                "Points": "24"
-            },
-            {
-                "Position": "12",
                 "Team": "Sassuolo",
                 "Played": "21",
                 "Wins": "6",
@@ -712,13 +702,23 @@
                 "Points": "23"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Parma",
                 "Played": "21",
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "8",
                 "Goal Difference": "-8",
+                "Points": "23"
+            },
+            {
+                "Position": "13",
+                "Team": "Torino",
+                "Played": "21",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-12",
                 "Points": "23"
             },
             {
@@ -915,16 +915,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Paris FC",
-                "Played": "18",
-                "Wins": "5",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-8",
-                "Points": "19"
-            },
-            {
-                "Position": "14",
                 "Team": "Le Havre",
                 "Played": "18",
                 "Wins": "4",
@@ -934,7 +924,7 @@
                 "Points": "19"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Nice",
                 "Played": "18",
                 "Wins": "5",
@@ -944,14 +934,24 @@
                 "Points": "18"
             },
             {
+                "Position": "15",
+                "Team": "Paris FC",
+                "Played": "18",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-9",
+                "Points": "17"
+            },
+            {
                 "Position": "16",
                 "Team": "Nantes",
                 "Played": "18",
                 "Wins": "3",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-13",
-                "Points": "14"
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-12",
+                "Points": "15"
             },
             {
                 "Position": "17",
