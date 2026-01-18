@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 04:26 PM UTC",
-        "IST": "Sunday, 18 January 2026, 09:56 PM IST"
+        "UTC": "Sunday, 18 January 2026, 04:48 PM UTC",
+        "IST": "Sunday, 18 January 2026, 10:18 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -17,22 +17,22 @@
             },
             {
                 "Position": "2",
+                "Team": "Aston Villa",
+                "Played": "22",
+                "Wins": "13",
+                "Draws": "5",
+                "Losses": "4",
+                "Goal Difference": "9",
+                "Points": "44"
+            },
+            {
+                "Position": "3",
                 "Team": "Manchester City",
                 "Played": "22",
                 "Wins": "13",
                 "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "24",
-                "Points": "43"
-            },
-            {
-                "Position": "3",
-                "Team": "Aston Villa",
-                "Played": "21",
-                "Wins": "13",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "9",
                 "Points": "43"
             },
             {
@@ -107,22 +107,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Everton",
+                "Played": "22",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "-2",
+                "Points": "30"
+            },
+            {
+                "Position": "12",
                 "Team": "Brighton & Hove Albion",
                 "Played": "21",
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "6",
                 "Goal Difference": "3",
-                "Points": "29"
-            },
-            {
-                "Position": "12",
-                "Team": "Everton",
-                "Played": "21",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "-2",
                 "Points": "29"
             },
             {
@@ -481,6 +481,16 @@
             },
             {
                 "Position": "8",
+                "Team": "SC Freiburg",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "-2",
+                "Points": "24"
+            },
+            {
+                "Position": "9",
                 "Team": "Union Berlin",
                 "Played": "18",
                 "Wins": "6",
@@ -488,16 +498,6 @@
                 "Losses": "6",
                 "Goal Difference": "-3",
                 "Points": "24"
-            },
-            {
-                "Position": "9",
-                "Team": "SC Freiburg",
-                "Played": "17",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-2",
-                "Points": "23"
             },
             {
                 "Position": "10",
@@ -552,12 +552,12 @@
             {
                 "Position": "15",
                 "Team": "Augsburg",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "4",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "10",
                 "Goal Difference": "-15",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "16",
@@ -920,7 +920,7 @@
                 "Wins": "5",
                 "Draws": "4",
                 "Losses": "9",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "19"
             },
             {
@@ -950,7 +950,7 @@
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "10",
-                "Goal Difference": "-14",
+                "Goal Difference": "-13",
                 "Points": "14"
             },
             {
