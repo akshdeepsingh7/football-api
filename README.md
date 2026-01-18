@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 18 January 2026, 02:19 PM UTC (Sunday, 18 January 2026, 07:49 PM IST)
+**Last Updated:** Sunday, 18 January 2026, 02:41 PM UTC (Sunday, 18 January 2026, 08:11 PM IST)
 
 ### Premier League
 
@@ -100,12 +100,12 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 18 | 16 | 2 | 0 | 57 | 50 |
 | 2 | Borussia Dortmund | 18 | 11 | 6 | 1 | 18 | 39 |
 | 3 | Hoffenheim | 17 | 10 | 3 | 4 | 14 | 33 |
-| 4 | RB Leipzig | 17 | 10 | 2 | 5 | 9 | 32 |
-| 5 | VfB Stuttgart | 17 | 10 | 2 | 5 | 7 | 32 |
+| 4 | VfB Stuttgart | 18 | 10 | 3 | 5 | 7 | 33 |
+| 5 | RB Leipzig | 17 | 10 | 2 | 5 | 9 | 32 |
 | 6 | Bayer Leverkusen | 17 | 9 | 2 | 6 | 9 | 29 |
 | 7 | Eintracht Frankfurt | 18 | 7 | 6 | 5 | -1 | 27 |
-| 8 | SC Freiburg | 17 | 6 | 5 | 6 | -2 | 23 |
-| 9 | Union Berlin | 17 | 6 | 5 | 6 | -3 | 23 |
+| 8 | Union Berlin | 18 | 6 | 6 | 6 | -3 | 24 |
+| 9 | SC Freiburg | 17 | 6 | 5 | 6 | -2 | 23 |
 | 10 | Köln | 18 | 5 | 5 | 8 | -3 | 20 |
 | 11 | Borussia Mönchengladbach | 18 | 5 | 5 | 8 | -6 | 20 |
 | 12 | VfL Wolfsburg | 18 | 5 | 4 | 9 | -11 | 19 |
@@ -151,8 +151,8 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Lille | 18 | 10 | 2 | 6 | 8 | 32 |
 | 5 | Lyon | 17 | 9 | 3 | 5 | 8 | 30 |
 | 6 | Rennes | 17 | 8 | 6 | 3 | 5 | 30 |
-| 7 | Strasbourg | 18 | 8 | 3 | 7 | 6 | 27 |
-| 8 | Toulouse | 18 | 7 | 5 | 6 | 6 | 26 |
+| 7 | Toulouse | 18 | 7 | 5 | 6 | 6 | 26 |
+| 8 | Strasbourg | 18 | 7 | 4 | 7 | 5 | 25 |
 | 9 | Monaco | 18 | 7 | 2 | 9 | -5 | 23 |
 | 10 | Brest | 17 | 6 | 4 | 7 | -4 | 22 |
 | 11 | Angers | 18 | 6 | 4 | 8 | -5 | 22 |
@@ -161,8 +161,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Nice | 18 | 5 | 3 | 10 | -14 | 18 |
 | 15 | Paris FC | 17 | 4 | 4 | 9 | -9 | 16 |
 | 16 | Nantes | 17 | 3 | 5 | 9 | -12 | 14 |
-| 17 | Auxerre | 18 | 3 | 3 | 12 | -14 | 12 |
-| 18 | Metz | 18 | 3 | 3 | 12 | -21 | 12 |
+| 17 | Metz | 18 | 3 | 4 | 11 | -20 | 13 |
+| 18 | Auxerre | 18 | 3 | 3 | 12 | -14 | 12 |
 
 ### Champions League
 
