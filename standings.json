@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 09:39 PM UTC",
-        "IST": "Monday, 19 January 2026, 03:09 AM IST"
+        "UTC": "Sunday, 18 January 2026, 10:20 PM UTC",
+        "IST": "Monday, 19 January 2026, 03:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2065,11 +2065,11 @@
                 "Position": "1",
                 "Team": "Porto",
                 "Played": "18",
-                "Wins": "16",
-                "Draws": "2",
+                "Wins": "17",
+                "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "32",
-                "Points": "50"
+                "Goal Difference": "33",
+                "Points": "52"
             },
             {
                 "Position": "2",
@@ -2136,10 +2136,10 @@
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "18",
                 "Wins": "7",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "-4",
-                "Points": "26"
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "-5",
+                "Points": "25"
             },
             {
                 "Position": "9",
