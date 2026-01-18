@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 18 January 2026, 06:29 PM UTC (Sunday, 18 January 2026, 11:59 PM IST)
+**Last Updated:** Sunday, 18 January 2026, 06:51 PM UTC (Monday, 19 January 2026, 12:21 AM IST)
 
 ### Premier League
 
@@ -78,12 +78,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Atlético de Madrid | 20 | 12 | 5 | 3 | 18 | 41 |
 | 5 | Espanyol | 20 | 10 | 4 | 6 | 1 | 34 |
 | 6 | Real Betis | 20 | 8 | 8 | 4 | 8 | 32 |
-| 7 | Celta de Vigo | 20 | 8 | 8 | 4 | 6 | 32 |
+| 7 | Celta de Vigo | 20 | 8 | 8 | 4 | 7 | 32 |
 | 8 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
 | 9 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
 | 10 | Elche | 19 | 5 | 8 | 6 | 1 | 23 |
 | 11 | Osasuna | 20 | 6 | 4 | 10 | -3 | 22 |
-| 12 | Rayo Vallecano | 20 | 5 | 7 | 8 | -7 | 22 |
+| 12 | Rayo Vallecano | 20 | 5 | 7 | 8 | -8 | 22 |
 | 13 | Real Sociedad | 19 | 5 | 6 | 8 | -3 | 21 |
 | 14 | Mallorca | 20 | 5 | 6 | 9 | -6 | 21 |
 | 15 | Getafe | 20 | 6 | 3 | 11 | -11 | 21 |
@@ -123,7 +123,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 21 | 16 | 1 | 4 | 27 | 49 |
 | 2 | Milan | 20 | 12 | 7 | 1 | 17 | 43 |
 | 3 | Napoli | 21 | 13 | 4 | 4 | 14 | 43 |
-| 4 | Roma | 21 | 14 | 0 | 7 | 13 | 42 |
+| 4 | Roma | 21 | 14 | 0 | 7 | 14 | 42 |
 | 5 | Juventus | 21 | 11 | 6 | 4 | 15 | 39 |
 | 6 | Como | 20 | 9 | 7 | 4 | 12 | 34 |
 | 7 | Atalanta | 21 | 8 | 8 | 5 | 6 | 32 |
@@ -132,7 +132,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Udinese | 21 | 7 | 5 | 9 | -11 | 26 |
 | 11 | Sassuolo | 21 | 6 | 5 | 10 | -5 | 23 |
 | 12 | Parma | 21 | 5 | 8 | 8 | -8 | 23 |
-| 13 | Torino | 21 | 6 | 5 | 10 | -12 | 23 |
+| 13 | Torino | 21 | 6 | 5 | 10 | -13 | 23 |
 | 14 | Cremonese | 20 | 5 | 7 | 8 | -8 | 22 |
 | 15 | Cagliari | 21 | 5 | 7 | 9 | -8 | 22 |
 | 16 | Genoa | 21 | 4 | 8 | 9 | -7 | 20 |
