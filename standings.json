@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 18 January 2026, 09:19 PM UTC",
-        "IST": "Monday, 19 January 2026, 02:49 AM IST"
+        "UTC": "Sunday, 18 January 2026, 09:39 PM UTC",
+        "IST": "Monday, 19 January 2026, 03:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -605,11 +605,11 @@
                 "Position": "2",
                 "Team": "Milan",
                 "Played": "21",
-                "Wins": "12",
-                "Draws": "8",
+                "Wins": "13",
+                "Draws": "7",
                 "Losses": "1",
-                "Goal Difference": "17",
-                "Points": "44"
+                "Goal Difference": "18",
+                "Points": "46"
             },
             {
                 "Position": "3",
@@ -753,22 +753,22 @@
             },
             {
                 "Position": "17",
-                "Team": "Lecce",
-                "Played": "21",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-15",
-                "Points": "18"
-            },
-            {
-                "Position": "18",
                 "Team": "Fiorentina",
                 "Played": "21",
                 "Wins": "3",
                 "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "-9",
+                "Points": "17"
+            },
+            {
+                "Position": "18",
+                "Team": "Lecce",
+                "Played": "21",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-16",
                 "Points": "17"
             },
             {
@@ -830,7 +830,7 @@
                 "Wins": "10",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "10",
+                "Goal Difference": "9",
                 "Points": "33"
             },
             {
@@ -885,7 +885,7 @@
             },
             {
                 "Position": "10",
-                "Team": "Angers",
+                "Team": "Brest",
                 "Played": "18",
                 "Wins": "6",
                 "Draws": "4",
@@ -895,12 +895,12 @@
             },
             {
                 "Position": "11",
-                "Team": "Brest",
+                "Team": "Angers",
                 "Played": "18",
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "8",
-                "Goal Difference": "-6",
+                "Goal Difference": "-5",
                 "Points": "22"
             },
             {

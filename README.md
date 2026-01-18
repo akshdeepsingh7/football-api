@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 18 January 2026, 09:19 PM UTC (Monday, 19 January 2026, 02:49 AM IST)
+**Last Updated:** Sunday, 18 January 2026, 09:39 PM UTC (Monday, 19 January 2026, 03:09 AM IST)
 
 ### Premier League
 
@@ -121,7 +121,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 21 | 16 | 1 | 4 | 27 | 49 |
-| 2 | Milan | 21 | 12 | 8 | 1 | 17 | 44 |
+| 2 | Milan | 21 | 13 | 7 | 1 | 18 | 46 |
 | 3 | Napoli | 21 | 13 | 4 | 4 | 14 | 43 |
 | 4 | Roma | 21 | 14 | 0 | 7 | 14 | 42 |
 | 5 | Juventus | 21 | 11 | 6 | 4 | 15 | 39 |
@@ -136,8 +136,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Cremonese | 20 | 5 | 7 | 8 | -8 | 22 |
 | 15 | Cagliari | 21 | 5 | 7 | 9 | -8 | 22 |
 | 16 | Genoa | 21 | 4 | 8 | 9 | -7 | 20 |
-| 17 | Lecce | 21 | 4 | 6 | 11 | -15 | 18 |
-| 18 | Fiorentina | 21 | 3 | 8 | 10 | -9 | 17 |
+| 17 | Fiorentina | 21 | 3 | 8 | 10 | -9 | 17 |
+| 18 | Lecce | 21 | 4 | 5 | 12 | -16 | 17 |
 | 19 | Pisa | 21 | 1 | 11 | 9 | -15 | 14 |
 | 20 | Hellas Verona | 20 | 2 | 7 | 11 | -17 | 13 |
 
@@ -148,14 +148,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Lens | 18 | 14 | 1 | 3 | 19 | 43 |
 | 2 | PSG | 18 | 13 | 3 | 2 | 25 | 42 |
 | 3 | Marseille | 18 | 11 | 2 | 5 | 22 | 35 |
-| 4 | Lyon | 18 | 10 | 3 | 5 | 10 | 33 |
+| 4 | Lyon | 18 | 10 | 3 | 5 | 9 | 33 |
 | 5 | Lille | 18 | 10 | 2 | 6 | 8 | 32 |
 | 6 | Rennes | 18 | 8 | 7 | 3 | 5 | 31 |
 | 7 | Strasbourg | 18 | 8 | 3 | 7 | 6 | 27 |
 | 8 | Toulouse | 18 | 7 | 5 | 6 | 6 | 26 |
 | 9 | Monaco | 18 | 7 | 2 | 9 | -5 | 23 |
-| 10 | Angers | 18 | 6 | 4 | 8 | -5 | 22 |
-| 11 | Brest | 18 | 6 | 4 | 8 | -6 | 22 |
+| 10 | Brest | 18 | 6 | 4 | 8 | -5 | 22 |
+| 11 | Angers | 18 | 6 | 4 | 8 | -5 | 22 |
 | 12 | Lorient | 18 | 5 | 7 | 6 | -7 | 22 |
 | 13 | Paris FC | 18 | 5 | 4 | 9 | -8 | 19 |
 | 14 | Le Havre | 18 | 4 | 7 | 7 | -8 | 19 |
