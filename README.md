@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 19 January 2026, 09:20 PM UTC (Tuesday, 20 January 2026, 02:50 AM IST)
+**Last Updated:** Monday, 19 January 2026, 09:42 PM UTC (Tuesday, 20 January 2026, 03:12 AM IST)
 
 ### Premier League
 
@@ -79,7 +79,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Espanyol | 20 | 10 | 4 | 6 | 1 | 34 |
 | 6 | Real Betis | 20 | 8 | 8 | 4 | 8 | 32 |
 | 7 | Celta de Vigo | 20 | 8 | 8 | 4 | 8 | 32 |
-| 8 | Elche | 20 | 6 | 8 | 6 | 3 | 26 |
+| 8 | Elche | 20 | 6 | 8 | 6 | 2 | 26 |
 | 9 | Real Sociedad | 20 | 6 | 6 | 8 | -2 | 24 |
 | 10 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
 | 11 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
@@ -87,7 +87,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Rayo Vallecano | 20 | 5 | 7 | 8 | -9 | 22 |
 | 14 | Mallorca | 20 | 5 | 6 | 9 | -6 | 21 |
 | 15 | Getafe | 20 | 6 | 3 | 11 | -11 | 21 |
-| 16 | Sevilla | 20 | 6 | 2 | 12 | -8 | 20 |
+| 16 | Sevilla | 20 | 6 | 2 | 12 | -7 | 20 |
 | 17 | Valencia | 20 | 4 | 8 | 8 | -12 | 20 |
 | 18 | Alavés | 20 | 5 | 4 | 11 | -9 | 19 |
 | 19 | Levante | 19 | 3 | 5 | 11 | -11 | 14 |
@@ -299,10 +299,10 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Moreirense | 18 | 8 | 3 | 7 | -1 | 27 |
 | 7 | Famalicão | 18 | 7 | 5 | 6 | 7 | 26 |
 | 8 | Vitória S.C. | 18 | 7 | 4 | 7 | -5 | 25 |
-| 9 | Estoril | 18 | 6 | 5 | 7 | 0 | 23 |
+| 9 | Estoril | 18 | 6 | 5 | 7 | 2 | 23 |
 | 10 | Alverca | 18 | 7 | 2 | 9 | -9 | 23 |
 | 11 | Rio Ave | 18 | 4 | 8 | 6 | -9 | 20 |
-| 12 | Estrela Amadora | 18 | 4 | 7 | 7 | -5 | 19 |
+| 12 | Estrela Amadora | 18 | 4 | 7 | 7 | -7 | 19 |
 | 13 | Arouca | 18 | 4 | 5 | 9 | -23 | 17 |
 | 14 | Santa Clara | 18 | 4 | 5 | 9 | -6 | 17 |
 | 15 | Nacional | 18 | 4 | 5 | 9 | -6 | 17 |
