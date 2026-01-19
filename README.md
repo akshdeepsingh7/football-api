@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 19 January 2026, 08:26 PM UTC (Tuesday, 20 January 2026, 01:56 AM IST)
+**Last Updated:** Monday, 19 January 2026, 08:46 PM UTC (Tuesday, 20 January 2026, 02:16 AM IST)
 
 ### Premier League
 
@@ -58,10 +58,10 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Sunderland | 22 | 8 | 9 | 5 | 0 | 33 |
 | 10 | Everton | 22 | 9 | 5 | 8 | -1 | 32 |
 | 11 | Fulham | 22 | 9 | 4 | 9 | -1 | 31 |
-| 12 | Brighton & Hove Albion | 22 | 7 | 9 | 6 | 3 | 30 |
-| 13 | Crystal Palace | 22 | 7 | 7 | 8 | -2 | 28 |
-| 14 | Tottenham Hotspur | 22 | 7 | 6 | 9 | 2 | 27 |
-| 15 | AFC Bournemouth | 22 | 6 | 9 | 7 | -6 | 27 |
+| 12 | Brighton & Hove Albion | 22 | 7 | 8 | 7 | 2 | 29 |
+| 13 | AFC Bournemouth | 22 | 7 | 8 | 7 | -5 | 29 |
+| 14 | Crystal Palace | 22 | 7 | 7 | 8 | -2 | 28 |
+| 15 | Tottenham Hotspur | 22 | 7 | 6 | 9 | 2 | 27 |
 | 16 | Leeds United | 22 | 6 | 7 | 9 | -7 | 25 |
 | 17 | Nottingham Forest | 22 | 6 | 4 | 12 | -13 | 22 |
 | 18 | West Ham United | 22 | 4 | 5 | 13 | -20 | 17 |

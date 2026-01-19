@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 19 January 2026, 08:26 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 01:56 AM IST"
+        "UTC": "Monday, 19 January 2026, 08:46 PM UTC",
+        "IST": "Tuesday, 20 January 2026, 02:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -120,13 +120,23 @@
                 "Team": "Brighton & Hove Albion",
                 "Played": "22",
                 "Wins": "7",
-                "Draws": "9",
-                "Losses": "6",
-                "Goal Difference": "3",
-                "Points": "30"
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "2",
+                "Points": "29"
             },
             {
                 "Position": "13",
+                "Team": "AFC Bournemouth",
+                "Played": "22",
+                "Wins": "7",
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "-5",
+                "Points": "29"
+            },
+            {
+                "Position": "14",
                 "Team": "Crystal Palace",
                 "Played": "22",
                 "Wins": "7",
@@ -136,23 +146,13 @@
                 "Points": "28"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Tottenham Hotspur",
                 "Played": "22",
                 "Wins": "7",
                 "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "2",
-                "Points": "27"
-            },
-            {
-                "Position": "15",
-                "Team": "AFC Bournemouth",
-                "Played": "22",
-                "Wins": "6",
-                "Draws": "9",
-                "Losses": "7",
-                "Goal Difference": "-6",
                 "Points": "27"
             },
             {
