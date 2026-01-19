@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 19 January 2026, 09:42 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 03:12 AM IST"
+        "UTC": "Monday, 19 January 2026, 10:22 PM UTC",
+        "IST": "Tuesday, 20 January 2026, 03:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -120,23 +120,13 @@
                 "Team": "Brighton & Hove Albion",
                 "Played": "22",
                 "Wins": "7",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "2",
-                "Points": "29"
+                "Draws": "9",
+                "Losses": "6",
+                "Goal Difference": "3",
+                "Points": "30"
             },
             {
                 "Position": "13",
-                "Team": "AFC Bournemouth",
-                "Played": "22",
-                "Wins": "7",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "-5",
-                "Points": "29"
-            },
-            {
-                "Position": "14",
                 "Team": "Crystal Palace",
                 "Played": "22",
                 "Wins": "7",
@@ -146,13 +136,23 @@
                 "Points": "28"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Tottenham Hotspur",
                 "Played": "22",
                 "Wins": "7",
                 "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "2",
+                "Points": "27"
+            },
+            {
+                "Position": "15",
+                "Team": "AFC Bournemouth",
+                "Played": "22",
+                "Wins": "6",
+                "Draws": "9",
+                "Losses": "7",
+                "Goal Difference": "-6",
                 "Points": "27"
             },
             {
@@ -281,11 +281,11 @@
                 "Position": "8",
                 "Team": "Elche",
                 "Played": "20",
-                "Wins": "6",
-                "Draws": "8",
+                "Wins": "5",
+                "Draws": "9",
                 "Losses": "6",
-                "Goal Difference": "2",
-                "Points": "26"
+                "Goal Difference": "1",
+                "Points": "24"
             },
             {
                 "Position": "9",
@@ -339,6 +339,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Sevilla",
+                "Played": "20",
+                "Wins": "6",
+                "Draws": "3",
+                "Losses": "11",
+                "Goal Difference": "-6",
+                "Points": "21"
+            },
+            {
+                "Position": "15",
                 "Team": "Mallorca",
                 "Played": "20",
                 "Wins": "5",
@@ -348,7 +358,7 @@
                 "Points": "21"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Getafe",
                 "Played": "20",
                 "Wins": "6",
@@ -356,16 +366,6 @@
                 "Losses": "11",
                 "Goal Difference": "-11",
                 "Points": "21"
-            },
-            {
-                "Position": "16",
-                "Team": "Sevilla",
-                "Played": "20",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "12",
-                "Goal Difference": "-7",
-                "Points": "20"
             },
             {
                 "Position": "17",
@@ -2148,7 +2148,7 @@
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "2",
+                "Goal Difference": "4",
                 "Points": "23"
             },
             {
@@ -2178,7 +2178,7 @@
                 "Wins": "4",
                 "Draws": "7",
                 "Losses": "7",
-                "Goal Difference": "-7",
+                "Goal Difference": "-9",
                 "Points": "19"
             },
             {
