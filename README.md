@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 19 January 2026, 08:46 PM UTC (Tuesday, 20 January 2026, 02:16 AM IST)
+**Last Updated:** Monday, 19 January 2026, 09:20 PM UTC (Tuesday, 20 January 2026, 02:50 AM IST)
 
 ### Premier League
 
@@ -79,7 +79,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Espanyol | 20 | 10 | 4 | 6 | 1 | 34 |
 | 6 | Real Betis | 20 | 8 | 8 | 4 | 8 | 32 |
 | 7 | Celta de Vigo | 20 | 8 | 8 | 4 | 8 | 32 |
-| 8 | Elche | 20 | 6 | 8 | 6 | 2 | 26 |
+| 8 | Elche | 20 | 6 | 8 | 6 | 3 | 26 |
 | 9 | Real Sociedad | 20 | 6 | 6 | 8 | -2 | 24 |
 | 10 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
 | 11 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
@@ -87,7 +87,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Rayo Vallecano | 20 | 5 | 7 | 8 | -9 | 22 |
 | 14 | Mallorca | 20 | 5 | 6 | 9 | -6 | 21 |
 | 15 | Getafe | 20 | 6 | 3 | 11 | -11 | 21 |
-| 16 | Sevilla | 20 | 6 | 2 | 12 | -7 | 20 |
+| 16 | Sevilla | 20 | 6 | 2 | 12 | -8 | 20 |
 | 17 | Valencia | 20 | 4 | 8 | 8 | -12 | 20 |
 | 18 | Alavés | 20 | 5 | 4 | 11 | -9 | 19 |
 | 19 | Levante | 19 | 3 | 5 | 11 | -11 | 14 |
@@ -125,10 +125,10 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Napoli | 21 | 13 | 4 | 4 | 14 | 43 |
 | 4 | Roma | 21 | 14 | 0 | 7 | 14 | 42 |
 | 5 | Juventus | 21 | 11 | 6 | 4 | 15 | 39 |
-| 6 | Como | 21 | 10 | 7 | 4 | 14 | 37 |
+| 6 | Como | 21 | 10 | 7 | 4 | 15 | 37 |
 | 7 | Atalanta | 21 | 8 | 8 | 5 | 6 | 32 |
 | 8 | Bologna | 21 | 8 | 6 | 7 | 6 | 30 |
-| 9 | Lazio | 21 | 7 | 7 | 7 | 3 | 28 |
+| 9 | Lazio | 21 | 7 | 7 | 7 | 2 | 28 |
 | 10 | Udinese | 21 | 7 | 5 | 9 | -11 | 26 |
 | 11 | Sassuolo | 21 | 6 | 5 | 10 | -5 | 23 |
 | 12 | Cremonese | 21 | 5 | 8 | 8 | -8 | 23 |
