@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 19 January 2026, 07:40 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 01:10 AM IST"
+        "UTC": "Monday, 19 January 2026, 08:26 PM UTC",
+        "IST": "Tuesday, 20 January 2026, 01:56 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -118,12 +118,12 @@
             {
                 "Position": "12",
                 "Team": "Brighton & Hove Albion",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "7",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "6",
                 "Goal Difference": "3",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "13",
@@ -148,12 +148,12 @@
             {
                 "Position": "15",
                 "Team": "AFC Bournemouth",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "6",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "-6",
-                "Points": "26"
+                "Points": "27"
             },
             {
                 "Position": "16",
@@ -279,6 +279,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Elche",
+                "Played": "20",
+                "Wins": "6",
+                "Draws": "8",
+                "Losses": "6",
+                "Goal Difference": "2",
+                "Points": "26"
+            },
+            {
+                "Position": "9",
                 "Team": "Real Sociedad",
                 "Played": "20",
                 "Wins": "6",
@@ -288,7 +298,7 @@
                 "Points": "24"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Athletic Bilbao",
                 "Played": "20",
                 "Wins": "7",
@@ -298,7 +308,7 @@
                 "Points": "24"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Girona",
                 "Played": "20",
                 "Wins": "6",
@@ -306,16 +316,6 @@
                 "Losses": "8",
                 "Goal Difference": "-14",
                 "Points": "24"
-            },
-            {
-                "Position": "11",
-                "Team": "Elche",
-                "Played": "19",
-                "Wins": "5",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "1",
-                "Points": "23"
             },
             {
                 "Position": "12",
@@ -360,11 +360,11 @@
             {
                 "Position": "16",
                 "Team": "Sevilla",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "6",
                 "Draws": "2",
-                "Losses": "11",
-                "Goal Difference": "-6",
+                "Losses": "12",
+                "Goal Difference": "-7",
                 "Points": "20"
             },
             {
@@ -644,12 +644,12 @@
             {
                 "Position": "6",
                 "Team": "Como",
-                "Played": "20",
-                "Wins": "9",
+                "Played": "21",
+                "Wins": "10",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "12",
-                "Points": "34"
+                "Goal Difference": "14",
+                "Points": "37"
             },
             {
                 "Position": "7",
@@ -674,11 +674,11 @@
             {
                 "Position": "9",
                 "Team": "Lazio",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "7",
                 "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "5",
+                "Losses": "7",
+                "Goal Difference": "3",
                 "Points": "28"
             },
             {
@@ -2143,6 +2143,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Estoril",
+                "Played": "18",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "0",
+                "Points": "23"
+            },
+            {
+                "Position": "10",
                 "Team": "Alverca",
                 "Played": "18",
                 "Wins": "7",
@@ -2150,16 +2160,6 @@
                 "Losses": "9",
                 "Goal Difference": "-9",
                 "Points": "23"
-            },
-            {
-                "Position": "10",
-                "Team": "Estoril",
-                "Played": "17",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-1",
-                "Points": "20"
             },
             {
                 "Position": "11",
@@ -2174,11 +2174,11 @@
             {
                 "Position": "12",
                 "Team": "Estrela Amadora",
-                "Played": "17",
+                "Played": "18",
                 "Wins": "4",
                 "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "-4",
+                "Losses": "7",
+                "Goal Difference": "-5",
                 "Points": "19"
             },
             {
