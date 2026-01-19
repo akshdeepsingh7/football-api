@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 19 January 2026, 05:24 PM UTC",
-        "IST": "Monday, 19 January 2026, 10:54 PM IST"
+        "UTC": "Monday, 19 January 2026, 05:48 PM UTC",
+        "IST": "Monday, 19 January 2026, 11:18 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -703,7 +703,7 @@
             },
             {
                 "Position": "12",
-                "Team": "Parma",
+                "Team": "Cremonese",
                 "Played": "21",
                 "Wins": "5",
                 "Draws": "8",
@@ -713,6 +713,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Parma",
+                "Played": "21",
+                "Wins": "5",
+                "Draws": "8",
+                "Losses": "8",
+                "Goal Difference": "-8",
+                "Points": "23"
+            },
+            {
+                "Position": "14",
                 "Team": "Torino",
                 "Played": "21",
                 "Wins": "6",
@@ -720,16 +730,6 @@
                 "Losses": "10",
                 "Goal Difference": "-13",
                 "Points": "23"
-            },
-            {
-                "Position": "14",
-                "Team": "Cremonese",
-                "Played": "20",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "-8",
-                "Points": "22"
             },
             {
                 "Position": "15",
@@ -784,12 +784,12 @@
             {
                 "Position": "20",
                 "Team": "Hellas Verona",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "2",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-17",
-                "Points": "13"
+                "Points": "14"
             }
         ],
         "Ligue 1": [
