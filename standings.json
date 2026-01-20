@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 20 January 2026, 05:30 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 11:00 PM IST"
+        "UTC": "Tuesday, 20 January 2026, 06:38 PM UTC",
+        "IST": "Wednesday, 21 January 2026, 12:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1008,11 +1008,11 @@
             {
                 "Position": "4",
                 "Team": "Manchester City",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "4",
                 "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "6",
+                "Losses": "2",
+                "Goal Difference": "4",
                 "Points": "13"
             },
             {
@@ -1227,6 +1227,16 @@
             },
             {
                 "Position": "26",
+                "Team": "Bod\u00f8/Glimt",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "6"
+            },
+            {
+                "Position": "27",
                 "Team": "Benfica",
                 "Played": "6",
                 "Wins": "2",
@@ -1236,7 +1246,7 @@
                 "Points": "6"
             },
             {
-                "Position": "27",
+                "Position": "28",
                 "Team": "Pafos",
                 "Played": "6",
                 "Wins": "1",
@@ -1246,7 +1256,7 @@
                 "Points": "6"
             },
             {
-                "Position": "28",
+                "Position": "29",
                 "Team": "Union Saint-Gilloise",
                 "Played": "6",
                 "Wins": "2",
@@ -1256,7 +1266,7 @@
                 "Points": "6"
             },
             {
-                "Position": "29",
+                "Position": "30",
                 "Team": "Athletic Bilbao",
                 "Played": "6",
                 "Wins": "1",
@@ -1266,7 +1276,7 @@
                 "Points": "5"
             },
             {
-                "Position": "30",
+                "Position": "31",
                 "Team": "Olympiacos",
                 "Played": "6",
                 "Wins": "1",
@@ -1276,7 +1286,7 @@
                 "Points": "5"
             },
             {
-                "Position": "31",
+                "Position": "32",
                 "Team": "Eintracht Frankfurt",
                 "Played": "6",
                 "Wins": "1",
@@ -1284,16 +1294,6 @@
                 "Losses": "4",
                 "Goal Difference": "-8",
                 "Points": "4"
-            },
-            {
-                "Position": "32",
-                "Team": "Bod\u00f8/Glimt",
-                "Played": "6",
-                "Wins": "0",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "3"
             },
             {
                 "Position": "33",

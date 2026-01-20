@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 20 January 2026, 05:30 PM UTC (Tuesday, 20 January 2026, 11:00 PM IST)
+**Last Updated:** Tuesday, 20 January 2026, 06:38 PM UTC (Wednesday, 21 January 2026, 12:08 AM IST)
 
 ### Premier League
 
@@ -171,7 +171,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Arsenal | 6 | 6 | 0 | 0 | 16 | 18 |
 | 2 | Bayern Munich | 6 | 5 | 0 | 1 | 11 | 15 |
 | 3 | PSG | 6 | 4 | 1 | 1 | 11 | 13 |
-| 4 | Manchester City | 6 | 4 | 1 | 1 | 6 | 13 |
+| 4 | Manchester City | 7 | 4 | 1 | 2 | 4 | 13 |
 | 5 | Atalanta | 6 | 4 | 1 | 1 | 2 | 13 |
 | 6 | Inter | 6 | 4 | 0 | 2 | 8 | 12 |
 | 7 | Real Madrid | 6 | 4 | 0 | 2 | 6 | 12 |
@@ -193,13 +193,13 @@ The latest league standings are displayed below in Markdown tables:
 | 23 | Club Brugge | 7 | 2 | 1 | 4 | -5 | 7 |
 | 24 | Napoli | 6 | 2 | 1 | 3 | -5 | 7 |
 | 25 | FC Copenhagen | 6 | 2 | 1 | 3 | -6 | 7 |
-| 26 | Benfica | 6 | 2 | 0 | 4 | -2 | 6 |
-| 27 | Pafos | 6 | 1 | 3 | 2 | -5 | 6 |
-| 28 | Union Saint-Gilloise | 6 | 2 | 0 | 4 | -8 | 6 |
-| 29 | Athletic Bilbao | 6 | 1 | 2 | 3 | -5 | 5 |
-| 30 | Olympiacos | 6 | 1 | 2 | 3 | -7 | 5 |
-| 31 | Eintracht Frankfurt | 6 | 1 | 1 | 4 | -8 | 4 |
-| 32 | Bodø/Glimt | 6 | 0 | 3 | 3 | -4 | 3 |
+| 26 | Bodø/Glimt | 7 | 1 | 3 | 3 | -2 | 6 |
+| 27 | Benfica | 6 | 2 | 0 | 4 | -2 | 6 |
+| 28 | Pafos | 6 | 1 | 3 | 2 | -5 | 6 |
+| 29 | Union Saint-Gilloise | 6 | 2 | 0 | 4 | -8 | 6 |
+| 30 | Athletic Bilbao | 6 | 1 | 2 | 3 | -5 | 5 |
+| 31 | Olympiacos | 6 | 1 | 2 | 3 | -7 | 5 |
+| 32 | Eintracht Frankfurt | 6 | 1 | 1 | 4 | -8 | 4 |
 | 33 | Slavia Prague | 6 | 0 | 3 | 3 | -9 | 3 |
 | 34 | Ajax | 6 | 1 | 0 | 5 | -13 | 3 |
 | 35 | Villarreal | 6 | 0 | 1 | 5 | -9 | 1 |
