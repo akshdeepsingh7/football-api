@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 20 January 2026, 04:37 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 10:07 PM IST"
+        "UTC": "Tuesday, 20 January 2026, 05:30 PM UTC",
+        "IST": "Tuesday, 20 January 2026, 11:00 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -1197,22 +1197,22 @@
             },
             {
                 "Position": "23",
+                "Team": "Club Brugge",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "7"
+            },
+            {
+                "Position": "24",
                 "Team": "Napoli",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "-5",
-                "Points": "7"
-            },
-            {
-                "Position": "24",
-                "Team": "Club Brugge",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-6",
                 "Points": "7"
             },
             {
@@ -1332,7 +1332,7 @@
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "6",
-                "Goal Difference": "-13",
+                "Goal Difference": "-14",
                 "Points": "1"
             }
         ],

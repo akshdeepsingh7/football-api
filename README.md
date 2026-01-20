@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 20 January 2026, 04:37 PM UTC (Tuesday, 20 January 2026, 10:07 PM IST)
+**Last Updated:** Tuesday, 20 January 2026, 05:30 PM UTC (Tuesday, 20 January 2026, 11:00 PM IST)
 
 ### Premier League
 
@@ -190,8 +190,8 @@ The latest league standings are displayed below in Markdown tables:
 | 20 | Bayer Leverkusen | 6 | 2 | 3 | 1 | -2 | 9 |
 | 21 | PSV | 6 | 2 | 2 | 2 | 4 | 8 |
 | 22 | Qarabağ | 6 | 2 | 1 | 3 | -3 | 7 |
-| 23 | Napoli | 6 | 2 | 1 | 3 | -5 | 7 |
-| 24 | Club Brugge | 7 | 2 | 1 | 4 | -6 | 7 |
+| 23 | Club Brugge | 7 | 2 | 1 | 4 | -5 | 7 |
+| 24 | Napoli | 6 | 2 | 1 | 3 | -5 | 7 |
 | 25 | FC Copenhagen | 6 | 2 | 1 | 3 | -6 | 7 |
 | 26 | Benfica | 6 | 2 | 0 | 4 | -2 | 6 |
 | 27 | Pafos | 6 | 1 | 3 | 2 | -5 | 6 |
@@ -203,7 +203,7 @@ The latest league standings are displayed below in Markdown tables:
 | 33 | Slavia Prague | 6 | 0 | 3 | 3 | -9 | 3 |
 | 34 | Ajax | 6 | 1 | 0 | 5 | -13 | 3 |
 | 35 | Villarreal | 6 | 0 | 1 | 5 | -9 | 1 |
-| 36 | Kairat | 7 | 0 | 1 | 6 | -13 | 1 |
+| 36 | Kairat | 7 | 0 | 1 | 6 | -14 | 1 |
 
 ### Europa League
 
