@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 20 January 2026, 08:12 PM UTC (Wednesday, 21 January 2026, 01:42 AM IST)
+**Last Updated:** Tuesday, 20 January 2026, 08:54 PM UTC (Wednesday, 21 January 2026, 02:24 AM IST)
 
 ### Premier League
 
@@ -170,30 +170,30 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 7 | 7 | 0 | 0 | 17 | 21 |
 | 2 | Bayern Munich | 6 | 5 | 0 | 1 | 11 | 15 |
-| 3 | Real Madrid | 7 | 5 | 0 | 2 | 7 | 15 |
+| 3 | Real Madrid | 7 | 5 | 0 | 2 | 8 | 15 |
 | 4 | PSG | 7 | 4 | 2 | 1 | 11 | 14 |
-| 5 | Manchester City | 7 | 4 | 1 | 2 | 4 | 13 |
-| 6 | Atalanta | 6 | 4 | 1 | 1 | 2 | 13 |
-| 7 | Inter | 7 | 4 | 0 | 3 | 7 | 12 |
-| 8 | Borussia Dortmund | 7 | 3 | 3 | 1 | 6 | 12 |
-| 9 | Tottenham Hotspur | 7 | 3 | 3 | 1 | 6 | 12 |
-| 10 | Atlético de Madrid | 6 | 4 | 0 | 2 | 3 | 12 |
-| 11 | Liverpool FC | 6 | 4 | 0 | 2 | 3 | 12 |
+| 5 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
+| 6 | Manchester City | 7 | 4 | 1 | 2 | 4 | 13 |
+| 7 | Atalanta | 6 | 4 | 1 | 1 | 2 | 13 |
+| 8 | Inter | 7 | 4 | 0 | 3 | 7 | 12 |
+| 9 | Atlético de Madrid | 6 | 4 | 0 | 2 | 3 | 12 |
+| 10 | Liverpool FC | 6 | 4 | 0 | 2 | 3 | 12 |
+| 11 | Borussia Dortmund | 7 | 3 | 2 | 2 | 4 | 11 |
 | 12 | Sporting CP | 7 | 3 | 2 | 2 | 4 | 11 |
 | 13 | Newcastle United | 6 | 3 | 1 | 2 | 7 | 10 |
 | 14 | Chelsea | 6 | 3 | 1 | 2 | 5 | 10 |
 | 15 | Barcelona | 6 | 3 | 1 | 2 | 3 | 10 |
-| 16 | Marseille | 6 | 3 | 0 | 3 | 3 | 9 |
-| 17 | Juventus | 6 | 2 | 3 | 1 | 2 | 9 |
-| 18 | Galatasaray | 6 | 3 | 0 | 3 | 0 | 9 |
-| 19 | Monaco | 7 | 2 | 3 | 2 | -2 | 9 |
-| 20 | Bayer Leverkusen | 7 | 2 | 3 | 2 | -3 | 9 |
-| 21 | PSV | 6 | 2 | 2 | 2 | 4 | 8 |
-| 22 | Napoli | 7 | 2 | 2 | 3 | -5 | 8 |
-| 23 | FC Copenhagen | 7 | 2 | 2 | 3 | -6 | 8 |
-| 24 | Olympiacos | 7 | 2 | 2 | 3 | -6 | 8 |
-| 25 | Qarabağ | 6 | 2 | 1 | 3 | -3 | 7 |
-| 26 | Club Brugge | 7 | 2 | 1 | 4 | -5 | 7 |
+| 16 | Napoli | 7 | 3 | 1 | 3 | -4 | 10 |
+| 17 | Marseille | 6 | 3 | 0 | 3 | 3 | 9 |
+| 18 | Juventus | 6 | 2 | 3 | 1 | 2 | 9 |
+| 19 | Galatasaray | 6 | 3 | 0 | 3 | 0 | 9 |
+| 20 | Monaco | 7 | 2 | 3 | 2 | -3 | 9 |
+| 21 | Bayer Leverkusen | 7 | 2 | 3 | 2 | -4 | 9 |
+| 22 | PSV | 6 | 2 | 2 | 2 | 4 | 8 |
+| 23 | Olympiacos | 7 | 2 | 2 | 3 | -5 | 8 |
+| 24 | Qarabağ | 6 | 2 | 1 | 3 | -3 | 7 |
+| 25 | Club Brugge | 7 | 2 | 1 | 4 | -5 | 7 |
+| 26 | FC Copenhagen | 7 | 2 | 1 | 4 | -7 | 7 |
 | 27 | Bodø/Glimt | 7 | 1 | 3 | 3 | -2 | 6 |
 | 28 | Benfica | 6 | 2 | 0 | 4 | -2 | 6 |
 | 29 | Pafos | 6 | 1 | 3 | 2 | -5 | 6 |
@@ -207,7 +207,44 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Europa League
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Lyon | 6 | 5 | 0 | 1 | 10 | 15 |
+| 2 | Midtjylland | 6 | 5 | 0 | 1 | 8 | 15 |
+| 3 | Aston Villa | 6 | 5 | 0 | 1 | 6 | 15 |
+| 4 | Real Betis | 6 | 4 | 2 | 0 | 7 | 14 |
+| 5 | SC Freiburg | 6 | 4 | 2 | 0 | 6 | 14 |
+| 6 | Ferencváros | 6 | 4 | 2 | 0 | 5 | 14 |
+| 7 | Braga | 6 | 4 | 1 | 1 | 5 | 13 |
+| 8 | Porto | 6 | 4 | 1 | 1 | 4 | 13 |
+| 9 | VfB Stuttgart | 6 | 4 | 0 | 2 | 7 | 12 |
+| 10 | Roma | 6 | 4 | 0 | 2 | 5 | 12 |
+| 11 | Nottingham Forest | 6 | 3 | 2 | 1 | 5 | 11 |
+| 12 | Fenerbahçe | 6 | 3 | 2 | 1 | 4 | 11 |
+| 13 | Bologna | 6 | 3 | 2 | 1 | 4 | 11 |
+| 14 | Plzeň | 6 | 2 | 4 | 0 | 4 | 10 |
+| 15 | Panathinaikos | 6 | 3 | 1 | 2 | 2 | 10 |
+| 16 | KRC Genk | 6 | 3 | 1 | 2 | 1 | 10 |
+| 17 | Red Star Belgrade | 6 | 3 | 1 | 2 | 0 | 10 |
+| 18 | PAOK | 6 | 2 | 3 | 1 | 3 | 9 |
+| 19 | Celta de Vigo | 6 | 3 | 0 | 3 | 3 | 9 |
+| 20 | Lille | 6 | 3 | 0 | 3 | 3 | 9 |
+| 21 | BSC Young Boys | 6 | 3 | 0 | 3 | -4 | 9 |
+| 22 | Brann | 6 | 2 | 2 | 2 | -1 | 8 |
+| 23 | Ludogorets | 6 | 2 | 1 | 3 | -3 | 7 |
+| 24 | Celtic | 6 | 2 | 1 | 3 | -4 | 7 |
+| 25 | Dinamo Zagreb | 6 | 2 | 1 | 3 | -5 | 7 |
+| 26 | FC Basel | 6 | 2 | 0 | 4 | -1 | 6 |
+| 27 | FCSB | 6 | 2 | 0 | 4 | -4 | 6 |
+| 28 | Go Ahead Eagles | 6 | 2 | 0 | 4 | -6 | 6 |
+| 29 | Sturm Graz | 6 | 1 | 1 | 4 | -4 | 4 |
+| 30 | Feyenoord | 6 | 1 | 0 | 5 | -6 | 3 |
+| 31 | RB Salzburg | 6 | 1 | 0 | 5 | -6 | 3 |
+| 32 | Utrecht | 6 | 0 | 1 | 5 | -6 | 1 |
+| 33 | Rangers | 6 | 0 | 1 | 5 | -8 | 1 |
+| 34 | Malmö | 6 | 0 | 1 | 5 | -9 | 1 |
+| 35 | Maccabi Tel Aviv | 6 | 0 | 1 | 5 | -16 | 1 |
+| 36 | Nice | 6 | 0 | 0 | 6 | -9 | 0 |
 
 ### Europa Conference League
 
@@ -277,12 +314,12 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 28 | 17 | 7 | 4 | 30 | 58 |
+| 1 | Coventry City | 28 | 16 | 8 | 4 | 29 | 56 |
 | 2 | Ipswich Town | 27 | 14 | 8 | 5 | 22 | 50 |
 | 3 | Middlesbrough | 27 | 14 | 7 | 6 | 12 | 49 |
-| 4 | Millwall | 28 | 13 | 7 | 8 | -3 | 46 |
-| 5 | Hull City | 27 | 13 | 6 | 8 | 3 | 45 |
-| 6 | Preston North End | 28 | 11 | 11 | 6 | 10 | 44 |
+| 4 | Hull City | 27 | 14 | 5 | 8 | 5 | 47 |
+| 5 | Millwall | 28 | 13 | 8 | 7 | -2 | 47 |
+| 6 | Preston North End | 28 | 11 | 10 | 7 | 8 | 43 |
 | 7 | Stoke City | 27 | 12 | 5 | 10 | 9 | 41 |
 | 8 | Watford | 26 | 11 | 8 | 7 | 6 | 41 |
 | 9 | Wrexham | 28 | 10 | 11 | 7 | 5 | 41 |
@@ -295,8 +332,8 @@ Data not available.
 | 16 | Southampton | 27 | 8 | 9 | 10 | -1 | 33 |
 | 17 | Sheffield United | 26 | 10 | 2 | 14 | -3 | 32 |
 | 18 | Charlton Athletic | 27 | 8 | 8 | 11 | -7 | 32 |
-| 19 | West Bromwich Albion | 28 | 9 | 4 | 15 | -8 | 31 |
-| 20 | Norwich City | 28 | 8 | 6 | 14 | -9 | 30 |
+| 19 | West Bromwich Albion | 28 | 9 | 4 | 15 | -9 | 31 |
+| 20 | Norwich City | 28 | 8 | 6 | 14 | -8 | 30 |
 | 21 | Blackburn Rovers | 27 | 7 | 7 | 13 | -10 | 28 |
 | 22 | Portsmouth | 25 | 7 | 7 | 11 | -13 | 28 |
 | 23 | Oxford United | 27 | 5 | 9 | 13 | -10 | 24 |
