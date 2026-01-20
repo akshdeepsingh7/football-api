@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 20 January 2026, 09:22 PM UTC",
-        "IST": "Wednesday, 21 January 2026, 02:52 AM IST"
+        "UTC": "Tuesday, 20 January 2026, 09:43 PM UTC",
+        "IST": "Wednesday, 21 January 2026, 03:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -987,22 +987,22 @@
             },
             {
                 "Position": "2",
+                "Team": "Real Madrid",
+                "Played": "7",
+                "Wins": "5",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "11",
+                "Points": "15"
+            },
+            {
+                "Position": "3",
                 "Team": "Bayern Munich",
                 "Played": "6",
                 "Wins": "5",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "11",
-                "Points": "15"
-            },
-            {
-                "Position": "3",
-                "Team": "Real Madrid",
-                "Played": "7",
-                "Wins": "5",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "10",
                 "Points": "15"
             },
             {
@@ -1127,16 +1127,6 @@
             },
             {
                 "Position": "16",
-                "Team": "Napoli",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "10"
-            },
-            {
-                "Position": "17",
                 "Team": "Marseille",
                 "Played": "6",
                 "Wins": "3",
@@ -1146,7 +1136,7 @@
                 "Points": "9"
             },
             {
-                "Position": "18",
+                "Position": "17",
                 "Team": "Juventus",
                 "Played": "6",
                 "Wins": "2",
@@ -1156,7 +1146,7 @@
                 "Points": "9"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Galatasaray",
                 "Played": "6",
                 "Wins": "3",
@@ -1166,7 +1156,7 @@
                 "Points": "9"
             },
             {
-                "Position": "20",
+                "Position": "19",
                 "Team": "Bayer Leverkusen",
                 "Played": "7",
                 "Wins": "2",
@@ -1176,17 +1166,17 @@
                 "Points": "9"
             },
             {
-                "Position": "21",
+                "Position": "20",
                 "Team": "Monaco",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "9"
             },
             {
-                "Position": "22",
+                "Position": "21",
                 "Team": "PSV",
                 "Played": "6",
                 "Wins": "2",
@@ -1196,7 +1186,7 @@
                 "Points": "8"
             },
             {
-                "Position": "23",
+                "Position": "22",
                 "Team": "Olympiacos",
                 "Played": "7",
                 "Wins": "2",
@@ -1206,7 +1196,27 @@
                 "Points": "8"
             },
             {
+                "Position": "23",
+                "Team": "Napoli",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-5",
+                "Points": "8"
+            },
+            {
                 "Position": "24",
+                "Team": "FC Copenhagen",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-6",
+                "Points": "8"
+            },
+            {
+                "Position": "25",
                 "Team": "Qaraba\u011f",
                 "Played": "6",
                 "Wins": "2",
@@ -1216,23 +1226,13 @@
                 "Points": "7"
             },
             {
-                "Position": "25",
+                "Position": "26",
                 "Team": "Club Brugge",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "7"
-            },
-            {
-                "Position": "26",
-                "Team": "FC Copenhagen",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-7",
                 "Points": "7"
             },
             {
@@ -2305,6 +2305,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Wrexham",
+                "Played": "28",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "7",
+                "Goal Difference": "6",
+                "Points": "43"
+            },
+            {
+                "Position": "8",
                 "Team": "Stoke City",
                 "Played": "27",
                 "Wins": "12",
@@ -2314,23 +2324,13 @@
                 "Points": "41"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Watford",
                 "Played": "26",
                 "Wins": "11",
                 "Draws": "8",
                 "Losses": "7",
                 "Goal Difference": "6",
-                "Points": "41"
-            },
-            {
-                "Position": "9",
-                "Team": "Wrexham",
-                "Played": "28",
-                "Wins": "10",
-                "Draws": "11",
-                "Losses": "7",
-                "Goal Difference": "5",
                 "Points": "41"
             },
             {
@@ -2365,23 +2365,23 @@
             },
             {
                 "Position": "13",
-                "Team": "Leicester City",
+                "Team": "Birmingham City",
                 "Played": "28",
                 "Wins": "10",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-2",
+                "Goal Difference": "1",
                 "Points": "38"
             },
             {
                 "Position": "14",
-                "Team": "Birmingham City",
+                "Team": "Leicester City",
                 "Played": "28",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-1",
-                "Points": "36"
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-3",
+                "Points": "37"
             },
             {
                 "Position": "15",
@@ -2430,7 +2430,7 @@
                 "Wins": "9",
                 "Draws": "4",
                 "Losses": "15",
-                "Goal Difference": "-11",
+                "Goal Difference": "-12",
                 "Points": "31"
             },
             {
@@ -2440,7 +2440,7 @@
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-6",
+                "Goal Difference": "-5",
                 "Points": "30"
             },
             {
@@ -2478,10 +2478,10 @@
                 "Team": "Sheffield Wednesday",
                 "Played": "27",
                 "Wins": "1",
-                "Draws": "9",
-                "Losses": "17",
-                "Goal Difference": "-34",
-                "Points": "-6"
+                "Draws": "8",
+                "Losses": "18",
+                "Goal Difference": "-36",
+                "Points": "-7"
             }
         ],
         "Major League Soccer (MLS)": [
