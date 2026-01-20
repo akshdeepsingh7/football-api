@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 20 January 2026, 09:43 PM UTC (Wednesday, 21 January 2026, 03:13 AM IST)
+**Last Updated:** Tuesday, 20 January 2026, 10:24 PM UTC (Wednesday, 21 January 2026, 03:54 AM IST)
 
 ### Premier League
 
@@ -168,18 +168,18 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 7 | 7 | 0 | 0 | 17 | 21 |
+| 1 | Arsenal | 7 | 7 | 0 | 0 | 18 | 21 |
 | 2 | Real Madrid | 7 | 5 | 0 | 2 | 11 | 15 |
 | 3 | Bayern Munich | 6 | 5 | 0 | 1 | 11 | 15 |
-| 4 | PSG | 7 | 4 | 2 | 1 | 11 | 14 |
-| 5 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
-| 6 | Manchester City | 7 | 4 | 1 | 2 | 4 | 13 |
-| 7 | Atalanta | 6 | 4 | 1 | 1 | 2 | 13 |
-| 8 | Inter | 7 | 4 | 0 | 3 | 7 | 12 |
-| 9 | Atlético de Madrid | 6 | 4 | 0 | 2 | 3 | 12 |
-| 10 | Liverpool FC | 6 | 4 | 0 | 2 | 3 | 12 |
-| 11 | Borussia Dortmund | 7 | 3 | 2 | 2 | 4 | 11 |
-| 12 | Sporting CP | 7 | 3 | 2 | 2 | 4 | 11 |
+| 4 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
+| 5 | PSG | 7 | 4 | 1 | 2 | 10 | 13 |
+| 6 | Sporting CP | 7 | 4 | 1 | 2 | 5 | 13 |
+| 7 | Manchester City | 7 | 4 | 1 | 2 | 4 | 13 |
+| 8 | Atalanta | 6 | 4 | 1 | 1 | 2 | 13 |
+| 9 | Inter | 7 | 4 | 0 | 3 | 6 | 12 |
+| 10 | Atlético de Madrid | 6 | 4 | 0 | 2 | 3 | 12 |
+| 11 | Liverpool FC | 6 | 4 | 0 | 2 | 3 | 12 |
+| 12 | Borussia Dortmund | 7 | 3 | 2 | 2 | 4 | 11 |
 | 13 | Newcastle United | 6 | 3 | 1 | 2 | 7 | 10 |
 | 14 | Chelsea | 6 | 3 | 1 | 2 | 5 | 10 |
 | 15 | Barcelona | 6 | 3 | 1 | 2 | 3 | 10 |
@@ -198,11 +198,11 @@ The latest league standings are displayed below in Markdown tables:
 | 28 | Benfica | 6 | 2 | 0 | 4 | -2 | 6 |
 | 29 | Pafos | 6 | 1 | 3 | 2 | -5 | 6 |
 | 30 | Union Saint-Gilloise | 6 | 2 | 0 | 4 | -8 | 6 |
-| 31 | Athletic Bilbao | 6 | 1 | 2 | 3 | -5 | 5 |
-| 32 | Eintracht Frankfurt | 6 | 1 | 1 | 4 | -8 | 4 |
-| 33 | Ajax | 7 | 1 | 1 | 5 | -13 | 4 |
+| 31 | Ajax | 7 | 2 | 0 | 5 | -12 | 6 |
+| 32 | Athletic Bilbao | 6 | 1 | 2 | 3 | -5 | 5 |
+| 33 | Eintracht Frankfurt | 6 | 1 | 1 | 4 | -8 | 4 |
 | 34 | Slavia Prague | 6 | 0 | 3 | 3 | -9 | 3 |
-| 35 | Villarreal | 7 | 0 | 2 | 5 | -9 | 2 |
+| 35 | Villarreal | 7 | 0 | 1 | 6 | -10 | 1 |
 | 36 | Kairat | 7 | 0 | 1 | 6 | -14 | 1 |
 
 ### Europa League
@@ -320,14 +320,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Hull City | 27 | 14 | 5 | 8 | 6 | 47 |
 | 5 | Millwall | 28 | 13 | 7 | 8 | -3 | 46 |
 | 6 | Preston North End | 28 | 11 | 10 | 7 | 7 | 43 |
-| 7 | Wrexham | 28 | 11 | 10 | 7 | 6 | 43 |
-| 8 | Stoke City | 27 | 12 | 5 | 10 | 9 | 41 |
-| 9 | Watford | 26 | 11 | 8 | 7 | 6 | 41 |
+| 7 | Stoke City | 27 | 12 | 5 | 10 | 9 | 41 |
+| 8 | Watford | 26 | 11 | 8 | 7 | 6 | 41 |
+| 9 | Wrexham | 28 | 10 | 11 | 7 | 5 | 41 |
 | 10 | Derby County | 28 | 11 | 8 | 9 | 2 | 41 |
 | 11 | Bristol City | 28 | 11 | 7 | 10 | 7 | 40 |
 | 12 | Queens Park Rangers | 28 | 11 | 7 | 10 | -1 | 40 |
 | 13 | Birmingham City | 28 | 10 | 8 | 10 | 1 | 38 |
-| 14 | Leicester City | 28 | 10 | 7 | 11 | -3 | 37 |
+| 14 | Leicester City | 28 | 10 | 8 | 10 | -2 | 38 |
 | 15 | Swansea City | 28 | 10 | 6 | 12 | -4 | 36 |
 | 16 | Southampton | 27 | 8 | 9 | 10 | -1 | 33 |
 | 17 | Sheffield United | 26 | 10 | 2 | 14 | -3 | 32 |
