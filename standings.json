@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 20 January 2026, 02:32 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 08:02 PM IST"
+        "UTC": "Tuesday, 20 January 2026, 03:32 PM UTC",
+        "IST": "Tuesday, 20 January 2026, 09:02 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -1267,17 +1267,17 @@
             },
             {
                 "Position": "30",
-                "Team": "Eintracht Frankfurt",
-                "Played": "6",
+                "Team": "Club Brugge",
+                "Played": "7",
                 "Wins": "1",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "-8",
-                "Points": "4"
+                "Points": "5"
             },
             {
                 "Position": "31",
-                "Team": "Club Brugge",
+                "Team": "Eintracht Frankfurt",
                 "Played": "6",
                 "Wins": "1",
                 "Draws": "1",
@@ -1317,22 +1317,22 @@
             },
             {
                 "Position": "35",
+                "Team": "Kairat",
+                "Played": "7",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "-11",
+                "Points": "2"
+            },
+            {
+                "Position": "36",
                 "Team": "Villarreal",
                 "Played": "6",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "5",
                 "Goal Difference": "-9",
-                "Points": "1"
-            },
-            {
-                "Position": "36",
-                "Team": "Kairat",
-                "Played": "6",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-11",
                 "Points": "1"
             }
         ],
