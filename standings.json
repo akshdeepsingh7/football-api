@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 20 January 2026, 03:32 PM UTC",
-        "IST": "Tuesday, 20 January 2026, 09:02 PM IST"
+        "UTC": "Tuesday, 20 January 2026, 04:37 PM UTC",
+        "IST": "Tuesday, 20 January 2026, 10:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -1207,6 +1207,16 @@
             },
             {
                 "Position": "24",
+                "Team": "Club Brugge",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-6",
+                "Points": "7"
+            },
+            {
+                "Position": "25",
                 "Team": "FC Copenhagen",
                 "Played": "6",
                 "Wins": "2",
@@ -1216,7 +1226,7 @@
                 "Points": "7"
             },
             {
-                "Position": "25",
+                "Position": "26",
                 "Team": "Benfica",
                 "Played": "6",
                 "Wins": "2",
@@ -1226,7 +1236,7 @@
                 "Points": "6"
             },
             {
-                "Position": "26",
+                "Position": "27",
                 "Team": "Pafos",
                 "Played": "6",
                 "Wins": "1",
@@ -1236,7 +1246,7 @@
                 "Points": "6"
             },
             {
-                "Position": "27",
+                "Position": "28",
                 "Team": "Union Saint-Gilloise",
                 "Played": "6",
                 "Wins": "2",
@@ -1246,7 +1256,7 @@
                 "Points": "6"
             },
             {
-                "Position": "28",
+                "Position": "29",
                 "Team": "Athletic Bilbao",
                 "Played": "6",
                 "Wins": "1",
@@ -1256,23 +1266,13 @@
                 "Points": "5"
             },
             {
-                "Position": "29",
+                "Position": "30",
                 "Team": "Olympiacos",
                 "Played": "6",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-7",
-                "Points": "5"
-            },
-            {
-                "Position": "30",
-                "Team": "Club Brugge",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-8",
                 "Points": "5"
             },
             {
@@ -1317,22 +1317,22 @@
             },
             {
                 "Position": "35",
-                "Team": "Kairat",
-                "Played": "7",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-11",
-                "Points": "2"
-            },
-            {
-                "Position": "36",
                 "Team": "Villarreal",
                 "Played": "6",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "5",
                 "Goal Difference": "-9",
+                "Points": "1"
+            },
+            {
+                "Position": "36",
+                "Team": "Kairat",
+                "Played": "7",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "6",
+                "Goal Difference": "-13",
                 "Points": "1"
             }
         ],
