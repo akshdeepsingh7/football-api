@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 21 January 2026, 09:53 PM UTC (Thursday, 22 January 2026, 03:23 AM IST)
+**Last Updated:** Wednesday, 21 January 2026, 10:26 PM UTC (Thursday, 22 January 2026, 03:56 AM IST)
 
 ### Premier League
 
@@ -171,7 +171,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Arsenal | 7 | 7 | 0 | 0 | 18 | 21 |
 | 2 | Bayern Munich | 7 | 6 | 0 | 1 | 13 | 18 |
 | 3 | Real Madrid | 7 | 5 | 0 | 2 | 11 | 15 |
-| 4 | Liverpool FC | 7 | 5 | 0 | 2 | 5 | 15 |
+| 4 | Liverpool FC | 7 | 5 | 0 | 2 | 6 | 15 |
 | 5 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
 | 6 | PSG | 7 | 4 | 1 | 2 | 10 | 13 |
 | 7 | Newcastle United | 7 | 4 | 1 | 2 | 10 | 13 |
@@ -186,7 +186,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Borussia Dortmund | 7 | 3 | 2 | 2 | 4 | 11 |
 | 17 | Galatasaray | 7 | 3 | 1 | 3 | 0 | 10 |
 | 18 | Qarabağ | 7 | 3 | 1 | 3 | -2 | 10 |
-| 19 | Marseille | 7 | 3 | 0 | 4 | 1 | 9 |
+| 19 | Marseille | 7 | 3 | 0 | 4 | 0 | 9 |
 | 20 | Bayer Leverkusen | 7 | 2 | 3 | 2 | -4 | 9 |
 | 21 | Monaco | 7 | 2 | 3 | 2 | -6 | 9 |
 | 22 | PSV | 7 | 2 | 2 | 3 | 1 | 8 |
