@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 21 January 2026, 09:29 PM UTC (Thursday, 22 January 2026, 02:59 AM IST)
+**Last Updated:** Wednesday, 21 January 2026, 09:53 PM UTC (Thursday, 22 January 2026, 03:23 AM IST)
 
 ### Premier League
 
@@ -171,22 +171,22 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Arsenal | 7 | 7 | 0 | 0 | 18 | 21 |
 | 2 | Bayern Munich | 7 | 6 | 0 | 1 | 13 | 18 |
 | 3 | Real Madrid | 7 | 5 | 0 | 2 | 11 | 15 |
-| 4 | Liverpool FC | 7 | 5 | 0 | 2 | 4 | 15 |
+| 4 | Liverpool FC | 7 | 5 | 0 | 2 | 5 | 15 |
 | 5 | Tottenham Hotspur | 7 | 4 | 2 | 1 | 8 | 14 |
 | 6 | PSG | 7 | 4 | 1 | 2 | 10 | 13 |
 | 7 | Newcastle United | 7 | 4 | 1 | 2 | 10 | 13 |
-| 8 | Sporting CP | 7 | 4 | 1 | 2 | 5 | 13 |
-| 9 | Barcelona | 7 | 4 | 1 | 2 | 4 | 13 |
-| 10 | Manchester City | 7 | 4 | 1 | 2 | 4 | 13 |
-| 11 | Atlético de Madrid | 7 | 4 | 1 | 2 | 3 | 13 |
-| 12 | Atalanta | 7 | 4 | 1 | 2 | 1 | 13 |
-| 13 | Inter | 7 | 4 | 0 | 3 | 6 | 12 |
-| 14 | Juventus | 7 | 3 | 3 | 1 | 4 | 12 |
-| 15 | Chelsea | 7 | 3 | 2 | 2 | 5 | 11 |
+| 8 | Chelsea | 7 | 4 | 1 | 2 | 6 | 13 |
+| 9 | Barcelona | 7 | 4 | 1 | 2 | 5 | 13 |
+| 10 | Sporting CP | 7 | 4 | 1 | 2 | 5 | 13 |
+| 11 | Manchester City | 7 | 4 | 1 | 2 | 4 | 13 |
+| 12 | Atlético de Madrid | 7 | 4 | 1 | 2 | 3 | 13 |
+| 13 | Atalanta | 7 | 4 | 1 | 2 | 1 | 13 |
+| 14 | Inter | 7 | 4 | 0 | 3 | 6 | 12 |
+| 15 | Juventus | 7 | 3 | 3 | 1 | 4 | 12 |
 | 16 | Borussia Dortmund | 7 | 3 | 2 | 2 | 4 | 11 |
 | 17 | Galatasaray | 7 | 3 | 1 | 3 | 0 | 10 |
 | 18 | Qarabağ | 7 | 3 | 1 | 3 | -2 | 10 |
-| 19 | Marseille | 7 | 3 | 0 | 4 | 2 | 9 |
+| 19 | Marseille | 7 | 3 | 0 | 4 | 1 | 9 |
 | 20 | Bayer Leverkusen | 7 | 2 | 3 | 2 | -4 | 9 |
 | 21 | Monaco | 7 | 2 | 3 | 2 | -6 | 9 |
 | 22 | PSV | 7 | 2 | 2 | 3 | 1 | 8 |
@@ -195,13 +195,13 @@ The latest league standings are displayed below in Markdown tables:
 | 25 | Napoli | 7 | 2 | 2 | 3 | -5 | 8 |
 | 26 | FC Copenhagen | 7 | 2 | 2 | 3 | -6 | 8 |
 | 27 | Club Brugge | 7 | 2 | 1 | 4 | -5 | 7 |
-| 28 | Pafos | 7 | 1 | 4 | 2 | -5 | 7 |
-| 29 | Bodø/Glimt | 7 | 1 | 3 | 3 | -2 | 6 |
-| 30 | Benfica | 7 | 2 | 0 | 5 | -4 | 6 |
+| 28 | Bodø/Glimt | 7 | 1 | 3 | 3 | -2 | 6 |
+| 29 | Benfica | 7 | 2 | 0 | 5 | -4 | 6 |
+| 30 | Pafos | 7 | 1 | 3 | 3 | -6 | 6 |
 | 31 | Union Saint-Gilloise | 7 | 2 | 0 | 5 | -10 | 6 |
 | 32 | Ajax | 7 | 2 | 0 | 5 | -12 | 6 |
 | 33 | Eintracht Frankfurt | 7 | 1 | 1 | 5 | -9 | 4 |
-| 34 | Slavia Prague | 7 | 0 | 3 | 4 | -10 | 3 |
+| 34 | Slavia Prague | 7 | 0 | 3 | 4 | -11 | 3 |
 | 35 | Villarreal | 7 | 0 | 1 | 6 | -10 | 1 |
 | 36 | Kairat | 7 | 0 | 1 | 6 | -14 | 1 |
 
