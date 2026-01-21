@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 21 January 2026, 07:27 PM UTC",
-        "IST": "Thursday, 22 January 2026, 12:57 AM IST"
+        "UTC": "Wednesday, 21 January 2026, 07:51 PM UTC",
+        "IST": "Thursday, 22 January 2026, 01:21 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1137,6 +1137,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Qaraba\u011f",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "10"
+            },
+            {
+                "Position": "18",
                 "Team": "Marseille",
                 "Played": "6",
                 "Wins": "3",
@@ -1146,7 +1156,7 @@
                 "Points": "9"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Juventus",
                 "Played": "6",
                 "Wins": "2",
@@ -1156,7 +1166,7 @@
                 "Points": "9"
             },
             {
-                "Position": "19",
+                "Position": "20",
                 "Team": "Bayer Leverkusen",
                 "Played": "7",
                 "Wins": "2",
@@ -1166,7 +1176,7 @@
                 "Points": "9"
             },
             {
-                "Position": "20",
+                "Position": "21",
                 "Team": "Monaco",
                 "Played": "7",
                 "Wins": "2",
@@ -1176,23 +1186,13 @@
                 "Points": "9"
             },
             {
-                "Position": "21",
+                "Position": "22",
                 "Team": "PSV",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "4",
-                "Points": "8"
-            },
-            {
-                "Position": "22",
-                "Team": "Qaraba\u011f",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-3",
                 "Points": "8"
             },
             {
@@ -1300,10 +1300,10 @@
                 "Team": "Eintracht Frankfurt",
                 "Played": "7",
                 "Wins": "1",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-8",
-                "Points": "5"
+                "Draws": "1",
+                "Losses": "5",
+                "Goal Difference": "-9",
+                "Points": "4"
             },
             {
                 "Position": "34",
@@ -2305,22 +2305,22 @@
             },
             {
                 "Position": "7",
+                "Team": "Watford",
+                "Played": "27",
+                "Wins": "11",
+                "Draws": "9",
+                "Losses": "7",
+                "Goal Difference": "6",
+                "Points": "42"
+            },
+            {
+                "Position": "8",
                 "Team": "Stoke City",
                 "Played": "27",
                 "Wins": "12",
                 "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "9",
-                "Points": "41"
-            },
-            {
-                "Position": "8",
-                "Team": "Watford",
-                "Played": "26",
-                "Wins": "11",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "6",
                 "Points": "41"
             },
             {
@@ -2396,22 +2396,22 @@
             {
                 "Position": "16",
                 "Team": "Southampton",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "8",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "10",
                 "Goal Difference": "-1",
-                "Points": "33"
+                "Points": "34"
             },
             {
                 "Position": "17",
                 "Team": "Sheffield United",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "10",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "14",
                 "Goal Difference": "-3",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "18",
@@ -2445,22 +2445,22 @@
             },
             {
                 "Position": "21",
+                "Team": "Portsmouth",
+                "Played": "26",
+                "Wins": "7",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-13",
+                "Points": "29"
+            },
+            {
+                "Position": "22",
                 "Team": "Blackburn Rovers",
                 "Played": "27",
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "13",
                 "Goal Difference": "-11",
-                "Points": "28"
-            },
-            {
-                "Position": "22",
-                "Team": "Portsmouth",
-                "Played": "25",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-13",
                 "Points": "28"
             },
             {
