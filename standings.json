@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 21 January 2026, 05:54 PM UTC",
-        "IST": "Wednesday, 21 January 2026, 11:24 PM IST"
+        "UTC": "Wednesday, 21 January 2026, 06:43 PM UTC",
+        "IST": "Thursday, 22 January 2026, 12:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1007,16 +1007,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "7",
-                "Wins": "5",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "4",
-                "Points": "15"
-            },
-            {
-                "Position": "5",
                 "Team": "Tottenham Hotspur",
                 "Played": "7",
                 "Wins": "4",
@@ -1026,7 +1016,7 @@
                 "Points": "14"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "PSG",
                 "Played": "7",
                 "Wins": "4",
@@ -1036,7 +1026,7 @@
                 "Points": "13"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Sporting CP",
                 "Played": "7",
                 "Wins": "4",
@@ -1046,13 +1036,23 @@
                 "Points": "13"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Manchester City",
                 "Played": "7",
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "4",
+                "Points": "13"
+            },
+            {
+                "Position": "8",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "7",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "3",
                 "Points": "13"
             },
             {
@@ -1127,12 +1127,12 @@
             },
             {
                 "Position": "16",
-                "Team": "Qaraba\u011f",
+                "Team": "Galatasaray",
                 "Played": "7",
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "-2",
+                "Goal Difference": "0",
                 "Points": "10"
             },
             {
@@ -1157,16 +1157,6 @@
             },
             {
                 "Position": "19",
-                "Team": "Galatasaray",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "9"
-            },
-            {
-                "Position": "20",
                 "Team": "Bayer Leverkusen",
                 "Played": "7",
                 "Wins": "2",
@@ -1176,7 +1166,7 @@
                 "Points": "9"
             },
             {
-                "Position": "21",
+                "Position": "20",
                 "Team": "Monaco",
                 "Played": "7",
                 "Wins": "2",
@@ -1186,13 +1176,23 @@
                 "Points": "9"
             },
             {
-                "Position": "22",
+                "Position": "21",
                 "Team": "PSV",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "4",
+                "Points": "8"
+            },
+            {
+                "Position": "22",
+                "Team": "Qaraba\u011f",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-3",
                 "Points": "8"
             },
             {
@@ -1300,10 +1300,10 @@
                 "Team": "Eintracht Frankfurt",
                 "Played": "7",
                 "Wins": "1",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-9",
-                "Points": "4"
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-8",
+                "Points": "5"
             },
             {
                 "Position": "34",
