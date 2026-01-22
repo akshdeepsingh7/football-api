@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 22 January 2026, 09:24 PM UTC",
-        "IST": "Friday, 23 January 2026, 02:54 AM IST"
+        "UTC": "Thursday, 22 January 2026, 09:46 PM UTC",
+        "IST": "Friday, 23 January 2026, 03:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1369,16 +1369,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Ferencv\u00e1ros",
-                "Played": "7",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "6",
-                "Points": "17"
-            },
-            {
-                "Position": "5",
                 "Team": "Midtjylland",
                 "Played": "7",
                 "Wins": "5",
@@ -1388,7 +1378,7 @@
                 "Points": "16"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Braga",
                 "Played": "7",
                 "Wins": "5",
@@ -1398,13 +1388,23 @@
                 "Points": "16"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Roma",
                 "Played": "7",
                 "Wins": "5",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "6",
+                "Points": "15"
+            },
+            {
+                "Position": "7",
+                "Team": "Ferencv\u00e1ros",
+                "Played": "7",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "0",
+                "Goal Difference": "5",
                 "Points": "15"
             },
             {
@@ -1464,7 +1464,7 @@
                 "Wins": "4",
                 "Draws": "0",
                 "Losses": "3",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "12"
             },
             {
@@ -1509,6 +1509,16 @@
             },
             {
                 "Position": "18",
+                "Team": "Panathinaikos",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "11"
+            },
+            {
+                "Position": "19",
                 "Team": "KRC Genk",
                 "Played": "7",
                 "Wins": "3",
@@ -1518,23 +1528,13 @@
                 "Points": "11"
             },
             {
-                "Position": "19",
-                "Team": "Panathinaikos",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "1",
-                "Points": "10"
-            },
-            {
                 "Position": "20",
                 "Team": "Dinamo Zagreb",
                 "Played": "7",
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "10"
             },
             {
@@ -1544,7 +1544,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "9"
             },
             {
@@ -1624,7 +1624,7 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "5",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "6"
             },
             {
@@ -1634,7 +1634,7 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "5",
-                "Goal Difference": "-9",
+                "Goal Difference": "-8",
                 "Points": "6"
             },
             {
@@ -1664,7 +1664,7 @@
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "6",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "3"
             },
             {

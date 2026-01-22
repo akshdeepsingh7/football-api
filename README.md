@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 22 January 2026, 09:24 PM UTC (Friday, 23 January 2026, 02:54 AM IST)
+**Last Updated:** Thursday, 22 January 2026, 09:46 PM UTC (Friday, 23 January 2026, 03:16 AM IST)
 
 ### Premier League
 
@@ -212,24 +212,24 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Lyon | 7 | 6 | 0 | 1 | 11 | 18 |
 | 2 | Aston Villa | 7 | 6 | 0 | 1 | 7 | 18 |
 | 3 | SC Freiburg | 7 | 5 | 2 | 0 | 7 | 17 |
-| 4 | Ferencváros | 7 | 5 | 2 | 0 | 6 | 17 |
-| 5 | Midtjylland | 7 | 5 | 1 | 1 | 8 | 16 |
-| 6 | Braga | 7 | 5 | 1 | 1 | 6 | 16 |
-| 7 | Roma | 7 | 5 | 0 | 2 | 6 | 15 |
+| 4 | Midtjylland | 7 | 5 | 1 | 1 | 8 | 16 |
+| 5 | Braga | 7 | 5 | 1 | 1 | 6 | 16 |
+| 6 | Roma | 7 | 5 | 0 | 2 | 6 | 15 |
+| 7 | Ferencváros | 7 | 4 | 3 | 0 | 5 | 15 |
 | 8 | Real Betis | 7 | 4 | 2 | 1 | 5 | 14 |
 | 9 | Porto | 7 | 4 | 2 | 1 | 4 | 14 |
 | 10 | Red Star Belgrade | 7 | 4 | 1 | 2 | 1 | 13 |
 | 11 | VfB Stuttgart | 7 | 4 | 0 | 3 | 6 | 12 |
 | 12 | PAOK | 7 | 3 | 3 | 1 | 5 | 12 |
-| 13 | Celta de Vigo | 7 | 4 | 0 | 3 | 4 | 12 |
+| 13 | Celta de Vigo | 7 | 4 | 0 | 3 | 5 | 12 |
 | 14 | Bologna | 7 | 3 | 3 | 1 | 4 | 12 |
 | 15 | Nottingham Forest | 7 | 3 | 2 | 2 | 4 | 11 |
 | 16 | Plzeň | 7 | 2 | 5 | 0 | 4 | 11 |
 | 17 | Fenerbahçe | 7 | 3 | 2 | 2 | 3 | 11 |
-| 18 | KRC Genk | 7 | 3 | 2 | 2 | 1 | 11 |
-| 19 | Panathinaikos | 7 | 3 | 1 | 3 | 1 | 10 |
-| 20 | Dinamo Zagreb | 7 | 3 | 1 | 3 | -4 | 10 |
-| 21 | Lille | 7 | 3 | 0 | 4 | 2 | 9 |
+| 18 | Panathinaikos | 7 | 3 | 2 | 2 | 2 | 11 |
+| 19 | KRC Genk | 7 | 3 | 2 | 2 | 1 | 11 |
+| 20 | Dinamo Zagreb | 7 | 3 | 1 | 3 | -3 | 10 |
+| 21 | Lille | 7 | 3 | 0 | 4 | 1 | 9 |
 | 22 | Brann | 7 | 2 | 3 | 2 | -1 | 9 |
 | 23 | BSC Young Boys | 7 | 3 | 0 | 4 | -5 | 9 |
 | 24 | Celtic | 7 | 2 | 2 | 3 | -4 | 8 |
@@ -237,11 +237,11 @@ The latest league standings are displayed below in Markdown tables:
 | 26 | Feyenoord | 7 | 2 | 0 | 5 | -3 | 6 |
 | 27 | FC Basel | 7 | 2 | 0 | 5 | -3 | 6 |
 | 28 | RB Salzburg | 7 | 2 | 0 | 5 | -4 | 6 |
-| 29 | FCSB | 7 | 2 | 0 | 5 | -5 | 6 |
-| 30 | Go Ahead Eagles | 7 | 2 | 0 | 5 | -9 | 6 |
+| 29 | FCSB | 7 | 2 | 0 | 5 | -6 | 6 |
+| 30 | Go Ahead Eagles | 7 | 2 | 0 | 5 | -8 | 6 |
 | 31 | Rangers | 7 | 1 | 1 | 5 | -7 | 4 |
 | 32 | Sturm Graz | 7 | 1 | 1 | 5 | -7 | 4 |
-| 33 | Nice | 7 | 1 | 0 | 6 | -6 | 3 |
+| 33 | Nice | 7 | 1 | 0 | 6 | -7 | 3 |
 | 34 | Utrecht | 7 | 0 | 2 | 5 | -6 | 2 |
 | 35 | Malmö | 7 | 0 | 1 | 6 | -10 | 1 |
 | 36 | Maccabi Tel Aviv | 7 | 0 | 1 | 6 | -17 | 1 |
