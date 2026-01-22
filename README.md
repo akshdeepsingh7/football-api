@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 22 January 2026, 07:45 PM UTC (Friday, 23 January 2026, 01:15 AM IST)
+**Last Updated:** Thursday, 22 January 2026, 08:29 PM UTC (Friday, 23 January 2026, 01:59 AM IST)
 
 ### Premier League
 
@@ -213,38 +213,38 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Aston Villa | 7 | 6 | 0 | 1 | 7 | 18 |
 | 3 | SC Freiburg | 7 | 5 | 2 | 0 | 7 | 17 |
 | 4 | Midtjylland | 7 | 5 | 1 | 1 | 8 | 16 |
-| 5 | Ferencváros | 6 | 4 | 2 | 0 | 5 | 14 |
+| 5 | Ferencváros | 7 | 4 | 3 | 0 | 5 | 15 |
 | 6 | Real Betis | 7 | 4 | 2 | 1 | 5 | 14 |
-| 7 | Porto | 7 | 4 | 2 | 1 | 4 | 14 |
-| 8 | Braga | 6 | 4 | 1 | 1 | 5 | 13 |
-| 9 | Red Star Belgrade | 7 | 4 | 1 | 2 | 1 | 13 |
-| 10 | VfB Stuttgart | 6 | 4 | 0 | 2 | 7 | 12 |
-| 11 | PAOK | 7 | 3 | 3 | 1 | 5 | 12 |
-| 12 | Roma | 6 | 4 | 0 | 2 | 5 | 12 |
-| 13 | Bologna | 7 | 3 | 3 | 1 | 4 | 12 |
-| 14 | Nottingham Forest | 6 | 3 | 2 | 1 | 5 | 11 |
-| 15 | Plzeň | 7 | 2 | 5 | 0 | 4 | 11 |
-| 16 | Fenerbahçe | 7 | 3 | 2 | 2 | 3 | 11 |
-| 17 | Panathinaikos | 6 | 3 | 1 | 2 | 2 | 10 |
-| 18 | KRC Genk | 6 | 3 | 1 | 2 | 1 | 10 |
-| 19 | Celta de Vigo | 6 | 3 | 0 | 3 | 3 | 9 |
-| 20 | Lille | 6 | 3 | 0 | 3 | 3 | 9 |
-| 21 | Brann | 7 | 2 | 3 | 2 | -1 | 9 |
-| 22 | BSC Young Boys | 7 | 3 | 0 | 4 | -5 | 9 |
-| 23 | Celtic | 7 | 2 | 2 | 3 | -4 | 8 |
-| 24 | Ludogorets | 6 | 2 | 1 | 3 | -3 | 7 |
-| 25 | Dinamo Zagreb | 6 | 2 | 1 | 3 | -5 | 7 |
-| 26 | FC Basel | 6 | 2 | 0 | 4 | -1 | 6 |
-| 27 | Feyenoord | 7 | 2 | 0 | 5 | -3 | 6 |
-| 28 | FCSB | 6 | 2 | 0 | 4 | -4 | 6 |
-| 29 | Go Ahead Eagles | 6 | 2 | 0 | 4 | -6 | 6 |
-| 30 | Sturm Graz | 7 | 1 | 1 | 5 | -7 | 4 |
-| 31 | RB Salzburg | 6 | 1 | 0 | 5 | -6 | 3 |
-| 32 | Utrecht | 6 | 0 | 1 | 5 | -6 | 1 |
-| 33 | Rangers | 6 | 0 | 1 | 5 | -8 | 1 |
-| 34 | Malmö | 7 | 0 | 1 | 6 | -10 | 1 |
-| 35 | Maccabi Tel Aviv | 7 | 0 | 1 | 6 | -17 | 1 |
-| 36 | Nice | 6 | 0 | 0 | 6 | -9 | 0 |
+| 7 | Braga | 7 | 4 | 2 | 1 | 5 | 14 |
+| 8 | Porto | 7 | 4 | 2 | 1 | 4 | 14 |
+| 9 | VfB Stuttgart | 7 | 4 | 1 | 2 | 7 | 13 |
+| 10 | Roma | 7 | 4 | 1 | 2 | 5 | 13 |
+| 11 | Red Star Belgrade | 7 | 4 | 1 | 2 | 1 | 13 |
+| 12 | PAOK | 7 | 3 | 3 | 1 | 5 | 12 |
+| 13 | Nottingham Forest | 7 | 3 | 3 | 1 | 5 | 12 |
+| 14 | Celta de Vigo | 7 | 4 | 0 | 3 | 4 | 12 |
+| 15 | Bologna | 7 | 3 | 3 | 1 | 4 | 12 |
+| 16 | Plzeň | 7 | 2 | 5 | 0 | 4 | 11 |
+| 17 | Fenerbahçe | 7 | 3 | 2 | 2 | 3 | 11 |
+| 18 | Panathinaikos | 7 | 3 | 2 | 2 | 2 | 11 |
+| 19 | KRC Genk | 6 | 3 | 1 | 2 | 1 | 10 |
+| 20 | Dinamo Zagreb | 7 | 3 | 1 | 3 | -3 | 10 |
+| 21 | Lille | 7 | 3 | 0 | 4 | 2 | 9 |
+| 22 | Brann | 7 | 2 | 3 | 2 | -1 | 9 |
+| 23 | BSC Young Boys | 7 | 3 | 0 | 4 | -5 | 9 |
+| 24 | Ludogorets | 7 | 2 | 2 | 3 | -3 | 8 |
+| 25 | Celtic | 7 | 2 | 2 | 3 | -4 | 8 |
+| 26 | Feyenoord | 7 | 2 | 0 | 5 | -3 | 6 |
+| 27 | FC Basel | 7 | 2 | 0 | 5 | -3 | 6 |
+| 28 | RB Salzburg | 7 | 2 | 0 | 5 | -4 | 6 |
+| 29 | FCSB | 7 | 2 | 0 | 5 | -6 | 6 |
+| 30 | Go Ahead Eagles | 7 | 2 | 0 | 5 | -7 | 6 |
+| 31 | Sturm Graz | 7 | 1 | 1 | 5 | -7 | 4 |
+| 32 | Nice | 7 | 1 | 0 | 6 | -8 | 3 |
+| 33 | Rangers | 7 | 0 | 2 | 5 | -8 | 2 |
+| 34 | Utrecht | 6 | 0 | 1 | 5 | -6 | 1 |
+| 35 | Malmö | 7 | 0 | 1 | 6 | -10 | 1 |
+| 36 | Maccabi Tel Aviv | 7 | 0 | 1 | 6 | -17 | 1 |
 
 ### Europa Conference League
 
