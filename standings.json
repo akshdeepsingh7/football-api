@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 22 January 2026, 08:29 PM UTC",
-        "IST": "Friday, 23 January 2026, 01:59 AM IST"
+        "UTC": "Thursday, 22 January 2026, 08:53 PM UTC",
+        "IST": "Friday, 23 January 2026, 02:23 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1379,6 +1379,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Roma",
+                "Played": "7",
+                "Wins": "5",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "6",
+                "Points": "15"
+            },
+            {
+                "Position": "6",
                 "Team": "Ferencv\u00e1ros",
                 "Played": "7",
                 "Wins": "4",
@@ -1388,7 +1398,7 @@
                 "Points": "15"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Real Betis",
                 "Played": "7",
                 "Wins": "4",
@@ -1398,7 +1408,7 @@
                 "Points": "14"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Braga",
                 "Played": "7",
                 "Wins": "4",
@@ -1408,7 +1418,7 @@
                 "Points": "14"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Porto",
                 "Played": "7",
                 "Wins": "4",
@@ -1418,27 +1428,7 @@
                 "Points": "14"
             },
             {
-                "Position": "9",
-                "Team": "VfB Stuttgart",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "7",
-                "Points": "13"
-            },
-            {
                 "Position": "10",
-                "Team": "Roma",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "5",
-                "Points": "13"
-            },
-            {
-                "Position": "11",
                 "Team": "Red Star Belgrade",
                 "Played": "7",
                 "Wins": "4",
@@ -1446,6 +1436,16 @@
                 "Losses": "2",
                 "Goal Difference": "1",
                 "Points": "13"
+            },
+            {
+                "Position": "11",
+                "Team": "VfB Stuttgart",
+                "Played": "7",
+                "Wins": "4",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "6",
+                "Points": "12"
             },
             {
                 "Position": "12",
@@ -1534,7 +1534,7 @@
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "10"
             },
             {
@@ -1569,16 +1569,6 @@
             },
             {
                 "Position": "24",
-                "Team": "Ludogorets",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "8"
-            },
-            {
-                "Position": "25",
                 "Team": "Celtic",
                 "Played": "7",
                 "Wins": "2",
@@ -1586,6 +1576,16 @@
                 "Losses": "3",
                 "Goal Difference": "-4",
                 "Points": "8"
+            },
+            {
+                "Position": "25",
+                "Team": "Ludogorets",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "7"
             },
             {
                 "Position": "26",
@@ -1599,7 +1599,7 @@
             },
             {
                 "Position": "27",
-                "Team": "FC Basel",
+                "Team": "RB Salzburg",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "0",
@@ -1609,7 +1609,7 @@
             },
             {
                 "Position": "28",
-                "Team": "RB Salzburg",
+                "Team": "FC Basel",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "0",
@@ -1624,7 +1624,7 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "5",
-                "Goal Difference": "-6",
+                "Goal Difference": "-5",
                 "Points": "6"
             },
             {
@@ -1634,12 +1634,12 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "5",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "6"
             },
             {
                 "Position": "31",
-                "Team": "Sturm Graz",
+                "Team": "Rangers",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "1",
@@ -1649,23 +1649,23 @@
             },
             {
                 "Position": "32",
+                "Team": "Sturm Graz",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "5",
+                "Goal Difference": "-7",
+                "Points": "4"
+            },
+            {
+                "Position": "33",
                 "Team": "Nice",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "6",
-                "Goal Difference": "-8",
+                "Goal Difference": "-7",
                 "Points": "3"
-            },
-            {
-                "Position": "33",
-                "Team": "Rangers",
-                "Played": "7",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-8",
-                "Points": "2"
             },
             {
                 "Position": "34",
