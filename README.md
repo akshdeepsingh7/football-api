@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 22 January 2026, 10:24 PM UTC (Friday, 23 January 2026, 03:54 AM IST)
+**Last Updated:** Thursday, 22 January 2026, 10:48 PM UTC (Friday, 23 January 2026, 04:18 AM IST)
 
 ### Premier League
 
@@ -218,7 +218,7 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Ferencváros | 7 | 4 | 3 | 0 | 5 | 15 |
 | 8 | Real Betis | 7 | 4 | 2 | 1 | 5 | 14 |
 | 9 | Porto | 7 | 4 | 2 | 1 | 4 | 14 |
-| 10 | KRC Genk | 7 | 4 | 1 | 2 | 2 | 13 |
+| 10 | KRC Genk | 7 | 4 | 1 | 2 | 3 | 13 |
 | 11 | Red Star Belgrade | 7 | 4 | 1 | 2 | 1 | 13 |
 | 12 | PAOK | 7 | 3 | 3 | 1 | 5 | 12 |
 | 13 | VfB Stuttgart | 7 | 4 | 0 | 3 | 5 | 12 |
@@ -242,7 +242,7 @@ The latest league standings are displayed below in Markdown tables:
 | 31 | Rangers | 7 | 1 | 1 | 5 | -7 | 4 |
 | 32 | Sturm Graz | 7 | 1 | 1 | 5 | -7 | 4 |
 | 33 | Nice | 7 | 1 | 0 | 6 | -7 | 3 |
-| 34 | Utrecht | 7 | 0 | 1 | 6 | -7 | 1 |
+| 34 | Utrecht | 7 | 0 | 1 | 6 | -8 | 1 |
 | 35 | Malmö | 7 | 0 | 1 | 6 | -10 | 1 |
 | 36 | Maccabi Tel Aviv | 7 | 0 | 1 | 6 | -17 | 1 |
 
