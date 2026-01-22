@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 22 January 2026, 06:36 PM UTC",
-        "IST": "Friday, 23 January 2026, 12:06 AM IST"
+        "UTC": "Thursday, 22 January 2026, 07:25 PM UTC",
+        "IST": "Friday, 23 January 2026, 12:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1369,16 +1369,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Real Betis",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "0",
-                "Goal Difference": "7",
-                "Points": "15"
-            },
-            {
-                "Position": "5",
                 "Team": "SC Freiburg",
                 "Played": "7",
                 "Wins": "4",
@@ -1386,6 +1376,16 @@
                 "Losses": "0",
                 "Goal Difference": "6",
                 "Points": "15"
+            },
+            {
+                "Position": "5",
+                "Team": "Real Betis",
+                "Played": "7",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "6",
+                "Points": "14"
             },
             {
                 "Position": "6",
@@ -1459,6 +1459,26 @@
             },
             {
                 "Position": "13",
+                "Team": "PAOK",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "4",
+                "Points": "12"
+            },
+            {
+                "Position": "14",
+                "Team": "Bologna",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "4",
+                "Points": "12"
+            },
+            {
+                "Position": "15",
                 "Team": "Nottingham Forest",
                 "Played": "6",
                 "Wins": "3",
@@ -1468,7 +1488,7 @@
                 "Points": "11"
             },
             {
-                "Position": "14",
+                "Position": "16",
                 "Team": "Fenerbah\u00e7e",
                 "Played": "7",
                 "Wins": "3",
@@ -1476,26 +1496,6 @@
                 "Losses": "2",
                 "Goal Difference": "3",
                 "Points": "11"
-            },
-            {
-                "Position": "15",
-                "Team": "Bologna",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "11"
-            },
-            {
-                "Position": "16",
-                "Team": "PAOK",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "3",
-                "Points": "10"
             },
             {
                 "Position": "17",
@@ -1519,16 +1519,6 @@
             },
             {
                 "Position": "19",
-                "Team": "Celtic",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "10"
-            },
-            {
-                "Position": "20",
                 "Team": "Celta de Vigo",
                 "Played": "6",
                 "Wins": "3",
@@ -1538,7 +1528,7 @@
                 "Points": "9"
             },
             {
-                "Position": "21",
+                "Position": "20",
                 "Team": "Lille",
                 "Played": "6",
                 "Wins": "3",
@@ -1548,7 +1538,7 @@
                 "Points": "9"
             },
             {
-                "Position": "22",
+                "Position": "21",
                 "Team": "BSC Young Boys",
                 "Played": "7",
                 "Wins": "3",
@@ -1558,13 +1548,23 @@
                 "Points": "9"
             },
             {
-                "Position": "23",
+                "Position": "22",
                 "Team": "Brann",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-2",
+                "Points": "8"
+            },
+            {
+                "Position": "23",
+                "Team": "Celtic",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-4",
                 "Points": "8"
             },
             {
@@ -1599,22 +1599,22 @@
             },
             {
                 "Position": "27",
+                "Team": "Feyenoord",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "5",
+                "Goal Difference": "-4",
+                "Points": "6"
+            },
+            {
+                "Position": "28",
                 "Team": "FCSB",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "4",
                 "Goal Difference": "-4",
-                "Points": "6"
-            },
-            {
-                "Position": "28",
-                "Team": "Feyenoord",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "5",
-                "Goal Difference": "-5",
                 "Points": "6"
             },
             {
@@ -1634,7 +1634,7 @@
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "5",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "4"
             },
             {
