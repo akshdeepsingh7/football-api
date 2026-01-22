@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 22 January 2026, 09:46 PM UTC",
-        "IST": "Friday, 23 January 2026, 03:16 AM IST"
+        "UTC": "Thursday, 22 January 2026, 10:24 PM UTC",
+        "IST": "Friday, 23 January 2026, 03:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1394,7 +1394,7 @@
                 "Wins": "5",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "6",
+                "Goal Difference": "7",
                 "Points": "15"
             },
             {
@@ -1429,6 +1429,16 @@
             },
             {
                 "Position": "10",
+                "Team": "KRC Genk",
+                "Played": "7",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "13"
+            },
+            {
+                "Position": "11",
                 "Team": "Red Star Belgrade",
                 "Played": "7",
                 "Wins": "4",
@@ -1436,16 +1446,6 @@
                 "Losses": "2",
                 "Goal Difference": "1",
                 "Points": "13"
-            },
-            {
-                "Position": "11",
-                "Team": "VfB Stuttgart",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "6",
-                "Points": "12"
             },
             {
                 "Position": "12",
@@ -1459,7 +1459,7 @@
             },
             {
                 "Position": "13",
-                "Team": "Celta de Vigo",
+                "Team": "VfB Stuttgart",
                 "Played": "7",
                 "Wins": "4",
                 "Draws": "0",
@@ -1469,6 +1469,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Celta de Vigo",
+                "Played": "7",
+                "Wins": "4",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "4",
+                "Points": "12"
+            },
+            {
+                "Position": "15",
                 "Team": "Bologna",
                 "Played": "7",
                 "Wins": "3",
@@ -1478,7 +1488,7 @@
                 "Points": "12"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Nottingham Forest",
                 "Played": "7",
                 "Wins": "3",
@@ -1488,7 +1498,7 @@
                 "Points": "11"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Plze\u0148",
                 "Played": "7",
                 "Wins": "2",
@@ -1498,7 +1508,7 @@
                 "Points": "11"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Fenerbah\u00e7e",
                 "Played": "7",
                 "Wins": "3",
@@ -1508,7 +1518,7 @@
                 "Points": "11"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Panathinaikos",
                 "Played": "7",
                 "Wins": "3",
@@ -1518,23 +1528,13 @@
                 "Points": "11"
             },
             {
-                "Position": "19",
-                "Team": "KRC Genk",
-                "Played": "7",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "11"
-            },
-            {
                 "Position": "20",
                 "Team": "Dinamo Zagreb",
                 "Played": "7",
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "10"
             },
             {
@@ -1544,7 +1544,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "9"
             },
             {
@@ -1624,7 +1624,7 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "5",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "6"
             },
             {
@@ -1672,10 +1672,10 @@
                 "Team": "Utrecht",
                 "Played": "7",
                 "Wins": "0",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "-6",
-                "Points": "2"
+                "Draws": "1",
+                "Losses": "6",
+                "Goal Difference": "-7",
+                "Points": "1"
             },
             {
                 "Position": "35",
