@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 23 January 2026, 06:35 PM UTC",
-        "IST": "Saturday, 24 January 2026, 12:05 AM IST"
+        "UTC": "Friday, 23 January 2026, 07:25 PM UTC",
+        "IST": "Saturday, 24 January 2026, 12:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -795,6 +795,16 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "PSG",
+                "Played": "19",
+                "Wins": "13",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "25",
+                "Points": "43"
+            },
+            {
+                "Position": "2",
                 "Team": "Lens",
                 "Played": "18",
                 "Wins": "14",
@@ -802,16 +812,6 @@
                 "Losses": "3",
                 "Goal Difference": "19",
                 "Points": "43"
-            },
-            {
-                "Position": "2",
-                "Team": "PSG",
-                "Played": "18",
-                "Wins": "13",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "25",
-                "Points": "42"
             },
             {
                 "Position": "3",
@@ -956,12 +956,12 @@
             {
                 "Position": "17",
                 "Team": "Auxerre",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "3",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "12",
                 "Goal Difference": "-14",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "18",
