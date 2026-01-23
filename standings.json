@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 23 January 2026, 10:19 PM UTC",
-        "IST": "Saturday, 24 January 2026, 03:49 AM IST"
+        "UTC": "Friday, 23 January 2026, 10:44 PM UTC",
+        "IST": "Saturday, 24 January 2026, 04:14 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2183,26 +2183,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Santa Clara",
-                "Played": "18",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-6",
-                "Points": "17"
-            },
-            {
-                "Position": "14",
-                "Team": "Nacional",
-                "Played": "18",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-6",
-                "Points": "17"
-            },
-            {
-                "Position": "15",
                 "Team": "Arouca",
                 "Played": "18",
                 "Wins": "4",
@@ -2212,14 +2192,34 @@
                 "Points": "17"
             },
             {
+                "Position": "14",
+                "Team": "Santa Clara",
+                "Played": "18",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-6",
+                "Points": "17"
+            },
+            {
+                "Position": "15",
+                "Team": "Nacional",
+                "Played": "18",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-6",
+                "Points": "17"
+            },
+            {
                 "Position": "16",
                 "Team": "Casa Pia",
                 "Played": "19",
-                "Wins": "4",
-                "Draws": "5",
+                "Wins": "3",
+                "Draws": "6",
                 "Losses": "10",
-                "Goal Difference": "-17",
-                "Points": "17"
+                "Goal Difference": "-18",
+                "Points": "15"
             },
             {
                 "Position": "17",
@@ -2236,10 +2236,10 @@
                 "Team": "AVS",
                 "Played": "19",
                 "Wins": "0",
-                "Draws": "4",
-                "Losses": "15",
-                "Goal Difference": "-34",
-                "Points": "4"
+                "Draws": "5",
+                "Losses": "14",
+                "Goal Difference": "-33",
+                "Points": "5"
             }
         ],
         "EFL Championship": [

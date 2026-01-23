@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 23 January 2026, 10:19 PM UTC (Saturday, 24 January 2026, 03:49 AM IST)
+**Last Updated:** Friday, 23 January 2026, 10:44 PM UTC (Saturday, 24 January 2026, 04:14 AM IST)
 
 ### Premier League
 
@@ -303,12 +303,12 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Alverca | 18 | 7 | 2 | 9 | -9 | 23 |
 | 11 | Rio Ave | 18 | 4 | 8 | 6 | -9 | 20 |
 | 12 | Estrela Amadora | 18 | 4 | 7 | 7 | -9 | 19 |
-| 13 | Santa Clara | 18 | 4 | 5 | 9 | -6 | 17 |
-| 14 | Nacional | 18 | 4 | 5 | 9 | -6 | 17 |
-| 15 | Arouca | 18 | 4 | 5 | 9 | -23 | 17 |
-| 16 | Casa Pia | 19 | 4 | 5 | 10 | -17 | 17 |
+| 13 | Arouca | 18 | 4 | 5 | 9 | -23 | 17 |
+| 14 | Santa Clara | 18 | 4 | 5 | 9 | -6 | 17 |
+| 15 | Nacional | 18 | 4 | 5 | 9 | -6 | 17 |
+| 16 | Casa Pia | 19 | 3 | 6 | 10 | -18 | 15 |
 | 17 | Tondela | 18 | 3 | 3 | 12 | -18 | 12 |
-| 18 | AVS | 19 | 0 | 4 | 15 | -34 | 4 |
+| 18 | AVS | 19 | 0 | 5 | 14 | -33 | 5 |
 
 ### EFL Championship
 
