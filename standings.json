@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 23 January 2026, 08:49 PM UTC",
-        "IST": "Saturday, 24 January 2026, 02:19 AM IST"
+        "UTC": "Friday, 23 January 2026, 09:22 PM UTC",
+        "IST": "Saturday, 24 January 2026, 02:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -281,11 +281,11 @@
                 "Position": "8",
                 "Team": "Elche",
                 "Played": "21",
-                "Wins": "6",
-                "Draws": "9",
+                "Wins": "5",
+                "Draws": "10",
                 "Losses": "6",
-                "Goal Difference": "2",
-                "Points": "27"
+                "Goal Difference": "1",
+                "Points": "25"
             },
             {
                 "Position": "9",
@@ -392,10 +392,10 @@
                 "Team": "Levante",
                 "Played": "20",
                 "Wins": "3",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-12",
-                "Points": "14"
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "-11",
+                "Points": "15"
             },
             {
                 "Position": "20",
