@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 23 January 2026, 08:27 PM UTC",
-        "IST": "Saturday, 24 January 2026, 01:57 AM IST"
+        "UTC": "Friday, 23 January 2026, 08:49 PM UTC",
+        "IST": "Saturday, 24 January 2026, 02:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -595,11 +595,11 @@
                 "Position": "1",
                 "Team": "Inter",
                 "Played": "22",
-                "Wins": "16",
-                "Draws": "2",
+                "Wins": "17",
+                "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "27",
-                "Points": "50"
+                "Goal Difference": "28",
+                "Points": "52"
             },
             {
                 "Position": "2",
@@ -773,22 +773,22 @@
             },
             {
                 "Position": "19",
-                "Team": "Pisa",
-                "Played": "22",
-                "Wins": "1",
-                "Draws": "12",
-                "Losses": "9",
-                "Goal Difference": "-15",
-                "Points": "15"
-            },
-            {
-                "Position": "20",
                 "Team": "Hellas Verona",
                 "Played": "21",
                 "Wins": "2",
                 "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-17",
+                "Points": "14"
+            },
+            {
+                "Position": "20",
+                "Team": "Pisa",
+                "Played": "22",
+                "Wins": "1",
+                "Draws": "11",
+                "Losses": "10",
+                "Goal Difference": "-16",
                 "Points": "14"
             }
         ],
@@ -797,11 +797,11 @@
                 "Position": "1",
                 "Team": "PSG",
                 "Played": "19",
-                "Wins": "13",
-                "Draws": "4",
+                "Wins": "14",
+                "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "25",
-                "Points": "43"
+                "Goal Difference": "26",
+                "Points": "45"
             },
             {
                 "Position": "2",
@@ -958,10 +958,10 @@
                 "Team": "Auxerre",
                 "Played": "19",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-14",
-                "Points": "13"
+                "Draws": "3",
+                "Losses": "13",
+                "Goal Difference": "-15",
+                "Points": "12"
             },
             {
                 "Position": "18",
@@ -2295,6 +2295,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Derby County",
+                "Played": "29",
+                "Wins": "12",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "3",
+                "Points": "44"
+            },
+            {
+                "Position": "7",
                 "Team": "Preston North End",
                 "Played": "28",
                 "Wins": "11",
@@ -2304,23 +2314,13 @@
                 "Points": "43"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Watford",
                 "Played": "27",
                 "Wins": "11",
                 "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "6",
-                "Points": "42"
-            },
-            {
-                "Position": "8",
-                "Team": "Derby County",
-                "Played": "29",
-                "Wins": "11",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "2",
                 "Points": "42"
             },
             {
@@ -2428,10 +2428,10 @@
                 "Team": "West Bromwich Albion",
                 "Played": "29",
                 "Wins": "9",
-                "Draws": "5",
-                "Losses": "15",
-                "Goal Difference": "-12",
-                "Points": "32"
+                "Draws": "4",
+                "Losses": "16",
+                "Goal Difference": "-13",
+                "Points": "31"
             },
             {
                 "Position": "20",

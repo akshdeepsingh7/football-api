@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 23 January 2026, 08:27 PM UTC (Saturday, 24 January 2026, 01:57 AM IST)
+**Last Updated:** Friday, 23 January 2026, 08:49 PM UTC (Saturday, 24 January 2026, 02:19 AM IST)
 
 ### Premier League
 
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 22 | 16 | 2 | 4 | 27 | 50 |
+| 1 | Inter | 22 | 17 | 1 | 4 | 28 | 52 |
 | 2 | Milan | 21 | 13 | 7 | 1 | 18 | 46 |
 | 3 | Napoli | 21 | 13 | 4 | 4 | 14 | 43 |
 | 4 | Roma | 21 | 14 | 0 | 7 | 14 | 42 |
@@ -138,14 +138,14 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Genoa | 21 | 4 | 8 | 9 | -7 | 20 |
 | 17 | Fiorentina | 21 | 3 | 8 | 10 | -9 | 17 |
 | 18 | Lecce | 21 | 4 | 5 | 12 | -16 | 17 |
-| 19 | Pisa | 22 | 1 | 12 | 9 | -15 | 15 |
-| 20 | Hellas Verona | 21 | 2 | 8 | 11 | -17 | 14 |
+| 19 | Hellas Verona | 21 | 2 | 8 | 11 | -17 | 14 |
+| 20 | Pisa | 22 | 1 | 11 | 10 | -16 | 14 |
 
 ### Ligue 1
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 19 | 13 | 4 | 2 | 25 | 43 |
+| 1 | PSG | 19 | 14 | 3 | 2 | 26 | 45 |
 | 2 | Lens | 18 | 14 | 1 | 3 | 19 | 43 |
 | 3 | Marseille | 18 | 11 | 2 | 5 | 22 | 35 |
 | 4 | Lyon | 18 | 10 | 3 | 5 | 9 | 33 |
@@ -161,7 +161,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Le Havre | 18 | 4 | 7 | 7 | -8 | 19 |
 | 15 | Nice | 18 | 5 | 3 | 10 | -14 | 18 |
 | 16 | Nantes | 18 | 3 | 5 | 10 | -13 | 14 |
-| 17 | Auxerre | 19 | 3 | 4 | 12 | -14 | 13 |
+| 17 | Auxerre | 19 | 3 | 3 | 13 | -15 | 12 |
 | 18 | Metz | 18 | 3 | 3 | 12 | -21 | 12 |
 
 ### Champions League
@@ -319,9 +319,9 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Ipswich Town | 27 | 14 | 8 | 5 | 23 | 50 |
 | 4 | Hull City | 27 | 14 | 5 | 8 | 6 | 47 |
 | 5 | Millwall | 28 | 13 | 7 | 8 | -3 | 46 |
-| 6 | Preston North End | 28 | 11 | 10 | 7 | 7 | 43 |
-| 7 | Watford | 27 | 11 | 9 | 7 | 6 | 42 |
-| 8 | Derby County | 29 | 11 | 9 | 9 | 2 | 42 |
+| 6 | Derby County | 29 | 12 | 8 | 9 | 3 | 44 |
+| 7 | Preston North End | 28 | 11 | 10 | 7 | 7 | 43 |
+| 8 | Watford | 27 | 11 | 9 | 7 | 6 | 42 |
 | 9 | Stoke City | 28 | 12 | 5 | 11 | 8 | 41 |
 | 10 | Wrexham | 28 | 10 | 11 | 7 | 5 | 41 |
 | 11 | Bristol City | 28 | 11 | 7 | 10 | 7 | 40 |
@@ -332,7 +332,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Swansea City | 28 | 10 | 6 | 12 | -4 | 36 |
 | 17 | Sheffield United | 27 | 10 | 2 | 15 | -4 | 32 |
 | 18 | Charlton Athletic | 27 | 8 | 8 | 11 | -7 | 32 |
-| 19 | West Bromwich Albion | 29 | 9 | 5 | 15 | -12 | 32 |
+| 19 | West Bromwich Albion | 29 | 9 | 4 | 16 | -13 | 31 |
 | 20 | Norwich City | 28 | 8 | 6 | 14 | -5 | 30 |
 | 21 | Portsmouth | 26 | 7 | 8 | 11 | -13 | 29 |
 | 22 | Blackburn Rovers | 27 | 7 | 7 | 13 | -11 | 28 |
