@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 23 January 2026, 07:25 PM UTC (Saturday, 24 January 2026, 12:55 AM IST)
+**Last Updated:** Friday, 23 January 2026, 07:41 PM UTC (Saturday, 24 January 2026, 01:11 AM IST)
 
 ### Premier League
 
@@ -109,12 +109,12 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Köln | 18 | 5 | 5 | 8 | -3 | 20 |
 | 11 | Borussia Mönchengladbach | 18 | 5 | 5 | 8 | -6 | 20 |
 | 12 | VfL Wolfsburg | 18 | 5 | 4 | 9 | -11 | 19 |
-| 13 | Werder Bremen | 17 | 4 | 6 | 7 | -13 | 18 |
-| 14 | Hamburg | 17 | 4 | 5 | 8 | -10 | 17 |
+| 13 | Hamburg | 18 | 4 | 6 | 8 | -10 | 18 |
+| 14 | Werder Bremen | 17 | 4 | 6 | 7 | -13 | 18 |
 | 15 | Augsburg | 18 | 4 | 4 | 10 | -15 | 16 |
-| 16 | Heidenheim | 18 | 3 | 4 | 11 | -22 | 13 |
-| 17 | Mainz 05 | 18 | 2 | 6 | 10 | -13 | 12 |
-| 18 | St. Pauli | 17 | 3 | 3 | 11 | -15 | 12 |
+| 16 | St. Pauli | 18 | 3 | 4 | 11 | -15 | 13 |
+| 17 | Heidenheim | 18 | 3 | 4 | 11 | -22 | 13 |
+| 18 | Mainz 05 | 18 | 2 | 6 | 10 | -13 | 12 |
 
 ### Serie A
 
