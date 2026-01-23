@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 23 January 2026, 09:43 PM UTC (Saturday, 24 January 2026, 03:13 AM IST)
+**Last Updated:** Friday, 23 January 2026, 10:19 PM UTC (Saturday, 24 January 2026, 03:49 AM IST)
 
 ### Premier League
 
@@ -306,9 +306,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Santa Clara | 18 | 4 | 5 | 9 | -6 | 17 |
 | 14 | Nacional | 18 | 4 | 5 | 9 | -6 | 17 |
 | 15 | Arouca | 18 | 4 | 5 | 9 | -23 | 17 |
-| 16 | Casa Pia | 19 | 4 | 5 | 10 | -16 | 17 |
+| 16 | Casa Pia | 19 | 4 | 5 | 10 | -17 | 17 |
 | 17 | Tondela | 18 | 3 | 3 | 12 | -18 | 12 |
-| 18 | AVS | 19 | 0 | 4 | 15 | -35 | 4 |
+| 18 | AVS | 19 | 0 | 4 | 15 | -34 | 4 |
 
 ### EFL Championship
 
@@ -319,9 +319,9 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Ipswich Town | 27 | 14 | 8 | 5 | 23 | 50 |
 | 4 | Hull City | 27 | 14 | 5 | 8 | 6 | 47 |
 | 5 | Millwall | 28 | 13 | 7 | 8 | -3 | 46 |
-| 6 | Derby County | 29 | 12 | 8 | 9 | 3 | 44 |
-| 7 | Preston North End | 28 | 11 | 10 | 7 | 7 | 43 |
-| 8 | Watford | 27 | 11 | 9 | 7 | 6 | 42 |
+| 6 | Preston North End | 28 | 11 | 10 | 7 | 7 | 43 |
+| 7 | Watford | 27 | 11 | 9 | 7 | 6 | 42 |
+| 8 | Derby County | 29 | 11 | 9 | 9 | 2 | 42 |
 | 9 | Stoke City | 28 | 12 | 5 | 11 | 8 | 41 |
 | 10 | Wrexham | 28 | 10 | 11 | 7 | 5 | 41 |
 | 11 | Bristol City | 28 | 11 | 7 | 10 | 7 | 40 |
@@ -332,7 +332,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Swansea City | 28 | 10 | 6 | 12 | -4 | 36 |
 | 17 | Sheffield United | 27 | 10 | 2 | 15 | -4 | 32 |
 | 18 | Charlton Athletic | 27 | 8 | 8 | 11 | -7 | 32 |
-| 19 | West Bromwich Albion | 29 | 9 | 4 | 16 | -13 | 31 |
+| 19 | West Bromwich Albion | 29 | 9 | 5 | 15 | -12 | 32 |
 | 20 | Norwich City | 28 | 8 | 6 | 14 | -5 | 30 |
 | 21 | Portsmouth | 26 | 7 | 8 | 11 | -13 | 29 |
 | 22 | Blackburn Rovers | 27 | 7 | 7 | 13 | -11 | 28 |

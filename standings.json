@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 23 January 2026, 09:43 PM UTC",
-        "IST": "Saturday, 24 January 2026, 03:13 AM IST"
+        "UTC": "Friday, 23 January 2026, 10:19 PM UTC",
+        "IST": "Saturday, 24 January 2026, 03:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2218,7 +2218,7 @@
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "10",
-                "Goal Difference": "-16",
+                "Goal Difference": "-17",
                 "Points": "17"
             },
             {
@@ -2238,7 +2238,7 @@
                 "Wins": "0",
                 "Draws": "4",
                 "Losses": "15",
-                "Goal Difference": "-35",
+                "Goal Difference": "-34",
                 "Points": "4"
             }
         ],
@@ -2295,16 +2295,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Derby County",
-                "Played": "29",
-                "Wins": "12",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "3",
-                "Points": "44"
-            },
-            {
-                "Position": "7",
                 "Team": "Preston North End",
                 "Played": "28",
                 "Wins": "11",
@@ -2314,13 +2304,23 @@
                 "Points": "43"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Watford",
                 "Played": "27",
                 "Wins": "11",
                 "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "6",
+                "Points": "42"
+            },
+            {
+                "Position": "8",
+                "Team": "Derby County",
+                "Played": "29",
+                "Wins": "11",
+                "Draws": "9",
+                "Losses": "9",
+                "Goal Difference": "2",
                 "Points": "42"
             },
             {
@@ -2428,10 +2428,10 @@
                 "Team": "West Bromwich Albion",
                 "Played": "29",
                 "Wins": "9",
-                "Draws": "4",
-                "Losses": "16",
-                "Goal Difference": "-13",
-                "Points": "31"
+                "Draws": "5",
+                "Losses": "15",
+                "Goal Difference": "-12",
+                "Points": "32"
             },
             {
                 "Position": "20",
