@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 23 January 2026, 09:22 PM UTC",
-        "IST": "Saturday, 24 January 2026, 02:52 AM IST"
+        "UTC": "Friday, 23 January 2026, 09:43 PM UTC",
+        "IST": "Saturday, 24 January 2026, 03:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -282,10 +282,10 @@
                 "Team": "Elche",
                 "Played": "21",
                 "Wins": "5",
-                "Draws": "10",
-                "Losses": "6",
-                "Goal Difference": "1",
-                "Points": "25"
+                "Draws": "9",
+                "Losses": "7",
+                "Goal Difference": "0",
+                "Points": "24"
             },
             {
                 "Position": "9",
@@ -391,11 +391,11 @@
                 "Position": "19",
                 "Team": "Levante",
                 "Played": "20",
-                "Wins": "3",
-                "Draws": "6",
+                "Wins": "4",
+                "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-11",
-                "Points": "15"
+                "Goal Difference": "-10",
+                "Points": "17"
             },
             {
                 "Position": "20",
@@ -598,7 +598,7 @@
                 "Wins": "17",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "28",
+                "Goal Difference": "31",
                 "Points": "52"
             },
             {
@@ -788,7 +788,7 @@
                 "Wins": "1",
                 "Draws": "11",
                 "Losses": "10",
-                "Goal Difference": "-16",
+                "Goal Difference": "-19",
                 "Points": "14"
             }
         ],
@@ -2218,7 +2218,7 @@
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "10",
-                "Goal Difference": "-17",
+                "Goal Difference": "-16",
                 "Points": "17"
             },
             {
@@ -2238,7 +2238,7 @@
                 "Wins": "0",
                 "Draws": "4",
                 "Losses": "15",
-                "Goal Difference": "-34",
+                "Goal Difference": "-35",
                 "Points": "4"
             }
         ],

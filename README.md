@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 23 January 2026, 09:22 PM UTC (Saturday, 24 January 2026, 02:52 AM IST)
+**Last Updated:** Friday, 23 January 2026, 09:43 PM UTC (Saturday, 24 January 2026, 03:13 AM IST)
 
 ### Premier League
 
@@ -79,7 +79,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Espanyol | 20 | 10 | 4 | 6 | 1 | 34 |
 | 6 | Real Betis | 20 | 8 | 8 | 4 | 8 | 32 |
 | 7 | Celta de Vigo | 20 | 8 | 8 | 4 | 8 | 32 |
-| 8 | Elche | 21 | 5 | 10 | 6 | 1 | 25 |
+| 8 | Elche | 21 | 5 | 9 | 7 | 0 | 24 |
 | 9 | Real Sociedad | 20 | 6 | 6 | 8 | -2 | 24 |
 | 10 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
 | 11 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
@@ -90,7 +90,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Getafe | 20 | 6 | 3 | 11 | -11 | 21 |
 | 17 | Valencia | 20 | 4 | 8 | 8 | -12 | 20 |
 | 18 | Alavés | 20 | 5 | 4 | 11 | -9 | 19 |
-| 19 | Levante | 20 | 3 | 6 | 11 | -11 | 15 |
+| 19 | Levante | 20 | 4 | 5 | 11 | -10 | 17 |
 | 20 | Real Oviedo | 20 | 2 | 7 | 11 | -20 | 13 |
 
 ### Bundesliga
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 22 | 17 | 1 | 4 | 28 | 52 |
+| 1 | Inter | 22 | 17 | 1 | 4 | 31 | 52 |
 | 2 | Milan | 21 | 13 | 7 | 1 | 18 | 46 |
 | 3 | Napoli | 21 | 13 | 4 | 4 | 14 | 43 |
 | 4 | Roma | 21 | 14 | 0 | 7 | 14 | 42 |
@@ -139,7 +139,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Fiorentina | 21 | 3 | 8 | 10 | -9 | 17 |
 | 18 | Lecce | 21 | 4 | 5 | 12 | -16 | 17 |
 | 19 | Hellas Verona | 21 | 2 | 8 | 11 | -17 | 14 |
-| 20 | Pisa | 22 | 1 | 11 | 10 | -16 | 14 |
+| 20 | Pisa | 22 | 1 | 11 | 10 | -19 | 14 |
 
 ### Ligue 1
 
@@ -306,9 +306,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Santa Clara | 18 | 4 | 5 | 9 | -6 | 17 |
 | 14 | Nacional | 18 | 4 | 5 | 9 | -6 | 17 |
 | 15 | Arouca | 18 | 4 | 5 | 9 | -23 | 17 |
-| 16 | Casa Pia | 19 | 4 | 5 | 10 | -17 | 17 |
+| 16 | Casa Pia | 19 | 4 | 5 | 10 | -16 | 17 |
 | 17 | Tondela | 18 | 3 | 3 | 12 | -18 | 12 |
-| 18 | AVS | 19 | 0 | 4 | 15 | -34 | 4 |
+| 18 | AVS | 19 | 0 | 4 | 15 | -35 | 4 |
 
 ### EFL Championship
 
