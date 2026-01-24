@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 24 January 2026, 02:20 PM UTC (Saturday, 24 January 2026, 07:50 PM IST)
+**Last Updated:** Saturday, 24 January 2026, 02:43 PM UTC (Saturday, 24 January 2026, 08:13 PM IST)
 
 ### Premier League
 
@@ -79,12 +79,12 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Espanyol | 20 | 10 | 4 | 6 | 1 | 34 |
 | 6 | Real Betis | 20 | 8 | 8 | 4 | 8 | 32 |
 | 7 | Celta de Vigo | 20 | 8 | 8 | 4 | 8 | 32 |
-| 8 | Osasuna | 21 | 7 | 4 | 10 | -2 | 25 |
-| 9 | Elche | 21 | 5 | 9 | 7 | 0 | 24 |
-| 10 | Real Sociedad | 20 | 6 | 6 | 8 | -2 | 24 |
-| 11 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
-| 12 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
-| 13 | Rayo Vallecano | 21 | 5 | 7 | 9 | -10 | 22 |
+| 8 | Elche | 21 | 5 | 9 | 7 | 0 | 24 |
+| 9 | Real Sociedad | 20 | 6 | 6 | 8 | -2 | 24 |
+| 10 | Athletic Bilbao | 20 | 7 | 3 | 10 | -9 | 24 |
+| 11 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
+| 12 | Osasuna | 21 | 6 | 5 | 10 | -3 | 23 |
+| 13 | Rayo Vallecano | 21 | 5 | 8 | 8 | -9 | 23 |
 | 14 | Sevilla | 20 | 6 | 3 | 11 | -6 | 21 |
 | 15 | Mallorca | 20 | 5 | 6 | 9 | -6 | 21 |
 | 16 | Getafe | 20 | 6 | 3 | 11 | -11 | 21 |
@@ -97,24 +97,24 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 18 | 16 | 2 | 0 | 57 | 50 |
+| 1 | Bayern Munich | 19 | 16 | 3 | 0 | 57 | 51 |
 | 2 | Borussia Dortmund | 18 | 11 | 6 | 1 | 18 | 39 |
-| 3 | Hoffenheim | 17 | 10 | 3 | 4 | 14 | 33 |
-| 4 | VfB Stuttgart | 18 | 10 | 3 | 5 | 7 | 33 |
-| 5 | RB Leipzig | 17 | 10 | 2 | 5 | 9 | 32 |
-| 6 | Bayer Leverkusen | 17 | 9 | 2 | 6 | 9 | 29 |
-| 7 | Eintracht Frankfurt | 18 | 7 | 6 | 5 | -1 | 27 |
+| 3 | Hoffenheim | 18 | 10 | 4 | 4 | 14 | 34 |
+| 4 | RB Leipzig | 18 | 10 | 3 | 5 | 9 | 33 |
+| 5 | VfB Stuttgart | 18 | 10 | 3 | 5 | 7 | 33 |
+| 6 | Bayer Leverkusen | 18 | 10 | 2 | 6 | 10 | 32 |
+| 7 | Eintracht Frankfurt | 19 | 7 | 7 | 5 | -1 | 28 |
 | 8 | SC Freiburg | 18 | 6 | 6 | 6 | -2 | 24 |
 | 9 | Union Berlin | 18 | 6 | 6 | 6 | -3 | 24 |
-| 10 | Köln | 18 | 5 | 5 | 8 | -3 | 20 |
-| 11 | Borussia Mönchengladbach | 18 | 5 | 5 | 8 | -6 | 20 |
-| 12 | VfL Wolfsburg | 18 | 5 | 4 | 9 | -11 | 19 |
+| 10 | VfL Wolfsburg | 19 | 6 | 4 | 9 | -10 | 22 |
+| 11 | Köln | 18 | 5 | 5 | 8 | -3 | 20 |
+| 12 | Borussia Mönchengladbach | 18 | 5 | 5 | 8 | -6 | 20 |
 | 13 | Hamburg | 18 | 4 | 6 | 8 | -10 | 18 |
-| 14 | Werder Bremen | 17 | 4 | 6 | 7 | -13 | 18 |
-| 15 | Augsburg | 18 | 4 | 4 | 10 | -15 | 16 |
-| 16 | St. Pauli | 18 | 3 | 4 | 11 | -15 | 13 |
-| 17 | Heidenheim | 18 | 3 | 4 | 11 | -22 | 13 |
-| 18 | Mainz 05 | 18 | 2 | 6 | 10 | -13 | 12 |
+| 14 | Werder Bremen | 18 | 4 | 6 | 8 | -14 | 18 |
+| 15 | Augsburg | 19 | 4 | 5 | 10 | -15 | 17 |
+| 16 | Heidenheim | 19 | 3 | 5 | 11 | -22 | 14 |
+| 17 | St. Pauli | 18 | 3 | 4 | 11 | -15 | 13 |
+| 18 | Mainz 05 | 19 | 2 | 6 | 11 | -14 | 12 |
 
 ### Serie A
 
@@ -317,7 +317,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Coventry City | 28 | 17 | 7 | 4 | 30 | 58 |
 | 2 | Middlesbrough | 29 | 16 | 7 | 6 | 17 | 55 |
 | 3 | Ipswich Town | 27 | 14 | 8 | 5 | 23 | 50 |
-| 4 | Millwall | 29 | 14 | 7 | 8 | -1 | 49 |
+| 4 | Millwall | 29 | 14 | 7 | 8 | 1 | 49 |
 | 5 | Hull City | 27 | 14 | 5 | 8 | 6 | 47 |
 | 6 | Preston North End | 29 | 11 | 10 | 8 | 3 | 43 |
 | 7 | Watford | 27 | 11 | 9 | 7 | 6 | 42 |
@@ -331,7 +331,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Southampton | 28 | 9 | 9 | 10 | 0 | 36 |
 | 16 | Swansea City | 28 | 10 | 6 | 12 | -4 | 36 |
 | 17 | Sheffield United | 27 | 10 | 2 | 15 | -4 | 32 |
-| 18 | Charlton Athletic | 28 | 8 | 8 | 12 | -9 | 32 |
+| 18 | Charlton Athletic | 28 | 8 | 8 | 12 | -11 | 32 |
 | 19 | West Bromwich Albion | 29 | 9 | 5 | 15 | -12 | 32 |
 | 20 | Norwich City | 28 | 8 | 6 | 14 | -5 | 30 |
 | 21 | Portsmouth | 26 | 7 | 8 | 11 | -13 | 29 |
