@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 12:42 PM UTC",
-        "IST": "Saturday, 24 January 2026, 06:12 PM IST"
+        "UTC": "Saturday, 24 January 2026, 01:31 PM UTC",
+        "IST": "Saturday, 24 January 2026, 07:01 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -67,16 +67,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Sunderland",
-                "Played": "23",
-                "Wins": "8",
-                "Draws": "10",
-                "Losses": "5",
-                "Goal Difference": "0",
-                "Points": "34"
-            },
-            {
-                "Position": "8",
                 "Team": "Brentford",
                 "Played": "22",
                 "Wins": "10",
@@ -86,13 +76,23 @@
                 "Points": "33"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Newcastle United",
                 "Played": "22",
                 "Wins": "9",
                 "Draws": "6",
                 "Losses": "7",
                 "Goal Difference": "5",
+                "Points": "33"
+            },
+            {
+                "Position": "9",
+                "Team": "Sunderland",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "9",
+                "Losses": "6",
+                "Goal Difference": "-3",
                 "Points": "33"
             },
             {
@@ -179,11 +179,11 @@
                 "Position": "18",
                 "Team": "West Ham United",
                 "Played": "23",
-                "Wins": "4",
-                "Draws": "6",
+                "Wins": "5",
+                "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-20",
-                "Points": "18"
+                "Goal Difference": "-17",
+                "Points": "20"
             },
             {
                 "Position": "19",
@@ -320,22 +320,22 @@
             {
                 "Position": "12",
                 "Team": "Osasuna",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "6",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "-3",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "13",
                 "Team": "Rayo Vallecano",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "5",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "8",
                 "Goal Difference": "-9",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "14",
@@ -2260,7 +2260,7 @@
                 "Wins": "16",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "14",
+                "Goal Difference": "16",
                 "Points": "55"
             },
             {
@@ -2300,7 +2300,7 @@
                 "Wins": "11",
                 "Draws": "10",
                 "Losses": "8",
-                "Goal Difference": "6",
+                "Goal Difference": "4",
                 "Points": "43"
             },
             {
