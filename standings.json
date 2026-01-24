@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 05:18 PM UTC",
-        "IST": "Saturday, 24 January 2026, 10:48 PM IST"
+        "UTC": "Saturday, 24 January 2026, 05:42 PM UTC",
+        "IST": "Saturday, 24 January 2026, 11:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -38,12 +38,12 @@
             {
                 "Position": "4",
                 "Team": "Liverpool FC",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "10",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "6",
                 "Goal Difference": "4",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "5",
@@ -148,12 +148,12 @@
             {
                 "Position": "15",
                 "Team": "AFC Bournemouth",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "6",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "7",
                 "Goal Difference": "-6",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "16",
@@ -289,6 +289,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Athletic Bilbao",
+                "Played": "21",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "10",
+                "Goal Difference": "-9",
+                "Points": "25"
+            },
+            {
+                "Position": "10",
                 "Team": "Elche",
                 "Played": "21",
                 "Wins": "5",
@@ -298,23 +308,13 @@
                 "Points": "24"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Real Sociedad",
                 "Played": "20",
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "8",
                 "Goal Difference": "-2",
-                "Points": "24"
-            },
-            {
-                "Position": "11",
-                "Team": "Athletic Bilbao",
-                "Played": "20",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "10",
-                "Goal Difference": "-9",
                 "Points": "24"
             },
             {
@@ -339,6 +339,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Sevilla",
+                "Played": "21",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "11",
+                "Goal Difference": "-6",
+                "Points": "22"
+            },
+            {
+                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "21",
                 "Wins": "5",
@@ -346,16 +356,6 @@
                 "Losses": "9",
                 "Goal Difference": "-11",
                 "Points": "22"
-            },
-            {
-                "Position": "15",
-                "Team": "Sevilla",
-                "Played": "20",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "11",
-                "Goal Difference": "-6",
-                "Points": "21"
             },
             {
                 "Position": "16",
@@ -422,12 +422,12 @@
             {
                 "Position": "2",
                 "Team": "Borussia Dortmund",
-                "Played": "18",
-                "Wins": "11",
+                "Played": "19",
+                "Wins": "12",
                 "Draws": "6",
                 "Losses": "1",
-                "Goal Difference": "18",
-                "Points": "39"
+                "Goal Difference": "19",
+                "Points": "42"
             },
             {
                 "Position": "3",
@@ -492,11 +492,11 @@
             {
                 "Position": "9",
                 "Team": "Union Berlin",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "6",
                 "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "-3",
+                "Losses": "7",
+                "Goal Difference": "-4",
                 "Points": "24"
             },
             {
@@ -693,6 +693,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Cagliari",
+                "Played": "22",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-7",
+                "Points": "25"
+            },
+            {
+                "Position": "12",
                 "Team": "Sassuolo",
                 "Played": "21",
                 "Wins": "6",
@@ -702,7 +712,7 @@
                 "Points": "23"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Cremonese",
                 "Played": "21",
                 "Wins": "5",
@@ -712,22 +722,12 @@
                 "Points": "23"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Parma",
                 "Played": "21",
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "8",
-                "Goal Difference": "-8",
-                "Points": "23"
-            },
-            {
-                "Position": "14",
-                "Team": "Cagliari",
-                "Played": "22",
-                "Wins": "5",
-                "Draws": "8",
-                "Losses": "9",
                 "Goal Difference": "-8",
                 "Points": "23"
             },
@@ -753,22 +753,22 @@
             },
             {
                 "Position": "17",
-                "Team": "Fiorentina",
-                "Played": "22",
-                "Wins": "3",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-9",
-                "Points": "18"
-            },
-            {
-                "Position": "18",
                 "Team": "Lecce",
                 "Played": "21",
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "12",
                 "Goal Difference": "-16",
+                "Points": "17"
+            },
+            {
+                "Position": "18",
+                "Team": "Fiorentina",
+                "Played": "22",
+                "Wins": "3",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-10",
                 "Points": "17"
             },
             {
@@ -850,7 +850,7 @@
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "4",
+                "Goal Difference": "3",
                 "Points": "31"
             },
             {
@@ -880,7 +880,7 @@
                 "Wins": "6",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "-6",
+                "Goal Difference": "-5",
                 "Points": "25"
             },
             {
