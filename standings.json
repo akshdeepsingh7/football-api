@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 07:37 PM UTC",
-        "IST": "Sunday, 25 January 2026, 01:07 AM IST"
+        "UTC": "Saturday, 24 January 2026, 08:22 PM UTC",
+        "IST": "Sunday, 25 January 2026, 01:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,22 +220,22 @@
             {
                 "Position": "2",
                 "Team": "Real Madrid",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "15",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "26",
-                "Points": "48"
+                "Points": "49"
             },
             {
                 "Position": "3",
                 "Team": "Villarreal",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "13",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "18",
-                "Points": "41"
+                "Points": "42"
             },
             {
                 "Position": "4",
@@ -674,12 +674,12 @@
             {
                 "Position": "9",
                 "Team": "Lazio",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "7",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "7",
                 "Goal Difference": "2",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "10",
@@ -754,12 +754,12 @@
             {
                 "Position": "17",
                 "Team": "Lecce",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "-16",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "18",
@@ -806,22 +806,22 @@
             {
                 "Position": "2",
                 "Team": "Lens",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "14",
                 "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "19",
+                "Losses": "4",
+                "Goal Difference": "17",
                 "Points": "43"
             },
             {
                 "Position": "3",
                 "Team": "Marseille",
-                "Played": "18",
-                "Wins": "11",
+                "Played": "19",
+                "Wins": "12",
                 "Draws": "2",
                 "Losses": "5",
-                "Goal Difference": "22",
-                "Points": "35"
+                "Goal Difference": "24",
+                "Points": "38"
             },
             {
                 "Position": "4",
@@ -2075,11 +2075,11 @@
                 "Position": "2",
                 "Team": "Sporting CP",
                 "Played": "19",
-                "Wins": "14",
-                "Draws": "4",
+                "Wins": "15",
+                "Draws": "3",
                 "Losses": "1",
-                "Goal Difference": "41",
-                "Points": "46"
+                "Goal Difference": "42",
+                "Points": "48"
             },
             {
                 "Position": "3",
@@ -2186,29 +2186,29 @@
                 "Team": "Arouca",
                 "Played": "19",
                 "Wins": "4",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-23",
-                "Points": "18"
-            },
-            {
-                "Position": "14",
-                "Team": "Nacional",
-                "Played": "18",
-                "Wins": "4",
                 "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-6",
+                "Losses": "10",
+                "Goal Difference": "-24",
                 "Points": "17"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Santa Clara",
                 "Played": "19",
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "-7",
+                "Points": "17"
+            },
+            {
+                "Position": "15",
+                "Team": "Nacional",
+                "Played": "18",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-6",
                 "Points": "17"
             },
             {
