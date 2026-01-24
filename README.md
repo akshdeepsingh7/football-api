@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 24 January 2026, 08:43 PM UTC (Sunday, 25 January 2026, 02:13 AM IST)
+**Last Updated:** Saturday, 24 January 2026, 09:19 PM UTC (Sunday, 25 January 2026, 02:49 AM IST)
 
 ### Premier League
 
@@ -72,10 +72,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 20 | 16 | 1 | 3 | 32 | 49 |
-| 2 | Real Madrid | 21 | 15 | 4 | 2 | 26 | 49 |
-| 3 | Villarreal | 20 | 13 | 3 | 4 | 18 | 42 |
-| 4 | Atlético de Madrid | 20 | 12 | 5 | 3 | 18 | 41 |
+| 1 | Real Madrid | 21 | 16 | 3 | 2 | 27 | 51 |
+| 2 | Barcelona | 20 | 16 | 1 | 3 | 32 | 49 |
+| 3 | Atlético de Madrid | 20 | 12 | 5 | 3 | 18 | 41 |
+| 4 | Villarreal | 20 | 13 | 2 | 5 | 17 | 41 |
 | 5 | Espanyol | 21 | 10 | 4 | 7 | 0 | 34 |
 | 6 | Real Betis | 20 | 8 | 8 | 4 | 8 | 32 |
 | 7 | Celta de Vigo | 20 | 8 | 8 | 4 | 8 | 32 |
@@ -297,9 +297,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Gil Vicente | 18 | 8 | 7 | 3 | 11 | 31 |
 | 5 | Braga | 18 | 8 | 6 | 4 | 14 | 30 |
 | 6 | Moreirense | 19 | 9 | 3 | 7 | 0 | 30 |
-| 7 | Famalicão | 18 | 7 | 5 | 6 | 7 | 26 |
-| 8 | Vitória S.C. | 19 | 7 | 5 | 7 | -5 | 26 |
-| 9 | Estoril | 19 | 6 | 6 | 7 | 4 | 24 |
+| 7 | Vitória S.C. | 19 | 8 | 4 | 7 | -4 | 28 |
+| 8 | Famalicão | 18 | 7 | 5 | 6 | 7 | 26 |
+| 9 | Estoril | 19 | 6 | 5 | 8 | 3 | 23 |
 | 10 | Alverca | 18 | 7 | 2 | 9 | -9 | 23 |
 | 11 | Rio Ave | 18 | 4 | 8 | 6 | -9 | 20 |
 | 12 | Estrela Amadora | 18 | 4 | 7 | 7 | -9 | 19 |

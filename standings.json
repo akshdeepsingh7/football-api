@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 08:43 PM UTC",
-        "IST": "Sunday, 25 January 2026, 02:13 AM IST"
+        "UTC": "Saturday, 24 January 2026, 09:19 PM UTC",
+        "IST": "Sunday, 25 January 2026, 02:49 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -209,6 +209,16 @@
         "La Liga": [
             {
                 "Position": "1",
+                "Team": "Real Madrid",
+                "Played": "21",
+                "Wins": "16",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "27",
+                "Points": "51"
+            },
+            {
+                "Position": "2",
                 "Team": "Barcelona",
                 "Played": "20",
                 "Wins": "16",
@@ -218,33 +228,23 @@
                 "Points": "49"
             },
             {
-                "Position": "2",
-                "Team": "Real Madrid",
-                "Played": "21",
-                "Wins": "15",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "26",
-                "Points": "49"
-            },
-            {
                 "Position": "3",
-                "Team": "Villarreal",
-                "Played": "20",
-                "Wins": "13",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "18",
-                "Points": "42"
-            },
-            {
-                "Position": "4",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "20",
                 "Wins": "12",
                 "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "18",
+                "Points": "41"
+            },
+            {
+                "Position": "4",
+                "Team": "Villarreal",
+                "Played": "20",
+                "Wins": "13",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "17",
                 "Points": "41"
             },
             {
@@ -2123,6 +2123,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "19",
+                "Wins": "8",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "-4",
+                "Points": "28"
+            },
+            {
+                "Position": "8",
                 "Team": "Famalic\u00e3o",
                 "Played": "18",
                 "Wins": "7",
@@ -2132,24 +2142,14 @@
                 "Points": "26"
             },
             {
-                "Position": "8",
-                "Team": "Vit\u00f3ria S.C.",
-                "Played": "19",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "-5",
-                "Points": "26"
-            },
-            {
                 "Position": "9",
                 "Team": "Estoril",
                 "Played": "19",
                 "Wins": "6",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "4",
-                "Points": "24"
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "3",
+                "Points": "23"
             },
             {
                 "Position": "10",
