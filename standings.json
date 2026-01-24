@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 24 January 2026, 06:31 PM UTC",
-        "IST": "Sunday, 25 January 2026, 12:01 AM IST"
+        "UTC": "Saturday, 24 January 2026, 07:17 PM UTC",
+        "IST": "Sunday, 25 January 2026, 12:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -40,10 +40,10 @@
                 "Team": "Liverpool FC",
                 "Played": "23",
                 "Wins": "10",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "3",
-                "Points": "36"
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "4",
+                "Points": "37"
             },
             {
                 "Position": "5",
@@ -127,16 +127,6 @@
             },
             {
                 "Position": "13",
-                "Team": "AFC Bournemouth",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "9",
-                "Losses": "7",
-                "Goal Difference": "-5",
-                "Points": "30"
-            },
-            {
-                "Position": "14",
                 "Team": "Tottenham Hotspur",
                 "Played": "23",
                 "Wins": "7",
@@ -146,13 +136,23 @@
                 "Points": "28"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Crystal Palace",
                 "Played": "22",
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "8",
                 "Goal Difference": "-2",
+                "Points": "28"
+            },
+            {
+                "Position": "15",
+                "Team": "AFC Bournemouth",
+                "Played": "23",
+                "Wins": "6",
+                "Draws": "10",
+                "Losses": "7",
+                "Goal Difference": "-6",
                 "Points": "28"
             },
             {
@@ -289,16 +289,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Athletic Bilbao",
-                "Played": "21",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "-9",
-                "Points": "25"
-            },
-            {
-                "Position": "10",
                 "Team": "Elche",
                 "Played": "21",
                 "Wins": "5",
@@ -308,7 +298,7 @@
                 "Points": "24"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Real Sociedad",
                 "Played": "20",
                 "Wins": "6",
@@ -318,7 +308,27 @@
                 "Points": "24"
             },
             {
+                "Position": "11",
+                "Team": "Sevilla",
+                "Played": "21",
+                "Wins": "7",
+                "Draws": "3",
+                "Losses": "11",
+                "Goal Difference": "-5",
+                "Points": "24"
+            },
+            {
                 "Position": "12",
+                "Team": "Athletic Bilbao",
+                "Played": "21",
+                "Wins": "7",
+                "Draws": "3",
+                "Losses": "11",
+                "Goal Difference": "-10",
+                "Points": "24"
+            },
+            {
+                "Position": "13",
                 "Team": "Girona",
                 "Played": "20",
                 "Wins": "6",
@@ -328,7 +338,7 @@
                 "Points": "24"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Valencia",
                 "Played": "21",
                 "Wins": "5",
@@ -336,16 +346,6 @@
                 "Losses": "8",
                 "Goal Difference": "-11",
                 "Points": "23"
-            },
-            {
-                "Position": "14",
-                "Team": "Sevilla",
-                "Played": "21",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "11",
-                "Goal Difference": "-6",
-                "Points": "22"
             },
             {
                 "Position": "15",
@@ -426,7 +426,7 @@
                 "Wins": "12",
                 "Draws": "6",
                 "Losses": "1",
-                "Goal Difference": "19",
+                "Goal Difference": "21",
                 "Points": "42"
             },
             {
@@ -496,7 +496,7 @@
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "-4",
+                "Goal Difference": "-6",
                 "Points": "24"
             },
             {
@@ -698,7 +698,7 @@
                 "Wins": "6",
                 "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "25"
             },
             {
@@ -768,7 +768,7 @@
                 "Wins": "3",
                 "Draws": "8",
                 "Losses": "11",
-                "Goal Difference": "-11",
+                "Goal Difference": "-10",
                 "Points": "17"
             },
             {
