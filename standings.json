@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 06:31 PM UTC",
-        "IST": "Monday, 26 January 2026, 12:01 AM IST"
+        "UTC": "Sunday, 25 January 2026, 07:17 PM UTC",
+        "IST": "Monday, 26 January 2026, 12:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -618,7 +618,7 @@
                 "Wins": "13",
                 "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "13",
+                "Goal Difference": "11",
                 "Points": "43"
             },
             {
@@ -638,7 +638,7 @@
                 "Wins": "12",
                 "Draws": "6",
                 "Losses": "4",
-                "Goal Difference": "16",
+                "Goal Difference": "18",
                 "Points": "42"
             },
             {
@@ -2085,11 +2085,11 @@
                 "Position": "3",
                 "Team": "Benfica",
                 "Played": "19",
-                "Wins": "12",
-                "Draws": "7",
+                "Wins": "13",
+                "Draws": "6",
                 "Losses": "0",
-                "Goal Difference": "27",
-                "Points": "43"
+                "Goal Difference": "28",
+                "Points": "45"
             },
             {
                 "Position": "4",
@@ -2125,11 +2125,11 @@
                 "Position": "7",
                 "Team": "Famalic\u00e3o",
                 "Played": "19",
-                "Wins": "7",
-                "Draws": "6",
+                "Wins": "8",
+                "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "7",
-                "Points": "27"
+                "Goal Difference": "8",
+                "Points": "29"
             },
             {
                 "Position": "8",
@@ -2186,10 +2186,10 @@
                 "Team": "Estrela Amadora",
                 "Played": "19",
                 "Wins": "4",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "-9",
-                "Points": "20"
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "-10",
+                "Points": "19"
             },
             {
                 "Position": "14",
@@ -2226,10 +2226,10 @@
                 "Team": "Tondela",
                 "Played": "19",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-18",
-                "Points": "13"
+                "Draws": "3",
+                "Losses": "13",
+                "Goal Difference": "-19",
+                "Points": "12"
             },
             {
                 "Position": "18",
