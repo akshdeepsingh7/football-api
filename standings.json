@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 05:42 PM UTC",
-        "IST": "Sunday, 25 January 2026, 11:12 PM IST"
+        "UTC": "Sunday, 25 January 2026, 06:31 PM UTC",
+        "IST": "Monday, 26 January 2026, 12:01 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -259,16 +259,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Celta de Vigo",
-                "Played": "21",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "4",
-                "Goal Difference": "8",
-                "Points": "33"
-            },
-            {
-                "Position": "7",
                 "Team": "Real Betis",
                 "Played": "20",
                 "Wins": "8",
@@ -278,23 +268,33 @@
                 "Points": "32"
             },
             {
+                "Position": "7",
+                "Team": "Celta de Vigo",
+                "Played": "21",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "5",
+                "Goal Difference": "7",
+                "Points": "32"
+            },
+            {
                 "Position": "8",
+                "Team": "Real Sociedad",
+                "Played": "21",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "-1",
+                "Points": "27"
+            },
+            {
+                "Position": "9",
                 "Team": "Osasuna",
                 "Played": "21",
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "10",
                 "Goal Difference": "-1",
-                "Points": "25"
-            },
-            {
-                "Position": "9",
-                "Team": "Real Sociedad",
-                "Played": "21",
-                "Wins": "6",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "-2",
                 "Points": "25"
             },
             {
@@ -830,7 +830,7 @@
                 "Wins": "11",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "11",
+                "Goal Difference": "12",
                 "Points": "36"
             },
             {
@@ -970,7 +970,7 @@
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "13",
-                "Goal Difference": "-23",
+                "Goal Difference": "-24",
                 "Points": "12"
             }
         ],
@@ -2084,12 +2084,12 @@
             {
                 "Position": "3",
                 "Team": "Benfica",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "12",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "0",
                 "Goal Difference": "27",
-                "Points": "42"
+                "Points": "43"
             },
             {
                 "Position": "4",
@@ -2124,12 +2124,12 @@
             {
                 "Position": "7",
                 "Team": "Famalic\u00e3o",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "7",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "7",
-                "Points": "26"
+                "Points": "27"
             },
             {
                 "Position": "8",
@@ -2184,12 +2184,12 @@
             {
                 "Position": "13",
                 "Team": "Estrela Amadora",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "4",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "7",
                 "Goal Difference": "-9",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "14",
@@ -2224,12 +2224,12 @@
             {
                 "Position": "17",
                 "Team": "Tondela",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "3",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "12",
                 "Goal Difference": "-18",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "18",
