@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 12:44 PM UTC",
-        "IST": "Sunday, 25 January 2026, 06:14 PM IST"
+        "UTC": "Sunday, 25 January 2026, 01:32 PM UTC",
+        "IST": "Sunday, 25 January 2026, 07:02 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -230,12 +230,12 @@
             {
                 "Position": "3",
                 "Team": "Atl\u00e9tico de Madrid",
-                "Played": "20",
-                "Wins": "12",
+                "Played": "21",
+                "Wins": "13",
                 "Draws": "5",
                 "Losses": "3",
-                "Goal Difference": "18",
-                "Points": "41"
+                "Goal Difference": "19",
+                "Points": "44"
             },
             {
                 "Position": "4",
@@ -360,11 +360,11 @@
             {
                 "Position": "16",
                 "Team": "Mallorca",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "5",
                 "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-6",
+                "Losses": "10",
+                "Goal Difference": "-7",
                 "Points": "21"
             },
             {
@@ -2365,7 +2365,7 @@
             },
             {
                 "Position": "13",
-                "Team": "Birmingham City",
+                "Team": "Southampton",
                 "Played": "29",
                 "Wins": "10",
                 "Draws": "9",
@@ -2375,6 +2375,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Birmingham City",
+                "Played": "29",
+                "Wins": "10",
+                "Draws": "9",
+                "Losses": "10",
+                "Goal Difference": "1",
+                "Points": "39"
+            },
+            {
+                "Position": "15",
                 "Team": "Leicester City",
                 "Played": "29",
                 "Wins": "10",
@@ -2382,16 +2392,6 @@
                 "Losses": "11",
                 "Goal Difference": "-3",
                 "Points": "38"
-            },
-            {
-                "Position": "15",
-                "Team": "Southampton",
-                "Played": "29",
-                "Wins": "9",
-                "Draws": "10",
-                "Losses": "10",
-                "Goal Difference": "0",
-                "Points": "37"
             },
             {
                 "Position": "16",
@@ -2445,22 +2445,22 @@
             },
             {
                 "Position": "21",
-                "Team": "Portsmouth",
-                "Played": "27",
-                "Wins": "7",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-13",
-                "Points": "30"
-            },
-            {
-                "Position": "22",
                 "Team": "Blackburn Rovers",
                 "Played": "28",
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "13",
                 "Goal Difference": "-11",
+                "Points": "29"
+            },
+            {
+                "Position": "22",
+                "Team": "Portsmouth",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-14",
                 "Points": "29"
             },
             {

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 25 January 2026, 12:44 PM UTC (Sunday, 25 January 2026, 06:14 PM IST)
+**Last Updated:** Sunday, 25 January 2026, 01:32 PM UTC (Sunday, 25 January 2026, 07:02 PM IST)
 
 ### Premier League
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 21 | 16 | 3 | 2 | 28 | 51 |
 | 2 | Barcelona | 20 | 16 | 1 | 3 | 32 | 49 |
-| 3 | Atlético de Madrid | 20 | 12 | 5 | 3 | 18 | 41 |
+| 3 | Atlético de Madrid | 21 | 13 | 5 | 3 | 19 | 44 |
 | 4 | Villarreal | 20 | 13 | 2 | 5 | 16 | 41 |
 | 5 | Espanyol | 21 | 10 | 4 | 7 | 0 | 34 |
 | 6 | Real Betis | 20 | 8 | 8 | 4 | 8 | 32 |
@@ -87,7 +87,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Girona | 20 | 6 | 6 | 8 | -14 | 24 |
 | 14 | Valencia | 21 | 5 | 8 | 8 | -11 | 23 |
 | 15 | Rayo Vallecano | 21 | 5 | 7 | 9 | -11 | 22 |
-| 16 | Mallorca | 20 | 5 | 6 | 9 | -6 | 21 |
+| 16 | Mallorca | 21 | 5 | 6 | 10 | -7 | 21 |
 | 17 | Getafe | 20 | 6 | 3 | 11 | -11 | 21 |
 | 18 | Alavés | 20 | 5 | 4 | 11 | -9 | 19 |
 | 19 | Levante | 20 | 4 | 5 | 11 | -10 | 17 |
@@ -326,16 +326,16 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Stoke City | 29 | 12 | 6 | 11 | 8 | 42 |
 | 11 | Derby County | 29 | 11 | 9 | 9 | 2 | 42 |
 | 12 | Queens Park Rangers | 29 | 11 | 7 | 11 | -2 | 40 |
-| 13 | Birmingham City | 29 | 10 | 9 | 10 | 1 | 39 |
-| 14 | Leicester City | 29 | 10 | 8 | 11 | -3 | 38 |
-| 15 | Southampton | 29 | 9 | 10 | 10 | 0 | 37 |
+| 13 | Southampton | 29 | 10 | 9 | 10 | 1 | 39 |
+| 14 | Birmingham City | 29 | 10 | 9 | 10 | 1 | 39 |
+| 15 | Leicester City | 29 | 10 | 8 | 11 | -3 | 38 |
 | 16 | Swansea City | 29 | 10 | 6 | 13 | -5 | 36 |
 | 17 | Sheffield United | 28 | 11 | 2 | 15 | -2 | 35 |
 | 18 | Charlton Athletic | 28 | 8 | 8 | 12 | -11 | 32 |
 | 19 | West Bromwich Albion | 29 | 9 | 5 | 15 | -12 | 32 |
 | 20 | Norwich City | 28 | 8 | 6 | 14 | -5 | 30 |
-| 21 | Portsmouth | 27 | 7 | 9 | 11 | -13 | 30 |
-| 22 | Blackburn Rovers | 28 | 7 | 8 | 13 | -11 | 29 |
+| 21 | Blackburn Rovers | 28 | 7 | 8 | 13 | -11 | 29 |
+| 22 | Portsmouth | 27 | 7 | 8 | 12 | -14 | 29 |
 | 23 | Oxford United | 28 | 6 | 9 | 13 | -9 | 27 |
 | 24 | Sheffield Wednesday | 28 | 1 | 8 | 19 | -38 | -7 |
 
