@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 25 January 2026, 09:20 PM UTC (Monday, 26 January 2026, 02:50 AM IST)
+**Last Updated:** Sunday, 25 January 2026, 09:41 PM UTC (Monday, 26 January 2026, 03:11 AM IST)
 
 ### Premier League
 
@@ -149,9 +149,9 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 19 | 14 | 1 | 4 | 17 | 43 |
 | 3 | Marseille | 19 | 12 | 2 | 5 | 24 | 38 |
 | 4 | Lyon | 19 | 11 | 3 | 5 | 12 | 36 |
-| 5 | Lille | 19 | 10 | 2 | 7 | 4 | 32 |
+| 5 | Lille | 19 | 10 | 2 | 7 | 5 | 32 |
 | 6 | Rennes | 19 | 8 | 7 | 4 | 3 | 31 |
-| 7 | Strasbourg | 19 | 9 | 3 | 7 | 10 | 30 |
+| 7 | Strasbourg | 19 | 9 | 3 | 7 | 9 | 30 |
 | 8 | Toulouse | 19 | 8 | 5 | 6 | 8 | 29 |
 | 9 | Lorient | 19 | 6 | 7 | 6 | -5 | 25 |
 | 10 | Monaco | 19 | 7 | 3 | 9 | -5 | 24 |
