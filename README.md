@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 25 January 2026, 08:26 PM UTC (Monday, 26 January 2026, 01:56 AM IST)
+**Last Updated:** Sunday, 25 January 2026, 08:46 PM UTC (Monday, 26 January 2026, 02:16 AM IST)
 
 ### Premier League
 
@@ -295,12 +295,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 19 | 15 | 3 | 1 | 42 | 48 |
 | 3 | Benfica | 19 | 13 | 6 | 0 | 31 | 45 |
 | 4 | Gil Vicente | 18 | 8 | 7 | 3 | 11 | 31 |
-| 5 | Braga | 18 | 8 | 6 | 4 | 14 | 30 |
+| 5 | Braga | 19 | 8 | 7 | 4 | 14 | 31 |
 | 6 | Moreirense | 19 | 9 | 3 | 7 | 0 | 30 |
 | 7 | Famalicão | 19 | 8 | 5 | 6 | 10 | 29 |
 | 8 | Estoril | 19 | 7 | 5 | 7 | 6 | 26 |
 | 9 | Vitória S.C. | 19 | 7 | 4 | 8 | -7 | 25 |
-| 10 | Alverca | 18 | 7 | 2 | 9 | -9 | 23 |
+| 10 | Alverca | 19 | 7 | 3 | 9 | -9 | 24 |
 | 11 | Nacional | 19 | 5 | 5 | 9 | -2 | 20 |
 | 12 | Rio Ave | 19 | 4 | 8 | 7 | -13 | 20 |
 | 13 | Estrela Amadora | 19 | 4 | 7 | 8 | -13 | 19 |

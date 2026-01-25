@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 08:26 PM UTC",
-        "IST": "Monday, 26 January 2026, 01:56 AM IST"
+        "UTC": "Sunday, 25 January 2026, 08:46 PM UTC",
+        "IST": "Monday, 26 January 2026, 02:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2104,12 +2104,12 @@
             {
                 "Position": "5",
                 "Team": "Braga",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "8",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "4",
                 "Goal Difference": "14",
-                "Points": "30"
+                "Points": "31"
             },
             {
                 "Position": "6",
@@ -2154,12 +2154,12 @@
             {
                 "Position": "10",
                 "Team": "Alverca",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "7",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "9",
                 "Goal Difference": "-9",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "11",
