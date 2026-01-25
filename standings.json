@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 05:19 PM UTC",
-        "IST": "Sunday, 25 January 2026, 10:49 PM IST"
+        "UTC": "Sunday, 25 January 2026, 05:42 PM UTC",
+        "IST": "Sunday, 25 January 2026, 11:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -10,10 +10,10 @@
                 "Team": "Arsenal",
                 "Played": "23",
                 "Wins": "15",
-                "Draws": "6",
-                "Losses": "2",
-                "Goal Difference": "26",
-                "Points": "51"
+                "Draws": "5",
+                "Losses": "3",
+                "Goal Difference": "25",
+                "Points": "50"
             },
             {
                 "Position": "2",
@@ -37,6 +37,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Manchester United",
+                "Played": "23",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "5",
+                "Goal Difference": "7",
+                "Points": "38"
+            },
+            {
+                "Position": "5",
                 "Team": "Chelsea",
                 "Played": "23",
                 "Wins": "10",
@@ -44,16 +54,6 @@
                 "Losses": "6",
                 "Goal Difference": "14",
                 "Points": "37"
-            },
-            {
-                "Position": "5",
-                "Team": "Manchester United",
-                "Played": "23",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "5",
-                "Goal Difference": "6",
-                "Points": "36"
             },
             {
                 "Position": "6",
@@ -259,17 +259,17 @@
             },
             {
                 "Position": "6",
-                "Team": "Real Betis",
-                "Played": "20",
+                "Team": "Celta de Vigo",
+                "Played": "21",
                 "Wins": "8",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "4",
                 "Goal Difference": "8",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "7",
-                "Team": "Celta de Vigo",
+                "Team": "Real Betis",
                 "Played": "20",
                 "Wins": "8",
                 "Draws": "8",
@@ -289,22 +289,22 @@
             },
             {
                 "Position": "9",
+                "Team": "Real Sociedad",
+                "Played": "21",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "-2",
+                "Points": "25"
+            },
+            {
+                "Position": "10",
                 "Team": "Elche",
                 "Played": "21",
                 "Wins": "5",
                 "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "0",
-                "Points": "24"
-            },
-            {
-                "Position": "10",
-                "Team": "Real Sociedad",
-                "Played": "20",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-2",
                 "Points": "24"
             },
             {
@@ -616,10 +616,10 @@
                 "Team": "Napoli",
                 "Played": "22",
                 "Wins": "13",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "14",
-                "Points": "44"
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "13",
+                "Points": "43"
             },
             {
                 "Position": "4",
@@ -633,22 +633,22 @@
             },
             {
                 "Position": "5",
+                "Team": "Juventus",
+                "Played": "22",
+                "Wins": "12",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "16",
+                "Points": "42"
+            },
+            {
+                "Position": "6",
                 "Team": "Como",
                 "Played": "22",
                 "Wins": "11",
                 "Draws": "7",
                 "Losses": "4",
                 "Goal Difference": "21",
-                "Points": "40"
-            },
-            {
-                "Position": "6",
-                "Team": "Juventus",
-                "Played": "22",
-                "Wins": "11",
-                "Draws": "7",
-                "Losses": "4",
-                "Goal Difference": "15",
                 "Points": "40"
             },
             {
@@ -830,7 +830,7 @@
                 "Wins": "11",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "12",
+                "Goal Difference": "11",
                 "Points": "36"
             },
             {
@@ -970,7 +970,7 @@
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "13",
-                "Goal Difference": "-24",
+                "Goal Difference": "-23",
                 "Points": "12"
             }
         ],
@@ -2168,7 +2168,7 @@
                 "Wins": "5",
                 "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "20"
             },
             {
@@ -2178,7 +2178,7 @@
                 "Wins": "4",
                 "Draws": "8",
                 "Losses": "7",
-                "Goal Difference": "-12",
+                "Goal Difference": "-13",
                 "Points": "20"
             },
             {
