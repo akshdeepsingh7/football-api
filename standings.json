@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 08:46 PM UTC",
-        "IST": "Monday, 26 January 2026, 02:16 AM IST"
+        "UTC": "Sunday, 25 January 2026, 09:20 PM UTC",
+        "IST": "Monday, 26 January 2026, 02:50 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -264,7 +264,7 @@
                 "Wins": "8",
                 "Draws": "8",
                 "Losses": "5",
-                "Goal Difference": "7",
+                "Goal Difference": "6",
                 "Points": "32"
             },
             {
@@ -354,7 +354,7 @@
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "11",
-                "Goal Difference": "-8",
+                "Goal Difference": "-7",
                 "Points": "22"
             },
             {
@@ -840,7 +840,7 @@
                 "Wins": "10",
                 "Draws": "2",
                 "Losses": "7",
-                "Goal Difference": "6",
+                "Goal Difference": "4",
                 "Points": "32"
             },
             {
@@ -860,7 +860,7 @@
                 "Wins": "9",
                 "Draws": "3",
                 "Losses": "7",
-                "Goal Difference": "8",
+                "Goal Difference": "10",
                 "Points": "30"
             },
             {
@@ -2093,22 +2093,22 @@
             },
             {
                 "Position": "4",
+                "Team": "Braga",
+                "Played": "19",
+                "Wins": "9",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "18",
+                "Points": "33"
+            },
+            {
+                "Position": "5",
                 "Team": "Gil Vicente",
                 "Played": "18",
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "3",
                 "Goal Difference": "11",
-                "Points": "31"
-            },
-            {
-                "Position": "5",
-                "Team": "Braga",
-                "Played": "19",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "4",
-                "Goal Difference": "14",
                 "Points": "31"
             },
             {
@@ -2156,10 +2156,10 @@
                 "Team": "Alverca",
                 "Played": "19",
                 "Wins": "7",
-                "Draws": "3",
-                "Losses": "9",
-                "Goal Difference": "-9",
-                "Points": "24"
+                "Draws": "2",
+                "Losses": "10",
+                "Goal Difference": "-13",
+                "Points": "23"
             },
             {
                 "Position": "11",
