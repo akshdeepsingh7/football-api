@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 11:18 AM UTC",
-        "IST": "Sunday, 25 January 2026, 04:48 PM IST"
+        "UTC": "Sunday, 25 January 2026, 11:39 AM UTC",
+        "IST": "Sunday, 25 January 2026, 05:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -693,6 +693,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Sassuolo",
+                "Played": "22",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-4",
+                "Points": "26"
+            },
+            {
+                "Position": "12",
                 "Team": "Cagliari",
                 "Played": "22",
                 "Wins": "6",
@@ -702,18 +712,8 @@
                 "Points": "25"
             },
             {
-                "Position": "12",
-                "Team": "Sassuolo",
-                "Played": "21",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-5",
-                "Points": "23"
-            },
-            {
                 "Position": "13",
-                "Team": "Cremonese",
+                "Team": "Parma",
                 "Played": "21",
                 "Wins": "5",
                 "Draws": "8",
@@ -723,12 +723,12 @@
             },
             {
                 "Position": "14",
-                "Team": "Parma",
-                "Played": "21",
+                "Team": "Cremonese",
+                "Played": "22",
                 "Wins": "5",
                 "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "-8",
+                "Losses": "9",
+                "Goal Difference": "-9",
                 "Points": "23"
             },
             {
