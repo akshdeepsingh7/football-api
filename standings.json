@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 11:39 AM UTC",
-        "IST": "Sunday, 25 January 2026, 05:09 PM IST"
+        "UTC": "Sunday, 25 January 2026, 12:44 PM UTC",
+        "IST": "Sunday, 25 January 2026, 06:14 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2386,12 +2386,12 @@
             {
                 "Position": "15",
                 "Team": "Southampton",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "9",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "10",
                 "Goal Difference": "0",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "16",
@@ -2445,22 +2445,22 @@
             },
             {
                 "Position": "21",
+                "Team": "Portsmouth",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-13",
+                "Points": "30"
+            },
+            {
+                "Position": "22",
                 "Team": "Blackburn Rovers",
                 "Played": "28",
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "13",
                 "Goal Difference": "-11",
-                "Points": "29"
-            },
-            {
-                "Position": "22",
-                "Team": "Portsmouth",
-                "Played": "26",
-                "Wins": "7",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-13",
                 "Points": "29"
             },
             {

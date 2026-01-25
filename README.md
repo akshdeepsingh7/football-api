@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 25 January 2026, 11:39 AM UTC (Sunday, 25 January 2026, 05:09 PM IST)
+**Last Updated:** Sunday, 25 January 2026, 12:44 PM UTC (Sunday, 25 January 2026, 06:14 PM IST)
 
 ### Premier League
 
@@ -328,14 +328,14 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Queens Park Rangers | 29 | 11 | 7 | 11 | -2 | 40 |
 | 13 | Birmingham City | 29 | 10 | 9 | 10 | 1 | 39 |
 | 14 | Leicester City | 29 | 10 | 8 | 11 | -3 | 38 |
-| 15 | Southampton | 28 | 9 | 9 | 10 | 0 | 36 |
+| 15 | Southampton | 29 | 9 | 10 | 10 | 0 | 37 |
 | 16 | Swansea City | 29 | 10 | 6 | 13 | -5 | 36 |
 | 17 | Sheffield United | 28 | 11 | 2 | 15 | -2 | 35 |
 | 18 | Charlton Athletic | 28 | 8 | 8 | 12 | -11 | 32 |
 | 19 | West Bromwich Albion | 29 | 9 | 5 | 15 | -12 | 32 |
 | 20 | Norwich City | 28 | 8 | 6 | 14 | -5 | 30 |
-| 21 | Blackburn Rovers | 28 | 7 | 8 | 13 | -11 | 29 |
-| 22 | Portsmouth | 26 | 7 | 8 | 11 | -13 | 29 |
+| 21 | Portsmouth | 27 | 7 | 9 | 11 | -13 | 30 |
+| 22 | Blackburn Rovers | 28 | 7 | 8 | 13 | -11 | 29 |
 | 23 | Oxford United | 28 | 6 | 9 | 13 | -9 | 27 |
 | 24 | Sheffield Wednesday | 28 | 1 | 8 | 19 | -38 | -7 |
 
