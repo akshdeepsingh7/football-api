@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 25 January 2026, 03:21 PM UTC",
-        "IST": "Sunday, 25 January 2026, 08:51 PM IST"
+        "UTC": "Sunday, 25 January 2026, 03:42 PM UTC",
+        "IST": "Sunday, 25 January 2026, 09:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -42,7 +42,7 @@
                 "Wins": "10",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "14",
+                "Goal Difference": "15",
                 "Points": "37"
             },
             {
@@ -152,7 +152,7 @@
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "28"
             },
             {
@@ -658,18 +658,18 @@
                 "Wins": "9",
                 "Draws": "8",
                 "Losses": "5",
-                "Goal Difference": "8",
+                "Goal Difference": "9",
                 "Points": "35"
             },
             {
                 "Position": "8",
                 "Team": "Bologna",
                 "Played": "22",
-                "Wins": "9",
-                "Draws": "6",
+                "Wins": "8",
+                "Draws": "7",
                 "Losses": "7",
-                "Goal Difference": "8",
-                "Points": "33"
+                "Goal Difference": "6",
+                "Points": "31"
             },
             {
                 "Position": "9",
@@ -728,7 +728,7 @@
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "9",
-                "Goal Difference": "-10",
+                "Goal Difference": "-11",
                 "Points": "23"
             },
             {
@@ -746,10 +746,10 @@
                 "Team": "Genoa",
                 "Played": "22",
                 "Wins": "4",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-9",
-                "Points": "20"
+                "Draws": "9",
+                "Losses": "9",
+                "Goal Difference": "-7",
+                "Points": "21"
             },
             {
                 "Position": "17",
@@ -2164,12 +2164,12 @@
             {
                 "Position": "11",
                 "Team": "Rio Ave",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "4",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "6",
                 "Goal Difference": "-9",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "12",
@@ -2183,13 +2183,13 @@
             },
             {
                 "Position": "13",
-                "Team": "Arouca",
+                "Team": "Nacional",
                 "Played": "19",
                 "Wins": "4",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-24",
-                "Points": "17"
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-6",
+                "Points": "18"
             },
             {
                 "Position": "14",
@@ -2203,12 +2203,12 @@
             },
             {
                 "Position": "15",
-                "Team": "Nacional",
-                "Played": "18",
+                "Team": "Arouca",
+                "Played": "19",
                 "Wins": "4",
                 "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-6",
+                "Losses": "10",
+                "Goal Difference": "-24",
                 "Points": "17"
             },
             {
