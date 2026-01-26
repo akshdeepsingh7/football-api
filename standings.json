@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 26 January 2026, 09:47 PM UTC",
-        "IST": "Tuesday, 27 January 2026, 03:17 AM IST"
+        "UTC": "Monday, 26 January 2026, 10:23 PM UTC",
+        "IST": "Tuesday, 27 January 2026, 03:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Girona",
+                "Played": "21",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "-14",
+                "Points": "25"
+            },
+            {
+                "Position": "11",
                 "Team": "Elche",
                 "Played": "21",
                 "Wins": "5",
@@ -308,7 +318,7 @@
                 "Points": "24"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Sevilla",
                 "Played": "21",
                 "Wins": "7",
@@ -318,7 +328,7 @@
                 "Points": "24"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Athletic Bilbao",
                 "Played": "21",
                 "Wins": "7",
@@ -328,27 +338,7 @@
                 "Points": "24"
             },
             {
-                "Position": "13",
-                "Team": "Getafe",
-                "Played": "21",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "11",
-                "Goal Difference": "-10",
-                "Points": "24"
-            },
-            {
                 "Position": "14",
-                "Team": "Girona",
-                "Played": "21",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-15",
-                "Points": "24"
-            },
-            {
-                "Position": "15",
                 "Team": "Valencia",
                 "Played": "21",
                 "Wins": "5",
@@ -358,7 +348,7 @@
                 "Points": "23"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Alav\u00e9s",
                 "Played": "21",
                 "Wins": "6",
@@ -368,12 +358,22 @@
                 "Points": "22"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Rayo Vallecano",
                 "Played": "21",
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "9",
+                "Goal Difference": "-11",
+                "Points": "22"
+            },
+            {
+                "Position": "17",
+                "Team": "Getafe",
+                "Played": "21",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "11",
                 "Goal Difference": "-11",
                 "Points": "22"
             },
@@ -2068,7 +2068,7 @@
                 "Wins": "18",
                 "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "34",
+                "Goal Difference": "36",
                 "Points": "55"
             },
             {
@@ -2108,7 +2108,7 @@
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "10",
+                "Goal Difference": "8",
                 "Points": "31"
             },
             {

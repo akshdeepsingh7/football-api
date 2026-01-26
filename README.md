@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 26 January 2026, 09:47 PM UTC (Tuesday, 27 January 2026, 03:17 AM IST)
+**Last Updated:** Monday, 26 January 2026, 10:23 PM UTC (Tuesday, 27 January 2026, 03:53 AM IST)
 
 ### Premier League
 
@@ -81,14 +81,14 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Celta de Vigo | 21 | 8 | 8 | 5 | 6 | 32 |
 | 8 | Real Sociedad | 21 | 7 | 6 | 8 | 0 | 27 |
 | 9 | Osasuna | 21 | 7 | 4 | 10 | -1 | 25 |
-| 10 | Elche | 21 | 5 | 9 | 7 | 0 | 24 |
-| 11 | Sevilla | 21 | 7 | 3 | 11 | -5 | 24 |
-| 12 | Athletic Bilbao | 21 | 7 | 3 | 11 | -10 | 24 |
-| 13 | Getafe | 21 | 7 | 3 | 11 | -10 | 24 |
-| 14 | Girona | 21 | 6 | 6 | 9 | -15 | 24 |
-| 15 | Valencia | 21 | 5 | 8 | 8 | -11 | 23 |
-| 16 | Alavés | 21 | 6 | 4 | 11 | -8 | 22 |
-| 17 | Rayo Vallecano | 21 | 5 | 7 | 9 | -11 | 22 |
+| 10 | Girona | 21 | 6 | 7 | 8 | -14 | 25 |
+| 11 | Elche | 21 | 5 | 9 | 7 | 0 | 24 |
+| 12 | Sevilla | 21 | 7 | 3 | 11 | -5 | 24 |
+| 13 | Athletic Bilbao | 21 | 7 | 3 | 11 | -10 | 24 |
+| 14 | Valencia | 21 | 5 | 8 | 8 | -11 | 23 |
+| 15 | Alavés | 21 | 6 | 4 | 11 | -8 | 22 |
+| 16 | Rayo Vallecano | 21 | 5 | 7 | 9 | -11 | 22 |
+| 17 | Getafe | 21 | 6 | 4 | 11 | -11 | 22 |
 | 18 | Mallorca | 21 | 5 | 6 | 10 | -9 | 21 |
 | 19 | Levante | 20 | 4 | 5 | 11 | -10 | 17 |
 | 20 | Real Oviedo | 21 | 2 | 7 | 12 | -23 | 13 |
@@ -291,11 +291,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 19 | 18 | 1 | 0 | 34 | 55 |
+| 1 | Porto | 19 | 18 | 1 | 0 | 36 | 55 |
 | 2 | Sporting CP | 19 | 15 | 3 | 1 | 42 | 48 |
 | 3 | Benfica | 19 | 13 | 6 | 0 | 31 | 45 |
 | 4 | Braga | 19 | 9 | 6 | 4 | 19 | 33 |
-| 5 | Gil Vicente | 19 | 8 | 7 | 4 | 10 | 31 |
+| 5 | Gil Vicente | 19 | 8 | 7 | 4 | 8 | 31 |
 | 6 | Moreirense | 19 | 9 | 3 | 7 | 0 | 30 |
 | 7 | Famalicão | 19 | 8 | 5 | 6 | 10 | 29 |
 | 8 | Estoril | 19 | 7 | 5 | 7 | 6 | 26 |
