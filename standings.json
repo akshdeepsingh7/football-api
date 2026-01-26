@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 26 January 2026, 08:29 PM UTC",
-        "IST": "Tuesday, 27 January 2026, 01:59 AM IST"
+        "UTC": "Monday, 26 January 2026, 08:52 PM UTC",
+        "IST": "Tuesday, 27 January 2026, 02:22 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -97,16 +97,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Everton",
-                "Played": "23",
-                "Wins": "9",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-1",
-                "Points": "33"
-            },
-            {
-                "Position": "11",
                 "Team": "Sunderland",
                 "Played": "23",
                 "Wins": "8",
@@ -114,6 +104,16 @@
                 "Losses": "6",
                 "Goal Difference": "-2",
                 "Points": "33"
+            },
+            {
+                "Position": "11",
+                "Team": "Everton",
+                "Played": "23",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-2",
+                "Points": "32"
             },
             {
                 "Position": "12",
@@ -159,11 +159,11 @@
                 "Position": "16",
                 "Team": "Leeds United",
                 "Played": "23",
-                "Wins": "6",
-                "Draws": "8",
+                "Wins": "7",
+                "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "-7",
-                "Points": "26"
+                "Goal Difference": "-6",
+                "Points": "28"
             },
             {
                 "Position": "17",
@@ -2247,11 +2247,11 @@
                 "Position": "1",
                 "Team": "Coventry City",
                 "Played": "29",
-                "Wins": "17",
-                "Draws": "8",
+                "Wins": "18",
+                "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "30",
-                "Points": "59"
+                "Goal Difference": "31",
+                "Points": "61"
             },
             {
                 "Position": "2",
@@ -2438,10 +2438,10 @@
                 "Team": "Norwich City",
                 "Played": "29",
                 "Wins": "8",
-                "Draws": "7",
-                "Losses": "14",
-                "Goal Difference": "-5",
-                "Points": "31"
+                "Draws": "6",
+                "Losses": "15",
+                "Goal Difference": "-6",
+                "Points": "30"
             },
             {
                 "Position": "21",
