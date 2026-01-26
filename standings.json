@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 26 January 2026, 08:52 PM UTC",
-        "IST": "Tuesday, 27 January 2026, 02:22 AM IST"
+        "UTC": "Monday, 26 January 2026, 09:25 PM UTC",
+        "IST": "Tuesday, 27 January 2026, 02:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,16 +299,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Girona",
-                "Played": "21",
-                "Wins": "6",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "-14",
-                "Points": "25"
-            },
-            {
-                "Position": "11",
                 "Team": "Elche",
                 "Played": "21",
                 "Wins": "5",
@@ -318,7 +308,7 @@
                 "Points": "24"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Sevilla",
                 "Played": "21",
                 "Wins": "7",
@@ -328,7 +318,7 @@
                 "Points": "24"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Athletic Bilbao",
                 "Played": "21",
                 "Wins": "7",
@@ -338,7 +328,27 @@
                 "Points": "24"
             },
             {
+                "Position": "13",
+                "Team": "Getafe",
+                "Played": "21",
+                "Wins": "7",
+                "Draws": "3",
+                "Losses": "11",
+                "Goal Difference": "-10",
+                "Points": "24"
+            },
+            {
                 "Position": "14",
+                "Team": "Girona",
+                "Played": "21",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-15",
+                "Points": "24"
+            },
+            {
+                "Position": "15",
                 "Team": "Valencia",
                 "Played": "21",
                 "Wins": "5",
@@ -348,7 +358,7 @@
                 "Points": "23"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Alav\u00e9s",
                 "Played": "21",
                 "Wins": "6",
@@ -358,22 +368,12 @@
                 "Points": "22"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Rayo Vallecano",
                 "Played": "21",
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "-11",
-                "Points": "22"
-            },
-            {
-                "Position": "17",
-                "Team": "Getafe",
-                "Played": "21",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "11",
                 "Goal Difference": "-11",
                 "Points": "22"
             },
@@ -685,11 +685,11 @@
                 "Position": "10",
                 "Team": "Udinese",
                 "Played": "22",
-                "Wins": "7",
-                "Draws": "6",
+                "Wins": "8",
+                "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "-11",
-                "Points": "27"
+                "Goal Difference": "-9",
+                "Points": "29"
             },
             {
                 "Position": "11",
@@ -773,21 +773,21 @@
             },
             {
                 "Position": "19",
-                "Team": "Hellas Verona",
-                "Played": "22",
-                "Wins": "2",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-17",
-                "Points": "15"
-            },
-            {
-                "Position": "20",
                 "Team": "Pisa",
                 "Played": "22",
                 "Wins": "1",
                 "Draws": "11",
                 "Losses": "10",
+                "Goal Difference": "-19",
+                "Points": "14"
+            },
+            {
+                "Position": "20",
+                "Team": "Hellas Verona",
+                "Played": "22",
+                "Wins": "2",
+                "Draws": "8",
+                "Losses": "12",
                 "Goal Difference": "-19",
                 "Points": "14"
             }
@@ -2065,11 +2065,11 @@
                 "Position": "1",
                 "Team": "Porto",
                 "Played": "19",
-                "Wins": "17",
-                "Draws": "2",
+                "Wins": "18",
+                "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "33",
-                "Points": "53"
+                "Goal Difference": "34",
+                "Points": "55"
             },
             {
                 "Position": "2",
@@ -2106,10 +2106,10 @@
                 "Team": "Gil Vicente",
                 "Played": "19",
                 "Wins": "8",
-                "Draws": "8",
-                "Losses": "3",
-                "Goal Difference": "11",
-                "Points": "32"
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "10",
+                "Points": "31"
             },
             {
                 "Position": "6",
@@ -2247,11 +2247,11 @@
                 "Position": "1",
                 "Team": "Coventry City",
                 "Played": "29",
-                "Wins": "18",
-                "Draws": "7",
+                "Wins": "17",
+                "Draws": "8",
                 "Losses": "4",
-                "Goal Difference": "31",
-                "Points": "61"
+                "Goal Difference": "30",
+                "Points": "59"
             },
             {
                 "Position": "2",
@@ -2438,10 +2438,10 @@
                 "Team": "Norwich City",
                 "Played": "29",
                 "Wins": "8",
-                "Draws": "6",
-                "Losses": "15",
-                "Goal Difference": "-6",
-                "Points": "30"
+                "Draws": "7",
+                "Losses": "14",
+                "Goal Difference": "-5",
+                "Points": "31"
             },
             {
                 "Position": "21",
