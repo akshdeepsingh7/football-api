@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 26 January 2026, 09:25 PM UTC",
-        "IST": "Tuesday, 27 January 2026, 02:55 AM IST"
+        "UTC": "Monday, 26 January 2026, 09:47 PM UTC",
+        "IST": "Tuesday, 27 January 2026, 03:17 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -97,6 +97,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Everton",
+                "Played": "23",
+                "Wins": "9",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "-1",
+                "Points": "33"
+            },
+            {
+                "Position": "11",
                 "Team": "Sunderland",
                 "Played": "23",
                 "Wins": "8",
@@ -104,16 +114,6 @@
                 "Losses": "6",
                 "Goal Difference": "-2",
                 "Points": "33"
-            },
-            {
-                "Position": "11",
-                "Team": "Everton",
-                "Played": "23",
-                "Wins": "9",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-2",
-                "Points": "32"
             },
             {
                 "Position": "12",
@@ -159,11 +159,11 @@
                 "Position": "16",
                 "Team": "Leeds United",
                 "Played": "23",
-                "Wins": "7",
-                "Draws": "7",
+                "Wins": "6",
+                "Draws": "8",
                 "Losses": "9",
-                "Goal Difference": "-6",
-                "Points": "28"
+                "Goal Difference": "-7",
+                "Points": "26"
             },
             {
                 "Position": "17",
@@ -2248,10 +2248,10 @@
                 "Team": "Coventry City",
                 "Played": "29",
                 "Wins": "17",
-                "Draws": "8",
-                "Losses": "4",
-                "Goal Difference": "30",
-                "Points": "59"
+                "Draws": "7",
+                "Losses": "5",
+                "Goal Difference": "29",
+                "Points": "58"
             },
             {
                 "Position": "2",
@@ -2415,6 +2415,16 @@
             },
             {
                 "Position": "18",
+                "Team": "Norwich City",
+                "Played": "29",
+                "Wins": "9",
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "-4",
+                "Points": "33"
+            },
+            {
+                "Position": "19",
                 "Team": "Charlton Athletic",
                 "Played": "28",
                 "Wins": "8",
@@ -2424,7 +2434,7 @@
                 "Points": "32"
             },
             {
-                "Position": "19",
+                "Position": "20",
                 "Team": "West Bromwich Albion",
                 "Played": "29",
                 "Wins": "9",
@@ -2432,16 +2442,6 @@
                 "Losses": "15",
                 "Goal Difference": "-12",
                 "Points": "32"
-            },
-            {
-                "Position": "20",
-                "Team": "Norwich City",
-                "Played": "29",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "14",
-                "Goal Difference": "-5",
-                "Points": "31"
             },
             {
                 "Position": "21",

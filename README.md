@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 26 January 2026, 09:25 PM UTC (Tuesday, 27 January 2026, 02:55 AM IST)
+**Last Updated:** Monday, 26 January 2026, 09:47 PM UTC (Tuesday, 27 January 2026, 03:17 AM IST)
 
 ### Premier League
 
@@ -56,13 +56,13 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Fulham | 23 | 10 | 4 | 9 | 0 | 34 |
 | 8 | Brentford | 23 | 10 | 3 | 10 | 3 | 33 |
 | 9 | Newcastle United | 23 | 9 | 6 | 8 | 3 | 33 |
-| 10 | Sunderland | 23 | 8 | 9 | 6 | -2 | 33 |
-| 11 | Everton | 23 | 9 | 5 | 9 | -2 | 32 |
+| 10 | Everton | 23 | 9 | 6 | 8 | -1 | 33 |
+| 11 | Sunderland | 23 | 8 | 9 | 6 | -2 | 33 |
 | 12 | Brighton & Hove Albion | 23 | 7 | 9 | 7 | 2 | 30 |
 | 13 | AFC Bournemouth | 23 | 7 | 9 | 7 | -5 | 30 |
 | 14 | Tottenham Hotspur | 23 | 7 | 7 | 9 | 2 | 28 |
 | 15 | Crystal Palace | 23 | 7 | 7 | 9 | -4 | 28 |
-| 16 | Leeds United | 23 | 7 | 7 | 9 | -6 | 28 |
+| 16 | Leeds United | 23 | 6 | 8 | 9 | -7 | 26 |
 | 17 | Nottingham Forest | 23 | 7 | 4 | 12 | -11 | 25 |
 | 18 | West Ham United | 23 | 5 | 5 | 13 | -18 | 20 |
 | 19 | Burnley | 23 | 3 | 6 | 14 | -19 | 15 |
@@ -314,7 +314,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 29 | 17 | 8 | 4 | 30 | 59 |
+| 1 | Coventry City | 29 | 17 | 7 | 5 | 29 | 58 |
 | 2 | Middlesbrough | 29 | 16 | 7 | 6 | 17 | 55 |
 | 3 | Ipswich Town | 28 | 14 | 8 | 6 | 21 | 50 |
 | 4 | Hull City | 28 | 15 | 5 | 8 | 7 | 50 |
@@ -331,9 +331,9 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Southampton | 29 | 9 | 10 | 10 | 0 | 37 |
 | 16 | Swansea City | 29 | 10 | 6 | 13 | -5 | 36 |
 | 17 | Sheffield United | 28 | 11 | 2 | 15 | -2 | 35 |
-| 18 | Charlton Athletic | 28 | 8 | 8 | 12 | -11 | 32 |
-| 19 | West Bromwich Albion | 29 | 9 | 5 | 15 | -12 | 32 |
-| 20 | Norwich City | 29 | 8 | 7 | 14 | -5 | 31 |
+| 18 | Norwich City | 29 | 9 | 6 | 14 | -4 | 33 |
+| 19 | Charlton Athletic | 28 | 8 | 8 | 12 | -11 | 32 |
+| 20 | West Bromwich Albion | 29 | 9 | 5 | 15 | -12 | 32 |
 | 21 | Portsmouth | 27 | 7 | 9 | 11 | -13 | 30 |
 | 22 | Blackburn Rovers | 28 | 7 | 8 | 13 | -11 | 29 |
 | 23 | Oxford United | 28 | 6 | 9 | 13 | -9 | 27 |
