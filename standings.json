@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 27 January 2026, 07:27 PM UTC",
-        "IST": "Wednesday, 28 January 2026, 12:57 AM IST"
+        "UTC": "Tuesday, 27 January 2026, 07:49 PM UTC",
+        "IST": "Wednesday, 28 January 2026, 01:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -432,15 +432,25 @@
             {
                 "Position": "3",
                 "Team": "Hoffenheim",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "11",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "16",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "4",
+                "Team": "RB Leipzig",
+                "Played": "19",
+                "Wins": "11",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "12",
+                "Points": "36"
+            },
+            {
+                "Position": "5",
                 "Team": "VfB Stuttgart",
                 "Played": "19",
                 "Wins": "11",
@@ -448,16 +458,6 @@
                 "Losses": "5",
                 "Goal Difference": "10",
                 "Points": "36"
-            },
-            {
-                "Position": "5",
-                "Team": "RB Leipzig",
-                "Played": "18",
-                "Wins": "11",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "12",
-                "Points": "35"
             },
             {
                 "Position": "6",
@@ -541,22 +541,22 @@
             },
             {
                 "Position": "14",
+                "Team": "Werder Bremen",
+                "Played": "19",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "-14",
+                "Points": "19"
+            },
+            {
+                "Position": "15",
                 "Team": "Hamburg",
                 "Played": "18",
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "8",
                 "Goal Difference": "-10",
-                "Points": "18"
-            },
-            {
-                "Position": "15",
-                "Team": "Werder Bremen",
-                "Played": "18",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-14",
                 "Points": "18"
             },
             {
@@ -572,12 +572,12 @@
             {
                 "Position": "17",
                 "Team": "St. Pauli",
-                "Played": "18",
+                "Played": "19",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "11",
                 "Goal Difference": "-15",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "18",
