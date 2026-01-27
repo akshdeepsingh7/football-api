@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 27 January 2026, 09:18 PM UTC",
-        "IST": "Wednesday, 28 January 2026, 02:48 AM IST"
+        "UTC": "Tuesday, 27 January 2026, 09:42 PM UTC",
+        "IST": "Wednesday, 28 January 2026, 03:12 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -443,11 +443,11 @@
                 "Position": "4",
                 "Team": "RB Leipzig",
                 "Played": "19",
-                "Wins": "12",
-                "Draws": "2",
+                "Wins": "11",
+                "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "13",
-                "Points": "38"
+                "Goal Difference": "12",
+                "Points": "36"
             },
             {
                 "Position": "5",
@@ -574,10 +574,10 @@
                 "Team": "St. Pauli",
                 "Played": "19",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-16",
-                "Points": "13"
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-15",
+                "Points": "14"
             },
             {
                 "Position": "18",
