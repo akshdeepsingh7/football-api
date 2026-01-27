@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 27 January 2026, 07:49 PM UTC",
-        "IST": "Wednesday, 28 January 2026, 01:19 AM IST"
+        "UTC": "Tuesday, 27 January 2026, 08:24 PM UTC",
+        "IST": "Wednesday, 28 January 2026, 01:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -433,11 +433,11 @@
                 "Position": "3",
                 "Team": "Hoffenheim",
                 "Played": "19",
-                "Wins": "11",
-                "Draws": "4",
+                "Wins": "12",
+                "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "16",
-                "Points": "37"
+                "Goal Difference": "17",
+                "Points": "39"
             },
             {
                 "Position": "4",
@@ -541,22 +541,22 @@
             },
             {
                 "Position": "14",
-                "Team": "Werder Bremen",
-                "Played": "19",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "-14",
-                "Points": "19"
-            },
-            {
-                "Position": "15",
                 "Team": "Hamburg",
                 "Played": "18",
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "8",
                 "Goal Difference": "-10",
+                "Points": "18"
+            },
+            {
+                "Position": "15",
+                "Team": "Werder Bremen",
+                "Played": "19",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-15",
                 "Points": "18"
             },
             {
