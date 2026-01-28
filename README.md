@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 28 January 2026, 08:32 PM UTC (Thursday, 29 January 2026, 02:02 AM IST)
+**Last Updated:** Wednesday, 28 January 2026, 09:30 PM UTC (Thursday, 29 January 2026, 03:00 AM IST)
 
 ### Premier League
 
@@ -168,42 +168,42 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 8 | 8 | 0 | 0 | 19 | 24 |
-| 2 | Bayern Munich | 8 | 6 | 1 | 1 | 13 | 19 |
-| 3 | Real Madrid | 8 | 6 | 0 | 2 | 12 | 18 |
-| 4 | Liverpool FC | 8 | 6 | 0 | 2 | 8 | 18 |
-| 5 | PSG | 8 | 5 | 1 | 2 | 11 | 16 |
-| 6 | Chelsea | 8 | 5 | 1 | 2 | 7 | 16 |
-| 7 | Manchester City | 8 | 5 | 1 | 2 | 6 | 16 |
-| 8 | Atlético de Madrid | 8 | 5 | 1 | 2 | 4 | 16 |
-| 9 | Tottenham Hotspur | 8 | 4 | 3 | 1 | 8 | 15 |
-| 10 | Atalanta | 8 | 4 | 2 | 2 | 1 | 14 |
-| 11 | Newcastle United | 8 | 4 | 1 | 3 | 9 | 13 |
+| 1 | Arsenal | 8 | 8 | 0 | 0 | 20 | 24 |
+| 2 | Bayern Munich | 8 | 7 | 0 | 1 | 14 | 21 |
+| 3 | Liverpool FC | 8 | 6 | 0 | 2 | 11 | 18 |
+| 4 | Tottenham Hotspur | 8 | 5 | 2 | 1 | 9 | 17 |
+| 5 | Barcelona | 8 | 5 | 1 | 2 | 7 | 16 |
+| 6 | Manchester City | 8 | 5 | 1 | 2 | 6 | 16 |
+| 7 | Real Madrid | 8 | 5 | 0 | 3 | 10 | 15 |
+| 8 | PSG | 8 | 4 | 2 | 2 | 10 | 14 |
+| 9 | Newcastle United | 8 | 4 | 2 | 2 | 10 | 14 |
+| 10 | Chelsea | 8 | 4 | 2 | 2 | 6 | 14 |
+| 11 | Sporting CP | 8 | 4 | 2 | 2 | 5 | 14 |
 | 12 | Inter | 8 | 4 | 1 | 3 | 6 | 13 |
-| 13 | Barcelona | 8 | 4 | 1 | 3 | 4 | 13 |
-| 14 | Sporting CP | 8 | 4 | 1 | 3 | 4 | 13 |
-| 15 | Juventus | 8 | 3 | 4 | 1 | 4 | 13 |
+| 13 | Juventus | 8 | 3 | 4 | 1 | 4 | 13 |
+| 14 | Atlético de Madrid | 8 | 4 | 1 | 3 | 2 | 13 |
+| 15 | Atalanta | 8 | 4 | 1 | 3 | 0 | 13 |
 | 16 | Borussia Dortmund | 8 | 3 | 3 | 2 | 4 | 12 |
-| 17 | Bayer Leverkusen | 8 | 3 | 3 | 2 | -3 | 12 |
-| 18 | Athletic Bilbao | 8 | 3 | 2 | 3 | -3 | 11 |
-| 19 | FC Copenhagen | 8 | 3 | 2 | 3 | -5 | 11 |
-| 20 | Galatasaray | 8 | 3 | 1 | 4 | -2 | 10 |
-| 21 | Club Brugge | 8 | 3 | 1 | 4 | -3 | 10 |
-| 22 | Qarabağ | 8 | 3 | 1 | 4 | -4 | 10 |
-| 23 | Monaco | 8 | 2 | 4 | 2 | -6 | 10 |
-| 24 | PSV | 8 | 2 | 3 | 3 | 1 | 9 |
-| 25 | Marseille | 8 | 3 | 0 | 5 | -2 | 9 |
+| 17 | Bayer Leverkusen | 8 | 3 | 3 | 2 | -1 | 12 |
+| 18 | Galatasaray | 8 | 3 | 1 | 4 | -2 | 10 |
+| 19 | Club Brugge | 8 | 3 | 1 | 4 | -3 | 10 |
+| 20 | Monaco | 8 | 2 | 4 | 2 | -6 | 10 |
+| 21 | Qarabağ | 8 | 3 | 1 | 4 | -7 | 10 |
+| 22 | Bodø/Glimt | 8 | 2 | 3 | 3 | -1 | 9 |
+| 23 | Marseille | 8 | 3 | 0 | 5 | -2 | 9 |
+| 24 | Benfica | 8 | 3 | 0 | 5 | -3 | 9 |
+| 25 | Athletic Bilbao | 8 | 2 | 3 | 3 | -4 | 9 |
 | 26 | Olympiacos | 8 | 2 | 3 | 3 | -5 | 9 |
-| 27 | Pafos | 8 | 2 | 3 | 3 | -5 | 9 |
-| 28 | Napoli | 8 | 2 | 2 | 4 | -6 | 8 |
-| 29 | Union Saint-Gilloise | 8 | 2 | 1 | 5 | -10 | 7 |
-| 30 | Ajax | 8 | 2 | 1 | 5 | -12 | 7 |
-| 31 | Bodø/Glimt | 8 | 1 | 3 | 4 | -3 | 6 |
-| 32 | Benfica | 8 | 2 | 0 | 6 | -5 | 6 |
-| 33 | Eintracht Frankfurt | 8 | 1 | 2 | 5 | -9 | 5 |
+| 27 | Napoli | 8 | 2 | 3 | 3 | -5 | 9 |
+| 28 | Pafos | 8 | 2 | 3 | 3 | -5 | 9 |
+| 29 | Union Saint-Gilloise | 8 | 3 | 0 | 5 | -9 | 9 |
+| 30 | PSV | 8 | 2 | 2 | 4 | 0 | 8 |
+| 31 | FC Copenhagen | 8 | 2 | 2 | 4 | -8 | 8 |
+| 32 | Ajax | 8 | 2 | 1 | 5 | -12 | 7 |
+| 33 | Eintracht Frankfurt | 8 | 1 | 1 | 6 | -10 | 4 |
 | 34 | Slavia Prague | 8 | 0 | 3 | 5 | -12 | 3 |
-| 35 | Villarreal | 8 | 0 | 1 | 7 | -11 | 1 |
-| 36 | Kairat | 8 | 0 | 1 | 7 | -15 | 1 |
+| 35 | Villarreal | 8 | 0 | 1 | 7 | -13 | 1 |
+| 36 | Kairat | 8 | 0 | 1 | 7 | -16 | 1 |
 
 ### Europa League
 
