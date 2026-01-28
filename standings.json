@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 28 January 2026, 11:28 PM UTC",
-        "IST": "Thursday, 29 January 2026, 04:58 AM IST"
+        "UTC": "Wednesday, 28 January 2026, 11:51 PM UTC",
+        "IST": "Thursday, 29 January 2026, 05:21 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2922,17 +2922,17 @@
         "Brasileir\u00e3o": [
             {
                 "Position": "1",
-                "Team": "Chapecoense",
+                "Team": "Vit\u00f3ria",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "3"
             },
             {
                 "Position": "2",
-                "Team": "Corinthians",
+                "Team": "Bahia",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -2952,7 +2952,7 @@
             },
             {
                 "Position": "4",
-                "Team": "Vit\u00f3ria",
+                "Team": "Fluminense",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -2962,16 +2962,6 @@
             },
             {
                 "Position": "5",
-                "Team": "Palmeiras",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
-                "Position": "6",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "1",
                 "Wins": "0",
@@ -2981,8 +2971,18 @@
                 "Points": "1"
             },
             {
+                "Position": "6",
+                "Team": "Palmeiras",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
                 "Position": "7",
-                "Team": "Fluminense",
+                "Team": "Chapecoense",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -2992,7 +2992,7 @@
             },
             {
                 "Position": "8",
-                "Team": "Gr\u00eamio",
+                "Team": "Santos",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -3082,7 +3082,7 @@
             },
             {
                 "Position": "17",
-                "Team": "Bahia",
+                "Team": "Corinthians",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -3092,7 +3092,7 @@
             },
             {
                 "Position": "18",
-                "Team": "Internacional",
+                "Team": "Gr\u00eamio",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -3102,7 +3102,7 @@
             },
             {
                 "Position": "19",
-                "Team": "Remo",
+                "Team": "Internacional",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -3112,12 +3112,12 @@
             },
             {
                 "Position": "20",
-                "Team": "Santos",
+                "Team": "Remo",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "0"
             }
         ]

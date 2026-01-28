@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 28 January 2026, 11:28 PM UTC (Thursday, 29 January 2026, 04:58 AM IST)
+**Last Updated:** Wednesday, 28 January 2026, 11:51 PM UTC (Thursday, 29 January 2026, 05:21 AM IST)
 
 ### Premier League
 
@@ -400,14 +400,14 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Chapecoense | 1 | 1 | 0 | 0 | 1 | 3 |
-| 2 | Corinthians | 1 | 1 | 0 | 0 | 1 | 3 |
+| 1 | Vitória | 1 | 1 | 0 | 0 | 2 | 3 |
+| 2 | Bahia | 1 | 1 | 0 | 0 | 1 | 3 |
 | 3 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
-| 4 | Vitória | 1 | 1 | 0 | 0 | 1 | 3 |
-| 5 | Palmeiras | 1 | 0 | 1 | 0 | 0 | 1 |
-| 6 | Atlético Mineiro | 1 | 0 | 1 | 0 | 0 | 1 |
-| 7 | Fluminense | 1 | 0 | 1 | 0 | 0 | 1 |
-| 8 | Grêmio | 1 | 0 | 1 | 0 | 0 | 1 |
+| 4 | Fluminense | 1 | 1 | 0 | 0 | 1 | 3 |
+| 5 | Atlético Mineiro | 1 | 0 | 1 | 0 | 0 | 1 |
+| 6 | Palmeiras | 1 | 0 | 1 | 0 | 0 | 1 |
+| 7 | Chapecoense | 1 | 0 | 1 | 0 | 0 | 1 |
+| 8 | Santos | 1 | 0 | 1 | 0 | 0 | 1 |
 | 9 | RB Bragantino | 1 | 0 | 1 | 0 | 0 | 1 |
 | 10 | Coritiba | 1 | 0 | 1 | 0 | 0 | 1 |
 | 11 | Botafogo | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -416,10 +416,10 @@ Data not available.
 | 14 | Mirassol | 0 | 0 | 0 | 0 | 0 | 0 |
 | 15 | São Paulo | 0 | 0 | 0 | 0 | 0 | 0 |
 | 16 | Vasco da Gama | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Bahia | 1 | 0 | 0 | 1 | -1 | 0 |
-| 18 | Internacional | 1 | 0 | 0 | 1 | -1 | 0 |
-| 19 | Remo | 1 | 0 | 0 | 1 | -1 | 0 |
-| 20 | Santos | 1 | 0 | 0 | 1 | -1 | 0 |
+| 17 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
+| 18 | Grêmio | 1 | 0 | 0 | 1 | -1 | 0 |
+| 19 | Internacional | 1 | 0 | 0 | 1 | -1 | 0 |
+| 20 | Remo | 1 | 0 | 0 | 1 | -2 | 0 |
 
 
 <!-- END_TABLE -->
