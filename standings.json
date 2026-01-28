@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 28 January 2026, 10:28 PM UTC",
-        "IST": "Thursday, 29 January 2026, 03:58 AM IST"
+        "UTC": "Wednesday, 28 January 2026, 10:55 PM UTC",
+        "IST": "Thursday, 29 January 2026, 04:25 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2942,16 +2942,6 @@
             },
             {
                 "Position": "3",
-                "Team": "Coritiba",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
-                "Position": "4",
                 "Team": "Palmeiras",
                 "Played": "1",
                 "Wins": "0",
@@ -2961,8 +2951,18 @@
                 "Points": "1"
             },
             {
+                "Position": "4",
+                "Team": "Fluminense",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
                 "Position": "5",
-                "Team": "RB Bragantino",
+                "Team": "Gr\u00eamio",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -2972,7 +2972,7 @@
             },
             {
                 "Position": "6",
-                "Team": "Remo",
+                "Team": "RB Bragantino",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -2982,7 +2982,7 @@
             },
             {
                 "Position": "7",
-                "Team": "Vit\u00f3ria",
+                "Team": "Remo",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
@@ -2992,6 +2992,26 @@
             },
             {
                 "Position": "8",
+                "Team": "Vit\u00f3ria",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
+                "Position": "9",
+                "Team": "Coritiba",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
+                "Position": "10",
                 "Team": "Bahia",
                 "Played": "0",
                 "Wins": "0",
@@ -3001,7 +3021,7 @@
                 "Points": "0"
             },
             {
-                "Position": "9",
+                "Position": "11",
                 "Team": "Botafogo",
                 "Played": "0",
                 "Wins": "0",
@@ -3011,7 +3031,7 @@
                 "Points": "0"
             },
             {
-                "Position": "10",
+                "Position": "12",
                 "Team": "Chapecoense",
                 "Played": "0",
                 "Wins": "0",
@@ -3021,7 +3041,7 @@
                 "Points": "0"
             },
             {
-                "Position": "11",
+                "Position": "13",
                 "Team": "Corinthians",
                 "Played": "0",
                 "Wins": "0",
@@ -3031,7 +3051,7 @@
                 "Points": "0"
             },
             {
-                "Position": "12",
+                "Position": "14",
                 "Team": "Cruzeiro",
                 "Played": "0",
                 "Wins": "0",
@@ -3041,28 +3061,8 @@
                 "Points": "0"
             },
             {
-                "Position": "13",
-                "Team": "Flamengo",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "14",
-                "Team": "Fluminense",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
                 "Position": "15",
-                "Team": "Gr\u00eamio",
+                "Team": "Flamengo",
                 "Played": "0",
                 "Wins": "0",
                 "Draws": "0",

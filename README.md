@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 28 January 2026, 10:28 PM UTC (Thursday, 29 January 2026, 03:58 AM IST)
+**Last Updated:** Wednesday, 28 January 2026, 10:55 PM UTC (Thursday, 29 January 2026, 04:25 AM IST)
 
 ### Premier League
 
@@ -402,19 +402,19 @@ Data not available.
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
 | 2 | Atlético Mineiro | 1 | 0 | 1 | 0 | 0 | 1 |
-| 3 | Coritiba | 1 | 0 | 1 | 0 | 0 | 1 |
-| 4 | Palmeiras | 1 | 0 | 1 | 0 | 0 | 1 |
-| 5 | RB Bragantino | 1 | 0 | 1 | 0 | 0 | 1 |
-| 6 | Remo | 1 | 0 | 1 | 0 | 0 | 1 |
-| 7 | Vitória | 1 | 0 | 1 | 0 | 0 | 1 |
-| 8 | Bahia | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Botafogo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Chapecoense | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Corinthians | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Cruzeiro | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Flamengo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Fluminense | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | Grêmio | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Palmeiras | 1 | 0 | 1 | 0 | 0 | 1 |
+| 4 | Fluminense | 1 | 0 | 1 | 0 | 0 | 1 |
+| 5 | Grêmio | 1 | 0 | 1 | 0 | 0 | 1 |
+| 6 | RB Bragantino | 1 | 0 | 1 | 0 | 0 | 1 |
+| 7 | Remo | 1 | 0 | 1 | 0 | 0 | 1 |
+| 8 | Vitória | 1 | 0 | 1 | 0 | 0 | 1 |
+| 9 | Coritiba | 1 | 0 | 1 | 0 | 0 | 1 |
+| 10 | Bahia | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Botafogo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Chapecoense | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Corinthians | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Cruzeiro | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Flamengo | 0 | 0 | 0 | 0 | 0 | 0 |
 | 16 | Mirassol | 0 | 0 | 0 | 0 | 0 | 0 |
 | 17 | Santos | 0 | 0 | 0 | 0 | 0 | 0 |
 | 18 | São Paulo | 0 | 0 | 0 | 0 | 0 | 0 |
