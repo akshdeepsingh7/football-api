@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 28 January 2026, 09:30 PM UTC (Thursday, 29 January 2026, 03:00 AM IST)
+**Last Updated:** Wednesday, 28 January 2026, 10:28 PM UTC (Thursday, 29 January 2026, 03:58 AM IST)
 
 ### Premier League
 
@@ -168,42 +168,42 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 8 | 8 | 0 | 0 | 20 | 24 |
+| 1 | Arsenal | 8 | 8 | 0 | 0 | 19 | 24 |
 | 2 | Bayern Munich | 8 | 7 | 0 | 1 | 14 | 21 |
-| 3 | Liverpool FC | 8 | 6 | 0 | 2 | 11 | 18 |
-| 4 | Tottenham Hotspur | 8 | 5 | 2 | 1 | 9 | 17 |
-| 5 | Barcelona | 8 | 5 | 1 | 2 | 7 | 16 |
-| 6 | Manchester City | 8 | 5 | 1 | 2 | 6 | 16 |
-| 7 | Real Madrid | 8 | 5 | 0 | 3 | 10 | 15 |
-| 8 | PSG | 8 | 4 | 2 | 2 | 10 | 14 |
-| 9 | Newcastle United | 8 | 4 | 2 | 2 | 10 | 14 |
-| 10 | Chelsea | 8 | 4 | 2 | 2 | 6 | 14 |
-| 11 | Sporting CP | 8 | 4 | 2 | 2 | 5 | 14 |
-| 12 | Inter | 8 | 4 | 1 | 3 | 6 | 13 |
+| 3 | Liverpool FC | 8 | 6 | 0 | 2 | 12 | 18 |
+| 4 | Tottenham Hotspur | 8 | 5 | 2 | 1 | 10 | 17 |
+| 5 | Barcelona | 8 | 5 | 1 | 2 | 8 | 16 |
+| 6 | Chelsea | 8 | 5 | 1 | 2 | 7 | 16 |
+| 7 | Sporting CP | 8 | 5 | 1 | 2 | 6 | 16 |
+| 8 | Manchester City | 8 | 5 | 1 | 2 | 6 | 16 |
+| 9 | Real Madrid | 8 | 5 | 0 | 3 | 9 | 15 |
+| 10 | Inter | 8 | 5 | 0 | 3 | 8 | 15 |
+| 11 | PSG | 8 | 4 | 2 | 2 | 10 | 14 |
+| 12 | Newcastle United | 8 | 4 | 2 | 2 | 10 | 14 |
 | 13 | Juventus | 8 | 3 | 4 | 1 | 4 | 13 |
 | 14 | Atlético de Madrid | 8 | 4 | 1 | 3 | 2 | 13 |
 | 15 | Atalanta | 8 | 4 | 1 | 3 | 0 | 13 |
-| 16 | Borussia Dortmund | 8 | 3 | 3 | 2 | 4 | 12 |
-| 17 | Bayer Leverkusen | 8 | 3 | 3 | 2 | -1 | 12 |
-| 18 | Galatasaray | 8 | 3 | 1 | 4 | -2 | 10 |
-| 19 | Club Brugge | 8 | 3 | 1 | 4 | -3 | 10 |
-| 20 | Monaco | 8 | 2 | 4 | 2 | -6 | 10 |
-| 21 | Qarabağ | 8 | 3 | 1 | 4 | -7 | 10 |
-| 22 | Bodø/Glimt | 8 | 2 | 3 | 3 | -1 | 9 |
-| 23 | Marseille | 8 | 3 | 0 | 5 | -2 | 9 |
-| 24 | Benfica | 8 | 3 | 0 | 5 | -3 | 9 |
-| 25 | Athletic Bilbao | 8 | 2 | 3 | 3 | -4 | 9 |
-| 26 | Olympiacos | 8 | 2 | 3 | 3 | -5 | 9 |
-| 27 | Napoli | 8 | 2 | 3 | 3 | -5 | 9 |
-| 28 | Pafos | 8 | 2 | 3 | 3 | -5 | 9 |
-| 29 | Union Saint-Gilloise | 8 | 3 | 0 | 5 | -9 | 9 |
-| 30 | PSV | 8 | 2 | 2 | 4 | 0 | 8 |
-| 31 | FC Copenhagen | 8 | 2 | 2 | 4 | -8 | 8 |
-| 32 | Ajax | 8 | 2 | 1 | 5 | -12 | 7 |
-| 33 | Eintracht Frankfurt | 8 | 1 | 1 | 6 | -10 | 4 |
-| 34 | Slavia Prague | 8 | 0 | 3 | 5 | -12 | 3 |
+| 16 | Bayer Leverkusen | 8 | 3 | 3 | 2 | -1 | 12 |
+| 17 | Borussia Dortmund | 8 | 3 | 2 | 3 | 2 | 11 |
+| 18 | Olympiacos | 8 | 3 | 2 | 3 | -4 | 11 |
+| 19 | Club Brugge | 8 | 3 | 1 | 4 | -2 | 10 |
+| 20 | Galatasaray | 8 | 3 | 1 | 4 | -2 | 10 |
+| 21 | Monaco | 8 | 2 | 4 | 2 | -6 | 10 |
+| 22 | Qarabağ | 8 | 3 | 1 | 4 | -8 | 10 |
+| 23 | Bodø/Glimt | 8 | 2 | 3 | 3 | -1 | 9 |
+| 24 | Benfica | 8 | 3 | 0 | 5 | -2 | 9 |
+| 25 | Marseille | 8 | 3 | 0 | 5 | -3 | 9 |
+| 26 | Pafos | 8 | 2 | 3 | 3 | -3 | 9 |
+| 27 | Union Saint-Gilloise | 8 | 3 | 0 | 5 | -9 | 9 |
+| 28 | PSV | 8 | 2 | 2 | 4 | 0 | 8 |
+| 29 | Athletic Bilbao | 8 | 2 | 2 | 4 | -5 | 8 |
+| 30 | Napoli | 8 | 2 | 2 | 4 | -6 | 8 |
+| 31 | FC Copenhagen | 8 | 2 | 2 | 4 | -9 | 8 |
+| 32 | Ajax | 8 | 2 | 0 | 6 | -13 | 6 |
+| 33 | Eintracht Frankfurt | 8 | 1 | 1 | 6 | -11 | 4 |
+| 34 | Slavia Prague | 8 | 0 | 3 | 5 | -14 | 3 |
 | 35 | Villarreal | 8 | 0 | 1 | 7 | -13 | 1 |
-| 36 | Kairat | 8 | 0 | 1 | 7 | -16 | 1 |
+| 36 | Kairat | 8 | 0 | 1 | 7 | -15 | 1 |
 
 ### Europa League
 
@@ -400,26 +400,26 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Athletico Paranaense | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Atlético Mineiro | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Bahia | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Botafogo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | Chapecoense | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | Corinthians | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Coritiba | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Cruzeiro | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Flamengo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Fluminense | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Grêmio | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Internacional | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Mirassol | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Palmeiras | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | RB Bragantino | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Remo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
+| 2 | Atlético Mineiro | 1 | 0 | 1 | 0 | 0 | 1 |
+| 3 | Coritiba | 1 | 0 | 1 | 0 | 0 | 1 |
+| 4 | Palmeiras | 1 | 0 | 1 | 0 | 0 | 1 |
+| 5 | RB Bragantino | 1 | 0 | 1 | 0 | 0 | 1 |
+| 6 | Remo | 1 | 0 | 1 | 0 | 0 | 1 |
+| 7 | Vitória | 1 | 0 | 1 | 0 | 0 | 1 |
+| 8 | Bahia | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Botafogo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Chapecoense | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Corinthians | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Cruzeiro | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Flamengo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Fluminense | 0 | 0 | 0 | 0 | 0 | 0 |
+| 15 | Grêmio | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 | Mirassol | 0 | 0 | 0 | 0 | 0 | 0 |
 | 17 | Santos | 0 | 0 | 0 | 0 | 0 | 0 |
 | 18 | São Paulo | 0 | 0 | 0 | 0 | 0 | 0 |
 | 19 | Vasco da Gama | 0 | 0 | 0 | 0 | 0 | 0 |
-| 20 | Vitória | 0 | 0 | 0 | 0 | 0 | 0 |
+| 20 | Internacional | 1 | 0 | 0 | 1 | -1 | 0 |
 
 
 <!-- END_TABLE -->
