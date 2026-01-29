@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 29 January 2026, 02:06 AM UTC",
-        "IST": "Thursday, 29 January 2026, 07:36 AM IST"
+        "UTC": "Thursday, 29 January 2026, 04:17 AM UTC",
+        "IST": "Thursday, 29 January 2026, 09:47 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3052,16 +3052,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Flamengo",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "0"
-            },
-            {
-                "Position": "15",
                 "Team": "Gr\u00eamio",
                 "Played": "1",
                 "Wins": "0",
@@ -3071,8 +3061,18 @@
                 "Points": "0"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Corinthians",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "0"
+            },
+            {
+                "Position": "16",
+                "Team": "Flamengo",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",

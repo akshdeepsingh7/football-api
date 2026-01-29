@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 29 January 2026, 02:06 AM UTC (Thursday, 29 January 2026, 07:36 AM IST)
+**Last Updated:** Thursday, 29 January 2026, 04:17 AM UTC (Thursday, 29 January 2026, 09:47 AM IST)
 
 ### Premier League
 
@@ -413,9 +413,9 @@ Data not available.
 | 11 | Cruzeiro | 0 | 0 | 0 | 0 | 0 | 0 |
 | 12 | Mirassol | 0 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Vasco da Gama | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Flamengo | 1 | 0 | 0 | 1 | -1 | 0 |
-| 15 | Grêmio | 1 | 0 | 0 | 1 | -1 | 0 |
-| 16 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
+| 14 | Grêmio | 1 | 0 | 0 | 1 | -1 | 0 |
+| 15 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
+| 16 | Flamengo | 1 | 0 | 0 | 1 | -1 | 0 |
 | 17 | Internacional | 1 | 0 | 0 | 1 | -1 | 0 |
 | 18 | Coritiba | 1 | 0 | 0 | 1 | -1 | 0 |
 | 19 | Santos | 1 | 0 | 0 | 1 | -2 | 0 |
