@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 28 January 2026, 11:51 PM UTC (Thursday, 29 January 2026, 05:21 AM IST)
+**Last Updated:** Thursday, 29 January 2026, 02:06 AM UTC (Thursday, 29 January 2026, 07:36 AM IST)
 
 ### Premier League
 
@@ -400,25 +400,25 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Vitória | 1 | 1 | 0 | 0 | 2 | 3 |
-| 2 | Bahia | 1 | 1 | 0 | 0 | 1 | 3 |
-| 3 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
+| 1 | Chapecoense | 1 | 1 | 0 | 0 | 2 | 3 |
+| 2 | Vitória | 1 | 1 | 0 | 0 | 2 | 3 |
+| 3 | São Paulo | 1 | 1 | 0 | 0 | 1 | 3 |
 | 4 | Fluminense | 1 | 1 | 0 | 0 | 1 | 3 |
-| 5 | Atlético Mineiro | 1 | 0 | 1 | 0 | 0 | 1 |
-| 6 | Palmeiras | 1 | 0 | 1 | 0 | 0 | 1 |
-| 7 | Chapecoense | 1 | 0 | 1 | 0 | 0 | 1 |
-| 8 | Santos | 1 | 0 | 1 | 0 | 0 | 1 |
-| 9 | RB Bragantino | 1 | 0 | 1 | 0 | 0 | 1 |
-| 10 | Coritiba | 1 | 0 | 1 | 0 | 0 | 1 |
-| 11 | Botafogo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Cruzeiro | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Flamengo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Mirassol | 0 | 0 | 0 | 0 | 0 | 0 |
-| 15 | São Paulo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 16 | Vasco da Gama | 0 | 0 | 0 | 0 | 0 | 0 |
-| 17 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
-| 18 | Grêmio | 1 | 0 | 0 | 1 | -1 | 0 |
-| 19 | Internacional | 1 | 0 | 0 | 1 | -1 | 0 |
+| 5 | Bahia | 1 | 1 | 0 | 0 | 1 | 3 |
+| 6 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
+| 7 | RB Bragantino | 1 | 1 | 0 | 0 | 1 | 3 |
+| 8 | Palmeiras | 1 | 0 | 1 | 0 | 0 | 1 |
+| 9 | Atlético Mineiro | 1 | 0 | 1 | 0 | 0 | 1 |
+| 10 | Botafogo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Cruzeiro | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Mirassol | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Vasco da Gama | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Flamengo | 1 | 0 | 0 | 1 | -1 | 0 |
+| 15 | Grêmio | 1 | 0 | 0 | 1 | -1 | 0 |
+| 16 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
+| 17 | Internacional | 1 | 0 | 0 | 1 | -1 | 0 |
+| 18 | Coritiba | 1 | 0 | 0 | 1 | -1 | 0 |
+| 19 | Santos | 1 | 0 | 0 | 1 | -2 | 0 |
 | 20 | Remo | 1 | 0 | 0 | 1 | -2 | 0 |
 
 
