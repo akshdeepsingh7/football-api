@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 29 January 2026, 09:53 PM UTC (Friday, 30 January 2026, 03:23 AM IST)
+**Last Updated:** Thursday, 29 January 2026, 10:28 PM UTC (Friday, 30 January 2026, 03:58 AM IST)
 
 ### Premier League
 
@@ -218,8 +218,8 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | SC Freiburg | 8 | 5 | 2 | 1 | 6 | 17 |
 | 8 | Roma | 8 | 5 | 1 | 2 | 7 | 16 |
 | 9 | KRC Genk | 8 | 5 | 1 | 2 | 4 | 16 |
-| 10 | VfB Stuttgart | 8 | 5 | 0 | 3 | 6 | 15 |
-| 11 | Bologna | 8 | 4 | 3 | 1 | 6 | 15 |
+| 10 | Bologna | 8 | 4 | 3 | 1 | 7 | 15 |
+| 11 | VfB Stuttgart | 8 | 5 | 0 | 3 | 6 | 15 |
 | 12 | Ferencváros | 8 | 4 | 3 | 1 | 1 | 15 |
 | 13 | Nottingham Forest | 8 | 4 | 2 | 2 | 8 | 14 |
 | 14 | Plzeň | 8 | 3 | 5 | 0 | 5 | 14 |
@@ -244,7 +244,7 @@ The latest league standings are displayed below in Markdown tables:
 | 33 | Nice | 8 | 1 | 0 | 7 | -8 | 3 |
 | 34 | Utrecht | 8 | 0 | 1 | 7 | -10 | 1 |
 | 35 | Malmö | 8 | 0 | 1 | 7 | -11 | 1 |
-| 36 | Maccabi Tel Aviv | 8 | 0 | 1 | 7 | -19 | 1 |
+| 36 | Maccabi Tel Aviv | 8 | 0 | 1 | 7 | -20 | 1 |
 
 ### Europa Conference League
 
@@ -289,7 +289,26 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Liga Portugal
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Porto | 19 | 18 | 1 | 0 | 36 | 55 |
+| 2 | Sporting CP | 19 | 15 | 3 | 1 | 42 | 48 |
+| 3 | Benfica | 19 | 13 | 6 | 0 | 31 | 45 |
+| 4 | Braga | 19 | 9 | 6 | 4 | 19 | 33 |
+| 5 | Gil Vicente | 19 | 8 | 7 | 4 | 8 | 31 |
+| 6 | Moreirense | 19 | 9 | 3 | 7 | 0 | 30 |
+| 7 | Famalicão | 19 | 8 | 5 | 6 | 10 | 29 |
+| 8 | Estoril | 19 | 7 | 5 | 7 | 6 | 26 |
+| 9 | Vitória S.C. | 19 | 7 | 4 | 8 | -7 | 25 |
+| 10 | Alverca | 19 | 7 | 2 | 10 | -14 | 23 |
+| 11 | Nacional | 19 | 5 | 5 | 9 | -2 | 20 |
+| 12 | Rio Ave | 19 | 4 | 8 | 7 | -13 | 20 |
+| 13 | Estrela Amadora | 19 | 4 | 7 | 8 | -13 | 19 |
+| 14 | Santa Clara | 19 | 4 | 5 | 10 | -7 | 17 |
+| 15 | Arouca | 19 | 4 | 5 | 10 | -24 | 17 |
+| 16 | Casa Pia | 19 | 3 | 6 | 10 | -18 | 15 |
+| 17 | Tondela | 19 | 3 | 3 | 13 | -21 | 12 |
+| 18 | AVS | 19 | 0 | 5 | 14 | -33 | 5 |
 
 ### EFL Championship
 

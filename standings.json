@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 29 January 2026, 09:53 PM UTC",
-        "IST": "Friday, 30 January 2026, 03:23 AM IST"
+        "UTC": "Thursday, 29 January 2026, 10:28 PM UTC",
+        "IST": "Friday, 30 January 2026, 03:58 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -1429,21 +1429,21 @@
             },
             {
                 "Position": "10",
-                "Team": "VfB Stuttgart",
-                "Played": "8",
-                "Wins": "5",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "6",
-                "Points": "15"
-            },
-            {
-                "Position": "11",
                 "Team": "Bologna",
                 "Played": "8",
                 "Wins": "4",
                 "Draws": "3",
                 "Losses": "1",
+                "Goal Difference": "7",
+                "Points": "15"
+            },
+            {
+                "Position": "11",
+                "Team": "VfB Stuttgart",
+                "Played": "8",
+                "Wins": "5",
+                "Draws": "0",
+                "Losses": "3",
                 "Goal Difference": "6",
                 "Points": "15"
             },
@@ -1694,7 +1694,7 @@
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "7",
-                "Goal Difference": "-19",
+                "Goal Difference": "-20",
                 "Points": "1"
             }
         ],
@@ -2060,7 +2060,188 @@
                 "Points": "1"
             }
         ],
-        "Liga Portugal": [],
+        "Liga Portugal": [
+            {
+                "Position": "1",
+                "Team": "Porto",
+                "Played": "19",
+                "Wins": "18",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "36",
+                "Points": "55"
+            },
+            {
+                "Position": "2",
+                "Team": "Sporting CP",
+                "Played": "19",
+                "Wins": "15",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "42",
+                "Points": "48"
+            },
+            {
+                "Position": "3",
+                "Team": "Benfica",
+                "Played": "19",
+                "Wins": "13",
+                "Draws": "6",
+                "Losses": "0",
+                "Goal Difference": "31",
+                "Points": "45"
+            },
+            {
+                "Position": "4",
+                "Team": "Braga",
+                "Played": "19",
+                "Wins": "9",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "19",
+                "Points": "33"
+            },
+            {
+                "Position": "5",
+                "Team": "Gil Vicente",
+                "Played": "19",
+                "Wins": "8",
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "8",
+                "Points": "31"
+            },
+            {
+                "Position": "6",
+                "Team": "Moreirense",
+                "Played": "19",
+                "Wins": "9",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "0",
+                "Points": "30"
+            },
+            {
+                "Position": "7",
+                "Team": "Famalic\u00e3o",
+                "Played": "19",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "10",
+                "Points": "29"
+            },
+            {
+                "Position": "8",
+                "Team": "Estoril",
+                "Played": "19",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "6",
+                "Points": "26"
+            },
+            {
+                "Position": "9",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "19",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-7",
+                "Points": "25"
+            },
+            {
+                "Position": "10",
+                "Team": "Alverca",
+                "Played": "19",
+                "Wins": "7",
+                "Draws": "2",
+                "Losses": "10",
+                "Goal Difference": "-14",
+                "Points": "23"
+            },
+            {
+                "Position": "11",
+                "Team": "Nacional",
+                "Played": "19",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-2",
+                "Points": "20"
+            },
+            {
+                "Position": "12",
+                "Team": "Rio Ave",
+                "Played": "19",
+                "Wins": "4",
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "-13",
+                "Points": "20"
+            },
+            {
+                "Position": "13",
+                "Team": "Estrela Amadora",
+                "Played": "19",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "-13",
+                "Points": "19"
+            },
+            {
+                "Position": "14",
+                "Team": "Santa Clara",
+                "Played": "19",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-7",
+                "Points": "17"
+            },
+            {
+                "Position": "15",
+                "Team": "Arouca",
+                "Played": "19",
+                "Wins": "4",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-24",
+                "Points": "17"
+            },
+            {
+                "Position": "16",
+                "Team": "Casa Pia",
+                "Played": "19",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "10",
+                "Goal Difference": "-18",
+                "Points": "15"
+            },
+            {
+                "Position": "17",
+                "Team": "Tondela",
+                "Played": "19",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "13",
+                "Goal Difference": "-21",
+                "Points": "12"
+            },
+            {
+                "Position": "18",
+                "Team": "AVS",
+                "Played": "19",
+                "Wins": "0",
+                "Draws": "5",
+                "Losses": "14",
+                "Goal Difference": "-33",
+                "Points": "5"
+            }
+        ],
         "EFL Championship": [
             {
                 "Position": "1",
