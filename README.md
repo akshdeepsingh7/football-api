@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 29 January 2026, 09:28 PM UTC (Friday, 30 January 2026, 02:58 AM IST)
+**Last Updated:** Thursday, 29 January 2026, 09:53 PM UTC (Friday, 30 January 2026, 03:23 AM IST)
 
 ### Premier League
 
@@ -209,41 +209,41 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Lyon | 8 | 6 | 1 | 1 | 11 | 19 |
-| 2 | Midtjylland | 8 | 6 | 1 | 1 | 9 | 19 |
-| 3 | SC Freiburg | 8 | 5 | 3 | 0 | 7 | 18 |
-| 4 | Aston Villa | 8 | 6 | 0 | 2 | 6 | 18 |
-| 5 | Real Betis | 8 | 5 | 2 | 1 | 7 | 17 |
-| 6 | Porto | 8 | 5 | 2 | 1 | 6 | 17 |
-| 7 | Braga | 8 | 5 | 2 | 1 | 6 | 17 |
-| 8 | Bologna | 8 | 4 | 3 | 1 | 6 | 15 |
-| 9 | Roma | 8 | 5 | 0 | 3 | 6 | 15 |
-| 10 | Ferencváros | 8 | 4 | 3 | 1 | 2 | 15 |
-| 11 | Nottingham Forest | 8 | 4 | 2 | 2 | 7 | 14 |
-| 12 | Plzeň | 8 | 3 | 5 | 0 | 5 | 14 |
-| 13 | Fenerbahçe | 8 | 4 | 2 | 2 | 4 | 14 |
-| 14 | Panathinaikos | 8 | 4 | 2 | 2 | 3 | 14 |
-| 15 | KRC Genk | 8 | 4 | 2 | 2 | 3 | 14 |
-| 16 | Red Star Belgrade | 8 | 4 | 2 | 2 | 1 | 14 |
-| 17 | PAOK | 8 | 3 | 4 | 1 | 5 | 13 |
-| 18 | VfB Stuttgart | 8 | 4 | 1 | 3 | 5 | 13 |
-| 19 | Celta de Vigo | 8 | 4 | 1 | 3 | 4 | 13 |
-| 20 | Celtic | 8 | 3 | 2 | 3 | -2 | 11 |
-| 21 | Lille | 8 | 3 | 1 | 4 | 2 | 10 |
-| 22 | Brann | 8 | 2 | 4 | 2 | -1 | 10 |
-| 23 | Ludogorets | 8 | 3 | 1 | 4 | -3 | 10 |
-| 24 | Dinamo Zagreb | 8 | 3 | 1 | 4 | -3 | 10 |
-| 25 | BSC Young Boys | 8 | 3 | 1 | 4 | -5 | 10 |
-| 26 | RB Salzburg | 8 | 3 | 0 | 5 | -3 | 9 |
-| 27 | Go Ahead Eagles | 8 | 2 | 1 | 5 | -8 | 7 |
-| 28 | FC Basel | 8 | 2 | 0 | 6 | -4 | 6 |
-| 29 | Feyenoord | 8 | 2 | 0 | 6 | -5 | 6 |
-| 30 | FCSB | 8 | 2 | 0 | 6 | -8 | 6 |
-| 31 | Sturm Graz | 8 | 1 | 2 | 5 | -7 | 5 |
+| 1 | Lyon | 8 | 7 | 0 | 1 | 13 | 21 |
+| 2 | Aston Villa | 8 | 7 | 0 | 1 | 8 | 21 |
+| 3 | Midtjylland | 8 | 6 | 1 | 1 | 10 | 19 |
+| 4 | Real Betis | 8 | 5 | 2 | 1 | 6 | 17 |
+| 5 | Porto | 8 | 5 | 2 | 1 | 6 | 17 |
+| 6 | Braga | 8 | 5 | 2 | 1 | 6 | 17 |
+| 7 | SC Freiburg | 8 | 5 | 2 | 1 | 6 | 17 |
+| 8 | Roma | 8 | 5 | 1 | 2 | 7 | 16 |
+| 9 | KRC Genk | 8 | 5 | 1 | 2 | 4 | 16 |
+| 10 | VfB Stuttgart | 8 | 5 | 0 | 3 | 6 | 15 |
+| 11 | Bologna | 8 | 4 | 3 | 1 | 6 | 15 |
+| 12 | Ferencváros | 8 | 4 | 3 | 1 | 1 | 15 |
+| 13 | Nottingham Forest | 8 | 4 | 2 | 2 | 8 | 14 |
+| 14 | Plzeň | 8 | 3 | 5 | 0 | 5 | 14 |
+| 15 | Red Star Belgrade | 8 | 4 | 2 | 2 | 1 | 14 |
+| 16 | Celta de Vigo | 8 | 4 | 1 | 3 | 4 | 13 |
+| 17 | PAOK | 8 | 3 | 3 | 2 | 3 | 12 |
+| 18 | Lille | 8 | 4 | 0 | 4 | 3 | 12 |
+| 19 | Fenerbahçe | 8 | 3 | 3 | 2 | 3 | 12 |
+| 20 | Panathinaikos | 8 | 3 | 3 | 2 | 2 | 12 |
+| 21 | Celtic | 8 | 3 | 2 | 3 | -2 | 11 |
+| 22 | Ludogorets | 8 | 3 | 1 | 4 | -3 | 10 |
+| 23 | Dinamo Zagreb | 8 | 3 | 1 | 4 | -4 | 10 |
+| 24 | Brann | 8 | 2 | 3 | 3 | -2 | 9 |
+| 25 | BSC Young Boys | 8 | 3 | 0 | 5 | -6 | 9 |
+| 26 | Sturm Graz | 8 | 2 | 1 | 5 | -6 | 7 |
+| 27 | FCSB | 8 | 2 | 1 | 5 | -7 | 7 |
+| 28 | Go Ahead Eagles | 8 | 2 | 1 | 5 | -8 | 7 |
+| 29 | Feyenoord | 8 | 2 | 0 | 6 | -4 | 6 |
+| 30 | FC Basel | 8 | 2 | 0 | 6 | -4 | 6 |
+| 31 | RB Salzburg | 8 | 2 | 0 | 6 | -5 | 6 |
 | 32 | Rangers | 8 | 1 | 1 | 6 | -9 | 4 |
 | 33 | Nice | 8 | 1 | 0 | 7 | -8 | 3 |
-| 34 | Malmö | 8 | 0 | 2 | 6 | -10 | 2 |
-| 35 | Utrecht | 8 | 0 | 1 | 7 | -10 | 1 |
+| 34 | Utrecht | 8 | 0 | 1 | 7 | -10 | 1 |
+| 35 | Malmö | 8 | 0 | 1 | 7 | -11 | 1 |
 | 36 | Maccabi Tel Aviv | 8 | 0 | 1 | 7 | -19 | 1 |
 
 ### Europa Conference League
@@ -289,26 +289,7 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Liga Portugal
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 19 | 18 | 1 | 0 | 36 | 55 |
-| 2 | Sporting CP | 19 | 15 | 3 | 1 | 42 | 48 |
-| 3 | Benfica | 19 | 13 | 6 | 0 | 31 | 45 |
-| 4 | Braga | 19 | 9 | 6 | 4 | 19 | 33 |
-| 5 | Gil Vicente | 19 | 8 | 7 | 4 | 8 | 31 |
-| 6 | Moreirense | 19 | 9 | 3 | 7 | 0 | 30 |
-| 7 | Famalicão | 19 | 8 | 5 | 6 | 10 | 29 |
-| 8 | Estoril | 19 | 7 | 5 | 7 | 6 | 26 |
-| 9 | Vitória S.C. | 19 | 7 | 4 | 8 | -7 | 25 |
-| 10 | Alverca | 19 | 7 | 2 | 10 | -14 | 23 |
-| 11 | Nacional | 19 | 5 | 5 | 9 | -2 | 20 |
-| 12 | Rio Ave | 19 | 4 | 8 | 7 | -13 | 20 |
-| 13 | Estrela Amadora | 19 | 4 | 7 | 8 | -13 | 19 |
-| 14 | Santa Clara | 19 | 4 | 5 | 10 | -7 | 17 |
-| 15 | Arouca | 19 | 4 | 5 | 10 | -24 | 17 |
-| 16 | Casa Pia | 19 | 3 | 6 | 10 | -18 | 15 |
-| 17 | Tondela | 19 | 3 | 3 | 13 | -21 | 12 |
-| 18 | AVS | 19 | 0 | 5 | 14 | -33 | 5 |
+Data not available.
 
 ### EFL Championship
 
