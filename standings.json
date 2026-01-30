@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 30 January 2026, 07:32 PM UTC",
-        "IST": "Saturday, 31 January 2026, 01:02 AM IST"
+        "UTC": "Friday, 30 January 2026, 08:32 PM UTC",
+        "IST": "Saturday, 31 January 2026, 02:02 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -250,12 +250,12 @@
             {
                 "Position": "5",
                 "Team": "Espanyol",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "10",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "7",
                 "Goal Difference": "0",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "6",
@@ -339,6 +339,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Alav\u00e9s",
+                "Played": "22",
+                "Wins": "6",
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-8",
+                "Points": "23"
+            },
+            {
+                "Position": "15",
                 "Team": "Valencia",
                 "Played": "21",
                 "Wins": "5",
@@ -346,16 +356,6 @@
                 "Losses": "8",
                 "Goal Difference": "-11",
                 "Points": "23"
-            },
-            {
-                "Position": "15",
-                "Team": "Alav\u00e9s",
-                "Played": "21",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "11",
-                "Goal Difference": "-8",
-                "Points": "22"
             },
             {
                 "Position": "16",
@@ -503,11 +503,11 @@
                 "Position": "10",
                 "Team": "K\u00f6ln",
                 "Played": "20",
-                "Wins": "5",
-                "Draws": "6",
+                "Wins": "6",
+                "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "-4",
-                "Points": "21"
+                "Goal Difference": "-3",
+                "Points": "23"
             },
             {
                 "Position": "11",
@@ -524,10 +524,10 @@
                 "Team": "VfL Wolfsburg",
                 "Played": "20",
                 "Wins": "5",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-13",
-                "Points": "20"
+                "Draws": "4",
+                "Losses": "11",
+                "Goal Difference": "-14",
+                "Points": "19"
             },
             {
                 "Position": "13",
@@ -674,12 +674,12 @@
             {
                 "Position": "9",
                 "Team": "Lazio",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "7",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "2",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "10",
@@ -714,12 +714,12 @@
             {
                 "Position": "13",
                 "Team": "Genoa",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "5",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "9",
                 "Goal Difference": "-6",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "14",
@@ -795,6 +795,16 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "Lens",
+                "Played": "20",
+                "Wins": "15",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "18",
+                "Points": "46"
+            },
+            {
+                "Position": "2",
                 "Team": "PSG",
                 "Played": "19",
                 "Wins": "14",
@@ -802,16 +812,6 @@
                 "Losses": "2",
                 "Goal Difference": "26",
                 "Points": "45"
-            },
-            {
-                "Position": "2",
-                "Team": "Lens",
-                "Played": "19",
-                "Wins": "14",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "17",
-                "Points": "43"
             },
             {
                 "Position": "3",
@@ -936,11 +936,11 @@
             {
                 "Position": "15",
                 "Team": "Le Havre",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "4",
                 "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "-8",
+                "Losses": "8",
+                "Goal Difference": "-9",
                 "Points": "20"
             },
             {
@@ -2295,6 +2295,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Derby County",
+                "Played": "30",
+                "Wins": "12",
+                "Draws": "9",
+                "Losses": "9",
+                "Goal Difference": "4",
+                "Points": "45"
+            },
+            {
+                "Position": "7",
                 "Team": "Wrexham",
                 "Played": "29",
                 "Wins": "11",
@@ -2304,17 +2314,17 @@
                 "Points": "44"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Bristol City",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "12",
                 "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "9",
+                "Losses": "11",
+                "Goal Difference": "7",
                 "Points": "43"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Watford",
                 "Played": "28",
                 "Wins": "11",
@@ -2324,7 +2334,7 @@
                 "Points": "43"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Preston North End",
                 "Played": "29",
                 "Wins": "11",
@@ -2334,23 +2344,13 @@
                 "Points": "43"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Stoke City",
                 "Played": "29",
                 "Wins": "12",
                 "Draws": "6",
                 "Losses": "11",
                 "Goal Difference": "8",
-                "Points": "42"
-            },
-            {
-                "Position": "11",
-                "Team": "Derby County",
-                "Played": "29",
-                "Wins": "11",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "2",
                 "Points": "42"
             },
             {
