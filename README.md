@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 30 January 2026, 06:43 PM UTC (Saturday, 31 January 2026, 12:13 AM IST)
+**Last Updated:** Friday, 30 January 2026, 07:32 PM UTC (Saturday, 31 January 2026, 01:02 AM IST)
 
 ### Premier League
 
@@ -106,9 +106,9 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | SC Freiburg | 19 | 7 | 6 | 6 | -1 | 27 |
 | 8 | Eintracht Frankfurt | 19 | 7 | 6 | 6 | -3 | 27 |
 | 9 | Union Berlin | 19 | 6 | 6 | 7 | -6 | 24 |
-| 10 | Köln | 19 | 5 | 5 | 9 | -4 | 20 |
+| 10 | Köln | 20 | 5 | 6 | 9 | -4 | 21 |
 | 11 | Borussia Mönchengladbach | 19 | 5 | 5 | 9 | -9 | 20 |
-| 12 | VfL Wolfsburg | 19 | 5 | 4 | 10 | -13 | 19 |
+| 12 | VfL Wolfsburg | 20 | 5 | 5 | 10 | -13 | 20 |
 | 13 | Augsburg | 19 | 5 | 4 | 10 | -14 | 19 |
 | 14 | Hamburg | 18 | 4 | 6 | 8 | -10 | 18 |
 | 15 | Werder Bremen | 19 | 4 | 6 | 9 | -16 | 18 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 30 January 2026, 06:43 PM UTC",
-        "IST": "Saturday, 31 January 2026, 12:13 AM IST"
+        "UTC": "Friday, 30 January 2026, 07:32 PM UTC",
+        "IST": "Saturday, 31 January 2026, 01:02 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -502,12 +502,12 @@
             {
                 "Position": "10",
                 "Team": "K\u00f6ln",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "5",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "-4",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "11",
@@ -522,12 +522,12 @@
             {
                 "Position": "12",
                 "Team": "VfL Wolfsburg",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "5",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "-13",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "13",
