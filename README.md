@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 30 January 2026, 02:06 AM UTC (Friday, 30 January 2026, 07:36 AM IST)
+**Last Updated:** Friday, 30 January 2026, 04:20 AM UTC (Friday, 30 January 2026, 09:50 AM IST)
 
 ### Premier League
 
@@ -400,14 +400,14 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Chapecoense | 1 | 1 | 0 | 0 | 2 | 3 |
-| 2 | Vitória | 1 | 1 | 0 | 0 | 2 | 3 |
-| 3 | São Paulo | 1 | 1 | 0 | 0 | 1 | 3 |
-| 4 | Fluminense | 1 | 1 | 0 | 0 | 1 | 3 |
-| 5 | Mirassol | 1 | 1 | 0 | 0 | 1 | 3 |
-| 6 | Bahia | 1 | 1 | 0 | 0 | 1 | 3 |
-| 7 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
-| 8 | Botafogo | 1 | 1 | 0 | 0 | 1 | 3 |
+| 1 | Botafogo | 1 | 1 | 0 | 0 | 4 | 3 |
+| 2 | Chapecoense | 1 | 1 | 0 | 0 | 2 | 3 |
+| 3 | Vitória | 1 | 1 | 0 | 0 | 2 | 3 |
+| 4 | São Paulo | 1 | 1 | 0 | 0 | 1 | 3 |
+| 5 | Fluminense | 1 | 1 | 0 | 0 | 1 | 3 |
+| 6 | Mirassol | 1 | 1 | 0 | 0 | 1 | 3 |
+| 7 | Bahia | 1 | 1 | 0 | 0 | 1 | 3 |
+| 8 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
 | 9 | RB Bragantino | 1 | 1 | 0 | 0 | 1 | 3 |
 | 10 | Palmeiras | 1 | 0 | 1 | 0 | 0 | 1 |
 | 11 | Atlético Mineiro | 1 | 0 | 1 | 0 | 0 | 1 |
@@ -415,11 +415,11 @@ Data not available.
 | 13 | Grêmio | 1 | 0 | 0 | 1 | -1 | 0 |
 | 14 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
 | 15 | Flamengo | 1 | 0 | 0 | 1 | -1 | 0 |
-| 16 | Cruzeiro | 1 | 0 | 0 | 1 | -1 | 0 |
-| 17 | Internacional | 1 | 0 | 0 | 1 | -1 | 0 |
-| 18 | Coritiba | 1 | 0 | 0 | 1 | -1 | 0 |
-| 19 | Santos | 1 | 0 | 0 | 1 | -2 | 0 |
-| 20 | Remo | 1 | 0 | 0 | 1 | -2 | 0 |
+| 16 | Internacional | 1 | 0 | 0 | 1 | -1 | 0 |
+| 17 | Coritiba | 1 | 0 | 0 | 1 | -1 | 0 |
+| 18 | Santos | 1 | 0 | 0 | 1 | -2 | 0 |
+| 19 | Remo | 1 | 0 | 0 | 1 | -2 | 0 |
+| 20 | Cruzeiro | 1 | 0 | 0 | 1 | -4 | 0 |
 
 
 <!-- END_TABLE -->
