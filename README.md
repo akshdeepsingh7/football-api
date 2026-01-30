@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 29 January 2026, 11:31 PM UTC (Friday, 30 January 2026, 05:01 AM IST)
+**Last Updated:** Friday, 30 January 2026, 02:06 AM UTC (Friday, 30 January 2026, 07:36 AM IST)
 
 ### Premier League
 
@@ -404,18 +404,18 @@ Data not available.
 | 2 | Vitória | 1 | 1 | 0 | 0 | 2 | 3 |
 | 3 | São Paulo | 1 | 1 | 0 | 0 | 1 | 3 |
 | 4 | Fluminense | 1 | 1 | 0 | 0 | 1 | 3 |
-| 5 | Bahia | 1 | 1 | 0 | 0 | 1 | 3 |
-| 6 | Vasco da Gama | 1 | 1 | 0 | 0 | 1 | 3 |
+| 5 | Mirassol | 1 | 1 | 0 | 0 | 1 | 3 |
+| 6 | Bahia | 1 | 1 | 0 | 0 | 1 | 3 |
 | 7 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
-| 8 | RB Bragantino | 1 | 1 | 0 | 0 | 1 | 3 |
-| 9 | Palmeiras | 1 | 0 | 1 | 0 | 0 | 1 |
-| 10 | Atlético Mineiro | 1 | 0 | 1 | 0 | 0 | 1 |
-| 11 | Botafogo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Cruzeiro | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Botafogo | 1 | 1 | 0 | 0 | 1 | 3 |
+| 9 | RB Bragantino | 1 | 1 | 0 | 0 | 1 | 3 |
+| 10 | Palmeiras | 1 | 0 | 1 | 0 | 0 | 1 |
+| 11 | Atlético Mineiro | 1 | 0 | 1 | 0 | 0 | 1 |
+| 12 | Vasco da Gama | 1 | 0 | 0 | 1 | -1 | 0 |
 | 13 | Grêmio | 1 | 0 | 0 | 1 | -1 | 0 |
 | 14 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
 | 15 | Flamengo | 1 | 0 | 0 | 1 | -1 | 0 |
-| 16 | Mirassol | 1 | 0 | 0 | 1 | -1 | 0 |
+| 16 | Cruzeiro | 1 | 0 | 0 | 1 | -1 | 0 |
 | 17 | Internacional | 1 | 0 | 0 | 1 | -1 | 0 |
 | 18 | Coritiba | 1 | 0 | 0 | 1 | -1 | 0 |
 | 19 | Santos | 1 | 0 | 0 | 1 | -2 | 0 |

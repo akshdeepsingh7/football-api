@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 29 January 2026, 11:31 PM UTC",
-        "IST": "Friday, 30 January 2026, 05:01 AM IST"
+        "UTC": "Friday, 30 January 2026, 02:06 AM UTC",
+        "IST": "Friday, 30 January 2026, 07:36 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2962,7 +2962,7 @@
             },
             {
                 "Position": "5",
-                "Team": "Bahia",
+                "Team": "Mirassol",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -2972,7 +2972,7 @@
             },
             {
                 "Position": "6",
-                "Team": "Vasco da Gama",
+                "Team": "Bahia",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -2992,7 +2992,7 @@
             },
             {
                 "Position": "8",
-                "Team": "RB Bragantino",
+                "Team": "Botafogo",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
@@ -3002,6 +3002,16 @@
             },
             {
                 "Position": "9",
+                "Team": "RB Bragantino",
+                "Played": "1",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "1",
+                "Points": "3"
+            },
+            {
+                "Position": "10",
                 "Team": "Palmeiras",
                 "Played": "1",
                 "Wins": "0",
@@ -3011,7 +3021,7 @@
                 "Points": "1"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "1",
                 "Wins": "0",
@@ -3021,23 +3031,13 @@
                 "Points": "1"
             },
             {
-                "Position": "11",
-                "Team": "Botafogo",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
                 "Position": "12",
-                "Team": "Cruzeiro",
-                "Played": "0",
+                "Team": "Vasco da Gama",
+                "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
                 "Points": "0"
             },
             {
@@ -3072,7 +3072,7 @@
             },
             {
                 "Position": "16",
-                "Team": "Mirassol",
+                "Team": "Cruzeiro",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
