@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 30 January 2026, 09:29 PM UTC",
-        "IST": "Saturday, 31 January 2026, 02:59 AM IST"
+        "UTC": "Friday, 30 January 2026, 09:50 PM UTC",
+        "IST": "Saturday, 31 January 2026, 03:20 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -252,10 +252,10 @@
                 "Team": "Espanyol",
                 "Played": "22",
                 "Wins": "10",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "0",
-                "Points": "35"
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-1",
+                "Points": "34"
             },
             {
                 "Position": "6",
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Alav\u00e9s",
+                "Played": "22",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "11",
+                "Goal Difference": "-7",
+                "Points": "25"
+            },
+            {
+                "Position": "11",
                 "Team": "Girona",
                 "Played": "21",
                 "Wins": "6",
@@ -308,7 +318,7 @@
                 "Points": "25"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Elche",
                 "Played": "21",
                 "Wins": "5",
@@ -318,7 +328,7 @@
                 "Points": "24"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Sevilla",
                 "Played": "21",
                 "Wins": "7",
@@ -328,7 +338,7 @@
                 "Points": "24"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Athletic Bilbao",
                 "Played": "21",
                 "Wins": "7",
@@ -336,16 +346,6 @@
                 "Losses": "11",
                 "Goal Difference": "-10",
                 "Points": "24"
-            },
-            {
-                "Position": "14",
-                "Team": "Alav\u00e9s",
-                "Played": "22",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-8",
-                "Points": "23"
             },
             {
                 "Position": "15",
@@ -663,22 +663,22 @@
             },
             {
                 "Position": "8",
+                "Team": "Lazio",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "3",
+                "Points": "32"
+            },
+            {
+                "Position": "9",
                 "Team": "Bologna",
                 "Played": "22",
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "8",
                 "Goal Difference": "5",
-                "Points": "30"
-            },
-            {
-                "Position": "9",
-                "Team": "Lazio",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "9",
-                "Losses": "7",
-                "Goal Difference": "2",
                 "Points": "30"
             },
             {
@@ -713,16 +713,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Genoa",
-                "Played": "23",
-                "Wins": "5",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "-6",
-                "Points": "24"
-            },
-            {
-                "Position": "14",
                 "Team": "Cremonese",
                 "Played": "22",
                 "Wins": "5",
@@ -732,7 +722,7 @@
                 "Points": "23"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Parma",
                 "Played": "22",
                 "Wins": "5",
@@ -742,13 +732,23 @@
                 "Points": "23"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Torino",
                 "Played": "22",
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "11",
                 "Goal Difference": "-19",
+                "Points": "23"
+            },
+            {
+                "Position": "16",
+                "Team": "Genoa",
+                "Played": "23",
+                "Wins": "5",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-7",
                 "Points": "23"
             },
             {
@@ -2300,7 +2300,7 @@
                 "Wins": "12",
                 "Draws": "9",
                 "Losses": "9",
-                "Goal Difference": "6",
+                "Goal Difference": "7",
                 "Points": "45"
             },
             {
@@ -2330,7 +2330,7 @@
                 "Wins": "12",
                 "Draws": "7",
                 "Losses": "11",
-                "Goal Difference": "5",
+                "Goal Difference": "4",
                 "Points": "43"
             },
             {
