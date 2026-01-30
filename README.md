@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 30 January 2026, 08:32 PM UTC (Saturday, 31 January 2026, 02:02 AM IST)
+**Last Updated:** Friday, 30 January 2026, 09:29 PM UTC (Saturday, 31 January 2026, 02:59 AM IST)
 
 ### Premier League
 
@@ -296,10 +296,10 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 19 | 13 | 6 | 0 | 31 | 45 |
 | 4 | Braga | 19 | 9 | 6 | 4 | 19 | 33 |
 | 5 | Gil Vicente | 19 | 8 | 7 | 4 | 8 | 31 |
-| 6 | Moreirense | 19 | 9 | 3 | 7 | 0 | 30 |
+| 6 | Moreirense | 20 | 9 | 4 | 7 | 0 | 31 |
 | 7 | Famalicão | 19 | 8 | 5 | 6 | 10 | 29 |
 | 8 | Estoril | 19 | 7 | 5 | 7 | 6 | 26 |
-| 9 | Vitória S.C. | 19 | 7 | 4 | 8 | -7 | 25 |
+| 9 | Vitória S.C. | 20 | 7 | 5 | 8 | -7 | 26 |
 | 10 | Alverca | 19 | 7 | 2 | 10 | -14 | 23 |
 | 11 | Nacional | 19 | 5 | 5 | 9 | -2 | 20 |
 | 12 | Rio Ave | 19 | 4 | 8 | 7 | -13 | 20 |
@@ -319,10 +319,10 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Ipswich Town | 28 | 14 | 8 | 6 | 21 | 50 |
 | 4 | Hull City | 28 | 15 | 5 | 8 | 7 | 50 |
 | 5 | Millwall | 29 | 14 | 7 | 8 | 1 | 49 |
-| 6 | Derby County | 30 | 12 | 9 | 9 | 4 | 45 |
+| 6 | Derby County | 30 | 12 | 9 | 9 | 6 | 45 |
 | 7 | Wrexham | 29 | 11 | 11 | 7 | 6 | 44 |
-| 8 | Bristol City | 30 | 12 | 7 | 11 | 7 | 43 |
-| 9 | Watford | 28 | 11 | 10 | 7 | 6 | 43 |
+| 8 | Watford | 28 | 11 | 10 | 7 | 6 | 43 |
+| 9 | Bristol City | 30 | 12 | 7 | 11 | 5 | 43 |
 | 10 | Preston North End | 29 | 11 | 10 | 8 | 3 | 43 |
 | 11 | Stoke City | 29 | 12 | 6 | 11 | 8 | 42 |
 | 12 | Queens Park Rangers | 29 | 11 | 7 | 11 | -2 | 40 |
