@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 31 January 2026, 11:43 AM UTC (Saturday, 31 January 2026, 05:13 PM IST)
+**Last Updated:** Saturday, 31 January 2026, 12:50 PM UTC (Saturday, 31 January 2026, 06:20 PM IST)
 
 ### Premier League
 
@@ -320,24 +320,24 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Hull City | 28 | 15 | 5 | 8 | 7 | 50 |
 | 5 | Millwall | 29 | 14 | 7 | 8 | 1 | 49 |
 | 6 | Derby County | 30 | 12 | 9 | 9 | 7 | 45 |
-| 7 | Wrexham | 29 | 11 | 11 | 7 | 6 | 44 |
+| 7 | Wrexham | 30 | 11 | 12 | 7 | 6 | 45 |
 | 8 | Watford | 28 | 11 | 10 | 7 | 6 | 43 |
 | 9 | Bristol City | 30 | 12 | 7 | 11 | 4 | 43 |
 | 10 | Preston North End | 29 | 11 | 10 | 8 | 3 | 43 |
-| 11 | Stoke City | 29 | 12 | 6 | 11 | 8 | 42 |
-| 12 | Queens Park Rangers | 29 | 11 | 7 | 11 | -2 | 40 |
-| 13 | Birmingham City | 29 | 10 | 9 | 10 | 1 | 39 |
-| 14 | Leicester City | 29 | 10 | 8 | 11 | -3 | 38 |
-| 15 | Southampton | 29 | 9 | 10 | 10 | 0 | 37 |
+| 11 | Stoke City | 30 | 12 | 6 | 12 | 7 | 42 |
+| 12 | Southampton | 30 | 10 | 10 | 10 | 1 | 40 |
+| 13 | Queens Park Rangers | 29 | 11 | 7 | 11 | -2 | 40 |
+| 14 | Birmingham City | 29 | 10 | 9 | 10 | 1 | 39 |
+| 15 | Leicester City | 30 | 10 | 9 | 11 | -3 | 39 |
 | 16 | Swansea City | 29 | 10 | 6 | 13 | -5 | 36 |
 | 17 | Sheffield United | 28 | 11 | 2 | 15 | -2 | 35 |
 | 18 | Norwich City | 29 | 9 | 6 | 14 | -4 | 33 |
-| 19 | Charlton Athletic | 28 | 8 | 8 | 12 | -11 | 32 |
+| 19 | Charlton Athletic | 29 | 8 | 9 | 12 | -11 | 33 |
 | 20 | West Bromwich Albion | 29 | 9 | 5 | 15 | -12 | 32 |
 | 21 | Portsmouth | 27 | 7 | 9 | 11 | -13 | 30 |
 | 22 | Blackburn Rovers | 28 | 7 | 8 | 13 | -11 | 29 |
 | 23 | Oxford United | 28 | 6 | 9 | 13 | -9 | 27 |
-| 24 | Sheffield Wednesday | 28 | 1 | 8 | 19 | -38 | -7 |
+| 24 | Sheffield Wednesday | 29 | 1 | 9 | 19 | -38 | -6 |
 
 ### Major League Soccer (MLS)
 

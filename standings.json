@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 11:43 AM UTC",
-        "IST": "Saturday, 31 January 2026, 05:13 PM IST"
+        "UTC": "Saturday, 31 January 2026, 12:50 PM UTC",
+        "IST": "Saturday, 31 January 2026, 06:20 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2306,12 +2306,12 @@
             {
                 "Position": "7",
                 "Team": "Wrexham",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "11",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "7",
                 "Goal Difference": "6",
-                "Points": "44"
+                "Points": "45"
             },
             {
                 "Position": "8",
@@ -2346,15 +2346,25 @@
             {
                 "Position": "11",
                 "Team": "Stoke City",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "12",
                 "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "8",
+                "Losses": "12",
+                "Goal Difference": "7",
                 "Points": "42"
             },
             {
                 "Position": "12",
+                "Team": "Southampton",
+                "Played": "30",
+                "Wins": "10",
+                "Draws": "10",
+                "Losses": "10",
+                "Goal Difference": "1",
+                "Points": "40"
+            },
+            {
+                "Position": "13",
                 "Team": "Queens Park Rangers",
                 "Played": "29",
                 "Wins": "11",
@@ -2364,7 +2374,7 @@
                 "Points": "40"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Birmingham City",
                 "Played": "29",
                 "Wins": "10",
@@ -2374,24 +2384,14 @@
                 "Points": "39"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Leicester City",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "10",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "11",
                 "Goal Difference": "-3",
-                "Points": "38"
-            },
-            {
-                "Position": "15",
-                "Team": "Southampton",
-                "Played": "29",
-                "Wins": "9",
-                "Draws": "10",
-                "Losses": "10",
-                "Goal Difference": "0",
-                "Points": "37"
+                "Points": "39"
             },
             {
                 "Position": "16",
@@ -2426,12 +2426,12 @@
             {
                 "Position": "19",
                 "Team": "Charlton Athletic",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "8",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "12",
                 "Goal Difference": "-11",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "20",
@@ -2476,12 +2476,12 @@
             {
                 "Position": "24",
                 "Team": "Sheffield Wednesday",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "1",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "19",
                 "Goal Difference": "-38",
-                "Points": "-7"
+                "Points": "-6"
             }
         ],
         "Major League Soccer (MLS)": [
