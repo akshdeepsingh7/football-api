@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 07:21 PM UTC",
-        "IST": "Sunday, 01 February 2026, 12:51 AM IST"
+        "UTC": "Saturday, 31 January 2026, 07:41 PM UTC",
+        "IST": "Sunday, 01 February 2026, 01:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -39,11 +39,11 @@
                 "Position": "4",
                 "Team": "Chelsea",
                 "Played": "24",
-                "Wins": "10",
-                "Draws": "8",
+                "Wins": "11",
+                "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "14",
-                "Points": "38"
+                "Goal Difference": "15",
+                "Points": "40"
             },
             {
                 "Position": "5",
@@ -180,10 +180,10 @@
                 "Team": "West Ham United",
                 "Played": "24",
                 "Wins": "5",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-18",
-                "Points": "21"
+                "Draws": "5",
+                "Losses": "14",
+                "Goal Difference": "-19",
+                "Points": "20"
             },
             {
                 "Position": "19",
@@ -877,11 +877,11 @@
                 "Position": "9",
                 "Team": "Lorient",
                 "Played": "20",
-                "Wins": "7",
-                "Draws": "7",
+                "Wins": "6",
+                "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "-4",
-                "Points": "28"
+                "Goal Difference": "-5",
+                "Points": "26"
             },
             {
                 "Position": "10",
@@ -948,10 +948,10 @@
                 "Team": "Nantes",
                 "Played": "20",
                 "Wins": "3",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-17",
-                "Points": "14"
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "-16",
+                "Points": "15"
             },
             {
                 "Position": "17",
@@ -2168,7 +2168,7 @@
                 "Wins": "5",
                 "Draws": "5",
                 "Losses": "10",
-                "Goal Difference": "-22",
+                "Goal Difference": "-21",
                 "Points": "20"
             },
             {
@@ -2188,7 +2188,7 @@
                 "Wins": "4",
                 "Draws": "8",
                 "Losses": "8",
-                "Goal Difference": "-15",
+                "Goal Difference": "-16",
                 "Points": "20"
             },
             {
