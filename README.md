@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 31 January 2026, 01:41 PM UTC (Saturday, 31 January 2026, 07:11 PM IST)
+**Last Updated:** Saturday, 31 January 2026, 02:25 PM UTC (Saturday, 31 January 2026, 07:55 PM IST)
 
 ### Premier League
 
@@ -130,7 +130,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Lazio | 23 | 8 | 8 | 7 | 3 | 32 |
 | 9 | Bologna | 22 | 8 | 6 | 8 | 5 | 30 |
 | 10 | Udinese | 22 | 8 | 5 | 9 | -9 | 29 |
-| 11 | Sassuolo | 22 | 7 | 5 | 10 | -4 | 26 |
+| 11 | Sassuolo | 23 | 7 | 6 | 10 | -4 | 27 |
 | 12 | Cagliari | 22 | 6 | 7 | 9 | -7 | 25 |
 | 13 | Cremonese | 22 | 5 | 8 | 9 | -9 | 23 |
 | 14 | Parma | 22 | 5 | 8 | 9 | -12 | 23 |
@@ -138,7 +138,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Genoa | 23 | 5 | 8 | 10 | -7 | 23 |
 | 17 | Lecce | 22 | 4 | 6 | 12 | -16 | 18 |
 | 18 | Fiorentina | 22 | 3 | 8 | 11 | -10 | 17 |
-| 19 | Pisa | 22 | 1 | 11 | 10 | -19 | 14 |
+| 19 | Pisa | 23 | 1 | 12 | 10 | -19 | 15 |
 | 20 | Hellas Verona | 22 | 2 | 8 | 12 | -19 | 14 |
 
 ### Ligue 1
@@ -319,13 +319,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Ipswich Town | 28 | 14 | 8 | 6 | 21 | 50 |
 | 4 | Hull City | 28 | 15 | 5 | 8 | 7 | 50 |
 | 5 | Millwall | 29 | 14 | 7 | 8 | 1 | 49 |
-| 6 | Derby County | 30 | 12 | 9 | 9 | 7 | 45 |
-| 7 | Wrexham | 30 | 11 | 12 | 7 | 6 | 45 |
+| 6 | Wrexham | 30 | 12 | 11 | 7 | 7 | 47 |
+| 7 | Derby County | 30 | 12 | 9 | 9 | 7 | 45 |
 | 8 | Watford | 28 | 11 | 10 | 7 | 6 | 43 |
 | 9 | Bristol City | 30 | 12 | 7 | 11 | 4 | 43 |
 | 10 | Preston North End | 29 | 11 | 10 | 8 | 3 | 43 |
-| 11 | Stoke City | 30 | 12 | 6 | 12 | 7 | 42 |
-| 12 | Southampton | 30 | 10 | 10 | 10 | 1 | 40 |
+| 11 | Stoke City | 30 | 12 | 6 | 12 | 6 | 42 |
+| 12 | Southampton | 30 | 10 | 10 | 10 | 2 | 40 |
 | 13 | Queens Park Rangers | 29 | 11 | 7 | 11 | -2 | 40 |
 | 14 | Birmingham City | 29 | 10 | 9 | 10 | 1 | 39 |
 | 15 | Leicester City | 30 | 10 | 8 | 12 | -5 | 38 |
@@ -337,7 +337,7 @@ The latest league standings are displayed below in Markdown tables:
 | 21 | Portsmouth | 27 | 7 | 9 | 11 | -13 | 30 |
 | 22 | Blackburn Rovers | 28 | 7 | 8 | 13 | -11 | 29 |
 | 23 | Oxford United | 28 | 6 | 9 | 13 | -9 | 27 |
-| 24 | Sheffield Wednesday | 29 | 1 | 9 | 19 | -38 | -6 |
+| 24 | Sheffield Wednesday | 29 | 1 | 8 | 20 | -39 | -7 |
 
 ### Major League Soccer (MLS)
 
