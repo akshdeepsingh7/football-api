@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 06:34 PM UTC",
-        "IST": "Sunday, 01 February 2026, 12:04 AM IST"
+        "UTC": "Saturday, 31 January 2026, 07:21 PM UTC",
+        "IST": "Sunday, 01 February 2026, 12:51 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -37,6 +37,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Chelsea",
+                "Played": "24",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "6",
+                "Goal Difference": "14",
+                "Points": "38"
+            },
+            {
+                "Position": "5",
                 "Team": "Manchester United",
                 "Played": "23",
                 "Wins": "10",
@@ -44,16 +54,6 @@
                 "Losses": "5",
                 "Goal Difference": "7",
                 "Points": "38"
-            },
-            {
-                "Position": "5",
-                "Team": "Chelsea",
-                "Played": "24",
-                "Wins": "10",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "12",
-                "Points": "37"
             },
             {
                 "Position": "6",
@@ -179,11 +179,11 @@
                 "Position": "18",
                 "Team": "West Ham United",
                 "Played": "24",
-                "Wins": "6",
-                "Draws": "5",
+                "Wins": "5",
+                "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "-16",
-                "Points": "23"
+                "Goal Difference": "-18",
+                "Points": "21"
             },
             {
                 "Position": "19",
@@ -2163,13 +2163,13 @@
             },
             {
                 "Position": "11",
-                "Team": "Rio Ave",
+                "Team": "Arouca",
                 "Played": "20",
-                "Wins": "4",
-                "Draws": "9",
-                "Losses": "7",
-                "Goal Difference": "-13",
-                "Points": "21"
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-22",
+                "Points": "20"
             },
             {
                 "Position": "12",
@@ -2183,6 +2183,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Rio Ave",
+                "Played": "20",
+                "Wins": "4",
+                "Draws": "8",
+                "Losses": "8",
+                "Goal Difference": "-15",
+                "Points": "20"
+            },
+            {
+                "Position": "14",
                 "Team": "Estrela Amadora",
                 "Played": "19",
                 "Wins": "4",
@@ -2190,16 +2200,6 @@
                 "Losses": "8",
                 "Goal Difference": "-13",
                 "Points": "19"
-            },
-            {
-                "Position": "14",
-                "Team": "Arouca",
-                "Played": "20",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "10",
-                "Goal Difference": "-24",
-                "Points": "18"
             },
             {
                 "Position": "15",

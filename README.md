@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 31 January 2026, 06:34 PM UTC (Sunday, 01 February 2026, 12:04 AM IST)
+**Last Updated:** Saturday, 31 January 2026, 07:21 PM UTC (Sunday, 01 February 2026, 12:51 AM IST)
 
 ### Premier League
 
@@ -50,8 +50,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Arsenal | 24 | 16 | 5 | 3 | 29 | 53 |
 | 2 | Manchester City | 23 | 14 | 4 | 5 | 26 | 46 |
 | 3 | Aston Villa | 23 | 14 | 4 | 5 | 10 | 46 |
-| 4 | Manchester United | 23 | 10 | 8 | 5 | 7 | 38 |
-| 5 | Chelsea | 24 | 10 | 7 | 7 | 12 | 37 |
+| 4 | Chelsea | 24 | 10 | 8 | 6 | 14 | 38 |
+| 5 | Manchester United | 23 | 10 | 8 | 5 | 7 | 38 |
 | 6 | Liverpool FC | 23 | 10 | 6 | 7 | 3 | 36 |
 | 7 | Fulham | 23 | 10 | 4 | 9 | 0 | 34 |
 | 8 | Everton | 24 | 9 | 7 | 8 | -1 | 34 |
@@ -64,7 +64,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Crystal Palace | 23 | 7 | 7 | 9 | -4 | 28 |
 | 16 | Leeds United | 24 | 6 | 8 | 10 | -11 | 26 |
 | 17 | Nottingham Forest | 23 | 7 | 4 | 12 | -11 | 25 |
-| 18 | West Ham United | 24 | 6 | 5 | 13 | -16 | 23 |
+| 18 | West Ham United | 24 | 5 | 6 | 13 | -18 | 21 |
 | 19 | Burnley | 23 | 3 | 6 | 14 | -19 | 15 |
 | 20 | Wolverhampton Wanderers | 24 | 1 | 5 | 18 | -30 | 8 |
 
@@ -301,10 +301,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Estoril | 20 | 8 | 5 | 7 | 8 | 29 |
 | 9 | Vitória S.C. | 20 | 8 | 4 | 8 | -6 | 28 |
 | 10 | Alverca | 19 | 7 | 2 | 10 | -14 | 23 |
-| 11 | Rio Ave | 20 | 4 | 9 | 7 | -13 | 21 |
+| 11 | Arouca | 20 | 5 | 5 | 10 | -22 | 20 |
 | 12 | Nacional | 19 | 5 | 5 | 9 | -2 | 20 |
-| 13 | Estrela Amadora | 19 | 4 | 7 | 8 | -13 | 19 |
-| 14 | Arouca | 20 | 4 | 6 | 10 | -24 | 18 |
+| 13 | Rio Ave | 20 | 4 | 8 | 8 | -15 | 20 |
+| 14 | Estrela Amadora | 19 | 4 | 7 | 8 | -13 | 19 |
 | 15 | Santa Clara | 20 | 4 | 5 | 11 | -9 | 17 |
 | 16 | Casa Pia | 19 | 3 | 6 | 10 | -18 | 15 |
 | 17 | Tondela | 19 | 3 | 3 | 13 | -21 | 12 |
