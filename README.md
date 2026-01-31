@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 31 January 2026, 09:45 PM UTC (Sunday, 01 February 2026, 03:15 AM IST)
+**Last Updated:** Saturday, 31 January 2026, 10:23 PM UTC (Sunday, 01 February 2026, 03:53 AM IST)
 
 ### Premier League
 
@@ -51,12 +51,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 23 | 14 | 4 | 5 | 26 | 46 |
 | 3 | Aston Villa | 23 | 14 | 4 | 5 | 10 | 46 |
 | 4 | Chelsea | 24 | 11 | 7 | 6 | 15 | 40 |
-| 5 | Liverpool FC | 24 | 11 | 6 | 7 | 5 | 39 |
+| 5 | Liverpool FC | 24 | 11 | 6 | 7 | 6 | 39 |
 | 6 | Manchester United | 23 | 10 | 8 | 5 | 7 | 38 |
 | 7 | Fulham | 23 | 10 | 4 | 9 | 0 | 34 |
 | 8 | Everton | 24 | 9 | 7 | 8 | -1 | 34 |
 | 9 | Brentford | 23 | 10 | 3 | 10 | 3 | 33 |
-| 10 | Newcastle United | 24 | 9 | 6 | 9 | 1 | 33 |
+| 10 | Newcastle United | 24 | 9 | 6 | 9 | 0 | 33 |
 | 11 | Sunderland | 23 | 8 | 9 | 6 | -2 | 33 |
 | 12 | AFC Bournemouth | 24 | 8 | 9 | 7 | -3 | 33 |
 | 13 | Brighton & Hove Albion | 24 | 7 | 10 | 7 | 2 | 31 |
@@ -150,11 +150,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Marseille | 20 | 12 | 3 | 5 | 24 | 39 |
 | 4 | Lyon | 19 | 11 | 3 | 5 | 12 | 36 |
 | 5 | Lille | 19 | 10 | 2 | 7 | 5 | 32 |
-| 6 | Rennes | 20 | 8 | 7 | 5 | 0 | 31 |
+| 6 | Rennes | 20 | 8 | 7 | 5 | -1 | 31 |
 | 7 | Strasbourg | 19 | 9 | 3 | 7 | 9 | 30 |
 | 8 | Toulouse | 19 | 8 | 5 | 6 | 8 | 29 |
 | 9 | Lorient | 20 | 7 | 7 | 6 | -4 | 28 |
-| 10 | Monaco | 20 | 8 | 3 | 9 | -2 | 27 |
+| 10 | Monaco | 20 | 8 | 3 | 9 | -1 | 27 |
 | 11 | Angers | 19 | 6 | 5 | 8 | -5 | 23 |
 | 12 | Brest | 19 | 6 | 4 | 9 | -7 | 22 |
 | 13 | Paris FC | 20 | 5 | 6 | 9 | -8 | 21 |
