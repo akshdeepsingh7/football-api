@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 05:50 PM UTC",
-        "IST": "Saturday, 31 January 2026, 11:20 PM IST"
+        "UTC": "Saturday, 31 January 2026, 06:34 PM UTC",
+        "IST": "Sunday, 01 February 2026, 12:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -52,7 +52,7 @@
                 "Wins": "10",
                 "Draws": "7",
                 "Losses": "7",
-                "Goal Difference": "13",
+                "Goal Difference": "12",
                 "Points": "37"
             },
             {
@@ -182,7 +182,7 @@
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-17",
+                "Goal Difference": "-16",
                 "Points": "23"
             },
             {
@@ -817,11 +817,11 @@
                 "Position": "3",
                 "Team": "Marseille",
                 "Played": "20",
-                "Wins": "13",
-                "Draws": "2",
+                "Wins": "12",
+                "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "25",
-                "Points": "41"
+                "Goal Difference": "24",
+                "Points": "39"
             },
             {
                 "Position": "4",
@@ -876,12 +876,12 @@
             {
                 "Position": "9",
                 "Team": "Lorient",
-                "Played": "19",
-                "Wins": "6",
+                "Played": "20",
+                "Wins": "7",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "25"
+                "Goal Difference": "-4",
+                "Points": "28"
             },
             {
                 "Position": "10",
@@ -915,6 +915,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Paris FC",
+                "Played": "20",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-8",
+                "Points": "21"
+            },
+            {
+                "Position": "14",
                 "Team": "Nice",
                 "Played": "19",
                 "Wins": "6",
@@ -922,16 +932,6 @@
                 "Losses": "10",
                 "Goal Difference": "-11",
                 "Points": "21"
-            },
-            {
-                "Position": "14",
-                "Team": "Paris FC",
-                "Played": "20",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-9",
-                "Points": "20"
             },
             {
                 "Position": "15",
@@ -946,11 +946,11 @@
             {
                 "Position": "16",
                 "Team": "Nantes",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "3",
                 "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-16",
+                "Losses": "12",
+                "Goal Difference": "-17",
                 "Points": "14"
             },
             {
@@ -2163,22 +2163,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Rio Ave",
+                "Played": "20",
+                "Wins": "4",
+                "Draws": "9",
+                "Losses": "7",
+                "Goal Difference": "-13",
+                "Points": "21"
+            },
+            {
+                "Position": "12",
                 "Team": "Nacional",
                 "Played": "19",
                 "Wins": "5",
                 "Draws": "5",
                 "Losses": "9",
                 "Goal Difference": "-2",
-                "Points": "20"
-            },
-            {
-                "Position": "12",
-                "Team": "Rio Ave",
-                "Played": "19",
-                "Wins": "4",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "-13",
                 "Points": "20"
             },
             {
@@ -2193,22 +2193,22 @@
             },
             {
                 "Position": "14",
+                "Team": "Arouca",
+                "Played": "20",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "10",
+                "Goal Difference": "-24",
+                "Points": "18"
+            },
+            {
+                "Position": "15",
                 "Team": "Santa Clara",
                 "Played": "20",
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "11",
                 "Goal Difference": "-9",
-                "Points": "17"
-            },
-            {
-                "Position": "15",
-                "Team": "Arouca",
-                "Played": "19",
-                "Wins": "4",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-24",
                 "Points": "17"
             },
             {

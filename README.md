@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 31 January 2026, 05:50 PM UTC (Saturday, 31 January 2026, 11:20 PM IST)
+**Last Updated:** Saturday, 31 January 2026, 06:34 PM UTC (Sunday, 01 February 2026, 12:04 AM IST)
 
 ### Premier League
 
@@ -51,7 +51,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 23 | 14 | 4 | 5 | 26 | 46 |
 | 3 | Aston Villa | 23 | 14 | 4 | 5 | 10 | 46 |
 | 4 | Manchester United | 23 | 10 | 8 | 5 | 7 | 38 |
-| 5 | Chelsea | 24 | 10 | 7 | 7 | 13 | 37 |
+| 5 | Chelsea | 24 | 10 | 7 | 7 | 12 | 37 |
 | 6 | Liverpool FC | 23 | 10 | 6 | 7 | 3 | 36 |
 | 7 | Fulham | 23 | 10 | 4 | 9 | 0 | 34 |
 | 8 | Everton | 24 | 9 | 7 | 8 | -1 | 34 |
@@ -64,7 +64,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Crystal Palace | 23 | 7 | 7 | 9 | -4 | 28 |
 | 16 | Leeds United | 24 | 6 | 8 | 10 | -11 | 26 |
 | 17 | Nottingham Forest | 23 | 7 | 4 | 12 | -11 | 25 |
-| 18 | West Ham United | 24 | 6 | 5 | 13 | -17 | 23 |
+| 18 | West Ham United | 24 | 6 | 5 | 13 | -16 | 23 |
 | 19 | Burnley | 23 | 3 | 6 | 14 | -19 | 15 |
 | 20 | Wolverhampton Wanderers | 24 | 1 | 5 | 18 | -30 | 8 |
 
@@ -147,20 +147,20 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Lens | 20 | 15 | 1 | 4 | 18 | 46 |
 | 2 | PSG | 19 | 14 | 3 | 2 | 26 | 45 |
-| 3 | Marseille | 20 | 13 | 2 | 5 | 25 | 41 |
+| 3 | Marseille | 20 | 12 | 3 | 5 | 24 | 39 |
 | 4 | Lyon | 19 | 11 | 3 | 5 | 12 | 36 |
 | 5 | Lille | 19 | 10 | 2 | 7 | 5 | 32 |
 | 6 | Rennes | 19 | 8 | 7 | 4 | 3 | 31 |
 | 7 | Strasbourg | 19 | 9 | 3 | 7 | 9 | 30 |
 | 8 | Toulouse | 19 | 8 | 5 | 6 | 8 | 29 |
-| 9 | Lorient | 19 | 6 | 7 | 6 | -5 | 25 |
+| 9 | Lorient | 20 | 7 | 7 | 6 | -4 | 28 |
 | 10 | Monaco | 19 | 7 | 3 | 9 | -5 | 24 |
 | 11 | Angers | 19 | 6 | 5 | 8 | -5 | 23 |
 | 12 | Brest | 19 | 6 | 4 | 9 | -7 | 22 |
-| 13 | Nice | 19 | 6 | 3 | 10 | -11 | 21 |
-| 14 | Paris FC | 20 | 5 | 5 | 10 | -9 | 20 |
+| 13 | Paris FC | 20 | 5 | 6 | 9 | -8 | 21 |
+| 14 | Nice | 19 | 6 | 3 | 10 | -11 | 21 |
 | 15 | Le Havre | 20 | 4 | 8 | 8 | -9 | 20 |
-| 16 | Nantes | 19 | 3 | 5 | 11 | -16 | 14 |
+| 16 | Nantes | 20 | 3 | 5 | 12 | -17 | 14 |
 | 17 | Auxerre | 19 | 3 | 3 | 13 | -15 | 12 |
 | 18 | Metz | 19 | 3 | 3 | 13 | -24 | 12 |
 
@@ -301,11 +301,11 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Estoril | 20 | 8 | 5 | 7 | 8 | 29 |
 | 9 | Vitória S.C. | 20 | 8 | 4 | 8 | -6 | 28 |
 | 10 | Alverca | 19 | 7 | 2 | 10 | -14 | 23 |
-| 11 | Nacional | 19 | 5 | 5 | 9 | -2 | 20 |
-| 12 | Rio Ave | 19 | 4 | 8 | 7 | -13 | 20 |
+| 11 | Rio Ave | 20 | 4 | 9 | 7 | -13 | 21 |
+| 12 | Nacional | 19 | 5 | 5 | 9 | -2 | 20 |
 | 13 | Estrela Amadora | 19 | 4 | 7 | 8 | -13 | 19 |
-| 14 | Santa Clara | 20 | 4 | 5 | 11 | -9 | 17 |
-| 15 | Arouca | 19 | 4 | 5 | 10 | -24 | 17 |
+| 14 | Arouca | 20 | 4 | 6 | 10 | -24 | 18 |
+| 15 | Santa Clara | 20 | 4 | 5 | 11 | -9 | 17 |
 | 16 | Casa Pia | 19 | 3 | 6 | 10 | -18 | 15 |
 | 17 | Tondela | 19 | 3 | 3 | 13 | -21 | 12 |
 | 18 | AVS | 19 | 0 | 5 | 14 | -33 | 5 |
