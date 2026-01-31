@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 31 January 2026, 08:27 PM UTC (Sunday, 01 February 2026, 01:57 AM IST)
+**Last Updated:** Saturday, 31 January 2026, 08:49 PM UTC (Sunday, 01 February 2026, 02:19 AM IST)
 
 ### Premier League
 
@@ -51,12 +51,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 23 | 14 | 4 | 5 | 26 | 46 |
 | 3 | Aston Villa | 23 | 14 | 4 | 5 | 10 | 46 |
 | 4 | Chelsea | 24 | 11 | 7 | 6 | 15 | 40 |
-| 5 | Manchester United | 23 | 10 | 8 | 5 | 7 | 38 |
-| 6 | Liverpool FC | 24 | 10 | 7 | 7 | 3 | 37 |
-| 7 | Newcastle United | 24 | 9 | 7 | 8 | 3 | 34 |
-| 8 | Fulham | 23 | 10 | 4 | 9 | 0 | 34 |
-| 9 | Everton | 24 | 9 | 7 | 8 | -1 | 34 |
-| 10 | Brentford | 23 | 10 | 3 | 10 | 3 | 33 |
+| 5 | Liverpool FC | 24 | 11 | 6 | 7 | 4 | 39 |
+| 6 | Manchester United | 23 | 10 | 8 | 5 | 7 | 38 |
+| 7 | Fulham | 23 | 10 | 4 | 9 | 0 | 34 |
+| 8 | Everton | 24 | 9 | 7 | 8 | -1 | 34 |
+| 9 | Brentford | 23 | 10 | 3 | 10 | 3 | 33 |
+| 10 | Newcastle United | 24 | 9 | 6 | 9 | 2 | 33 |
 | 11 | Sunderland | 23 | 8 | 9 | 6 | -2 | 33 |
 | 12 | AFC Bournemouth | 24 | 8 | 9 | 7 | -3 | 33 |
 | 13 | Brighton & Hove Albion | 24 | 7 | 10 | 7 | 2 | 31 |
@@ -131,15 +131,15 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Bologna | 22 | 8 | 6 | 8 | 5 | 30 |
 | 10 | Udinese | 22 | 8 | 5 | 9 | -9 | 29 |
 | 11 | Sassuolo | 23 | 8 | 5 | 10 | -2 | 29 |
-| 12 | Cagliari | 23 | 7 | 7 | 9 | -6 | 28 |
+| 12 | Cagliari | 23 | 7 | 7 | 9 | -5 | 28 |
 | 13 | Cremonese | 22 | 5 | 8 | 9 | -9 | 23 |
 | 14 | Parma | 22 | 5 | 8 | 9 | -12 | 23 |
 | 15 | Torino | 22 | 6 | 5 | 11 | -19 | 23 |
 | 16 | Genoa | 23 | 5 | 8 | 10 | -7 | 23 |
 | 17 | Lecce | 22 | 4 | 6 | 12 | -16 | 18 |
 | 18 | Fiorentina | 23 | 3 | 8 | 12 | -11 | 17 |
-| 19 | Hellas Verona | 23 | 2 | 8 | 13 | -20 | 14 |
-| 20 | Pisa | 23 | 1 | 11 | 11 | -21 | 14 |
+| 19 | Pisa | 23 | 1 | 11 | 11 | -21 | 14 |
+| 20 | Hellas Verona | 23 | 2 | 8 | 13 | -21 | 14 |
 
 ### Ligue 1
 
@@ -150,11 +150,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Marseille | 20 | 12 | 3 | 5 | 24 | 39 |
 | 4 | Lyon | 19 | 11 | 3 | 5 | 12 | 36 |
 | 5 | Lille | 19 | 10 | 2 | 7 | 5 | 32 |
-| 6 | Rennes | 20 | 8 | 8 | 4 | 3 | 32 |
+| 6 | Rennes | 20 | 8 | 7 | 5 | 2 | 31 |
 | 7 | Strasbourg | 19 | 9 | 3 | 7 | 9 | 30 |
 | 8 | Toulouse | 19 | 8 | 5 | 6 | 8 | 29 |
 | 9 | Lorient | 20 | 7 | 7 | 6 | -4 | 28 |
-| 10 | Monaco | 20 | 7 | 4 | 9 | -5 | 25 |
+| 10 | Monaco | 20 | 8 | 3 | 9 | -4 | 27 |
 | 11 | Angers | 19 | 6 | 5 | 8 | -5 | 23 |
 | 12 | Brest | 19 | 6 | 4 | 9 | -7 | 22 |
 | 13 | Paris FC | 20 | 5 | 6 | 9 | -8 | 21 |
@@ -300,11 +300,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Famalicão | 19 | 8 | 5 | 6 | 10 | 29 |
 | 8 | Estoril | 20 | 8 | 5 | 7 | 8 | 29 |
 | 9 | Vitória S.C. | 20 | 8 | 4 | 8 | -6 | 28 |
-| 10 | Alverca | 19 | 7 | 2 | 10 | -14 | 23 |
+| 10 | Alverca | 20 | 7 | 3 | 10 | -14 | 24 |
 | 11 | Arouca | 20 | 5 | 5 | 10 | -21 | 20 |
 | 12 | Nacional | 19 | 5 | 5 | 9 | -2 | 20 |
 | 13 | Rio Ave | 20 | 4 | 8 | 8 | -16 | 20 |
-| 14 | Estrela Amadora | 19 | 4 | 7 | 8 | -13 | 19 |
+| 14 | Estrela Amadora | 20 | 4 | 8 | 8 | -13 | 20 |
 | 15 | Santa Clara | 20 | 4 | 5 | 11 | -9 | 17 |
 | 16 | Casa Pia | 19 | 3 | 6 | 10 | -18 | 15 |
 | 17 | Tondela | 19 | 3 | 3 | 13 | -21 | 12 |
