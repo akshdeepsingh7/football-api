@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 12:50 PM UTC",
-        "IST": "Saturday, 31 January 2026, 06:20 PM IST"
+        "UTC": "Saturday, 31 January 2026, 01:41 PM UTC",
+        "IST": "Saturday, 31 January 2026, 07:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -289,6 +289,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Girona",
+                "Played": "22",
+                "Wins": "6",
+                "Draws": "8",
+                "Losses": "8",
+                "Goal Difference": "-14",
+                "Points": "26"
+            },
+            {
+                "Position": "10",
                 "Team": "Osasuna",
                 "Played": "21",
                 "Wins": "7",
@@ -298,23 +308,13 @@
                 "Points": "25"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Alav\u00e9s",
                 "Played": "22",
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "11",
                 "Goal Difference": "-7",
-                "Points": "25"
-            },
-            {
-                "Position": "11",
-                "Team": "Girona",
-                "Played": "21",
-                "Wins": "6",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "-14",
                 "Points": "25"
             },
             {
@@ -400,12 +400,12 @@
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "2",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "12",
                 "Goal Difference": "-23",
-                "Points": "13"
+                "Points": "14"
             }
         ],
         "Bundesliga": [
@@ -2388,10 +2388,10 @@
                 "Team": "Leicester City",
                 "Played": "30",
                 "Wins": "10",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-3",
-                "Points": "39"
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-5",
+                "Points": "38"
             },
             {
                 "Position": "16",
@@ -2415,22 +2415,22 @@
             },
             {
                 "Position": "18",
+                "Team": "Charlton Athletic",
+                "Played": "29",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-9",
+                "Points": "35"
+            },
+            {
+                "Position": "19",
                 "Team": "Norwich City",
                 "Played": "29",
                 "Wins": "9",
                 "Draws": "6",
                 "Losses": "14",
                 "Goal Difference": "-4",
-                "Points": "33"
-            },
-            {
-                "Position": "19",
-                "Team": "Charlton Athletic",
-                "Played": "29",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-11",
                 "Points": "33"
             },
             {

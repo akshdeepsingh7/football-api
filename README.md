@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 31 January 2026, 12:50 PM UTC (Saturday, 31 January 2026, 06:20 PM IST)
+**Last Updated:** Saturday, 31 January 2026, 01:41 PM UTC (Saturday, 31 January 2026, 07:11 PM IST)
 
 ### Premier League
 
@@ -80,9 +80,9 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Real Betis | 21 | 8 | 8 | 5 | 7 | 32 |
 | 7 | Celta de Vigo | 21 | 8 | 8 | 5 | 6 | 32 |
 | 8 | Real Sociedad | 21 | 7 | 6 | 8 | 0 | 27 |
-| 9 | Osasuna | 21 | 7 | 4 | 10 | -1 | 25 |
-| 10 | Alavés | 22 | 7 | 4 | 11 | -7 | 25 |
-| 11 | Girona | 21 | 6 | 7 | 8 | -14 | 25 |
+| 9 | Girona | 22 | 6 | 8 | 8 | -14 | 26 |
+| 10 | Osasuna | 21 | 7 | 4 | 10 | -1 | 25 |
+| 11 | Alavés | 22 | 7 | 4 | 11 | -7 | 25 |
 | 12 | Elche | 21 | 5 | 9 | 7 | 0 | 24 |
 | 13 | Sevilla | 21 | 7 | 3 | 11 | -5 | 24 |
 | 14 | Athletic Bilbao | 21 | 7 | 3 | 11 | -10 | 24 |
@@ -91,7 +91,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Getafe | 21 | 6 | 4 | 11 | -11 | 22 |
 | 18 | Mallorca | 21 | 5 | 6 | 10 | -9 | 21 |
 | 19 | Levante | 20 | 4 | 5 | 11 | -10 | 17 |
-| 20 | Real Oviedo | 21 | 2 | 7 | 12 | -23 | 13 |
+| 20 | Real Oviedo | 22 | 2 | 8 | 12 | -23 | 14 |
 
 ### Bundesliga
 
@@ -328,11 +328,11 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Southampton | 30 | 10 | 10 | 10 | 1 | 40 |
 | 13 | Queens Park Rangers | 29 | 11 | 7 | 11 | -2 | 40 |
 | 14 | Birmingham City | 29 | 10 | 9 | 10 | 1 | 39 |
-| 15 | Leicester City | 30 | 10 | 9 | 11 | -3 | 39 |
+| 15 | Leicester City | 30 | 10 | 8 | 12 | -5 | 38 |
 | 16 | Swansea City | 29 | 10 | 6 | 13 | -5 | 36 |
 | 17 | Sheffield United | 28 | 11 | 2 | 15 | -2 | 35 |
-| 18 | Norwich City | 29 | 9 | 6 | 14 | -4 | 33 |
-| 19 | Charlton Athletic | 29 | 8 | 9 | 12 | -11 | 33 |
+| 18 | Charlton Athletic | 29 | 9 | 8 | 12 | -9 | 35 |
+| 19 | Norwich City | 29 | 9 | 6 | 14 | -4 | 33 |
 | 20 | West Bromwich Albion | 29 | 9 | 5 | 15 | -12 | 32 |
 | 21 | Portsmouth | 27 | 7 | 9 | 11 | -13 | 30 |
 | 22 | Blackburn Rovers | 28 | 7 | 8 | 13 | -11 | 29 |
