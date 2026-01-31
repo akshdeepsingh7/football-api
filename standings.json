@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 04:29 PM UTC",
-        "IST": "Saturday, 31 January 2026, 09:59 PM IST"
+        "UTC": "Saturday, 31 January 2026, 04:57 PM UTC",
+        "IST": "Saturday, 31 January 2026, 10:27 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -12,7 +12,7 @@
                 "Wins": "16",
                 "Draws": "5",
                 "Losses": "3",
-                "Goal Difference": "28",
+                "Goal Difference": "29",
                 "Points": "53"
             },
             {
@@ -122,7 +122,7 @@
                 "Wins": "8",
                 "Draws": "9",
                 "Losses": "7",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "33"
             },
             {
@@ -162,7 +162,7 @@
                 "Wins": "6",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-10",
+                "Goal Difference": "-11",
                 "Points": "26"
             },
             {
@@ -202,7 +202,7 @@
                 "Wins": "1",
                 "Draws": "5",
                 "Losses": "18",
-                "Goal Difference": "-29",
+                "Goal Difference": "-30",
                 "Points": "8"
             }
         ],
@@ -242,10 +242,10 @@
                 "Team": "Villarreal",
                 "Played": "21",
                 "Wins": "13",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "15",
-                "Points": "41"
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "16",
+                "Points": "42"
             },
             {
                 "Position": "5",
@@ -279,16 +279,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Osasuna",
-                "Played": "22",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "0",
-                "Points": "28"
-            },
-            {
-                "Position": "9",
                 "Team": "Real Sociedad",
                 "Played": "21",
                 "Wins": "7",
@@ -296,6 +286,16 @@
                 "Losses": "8",
                 "Goal Difference": "0",
                 "Points": "27"
+            },
+            {
+                "Position": "9",
+                "Team": "Osasuna",
+                "Played": "22",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-1",
+                "Points": "26"
             },
             {
                 "Position": "10",
@@ -2138,7 +2138,7 @@
                 "Wins": "8",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "8",
+                "Goal Difference": "7",
                 "Points": "29"
             },
             {
@@ -2198,7 +2198,7 @@
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-9",
+                "Goal Difference": "-8",
                 "Points": "17"
             },
             {
@@ -2248,10 +2248,10 @@
                 "Team": "Coventry City",
                 "Played": "30",
                 "Wins": "17",
-                "Draws": "8",
-                "Losses": "5",
-                "Goal Difference": "29",
-                "Points": "59"
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "28",
+                "Points": "58"
             },
             {
                 "Position": "2",
@@ -2265,22 +2265,22 @@
             },
             {
                 "Position": "3",
+                "Team": "Hull City",
+                "Played": "29",
+                "Wins": "16",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "8",
+                "Points": "53"
+            },
+            {
+                "Position": "4",
                 "Team": "Ipswich Town",
                 "Played": "29",
                 "Wins": "14",
                 "Draws": "9",
                 "Losses": "6",
                 "Goal Difference": "21",
-                "Points": "51"
-            },
-            {
-                "Position": "4",
-                "Team": "Hull City",
-                "Played": "29",
-                "Wins": "15",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "7",
                 "Points": "51"
             },
             {
@@ -2325,16 +2325,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Watford",
-                "Played": "29",
-                "Wins": "11",
-                "Draws": "10",
-                "Losses": "8",
-                "Goal Difference": "5",
-                "Points": "43"
-            },
-            {
-                "Position": "10",
                 "Team": "Bristol City",
                 "Played": "30",
                 "Wins": "12",
@@ -2344,7 +2334,27 @@
                 "Points": "43"
             },
             {
+                "Position": "10",
+                "Team": "Watford",
+                "Played": "29",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "8",
+                "Goal Difference": "4",
+                "Points": "43"
+            },
+            {
                 "Position": "11",
+                "Team": "Queens Park Rangers",
+                "Played": "30",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-1",
+                "Points": "43"
+            },
+            {
+                "Position": "12",
                 "Team": "Stoke City",
                 "Played": "30",
                 "Wins": "12",
@@ -2354,7 +2364,7 @@
                 "Points": "42"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Birmingham City",
                 "Played": "30",
                 "Wins": "11",
@@ -2362,16 +2372,6 @@
                 "Losses": "10",
                 "Goal Difference": "3",
                 "Points": "42"
-            },
-            {
-                "Position": "13",
-                "Team": "Queens Park Rangers",
-                "Played": "30",
-                "Wins": "11",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-2",
-                "Points": "41"
             },
             {
                 "Position": "14",
@@ -2390,7 +2390,7 @@
                 "Wins": "11",
                 "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "39"
             },
             {
@@ -2458,10 +2458,10 @@
                 "Team": "Blackburn Rovers",
                 "Played": "29",
                 "Wins": "7",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-11",
-                "Points": "30"
+                "Draws": "8",
+                "Losses": "14",
+                "Goal Difference": "-12",
+                "Points": "29"
             },
             {
                 "Position": "23",
