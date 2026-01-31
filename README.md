@@ -41,13 +41,13 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 31 January 2026, 03:24 PM UTC (Saturday, 31 January 2026, 08:54 PM IST)
+**Last Updated:** Saturday, 31 January 2026, 03:47 PM UTC (Saturday, 31 January 2026, 09:17 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 24 | 15 | 6 | 3 | 25 | 51 |
+| 1 | Arsenal | 24 | 16 | 5 | 3 | 27 | 53 |
 | 2 | Manchester City | 23 | 14 | 4 | 5 | 26 | 46 |
 | 3 | Aston Villa | 23 | 14 | 4 | 5 | 10 | 46 |
 | 4 | Manchester United | 23 | 10 | 8 | 5 | 7 | 38 |
@@ -58,15 +58,15 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Brentford | 23 | 10 | 3 | 10 | 3 | 33 |
 | 10 | Newcastle United | 23 | 9 | 6 | 8 | 3 | 33 |
 | 11 | Sunderland | 23 | 8 | 9 | 6 | -2 | 33 |
-| 12 | Brighton & Hove Albion | 24 | 7 | 10 | 7 | 2 | 31 |
-| 13 | AFC Bournemouth | 24 | 7 | 10 | 7 | -5 | 31 |
+| 12 | AFC Bournemouth | 24 | 8 | 9 | 7 | -4 | 33 |
+| 13 | Brighton & Hove Albion | 24 | 7 | 10 | 7 | 2 | 31 |
 | 14 | Tottenham Hotspur | 23 | 7 | 7 | 9 | 2 | 28 |
 | 15 | Crystal Palace | 23 | 7 | 7 | 9 | -4 | 28 |
-| 16 | Leeds United | 24 | 6 | 9 | 9 | -7 | 27 |
+| 16 | Leeds United | 24 | 6 | 8 | 10 | -9 | 26 |
 | 17 | Nottingham Forest | 23 | 7 | 4 | 12 | -11 | 25 |
 | 18 | West Ham United | 23 | 5 | 5 | 13 | -18 | 20 |
 | 19 | Burnley | 23 | 3 | 6 | 14 | -19 | 15 |
-| 20 | Wolverhampton Wanderers | 24 | 1 | 6 | 17 | -28 | 9 |
+| 20 | Wolverhampton Wanderers | 24 | 1 | 5 | 18 | -29 | 8 |
 
 ### La Liga
 
@@ -98,21 +98,21 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 19 | 16 | 2 | 1 | 56 | 50 |
-| 2 | Borussia Dortmund | 19 | 12 | 6 | 1 | 21 | 42 |
-| 3 | Hoffenheim | 20 | 13 | 3 | 4 | 20 | 42 |
-| 4 | RB Leipzig | 20 | 11 | 4 | 5 | 12 | 37 |
+| 2 | Hoffenheim | 20 | 13 | 3 | 4 | 21 | 42 |
+| 3 | Borussia Dortmund | 19 | 12 | 6 | 1 | 21 | 42 |
+| 4 | RB Leipzig | 20 | 11 | 3 | 6 | 11 | 36 |
 | 5 | VfB Stuttgart | 19 | 11 | 3 | 5 | 10 | 36 |
-| 6 | Bayer Leverkusen | 19 | 11 | 2 | 6 | 12 | 35 |
+| 6 | Bayer Leverkusen | 19 | 11 | 2 | 6 | 11 | 35 |
 | 7 | SC Freiburg | 19 | 7 | 6 | 6 | -1 | 27 |
-| 8 | Eintracht Frankfurt | 20 | 7 | 6 | 7 | -5 | 27 |
-| 9 | Union Berlin | 20 | 6 | 6 | 8 | -8 | 24 |
+| 8 | Eintracht Frankfurt | 20 | 7 | 6 | 7 | -4 | 27 |
+| 9 | Union Berlin | 20 | 6 | 6 | 8 | -9 | 24 |
 | 10 | Köln | 20 | 6 | 5 | 9 | -3 | 23 |
 | 11 | Borussia Mönchengladbach | 20 | 5 | 6 | 9 | -9 | 21 |
 | 12 | Augsburg | 20 | 5 | 5 | 10 | -14 | 20 |
 | 13 | VfL Wolfsburg | 20 | 5 | 4 | 11 | -14 | 19 |
 | 14 | Werder Bremen | 20 | 4 | 7 | 9 | -16 | 19 |
-| 15 | Hamburg | 18 | 4 | 6 | 8 | -10 | 18 |
-| 16 | Mainz 05 | 20 | 3 | 7 | 10 | -11 | 16 |
+| 15 | Mainz 05 | 20 | 4 | 6 | 10 | -10 | 18 |
+| 16 | Hamburg | 18 | 4 | 6 | 8 | -10 | 18 |
 | 17 | St. Pauli | 20 | 3 | 6 | 11 | -15 | 15 |
 | 18 | Heidenheim | 19 | 3 | 4 | 12 | -25 | 13 |
 
@@ -299,12 +299,12 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Moreirense | 20 | 9 | 3 | 8 | -1 | 30 |
 | 7 | Famalicão | 19 | 8 | 5 | 6 | 10 | 29 |
 | 8 | Vitória S.C. | 20 | 8 | 4 | 8 | -6 | 28 |
-| 9 | Estoril | 19 | 7 | 5 | 7 | 6 | 26 |
+| 9 | Estoril | 20 | 7 | 6 | 7 | 6 | 27 |
 | 10 | Alverca | 19 | 7 | 2 | 10 | -14 | 23 |
 | 11 | Nacional | 19 | 5 | 5 | 9 | -2 | 20 |
 | 12 | Rio Ave | 19 | 4 | 8 | 7 | -13 | 20 |
 | 13 | Estrela Amadora | 19 | 4 | 7 | 8 | -13 | 19 |
-| 14 | Santa Clara | 19 | 4 | 5 | 10 | -7 | 17 |
+| 14 | Santa Clara | 20 | 4 | 6 | 10 | -7 | 18 |
 | 15 | Arouca | 19 | 4 | 5 | 10 | -24 | 17 |
 | 16 | Casa Pia | 19 | 3 | 6 | 10 | -18 | 15 |
 | 17 | Tondela | 19 | 3 | 3 | 13 | -21 | 12 |
@@ -333,8 +333,8 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Sheffield United | 29 | 11 | 3 | 15 | -2 | 36 |
 | 18 | Charlton Athletic | 29 | 9 | 8 | 12 | -9 | 35 |
 | 19 | Norwich City | 30 | 9 | 6 | 15 | -5 | 33 |
-| 20 | Portsmouth | 28 | 8 | 9 | 11 | -12 | 33 |
-| 21 | West Bromwich Albion | 30 | 9 | 5 | 16 | -13 | 32 |
+| 20 | Portsmouth | 28 | 8 | 9 | 11 | -11 | 33 |
+| 21 | West Bromwich Albion | 30 | 9 | 5 | 16 | -14 | 32 |
 | 22 | Blackburn Rovers | 29 | 7 | 9 | 13 | -11 | 30 |
 | 23 | Oxford United | 29 | 6 | 9 | 14 | -10 | 27 |
 | 24 | Sheffield Wednesday | 29 | 1 | 8 | 20 | -39 | -7 |
