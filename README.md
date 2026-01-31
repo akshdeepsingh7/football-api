@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 31 January 2026, 05:27 PM UTC (Saturday, 31 January 2026, 10:57 PM IST)
+**Last Updated:** Saturday, 31 January 2026, 05:50 PM UTC (Saturday, 31 January 2026, 11:20 PM IST)
 
 ### Premier League
 
@@ -51,7 +51,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 23 | 14 | 4 | 5 | 26 | 46 |
 | 3 | Aston Villa | 23 | 14 | 4 | 5 | 10 | 46 |
 | 4 | Manchester United | 23 | 10 | 8 | 5 | 7 | 38 |
-| 5 | Chelsea | 23 | 10 | 7 | 6 | 14 | 37 |
+| 5 | Chelsea | 24 | 10 | 7 | 7 | 13 | 37 |
 | 6 | Liverpool FC | 23 | 10 | 6 | 7 | 3 | 36 |
 | 7 | Fulham | 23 | 10 | 4 | 9 | 0 | 34 |
 | 8 | Everton | 24 | 9 | 7 | 8 | -1 | 34 |
@@ -64,7 +64,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Crystal Palace | 23 | 7 | 7 | 9 | -4 | 28 |
 | 16 | Leeds United | 24 | 6 | 8 | 10 | -11 | 26 |
 | 17 | Nottingham Forest | 23 | 7 | 4 | 12 | -11 | 25 |
-| 18 | West Ham United | 23 | 5 | 5 | 13 | -18 | 20 |
+| 18 | West Ham United | 24 | 6 | 5 | 13 | -17 | 23 |
 | 19 | Burnley | 23 | 3 | 6 | 14 | -19 | 15 |
 | 20 | Wolverhampton Wanderers | 24 | 1 | 5 | 18 | -30 | 8 |
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 21 | 17 | 1 | 3 | 35 | 52 |
 | 2 | Real Madrid | 21 | 16 | 3 | 2 | 28 | 51 |
-| 3 | Atlético de Madrid | 21 | 13 | 5 | 3 | 21 | 44 |
+| 3 | Atlético de Madrid | 22 | 13 | 6 | 3 | 21 | 45 |
 | 4 | Villarreal | 21 | 13 | 3 | 5 | 16 | 42 |
 | 5 | Espanyol | 22 | 10 | 4 | 8 | -1 | 34 |
 | 6 | Real Betis | 21 | 8 | 8 | 5 | 7 | 32 |
@@ -90,14 +90,14 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Rayo Vallecano | 21 | 5 | 7 | 9 | -11 | 22 |
 | 17 | Getafe | 21 | 6 | 4 | 11 | -11 | 22 |
 | 18 | Mallorca | 21 | 5 | 6 | 10 | -9 | 21 |
-| 19 | Levante | 20 | 4 | 5 | 11 | -10 | 17 |
+| 19 | Levante | 21 | 4 | 6 | 11 | -10 | 18 |
 | 20 | Real Oviedo | 22 | 3 | 7 | 12 | -22 | 16 |
 
 ### Bundesliga
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 19 | 16 | 2 | 1 | 56 | 50 |
+| 1 | Bayern Munich | 20 | 16 | 3 | 1 | 56 | 51 |
 | 2 | Borussia Dortmund | 19 | 12 | 6 | 1 | 21 | 42 |
 | 3 | Hoffenheim | 20 | 13 | 3 | 4 | 20 | 42 |
 | 4 | RB Leipzig | 20 | 11 | 3 | 6 | 11 | 36 |
@@ -109,10 +109,10 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Köln | 20 | 6 | 5 | 9 | -3 | 23 |
 | 11 | Augsburg | 20 | 6 | 4 | 10 | -13 | 22 |
 | 12 | Borussia Mönchengladbach | 20 | 5 | 6 | 9 | -9 | 21 |
-| 13 | VfL Wolfsburg | 20 | 5 | 4 | 11 | -14 | 19 |
-| 14 | Werder Bremen | 20 | 4 | 7 | 9 | -16 | 19 |
-| 15 | Mainz 05 | 20 | 4 | 6 | 10 | -10 | 18 |
-| 16 | Hamburg | 18 | 4 | 6 | 8 | -10 | 18 |
+| 13 | Hamburg | 19 | 4 | 7 | 8 | -10 | 19 |
+| 14 | VfL Wolfsburg | 20 | 5 | 4 | 11 | -14 | 19 |
+| 15 | Werder Bremen | 20 | 4 | 7 | 9 | -16 | 19 |
+| 16 | Mainz 05 | 20 | 4 | 6 | 10 | -10 | 18 |
 | 17 | St. Pauli | 20 | 3 | 5 | 12 | -16 | 14 |
 | 18 | Heidenheim | 19 | 3 | 4 | 12 | -25 | 13 |
 
@@ -147,7 +147,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Lens | 20 | 15 | 1 | 4 | 18 | 46 |
 | 2 | PSG | 19 | 14 | 3 | 2 | 26 | 45 |
-| 3 | Marseille | 20 | 13 | 2 | 5 | 26 | 41 |
+| 3 | Marseille | 20 | 13 | 2 | 5 | 25 | 41 |
 | 4 | Lyon | 19 | 11 | 3 | 5 | 12 | 36 |
 | 5 | Lille | 19 | 10 | 2 | 7 | 5 | 32 |
 | 6 | Rennes | 19 | 8 | 7 | 4 | 3 | 31 |
@@ -158,8 +158,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Angers | 19 | 6 | 5 | 8 | -5 | 23 |
 | 12 | Brest | 19 | 6 | 4 | 9 | -7 | 22 |
 | 13 | Nice | 19 | 6 | 3 | 10 | -11 | 21 |
-| 14 | Le Havre | 20 | 4 | 8 | 8 | -9 | 20 |
-| 15 | Paris FC | 20 | 5 | 5 | 10 | -10 | 20 |
+| 14 | Paris FC | 20 | 5 | 5 | 10 | -9 | 20 |
+| 15 | Le Havre | 20 | 4 | 8 | 8 | -9 | 20 |
 | 16 | Nantes | 19 | 3 | 5 | 11 | -16 | 14 |
 | 17 | Auxerre | 19 | 3 | 3 | 13 | -15 | 12 |
 | 18 | Metz | 19 | 3 | 3 | 13 | -24 | 12 |

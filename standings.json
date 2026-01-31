@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 31 January 2026, 05:27 PM UTC",
-        "IST": "Saturday, 31 January 2026, 10:57 PM IST"
+        "UTC": "Saturday, 31 January 2026, 05:50 PM UTC",
+        "IST": "Saturday, 31 January 2026, 11:20 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -48,11 +48,11 @@
             {
                 "Position": "5",
                 "Team": "Chelsea",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "10",
                 "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "14",
+                "Losses": "7",
+                "Goal Difference": "13",
                 "Points": "37"
             },
             {
@@ -178,12 +178,12 @@
             {
                 "Position": "18",
                 "Team": "West Ham United",
-                "Played": "23",
-                "Wins": "5",
+                "Played": "24",
+                "Wins": "6",
                 "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-18",
-                "Points": "20"
+                "Goal Difference": "-17",
+                "Points": "23"
             },
             {
                 "Position": "19",
@@ -230,12 +230,12 @@
             {
                 "Position": "3",
                 "Team": "Atl\u00e9tico de Madrid",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "13",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "3",
                 "Goal Difference": "21",
-                "Points": "44"
+                "Points": "45"
             },
             {
                 "Position": "4",
@@ -390,12 +390,12 @@
             {
                 "Position": "19",
                 "Team": "Levante",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "11",
                 "Goal Difference": "-10",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "20",
@@ -412,12 +412,12 @@
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "16",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "56",
-                "Points": "50"
+                "Points": "51"
             },
             {
                 "Position": "2",
@@ -531,6 +531,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Hamburg",
+                "Played": "19",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "-10",
+                "Points": "19"
+            },
+            {
+                "Position": "14",
                 "Team": "VfL Wolfsburg",
                 "Played": "20",
                 "Wins": "5",
@@ -540,7 +550,7 @@
                 "Points": "19"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Werder Bremen",
                 "Played": "20",
                 "Wins": "4",
@@ -550,22 +560,12 @@
                 "Points": "19"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Mainz 05",
                 "Played": "20",
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "10",
-                "Goal Difference": "-10",
-                "Points": "18"
-            },
-            {
-                "Position": "16",
-                "Team": "Hamburg",
-                "Played": "18",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "8",
                 "Goal Difference": "-10",
                 "Points": "18"
             },
@@ -820,7 +820,7 @@
                 "Wins": "13",
                 "Draws": "2",
                 "Losses": "5",
-                "Goal Difference": "26",
+                "Goal Difference": "25",
                 "Points": "41"
             },
             {
@@ -925,22 +925,22 @@
             },
             {
                 "Position": "14",
+                "Team": "Paris FC",
+                "Played": "20",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-9",
+                "Points": "20"
+            },
+            {
+                "Position": "15",
                 "Team": "Le Havre",
                 "Played": "20",
                 "Wins": "4",
                 "Draws": "8",
                 "Losses": "8",
                 "Goal Difference": "-9",
-                "Points": "20"
-            },
-            {
-                "Position": "15",
-                "Team": "Paris FC",
-                "Played": "20",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-10",
                 "Points": "20"
             },
             {
