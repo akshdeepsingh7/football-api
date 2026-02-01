@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 11:44 AM UTC",
-        "IST": "Sunday, 01 February 2026, 05:14 PM IST"
+        "UTC": "Sunday, 01 February 2026, 12:52 PM UTC",
+        "IST": "Sunday, 01 February 2026, 06:22 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -715,11 +715,11 @@
                 "Position": "13",
                 "Team": "Torino",
                 "Played": "23",
-                "Wins": "6",
-                "Draws": "6",
+                "Wins": "7",
+                "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-19",
-                "Points": "24"
+                "Goal Difference": "-18",
+                "Points": "26"
             },
             {
                 "Position": "14",
@@ -756,10 +756,10 @@
                 "Team": "Lecce",
                 "Played": "23",
                 "Wins": "4",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-16",
-                "Points": "19"
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-17",
+                "Points": "18"
             },
             {
                 "Position": "18",
