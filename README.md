@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 February 2026, 08:28 PM UTC (Monday, 02 February 2026, 01:58 AM IST)
+**Last Updated:** Sunday, 01 February 2026, 08:52 PM UTC (Monday, 02 February 2026, 02:22 AM IST)
 
 ### Premier League
 
@@ -79,13 +79,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Real Betis | 22 | 9 | 8 | 5 | 8 | 35 |
 | 6 | Espanyol | 22 | 10 | 4 | 8 | -1 | 34 |
 | 7 | Celta de Vigo | 22 | 8 | 9 | 5 | 6 | 33 |
-| 8 | Real Sociedad | 22 | 7 | 7 | 8 | 0 | 28 |
+| 8 | Real Sociedad | 22 | 8 | 6 | 8 | 1 | 30 |
 | 9 | Osasuna | 22 | 7 | 5 | 10 | -1 | 26 |
 | 10 | Alavés | 22 | 7 | 4 | 11 | -7 | 25 |
-| 11 | Athletic Bilbao | 22 | 7 | 4 | 11 | -10 | 25 |
-| 12 | Girona | 22 | 6 | 7 | 9 | -15 | 25 |
-| 13 | Elche | 22 | 5 | 9 | 8 | -2 | 24 |
-| 14 | Sevilla | 21 | 7 | 3 | 11 | -5 | 24 |
+| 11 | Girona | 22 | 6 | 7 | 9 | -15 | 25 |
+| 12 | Elche | 22 | 5 | 9 | 8 | -2 | 24 |
+| 13 | Sevilla | 21 | 7 | 3 | 11 | -5 | 24 |
+| 14 | Athletic Bilbao | 22 | 7 | 3 | 12 | -11 | 24 |
 | 15 | Valencia | 22 | 5 | 8 | 9 | -12 | 23 |
 | 16 | Getafe | 22 | 6 | 5 | 11 | -11 | 23 |
 | 17 | Rayo Vallecano | 22 | 5 | 7 | 10 | -12 | 22 |
@@ -293,7 +293,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 19 | 18 | 1 | 0 | 36 | 55 |
 | 2 | Sporting CP | 20 | 16 | 3 | 1 | 43 | 51 |
-| 3 | Benfica | 19 | 13 | 6 | 0 | 31 | 45 |
+| 3 | Benfica | 20 | 13 | 7 | 0 | 31 | 46 |
 | 4 | Gil Vicente | 20 | 9 | 7 | 4 | 13 | 34 |
 | 5 | Braga | 19 | 9 | 6 | 4 | 19 | 33 |
 | 6 | Moreirense | 20 | 9 | 3 | 8 | -1 | 30 |
@@ -307,7 +307,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Estrela Amadora | 20 | 4 | 8 | 8 | -13 | 20 |
 | 15 | Santa Clara | 20 | 4 | 5 | 11 | -9 | 17 |
 | 16 | Casa Pia | 19 | 3 | 6 | 10 | -18 | 15 |
-| 17 | Tondela | 19 | 3 | 3 | 13 | -21 | 12 |
+| 17 | Tondela | 20 | 3 | 4 | 13 | -21 | 13 |
 | 18 | AVS | 19 | 0 | 5 | 14 | -33 | 5 |
 
 ### EFL Championship
