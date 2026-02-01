@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 04:31 PM UTC",
-        "IST": "Sunday, 01 February 2026, 10:01 PM IST"
+        "UTC": "Sunday, 01 February 2026, 05:25 PM UTC",
+        "IST": "Sunday, 01 February 2026, 10:55 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -19,11 +19,11 @@
                 "Position": "2",
                 "Team": "Manchester City",
                 "Played": "24",
-                "Wins": "14",
-                "Draws": "5",
+                "Wins": "15",
+                "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "26",
-                "Points": "47"
+                "Goal Difference": "28",
+                "Points": "49"
             },
             {
                 "Position": "3",
@@ -137,16 +137,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Tottenham Hotspur",
-                "Played": "24",
-                "Wins": "7",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "2",
-                "Points": "29"
-            },
-            {
-                "Position": "15",
                 "Team": "Crystal Palace",
                 "Played": "24",
                 "Wins": "7",
@@ -154,6 +144,16 @@
                 "Losses": "9",
                 "Goal Difference": "-4",
                 "Points": "29"
+            },
+            {
+                "Position": "15",
+                "Team": "Tottenham Hotspur",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "0",
+                "Points": "28"
             },
             {
                 "Position": "16",
@@ -249,6 +249,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Real Betis",
+                "Played": "22",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "5",
+                "Goal Difference": "8",
+                "Points": "35"
+            },
+            {
+                "Position": "6",
                 "Team": "Espanyol",
                 "Played": "22",
                 "Wins": "10",
@@ -256,16 +266,6 @@
                 "Losses": "8",
                 "Goal Difference": "-1",
                 "Points": "34"
-            },
-            {
-                "Position": "6",
-                "Team": "Real Betis",
-                "Played": "22",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "5",
-                "Goal Difference": "7",
-                "Points": "33"
             },
             {
                 "Position": "7",
@@ -352,10 +352,10 @@
                 "Team": "Valencia",
                 "Played": "22",
                 "Wins": "5",
-                "Draws": "9",
-                "Losses": "8",
-                "Goal Difference": "-11",
-                "Points": "24"
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "-12",
+                "Points": "23"
             },
             {
                 "Position": "16",
@@ -594,12 +594,12 @@
             {
                 "Position": "1",
                 "Team": "Inter",
-                "Played": "22",
-                "Wins": "17",
+                "Played": "23",
+                "Wins": "18",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "31",
-                "Points": "52"
+                "Goal Difference": "32",
+                "Points": "55"
             },
             {
                 "Position": "2",
@@ -723,16 +723,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Cremonese",
-                "Played": "22",
-                "Wins": "5",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-9",
-                "Points": "23"
-            },
-            {
-                "Position": "15",
                 "Team": "Parma",
                 "Played": "22",
                 "Wins": "5",
@@ -742,13 +732,23 @@
                 "Points": "23"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Genoa",
                 "Played": "23",
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "-7",
+                "Points": "23"
+            },
+            {
+                "Position": "16",
+                "Team": "Cremonese",
+                "Played": "23",
+                "Wins": "5",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-10",
                 "Points": "23"
             },
             {
@@ -895,23 +895,23 @@
             },
             {
                 "Position": "11",
+                "Team": "Angers",
+                "Played": "20",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "-4",
+                "Points": "26"
+            },
+            {
+                "Position": "12",
                 "Team": "Brest",
                 "Played": "20",
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "9",
-                "Goal Difference": "-6",
-                "Points": "25"
-            },
-            {
-                "Position": "12",
-                "Team": "Angers",
-                "Played": "20",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "8",
                 "Goal Difference": "-5",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "13",
@@ -930,7 +930,7 @@
                 "Wins": "6",
                 "Draws": "3",
                 "Losses": "11",
-                "Goal Difference": "-12",
+                "Goal Difference": "-13",
                 "Points": "21"
             },
             {
@@ -968,10 +968,10 @@
                 "Team": "Metz",
                 "Played": "20",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "13",
-                "Goal Difference": "-24",
-                "Points": "13"
+                "Draws": "3",
+                "Losses": "14",
+                "Goal Difference": "-25",
+                "Points": "12"
             }
         ],
         "Champions League": [
@@ -2098,7 +2098,7 @@
                 "Wins": "9",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "9",
+                "Goal Difference": "13",
                 "Points": "34"
             },
             {
@@ -2128,7 +2128,7 @@
                 "Wins": "8",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "9",
+                "Goal Difference": "5",
                 "Points": "29"
             },
             {
