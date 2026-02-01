@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 09:24 PM UTC",
-        "IST": "Monday, 02 February 2026, 02:54 AM IST"
+        "UTC": "Sunday, 01 February 2026, 09:46 PM UTC",
+        "IST": "Monday, 02 February 2026, 03:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -797,11 +797,11 @@
                 "Position": "1",
                 "Team": "PSG",
                 "Played": "20",
-                "Wins": "14",
-                "Draws": "4",
+                "Wins": "15",
+                "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "26",
-                "Points": "46"
+                "Goal Difference": "27",
+                "Points": "48"
             },
             {
                 "Position": "2",
@@ -845,16 +845,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Strasbourg",
-                "Played": "20",
-                "Wins": "9",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "9",
-                "Points": "31"
-            },
-            {
-                "Position": "7",
                 "Team": "Rennes",
                 "Played": "20",
                 "Wins": "8",
@@ -862,6 +852,16 @@
                 "Losses": "5",
                 "Goal Difference": "-1",
                 "Points": "31"
+            },
+            {
+                "Position": "7",
+                "Team": "Strasbourg",
+                "Played": "20",
+                "Wins": "9",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "8",
+                "Points": "30"
             },
             {
                 "Position": "8",
