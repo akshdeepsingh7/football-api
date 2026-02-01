@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 02:53 PM UTC",
-        "IST": "Sunday, 01 February 2026, 08:23 PM IST"
+        "UTC": "Sunday, 01 February 2026, 03:26 PM UTC",
+        "IST": "Sunday, 01 February 2026, 08:56 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -221,11 +221,11 @@
                 "Position": "2",
                 "Team": "Real Madrid",
                 "Played": "22",
-                "Wins": "16",
-                "Draws": "4",
+                "Wins": "17",
+                "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "28",
-                "Points": "52"
+                "Goal Difference": "29",
+                "Points": "54"
             },
             {
                 "Position": "3",
@@ -260,12 +260,12 @@
             {
                 "Position": "6",
                 "Team": "Real Betis",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "8",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "5",
                 "Goal Difference": "7",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "7",
@@ -350,31 +350,31 @@
             {
                 "Position": "15",
                 "Team": "Valencia",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "5",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "8",
                 "Goal Difference": "-11",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "16",
-                "Team": "Rayo Vallecano",
-                "Played": "22",
-                "Wins": "5",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-11",
-                "Points": "23"
-            },
-            {
-                "Position": "17",
                 "Team": "Getafe",
                 "Played": "21",
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "11",
                 "Goal Difference": "-11",
+                "Points": "22"
+            },
+            {
+                "Position": "17",
+                "Team": "Rayo Vallecano",
+                "Played": "22",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "-12",
                 "Points": "22"
             },
             {
