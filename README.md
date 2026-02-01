@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 February 2026, 12:52 PM UTC (Sunday, 01 February 2026, 06:22 PM IST)
+**Last Updated:** Sunday, 01 February 2026, 01:43 PM UTC (Sunday, 01 February 2026, 07:13 PM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 22 | 18 | 1 | 3 | 37 | 55 |
-| 2 | Real Madrid | 21 | 16 | 3 | 2 | 28 | 51 |
+| 2 | Real Madrid | 22 | 17 | 3 | 2 | 29 | 54 |
 | 3 | Atlético de Madrid | 22 | 13 | 6 | 3 | 21 | 45 |
 | 4 | Villarreal | 21 | 13 | 3 | 5 | 16 | 42 |
 | 5 | Espanyol | 22 | 10 | 4 | 8 | -1 | 34 |
@@ -87,8 +87,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Sevilla | 21 | 7 | 3 | 11 | -5 | 24 |
 | 14 | Athletic Bilbao | 21 | 7 | 3 | 11 | -10 | 24 |
 | 15 | Valencia | 21 | 5 | 8 | 8 | -11 | 23 |
-| 16 | Rayo Vallecano | 21 | 5 | 7 | 9 | -11 | 22 |
-| 17 | Getafe | 21 | 6 | 4 | 11 | -11 | 22 |
+| 16 | Getafe | 21 | 6 | 4 | 11 | -11 | 22 |
+| 17 | Rayo Vallecano | 22 | 5 | 7 | 10 | -12 | 22 |
 | 18 | Mallorca | 21 | 5 | 6 | 10 | -9 | 21 |
 | 19 | Levante | 21 | 4 | 6 | 11 | -10 | 18 |
 | 20 | Real Oviedo | 22 | 3 | 7 | 12 | -22 | 16 |

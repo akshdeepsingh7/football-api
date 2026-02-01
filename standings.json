@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 12:52 PM UTC",
-        "IST": "Sunday, 01 February 2026, 06:22 PM IST"
+        "UTC": "Sunday, 01 February 2026, 01:43 PM UTC",
+        "IST": "Sunday, 01 February 2026, 07:13 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,12 +220,12 @@
             {
                 "Position": "2",
                 "Team": "Real Madrid",
-                "Played": "21",
-                "Wins": "16",
+                "Played": "22",
+                "Wins": "17",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "28",
-                "Points": "51"
+                "Goal Difference": "29",
+                "Points": "54"
             },
             {
                 "Position": "3",
@@ -359,22 +359,22 @@
             },
             {
                 "Position": "16",
-                "Team": "Rayo Vallecano",
-                "Played": "21",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-11",
-                "Points": "22"
-            },
-            {
-                "Position": "17",
                 "Team": "Getafe",
                 "Played": "21",
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "11",
                 "Goal Difference": "-11",
+                "Points": "22"
+            },
+            {
+                "Position": "17",
+                "Team": "Rayo Vallecano",
+                "Played": "22",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "-12",
                 "Points": "22"
             },
             {
