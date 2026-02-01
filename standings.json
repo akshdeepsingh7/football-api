@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 05:50 PM UTC",
-        "IST": "Sunday, 01 February 2026, 11:20 PM IST"
+        "UTC": "Sunday, 01 February 2026, 06:36 PM UTC",
+        "IST": "Monday, 02 February 2026, 12:06 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -19,11 +19,11 @@
                 "Position": "2",
                 "Team": "Manchester City",
                 "Played": "24",
-                "Wins": "15",
-                "Draws": "4",
+                "Wins": "14",
+                "Draws": "5",
                 "Losses": "5",
-                "Goal Difference": "27",
-                "Points": "49"
+                "Goal Difference": "26",
+                "Points": "47"
             },
             {
                 "Position": "3",
@@ -137,6 +137,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Tottenham Hotspur",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "2",
+                "Points": "29"
+            },
+            {
+                "Position": "15",
                 "Team": "Crystal Palace",
                 "Played": "24",
                 "Wins": "7",
@@ -144,16 +154,6 @@
                 "Losses": "9",
                 "Goal Difference": "-4",
                 "Points": "29"
-            },
-            {
-                "Position": "15",
-                "Team": "Tottenham Hotspur",
-                "Played": "24",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "1",
-                "Points": "28"
             },
             {
                 "Position": "16",
@@ -421,21 +421,21 @@
             },
             {
                 "Position": "2",
+                "Team": "Borussia Dortmund",
+                "Played": "20",
+                "Wins": "13",
+                "Draws": "6",
+                "Losses": "1",
+                "Goal Difference": "22",
+                "Points": "45"
+            },
+            {
+                "Position": "3",
                 "Team": "Hoffenheim",
                 "Played": "20",
                 "Wins": "13",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "20",
-                "Points": "42"
-            },
-            {
-                "Position": "3",
-                "Team": "Borussia Dortmund",
-                "Played": "20",
-                "Wins": "12",
-                "Draws": "6",
-                "Losses": "2",
                 "Goal Difference": "20",
                 "Points": "42"
             },
@@ -571,16 +571,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Heidenheim",
-                "Played": "20",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-24",
-                "Points": "16"
-            },
-            {
-                "Position": "18",
                 "Team": "St. Pauli",
                 "Played": "20",
                 "Wins": "3",
@@ -588,6 +578,16 @@
                 "Losses": "12",
                 "Goal Difference": "-16",
                 "Points": "14"
+            },
+            {
+                "Position": "18",
+                "Team": "Heidenheim",
+                "Played": "20",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "13",
+                "Goal Difference": "-26",
+                "Points": "13"
             }
         ],
         "Serie A": [
@@ -2074,12 +2074,12 @@
             {
                 "Position": "2",
                 "Team": "Sporting CP",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "15",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "42",
-                "Points": "48"
+                "Points": "49"
             },
             {
                 "Position": "3",
@@ -2163,22 +2163,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Nacional",
+                "Played": "20",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-2",
+                "Points": "21"
+            },
+            {
+                "Position": "12",
                 "Team": "Arouca",
                 "Played": "20",
                 "Wins": "5",
                 "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "-21",
-                "Points": "20"
-            },
-            {
-                "Position": "12",
-                "Team": "Nacional",
-                "Played": "19",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-2",
                 "Points": "20"
             },
             {
