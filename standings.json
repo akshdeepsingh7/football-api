@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 09:46 PM UTC",
-        "IST": "Monday, 02 February 2026, 03:16 AM IST"
+        "UTC": "Sunday, 01 February 2026, 10:26 PM UTC",
+        "IST": "Monday, 02 February 2026, 03:56 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -281,11 +281,11 @@
                 "Position": "8",
                 "Team": "Real Sociedad",
                 "Played": "22",
-                "Wins": "8",
-                "Draws": "6",
+                "Wins": "7",
+                "Draws": "7",
                 "Losses": "8",
-                "Goal Difference": "1",
-                "Points": "30"
+                "Goal Difference": "0",
+                "Points": "28"
             },
             {
                 "Position": "9",
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Athletic Bilbao",
+                "Played": "22",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "11",
+                "Goal Difference": "-10",
+                "Points": "25"
+            },
+            {
+                "Position": "12",
                 "Team": "Girona",
                 "Played": "22",
                 "Wins": "6",
@@ -318,7 +328,7 @@
                 "Points": "25"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Elche",
                 "Played": "22",
                 "Wins": "5",
@@ -328,23 +338,13 @@
                 "Points": "24"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Sevilla",
                 "Played": "21",
                 "Wins": "7",
                 "Draws": "3",
                 "Losses": "11",
                 "Goal Difference": "-5",
-                "Points": "24"
-            },
-            {
-                "Position": "14",
-                "Team": "Athletic Bilbao",
-                "Played": "22",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "12",
-                "Goal Difference": "-11",
                 "Points": "24"
             },
             {
