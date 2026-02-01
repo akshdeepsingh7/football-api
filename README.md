@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 February 2026, 07:45 PM UTC (Monday, 02 February 2026, 01:15 AM IST)
+**Last Updated:** Sunday, 01 February 2026, 08:28 PM UTC (Monday, 02 February 2026, 01:58 AM IST)
 
 ### Premier League
 
@@ -79,13 +79,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Real Betis | 22 | 9 | 8 | 5 | 8 | 35 |
 | 6 | Espanyol | 22 | 10 | 4 | 8 | -1 | 34 |
 | 7 | Celta de Vigo | 22 | 8 | 9 | 5 | 6 | 33 |
-| 8 | Real Sociedad | 21 | 7 | 6 | 8 | 0 | 27 |
+| 8 | Real Sociedad | 22 | 7 | 7 | 8 | 0 | 28 |
 | 9 | Osasuna | 22 | 7 | 5 | 10 | -1 | 26 |
 | 10 | Alavés | 22 | 7 | 4 | 11 | -7 | 25 |
-| 11 | Girona | 22 | 6 | 7 | 9 | -15 | 25 |
-| 12 | Elche | 22 | 5 | 9 | 8 | -2 | 24 |
-| 13 | Sevilla | 21 | 7 | 3 | 11 | -5 | 24 |
-| 14 | Athletic Bilbao | 21 | 7 | 3 | 11 | -10 | 24 |
+| 11 | Athletic Bilbao | 22 | 7 | 4 | 11 | -10 | 25 |
+| 12 | Girona | 22 | 6 | 7 | 9 | -15 | 25 |
+| 13 | Elche | 22 | 5 | 9 | 8 | -2 | 24 |
+| 14 | Sevilla | 21 | 7 | 3 | 11 | -5 | 24 |
 | 15 | Valencia | 22 | 5 | 8 | 9 | -12 | 23 |
 | 16 | Getafe | 22 | 6 | 5 | 11 | -11 | 23 |
 | 17 | Rayo Vallecano | 22 | 5 | 7 | 10 | -12 | 22 |
@@ -123,8 +123,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 23 | 18 | 1 | 4 | 33 | 55 |
 | 2 | Milan | 22 | 13 | 8 | 1 | 18 | 47 |
 | 3 | Napoli | 23 | 14 | 4 | 5 | 12 | 46 |
-| 4 | Roma | 22 | 14 | 1 | 7 | 14 | 43 |
-| 5 | Juventus | 22 | 12 | 6 | 4 | 18 | 42 |
+| 4 | Juventus | 23 | 13 | 6 | 4 | 20 | 45 |
+| 5 | Roma | 22 | 14 | 1 | 7 | 14 | 43 |
 | 6 | Como | 23 | 11 | 8 | 4 | 21 | 41 |
 | 7 | Atalanta | 23 | 9 | 9 | 5 | 10 | 36 |
 | 8 | Lazio | 23 | 8 | 8 | 7 | 3 | 32 |
@@ -133,9 +133,9 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Sassuolo | 23 | 8 | 5 | 10 | -2 | 29 |
 | 12 | Cagliari | 23 | 7 | 7 | 9 | -3 | 28 |
 | 13 | Torino | 23 | 7 | 5 | 11 | -18 | 26 |
-| 14 | Parma | 22 | 5 | 8 | 9 | -12 | 23 |
-| 15 | Genoa | 23 | 5 | 8 | 10 | -7 | 23 |
-| 16 | Cremonese | 23 | 5 | 8 | 10 | -11 | 23 |
+| 14 | Genoa | 23 | 5 | 8 | 10 | -7 | 23 |
+| 15 | Cremonese | 23 | 5 | 8 | 10 | -11 | 23 |
+| 16 | Parma | 23 | 5 | 8 | 10 | -14 | 23 |
 | 17 | Lecce | 23 | 4 | 6 | 13 | -17 | 18 |
 | 18 | Fiorentina | 23 | 3 | 8 | 12 | -11 | 17 |
 | 19 | Pisa | 23 | 1 | 11 | 11 | -21 | 14 |
@@ -145,13 +145,13 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Lens | 20 | 15 | 1 | 4 | 18 | 46 |
-| 2 | PSG | 19 | 14 | 3 | 2 | 26 | 45 |
+| 1 | PSG | 20 | 14 | 4 | 2 | 26 | 46 |
+| 2 | Lens | 20 | 15 | 1 | 4 | 18 | 46 |
 | 3 | Marseille | 20 | 12 | 3 | 5 | 24 | 39 |
 | 4 | Lyon | 20 | 12 | 3 | 5 | 13 | 39 |
 | 5 | Lille | 20 | 10 | 2 | 8 | 4 | 32 |
-| 6 | Rennes | 20 | 8 | 7 | 5 | -1 | 31 |
-| 7 | Strasbourg | 19 | 9 | 3 | 7 | 9 | 30 |
+| 6 | Strasbourg | 20 | 9 | 4 | 7 | 9 | 31 |
+| 7 | Rennes | 20 | 8 | 7 | 5 | -1 | 31 |
 | 8 | Toulouse | 20 | 8 | 6 | 6 | 8 | 30 |
 | 9 | Lorient | 20 | 7 | 7 | 6 | -4 | 28 |
 | 10 | Monaco | 20 | 8 | 3 | 9 | -1 | 27 |
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 19 | 18 | 1 | 0 | 36 | 55 |
-| 2 | Sporting CP | 20 | 15 | 4 | 1 | 42 | 49 |
+| 2 | Sporting CP | 20 | 16 | 3 | 1 | 43 | 51 |
 | 3 | Benfica | 19 | 13 | 6 | 0 | 31 | 45 |
 | 4 | Gil Vicente | 20 | 9 | 7 | 4 | 13 | 34 |
 | 5 | Braga | 19 | 9 | 6 | 4 | 19 | 33 |
@@ -301,8 +301,8 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Estoril | 20 | 8 | 5 | 7 | 8 | 29 |
 | 9 | Vitória S.C. | 20 | 8 | 4 | 8 | -6 | 28 |
 | 10 | Alverca | 20 | 7 | 3 | 10 | -14 | 24 |
-| 11 | Nacional | 20 | 5 | 6 | 9 | -2 | 21 |
-| 12 | Arouca | 20 | 5 | 5 | 10 | -21 | 20 |
+| 11 | Arouca | 20 | 5 | 5 | 10 | -21 | 20 |
+| 12 | Nacional | 20 | 5 | 5 | 10 | -3 | 20 |
 | 13 | Rio Ave | 20 | 4 | 8 | 8 | -16 | 20 |
 | 14 | Estrela Amadora | 20 | 4 | 8 | 8 | -13 | 20 |
 | 15 | Santa Clara | 20 | 4 | 5 | 11 | -9 | 17 |
