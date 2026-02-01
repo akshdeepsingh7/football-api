@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 01:43 PM UTC",
-        "IST": "Sunday, 01 February 2026, 07:13 PM IST"
+        "UTC": "Sunday, 01 February 2026, 02:27 PM UTC",
+        "IST": "Sunday, 01 February 2026, 07:57 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -17,6 +17,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Aston Villa",
+                "Played": "24",
+                "Wins": "14",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "10",
+                "Points": "47"
+            },
+            {
+                "Position": "3",
                 "Team": "Manchester City",
                 "Played": "23",
                 "Wins": "14",
@@ -26,17 +36,17 @@
                 "Points": "46"
             },
             {
-                "Position": "3",
-                "Team": "Aston Villa",
-                "Played": "23",
-                "Wins": "14",
-                "Draws": "4",
+                "Position": "4",
+                "Team": "Manchester United",
+                "Played": "24",
+                "Wins": "11",
+                "Draws": "8",
                 "Losses": "5",
-                "Goal Difference": "10",
-                "Points": "46"
+                "Goal Difference": "8",
+                "Points": "41"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Chelsea",
                 "Played": "24",
                 "Wins": "11",
@@ -46,7 +56,7 @@
                 "Points": "40"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Liverpool FC",
                 "Played": "24",
                 "Wins": "11",
@@ -56,27 +66,27 @@
                 "Points": "39"
             },
             {
-                "Position": "6",
-                "Team": "Manchester United",
-                "Played": "23",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "5",
-                "Goal Difference": "7",
-                "Points": "38"
-            },
-            {
                 "Position": "7",
-                "Team": "Fulham",
-                "Played": "23",
+                "Team": "Brentford",
+                "Played": "24",
                 "Wins": "10",
                 "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "0",
+                "Losses": "10",
+                "Goal Difference": "3",
                 "Points": "34"
             },
             {
                 "Position": "8",
+                "Team": "Fulham",
+                "Played": "24",
+                "Wins": "10",
+                "Draws": "4",
+                "Losses": "10",
+                "Goal Difference": "-1",
+                "Points": "34"
+            },
+            {
+                "Position": "9",
                 "Team": "Everton",
                 "Played": "24",
                 "Wins": "9",
@@ -84,16 +94,6 @@
                 "Losses": "8",
                 "Goal Difference": "-1",
                 "Points": "34"
-            },
-            {
-                "Position": "9",
-                "Team": "Brentford",
-                "Played": "23",
-                "Wins": "10",
-                "Draws": "3",
-                "Losses": "10",
-                "Goal Difference": "3",
-                "Points": "33"
             },
             {
                 "Position": "10",
@@ -148,15 +148,25 @@
             {
                 "Position": "15",
                 "Team": "Crystal Palace",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "7",
                 "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-4",
+                "Losses": "10",
+                "Goal Difference": "-5",
                 "Points": "28"
             },
             {
                 "Position": "16",
+                "Team": "Nottingham Forest",
+                "Played": "24",
+                "Wins": "8",
+                "Draws": "4",
+                "Losses": "12",
+                "Goal Difference": "-10",
+                "Points": "28"
+            },
+            {
+                "Position": "17",
                 "Team": "Leeds United",
                 "Played": "24",
                 "Wins": "6",
@@ -164,16 +174,6 @@
                 "Losses": "10",
                 "Goal Difference": "-11",
                 "Points": "26"
-            },
-            {
-                "Position": "17",
-                "Team": "Nottingham Forest",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-11",
-                "Points": "25"
             },
             {
                 "Position": "18",
@@ -221,11 +221,11 @@
                 "Position": "2",
                 "Team": "Real Madrid",
                 "Played": "22",
-                "Wins": "17",
-                "Draws": "3",
+                "Wins": "16",
+                "Draws": "4",
                 "Losses": "2",
-                "Goal Difference": "29",
-                "Points": "54"
+                "Goal Difference": "28",
+                "Points": "52"
             },
             {
                 "Position": "3",
@@ -359,22 +359,22 @@
             },
             {
                 "Position": "16",
+                "Team": "Rayo Vallecano",
+                "Played": "22",
+                "Wins": "5",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "-11",
+                "Points": "23"
+            },
+            {
+                "Position": "17",
                 "Team": "Getafe",
                 "Played": "21",
                 "Wins": "6",
                 "Draws": "4",
                 "Losses": "11",
                 "Goal Difference": "-11",
-                "Points": "22"
-            },
-            {
-                "Position": "17",
-                "Team": "Rayo Vallecano",
-                "Played": "22",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "-12",
                 "Points": "22"
             },
             {
@@ -644,22 +644,22 @@
             {
                 "Position": "6",
                 "Team": "Como",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "11",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "4",
                 "Goal Difference": "21",
-                "Points": "40"
+                "Points": "41"
             },
             {
                 "Position": "7",
                 "Team": "Atalanta",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "9",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "5",
                 "Goal Difference": "10",
-                "Points": "35"
+                "Points": "36"
             },
             {
                 "Position": "8",
@@ -826,22 +826,22 @@
             {
                 "Position": "4",
                 "Team": "Lyon",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "11",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "12",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "5",
                 "Team": "Lille",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "10",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "7",
                 "Goal Difference": "5",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "6",

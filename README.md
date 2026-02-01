@@ -41,29 +41,29 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 February 2026, 01:43 PM UTC (Sunday, 01 February 2026, 07:13 PM IST)
+**Last Updated:** Sunday, 01 February 2026, 02:27 PM UTC (Sunday, 01 February 2026, 07:57 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 24 | 16 | 5 | 3 | 29 | 53 |
-| 2 | Manchester City | 23 | 14 | 4 | 5 | 26 | 46 |
-| 3 | Aston Villa | 23 | 14 | 4 | 5 | 10 | 46 |
-| 4 | Chelsea | 24 | 11 | 7 | 6 | 15 | 40 |
-| 5 | Liverpool FC | 24 | 11 | 6 | 7 | 6 | 39 |
-| 6 | Manchester United | 23 | 10 | 8 | 5 | 7 | 38 |
-| 7 | Fulham | 23 | 10 | 4 | 9 | 0 | 34 |
-| 8 | Everton | 24 | 9 | 7 | 8 | -1 | 34 |
-| 9 | Brentford | 23 | 10 | 3 | 10 | 3 | 33 |
+| 2 | Aston Villa | 24 | 14 | 5 | 5 | 10 | 47 |
+| 3 | Manchester City | 23 | 14 | 4 | 5 | 26 | 46 |
+| 4 | Manchester United | 24 | 11 | 8 | 5 | 8 | 41 |
+| 5 | Chelsea | 24 | 11 | 7 | 6 | 15 | 40 |
+| 6 | Liverpool FC | 24 | 11 | 6 | 7 | 6 | 39 |
+| 7 | Brentford | 24 | 10 | 4 | 10 | 3 | 34 |
+| 8 | Fulham | 24 | 10 | 4 | 10 | -1 | 34 |
+| 9 | Everton | 24 | 9 | 7 | 8 | -1 | 34 |
 | 10 | Newcastle United | 24 | 9 | 6 | 9 | 0 | 33 |
 | 11 | Sunderland | 23 | 8 | 9 | 6 | -2 | 33 |
 | 12 | AFC Bournemouth | 24 | 8 | 9 | 7 | -3 | 33 |
 | 13 | Brighton & Hove Albion | 24 | 7 | 10 | 7 | 2 | 31 |
 | 14 | Tottenham Hotspur | 23 | 7 | 7 | 9 | 2 | 28 |
-| 15 | Crystal Palace | 23 | 7 | 7 | 9 | -4 | 28 |
-| 16 | Leeds United | 24 | 6 | 8 | 10 | -11 | 26 |
-| 17 | Nottingham Forest | 23 | 7 | 4 | 12 | -11 | 25 |
+| 15 | Crystal Palace | 24 | 7 | 7 | 10 | -5 | 28 |
+| 16 | Nottingham Forest | 24 | 8 | 4 | 12 | -10 | 28 |
+| 17 | Leeds United | 24 | 6 | 8 | 10 | -11 | 26 |
 | 18 | West Ham United | 24 | 5 | 5 | 14 | -19 | 20 |
 | 19 | Burnley | 23 | 3 | 6 | 14 | -19 | 15 |
 | 20 | Wolverhampton Wanderers | 24 | 1 | 5 | 18 | -30 | 8 |
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 22 | 18 | 1 | 3 | 37 | 55 |
-| 2 | Real Madrid | 22 | 17 | 3 | 2 | 29 | 54 |
+| 2 | Real Madrid | 22 | 16 | 4 | 2 | 28 | 52 |
 | 3 | Atlético de Madrid | 22 | 13 | 6 | 3 | 21 | 45 |
 | 4 | Villarreal | 21 | 13 | 3 | 5 | 16 | 42 |
 | 5 | Espanyol | 22 | 10 | 4 | 8 | -1 | 34 |
@@ -87,8 +87,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Sevilla | 21 | 7 | 3 | 11 | -5 | 24 |
 | 14 | Athletic Bilbao | 21 | 7 | 3 | 11 | -10 | 24 |
 | 15 | Valencia | 21 | 5 | 8 | 8 | -11 | 23 |
-| 16 | Getafe | 21 | 6 | 4 | 11 | -11 | 22 |
-| 17 | Rayo Vallecano | 22 | 5 | 7 | 10 | -12 | 22 |
+| 16 | Rayo Vallecano | 22 | 5 | 8 | 9 | -11 | 23 |
+| 17 | Getafe | 21 | 6 | 4 | 11 | -11 | 22 |
 | 18 | Mallorca | 21 | 5 | 6 | 10 | -9 | 21 |
 | 19 | Levante | 21 | 4 | 6 | 11 | -10 | 18 |
 | 20 | Real Oviedo | 22 | 3 | 7 | 12 | -22 | 16 |
@@ -125,8 +125,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Napoli | 23 | 14 | 4 | 5 | 12 | 46 |
 | 4 | Roma | 22 | 14 | 1 | 7 | 14 | 43 |
 | 5 | Juventus | 22 | 12 | 6 | 4 | 18 | 42 |
-| 6 | Como | 22 | 11 | 7 | 4 | 21 | 40 |
-| 7 | Atalanta | 22 | 9 | 8 | 5 | 10 | 35 |
+| 6 | Como | 23 | 11 | 8 | 4 | 21 | 41 |
+| 7 | Atalanta | 23 | 9 | 9 | 5 | 10 | 36 |
 | 8 | Lazio | 23 | 8 | 8 | 7 | 3 | 32 |
 | 9 | Bologna | 22 | 8 | 6 | 8 | 5 | 30 |
 | 10 | Udinese | 22 | 8 | 5 | 9 | -9 | 29 |
@@ -148,8 +148,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Lens | 20 | 15 | 1 | 4 | 18 | 46 |
 | 2 | PSG | 19 | 14 | 3 | 2 | 26 | 45 |
 | 3 | Marseille | 20 | 12 | 3 | 5 | 24 | 39 |
-| 4 | Lyon | 19 | 11 | 3 | 5 | 12 | 36 |
-| 5 | Lille | 19 | 10 | 2 | 7 | 5 | 32 |
+| 4 | Lyon | 20 | 11 | 4 | 5 | 12 | 37 |
+| 5 | Lille | 20 | 10 | 3 | 7 | 5 | 33 |
 | 6 | Rennes | 20 | 8 | 7 | 5 | -1 | 31 |
 | 7 | Strasbourg | 19 | 9 | 3 | 7 | 9 | 30 |
 | 8 | Toulouse | 19 | 8 | 5 | 6 | 8 | 29 |
