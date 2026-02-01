@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 11:22 AM UTC",
-        "IST": "Sunday, 01 February 2026, 04:52 PM IST"
+        "UTC": "Sunday, 01 February 2026, 11:44 AM UTC",
+        "IST": "Sunday, 01 February 2026, 05:14 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -713,6 +713,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Torino",
+                "Played": "23",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "-19",
+                "Points": "24"
+            },
+            {
+                "Position": "14",
                 "Team": "Cremonese",
                 "Played": "22",
                 "Wins": "5",
@@ -722,23 +732,13 @@
                 "Points": "23"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Parma",
                 "Played": "22",
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "9",
                 "Goal Difference": "-12",
-                "Points": "23"
-            },
-            {
-                "Position": "15",
-                "Team": "Torino",
-                "Played": "22",
-                "Wins": "6",
-                "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-19",
                 "Points": "23"
             },
             {
@@ -754,12 +754,12 @@
             {
                 "Position": "17",
                 "Team": "Lecce",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "4",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "12",
                 "Goal Difference": "-16",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "18",
