@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 02:27 PM UTC",
-        "IST": "Sunday, 01 February 2026, 07:57 PM IST"
+        "UTC": "Sunday, 01 February 2026, 02:53 PM UTC",
+        "IST": "Sunday, 01 February 2026, 08:23 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -17,22 +17,22 @@
             },
             {
                 "Position": "2",
-                "Team": "Aston Villa",
-                "Played": "24",
-                "Wins": "14",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "10",
-                "Points": "47"
-            },
-            {
-                "Position": "3",
                 "Team": "Manchester City",
                 "Played": "23",
                 "Wins": "14",
                 "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "26",
+                "Points": "46"
+            },
+            {
+                "Position": "3",
+                "Team": "Aston Villa",
+                "Played": "24",
+                "Wins": "14",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "9",
                 "Points": "46"
             },
             {
@@ -69,11 +69,11 @@
                 "Position": "7",
                 "Team": "Brentford",
                 "Played": "24",
-                "Wins": "10",
-                "Draws": "4",
+                "Wins": "11",
+                "Draws": "3",
                 "Losses": "10",
-                "Goal Difference": "3",
-                "Points": "34"
+                "Goal Difference": "4",
+                "Points": "36"
             },
             {
                 "Position": "8",
@@ -137,6 +137,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Crystal Palace",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "-4",
+                "Points": "29"
+            },
+            {
+                "Position": "15",
                 "Team": "Tottenham Hotspur",
                 "Played": "23",
                 "Wins": "7",
@@ -146,32 +156,22 @@
                 "Points": "28"
             },
             {
-                "Position": "15",
-                "Team": "Crystal Palace",
-                "Played": "24",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "-5",
-                "Points": "28"
-            },
-            {
                 "Position": "16",
-                "Team": "Nottingham Forest",
-                "Played": "24",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-10",
-                "Points": "28"
-            },
-            {
-                "Position": "17",
                 "Team": "Leeds United",
                 "Played": "24",
                 "Wins": "6",
                 "Draws": "8",
                 "Losses": "10",
+                "Goal Difference": "-11",
+                "Points": "26"
+            },
+            {
+                "Position": "17",
+                "Team": "Nottingham Forest",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "12",
                 "Goal Difference": "-11",
                 "Points": "26"
             },
@@ -441,22 +441,22 @@
             },
             {
                 "Position": "4",
+                "Team": "VfB Stuttgart",
+                "Played": "20",
+                "Wins": "11",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "10",
+                "Points": "37"
+            },
+            {
+                "Position": "5",
                 "Team": "RB Leipzig",
                 "Played": "20",
                 "Wins": "11",
                 "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "11",
-                "Points": "36"
-            },
-            {
-                "Position": "5",
-                "Team": "VfB Stuttgart",
-                "Played": "19",
-                "Wins": "11",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "10",
                 "Points": "36"
             },
             {
@@ -472,12 +472,12 @@
             {
                 "Position": "7",
                 "Team": "SC Freiburg",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "7",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "6",
                 "Goal Difference": "-1",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "8",
@@ -827,21 +827,21 @@
                 "Position": "4",
                 "Team": "Lyon",
                 "Played": "20",
-                "Wins": "11",
-                "Draws": "4",
+                "Wins": "12",
+                "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "12",
-                "Points": "37"
+                "Goal Difference": "13",
+                "Points": "39"
             },
             {
                 "Position": "5",
                 "Team": "Lille",
                 "Played": "20",
                 "Wins": "10",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "5",
-                "Points": "33"
+                "Draws": "2",
+                "Losses": "8",
+                "Goal Difference": "4",
+                "Points": "32"
             },
             {
                 "Position": "6",
