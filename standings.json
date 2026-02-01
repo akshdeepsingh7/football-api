@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 03:26 PM UTC",
-        "IST": "Sunday, 01 February 2026, 08:56 PM IST"
+        "UTC": "Sunday, 01 February 2026, 03:49 PM UTC",
+        "IST": "Sunday, 01 February 2026, 09:19 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2104,15 +2104,25 @@
             {
                 "Position": "5",
                 "Team": "Gil Vicente",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "8",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "4",
                 "Goal Difference": "8",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "6",
+                "Team": "Famalic\u00e3o",
+                "Played": "20",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "10",
+                "Points": "30"
+            },
+            {
+                "Position": "7",
                 "Team": "Moreirense",
                 "Played": "20",
                 "Wins": "9",
@@ -2120,16 +2130,6 @@
                 "Losses": "8",
                 "Goal Difference": "-1",
                 "Points": "30"
-            },
-            {
-                "Position": "7",
-                "Team": "Famalic\u00e3o",
-                "Played": "19",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "10",
-                "Points": "29"
             },
             {
                 "Position": "8",
