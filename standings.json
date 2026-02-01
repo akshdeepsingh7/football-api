@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 February 2026, 05:25 PM UTC",
-        "IST": "Sunday, 01 February 2026, 10:55 PM IST"
+        "UTC": "Sunday, 01 February 2026, 05:50 PM UTC",
+        "IST": "Sunday, 01 February 2026, 11:20 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -22,7 +22,7 @@
                 "Wins": "15",
                 "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "28",
+                "Goal Difference": "27",
                 "Points": "49"
             },
             {
@@ -152,7 +152,7 @@
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "10",
-                "Goal Difference": "0",
+                "Goal Difference": "1",
                 "Points": "28"
             },
             {
@@ -270,12 +270,12 @@
             {
                 "Position": "7",
                 "Team": "Celta de Vigo",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "8",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "5",
                 "Goal Difference": "6",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "8",
@@ -360,12 +360,12 @@
             {
                 "Position": "16",
                 "Team": "Getafe",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "6",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "11",
                 "Goal Difference": "-11",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "17",
@@ -421,21 +421,21 @@
             },
             {
                 "Position": "2",
-                "Team": "Borussia Dortmund",
-                "Played": "20",
-                "Wins": "12",
-                "Draws": "7",
-                "Losses": "1",
-                "Goal Difference": "21",
-                "Points": "43"
-            },
-            {
-                "Position": "3",
                 "Team": "Hoffenheim",
                 "Played": "20",
                 "Wins": "13",
                 "Draws": "3",
                 "Losses": "4",
+                "Goal Difference": "20",
+                "Points": "42"
+            },
+            {
+                "Position": "3",
+                "Team": "Borussia Dortmund",
+                "Played": "20",
+                "Wins": "12",
+                "Draws": "6",
+                "Losses": "2",
                 "Goal Difference": "20",
                 "Points": "42"
             },
@@ -571,22 +571,22 @@
             },
             {
                 "Position": "17",
+                "Team": "Heidenheim",
+                "Played": "20",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "12",
+                "Goal Difference": "-24",
+                "Points": "16"
+            },
+            {
+                "Position": "18",
                 "Team": "St. Pauli",
                 "Played": "20",
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "12",
                 "Goal Difference": "-16",
-                "Points": "14"
-            },
-            {
-                "Position": "18",
-                "Team": "Heidenheim",
-                "Played": "20",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-25",
                 "Points": "14"
             }
         ],
@@ -598,7 +598,7 @@
                 "Wins": "18",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "32",
+                "Goal Difference": "33",
                 "Points": "55"
             },
             {
@@ -748,7 +748,7 @@
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-10",
+                "Goal Difference": "-11",
                 "Points": "23"
             },
             {
@@ -907,30 +907,30 @@
                 "Position": "12",
                 "Team": "Brest",
                 "Played": "20",
-                "Wins": "7",
-                "Draws": "4",
+                "Wins": "6",
+                "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "-5",
-                "Points": "25"
+                "Goal Difference": "-7",
+                "Points": "23"
             },
             {
                 "Position": "13",
+                "Team": "Nice",
+                "Played": "20",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "10",
+                "Goal Difference": "-11",
+                "Points": "22"
+            },
+            {
+                "Position": "14",
                 "Team": "Paris FC",
                 "Played": "20",
                 "Wins": "5",
                 "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "-8",
-                "Points": "21"
-            },
-            {
-                "Position": "14",
-                "Team": "Nice",
-                "Played": "20",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "11",
-                "Goal Difference": "-13",
                 "Points": "21"
             },
             {
