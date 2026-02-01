@@ -41,14 +41,14 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 February 2026, 03:49 PM UTC (Sunday, 01 February 2026, 09:19 PM IST)
+**Last Updated:** Sunday, 01 February 2026, 04:31 PM UTC (Sunday, 01 February 2026, 10:01 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 24 | 16 | 5 | 3 | 29 | 53 |
-| 2 | Manchester City | 23 | 14 | 4 | 5 | 26 | 46 |
+| 2 | Manchester City | 24 | 14 | 5 | 5 | 26 | 47 |
 | 3 | Aston Villa | 24 | 14 | 4 | 6 | 9 | 46 |
 | 4 | Manchester United | 24 | 11 | 8 | 5 | 8 | 41 |
 | 5 | Chelsea | 24 | 11 | 7 | 6 | 15 | 40 |
@@ -60,8 +60,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Sunderland | 23 | 8 | 9 | 6 | -2 | 33 |
 | 12 | AFC Bournemouth | 24 | 8 | 9 | 7 | -3 | 33 |
 | 13 | Brighton & Hove Albion | 24 | 7 | 10 | 7 | 2 | 31 |
-| 14 | Crystal Palace | 24 | 7 | 8 | 9 | -4 | 29 |
-| 15 | Tottenham Hotspur | 23 | 7 | 7 | 9 | 2 | 28 |
+| 14 | Tottenham Hotspur | 24 | 7 | 8 | 9 | 2 | 29 |
+| 15 | Crystal Palace | 24 | 7 | 8 | 9 | -4 | 29 |
 | 16 | Leeds United | 24 | 6 | 8 | 10 | -11 | 26 |
 | 17 | Nottingham Forest | 24 | 7 | 5 | 12 | -11 | 26 |
 | 18 | West Ham United | 24 | 5 | 5 | 14 | -19 | 20 |
@@ -98,12 +98,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 20 | 16 | 3 | 1 | 56 | 51 |
-| 2 | Borussia Dortmund | 19 | 12 | 6 | 1 | 21 | 42 |
+| 2 | Borussia Dortmund | 20 | 12 | 7 | 1 | 21 | 43 |
 | 3 | Hoffenheim | 20 | 13 | 3 | 4 | 20 | 42 |
-| 4 | VfB Stuttgart | 20 | 11 | 4 | 5 | 10 | 37 |
+| 4 | VfB Stuttgart | 20 | 12 | 3 | 5 | 11 | 39 |
 | 5 | RB Leipzig | 20 | 11 | 3 | 6 | 11 | 36 |
 | 6 | Bayer Leverkusen | 19 | 11 | 2 | 6 | 12 | 35 |
-| 7 | SC Freiburg | 20 | 7 | 7 | 6 | -1 | 28 |
+| 7 | SC Freiburg | 20 | 7 | 6 | 7 | -2 | 27 |
 | 8 | Eintracht Frankfurt | 20 | 7 | 6 | 7 | -5 | 27 |
 | 9 | Union Berlin | 20 | 6 | 6 | 8 | -8 | 24 |
 | 10 | Köln | 20 | 6 | 5 | 9 | -3 | 23 |
@@ -114,7 +114,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Werder Bremen | 20 | 4 | 7 | 9 | -16 | 19 |
 | 16 | Mainz 05 | 20 | 4 | 6 | 10 | -10 | 18 |
 | 17 | St. Pauli | 20 | 3 | 5 | 12 | -16 | 14 |
-| 18 | Heidenheim | 19 | 3 | 4 | 12 | -25 | 13 |
+| 18 | Heidenheim | 20 | 3 | 5 | 12 | -25 | 14 |
 
 ### Serie A
 
@@ -152,17 +152,17 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Lille | 20 | 10 | 2 | 8 | 4 | 32 |
 | 6 | Rennes | 20 | 8 | 7 | 5 | -1 | 31 |
 | 7 | Strasbourg | 19 | 9 | 3 | 7 | 9 | 30 |
-| 8 | Toulouse | 19 | 8 | 5 | 6 | 8 | 29 |
+| 8 | Toulouse | 20 | 8 | 6 | 6 | 8 | 30 |
 | 9 | Lorient | 20 | 7 | 7 | 6 | -4 | 28 |
 | 10 | Monaco | 20 | 8 | 3 | 9 | -1 | 27 |
-| 11 | Angers | 19 | 6 | 5 | 8 | -5 | 23 |
-| 12 | Brest | 19 | 6 | 4 | 9 | -7 | 22 |
+| 11 | Brest | 20 | 7 | 4 | 9 | -6 | 25 |
+| 12 | Angers | 20 | 6 | 6 | 8 | -5 | 24 |
 | 13 | Paris FC | 20 | 5 | 6 | 9 | -8 | 21 |
-| 14 | Nice | 19 | 6 | 3 | 10 | -11 | 21 |
+| 14 | Nice | 20 | 6 | 3 | 11 | -12 | 21 |
 | 15 | Le Havre | 20 | 4 | 8 | 8 | -9 | 20 |
 | 16 | Nantes | 20 | 3 | 5 | 12 | -17 | 14 |
-| 17 | Auxerre | 19 | 3 | 3 | 13 | -15 | 12 |
-| 18 | Metz | 19 | 3 | 3 | 13 | -24 | 12 |
+| 17 | Auxerre | 20 | 3 | 4 | 13 | -15 | 13 |
+| 18 | Metz | 20 | 3 | 4 | 13 | -24 | 13 |
 
 ### Champions League
 
@@ -294,10 +294,10 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 19 | 18 | 1 | 0 | 36 | 55 |
 | 2 | Sporting CP | 19 | 15 | 3 | 1 | 42 | 48 |
 | 3 | Benfica | 19 | 13 | 6 | 0 | 31 | 45 |
-| 4 | Braga | 19 | 9 | 6 | 4 | 19 | 33 |
-| 5 | Gil Vicente | 20 | 8 | 8 | 4 | 8 | 32 |
-| 6 | Famalicão | 20 | 8 | 6 | 6 | 10 | 30 |
-| 7 | Moreirense | 20 | 9 | 3 | 8 | -1 | 30 |
+| 4 | Gil Vicente | 20 | 9 | 7 | 4 | 9 | 34 |
+| 5 | Braga | 19 | 9 | 6 | 4 | 19 | 33 |
+| 6 | Moreirense | 20 | 9 | 3 | 8 | -1 | 30 |
+| 7 | Famalicão | 20 | 8 | 5 | 7 | 9 | 29 |
 | 8 | Estoril | 20 | 8 | 5 | 7 | 8 | 29 |
 | 9 | Vitória S.C. | 20 | 8 | 4 | 8 | -6 | 28 |
 | 10 | Alverca | 20 | 7 | 3 | 10 | -14 | 24 |
