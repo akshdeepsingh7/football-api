@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 03 February 2026, 08:00 PM UTC (Wednesday, 04 February 2026, 01:30 AM IST)
+**Last Updated:** Tuesday, 03 February 2026, 09:01 PM UTC (Wednesday, 04 February 2026, 02:31 AM IST)
 
 ### Premier League
 
@@ -95,14 +95,33 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Bundesliga
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Bayern Munich | 20 | 16 | 3 | 1 | 56 | 51 |
+| 2 | Borussia Dortmund | 20 | 13 | 6 | 1 | 22 | 45 |
+| 3 | Hoffenheim | 20 | 13 | 3 | 4 | 20 | 42 |
+| 4 | VfB Stuttgart | 20 | 12 | 3 | 5 | 11 | 39 |
+| 5 | RB Leipzig | 20 | 11 | 3 | 6 | 11 | 36 |
+| 6 | Bayer Leverkusen | 19 | 11 | 2 | 6 | 12 | 35 |
+| 7 | SC Freiburg | 20 | 7 | 6 | 7 | -2 | 27 |
+| 8 | Eintracht Frankfurt | 20 | 7 | 6 | 7 | -5 | 27 |
+| 9 | Union Berlin | 20 | 6 | 6 | 8 | -8 | 24 |
+| 10 | Köln | 20 | 6 | 5 | 9 | -3 | 23 |
+| 11 | Augsburg | 20 | 6 | 4 | 10 | -13 | 22 |
+| 12 | Borussia Mönchengladbach | 20 | 5 | 6 | 9 | -9 | 21 |
+| 13 | Hamburg | 19 | 4 | 7 | 8 | -10 | 19 |
+| 14 | VfL Wolfsburg | 20 | 5 | 4 | 11 | -14 | 19 |
+| 15 | Werder Bremen | 20 | 4 | 7 | 9 | -16 | 19 |
+| 16 | Mainz 05 | 20 | 4 | 6 | 10 | -10 | 18 |
+| 17 | St. Pauli | 20 | 3 | 5 | 12 | -16 | 14 |
+| 18 | Heidenheim | 20 | 3 | 4 | 13 | -26 | 13 |
 
 ### Serie A
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 23 | 18 | 1 | 4 | 33 | 55 |
-| 2 | Milan | 23 | 13 | 9 | 1 | 18 | 48 |
+| 2 | Milan | 23 | 14 | 8 | 1 | 21 | 50 |
 | 3 | Napoli | 23 | 14 | 4 | 5 | 12 | 46 |
 | 4 | Juventus | 23 | 13 | 6 | 4 | 21 | 45 |
 | 5 | Roma | 23 | 14 | 1 | 8 | 13 | 43 |
@@ -110,7 +129,7 @@ Data not available.
 | 7 | Atalanta | 23 | 9 | 9 | 5 | 10 | 36 |
 | 8 | Lazio | 23 | 8 | 8 | 7 | 3 | 32 |
 | 9 | Udinese | 23 | 9 | 5 | 9 | -8 | 32 |
-| 10 | Bologna | 23 | 8 | 7 | 8 | 5 | 31 |
+| 10 | Bologna | 23 | 8 | 6 | 9 | 2 | 30 |
 | 11 | Sassuolo | 23 | 8 | 5 | 10 | -2 | 29 |
 | 12 | Cagliari | 23 | 7 | 7 | 9 | -3 | 28 |
 | 13 | Torino | 23 | 7 | 5 | 11 | -18 | 26 |
@@ -311,13 +330,13 @@ Data not available.
 | 14 | Southampton | 30 | 10 | 10 | 10 | 2 | 40 |
 | 15 | Swansea City | 30 | 11 | 6 | 13 | -3 | 39 |
 | 16 | Leicester City | 30 | 10 | 8 | 12 | -5 | 38 |
-| 17 | Sheffield United | 30 | 11 | 3 | 16 | -3 | 36 |
+| 17 | Sheffield United | 30 | 11 | 4 | 15 | -2 | 37 |
 | 18 | Charlton Athletic | 29 | 9 | 8 | 12 | -9 | 35 |
 | 19 | Norwich City | 30 | 9 | 6 | 15 | -5 | 33 |
 | 20 | Portsmouth | 28 | 8 | 9 | 11 | -10 | 33 |
 | 21 | Blackburn Rovers | 30 | 8 | 8 | 14 | -11 | 32 |
 | 22 | West Bromwich Albion | 30 | 9 | 5 | 16 | -15 | 32 |
-| 23 | Oxford United | 30 | 7 | 9 | 14 | -10 | 30 |
+| 23 | Oxford United | 30 | 6 | 10 | 14 | -11 | 28 |
 | 24 | Sheffield Wednesday | 30 | 1 | 8 | 21 | -40 | -7 |
 
 ### Major League Soccer (MLS)
