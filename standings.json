@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 03 February 2026, 09:01 PM UTC",
-        "IST": "Wednesday, 04 February 2026, 02:31 AM IST"
+        "UTC": "Tuesday, 03 February 2026, 09:57 PM UTC",
+        "IST": "Wednesday, 04 February 2026, 03:27 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2385,6 +2385,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Sheffield United",
+                "Played": "30",
+                "Wins": "12",
+                "Draws": "3",
+                "Losses": "15",
+                "Goal Difference": "0",
+                "Points": "39"
+            },
+            {
+                "Position": "16",
                 "Team": "Swansea City",
                 "Played": "30",
                 "Wins": "11",
@@ -2394,7 +2404,7 @@
                 "Points": "39"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Leicester City",
                 "Played": "30",
                 "Wins": "10",
@@ -2402,16 +2412,6 @@
                 "Losses": "12",
                 "Goal Difference": "-5",
                 "Points": "38"
-            },
-            {
-                "Position": "17",
-                "Team": "Sheffield United",
-                "Played": "30",
-                "Wins": "11",
-                "Draws": "4",
-                "Losses": "15",
-                "Goal Difference": "-2",
-                "Points": "37"
             },
             {
                 "Position": "18",
@@ -2468,10 +2468,10 @@
                 "Team": "Oxford United",
                 "Played": "30",
                 "Wins": "6",
-                "Draws": "10",
-                "Losses": "14",
-                "Goal Difference": "-11",
-                "Points": "28"
+                "Draws": "9",
+                "Losses": "15",
+                "Goal Difference": "-13",
+                "Points": "27"
             },
             {
                 "Position": "24",

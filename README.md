@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 03 February 2026, 09:01 PM UTC (Wednesday, 04 February 2026, 02:31 AM IST)
+**Last Updated:** Tuesday, 03 February 2026, 09:57 PM UTC (Wednesday, 04 February 2026, 03:27 AM IST)
 
 ### Premier League
 
@@ -328,15 +328,15 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Stoke City | 30 | 12 | 6 | 12 | 6 | 42 |
 | 13 | Birmingham City | 30 | 11 | 9 | 10 | 3 | 42 |
 | 14 | Southampton | 30 | 10 | 10 | 10 | 2 | 40 |
-| 15 | Swansea City | 30 | 11 | 6 | 13 | -3 | 39 |
-| 16 | Leicester City | 30 | 10 | 8 | 12 | -5 | 38 |
-| 17 | Sheffield United | 30 | 11 | 4 | 15 | -2 | 37 |
+| 15 | Sheffield United | 30 | 12 | 3 | 15 | 0 | 39 |
+| 16 | Swansea City | 30 | 11 | 6 | 13 | -3 | 39 |
+| 17 | Leicester City | 30 | 10 | 8 | 12 | -5 | 38 |
 | 18 | Charlton Athletic | 29 | 9 | 8 | 12 | -9 | 35 |
 | 19 | Norwich City | 30 | 9 | 6 | 15 | -5 | 33 |
 | 20 | Portsmouth | 28 | 8 | 9 | 11 | -10 | 33 |
 | 21 | Blackburn Rovers | 30 | 8 | 8 | 14 | -11 | 32 |
 | 22 | West Bromwich Albion | 30 | 9 | 5 | 16 | -15 | 32 |
-| 23 | Oxford United | 30 | 6 | 10 | 14 | -11 | 28 |
+| 23 | Oxford United | 30 | 6 | 9 | 15 | -13 | 27 |
 | 24 | Sheffield Wednesday | 30 | 1 | 8 | 21 | -40 | -7 |
 
 ### Major League Soccer (MLS)
