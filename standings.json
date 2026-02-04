@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 04 February 2026, 11:29 PM UTC",
-        "IST": "Thursday, 05 February 2026, 04:59 AM IST"
+        "UTC": "Wednesday, 04 February 2026, 11:53 PM UTC",
+        "IST": "Thursday, 05 February 2026, 05:23 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3002,7 +3002,7 @@
             },
             {
                 "Position": "9",
-                "Team": "Mirassol",
+                "Team": "Remo",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "0",
@@ -3012,17 +3012,7 @@
             },
             {
                 "Position": "10",
-                "Team": "Internacional",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "3"
-            },
-            {
-                "Position": "11",
-                "Team": "Remo",
+                "Team": "Mirassol",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "0",
@@ -3031,7 +3021,7 @@
                 "Points": "3"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Palmeiras",
                 "Played": "1",
                 "Wins": "0",
@@ -3041,7 +3031,7 @@
                 "Points": "1"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "2",
                 "Wins": "0",
@@ -3051,7 +3041,27 @@
                 "Points": "1"
             },
             {
+                "Position": "13",
+                "Team": "Flamengo",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "1"
+            },
+            {
                 "Position": "14",
+                "Team": "Internacional",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "1"
+            },
+            {
+                "Position": "15",
                 "Team": "Santos",
                 "Played": "2",
                 "Wins": "0",
@@ -3061,7 +3071,7 @@
                 "Points": "1"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Vasco da Gama",
                 "Played": "1",
                 "Wins": "0",
@@ -3071,7 +3081,7 @@
                 "Points": "0"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Gr\u00eamio",
                 "Played": "1",
                 "Wins": "0",
@@ -3081,7 +3091,7 @@
                 "Points": "0"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Corinthians",
                 "Played": "1",
                 "Wins": "0",
@@ -3091,23 +3101,13 @@
                 "Points": "0"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Coritiba",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "-1",
-                "Points": "0"
-            },
-            {
-                "Position": "19",
-                "Team": "Flamengo",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-2",
                 "Points": "0"
             },
             {
