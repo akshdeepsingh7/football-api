@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 05 February 2026, 02:08 AM UTC (Thursday, 05 February 2026, 07:38 AM IST)
+**Last Updated:** Thursday, 05 February 2026, 04:26 AM UTC (Thursday, 05 February 2026, 09:56 AM IST)
 
 ### Premier League
 
@@ -401,7 +401,7 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | RB Bragantino | 2 | 2 | 0 | 0 | 2 | 6 |
-| 2 | Palmeiras | 2 | 1 | 1 | 0 | 3 | 4 |
+| 2 | Palmeiras | 2 | 1 | 1 | 0 | 4 | 4 |
 | 3 | Mirassol | 2 | 1 | 1 | 0 | 1 | 4 |
 | 4 | São Paulo | 2 | 1 | 1 | 0 | 1 | 4 |
 | 5 | Botafogo | 2 | 1 | 0 | 1 | 2 | 3 |
@@ -410,7 +410,7 @@ Data not available.
 | 8 | Fluminense | 1 | 1 | 0 | 0 | 1 | 3 |
 | 9 | Bahia | 1 | 1 | 0 | 0 | 1 | 3 |
 | 10 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
-| 11 | Vitória | 2 | 1 | 0 | 1 | -1 | 3 |
+| 11 | Vitória | 2 | 1 | 0 | 1 | -2 | 3 |
 | 12 | Atlético Mineiro | 2 | 0 | 1 | 1 | -1 | 1 |
 | 13 | Flamengo | 2 | 0 | 1 | 1 | -1 | 1 |
 | 14 | Internacional | 2 | 0 | 1 | 1 | -1 | 1 |
