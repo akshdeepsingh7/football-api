@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 05 February 2026, 04:07 PM UTC (Thursday, 05 February 2026, 09:37 PM IST)
+**Last Updated:** Thursday, 05 February 2026, 05:25 PM UTC (Thursday, 05 February 2026, 10:55 PM IST)
 
 ### Premier League
 
@@ -207,7 +207,44 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Europa League
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Lyon | 8 | 7 | 0 | 1 | 13 | 21 |
+| 2 | Aston Villa | 8 | 7 | 0 | 1 | 8 | 21 |
+| 3 | Midtjylland | 8 | 6 | 1 | 1 | 10 | 19 |
+| 4 | Real Betis | 8 | 5 | 2 | 1 | 6 | 17 |
+| 5 | Porto | 8 | 5 | 2 | 1 | 6 | 17 |
+| 6 | Braga | 8 | 5 | 2 | 1 | 6 | 17 |
+| 7 | SC Freiburg | 8 | 5 | 2 | 1 | 6 | 17 |
+| 8 | Roma | 8 | 5 | 1 | 2 | 7 | 16 |
+| 9 | KRC Genk | 8 | 5 | 1 | 2 | 4 | 16 |
+| 10 | Bologna | 8 | 4 | 3 | 1 | 7 | 15 |
+| 11 | VfB Stuttgart | 8 | 5 | 0 | 3 | 6 | 15 |
+| 12 | Ferencváros | 8 | 4 | 3 | 1 | 1 | 15 |
+| 13 | Nottingham Forest | 8 | 4 | 2 | 2 | 8 | 14 |
+| 14 | Plzeň | 8 | 3 | 5 | 0 | 5 | 14 |
+| 15 | Red Star Belgrade | 8 | 4 | 2 | 2 | 1 | 14 |
+| 16 | Celta de Vigo | 8 | 4 | 1 | 3 | 4 | 13 |
+| 17 | PAOK | 8 | 3 | 3 | 2 | 3 | 12 |
+| 18 | Lille | 8 | 4 | 0 | 4 | 3 | 12 |
+| 19 | Fenerbahçe | 8 | 3 | 3 | 2 | 3 | 12 |
+| 20 | Panathinaikos | 8 | 3 | 3 | 2 | 2 | 12 |
+| 21 | Celtic | 8 | 3 | 2 | 3 | -2 | 11 |
+| 22 | Ludogorets | 8 | 3 | 1 | 4 | -3 | 10 |
+| 23 | Dinamo Zagreb | 8 | 3 | 1 | 4 | -4 | 10 |
+| 24 | Brann | 8 | 2 | 3 | 3 | -2 | 9 |
+| 25 | BSC Young Boys | 8 | 3 | 0 | 5 | -6 | 9 |
+| 26 | Sturm Graz | 8 | 2 | 1 | 5 | -6 | 7 |
+| 27 | FCSB | 8 | 2 | 1 | 5 | -7 | 7 |
+| 28 | Go Ahead Eagles | 8 | 2 | 1 | 5 | -8 | 7 |
+| 29 | Feyenoord | 8 | 2 | 0 | 6 | -4 | 6 |
+| 30 | FC Basel | 8 | 2 | 0 | 6 | -4 | 6 |
+| 31 | RB Salzburg | 8 | 2 | 0 | 6 | -5 | 6 |
+| 32 | Rangers | 8 | 1 | 1 | 6 | -9 | 4 |
+| 33 | Nice | 8 | 1 | 0 | 7 | -8 | 3 |
+| 34 | Utrecht | 8 | 0 | 1 | 7 | -10 | 1 |
+| 35 | Malmö | 8 | 0 | 1 | 7 | -11 | 1 |
+| 36 | Maccabi Tel Aviv | 8 | 0 | 1 | 7 | -20 | 1 |
 
 ### Europa Conference League
 
