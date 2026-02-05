@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 05 February 2026, 05:25 PM UTC",
-        "IST": "Thursday, 05 February 2026, 10:55 PM IST"
+        "UTC": "Thursday, 05 February 2026, 06:10 PM UTC",
+        "IST": "Thursday, 05 February 2026, 11:40 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2405,16 +2405,6 @@
             },
             {
                 "Position": "17",
-                "Team": "Leicester City",
-                "Played": "30",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-5",
-                "Points": "38"
-            },
-            {
-                "Position": "18",
                 "Team": "Charlton Athletic",
                 "Played": "29",
                 "Wins": "9",
@@ -2424,7 +2414,7 @@
                 "Points": "35"
             },
             {
-                "Position": "19",
+                "Position": "18",
                 "Team": "Norwich City",
                 "Played": "30",
                 "Wins": "9",
@@ -2434,7 +2424,7 @@
                 "Points": "33"
             },
             {
-                "Position": "20",
+                "Position": "19",
                 "Team": "Portsmouth",
                 "Played": "28",
                 "Wins": "8",
@@ -2442,6 +2432,16 @@
                 "Losses": "11",
                 "Goal Difference": "-10",
                 "Points": "33"
+            },
+            {
+                "Position": "20",
+                "Team": "Leicester City",
+                "Played": "30",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-5",
+                "Points": "32"
             },
             {
                 "Position": "21",
