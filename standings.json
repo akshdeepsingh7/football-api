@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 06 February 2026, 07:55 PM UTC",
-        "IST": "Saturday, 07 February 2026, 01:25 AM IST"
+        "UTC": "Friday, 06 February 2026, 08:36 PM UTC",
+        "IST": "Saturday, 07 February 2026, 02:06 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -158,21 +158,21 @@
             {
                 "Position": "16",
                 "Team": "Leeds United",
-                "Played": "24",
-                "Wins": "6",
+                "Played": "25",
+                "Wins": "7",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-11",
-                "Points": "26"
+                "Goal Difference": "-9",
+                "Points": "29"
             },
             {
                 "Position": "17",
                 "Team": "Nottingham Forest",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "7",
                 "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-11",
+                "Losses": "13",
+                "Goal Difference": "-13",
                 "Points": "26"
             },
             {
@@ -259,6 +259,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Celta de Vigo",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "10",
+                "Losses": "5",
+                "Goal Difference": "6",
+                "Points": "34"
+            },
+            {
+                "Position": "7",
                 "Team": "Espanyol",
                 "Played": "22",
                 "Wins": "10",
@@ -266,16 +276,6 @@
                 "Losses": "8",
                 "Goal Difference": "-1",
                 "Points": "34"
-            },
-            {
-                "Position": "7",
-                "Team": "Celta de Vigo",
-                "Played": "22",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "5",
-                "Goal Difference": "6",
-                "Points": "33"
             },
             {
                 "Position": "8",
@@ -290,12 +290,12 @@
             {
                 "Position": "9",
                 "Team": "Osasuna",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "7",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "10",
                 "Goal Difference": "-1",
-                "Points": "26"
+                "Points": "27"
             },
             {
                 "Position": "10",
@@ -2335,22 +2335,22 @@
             },
             {
                 "Position": "10",
+                "Team": "Queens Park Rangers",
+                "Played": "31",
+                "Wins": "12",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-1",
+                "Points": "44"
+            },
+            {
+                "Position": "11",
                 "Team": "Bristol City",
                 "Played": "30",
                 "Wins": "12",
                 "Draws": "7",
                 "Losses": "11",
                 "Goal Difference": "4",
-                "Points": "43"
-            },
-            {
-                "Position": "11",
-                "Team": "Queens Park Rangers",
-                "Played": "30",
-                "Wins": "12",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-1",
                 "Points": "43"
             },
             {
@@ -2406,12 +2406,12 @@
             {
                 "Position": "17",
                 "Team": "Charlton Athletic",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "9",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "12",
                 "Goal Difference": "-9",
-                "Points": "35"
+                "Points": "36"
             },
             {
                 "Position": "18",
