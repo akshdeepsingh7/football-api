@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 05 February 2026, 11:51 PM UTC (Friday, 06 February 2026, 05:21 AM IST)
+**Last Updated:** Friday, 06 February 2026, 02:08 AM UTC (Friday, 06 February 2026, 07:38 AM IST)
 
 ### Premier League
 
@@ -410,16 +410,16 @@ Data not available.
 | 8 | Botafogo | 2 | 1 | 0 | 1 | 2 | 3 |
 | 9 | Grêmio | 2 | 1 | 0 | 1 | 1 | 3 |
 | 10 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
-| 11 | Vitória | 2 | 1 | 0 | 1 | -2 | 3 |
-| 12 | Atlético Mineiro | 2 | 0 | 1 | 1 | -1 | 1 |
-| 13 | Flamengo | 2 | 0 | 1 | 1 | -1 | 1 |
-| 14 | Vasco da Gama | 2 | 0 | 1 | 1 | -1 | 1 |
-| 15 | Internacional | 2 | 0 | 1 | 1 | -1 | 1 |
-| 16 | Santos | 2 | 0 | 1 | 1 | -2 | 1 |
-| 17 | Remo | 2 | 0 | 1 | 1 | -2 | 1 |
-| 18 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
-| 19 | Coritiba | 1 | 0 | 0 | 1 | -1 | 0 |
-| 20 | Cruzeiro | 1 | 0 | 0 | 1 | -4 | 0 |
+| 11 | Coritiba | 2 | 1 | 0 | 1 | 0 | 3 |
+| 12 | Vitória | 2 | 1 | 0 | 1 | -2 | 3 |
+| 13 | Vasco da Gama | 2 | 0 | 1 | 1 | -1 | 1 |
+| 14 | Atlético Mineiro | 2 | 0 | 1 | 1 | -1 | 1 |
+| 15 | Flamengo | 2 | 0 | 1 | 1 | -1 | 1 |
+| 16 | Internacional | 2 | 0 | 1 | 1 | -1 | 1 |
+| 17 | Santos | 2 | 0 | 1 | 1 | -2 | 1 |
+| 18 | Remo | 2 | 0 | 1 | 1 | -2 | 1 |
+| 19 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
+| 20 | Cruzeiro | 2 | 0 | 0 | 2 | -5 | 0 |
 
 
 <!-- END_TABLE -->
