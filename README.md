@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 06 February 2026, 08:36 PM UTC (Saturday, 07 February 2026, 02:06 AM IST)
+**Last Updated:** Friday, 06 February 2026, 09:31 PM UTC (Saturday, 07 February 2026, 03:01 AM IST)
 
 ### Premier League
 
@@ -62,8 +62,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Brighton & Hove Albion | 24 | 7 | 10 | 7 | 2 | 31 |
 | 14 | Tottenham Hotspur | 24 | 7 | 8 | 9 | 2 | 29 |
 | 15 | Crystal Palace | 24 | 7 | 8 | 9 | -4 | 29 |
-| 16 | Leeds United | 25 | 7 | 8 | 10 | -9 | 29 |
-| 17 | Nottingham Forest | 25 | 7 | 5 | 13 | -13 | 26 |
+| 16 | Leeds United | 25 | 7 | 8 | 10 | -8 | 29 |
+| 17 | Nottingham Forest | 25 | 7 | 5 | 13 | -14 | 26 |
 | 18 | West Ham United | 24 | 5 | 5 | 14 | -19 | 20 |
 | 19 | Burnley | 24 | 3 | 6 | 15 | -22 | 15 |
 | 20 | Wolverhampton Wanderers | 24 | 1 | 5 | 18 | -30 | 8 |
