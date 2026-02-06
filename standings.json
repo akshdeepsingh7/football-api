@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 06 February 2026, 07:13 PM UTC",
-        "IST": "Saturday, 07 February 2026, 12:43 AM IST"
+        "UTC": "Friday, 06 February 2026, 07:55 PM UTC",
+        "IST": "Saturday, 07 February 2026, 01:25 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -471,6 +471,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Eintracht Frankfurt",
+                "Played": "21",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "-5",
+                "Points": "28"
+            },
+            {
+                "Position": "8",
                 "Team": "SC Freiburg",
                 "Played": "20",
                 "Wins": "7",
@@ -480,24 +490,14 @@
                 "Points": "27"
             },
             {
-                "Position": "8",
-                "Team": "Eintracht Frankfurt",
-                "Played": "20",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "-5",
-                "Points": "27"
-            },
-            {
                 "Position": "9",
                 "Team": "Union Berlin",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "8",
                 "Goal Difference": "-8",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "10",
@@ -774,22 +774,22 @@
             {
                 "Position": "19",
                 "Team": "Pisa",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "1",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "11",
                 "Goal Difference": "-21",
-                "Points": "14"
+                "Points": "15"
             },
             {
                 "Position": "20",
                 "Team": "Hellas Verona",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "2",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "13",
                 "Goal Difference": "-23",
-                "Points": "14"
+                "Points": "15"
             }
         ],
         "Ligue 1": [
@@ -836,12 +836,12 @@
             {
                 "Position": "5",
                 "Team": "Lille",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "10",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "8",
                 "Goal Difference": "4",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "6",
@@ -966,12 +966,12 @@
             {
                 "Position": "18",
                 "Team": "Metz",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "3",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "14",
                 "Goal Difference": "-25",
-                "Points": "12"
+                "Points": "13"
             }
         ],
         "Champions League": [

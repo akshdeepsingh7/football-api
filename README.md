@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 06 February 2026, 07:13 PM UTC (Saturday, 07 February 2026, 12:43 AM IST)
+**Last Updated:** Friday, 06 February 2026, 07:55 PM UTC (Saturday, 07 February 2026, 01:25 AM IST)
 
 ### Premier League
 
@@ -103,9 +103,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | VfB Stuttgart | 20 | 12 | 3 | 5 | 11 | 39 |
 | 5 | RB Leipzig | 20 | 11 | 3 | 6 | 11 | 36 |
 | 6 | Bayer Leverkusen | 19 | 11 | 2 | 6 | 12 | 35 |
-| 7 | SC Freiburg | 20 | 7 | 6 | 7 | -2 | 27 |
-| 8 | Eintracht Frankfurt | 20 | 7 | 6 | 7 | -5 | 27 |
-| 9 | Union Berlin | 20 | 6 | 6 | 8 | -8 | 24 |
+| 7 | Eintracht Frankfurt | 21 | 7 | 7 | 7 | -5 | 28 |
+| 8 | SC Freiburg | 20 | 7 | 6 | 7 | -2 | 27 |
+| 9 | Union Berlin | 21 | 6 | 7 | 8 | -8 | 25 |
 | 10 | Köln | 20 | 6 | 5 | 9 | -3 | 23 |
 | 11 | Augsburg | 20 | 6 | 4 | 10 | -13 | 22 |
 | 12 | Borussia Mönchengladbach | 20 | 5 | 6 | 9 | -9 | 21 |
@@ -138,8 +138,8 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Parma | 23 | 5 | 8 | 10 | -15 | 23 |
 | 17 | Lecce | 23 | 4 | 6 | 13 | -17 | 18 |
 | 18 | Fiorentina | 23 | 3 | 8 | 12 | -11 | 17 |
-| 19 | Pisa | 23 | 1 | 11 | 11 | -21 | 14 |
-| 20 | Hellas Verona | 23 | 2 | 8 | 13 | -23 | 14 |
+| 19 | Pisa | 24 | 1 | 12 | 11 | -21 | 15 |
+| 20 | Hellas Verona | 24 | 2 | 9 | 13 | -23 | 15 |
 
 ### Ligue 1
 
@@ -149,7 +149,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 20 | 15 | 1 | 4 | 18 | 46 |
 | 3 | Marseille | 20 | 12 | 3 | 5 | 24 | 39 |
 | 4 | Lyon | 20 | 12 | 3 | 5 | 13 | 39 |
-| 5 | Lille | 20 | 10 | 2 | 8 | 4 | 32 |
+| 5 | Lille | 21 | 10 | 3 | 8 | 4 | 33 |
 | 6 | Rennes | 20 | 8 | 7 | 5 | -1 | 31 |
 | 7 | Strasbourg | 20 | 9 | 3 | 8 | 8 | 30 |
 | 8 | Toulouse | 20 | 8 | 6 | 6 | 8 | 30 |
@@ -162,7 +162,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Le Havre | 20 | 4 | 8 | 8 | -9 | 20 |
 | 16 | Nantes | 20 | 3 | 5 | 12 | -17 | 14 |
 | 17 | Auxerre | 20 | 3 | 4 | 13 | -15 | 13 |
-| 18 | Metz | 20 | 3 | 3 | 14 | -25 | 12 |
+| 18 | Metz | 21 | 3 | 4 | 14 | -25 | 13 |
 
 ### Champions League
 
