@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 06 February 2026, 09:31 PM UTC",
-        "IST": "Saturday, 07 February 2026, 03:01 AM IST"
+        "UTC": "Friday, 06 February 2026, 10:25 PM UTC",
+        "IST": "Saturday, 07 February 2026, 03:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -162,7 +162,7 @@
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-8",
+                "Goal Difference": "-9",
                 "Points": "29"
             },
             {
@@ -172,7 +172,7 @@
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-14",
+                "Goal Difference": "-13",
                 "Points": "26"
             },
             {
@@ -259,16 +259,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Celta de Vigo",
-                "Played": "23",
-                "Wins": "8",
-                "Draws": "10",
-                "Losses": "5",
-                "Goal Difference": "6",
-                "Points": "34"
-            },
-            {
-                "Position": "7",
                 "Team": "Espanyol",
                 "Played": "22",
                 "Wins": "10",
@@ -278,7 +268,27 @@
                 "Points": "34"
             },
             {
+                "Position": "7",
+                "Team": "Celta de Vigo",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "9",
+                "Losses": "6",
+                "Goal Difference": "5",
+                "Points": "33"
+            },
+            {
                 "Position": "8",
+                "Team": "Osasuna",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "0",
+                "Points": "29"
+            },
+            {
+                "Position": "9",
                 "Team": "Real Sociedad",
                 "Played": "22",
                 "Wins": "7",
@@ -286,16 +296,6 @@
                 "Losses": "8",
                 "Goal Difference": "0",
                 "Points": "28"
-            },
-            {
-                "Position": "9",
-                "Team": "Osasuna",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "10",
-                "Goal Difference": "-1",
-                "Points": "27"
             },
             {
                 "Position": "10",

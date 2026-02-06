@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 06 February 2026, 09:31 PM UTC (Saturday, 07 February 2026, 03:01 AM IST)
+**Last Updated:** Friday, 06 February 2026, 10:25 PM UTC (Saturday, 07 February 2026, 03:55 AM IST)
 
 ### Premier League
 
@@ -62,8 +62,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Brighton & Hove Albion | 24 | 7 | 10 | 7 | 2 | 31 |
 | 14 | Tottenham Hotspur | 24 | 7 | 8 | 9 | 2 | 29 |
 | 15 | Crystal Palace | 24 | 7 | 8 | 9 | -4 | 29 |
-| 16 | Leeds United | 25 | 7 | 8 | 10 | -8 | 29 |
-| 17 | Nottingham Forest | 25 | 7 | 5 | 13 | -14 | 26 |
+| 16 | Leeds United | 25 | 7 | 8 | 10 | -9 | 29 |
+| 17 | Nottingham Forest | 25 | 7 | 5 | 13 | -13 | 26 |
 | 18 | West Ham United | 24 | 5 | 5 | 14 | -19 | 20 |
 | 19 | Burnley | 24 | 3 | 6 | 15 | -22 | 15 |
 | 20 | Wolverhampton Wanderers | 24 | 1 | 5 | 18 | -30 | 8 |
@@ -77,10 +77,10 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Atlético de Madrid | 22 | 13 | 6 | 3 | 21 | 45 |
 | 4 | Villarreal | 21 | 13 | 3 | 5 | 16 | 42 |
 | 5 | Real Betis | 22 | 9 | 8 | 5 | 8 | 35 |
-| 6 | Celta de Vigo | 23 | 8 | 10 | 5 | 6 | 34 |
-| 7 | Espanyol | 22 | 10 | 4 | 8 | -1 | 34 |
-| 8 | Real Sociedad | 22 | 7 | 7 | 8 | 0 | 28 |
-| 9 | Osasuna | 23 | 7 | 6 | 10 | -1 | 27 |
+| 6 | Espanyol | 22 | 10 | 4 | 8 | -1 | 34 |
+| 7 | Celta de Vigo | 23 | 8 | 9 | 6 | 5 | 33 |
+| 8 | Osasuna | 23 | 8 | 5 | 10 | 0 | 29 |
+| 9 | Real Sociedad | 22 | 7 | 7 | 8 | 0 | 28 |
 | 10 | Alavés | 22 | 7 | 4 | 11 | -7 | 25 |
 | 11 | Athletic Bilbao | 22 | 7 | 4 | 11 | -10 | 25 |
 | 12 | Girona | 22 | 6 | 7 | 9 | -15 | 25 |
