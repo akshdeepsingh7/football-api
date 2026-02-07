@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 11:45 AM UTC",
-        "IST": "Saturday, 07 February 2026, 05:15 PM IST"
+        "UTC": "Saturday, 07 February 2026, 12:51 PM UTC",
+        "IST": "Saturday, 07 February 2026, 06:21 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -38,12 +38,12 @@
             {
                 "Position": "4",
                 "Team": "Manchester United",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "11",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "5",
                 "Goal Difference": "8",
-                "Points": "41"
+                "Points": "42"
             },
             {
                 "Position": "5",
@@ -138,12 +138,12 @@
             {
                 "Position": "14",
                 "Team": "Tottenham Hotspur",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "7",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "9",
                 "Goal Difference": "2",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "15",
@@ -2265,6 +2265,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Ipswich Town",
+                "Played": "30",
+                "Wins": "15",
+                "Draws": "9",
+                "Losses": "6",
+                "Goal Difference": "22",
+                "Points": "54"
+            },
+            {
+                "Position": "4",
                 "Team": "Hull City",
                 "Played": "30",
                 "Wins": "16",
@@ -2272,16 +2282,6 @@
                 "Losses": "8",
                 "Goal Difference": "8",
                 "Points": "54"
-            },
-            {
-                "Position": "4",
-                "Team": "Ipswich Town",
-                "Played": "29",
-                "Wins": "14",
-                "Draws": "9",
-                "Losses": "6",
-                "Goal Difference": "21",
-                "Points": "51"
             },
             {
                 "Position": "5",
@@ -2306,22 +2306,22 @@
             {
                 "Position": "7",
                 "Team": "Derby County",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "12",
                 "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "7",
+                "Losses": "10",
+                "Goal Difference": "6",
                 "Points": "45"
             },
             {
                 "Position": "8",
                 "Team": "Watford",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "11",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "8",
                 "Goal Difference": "4",
-                "Points": "44"
+                "Points": "45"
             },
             {
                 "Position": "9",
@@ -2376,12 +2376,12 @@
             {
                 "Position": "14",
                 "Team": "Southampton",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "10",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "10",
                 "Goal Difference": "2",
-                "Points": "40"
+                "Points": "41"
             },
             {
                 "Position": "15",
@@ -2416,12 +2416,12 @@
             {
                 "Position": "18",
                 "Team": "Norwich City",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "9",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "15",
                 "Goal Difference": "-5",
-                "Points": "33"
+                "Points": "34"
             },
             {
                 "Position": "19",
@@ -2435,22 +2435,22 @@
             },
             {
                 "Position": "20",
+                "Team": "Blackburn Rovers",
+                "Played": "31",
+                "Wins": "8",
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "-11",
+                "Points": "33"
+            },
+            {
+                "Position": "21",
                 "Team": "Leicester City",
                 "Played": "30",
                 "Wins": "10",
                 "Draws": "8",
                 "Losses": "12",
                 "Goal Difference": "-5",
-                "Points": "32"
-            },
-            {
-                "Position": "21",
-                "Team": "Blackburn Rovers",
-                "Played": "30",
-                "Wins": "8",
-                "Draws": "8",
-                "Losses": "14",
-                "Goal Difference": "-11",
                 "Points": "32"
             },
             {
