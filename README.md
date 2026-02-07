@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 February 2026, 05:27 PM UTC (Saturday, 07 February 2026, 10:57 PM IST)
+**Last Updated:** Saturday, 07 February 2026, 05:52 PM UTC (Saturday, 07 February 2026, 11:22 PM IST)
 
 ### Premier League
 
@@ -53,12 +53,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Manchester United | 25 | 12 | 8 | 5 | 10 | 44 |
 | 5 | Chelsea | 25 | 12 | 7 | 6 | 17 | 43 |
 | 6 | Liverpool FC | 24 | 11 | 6 | 7 | 6 | 39 |
-| 7 | Everton | 25 | 10 | 7 | 8 | 0 | 37 |
-| 8 | Brentford | 24 | 11 | 3 | 10 | 4 | 36 |
+| 7 | Brentford | 25 | 11 | 4 | 10 | 4 | 37 |
+| 8 | Everton | 25 | 10 | 7 | 8 | 0 | 37 |
 | 9 | Sunderland | 25 | 9 | 9 | 7 | -2 | 36 |
-| 10 | Fulham | 25 | 10 | 4 | 11 | -2 | 34 |
-| 11 | AFC Bournemouth | 25 | 8 | 10 | 7 | -3 | 34 |
-| 12 | Newcastle United | 24 | 9 | 6 | 9 | 0 | 33 |
+| 10 | Newcastle United | 25 | 9 | 7 | 9 | 0 | 34 |
+| 11 | Fulham | 25 | 10 | 4 | 11 | -2 | 34 |
+| 12 | AFC Bournemouth | 25 | 8 | 10 | 7 | -3 | 34 |
 | 13 | Brighton & Hove Albion | 24 | 7 | 10 | 7 | 2 | 31 |
 | 14 | Tottenham Hotspur | 25 | 7 | 8 | 10 | 0 | 29 |
 | 15 | Crystal Palace | 24 | 7 | 8 | 9 | -4 | 29 |
@@ -102,15 +102,15 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Hoffenheim | 20 | 13 | 3 | 4 | 20 | 42 |
 | 4 | VfB Stuttgart | 21 | 12 | 3 | 6 | 10 | 39 |
 | 5 | RB Leipzig | 20 | 11 | 3 | 6 | 11 | 36 |
-| 6 | Bayer Leverkusen | 19 | 11 | 2 | 6 | 12 | 35 |
+| 6 | Bayer Leverkusen | 20 | 11 | 2 | 7 | 11 | 35 |
 | 7 | SC Freiburg | 21 | 8 | 6 | 7 | -1 | 30 |
 | 8 | Eintracht Frankfurt | 21 | 7 | 7 | 7 | -5 | 28 |
 | 9 | Union Berlin | 21 | 6 | 7 | 8 | -8 | 25 |
-| 10 | Köln | 20 | 6 | 5 | 9 | -3 | 23 |
-| 11 | Hamburg | 20 | 5 | 7 | 8 | -8 | 22 |
-| 12 | Augsburg | 21 | 6 | 4 | 11 | -15 | 22 |
-| 13 | Mainz 05 | 21 | 5 | 6 | 10 | -8 | 21 |
-| 14 | Borussia Mönchengladbach | 20 | 5 | 6 | 9 | -9 | 21 |
+| 10 | Borussia Mönchengladbach | 21 | 6 | 6 | 9 | -8 | 24 |
+| 11 | Köln | 20 | 6 | 5 | 9 | -3 | 23 |
+| 12 | Hamburg | 20 | 5 | 7 | 8 | -8 | 22 |
+| 13 | Augsburg | 21 | 6 | 4 | 11 | -15 | 22 |
+| 14 | Mainz 05 | 21 | 5 | 6 | 10 | -8 | 21 |
 | 15 | VfL Wolfsburg | 21 | 5 | 4 | 12 | -15 | 19 |
 | 16 | Werder Bremen | 21 | 4 | 7 | 10 | -17 | 19 |
 | 17 | St. Pauli | 21 | 4 | 5 | 12 | -15 | 17 |
@@ -145,12 +145,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Lens | 21 | 16 | 1 | 4 | 19 | 49 |
+| 1 | Lens | 21 | 16 | 1 | 4 | 20 | 49 |
 | 2 | PSG | 20 | 15 | 3 | 2 | 27 | 48 |
 | 3 | Marseille | 20 | 12 | 3 | 5 | 24 | 39 |
 | 4 | Lyon | 20 | 12 | 3 | 5 | 13 | 39 |
 | 5 | Lille | 21 | 10 | 3 | 8 | 4 | 33 |
-| 6 | Rennes | 21 | 8 | 7 | 6 | -2 | 31 |
+| 6 | Rennes | 21 | 8 | 7 | 6 | -3 | 31 |
 | 7 | Strasbourg | 20 | 9 | 3 | 8 | 8 | 30 |
 | 8 | Toulouse | 20 | 8 | 6 | 6 | 8 | 30 |
 | 9 | Lorient | 20 | 7 | 7 | 6 | -4 | 28 |
@@ -294,9 +294,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 20 | 18 | 1 | 1 | 35 | 55 |
 | 2 | Sporting CP | 20 | 16 | 3 | 1 | 43 | 51 |
 | 3 | Benfica | 20 | 13 | 7 | 0 | 31 | 46 |
-| 4 | Gil Vicente | 21 | 10 | 7 | 4 | 15 | 37 |
+| 4 | Gil Vicente | 21 | 10 | 7 | 4 | 14 | 37 |
 | 5 | Braga | 20 | 10 | 6 | 4 | 23 | 36 |
-| 6 | Moreirense | 21 | 9 | 3 | 9 | -3 | 30 |
+| 6 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
 | 7 | Famalicão | 20 | 8 | 5 | 7 | 5 | 29 |
 | 8 | Estoril | 20 | 8 | 5 | 7 | 8 | 29 |
 | 9 | Vitória S.C. | 20 | 8 | 4 | 8 | -6 | 28 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 05:27 PM UTC",
-        "IST": "Saturday, 07 February 2026, 10:57 PM IST"
+        "UTC": "Saturday, 07 February 2026, 05:52 PM UTC",
+        "IST": "Saturday, 07 February 2026, 11:22 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -67,6 +67,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Brentford",
+                "Played": "25",
+                "Wins": "11",
+                "Draws": "4",
+                "Losses": "10",
+                "Goal Difference": "4",
+                "Points": "37"
+            },
+            {
+                "Position": "8",
                 "Team": "Everton",
                 "Played": "25",
                 "Wins": "10",
@@ -74,16 +84,6 @@
                 "Losses": "8",
                 "Goal Difference": "0",
                 "Points": "37"
-            },
-            {
-                "Position": "8",
-                "Team": "Brentford",
-                "Played": "24",
-                "Wins": "11",
-                "Draws": "3",
-                "Losses": "10",
-                "Goal Difference": "4",
-                "Points": "36"
             },
             {
                 "Position": "9",
@@ -97,6 +97,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Newcastle United",
+                "Played": "25",
+                "Wins": "9",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "0",
+                "Points": "34"
+            },
+            {
+                "Position": "11",
                 "Team": "Fulham",
                 "Played": "25",
                 "Wins": "10",
@@ -106,7 +116,7 @@
                 "Points": "34"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "AFC Bournemouth",
                 "Played": "25",
                 "Wins": "8",
@@ -114,16 +124,6 @@
                 "Losses": "7",
                 "Goal Difference": "-3",
                 "Points": "34"
-            },
-            {
-                "Position": "12",
-                "Team": "Newcastle United",
-                "Played": "24",
-                "Wins": "9",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "0",
-                "Points": "33"
             },
             {
                 "Position": "13",
@@ -462,11 +462,11 @@
             {
                 "Position": "6",
                 "Team": "Bayer Leverkusen",
-                "Played": "19",
+                "Played": "20",
                 "Wins": "11",
                 "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "12",
+                "Losses": "7",
+                "Goal Difference": "11",
                 "Points": "35"
             },
             {
@@ -501,6 +501,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Played": "21",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-8",
+                "Points": "24"
+            },
+            {
+                "Position": "11",
                 "Team": "K\u00f6ln",
                 "Played": "20",
                 "Wins": "6",
@@ -510,7 +520,7 @@
                 "Points": "23"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Hamburg",
                 "Played": "20",
                 "Wins": "5",
@@ -520,7 +530,7 @@
                 "Points": "22"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Augsburg",
                 "Played": "21",
                 "Wins": "6",
@@ -530,23 +540,13 @@
                 "Points": "22"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Mainz 05",
                 "Played": "21",
                 "Wins": "5",
                 "Draws": "6",
                 "Losses": "10",
                 "Goal Difference": "-8",
-                "Points": "21"
-            },
-            {
-                "Position": "14",
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "20",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-9",
                 "Points": "21"
             },
             {
@@ -800,7 +800,7 @@
                 "Wins": "16",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "19",
+                "Goal Difference": "20",
                 "Points": "49"
             },
             {
@@ -850,7 +850,7 @@
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "31"
             },
             {
@@ -2098,7 +2098,7 @@
                 "Wins": "10",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "15",
+                "Goal Difference": "14",
                 "Points": "37"
             },
             {
@@ -2118,7 +2118,7 @@
                 "Wins": "9",
                 "Draws": "3",
                 "Losses": "9",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "30"
             },
             {
