@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 February 2026, 02:27 PM UTC (Saturday, 07 February 2026, 07:57 PM IST)
+**Last Updated:** Saturday, 07 February 2026, 02:53 PM UTC (Saturday, 07 February 2026, 08:23 PM IST)
 
 ### Premier League
 
@@ -98,23 +98,23 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 20 | 16 | 3 | 1 | 56 | 51 |
-| 2 | Borussia Dortmund | 20 | 13 | 6 | 1 | 22 | 45 |
+| 2 | Borussia Dortmund | 21 | 13 | 7 | 1 | 22 | 46 |
 | 3 | Hoffenheim | 20 | 13 | 3 | 4 | 20 | 42 |
-| 4 | VfB Stuttgart | 20 | 12 | 3 | 5 | 11 | 39 |
+| 4 | VfB Stuttgart | 21 | 12 | 4 | 5 | 11 | 40 |
 | 5 | RB Leipzig | 20 | 11 | 3 | 6 | 11 | 36 |
 | 6 | Bayer Leverkusen | 19 | 11 | 2 | 6 | 12 | 35 |
-| 7 | Eintracht Frankfurt | 21 | 7 | 7 | 7 | -5 | 28 |
-| 8 | SC Freiburg | 20 | 7 | 6 | 7 | -2 | 27 |
+| 7 | SC Freiburg | 21 | 8 | 6 | 7 | -1 | 30 |
+| 8 | Eintracht Frankfurt | 21 | 7 | 7 | 7 | -5 | 28 |
 | 9 | Union Berlin | 21 | 6 | 7 | 8 | -8 | 25 |
 | 10 | Köln | 20 | 6 | 5 | 9 | -3 | 23 |
-| 11 | Augsburg | 20 | 6 | 4 | 10 | -13 | 22 |
-| 12 | Borussia Mönchengladbach | 20 | 5 | 6 | 9 | -9 | 21 |
-| 13 | Hamburg | 19 | 4 | 7 | 8 | -10 | 19 |
-| 14 | VfL Wolfsburg | 20 | 5 | 4 | 11 | -14 | 19 |
-| 15 | Werder Bremen | 20 | 4 | 7 | 9 | -16 | 19 |
-| 16 | Mainz 05 | 20 | 4 | 6 | 10 | -10 | 18 |
-| 17 | St. Pauli | 20 | 3 | 5 | 12 | -16 | 14 |
-| 18 | Heidenheim | 20 | 3 | 4 | 13 | -26 | 13 |
+| 11 | Augsburg | 21 | 6 | 4 | 11 | -14 | 22 |
+| 12 | Mainz 05 | 21 | 5 | 6 | 10 | -9 | 21 |
+| 13 | Borussia Mönchengladbach | 20 | 5 | 6 | 9 | -9 | 21 |
+| 14 | Hamburg | 20 | 4 | 8 | 8 | -10 | 20 |
+| 15 | VfL Wolfsburg | 21 | 5 | 5 | 11 | -14 | 20 |
+| 16 | Werder Bremen | 21 | 4 | 7 | 10 | -17 | 19 |
+| 17 | St. Pauli | 21 | 3 | 6 | 12 | -16 | 15 |
+| 18 | Heidenheim | 21 | 3 | 5 | 13 | -26 | 14 |
 
 ### Serie A
 
