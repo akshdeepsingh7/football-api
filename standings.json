@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 08:28 PM UTC",
-        "IST": "Sunday, 08 February 2026, 01:58 AM IST"
+        "UTC": "Saturday, 07 February 2026, 08:54 PM UTC",
+        "IST": "Sunday, 08 February 2026, 02:24 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -817,11 +817,11 @@
                 "Position": "3",
                 "Team": "Lyon",
                 "Played": "21",
-                "Wins": "12",
-                "Draws": "4",
+                "Wins": "13",
+                "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "13",
-                "Points": "40"
+                "Goal Difference": "14",
+                "Points": "42"
             },
             {
                 "Position": "4",
@@ -948,10 +948,10 @@
                 "Team": "Nantes",
                 "Played": "21",
                 "Wins": "3",
-                "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "-17",
-                "Points": "15"
+                "Draws": "5",
+                "Losses": "13",
+                "Goal Difference": "-18",
+                "Points": "14"
             },
             {
                 "Position": "17",
@@ -2144,12 +2144,12 @@
             {
                 "Position": "9",
                 "Team": "Vit\u00f3ria S.C.",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "8",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "-6",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "10",
@@ -2174,12 +2174,12 @@
             {
                 "Position": "12",
                 "Team": "Arouca",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "5",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "10",
                 "Goal Difference": "-21",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "13",
