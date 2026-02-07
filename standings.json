@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 12:51 PM UTC",
-        "IST": "Saturday, 07 February 2026, 06:21 PM IST"
+        "UTC": "Saturday, 07 February 2026, 01:44 PM UTC",
+        "IST": "Saturday, 07 February 2026, 07:14 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -39,11 +39,11 @@
                 "Position": "4",
                 "Team": "Manchester United",
                 "Played": "25",
-                "Wins": "11",
-                "Draws": "9",
+                "Wins": "12",
+                "Draws": "8",
                 "Losses": "5",
-                "Goal Difference": "8",
-                "Points": "42"
+                "Goal Difference": "9",
+                "Points": "44"
             },
             {
                 "Position": "5",
@@ -140,10 +140,10 @@
                 "Team": "Tottenham Hotspur",
                 "Played": "25",
                 "Wins": "7",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "2",
-                "Points": "30"
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "1",
+                "Points": "29"
             },
             {
                 "Position": "15",
