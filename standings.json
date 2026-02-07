@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 07:44 PM UTC",
-        "IST": "Sunday, 08 February 2026, 01:14 AM IST"
+        "UTC": "Saturday, 07 February 2026, 08:28 PM UTC",
+        "IST": "Sunday, 08 February 2026, 01:58 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -279,6 +279,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Real Sociedad",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "7",
+                "Losses": "8",
+                "Goal Difference": "1",
+                "Points": "31"
+            },
+            {
+                "Position": "9",
                 "Team": "Osasuna",
                 "Played": "23",
                 "Wins": "8",
@@ -286,16 +296,6 @@
                 "Losses": "10",
                 "Goal Difference": "0",
                 "Points": "29"
-            },
-            {
-                "Position": "9",
-                "Team": "Real Sociedad",
-                "Played": "22",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "0",
-                "Points": "28"
             },
             {
                 "Position": "10",
@@ -330,11 +330,11 @@
             {
                 "Position": "13",
                 "Team": "Elche",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "5",
                 "Draws": "9",
-                "Losses": "8",
-                "Goal Difference": "-2",
+                "Losses": "9",
+                "Goal Difference": "-3",
                 "Points": "24"
             },
             {
@@ -703,6 +703,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Torino",
+                "Played": "24",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-17",
+                "Points": "29"
+            },
+            {
+                "Position": "13",
                 "Team": "Cagliari",
                 "Played": "23",
                 "Wins": "7",
@@ -710,16 +720,6 @@
                 "Losses": "9",
                 "Goal Difference": "-3",
                 "Points": "28"
-            },
-            {
-                "Position": "13",
-                "Team": "Torino",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-18",
-                "Points": "26"
             },
             {
                 "Position": "14",
@@ -764,11 +764,11 @@
             {
                 "Position": "18",
                 "Team": "Fiorentina",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "3",
                 "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-11",
+                "Losses": "13",
+                "Goal Difference": "-12",
                 "Points": "17"
             },
             {
@@ -815,22 +815,22 @@
             },
             {
                 "Position": "3",
+                "Team": "Lyon",
+                "Played": "21",
+                "Wins": "12",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "13",
+                "Points": "40"
+            },
+            {
+                "Position": "4",
                 "Team": "Marseille",
                 "Played": "20",
                 "Wins": "12",
                 "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "24",
-                "Points": "39"
-            },
-            {
-                "Position": "4",
-                "Team": "Lyon",
-                "Played": "20",
-                "Wins": "12",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "13",
                 "Points": "39"
             },
             {
@@ -946,12 +946,12 @@
             {
                 "Position": "16",
                 "Team": "Nantes",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "3",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "-17",
-                "Points": "14"
+                "Points": "15"
             },
             {
                 "Position": "17",
