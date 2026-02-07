@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 February 2026, 08:54 PM UTC (Sunday, 08 February 2026, 02:24 AM IST)
+**Last Updated:** Saturday, 07 February 2026, 09:27 PM UTC (Sunday, 08 February 2026, 02:57 AM IST)
 
 ### Premier League
 
@@ -131,13 +131,13 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Udinese | 23 | 9 | 5 | 9 | -8 | 32 |
 | 10 | Bologna | 23 | 8 | 6 | 9 | 2 | 30 |
 | 11 | Sassuolo | 23 | 8 | 5 | 10 | -2 | 29 |
-| 12 | Torino | 24 | 8 | 5 | 11 | -17 | 29 |
-| 13 | Cagliari | 23 | 7 | 7 | 9 | -3 | 28 |
+| 12 | Cagliari | 23 | 7 | 7 | 9 | -3 | 28 |
+| 13 | Torino | 24 | 7 | 5 | 12 | -19 | 26 |
 | 14 | Cremonese | 23 | 5 | 8 | 10 | -11 | 23 |
 | 15 | Parma | 23 | 5 | 8 | 10 | -15 | 23 |
 | 16 | Genoa | 24 | 5 | 8 | 11 | -8 | 23 |
-| 17 | Lecce | 23 | 4 | 6 | 13 | -17 | 18 |
-| 18 | Fiorentina | 24 | 3 | 8 | 13 | -12 | 17 |
+| 17 | Fiorentina | 24 | 4 | 8 | 12 | -10 | 20 |
+| 18 | Lecce | 23 | 4 | 6 | 13 | -17 | 18 |
 | 19 | Pisa | 24 | 1 | 12 | 11 | -21 | 15 |
 | 20 | Hellas Verona | 24 | 2 | 9 | 13 | -23 | 15 |
 
@@ -296,13 +296,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 20 | 13 | 7 | 0 | 31 | 46 |
 | 4 | Gil Vicente | 21 | 10 | 7 | 4 | 14 | 37 |
 | 5 | Braga | 20 | 10 | 6 | 4 | 23 | 36 |
-| 6 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
-| 7 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
-| 8 | Famalicão | 20 | 8 | 5 | 7 | 5 | 29 |
-| 9 | Vitória S.C. | 21 | 8 | 5 | 8 | -6 | 29 |
+| 6 | Vitória S.C. | 21 | 9 | 4 | 8 | -5 | 31 |
+| 7 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
+| 8 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
+| 9 | Famalicão | 20 | 8 | 5 | 7 | 5 | 29 |
 | 10 | Alverca | 20 | 7 | 3 | 10 | -14 | 24 |
 | 11 | Estrela Amadora | 21 | 5 | 8 | 8 | -12 | 23 |
-| 12 | Arouca | 21 | 5 | 6 | 10 | -21 | 21 |
+| 12 | Arouca | 21 | 5 | 5 | 11 | -22 | 20 |
 | 13 | Nacional | 20 | 5 | 5 | 10 | -3 | 20 |
 | 14 | Rio Ave | 20 | 4 | 8 | 8 | -16 | 20 |
 | 15 | Casa Pia | 20 | 4 | 6 | 10 | -17 | 18 |

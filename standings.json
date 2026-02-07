@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 08:54 PM UTC",
-        "IST": "Sunday, 08 February 2026, 02:24 AM IST"
+        "UTC": "Saturday, 07 February 2026, 09:27 PM UTC",
+        "IST": "Sunday, 08 February 2026, 02:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -703,16 +703,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Torino",
-                "Played": "24",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-17",
-                "Points": "29"
-            },
-            {
-                "Position": "13",
                 "Team": "Cagliari",
                 "Played": "23",
                 "Wins": "7",
@@ -720,6 +710,16 @@
                 "Losses": "9",
                 "Goal Difference": "-3",
                 "Points": "28"
+            },
+            {
+                "Position": "13",
+                "Team": "Torino",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-19",
+                "Points": "26"
             },
             {
                 "Position": "14",
@@ -753,6 +753,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Fiorentina",
+                "Played": "24",
+                "Wins": "4",
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-10",
+                "Points": "20"
+            },
+            {
+                "Position": "18",
                 "Team": "Lecce",
                 "Played": "23",
                 "Wins": "4",
@@ -760,16 +770,6 @@
                 "Losses": "13",
                 "Goal Difference": "-17",
                 "Points": "18"
-            },
-            {
-                "Position": "18",
-                "Team": "Fiorentina",
-                "Played": "24",
-                "Wins": "3",
-                "Draws": "8",
-                "Losses": "13",
-                "Goal Difference": "-12",
-                "Points": "17"
             },
             {
                 "Position": "19",
@@ -2113,6 +2113,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "21",
+                "Wins": "9",
+                "Draws": "4",
+                "Losses": "8",
+                "Goal Difference": "-5",
+                "Points": "31"
+            },
+            {
+                "Position": "7",
                 "Team": "Estoril",
                 "Played": "21",
                 "Wins": "8",
@@ -2122,7 +2132,7 @@
                 "Points": "30"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Moreirense",
                 "Played": "21",
                 "Wins": "9",
@@ -2132,23 +2142,13 @@
                 "Points": "30"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Famalic\u00e3o",
                 "Played": "20",
                 "Wins": "8",
                 "Draws": "5",
                 "Losses": "7",
                 "Goal Difference": "5",
-                "Points": "29"
-            },
-            {
-                "Position": "9",
-                "Team": "Vit\u00f3ria S.C.",
-                "Played": "21",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "-6",
                 "Points": "29"
             },
             {
@@ -2176,10 +2176,10 @@
                 "Team": "Arouca",
                 "Played": "21",
                 "Wins": "5",
-                "Draws": "6",
-                "Losses": "10",
-                "Goal Difference": "-21",
-                "Points": "21"
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-22",
+                "Points": "20"
             },
             {
                 "Position": "13",
