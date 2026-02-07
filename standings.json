@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 09:51 PM UTC",
-        "IST": "Sunday, 08 February 2026, 03:21 AM IST"
+        "UTC": "Saturday, 07 February 2026, 10:27 PM UTC",
+        "IST": "Sunday, 08 February 2026, 03:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -284,7 +284,7 @@
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "8",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "31"
             },
             {
@@ -334,7 +334,7 @@
                 "Wins": "5",
                 "Draws": "9",
                 "Losses": "9",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "24"
             },
             {
@@ -2113,16 +2113,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Vit\u00f3ria S.C.",
-                "Played": "21",
-                "Wins": "9",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "-5",
-                "Points": "31"
-            },
-            {
-                "Position": "7",
                 "Team": "Estoril",
                 "Played": "21",
                 "Wins": "8",
@@ -2132,7 +2122,7 @@
                 "Points": "30"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Moreirense",
                 "Played": "21",
                 "Wins": "9",
@@ -2142,7 +2132,7 @@
                 "Points": "30"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Famalic\u00e3o",
                 "Played": "20",
                 "Wins": "8",
@@ -2150,6 +2140,16 @@
                 "Losses": "7",
                 "Goal Difference": "5",
                 "Points": "29"
+            },
+            {
+                "Position": "9",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "21",
+                "Wins": "8",
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "-7",
+                "Points": "28"
             },
             {
                 "Position": "10",
@@ -2175,11 +2175,11 @@
                 "Position": "12",
                 "Team": "Arouca",
                 "Played": "21",
-                "Wins": "5",
+                "Wins": "6",
                 "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-22",
-                "Points": "20"
+                "Losses": "10",
+                "Goal Difference": "-20",
+                "Points": "23"
             },
             {
                 "Position": "13",

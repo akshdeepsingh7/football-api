@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 February 2026, 09:51 PM UTC (Sunday, 08 February 2026, 03:21 AM IST)
+**Last Updated:** Saturday, 07 February 2026, 10:27 PM UTC (Sunday, 08 February 2026, 03:57 AM IST)
 
 ### Premier League
 
@@ -79,12 +79,12 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Real Betis | 22 | 9 | 8 | 5 | 8 | 35 |
 | 6 | Espanyol | 22 | 10 | 4 | 8 | -1 | 34 |
 | 7 | Celta de Vigo | 23 | 8 | 9 | 6 | 5 | 33 |
-| 8 | Real Sociedad | 23 | 8 | 7 | 8 | 1 | 31 |
+| 8 | Real Sociedad | 23 | 8 | 7 | 8 | 2 | 31 |
 | 9 | Osasuna | 23 | 8 | 5 | 10 | 0 | 29 |
 | 10 | Alavés | 22 | 7 | 4 | 11 | -7 | 25 |
 | 11 | Athletic Bilbao | 22 | 7 | 4 | 11 | -10 | 25 |
 | 12 | Girona | 22 | 6 | 7 | 9 | -15 | 25 |
-| 13 | Elche | 23 | 5 | 9 | 9 | -3 | 24 |
+| 13 | Elche | 23 | 5 | 9 | 9 | -4 | 24 |
 | 14 | Sevilla | 22 | 7 | 3 | 12 | -8 | 24 |
 | 15 | Mallorca | 23 | 6 | 6 | 11 | -9 | 24 |
 | 16 | Valencia | 22 | 5 | 8 | 9 | -12 | 23 |
@@ -296,13 +296,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 20 | 13 | 7 | 0 | 31 | 46 |
 | 4 | Gil Vicente | 21 | 10 | 7 | 4 | 14 | 37 |
 | 5 | Braga | 20 | 10 | 6 | 4 | 23 | 36 |
-| 6 | Vitória S.C. | 21 | 9 | 4 | 8 | -5 | 31 |
-| 7 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
-| 8 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
-| 9 | Famalicão | 20 | 8 | 5 | 7 | 5 | 29 |
+| 6 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
+| 7 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
+| 8 | Famalicão | 20 | 8 | 5 | 7 | 5 | 29 |
+| 9 | Vitória S.C. | 21 | 8 | 4 | 9 | -7 | 28 |
 | 10 | Alverca | 20 | 7 | 3 | 10 | -14 | 24 |
 | 11 | Estrela Amadora | 21 | 5 | 8 | 8 | -12 | 23 |
-| 12 | Arouca | 21 | 5 | 5 | 11 | -22 | 20 |
+| 12 | Arouca | 21 | 6 | 5 | 10 | -20 | 23 |
 | 13 | Nacional | 20 | 5 | 5 | 10 | -3 | 20 |
 | 14 | Rio Ave | 20 | 4 | 8 | 8 | -16 | 20 |
 | 15 | Casa Pia | 20 | 4 | 6 | 10 | -17 | 18 |
