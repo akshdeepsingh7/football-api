@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 February 2026, 06:36 PM UTC",
-        "IST": "Sunday, 08 February 2026, 12:06 AM IST"
+        "UTC": "Saturday, 07 February 2026, 07:24 PM UTC",
+        "IST": "Sunday, 08 February 2026, 12:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -615,11 +615,11 @@
                 "Position": "3",
                 "Team": "Napoli",
                 "Played": "24",
-                "Wins": "14",
-                "Draws": "5",
+                "Wins": "15",
+                "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "12",
-                "Points": "47"
+                "Goal Difference": "13",
+                "Points": "49"
             },
             {
                 "Position": "4",
@@ -723,16 +723,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Genoa",
-                "Played": "24",
-                "Wins": "5",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-7",
-                "Points": "24"
-            },
-            {
-                "Position": "15",
                 "Team": "Cremonese",
                 "Played": "23",
                 "Wins": "5",
@@ -742,13 +732,23 @@
                 "Points": "23"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Parma",
                 "Played": "23",
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "-15",
+                "Points": "23"
+            },
+            {
+                "Position": "16",
+                "Team": "Genoa",
+                "Played": "24",
+                "Wins": "5",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-8",
                 "Points": "23"
             },
             {
@@ -878,10 +878,10 @@
                 "Team": "Lorient",
                 "Played": "21",
                 "Wins": "7",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "-4",
-                "Points": "29"
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "-5",
+                "Points": "28"
             },
             {
                 "Position": "10",
@@ -907,11 +907,11 @@
                 "Position": "12",
                 "Team": "Brest",
                 "Played": "21",
-                "Wins": "6",
-                "Draws": "6",
+                "Wins": "7",
+                "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "-7",
-                "Points": "24"
+                "Goal Difference": "-6",
+                "Points": "26"
             },
             {
                 "Position": "13",
