@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 05:53 PM UTC",
-        "IST": "Sunday, 08 February 2026, 11:23 PM IST"
+        "UTC": "Sunday, 08 February 2026, 06:38 PM UTC",
+        "IST": "Monday, 09 February 2026, 12:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -19,11 +19,11 @@
                 "Position": "2",
                 "Team": "Manchester City",
                 "Played": "25",
-                "Wins": "14",
-                "Draws": "6",
+                "Wins": "15",
+                "Draws": "5",
                 "Losses": "5",
-                "Goal Difference": "26",
-                "Points": "48"
+                "Goal Difference": "27",
+                "Points": "50"
             },
             {
                 "Position": "3",
@@ -60,10 +60,10 @@
                 "Team": "Liverpool FC",
                 "Played": "25",
                 "Wins": "11",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "6",
-                "Points": "40"
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "5",
+                "Points": "39"
             },
             {
                 "Position": "7",
@@ -232,10 +232,10 @@
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "23",
                 "Wins": "13",
-                "Draws": "7",
-                "Losses": "3",
-                "Goal Difference": "21",
-                "Points": "46"
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "20",
+                "Points": "45"
             },
             {
                 "Position": "4",
@@ -251,11 +251,11 @@
                 "Position": "5",
                 "Team": "Real Betis",
                 "Played": "23",
-                "Wins": "9",
-                "Draws": "9",
+                "Wins": "10",
+                "Draws": "8",
                 "Losses": "5",
-                "Goal Difference": "8",
-                "Points": "36"
+                "Goal Difference": "9",
+                "Points": "38"
             },
             {
                 "Position": "6",
@@ -416,7 +416,7 @@
                 "Wins": "17",
                 "Draws": "3",
                 "Losses": "1",
-                "Goal Difference": "58",
+                "Goal Difference": "60",
                 "Points": "54"
             },
             {
@@ -436,7 +436,7 @@
                 "Wins": "13",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "18",
+                "Goal Difference": "16",
                 "Points": "42"
             },
             {
@@ -598,7 +598,7 @@
                 "Wins": "19",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "35",
+                "Goal Difference": "37",
                 "Points": "58"
             },
             {
@@ -698,7 +698,7 @@
                 "Wins": "8",
                 "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-4",
+                "Goal Difference": "-6",
                 "Points": "29"
             },
             {
@@ -845,16 +845,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Toulouse",
-                "Played": "21",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "8",
-                "Points": "31"
-            },
-            {
-                "Position": "7",
                 "Team": "Rennes",
                 "Played": "21",
                 "Wins": "8",
@@ -864,7 +854,7 @@
                 "Points": "31"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Strasbourg",
                 "Played": "21",
                 "Wins": "9",
@@ -874,7 +864,27 @@
                 "Points": "30"
             },
             {
+                "Position": "8",
+                "Team": "Toulouse",
+                "Played": "21",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "7",
+                "Points": "30"
+            },
+            {
                 "Position": "9",
+                "Team": "Angers",
+                "Played": "21",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "-3",
+                "Points": "29"
+            },
+            {
+                "Position": "10",
                 "Team": "Monaco",
                 "Played": "21",
                 "Wins": "8",
@@ -884,7 +894,7 @@
                 "Points": "28"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Lorient",
                 "Played": "21",
                 "Wins": "7",
@@ -892,16 +902,6 @@
                 "Losses": "7",
                 "Goal Difference": "-6",
                 "Points": "28"
-            },
-            {
-                "Position": "11",
-                "Team": "Angers",
-                "Played": "21",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "-4",
-                "Points": "27"
             },
             {
                 "Position": "12",
@@ -2093,6 +2093,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Braga",
+                "Played": "21",
+                "Wins": "11",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "24",
+                "Points": "39"
+            },
+            {
+                "Position": "5",
                 "Team": "Gil Vicente",
                 "Played": "21",
                 "Wins": "10",
@@ -2100,16 +2110,6 @@
                 "Losses": "4",
                 "Goal Difference": "14",
                 "Points": "37"
-            },
-            {
-                "Position": "5",
-                "Team": "Braga",
-                "Played": "20",
-                "Wins": "10",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "23",
-                "Points": "36"
             },
             {
                 "Position": "6",
@@ -2194,11 +2194,11 @@
             {
                 "Position": "14",
                 "Team": "Rio Ave",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "4",
                 "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "-16",
+                "Losses": "9",
+                "Goal Difference": "-17",
                 "Points": "20"
             },
             {
