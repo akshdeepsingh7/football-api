@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 07:26 PM UTC",
-        "IST": "Monday, 09 February 2026, 12:56 AM IST"
+        "UTC": "Sunday, 08 February 2026, 07:46 PM UTC",
+        "IST": "Monday, 09 February 2026, 01:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -624,12 +624,12 @@
             {
                 "Position": "4",
                 "Team": "Juventus",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "13",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "4",
                 "Goal Difference": "21",
-                "Points": "45"
+                "Points": "46"
             },
             {
                 "Position": "5",
@@ -664,12 +664,12 @@
             {
                 "Position": "8",
                 "Team": "Lazio",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "8",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "3",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "9",
@@ -795,6 +795,16 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "PSG",
+                "Played": "21",
+                "Wins": "15",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "27",
+                "Points": "49"
+            },
+            {
+                "Position": "2",
                 "Team": "Lens",
                 "Played": "21",
                 "Wins": "16",
@@ -802,16 +812,6 @@
                 "Losses": "4",
                 "Goal Difference": "20",
                 "Points": "49"
-            },
-            {
-                "Position": "2",
-                "Team": "PSG",
-                "Played": "20",
-                "Wins": "15",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "27",
-                "Points": "48"
             },
             {
                 "Position": "3",
@@ -826,12 +826,12 @@
             {
                 "Position": "4",
                 "Team": "Marseille",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "12",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "24",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "5",
@@ -2098,7 +2098,7 @@
                 "Wins": "11",
                 "Draws": "6",
                 "Losses": "4",
-                "Goal Difference": "24",
+                "Goal Difference": "25",
                 "Points": "39"
             },
             {
@@ -2198,7 +2198,7 @@
                 "Wins": "4",
                 "Draws": "8",
                 "Losses": "9",
-                "Goal Difference": "-17",
+                "Goal Difference": "-18",
                 "Points": "20"
             },
             {
