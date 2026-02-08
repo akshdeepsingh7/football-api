@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 05:27 PM UTC",
-        "IST": "Sunday, 08 February 2026, 10:57 PM IST"
+        "UTC": "Sunday, 08 February 2026, 05:53 PM UTC",
+        "IST": "Sunday, 08 February 2026, 11:23 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -230,12 +230,12 @@
             {
                 "Position": "3",
                 "Team": "Atl\u00e9tico de Madrid",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "13",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "3",
                 "Goal Difference": "21",
-                "Points": "45"
+                "Points": "46"
             },
             {
                 "Position": "4",
@@ -250,12 +250,12 @@
             {
                 "Position": "5",
                 "Team": "Real Betis",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "9",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "5",
                 "Goal Difference": "8",
-                "Points": "35"
+                "Points": "36"
             },
             {
                 "Position": "6",
@@ -598,7 +598,7 @@
                 "Wins": "19",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "34",
+                "Goal Difference": "35",
                 "Points": "58"
             },
             {
@@ -698,7 +698,7 @@
                 "Wins": "8",
                 "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "29"
             },
             {
@@ -845,16 +845,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Strasbourg",
-                "Played": "21",
-                "Wins": "9",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "8",
-                "Points": "31"
-            },
-            {
-                "Position": "7",
                 "Team": "Toulouse",
                 "Played": "21",
                 "Wins": "8",
@@ -864,7 +854,7 @@
                 "Points": "31"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Rennes",
                 "Played": "21",
                 "Wins": "8",
@@ -872,6 +862,16 @@
                 "Losses": "6",
                 "Goal Difference": "-3",
                 "Points": "31"
+            },
+            {
+                "Position": "8",
+                "Team": "Strasbourg",
+                "Played": "21",
+                "Wins": "9",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "7",
+                "Points": "30"
             },
             {
                 "Position": "9",
@@ -915,6 +915,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Le Havre",
+                "Played": "21",
+                "Wins": "5",
+                "Draws": "8",
+                "Losses": "8",
+                "Goal Difference": "-8",
+                "Points": "23"
+            },
+            {
+                "Position": "14",
                 "Team": "Nice",
                 "Played": "21",
                 "Wins": "6",
@@ -924,7 +934,7 @@
                 "Points": "23"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Paris FC",
                 "Played": "21",
                 "Wins": "5",
@@ -932,16 +942,6 @@
                 "Losses": "9",
                 "Goal Difference": "-8",
                 "Points": "22"
-            },
-            {
-                "Position": "15",
-                "Team": "Le Havre",
-                "Played": "21",
-                "Wins": "4",
-                "Draws": "9",
-                "Losses": "8",
-                "Goal Difference": "-9",
-                "Points": "21"
             },
             {
                 "Position": "16",

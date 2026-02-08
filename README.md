@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 February 2026, 05:27 PM UTC (Sunday, 08 February 2026, 10:57 PM IST)
+**Last Updated:** Sunday, 08 February 2026, 05:53 PM UTC (Sunday, 08 February 2026, 11:23 PM IST)
 
 ### Premier League
 
@@ -74,9 +74,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 23 | 19 | 1 | 3 | 40 | 58 |
 | 2 | Real Madrid | 22 | 17 | 3 | 2 | 29 | 54 |
-| 3 | Atlético de Madrid | 22 | 13 | 6 | 3 | 21 | 45 |
+| 3 | Atlético de Madrid | 23 | 13 | 7 | 3 | 21 | 46 |
 | 4 | Villarreal | 21 | 13 | 3 | 5 | 16 | 42 |
-| 5 | Real Betis | 22 | 9 | 8 | 5 | 8 | 35 |
+| 5 | Real Betis | 23 | 9 | 9 | 5 | 8 | 36 |
 | 6 | Espanyol | 22 | 10 | 4 | 8 | -1 | 34 |
 | 7 | Celta de Vigo | 23 | 8 | 9 | 6 | 5 | 33 |
 | 8 | Real Sociedad | 23 | 8 | 7 | 8 | 2 | 31 |
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 24 | 19 | 1 | 4 | 34 | 58 |
+| 1 | Inter | 24 | 19 | 1 | 4 | 35 | 58 |
 | 2 | Milan | 23 | 14 | 8 | 1 | 21 | 50 |
 | 3 | Napoli | 24 | 15 | 4 | 5 | 13 | 49 |
 | 4 | Juventus | 23 | 13 | 6 | 4 | 21 | 45 |
@@ -130,7 +130,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Lazio | 23 | 8 | 8 | 7 | 3 | 32 |
 | 9 | Udinese | 24 | 9 | 5 | 10 | -9 | 32 |
 | 10 | Bologna | 24 | 8 | 6 | 10 | 1 | 30 |
-| 11 | Sassuolo | 24 | 8 | 5 | 11 | -3 | 29 |
+| 11 | Sassuolo | 24 | 8 | 5 | 11 | -4 | 29 |
 | 12 | Cagliari | 23 | 7 | 7 | 9 | -3 | 28 |
 | 13 | Torino | 24 | 7 | 6 | 11 | -18 | 27 |
 | 14 | Parma | 24 | 6 | 8 | 10 | -14 | 26 |
@@ -150,16 +150,16 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Lyon | 21 | 13 | 3 | 5 | 14 | 42 |
 | 4 | Marseille | 20 | 12 | 3 | 5 | 24 | 39 |
 | 5 | Lille | 21 | 10 | 3 | 8 | 4 | 33 |
-| 6 | Strasbourg | 21 | 9 | 4 | 8 | 8 | 31 |
-| 7 | Toulouse | 21 | 8 | 7 | 6 | 8 | 31 |
-| 8 | Rennes | 21 | 8 | 7 | 6 | -3 | 31 |
+| 6 | Toulouse | 21 | 8 | 7 | 6 | 8 | 31 |
+| 7 | Rennes | 21 | 8 | 7 | 6 | -3 | 31 |
+| 8 | Strasbourg | 21 | 9 | 3 | 9 | 7 | 30 |
 | 9 | Monaco | 21 | 8 | 4 | 9 | -1 | 28 |
 | 10 | Lorient | 21 | 7 | 7 | 7 | -6 | 28 |
 | 11 | Angers | 21 | 7 | 6 | 8 | -4 | 27 |
 | 12 | Brest | 21 | 7 | 5 | 9 | -5 | 26 |
-| 13 | Nice | 21 | 6 | 5 | 10 | -11 | 23 |
-| 14 | Paris FC | 21 | 5 | 7 | 9 | -8 | 22 |
-| 15 | Le Havre | 21 | 4 | 9 | 8 | -9 | 21 |
+| 13 | Le Havre | 21 | 5 | 8 | 8 | -8 | 23 |
+| 14 | Nice | 21 | 6 | 5 | 10 | -11 | 23 |
+| 15 | Paris FC | 21 | 5 | 7 | 9 | -8 | 22 |
 | 16 | Auxerre | 21 | 3 | 5 | 13 | -15 | 14 |
 | 17 | Nantes | 21 | 3 | 5 | 13 | -18 | 14 |
 | 18 | Metz | 21 | 3 | 4 | 14 | -25 | 13 |
