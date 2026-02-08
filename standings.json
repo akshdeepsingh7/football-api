@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 09:27 PM UTC",
-        "IST": "Monday, 09 February 2026, 02:57 AM IST"
+        "UTC": "Sunday, 08 February 2026, 09:52 PM UTC",
+        "IST": "Monday, 09 February 2026, 03:22 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -224,7 +224,7 @@
                 "Wins": "18",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "30",
+                "Goal Difference": "31",
                 "Points": "57"
             },
             {
@@ -374,7 +374,7 @@
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-13",
+                "Goal Difference": "-14",
                 "Points": "23"
             },
             {
@@ -626,10 +626,10 @@
                 "Team": "Juventus",
                 "Played": "24",
                 "Wins": "13",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "20",
-                "Points": "45"
+                "Draws": "7",
+                "Losses": "4",
+                "Goal Difference": "21",
+                "Points": "46"
             },
             {
                 "Position": "5",
@@ -665,11 +665,11 @@
                 "Position": "8",
                 "Team": "Lazio",
                 "Played": "24",
-                "Wins": "9",
-                "Draws": "8",
+                "Wins": "8",
+                "Draws": "9",
                 "Losses": "7",
-                "Goal Difference": "4",
-                "Points": "35"
+                "Goal Difference": "3",
+                "Points": "33"
             },
             {
                 "Position": "9",
