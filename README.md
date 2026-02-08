@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 February 2026, 11:46 AM UTC (Sunday, 08 February 2026, 05:16 PM IST)
+**Last Updated:** Sunday, 08 February 2026, 12:54 PM UTC (Sunday, 08 February 2026, 06:24 PM IST)
 
 ### Premier League
 
@@ -328,8 +328,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Queens Park Rangers | 31 | 12 | 8 | 11 | -1 | 44 |
 | 13 | Stoke City | 31 | 12 | 7 | 12 | 6 | 43 |
 | 14 | Southampton | 31 | 11 | 10 | 10 | 3 | 43 |
-| 15 | Sheffield United | 30 | 12 | 3 | 15 | 0 | 39 |
-| 16 | Swansea City | 30 | 11 | 6 | 13 | -3 | 39 |
+| 15 | Swansea City | 31 | 12 | 6 | 13 | -2 | 42 |
+| 16 | Sheffield United | 30 | 12 | 3 | 15 | 0 | 39 |
 | 17 | Norwich City | 31 | 10 | 6 | 15 | -3 | 36 |
 | 18 | Charlton Athletic | 30 | 9 | 9 | 12 | -9 | 36 |
 | 19 | Portsmouth | 29 | 8 | 9 | 12 | -11 | 33 |
@@ -337,7 +337,7 @@ The latest league standings are displayed below in Markdown tables:
 | 21 | Leicester City | 31 | 10 | 8 | 13 | -6 | 32 |
 | 22 | Blackburn Rovers | 31 | 8 | 8 | 15 | -13 | 32 |
 | 23 | Oxford United | 31 | 6 | 10 | 15 | -13 | 28 |
-| 24 | Sheffield Wednesday | 30 | 1 | 8 | 21 | -40 | -7 |
+| 24 | Sheffield Wednesday | 31 | 1 | 8 | 22 | -41 | -7 |
 
 ### Major League Soccer (MLS)
 

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 11:46 AM UTC",
-        "IST": "Sunday, 08 February 2026, 05:16 PM IST"
+        "UTC": "Sunday, 08 February 2026, 12:54 PM UTC",
+        "IST": "Sunday, 08 February 2026, 06:24 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2385,22 +2385,22 @@
             },
             {
                 "Position": "15",
+                "Team": "Swansea City",
+                "Played": "31",
+                "Wins": "12",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-2",
+                "Points": "42"
+            },
+            {
+                "Position": "16",
                 "Team": "Sheffield United",
                 "Played": "30",
                 "Wins": "12",
                 "Draws": "3",
                 "Losses": "15",
                 "Goal Difference": "0",
-                "Points": "39"
-            },
-            {
-                "Position": "16",
-                "Team": "Swansea City",
-                "Played": "30",
-                "Wins": "11",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-3",
                 "Points": "39"
             },
             {
@@ -2476,11 +2476,11 @@
             {
                 "Position": "24",
                 "Team": "Sheffield Wednesday",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "1",
                 "Draws": "8",
-                "Losses": "21",
-                "Goal Difference": "-40",
+                "Losses": "22",
+                "Goal Difference": "-41",
                 "Points": "-7"
             }
         ],
