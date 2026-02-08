@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 11:26 AM UTC",
-        "IST": "Sunday, 08 February 2026, 04:56 PM IST"
+        "UTC": "Sunday, 08 February 2026, 11:46 AM UTC",
+        "IST": "Sunday, 08 February 2026, 05:16 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -684,12 +684,12 @@
             {
                 "Position": "10",
                 "Team": "Bologna",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "8",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "2",
-                "Points": "30"
+                "Points": "31"
             },
             {
                 "Position": "11",
@@ -723,22 +723,22 @@
             },
             {
                 "Position": "14",
+                "Team": "Parma",
+                "Played": "24",
+                "Wins": "5",
+                "Draws": "9",
+                "Losses": "10",
+                "Goal Difference": "-15",
+                "Points": "24"
+            },
+            {
+                "Position": "15",
                 "Team": "Cremonese",
                 "Played": "23",
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "-11",
-                "Points": "23"
-            },
-            {
-                "Position": "15",
-                "Team": "Parma",
-                "Played": "23",
-                "Wins": "5",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-15",
                 "Points": "23"
             },
             {

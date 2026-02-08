@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 February 2026, 11:26 AM UTC (Sunday, 08 February 2026, 04:56 PM IST)
+**Last Updated:** Sunday, 08 February 2026, 11:46 AM UTC (Sunday, 08 February 2026, 05:16 PM IST)
 
 ### Premier League
 
@@ -129,12 +129,12 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Atalanta | 23 | 9 | 9 | 5 | 10 | 36 |
 | 8 | Lazio | 23 | 8 | 8 | 7 | 3 | 32 |
 | 9 | Udinese | 23 | 9 | 5 | 9 | -8 | 32 |
-| 10 | Bologna | 23 | 8 | 6 | 9 | 2 | 30 |
+| 10 | Bologna | 24 | 8 | 7 | 9 | 2 | 31 |
 | 11 | Sassuolo | 23 | 8 | 5 | 10 | -2 | 29 |
 | 12 | Cagliari | 23 | 7 | 7 | 9 | -3 | 28 |
 | 13 | Torino | 24 | 7 | 6 | 11 | -18 | 27 |
-| 14 | Cremonese | 23 | 5 | 8 | 10 | -11 | 23 |
-| 15 | Parma | 23 | 5 | 8 | 10 | -15 | 23 |
+| 14 | Parma | 24 | 5 | 9 | 10 | -15 | 24 |
+| 15 | Cremonese | 23 | 5 | 8 | 10 | -11 | 23 |
 | 16 | Genoa | 24 | 5 | 8 | 11 | -8 | 23 |
 | 17 | Lecce | 23 | 4 | 6 | 13 | -17 | 18 |
 | 18 | Fiorentina | 24 | 3 | 9 | 12 | -11 | 18 |
