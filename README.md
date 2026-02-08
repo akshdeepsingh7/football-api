@@ -41,18 +41,18 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 February 2026, 03:52 PM UTC (Sunday, 08 February 2026, 09:22 PM IST)
+**Last Updated:** Sunday, 08 February 2026, 04:32 PM UTC (Sunday, 08 February 2026, 10:02 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 25 | 17 | 5 | 3 | 32 | 56 |
-| 2 | Manchester City | 24 | 14 | 5 | 5 | 26 | 47 |
+| 2 | Manchester City | 25 | 14 | 6 | 5 | 26 | 48 |
 | 3 | Aston Villa | 25 | 14 | 5 | 6 | 9 | 47 |
 | 4 | Manchester United | 25 | 12 | 8 | 5 | 10 | 44 |
 | 5 | Chelsea | 25 | 12 | 7 | 6 | 17 | 43 |
-| 6 | Liverpool FC | 24 | 11 | 6 | 7 | 6 | 39 |
+| 6 | Liverpool FC | 25 | 11 | 7 | 7 | 6 | 40 |
 | 7 | Brentford | 25 | 12 | 3 | 10 | 5 | 39 |
 | 8 | Everton | 25 | 10 | 7 | 8 | 0 | 37 |
 | 9 | Sunderland | 25 | 9 | 9 | 7 | -2 | 36 |
@@ -97,9 +97,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 20 | 16 | 3 | 1 | 56 | 51 |
+| 1 | Bayern Munich | 21 | 16 | 4 | 1 | 56 | 52 |
 | 2 | Borussia Dortmund | 21 | 14 | 6 | 1 | 23 | 48 |
-| 3 | Hoffenheim | 20 | 13 | 3 | 4 | 20 | 42 |
+| 3 | Hoffenheim | 21 | 13 | 4 | 4 | 20 | 43 |
 | 4 | RB Leipzig | 21 | 12 | 3 | 6 | 12 | 39 |
 | 5 | VfB Stuttgart | 21 | 12 | 3 | 6 | 10 | 39 |
 | 6 | Bayer Leverkusen | 20 | 11 | 3 | 6 | 12 | 36 |
@@ -150,18 +150,18 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Lyon | 21 | 13 | 3 | 5 | 14 | 42 |
 | 4 | Marseille | 20 | 12 | 3 | 5 | 24 | 39 |
 | 5 | Lille | 21 | 10 | 3 | 8 | 4 | 33 |
-| 6 | Rennes | 21 | 8 | 7 | 6 | -3 | 31 |
-| 7 | Strasbourg | 20 | 9 | 3 | 8 | 8 | 30 |
-| 8 | Toulouse | 20 | 8 | 6 | 6 | 8 | 30 |
+| 6 | Strasbourg | 21 | 9 | 4 | 8 | 8 | 31 |
+| 7 | Toulouse | 21 | 8 | 7 | 6 | 8 | 31 |
+| 8 | Rennes | 21 | 8 | 7 | 6 | -3 | 31 |
 | 9 | Monaco | 21 | 8 | 4 | 9 | -1 | 28 |
 | 10 | Lorient | 21 | 7 | 7 | 7 | -6 | 28 |
-| 11 | Angers | 20 | 7 | 5 | 8 | -4 | 26 |
+| 11 | Angers | 21 | 7 | 6 | 8 | -4 | 27 |
 | 12 | Brest | 21 | 7 | 5 | 9 | -5 | 26 |
 | 13 | Nice | 21 | 6 | 5 | 10 | -11 | 23 |
-| 14 | Paris FC | 20 | 5 | 6 | 9 | -8 | 21 |
-| 15 | Le Havre | 20 | 4 | 8 | 8 | -9 | 20 |
-| 16 | Nantes | 21 | 3 | 5 | 13 | -18 | 14 |
-| 17 | Auxerre | 20 | 3 | 4 | 13 | -15 | 13 |
+| 14 | Paris FC | 21 | 5 | 7 | 9 | -8 | 22 |
+| 15 | Le Havre | 21 | 4 | 9 | 8 | -9 | 21 |
+| 16 | Auxerre | 21 | 3 | 5 | 13 | -15 | 14 |
+| 17 | Nantes | 21 | 3 | 5 | 13 | -18 | 14 |
 | 18 | Metz | 21 | 3 | 4 | 14 | -25 | 13 |
 
 ### Champions League
