@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 07:46 PM UTC",
-        "IST": "Monday, 09 February 2026, 01:16 AM IST"
+        "UTC": "Sunday, 08 February 2026, 08:29 PM UTC",
+        "IST": "Monday, 09 February 2026, 01:59 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,12 +220,12 @@
             {
                 "Position": "2",
                 "Team": "Real Madrid",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "17",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "29",
-                "Points": "54"
+                "Points": "55"
             },
             {
                 "Position": "3",
@@ -370,12 +370,12 @@
             {
                 "Position": "17",
                 "Team": "Valencia",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "5",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "9",
                 "Goal Difference": "-12",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "18",
@@ -797,11 +797,11 @@
                 "Position": "1",
                 "Team": "PSG",
                 "Played": "21",
-                "Wins": "15",
-                "Draws": "4",
+                "Wins": "16",
+                "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "27",
-                "Points": "49"
+                "Goal Difference": "29",
+                "Points": "51"
             },
             {
                 "Position": "2",
@@ -828,10 +828,10 @@
                 "Team": "Marseille",
                 "Played": "21",
                 "Wins": "12",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "24",
-                "Points": "40"
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "22",
+                "Points": "39"
             },
             {
                 "Position": "5",
@@ -2098,7 +2098,7 @@
                 "Wins": "11",
                 "Draws": "6",
                 "Losses": "4",
-                "Goal Difference": "25",
+                "Goal Difference": "26",
                 "Points": "39"
             },
             {
@@ -2198,7 +2198,7 @@
                 "Wins": "4",
                 "Draws": "8",
                 "Losses": "9",
-                "Goal Difference": "-18",
+                "Goal Difference": "-19",
                 "Points": "20"
             },
             {
