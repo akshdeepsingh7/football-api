@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 03:30 PM UTC",
-        "IST": "Sunday, 08 February 2026, 09:00 PM IST"
+        "UTC": "Sunday, 08 February 2026, 03:52 PM UTC",
+        "IST": "Sunday, 08 February 2026, 09:22 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Athletic Bilbao",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "4",
+                "Losses": "11",
+                "Goal Difference": "-8",
+                "Points": "28"
+            },
+            {
+                "Position": "11",
                 "Team": "Girona",
                 "Played": "23",
                 "Wins": "7",
@@ -308,23 +318,13 @@
                 "Points": "28"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Getafe",
                 "Played": "23",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "11",
                 "Goal Difference": "-9",
-                "Points": "26"
-            },
-            {
-                "Position": "12",
-                "Team": "Athletic Bilbao",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-10",
                 "Points": "26"
             },
             {
@@ -392,10 +392,10 @@
                 "Team": "Levante",
                 "Played": "22",
                 "Wins": "4",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-10",
-                "Points": "19"
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-12",
+                "Points": "18"
             },
             {
                 "Position": "20",
@@ -663,22 +663,22 @@
             },
             {
                 "Position": "8",
-                "Team": "Udinese",
-                "Played": "24",
-                "Wins": "9",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-8",
-                "Points": "33"
-            },
-            {
-                "Position": "9",
                 "Team": "Lazio",
                 "Played": "23",
                 "Wins": "8",
                 "Draws": "8",
                 "Losses": "7",
                 "Goal Difference": "3",
+                "Points": "32"
+            },
+            {
+                "Position": "9",
+                "Team": "Udinese",
+                "Played": "24",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-9",
                 "Points": "32"
             },
             {
@@ -755,11 +755,11 @@
                 "Position": "17",
                 "Team": "Lecce",
                 "Played": "24",
-                "Wins": "4",
-                "Draws": "7",
+                "Wins": "5",
+                "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "-17",
-                "Points": "19"
+                "Goal Difference": "-16",
+                "Points": "21"
             },
             {
                 "Position": "18",
@@ -2184,12 +2184,12 @@
             {
                 "Position": "13",
                 "Team": "Nacional",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "5",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "10",
                 "Goal Difference": "-3",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "14",
@@ -2204,12 +2204,12 @@
             {
                 "Position": "15",
                 "Team": "Casa Pia",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "4",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "10",
                 "Goal Difference": "-17",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "16",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 February 2026, 03:30 PM UTC (Sunday, 08 February 2026, 09:00 PM IST)
+**Last Updated:** Sunday, 08 February 2026, 03:52 PM UTC (Sunday, 08 February 2026, 09:22 PM IST)
 
 ### Premier League
 
@@ -81,16 +81,16 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Celta de Vigo | 23 | 8 | 9 | 6 | 5 | 33 |
 | 8 | Real Sociedad | 23 | 8 | 7 | 8 | 2 | 31 |
 | 9 | Osasuna | 23 | 8 | 5 | 10 | 0 | 29 |
-| 10 | Girona | 23 | 7 | 7 | 9 | -14 | 28 |
-| 11 | Getafe | 23 | 7 | 5 | 11 | -9 | 26 |
-| 12 | Athletic Bilbao | 23 | 7 | 5 | 11 | -10 | 26 |
+| 10 | Athletic Bilbao | 23 | 8 | 4 | 11 | -8 | 28 |
+| 11 | Girona | 23 | 7 | 7 | 9 | -14 | 28 |
+| 12 | Getafe | 23 | 7 | 5 | 11 | -9 | 26 |
 | 13 | Alavés | 23 | 7 | 4 | 12 | -9 | 25 |
 | 14 | Elche | 23 | 5 | 9 | 9 | -4 | 24 |
 | 15 | Sevilla | 23 | 7 | 3 | 13 | -9 | 24 |
 | 16 | Mallorca | 23 | 6 | 6 | 11 | -9 | 24 |
 | 17 | Valencia | 22 | 5 | 8 | 9 | -12 | 23 |
 | 18 | Rayo Vallecano | 22 | 5 | 7 | 10 | -12 | 22 |
-| 19 | Levante | 22 | 4 | 7 | 11 | -10 | 19 |
+| 19 | Levante | 22 | 4 | 6 | 12 | -12 | 18 |
 | 20 | Real Oviedo | 22 | 3 | 7 | 12 | -22 | 16 |
 
 ### Bundesliga
@@ -127,8 +127,8 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Roma | 23 | 14 | 1 | 8 | 13 | 43 |
 | 6 | Como | 23 | 11 | 8 | 4 | 21 | 41 |
 | 7 | Atalanta | 23 | 9 | 9 | 5 | 10 | 36 |
-| 8 | Udinese | 24 | 9 | 6 | 9 | -8 | 33 |
-| 9 | Lazio | 23 | 8 | 8 | 7 | 3 | 32 |
+| 8 | Lazio | 23 | 8 | 8 | 7 | 3 | 32 |
+| 9 | Udinese | 24 | 9 | 5 | 10 | -9 | 32 |
 | 10 | Bologna | 24 | 8 | 6 | 10 | 1 | 30 |
 | 11 | Sassuolo | 23 | 8 | 5 | 10 | -2 | 29 |
 | 12 | Cagliari | 23 | 7 | 7 | 9 | -3 | 28 |
@@ -136,7 +136,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Parma | 24 | 6 | 8 | 10 | -14 | 26 |
 | 15 | Cremonese | 23 | 5 | 8 | 10 | -11 | 23 |
 | 16 | Genoa | 24 | 5 | 8 | 11 | -8 | 23 |
-| 17 | Lecce | 24 | 4 | 7 | 13 | -17 | 19 |
+| 17 | Lecce | 24 | 5 | 6 | 13 | -16 | 21 |
 | 18 | Fiorentina | 24 | 3 | 9 | 12 | -11 | 18 |
 | 19 | Pisa | 24 | 1 | 12 | 11 | -21 | 15 |
 | 20 | Hellas Verona | 24 | 2 | 9 | 13 | -23 | 15 |
@@ -303,9 +303,9 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Alverca | 20 | 7 | 3 | 10 | -14 | 24 |
 | 11 | Estrela Amadora | 21 | 5 | 8 | 8 | -12 | 23 |
 | 12 | Arouca | 21 | 6 | 5 | 10 | -20 | 23 |
-| 13 | Nacional | 20 | 5 | 5 | 10 | -3 | 20 |
+| 13 | Nacional | 21 | 5 | 6 | 10 | -3 | 21 |
 | 14 | Rio Ave | 20 | 4 | 8 | 8 | -16 | 20 |
-| 15 | Casa Pia | 20 | 4 | 6 | 10 | -17 | 18 |
+| 15 | Casa Pia | 21 | 4 | 7 | 10 | -17 | 19 |
 | 16 | Santa Clara | 21 | 4 | 5 | 12 | -10 | 17 |
 | 17 | Tondela | 21 | 3 | 5 | 13 | -21 | 14 |
 | 18 | AVS | 20 | 0 | 5 | 15 | -37 | 5 |
