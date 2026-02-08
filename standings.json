@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 08:29 PM UTC",
-        "IST": "Monday, 09 February 2026, 01:59 AM IST"
+        "UTC": "Sunday, 08 February 2026, 08:55 PM UTC",
+        "IST": "Monday, 09 February 2026, 02:25 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -626,10 +626,10 @@
                 "Team": "Juventus",
                 "Played": "24",
                 "Wins": "13",
-                "Draws": "7",
-                "Losses": "4",
-                "Goal Difference": "21",
-                "Points": "46"
+                "Draws": "6",
+                "Losses": "5",
+                "Goal Difference": "19",
+                "Points": "45"
             },
             {
                 "Position": "5",
@@ -665,11 +665,11 @@
                 "Position": "8",
                 "Team": "Lazio",
                 "Played": "24",
-                "Wins": "8",
-                "Draws": "9",
+                "Wins": "9",
+                "Draws": "8",
                 "Losses": "7",
-                "Goal Difference": "3",
-                "Points": "33"
+                "Goal Difference": "5",
+                "Points": "35"
             },
             {
                 "Position": "9",
@@ -2084,12 +2084,12 @@
             {
                 "Position": "3",
                 "Team": "Benfica",
-                "Played": "20",
-                "Wins": "13",
+                "Played": "21",
+                "Wins": "14",
                 "Draws": "7",
                 "Losses": "0",
-                "Goal Difference": "31",
-                "Points": "46"
+                "Goal Difference": "32",
+                "Points": "49"
             },
             {
                 "Position": "4",
@@ -2154,11 +2154,11 @@
             {
                 "Position": "10",
                 "Team": "Alverca",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "7",
                 "Draws": "3",
-                "Losses": "10",
-                "Goal Difference": "-14",
+                "Losses": "11",
+                "Goal Difference": "-15",
                 "Points": "24"
             },
             {
