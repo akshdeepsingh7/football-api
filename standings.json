@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 04:32 PM UTC",
-        "IST": "Sunday, 08 February 2026, 10:02 PM IST"
+        "UTC": "Sunday, 08 February 2026, 05:27 PM UTC",
+        "IST": "Sunday, 08 February 2026, 10:57 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -309,16 +309,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Girona",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-14",
-                "Points": "28"
-            },
-            {
-                "Position": "12",
                 "Team": "Getafe",
                 "Played": "23",
                 "Wins": "7",
@@ -328,7 +318,27 @@
                 "Points": "26"
             },
             {
+                "Position": "12",
+                "Team": "Girona",
+                "Played": "23",
+                "Wins": "6",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "-15",
+                "Points": "26"
+            },
+            {
                 "Position": "13",
+                "Team": "Sevilla",
+                "Played": "23",
+                "Wins": "7",
+                "Draws": "4",
+                "Losses": "12",
+                "Goal Difference": "-8",
+                "Points": "25"
+            },
+            {
+                "Position": "14",
                 "Team": "Alav\u00e9s",
                 "Played": "23",
                 "Wins": "7",
@@ -338,23 +348,13 @@
                 "Points": "25"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Elche",
                 "Played": "23",
                 "Wins": "5",
                 "Draws": "9",
                 "Losses": "9",
                 "Goal Difference": "-4",
-                "Points": "24"
-            },
-            {
-                "Position": "15",
-                "Team": "Sevilla",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "3",
-                "Losses": "13",
-                "Goal Difference": "-9",
                 "Points": "24"
             },
             {
@@ -413,11 +413,11 @@
                 "Position": "1",
                 "Team": "Bayern Munich",
                 "Played": "21",
-                "Wins": "16",
-                "Draws": "4",
+                "Wins": "17",
+                "Draws": "3",
                 "Losses": "1",
-                "Goal Difference": "56",
-                "Points": "52"
+                "Goal Difference": "58",
+                "Points": "54"
             },
             {
                 "Position": "2",
@@ -434,10 +434,10 @@
                 "Team": "Hoffenheim",
                 "Played": "21",
                 "Wins": "13",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "20",
-                "Points": "43"
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "18",
+                "Points": "42"
             },
             {
                 "Position": "4",
@@ -594,12 +594,12 @@
             {
                 "Position": "1",
                 "Team": "Inter",
-                "Played": "23",
-                "Wins": "18",
+                "Played": "24",
+                "Wins": "19",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "33",
-                "Points": "55"
+                "Goal Difference": "34",
+                "Points": "58"
             },
             {
                 "Position": "2",
@@ -694,11 +694,11 @@
             {
                 "Position": "11",
                 "Team": "Sassuolo",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "8",
                 "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-2",
+                "Losses": "11",
+                "Goal Difference": "-3",
                 "Points": "29"
             },
             {

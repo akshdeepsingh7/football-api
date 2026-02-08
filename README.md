@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 February 2026, 04:32 PM UTC (Sunday, 08 February 2026, 10:02 PM IST)
+**Last Updated:** Sunday, 08 February 2026, 05:27 PM UTC (Sunday, 08 February 2026, 10:57 PM IST)
 
 ### Premier League
 
@@ -82,11 +82,11 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Real Sociedad | 23 | 8 | 7 | 8 | 2 | 31 |
 | 9 | Osasuna | 23 | 8 | 5 | 10 | 0 | 29 |
 | 10 | Athletic Bilbao | 23 | 8 | 4 | 11 | -8 | 28 |
-| 11 | Girona | 23 | 7 | 7 | 9 | -14 | 28 |
-| 12 | Getafe | 23 | 7 | 5 | 11 | -9 | 26 |
-| 13 | Alavés | 23 | 7 | 4 | 12 | -9 | 25 |
-| 14 | Elche | 23 | 5 | 9 | 9 | -4 | 24 |
-| 15 | Sevilla | 23 | 7 | 3 | 13 | -9 | 24 |
+| 11 | Getafe | 23 | 7 | 5 | 11 | -9 | 26 |
+| 12 | Girona | 23 | 6 | 8 | 9 | -15 | 26 |
+| 13 | Sevilla | 23 | 7 | 4 | 12 | -8 | 25 |
+| 14 | Alavés | 23 | 7 | 4 | 12 | -9 | 25 |
+| 15 | Elche | 23 | 5 | 9 | 9 | -4 | 24 |
 | 16 | Mallorca | 23 | 6 | 6 | 11 | -9 | 24 |
 | 17 | Valencia | 22 | 5 | 8 | 9 | -12 | 23 |
 | 18 | Rayo Vallecano | 22 | 5 | 7 | 10 | -12 | 22 |
@@ -97,9 +97,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 21 | 16 | 4 | 1 | 56 | 52 |
+| 1 | Bayern Munich | 21 | 17 | 3 | 1 | 58 | 54 |
 | 2 | Borussia Dortmund | 21 | 14 | 6 | 1 | 23 | 48 |
-| 3 | Hoffenheim | 21 | 13 | 4 | 4 | 20 | 43 |
+| 3 | Hoffenheim | 21 | 13 | 3 | 5 | 18 | 42 |
 | 4 | RB Leipzig | 21 | 12 | 3 | 6 | 12 | 39 |
 | 5 | VfB Stuttgart | 21 | 12 | 3 | 6 | 10 | 39 |
 | 6 | Bayer Leverkusen | 20 | 11 | 3 | 6 | 12 | 36 |
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 23 | 18 | 1 | 4 | 33 | 55 |
+| 1 | Inter | 24 | 19 | 1 | 4 | 34 | 58 |
 | 2 | Milan | 23 | 14 | 8 | 1 | 21 | 50 |
 | 3 | Napoli | 24 | 15 | 4 | 5 | 13 | 49 |
 | 4 | Juventus | 23 | 13 | 6 | 4 | 21 | 45 |
@@ -130,7 +130,7 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Lazio | 23 | 8 | 8 | 7 | 3 | 32 |
 | 9 | Udinese | 24 | 9 | 5 | 10 | -9 | 32 |
 | 10 | Bologna | 24 | 8 | 6 | 10 | 1 | 30 |
-| 11 | Sassuolo | 23 | 8 | 5 | 10 | -2 | 29 |
+| 11 | Sassuolo | 24 | 8 | 5 | 11 | -3 | 29 |
 | 12 | Cagliari | 23 | 7 | 7 | 9 | -3 | 28 |
 | 13 | Torino | 24 | 7 | 6 | 11 | -18 | 27 |
 | 14 | Parma | 24 | 6 | 8 | 10 | -14 | 26 |
