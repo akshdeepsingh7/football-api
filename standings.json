@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 February 2026, 02:56 PM UTC",
-        "IST": "Sunday, 08 February 2026, 08:26 PM IST"
+        "UTC": "Sunday, 08 February 2026, 03:30 PM UTC",
+        "IST": "Sunday, 08 February 2026, 09:00 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -127,23 +127,23 @@
             },
             {
                 "Position": "13",
-                "Team": "Brighton & Hove Albion",
+                "Team": "Crystal Palace",
                 "Played": "25",
-                "Wins": "7",
-                "Draws": "11",
-                "Losses": "7",
-                "Goal Difference": "2",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "-3",
                 "Points": "32"
             },
             {
                 "Position": "14",
-                "Team": "Crystal Palace",
+                "Team": "Brighton & Hove Albion",
                 "Played": "25",
                 "Wins": "7",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "-4",
-                "Points": "30"
+                "Draws": "10",
+                "Losses": "8",
+                "Goal Difference": "1",
+                "Points": "31"
             },
             {
                 "Position": "15",
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Girona",
+                "Played": "23",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-14",
+                "Points": "28"
+            },
+            {
+                "Position": "11",
                 "Team": "Getafe",
                 "Played": "23",
                 "Wins": "7",
@@ -308,33 +318,23 @@
                 "Points": "26"
             },
             {
-                "Position": "11",
+                "Position": "12",
+                "Team": "Athletic Bilbao",
+                "Played": "23",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-10",
+                "Points": "26"
+            },
+            {
+                "Position": "13",
                 "Team": "Alav\u00e9s",
                 "Played": "23",
                 "Wins": "7",
                 "Draws": "4",
                 "Losses": "12",
                 "Goal Difference": "-9",
-                "Points": "25"
-            },
-            {
-                "Position": "12",
-                "Team": "Athletic Bilbao",
-                "Played": "22",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "11",
-                "Goal Difference": "-10",
-                "Points": "25"
-            },
-            {
-                "Position": "13",
-                "Team": "Girona",
-                "Played": "22",
-                "Wins": "6",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-15",
                 "Points": "25"
             },
             {
@@ -350,11 +350,11 @@
             {
                 "Position": "15",
                 "Team": "Sevilla",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "7",
                 "Draws": "3",
-                "Losses": "12",
-                "Goal Difference": "-8",
+                "Losses": "13",
+                "Goal Difference": "-9",
                 "Points": "24"
             },
             {
@@ -390,12 +390,12 @@
             {
                 "Position": "19",
                 "Team": "Levante",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "4",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "11",
                 "Goal Difference": "-10",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "20",
@@ -441,6 +441,16 @@
             },
             {
                 "Position": "4",
+                "Team": "RB Leipzig",
+                "Played": "21",
+                "Wins": "12",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "12",
+                "Points": "39"
+            },
+            {
+                "Position": "5",
                 "Team": "VfB Stuttgart",
                 "Played": "21",
                 "Wins": "12",
@@ -448,16 +458,6 @@
                 "Losses": "6",
                 "Goal Difference": "10",
                 "Points": "39"
-            },
-            {
-                "Position": "5",
-                "Team": "RB Leipzig",
-                "Played": "21",
-                "Wins": "11",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "11",
-                "Points": "37"
             },
             {
                 "Position": "6",
@@ -504,10 +504,10 @@
                 "Team": "K\u00f6ln",
                 "Played": "21",
                 "Wins": "6",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-3",
-                "Points": "24"
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-4",
+                "Points": "23"
             },
             {
                 "Position": "11",
