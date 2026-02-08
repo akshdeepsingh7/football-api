@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 February 2026, 12:54 PM UTC (Sunday, 08 February 2026, 06:24 PM IST)
+**Last Updated:** Sunday, 08 February 2026, 01:46 PM UTC (Sunday, 08 February 2026, 07:16 PM IST)
 
 ### Premier League
 
@@ -81,14 +81,14 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Celta de Vigo | 23 | 8 | 9 | 6 | 5 | 33 |
 | 8 | Real Sociedad | 23 | 8 | 7 | 8 | 2 | 31 |
 | 9 | Osasuna | 23 | 8 | 5 | 10 | 0 | 29 |
-| 10 | Alavés | 22 | 7 | 4 | 11 | -7 | 25 |
+| 10 | Alavés | 23 | 7 | 5 | 11 | -7 | 26 |
 | 11 | Athletic Bilbao | 22 | 7 | 4 | 11 | -10 | 25 |
 | 12 | Girona | 22 | 6 | 7 | 9 | -15 | 25 |
 | 13 | Elche | 23 | 5 | 9 | 9 | -4 | 24 |
 | 14 | Sevilla | 22 | 7 | 3 | 12 | -8 | 24 |
 | 15 | Mallorca | 23 | 6 | 6 | 11 | -9 | 24 |
-| 16 | Valencia | 22 | 5 | 8 | 9 | -12 | 23 |
-| 17 | Getafe | 22 | 6 | 5 | 11 | -11 | 23 |
+| 16 | Getafe | 23 | 6 | 6 | 11 | -11 | 24 |
+| 17 | Valencia | 22 | 5 | 8 | 9 | -12 | 23 |
 | 18 | Rayo Vallecano | 22 | 5 | 7 | 10 | -12 | 22 |
 | 19 | Levante | 21 | 4 | 6 | 11 | -10 | 18 |
 | 20 | Real Oviedo | 22 | 3 | 7 | 12 | -22 | 16 |
@@ -129,11 +129,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Atalanta | 23 | 9 | 9 | 5 | 10 | 36 |
 | 8 | Lazio | 23 | 8 | 8 | 7 | 3 | 32 |
 | 9 | Udinese | 23 | 9 | 5 | 9 | -8 | 32 |
-| 10 | Bologna | 24 | 8 | 7 | 9 | 2 | 31 |
+| 10 | Bologna | 24 | 8 | 6 | 10 | 1 | 30 |
 | 11 | Sassuolo | 23 | 8 | 5 | 10 | -2 | 29 |
 | 12 | Cagliari | 23 | 7 | 7 | 9 | -3 | 28 |
 | 13 | Torino | 24 | 7 | 6 | 11 | -18 | 27 |
-| 14 | Parma | 24 | 5 | 9 | 10 | -15 | 24 |
+| 14 | Parma | 24 | 6 | 8 | 10 | -14 | 26 |
 | 15 | Cremonese | 23 | 5 | 8 | 10 | -11 | 23 |
 | 16 | Genoa | 24 | 5 | 8 | 11 | -8 | 23 |
 | 17 | Lecce | 23 | 4 | 6 | 13 | -17 | 18 |
@@ -328,7 +328,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Queens Park Rangers | 31 | 12 | 8 | 11 | -1 | 44 |
 | 13 | Stoke City | 31 | 12 | 7 | 12 | 6 | 43 |
 | 14 | Southampton | 31 | 11 | 10 | 10 | 3 | 43 |
-| 15 | Swansea City | 31 | 12 | 6 | 13 | -2 | 42 |
+| 15 | Swansea City | 31 | 12 | 6 | 13 | 0 | 42 |
 | 16 | Sheffield United | 30 | 12 | 3 | 15 | 0 | 39 |
 | 17 | Norwich City | 31 | 10 | 6 | 15 | -3 | 36 |
 | 18 | Charlton Athletic | 30 | 9 | 9 | 12 | -9 | 36 |
@@ -337,7 +337,7 @@ The latest league standings are displayed below in Markdown tables:
 | 21 | Leicester City | 31 | 10 | 8 | 13 | -6 | 32 |
 | 22 | Blackburn Rovers | 31 | 8 | 8 | 15 | -13 | 32 |
 | 23 | Oxford United | 31 | 6 | 10 | 15 | -13 | 28 |
-| 24 | Sheffield Wednesday | 31 | 1 | 8 | 22 | -41 | -7 |
+| 24 | Sheffield Wednesday | 31 | 1 | 8 | 22 | -43 | -7 |
 
 ### Major League Soccer (MLS)
 
