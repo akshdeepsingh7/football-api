@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 February 2026, 10:37 PM UTC",
-        "IST": "Tuesday, 10 February 2026, 04:07 AM IST"
+        "UTC": "Monday, 09 February 2026, 11:37 PM UTC",
+        "IST": "Tuesday, 10 February 2026, 05:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2065,21 +2065,21 @@
                 "Position": "1",
                 "Team": "Porto",
                 "Played": "21",
-                "Wins": "19",
-                "Draws": "1",
+                "Wins": "18",
+                "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "36",
-                "Points": "58"
+                "Goal Difference": "35",
+                "Points": "56"
             },
             {
                 "Position": "2",
                 "Team": "Sporting CP",
                 "Played": "21",
                 "Wins": "16",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "42",
-                "Points": "51"
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "43",
+                "Points": "52"
             },
             {
                 "Position": "3",
