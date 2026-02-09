@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 February 2026, 06:10 PM UTC",
-        "IST": "Monday, 09 February 2026, 11:40 PM IST"
+        "UTC": "Monday, 09 February 2026, 07:45 PM UTC",
+        "IST": "Tuesday, 10 February 2026, 01:15 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -658,7 +658,7 @@
                 "Wins": "10",
                 "Draws": "9",
                 "Losses": "5",
-                "Goal Difference": "12",
+                "Goal Difference": "11",
                 "Points": "39"
             },
             {
@@ -748,7 +748,7 @@
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "11",
-                "Goal Difference": "-13",
+                "Goal Difference": "-12",
                 "Points": "23"
             },
             {
@@ -2113,12 +2113,12 @@
             },
             {
                 "Position": "6",
-                "Team": "Estoril",
+                "Team": "Famalic\u00e3o",
                 "Played": "21",
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "8",
+                "Goal Difference": "5",
                 "Points": "30"
             },
             {
@@ -2133,13 +2133,13 @@
             },
             {
                 "Position": "8",
-                "Team": "Famalic\u00e3o",
-                "Played": "20",
+                "Team": "Estoril",
+                "Played": "21",
                 "Wins": "8",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "5",
-                "Points": "29"
+                "Goal Difference": "8",
+                "Points": "30"
             },
             {
                 "Position": "9",
@@ -2234,12 +2234,12 @@
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "0",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "15",
                 "Goal Difference": "-37",
-                "Points": "5"
+                "Points": "6"
             }
         ],
         "EFL Championship": [

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 09 February 2026, 06:10 PM UTC (Monday, 09 February 2026, 11:40 PM IST)
+**Last Updated:** Monday, 09 February 2026, 07:45 PM UTC (Tuesday, 10 February 2026, 01:15 AM IST)
 
 ### Premier League
 
@@ -126,7 +126,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Juventus | 24 | 13 | 7 | 4 | 21 | 46 |
 | 5 | Roma | 23 | 14 | 1 | 8 | 13 | 43 |
 | 6 | Como | 23 | 11 | 8 | 4 | 21 | 41 |
-| 7 | Atalanta | 24 | 10 | 9 | 5 | 12 | 39 |
+| 7 | Atalanta | 24 | 10 | 9 | 5 | 11 | 39 |
 | 8 | Lazio | 24 | 8 | 9 | 7 | 3 | 33 |
 | 9 | Udinese | 24 | 9 | 5 | 10 | -9 | 32 |
 | 10 | Bologna | 24 | 8 | 6 | 10 | 1 | 30 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Torino | 24 | 7 | 6 | 11 | -18 | 27 |
 | 14 | Parma | 24 | 6 | 8 | 10 | -14 | 26 |
 | 15 | Genoa | 24 | 5 | 8 | 11 | -8 | 23 |
-| 16 | Cremonese | 24 | 5 | 8 | 11 | -13 | 23 |
+| 16 | Cremonese | 24 | 5 | 8 | 11 | -12 | 23 |
 | 17 | Lecce | 24 | 5 | 6 | 13 | -16 | 21 |
 | 18 | Fiorentina | 24 | 3 | 9 | 12 | -11 | 18 |
 | 19 | Pisa | 24 | 1 | 12 | 11 | -21 | 15 |
@@ -296,9 +296,9 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 21 | 14 | 7 | 0 | 32 | 49 |
 | 4 | Braga | 21 | 11 | 6 | 4 | 26 | 39 |
 | 5 | Gil Vicente | 21 | 10 | 7 | 4 | 14 | 37 |
-| 6 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
+| 6 | Famalicão | 21 | 8 | 6 | 7 | 5 | 30 |
 | 7 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
-| 8 | Famalicão | 20 | 8 | 5 | 7 | 5 | 29 |
+| 8 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
 | 9 | Vitória S.C. | 21 | 8 | 4 | 9 | -7 | 28 |
 | 10 | Alverca | 21 | 7 | 3 | 11 | -15 | 24 |
 | 11 | Estrela Amadora | 21 | 5 | 8 | 8 | -12 | 23 |
@@ -308,7 +308,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Casa Pia | 21 | 4 | 7 | 10 | -17 | 19 |
 | 16 | Santa Clara | 21 | 4 | 5 | 12 | -10 | 17 |
 | 17 | Tondela | 21 | 3 | 5 | 13 | -21 | 14 |
-| 18 | AVS | 20 | 0 | 5 | 15 | -37 | 5 |
+| 18 | AVS | 21 | 0 | 6 | 15 | -37 | 6 |
 
 ### EFL Championship
 
