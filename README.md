@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 09 February 2026, 08:39 PM UTC (Tuesday, 10 February 2026, 02:09 AM IST)
+**Last Updated:** Monday, 09 February 2026, 09:39 PM UTC (Tuesday, 10 February 2026, 03:09 AM IST)
 
 ### Premier League
 
@@ -74,10 +74,10 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 23 | 19 | 1 | 3 | 40 | 58 |
 | 2 | Real Madrid | 23 | 18 | 3 | 2 | 31 | 57 |
-| 3 | Atlético de Madrid | 23 | 13 | 6 | 4 | 20 | 45 |
-| 4 | Villarreal | 22 | 14 | 3 | 5 | 17 | 45 |
+| 3 | Villarreal | 22 | 14 | 3 | 5 | 20 | 45 |
+| 4 | Atlético de Madrid | 23 | 13 | 6 | 4 | 20 | 45 |
 | 5 | Real Betis | 23 | 10 | 8 | 5 | 9 | 38 |
-| 6 | Espanyol | 23 | 10 | 4 | 9 | -2 | 34 |
+| 6 | Espanyol | 23 | 10 | 4 | 9 | -5 | 34 |
 | 7 | Celta de Vigo | 23 | 8 | 9 | 6 | 5 | 33 |
 | 8 | Real Sociedad | 23 | 8 | 7 | 8 | 2 | 31 |
 | 9 | Osasuna | 23 | 8 | 5 | 10 | 0 | 29 |
@@ -124,14 +124,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Milan | 23 | 14 | 8 | 1 | 21 | 50 |
 | 3 | Napoli | 24 | 15 | 4 | 5 | 13 | 49 |
 | 4 | Juventus | 24 | 13 | 7 | 4 | 21 | 46 |
-| 5 | Roma | 24 | 15 | 1 | 8 | 14 | 46 |
+| 5 | Roma | 24 | 15 | 1 | 8 | 15 | 46 |
 | 6 | Como | 23 | 11 | 8 | 4 | 21 | 41 |
 | 7 | Atalanta | 24 | 10 | 9 | 5 | 11 | 39 |
 | 8 | Lazio | 24 | 8 | 9 | 7 | 3 | 33 |
 | 9 | Udinese | 24 | 9 | 5 | 10 | -9 | 32 |
 | 10 | Bologna | 24 | 8 | 6 | 10 | 1 | 30 |
 | 11 | Sassuolo | 24 | 8 | 5 | 11 | -7 | 29 |
-| 12 | Cagliari | 24 | 7 | 7 | 10 | -4 | 28 |
+| 12 | Cagliari | 24 | 7 | 7 | 10 | -5 | 28 |
 | 13 | Torino | 24 | 7 | 6 | 11 | -18 | 27 |
 | 14 | Parma | 24 | 6 | 8 | 10 | -14 | 26 |
 | 15 | Genoa | 24 | 5 | 8 | 11 | -8 | 23 |
@@ -291,8 +291,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 20 | 18 | 1 | 1 | 35 | 55 |
-| 2 | Sporting CP | 20 | 16 | 3 | 1 | 43 | 51 |
+| 1 | Porto | 21 | 18 | 2 | 1 | 35 | 56 |
+| 2 | Sporting CP | 21 | 16 | 4 | 1 | 43 | 52 |
 | 3 | Benfica | 21 | 14 | 7 | 0 | 32 | 49 |
 | 4 | Braga | 21 | 11 | 6 | 4 | 26 | 39 |
 | 5 | Gil Vicente | 21 | 10 | 7 | 4 | 14 | 37 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 February 2026, 08:39 PM UTC",
-        "IST": "Tuesday, 10 February 2026, 02:09 AM IST"
+        "UTC": "Monday, 09 February 2026, 09:39 PM UTC",
+        "IST": "Tuesday, 10 February 2026, 03:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -229,22 +229,22 @@
             },
             {
                 "Position": "3",
+                "Team": "Villarreal",
+                "Played": "22",
+                "Wins": "14",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "20",
+                "Points": "45"
+            },
+            {
+                "Position": "4",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "23",
                 "Wins": "13",
                 "Draws": "6",
                 "Losses": "4",
                 "Goal Difference": "20",
-                "Points": "45"
-            },
-            {
-                "Position": "4",
-                "Team": "Villarreal",
-                "Played": "22",
-                "Wins": "14",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "17",
                 "Points": "45"
             },
             {
@@ -264,7 +264,7 @@
                 "Wins": "10",
                 "Draws": "4",
                 "Losses": "9",
-                "Goal Difference": "-2",
+                "Goal Difference": "-5",
                 "Points": "34"
             },
             {
@@ -638,7 +638,7 @@
                 "Wins": "15",
                 "Draws": "1",
                 "Losses": "8",
-                "Goal Difference": "14",
+                "Goal Difference": "15",
                 "Points": "46"
             },
             {
@@ -708,7 +708,7 @@
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "10",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "28"
             },
             {
@@ -2064,22 +2064,22 @@
             {
                 "Position": "1",
                 "Team": "Porto",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "18",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "35",
-                "Points": "55"
+                "Points": "56"
             },
             {
                 "Position": "2",
                 "Team": "Sporting CP",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "16",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "43",
-                "Points": "51"
+                "Points": "52"
             },
             {
                 "Position": "3",
