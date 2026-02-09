@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 09 February 2026, 10:03 AM UTC (Monday, 09 February 2026, 03:33 PM IST)
+**Last Updated:** Monday, 09 February 2026, 11:24 AM UTC (Monday, 09 February 2026, 04:54 PM IST)
 
 ### Premier League
 
@@ -378,19 +378,20 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Mohun Bagan SG | 24 | 17 | 5 | 2 | 31 | 56 |
-| 2 | FC Goa | 24 | 14 | 6 | 4 | 16 | 48 |
-| 3 | Bengaluru | 24 | 11 | 5 | 8 | 9 | 38 |
-| 4 | NorthEast Utd | 24 | 10 | 8 | 6 | 17 | 38 |
-| 5 | Jamshedpur | 24 | 12 | 2 | 10 | -6 | 38 |
-| 6 | Mumbai City | 24 | 9 | 9 | 6 | 1 | 36 |
-| 7 | Odisha | 24 | 8 | 9 | 7 | 7 | 33 |
-| 8 | Kerala Blasters | 24 | 8 | 5 | 11 | -4 | 29 |
-| 9 | East Bengal | 24 | 8 | 4 | 12 | -6 | 28 |
-| 10 | Punjab FC | 24 | 8 | 4 | 12 | -4 | 28 |
-| 11 | Chennaiyin | 24 | 7 | 6 | 11 | -5 | 27 |
-| 12 | Hyderabad | 24 | 4 | 6 | 14 | -25 | 18 |
-| 13 | Mohammedan | 24 | 2 | 7 | 15 | -31 | 13 |
+| 1 | Bengaluru | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Chennaiyin | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | East Bengal | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | FC Goa | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Inter Kashi | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Jamshedpur | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Kerala Blasters | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Mohammedan | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Mohun Bagan SG | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Mumbai City | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | NorthEast Utd | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Punjab FC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | SC Delhi | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
 
