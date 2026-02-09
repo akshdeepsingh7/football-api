@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 February 2026, 05:07 PM UTC",
-        "IST": "Monday, 09 February 2026, 10:37 PM IST"
+        "UTC": "Monday, 09 February 2026, 06:10 PM UTC",
+        "IST": "Monday, 09 February 2026, 11:40 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -654,12 +654,12 @@
             {
                 "Position": "7",
                 "Team": "Atalanta",
-                "Played": "23",
-                "Wins": "9",
+                "Played": "24",
+                "Wins": "10",
                 "Draws": "9",
                 "Losses": "5",
-                "Goal Difference": "10",
-                "Points": "36"
+                "Goal Difference": "12",
+                "Points": "39"
             },
             {
                 "Position": "8",
@@ -733,22 +733,22 @@
             },
             {
                 "Position": "15",
-                "Team": "Cremonese",
-                "Played": "23",
-                "Wins": "5",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-11",
-                "Points": "23"
-            },
-            {
-                "Position": "16",
                 "Team": "Genoa",
                 "Played": "24",
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-8",
+                "Points": "23"
+            },
+            {
+                "Position": "16",
+                "Team": "Cremonese",
+                "Played": "24",
+                "Wins": "5",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-13",
                 "Points": "23"
             },
             {
