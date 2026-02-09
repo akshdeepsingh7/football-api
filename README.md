@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 09 February 2026, 09:39 PM UTC (Tuesday, 10 February 2026, 03:09 AM IST)
+**Last Updated:** Monday, 09 February 2026, 10:37 PM UTC (Tuesday, 10 February 2026, 04:07 AM IST)
 
 ### Premier League
 
@@ -74,10 +74,10 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 23 | 19 | 1 | 3 | 40 | 58 |
 | 2 | Real Madrid | 23 | 18 | 3 | 2 | 31 | 57 |
-| 3 | Villarreal | 22 | 14 | 3 | 5 | 20 | 45 |
-| 4 | Atlético de Madrid | 23 | 13 | 6 | 4 | 20 | 45 |
+| 3 | Atlético de Madrid | 23 | 13 | 6 | 4 | 20 | 45 |
+| 4 | Villarreal | 22 | 14 | 3 | 5 | 19 | 45 |
 | 5 | Real Betis | 23 | 10 | 8 | 5 | 9 | 38 |
-| 6 | Espanyol | 23 | 10 | 4 | 9 | -5 | 34 |
+| 6 | Espanyol | 23 | 10 | 4 | 9 | -4 | 34 |
 | 7 | Celta de Vigo | 23 | 8 | 9 | 6 | 5 | 33 |
 | 8 | Real Sociedad | 23 | 8 | 7 | 8 | 2 | 31 |
 | 9 | Osasuna | 23 | 8 | 5 | 10 | 0 | 29 |
@@ -291,8 +291,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 21 | 18 | 2 | 1 | 35 | 56 |
-| 2 | Sporting CP | 21 | 16 | 4 | 1 | 43 | 52 |
+| 1 | Porto | 21 | 19 | 1 | 1 | 36 | 58 |
+| 2 | Sporting CP | 21 | 16 | 3 | 2 | 42 | 51 |
 | 3 | Benfica | 21 | 14 | 7 | 0 | 32 | 49 |
 | 4 | Braga | 21 | 11 | 6 | 4 | 26 | 39 |
 | 5 | Gil Vicente | 21 | 10 | 7 | 4 | 14 | 37 |
