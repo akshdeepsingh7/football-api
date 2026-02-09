@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 09 February 2026, 07:45 PM UTC (Tuesday, 10 February 2026, 01:15 AM IST)
+**Last Updated:** Monday, 09 February 2026, 08:39 PM UTC (Tuesday, 10 February 2026, 02:09 AM IST)
 
 ### Premier League
 
@@ -75,9 +75,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Barcelona | 23 | 19 | 1 | 3 | 40 | 58 |
 | 2 | Real Madrid | 23 | 18 | 3 | 2 | 31 | 57 |
 | 3 | Atlético de Madrid | 23 | 13 | 6 | 4 | 20 | 45 |
-| 4 | Villarreal | 21 | 13 | 3 | 5 | 16 | 42 |
+| 4 | Villarreal | 22 | 14 | 3 | 5 | 17 | 45 |
 | 5 | Real Betis | 23 | 10 | 8 | 5 | 9 | 38 |
-| 6 | Espanyol | 22 | 10 | 4 | 8 | -1 | 34 |
+| 6 | Espanyol | 23 | 10 | 4 | 9 | -2 | 34 |
 | 7 | Celta de Vigo | 23 | 8 | 9 | 6 | 5 | 33 |
 | 8 | Real Sociedad | 23 | 8 | 7 | 8 | 2 | 31 |
 | 9 | Osasuna | 23 | 8 | 5 | 10 | 0 | 29 |
@@ -124,14 +124,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Milan | 23 | 14 | 8 | 1 | 21 | 50 |
 | 3 | Napoli | 24 | 15 | 4 | 5 | 13 | 49 |
 | 4 | Juventus | 24 | 13 | 7 | 4 | 21 | 46 |
-| 5 | Roma | 23 | 14 | 1 | 8 | 13 | 43 |
+| 5 | Roma | 24 | 15 | 1 | 8 | 14 | 46 |
 | 6 | Como | 23 | 11 | 8 | 4 | 21 | 41 |
 | 7 | Atalanta | 24 | 10 | 9 | 5 | 11 | 39 |
 | 8 | Lazio | 24 | 8 | 9 | 7 | 3 | 33 |
 | 9 | Udinese | 24 | 9 | 5 | 10 | -9 | 32 |
 | 10 | Bologna | 24 | 8 | 6 | 10 | 1 | 30 |
 | 11 | Sassuolo | 24 | 8 | 5 | 11 | -7 | 29 |
-| 12 | Cagliari | 23 | 7 | 7 | 9 | -3 | 28 |
+| 12 | Cagliari | 24 | 7 | 7 | 10 | -4 | 28 |
 | 13 | Torino | 24 | 7 | 6 | 11 | -18 | 27 |
 | 14 | Parma | 24 | 6 | 8 | 10 | -14 | 26 |
 | 15 | Genoa | 24 | 5 | 8 | 11 | -8 | 23 |
@@ -296,9 +296,9 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 21 | 14 | 7 | 0 | 32 | 49 |
 | 4 | Braga | 21 | 11 | 6 | 4 | 26 | 39 |
 | 5 | Gil Vicente | 21 | 10 | 7 | 4 | 14 | 37 |
-| 6 | Famalicão | 21 | 8 | 6 | 7 | 5 | 30 |
-| 7 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
-| 8 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
+| 6 | Famalicão | 21 | 9 | 5 | 7 | 7 | 32 |
+| 7 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
+| 8 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
 | 9 | Vitória S.C. | 21 | 8 | 4 | 9 | -7 | 28 |
 | 10 | Alverca | 21 | 7 | 3 | 11 | -15 | 24 |
 | 11 | Estrela Amadora | 21 | 5 | 8 | 8 | -12 | 23 |
@@ -308,14 +308,14 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Casa Pia | 21 | 4 | 7 | 10 | -17 | 19 |
 | 16 | Santa Clara | 21 | 4 | 5 | 12 | -10 | 17 |
 | 17 | Tondela | 21 | 3 | 5 | 13 | -21 | 14 |
-| 18 | AVS | 21 | 0 | 6 | 15 | -37 | 6 |
+| 18 | AVS | 21 | 0 | 5 | 16 | -39 | 5 |
 
 ### EFL Championship
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 31 | 17 | 8 | 6 | 28 | 59 |
-| 2 | Middlesbrough | 30 | 17 | 7 | 6 | 18 | 58 |
+| 1 | Middlesbrough | 31 | 18 | 7 | 6 | 19 | 61 |
+| 2 | Coventry City | 31 | 17 | 8 | 6 | 28 | 59 |
 | 3 | Ipswich Town | 30 | 15 | 9 | 6 | 22 | 54 |
 | 4 | Hull City | 31 | 16 | 6 | 9 | 7 | 54 |
 | 5 | Millwall | 31 | 15 | 8 | 8 | 3 | 53 |
@@ -329,7 +329,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Stoke City | 31 | 12 | 7 | 12 | 6 | 43 |
 | 14 | Southampton | 31 | 11 | 10 | 10 | 3 | 43 |
 | 15 | Swansea City | 31 | 12 | 6 | 13 | 1 | 42 |
-| 16 | Sheffield United | 30 | 12 | 3 | 15 | 0 | 39 |
+| 16 | Sheffield United | 31 | 12 | 3 | 16 | -1 | 39 |
 | 17 | Norwich City | 31 | 10 | 6 | 15 | -3 | 36 |
 | 18 | Charlton Athletic | 30 | 9 | 9 | 12 | -9 | 36 |
 | 19 | Portsmouth | 29 | 8 | 9 | 12 | -11 | 33 |
