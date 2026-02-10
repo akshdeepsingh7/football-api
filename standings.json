@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 10 February 2026, 08:07 PM UTC",
-        "IST": "Wednesday, 11 February 2026, 01:37 AM IST"
+        "UTC": "Tuesday, 10 February 2026, 09:09 PM UTC",
+        "IST": "Wednesday, 11 February 2026, 02:39 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -37,22 +37,22 @@
             },
             {
                 "Position": "4",
-                "Team": "Chelsea",
+                "Team": "Manchester United",
                 "Played": "26",
-                "Wins": "13",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "18",
-                "Points": "46"
+                "Wins": "12",
+                "Draws": "9",
+                "Losses": "5",
+                "Goal Difference": "10",
+                "Points": "45"
             },
             {
                 "Position": "5",
-                "Team": "Manchester United",
-                "Played": "25",
+                "Team": "Chelsea",
+                "Played": "26",
                 "Wins": "12",
                 "Draws": "8",
-                "Losses": "5",
-                "Goal Difference": "10",
+                "Losses": "6",
+                "Goal Difference": "17",
                 "Points": "44"
             },
             {
@@ -80,13 +80,33 @@
                 "Team": "Everton",
                 "Played": "26",
                 "Wins": "10",
-                "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "0",
-                "Points": "38"
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "-1",
+                "Points": "37"
             },
             {
                 "Position": "9",
+                "Team": "AFC Bournemouth",
+                "Played": "26",
+                "Wins": "9",
+                "Draws": "10",
+                "Losses": "7",
+                "Goal Difference": "-2",
+                "Points": "37"
+            },
+            {
+                "Position": "10",
+                "Team": "Newcastle United",
+                "Played": "26",
+                "Wins": "10",
+                "Draws": "6",
+                "Losses": "10",
+                "Goal Difference": "0",
+                "Points": "36"
+            },
+            {
+                "Position": "11",
                 "Team": "Sunderland",
                 "Played": "25",
                 "Wins": "9",
@@ -94,26 +114,6 @@
                 "Losses": "7",
                 "Goal Difference": "-2",
                 "Points": "36"
-            },
-            {
-                "Position": "10",
-                "Team": "AFC Bournemouth",
-                "Played": "26",
-                "Wins": "8",
-                "Draws": "11",
-                "Losses": "7",
-                "Goal Difference": "-3",
-                "Points": "35"
-            },
-            {
-                "Position": "11",
-                "Team": "Newcastle United",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "-1",
-                "Points": "34"
             },
             {
                 "Position": "12",
@@ -147,22 +147,22 @@
             },
             {
                 "Position": "15",
-                "Team": "Tottenham Hotspur",
+                "Team": "Leeds United",
                 "Played": "26",
                 "Wins": "7",
                 "Draws": "9",
                 "Losses": "10",
-                "Goal Difference": "0",
+                "Goal Difference": "-9",
                 "Points": "30"
             },
             {
                 "Position": "16",
-                "Team": "Leeds United",
+                "Team": "Tottenham Hotspur",
                 "Played": "26",
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "11",
-                "Goal Difference": "-10",
+                "Goal Difference": "-1",
                 "Points": "29"
             },
             {
@@ -178,12 +178,12 @@
             {
                 "Position": "18",
                 "Team": "West Ham United",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "6",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "14",
                 "Goal Difference": "-17",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "19",
@@ -2380,7 +2380,7 @@
                 "Wins": "11",
                 "Draws": "10",
                 "Losses": "11",
-                "Goal Difference": "1",
+                "Goal Difference": "0",
                 "Points": "43"
             },
             {
@@ -2395,21 +2395,21 @@
             },
             {
                 "Position": "16",
-                "Team": "Sheffield United",
-                "Played": "31",
-                "Wins": "12",
-                "Draws": "3",
-                "Losses": "16",
-                "Goal Difference": "-1",
-                "Points": "39"
-            },
-            {
-                "Position": "17",
                 "Team": "Norwich City",
                 "Played": "32",
                 "Wins": "11",
                 "Draws": "6",
                 "Losses": "15",
+                "Goal Difference": "0",
+                "Points": "39"
+            },
+            {
+                "Position": "17",
+                "Team": "Sheffield United",
+                "Played": "31",
+                "Wins": "12",
+                "Draws": "3",
+                "Losses": "16",
                 "Goal Difference": "-1",
                 "Points": "39"
             },
@@ -2430,7 +2430,7 @@
                 "Wins": "11",
                 "Draws": "8",
                 "Losses": "13",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "35"
             },
             {
@@ -2470,7 +2470,7 @@
                 "Wins": "6",
                 "Draws": "10",
                 "Losses": "16",
-                "Goal Difference": "-15",
+                "Goal Difference": "-16",
                 "Points": "28"
             },
             {
