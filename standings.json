@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 11 February 2026, 08:02 PM UTC",
-        "IST": "Thursday, 12 February 2026, 01:32 AM IST"
+        "UTC": "Wednesday, 11 February 2026, 09:04 PM UTC",
+        "IST": "Thursday, 12 February 2026, 02:34 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -22,7 +22,7 @@
                 "Wins": "16",
                 "Draws": "5",
                 "Losses": "5",
-                "Goal Difference": "29",
+                "Goal Difference": "30",
                 "Points": "53"
             },
             {
@@ -58,12 +58,12 @@
             {
                 "Position": "6",
                 "Team": "Liverpool FC",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "11",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "8",
                 "Goal Difference": "5",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "7",
@@ -97,6 +97,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Sunderland",
+                "Played": "26",
+                "Wins": "9",
+                "Draws": "10",
+                "Losses": "7",
+                "Goal Difference": "-2",
+                "Points": "37"
+            },
+            {
+                "Position": "11",
                 "Team": "Newcastle United",
                 "Played": "26",
                 "Wins": "10",
@@ -106,43 +116,33 @@
                 "Points": "36"
             },
             {
-                "Position": "11",
-                "Team": "Sunderland",
-                "Played": "25",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "7",
-                "Goal Difference": "-2",
-                "Points": "36"
-            },
-            {
                 "Position": "12",
-                "Team": "Crystal Palace",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-2",
-                "Points": "35"
-            },
-            {
-                "Position": "13",
                 "Team": "Fulham",
                 "Played": "26",
                 "Wins": "10",
                 "Draws": "4",
                 "Losses": "12",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "34"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Brighton & Hove Albion",
                 "Played": "26",
                 "Wins": "7",
                 "Draws": "11",
                 "Losses": "8",
                 "Goal Difference": "1",
+                "Points": "32"
+            },
+            {
+                "Position": "14",
+                "Team": "Crystal Palace",
+                "Played": "26",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-4",
                 "Points": "32"
             },
             {
@@ -189,11 +189,11 @@
                 "Position": "19",
                 "Team": "Burnley",
                 "Played": "26",
-                "Wins": "3",
+                "Wins": "4",
                 "Draws": "6",
-                "Losses": "17",
-                "Goal Difference": "-25",
-                "Points": "15"
+                "Losses": "16",
+                "Goal Difference": "-23",
+                "Points": "18"
             },
             {
                 "Position": "20",

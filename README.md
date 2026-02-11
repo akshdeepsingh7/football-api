@@ -41,31 +41,31 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 11 February 2026, 08:02 PM UTC (Thursday, 12 February 2026, 01:32 AM IST)
+**Last Updated:** Wednesday, 11 February 2026, 09:04 PM UTC (Thursday, 12 February 2026, 02:34 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 25 | 17 | 5 | 3 | 32 | 56 |
-| 2 | Manchester City | 26 | 16 | 5 | 5 | 29 | 53 |
+| 2 | Manchester City | 26 | 16 | 5 | 5 | 30 | 53 |
 | 3 | Aston Villa | 26 | 14 | 6 | 6 | 9 | 48 |
 | 4 | Manchester United | 26 | 12 | 9 | 5 | 10 | 45 |
 | 5 | Chelsea | 26 | 12 | 8 | 6 | 17 | 44 |
-| 6 | Liverpool FC | 25 | 11 | 6 | 8 | 5 | 39 |
+| 6 | Liverpool FC | 26 | 11 | 7 | 8 | 5 | 40 |
 | 7 | Brentford | 25 | 12 | 3 | 10 | 5 | 39 |
 | 8 | Everton | 26 | 10 | 7 | 9 | -1 | 37 |
 | 9 | AFC Bournemouth | 26 | 9 | 10 | 7 | -2 | 37 |
-| 10 | Newcastle United | 26 | 10 | 6 | 10 | 0 | 36 |
-| 11 | Sunderland | 25 | 9 | 9 | 7 | -2 | 36 |
-| 12 | Crystal Palace | 26 | 9 | 8 | 9 | -2 | 35 |
-| 13 | Fulham | 26 | 10 | 4 | 12 | -4 | 34 |
-| 14 | Brighton & Hove Albion | 26 | 7 | 11 | 8 | 1 | 32 |
+| 10 | Sunderland | 26 | 9 | 10 | 7 | -2 | 37 |
+| 11 | Newcastle United | 26 | 10 | 6 | 10 | 0 | 36 |
+| 12 | Fulham | 26 | 10 | 4 | 12 | -5 | 34 |
+| 13 | Brighton & Hove Albion | 26 | 7 | 11 | 8 | 1 | 32 |
+| 14 | Crystal Palace | 26 | 8 | 8 | 10 | -4 | 32 |
 | 15 | Leeds United | 26 | 7 | 9 | 10 | -9 | 30 |
 | 16 | Tottenham Hotspur | 26 | 7 | 8 | 11 | -1 | 29 |
 | 17 | Nottingham Forest | 26 | 7 | 6 | 13 | -13 | 27 |
 | 18 | West Ham United | 26 | 6 | 6 | 14 | -17 | 24 |
-| 19 | Burnley | 26 | 3 | 6 | 17 | -25 | 15 |
+| 19 | Burnley | 26 | 4 | 6 | 16 | -23 | 18 |
 | 20 | Wolverhampton Wanderers | 26 | 1 | 6 | 19 | -32 | 9 |
 
 ### La Liga
