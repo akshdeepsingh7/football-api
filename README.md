@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 11 February 2026, 09:04 PM UTC (Thursday, 12 February 2026, 02:34 AM IST)
+**Last Updated:** Wednesday, 11 February 2026, 09:58 PM UTC (Thursday, 12 February 2026, 03:28 AM IST)
 
 ### Premier League
 
@@ -49,18 +49,18 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 25 | 17 | 5 | 3 | 32 | 56 |
 | 2 | Manchester City | 26 | 16 | 5 | 5 | 30 | 53 |
-| 3 | Aston Villa | 26 | 14 | 6 | 6 | 9 | 48 |
+| 3 | Aston Villa | 26 | 15 | 5 | 6 | 10 | 50 |
 | 4 | Manchester United | 26 | 12 | 9 | 5 | 10 | 45 |
 | 5 | Chelsea | 26 | 12 | 8 | 6 | 17 | 44 |
-| 6 | Liverpool FC | 26 | 11 | 7 | 8 | 5 | 40 |
+| 6 | Liverpool FC | 26 | 12 | 6 | 8 | 6 | 42 |
 | 7 | Brentford | 25 | 12 | 3 | 10 | 5 | 39 |
 | 8 | Everton | 26 | 10 | 7 | 9 | -1 | 37 |
 | 9 | AFC Bournemouth | 26 | 9 | 10 | 7 | -2 | 37 |
-| 10 | Sunderland | 26 | 9 | 10 | 7 | -2 | 37 |
-| 11 | Newcastle United | 26 | 10 | 6 | 10 | 0 | 36 |
+| 10 | Newcastle United | 26 | 10 | 6 | 10 | 0 | 36 |
+| 11 | Sunderland | 26 | 9 | 9 | 8 | -3 | 36 |
 | 12 | Fulham | 26 | 10 | 4 | 12 | -5 | 34 |
-| 13 | Brighton & Hove Albion | 26 | 7 | 11 | 8 | 1 | 32 |
-| 14 | Crystal Palace | 26 | 8 | 8 | 10 | -4 | 32 |
+| 13 | Crystal Palace | 26 | 8 | 8 | 10 | -4 | 32 |
+| 14 | Brighton & Hove Albion | 26 | 7 | 10 | 9 | 0 | 31 |
 | 15 | Leeds United | 26 | 7 | 9 | 10 | -9 | 30 |
 | 16 | Tottenham Hotspur | 26 | 7 | 8 | 11 | -1 | 29 |
 | 17 | Nottingham Forest | 26 | 7 | 6 | 13 | -13 | 27 |
@@ -325,13 +325,13 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Southampton | 32 | 12 | 10 | 10 | 4 | 46 |
 | 10 | Birmingham City | 32 | 12 | 10 | 10 | 4 | 46 |
 | 11 | Derby County | 31 | 12 | 9 | 10 | 6 | 45 |
-| 12 | Stoke City | 32 | 12 | 8 | 12 | 6 | 44 |
-| 13 | Watford | 31 | 11 | 11 | 9 | 3 | 44 |
-| 14 | Queens Park Rangers | 31 | 12 | 8 | 11 | -1 | 44 |
+| 12 | Watford | 31 | 11 | 11 | 9 | 3 | 44 |
+| 13 | Queens Park Rangers | 31 | 12 | 8 | 11 | -1 | 44 |
+| 14 | Stoke City | 32 | 12 | 7 | 13 | 5 | 43 |
 | 15 | Swansea City | 31 | 12 | 6 | 13 | 1 | 42 |
 | 16 | Norwich City | 32 | 11 | 6 | 15 | 0 | 39 |
 | 17 | Sheffield United | 31 | 12 | 3 | 16 | -1 | 39 |
-| 18 | Charlton Athletic | 31 | 9 | 10 | 12 | -9 | 37 |
+| 18 | Charlton Athletic | 31 | 10 | 9 | 12 | -8 | 39 |
 | 19 | West Bromwich Albion | 32 | 9 | 7 | 16 | -15 | 34 |
 | 20 | Portsmouth | 29 | 8 | 9 | 12 | -11 | 33 |
 | 21 | Leicester City | 32 | 10 | 8 | 14 | -7 | 32 |

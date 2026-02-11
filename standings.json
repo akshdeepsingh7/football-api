@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 11 February 2026, 09:04 PM UTC",
-        "IST": "Thursday, 12 February 2026, 02:34 AM IST"
+        "UTC": "Wednesday, 11 February 2026, 09:58 PM UTC",
+        "IST": "Thursday, 12 February 2026, 03:28 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -29,11 +29,11 @@
                 "Position": "3",
                 "Team": "Aston Villa",
                 "Played": "26",
-                "Wins": "14",
-                "Draws": "6",
+                "Wins": "15",
+                "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "9",
-                "Points": "48"
+                "Goal Difference": "10",
+                "Points": "50"
             },
             {
                 "Position": "4",
@@ -59,11 +59,11 @@
                 "Position": "6",
                 "Team": "Liverpool FC",
                 "Played": "26",
-                "Wins": "11",
-                "Draws": "7",
+                "Wins": "12",
+                "Draws": "6",
                 "Losses": "8",
-                "Goal Difference": "5",
-                "Points": "40"
+                "Goal Difference": "6",
+                "Points": "42"
             },
             {
                 "Position": "7",
@@ -97,22 +97,22 @@
             },
             {
                 "Position": "10",
-                "Team": "Sunderland",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "10",
-                "Losses": "7",
-                "Goal Difference": "-2",
-                "Points": "37"
-            },
-            {
-                "Position": "11",
                 "Team": "Newcastle United",
                 "Played": "26",
                 "Wins": "10",
                 "Draws": "6",
                 "Losses": "10",
                 "Goal Difference": "0",
+                "Points": "36"
+            },
+            {
+                "Position": "11",
+                "Team": "Sunderland",
+                "Played": "26",
+                "Wins": "9",
+                "Draws": "9",
+                "Losses": "8",
+                "Goal Difference": "-3",
                 "Points": "36"
             },
             {
@@ -127,16 +127,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Brighton & Hove Albion",
-                "Played": "26",
-                "Wins": "7",
-                "Draws": "11",
-                "Losses": "8",
-                "Goal Difference": "1",
-                "Points": "32"
-            },
-            {
-                "Position": "14",
                 "Team": "Crystal Palace",
                 "Played": "26",
                 "Wins": "8",
@@ -144,6 +134,16 @@
                 "Losses": "10",
                 "Goal Difference": "-4",
                 "Points": "32"
+            },
+            {
+                "Position": "14",
+                "Team": "Brighton & Hove Albion",
+                "Played": "26",
+                "Wins": "7",
+                "Draws": "10",
+                "Losses": "9",
+                "Goal Difference": "0",
+                "Points": "31"
             },
             {
                 "Position": "15",
@@ -2355,16 +2355,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Stoke City",
-                "Played": "32",
-                "Wins": "12",
-                "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "6",
-                "Points": "44"
-            },
-            {
-                "Position": "13",
                 "Team": "Watford",
                 "Played": "31",
                 "Wins": "11",
@@ -2374,7 +2364,7 @@
                 "Points": "44"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Queens Park Rangers",
                 "Played": "31",
                 "Wins": "12",
@@ -2382,6 +2372,16 @@
                 "Losses": "11",
                 "Goal Difference": "-1",
                 "Points": "44"
+            },
+            {
+                "Position": "14",
+                "Team": "Stoke City",
+                "Played": "32",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "5",
+                "Points": "43"
             },
             {
                 "Position": "15",
@@ -2417,11 +2417,11 @@
                 "Position": "18",
                 "Team": "Charlton Athletic",
                 "Played": "31",
-                "Wins": "9",
-                "Draws": "10",
+                "Wins": "10",
+                "Draws": "9",
                 "Losses": "12",
-                "Goal Difference": "-9",
-                "Points": "37"
+                "Goal Difference": "-8",
+                "Points": "39"
             },
             {
                 "Position": "19",
