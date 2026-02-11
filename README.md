@@ -41,15 +41,15 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 11 February 2026, 07:04 PM UTC (Thursday, 12 February 2026, 12:34 AM IST)
+**Last Updated:** Wednesday, 11 February 2026, 08:02 PM UTC (Thursday, 12 February 2026, 01:32 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 25 | 17 | 5 | 3 | 32 | 56 |
-| 2 | Manchester City | 25 | 15 | 5 | 5 | 27 | 50 |
-| 3 | Aston Villa | 25 | 14 | 5 | 6 | 9 | 47 |
+| 2 | Manchester City | 26 | 16 | 5 | 5 | 29 | 53 |
+| 3 | Aston Villa | 26 | 14 | 6 | 6 | 9 | 48 |
 | 4 | Manchester United | 26 | 12 | 9 | 5 | 10 | 45 |
 | 5 | Chelsea | 26 | 12 | 8 | 6 | 17 | 44 |
 | 6 | Liverpool FC | 25 | 11 | 6 | 8 | 5 | 39 |
@@ -58,15 +58,15 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | AFC Bournemouth | 26 | 9 | 10 | 7 | -2 | 37 |
 | 10 | Newcastle United | 26 | 10 | 6 | 10 | 0 | 36 |
 | 11 | Sunderland | 25 | 9 | 9 | 7 | -2 | 36 |
-| 12 | Fulham | 25 | 10 | 4 | 11 | -2 | 34 |
-| 13 | Crystal Palace | 25 | 8 | 8 | 9 | -3 | 32 |
-| 14 | Brighton & Hove Albion | 25 | 7 | 10 | 8 | 1 | 31 |
+| 12 | Crystal Palace | 26 | 9 | 8 | 9 | -2 | 35 |
+| 13 | Fulham | 26 | 10 | 4 | 12 | -4 | 34 |
+| 14 | Brighton & Hove Albion | 26 | 7 | 11 | 8 | 1 | 32 |
 | 15 | Leeds United | 26 | 7 | 9 | 10 | -9 | 30 |
 | 16 | Tottenham Hotspur | 26 | 7 | 8 | 11 | -1 | 29 |
-| 17 | Nottingham Forest | 25 | 7 | 5 | 13 | -13 | 26 |
+| 17 | Nottingham Forest | 26 | 7 | 6 | 13 | -13 | 27 |
 | 18 | West Ham United | 26 | 6 | 6 | 14 | -17 | 24 |
-| 19 | Burnley | 25 | 3 | 6 | 16 | -24 | 15 |
-| 20 | Wolverhampton Wanderers | 25 | 1 | 5 | 19 | -32 | 8 |
+| 19 | Burnley | 26 | 3 | 6 | 17 | -25 | 15 |
+| 20 | Wolverhampton Wanderers | 26 | 1 | 6 | 19 | -32 | 9 |
 
 ### La Liga
 
@@ -325,13 +325,13 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Southampton | 32 | 12 | 10 | 10 | 4 | 46 |
 | 10 | Birmingham City | 32 | 12 | 10 | 10 | 4 | 46 |
 | 11 | Derby County | 31 | 12 | 9 | 10 | 6 | 45 |
-| 12 | Watford | 31 | 11 | 11 | 9 | 3 | 44 |
-| 13 | Queens Park Rangers | 31 | 12 | 8 | 11 | -1 | 44 |
-| 14 | Stoke City | 31 | 12 | 7 | 12 | 6 | 43 |
+| 12 | Stoke City | 32 | 12 | 8 | 12 | 6 | 44 |
+| 13 | Watford | 31 | 11 | 11 | 9 | 3 | 44 |
+| 14 | Queens Park Rangers | 31 | 12 | 8 | 11 | -1 | 44 |
 | 15 | Swansea City | 31 | 12 | 6 | 13 | 1 | 42 |
 | 16 | Norwich City | 32 | 11 | 6 | 15 | 0 | 39 |
 | 17 | Sheffield United | 31 | 12 | 3 | 16 | -1 | 39 |
-| 18 | Charlton Athletic | 30 | 9 | 9 | 12 | -9 | 36 |
+| 18 | Charlton Athletic | 31 | 9 | 10 | 12 | -9 | 37 |
 | 19 | West Bromwich Albion | 32 | 9 | 7 | 16 | -15 | 34 |
 | 20 | Portsmouth | 29 | 8 | 9 | 12 | -11 | 33 |
 | 21 | Leicester City | 32 | 10 | 8 | 14 | -7 | 32 |
