@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 11 February 2026, 10:39 PM UTC (Thursday, 12 February 2026, 04:09 AM IST)
+**Last Updated:** Wednesday, 11 February 2026, 11:33 PM UTC (Thursday, 12 February 2026, 05:03 AM IST)
 
 ### Premier League
 
@@ -401,26 +401,26 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | RB Bragantino | 2 | 2 | 0 | 0 | 2 | 6 |
-| 2 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
-| 3 | Mirassol | 3 | 1 | 2 | 0 | 1 | 5 |
+| 1 | Mirassol | 3 | 2 | 1 | 0 | 2 | 7 |
+| 2 | Coritiba | 3 | 2 | 0 | 1 | 2 | 6 |
+| 3 | RB Bragantino | 2 | 2 | 0 | 0 | 2 | 6 |
 | 4 | Palmeiras | 2 | 1 | 1 | 0 | 4 | 4 |
 | 5 | São Paulo | 2 | 1 | 1 | 0 | 1 | 4 |
 | 6 | Fluminense | 2 | 1 | 1 | 0 | 1 | 4 |
 | 7 | Bahia | 2 | 1 | 1 | 0 | 1 | 4 |
-| 8 | Flamengo | 3 | 1 | 1 | 1 | 0 | 4 |
-| 9 | Coritiba | 3 | 1 | 1 | 1 | 0 | 4 |
-| 10 | Botafogo | 2 | 1 | 0 | 1 | 2 | 3 |
-| 11 | Grêmio | 2 | 1 | 0 | 1 | 1 | 3 |
-| 12 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
-| 13 | Vitória | 3 | 1 | 0 | 2 | -3 | 3 |
-| 14 | Vasco da Gama | 2 | 0 | 1 | 1 | -1 | 1 |
-| 15 | Atlético Mineiro | 2 | 0 | 1 | 1 | -1 | 1 |
+| 8 | Chapecoense | 3 | 1 | 1 | 1 | 0 | 4 |
+| 9 | Flamengo | 3 | 1 | 1 | 1 | 0 | 4 |
+| 10 | Atlético Mineiro | 3 | 1 | 1 | 1 | 0 | 4 |
+| 11 | Botafogo | 2 | 1 | 0 | 1 | 2 | 3 |
+| 12 | Grêmio | 2 | 1 | 0 | 1 | 1 | 3 |
+| 13 | Athletico Paranaense | 1 | 1 | 0 | 0 | 1 | 3 |
+| 14 | Vitória | 3 | 1 | 0 | 2 | -3 | 3 |
+| 15 | Vasco da Gama | 2 | 0 | 1 | 1 | -1 | 1 |
 | 16 | Internacional | 2 | 0 | 1 | 1 | -1 | 1 |
 | 17 | Santos | 2 | 0 | 1 | 1 | -2 | 1 |
-| 18 | Remo | 2 | 0 | 1 | 1 | -2 | 1 |
-| 19 | Cruzeiro | 3 | 0 | 1 | 2 | -5 | 1 |
-| 20 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
+| 18 | Remo | 3 | 0 | 1 | 2 | -3 | 1 |
+| 19 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
+| 20 | Cruzeiro | 3 | 0 | 0 | 3 | -6 | 0 |
 
 
 <!-- END_TABLE -->
