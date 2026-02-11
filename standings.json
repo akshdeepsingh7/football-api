@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 11 February 2026, 12:02 AM UTC",
-        "IST": "Wednesday, 11 February 2026, 05:32 AM IST"
+        "UTC": "Wednesday, 11 February 2026, 03:34 AM UTC",
+        "IST": "Wednesday, 11 February 2026, 09:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3002,6 +3002,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Flamengo",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "4"
+            },
+            {
+                "Position": "9",
                 "Team": "Botafogo",
                 "Played": "2",
                 "Wins": "1",
@@ -3011,7 +3021,7 @@
                 "Points": "3"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Gr\u00eamio",
                 "Played": "2",
                 "Wins": "1",
@@ -3021,7 +3031,7 @@
                 "Points": "3"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Athletico Paranaense",
                 "Played": "1",
                 "Wins": "1",
@@ -3031,7 +3041,7 @@
                 "Points": "3"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Coritiba",
                 "Played": "2",
                 "Wins": "1",
@@ -3041,17 +3051,17 @@
                 "Points": "3"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Vit\u00f3ria",
-                "Played": "2",
+                "Played": "3",
                 "Wins": "1",
                 "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-2",
+                "Losses": "2",
+                "Goal Difference": "-3",
                 "Points": "3"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Vasco da Gama",
                 "Played": "2",
                 "Wins": "0",
@@ -3061,18 +3071,8 @@
                 "Points": "1"
             },
             {
-                "Position": "14",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "1"
-            },
-            {
                 "Position": "15",
-                "Team": "Flamengo",
+                "Team": "Atl\u00e9tico Mineiro",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "1",
