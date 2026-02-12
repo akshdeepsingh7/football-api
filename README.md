@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 12 February 2026, 11:30 PM UTC (Friday, 13 February 2026, 05:00 AM IST)
+**Last Updated:** Thursday, 12 February 2026, 11:56 PM UTC (Friday, 13 February 2026, 05:26 AM IST)
 
 ### Premier League
 
@@ -402,16 +402,16 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | São Paulo | 3 | 2 | 1 | 0 | 3 | 7 |
-| 2 | Bahia | 3 | 2 | 1 | 0 | 2 | 7 |
-| 3 | RB Bragantino | 3 | 2 | 1 | 0 | 2 | 7 |
-| 4 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
-| 5 | Mirassol | 3 | 1 | 2 | 0 | 1 | 5 |
-| 6 | Fluminense | 3 | 1 | 2 | 0 | 1 | 5 |
+| 2 | Fluminense | 3 | 2 | 1 | 0 | 2 | 7 |
+| 3 | Bahia | 3 | 2 | 1 | 0 | 2 | 7 |
+| 4 | RB Bragantino | 3 | 2 | 1 | 0 | 2 | 7 |
+| 5 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
+| 6 | Mirassol | 3 | 1 | 2 | 0 | 1 | 5 |
 | 7 | Palmeiras | 2 | 1 | 1 | 0 | 4 | 4 |
-| 8 | Botafogo | 3 | 1 | 1 | 1 | 2 | 4 |
-| 9 | Athletico Paranaense | 2 | 1 | 1 | 0 | 1 | 4 |
-| 10 | Coritiba | 3 | 1 | 1 | 1 | 0 | 4 |
-| 11 | Flamengo | 3 | 1 | 1 | 1 | 0 | 4 |
+| 8 | Athletico Paranaense | 2 | 1 | 1 | 0 | 1 | 4 |
+| 9 | Coritiba | 3 | 1 | 1 | 1 | 0 | 4 |
+| 10 | Flamengo | 3 | 1 | 1 | 1 | 0 | 4 |
+| 11 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
 | 12 | Grêmio | 3 | 1 | 0 | 2 | -1 | 3 |
 | 13 | Vitória | 3 | 1 | 0 | 2 | -3 | 3 |
 | 14 | Atlético Mineiro | 3 | 0 | 2 | 1 | -1 | 2 |

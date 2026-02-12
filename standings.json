@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 12 February 2026, 11:30 PM UTC",
-        "IST": "Friday, 13 February 2026, 05:00 AM IST"
+        "UTC": "Thursday, 12 February 2026, 11:56 PM UTC",
+        "IST": "Friday, 13 February 2026, 05:26 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2942,7 +2942,7 @@
             },
             {
                 "Position": "2",
-                "Team": "Bahia",
+                "Team": "Fluminense",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "1",
@@ -2952,7 +2952,7 @@
             },
             {
                 "Position": "3",
-                "Team": "RB Bragantino",
+                "Team": "Bahia",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "1",
@@ -2962,6 +2962,16 @@
             },
             {
                 "Position": "4",
+                "Team": "RB Bragantino",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "7"
+            },
+            {
+                "Position": "5",
                 "Team": "Chapecoense",
                 "Played": "3",
                 "Wins": "1",
@@ -2971,18 +2981,8 @@
                 "Points": "5"
             },
             {
-                "Position": "5",
-                "Team": "Mirassol",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "1",
-                "Points": "5"
-            },
-            {
                 "Position": "6",
-                "Team": "Fluminense",
+                "Team": "Mirassol",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "2",
@@ -3002,16 +3002,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Botafogo",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "4"
-            },
-            {
-                "Position": "9",
                 "Team": "Athletico Paranaense",
                 "Played": "2",
                 "Wins": "1",
@@ -3021,7 +3011,7 @@
                 "Points": "4"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Coritiba",
                 "Played": "3",
                 "Wins": "1",
@@ -3031,7 +3021,7 @@
                 "Points": "4"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Flamengo",
                 "Played": "3",
                 "Wins": "1",
@@ -3039,6 +3029,16 @@
                 "Losses": "1",
                 "Goal Difference": "0",
                 "Points": "4"
+            },
+            {
+                "Position": "11",
+                "Team": "Botafogo",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "3"
             },
             {
                 "Position": "12",
