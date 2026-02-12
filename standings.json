@@ -1,19 +1,19 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 12 February 2026, 07:32 PM UTC",
-        "IST": "Friday, 13 February 2026, 01:02 AM IST"
+        "UTC": "Thursday, 12 February 2026, 08:36 PM UTC",
+        "IST": "Friday, 13 February 2026, 02:06 AM IST"
     },
     "standings": {
         "Premier League": [
             {
                 "Position": "1",
                 "Team": "Arsenal",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "17",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "3",
                 "Goal Difference": "32",
-                "Points": "56"
+                "Points": "57"
             },
             {
                 "Position": "2",
@@ -68,12 +68,12 @@
             {
                 "Position": "7",
                 "Team": "Brentford",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "12",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "10",
                 "Goal Difference": "5",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "8",

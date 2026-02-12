@@ -41,19 +41,19 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 12 February 2026, 07:32 PM UTC (Friday, 13 February 2026, 01:02 AM IST)
+**Last Updated:** Thursday, 12 February 2026, 08:36 PM UTC (Friday, 13 February 2026, 02:06 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 25 | 17 | 5 | 3 | 32 | 56 |
+| 1 | Arsenal | 26 | 17 | 6 | 3 | 32 | 57 |
 | 2 | Manchester City | 26 | 16 | 5 | 5 | 30 | 53 |
 | 3 | Aston Villa | 26 | 15 | 5 | 6 | 10 | 50 |
 | 4 | Manchester United | 26 | 12 | 9 | 5 | 10 | 45 |
 | 5 | Chelsea | 26 | 12 | 8 | 6 | 17 | 44 |
 | 6 | Liverpool FC | 26 | 12 | 6 | 8 | 6 | 42 |
-| 7 | Brentford | 25 | 12 | 3 | 10 | 5 | 39 |
+| 7 | Brentford | 26 | 12 | 4 | 10 | 5 | 40 |
 | 8 | Everton | 26 | 10 | 7 | 9 | -1 | 37 |
 | 9 | AFC Bournemouth | 26 | 9 | 10 | 7 | -2 | 37 |
 | 10 | Newcastle United | 26 | 10 | 6 | 10 | 0 | 36 |
