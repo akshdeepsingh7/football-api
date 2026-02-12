@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 12 February 2026, 10:33 PM UTC (Friday, 13 February 2026, 04:03 AM IST)
+**Last Updated:** Thursday, 12 February 2026, 11:30 PM UTC (Friday, 13 February 2026, 05:00 AM IST)
 
 ### Premier League
 
@@ -403,7 +403,7 @@ Data not available.
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | São Paulo | 3 | 2 | 1 | 0 | 3 | 7 |
 | 2 | Bahia | 3 | 2 | 1 | 0 | 2 | 7 |
-| 3 | RB Bragantino | 2 | 2 | 0 | 0 | 2 | 6 |
+| 3 | RB Bragantino | 3 | 2 | 1 | 0 | 2 | 7 |
 | 4 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
 | 5 | Mirassol | 3 | 1 | 2 | 0 | 1 | 5 |
 | 6 | Fluminense | 3 | 1 | 2 | 0 | 1 | 5 |
@@ -417,10 +417,10 @@ Data not available.
 | 14 | Atlético Mineiro | 3 | 0 | 2 | 1 | -1 | 2 |
 | 15 | Remo | 3 | 0 | 2 | 1 | -2 | 2 |
 | 16 | Santos | 3 | 0 | 2 | 1 | -2 | 2 |
-| 17 | Internacional | 2 | 0 | 1 | 1 | -1 | 1 |
-| 18 | Vasco da Gama | 3 | 0 | 1 | 2 | -2 | 1 |
-| 19 | Cruzeiro | 3 | 0 | 1 | 2 | -5 | 1 |
-| 20 | Corinthians | 1 | 0 | 0 | 1 | -1 | 0 |
+| 17 | Corinthians | 2 | 0 | 1 | 1 | -1 | 1 |
+| 18 | Internacional | 2 | 0 | 1 | 1 | -1 | 1 |
+| 19 | Vasco da Gama | 3 | 0 | 1 | 2 | -2 | 1 |
+| 20 | Cruzeiro | 3 | 0 | 1 | 2 | -5 | 1 |
 
 
 <!-- END_TABLE -->
