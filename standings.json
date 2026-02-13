@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 13 February 2026, 06:03 PM UTC",
-        "IST": "Friday, 13 February 2026, 11:33 PM IST"
+        "UTC": "Friday, 13 February 2026, 07:23 PM UTC",
+        "IST": "Saturday, 14 February 2026, 12:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -798,10 +798,10 @@
                 "Team": "PSG",
                 "Played": "22",
                 "Wins": "16",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "32",
-                "Points": "52"
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "31",
+                "Points": "51"
             },
             {
                 "Position": "2",
@@ -835,6 +835,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Rennes",
+                "Played": "22",
+                "Wins": "9",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "-2",
+                "Points": "34"
+            },
+            {
+                "Position": "6",
                 "Team": "Lille",
                 "Played": "21",
                 "Wins": "10",
@@ -842,16 +852,6 @@
                 "Losses": "8",
                 "Goal Difference": "4",
                 "Points": "33"
-            },
-            {
-                "Position": "6",
-                "Team": "Rennes",
-                "Played": "22",
-                "Wins": "8",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "-3",
-                "Points": "32"
             },
             {
                 "Position": "7",
@@ -2084,12 +2084,12 @@
             {
                 "Position": "3",
                 "Team": "Benfica",
-                "Played": "21",
-                "Wins": "14",
+                "Played": "22",
+                "Wins": "15",
                 "Draws": "7",
                 "Losses": "0",
-                "Goal Difference": "32",
-                "Points": "49"
+                "Goal Difference": "34",
+                "Points": "52"
             },
             {
                 "Position": "4",
@@ -2214,11 +2214,11 @@
             {
                 "Position": "16",
                 "Team": "Santa Clara",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "4",
                 "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-10",
+                "Losses": "13",
+                "Goal Difference": "-12",
                 "Points": "17"
             },
             {

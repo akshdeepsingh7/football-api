@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 13 February 2026, 06:03 PM UTC (Friday, 13 February 2026, 11:33 PM IST)
+**Last Updated:** Friday, 13 February 2026, 07:23 PM UTC (Saturday, 14 February 2026, 12:53 AM IST)
 
 ### Premier League
 
@@ -145,12 +145,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 22 | 16 | 4 | 2 | 32 | 52 |
+| 1 | PSG | 22 | 16 | 3 | 3 | 31 | 51 |
 | 2 | Lens | 21 | 16 | 1 | 4 | 20 | 49 |
 | 3 | Lyon | 21 | 13 | 3 | 5 | 14 | 42 |
 | 4 | Marseille | 21 | 12 | 3 | 6 | 19 | 39 |
-| 5 | Lille | 21 | 10 | 3 | 8 | 4 | 33 |
-| 6 | Rennes | 22 | 8 | 8 | 6 | -3 | 32 |
+| 5 | Rennes | 22 | 9 | 7 | 6 | -2 | 34 |
+| 6 | Lille | 21 | 10 | 3 | 8 | 4 | 33 |
 | 7 | Strasbourg | 21 | 9 | 3 | 9 | 7 | 30 |
 | 8 | Toulouse | 21 | 8 | 6 | 7 | 7 | 30 |
 | 9 | Angers | 21 | 8 | 5 | 8 | -3 | 29 |
@@ -293,7 +293,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 21 | 18 | 2 | 1 | 35 | 56 |
 | 2 | Sporting CP | 21 | 16 | 4 | 1 | 43 | 52 |
-| 3 | Benfica | 21 | 14 | 7 | 0 | 32 | 49 |
+| 3 | Benfica | 22 | 15 | 7 | 0 | 34 | 52 |
 | 4 | Braga | 21 | 11 | 6 | 4 | 26 | 39 |
 | 5 | Gil Vicente | 21 | 10 | 7 | 4 | 14 | 37 |
 | 6 | Famalicão | 21 | 9 | 5 | 7 | 7 | 32 |
@@ -306,7 +306,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Nacional | 21 | 5 | 6 | 10 | -3 | 21 |
 | 14 | Rio Ave | 21 | 4 | 8 | 9 | -19 | 20 |
 | 15 | Casa Pia | 21 | 4 | 7 | 10 | -17 | 19 |
-| 16 | Santa Clara | 21 | 4 | 5 | 12 | -10 | 17 |
+| 16 | Santa Clara | 22 | 4 | 5 | 13 | -12 | 17 |
 | 17 | Tondela | 21 | 3 | 5 | 13 | -21 | 14 |
 | 18 | AVS | 21 | 0 | 5 | 16 | -39 | 5 |
 
