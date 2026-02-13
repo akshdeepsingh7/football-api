@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 13 February 2026, 09:36 PM UTC",
-        "IST": "Saturday, 14 February 2026, 03:06 AM IST"
+        "UTC": "Friday, 13 February 2026, 10:34 PM UTC",
+        "IST": "Saturday, 14 February 2026, 04:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2155,11 +2155,11 @@
                 "Position": "10",
                 "Team": "Alverca",
                 "Played": "22",
-                "Wins": "8",
-                "Draws": "3",
+                "Wins": "7",
+                "Draws": "4",
                 "Losses": "11",
-                "Goal Difference": "-14",
-                "Points": "27"
+                "Goal Difference": "-15",
+                "Points": "25"
             },
             {
                 "Position": "11",
@@ -2226,10 +2226,10 @@
                 "Team": "Tondela",
                 "Played": "22",
                 "Wins": "3",
-                "Draws": "5",
-                "Losses": "14",
-                "Goal Difference": "-22",
-                "Points": "14"
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-21",
+                "Points": "15"
             },
             {
                 "Position": "18",
