@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 13 February 2026, 07:23 PM UTC (Saturday, 14 February 2026, 12:53 AM IST)
+**Last Updated:** Friday, 13 February 2026, 07:58 PM UTC (Saturday, 14 February 2026, 01:28 AM IST)
 
 ### Premier League
 
@@ -98,7 +98,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 21 | 17 | 3 | 1 | 60 | 54 |
-| 2 | Borussia Dortmund | 21 | 14 | 6 | 1 | 23 | 48 |
+| 2 | Borussia Dortmund | 22 | 15 | 6 | 1 | 25 | 51 |
 | 3 | Hoffenheim | 21 | 13 | 3 | 5 | 16 | 42 |
 | 4 | RB Leipzig | 21 | 12 | 3 | 6 | 12 | 39 |
 | 5 | VfB Stuttgart | 21 | 12 | 3 | 6 | 10 | 39 |
@@ -110,7 +110,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Hamburg | 20 | 5 | 7 | 8 | -8 | 22 |
 | 12 | Borussia Mönchengladbach | 21 | 5 | 7 | 9 | -9 | 22 |
 | 13 | Augsburg | 21 | 6 | 4 | 11 | -15 | 22 |
-| 14 | Mainz 05 | 21 | 5 | 6 | 10 | -8 | 21 |
+| 14 | Mainz 05 | 22 | 5 | 6 | 11 | -10 | 21 |
 | 15 | VfL Wolfsburg | 21 | 5 | 4 | 12 | -15 | 19 |
 | 16 | Werder Bremen | 21 | 4 | 7 | 10 | -17 | 19 |
 | 17 | St. Pauli | 21 | 4 | 5 | 12 | -15 | 17 |
@@ -121,7 +121,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 24 | 19 | 1 | 4 | 38 | 58 |
-| 2 | Milan | 23 | 14 | 8 | 1 | 21 | 50 |
+| 2 | Milan | 24 | 14 | 9 | 1 | 21 | 51 |
 | 3 | Napoli | 24 | 15 | 4 | 5 | 13 | 49 |
 | 4 | Juventus | 24 | 13 | 7 | 4 | 21 | 46 |
 | 5 | Roma | 24 | 15 | 1 | 8 | 15 | 46 |
@@ -138,18 +138,18 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Cremonese | 24 | 5 | 8 | 11 | -12 | 23 |
 | 17 | Lecce | 24 | 5 | 6 | 13 | -16 | 21 |
 | 18 | Fiorentina | 24 | 3 | 9 | 12 | -11 | 18 |
-| 19 | Pisa | 24 | 1 | 12 | 11 | -21 | 15 |
+| 19 | Pisa | 25 | 1 | 13 | 11 | -21 | 16 |
 | 20 | Hellas Verona | 24 | 2 | 9 | 13 | -23 | 15 |
 
 ### Ligue 1
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 22 | 16 | 3 | 3 | 31 | 51 |
+| 1 | PSG | 22 | 16 | 3 | 3 | 30 | 51 |
 | 2 | Lens | 21 | 16 | 1 | 4 | 20 | 49 |
 | 3 | Lyon | 21 | 13 | 3 | 5 | 14 | 42 |
 | 4 | Marseille | 21 | 12 | 3 | 6 | 19 | 39 |
-| 5 | Rennes | 22 | 9 | 7 | 6 | -2 | 34 |
+| 5 | Rennes | 22 | 9 | 7 | 6 | -1 | 34 |
 | 6 | Lille | 21 | 10 | 3 | 8 | 4 | 33 |
 | 7 | Strasbourg | 21 | 9 | 3 | 9 | 7 | 30 |
 | 8 | Toulouse | 21 | 8 | 6 | 7 | 7 | 30 |
@@ -293,7 +293,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 21 | 18 | 2 | 1 | 35 | 56 |
 | 2 | Sporting CP | 21 | 16 | 4 | 1 | 43 | 52 |
-| 3 | Benfica | 22 | 15 | 7 | 0 | 34 | 52 |
+| 3 | Benfica | 22 | 15 | 7 | 0 | 33 | 52 |
 | 4 | Braga | 21 | 11 | 6 | 4 | 26 | 39 |
 | 5 | Gil Vicente | 21 | 10 | 7 | 4 | 14 | 37 |
 | 6 | Famalicão | 21 | 9 | 5 | 7 | 7 | 32 |
@@ -306,7 +306,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Nacional | 21 | 5 | 6 | 10 | -3 | 21 |
 | 14 | Rio Ave | 21 | 4 | 8 | 9 | -19 | 20 |
 | 15 | Casa Pia | 21 | 4 | 7 | 10 | -17 | 19 |
-| 16 | Santa Clara | 22 | 4 | 5 | 13 | -12 | 17 |
+| 16 | Santa Clara | 22 | 4 | 5 | 13 | -11 | 17 |
 | 17 | Tondela | 21 | 3 | 5 | 13 | -21 | 14 |
 | 18 | AVS | 21 | 0 | 5 | 16 | -39 | 5 |
 

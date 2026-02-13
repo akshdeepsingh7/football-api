@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 13 February 2026, 07:23 PM UTC",
-        "IST": "Saturday, 14 February 2026, 12:53 AM IST"
+        "UTC": "Friday, 13 February 2026, 07:58 PM UTC",
+        "IST": "Saturday, 14 February 2026, 01:28 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -422,12 +422,12 @@
             {
                 "Position": "2",
                 "Team": "Borussia Dortmund",
-                "Played": "21",
-                "Wins": "14",
+                "Played": "22",
+                "Wins": "15",
                 "Draws": "6",
                 "Losses": "1",
-                "Goal Difference": "23",
-                "Points": "48"
+                "Goal Difference": "25",
+                "Points": "51"
             },
             {
                 "Position": "3",
@@ -542,11 +542,11 @@
             {
                 "Position": "14",
                 "Team": "Mainz 05",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "5",
                 "Draws": "6",
-                "Losses": "10",
-                "Goal Difference": "-8",
+                "Losses": "11",
+                "Goal Difference": "-10",
                 "Points": "21"
             },
             {
@@ -604,12 +604,12 @@
             {
                 "Position": "2",
                 "Team": "Milan",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "14",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "1",
                 "Goal Difference": "21",
-                "Points": "50"
+                "Points": "51"
             },
             {
                 "Position": "3",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Pisa",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "1",
-                "Draws": "12",
+                "Draws": "13",
                 "Losses": "11",
                 "Goal Difference": "-21",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "20",
@@ -800,7 +800,7 @@
                 "Wins": "16",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "31",
+                "Goal Difference": "30",
                 "Points": "51"
             },
             {
@@ -840,7 +840,7 @@
                 "Wins": "9",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "34"
             },
             {
@@ -2088,7 +2088,7 @@
                 "Wins": "15",
                 "Draws": "7",
                 "Losses": "0",
-                "Goal Difference": "34",
+                "Goal Difference": "33",
                 "Points": "52"
             },
             {
@@ -2218,7 +2218,7 @@
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-12",
+                "Goal Difference": "-11",
                 "Points": "17"
             },
             {
