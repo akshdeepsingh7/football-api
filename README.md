@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 12 February 2026, 11:56 PM UTC (Friday, 13 February 2026, 05:26 AM IST)
+**Last Updated:** Friday, 13 February 2026, 02:41 AM UTC (Friday, 13 February 2026, 08:11 AM IST)
 
 ### Premier League
 
@@ -401,25 +401,25 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | São Paulo | 3 | 2 | 1 | 0 | 3 | 7 |
-| 2 | Fluminense | 3 | 2 | 1 | 0 | 2 | 7 |
-| 3 | Bahia | 3 | 2 | 1 | 0 | 2 | 7 |
-| 4 | RB Bragantino | 3 | 2 | 1 | 0 | 2 | 7 |
-| 5 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
-| 6 | Mirassol | 3 | 1 | 2 | 0 | 1 | 5 |
-| 7 | Palmeiras | 2 | 1 | 1 | 0 | 4 | 4 |
-| 8 | Athletico Paranaense | 2 | 1 | 1 | 0 | 1 | 4 |
+| 1 | Palmeiras | 3 | 2 | 1 | 0 | 6 | 7 |
+| 2 | São Paulo | 3 | 2 | 1 | 0 | 3 | 7 |
+| 3 | Fluminense | 3 | 2 | 1 | 0 | 2 | 7 |
+| 4 | Bahia | 3 | 2 | 1 | 0 | 2 | 7 |
+| 5 | Athletico Paranaense | 2 | 2 | 0 | 0 | 2 | 6 |
+| 6 | RB Bragantino | 3 | 2 | 0 | 1 | 0 | 6 |
+| 7 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
+| 8 | Mirassol | 3 | 1 | 2 | 0 | 1 | 5 |
 | 9 | Coritiba | 3 | 1 | 1 | 1 | 0 | 4 |
 | 10 | Flamengo | 3 | 1 | 1 | 1 | 0 | 4 |
 | 11 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
-| 12 | Grêmio | 3 | 1 | 0 | 2 | -1 | 3 |
-| 13 | Vitória | 3 | 1 | 0 | 2 | -3 | 3 |
-| 14 | Atlético Mineiro | 3 | 0 | 2 | 1 | -1 | 2 |
-| 15 | Remo | 3 | 0 | 2 | 1 | -2 | 2 |
-| 16 | Santos | 3 | 0 | 2 | 1 | -2 | 2 |
-| 17 | Corinthians | 2 | 0 | 1 | 1 | -1 | 1 |
-| 18 | Internacional | 2 | 0 | 1 | 1 | -1 | 1 |
-| 19 | Vasco da Gama | 3 | 0 | 1 | 2 | -2 | 1 |
+| 12 | Corinthians | 2 | 1 | 0 | 1 | 1 | 3 |
+| 13 | Grêmio | 3 | 1 | 0 | 2 | -1 | 3 |
+| 14 | Vitória | 3 | 1 | 0 | 2 | -3 | 3 |
+| 15 | Atlético Mineiro | 3 | 0 | 2 | 1 | -1 | 2 |
+| 16 | Remo | 3 | 0 | 2 | 1 | -2 | 2 |
+| 17 | Vasco da Gama | 3 | 0 | 1 | 2 | -2 | 1 |
+| 18 | Santos | 3 | 0 | 1 | 2 | -3 | 1 |
+| 19 | Internacional | 3 | 0 | 1 | 2 | -3 | 1 |
 | 20 | Cruzeiro | 3 | 0 | 1 | 2 | -5 | 1 |
 
 
