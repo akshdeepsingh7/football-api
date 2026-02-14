@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 07:45 PM UTC",
-        "IST": "Sunday, 15 February 2026, 01:15 AM IST"
+        "UTC": "Saturday, 14 February 2026, 08:27 PM UTC",
+        "IST": "Sunday, 15 February 2026, 01:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,12 +220,12 @@
             {
                 "Position": "2",
                 "Team": "Real Madrid",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "18",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "2",
                 "Goal Difference": "31",
-                "Points": "57"
+                "Points": "58"
             },
             {
                 "Position": "3",
@@ -280,12 +280,12 @@
             {
                 "Position": "8",
                 "Team": "Real Sociedad",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "8",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "8",
                 "Goal Difference": "2",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "9",
@@ -594,12 +594,12 @@
             {
                 "Position": "1",
                 "Team": "Inter",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "19",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "38",
-                "Points": "58"
+                "Points": "59"
             },
             {
                 "Position": "2",
@@ -624,12 +624,12 @@
             {
                 "Position": "4",
                 "Team": "Juventus",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "13",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "4",
                 "Goal Difference": "21",
-                "Points": "46"
+                "Points": "47"
             },
             {
                 "Position": "5",
@@ -806,12 +806,12 @@
             {
                 "Position": "2",
                 "Team": "Lens",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "16",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "20",
-                "Points": "49"
+                "Points": "50"
             },
             {
                 "Position": "3",
@@ -915,6 +915,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Paris FC",
+                "Played": "22",
+                "Wins": "5",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "-8",
+                "Points": "23"
+            },
+            {
+                "Position": "14",
                 "Team": "Le Havre",
                 "Played": "21",
                 "Wins": "5",
@@ -924,7 +934,7 @@
                 "Points": "23"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Nice",
                 "Played": "21",
                 "Wins": "6",
@@ -932,16 +942,6 @@
                 "Losses": "10",
                 "Goal Difference": "-11",
                 "Points": "23"
-            },
-            {
-                "Position": "15",
-                "Team": "Paris FC",
-                "Played": "21",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-8",
-                "Points": "22"
             },
             {
                 "Position": "16",

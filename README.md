@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 February 2026, 07:45 PM UTC (Sunday, 15 February 2026, 01:15 AM IST)
+**Last Updated:** Saturday, 14 February 2026, 08:27 PM UTC (Sunday, 15 February 2026, 01:57 AM IST)
 
 ### Premier League
 
@@ -73,13 +73,13 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 23 | 19 | 1 | 3 | 40 | 58 |
-| 2 | Real Madrid | 23 | 18 | 3 | 2 | 31 | 57 |
+| 2 | Real Madrid | 24 | 18 | 4 | 2 | 31 | 58 |
 | 3 | Atlético de Madrid | 23 | 13 | 6 | 4 | 20 | 45 |
 | 4 | Villarreal | 23 | 14 | 3 | 6 | 18 | 45 |
 | 5 | Real Betis | 23 | 10 | 8 | 5 | 9 | 38 |
 | 6 | Espanyol | 24 | 10 | 5 | 9 | -4 | 35 |
 | 7 | Celta de Vigo | 24 | 8 | 10 | 6 | 5 | 34 |
-| 8 | Real Sociedad | 23 | 8 | 7 | 8 | 2 | 31 |
+| 8 | Real Sociedad | 24 | 8 | 8 | 8 | 2 | 32 |
 | 9 | Osasuna | 24 | 8 | 6 | 10 | 0 | 30 |
 | 10 | Getafe | 24 | 8 | 5 | 11 | -8 | 29 |
 | 11 | Athletic Bilbao | 23 | 8 | 4 | 11 | -8 | 28 |
@@ -120,10 +120,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 24 | 19 | 1 | 4 | 38 | 58 |
+| 1 | Inter | 25 | 19 | 2 | 4 | 38 | 59 |
 | 2 | Milan | 24 | 15 | 8 | 1 | 22 | 53 |
 | 3 | Napoli | 24 | 15 | 4 | 5 | 13 | 49 |
-| 4 | Juventus | 24 | 13 | 7 | 4 | 21 | 46 |
+| 4 | Juventus | 25 | 13 | 8 | 4 | 21 | 47 |
 | 5 | Roma | 24 | 15 | 1 | 8 | 15 | 46 |
 | 6 | Atalanta | 25 | 11 | 9 | 5 | 13 | 42 |
 | 7 | Como | 24 | 11 | 8 | 5 | 20 | 41 |
@@ -146,7 +146,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 22 | 16 | 3 | 3 | 30 | 51 |
-| 2 | Lens | 21 | 16 | 1 | 4 | 20 | 49 |
+| 2 | Lens | 22 | 16 | 2 | 4 | 20 | 50 |
 | 3 | Lyon | 21 | 13 | 3 | 5 | 14 | 42 |
 | 4 | Marseille | 22 | 12 | 4 | 6 | 19 | 40 |
 | 5 | Lille | 22 | 10 | 4 | 8 | 4 | 34 |
@@ -157,9 +157,9 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Angers | 21 | 8 | 5 | 8 | -3 | 29 |
 | 11 | Lorient | 21 | 7 | 7 | 7 | -6 | 28 |
 | 12 | Brest | 22 | 7 | 6 | 9 | -5 | 27 |
-| 13 | Le Havre | 21 | 5 | 8 | 8 | -8 | 23 |
-| 14 | Nice | 21 | 6 | 5 | 10 | -11 | 23 |
-| 15 | Paris FC | 21 | 5 | 7 | 9 | -8 | 22 |
+| 13 | Paris FC | 22 | 5 | 8 | 9 | -8 | 23 |
+| 14 | Le Havre | 21 | 5 | 8 | 8 | -8 | 23 |
+| 15 | Nice | 21 | 6 | 5 | 10 | -11 | 23 |
 | 16 | Auxerre | 21 | 3 | 5 | 13 | -15 | 14 |
 | 17 | Nantes | 22 | 3 | 5 | 14 | -20 | 14 |
 | 18 | Metz | 21 | 3 | 4 | 14 | -25 | 13 |
