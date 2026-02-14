@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 11:23 AM UTC",
-        "IST": "Saturday, 14 February 2026, 04:53 PM IST"
+        "UTC": "Saturday, 14 February 2026, 11:45 AM UTC",
+        "IST": "Saturday, 14 February 2026, 05:15 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2789,6 +2789,26 @@
         "Indian Super League": [
             {
                 "Position": "1",
+                "Team": "Kerala Blasters",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
+                "Position": "2",
+                "Team": "Mohun Bagan SG",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
+                "Position": "3",
                 "Team": "Bengaluru",
                 "Played": "0",
                 "Wins": "0",
@@ -2798,7 +2818,7 @@
                 "Points": "0"
             },
             {
-                "Position": "2",
+                "Position": "4",
                 "Team": "Chennaiyin",
                 "Played": "0",
                 "Wins": "0",
@@ -2808,7 +2828,7 @@
                 "Points": "0"
             },
             {
-                "Position": "3",
+                "Position": "5",
                 "Team": "East Bengal",
                 "Played": "0",
                 "Wins": "0",
@@ -2818,7 +2838,7 @@
                 "Points": "0"
             },
             {
-                "Position": "4",
+                "Position": "6",
                 "Team": "FC Goa",
                 "Played": "0",
                 "Wins": "0",
@@ -2828,7 +2848,7 @@
                 "Points": "0"
             },
             {
-                "Position": "5",
+                "Position": "7",
                 "Team": "Inter Kashi",
                 "Played": "0",
                 "Wins": "0",
@@ -2838,7 +2858,7 @@
                 "Points": "0"
             },
             {
-                "Position": "6",
+                "Position": "8",
                 "Team": "Jamshedpur",
                 "Played": "0",
                 "Wins": "0",
@@ -2848,28 +2868,8 @@
                 "Points": "0"
             },
             {
-                "Position": "7",
-                "Team": "Kerala Blasters",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "8",
-                "Team": "Mohammedan",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
                 "Position": "9",
-                "Team": "Mohun Bagan SG",
+                "Team": "Mohammedan",
                 "Played": "0",
                 "Wins": "0",
                 "Draws": "0",
