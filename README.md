@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 February 2026, 12:51 PM UTC (Saturday, 14 February 2026, 06:21 PM IST)
+**Last Updated:** Saturday, 14 February 2026, 01:45 PM UTC (Saturday, 14 February 2026, 07:15 PM IST)
 
 ### Premier League
 
@@ -77,8 +77,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Atlético de Madrid | 23 | 13 | 6 | 4 | 20 | 45 |
 | 4 | Villarreal | 22 | 14 | 3 | 5 | 19 | 45 |
 | 5 | Real Betis | 23 | 10 | 8 | 5 | 9 | 38 |
-| 6 | Espanyol | 23 | 10 | 4 | 9 | -4 | 34 |
-| 7 | Celta de Vigo | 23 | 8 | 9 | 6 | 5 | 33 |
+| 6 | Celta de Vigo | 24 | 9 | 9 | 6 | 6 | 36 |
+| 7 | Espanyol | 24 | 10 | 4 | 10 | -5 | 34 |
 | 8 | Real Sociedad | 23 | 8 | 7 | 8 | 2 | 31 |
 | 9 | Osasuna | 24 | 8 | 6 | 10 | 0 | 30 |
 | 10 | Athletic Bilbao | 23 | 8 | 4 | 11 | -8 | 28 |
@@ -378,7 +378,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 1 | 3 |
+| 1 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 2 | 3 |
 | 2 | Bengaluru | 0 | 0 | 0 | 0 | 0 | 0 |
 | 3 | Chennaiyin | 0 | 0 | 0 | 0 | 0 | 0 |
 | 4 | East Bengal | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -391,7 +391,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
 | 12 | Punjab FC | 0 | 0 | 0 | 0 | 0 | 0 |
 | 13 | SC Delhi | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | Kerala Blasters | 1 | 0 | 0 | 1 | -1 | 0 |
+| 14 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
 
