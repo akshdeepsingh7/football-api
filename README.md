@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 February 2026, 02:28 PM UTC (Saturday, 14 February 2026, 07:58 PM IST)
+**Last Updated:** Saturday, 14 February 2026, 02:54 PM UTC (Saturday, 14 February 2026, 08:24 PM IST)
 
 ### Premier League
 
@@ -97,23 +97,23 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 21 | 17 | 3 | 1 | 60 | 54 |
+| 1 | Bayern Munich | 22 | 18 | 3 | 1 | 61 | 57 |
 | 2 | Borussia Dortmund | 22 | 15 | 6 | 1 | 27 | 51 |
-| 3 | Hoffenheim | 21 | 13 | 3 | 5 | 16 | 42 |
-| 4 | RB Leipzig | 21 | 12 | 3 | 6 | 12 | 39 |
-| 5 | VfB Stuttgart | 21 | 12 | 3 | 6 | 10 | 39 |
-| 6 | Bayer Leverkusen | 20 | 11 | 3 | 6 | 12 | 36 |
-| 7 | SC Freiburg | 21 | 8 | 6 | 7 | -1 | 30 |
-| 8 | Eintracht Frankfurt | 21 | 7 | 7 | 7 | -5 | 28 |
-| 9 | Union Berlin | 21 | 6 | 7 | 8 | -8 | 25 |
+| 3 | Hoffenheim | 22 | 13 | 4 | 5 | 16 | 43 |
+| 4 | Bayer Leverkusen | 21 | 12 | 3 | 6 | 14 | 39 |
+| 5 | RB Leipzig | 21 | 12 | 3 | 6 | 12 | 39 |
+| 6 | VfB Stuttgart | 21 | 12 | 3 | 6 | 10 | 39 |
+| 7 | SC Freiburg | 22 | 8 | 7 | 7 | -1 | 31 |
+| 8 | Eintracht Frankfurt | 22 | 7 | 8 | 7 | -5 | 29 |
+| 9 | Union Berlin | 22 | 6 | 8 | 8 | -8 | 26 |
 | 10 | Köln | 21 | 6 | 5 | 10 | -4 | 23 |
-| 11 | Hamburg | 20 | 5 | 7 | 8 | -8 | 22 |
-| 12 | Borussia Mönchengladbach | 21 | 5 | 7 | 9 | -9 | 22 |
+| 11 | Hamburg | 21 | 5 | 8 | 8 | -8 | 23 |
+| 12 | Borussia Mönchengladbach | 22 | 5 | 8 | 9 | -9 | 23 |
 | 13 | Augsburg | 21 | 6 | 4 | 11 | -15 | 22 |
 | 14 | Mainz 05 | 22 | 5 | 6 | 11 | -12 | 21 |
 | 15 | VfL Wolfsburg | 21 | 5 | 4 | 12 | -15 | 19 |
-| 16 | Werder Bremen | 21 | 4 | 7 | 10 | -17 | 19 |
-| 17 | St. Pauli | 21 | 4 | 5 | 12 | -15 | 17 |
+| 16 | Werder Bremen | 22 | 4 | 7 | 11 | -18 | 19 |
+| 17 | St. Pauli | 22 | 4 | 5 | 13 | -17 | 17 |
 | 18 | Heidenheim | 21 | 3 | 4 | 14 | -28 | 13 |
 
 ### Serie A
@@ -379,18 +379,18 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 2 | 3 |
-| 2 | FC Goa | 1 | 0 | 1 | 0 | 0 | 1 |
-| 3 | Inter Kashi | 1 | 0 | 1 | 0 | 0 | 1 |
-| 4 | Bengaluru | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | Chennaiyin | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | East Bengal | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Jamshedpur | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Mohammedan | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Mumbai City | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | NorthEast Utd | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Punjab FC | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | SC Delhi | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Inter Kashi | 1 | 1 | 0 | 0 | 1 | 3 |
+| 3 | Bengaluru | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Chennaiyin | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | East Bengal | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Jamshedpur | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Mohammedan | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Mumbai City | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | NorthEast Utd | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Punjab FC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | SC Delhi | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | FC Goa | 1 | 0 | 0 | 1 | -1 | 0 |
 | 14 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
 
 ### Liga Profesional Argentina (Clausura)

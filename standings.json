@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 02:28 PM UTC",
-        "IST": "Saturday, 14 February 2026, 07:58 PM IST"
+        "UTC": "Saturday, 14 February 2026, 02:54 PM UTC",
+        "IST": "Saturday, 14 February 2026, 08:24 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -412,12 +412,12 @@
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "21",
-                "Wins": "17",
+                "Played": "22",
+                "Wins": "18",
                 "Draws": "3",
                 "Losses": "1",
-                "Goal Difference": "60",
-                "Points": "54"
+                "Goal Difference": "61",
+                "Points": "57"
             },
             {
                 "Position": "2",
@@ -432,15 +432,25 @@
             {
                 "Position": "3",
                 "Team": "Hoffenheim",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "13",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "16",
-                "Points": "42"
+                "Points": "43"
             },
             {
                 "Position": "4",
+                "Team": "Bayer Leverkusen",
+                "Played": "21",
+                "Wins": "12",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "14",
+                "Points": "39"
+            },
+            {
+                "Position": "5",
                 "Team": "RB Leipzig",
                 "Played": "21",
                 "Wins": "12",
@@ -450,7 +460,7 @@
                 "Points": "39"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "VfB Stuttgart",
                 "Played": "21",
                 "Wins": "12",
@@ -460,44 +470,34 @@
                 "Points": "39"
             },
             {
-                "Position": "6",
-                "Team": "Bayer Leverkusen",
-                "Played": "20",
-                "Wins": "11",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "12",
-                "Points": "36"
-            },
-            {
                 "Position": "7",
                 "Team": "SC Freiburg",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "8",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "7",
                 "Goal Difference": "-1",
-                "Points": "30"
+                "Points": "31"
             },
             {
                 "Position": "8",
                 "Team": "Eintracht Frankfurt",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "7",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "7",
                 "Goal Difference": "-5",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "9",
                 "Team": "Union Berlin",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "6",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "8",
                 "Goal Difference": "-8",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "10",
@@ -512,22 +512,22 @@
             {
                 "Position": "11",
                 "Team": "Hamburg",
-                "Played": "20",
+                "Played": "21",
                 "Wins": "5",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "8",
                 "Goal Difference": "-8",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "12",
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "5",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "9",
                 "Goal Difference": "-9",
-                "Points": "22"
+                "Points": "23"
             },
             {
                 "Position": "13",
@@ -562,21 +562,21 @@
             {
                 "Position": "16",
                 "Team": "Werder Bremen",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "4",
                 "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "-17",
+                "Losses": "11",
+                "Goal Difference": "-18",
                 "Points": "19"
             },
             {
                 "Position": "17",
                 "Team": "St. Pauli",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "4",
                 "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-15",
+                "Losses": "13",
+                "Goal Difference": "-17",
                 "Points": "17"
             },
             {
@@ -2799,26 +2799,16 @@
             },
             {
                 "Position": "2",
-                "Team": "FC Goa",
+                "Team": "Inter Kashi",
                 "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
+                "Wins": "1",
+                "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
+                "Goal Difference": "1",
+                "Points": "3"
             },
             {
                 "Position": "3",
-                "Team": "Inter Kashi",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
-                "Position": "4",
                 "Team": "Bengaluru",
                 "Played": "0",
                 "Wins": "0",
@@ -2828,7 +2818,7 @@
                 "Points": "0"
             },
             {
-                "Position": "5",
+                "Position": "4",
                 "Team": "Chennaiyin",
                 "Played": "0",
                 "Wins": "0",
@@ -2838,7 +2828,7 @@
                 "Points": "0"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "East Bengal",
                 "Played": "0",
                 "Wins": "0",
@@ -2848,7 +2838,7 @@
                 "Points": "0"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Jamshedpur",
                 "Played": "0",
                 "Wins": "0",
@@ -2858,7 +2848,7 @@
                 "Points": "0"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Mohammedan",
                 "Played": "0",
                 "Wins": "0",
@@ -2868,7 +2858,7 @@
                 "Points": "0"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Mumbai City",
                 "Played": "0",
                 "Wins": "0",
@@ -2878,7 +2868,7 @@
                 "Points": "0"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "NorthEast Utd",
                 "Played": "0",
                 "Wins": "0",
@@ -2888,7 +2878,7 @@
                 "Points": "0"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Odisha",
                 "Played": "0",
                 "Wins": "0",
@@ -2898,7 +2888,7 @@
                 "Points": "0"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Punjab FC",
                 "Played": "0",
                 "Wins": "0",
@@ -2908,13 +2898,23 @@
                 "Points": "0"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "SC Delhi",
                 "Played": "0",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "0",
                 "Goal Difference": "0",
+                "Points": "0"
+            },
+            {
+                "Position": "13",
+                "Team": "FC Goa",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
                 "Points": "0"
             },
             {
