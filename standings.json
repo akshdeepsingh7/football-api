@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 05:26 PM UTC",
-        "IST": "Saturday, 14 February 2026, 10:56 PM IST"
+        "UTC": "Saturday, 14 February 2026, 05:51 PM UTC",
+        "IST": "Saturday, 14 February 2026, 11:21 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -319,6 +319,26 @@
             },
             {
                 "Position": "12",
+                "Team": "Sevilla",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-8",
+                "Points": "26"
+            },
+            {
+                "Position": "13",
+                "Team": "Alav\u00e9s",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-9",
+                "Points": "26"
+            },
+            {
+                "Position": "14",
                 "Team": "Girona",
                 "Played": "23",
                 "Wins": "6",
@@ -328,33 +348,13 @@
                 "Points": "26"
             },
             {
-                "Position": "13",
+                "Position": "15",
                 "Team": "Elche",
                 "Played": "24",
                 "Wins": "5",
                 "Draws": "10",
                 "Losses": "9",
                 "Goal Difference": "-4",
-                "Points": "25"
-            },
-            {
-                "Position": "14",
-                "Team": "Sevilla",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-8",
-                "Points": "25"
-            },
-            {
-                "Position": "15",
-                "Team": "Alav\u00e9s",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-9",
                 "Points": "25"
             },
             {
@@ -441,6 +441,16 @@
             },
             {
                 "Position": "4",
+                "Team": "VfB Stuttgart",
+                "Played": "22",
+                "Wins": "13",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "11",
+                "Points": "42"
+            },
+            {
+                "Position": "5",
                 "Team": "Bayer Leverkusen",
                 "Played": "21",
                 "Wins": "12",
@@ -450,23 +460,13 @@
                 "Points": "39"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "RB Leipzig",
                 "Played": "21",
                 "Wins": "12",
                 "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "12",
-                "Points": "39"
-            },
-            {
-                "Position": "6",
-                "Team": "VfB Stuttgart",
-                "Played": "21",
-                "Wins": "12",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "10",
                 "Points": "39"
             },
             {
@@ -512,11 +512,11 @@
             {
                 "Position": "11",
                 "Team": "K\u00f6ln",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "6",
                 "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-4",
+                "Losses": "11",
+                "Goal Difference": "-5",
                 "Points": "23"
             },
             {
@@ -643,6 +643,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Atalanta",
+                "Played": "25",
+                "Wins": "11",
+                "Draws": "9",
+                "Losses": "5",
+                "Goal Difference": "12",
+                "Points": "42"
+            },
+            {
+                "Position": "7",
                 "Team": "Como",
                 "Played": "24",
                 "Wins": "11",
@@ -652,24 +662,14 @@
                 "Points": "41"
             },
             {
-                "Position": "7",
-                "Team": "Atalanta",
-                "Played": "25",
-                "Wins": "10",
-                "Draws": "10",
-                "Losses": "5",
-                "Goal Difference": "11",
-                "Points": "40"
-            },
-            {
                 "Position": "8",
                 "Team": "Lazio",
                 "Played": "25",
                 "Wins": "8",
-                "Draws": "10",
-                "Losses": "7",
-                "Goal Difference": "3",
-                "Points": "34"
+                "Draws": "9",
+                "Losses": "8",
+                "Goal Difference": "2",
+                "Points": "33"
             },
             {
                 "Position": "9",
@@ -820,7 +820,7 @@
                 "Wins": "13",
                 "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "21",
+                "Goal Difference": "20",
                 "Points": "42"
             },
             {
@@ -880,7 +880,7 @@
                 "Wins": "9",
                 "Draws": "3",
                 "Losses": "10",
-                "Goal Difference": "5",
+                "Goal Difference": "6",
                 "Points": "30"
             },
             {
