@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 February 2026, 07:24 PM UTC (Sunday, 15 February 2026, 12:54 AM IST)
+**Last Updated:** Saturday, 14 February 2026, 07:45 PM UTC (Sunday, 15 February 2026, 01:15 AM IST)
 
 ### Premier League
 
@@ -149,14 +149,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 21 | 16 | 1 | 4 | 20 | 49 |
 | 3 | Lyon | 21 | 13 | 3 | 5 | 14 | 42 |
 | 4 | Marseille | 22 | 12 | 4 | 6 | 19 | 40 |
-| 5 | Rennes | 22 | 9 | 7 | 6 | -1 | 34 |
-| 6 | Lille | 22 | 10 | 3 | 9 | 3 | 33 |
+| 5 | Lille | 22 | 10 | 4 | 8 | 4 | 34 |
+| 6 | Rennes | 22 | 9 | 7 | 6 | -1 | 34 |
 | 7 | Strasbourg | 22 | 9 | 4 | 9 | 7 | 31 |
 | 8 | Monaco | 22 | 9 | 4 | 9 | 1 | 31 |
 | 9 | Toulouse | 21 | 8 | 6 | 7 | 7 | 30 |
 | 10 | Angers | 21 | 8 | 5 | 8 | -3 | 29 |
-| 11 | Brest | 22 | 8 | 5 | 9 | -4 | 29 |
-| 12 | Lorient | 21 | 7 | 7 | 7 | -6 | 28 |
+| 11 | Lorient | 21 | 7 | 7 | 7 | -6 | 28 |
+| 12 | Brest | 22 | 7 | 6 | 9 | -5 | 27 |
 | 13 | Le Havre | 21 | 5 | 8 | 8 | -8 | 23 |
 | 14 | Nice | 21 | 6 | 5 | 10 | -11 | 23 |
 | 15 | Paris FC | 21 | 5 | 7 | 9 | -8 | 22 |
@@ -297,11 +297,11 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Braga | 21 | 11 | 6 | 4 | 26 | 39 |
 | 5 | Gil Vicente | 21 | 10 | 7 | 4 | 14 | 37 |
 | 6 | Famalicão | 21 | 9 | 5 | 7 | 7 | 32 |
-| 7 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
-| 8 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
-| 9 | Vitória S.C. | 22 | 8 | 4 | 10 | -8 | 28 |
-| 10 | Estrela Amadora | 22 | 6 | 8 | 8 | -11 | 26 |
-| 11 | Alverca | 22 | 7 | 4 | 11 | -15 | 25 |
+| 7 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
+| 8 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
+| 9 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
+| 10 | Alverca | 22 | 7 | 4 | 11 | -15 | 25 |
+| 11 | Estrela Amadora | 22 | 5 | 8 | 9 | -13 | 23 |
 | 12 | Arouca | 22 | 6 | 5 | 11 | -21 | 23 |
 | 13 | Casa Pia | 22 | 5 | 7 | 10 | -16 | 22 |
 | 14 | Nacional | 21 | 5 | 6 | 10 | -3 | 21 |
