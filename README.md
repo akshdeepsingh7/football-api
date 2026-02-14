@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 February 2026, 06:36 PM UTC (Sunday, 15 February 2026, 12:06 AM IST)
+**Last Updated:** Saturday, 14 February 2026, 07:24 PM UTC (Sunday, 15 February 2026, 12:54 AM IST)
 
 ### Premier League
 
@@ -82,11 +82,11 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Real Sociedad | 23 | 8 | 7 | 8 | 2 | 31 |
 | 9 | Osasuna | 24 | 8 | 6 | 10 | 0 | 30 |
 | 10 | Getafe | 24 | 8 | 5 | 11 | -8 | 29 |
-| 11 | Sevilla | 24 | 8 | 4 | 12 | -7 | 28 |
-| 12 | Athletic Bilbao | 23 | 8 | 4 | 11 | -8 | 28 |
-| 13 | Girona | 23 | 6 | 8 | 9 | -15 | 26 |
-| 14 | Elche | 24 | 5 | 10 | 9 | -4 | 25 |
-| 15 | Alavés | 24 | 7 | 4 | 13 | -10 | 25 |
+| 11 | Athletic Bilbao | 23 | 8 | 4 | 11 | -8 | 28 |
+| 12 | Sevilla | 24 | 7 | 5 | 12 | -8 | 26 |
+| 13 | Alavés | 24 | 7 | 5 | 12 | -9 | 26 |
+| 14 | Girona | 23 | 6 | 8 | 9 | -15 | 26 |
+| 15 | Elche | 24 | 5 | 10 | 9 | -4 | 25 |
 | 16 | Mallorca | 23 | 6 | 6 | 11 | -9 | 24 |
 | 17 | Valencia | 23 | 5 | 8 | 10 | -14 | 23 |
 | 18 | Rayo Vallecano | 22 | 5 | 7 | 10 | -12 | 22 |
@@ -100,14 +100,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 22 | 18 | 3 | 1 | 63 | 57 |
 | 2 | Borussia Dortmund | 22 | 15 | 6 | 1 | 27 | 51 |
 | 3 | Hoffenheim | 22 | 14 | 3 | 5 | 19 | 45 |
-| 4 | VfB Stuttgart | 22 | 13 | 3 | 6 | 11 | 42 |
+| 4 | VfB Stuttgart | 22 | 13 | 3 | 6 | 12 | 42 |
 | 5 | Bayer Leverkusen | 21 | 12 | 3 | 6 | 16 | 39 |
 | 6 | RB Leipzig | 21 | 12 | 3 | 6 | 12 | 39 |
 | 7 | Eintracht Frankfurt | 22 | 8 | 7 | 7 | -2 | 31 |
 | 8 | SC Freiburg | 22 | 8 | 6 | 8 | -4 | 30 |
 | 9 | Hamburg | 21 | 6 | 7 | 8 | -7 | 25 |
 | 10 | Union Berlin | 22 | 6 | 7 | 9 | -9 | 25 |
-| 11 | Köln | 22 | 6 | 5 | 11 | -5 | 23 |
+| 11 | Köln | 22 | 6 | 5 | 11 | -6 | 23 |
 | 12 | Borussia Mönchengladbach | 22 | 5 | 7 | 10 | -12 | 22 |
 | 13 | Augsburg | 21 | 6 | 4 | 11 | -15 | 22 |
 | 14 | Mainz 05 | 22 | 5 | 6 | 11 | -12 | 21 |
@@ -149,14 +149,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 21 | 16 | 1 | 4 | 20 | 49 |
 | 3 | Lyon | 21 | 13 | 3 | 5 | 14 | 42 |
 | 4 | Marseille | 22 | 12 | 4 | 6 | 19 | 40 |
-| 5 | Lille | 22 | 10 | 4 | 8 | 4 | 34 |
-| 6 | Rennes | 22 | 9 | 7 | 6 | -1 | 34 |
+| 5 | Rennes | 22 | 9 | 7 | 6 | -1 | 34 |
+| 6 | Lille | 22 | 10 | 3 | 9 | 3 | 33 |
 | 7 | Strasbourg | 22 | 9 | 4 | 9 | 7 | 31 |
 | 8 | Monaco | 22 | 9 | 4 | 9 | 1 | 31 |
 | 9 | Toulouse | 21 | 8 | 6 | 7 | 7 | 30 |
 | 10 | Angers | 21 | 8 | 5 | 8 | -3 | 29 |
-| 11 | Lorient | 21 | 7 | 7 | 7 | -6 | 28 |
-| 12 | Brest | 22 | 7 | 6 | 9 | -5 | 27 |
+| 11 | Brest | 22 | 8 | 5 | 9 | -4 | 29 |
+| 12 | Lorient | 21 | 7 | 7 | 7 | -6 | 28 |
 | 13 | Le Havre | 21 | 5 | 8 | 8 | -8 | 23 |
 | 14 | Nice | 21 | 6 | 5 | 10 | -11 | 23 |
 | 15 | Paris FC | 21 | 5 | 7 | 9 | -8 | 22 |

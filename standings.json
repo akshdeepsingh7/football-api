@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 06:36 PM UTC",
-        "IST": "Sunday, 15 February 2026, 12:06 AM IST"
+        "UTC": "Saturday, 14 February 2026, 07:24 PM UTC",
+        "IST": "Sunday, 15 February 2026, 12:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -309,16 +309,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Sevilla",
-                "Played": "24",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-7",
-                "Points": "28"
-            },
-            {
-                "Position": "12",
                 "Team": "Athletic Bilbao",
                 "Played": "23",
                 "Wins": "8",
@@ -328,7 +318,27 @@
                 "Points": "28"
             },
             {
+                "Position": "12",
+                "Team": "Sevilla",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-8",
+                "Points": "26"
+            },
+            {
                 "Position": "13",
+                "Team": "Alav\u00e9s",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-9",
+                "Points": "26"
+            },
+            {
+                "Position": "14",
                 "Team": "Girona",
                 "Played": "23",
                 "Wins": "6",
@@ -338,23 +348,13 @@
                 "Points": "26"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Elche",
                 "Played": "24",
                 "Wins": "5",
                 "Draws": "10",
                 "Losses": "9",
                 "Goal Difference": "-4",
-                "Points": "25"
-            },
-            {
-                "Position": "15",
-                "Team": "Alav\u00e9s",
-                "Played": "24",
-                "Wins": "7",
-                "Draws": "4",
-                "Losses": "13",
-                "Goal Difference": "-10",
                 "Points": "25"
             },
             {
@@ -446,7 +446,7 @@
                 "Wins": "13",
                 "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "11",
+                "Goal Difference": "12",
                 "Points": "42"
             },
             {
@@ -516,7 +516,7 @@
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "23"
             },
             {
@@ -835,16 +835,6 @@
             },
             {
                 "Position": "5",
-                "Team": "Lille",
-                "Played": "22",
-                "Wins": "10",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "4",
-                "Points": "34"
-            },
-            {
-                "Position": "6",
                 "Team": "Rennes",
                 "Played": "22",
                 "Wins": "9",
@@ -852,6 +842,16 @@
                 "Losses": "6",
                 "Goal Difference": "-1",
                 "Points": "34"
+            },
+            {
+                "Position": "6",
+                "Team": "Lille",
+                "Played": "22",
+                "Wins": "10",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "3",
+                "Points": "33"
             },
             {
                 "Position": "7",
@@ -895,6 +895,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Brest",
+                "Played": "22",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-4",
+                "Points": "29"
+            },
+            {
+                "Position": "12",
                 "Team": "Lorient",
                 "Played": "21",
                 "Wins": "7",
@@ -902,16 +912,6 @@
                 "Losses": "7",
                 "Goal Difference": "-6",
                 "Points": "28"
-            },
-            {
-                "Position": "12",
-                "Team": "Brest",
-                "Played": "22",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-5",
-                "Points": "27"
             },
             {
                 "Position": "13",
