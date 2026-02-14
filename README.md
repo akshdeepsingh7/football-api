@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 February 2026, 11:45 AM UTC (Saturday, 14 February 2026, 05:15 PM IST)
+**Last Updated:** Saturday, 14 February 2026, 12:51 PM UTC (Saturday, 14 February 2026, 06:21 PM IST)
 
 ### Premier League
 
@@ -378,20 +378,20 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Kerala Blasters | 1 | 0 | 1 | 0 | 0 | 1 |
-| 2 | Mohun Bagan SG | 1 | 0 | 1 | 0 | 0 | 1 |
-| 3 | Bengaluru | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Chennaiyin | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | East Bengal | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | FC Goa | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Inter Kashi | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Jamshedpur | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Mohammedan | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Mumbai City | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | NorthEast Utd | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Punjab FC | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | SC Delhi | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 1 | 3 |
+| 2 | Bengaluru | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Chennaiyin | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | East Bengal | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | FC Goa | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Inter Kashi | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Jamshedpur | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Mohammedan | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Mumbai City | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | NorthEast Utd | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | Punjab FC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | SC Delhi | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Kerala Blasters | 1 | 0 | 0 | 1 | -1 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
 
