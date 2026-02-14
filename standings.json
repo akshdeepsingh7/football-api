@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 01:45 PM UTC",
-        "IST": "Saturday, 14 February 2026, 07:15 PM IST"
+        "UTC": "Saturday, 14 February 2026, 02:28 PM UTC",
+        "IST": "Saturday, 14 February 2026, 07:58 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -259,22 +259,22 @@
             },
             {
                 "Position": "6",
-                "Team": "Celta de Vigo",
-                "Played": "24",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "6",
-                "Goal Difference": "6",
-                "Points": "36"
-            },
-            {
-                "Position": "7",
                 "Team": "Espanyol",
                 "Played": "24",
                 "Wins": "10",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "-5",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "-4",
+                "Points": "35"
+            },
+            {
+                "Position": "7",
+                "Team": "Celta de Vigo",
+                "Played": "24",
+                "Wins": "8",
+                "Draws": "10",
+                "Losses": "6",
+                "Goal Difference": "5",
                 "Points": "34"
             },
             {
@@ -644,11 +644,11 @@
             {
                 "Position": "6",
                 "Team": "Como",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "11",
                 "Draws": "8",
-                "Losses": "4",
-                "Goal Difference": "21",
+                "Losses": "5",
+                "Goal Difference": "20",
                 "Points": "41"
             },
             {
@@ -764,12 +764,12 @@
             {
                 "Position": "18",
                 "Team": "Fiorentina",
-                "Played": "24",
-                "Wins": "3",
+                "Played": "25",
+                "Wins": "4",
                 "Draws": "9",
                 "Losses": "12",
-                "Goal Difference": "-11",
-                "Points": "18"
+                "Goal Difference": "-10",
+                "Points": "21"
             },
             {
                 "Position": "19",
@@ -2799,6 +2799,26 @@
             },
             {
                 "Position": "2",
+                "Team": "FC Goa",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
+                "Position": "3",
+                "Team": "Inter Kashi",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
+                "Position": "4",
                 "Team": "Bengaluru",
                 "Played": "0",
                 "Wins": "0",
@@ -2808,7 +2828,7 @@
                 "Points": "0"
             },
             {
-                "Position": "3",
+                "Position": "5",
                 "Team": "Chennaiyin",
                 "Played": "0",
                 "Wins": "0",
@@ -2818,28 +2838,8 @@
                 "Points": "0"
             },
             {
-                "Position": "4",
-                "Team": "East Bengal",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "5",
-                "Team": "FC Goa",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
                 "Position": "6",
-                "Team": "Inter Kashi",
+                "Team": "East Bengal",
                 "Played": "0",
                 "Wins": "0",
                 "Draws": "0",
