@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 08:52 PM UTC",
-        "IST": "Sunday, 15 February 2026, 02:22 AM IST"
+        "UTC": "Saturday, 14 February 2026, 09:25 PM UTC",
+        "IST": "Sunday, 15 February 2026, 02:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -214,7 +214,7 @@
                 "Wins": "19",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "33",
+                "Goal Difference": "34",
                 "Points": "60"
             },
             {
@@ -284,7 +284,7 @@
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "31"
             },
             {
@@ -595,11 +595,11 @@
                 "Position": "1",
                 "Team": "Inter",
                 "Played": "25",
-                "Wins": "19",
-                "Draws": "2",
+                "Wins": "20",
+                "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "38",
-                "Points": "59"
+                "Goal Difference": "39",
+                "Points": "61"
             },
             {
                 "Position": "2",
@@ -623,22 +623,22 @@
             },
             {
                 "Position": "4",
-                "Team": "Juventus",
-                "Played": "25",
-                "Wins": "13",
-                "Draws": "8",
-                "Losses": "4",
-                "Goal Difference": "21",
-                "Points": "47"
-            },
-            {
-                "Position": "5",
                 "Team": "Roma",
                 "Played": "24",
                 "Wins": "15",
                 "Draws": "1",
                 "Losses": "8",
                 "Goal Difference": "15",
+                "Points": "46"
+            },
+            {
+                "Position": "5",
+                "Team": "Juventus",
+                "Played": "25",
+                "Wins": "13",
+                "Draws": "7",
+                "Losses": "5",
+                "Goal Difference": "20",
                 "Points": "46"
             },
             {
@@ -2095,21 +2095,21 @@
                 "Position": "4",
                 "Team": "Braga",
                 "Played": "22",
-                "Wins": "11",
-                "Draws": "7",
+                "Wins": "12",
+                "Draws": "6",
                 "Losses": "4",
-                "Goal Difference": "26",
-                "Points": "40"
+                "Goal Difference": "27",
+                "Points": "42"
             },
             {
                 "Position": "5",
                 "Team": "Gil Vicente",
                 "Played": "22",
                 "Wins": "10",
-                "Draws": "8",
-                "Losses": "4",
-                "Goal Difference": "14",
-                "Points": "38"
+                "Draws": "7",
+                "Losses": "5",
+                "Goal Difference": "13",
+                "Points": "37"
             },
             {
                 "Position": "6",

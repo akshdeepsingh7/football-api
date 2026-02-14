@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 February 2026, 08:52 PM UTC (Sunday, 15 February 2026, 02:22 AM IST)
+**Last Updated:** Saturday, 14 February 2026, 09:25 PM UTC (Sunday, 15 February 2026, 02:55 AM IST)
 
 ### Premier League
 
@@ -72,14 +72,14 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Real Madrid | 24 | 19 | 3 | 2 | 33 | 60 |
+| 1 | Real Madrid | 24 | 19 | 3 | 2 | 34 | 60 |
 | 2 | Barcelona | 23 | 19 | 1 | 3 | 40 | 58 |
 | 3 | Atlético de Madrid | 23 | 13 | 6 | 4 | 20 | 45 |
 | 4 | Villarreal | 23 | 14 | 3 | 6 | 18 | 45 |
 | 5 | Real Betis | 23 | 10 | 8 | 5 | 9 | 38 |
 | 6 | Espanyol | 24 | 10 | 5 | 9 | -4 | 35 |
 | 7 | Celta de Vigo | 24 | 8 | 10 | 6 | 5 | 34 |
-| 8 | Real Sociedad | 24 | 8 | 7 | 9 | 0 | 31 |
+| 8 | Real Sociedad | 24 | 8 | 7 | 9 | -1 | 31 |
 | 9 | Osasuna | 24 | 8 | 6 | 10 | 0 | 30 |
 | 10 | Getafe | 24 | 8 | 5 | 11 | -8 | 29 |
 | 11 | Athletic Bilbao | 23 | 8 | 4 | 11 | -8 | 28 |
@@ -120,11 +120,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 25 | 19 | 2 | 4 | 38 | 59 |
+| 1 | Inter | 25 | 20 | 1 | 4 | 39 | 61 |
 | 2 | Milan | 24 | 15 | 8 | 1 | 22 | 53 |
 | 3 | Napoli | 24 | 15 | 4 | 5 | 13 | 49 |
-| 4 | Juventus | 25 | 13 | 8 | 4 | 21 | 47 |
-| 5 | Roma | 24 | 15 | 1 | 8 | 15 | 46 |
+| 4 | Roma | 24 | 15 | 1 | 8 | 15 | 46 |
+| 5 | Juventus | 25 | 13 | 7 | 5 | 20 | 46 |
 | 6 | Atalanta | 25 | 11 | 9 | 5 | 13 | 42 |
 | 7 | Como | 24 | 11 | 8 | 5 | 20 | 41 |
 | 8 | Lazio | 25 | 8 | 9 | 8 | 1 | 33 |
@@ -294,8 +294,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 21 | 18 | 2 | 1 | 35 | 56 |
 | 2 | Sporting CP | 21 | 16 | 4 | 1 | 43 | 52 |
 | 3 | Benfica | 22 | 15 | 7 | 0 | 33 | 52 |
-| 4 | Braga | 22 | 11 | 7 | 4 | 26 | 40 |
-| 5 | Gil Vicente | 22 | 10 | 8 | 4 | 14 | 38 |
+| 4 | Braga | 22 | 12 | 6 | 4 | 27 | 42 |
+| 5 | Gil Vicente | 22 | 10 | 7 | 5 | 13 | 37 |
 | 6 | Famalicão | 21 | 9 | 5 | 7 | 7 | 32 |
 | 7 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
 | 8 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
