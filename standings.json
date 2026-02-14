@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 February 2026, 09:47 PM UTC",
-        "IST": "Sunday, 15 February 2026, 03:17 AM IST"
+        "UTC": "Saturday, 14 February 2026, 10:25 PM UTC",
+        "IST": "Sunday, 15 February 2026, 03:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -800,7 +800,7 @@
                 "Wins": "17",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "23",
+                "Goal Difference": "25",
                 "Points": "52"
             },
             {
@@ -940,7 +940,7 @@
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "10",
-                "Goal Difference": "-11",
+                "Goal Difference": "-13",
                 "Points": "22"
             },
             {
@@ -2093,23 +2093,23 @@
             },
             {
                 "Position": "4",
-                "Team": "Braga",
+                "Team": "Gil Vicente",
                 "Played": "22",
-                "Wins": "12",
-                "Draws": "6",
+                "Wins": "11",
+                "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "27",
-                "Points": "42"
+                "Goal Difference": "15",
+                "Points": "40"
             },
             {
                 "Position": "5",
-                "Team": "Gil Vicente",
+                "Team": "Braga",
                 "Played": "22",
-                "Wins": "10",
-                "Draws": "7",
+                "Wins": "11",
+                "Draws": "6",
                 "Losses": "5",
-                "Goal Difference": "13",
-                "Points": "37"
+                "Goal Difference": "25",
+                "Points": "39"
             },
             {
                 "Position": "6",
