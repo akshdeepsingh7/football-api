@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 09:26 PM UTC",
-        "IST": "Monday, 16 February 2026, 02:56 AM IST"
+        "UTC": "Sunday, 15 February 2026, 09:49 PM UTC",
+        "IST": "Monday, 16 February 2026, 03:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -254,7 +254,7 @@
                 "Wins": "11",
                 "Draws": "8",
                 "Losses": "5",
-                "Goal Difference": "11",
+                "Goal Difference": "10",
                 "Points": "41"
             },
             {
@@ -384,7 +384,7 @@
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "12",
-                "Goal Difference": "-11",
+                "Goal Difference": "-10",
                 "Points": "24"
             },
             {
@@ -613,23 +613,23 @@
             },
             {
                 "Position": "3",
-                "Team": "Roma",
-                "Played": "25",
-                "Wins": "16",
-                "Draws": "1",
-                "Losses": "8",
-                "Goal Difference": "16",
-                "Points": "49"
-            },
-            {
-                "Position": "4",
                 "Team": "Napoli",
                 "Played": "25",
                 "Wins": "15",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "12",
-                "Points": "49"
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "13",
+                "Points": "50"
+            },
+            {
+                "Position": "4",
+                "Team": "Roma",
+                "Played": "25",
+                "Wins": "15",
+                "Draws": "2",
+                "Losses": "8",
+                "Goal Difference": "15",
+                "Points": "47"
             },
             {
                 "Position": "5",
