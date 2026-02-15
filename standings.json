@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 03:28 PM UTC",
-        "IST": "Sunday, 15 February 2026, 08:58 PM IST"
+        "UTC": "Sunday, 15 February 2026, 03:50 PM UTC",
+        "IST": "Sunday, 15 February 2026, 09:20 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2064,12 +2064,12 @@
             {
                 "Position": "1",
                 "Team": "Porto",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "18",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "35",
-                "Points": "56"
+                "Points": "57"
             },
             {
                 "Position": "2",
@@ -2183,6 +2183,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Nacional",
+                "Played": "22",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "-3",
+                "Points": "22"
+            },
+            {
+                "Position": "14",
                 "Team": "Casa Pia",
                 "Played": "22",
                 "Wins": "5",
@@ -2190,16 +2200,6 @@
                 "Losses": "10",
                 "Goal Difference": "-16",
                 "Points": "22"
-            },
-            {
-                "Position": "14",
-                "Team": "Nacional",
-                "Played": "21",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "10",
-                "Goal Difference": "-3",
-                "Points": "21"
             },
             {
                 "Position": "15",
