@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 11:45 AM UTC",
-        "IST": "Sunday, 15 February 2026, 05:15 PM IST"
+        "UTC": "Sunday, 15 February 2026, 12:53 PM UTC",
+        "IST": "Sunday, 15 February 2026, 06:23 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -663,16 +663,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Udinese",
-                "Played": "25",
-                "Wins": "10",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-8",
-                "Points": "35"
-            },
-            {
-                "Position": "9",
                 "Team": "Lazio",
                 "Played": "25",
                 "Wins": "8",
@@ -682,7 +672,27 @@
                 "Points": "33"
             },
             {
+                "Position": "9",
+                "Team": "Sassuolo",
+                "Played": "25",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-6",
+                "Points": "32"
+            },
+            {
                 "Position": "10",
+                "Team": "Udinese",
+                "Played": "25",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-10",
+                "Points": "32"
+            },
+            {
+                "Position": "11",
                 "Team": "Bologna",
                 "Played": "24",
                 "Wins": "8",
@@ -690,16 +700,6 @@
                 "Losses": "10",
                 "Goal Difference": "1",
                 "Points": "30"
-            },
-            {
-                "Position": "11",
-                "Team": "Sassuolo",
-                "Played": "25",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-8",
-                "Points": "29"
             },
             {
                 "Position": "12",
