@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 February 2026, 04:32 PM UTC (Sunday, 15 February 2026, 10:02 PM IST)
+**Last Updated:** Sunday, 15 February 2026, 05:26 PM UTC (Sunday, 15 February 2026, 10:56 PM IST)
 
 ### Premier League
 
@@ -75,7 +75,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Real Madrid | 24 | 19 | 3 | 2 | 34 | 60 |
 | 2 | Barcelona | 23 | 19 | 1 | 3 | 40 | 58 |
 | 3 | Villarreal | 23 | 14 | 3 | 6 | 18 | 45 |
-| 4 | Atlético de Madrid | 24 | 13 | 6 | 5 | 18 | 45 |
+| 4 | Atlético de Madrid | 24 | 13 | 6 | 5 | 17 | 45 |
 | 5 | Real Betis | 23 | 10 | 8 | 5 | 9 | 38 |
 | 6 | Espanyol | 24 | 10 | 5 | 9 | -4 | 35 |
 | 7 | Celta de Vigo | 24 | 8 | 10 | 6 | 5 | 34 |
@@ -87,7 +87,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Alavés | 24 | 7 | 5 | 12 | -9 | 26 |
 | 14 | Girona | 23 | 6 | 8 | 9 | -15 | 26 |
 | 15 | Elche | 24 | 5 | 10 | 9 | -4 | 25 |
-| 16 | Rayo Vallecano | 23 | 6 | 7 | 10 | -10 | 25 |
+| 16 | Rayo Vallecano | 23 | 6 | 7 | 10 | -9 | 25 |
 | 17 | Mallorca | 23 | 6 | 6 | 11 | -9 | 24 |
 | 18 | Valencia | 23 | 5 | 8 | 10 | -14 | 23 |
 | 19 | Levante | 22 | 4 | 6 | 12 | -12 | 18 |
@@ -130,10 +130,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Lazio | 25 | 8 | 9 | 8 | 1 | 33 |
 | 9 | Sassuolo | 25 | 9 | 5 | 11 | -6 | 32 |
 | 10 | Udinese | 25 | 9 | 5 | 11 | -10 | 32 |
-| 11 | Bologna | 24 | 8 | 6 | 10 | 1 | 30 |
+| 11 | Bologna | 25 | 8 | 7 | 10 | 1 | 31 |
 | 12 | Parma | 25 | 7 | 8 | 10 | -13 | 29 |
 | 13 | Cagliari | 24 | 7 | 7 | 10 | -5 | 28 |
-| 14 | Torino | 24 | 7 | 6 | 11 | -18 | 27 |
+| 14 | Torino | 25 | 7 | 7 | 11 | -18 | 28 |
 | 15 | Cremonese | 25 | 5 | 9 | 11 | -12 | 24 |
 | 16 | Genoa | 25 | 5 | 9 | 11 | -8 | 24 |
 | 17 | Lecce | 24 | 5 | 6 | 13 | -16 | 21 |
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 22 | 18 | 3 | 1 | 35 | 57 |
+| 1 | Porto | 22 | 19 | 2 | 1 | 36 | 59 |
 | 2 | Sporting CP | 21 | 16 | 4 | 1 | 43 | 52 |
 | 3 | Benfica | 22 | 15 | 7 | 0 | 33 | 52 |
 | 4 | Gil Vicente | 22 | 11 | 7 | 4 | 15 | 40 |
@@ -303,8 +303,8 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Alverca | 22 | 7 | 4 | 11 | -15 | 25 |
 | 11 | Estrela Amadora | 22 | 5 | 8 | 9 | -13 | 23 |
 | 12 | Arouca | 22 | 6 | 5 | 11 | -21 | 23 |
-| 13 | Nacional | 22 | 5 | 7 | 10 | -3 | 22 |
-| 14 | Casa Pia | 22 | 5 | 7 | 10 | -16 | 22 |
+| 13 | Casa Pia | 22 | 5 | 7 | 10 | -16 | 22 |
+| 14 | Nacional | 22 | 5 | 6 | 11 | -4 | 21 |
 | 15 | Rio Ave | 21 | 4 | 8 | 9 | -19 | 20 |
 | 16 | Santa Clara | 22 | 4 | 5 | 13 | -11 | 17 |
 | 17 | Tondela | 22 | 3 | 6 | 13 | -21 | 15 |

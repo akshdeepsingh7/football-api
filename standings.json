@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 04:32 PM UTC",
-        "IST": "Sunday, 15 February 2026, 10:02 PM IST"
+        "UTC": "Sunday, 15 February 2026, 05:26 PM UTC",
+        "IST": "Sunday, 15 February 2026, 10:56 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -244,7 +244,7 @@
                 "Wins": "13",
                 "Draws": "6",
                 "Losses": "5",
-                "Goal Difference": "18",
+                "Goal Difference": "17",
                 "Points": "45"
             },
             {
@@ -364,7 +364,7 @@
                 "Wins": "6",
                 "Draws": "7",
                 "Losses": "10",
-                "Goal Difference": "-10",
+                "Goal Difference": "-9",
                 "Points": "25"
             },
             {
@@ -694,12 +694,12 @@
             {
                 "Position": "11",
                 "Team": "Bologna",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "8",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "10",
                 "Goal Difference": "1",
-                "Points": "30"
+                "Points": "31"
             },
             {
                 "Position": "12",
@@ -724,12 +724,12 @@
             {
                 "Position": "14",
                 "Team": "Torino",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "7",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "11",
                 "Goal Difference": "-18",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "15",
@@ -2065,11 +2065,11 @@
                 "Position": "1",
                 "Team": "Porto",
                 "Played": "22",
-                "Wins": "18",
-                "Draws": "3",
+                "Wins": "19",
+                "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "35",
-                "Points": "57"
+                "Goal Difference": "36",
+                "Points": "59"
             },
             {
                 "Position": "2",
@@ -2183,16 +2183,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Nacional",
-                "Played": "22",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "-3",
-                "Points": "22"
-            },
-            {
-                "Position": "14",
                 "Team": "Casa Pia",
                 "Played": "22",
                 "Wins": "5",
@@ -2200,6 +2190,16 @@
                 "Losses": "10",
                 "Goal Difference": "-16",
                 "Points": "22"
+            },
+            {
+                "Position": "14",
+                "Team": "Nacional",
+                "Played": "22",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "-4",
+                "Points": "21"
             },
             {
                 "Position": "15",
