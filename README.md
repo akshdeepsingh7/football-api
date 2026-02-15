@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 February 2026, 05:52 PM UTC (Sunday, 15 February 2026, 11:22 PM IST)
+**Last Updated:** Sunday, 15 February 2026, 06:37 PM UTC (Monday, 16 February 2026, 12:07 AM IST)
 
 ### Premier League
 
@@ -101,8 +101,8 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Borussia Dortmund | 22 | 15 | 6 | 1 | 27 | 51 |
 | 3 | Hoffenheim | 22 | 14 | 3 | 5 | 19 | 45 |
 | 4 | VfB Stuttgart | 22 | 13 | 3 | 6 | 12 | 42 |
-| 5 | Bayer Leverkusen | 21 | 12 | 3 | 6 | 16 | 39 |
-| 6 | RB Leipzig | 22 | 12 | 3 | 7 | 11 | 39 |
+| 5 | RB Leipzig | 22 | 12 | 4 | 6 | 12 | 40 |
+| 6 | Bayer Leverkusen | 21 | 12 | 3 | 6 | 16 | 39 |
 | 7 | Eintracht Frankfurt | 22 | 8 | 7 | 7 | -2 | 31 |
 | 8 | SC Freiburg | 22 | 8 | 6 | 8 | -4 | 30 |
 | 9 | Hamburg | 21 | 6 | 7 | 8 | -7 | 25 |
@@ -110,8 +110,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Augsburg | 22 | 7 | 4 | 11 | -14 | 25 |
 | 12 | Köln | 22 | 6 | 5 | 11 | -6 | 23 |
 | 13 | Borussia Mönchengladbach | 22 | 5 | 7 | 10 | -12 | 22 |
-| 14 | VfL Wolfsburg | 22 | 6 | 4 | 12 | -14 | 22 |
-| 15 | Mainz 05 | 22 | 5 | 6 | 11 | -12 | 21 |
+| 14 | Mainz 05 | 22 | 5 | 6 | 11 | -12 | 21 |
+| 15 | VfL Wolfsburg | 22 | 5 | 5 | 12 | -15 | 20 |
 | 16 | Werder Bremen | 22 | 4 | 7 | 11 | -20 | 19 |
 | 17 | St. Pauli | 22 | 4 | 5 | 13 | -19 | 17 |
 | 18 | Heidenheim | 22 | 3 | 4 | 15 | -29 | 13 |
@@ -127,13 +127,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Juventus | 25 | 13 | 7 | 5 | 20 | 46 |
 | 6 | Atalanta | 25 | 11 | 9 | 5 | 13 | 42 |
 | 7 | Como | 24 | 11 | 8 | 5 | 20 | 41 |
-| 8 | Lazio | 25 | 8 | 9 | 8 | 1 | 33 |
-| 9 | Sassuolo | 25 | 9 | 5 | 11 | -6 | 32 |
-| 10 | Udinese | 25 | 9 | 5 | 11 | -10 | 32 |
-| 11 | Bologna | 25 | 8 | 7 | 10 | 1 | 31 |
+| 8 | Bologna | 25 | 9 | 6 | 10 | 2 | 33 |
+| 9 | Lazio | 25 | 8 | 9 | 8 | 1 | 33 |
+| 10 | Sassuolo | 25 | 9 | 5 | 11 | -6 | 32 |
+| 11 | Udinese | 25 | 9 | 5 | 11 | -10 | 32 |
 | 12 | Parma | 25 | 7 | 8 | 10 | -13 | 29 |
 | 13 | Cagliari | 24 | 7 | 7 | 10 | -5 | 28 |
-| 14 | Torino | 25 | 7 | 7 | 11 | -18 | 28 |
+| 14 | Torino | 25 | 7 | 6 | 12 | -19 | 27 |
 | 15 | Cremonese | 25 | 5 | 9 | 11 | -12 | 24 |
 | 16 | Genoa | 25 | 5 | 9 | 11 | -8 | 24 |
 | 17 | Lecce | 24 | 5 | 6 | 13 | -16 | 21 |
@@ -297,8 +297,8 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Gil Vicente | 22 | 11 | 7 | 4 | 15 | 40 |
 | 5 | Braga | 22 | 11 | 6 | 5 | 25 | 39 |
 | 6 | Famalicão | 21 | 9 | 5 | 7 | 7 | 32 |
-| 7 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
-| 8 | Estoril | 21 | 8 | 6 | 7 | 8 | 30 |
+| 7 | Estoril | 22 | 8 | 7 | 7 | 8 | 31 |
+| 8 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
 | 9 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
 | 10 | Alverca | 22 | 7 | 4 | 11 | -15 | 25 |
 | 11 | Estrela Amadora | 22 | 5 | 8 | 9 | -13 | 23 |
@@ -308,7 +308,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Rio Ave | 21 | 4 | 8 | 9 | -19 | 20 |
 | 16 | Santa Clara | 22 | 4 | 5 | 13 | -11 | 17 |
 | 17 | Tondela | 22 | 3 | 6 | 13 | -21 | 15 |
-| 18 | AVS | 21 | 0 | 5 | 16 | -39 | 5 |
+| 18 | AVS | 22 | 0 | 6 | 16 | -39 | 6 |
 
 ### EFL Championship
 

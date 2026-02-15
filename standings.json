@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 05:52 PM UTC",
-        "IST": "Sunday, 15 February 2026, 11:22 PM IST"
+        "UTC": "Sunday, 15 February 2026, 06:37 PM UTC",
+        "IST": "Monday, 16 February 2026, 12:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -451,22 +451,22 @@
             },
             {
                 "Position": "5",
+                "Team": "RB Leipzig",
+                "Played": "22",
+                "Wins": "12",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "12",
+                "Points": "40"
+            },
+            {
+                "Position": "6",
                 "Team": "Bayer Leverkusen",
                 "Played": "21",
                 "Wins": "12",
                 "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "16",
-                "Points": "39"
-            },
-            {
-                "Position": "6",
-                "Team": "RB Leipzig",
-                "Played": "22",
-                "Wins": "12",
-                "Draws": "3",
-                "Losses": "7",
-                "Goal Difference": "11",
                 "Points": "39"
             },
             {
@@ -541,16 +541,6 @@
             },
             {
                 "Position": "14",
-                "Team": "VfL Wolfsburg",
-                "Played": "22",
-                "Wins": "6",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-14",
-                "Points": "22"
-            },
-            {
-                "Position": "15",
                 "Team": "Mainz 05",
                 "Played": "22",
                 "Wins": "5",
@@ -558,6 +548,16 @@
                 "Losses": "11",
                 "Goal Difference": "-12",
                 "Points": "21"
+            },
+            {
+                "Position": "15",
+                "Team": "VfL Wolfsburg",
+                "Played": "22",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-15",
+                "Points": "20"
             },
             {
                 "Position": "16",
@@ -663,6 +663,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Bologna",
+                "Played": "25",
+                "Wins": "9",
+                "Draws": "6",
+                "Losses": "10",
+                "Goal Difference": "2",
+                "Points": "33"
+            },
+            {
+                "Position": "9",
                 "Team": "Lazio",
                 "Played": "25",
                 "Wins": "8",
@@ -672,7 +682,7 @@
                 "Points": "33"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Sassuolo",
                 "Played": "25",
                 "Wins": "9",
@@ -682,7 +692,7 @@
                 "Points": "32"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Udinese",
                 "Played": "25",
                 "Wins": "9",
@@ -690,16 +700,6 @@
                 "Losses": "11",
                 "Goal Difference": "-10",
                 "Points": "32"
-            },
-            {
-                "Position": "11",
-                "Team": "Bologna",
-                "Played": "25",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "1",
-                "Points": "31"
             },
             {
                 "Position": "12",
@@ -726,10 +726,10 @@
                 "Team": "Torino",
                 "Played": "25",
                 "Wins": "7",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-18",
-                "Points": "28"
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-19",
+                "Points": "27"
             },
             {
                 "Position": "15",
@@ -2123,6 +2123,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Estoril",
+                "Played": "22",
+                "Wins": "8",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "8",
+                "Points": "31"
+            },
+            {
+                "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "22",
                 "Wins": "9",
@@ -2130,16 +2140,6 @@
                 "Losses": "9",
                 "Goal Difference": "-6",
                 "Points": "31"
-            },
-            {
-                "Position": "8",
-                "Team": "Estoril",
-                "Played": "21",
-                "Wins": "8",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "8",
-                "Points": "30"
             },
             {
                 "Position": "9",
@@ -2234,12 +2234,12 @@
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "0",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "16",
                 "Goal Difference": "-39",
-                "Points": "5"
+                "Points": "6"
             }
         ],
         "EFL Championship": [
