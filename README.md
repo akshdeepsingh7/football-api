@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 February 2026, 07:26 PM UTC (Monday, 16 February 2026, 12:56 AM IST)
+**Last Updated:** Sunday, 15 February 2026, 07:47 PM UTC (Monday, 16 February 2026, 01:17 AM IST)
 
 ### Premier League
 
@@ -122,8 +122,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 25 | 20 | 1 | 4 | 39 | 61 |
 | 2 | Milan | 24 | 15 | 8 | 1 | 22 | 53 |
-| 3 | Napoli | 24 | 15 | 4 | 5 | 13 | 49 |
-| 4 | Roma | 24 | 15 | 1 | 8 | 15 | 46 |
+| 3 | Napoli | 25 | 15 | 5 | 5 | 13 | 50 |
+| 4 | Roma | 25 | 15 | 2 | 8 | 15 | 47 |
 | 5 | Juventus | 25 | 13 | 7 | 5 | 20 | 46 |
 | 6 | Atalanta | 25 | 11 | 9 | 5 | 13 | 42 |
 | 7 | Como | 24 | 11 | 8 | 5 | 20 | 41 |
@@ -298,7 +298,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Braga | 22 | 11 | 6 | 5 | 25 | 39 |
 | 6 | Famalicão | 21 | 9 | 5 | 7 | 7 | 32 |
 | 7 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
-| 8 | Estoril | 22 | 8 | 6 | 8 | 7 | 30 |
+| 8 | Estoril | 22 | 8 | 6 | 8 | 6 | 30 |
 | 9 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
 | 10 | Alverca | 22 | 7 | 4 | 11 | -15 | 25 |
 | 11 | Estrela Amadora | 22 | 5 | 8 | 9 | -13 | 23 |
@@ -308,7 +308,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Rio Ave | 21 | 4 | 8 | 9 | -19 | 20 |
 | 16 | Santa Clara | 22 | 4 | 5 | 13 | -11 | 17 |
 | 17 | Tondela | 22 | 3 | 6 | 13 | -21 | 15 |
-| 18 | AVS | 22 | 1 | 5 | 16 | -38 | 8 |
+| 18 | AVS | 22 | 1 | 5 | 16 | -37 | 8 |
 
 ### EFL Championship
 
