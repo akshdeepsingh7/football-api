@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 01:47 PM UTC",
-        "IST": "Sunday, 15 February 2026, 07:17 PM IST"
+        "UTC": "Sunday, 15 February 2026, 02:28 PM UTC",
+        "IST": "Sunday, 15 February 2026, 07:58 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -289,6 +289,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Athletic Bilbao",
+                "Played": "24",
+                "Wins": "9",
+                "Draws": "4",
+                "Losses": "11",
+                "Goal Difference": "-7",
+                "Points": "31"
+            },
+            {
+                "Position": "10",
                 "Team": "Osasuna",
                 "Played": "24",
                 "Wins": "8",
@@ -298,7 +308,7 @@
                 "Points": "30"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Getafe",
                 "Played": "24",
                 "Wins": "8",
@@ -306,16 +316,6 @@
                 "Losses": "11",
                 "Goal Difference": "-8",
                 "Points": "29"
-            },
-            {
-                "Position": "11",
-                "Team": "Athletic Bilbao",
-                "Played": "24",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-9",
-                "Points": "28"
             },
             {
                 "Position": "12",
@@ -389,16 +389,6 @@
             },
             {
                 "Position": "19",
-                "Team": "Real Oviedo",
-                "Played": "23",
-                "Wins": "4",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-21",
-                "Points": "19"
-            },
-            {
-                "Position": "20",
                 "Team": "Levante",
                 "Played": "22",
                 "Wins": "4",
@@ -406,6 +396,16 @@
                 "Losses": "12",
                 "Goal Difference": "-12",
                 "Points": "18"
+            },
+            {
+                "Position": "20",
+                "Team": "Real Oviedo",
+                "Played": "23",
+                "Wins": "3",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-23",
+                "Points": "16"
             }
         ],
         "Bundesliga": [
@@ -703,6 +703,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Parma",
+                "Played": "25",
+                "Wins": "7",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-13",
+                "Points": "29"
+            },
+            {
+                "Position": "13",
                 "Team": "Cagliari",
                 "Played": "24",
                 "Wins": "7",
@@ -712,7 +722,7 @@
                 "Points": "28"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Torino",
                 "Played": "24",
                 "Wins": "7",
@@ -722,34 +732,24 @@
                 "Points": "27"
             },
             {
-                "Position": "14",
-                "Team": "Parma",
-                "Played": "24",
-                "Wins": "6",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-14",
-                "Points": "26"
-            },
-            {
                 "Position": "15",
                 "Team": "Genoa",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "5",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "11",
                 "Goal Difference": "-8",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "16",
                 "Team": "Cremonese",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "5",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "11",
                 "Goal Difference": "-12",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "17",
@@ -773,22 +773,22 @@
             },
             {
                 "Position": "19",
-                "Team": "Hellas Verona",
-                "Played": "24",
-                "Wins": "2",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-23",
-                "Points": "15"
-            },
-            {
-                "Position": "20",
                 "Team": "Pisa",
                 "Played": "25",
                 "Wins": "1",
                 "Draws": "12",
                 "Losses": "12",
                 "Goal Difference": "-22",
+                "Points": "15"
+            },
+            {
+                "Position": "20",
+                "Team": "Hellas Verona",
+                "Played": "25",
+                "Wins": "2",
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "-24",
                 "Points": "15"
             }
         ],
@@ -865,6 +865,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Toulouse",
+                "Played": "22",
+                "Wins": "8",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "7",
+                "Points": "31"
+            },
+            {
+                "Position": "9",
                 "Team": "Monaco",
                 "Played": "22",
                 "Wins": "9",
@@ -872,16 +882,6 @@
                 "Losses": "9",
                 "Goal Difference": "1",
                 "Points": "31"
-            },
-            {
-                "Position": "9",
-                "Team": "Toulouse",
-                "Played": "21",
-                "Wins": "8",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "7",
-                "Points": "30"
             },
             {
                 "Position": "10",
@@ -916,12 +916,12 @@
             {
                 "Position": "13",
                 "Team": "Le Havre",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "5",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "8",
                 "Goal Difference": "-8",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "14",
@@ -2830,15 +2830,25 @@
             {
                 "Position": "5",
                 "Team": "Bengaluru",
-                "Played": "0",
+                "Played": "1",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "0",
-                "Points": "0"
+                "Points": "1"
             },
             {
                 "Position": "6",
+                "Team": "SC Delhi",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "0",
+                "Points": "1"
+            },
+            {
+                "Position": "7",
                 "Team": "Chennaiyin",
                 "Played": "0",
                 "Wins": "0",
@@ -2848,7 +2858,7 @@
                 "Points": "0"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "East Bengal",
                 "Played": "0",
                 "Wins": "0",
@@ -2858,7 +2868,7 @@
                 "Points": "0"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Mumbai City",
                 "Played": "0",
                 "Wins": "0",
@@ -2868,7 +2878,7 @@
                 "Points": "0"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "NorthEast Utd",
                 "Played": "0",
                 "Wins": "0",
@@ -2878,7 +2888,7 @@
                 "Points": "0"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Odisha",
                 "Played": "0",
                 "Wins": "0",
@@ -2888,18 +2898,8 @@
                 "Points": "0"
             },
             {
-                "Position": "11",
-                "Team": "Punjab FC",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
                 "Position": "12",
-                "Team": "SC Delhi",
+                "Team": "Punjab FC",
                 "Played": "0",
                 "Wins": "0",
                 "Draws": "0",
