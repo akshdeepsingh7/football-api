@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 February 2026, 08:54 PM UTC (Monday, 16 February 2026, 02:24 AM IST)
+**Last Updated:** Sunday, 15 February 2026, 09:26 PM UTC (Monday, 16 February 2026, 02:56 AM IST)
 
 ### Premier League
 
@@ -122,8 +122,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 25 | 20 | 1 | 4 | 39 | 61 |
 | 2 | Milan | 24 | 15 | 8 | 1 | 22 | 53 |
-| 3 | Napoli | 25 | 15 | 5 | 5 | 13 | 50 |
-| 4 | Roma | 25 | 15 | 2 | 8 | 15 | 47 |
+| 3 | Roma | 25 | 16 | 1 | 8 | 16 | 49 |
+| 4 | Napoli | 25 | 15 | 4 | 6 | 12 | 49 |
 | 5 | Juventus | 25 | 13 | 7 | 5 | 20 | 46 |
 | 6 | Atalanta | 25 | 11 | 9 | 5 | 13 | 42 |
 | 7 | Como | 24 | 11 | 8 | 5 | 20 | 41 |
@@ -147,7 +147,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Lens | 22 | 17 | 1 | 4 | 25 | 52 |
 | 2 | PSG | 22 | 16 | 3 | 3 | 30 | 51 |
-| 3 | Lyon | 22 | 14 | 3 | 5 | 15 | 45 |
+| 3 | Lyon | 22 | 14 | 3 | 5 | 16 | 45 |
 | 4 | Marseille | 22 | 12 | 4 | 6 | 19 | 40 |
 | 5 | Lille | 22 | 10 | 4 | 8 | 4 | 34 |
 | 6 | Rennes | 22 | 9 | 7 | 6 | -1 | 34 |
@@ -158,7 +158,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Angers | 22 | 8 | 5 | 9 | -5 | 29 |
 | 12 | Brest | 22 | 7 | 6 | 9 | -5 | 27 |
 | 13 | Le Havre | 22 | 6 | 8 | 8 | -7 | 26 |
-| 14 | Nice | 22 | 6 | 5 | 11 | -12 | 23 |
+| 14 | Nice | 22 | 6 | 5 | 11 | -13 | 23 |
 | 15 | Paris FC | 22 | 5 | 7 | 10 | -13 | 22 |
 | 16 | Auxerre | 22 | 4 | 5 | 13 | -13 | 17 |
 | 17 | Nantes | 22 | 3 | 5 | 14 | -20 | 14 |
