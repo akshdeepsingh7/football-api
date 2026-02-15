@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 05:26 PM UTC",
-        "IST": "Sunday, 15 February 2026, 10:56 PM IST"
+        "UTC": "Sunday, 15 February 2026, 05:52 PM UTC",
+        "IST": "Sunday, 15 February 2026, 11:22 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -380,22 +380,22 @@
             {
                 "Position": "18",
                 "Team": "Valencia",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "5",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "10",
                 "Goal Difference": "-14",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "19",
                 "Team": "Levante",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "4",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "12",
                 "Goal Difference": "-12",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "20",
@@ -451,22 +451,22 @@
             },
             {
                 "Position": "5",
-                "Team": "RB Leipzig",
-                "Played": "22",
-                "Wins": "12",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "12",
-                "Points": "40"
-            },
-            {
-                "Position": "6",
                 "Team": "Bayer Leverkusen",
                 "Played": "21",
                 "Wins": "12",
                 "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "16",
+                "Points": "39"
+            },
+            {
+                "Position": "6",
+                "Team": "RB Leipzig",
+                "Played": "22",
+                "Wins": "12",
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "11",
                 "Points": "39"
             },
             {
@@ -541,6 +541,16 @@
             },
             {
                 "Position": "14",
+                "Team": "VfL Wolfsburg",
+                "Played": "22",
+                "Wins": "6",
+                "Draws": "4",
+                "Losses": "12",
+                "Goal Difference": "-14",
+                "Points": "22"
+            },
+            {
+                "Position": "15",
                 "Team": "Mainz 05",
                 "Played": "22",
                 "Wins": "5",
@@ -548,16 +558,6 @@
                 "Losses": "11",
                 "Goal Difference": "-12",
                 "Points": "21"
-            },
-            {
-                "Position": "15",
-                "Team": "VfL Wolfsburg",
-                "Played": "22",
-                "Wins": "5",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-15",
-                "Points": "20"
             },
             {
                 "Position": "16",
@@ -880,7 +880,7 @@
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "7",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "31"
             },
             {
@@ -900,7 +900,7 @@
                 "Wins": "8",
                 "Draws": "5",
                 "Losses": "9",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "29"
             },
             {
@@ -950,7 +950,7 @@
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-14",
+                "Goal Difference": "-13",
                 "Points": "17"
             },
             {
@@ -970,7 +970,7 @@
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "15",
-                "Goal Difference": "-26",
+                "Goal Difference": "-27",
                 "Points": "13"
             }
         ],
