@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 06:37 PM UTC",
-        "IST": "Monday, 16 February 2026, 12:07 AM IST"
+        "UTC": "Sunday, 15 February 2026, 07:26 PM UTC",
+        "IST": "Monday, 16 February 2026, 12:56 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -339,6 +339,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Valencia",
+                "Played": "24",
+                "Wins": "6",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-12",
+                "Points": "26"
+            },
+            {
+                "Position": "15",
                 "Team": "Girona",
                 "Played": "23",
                 "Wins": "6",
@@ -348,7 +358,7 @@
                 "Points": "26"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Elche",
                 "Played": "24",
                 "Wins": "5",
@@ -358,7 +368,7 @@
                 "Points": "25"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Rayo Vallecano",
                 "Played": "23",
                 "Wins": "6",
@@ -368,7 +378,7 @@
                 "Points": "25"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Mallorca",
                 "Played": "23",
                 "Wins": "6",
@@ -378,24 +388,14 @@
                 "Points": "24"
             },
             {
-                "Position": "18",
-                "Team": "Valencia",
-                "Played": "24",
-                "Wins": "5",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-14",
-                "Points": "24"
-            },
-            {
                 "Position": "19",
                 "Team": "Levante",
                 "Played": "23",
                 "Wins": "4",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-12",
-                "Points": "19"
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-14",
+                "Points": "18"
             },
             {
                 "Position": "20",
@@ -2123,16 +2123,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Estoril",
-                "Played": "22",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "8",
-                "Points": "31"
-            },
-            {
-                "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "22",
                 "Wins": "9",
@@ -2140,6 +2130,16 @@
                 "Losses": "9",
                 "Goal Difference": "-6",
                 "Points": "31"
+            },
+            {
+                "Position": "8",
+                "Team": "Estoril",
+                "Played": "22",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "7",
+                "Points": "30"
             },
             {
                 "Position": "9",
@@ -2235,11 +2235,11 @@
                 "Position": "18",
                 "Team": "AVS",
                 "Played": "22",
-                "Wins": "0",
-                "Draws": "6",
+                "Wins": "1",
+                "Draws": "5",
                 "Losses": "16",
-                "Goal Difference": "-39",
-                "Points": "6"
+                "Goal Difference": "-38",
+                "Points": "8"
             }
         ],
         "EFL Championship": [
