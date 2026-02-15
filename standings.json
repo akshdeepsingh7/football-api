@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 12:53 PM UTC",
-        "IST": "Sunday, 15 February 2026, 06:23 PM IST"
+        "UTC": "Sunday, 15 February 2026, 01:47 PM UTC",
+        "IST": "Sunday, 15 February 2026, 07:17 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -310,11 +310,11 @@
             {
                 "Position": "11",
                 "Team": "Athletic Bilbao",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "8",
                 "Draws": "4",
-                "Losses": "11",
-                "Goal Difference": "-8",
+                "Losses": "12",
+                "Goal Difference": "-9",
                 "Points": "28"
             },
             {
@@ -389,6 +389,16 @@
             },
             {
                 "Position": "19",
+                "Team": "Real Oviedo",
+                "Played": "23",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "-21",
+                "Points": "19"
+            },
+            {
+                "Position": "20",
                 "Team": "Levante",
                 "Played": "22",
                 "Wins": "4",
@@ -396,16 +406,6 @@
                 "Losses": "12",
                 "Goal Difference": "-12",
                 "Points": "18"
-            },
-            {
-                "Position": "20",
-                "Team": "Real Oviedo",
-                "Played": "22",
-                "Wins": "3",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-22",
-                "Points": "16"
             }
         ],
         "Bundesliga": [
