@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 February 2026, 07:47 PM UTC (Monday, 16 February 2026, 01:17 AM IST)
+**Last Updated:** Sunday, 15 February 2026, 08:28 PM UTC (Monday, 16 February 2026, 01:58 AM IST)
 
 ### Premier League
 
@@ -76,7 +76,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Barcelona | 23 | 19 | 1 | 3 | 40 | 58 |
 | 3 | Villarreal | 23 | 14 | 3 | 6 | 18 | 45 |
 | 4 | Atlético de Madrid | 24 | 13 | 6 | 5 | 17 | 45 |
-| 5 | Real Betis | 23 | 10 | 8 | 5 | 9 | 38 |
+| 5 | Real Betis | 24 | 11 | 8 | 5 | 10 | 41 |
 | 6 | Espanyol | 24 | 10 | 5 | 9 | -4 | 35 |
 | 7 | Celta de Vigo | 24 | 8 | 10 | 6 | 5 | 34 |
 | 8 | Real Sociedad | 24 | 8 | 7 | 9 | -1 | 31 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Girona | 23 | 6 | 8 | 9 | -15 | 26 |
 | 16 | Elche | 24 | 5 | 10 | 9 | -4 | 25 |
 | 17 | Rayo Vallecano | 23 | 6 | 7 | 10 | -9 | 25 |
-| 18 | Mallorca | 23 | 6 | 6 | 11 | -9 | 24 |
+| 18 | Mallorca | 24 | 6 | 6 | 12 | -10 | 24 |
 | 19 | Levante | 23 | 4 | 6 | 13 | -14 | 18 |
 | 20 | Real Oviedo | 23 | 3 | 7 | 13 | -23 | 16 |
 
@@ -147,7 +147,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Lens | 22 | 17 | 1 | 4 | 25 | 52 |
 | 2 | PSG | 22 | 16 | 3 | 3 | 30 | 51 |
-| 3 | Lyon | 21 | 13 | 3 | 5 | 14 | 42 |
+| 3 | Lyon | 22 | 13 | 4 | 5 | 14 | 43 |
 | 4 | Marseille | 22 | 12 | 4 | 6 | 19 | 40 |
 | 5 | Lille | 22 | 10 | 4 | 8 | 4 | 34 |
 | 6 | Rennes | 22 | 9 | 7 | 6 | -1 | 34 |
@@ -158,7 +158,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Angers | 22 | 8 | 5 | 9 | -5 | 29 |
 | 12 | Brest | 22 | 7 | 6 | 9 | -5 | 27 |
 | 13 | Le Havre | 22 | 6 | 8 | 8 | -7 | 26 |
-| 14 | Nice | 21 | 6 | 5 | 10 | -11 | 23 |
+| 14 | Nice | 22 | 6 | 6 | 10 | -11 | 24 |
 | 15 | Paris FC | 22 | 5 | 7 | 10 | -13 | 22 |
 | 16 | Auxerre | 22 | 4 | 5 | 13 | -13 | 17 |
 | 17 | Nantes | 22 | 3 | 5 | 14 | -20 | 14 |
@@ -298,7 +298,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Braga | 22 | 11 | 6 | 5 | 25 | 39 |
 | 6 | Famalicão | 21 | 9 | 5 | 7 | 7 | 32 |
 | 7 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
-| 8 | Estoril | 22 | 8 | 6 | 8 | 6 | 30 |
+| 8 | Estoril | 22 | 8 | 6 | 8 | 5 | 30 |
 | 9 | Moreirense | 21 | 9 | 3 | 9 | -2 | 30 |
 | 10 | Alverca | 22 | 7 | 4 | 11 | -15 | 25 |
 | 11 | Estrela Amadora | 22 | 5 | 8 | 9 | -13 | 23 |
@@ -308,7 +308,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Rio Ave | 21 | 4 | 8 | 9 | -19 | 20 |
 | 16 | Santa Clara | 22 | 4 | 5 | 13 | -11 | 17 |
 | 17 | Tondela | 22 | 3 | 6 | 13 | -21 | 15 |
-| 18 | AVS | 22 | 1 | 5 | 16 | -37 | 8 |
+| 18 | AVS | 22 | 1 | 5 | 16 | -36 | 8 |
 
 ### EFL Championship
 
