@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 February 2026, 02:56 PM UTC (Sunday, 15 February 2026, 08:26 PM IST)
+**Last Updated:** Sunday, 15 February 2026, 03:28 PM UTC (Sunday, 15 February 2026, 08:58 PM IST)
 
 ### Premier League
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 24 | 19 | 3 | 2 | 34 | 60 |
 | 2 | Barcelona | 23 | 19 | 1 | 3 | 40 | 58 |
-| 3 | Atlético de Madrid | 23 | 13 | 6 | 4 | 20 | 45 |
+| 3 | Atlético de Madrid | 24 | 13 | 7 | 4 | 20 | 46 |
 | 4 | Villarreal | 23 | 14 | 3 | 6 | 18 | 45 |
 | 5 | Real Betis | 23 | 10 | 8 | 5 | 9 | 38 |
 | 6 | Espanyol | 24 | 10 | 5 | 9 | -4 | 35 |
@@ -88,8 +88,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Girona | 23 | 6 | 8 | 9 | -15 | 26 |
 | 15 | Elche | 24 | 5 | 10 | 9 | -4 | 25 |
 | 16 | Mallorca | 23 | 6 | 6 | 11 | -9 | 24 |
-| 17 | Valencia | 23 | 5 | 8 | 10 | -14 | 23 |
-| 18 | Rayo Vallecano | 22 | 5 | 7 | 10 | -12 | 22 |
+| 17 | Rayo Vallecano | 23 | 5 | 8 | 10 | -12 | 23 |
+| 18 | Valencia | 23 | 5 | 8 | 10 | -14 | 23 |
 | 19 | Levante | 22 | 4 | 6 | 12 | -12 | 18 |
 | 20 | Real Oviedo | 23 | 3 | 7 | 13 | -23 | 16 |
 
@@ -152,12 +152,12 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Lille | 22 | 10 | 4 | 8 | 4 | 34 |
 | 6 | Rennes | 22 | 9 | 7 | 6 | -1 | 34 |
 | 7 | Strasbourg | 22 | 9 | 4 | 9 | 7 | 31 |
-| 8 | Toulouse | 22 | 8 | 7 | 7 | 7 | 31 |
-| 9 | Monaco | 22 | 9 | 4 | 9 | 1 | 31 |
+| 8 | Monaco | 22 | 9 | 4 | 9 | 1 | 31 |
+| 9 | Toulouse | 22 | 8 | 6 | 8 | 6 | 30 |
 | 10 | Angers | 21 | 8 | 5 | 8 | -3 | 29 |
 | 11 | Lorient | 21 | 7 | 7 | 7 | -6 | 28 |
 | 12 | Brest | 22 | 7 | 6 | 9 | -5 | 27 |
-| 13 | Le Havre | 22 | 5 | 9 | 8 | -8 | 24 |
+| 13 | Le Havre | 22 | 6 | 8 | 8 | -7 | 26 |
 | 14 | Nice | 21 | 6 | 5 | 10 | -11 | 23 |
 | 15 | Paris FC | 22 | 5 | 7 | 10 | -13 | 22 |
 | 16 | Auxerre | 21 | 3 | 5 | 13 | -15 | 14 |
