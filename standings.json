@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 February 2026, 11:23 AM UTC",
-        "IST": "Sunday, 15 February 2026, 04:53 PM IST"
+        "UTC": "Sunday, 15 February 2026, 11:45 AM UTC",
+        "IST": "Sunday, 15 February 2026, 05:15 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -663,6 +663,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Udinese",
+                "Played": "25",
+                "Wins": "10",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-8",
+                "Points": "35"
+            },
+            {
+                "Position": "9",
                 "Team": "Lazio",
                 "Played": "25",
                 "Wins": "8",
@@ -670,16 +680,6 @@
                 "Losses": "8",
                 "Goal Difference": "1",
                 "Points": "33"
-            },
-            {
-                "Position": "9",
-                "Team": "Udinese",
-                "Played": "24",
-                "Wins": "9",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "-9",
-                "Points": "32"
             },
             {
                 "Position": "10",
@@ -694,11 +694,11 @@
             {
                 "Position": "11",
                 "Team": "Sassuolo",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "8",
                 "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-7",
+                "Losses": "12",
+                "Goal Difference": "-8",
                 "Points": "29"
             },
             {
@@ -2799,6 +2799,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Jamshedpur",
+                "Played": "1",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "1",
+                "Points": "3"
+            },
+            {
+                "Position": "3",
                 "Team": "FC Goa",
                 "Played": "1",
                 "Wins": "0",
@@ -2808,7 +2818,7 @@
                 "Points": "1"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Inter Kashi",
                 "Played": "1",
                 "Wins": "0",
@@ -2818,7 +2828,7 @@
                 "Points": "1"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Bengaluru",
                 "Played": "0",
                 "Wins": "0",
@@ -2828,7 +2838,7 @@
                 "Points": "0"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Chennaiyin",
                 "Played": "0",
                 "Wins": "0",
@@ -2838,7 +2848,7 @@
                 "Points": "0"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "East Bengal",
                 "Played": "0",
                 "Wins": "0",
@@ -2848,27 +2858,7 @@
                 "Points": "0"
             },
             {
-                "Position": "7",
-                "Team": "Jamshedpur",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
                 "Position": "8",
-                "Team": "Mohammedan",
-                "Played": "0",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "0"
-            },
-            {
-                "Position": "9",
                 "Team": "Mumbai City",
                 "Played": "0",
                 "Wins": "0",
@@ -2878,7 +2868,7 @@
                 "Points": "0"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "NorthEast Utd",
                 "Played": "0",
                 "Wins": "0",
@@ -2888,7 +2878,7 @@
                 "Points": "0"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Odisha",
                 "Played": "0",
                 "Wins": "0",
@@ -2898,7 +2888,7 @@
                 "Points": "0"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Punjab FC",
                 "Played": "0",
                 "Wins": "0",
@@ -2908,13 +2898,23 @@
                 "Points": "0"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "SC Delhi",
                 "Played": "0",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "0",
                 "Goal Difference": "0",
+                "Points": "0"
+            },
+            {
+                "Position": "13",
+                "Team": "Mohammedan",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
                 "Points": "0"
             },
             {

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 February 2026, 11:23 AM UTC (Sunday, 15 February 2026, 04:53 PM IST)
+**Last Updated:** Sunday, 15 February 2026, 11:45 AM UTC (Sunday, 15 February 2026, 05:15 PM IST)
 
 ### Premier League
 
@@ -127,10 +127,10 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Juventus | 25 | 13 | 7 | 5 | 20 | 46 |
 | 6 | Atalanta | 25 | 11 | 9 | 5 | 13 | 42 |
 | 7 | Como | 24 | 11 | 8 | 5 | 20 | 41 |
-| 8 | Lazio | 25 | 8 | 9 | 8 | 1 | 33 |
-| 9 | Udinese | 24 | 9 | 5 | 10 | -9 | 32 |
+| 8 | Udinese | 25 | 10 | 5 | 10 | -8 | 35 |
+| 9 | Lazio | 25 | 8 | 9 | 8 | 1 | 33 |
 | 10 | Bologna | 24 | 8 | 6 | 10 | 1 | 30 |
-| 11 | Sassuolo | 24 | 8 | 5 | 11 | -7 | 29 |
+| 11 | Sassuolo | 25 | 8 | 5 | 12 | -8 | 29 |
 | 12 | Cagliari | 24 | 7 | 7 | 10 | -5 | 28 |
 | 13 | Torino | 24 | 7 | 6 | 11 | -18 | 27 |
 | 14 | Parma | 24 | 6 | 8 | 10 | -14 | 26 |
@@ -379,18 +379,18 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 2 | 3 |
-| 2 | FC Goa | 1 | 0 | 1 | 0 | 0 | 1 |
-| 3 | Inter Kashi | 1 | 0 | 1 | 0 | 0 | 1 |
-| 4 | Bengaluru | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | Chennaiyin | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | East Bengal | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Jamshedpur | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Mohammedan | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Mumbai City | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | NorthEast Utd | 0 | 0 | 0 | 0 | 0 | 0 |
-| 11 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Punjab FC | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | SC Delhi | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Jamshedpur | 1 | 1 | 0 | 0 | 1 | 3 |
+| 3 | FC Goa | 1 | 0 | 1 | 0 | 0 | 1 |
+| 4 | Inter Kashi | 1 | 0 | 1 | 0 | 0 | 1 |
+| 5 | Bengaluru | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Chennaiyin | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | East Bengal | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Mumbai City | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | NorthEast Utd | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | Punjab FC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | SC Delhi | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Mohammedan | 1 | 0 | 0 | 1 | -1 | 0 |
 | 14 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
