@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 February 2026, 07:52 PM UTC",
-        "IST": "Tuesday, 17 February 2026, 01:22 AM IST"
+        "UTC": "Monday, 16 February 2026, 08:33 PM UTC",
+        "IST": "Tuesday, 17 February 2026, 02:03 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,12 +220,12 @@
             {
                 "Position": "2",
                 "Team": "Barcelona",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "19",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "40",
-                "Points": "58"
+                "Points": "59"
             },
             {
                 "Position": "3",
@@ -319,6 +319,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Girona",
+                "Played": "24",
+                "Wins": "6",
+                "Draws": "9",
+                "Losses": "9",
+                "Goal Difference": "-15",
+                "Points": "27"
+            },
+            {
+                "Position": "13",
                 "Team": "Sevilla",
                 "Played": "24",
                 "Wins": "7",
@@ -328,7 +338,7 @@
                 "Points": "26"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Alav\u00e9s",
                 "Played": "24",
                 "Wins": "7",
@@ -338,23 +348,13 @@
                 "Points": "26"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Valencia",
                 "Played": "24",
                 "Wins": "6",
                 "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "-12",
-                "Points": "26"
-            },
-            {
-                "Position": "15",
-                "Team": "Girona",
-                "Played": "23",
-                "Wins": "6",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-15",
                 "Points": "26"
             },
             {
@@ -2113,6 +2113,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Moreirense",
+                "Played": "22",
+                "Wins": "10",
+                "Draws": "3",
+                "Losses": "9",
+                "Goal Difference": "-1",
+                "Points": "33"
+            },
+            {
+                "Position": "7",
                 "Team": "Famalic\u00e3o",
                 "Played": "22",
                 "Wins": "9",
@@ -2122,7 +2132,7 @@
                 "Points": "32"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "22",
                 "Wins": "9",
@@ -2132,23 +2142,13 @@
                 "Points": "31"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Estoril",
                 "Played": "22",
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "8",
                 "Goal Difference": "5",
-                "Points": "30"
-            },
-            {
-                "Position": "9",
-                "Team": "Moreirense",
-                "Played": "21",
-                "Wins": "9",
-                "Draws": "3",
-                "Losses": "9",
-                "Goal Difference": "-2",
                 "Points": "30"
             },
             {
@@ -2204,11 +2204,11 @@
             {
                 "Position": "15",
                 "Team": "Rio Ave",
-                "Played": "21",
+                "Played": "22",
                 "Wins": "4",
                 "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-19",
+                "Losses": "10",
+                "Goal Difference": "-20",
                 "Points": "20"
             },
             {
@@ -2245,23 +2245,23 @@
         "EFL Championship": [
             {
                 "Position": "1",
-                "Team": "Middlesbrough",
-                "Played": "31",
+                "Team": "Coventry City",
+                "Played": "32",
                 "Wins": "18",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "19",
-                "Points": "61"
+                "Goal Difference": "29",
+                "Points": "62"
             },
             {
                 "Position": "2",
-                "Team": "Coventry City",
-                "Played": "31",
-                "Wins": "17",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "28",
-                "Points": "59"
+                "Team": "Middlesbrough",
+                "Played": "32",
+                "Wins": "18",
+                "Draws": "7",
+                "Losses": "7",
+                "Goal Difference": "18",
+                "Points": "61"
             },
             {
                 "Position": "3",
