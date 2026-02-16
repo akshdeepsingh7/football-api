@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 16 February 2026, 09:29 PM UTC (Tuesday, 17 February 2026, 02:59 AM IST)
+**Last Updated:** Monday, 16 February 2026, 09:54 PM UTC (Tuesday, 17 February 2026, 03:24 AM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 24 | 19 | 3 | 2 | 34 | 60 |
-| 2 | Barcelona | 24 | 19 | 2 | 3 | 40 | 59 |
+| 2 | Barcelona | 24 | 19 | 1 | 4 | 39 | 58 |
 | 3 | Villarreal | 23 | 14 | 3 | 6 | 18 | 45 |
 | 4 | Atlético de Madrid | 24 | 13 | 6 | 5 | 17 | 45 |
 | 5 | Real Betis | 24 | 11 | 8 | 5 | 10 | 41 |
@@ -83,7 +83,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Athletic Bilbao | 24 | 9 | 4 | 11 | -7 | 31 |
 | 10 | Osasuna | 24 | 8 | 6 | 10 | 0 | 30 |
 | 11 | Getafe | 24 | 8 | 5 | 11 | -8 | 29 |
-| 12 | Girona | 24 | 6 | 9 | 9 | -15 | 27 |
+| 12 | Girona | 24 | 7 | 8 | 9 | -14 | 29 |
 | 13 | Sevilla | 24 | 7 | 5 | 12 | -8 | 26 |
 | 14 | Alavés | 24 | 7 | 5 | 12 | -9 | 26 |
 | 15 | Valencia | 24 | 6 | 8 | 10 | -12 | 26 |
@@ -296,8 +296,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 22 | 15 | 7 | 0 | 33 | 52 |
 | 4 | Gil Vicente | 22 | 11 | 7 | 4 | 15 | 40 |
 | 5 | Braga | 22 | 11 | 6 | 5 | 25 | 39 |
-| 6 | Famalicão | 22 | 9 | 5 | 8 | 6 | 32 |
-| 7 | Moreirense | 22 | 9 | 4 | 9 | -2 | 31 |
+| 6 | Moreirense | 22 | 10 | 3 | 9 | -1 | 33 |
+| 7 | Famalicão | 22 | 9 | 5 | 8 | 6 | 32 |
 | 8 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
 | 9 | Estoril | 22 | 8 | 6 | 8 | 5 | 30 |
 | 10 | Alverca | 22 | 7 | 4 | 11 | -15 | 25 |
@@ -305,7 +305,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Arouca | 22 | 6 | 5 | 11 | -21 | 23 |
 | 13 | Casa Pia | 22 | 5 | 7 | 10 | -16 | 22 |
 | 14 | Nacional | 22 | 5 | 6 | 11 | -4 | 21 |
-| 15 | Rio Ave | 22 | 4 | 9 | 9 | -19 | 21 |
+| 15 | Rio Ave | 22 | 4 | 8 | 10 | -20 | 20 |
 | 16 | Santa Clara | 22 | 4 | 5 | 13 | -11 | 17 |
 | 17 | Tondela | 22 | 3 | 6 | 13 | -21 | 15 |
 | 18 | AVS | 22 | 1 | 5 | 16 | -36 | 8 |
@@ -314,8 +314,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 32 | 18 | 8 | 6 | 29 | 62 |
-| 2 | Middlesbrough | 32 | 18 | 7 | 7 | 18 | 61 |
+| 1 | Coventry City | 32 | 18 | 8 | 6 | 30 | 62 |
+| 2 | Middlesbrough | 32 | 18 | 7 | 7 | 17 | 61 |
 | 3 | Millwall | 32 | 16 | 8 | 8 | 4 | 56 |
 | 4 | Ipswich Town | 30 | 15 | 9 | 6 | 22 | 54 |
 | 5 | Hull City | 31 | 16 | 6 | 9 | 7 | 54 |
