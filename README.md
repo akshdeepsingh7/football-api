@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 16 February 2026, 08:33 PM UTC (Tuesday, 17 February 2026, 02:03 AM IST)
+**Last Updated:** Monday, 16 February 2026, 09:29 PM UTC (Tuesday, 17 February 2026, 02:59 AM IST)
 
 ### Premier League
 
@@ -131,12 +131,12 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Lazio | 25 | 8 | 9 | 8 | 1 | 33 |
 | 10 | Sassuolo | 25 | 9 | 5 | 11 | -6 | 32 |
 | 11 | Udinese | 25 | 9 | 5 | 11 | -10 | 32 |
-| 12 | Cagliari | 25 | 7 | 8 | 10 | -5 | 29 |
-| 13 | Parma | 25 | 7 | 8 | 10 | -13 | 29 |
+| 12 | Parma | 25 | 7 | 8 | 10 | -13 | 29 |
+| 13 | Cagliari | 25 | 7 | 7 | 11 | -7 | 28 |
 | 14 | Torino | 25 | 7 | 6 | 12 | -19 | 27 |
-| 15 | Cremonese | 25 | 5 | 9 | 11 | -12 | 24 |
-| 16 | Genoa | 25 | 5 | 9 | 11 | -8 | 24 |
-| 17 | Lecce | 25 | 5 | 7 | 13 | -16 | 22 |
+| 15 | Genoa | 25 | 5 | 9 | 11 | -8 | 24 |
+| 16 | Cremonese | 25 | 5 | 9 | 11 | -12 | 24 |
+| 17 | Lecce | 25 | 6 | 6 | 13 | -14 | 24 |
 | 18 | Fiorentina | 25 | 4 | 9 | 12 | -10 | 21 |
 | 19 | Pisa | 25 | 1 | 12 | 12 | -22 | 15 |
 | 20 | Hellas Verona | 25 | 2 | 9 | 14 | -24 | 15 |
@@ -296,8 +296,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 22 | 15 | 7 | 0 | 33 | 52 |
 | 4 | Gil Vicente | 22 | 11 | 7 | 4 | 15 | 40 |
 | 5 | Braga | 22 | 11 | 6 | 5 | 25 | 39 |
-| 6 | Moreirense | 22 | 10 | 3 | 9 | -1 | 33 |
-| 7 | Famalicão | 22 | 9 | 5 | 8 | 6 | 32 |
+| 6 | Famalicão | 22 | 9 | 5 | 8 | 6 | 32 |
+| 7 | Moreirense | 22 | 9 | 4 | 9 | -2 | 31 |
 | 8 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
 | 9 | Estoril | 22 | 8 | 6 | 8 | 5 | 30 |
 | 10 | Alverca | 22 | 7 | 4 | 11 | -15 | 25 |
@@ -305,7 +305,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Arouca | 22 | 6 | 5 | 11 | -21 | 23 |
 | 13 | Casa Pia | 22 | 5 | 7 | 10 | -16 | 22 |
 | 14 | Nacional | 22 | 5 | 6 | 11 | -4 | 21 |
-| 15 | Rio Ave | 22 | 4 | 8 | 10 | -20 | 20 |
+| 15 | Rio Ave | 22 | 4 | 9 | 9 | -19 | 21 |
 | 16 | Santa Clara | 22 | 4 | 5 | 13 | -11 | 17 |
 | 17 | Tondela | 22 | 3 | 6 | 13 | -21 | 15 |
 | 18 | AVS | 22 | 1 | 5 | 16 | -36 | 8 |
