@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 February 2026, 07:10 PM UTC",
-        "IST": "Tuesday, 17 February 2026, 12:40 AM IST"
+        "UTC": "Monday, 16 February 2026, 07:52 PM UTC",
+        "IST": "Tuesday, 17 February 2026, 01:22 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -703,6 +703,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Cagliari",
+                "Played": "25",
+                "Wins": "7",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-5",
+                "Points": "29"
+            },
+            {
+                "Position": "13",
                 "Team": "Parma",
                 "Played": "25",
                 "Wins": "7",
@@ -710,16 +720,6 @@
                 "Losses": "10",
                 "Goal Difference": "-13",
                 "Points": "29"
-            },
-            {
-                "Position": "13",
-                "Team": "Cagliari",
-                "Played": "24",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "-5",
-                "Points": "28"
             },
             {
                 "Position": "14",
@@ -754,12 +754,12 @@
             {
                 "Position": "17",
                 "Team": "Lecce",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "5",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "13",
                 "Goal Difference": "-16",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "18",
