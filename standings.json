@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 17 February 2026, 06:58 PM UTC",
-        "IST": "Wednesday, 18 February 2026, 12:28 AM IST"
+        "UTC": "Tuesday, 17 February 2026, 07:49 PM UTC",
+        "IST": "Wednesday, 18 February 2026, 01:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2305,6 +2305,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Wrexham",
+                "Played": "32",
+                "Wins": "12",
+                "Draws": "12",
+                "Losses": "8",
+                "Goal Difference": "5",
+                "Points": "48"
+            },
+            {
+                "Position": "8",
                 "Team": "Preston North End",
                 "Played": "32",
                 "Wins": "12",
@@ -2314,24 +2324,14 @@
                 "Points": "48"
             },
             {
-                "Position": "8",
-                "Team": "Wrexham",
-                "Played": "31",
-                "Wins": "12",
-                "Draws": "11",
-                "Losses": "8",
-                "Goal Difference": "5",
-                "Points": "47"
-            },
-            {
                 "Position": "9",
                 "Team": "Bristol City",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "13",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "5",
-                "Points": "46"
+                "Points": "47"
             },
             {
                 "Position": "10",
@@ -2405,22 +2405,22 @@
             },
             {
                 "Position": "17",
+                "Team": "Charlton Athletic",
+                "Played": "32",
+                "Wins": "10",
+                "Draws": "10",
+                "Losses": "12",
+                "Goal Difference": "-8",
+                "Points": "40"
+            },
+            {
+                "Position": "18",
                 "Team": "Norwich City",
                 "Played": "32",
                 "Wins": "11",
                 "Draws": "6",
                 "Losses": "15",
                 "Goal Difference": "0",
-                "Points": "39"
-            },
-            {
-                "Position": "18",
-                "Team": "Charlton Athletic",
-                "Played": "31",
-                "Wins": "10",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-8",
                 "Points": "39"
             },
             {
@@ -2435,6 +2435,16 @@
             },
             {
                 "Position": "20",
+                "Team": "Portsmouth",
+                "Played": "31",
+                "Wins": "8",
+                "Draws": "10",
+                "Losses": "13",
+                "Goal Difference": "-12",
+                "Points": "34"
+            },
+            {
+                "Position": "21",
                 "Team": "West Bromwich Albion",
                 "Played": "32",
                 "Wins": "9",
@@ -2442,16 +2452,6 @@
                 "Losses": "16",
                 "Goal Difference": "-15",
                 "Points": "34"
-            },
-            {
-                "Position": "21",
-                "Team": "Portsmouth",
-                "Played": "30",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-12",
-                "Points": "33"
             },
             {
                 "Position": "22",
