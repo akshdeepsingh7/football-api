@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 17 February 2026, 08:39 PM UTC (Wednesday, 18 February 2026, 02:09 AM IST)
+**Last Updated:** Tuesday, 17 February 2026, 09:36 PM UTC (Wednesday, 18 February 2026, 03:06 AM IST)
 
 ### Premier League
 
@@ -319,11 +319,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Millwall | 32 | 16 | 8 | 8 | 4 | 56 |
 | 4 | Ipswich Town | 30 | 15 | 9 | 6 | 22 | 54 |
 | 5 | Hull City | 31 | 16 | 6 | 9 | 7 | 54 |
-| 6 | Wrexham | 32 | 13 | 11 | 8 | 6 | 50 |
-| 7 | Derby County | 32 | 13 | 9 | 10 | 8 | 48 |
+| 6 | Derby County | 32 | 13 | 9 | 10 | 8 | 48 |
+| 7 | Wrexham | 32 | 12 | 12 | 8 | 5 | 48 |
 | 8 | Preston North End | 32 | 12 | 12 | 8 | 4 | 48 |
-| 9 | Southampton | 32 | 12 | 10 | 10 | 4 | 46 |
-| 10 | Bristol City | 32 | 13 | 7 | 12 | 4 | 46 |
+| 9 | Bristol City | 32 | 13 | 8 | 11 | 5 | 47 |
+| 10 | Southampton | 32 | 12 | 10 | 10 | 4 | 46 |
 | 11 | Birmingham City | 32 | 12 | 10 | 10 | 4 | 46 |
 | 12 | Watford | 32 | 11 | 12 | 9 | 3 | 45 |
 | 13 | Queens Park Rangers | 32 | 12 | 8 | 12 | -3 | 44 |

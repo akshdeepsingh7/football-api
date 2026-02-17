@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 17 February 2026, 08:39 PM UTC",
-        "IST": "Wednesday, 18 February 2026, 02:09 AM IST"
+        "UTC": "Tuesday, 17 February 2026, 09:36 PM UTC",
+        "IST": "Wednesday, 18 February 2026, 03:06 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2295,22 +2295,22 @@
             },
             {
                 "Position": "6",
-                "Team": "Wrexham",
-                "Played": "32",
-                "Wins": "13",
-                "Draws": "11",
-                "Losses": "8",
-                "Goal Difference": "6",
-                "Points": "50"
-            },
-            {
-                "Position": "7",
                 "Team": "Derby County",
                 "Played": "32",
                 "Wins": "13",
                 "Draws": "9",
                 "Losses": "10",
                 "Goal Difference": "8",
+                "Points": "48"
+            },
+            {
+                "Position": "7",
+                "Team": "Wrexham",
+                "Played": "32",
+                "Wins": "12",
+                "Draws": "12",
+                "Losses": "8",
+                "Goal Difference": "5",
                 "Points": "48"
             },
             {
@@ -2325,21 +2325,21 @@
             },
             {
                 "Position": "9",
+                "Team": "Bristol City",
+                "Played": "32",
+                "Wins": "13",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "5",
+                "Points": "47"
+            },
+            {
+                "Position": "10",
                 "Team": "Southampton",
                 "Played": "32",
                 "Wins": "12",
                 "Draws": "10",
                 "Losses": "10",
-                "Goal Difference": "4",
-                "Points": "46"
-            },
-            {
-                "Position": "10",
-                "Team": "Bristol City",
-                "Played": "32",
-                "Wins": "13",
-                "Draws": "7",
-                "Losses": "12",
                 "Goal Difference": "4",
                 "Points": "46"
             },
