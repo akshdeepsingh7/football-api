@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 18 February 2026, 06:56 PM UTC",
-        "IST": "Thursday, 19 February 2026, 12:26 AM IST"
+        "UTC": "Wednesday, 18 February 2026, 07:50 PM UTC",
+        "IST": "Thursday, 19 February 2026, 01:20 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -230,12 +230,12 @@
             {
                 "Position": "3",
                 "Team": "Villarreal",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "14",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "6",
                 "Goal Difference": "18",
-                "Points": "45"
+                "Points": "46"
             },
             {
                 "Position": "4",
@@ -390,12 +390,12 @@
             {
                 "Position": "19",
                 "Team": "Levante",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "4",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "13",
                 "Goal Difference": "-14",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "20",
@@ -604,12 +604,12 @@
             {
                 "Position": "2",
                 "Team": "Milan",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "15",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "1",
                 "Goal Difference": "22",
-                "Points": "53"
+                "Points": "54"
             },
             {
                 "Position": "3",
@@ -643,6 +643,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Como",
+                "Played": "25",
+                "Wins": "11",
+                "Draws": "9",
+                "Losses": "5",
+                "Goal Difference": "20",
+                "Points": "42"
+            },
+            {
+                "Position": "7",
                 "Team": "Atalanta",
                 "Played": "25",
                 "Wins": "11",
@@ -650,16 +660,6 @@
                 "Losses": "5",
                 "Goal Difference": "13",
                 "Points": "42"
-            },
-            {
-                "Position": "7",
-                "Team": "Como",
-                "Played": "24",
-                "Wins": "11",
-                "Draws": "8",
-                "Losses": "5",
-                "Goal Difference": "20",
-                "Points": "41"
             },
             {
                 "Position": "8",
