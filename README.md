@@ -41,13 +41,13 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 18 February 2026, 07:50 PM UTC (Thursday, 19 February 2026, 01:20 AM IST)
+**Last Updated:** Wednesday, 18 February 2026, 08:40 PM UTC (Thursday, 19 February 2026, 02:10 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 26 | 17 | 6 | 3 | 32 | 57 |
+| 1 | Arsenal | 27 | 18 | 6 | 3 | 33 | 60 |
 | 2 | Manchester City | 26 | 16 | 5 | 5 | 30 | 53 |
 | 3 | Aston Villa | 26 | 15 | 5 | 6 | 10 | 50 |
 | 4 | Manchester United | 26 | 12 | 9 | 5 | 10 | 45 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Nottingham Forest | 26 | 7 | 6 | 13 | -13 | 27 |
 | 18 | West Ham United | 26 | 6 | 6 | 14 | -17 | 24 |
 | 19 | Burnley | 26 | 4 | 6 | 16 | -23 | 18 |
-| 20 | Wolverhampton Wanderers | 26 | 1 | 6 | 19 | -32 | 9 |
+| 20 | Wolverhampton Wanderers | 27 | 1 | 6 | 20 | -33 | 9 |
 
 ### La Liga
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Real Madrid | 24 | 19 | 3 | 2 | 34 | 60 |
 | 2 | Barcelona | 24 | 19 | 1 | 4 | 39 | 58 |
-| 3 | Villarreal | 24 | 14 | 4 | 6 | 18 | 46 |
+| 3 | Villarreal | 24 | 15 | 3 | 6 | 19 | 48 |
 | 4 | Atlético de Madrid | 24 | 13 | 6 | 5 | 17 | 45 |
 | 5 | Real Betis | 24 | 11 | 8 | 5 | 10 | 41 |
 | 6 | Espanyol | 24 | 10 | 5 | 9 | -4 | 35 |
@@ -90,7 +90,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Elche | 24 | 5 | 10 | 9 | -4 | 25 |
 | 17 | Rayo Vallecano | 23 | 6 | 7 | 10 | -9 | 25 |
 | 18 | Mallorca | 24 | 6 | 6 | 12 | -10 | 24 |
-| 19 | Levante | 24 | 4 | 7 | 13 | -14 | 19 |
+| 19 | Levante | 24 | 4 | 6 | 14 | -15 | 18 |
 | 20 | Real Oviedo | 23 | 3 | 7 | 13 | -23 | 16 |
 
 ### Bundesliga
@@ -121,11 +121,11 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 25 | 20 | 1 | 4 | 39 | 61 |
-| 2 | Milan | 25 | 15 | 9 | 1 | 22 | 54 |
+| 2 | Milan | 25 | 15 | 8 | 2 | 21 | 53 |
 | 3 | Napoli | 25 | 15 | 5 | 5 | 13 | 50 |
 | 4 | Roma | 25 | 15 | 2 | 8 | 15 | 47 |
 | 5 | Juventus | 25 | 13 | 7 | 5 | 20 | 46 |
-| 6 | Como | 25 | 11 | 9 | 5 | 20 | 42 |
+| 6 | Como | 25 | 12 | 8 | 5 | 21 | 44 |
 | 7 | Atalanta | 25 | 11 | 9 | 5 | 13 | 42 |
 | 8 | Bologna | 25 | 9 | 6 | 10 | 2 | 33 |
 | 9 | Lazio | 25 | 8 | 9 | 8 | 1 | 33 |

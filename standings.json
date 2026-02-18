@@ -1,19 +1,19 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 18 February 2026, 07:50 PM UTC",
-        "IST": "Thursday, 19 February 2026, 01:20 AM IST"
+        "UTC": "Wednesday, 18 February 2026, 08:40 PM UTC",
+        "IST": "Thursday, 19 February 2026, 02:10 AM IST"
     },
     "standings": {
         "Premier League": [
             {
                 "Position": "1",
                 "Team": "Arsenal",
-                "Played": "26",
-                "Wins": "17",
+                "Played": "27",
+                "Wins": "18",
                 "Draws": "6",
                 "Losses": "3",
-                "Goal Difference": "32",
-                "Points": "57"
+                "Goal Difference": "33",
+                "Points": "60"
             },
             {
                 "Position": "2",
@@ -198,11 +198,11 @@
             {
                 "Position": "20",
                 "Team": "Wolverhampton Wanderers",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "1",
                 "Draws": "6",
-                "Losses": "19",
-                "Goal Difference": "-32",
+                "Losses": "20",
+                "Goal Difference": "-33",
                 "Points": "9"
             }
         ],
@@ -231,11 +231,11 @@
                 "Position": "3",
                 "Team": "Villarreal",
                 "Played": "24",
-                "Wins": "14",
-                "Draws": "4",
+                "Wins": "15",
+                "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "18",
-                "Points": "46"
+                "Goal Difference": "19",
+                "Points": "48"
             },
             {
                 "Position": "4",
@@ -392,10 +392,10 @@
                 "Team": "Levante",
                 "Played": "24",
                 "Wins": "4",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "-14",
-                "Points": "19"
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "-15",
+                "Points": "18"
             },
             {
                 "Position": "20",
@@ -606,10 +606,10 @@
                 "Team": "Milan",
                 "Played": "25",
                 "Wins": "15",
-                "Draws": "9",
-                "Losses": "1",
-                "Goal Difference": "22",
-                "Points": "54"
+                "Draws": "8",
+                "Losses": "2",
+                "Goal Difference": "21",
+                "Points": "53"
             },
             {
                 "Position": "3",
@@ -645,11 +645,11 @@
                 "Position": "6",
                 "Team": "Como",
                 "Played": "25",
-                "Wins": "11",
-                "Draws": "9",
+                "Wins": "12",
+                "Draws": "8",
                 "Losses": "5",
-                "Goal Difference": "20",
-                "Points": "42"
+                "Goal Difference": "21",
+                "Points": "44"
             },
             {
                 "Position": "7",
