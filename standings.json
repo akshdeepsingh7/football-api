@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 18 February 2026, 09:35 PM UTC",
-        "IST": "Thursday, 19 February 2026, 03:05 AM IST"
+        "UTC": "Wednesday, 18 February 2026, 10:34 PM UTC",
+        "IST": "Thursday, 19 February 2026, 04:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -9,11 +9,11 @@
                 "Position": "1",
                 "Team": "Arsenal",
                 "Played": "27",
-                "Wins": "18",
-                "Draws": "6",
+                "Wins": "17",
+                "Draws": "7",
                 "Losses": "3",
-                "Goal Difference": "33",
-                "Points": "60"
+                "Goal Difference": "32",
+                "Points": "58"
             },
             {
                 "Position": "2",
@@ -200,10 +200,10 @@
                 "Team": "Wolverhampton Wanderers",
                 "Played": "27",
                 "Wins": "1",
-                "Draws": "6",
-                "Losses": "20",
-                "Goal Difference": "-33",
-                "Points": "9"
+                "Draws": "7",
+                "Losses": "19",
+                "Goal Difference": "-32",
+                "Points": "10"
             }
         ],
         "La Liga": [

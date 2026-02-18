@@ -41,13 +41,13 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 18 February 2026, 09:35 PM UTC (Thursday, 19 February 2026, 03:05 AM IST)
+**Last Updated:** Wednesday, 18 February 2026, 10:34 PM UTC (Thursday, 19 February 2026, 04:04 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 27 | 18 | 6 | 3 | 33 | 60 |
+| 1 | Arsenal | 27 | 17 | 7 | 3 | 32 | 58 |
 | 2 | Manchester City | 26 | 16 | 5 | 5 | 30 | 53 |
 | 3 | Aston Villa | 26 | 15 | 5 | 6 | 10 | 50 |
 | 4 | Manchester United | 26 | 12 | 9 | 5 | 10 | 45 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Nottingham Forest | 26 | 7 | 6 | 13 | -13 | 27 |
 | 18 | West Ham United | 26 | 6 | 6 | 14 | -17 | 24 |
 | 19 | Burnley | 26 | 4 | 6 | 16 | -23 | 18 |
-| 20 | Wolverhampton Wanderers | 27 | 1 | 6 | 20 | -33 | 9 |
+| 20 | Wolverhampton Wanderers | 27 | 1 | 7 | 19 | -32 | 10 |
 
 ### La Liga
 
