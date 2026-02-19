@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 19 February 2026, 01:38 PM UTC",
-        "IST": "Thursday, 19 February 2026, 07:08 PM IST"
+        "UTC": "Thursday, 19 February 2026, 02:49 PM UTC",
+        "IST": "Thursday, 19 February 2026, 08:19 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2850,22 +2850,22 @@
             {
                 "Position": "7",
                 "Team": "Chennaiyin",
-                "Played": "0",
+                "Played": "1",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "0",
-                "Points": "0"
+                "Points": "1"
             },
             {
                 "Position": "8",
                 "Team": "Mumbai City",
-                "Played": "0",
+                "Played": "1",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "0",
-                "Points": "0"
+                "Points": "1"
             },
             {
                 "Position": "9",
