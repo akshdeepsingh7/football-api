@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 19 February 2026, 10:33 PM UTC (Friday, 20 February 2026, 04:03 AM IST)
+**Last Updated:** Thursday, 19 February 2026, 11:31 PM UTC (Friday, 20 February 2026, 05:01 AM IST)
 
 ### Premier League
 
@@ -405,11 +405,11 @@ Data not available.
 | 2 | São Paulo | 3 | 2 | 1 | 0 | 3 | 7 |
 | 3 | Fluminense | 3 | 2 | 1 | 0 | 2 | 7 |
 | 4 | Bahia | 3 | 2 | 1 | 0 | 2 | 7 |
-| 5 | Athletico Paranaense | 3 | 2 | 1 | 0 | 2 | 7 |
-| 6 | RB Bragantino | 3 | 2 | 0 | 1 | 0 | 6 |
-| 7 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
-| 8 | Mirassol | 3 | 1 | 2 | 0 | 1 | 5 |
-| 9 | Corinthians | 3 | 1 | 1 | 1 | 1 | 4 |
+| 5 | Corinthians | 3 | 2 | 0 | 1 | 2 | 6 |
+| 6 | Athletico Paranaense | 3 | 2 | 0 | 1 | 1 | 6 |
+| 7 | RB Bragantino | 3 | 2 | 0 | 1 | 0 | 6 |
+| 8 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
+| 9 | Mirassol | 3 | 1 | 2 | 0 | 1 | 5 |
 | 10 | Coritiba | 3 | 1 | 1 | 1 | 0 | 4 |
 | 11 | Flamengo | 3 | 1 | 1 | 1 | 0 | 4 |
 | 12 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |

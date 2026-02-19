@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 19 February 2026, 10:33 PM UTC",
-        "IST": "Friday, 20 February 2026, 04:03 AM IST"
+        "UTC": "Thursday, 19 February 2026, 11:31 PM UTC",
+        "IST": "Friday, 20 February 2026, 05:01 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2972,16 +2972,26 @@
             },
             {
                 "Position": "5",
-                "Team": "Athletico Paranaense",
+                "Team": "Corinthians",
                 "Played": "3",
                 "Wins": "2",
-                "Draws": "1",
-                "Losses": "0",
+                "Draws": "0",
+                "Losses": "1",
                 "Goal Difference": "2",
-                "Points": "7"
+                "Points": "6"
             },
             {
                 "Position": "6",
+                "Team": "Athletico Paranaense",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "6"
+            },
+            {
+                "Position": "7",
                 "Team": "RB Bragantino",
                 "Played": "3",
                 "Wins": "2",
@@ -2991,7 +3001,7 @@
                 "Points": "6"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Chapecoense",
                 "Played": "3",
                 "Wins": "1",
@@ -3001,7 +3011,7 @@
                 "Points": "5"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Mirassol",
                 "Played": "3",
                 "Wins": "1",
@@ -3009,16 +3019,6 @@
                 "Losses": "0",
                 "Goal Difference": "1",
                 "Points": "5"
-            },
-            {
-                "Position": "9",
-                "Team": "Corinthians",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "4"
             },
             {
                 "Position": "10",
