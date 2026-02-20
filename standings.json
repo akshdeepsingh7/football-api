@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 February 2026, 02:10 PM UTC",
-        "IST": "Friday, 20 February 2026, 07:40 PM IST"
+        "UTC": "Friday, 20 February 2026, 03:07 PM UTC",
+        "IST": "Friday, 20 February 2026, 08:37 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2794,7 +2794,7 @@
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "4"
             },
             {
@@ -2899,22 +2899,22 @@
             },
             {
                 "Position": "12",
-                "Team": "Mohammedan",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "0"
-            },
-            {
-                "Position": "13",
                 "Team": "SC Delhi",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "-2",
+                "Points": "0"
+            },
+            {
+                "Position": "13",
+                "Team": "Mohammedan",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-3",
                 "Points": "0"
             },
             {
