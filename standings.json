@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 February 2026, 09:50 PM UTC",
-        "IST": "Saturday, 21 February 2026, 03:20 AM IST"
+        "UTC": "Friday, 20 February 2026, 10:27 PM UTC",
+        "IST": "Saturday, 21 February 2026, 03:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2168,7 +2168,7 @@
                 "Wins": "5",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-14",
+                "Goal Difference": "-15",
                 "Points": "23"
             },
             {
@@ -2218,7 +2218,7 @@
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "-20",
+                "Goal Difference": "-19",
                 "Points": "18"
             },
             {
@@ -2295,16 +2295,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Preston North End",
-                "Played": "33",
-                "Wins": "12",
-                "Draws": "13",
-                "Losses": "8",
-                "Goal Difference": "4",
-                "Points": "49"
-            },
-            {
-                "Position": "7",
                 "Team": "Derby County",
                 "Played": "32",
                 "Wins": "13",
@@ -2314,13 +2304,23 @@
                 "Points": "48"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Wrexham",
                 "Played": "32",
                 "Wins": "12",
                 "Draws": "12",
                 "Losses": "8",
                 "Goal Difference": "5",
+                "Points": "48"
+            },
+            {
+                "Position": "8",
+                "Team": "Preston North End",
+                "Played": "33",
+                "Wins": "12",
+                "Draws": "12",
+                "Losses": "9",
+                "Goal Difference": "3",
                 "Points": "48"
             },
             {
@@ -2425,22 +2425,22 @@
             },
             {
                 "Position": "19",
+                "Team": "Blackburn Rovers",
+                "Played": "33",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "15",
+                "Goal Difference": "-10",
+                "Points": "38"
+            },
+            {
+                "Position": "20",
                 "Team": "Portsmouth",
                 "Played": "31",
                 "Wins": "9",
                 "Draws": "9",
                 "Losses": "13",
                 "Goal Difference": "-10",
-                "Points": "36"
-            },
-            {
-                "Position": "20",
-                "Team": "Blackburn Rovers",
-                "Played": "33",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "15",
-                "Goal Difference": "-11",
                 "Points": "36"
             },
             {
