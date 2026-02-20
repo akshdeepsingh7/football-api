@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 20 February 2026, 08:33 PM UTC (Saturday, 21 February 2026, 02:03 AM IST)
+**Last Updated:** Friday, 20 February 2026, 09:26 PM UTC (Saturday, 21 February 2026, 02:56 AM IST)
 
 ### Premier League
 
@@ -79,15 +79,15 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Real Betis | 24 | 11 | 8 | 5 | 10 | 41 |
 | 6 | Espanyol | 24 | 10 | 5 | 9 | -4 | 35 |
 | 7 | Celta de Vigo | 24 | 8 | 10 | 6 | 5 | 34 |
-| 8 | Athletic Bilbao | 25 | 9 | 5 | 11 | -7 | 32 |
+| 8 | Athletic Bilbao | 25 | 10 | 4 | 11 | -6 | 34 |
 | 9 | Real Sociedad | 24 | 8 | 7 | 9 | -1 | 31 |
 | 10 | Osasuna | 24 | 8 | 6 | 10 | 0 | 30 |
 | 11 | Getafe | 24 | 8 | 5 | 11 | -8 | 29 |
 | 12 | Girona | 24 | 7 | 8 | 9 | -14 | 29 |
-| 13 | Elche | 25 | 5 | 11 | 9 | -4 | 26 |
-| 14 | Sevilla | 24 | 7 | 5 | 12 | -8 | 26 |
-| 15 | Alavés | 24 | 7 | 5 | 12 | -9 | 26 |
-| 16 | Valencia | 24 | 6 | 8 | 10 | -12 | 26 |
+| 13 | Sevilla | 24 | 7 | 5 | 12 | -8 | 26 |
+| 14 | Alavés | 24 | 7 | 5 | 12 | -9 | 26 |
+| 15 | Valencia | 24 | 6 | 8 | 10 | -12 | 26 |
+| 16 | Elche | 25 | 5 | 10 | 10 | -5 | 25 |
 | 17 | Rayo Vallecano | 23 | 6 | 7 | 10 | -9 | 25 |
 | 18 | Mallorca | 24 | 6 | 6 | 12 | -10 | 24 |
 | 19 | Levante | 24 | 4 | 6 | 14 | -15 | 18 |
@@ -105,11 +105,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Bayer Leverkusen | 21 | 12 | 3 | 6 | 16 | 39 |
 | 7 | Eintracht Frankfurt | 22 | 8 | 7 | 7 | -2 | 31 |
 | 8 | SC Freiburg | 22 | 8 | 6 | 8 | -4 | 30 |
-| 9 | Hamburg | 22 | 6 | 7 | 9 | -8 | 25 |
+| 9 | Hamburg | 22 | 6 | 8 | 8 | -7 | 26 |
 | 10 | Union Berlin | 22 | 6 | 7 | 9 | -9 | 25 |
 | 11 | Augsburg | 22 | 7 | 4 | 11 | -14 | 25 |
-| 12 | Mainz 05 | 23 | 6 | 6 | 11 | -11 | 24 |
-| 13 | Köln | 22 | 6 | 5 | 11 | -6 | 23 |
+| 12 | Köln | 22 | 6 | 5 | 11 | -6 | 23 |
+| 13 | Mainz 05 | 23 | 5 | 7 | 11 | -12 | 22 |
 | 14 | Borussia Mönchengladbach | 22 | 5 | 7 | 10 | -12 | 22 |
 | 15 | VfL Wolfsburg | 22 | 5 | 5 | 12 | -15 | 20 |
 | 16 | Werder Bremen | 22 | 4 | 7 | 11 | -20 | 19 |
@@ -127,7 +127,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Juventus | 25 | 13 | 7 | 5 | 20 | 46 |
 | 6 | Como | 25 | 11 | 9 | 5 | 20 | 42 |
 | 7 | Atalanta | 25 | 11 | 9 | 5 | 13 | 42 |
-| 8 | Sassuolo | 26 | 10 | 5 | 11 | -4 | 35 |
+| 8 | Sassuolo | 26 | 10 | 5 | 11 | -3 | 35 |
 | 9 | Bologna | 25 | 9 | 6 | 10 | 2 | 33 |
 | 10 | Lazio | 25 | 8 | 9 | 8 | 1 | 33 |
 | 11 | Udinese | 25 | 9 | 5 | 11 | -10 | 32 |
@@ -139,7 +139,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Lecce | 25 | 6 | 6 | 13 | -14 | 24 |
 | 18 | Fiorentina | 25 | 4 | 9 | 12 | -10 | 21 |
 | 19 | Pisa | 25 | 1 | 12 | 12 | -22 | 15 |
-| 20 | Hellas Verona | 26 | 2 | 9 | 15 | -26 | 15 |
+| 20 | Hellas Verona | 26 | 2 | 9 | 15 | -27 | 15 |
 
 ### Ligue 1
 
@@ -301,13 +301,13 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
 | 9 | Estoril | 22 | 8 | 6 | 8 | 5 | 30 |
 | 10 | Alverca | 22 | 7 | 4 | 11 | -15 | 25 |
-| 11 | Estrela Amadora | 22 | 5 | 8 | 9 | -13 | 23 |
+| 11 | Estrela Amadora | 23 | 5 | 8 | 10 | -14 | 23 |
 | 12 | Arouca | 22 | 6 | 5 | 11 | -21 | 23 |
 | 13 | Casa Pia | 22 | 5 | 7 | 10 | -16 | 22 |
 | 14 | Nacional | 22 | 5 | 6 | 11 | -4 | 21 |
 | 15 | Rio Ave | 22 | 4 | 8 | 10 | -20 | 20 |
-| 16 | Santa Clara | 22 | 4 | 5 | 13 | -11 | 17 |
-| 17 | Tondela | 22 | 3 | 6 | 13 | -21 | 15 |
+| 16 | Tondela | 23 | 4 | 6 | 13 | -20 | 18 |
+| 17 | Santa Clara | 22 | 4 | 5 | 13 | -11 | 17 |
 | 18 | AVS | 22 | 1 | 5 | 16 | -36 | 8 |
 
 ### EFL Championship

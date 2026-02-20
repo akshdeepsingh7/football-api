@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 February 2026, 08:33 PM UTC",
-        "IST": "Saturday, 21 February 2026, 02:03 AM IST"
+        "UTC": "Friday, 20 February 2026, 09:26 PM UTC",
+        "IST": "Saturday, 21 February 2026, 02:56 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -281,11 +281,11 @@
                 "Position": "8",
                 "Team": "Athletic Bilbao",
                 "Played": "25",
-                "Wins": "9",
-                "Draws": "5",
+                "Wins": "10",
+                "Draws": "4",
                 "Losses": "11",
-                "Goal Difference": "-7",
-                "Points": "32"
+                "Goal Difference": "-6",
+                "Points": "34"
             },
             {
                 "Position": "9",
@@ -329,16 +329,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Elche",
-                "Played": "25",
-                "Wins": "5",
-                "Draws": "11",
-                "Losses": "9",
-                "Goal Difference": "-4",
-                "Points": "26"
-            },
-            {
-                "Position": "14",
                 "Team": "Sevilla",
                 "Played": "24",
                 "Wins": "7",
@@ -348,7 +338,7 @@
                 "Points": "26"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Alav\u00e9s",
                 "Played": "24",
                 "Wins": "7",
@@ -358,7 +348,7 @@
                 "Points": "26"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Valencia",
                 "Played": "24",
                 "Wins": "6",
@@ -366,6 +356,16 @@
                 "Losses": "10",
                 "Goal Difference": "-12",
                 "Points": "26"
+            },
+            {
+                "Position": "16",
+                "Team": "Elche",
+                "Played": "25",
+                "Wins": "5",
+                "Draws": "10",
+                "Losses": "10",
+                "Goal Difference": "-5",
+                "Points": "25"
             },
             {
                 "Position": "17",
@@ -494,10 +494,10 @@
                 "Team": "Hamburg",
                 "Played": "22",
                 "Wins": "6",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-8",
-                "Points": "25"
+                "Draws": "8",
+                "Losses": "8",
+                "Goal Difference": "-7",
+                "Points": "26"
             },
             {
                 "Position": "10",
@@ -521,16 +521,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Mainz 05",
-                "Played": "23",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-11",
-                "Points": "24"
-            },
-            {
-                "Position": "13",
                 "Team": "K\u00f6ln",
                 "Played": "22",
                 "Wins": "6",
@@ -538,6 +528,16 @@
                 "Losses": "11",
                 "Goal Difference": "-6",
                 "Points": "23"
+            },
+            {
+                "Position": "13",
+                "Team": "Mainz 05",
+                "Played": "23",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-12",
+                "Points": "22"
             },
             {
                 "Position": "14",
@@ -668,7 +668,7 @@
                 "Wins": "10",
                 "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "35"
             },
             {
@@ -788,7 +788,7 @@
                 "Wins": "2",
                 "Draws": "9",
                 "Losses": "15",
-                "Goal Difference": "-26",
+                "Goal Difference": "-27",
                 "Points": "15"
             }
         ],
@@ -2164,11 +2164,11 @@
             {
                 "Position": "11",
                 "Team": "Estrela Amadora",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "5",
                 "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-13",
+                "Losses": "10",
+                "Goal Difference": "-14",
                 "Points": "23"
             },
             {
@@ -2213,6 +2213,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Tondela",
+                "Played": "23",
+                "Wins": "4",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-20",
+                "Points": "18"
+            },
+            {
+                "Position": "17",
                 "Team": "Santa Clara",
                 "Played": "22",
                 "Wins": "4",
@@ -2220,16 +2230,6 @@
                 "Losses": "13",
                 "Goal Difference": "-11",
                 "Points": "17"
-            },
-            {
-                "Position": "17",
-                "Team": "Tondela",
-                "Played": "22",
-                "Wins": "3",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-21",
-                "Points": "15"
             },
             {
                 "Position": "18",
