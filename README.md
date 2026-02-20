@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 20 February 2026, 01:00 PM UTC (Friday, 20 February 2026, 06:30 PM IST)
+**Last Updated:** Friday, 20 February 2026, 02:10 PM UTC (Friday, 20 February 2026, 07:40 PM IST)
 
 ### Premier League
 
@@ -378,18 +378,18 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | East Bengal | 1 | 1 | 0 | 0 | 3 | 3 |
-| 2 | Bengaluru | 1 | 1 | 0 | 0 | 2 | 3 |
-| 3 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 2 | 3 |
-| 4 | Jamshedpur | 1 | 1 | 0 | 0 | 1 | 3 |
-| 5 | Mumbai City | 1 | 1 | 0 | 0 | 1 | 3 |
-| 6 | FC Goa | 1 | 0 | 1 | 0 | 0 | 1 |
+| 1 | FC Goa | 2 | 1 | 1 | 0 | 1 | 4 |
+| 2 | East Bengal | 1 | 1 | 0 | 0 | 3 | 3 |
+| 3 | Bengaluru | 1 | 1 | 0 | 0 | 2 | 3 |
+| 4 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 2 | 3 |
+| 5 | Jamshedpur | 1 | 1 | 0 | 0 | 1 | 3 |
+| 6 | Mumbai City | 1 | 1 | 0 | 0 | 1 | 3 |
 | 7 | Inter Kashi | 1 | 0 | 1 | 0 | 0 | 1 |
 | 8 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Punjab FC | 0 | 0 | 0 | 0 | 0 | 0 |
 | 10 | Chennaiyin | 1 | 0 | 0 | 1 | -1 | 0 |
-| 11 | Mohammedan | 1 | 0 | 0 | 1 | -1 | 0 |
-| 12 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
+| 11 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
+| 12 | Mohammedan | 2 | 0 | 0 | 2 | -2 | 0 |
 | 13 | SC Delhi | 1 | 0 | 0 | 1 | -2 | 0 |
 | 14 | NorthEast Utd | 1 | 0 | 0 | 1 | -3 | 0 |
 

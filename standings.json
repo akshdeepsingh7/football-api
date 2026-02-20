@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 February 2026, 01:00 PM UTC",
-        "IST": "Friday, 20 February 2026, 06:30 PM IST"
+        "UTC": "Friday, 20 February 2026, 02:10 PM UTC",
+        "IST": "Friday, 20 February 2026, 07:40 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2789,6 +2789,16 @@
         "Indian Super League": [
             {
                 "Position": "1",
+                "Team": "FC Goa",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "1",
+                "Points": "4"
+            },
+            {
+                "Position": "2",
                 "Team": "East Bengal",
                 "Played": "1",
                 "Wins": "1",
@@ -2798,7 +2808,7 @@
                 "Points": "3"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Bengaluru",
                 "Played": "1",
                 "Wins": "1",
@@ -2808,7 +2818,7 @@
                 "Points": "3"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Mohun Bagan SG",
                 "Played": "1",
                 "Wins": "1",
@@ -2818,7 +2828,7 @@
                 "Points": "3"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Jamshedpur",
                 "Played": "1",
                 "Wins": "1",
@@ -2828,7 +2838,7 @@
                 "Points": "3"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Mumbai City",
                 "Played": "1",
                 "Wins": "1",
@@ -2836,16 +2846,6 @@
                 "Losses": "0",
                 "Goal Difference": "1",
                 "Points": "3"
-            },
-            {
-                "Position": "6",
-                "Team": "FC Goa",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
             },
             {
                 "Position": "7",
@@ -2889,21 +2889,21 @@
             },
             {
                 "Position": "11",
-                "Team": "Mohammedan",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "0"
-            },
-            {
-                "Position": "12",
                 "Team": "Kerala Blasters",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
+                "Goal Difference": "-2",
+                "Points": "0"
+            },
+            {
+                "Position": "12",
+                "Team": "Mohammedan",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "2",
                 "Goal Difference": "-2",
                 "Points": "0"
             },
