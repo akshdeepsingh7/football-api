@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 03:25 PM UTC (Saturday, 21 February 2026, 08:55 PM IST)
+**Last Updated:** Saturday, 21 February 2026, 03:49 PM UTC (Saturday, 21 February 2026, 09:19 PM IST)
 
 ### Premier League
 
@@ -49,19 +49,19 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 27 | 17 | 7 | 3 | 32 | 58 |
 | 2 | Manchester City | 26 | 16 | 5 | 5 | 30 | 53 |
-| 3 | Aston Villa | 27 | 15 | 6 | 6 | 10 | 51 |
+| 3 | Aston Villa | 27 | 15 | 5 | 7 | 9 | 50 |
 | 4 | Chelsea | 27 | 13 | 8 | 6 | 18 | 47 |
 | 5 | Manchester United | 26 | 12 | 9 | 5 | 10 | 45 |
 | 6 | Liverpool FC | 26 | 12 | 6 | 8 | 6 | 42 |
-| 7 | Brentford | 27 | 12 | 5 | 10 | 5 | 41 |
+| 7 | Brentford | 27 | 12 | 4 | 11 | 3 | 40 |
 | 8 | Everton | 26 | 10 | 7 | 9 | -1 | 37 |
 | 9 | AFC Bournemouth | 26 | 9 | 10 | 7 | -2 | 37 |
 | 10 | Newcastle United | 26 | 10 | 6 | 10 | 0 | 36 |
 | 11 | Sunderland | 26 | 9 | 9 | 8 | -3 | 36 |
-| 12 | Fulham | 26 | 10 | 4 | 12 | -5 | 34 |
-| 13 | Brighton & Hove Albion | 27 | 7 | 11 | 9 | 0 | 32 |
-| 14 | Crystal Palace | 26 | 8 | 8 | 10 | -4 | 32 |
-| 15 | Leeds United | 27 | 7 | 10 | 10 | -9 | 31 |
+| 12 | Brighton & Hove Albion | 27 | 8 | 10 | 9 | 2 | 34 |
+| 13 | Fulham | 26 | 10 | 4 | 12 | -5 | 34 |
+| 14 | Leeds United | 27 | 8 | 9 | 10 | -8 | 33 |
+| 15 | Crystal Palace | 26 | 8 | 8 | 10 | -4 | 32 |
 | 16 | Tottenham Hotspur | 26 | 7 | 8 | 11 | -1 | 29 |
 | 17 | Nottingham Forest | 26 | 7 | 6 | 13 | -13 | 27 |
 | 18 | West Ham United | 26 | 6 | 6 | 14 | -17 | 24 |
@@ -76,7 +76,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Barcelona | 24 | 19 | 1 | 4 | 39 | 58 |
 | 3 | Villarreal | 24 | 15 | 3 | 6 | 19 | 48 |
 | 4 | Atlético de Madrid | 24 | 13 | 6 | 5 | 17 | 45 |
-| 5 | Real Betis | 25 | 11 | 9 | 5 | 10 | 42 |
+| 5 | Real Betis | 25 | 12 | 8 | 5 | 11 | 44 |
 | 6 | Espanyol | 24 | 10 | 5 | 9 | -4 | 35 |
 | 7 | Celta de Vigo | 24 | 8 | 10 | 6 | 5 | 34 |
 | 8 | Athletic Bilbao | 25 | 10 | 4 | 11 | -6 | 34 |
@@ -86,9 +86,9 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Girona | 24 | 7 | 8 | 9 | -14 | 29 |
 | 13 | Sevilla | 24 | 7 | 5 | 12 | -8 | 26 |
 | 14 | Alavés | 24 | 7 | 5 | 12 | -9 | 26 |
-| 15 | Rayo Vallecano | 24 | 6 | 8 | 10 | -9 | 26 |
-| 16 | Valencia | 24 | 6 | 8 | 10 | -12 | 26 |
-| 17 | Elche | 25 | 5 | 10 | 10 | -5 | 25 |
+| 15 | Valencia | 24 | 6 | 8 | 10 | -12 | 26 |
+| 16 | Elche | 25 | 5 | 10 | 10 | -5 | 25 |
+| 17 | Rayo Vallecano | 24 | 6 | 7 | 11 | -10 | 25 |
 | 18 | Mallorca | 24 | 6 | 6 | 12 | -10 | 24 |
 | 19 | Levante | 24 | 4 | 6 | 14 | -15 | 18 |
 | 20 | Real Oviedo | 24 | 3 | 8 | 13 | -23 | 17 |
@@ -300,14 +300,14 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Famalicão | 22 | 9 | 5 | 8 | 6 | 32 |
 | 8 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
 | 9 | Estoril | 22 | 8 | 6 | 8 | 5 | 30 |
-| 10 | Alverca | 22 | 7 | 4 | 11 | -15 | 25 |
-| 11 | Estrela Amadora | 23 | 5 | 8 | 10 | -15 | 23 |
-| 12 | Arouca | 22 | 6 | 5 | 11 | -21 | 23 |
-| 13 | Casa Pia | 22 | 5 | 7 | 10 | -16 | 22 |
-| 14 | Nacional | 22 | 5 | 6 | 11 | -4 | 21 |
+| 10 | Alverca | 23 | 8 | 4 | 11 | -14 | 28 |
+| 11 | Arouca | 23 | 6 | 6 | 11 | -21 | 24 |
+| 12 | Estrela Amadora | 23 | 5 | 8 | 10 | -15 | 23 |
+| 13 | Nacional | 23 | 5 | 7 | 11 | -4 | 22 |
+| 14 | Casa Pia | 22 | 5 | 7 | 10 | -16 | 22 |
 | 15 | Rio Ave | 22 | 4 | 8 | 10 | -20 | 20 |
 | 16 | Tondela | 23 | 4 | 6 | 13 | -19 | 18 |
-| 17 | Santa Clara | 22 | 4 | 5 | 13 | -11 | 17 |
+| 17 | Santa Clara | 23 | 4 | 5 | 14 | -12 | 17 |
 | 18 | AVS | 22 | 1 | 5 | 16 | -36 | 8 |
 
 ### EFL Championship
@@ -379,15 +379,15 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | East Bengal | 2 | 2 | 0 | 0 | 6 | 6 |
-| 2 | FC Goa | 2 | 1 | 1 | 0 | 2 | 4 |
-| 3 | Jamshedpur | 2 | 1 | 1 | 0 | 1 | 4 |
+| 2 | Jamshedpur | 2 | 2 | 0 | 0 | 2 | 6 |
+| 3 | FC Goa | 2 | 1 | 1 | 0 | 2 | 4 |
 | 4 | Bengaluru | 1 | 1 | 0 | 0 | 2 | 3 |
 | 5 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 2 | 3 |
 | 6 | Mumbai City | 1 | 1 | 0 | 0 | 1 | 3 |
 | 7 | Inter Kashi | 1 | 0 | 1 | 0 | 0 | 1 |
-| 8 | Punjab FC | 1 | 0 | 1 | 0 | 0 | 1 |
-| 9 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | Chennaiyin | 1 | 0 | 0 | 1 | -1 | 0 |
+| 8 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Chennaiyin | 1 | 0 | 0 | 1 | -1 | 0 |
+| 10 | Punjab FC | 1 | 0 | 0 | 1 | -1 | 0 |
 | 11 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
 | 12 | Mohammedan | 2 | 0 | 0 | 2 | -3 | 0 |
 | 13 | NorthEast Utd | 1 | 0 | 0 | 1 | -3 | 0 |

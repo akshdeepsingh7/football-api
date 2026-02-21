@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 03:25 PM UTC",
-        "IST": "Saturday, 21 February 2026, 08:55 PM IST"
+        "UTC": "Saturday, 21 February 2026, 03:49 PM UTC",
+        "IST": "Saturday, 21 February 2026, 09:19 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -30,10 +30,10 @@
                 "Team": "Aston Villa",
                 "Played": "27",
                 "Wins": "15",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "10",
-                "Points": "51"
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "9",
+                "Points": "50"
             },
             {
                 "Position": "4",
@@ -70,10 +70,10 @@
                 "Team": "Brentford",
                 "Played": "27",
                 "Wins": "12",
-                "Draws": "5",
-                "Losses": "10",
-                "Goal Difference": "5",
-                "Points": "41"
+                "Draws": "4",
+                "Losses": "11",
+                "Goal Difference": "3",
+                "Points": "40"
             },
             {
                 "Position": "8",
@@ -117,6 +117,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Brighton & Hove Albion",
+                "Played": "27",
+                "Wins": "8",
+                "Draws": "10",
+                "Losses": "9",
+                "Goal Difference": "2",
+                "Points": "34"
+            },
+            {
+                "Position": "13",
                 "Team": "Fulham",
                 "Played": "26",
                 "Wins": "10",
@@ -126,17 +136,17 @@
                 "Points": "34"
             },
             {
-                "Position": "13",
-                "Team": "Brighton & Hove Albion",
+                "Position": "14",
+                "Team": "Leeds United",
                 "Played": "27",
-                "Wins": "7",
-                "Draws": "11",
-                "Losses": "9",
-                "Goal Difference": "0",
-                "Points": "32"
+                "Wins": "8",
+                "Draws": "9",
+                "Losses": "10",
+                "Goal Difference": "-8",
+                "Points": "33"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Crystal Palace",
                 "Played": "26",
                 "Wins": "8",
@@ -144,16 +154,6 @@
                 "Losses": "10",
                 "Goal Difference": "-4",
                 "Points": "32"
-            },
-            {
-                "Position": "15",
-                "Team": "Leeds United",
-                "Played": "27",
-                "Wins": "7",
-                "Draws": "10",
-                "Losses": "10",
-                "Goal Difference": "-9",
-                "Points": "31"
             },
             {
                 "Position": "16",
@@ -251,11 +251,11 @@
                 "Position": "5",
                 "Team": "Real Betis",
                 "Played": "25",
-                "Wins": "11",
-                "Draws": "9",
+                "Wins": "12",
+                "Draws": "8",
                 "Losses": "5",
-                "Goal Difference": "10",
-                "Points": "42"
+                "Goal Difference": "11",
+                "Points": "44"
             },
             {
                 "Position": "6",
@@ -349,16 +349,6 @@
             },
             {
                 "Position": "15",
-                "Team": "Rayo Vallecano",
-                "Played": "24",
-                "Wins": "6",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-9",
-                "Points": "26"
-            },
-            {
-                "Position": "16",
                 "Team": "Valencia",
                 "Played": "24",
                 "Wins": "6",
@@ -368,13 +358,23 @@
                 "Points": "26"
             },
             {
-                "Position": "17",
+                "Position": "16",
                 "Team": "Elche",
                 "Played": "25",
                 "Wins": "5",
                 "Draws": "10",
                 "Losses": "10",
                 "Goal Difference": "-5",
+                "Points": "25"
+            },
+            {
+                "Position": "17",
+                "Team": "Rayo Vallecano",
+                "Played": "24",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-10",
                 "Points": "25"
             },
             {
@@ -2154,15 +2154,25 @@
             {
                 "Position": "10",
                 "Team": "Alverca",
-                "Played": "22",
-                "Wins": "7",
+                "Played": "23",
+                "Wins": "8",
                 "Draws": "4",
                 "Losses": "11",
-                "Goal Difference": "-15",
-                "Points": "25"
+                "Goal Difference": "-14",
+                "Points": "28"
             },
             {
                 "Position": "11",
+                "Team": "Arouca",
+                "Played": "23",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "-21",
+                "Points": "24"
+            },
+            {
+                "Position": "12",
                 "Team": "Estrela Amadora",
                 "Played": "23",
                 "Wins": "5",
@@ -2172,17 +2182,17 @@
                 "Points": "23"
             },
             {
-                "Position": "12",
-                "Team": "Arouca",
-                "Played": "22",
-                "Wins": "6",
-                "Draws": "5",
+                "Position": "13",
+                "Team": "Nacional",
+                "Played": "23",
+                "Wins": "5",
+                "Draws": "7",
                 "Losses": "11",
-                "Goal Difference": "-21",
-                "Points": "23"
+                "Goal Difference": "-4",
+                "Points": "22"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Casa Pia",
                 "Played": "22",
                 "Wins": "5",
@@ -2190,16 +2200,6 @@
                 "Losses": "10",
                 "Goal Difference": "-16",
                 "Points": "22"
-            },
-            {
-                "Position": "14",
-                "Team": "Nacional",
-                "Played": "22",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-4",
-                "Points": "21"
             },
             {
                 "Position": "15",
@@ -2224,11 +2224,11 @@
             {
                 "Position": "17",
                 "Team": "Santa Clara",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "4",
                 "Draws": "5",
-                "Losses": "13",
-                "Goal Difference": "-11",
+                "Losses": "14",
+                "Goal Difference": "-12",
                 "Points": "17"
             },
             {
@@ -2799,22 +2799,22 @@
             },
             {
                 "Position": "2",
+                "Team": "Jamshedpur",
+                "Played": "2",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "6"
+            },
+            {
+                "Position": "3",
                 "Team": "FC Goa",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "2",
-                "Points": "4"
-            },
-            {
-                "Position": "3",
-                "Team": "Jamshedpur",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "1",
                 "Points": "4"
             },
             {
@@ -2859,16 +2859,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Punjab FC",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
-                "Position": "9",
                 "Team": "Odisha",
                 "Played": "0",
                 "Wins": "0",
@@ -2878,8 +2868,18 @@
                 "Points": "0"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Chennaiyin",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "0"
+            },
+            {
+                "Position": "10",
+                "Team": "Punjab FC",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
