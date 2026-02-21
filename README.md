@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 12:50 PM UTC (Saturday, 21 February 2026, 06:20 PM IST)
+**Last Updated:** Saturday, 21 February 2026, 01:42 PM UTC (Saturday, 21 February 2026, 07:12 PM IST)
 
 ### Premier League
 
@@ -80,7 +80,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Espanyol | 24 | 10 | 5 | 9 | -4 | 35 |
 | 7 | Celta de Vigo | 24 | 8 | 10 | 6 | 5 | 34 |
 | 8 | Athletic Bilbao | 25 | 10 | 4 | 11 | -6 | 34 |
-| 9 | Real Sociedad | 24 | 8 | 7 | 9 | -1 | 31 |
+| 9 | Real Sociedad | 25 | 8 | 8 | 9 | -1 | 32 |
 | 10 | Osasuna | 24 | 8 | 6 | 10 | 0 | 30 |
 | 11 | Getafe | 24 | 8 | 5 | 11 | -8 | 29 |
 | 12 | Girona | 24 | 7 | 8 | 9 | -14 | 29 |
@@ -91,7 +91,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Rayo Vallecano | 23 | 6 | 7 | 10 | -9 | 25 |
 | 18 | Mallorca | 24 | 6 | 6 | 12 | -10 | 24 |
 | 19 | Levante | 24 | 4 | 6 | 14 | -15 | 18 |
-| 20 | Real Oviedo | 23 | 3 | 7 | 13 | -23 | 16 |
+| 20 | Real Oviedo | 24 | 3 | 8 | 13 | -23 | 17 |
 
 ### Bundesliga
 
@@ -314,28 +314,28 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 33 | 19 | 8 | 6 | 31 | 65 |
+| 1 | Coventry City | 33 | 19 | 8 | 6 | 32 | 65 |
 | 2 | Middlesbrough | 32 | 18 | 7 | 7 | 17 | 61 |
 | 3 | Millwall | 32 | 16 | 8 | 8 | 4 | 56 |
 | 4 | Hull City | 32 | 16 | 7 | 9 | 7 | 55 |
 | 5 | Ipswich Town | 30 | 15 | 9 | 6 | 22 | 54 |
 | 6 | Derby County | 32 | 13 | 9 | 10 | 8 | 48 |
 | 7 | Wrexham | 32 | 12 | 12 | 8 | 5 | 48 |
-| 8 | Bristol City | 33 | 13 | 9 | 11 | 5 | 48 |
-| 9 | Preston North End | 33 | 12 | 12 | 9 | 3 | 48 |
-| 10 | Stoke City | 33 | 13 | 7 | 13 | 6 | 46 |
-| 11 | Southampton | 32 | 12 | 10 | 10 | 4 | 46 |
-| 12 | Birmingham City | 32 | 12 | 10 | 10 | 4 | 46 |
-| 13 | Watford | 32 | 11 | 12 | 9 | 3 | 45 |
+| 8 | Preston North End | 33 | 12 | 12 | 9 | 3 | 48 |
+| 9 | Bristol City | 33 | 13 | 8 | 12 | 4 | 47 |
+| 10 | Southampton | 32 | 12 | 10 | 10 | 4 | 46 |
+| 11 | Birmingham City | 32 | 12 | 10 | 10 | 4 | 46 |
+| 12 | Watford | 32 | 11 | 12 | 9 | 3 | 45 |
+| 13 | Swansea City | 33 | 13 | 6 | 14 | 0 | 45 |
 | 14 | Queens Park Rangers | 33 | 12 | 9 | 12 | -3 | 45 |
-| 15 | Swansea City | 33 | 12 | 7 | 14 | -1 | 43 |
+| 15 | Stoke City | 33 | 12 | 8 | 13 | 5 | 44 |
 | 16 | Sheffield United | 32 | 13 | 3 | 16 | 0 | 42 |
 | 17 | Norwich City | 32 | 11 | 6 | 15 | 0 | 39 |
 | 18 | Charlton Athletic | 32 | 10 | 9 | 13 | -10 | 39 |
 | 19 | Blackburn Rovers | 33 | 10 | 8 | 15 | -10 | 38 |
 | 20 | Portsmouth | 31 | 9 | 9 | 13 | -10 | 36 |
-| 21 | West Bromwich Albion | 33 | 9 | 7 | 17 | -16 | 34 |
-| 22 | Leicester City | 33 | 10 | 8 | 15 | -8 | 32 |
+| 21 | West Bromwich Albion | 33 | 9 | 7 | 17 | -17 | 34 |
+| 22 | Leicester City | 33 | 10 | 9 | 14 | -7 | 33 |
 | 23 | Oxford United | 32 | 6 | 10 | 16 | -16 | 28 |
 | 24 | Sheffield Wednesday | 32 | 1 | 8 | 23 | -45 | -7 |
 
@@ -378,7 +378,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | East Bengal | 2 | 2 | 0 | 0 | 5 | 6 |
+| 1 | East Bengal | 2 | 2 | 0 | 0 | 6 | 6 |
 | 2 | FC Goa | 2 | 1 | 1 | 0 | 2 | 4 |
 | 3 | Bengaluru | 1 | 1 | 0 | 0 | 2 | 3 |
 | 4 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 2 | 3 |
@@ -391,7 +391,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
 | 12 | Mohammedan | 2 | 0 | 0 | 2 | -3 | 0 |
 | 13 | NorthEast Utd | 1 | 0 | 0 | 1 | -3 | 0 |
-| 14 | SC Delhi | 2 | 0 | 0 | 2 | -4 | 0 |
+| 14 | SC Delhi | 2 | 0 | 0 | 2 | -5 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
 

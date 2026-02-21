@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 12:50 PM UTC",
-        "IST": "Saturday, 21 February 2026, 06:20 PM IST"
+        "UTC": "Saturday, 21 February 2026, 01:42 PM UTC",
+        "IST": "Saturday, 21 February 2026, 07:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -290,12 +290,12 @@
             {
                 "Position": "9",
                 "Team": "Real Sociedad",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "8",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "9",
                 "Goal Difference": "-1",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "10",
@@ -400,12 +400,12 @@
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "3",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "13",
                 "Goal Difference": "-23",
-                "Points": "16"
+                "Points": "17"
             }
         ],
         "Bundesliga": [
@@ -2250,7 +2250,7 @@
                 "Wins": "19",
                 "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "31",
+                "Goal Difference": "32",
                 "Points": "65"
             },
             {
@@ -2315,16 +2315,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Bristol City",
-                "Played": "33",
-                "Wins": "13",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "5",
-                "Points": "48"
-            },
-            {
-                "Position": "9",
                 "Team": "Preston North End",
                 "Played": "33",
                 "Wins": "12",
@@ -2334,17 +2324,17 @@
                 "Points": "48"
             },
             {
-                "Position": "10",
-                "Team": "Stoke City",
+                "Position": "9",
+                "Team": "Bristol City",
                 "Played": "33",
                 "Wins": "13",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "6",
-                "Points": "46"
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "4",
+                "Points": "47"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Southampton",
                 "Played": "32",
                 "Wins": "12",
@@ -2354,7 +2344,7 @@
                 "Points": "46"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Birmingham City",
                 "Played": "32",
                 "Wins": "12",
@@ -2364,13 +2354,23 @@
                 "Points": "46"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Watford",
                 "Played": "32",
                 "Wins": "11",
                 "Draws": "12",
                 "Losses": "9",
                 "Goal Difference": "3",
+                "Points": "45"
+            },
+            {
+                "Position": "13",
+                "Team": "Swansea City",
+                "Played": "33",
+                "Wins": "13",
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "0",
                 "Points": "45"
             },
             {
@@ -2385,13 +2385,13 @@
             },
             {
                 "Position": "15",
-                "Team": "Swansea City",
+                "Team": "Stoke City",
                 "Played": "33",
                 "Wins": "12",
-                "Draws": "7",
-                "Losses": "14",
-                "Goal Difference": "-1",
-                "Points": "43"
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "5",
+                "Points": "44"
             },
             {
                 "Position": "16",
@@ -2450,7 +2450,7 @@
                 "Wins": "9",
                 "Draws": "7",
                 "Losses": "17",
-                "Goal Difference": "-16",
+                "Goal Difference": "-17",
                 "Points": "34"
             },
             {
@@ -2458,10 +2458,10 @@
                 "Team": "Leicester City",
                 "Played": "33",
                 "Wins": "10",
-                "Draws": "8",
-                "Losses": "15",
-                "Goal Difference": "-8",
-                "Points": "32"
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "-7",
+                "Points": "33"
             },
             {
                 "Position": "23",
@@ -2794,7 +2794,7 @@
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "5",
+                "Goal Difference": "6",
                 "Points": "6"
             },
             {
@@ -2924,7 +2924,7 @@
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "0"
             }
         ],
