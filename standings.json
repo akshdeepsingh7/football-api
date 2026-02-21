@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 04:30 PM UTC",
-        "IST": "Saturday, 21 February 2026, 10:00 PM IST"
+        "UTC": "Saturday, 21 February 2026, 04:58 PM UTC",
+        "IST": "Saturday, 21 February 2026, 10:28 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -30,20 +30,20 @@
                 "Team": "Aston Villa",
                 "Played": "27",
                 "Wins": "15",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "9",
-                "Points": "50"
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "10",
+                "Points": "51"
             },
             {
                 "Position": "4",
                 "Team": "Chelsea",
                 "Played": "27",
-                "Wins": "13",
-                "Draws": "8",
+                "Wins": "12",
+                "Draws": "9",
                 "Losses": "6",
-                "Goal Difference": "18",
-                "Points": "47"
+                "Goal Difference": "17",
+                "Points": "45"
             },
             {
                 "Position": "5",
@@ -137,16 +137,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Leeds United",
-                "Played": "27",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-8",
-                "Points": "33"
-            },
-            {
-                "Position": "15",
                 "Team": "Crystal Palace",
                 "Played": "26",
                 "Wins": "8",
@@ -154,6 +144,16 @@
                 "Losses": "10",
                 "Goal Difference": "-4",
                 "Points": "32"
+            },
+            {
+                "Position": "15",
+                "Team": "Leeds United",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "10",
+                "Losses": "10",
+                "Goal Difference": "-9",
+                "Points": "31"
             },
             {
                 "Position": "16",
@@ -190,10 +190,10 @@
                 "Team": "Burnley",
                 "Played": "27",
                 "Wins": "4",
-                "Draws": "6",
-                "Losses": "17",
-                "Goal Difference": "-24",
-                "Points": "18"
+                "Draws": "7",
+                "Losses": "16",
+                "Goal Difference": "-23",
+                "Points": "19"
             },
             {
                 "Position": "20",
@@ -2165,11 +2165,11 @@
                 "Position": "11",
                 "Team": "Arouca",
                 "Played": "23",
-                "Wins": "6",
-                "Draws": "6",
+                "Wins": "7",
+                "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-21",
-                "Points": "24"
+                "Goal Difference": "-19",
+                "Points": "26"
             },
             {
                 "Position": "12",
@@ -2183,16 +2183,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Nacional",
-                "Played": "23",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-4",
-                "Points": "22"
-            },
-            {
-                "Position": "14",
                 "Team": "Casa Pia",
                 "Played": "22",
                 "Wins": "5",
@@ -2200,6 +2190,16 @@
                 "Losses": "10",
                 "Goal Difference": "-16",
                 "Points": "22"
+            },
+            {
+                "Position": "14",
+                "Team": "Nacional",
+                "Played": "23",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-6",
+                "Points": "21"
             },
             {
                 "Position": "15",
@@ -2278,10 +2278,10 @@
                 "Team": "Ipswich Town",
                 "Played": "31",
                 "Wins": "15",
-                "Draws": "10",
-                "Losses": "6",
-                "Goal Difference": "22",
-                "Points": "55"
+                "Draws": "9",
+                "Losses": "7",
+                "Goal Difference": "20",
+                "Points": "54"
             },
             {
                 "Position": "5",
@@ -2297,11 +2297,11 @@
                 "Position": "6",
                 "Team": "Wrexham",
                 "Played": "33",
-                "Wins": "12",
-                "Draws": "13",
+                "Wins": "13",
+                "Draws": "12",
                 "Losses": "8",
-                "Goal Difference": "5",
-                "Points": "49"
+                "Goal Difference": "7",
+                "Points": "51"
             },
             {
                 "Position": "7",
@@ -2320,7 +2320,7 @@
                 "Wins": "13",
                 "Draws": "9",
                 "Losses": "11",
-                "Goal Difference": "7",
+                "Goal Difference": "6",
                 "Points": "48"
             },
             {
@@ -2330,7 +2330,7 @@
                 "Wins": "12",
                 "Draws": "12",
                 "Losses": "9",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "48"
             },
             {

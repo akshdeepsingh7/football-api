@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 04:30 PM UTC (Saturday, 21 February 2026, 10:00 PM IST)
+**Last Updated:** Saturday, 21 February 2026, 04:58 PM UTC (Saturday, 21 February 2026, 10:28 PM IST)
 
 ### Premier League
 
@@ -49,8 +49,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 27 | 17 | 7 | 3 | 32 | 58 |
 | 2 | Manchester City | 26 | 16 | 5 | 5 | 30 | 53 |
-| 3 | Aston Villa | 27 | 15 | 5 | 7 | 9 | 50 |
-| 4 | Chelsea | 27 | 13 | 8 | 6 | 18 | 47 |
+| 3 | Aston Villa | 27 | 15 | 6 | 6 | 10 | 51 |
+| 4 | Chelsea | 27 | 12 | 9 | 6 | 17 | 45 |
 | 5 | Manchester United | 26 | 12 | 9 | 5 | 10 | 45 |
 | 6 | Liverpool FC | 26 | 12 | 6 | 8 | 6 | 42 |
 | 7 | Brentford | 27 | 12 | 4 | 11 | 3 | 40 |
@@ -60,12 +60,12 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Sunderland | 26 | 9 | 9 | 8 | -3 | 36 |
 | 12 | Brighton & Hove Albion | 27 | 8 | 10 | 9 | 2 | 34 |
 | 13 | Fulham | 26 | 10 | 4 | 12 | -5 | 34 |
-| 14 | Leeds United | 27 | 8 | 9 | 10 | -8 | 33 |
-| 15 | Crystal Palace | 26 | 8 | 8 | 10 | -4 | 32 |
+| 14 | Crystal Palace | 26 | 8 | 8 | 10 | -4 | 32 |
+| 15 | Leeds United | 27 | 7 | 10 | 10 | -9 | 31 |
 | 16 | Tottenham Hotspur | 26 | 7 | 8 | 11 | -1 | 29 |
 | 17 | Nottingham Forest | 26 | 7 | 6 | 13 | -13 | 27 |
 | 18 | West Ham United | 26 | 6 | 6 | 14 | -17 | 24 |
-| 19 | Burnley | 27 | 4 | 6 | 17 | -24 | 18 |
+| 19 | Burnley | 27 | 4 | 7 | 16 | -23 | 19 |
 | 20 | Wolverhampton Wanderers | 27 | 1 | 7 | 19 | -32 | 10 |
 
 ### La Liga
@@ -301,10 +301,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
 | 9 | Estoril | 22 | 8 | 6 | 8 | 5 | 30 |
 | 10 | Alverca | 23 | 8 | 4 | 11 | -14 | 28 |
-| 11 | Arouca | 23 | 6 | 6 | 11 | -21 | 24 |
+| 11 | Arouca | 23 | 7 | 5 | 11 | -19 | 26 |
 | 12 | Estrela Amadora | 23 | 5 | 8 | 10 | -15 | 23 |
-| 13 | Nacional | 23 | 5 | 7 | 11 | -4 | 22 |
-| 14 | Casa Pia | 22 | 5 | 7 | 10 | -16 | 22 |
+| 13 | Casa Pia | 22 | 5 | 7 | 10 | -16 | 22 |
+| 14 | Nacional | 23 | 5 | 6 | 12 | -6 | 21 |
 | 15 | Rio Ave | 22 | 4 | 8 | 10 | -20 | 20 |
 | 16 | Tondela | 23 | 4 | 6 | 13 | -19 | 18 |
 | 17 | Santa Clara | 23 | 4 | 5 | 14 | -12 | 17 |
@@ -317,12 +317,12 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Coventry City | 33 | 19 | 8 | 6 | 32 | 65 |
 | 2 | Middlesbrough | 33 | 18 | 8 | 7 | 17 | 62 |
 | 3 | Millwall | 33 | 16 | 8 | 9 | 2 | 56 |
-| 4 | Ipswich Town | 31 | 15 | 10 | 6 | 22 | 55 |
+| 4 | Ipswich Town | 31 | 15 | 9 | 7 | 20 | 54 |
 | 5 | Hull City | 32 | 16 | 6 | 10 | 5 | 54 |
-| 6 | Wrexham | 33 | 12 | 13 | 8 | 5 | 49 |
+| 6 | Wrexham | 33 | 13 | 12 | 8 | 7 | 51 |
 | 7 | Birmingham City | 33 | 13 | 10 | 10 | 5 | 49 |
-| 8 | Derby County | 33 | 13 | 9 | 11 | 7 | 48 |
-| 9 | Watford | 33 | 12 | 12 | 9 | 4 | 48 |
+| 8 | Derby County | 33 | 13 | 9 | 11 | 6 | 48 |
+| 9 | Watford | 33 | 12 | 12 | 9 | 5 | 48 |
 | 10 | Preston North End | 33 | 12 | 12 | 9 | 3 | 48 |
 | 11 | Southampton | 33 | 12 | 11 | 10 | 4 | 47 |
 | 12 | Bristol City | 33 | 13 | 8 | 12 | 4 | 47 |
