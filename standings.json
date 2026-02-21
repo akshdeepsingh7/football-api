@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 08:26 PM UTC",
-        "IST": "Sunday, 22 February 2026, 01:56 AM IST"
+        "UTC": "Saturday, 21 February 2026, 08:49 PM UTC",
+        "IST": "Sunday, 22 February 2026, 02:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -19,11 +19,11 @@
                 "Position": "2",
                 "Team": "Manchester City",
                 "Played": "27",
-                "Wins": "16",
-                "Draws": "6",
+                "Wins": "17",
+                "Draws": "5",
                 "Losses": "5",
-                "Goal Difference": "30",
-                "Points": "54"
+                "Goal Difference": "31",
+                "Points": "56"
             },
             {
                 "Position": "3",
@@ -87,16 +87,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Newcastle United",
-                "Played": "27",
-                "Wins": "10",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "0",
-                "Points": "37"
-            },
-            {
-                "Position": "10",
                 "Team": "Everton",
                 "Played": "26",
                 "Wins": "10",
@@ -104,6 +94,16 @@
                 "Losses": "9",
                 "Goal Difference": "-1",
                 "Points": "37"
+            },
+            {
+                "Position": "10",
+                "Team": "Newcastle United",
+                "Played": "27",
+                "Wins": "10",
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "-1",
+                "Points": "36"
             },
             {
                 "Position": "11",
@@ -2104,12 +2104,12 @@
             {
                 "Position": "5",
                 "Team": "Braga",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "11",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "5",
                 "Goal Difference": "25",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "6",
@@ -2134,12 +2134,12 @@
             {
                 "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "9",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "9",
                 "Goal Difference": "-6",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "9",

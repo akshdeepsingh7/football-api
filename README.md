@@ -41,22 +41,22 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 08:26 PM UTC (Sunday, 22 February 2026, 01:56 AM IST)
+**Last Updated:** Saturday, 21 February 2026, 08:49 PM UTC (Sunday, 22 February 2026, 02:19 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 27 | 17 | 7 | 3 | 32 | 58 |
-| 2 | Manchester City | 27 | 16 | 6 | 5 | 30 | 54 |
+| 2 | Manchester City | 27 | 17 | 5 | 5 | 31 | 56 |
 | 3 | Aston Villa | 27 | 15 | 6 | 6 | 10 | 51 |
 | 4 | Chelsea | 27 | 12 | 9 | 6 | 17 | 45 |
 | 5 | Manchester United | 26 | 12 | 9 | 5 | 10 | 45 |
 | 6 | Liverpool FC | 26 | 12 | 6 | 8 | 6 | 42 |
 | 7 | Brentford | 27 | 12 | 4 | 11 | 3 | 40 |
 | 8 | AFC Bournemouth | 27 | 9 | 11 | 7 | -2 | 38 |
-| 9 | Newcastle United | 27 | 10 | 7 | 10 | 0 | 37 |
-| 10 | Everton | 26 | 10 | 7 | 9 | -1 | 37 |
+| 9 | Everton | 26 | 10 | 7 | 9 | -1 | 37 |
+| 10 | Newcastle United | 27 | 10 | 6 | 11 | -1 | 36 |
 | 11 | Sunderland | 26 | 9 | 9 | 8 | -3 | 36 |
 | 12 | Brighton & Hove Albion | 27 | 8 | 10 | 9 | 2 | 34 |
 | 13 | Fulham | 26 | 10 | 4 | 12 | -5 | 34 |
@@ -295,10 +295,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 23 | 18 | 4 | 1 | 47 | 58 |
 | 3 | Benfica | 23 | 16 | 7 | 0 | 36 | 55 |
 | 4 | Gil Vicente | 22 | 11 | 7 | 4 | 15 | 40 |
-| 5 | Braga | 22 | 11 | 6 | 5 | 25 | 39 |
+| 5 | Braga | 23 | 11 | 7 | 5 | 25 | 40 |
 | 6 | Moreirense | 23 | 10 | 3 | 10 | -4 | 33 |
 | 7 | Famalicão | 22 | 9 | 5 | 8 | 6 | 32 |
-| 8 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
+| 8 | Vitória S.C. | 23 | 9 | 5 | 9 | -6 | 32 |
 | 9 | Estoril | 22 | 8 | 6 | 8 | 5 | 30 |
 | 10 | Arouca | 23 | 7 | 5 | 11 | -18 | 26 |
 | 11 | Alverca | 23 | 7 | 5 | 11 | -15 | 26 |
