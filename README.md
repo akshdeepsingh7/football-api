@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 09:47 PM UTC (Sunday, 22 February 2026, 03:17 AM IST)
+**Last Updated:** Saturday, 21 February 2026, 10:25 PM UTC (Sunday, 22 February 2026, 03:55 AM IST)
 
 ### Premier League
 
@@ -344,12 +344,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Charlotte | 1 | 0 | 1 | 0 | 0 | 1 |
-| 2 | Atlanta United | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | CF Montréal | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Chicago Fire | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | Columbus Crew | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | DC United | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Cincinnati | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | Atlanta United | 1 | 0 | 1 | 0 | 0 | 1 |
+| 3 | Cincinnati | 1 | 0 | 1 | 0 | 0 | 1 |
+| 4 | CF Montréal | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Chicago Fire | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | Columbus Crew | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | DC United | 0 | 0 | 0 | 0 | 0 | 0 |
 | 8 | Inter Miami | 0 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Nashville | 0 | 0 | 0 | 0 | 0 | 0 |
 | 10 | New England Revolution | 0 | 0 | 0 | 0 | 0 | 0 |
