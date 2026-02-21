@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 11:25 PM UTC",
-        "IST": "Sunday, 22 February 2026, 04:55 AM IST"
+        "UTC": "Saturday, 21 February 2026, 11:47 PM UTC",
+        "IST": "Sunday, 22 February 2026, 05:17 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2487,6 +2487,16 @@
         "Major League Soccer (MLS)": [
             {
                 "Position": "1",
+                "Team": "Cincinnati",
+                "Played": "1",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "3"
+            },
+            {
+                "Position": "2",
                 "Team": "Charlotte",
                 "Played": "1",
                 "Wins": "0",
@@ -2496,27 +2506,7 @@
                 "Points": "1"
             },
             {
-                "Position": "2",
-                "Team": "Atlanta United",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
                 "Position": "3",
-                "Team": "Cincinnati",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
-                "Position": "4",
                 "Team": "CF Montr\u00e9al",
                 "Played": "0",
                 "Wins": "0",
@@ -2526,7 +2516,7 @@
                 "Points": "0"
             },
             {
-                "Position": "5",
+                "Position": "4",
                 "Team": "Chicago Fire",
                 "Played": "0",
                 "Wins": "0",
@@ -2536,7 +2526,7 @@
                 "Points": "0"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Columbus Crew",
                 "Played": "0",
                 "Wins": "0",
@@ -2546,7 +2536,7 @@
                 "Points": "0"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "DC United",
                 "Played": "0",
                 "Wins": "0",
@@ -2556,7 +2546,7 @@
                 "Points": "0"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Inter Miami",
                 "Played": "0",
                 "Wins": "0",
@@ -2566,7 +2556,7 @@
                 "Points": "0"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Nashville",
                 "Played": "0",
                 "Wins": "0",
@@ -2576,7 +2566,7 @@
                 "Points": "0"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "New England Revolution",
                 "Played": "0",
                 "Wins": "0",
@@ -2586,7 +2576,7 @@
                 "Points": "0"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "NYCFC",
                 "Played": "0",
                 "Wins": "0",
@@ -2596,7 +2586,7 @@
                 "Points": "0"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "New York RB",
                 "Played": "0",
                 "Wins": "0",
@@ -2606,7 +2596,7 @@
                 "Points": "0"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Orlando City",
                 "Played": "0",
                 "Wins": "0",
@@ -2616,7 +2606,7 @@
                 "Points": "0"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Philadelphia Union",
                 "Played": "0",
                 "Wins": "0",
@@ -2626,13 +2616,23 @@
                 "Points": "0"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Toronto",
                 "Played": "0",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "0",
                 "Goal Difference": "0",
+                "Points": "0"
+            },
+            {
+                "Position": "15",
+                "Team": "Atlanta United",
+                "Played": "1",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-2",
                 "Points": "0"
             },
             {
