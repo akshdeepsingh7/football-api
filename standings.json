@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 06:36 PM UTC",
-        "IST": "Sunday, 22 February 2026, 12:06 AM IST"
+        "UTC": "Saturday, 21 February 2026, 07:24 PM UTC",
+        "IST": "Sunday, 22 February 2026, 12:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -426,7 +426,7 @@
                 "Wins": "15",
                 "Draws": "6",
                 "Losses": "2",
-                "Goal Difference": "25",
+                "Goal Difference": "26",
                 "Points": "51"
             },
             {
@@ -446,7 +446,7 @@
                 "Wins": "13",
                 "Draws": "4",
                 "Losses": "6",
-                "Goal Difference": "14",
+                "Goal Difference": "13",
                 "Points": "43"
             },
             {
@@ -598,7 +598,7 @@
                 "Wins": "21",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "40",
+                "Goal Difference": "41",
                 "Points": "64"
             },
             {
@@ -758,7 +758,7 @@
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-15",
+                "Goal Difference": "-16",
                 "Points": "24"
             },
             {
@@ -875,16 +875,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Toulouse",
-                "Played": "23",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "6",
-                "Points": "31"
-            },
-            {
-                "Position": "10",
                 "Team": "Lorient",
                 "Played": "22",
                 "Wins": "8",
@@ -892,6 +882,16 @@
                 "Losses": "7",
                 "Goal Difference": "-4",
                 "Points": "31"
+            },
+            {
+                "Position": "10",
+                "Team": "Toulouse",
+                "Played": "23",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "5",
+                "Points": "30"
             },
             {
                 "Position": "11",
@@ -925,21 +925,21 @@
             },
             {
                 "Position": "14",
+                "Team": "Paris FC",
+                "Played": "23",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "-12",
+                "Points": "25"
+            },
+            {
+                "Position": "15",
                 "Team": "Nice",
                 "Played": "22",
                 "Wins": "6",
                 "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-13",
-                "Points": "23"
-            },
-            {
-                "Position": "15",
-                "Team": "Paris FC",
-                "Played": "23",
-                "Wins": "5",
-                "Draws": "8",
-                "Losses": "10",
                 "Goal Difference": "-13",
                 "Points": "23"
             },
@@ -2075,11 +2075,11 @@
                 "Position": "2",
                 "Team": "Sporting CP",
                 "Played": "23",
-                "Wins": "17",
-                "Draws": "5",
+                "Wins": "18",
+                "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "44",
-                "Points": "56"
+                "Goal Difference": "46",
+                "Points": "58"
             },
             {
                 "Position": "3",
@@ -2088,7 +2088,7 @@
                 "Wins": "16",
                 "Draws": "7",
                 "Losses": "0",
-                "Goal Difference": "35",
+                "Goal Difference": "36",
                 "Points": "55"
             },
             {
@@ -2116,10 +2116,10 @@
                 "Team": "Moreirense",
                 "Played": "23",
                 "Wins": "10",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "-1",
-                "Points": "34"
+                "Draws": "3",
+                "Losses": "10",
+                "Goal Difference": "-3",
+                "Points": "33"
             },
             {
                 "Position": "7",
@@ -2238,7 +2238,7 @@
                 "Wins": "1",
                 "Draws": "5",
                 "Losses": "17",
-                "Goal Difference": "-38",
+                "Goal Difference": "-39",
                 "Points": "8"
             }
         ],
