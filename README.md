@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 02:27 PM UTC (Saturday, 21 February 2026, 07:57 PM IST)
+**Last Updated:** Saturday, 21 February 2026, 02:53 PM UTC (Saturday, 21 February 2026, 08:23 PM IST)
 
 ### Premier League
 
@@ -80,7 +80,7 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Espanyol | 24 | 10 | 5 | 9 | -4 | 35 |
 | 7 | Celta de Vigo | 24 | 8 | 10 | 6 | 5 | 34 |
 | 8 | Athletic Bilbao | 25 | 10 | 4 | 11 | -6 | 34 |
-| 9 | Real Sociedad | 25 | 8 | 7 | 10 | -2 | 31 |
+| 9 | Real Sociedad | 25 | 8 | 8 | 9 | -1 | 32 |
 | 10 | Osasuna | 24 | 8 | 6 | 10 | 0 | 30 |
 | 11 | Getafe | 24 | 8 | 5 | 11 | -8 | 29 |
 | 12 | Girona | 24 | 7 | 8 | 9 | -14 | 29 |
@@ -90,28 +90,28 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Elche | 25 | 5 | 10 | 10 | -5 | 25 |
 | 17 | Rayo Vallecano | 23 | 6 | 7 | 10 | -9 | 25 |
 | 18 | Mallorca | 24 | 6 | 6 | 12 | -10 | 24 |
-| 19 | Real Oviedo | 24 | 4 | 7 | 13 | -22 | 19 |
-| 20 | Levante | 24 | 4 | 6 | 14 | -15 | 18 |
+| 19 | Levante | 24 | 4 | 6 | 14 | -15 | 18 |
+| 20 | Real Oviedo | 24 | 3 | 8 | 13 | -23 | 17 |
 
 ### Bundesliga
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 22 | 18 | 3 | 1 | 63 | 57 |
+| 1 | Bayern Munich | 23 | 19 | 3 | 1 | 64 | 60 |
 | 2 | Borussia Dortmund | 22 | 15 | 6 | 1 | 27 | 51 |
-| 3 | Hoffenheim | 22 | 14 | 3 | 5 | 19 | 45 |
+| 3 | Hoffenheim | 23 | 14 | 3 | 6 | 18 | 45 |
 | 4 | VfB Stuttgart | 22 | 13 | 3 | 6 | 12 | 42 |
-| 5 | RB Leipzig | 22 | 12 | 4 | 6 | 12 | 40 |
-| 6 | Bayer Leverkusen | 21 | 12 | 3 | 6 | 16 | 39 |
-| 7 | Eintracht Frankfurt | 22 | 8 | 7 | 7 | -2 | 31 |
+| 5 | Bayer Leverkusen | 22 | 12 | 4 | 6 | 16 | 40 |
+| 6 | RB Leipzig | 22 | 12 | 4 | 6 | 12 | 40 |
+| 7 | Eintracht Frankfurt | 23 | 8 | 7 | 8 | -3 | 31 |
 | 8 | SC Freiburg | 22 | 8 | 6 | 8 | -4 | 30 |
-| 9 | Hamburg | 22 | 6 | 8 | 8 | -7 | 26 |
-| 10 | Union Berlin | 22 | 6 | 7 | 9 | -9 | 25 |
-| 11 | Augsburg | 22 | 7 | 4 | 11 | -14 | 25 |
-| 12 | Köln | 22 | 6 | 5 | 11 | -6 | 23 |
+| 9 | Köln | 23 | 7 | 5 | 11 | -5 | 26 |
+| 10 | Hamburg | 22 | 6 | 8 | 8 | -7 | 26 |
+| 11 | Union Berlin | 23 | 6 | 8 | 9 | -9 | 26 |
+| 12 | Augsburg | 23 | 7 | 5 | 11 | -14 | 26 |
 | 13 | Mainz 05 | 23 | 5 | 7 | 11 | -12 | 22 |
 | 14 | Borussia Mönchengladbach | 22 | 5 | 7 | 10 | -12 | 22 |
-| 15 | VfL Wolfsburg | 22 | 5 | 5 | 12 | -15 | 20 |
+| 15 | VfL Wolfsburg | 23 | 5 | 6 | 12 | -15 | 21 |
 | 16 | Werder Bremen | 22 | 4 | 7 | 11 | -20 | 19 |
 | 17 | St. Pauli | 22 | 4 | 5 | 13 | -19 | 17 |
 | 18 | Heidenheim | 22 | 3 | 4 | 15 | -29 | 13 |
