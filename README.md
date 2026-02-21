@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 09:24 PM UTC (Sunday, 22 February 2026, 02:54 AM IST)
+**Last Updated:** Saturday, 21 February 2026, 09:47 PM UTC (Sunday, 22 February 2026, 03:17 AM IST)
 
 ### Premier League
 
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 23 | 17 | 3 | 3 | 32 | 54 |
+| 1 | PSG | 23 | 17 | 3 | 3 | 33 | 54 |
 | 2 | Lens | 23 | 17 | 1 | 5 | 24 | 52 |
 | 3 | Lyon | 22 | 14 | 3 | 5 | 16 | 45 |
 | 4 | Marseille | 23 | 12 | 4 | 7 | 17 | 40 |
@@ -162,7 +162,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Paris FC | 23 | 5 | 8 | 10 | -13 | 23 |
 | 16 | Auxerre | 22 | 4 | 5 | 13 | -13 | 17 |
 | 17 | Nantes | 22 | 3 | 5 | 14 | -20 | 14 |
-| 18 | Metz | 23 | 3 | 4 | 16 | -29 | 13 |
+| 18 | Metz | 23 | 3 | 4 | 16 | -30 | 13 |
 
 ### Champions League
 
