@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 11:23 AM UTC (Saturday, 21 February 2026, 04:53 PM IST)
+**Last Updated:** Saturday, 21 February 2026, 11:45 AM UTC (Saturday, 21 February 2026, 05:15 PM IST)
 
 ### Premier League
 
@@ -378,8 +378,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | FC Goa | 2 | 1 | 1 | 0 | 2 | 4 |
-| 2 | East Bengal | 1 | 1 | 0 | 0 | 3 | 3 |
+| 1 | East Bengal | 2 | 2 | 0 | 0 | 4 | 6 |
+| 2 | FC Goa | 2 | 1 | 1 | 0 | 2 | 4 |
 | 3 | Bengaluru | 1 | 1 | 0 | 0 | 2 | 3 |
 | 4 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 2 | 3 |
 | 5 | Jamshedpur | 1 | 1 | 0 | 0 | 1 | 3 |
@@ -389,7 +389,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Punjab FC | 0 | 0 | 0 | 0 | 0 | 0 |
 | 10 | Chennaiyin | 1 | 0 | 0 | 1 | -1 | 0 |
 | 11 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
-| 12 | SC Delhi | 1 | 0 | 0 | 1 | -2 | 0 |
+| 12 | SC Delhi | 2 | 0 | 0 | 2 | -3 | 0 |
 | 13 | Mohammedan | 2 | 0 | 0 | 2 | -3 | 0 |
 | 14 | NorthEast Utd | 1 | 0 | 0 | 1 | -3 | 0 |
 
