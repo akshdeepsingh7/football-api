@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 11:45 AM UTC (Saturday, 21 February 2026, 05:15 PM IST)
+**Last Updated:** Saturday, 21 February 2026, 12:50 PM UTC (Saturday, 21 February 2026, 06:20 PM IST)
 
 ### Premier League
 
@@ -314,28 +314,28 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 32 | 18 | 8 | 6 | 30 | 62 |
+| 1 | Coventry City | 33 | 19 | 8 | 6 | 31 | 65 |
 | 2 | Middlesbrough | 32 | 18 | 7 | 7 | 17 | 61 |
 | 3 | Millwall | 32 | 16 | 8 | 8 | 4 | 56 |
-| 4 | Ipswich Town | 30 | 15 | 9 | 6 | 22 | 54 |
-| 5 | Hull City | 31 | 16 | 6 | 9 | 7 | 54 |
+| 4 | Hull City | 32 | 16 | 7 | 9 | 7 | 55 |
+| 5 | Ipswich Town | 30 | 15 | 9 | 6 | 22 | 54 |
 | 6 | Derby County | 32 | 13 | 9 | 10 | 8 | 48 |
 | 7 | Wrexham | 32 | 12 | 12 | 8 | 5 | 48 |
-| 8 | Preston North End | 33 | 12 | 12 | 9 | 3 | 48 |
-| 9 | Bristol City | 32 | 13 | 8 | 11 | 5 | 47 |
-| 10 | Southampton | 32 | 12 | 10 | 10 | 4 | 46 |
-| 11 | Birmingham City | 32 | 12 | 10 | 10 | 4 | 46 |
-| 12 | Watford | 32 | 11 | 12 | 9 | 3 | 45 |
-| 13 | Queens Park Rangers | 32 | 12 | 8 | 12 | -3 | 44 |
-| 14 | Stoke City | 32 | 12 | 7 | 13 | 5 | 43 |
-| 15 | Sheffield United | 32 | 13 | 3 | 16 | 0 | 42 |
-| 16 | Swansea City | 32 | 12 | 6 | 14 | -1 | 42 |
+| 8 | Bristol City | 33 | 13 | 9 | 11 | 5 | 48 |
+| 9 | Preston North End | 33 | 12 | 12 | 9 | 3 | 48 |
+| 10 | Stoke City | 33 | 13 | 7 | 13 | 6 | 46 |
+| 11 | Southampton | 32 | 12 | 10 | 10 | 4 | 46 |
+| 12 | Birmingham City | 32 | 12 | 10 | 10 | 4 | 46 |
+| 13 | Watford | 32 | 11 | 12 | 9 | 3 | 45 |
+| 14 | Queens Park Rangers | 33 | 12 | 9 | 12 | -3 | 45 |
+| 15 | Swansea City | 33 | 12 | 7 | 14 | -1 | 43 |
+| 16 | Sheffield United | 32 | 13 | 3 | 16 | 0 | 42 |
 | 17 | Norwich City | 32 | 11 | 6 | 15 | 0 | 39 |
 | 18 | Charlton Athletic | 32 | 10 | 9 | 13 | -10 | 39 |
 | 19 | Blackburn Rovers | 33 | 10 | 8 | 15 | -10 | 38 |
 | 20 | Portsmouth | 31 | 9 | 9 | 13 | -10 | 36 |
-| 21 | West Bromwich Albion | 32 | 9 | 7 | 16 | -15 | 34 |
-| 22 | Leicester City | 32 | 10 | 8 | 14 | -7 | 32 |
+| 21 | West Bromwich Albion | 33 | 9 | 7 | 17 | -16 | 34 |
+| 22 | Leicester City | 33 | 10 | 8 | 15 | -8 | 32 |
 | 23 | Oxford United | 32 | 6 | 10 | 16 | -16 | 28 |
 | 24 | Sheffield Wednesday | 32 | 1 | 8 | 23 | -45 | -7 |
 
@@ -378,7 +378,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | East Bengal | 2 | 2 | 0 | 0 | 4 | 6 |
+| 1 | East Bengal | 2 | 2 | 0 | 0 | 5 | 6 |
 | 2 | FC Goa | 2 | 1 | 1 | 0 | 2 | 4 |
 | 3 | Bengaluru | 1 | 1 | 0 | 0 | 2 | 3 |
 | 4 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 2 | 3 |
@@ -389,9 +389,9 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Punjab FC | 0 | 0 | 0 | 0 | 0 | 0 |
 | 10 | Chennaiyin | 1 | 0 | 0 | 1 | -1 | 0 |
 | 11 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
-| 12 | SC Delhi | 2 | 0 | 0 | 2 | -3 | 0 |
-| 13 | Mohammedan | 2 | 0 | 0 | 2 | -3 | 0 |
-| 14 | NorthEast Utd | 1 | 0 | 0 | 1 | -3 | 0 |
+| 12 | Mohammedan | 2 | 0 | 0 | 2 | -3 | 0 |
+| 13 | NorthEast Utd | 1 | 0 | 0 | 1 | -3 | 0 |
+| 14 | SC Delhi | 2 | 0 | 0 | 2 | -4 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
 
