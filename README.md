@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 07:24 PM UTC (Sunday, 22 February 2026, 12:54 AM IST)
+**Last Updated:** Saturday, 21 February 2026, 07:45 PM UTC (Sunday, 22 February 2026, 01:15 AM IST)
 
 ### Premier League
 
@@ -98,10 +98,10 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 23 | 19 | 3 | 1 | 64 | 60 |
-| 2 | Borussia Dortmund | 23 | 15 | 6 | 2 | 26 | 51 |
+| 2 | Borussia Dortmund | 23 | 15 | 7 | 1 | 27 | 52 |
 | 3 | Hoffenheim | 23 | 14 | 4 | 5 | 19 | 46 |
-| 4 | RB Leipzig | 23 | 13 | 4 | 6 | 13 | 43 |
-| 5 | VfB Stuttgart | 22 | 13 | 3 | 6 | 12 | 42 |
+| 4 | VfB Stuttgart | 22 | 13 | 3 | 6 | 12 | 42 |
+| 5 | RB Leipzig | 23 | 12 | 5 | 6 | 12 | 41 |
 | 6 | Bayer Leverkusen | 22 | 12 | 3 | 7 | 15 | 39 |
 | 7 | Eintracht Frankfurt | 23 | 8 | 7 | 8 | -3 | 31 |
 | 8 | SC Freiburg | 22 | 8 | 6 | 8 | -4 | 30 |
@@ -292,11 +292,11 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 22 | 19 | 2 | 1 | 36 | 59 |
-| 2 | Sporting CP | 23 | 18 | 4 | 1 | 46 | 58 |
+| 2 | Sporting CP | 23 | 18 | 4 | 1 | 47 | 58 |
 | 3 | Benfica | 23 | 16 | 7 | 0 | 36 | 55 |
 | 4 | Gil Vicente | 22 | 11 | 7 | 4 | 15 | 40 |
 | 5 | Braga | 22 | 11 | 6 | 5 | 25 | 39 |
-| 6 | Moreirense | 23 | 10 | 3 | 10 | -3 | 33 |
+| 6 | Moreirense | 23 | 10 | 3 | 10 | -4 | 33 |
 | 7 | Famalicão | 22 | 9 | 5 | 8 | 6 | 32 |
 | 8 | Vitória S.C. | 22 | 9 | 4 | 9 | -6 | 31 |
 | 9 | Estoril | 22 | 8 | 6 | 8 | 5 | 30 |
@@ -343,14 +343,14 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Atlanta United | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Charlotte | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Chicago Fire | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Cincinnati | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | Charlotte | 1 | 0 | 1 | 0 | 0 | 1 |
+| 2 | Atlanta United | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | CF Montréal | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Chicago Fire | 0 | 0 | 0 | 0 | 0 | 0 |
 | 5 | Columbus Crew | 0 | 0 | 0 | 0 | 0 | 0 |
 | 6 | DC United | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Inter Miami | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | CF Montréal | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | Cincinnati | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Inter Miami | 0 | 0 | 0 | 0 | 0 | 0 |
 | 9 | Nashville | 0 | 0 | 0 | 0 | 0 | 0 |
 | 10 | New England Revolution | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | NYCFC | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -358,20 +358,20 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Orlando City | 0 | 0 | 0 | 0 | 0 | 0 |
 | 14 | Philadelphia Union | 0 | 0 | 0 | 0 | 0 | 0 |
 | 15 | Toronto | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | Austin | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | Colorado Rapids | 0 | 0 | 0 | 0 | 0 | 0 |
-| 3 | Dallas | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 | Houston Dynamo | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | LA Galaxy | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | LAFC | 0 | 0 | 0 | 0 | 0 | 0 |
-| 7 | Minnesota United | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 | Portland Timbers | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Real Salt Lake | 0 | 0 | 0 | 0 | 0 | 0 |
-| 10 | San Jose Earthquakes | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | St. Louis City | 1 | 0 | 1 | 0 | 0 | 1 |
+| 2 | Austin | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | Colorado Rapids | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | Dallas | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | Houston Dynamo | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | LA Galaxy | 0 | 0 | 0 | 0 | 0 | 0 |
+| 7 | LAFC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | Minnesota United | 0 | 0 | 0 | 0 | 0 | 0 |
+| 9 | Portland Timbers | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Real Salt Lake | 0 | 0 | 0 | 0 | 0 | 0 |
 | 11 | San Diego | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | Seattle Sounders | 0 | 0 | 0 | 0 | 0 | 0 |
-| 13 | Sporting KC | 0 | 0 | 0 | 0 | 0 | 0 |
-| 14 | St. Louis City | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12 | San Jose Earthquakes | 0 | 0 | 0 | 0 | 0 | 0 |
+| 13 | Seattle Sounders | 0 | 0 | 0 | 0 | 0 | 0 |
+| 14 | Sporting KC | 0 | 0 | 0 | 0 | 0 | 0 |
 | 15 | Vancouver Whitecaps | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ### Indian Super League
