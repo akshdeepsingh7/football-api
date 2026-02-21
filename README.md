@@ -41,22 +41,22 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 07:45 PM UTC (Sunday, 22 February 2026, 01:15 AM IST)
+**Last Updated:** Saturday, 21 February 2026, 08:26 PM UTC (Sunday, 22 February 2026, 01:56 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 27 | 17 | 7 | 3 | 32 | 58 |
-| 2 | Manchester City | 26 | 16 | 5 | 5 | 30 | 53 |
+| 2 | Manchester City | 27 | 16 | 6 | 5 | 30 | 54 |
 | 3 | Aston Villa | 27 | 15 | 6 | 6 | 10 | 51 |
 | 4 | Chelsea | 27 | 12 | 9 | 6 | 17 | 45 |
 | 5 | Manchester United | 26 | 12 | 9 | 5 | 10 | 45 |
 | 6 | Liverpool FC | 26 | 12 | 6 | 8 | 6 | 42 |
 | 7 | Brentford | 27 | 12 | 4 | 11 | 3 | 40 |
 | 8 | AFC Bournemouth | 27 | 9 | 11 | 7 | -2 | 38 |
-| 9 | Everton | 26 | 10 | 7 | 9 | -1 | 37 |
-| 10 | Newcastle United | 26 | 10 | 6 | 10 | 0 | 36 |
+| 9 | Newcastle United | 27 | 10 | 7 | 10 | 0 | 37 |
+| 10 | Everton | 26 | 10 | 7 | 9 | -1 | 37 |
 | 11 | Sunderland | 26 | 9 | 9 | 8 | -3 | 36 |
 | 12 | Brighton & Hove Albion | 27 | 8 | 10 | 9 | 2 | 34 |
 | 13 | Fulham | 26 | 10 | 4 | 12 | -5 | 34 |
@@ -75,9 +75,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Real Madrid | 25 | 19 | 3 | 3 | 33 | 60 |
 | 2 | Barcelona | 24 | 19 | 1 | 4 | 39 | 58 |
 | 3 | Villarreal | 24 | 15 | 3 | 6 | 19 | 48 |
-| 4 | Atlético de Madrid | 24 | 13 | 6 | 5 | 17 | 45 |
+| 4 | Atlético de Madrid | 25 | 13 | 7 | 5 | 17 | 46 |
 | 5 | Real Betis | 25 | 11 | 9 | 5 | 10 | 42 |
-| 6 | Espanyol | 24 | 10 | 5 | 9 | -4 | 35 |
+| 6 | Espanyol | 25 | 10 | 6 | 9 | -4 | 36 |
 | 7 | Celta de Vigo | 24 | 8 | 10 | 6 | 5 | 34 |
 | 8 | Athletic Bilbao | 25 | 10 | 4 | 11 | -6 | 34 |
 | 9 | Osasuna | 25 | 9 | 6 | 10 | 1 | 33 |
@@ -128,11 +128,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Como | 26 | 12 | 9 | 5 | 22 | 45 |
 | 7 | Atalanta | 25 | 11 | 9 | 5 | 13 | 42 |
 | 8 | Sassuolo | 26 | 10 | 5 | 11 | -3 | 35 |
-| 9 | Bologna | 25 | 9 | 6 | 10 | 2 | 33 |
-| 10 | Lazio | 25 | 8 | 9 | 8 | 1 | 33 |
+| 9 | Lazio | 26 | 8 | 10 | 8 | 1 | 34 |
+| 10 | Bologna | 25 | 9 | 6 | 10 | 2 | 33 |
 | 11 | Udinese | 25 | 9 | 5 | 11 | -10 | 32 |
 | 12 | Parma | 25 | 7 | 8 | 10 | -13 | 29 |
-| 13 | Cagliari | 25 | 7 | 7 | 11 | -7 | 28 |
+| 13 | Cagliari | 26 | 7 | 8 | 11 | -7 | 29 |
 | 14 | Torino | 25 | 7 | 6 | 12 | -19 | 27 |
 | 15 | Cremonese | 25 | 5 | 9 | 11 | -12 | 24 |
 | 16 | Genoa | 25 | 5 | 9 | 11 | -8 | 24 |
@@ -145,24 +145,24 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Lens | 23 | 17 | 1 | 5 | 24 | 52 |
-| 2 | PSG | 22 | 16 | 3 | 3 | 30 | 51 |
+| 1 | PSG | 23 | 17 | 3 | 3 | 31 | 54 |
+| 2 | Lens | 23 | 17 | 1 | 5 | 24 | 52 |
 | 3 | Lyon | 22 | 14 | 3 | 5 | 16 | 45 |
 | 4 | Marseille | 23 | 12 | 4 | 7 | 17 | 40 |
 | 5 | Lille | 22 | 10 | 4 | 8 | 4 | 34 |
 | 6 | Monaco | 23 | 10 | 4 | 9 | 2 | 34 |
 | 7 | Rennes | 22 | 9 | 7 | 6 | -1 | 34 |
 | 8 | Strasbourg | 22 | 9 | 4 | 9 | 7 | 31 |
-| 9 | Lorient | 22 | 8 | 7 | 7 | -4 | 31 |
-| 10 | Toulouse | 23 | 8 | 6 | 9 | 5 | 30 |
+| 9 | Toulouse | 23 | 8 | 7 | 8 | 6 | 31 |
+| 10 | Lorient | 22 | 8 | 7 | 7 | -4 | 31 |
 | 11 | Brest | 23 | 8 | 6 | 9 | -3 | 30 |
 | 12 | Angers | 22 | 8 | 5 | 9 | -5 | 29 |
 | 13 | Le Havre | 22 | 6 | 8 | 8 | -7 | 26 |
-| 14 | Paris FC | 23 | 6 | 7 | 10 | -12 | 25 |
-| 15 | Nice | 22 | 6 | 5 | 11 | -13 | 23 |
+| 14 | Nice | 22 | 6 | 5 | 11 | -13 | 23 |
+| 15 | Paris FC | 23 | 5 | 8 | 10 | -13 | 23 |
 | 16 | Auxerre | 22 | 4 | 5 | 13 | -13 | 17 |
 | 17 | Nantes | 22 | 3 | 5 | 14 | -20 | 14 |
-| 18 | Metz | 22 | 3 | 4 | 15 | -27 | 13 |
+| 18 | Metz | 23 | 3 | 4 | 16 | -28 | 13 |
 
 ### Champions League
 
