@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 February 2026, 08:49 PM UTC",
-        "IST": "Sunday, 22 February 2026, 02:19 AM IST"
+        "UTC": "Saturday, 21 February 2026, 09:24 PM UTC",
+        "IST": "Sunday, 22 February 2026, 02:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -241,11 +241,11 @@
                 "Position": "4",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "25",
-                "Wins": "13",
-                "Draws": "7",
+                "Wins": "14",
+                "Draws": "6",
                 "Losses": "5",
-                "Goal Difference": "17",
-                "Points": "46"
+                "Goal Difference": "19",
+                "Points": "48"
             },
             {
                 "Position": "5",
@@ -262,10 +262,10 @@
                 "Team": "Espanyol",
                 "Played": "25",
                 "Wins": "10",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "-4",
-                "Points": "36"
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-6",
+                "Points": "35"
             },
             {
                 "Position": "7",
@@ -800,7 +800,7 @@
                 "Wins": "17",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "31",
+                "Goal Difference": "32",
                 "Points": "54"
             },
             {
@@ -970,7 +970,7 @@
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "16",
-                "Goal Difference": "-28",
+                "Goal Difference": "-29",
                 "Points": "13"
             }
         ],
@@ -2093,22 +2093,22 @@
             },
             {
                 "Position": "4",
+                "Team": "Braga",
+                "Played": "23",
+                "Wins": "12",
+                "Draws": "6",
+                "Losses": "5",
+                "Goal Difference": "26",
+                "Points": "42"
+            },
+            {
+                "Position": "5",
                 "Team": "Gil Vicente",
                 "Played": "22",
                 "Wins": "11",
                 "Draws": "7",
                 "Losses": "4",
                 "Goal Difference": "15",
-                "Points": "40"
-            },
-            {
-                "Position": "5",
-                "Team": "Braga",
-                "Played": "23",
-                "Wins": "11",
-                "Draws": "7",
-                "Losses": "5",
-                "Goal Difference": "25",
                 "Points": "40"
             },
             {
@@ -2136,10 +2136,10 @@
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "23",
                 "Wins": "9",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "-6",
-                "Points": "32"
+                "Draws": "4",
+                "Losses": "10",
+                "Goal Difference": "-7",
+                "Points": "31"
             },
             {
                 "Position": "9",

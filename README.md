@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 February 2026, 08:49 PM UTC (Sunday, 22 February 2026, 02:19 AM IST)
+**Last Updated:** Saturday, 21 February 2026, 09:24 PM UTC (Sunday, 22 February 2026, 02:54 AM IST)
 
 ### Premier League
 
@@ -75,9 +75,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Real Madrid | 25 | 19 | 3 | 3 | 33 | 60 |
 | 2 | Barcelona | 24 | 19 | 1 | 4 | 39 | 58 |
 | 3 | Villarreal | 24 | 15 | 3 | 6 | 19 | 48 |
-| 4 | Atlético de Madrid | 25 | 13 | 7 | 5 | 17 | 46 |
+| 4 | Atlético de Madrid | 25 | 14 | 6 | 5 | 19 | 48 |
 | 5 | Real Betis | 25 | 11 | 9 | 5 | 10 | 42 |
-| 6 | Espanyol | 25 | 10 | 6 | 9 | -4 | 36 |
+| 6 | Espanyol | 25 | 10 | 5 | 10 | -6 | 35 |
 | 7 | Celta de Vigo | 24 | 8 | 10 | 6 | 5 | 34 |
 | 8 | Athletic Bilbao | 25 | 10 | 4 | 11 | -6 | 34 |
 | 9 | Osasuna | 25 | 9 | 6 | 10 | 1 | 33 |
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 23 | 17 | 3 | 3 | 31 | 54 |
+| 1 | PSG | 23 | 17 | 3 | 3 | 32 | 54 |
 | 2 | Lens | 23 | 17 | 1 | 5 | 24 | 52 |
 | 3 | Lyon | 22 | 14 | 3 | 5 | 16 | 45 |
 | 4 | Marseille | 23 | 12 | 4 | 7 | 17 | 40 |
@@ -162,7 +162,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Paris FC | 23 | 5 | 8 | 10 | -13 | 23 |
 | 16 | Auxerre | 22 | 4 | 5 | 13 | -13 | 17 |
 | 17 | Nantes | 22 | 3 | 5 | 14 | -20 | 14 |
-| 18 | Metz | 23 | 3 | 4 | 16 | -28 | 13 |
+| 18 | Metz | 23 | 3 | 4 | 16 | -29 | 13 |
 
 ### Champions League
 
@@ -294,11 +294,11 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 22 | 19 | 2 | 1 | 36 | 59 |
 | 2 | Sporting CP | 23 | 18 | 4 | 1 | 47 | 58 |
 | 3 | Benfica | 23 | 16 | 7 | 0 | 36 | 55 |
-| 4 | Gil Vicente | 22 | 11 | 7 | 4 | 15 | 40 |
-| 5 | Braga | 23 | 11 | 7 | 5 | 25 | 40 |
+| 4 | Braga | 23 | 12 | 6 | 5 | 26 | 42 |
+| 5 | Gil Vicente | 22 | 11 | 7 | 4 | 15 | 40 |
 | 6 | Moreirense | 23 | 10 | 3 | 10 | -4 | 33 |
 | 7 | Famalicão | 22 | 9 | 5 | 8 | 6 | 32 |
-| 8 | Vitória S.C. | 23 | 9 | 5 | 9 | -6 | 32 |
+| 8 | Vitória S.C. | 23 | 9 | 4 | 10 | -7 | 31 |
 | 9 | Estoril | 22 | 8 | 6 | 8 | 5 | 30 |
 | 10 | Arouca | 23 | 7 | 5 | 11 | -18 | 26 |
 | 11 | Alverca | 23 | 7 | 5 | 11 | -15 | 26 |
