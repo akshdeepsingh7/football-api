@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 February 2026, 11:22 AM UTC (Sunday, 22 February 2026, 04:52 PM IST)
+**Last Updated:** Sunday, 22 February 2026, 11:44 AM UTC (Sunday, 22 February 2026, 05:14 PM IST)
 
 ### Premier League
 
@@ -133,9 +133,9 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Udinese | 25 | 9 | 5 | 11 | -10 | 32 |
 | 12 | Parma | 25 | 7 | 8 | 10 | -13 | 29 |
 | 13 | Cagliari | 26 | 7 | 8 | 11 | -7 | 29 |
-| 14 | Torino | 25 | 7 | 6 | 12 | -19 | 27 |
-| 15 | Cremonese | 25 | 5 | 9 | 11 | -12 | 24 |
-| 16 | Genoa | 25 | 5 | 9 | 11 | -8 | 24 |
+| 14 | Torino | 26 | 7 | 7 | 12 | -19 | 28 |
+| 15 | Genoa | 26 | 5 | 10 | 11 | -8 | 25 |
+| 16 | Cremonese | 25 | 5 | 9 | 11 | -12 | 24 |
 | 17 | Lecce | 26 | 6 | 6 | 14 | -16 | 24 |
 | 18 | Fiorentina | 25 | 4 | 9 | 12 | -10 | 21 |
 | 19 | Pisa | 25 | 1 | 12 | 12 | -22 | 15 |
@@ -381,16 +381,16 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | East Bengal | 2 | 2 | 0 | 0 | 6 | 6 |
 | 2 | Jamshedpur | 2 | 2 | 0 | 0 | 2 | 6 |
 | 3 | FC Goa | 2 | 1 | 1 | 0 | 2 | 4 |
-| 4 | Bengaluru | 1 | 1 | 0 | 0 | 2 | 3 |
+| 4 | Bengaluru | 2 | 1 | 1 | 0 | 2 | 4 |
 | 5 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 2 | 3 |
 | 6 | Mumbai City | 1 | 1 | 0 | 0 | 1 | 3 |
 | 7 | Inter Kashi | 1 | 0 | 1 | 0 | 0 | 1 |
-| 8 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Chennaiyin | 1 | 0 | 0 | 1 | -1 | 0 |
-| 10 | Punjab FC | 1 | 0 | 0 | 1 | -1 | 0 |
-| 11 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
-| 12 | Mohammedan | 2 | 0 | 0 | 2 | -3 | 0 |
-| 13 | NorthEast Utd | 1 | 0 | 0 | 1 | -3 | 0 |
+| 8 | NorthEast Utd | 2 | 0 | 1 | 1 | -3 | 1 |
+| 9 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Chennaiyin | 1 | 0 | 0 | 1 | -1 | 0 |
+| 11 | Punjab FC | 1 | 0 | 0 | 1 | -1 | 0 |
+| 12 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
+| 13 | Mohammedan | 2 | 0 | 0 | 2 | -3 | 0 |
 | 14 | SC Delhi | 2 | 0 | 0 | 2 | -5 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
