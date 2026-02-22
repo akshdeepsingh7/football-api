@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 01:44 PM UTC",
-        "IST": "Sunday, 22 February 2026, 07:14 PM IST"
+        "UTC": "Sunday, 22 February 2026, 02:27 PM UTC",
+        "IST": "Sunday, 22 February 2026, 07:57 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -58,12 +58,12 @@
             {
                 "Position": "6",
                 "Team": "Liverpool FC",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "12",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "8",
                 "Goal Difference": "6",
-                "Points": "42"
+                "Points": "43"
             },
             {
                 "Position": "7",
@@ -97,6 +97,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Sunderland",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "10",
+                "Losses": "8",
+                "Goal Difference": "-3",
+                "Points": "37"
+            },
+            {
+                "Position": "11",
                 "Team": "Newcastle United",
                 "Played": "27",
                 "Wins": "10",
@@ -106,17 +116,17 @@
                 "Points": "36"
             },
             {
-                "Position": "11",
-                "Team": "Sunderland",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "8",
-                "Goal Difference": "-3",
-                "Points": "36"
+                "Position": "12",
+                "Team": "Fulham",
+                "Played": "27",
+                "Wins": "10",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-5",
+                "Points": "35"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Brighton & Hove Albion",
                 "Played": "27",
                 "Wins": "8",
@@ -126,24 +136,14 @@
                 "Points": "34"
             },
             {
-                "Position": "13",
-                "Team": "Fulham",
-                "Played": "26",
-                "Wins": "10",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-5",
-                "Points": "34"
-            },
-            {
                 "Position": "14",
                 "Team": "Crystal Palace",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "8",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "10",
                 "Goal Difference": "-4",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "15",
@@ -168,12 +168,12 @@
             {
                 "Position": "17",
                 "Team": "Nottingham Forest",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "7",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "13",
                 "Goal Difference": "-13",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "18",
@@ -198,12 +198,12 @@
             {
                 "Position": "20",
                 "Team": "Wolverhampton Wanderers",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "1",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "19",
                 "Goal Difference": "-32",
-                "Points": "10"
+                "Points": "11"
             }
         ],
         "La Liga": [
@@ -309,16 +309,26 @@
             },
             {
                 "Position": "11",
-                "Team": "Getafe",
+                "Team": "Sevilla",
                 "Played": "25",
                 "Wins": "8",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-8",
-                "Points": "30"
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-7",
+                "Points": "29"
             },
             {
                 "Position": "12",
+                "Team": "Getafe",
+                "Played": "25",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-9",
+                "Points": "29"
+            },
+            {
+                "Position": "13",
                 "Team": "Girona",
                 "Played": "24",
                 "Wins": "7",
@@ -326,16 +336,6 @@
                 "Losses": "9",
                 "Goal Difference": "-14",
                 "Points": "29"
-            },
-            {
-                "Position": "13",
-                "Team": "Sevilla",
-                "Played": "25",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "-8",
-                "Points": "27"
             },
             {
                 "Position": "14",
@@ -614,12 +614,12 @@
             {
                 "Position": "3",
                 "Team": "Napoli",
-                "Played": "25",
-                "Wins": "15",
+                "Played": "26",
+                "Wins": "16",
                 "Draws": "5",
                 "Losses": "5",
-                "Goal Difference": "13",
-                "Points": "50"
+                "Goal Difference": "14",
+                "Points": "53"
             },
             {
                 "Position": "4",
@@ -654,11 +654,11 @@
             {
                 "Position": "7",
                 "Team": "Atalanta",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "11",
                 "Draws": "9",
-                "Losses": "5",
-                "Goal Difference": "13",
+                "Losses": "6",
+                "Goal Difference": "12",
                 "Points": "42"
             },
             {
@@ -835,6 +835,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Rennes",
+                "Played": "23",
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "1",
+                "Points": "37"
+            },
+            {
+                "Position": "6",
                 "Team": "Lille",
                 "Played": "22",
                 "Wins": "10",
@@ -844,23 +854,13 @@
                 "Points": "34"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Monaco",
                 "Played": "23",
                 "Wins": "10",
                 "Draws": "4",
                 "Losses": "9",
                 "Goal Difference": "2",
-                "Points": "34"
-            },
-            {
-                "Position": "7",
-                "Team": "Rennes",
-                "Played": "22",
-                "Wins": "9",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "-1",
                 "Points": "34"
             },
             {
@@ -946,11 +946,11 @@
             {
                 "Position": "16",
                 "Team": "Auxerre",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "4",
                 "Draws": "5",
-                "Losses": "13",
-                "Goal Difference": "-13",
+                "Losses": "14",
+                "Goal Difference": "-15",
                 "Points": "17"
             },
             {
@@ -2829,22 +2829,22 @@
             },
             {
                 "Position": "5",
+                "Team": "Mumbai City",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "1",
+                "Points": "4"
+            },
+            {
+                "Position": "6",
                 "Team": "Mohun Bagan SG",
                 "Played": "1",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "0",
                 "Goal Difference": "2",
-                "Points": "3"
-            },
-            {
-                "Position": "6",
-                "Team": "Mumbai City",
-                "Played": "1",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "1",
                 "Points": "3"
             },
             {
@@ -2859,6 +2859,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Kerala Blasters",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-2",
+                "Points": "1"
+            },
+            {
+                "Position": "9",
                 "Team": "NorthEast Utd",
                 "Played": "2",
                 "Wins": "0",
@@ -2868,7 +2878,7 @@
                 "Points": "1"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Odisha",
                 "Played": "0",
                 "Wins": "0",
@@ -2878,7 +2888,7 @@
                 "Points": "0"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Chennaiyin",
                 "Played": "1",
                 "Wins": "0",
@@ -2888,23 +2898,13 @@
                 "Points": "0"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Punjab FC",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "-1",
-                "Points": "0"
-            },
-            {
-                "Position": "12",
-                "Team": "Kerala Blasters",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-2",
                 "Points": "0"
             },
             {
