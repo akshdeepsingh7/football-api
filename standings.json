@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 03:26 PM UTC",
-        "IST": "Sunday, 22 February 2026, 08:56 PM IST"
+        "UTC": "Sunday, 22 February 2026, 03:49 PM UTC",
+        "IST": "Sunday, 22 February 2026, 09:19 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -102,7 +102,7 @@
                 "Wins": "11",
                 "Draws": "4",
                 "Losses": "12",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "37"
             },
             {
@@ -122,7 +122,7 @@
                 "Wins": "9",
                 "Draws": "9",
                 "Losses": "9",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "36"
             },
             {
@@ -616,10 +616,10 @@
                 "Team": "Napoli",
                 "Played": "26",
                 "Wins": "15",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "13",
-                "Points": "51"
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "12",
+                "Points": "50"
             },
             {
                 "Position": "4",
@@ -655,11 +655,11 @@
                 "Position": "7",
                 "Team": "Atalanta",
                 "Played": "26",
-                "Wins": "11",
-                "Draws": "10",
+                "Wins": "12",
+                "Draws": "9",
                 "Losses": "5",
-                "Goal Difference": "13",
-                "Points": "43"
+                "Goal Difference": "14",
+                "Points": "45"
             },
             {
                 "Position": "8",

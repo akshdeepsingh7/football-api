@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 February 2026, 03:26 PM UTC (Sunday, 22 February 2026, 08:56 PM IST)
+**Last Updated:** Sunday, 22 February 2026, 03:49 PM UTC (Sunday, 22 February 2026, 09:19 PM IST)
 
 ### Premier League
 
@@ -56,9 +56,9 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Brentford | 27 | 12 | 4 | 11 | 3 | 40 |
 | 8 | AFC Bournemouth | 27 | 9 | 11 | 7 | -2 | 38 |
 | 9 | Everton | 26 | 10 | 7 | 9 | -1 | 37 |
-| 10 | Fulham | 27 | 11 | 4 | 12 | -3 | 37 |
+| 10 | Fulham | 27 | 11 | 4 | 12 | -4 | 37 |
 | 11 | Newcastle United | 27 | 10 | 6 | 11 | -1 | 36 |
-| 12 | Sunderland | 27 | 9 | 9 | 9 | -5 | 36 |
+| 12 | Sunderland | 27 | 9 | 9 | 9 | -4 | 36 |
 | 13 | Brighton & Hove Albion | 27 | 8 | 10 | 9 | 2 | 34 |
 | 14 | Crystal Palace | 27 | 8 | 9 | 10 | -4 | 33 |
 | 15 | Leeds United | 27 | 7 | 10 | 10 | -9 | 31 |
@@ -122,11 +122,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 26 | 21 | 1 | 4 | 41 | 64 |
 | 2 | Milan | 25 | 15 | 9 | 1 | 22 | 54 |
-| 3 | Napoli | 26 | 15 | 6 | 5 | 13 | 51 |
+| 3 | Napoli | 26 | 15 | 5 | 6 | 12 | 50 |
 | 4 | Roma | 25 | 15 | 2 | 8 | 15 | 47 |
 | 5 | Juventus | 26 | 13 | 7 | 6 | 18 | 46 |
 | 6 | Como | 26 | 12 | 9 | 5 | 22 | 45 |
-| 7 | Atalanta | 26 | 11 | 10 | 5 | 13 | 43 |
+| 7 | Atalanta | 26 | 12 | 9 | 5 | 14 | 45 |
 | 8 | Sassuolo | 26 | 10 | 5 | 11 | -3 | 35 |
 | 9 | Lazio | 26 | 8 | 10 | 8 | 1 | 34 |
 | 10 | Bologna | 25 | 9 | 6 | 10 | 2 | 33 |
