@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 06:36 PM UTC",
-        "IST": "Monday, 23 February 2026, 12:06 AM IST"
+        "UTC": "Sunday, 22 February 2026, 07:25 PM UTC",
+        "IST": "Monday, 23 February 2026, 12:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -259,22 +259,22 @@
             },
             {
                 "Position": "6",
+                "Team": "Celta de Vigo",
+                "Played": "25",
+                "Wins": "9",
+                "Draws": "10",
+                "Losses": "6",
+                "Goal Difference": "7",
+                "Points": "37"
+            },
+            {
+                "Position": "7",
                 "Team": "Espanyol",
                 "Played": "25",
                 "Wins": "10",
                 "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "-6",
-                "Points": "35"
-            },
-            {
-                "Position": "7",
-                "Team": "Celta de Vigo",
-                "Played": "25",
-                "Wins": "8",
-                "Draws": "11",
-                "Losses": "6",
-                "Goal Difference": "5",
                 "Points": "35"
             },
             {
@@ -382,10 +382,10 @@
                 "Team": "Mallorca",
                 "Played": "25",
                 "Wins": "6",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-10",
-                "Points": "25"
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-12",
+                "Points": "24"
             },
             {
                 "Position": "19",
@@ -443,11 +443,11 @@
                 "Position": "4",
                 "Team": "VfB Stuttgart",
                 "Played": "23",
-                "Wins": "14",
-                "Draws": "3",
+                "Wins": "13",
+                "Draws": "4",
                 "Losses": "6",
-                "Goal Difference": "13",
-                "Points": "45"
+                "Goal Difference": "12",
+                "Points": "43"
             },
             {
                 "Position": "5",
@@ -584,10 +584,10 @@
                 "Team": "Heidenheim",
                 "Played": "23",
                 "Wins": "3",
-                "Draws": "4",
-                "Losses": "16",
-                "Goal Difference": "-30",
-                "Points": "13"
+                "Draws": "5",
+                "Losses": "15",
+                "Goal Difference": "-29",
+                "Points": "14"
             }
         ],
         "Serie A": [
@@ -606,10 +606,10 @@
                 "Team": "Milan",
                 "Played": "26",
                 "Wins": "15",
-                "Draws": "10",
-                "Losses": "1",
-                "Goal Difference": "22",
-                "Points": "55"
+                "Draws": "9",
+                "Losses": "2",
+                "Goal Difference": "21",
+                "Points": "54"
             },
             {
                 "Position": "3",
@@ -705,11 +705,11 @@
                 "Position": "12",
                 "Team": "Parma",
                 "Played": "26",
-                "Wins": "7",
-                "Draws": "9",
+                "Wins": "8",
+                "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-13",
-                "Points": "30"
+                "Goal Difference": "-12",
+                "Points": "32"
             },
             {
                 "Position": "13",

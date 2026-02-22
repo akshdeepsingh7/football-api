@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 February 2026, 06:36 PM UTC (Monday, 23 February 2026, 12:06 AM IST)
+**Last Updated:** Sunday, 22 February 2026, 07:25 PM UTC (Monday, 23 February 2026, 12:55 AM IST)
 
 ### Premier League
 
@@ -77,8 +77,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Villarreal | 24 | 15 | 3 | 6 | 19 | 48 |
 | 4 | Atlético de Madrid | 25 | 14 | 6 | 5 | 19 | 48 |
 | 5 | Real Betis | 25 | 11 | 9 | 5 | 10 | 42 |
-| 6 | Espanyol | 25 | 10 | 5 | 10 | -6 | 35 |
-| 7 | Celta de Vigo | 25 | 8 | 11 | 6 | 5 | 35 |
+| 6 | Celta de Vigo | 25 | 9 | 10 | 6 | 7 | 37 |
+| 7 | Espanyol | 25 | 10 | 5 | 10 | -6 | 35 |
 | 8 | Athletic Bilbao | 25 | 10 | 4 | 11 | -6 | 34 |
 | 9 | Osasuna | 25 | 9 | 6 | 10 | 1 | 33 |
 | 10 | Real Sociedad | 25 | 8 | 8 | 9 | -1 | 32 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Alavés | 24 | 7 | 5 | 12 | -9 | 26 |
 | 16 | Valencia | 24 | 6 | 8 | 10 | -12 | 26 |
 | 17 | Elche | 25 | 5 | 10 | 10 | -5 | 25 |
-| 18 | Mallorca | 25 | 6 | 7 | 12 | -10 | 25 |
+| 18 | Mallorca | 25 | 6 | 6 | 13 | -12 | 24 |
 | 19 | Levante | 25 | 4 | 6 | 15 | -18 | 18 |
 | 20 | Real Oviedo | 24 | 3 | 8 | 13 | -23 | 17 |
 
@@ -100,7 +100,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 23 | 19 | 3 | 1 | 64 | 60 |
 | 2 | Borussia Dortmund | 23 | 15 | 7 | 1 | 27 | 52 |
 | 3 | Hoffenheim | 23 | 14 | 4 | 5 | 19 | 46 |
-| 4 | VfB Stuttgart | 23 | 14 | 3 | 6 | 13 | 45 |
+| 4 | VfB Stuttgart | 23 | 13 | 4 | 6 | 12 | 43 |
 | 5 | RB Leipzig | 23 | 12 | 5 | 6 | 12 | 41 |
 | 6 | Bayer Leverkusen | 22 | 12 | 3 | 7 | 15 | 39 |
 | 7 | SC Freiburg | 23 | 9 | 6 | 8 | -3 | 33 |
@@ -114,14 +114,14 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | VfL Wolfsburg | 23 | 5 | 5 | 13 | -16 | 20 |
 | 16 | St. Pauli | 23 | 5 | 5 | 13 | -18 | 20 |
 | 17 | Werder Bremen | 23 | 4 | 7 | 12 | -21 | 19 |
-| 18 | Heidenheim | 23 | 3 | 4 | 16 | -30 | 13 |
+| 18 | Heidenheim | 23 | 3 | 5 | 15 | -29 | 14 |
 
 ### Serie A
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 26 | 21 | 1 | 4 | 41 | 64 |
-| 2 | Milan | 26 | 15 | 10 | 1 | 22 | 55 |
+| 2 | Milan | 26 | 15 | 9 | 2 | 21 | 54 |
 | 3 | Napoli | 26 | 15 | 5 | 6 | 12 | 50 |
 | 4 | Roma | 25 | 15 | 2 | 8 | 15 | 47 |
 | 5 | Juventus | 26 | 13 | 7 | 6 | 18 | 46 |
@@ -131,7 +131,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Lazio | 26 | 8 | 10 | 8 | 1 | 34 |
 | 10 | Bologna | 25 | 9 | 6 | 10 | 2 | 33 |
 | 11 | Udinese | 25 | 9 | 5 | 11 | -10 | 32 |
-| 12 | Parma | 26 | 7 | 9 | 10 | -13 | 30 |
+| 12 | Parma | 26 | 8 | 8 | 10 | -12 | 32 |
 | 13 | Cagliari | 26 | 7 | 8 | 11 | -7 | 29 |
 | 14 | Genoa | 26 | 6 | 9 | 11 | -5 | 27 |
 | 15 | Torino | 26 | 7 | 6 | 13 | -22 | 27 |
