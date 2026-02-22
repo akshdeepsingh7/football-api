@@ -1,19 +1,19 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 03:49 PM UTC",
-        "IST": "Sunday, 22 February 2026, 09:19 PM IST"
+        "UTC": "Sunday, 22 February 2026, 04:32 PM UTC",
+        "IST": "Sunday, 22 February 2026, 10:02 PM IST"
     },
     "standings": {
         "Premier League": [
             {
                 "Position": "1",
                 "Team": "Arsenal",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "17",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "3",
                 "Goal Difference": "32",
-                "Points": "58"
+                "Points": "59"
             },
             {
                 "Position": "2",
@@ -59,11 +59,11 @@
                 "Position": "6",
                 "Team": "Liverpool FC",
                 "Played": "27",
-                "Wins": "12",
-                "Draws": "7",
+                "Wins": "13",
+                "Draws": "6",
                 "Losses": "8",
-                "Goal Difference": "6",
-                "Points": "43"
+                "Goal Difference": "7",
+                "Points": "45"
             },
             {
                 "Position": "7",
@@ -102,7 +102,7 @@
                 "Wins": "11",
                 "Draws": "4",
                 "Losses": "12",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "37"
             },
             {
@@ -122,11 +122,21 @@
                 "Wins": "9",
                 "Draws": "9",
                 "Losses": "9",
-                "Goal Difference": "-4",
+                "Goal Difference": "-5",
                 "Points": "36"
             },
             {
                 "Position": "13",
+                "Team": "Crystal Palace",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-3",
+                "Points": "35"
+            },
+            {
+                "Position": "14",
                 "Team": "Brighton & Hove Albion",
                 "Played": "27",
                 "Wins": "8",
@@ -134,16 +144,6 @@
                 "Losses": "9",
                 "Goal Difference": "2",
                 "Points": "34"
-            },
-            {
-                "Position": "14",
-                "Team": "Crystal Palace",
-                "Played": "27",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-4",
-                "Points": "33"
             },
             {
                 "Position": "15",
@@ -158,22 +158,22 @@
             {
                 "Position": "16",
                 "Team": "Tottenham Hotspur",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "7",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "11",
                 "Goal Difference": "-1",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "17",
                 "Team": "Nottingham Forest",
                 "Played": "27",
                 "Wins": "7",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "-13",
-                "Points": "28"
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "-14",
+                "Points": "27"
             },
             {
                 "Position": "18",
@@ -200,10 +200,10 @@
                 "Team": "Wolverhampton Wanderers",
                 "Played": "28",
                 "Wins": "1",
-                "Draws": "8",
-                "Losses": "19",
-                "Goal Difference": "-32",
-                "Points": "11"
+                "Draws": "7",
+                "Losses": "20",
+                "Goal Difference": "-33",
+                "Points": "10"
             }
         ],
         "La Liga": [
@@ -214,7 +214,7 @@
                 "Wins": "20",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "40",
+                "Goal Difference": "41",
                 "Points": "61"
             },
             {
@@ -394,7 +394,7 @@
                 "Wins": "4",
                 "Draws": "6",
                 "Losses": "15",
-                "Goal Difference": "-16",
+                "Goal Difference": "-17",
                 "Points": "18"
             },
             {
@@ -562,22 +562,22 @@
             {
                 "Position": "16",
                 "Team": "Werder Bremen",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "4",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-20",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "17",
                 "Team": "St. Pauli",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "13",
                 "Goal Difference": "-19",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "18",
@@ -846,12 +846,12 @@
             {
                 "Position": "6",
                 "Team": "Lille",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "10",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "4",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "7",
@@ -886,11 +886,11 @@
             {
                 "Position": "10",
                 "Team": "Lorient",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "8",
                 "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "-4",
+                "Losses": "8",
+                "Goal Difference": "-5",
                 "Points": "31"
             },
             {
@@ -906,32 +906,32 @@
             {
                 "Position": "12",
                 "Team": "Angers",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "8",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "-5",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "13",
                 "Team": "Le Havre",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "6",
                 "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "-7",
+                "Losses": "9",
+                "Goal Difference": "-8",
                 "Points": "26"
             },
             {
                 "Position": "14",
                 "Team": "Nice",
-                "Played": "22",
-                "Wins": "6",
+                "Played": "23",
+                "Wins": "7",
                 "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-13",
-                "Points": "23"
+                "Goal Difference": "-12",
+                "Points": "26"
             },
             {
                 "Position": "15",
@@ -956,12 +956,12 @@
             {
                 "Position": "17",
                 "Team": "Nantes",
-                "Played": "22",
-                "Wins": "3",
+                "Played": "23",
+                "Wins": "4",
                 "Draws": "5",
                 "Losses": "14",
-                "Goal Difference": "-20",
-                "Points": "14"
+                "Goal Difference": "-19",
+                "Points": "17"
             },
             {
                 "Position": "18",
