@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 08:53 PM UTC",
-        "IST": "Monday, 23 February 2026, 02:23 AM IST"
+        "UTC": "Sunday, 22 February 2026, 09:25 PM UTC",
+        "IST": "Monday, 23 February 2026, 02:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -625,11 +625,11 @@
                 "Position": "4",
                 "Team": "Roma",
                 "Played": "26",
-                "Wins": "15",
-                "Draws": "3",
+                "Wins": "16",
+                "Draws": "2",
                 "Losses": "8",
-                "Goal Difference": "15",
-                "Points": "48"
+                "Goal Difference": "17",
+                "Points": "50"
             },
             {
                 "Position": "5",
@@ -746,10 +746,10 @@
                 "Team": "Cremonese",
                 "Played": "26",
                 "Wins": "5",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-12",
-                "Points": "25"
+                "Draws": "9",
+                "Losses": "12",
+                "Goal Difference": "-14",
+                "Points": "24"
             },
             {
                 "Position": "17",
@@ -2065,11 +2065,11 @@
                 "Position": "1",
                 "Team": "Porto",
                 "Played": "23",
-                "Wins": "19",
-                "Draws": "3",
+                "Wins": "20",
+                "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "36",
-                "Points": "60"
+                "Goal Difference": "37",
+                "Points": "62"
             },
             {
                 "Position": "2",
@@ -2206,10 +2206,10 @@
                 "Team": "Rio Ave",
                 "Played": "23",
                 "Wins": "4",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-20",
-                "Points": "21"
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-21",
+                "Points": "20"
             },
             {
                 "Position": "16",
