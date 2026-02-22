@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 February 2026, 07:25 PM UTC (Monday, 23 February 2026, 12:55 AM IST)
+**Last Updated:** Sunday, 22 February 2026, 07:46 PM UTC (Monday, 23 February 2026, 01:16 AM IST)
 
 ### Premier League
 
@@ -147,13 +147,13 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 23 | 17 | 3 | 3 | 33 | 54 |
 | 2 | Lens | 23 | 17 | 1 | 5 | 24 | 52 |
-| 3 | Lyon | 22 | 14 | 3 | 5 | 16 | 45 |
+| 3 | Lyon | 23 | 14 | 4 | 5 | 16 | 46 |
 | 4 | Marseille | 23 | 12 | 4 | 7 | 17 | 40 |
 | 5 | Lille | 23 | 11 | 4 | 8 | 5 | 37 |
 | 6 | Rennes | 23 | 10 | 7 | 6 | 2 | 37 |
 | 7 | Monaco | 23 | 10 | 4 | 9 | 2 | 34 |
-| 8 | Lorient | 23 | 8 | 8 | 7 | -4 | 32 |
-| 9 | Strasbourg | 22 | 9 | 4 | 9 | 7 | 31 |
+| 8 | Strasbourg | 23 | 9 | 5 | 9 | 7 | 32 |
+| 9 | Lorient | 23 | 8 | 8 | 7 | -4 | 32 |
 | 10 | Toulouse | 23 | 8 | 7 | 8 | 6 | 31 |
 | 11 | Brest | 23 | 8 | 6 | 9 | -3 | 30 |
 | 12 | Angers | 23 | 8 | 5 | 10 | -6 | 29 |
@@ -295,10 +295,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 23 | 18 | 4 | 1 | 47 | 58 |
 | 3 | Benfica | 23 | 16 | 7 | 0 | 36 | 55 |
 | 4 | Braga | 23 | 12 | 6 | 5 | 26 | 42 |
-| 5 | Gil Vicente | 23 | 11 | 8 | 4 | 15 | 41 |
-| 6 | Moreirense | 23 | 10 | 3 | 10 | -4 | 33 |
-| 7 | Famalicão | 22 | 9 | 5 | 8 | 6 | 32 |
-| 8 | Estoril | 23 | 8 | 7 | 8 | 5 | 31 |
+| 5 | Gil Vicente | 23 | 11 | 7 | 5 | 14 | 40 |
+| 6 | Estoril | 23 | 9 | 6 | 8 | 6 | 33 |
+| 7 | Moreirense | 23 | 10 | 3 | 10 | -4 | 33 |
+| 8 | Famalicão | 22 | 9 | 5 | 8 | 6 | 32 |
 | 9 | Vitória S.C. | 23 | 9 | 4 | 10 | -7 | 31 |
 | 10 | Arouca | 23 | 7 | 5 | 11 | -18 | 26 |
 | 11 | Alverca | 23 | 7 | 5 | 11 | -15 | 26 |
