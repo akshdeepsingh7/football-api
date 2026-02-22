@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 05:26 PM UTC",
-        "IST": "Sunday, 22 February 2026, 10:56 PM IST"
+        "UTC": "Sunday, 22 February 2026, 05:51 PM UTC",
+        "IST": "Sunday, 22 February 2026, 11:21 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -9,11 +9,11 @@
                 "Position": "1",
                 "Team": "Arsenal",
                 "Played": "28",
-                "Wins": "17",
-                "Draws": "8",
+                "Wins": "18",
+                "Draws": "7",
                 "Losses": "3",
-                "Goal Difference": "32",
-                "Points": "59"
+                "Goal Difference": "33",
+                "Points": "61"
             },
             {
                 "Position": "2",
@@ -160,10 +160,10 @@
                 "Team": "Tottenham Hotspur",
                 "Played": "27",
                 "Wins": "7",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-1",
-                "Points": "30"
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-2",
+                "Points": "29"
             },
             {
                 "Position": "17",
@@ -270,12 +270,12 @@
             {
                 "Position": "7",
                 "Team": "Celta de Vigo",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "8",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "6",
                 "Goal Difference": "5",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "8",
@@ -380,12 +380,12 @@
             {
                 "Position": "18",
                 "Team": "Mallorca",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "12",
                 "Goal Difference": "-10",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "19",
@@ -561,23 +561,23 @@
             },
             {
                 "Position": "16",
-                "Team": "Werder Bremen",
+                "Team": "St. Pauli",
                 "Played": "23",
-                "Wins": "4",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-20",
+                "Wins": "5",
+                "Draws": "5",
+                "Losses": "13",
+                "Goal Difference": "-18",
                 "Points": "20"
             },
             {
                 "Position": "17",
-                "Team": "St. Pauli",
+                "Team": "Werder Bremen",
                 "Played": "23",
                 "Wins": "4",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-19",
-                "Points": "18"
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "-21",
+                "Points": "19"
             },
             {
                 "Position": "18",

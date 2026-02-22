@@ -41,13 +41,13 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 February 2026, 05:26 PM UTC (Sunday, 22 February 2026, 10:56 PM IST)
+**Last Updated:** Sunday, 22 February 2026, 05:51 PM UTC (Sunday, 22 February 2026, 11:21 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 28 | 17 | 8 | 3 | 32 | 59 |
+| 1 | Arsenal | 28 | 18 | 7 | 3 | 33 | 61 |
 | 2 | Manchester City | 27 | 17 | 5 | 5 | 31 | 56 |
 | 3 | Aston Villa | 27 | 15 | 6 | 6 | 10 | 51 |
 | 4 | Chelsea | 27 | 12 | 9 | 6 | 17 | 45 |
@@ -62,7 +62,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Crystal Palace | 27 | 9 | 8 | 10 | -3 | 35 |
 | 14 | Brighton & Hove Albion | 27 | 8 | 10 | 9 | 2 | 34 |
 | 15 | Leeds United | 27 | 7 | 10 | 10 | -9 | 31 |
-| 16 | Tottenham Hotspur | 27 | 7 | 9 | 11 | -1 | 30 |
+| 16 | Tottenham Hotspur | 27 | 7 | 8 | 12 | -2 | 29 |
 | 17 | Nottingham Forest | 27 | 7 | 6 | 14 | -14 | 27 |
 | 18 | West Ham United | 27 | 6 | 7 | 14 | -17 | 25 |
 | 19 | Burnley | 27 | 4 | 7 | 16 | -23 | 19 |
@@ -78,7 +78,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Atlético de Madrid | 25 | 14 | 6 | 5 | 19 | 48 |
 | 5 | Real Betis | 25 | 11 | 9 | 5 | 10 | 42 |
 | 6 | Espanyol | 25 | 10 | 5 | 10 | -6 | 35 |
-| 7 | Celta de Vigo | 24 | 8 | 10 | 6 | 5 | 34 |
+| 7 | Celta de Vigo | 25 | 8 | 11 | 6 | 5 | 35 |
 | 8 | Athletic Bilbao | 25 | 10 | 4 | 11 | -6 | 34 |
 | 9 | Osasuna | 25 | 9 | 6 | 10 | 1 | 33 |
 | 10 | Real Sociedad | 25 | 8 | 8 | 9 | -1 | 32 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Alavés | 24 | 7 | 5 | 12 | -9 | 26 |
 | 16 | Valencia | 24 | 6 | 8 | 10 | -12 | 26 |
 | 17 | Elche | 25 | 5 | 10 | 10 | -5 | 25 |
-| 18 | Mallorca | 24 | 6 | 6 | 12 | -10 | 24 |
+| 18 | Mallorca | 25 | 6 | 7 | 12 | -10 | 25 |
 | 19 | Levante | 25 | 4 | 6 | 15 | -18 | 18 |
 | 20 | Real Oviedo | 24 | 3 | 8 | 13 | -23 | 17 |
 
@@ -112,8 +112,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Mainz 05 | 23 | 5 | 7 | 11 | -12 | 22 |
 | 14 | Borussia Mönchengladbach | 23 | 5 | 7 | 11 | -13 | 22 |
 | 15 | VfL Wolfsburg | 23 | 5 | 5 | 13 | -16 | 20 |
-| 16 | Werder Bremen | 23 | 4 | 8 | 11 | -20 | 20 |
-| 17 | St. Pauli | 23 | 4 | 6 | 13 | -19 | 18 |
+| 16 | St. Pauli | 23 | 5 | 5 | 13 | -18 | 20 |
+| 17 | Werder Bremen | 23 | 4 | 7 | 12 | -21 | 19 |
 | 18 | Heidenheim | 22 | 3 | 4 | 15 | -29 | 13 |
 
 ### Serie A
