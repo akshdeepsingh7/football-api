@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 11:44 AM UTC",
-        "IST": "Sunday, 22 February 2026, 05:14 PM IST"
+        "UTC": "Sunday, 22 February 2026, 12:52 PM UTC",
+        "IST": "Sunday, 22 February 2026, 06:22 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -723,23 +723,23 @@
             },
             {
                 "Position": "14",
-                "Team": "Torino",
+                "Team": "Genoa",
                 "Played": "26",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-19",
-                "Points": "28"
+                "Wins": "6",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-6",
+                "Points": "27"
             },
             {
                 "Position": "15",
-                "Team": "Genoa",
+                "Team": "Torino",
                 "Played": "26",
-                "Wins": "5",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-8",
-                "Points": "25"
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-21",
+                "Points": "27"
             },
             {
                 "Position": "16",
@@ -2375,6 +2375,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Sheffield United",
+                "Played": "33",
+                "Wins": "14",
+                "Draws": "3",
+                "Losses": "16",
+                "Goal Difference": "2",
+                "Points": "45"
+            },
+            {
+                "Position": "15",
                 "Team": "Swansea City",
                 "Played": "33",
                 "Wins": "13",
@@ -2384,7 +2394,7 @@
                 "Points": "45"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Stoke City",
                 "Played": "33",
                 "Wins": "12",
@@ -2392,16 +2402,6 @@
                 "Losses": "13",
                 "Goal Difference": "5",
                 "Points": "44"
-            },
-            {
-                "Position": "16",
-                "Team": "Sheffield United",
-                "Played": "32",
-                "Wins": "13",
-                "Draws": "3",
-                "Losses": "16",
-                "Goal Difference": "0",
-                "Points": "42"
             },
             {
                 "Position": "17",
@@ -2476,11 +2476,11 @@
             {
                 "Position": "24",
                 "Team": "Sheffield Wednesday",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "1",
                 "Draws": "8",
-                "Losses": "23",
-                "Goal Difference": "-45",
+                "Losses": "24",
+                "Goal Difference": "-47",
                 "Points": "-7"
             }
         ],
@@ -2799,6 +2799,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Bengaluru",
+                "Played": "2",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "6"
+            },
+            {
+                "Position": "3",
                 "Team": "Jamshedpur",
                 "Played": "2",
                 "Wins": "2",
@@ -2808,18 +2818,8 @@
                 "Points": "6"
             },
             {
-                "Position": "3",
-                "Team": "FC Goa",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "4"
-            },
-            {
                 "Position": "4",
-                "Team": "Bengaluru",
+                "Team": "FC Goa",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "1",
@@ -2859,16 +2859,6 @@
             },
             {
                 "Position": "8",
-                "Team": "NorthEast Utd",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-3",
-                "Points": "1"
-            },
-            {
-                "Position": "9",
                 "Team": "Odisha",
                 "Played": "0",
                 "Wins": "0",
@@ -2878,7 +2868,7 @@
                 "Points": "0"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Chennaiyin",
                 "Played": "1",
                 "Wins": "0",
@@ -2888,7 +2878,7 @@
                 "Points": "0"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Punjab FC",
                 "Played": "1",
                 "Wins": "0",
@@ -2898,7 +2888,7 @@
                 "Points": "0"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Kerala Blasters",
                 "Played": "1",
                 "Wins": "0",
@@ -2908,13 +2898,23 @@
                 "Points": "0"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Mohammedan",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "-3",
+                "Points": "0"
+            },
+            {
+                "Position": "13",
+                "Team": "NorthEast Utd",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-4",
                 "Points": "0"
             },
             {
