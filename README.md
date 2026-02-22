@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 February 2026, 02:27 PM UTC (Sunday, 22 February 2026, 07:57 PM IST)
+**Last Updated:** Sunday, 22 February 2026, 02:53 PM UTC (Sunday, 22 February 2026, 08:23 PM IST)
 
 ### Premier League
 
@@ -104,13 +104,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | RB Leipzig | 23 | 12 | 5 | 6 | 12 | 41 |
 | 6 | Bayer Leverkusen | 22 | 12 | 3 | 7 | 15 | 39 |
 | 7 | Eintracht Frankfurt | 23 | 8 | 7 | 8 | -3 | 31 |
-| 8 | SC Freiburg | 22 | 8 | 6 | 8 | -4 | 30 |
+| 8 | SC Freiburg | 23 | 8 | 7 | 8 | -4 | 31 |
 | 9 | Union Berlin | 23 | 7 | 7 | 9 | -8 | 28 |
 | 10 | Augsburg | 23 | 8 | 4 | 11 | -13 | 28 |
 | 11 | Hamburg | 22 | 6 | 8 | 8 | -7 | 26 |
 | 12 | Köln | 23 | 6 | 6 | 11 | -6 | 24 |
-| 13 | Mainz 05 | 23 | 5 | 7 | 11 | -12 | 22 |
-| 14 | Borussia Mönchengladbach | 22 | 5 | 7 | 10 | -12 | 22 |
+| 13 | Borussia Mönchengladbach | 23 | 5 | 8 | 10 | -12 | 23 |
+| 14 | Mainz 05 | 23 | 5 | 7 | 11 | -12 | 22 |
 | 15 | VfL Wolfsburg | 23 | 5 | 5 | 13 | -16 | 20 |
 | 16 | Werder Bremen | 22 | 4 | 7 | 11 | -20 | 19 |
 | 17 | St. Pauli | 22 | 4 | 5 | 13 | -19 | 17 |
@@ -149,7 +149,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 23 | 17 | 1 | 5 | 24 | 52 |
 | 3 | Lyon | 22 | 14 | 3 | 5 | 16 | 45 |
 | 4 | Marseille | 23 | 12 | 4 | 7 | 17 | 40 |
-| 5 | Rennes | 23 | 10 | 7 | 6 | 1 | 37 |
+| 5 | Rennes | 23 | 10 | 7 | 6 | 2 | 37 |
 | 6 | Lille | 22 | 10 | 4 | 8 | 4 | 34 |
 | 7 | Monaco | 23 | 10 | 4 | 9 | 2 | 34 |
 | 8 | Strasbourg | 22 | 9 | 4 | 9 | 7 | 31 |
@@ -160,7 +160,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Le Havre | 22 | 6 | 8 | 8 | -7 | 26 |
 | 14 | Nice | 22 | 6 | 5 | 11 | -13 | 23 |
 | 15 | Paris FC | 23 | 5 | 8 | 10 | -13 | 23 |
-| 16 | Auxerre | 23 | 4 | 5 | 14 | -15 | 17 |
+| 16 | Auxerre | 23 | 4 | 5 | 14 | -16 | 17 |
 | 17 | Nantes | 22 | 3 | 5 | 14 | -20 | 14 |
 | 18 | Metz | 23 | 3 | 4 | 16 | -30 | 13 |
 

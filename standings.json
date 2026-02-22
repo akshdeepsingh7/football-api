@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 02:27 PM UTC",
-        "IST": "Sunday, 22 February 2026, 07:57 PM IST"
+        "UTC": "Sunday, 22 February 2026, 02:53 PM UTC",
+        "IST": "Sunday, 22 February 2026, 08:23 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -482,12 +482,12 @@
             {
                 "Position": "8",
                 "Team": "SC Freiburg",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "8",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "8",
                 "Goal Difference": "-4",
-                "Points": "30"
+                "Points": "31"
             },
             {
                 "Position": "9",
@@ -531,21 +531,21 @@
             },
             {
                 "Position": "13",
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Played": "23",
+                "Wins": "5",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-12",
+                "Points": "23"
+            },
+            {
+                "Position": "14",
                 "Team": "Mainz 05",
                 "Played": "23",
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "11",
-                "Goal Difference": "-12",
-                "Points": "22"
-            },
-            {
-                "Position": "14",
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "22",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "10",
                 "Goal Difference": "-12",
                 "Points": "22"
             },
@@ -840,7 +840,7 @@
                 "Wins": "10",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "37"
             },
             {
@@ -950,7 +950,7 @@
                 "Wins": "4",
                 "Draws": "5",
                 "Losses": "14",
-                "Goal Difference": "-15",
+                "Goal Difference": "-16",
                 "Points": "17"
             },
             {
