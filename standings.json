@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 08:28 PM UTC",
-        "IST": "Monday, 23 February 2026, 01:58 AM IST"
+        "UTC": "Sunday, 22 February 2026, 08:53 PM UTC",
+        "IST": "Monday, 23 February 2026, 02:23 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -231,11 +231,11 @@
                 "Position": "3",
                 "Team": "Villarreal",
                 "Played": "25",
-                "Wins": "15",
-                "Draws": "4",
+                "Wins": "16",
+                "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "19",
-                "Points": "49"
+                "Goal Difference": "20",
+                "Points": "51"
             },
             {
                 "Position": "4",
@@ -339,16 +339,6 @@
             },
             {
                 "Position": "14",
-                "Team": "Valencia",
-                "Played": "25",
-                "Wins": "6",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-12",
-                "Points": "27"
-            },
-            {
-                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "24",
                 "Wins": "6",
@@ -358,13 +348,23 @@
                 "Points": "26"
             },
             {
-                "Position": "16",
+                "Position": "15",
                 "Team": "Alav\u00e9s",
                 "Played": "24",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "12",
                 "Goal Difference": "-9",
+                "Points": "26"
+            },
+            {
+                "Position": "16",
+                "Team": "Valencia",
+                "Played": "25",
+                "Wins": "6",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-13",
                 "Points": "26"
             },
             {
@@ -2064,12 +2064,12 @@
             {
                 "Position": "1",
                 "Team": "Porto",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "19",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "36",
-                "Points": "59"
+                "Points": "60"
             },
             {
                 "Position": "2",
@@ -2204,12 +2204,12 @@
             {
                 "Position": "15",
                 "Team": "Rio Ave",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "4",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "10",
                 "Goal Difference": "-20",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "16",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 February 2026, 08:28 PM UTC (Monday, 23 February 2026, 01:58 AM IST)
+**Last Updated:** Sunday, 22 February 2026, 08:53 PM UTC (Monday, 23 February 2026, 02:23 AM IST)
 
 ### Premier League
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 25 | 20 | 1 | 4 | 42 | 61 |
 | 2 | Real Madrid | 25 | 19 | 3 | 3 | 33 | 60 |
-| 3 | Villarreal | 25 | 15 | 4 | 6 | 19 | 49 |
+| 3 | Villarreal | 25 | 16 | 3 | 6 | 20 | 51 |
 | 4 | Atlético de Madrid | 25 | 14 | 6 | 5 | 19 | 48 |
 | 5 | Real Betis | 25 | 11 | 9 | 5 | 10 | 42 |
 | 6 | Celta de Vigo | 25 | 9 | 10 | 6 | 7 | 37 |
@@ -85,9 +85,9 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Sevilla | 25 | 8 | 5 | 12 | -7 | 29 |
 | 12 | Getafe | 25 | 8 | 5 | 12 | -9 | 29 |
 | 13 | Girona | 24 | 7 | 8 | 9 | -14 | 29 |
-| 14 | Valencia | 25 | 6 | 9 | 10 | -12 | 27 |
-| 15 | Rayo Vallecano | 24 | 6 | 8 | 10 | -9 | 26 |
-| 16 | Alavés | 24 | 7 | 5 | 12 | -9 | 26 |
+| 14 | Rayo Vallecano | 24 | 6 | 8 | 10 | -9 | 26 |
+| 15 | Alavés | 24 | 7 | 5 | 12 | -9 | 26 |
+| 16 | Valencia | 25 | 6 | 8 | 11 | -13 | 26 |
 | 17 | Elche | 25 | 5 | 10 | 10 | -5 | 25 |
 | 18 | Mallorca | 25 | 6 | 6 | 13 | -12 | 24 |
 | 19 | Levante | 25 | 4 | 6 | 15 | -18 | 18 |
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 22 | 19 | 2 | 1 | 36 | 59 |
+| 1 | Porto | 23 | 19 | 3 | 1 | 36 | 60 |
 | 2 | Sporting CP | 23 | 18 | 4 | 1 | 47 | 58 |
 | 3 | Benfica | 23 | 16 | 7 | 0 | 36 | 55 |
 | 4 | Braga | 23 | 12 | 6 | 5 | 26 | 42 |
@@ -305,7 +305,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Estrela Amadora | 23 | 5 | 8 | 10 | -15 | 23 |
 | 13 | Casa Pia | 22 | 5 | 7 | 10 | -16 | 22 |
 | 14 | Nacional | 23 | 5 | 6 | 12 | -7 | 21 |
-| 15 | Rio Ave | 22 | 4 | 8 | 10 | -20 | 20 |
+| 15 | Rio Ave | 23 | 4 | 9 | 10 | -20 | 21 |
 | 16 | Tondela | 23 | 4 | 6 | 13 | -19 | 18 |
 | 17 | Santa Clara | 23 | 4 | 6 | 13 | -11 | 18 |
 | 18 | AVS | 23 | 1 | 5 | 17 | -39 | 8 |
