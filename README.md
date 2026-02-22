@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 February 2026, 12:52 PM UTC (Sunday, 22 February 2026, 06:22 PM IST)
+**Last Updated:** Sunday, 22 February 2026, 01:44 PM UTC (Sunday, 22 February 2026, 07:14 PM IST)
 
 ### Premier League
 
@@ -82,9 +82,9 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Athletic Bilbao | 25 | 10 | 4 | 11 | -6 | 34 |
 | 9 | Osasuna | 25 | 9 | 6 | 10 | 1 | 33 |
 | 10 | Real Sociedad | 25 | 8 | 8 | 9 | -1 | 32 |
-| 11 | Getafe | 24 | 8 | 5 | 11 | -8 | 29 |
+| 11 | Getafe | 25 | 8 | 6 | 11 | -8 | 30 |
 | 12 | Girona | 24 | 7 | 8 | 9 | -14 | 29 |
-| 13 | Sevilla | 24 | 7 | 5 | 12 | -8 | 26 |
+| 13 | Sevilla | 25 | 7 | 6 | 12 | -8 | 27 |
 | 14 | Rayo Vallecano | 24 | 6 | 8 | 10 | -9 | 26 |
 | 15 | Alavés | 24 | 7 | 5 | 12 | -9 | 26 |
 | 16 | Valencia | 24 | 6 | 8 | 10 | -12 | 26 |
@@ -133,8 +133,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Udinese | 25 | 9 | 5 | 11 | -10 | 32 |
 | 12 | Parma | 25 | 7 | 8 | 10 | -13 | 29 |
 | 13 | Cagliari | 26 | 7 | 8 | 11 | -7 | 29 |
-| 14 | Genoa | 26 | 6 | 9 | 11 | -6 | 27 |
-| 15 | Torino | 26 | 7 | 6 | 13 | -21 | 27 |
+| 14 | Genoa | 26 | 6 | 9 | 11 | -5 | 27 |
+| 15 | Torino | 26 | 7 | 6 | 13 | -22 | 27 |
 | 16 | Cremonese | 25 | 5 | 9 | 11 | -12 | 24 |
 | 17 | Lecce | 26 | 6 | 6 | 14 | -16 | 24 |
 | 18 | Fiorentina | 25 | 4 | 9 | 12 | -10 | 21 |
@@ -327,7 +327,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Southampton | 33 | 12 | 11 | 10 | 4 | 47 |
 | 12 | Bristol City | 33 | 13 | 8 | 12 | 4 | 47 |
 | 13 | Queens Park Rangers | 33 | 13 | 8 | 12 | -1 | 47 |
-| 14 | Sheffield United | 33 | 14 | 3 | 16 | 2 | 45 |
+| 14 | Sheffield United | 33 | 14 | 3 | 16 | 1 | 45 |
 | 15 | Swansea City | 33 | 13 | 6 | 14 | 0 | 45 |
 | 16 | Stoke City | 33 | 12 | 8 | 13 | 5 | 44 |
 | 17 | Charlton Athletic | 33 | 10 | 10 | 13 | -10 | 40 |
@@ -337,7 +337,7 @@ The latest league standings are displayed below in Markdown tables:
 | 21 | West Bromwich Albion | 33 | 9 | 7 | 17 | -17 | 34 |
 | 22 | Leicester City | 33 | 10 | 9 | 14 | -7 | 33 |
 | 23 | Oxford United | 33 | 6 | 11 | 16 | -16 | 29 |
-| 24 | Sheffield Wednesday | 33 | 1 | 8 | 24 | -47 | -7 |
+| 24 | Sheffield Wednesday | 33 | 1 | 8 | 24 | -46 | -7 |
 
 ### Major League Soccer (MLS)
 
@@ -379,18 +379,18 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | East Bengal | 2 | 2 | 0 | 0 | 6 | 6 |
-| 2 | Bengaluru | 2 | 2 | 0 | 0 | 3 | 6 |
-| 3 | Jamshedpur | 2 | 2 | 0 | 0 | 2 | 6 |
+| 2 | Jamshedpur | 2 | 2 | 0 | 0 | 2 | 6 |
+| 3 | Bengaluru | 2 | 1 | 1 | 0 | 2 | 4 |
 | 4 | FC Goa | 2 | 1 | 1 | 0 | 2 | 4 |
 | 5 | Mohun Bagan SG | 1 | 1 | 0 | 0 | 2 | 3 |
 | 6 | Mumbai City | 1 | 1 | 0 | 0 | 1 | 3 |
 | 7 | Inter Kashi | 1 | 0 | 1 | 0 | 0 | 1 |
-| 8 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
-| 9 | Chennaiyin | 1 | 0 | 0 | 1 | -1 | 0 |
-| 10 | Punjab FC | 1 | 0 | 0 | 1 | -1 | 0 |
-| 11 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
-| 12 | Mohammedan | 2 | 0 | 0 | 2 | -3 | 0 |
-| 13 | NorthEast Utd | 2 | 0 | 0 | 2 | -4 | 0 |
+| 8 | NorthEast Utd | 2 | 0 | 1 | 1 | -3 | 1 |
+| 9 | Odisha | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10 | Chennaiyin | 1 | 0 | 0 | 1 | -1 | 0 |
+| 11 | Punjab FC | 1 | 0 | 0 | 1 | -1 | 0 |
+| 12 | Kerala Blasters | 1 | 0 | 0 | 1 | -2 | 0 |
+| 13 | Mohammedan | 2 | 0 | 0 | 2 | -3 | 0 |
 | 14 | SC Delhi | 2 | 0 | 0 | 2 | -5 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
