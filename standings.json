@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 23 February 2026, 07:03 PM UTC",
-        "IST": "Tuesday, 24 February 2026, 12:33 AM IST"
+        "UTC": "Monday, 23 February 2026, 08:06 PM UTC",
+        "IST": "Tuesday, 24 February 2026, 01:36 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -37,22 +37,22 @@
             },
             {
                 "Position": "4",
+                "Team": "Manchester United",
+                "Played": "27",
+                "Wins": "12",
+                "Draws": "10",
+                "Losses": "5",
+                "Goal Difference": "10",
+                "Points": "46"
+            },
+            {
+                "Position": "5",
                 "Team": "Chelsea",
                 "Played": "27",
                 "Wins": "12",
                 "Draws": "9",
                 "Losses": "6",
                 "Goal Difference": "17",
-                "Points": "45"
-            },
-            {
-                "Position": "5",
-                "Team": "Manchester United",
-                "Played": "26",
-                "Wins": "12",
-                "Draws": "9",
-                "Losses": "5",
-                "Goal Difference": "10",
                 "Points": "45"
             },
             {
@@ -77,6 +77,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Everton",
+                "Played": "27",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "-1",
+                "Points": "38"
+            },
+            {
+                "Position": "9",
                 "Team": "AFC Bournemouth",
                 "Played": "27",
                 "Wins": "9",
@@ -84,16 +94,6 @@
                 "Losses": "7",
                 "Goal Difference": "-2",
                 "Points": "38"
-            },
-            {
-                "Position": "9",
-                "Team": "Everton",
-                "Played": "26",
-                "Wins": "10",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-1",
-                "Points": "37"
             },
             {
                 "Position": "10",
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Girona",
+                "Played": "25",
+                "Wins": "7",
+                "Draws": "9",
+                "Losses": "9",
+                "Goal Difference": "-14",
+                "Points": "30"
+            },
+            {
+                "Position": "12",
                 "Team": "Sevilla",
                 "Played": "25",
                 "Wins": "8",
@@ -318,7 +328,7 @@
                 "Points": "29"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Getafe",
                 "Played": "25",
                 "Wins": "8",
@@ -328,32 +338,22 @@
                 "Points": "29"
             },
             {
-                "Position": "13",
-                "Team": "Girona",
-                "Played": "24",
+                "Position": "14",
+                "Team": "Alav\u00e9s",
+                "Played": "25",
                 "Wins": "7",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-14",
-                "Points": "29"
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-9",
+                "Points": "27"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "24",
                 "Wins": "6",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-9",
-                "Points": "26"
-            },
-            {
-                "Position": "15",
-                "Team": "Alav\u00e9s",
-                "Played": "24",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "12",
                 "Goal Difference": "-9",
                 "Points": "26"
             },
@@ -673,6 +673,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Bologna",
+                "Played": "26",
+                "Wins": "9",
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "2",
+                "Points": "34"
+            },
+            {
+                "Position": "10",
                 "Team": "Lazio",
                 "Played": "26",
                 "Wins": "8",
@@ -682,24 +692,14 @@
                 "Points": "34"
             },
             {
-                "Position": "10",
-                "Team": "Bologna",
-                "Played": "25",
-                "Wins": "9",
-                "Draws": "6",
-                "Losses": "10",
-                "Goal Difference": "2",
-                "Points": "33"
-            },
-            {
                 "Position": "11",
                 "Team": "Udinese",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "9",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "11",
                 "Goal Difference": "-10",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "12",
