@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 23 February 2026, 09:10 PM UTC",
-        "IST": "Tuesday, 24 February 2026, 02:40 AM IST"
+        "UTC": "Monday, 23 February 2026, 10:11 PM UTC",
+        "IST": "Tuesday, 24 February 2026, 03:41 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -39,11 +39,11 @@
                 "Position": "4",
                 "Team": "Manchester United",
                 "Played": "27",
-                "Wins": "12",
-                "Draws": "10",
+                "Wins": "13",
+                "Draws": "9",
                 "Losses": "5",
-                "Goal Difference": "10",
-                "Points": "46"
+                "Goal Difference": "11",
+                "Points": "48"
             },
             {
                 "Position": "5",
@@ -77,16 +77,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Everton",
-                "Played": "27",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-1",
-                "Points": "38"
-            },
-            {
-                "Position": "9",
                 "Team": "AFC Bournemouth",
                 "Played": "27",
                 "Wins": "9",
@@ -94,6 +84,16 @@
                 "Losses": "7",
                 "Goal Difference": "-2",
                 "Points": "38"
+            },
+            {
+                "Position": "9",
+                "Team": "Everton",
+                "Played": "27",
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "-2",
+                "Points": "37"
             },
             {
                 "Position": "10",
@@ -663,6 +663,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Bologna",
+                "Played": "26",
+                "Wins": "10",
+                "Draws": "6",
+                "Losses": "10",
+                "Goal Difference": "3",
+                "Points": "36"
+            },
+            {
+                "Position": "9",
                 "Team": "Sassuolo",
                 "Played": "26",
                 "Wins": "10",
@@ -670,16 +680,6 @@
                 "Losses": "11",
                 "Goal Difference": "-3",
                 "Points": "35"
-            },
-            {
-                "Position": "9",
-                "Team": "Bologna",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "2",
-                "Points": "34"
             },
             {
                 "Position": "10",
@@ -696,10 +696,10 @@
                 "Team": "Udinese",
                 "Played": "26",
                 "Wins": "9",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-10",
-                "Points": "33"
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-11",
+                "Points": "32"
             },
             {
                 "Position": "12",
@@ -2118,7 +2118,7 @@
                 "Wins": "10",
                 "Draws": "5",
                 "Losses": "8",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "35"
             },
             {
@@ -2188,7 +2188,7 @@
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "11",
-                "Goal Difference": "-17",
+                "Goal Difference": "-18",
                 "Points": "22"
             },
             {
