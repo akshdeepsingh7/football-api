@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 23 February 2026, 08:06 PM UTC",
-        "IST": "Tuesday, 24 February 2026, 01:36 AM IST"
+        "UTC": "Monday, 23 February 2026, 09:10 PM UTC",
+        "IST": "Tuesday, 24 February 2026, 02:40 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2113,6 +2113,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Famalic\u00e3o",
+                "Played": "23",
+                "Wins": "10",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "7",
+                "Points": "35"
+            },
+            {
+                "Position": "7",
                 "Team": "Estoril",
                 "Played": "23",
                 "Wins": "9",
@@ -2122,7 +2132,7 @@
                 "Points": "33"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Moreirense",
                 "Played": "23",
                 "Wins": "10",
@@ -2130,16 +2140,6 @@
                 "Losses": "10",
                 "Goal Difference": "-4",
                 "Points": "33"
-            },
-            {
-                "Position": "8",
-                "Team": "Famalic\u00e3o",
-                "Played": "22",
-                "Wins": "9",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "6",
-                "Points": "32"
             },
             {
                 "Position": "9",
@@ -2184,11 +2184,11 @@
             {
                 "Position": "13",
                 "Team": "Casa Pia",
-                "Played": "22",
+                "Played": "23",
                 "Wins": "5",
                 "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "-16",
+                "Losses": "11",
+                "Goal Difference": "-17",
                 "Points": "22"
             },
             {
