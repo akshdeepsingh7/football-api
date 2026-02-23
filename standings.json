@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 23 February 2026, 05:39 PM UTC",
-        "IST": "Monday, 23 February 2026, 11:09 PM IST"
+        "UTC": "Monday, 23 February 2026, 07:03 PM UTC",
+        "IST": "Tuesday, 24 February 2026, 12:33 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -743,6 +743,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Fiorentina",
+                "Played": "26",
+                "Wins": "5",
+                "Draws": "9",
+                "Losses": "12",
+                "Goal Difference": "-9",
+                "Points": "24"
+            },
+            {
+                "Position": "17",
                 "Team": "Cremonese",
                 "Played": "26",
                 "Wins": "5",
@@ -752,7 +762,7 @@
                 "Points": "24"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Lecce",
                 "Played": "26",
                 "Wins": "6",
@@ -762,24 +772,14 @@
                 "Points": "24"
             },
             {
-                "Position": "18",
-                "Team": "Fiorentina",
-                "Played": "26",
-                "Wins": "4",
-                "Draws": "10",
-                "Losses": "12",
-                "Goal Difference": "-10",
-                "Points": "22"
-            },
-            {
                 "Position": "19",
                 "Team": "Pisa",
                 "Played": "26",
                 "Wins": "1",
-                "Draws": "13",
-                "Losses": "12",
-                "Goal Difference": "-22",
-                "Points": "16"
+                "Draws": "12",
+                "Losses": "13",
+                "Goal Difference": "-23",
+                "Points": "15"
             },
             {
                 "Position": "20",
