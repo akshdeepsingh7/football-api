@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 23 February 2026, 02:29 PM UTC",
-        "IST": "Monday, 23 February 2026, 07:59 PM IST"
+        "UTC": "Monday, 23 February 2026, 03:26 PM UTC",
+        "IST": "Monday, 23 February 2026, 08:56 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2799,6 +2799,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Mohun Bagan SG",
+                "Played": "2",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "6"
+            },
+            {
+                "Position": "3",
                 "Team": "Jamshedpur",
                 "Played": "2",
                 "Wins": "2",
@@ -2808,7 +2818,7 @@
                 "Points": "6"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Mumbai City",
                 "Played": "2",
                 "Wins": "2",
@@ -2818,7 +2828,7 @@
                 "Points": "6"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Bengaluru",
                 "Played": "2",
                 "Wins": "1",
@@ -2828,18 +2838,8 @@
                 "Points": "4"
             },
             {
-                "Position": "5",
-                "Team": "FC Goa",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "4"
-            },
-            {
                 "Position": "6",
-                "Team": "Mohun Bagan SG",
+                "Team": "FC Goa",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "1",
@@ -2859,16 +2859,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Chennaiyin",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "1"
-            },
-            {
-                "Position": "9",
                 "Team": "NorthEast Utd",
                 "Played": "2",
                 "Wins": "0",
@@ -2878,7 +2868,7 @@
                 "Points": "1"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Odisha",
                 "Played": "0",
                 "Wins": "0",
@@ -2888,13 +2878,23 @@
                 "Points": "0"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Punjab FC",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "-1",
+                "Points": "0"
+            },
+            {
+                "Position": "11",
+                "Team": "Chennaiyin",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-2",
                 "Points": "0"
             },
             {
