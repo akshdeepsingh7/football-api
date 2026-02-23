@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 23 February 2026, 04:28 PM UTC",
-        "IST": "Monday, 23 February 2026, 09:58 PM IST"
+        "UTC": "Monday, 23 February 2026, 05:39 PM UTC",
+        "IST": "Monday, 23 February 2026, 11:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -764,22 +764,22 @@
             {
                 "Position": "18",
                 "Team": "Fiorentina",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "4",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "12",
                 "Goal Difference": "-10",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "19",
                 "Team": "Pisa",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "1",
-                "Draws": "12",
+                "Draws": "13",
                 "Losses": "12",
                 "Goal Difference": "-22",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "20",
