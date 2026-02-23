@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 February 2026, 11:51 PM UTC (Monday, 23 February 2026, 05:21 AM IST)
+**Last Updated:** Monday, 23 February 2026, 02:21 AM UTC (Monday, 23 February 2026, 07:51 AM IST)
 
 ### Premier League
 
@@ -348,7 +348,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | New York RB | 1 | 1 | 0 | 0 | 1 | 3 |
 | 4 | DC United | 1 | 1 | 0 | 0 | 1 | 3 |
 | 5 | Charlotte | 1 | 0 | 1 | 0 | 0 | 1 |
-| 6 | NYCFC | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | NYCFC | 1 | 0 | 1 | 0 | 0 | 1 |
 | 7 | Columbus Crew | 1 | 0 | 0 | 1 | -1 | 0 |
 | 8 | Toronto | 1 | 0 | 0 | 1 | -1 | 0 |
 | 9 | Orlando City | 1 | 0 | 0 | 1 | -1 | 0 |
@@ -368,8 +368,8 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Austin | 1 | 0 | 1 | 0 | 0 | 1 |
 | 9 | Minnesota United | 1 | 0 | 1 | 0 | 0 | 1 |
 | 10 | St. Louis City | 1 | 0 | 1 | 0 | 0 | 1 |
-| 11 | Colorado Rapids | 0 | 0 | 0 | 0 | 0 | 0 |
-| 12 | LA Galaxy | 0 | 0 | 0 | 0 | 0 | 0 |
+| 11 | LA Galaxy | 1 | 0 | 1 | 0 | 0 | 1 |
+| 12 | Colorado Rapids | 0 | 0 | 0 | 0 | 0 | 0 |
 | 13 | Seattle Sounders | 0 | 0 | 0 | 0 | 0 | 0 |
 | 14 | Real Salt Lake | 1 | 0 | 0 | 1 | -1 | 0 |
 | 15 | Sporting KC | 1 | 0 | 0 | 1 | -3 | 0 |

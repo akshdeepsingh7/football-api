@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 February 2026, 11:51 PM UTC",
-        "IST": "Monday, 23 February 2026, 05:21 AM IST"
+        "UTC": "Monday, 23 February 2026, 02:21 AM UTC",
+        "IST": "Monday, 23 February 2026, 07:51 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2538,12 +2538,12 @@
             {
                 "Position": "6",
                 "Team": "NYCFC",
-                "Played": "0",
+                "Played": "1",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "0",
-                "Points": "0"
+                "Points": "1"
             },
             {
                 "Position": "7",
@@ -2737,17 +2737,17 @@
             },
             {
                 "Position": "11",
-                "Team": "Colorado Rapids",
-                "Played": "0",
+                "Team": "LA Galaxy",
+                "Played": "1",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "0",
-                "Points": "0"
+                "Points": "1"
             },
             {
                 "Position": "12",
-                "Team": "LA Galaxy",
+                "Team": "Colorado Rapids",
                 "Played": "0",
                 "Wins": "0",
                 "Draws": "0",
