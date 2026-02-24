@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 24 February 2026, 09:36 PM UTC",
-        "IST": "Wednesday, 25 February 2026, 03:06 AM IST"
+        "UTC": "Tuesday, 24 February 2026, 10:34 PM UTC",
+        "IST": "Wednesday, 25 February 2026, 04:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2305,16 +2305,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Preston North End",
-                "Played": "34",
-                "Wins": "13",
-                "Draws": "12",
-                "Losses": "9",
-                "Goal Difference": "4",
-                "Points": "51"
-            },
-            {
-                "Position": "8",
                 "Team": "Southampton",
                 "Played": "34",
                 "Wins": "13",
@@ -2324,7 +2314,7 @@
                 "Points": "50"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Bristol City",
                 "Played": "34",
                 "Wins": "14",
@@ -2334,13 +2324,23 @@
                 "Points": "50"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Birmingham City",
                 "Played": "33",
                 "Wins": "13",
                 "Draws": "10",
                 "Losses": "10",
                 "Goal Difference": "5",
+                "Points": "49"
+            },
+            {
+                "Position": "10",
+                "Team": "Preston North End",
+                "Played": "34",
+                "Wins": "12",
+                "Draws": "13",
+                "Losses": "9",
+                "Goal Difference": "3",
                 "Points": "49"
             },
             {
@@ -2375,22 +2375,22 @@
             },
             {
                 "Position": "14",
+                "Team": "Swansea City",
+                "Played": "34",
+                "Wins": "13",
+                "Draws": "7",
+                "Losses": "14",
+                "Goal Difference": "0",
+                "Points": "46"
+            },
+            {
+                "Position": "15",
                 "Team": "Sheffield United",
                 "Played": "33",
                 "Wins": "14",
                 "Draws": "3",
                 "Losses": "16",
                 "Goal Difference": "1",
-                "Points": "45"
-            },
-            {
-                "Position": "15",
-                "Team": "Swansea City",
-                "Played": "34",
-                "Wins": "13",
-                "Draws": "6",
-                "Losses": "15",
-                "Goal Difference": "-1",
                 "Points": "45"
             },
             {

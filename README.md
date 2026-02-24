@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 24 February 2026, 09:36 PM UTC (Wednesday, 25 February 2026, 03:06 AM IST)
+**Last Updated:** Tuesday, 24 February 2026, 10:34 PM UTC (Wednesday, 25 February 2026, 04:04 AM IST)
 
 ### Premier League
 
@@ -320,15 +320,15 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Hull City | 33 | 17 | 6 | 10 | 7 | 57 |
 | 5 | Millwall | 33 | 16 | 8 | 9 | 2 | 56 |
 | 6 | Wrexham | 34 | 14 | 12 | 8 | 8 | 54 |
-| 7 | Preston North End | 34 | 13 | 12 | 9 | 4 | 51 |
-| 8 | Southampton | 34 | 13 | 11 | 10 | 9 | 50 |
-| 9 | Bristol City | 34 | 14 | 8 | 12 | 5 | 50 |
-| 10 | Birmingham City | 33 | 13 | 10 | 10 | 5 | 49 |
+| 7 | Southampton | 34 | 13 | 11 | 10 | 9 | 50 |
+| 8 | Bristol City | 34 | 14 | 8 | 12 | 5 | 50 |
+| 9 | Birmingham City | 33 | 13 | 10 | 10 | 5 | 49 |
+| 10 | Preston North End | 34 | 12 | 13 | 9 | 3 | 49 |
 | 11 | Derby County | 34 | 13 | 9 | 12 | 4 | 48 |
 | 12 | Watford | 34 | 12 | 12 | 10 | 3 | 48 |
 | 13 | Queens Park Rangers | 34 | 13 | 8 | 13 | -6 | 47 |
-| 14 | Sheffield United | 33 | 14 | 3 | 16 | 1 | 45 |
-| 15 | Swansea City | 34 | 13 | 6 | 15 | -1 | 45 |
+| 14 | Swansea City | 34 | 13 | 7 | 14 | 0 | 46 |
+| 15 | Sheffield United | 33 | 14 | 3 | 16 | 1 | 45 |
 | 16 | Stoke City | 33 | 12 | 8 | 13 | 5 | 44 |
 | 17 | Charlton Athletic | 34 | 10 | 11 | 13 | -10 | 41 |
 | 18 | Norwich City | 33 | 11 | 6 | 16 | -1 | 39 |
