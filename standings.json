@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 25 February 2026, 07:07 PM UTC",
-        "IST": "Thursday, 26 February 2026, 12:37 AM IST"
+        "UTC": "Wednesday, 25 February 2026, 07:58 PM UTC",
+        "IST": "Thursday, 26 February 2026, 01:28 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2246,12 +2246,12 @@
             {
                 "Position": "1",
                 "Team": "Coventry City",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "19",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "6",
                 "Goal Difference": "32",
-                "Points": "65"
+                "Points": "66"
             },
             {
                 "Position": "2",
@@ -2286,12 +2286,12 @@
             {
                 "Position": "5",
                 "Team": "Millwall",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "16",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "9",
                 "Goal Difference": "2",
-                "Points": "56"
+                "Points": "57"
             },
             {
                 "Position": "6",
@@ -2326,12 +2326,12 @@
             {
                 "Position": "9",
                 "Team": "Birmingham City",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "13",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "10",
                 "Goal Difference": "5",
-                "Points": "49"
+                "Points": "50"
             },
             {
                 "Position": "10",
@@ -2375,6 +2375,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Sheffield United",
+                "Played": "34",
+                "Wins": "14",
+                "Draws": "4",
+                "Losses": "16",
+                "Goal Difference": "1",
+                "Points": "46"
+            },
+            {
+                "Position": "15",
                 "Team": "Swansea City",
                 "Played": "34",
                 "Wins": "13",
@@ -2382,16 +2392,6 @@
                 "Losses": "14",
                 "Goal Difference": "0",
                 "Points": "46"
-            },
-            {
-                "Position": "15",
-                "Team": "Sheffield United",
-                "Played": "33",
-                "Wins": "14",
-                "Draws": "3",
-                "Losses": "16",
-                "Goal Difference": "1",
-                "Points": "45"
             },
             {
                 "Position": "16",
@@ -2416,12 +2416,12 @@
             {
                 "Position": "18",
                 "Team": "Norwich City",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "11",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "16",
                 "Goal Difference": "-1",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "19",
@@ -2476,12 +2476,12 @@
             {
                 "Position": "24",
                 "Team": "Sheffield Wednesday",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "1",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "24",
                 "Goal Difference": "-46",
-                "Points": "-7"
+                "Points": "-6"
             }
         ],
         "Major League Soccer (MLS)": [
