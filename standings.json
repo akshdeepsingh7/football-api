@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 25 February 2026, 11:28 PM UTC",
-        "IST": "Thursday, 26 February 2026, 04:58 AM IST"
+        "UTC": "Wednesday, 25 February 2026, 11:55 PM UTC",
+        "IST": "Thursday, 26 February 2026, 05:25 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2932,26 +2932,16 @@
         "Brasileir\u00e3o": [
             {
                 "Position": "1",
-                "Team": "RB Bragantino",
+                "Team": "S\u00e3o Paulo",
                 "Played": "4",
                 "Wins": "3",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "9"
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "4",
+                "Points": "10"
             },
             {
                 "Position": "2",
-                "Team": "S\u00e3o Paulo",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "3",
-                "Points": "8"
-            },
-            {
-                "Position": "3",
                 "Team": "Palmeiras",
                 "Played": "3",
                 "Wins": "2",
@@ -2961,7 +2951,7 @@
                 "Points": "7"
             },
             {
-                "Position": "4",
+                "Position": "3",
                 "Team": "Fluminense",
                 "Played": "3",
                 "Wins": "2",
@@ -2971,7 +2961,7 @@
                 "Points": "7"
             },
             {
-                "Position": "5",
+                "Position": "4",
                 "Team": "Bahia",
                 "Played": "3",
                 "Wins": "2",
@@ -2981,23 +2971,33 @@
                 "Points": "7"
             },
             {
+                "Position": "5",
+                "Team": "Athletico Paranaense",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "7"
+            },
+            {
                 "Position": "6",
+                "Team": "RB Bragantino",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "7"
+            },
+            {
+                "Position": "7",
                 "Team": "Corinthians",
                 "Played": "4",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "1",
-                "Points": "6"
-            },
-            {
-                "Position": "7",
-                "Team": "Athletico Paranaense",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "0",
                 "Points": "6"
             },
             {
@@ -3022,22 +3022,22 @@
             },
             {
                 "Position": "10",
-                "Team": "Coritiba",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "5"
-            },
-            {
-                "Position": "11",
                 "Team": "Flamengo",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "0",
+                "Points": "4"
+            },
+            {
+                "Position": "11",
+                "Team": "Coritiba",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-1",
                 "Points": "4"
             },
             {

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 25 February 2026, 11:28 PM UTC (Thursday, 26 February 2026, 04:58 AM IST)
+**Last Updated:** Wednesday, 25 February 2026, 11:55 PM UTC (Thursday, 26 February 2026, 05:25 AM IST)
 
 ### Premier League
 
@@ -401,17 +401,17 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | RB Bragantino | 4 | 3 | 0 | 1 | 1 | 9 |
-| 2 | São Paulo | 4 | 2 | 2 | 0 | 3 | 8 |
-| 3 | Palmeiras | 3 | 2 | 1 | 0 | 6 | 7 |
-| 4 | Fluminense | 3 | 2 | 1 | 0 | 2 | 7 |
-| 5 | Bahia | 3 | 2 | 1 | 0 | 2 | 7 |
-| 6 | Corinthians | 4 | 2 | 0 | 2 | 1 | 6 |
-| 7 | Athletico Paranaense | 4 | 2 | 0 | 2 | 0 | 6 |
+| 1 | São Paulo | 4 | 3 | 1 | 0 | 4 | 10 |
+| 2 | Palmeiras | 3 | 2 | 1 | 0 | 6 | 7 |
+| 3 | Fluminense | 3 | 2 | 1 | 0 | 2 | 7 |
+| 4 | Bahia | 3 | 2 | 1 | 0 | 2 | 7 |
+| 5 | Athletico Paranaense | 4 | 2 | 1 | 1 | 1 | 7 |
+| 6 | RB Bragantino | 4 | 2 | 1 | 1 | 0 | 7 |
+| 7 | Corinthians | 4 | 2 | 0 | 2 | 1 | 6 |
 | 8 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
 | 9 | Mirassol | 3 | 1 | 2 | 0 | 1 | 5 |
-| 10 | Coritiba | 4 | 1 | 2 | 1 | 0 | 5 |
-| 11 | Flamengo | 3 | 1 | 1 | 1 | 0 | 4 |
+| 10 | Flamengo | 3 | 1 | 1 | 1 | 0 | 4 |
+| 11 | Coritiba | 4 | 1 | 1 | 2 | -1 | 4 |
 | 12 | Cruzeiro | 4 | 1 | 1 | 2 | -4 | 4 |
 | 13 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
 | 14 | Grêmio | 3 | 1 | 0 | 2 | -1 | 3 |
