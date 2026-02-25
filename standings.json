@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 25 February 2026, 09:36 PM UTC",
-        "IST": "Thursday, 26 February 2026, 03:06 AM IST"
+        "UTC": "Wednesday, 25 February 2026, 10:34 PM UTC",
+        "IST": "Thursday, 26 February 2026, 04:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2932,22 +2932,22 @@
         "Brasileir\u00e3o": [
             {
                 "Position": "1",
+                "Team": "S\u00e3o Paulo",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "8"
+            },
+            {
+                "Position": "2",
                 "Team": "Palmeiras",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "6",
-                "Points": "7"
-            },
-            {
-                "Position": "2",
-                "Team": "S\u00e3o Paulo",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "3",
                 "Points": "7"
             },
             {
@@ -2972,32 +2972,32 @@
             },
             {
                 "Position": "5",
+                "Team": "Athletico Paranaense",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "7"
+            },
+            {
+                "Position": "6",
+                "Team": "RB Bragantino",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "7"
+            },
+            {
+                "Position": "7",
                 "Team": "Corinthians",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "2",
-                "Points": "6"
-            },
-            {
-                "Position": "6",
-                "Team": "Athletico Paranaense",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "6"
-            },
-            {
-                "Position": "7",
-                "Team": "RB Bragantino",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "0",
                 "Points": "6"
             },
             {
@@ -3023,12 +3023,12 @@
             {
                 "Position": "10",
                 "Team": "Coritiba",
-                "Played": "3",
+                "Played": "4",
                 "Wins": "1",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "0",
-                "Points": "4"
+                "Points": "5"
             },
             {
                 "Position": "11",
@@ -3072,6 +3072,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Remo",
+                "Played": "4",
+                "Wins": "0",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "-2",
+                "Points": "3"
+            },
+            {
+                "Position": "16",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "3",
                 "Wins": "0",
@@ -3081,17 +3091,17 @@
                 "Points": "2"
             },
             {
-                "Position": "16",
-                "Team": "Remo",
-                "Played": "3",
+                "Position": "17",
+                "Team": "Internacional",
+                "Played": "4",
                 "Wins": "0",
                 "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "-2",
+                "Losses": "2",
+                "Goal Difference": "-3",
                 "Points": "2"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Vasco da Gama",
                 "Played": "3",
                 "Wins": "0",
@@ -3101,18 +3111,8 @@
                 "Points": "1"
             },
             {
-                "Position": "18",
-                "Team": "Santos",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "1"
-            },
-            {
                 "Position": "19",
-                "Team": "Internacional",
+                "Team": "Santos",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "1",
