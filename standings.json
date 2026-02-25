@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 25 February 2026, 08:46 PM UTC",
-        "IST": "Thursday, 26 February 2026, 02:16 AM IST"
+        "UTC": "Wednesday, 25 February 2026, 09:36 PM UTC",
+        "IST": "Thursday, 26 February 2026, 03:06 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2247,11 +2247,11 @@
                 "Position": "1",
                 "Team": "Coventry City",
                 "Played": "34",
-                "Wins": "19",
-                "Draws": "9",
+                "Wins": "20",
+                "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "32",
-                "Points": "66"
+                "Goal Difference": "33",
+                "Points": "68"
             },
             {
                 "Position": "2",
@@ -2270,7 +2270,7 @@
                 "Wins": "17",
                 "Draws": "8",
                 "Losses": "9",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "59"
             },
             {
@@ -2325,22 +2325,22 @@
             },
             {
                 "Position": "9",
-                "Team": "Birmingham City",
-                "Played": "34",
-                "Wins": "13",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "3",
-                "Points": "49"
-            },
-            {
-                "Position": "10",
                 "Team": "Preston North End",
                 "Played": "34",
                 "Wins": "12",
                 "Draws": "13",
                 "Losses": "9",
                 "Goal Difference": "3",
+                "Points": "49"
+            },
+            {
+                "Position": "10",
+                "Team": "Birmingham City",
+                "Played": "34",
+                "Wins": "13",
+                "Draws": "10",
+                "Losses": "11",
+                "Goal Difference": "2",
                 "Points": "49"
             },
             {
@@ -2365,6 +2365,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Stoke City",
+                "Played": "34",
+                "Wins": "13",
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "6",
+                "Points": "47"
+            },
+            {
+                "Position": "14",
                 "Team": "Queens Park Rangers",
                 "Played": "34",
                 "Wins": "13",
@@ -2372,16 +2382,6 @@
                 "Losses": "13",
                 "Goal Difference": "-6",
                 "Points": "47"
-            },
-            {
-                "Position": "14",
-                "Team": "Sheffield United",
-                "Played": "34",
-                "Wins": "14",
-                "Draws": "4",
-                "Losses": "16",
-                "Goal Difference": "1",
-                "Points": "46"
             },
             {
                 "Position": "15",
@@ -2395,12 +2395,12 @@
             },
             {
                 "Position": "16",
-                "Team": "Stoke City",
+                "Team": "Sheffield United",
                 "Played": "34",
-                "Wins": "12",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "5",
+                "Wins": "14",
+                "Draws": "3",
+                "Losses": "17",
+                "Goal Difference": "0",
                 "Points": "45"
             },
             {
@@ -2468,10 +2468,10 @@
                 "Team": "Oxford United",
                 "Played": "34",
                 "Wins": "6",
-                "Draws": "12",
-                "Losses": "16",
-                "Goal Difference": "-16",
-                "Points": "30"
+                "Draws": "11",
+                "Losses": "17",
+                "Goal Difference": "-17",
+                "Points": "29"
             },
             {
                 "Position": "24",
