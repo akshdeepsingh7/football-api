@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 26 February 2026, 10:11 AM UTC (Thursday, 26 February 2026, 03:41 PM IST)
+**Last Updated:** Thursday, 26 February 2026, 11:12 AM UTC (Thursday, 26 February 2026, 04:42 PM IST)
 
 ### Premier League
 
@@ -362,8 +362,8 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | LAFC | 1 | 1 | 0 | 0 | 3 | 3 |
 | 3 | San Jose Earthquakes | 1 | 1 | 0 | 0 | 3 | 3 |
 | 4 | Seattle Sounders | 1 | 1 | 0 | 0 | 2 | 3 |
-| 5 | Dallas | 1 | 1 | 0 | 0 | 1 | 3 |
-| 6 | Portland Timbers | 1 | 1 | 0 | 0 | 1 | 3 |
+| 5 | Portland Timbers | 1 | 1 | 0 | 0 | 1 | 3 |
+| 6 | Dallas | 1 | 1 | 0 | 0 | 1 | 3 |
 | 7 | Houston Dynamo | 1 | 1 | 0 | 0 | 1 | 3 |
 | 8 | Vancouver Whitecaps | 1 | 1 | 0 | 0 | 1 | 3 |
 | 9 | Austin | 1 | 0 | 1 | 0 | 0 | 1 |
