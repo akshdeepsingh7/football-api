@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 26 February 2026, 09:33 PM UTC",
-        "IST": "Friday, 27 February 2026, 03:03 AM IST"
+        "UTC": "Thursday, 26 February 2026, 10:34 PM UTC",
+        "IST": "Friday, 27 February 2026, 04:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3052,6 +3052,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Santos",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "4"
+            },
+            {
+                "Position": "14",
                 "Team": "Botafogo",
                 "Played": "3",
                 "Wins": "1",
@@ -3061,7 +3071,7 @@
                 "Points": "3"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Vit\u00f3ria",
                 "Played": "3",
                 "Wins": "1",
@@ -3071,7 +3081,7 @@
                 "Points": "3"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Remo",
                 "Played": "4",
                 "Wins": "0",
@@ -3081,7 +3091,7 @@
                 "Points": "3"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "4",
                 "Wins": "0",
@@ -3091,7 +3101,7 @@
                 "Points": "2"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Internacional",
                 "Played": "4",
                 "Wins": "0",
@@ -3101,7 +3111,7 @@
                 "Points": "2"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Cruzeiro",
                 "Played": "4",
                 "Wins": "0",
@@ -3111,22 +3121,12 @@
                 "Points": "2"
             },
             {
-                "Position": "19",
-                "Team": "Vasco da Gama",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "1"
-            },
-            {
                 "Position": "20",
-                "Team": "Santos",
-                "Played": "3",
+                "Team": "Vasco da Gama",
+                "Played": "4",
                 "Wins": "0",
                 "Draws": "1",
-                "Losses": "2",
+                "Losses": "3",
                 "Goal Difference": "-3",
                 "Points": "1"
             }

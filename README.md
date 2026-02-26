@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 26 February 2026, 09:33 PM UTC (Friday, 27 February 2026, 03:03 AM IST)
+**Last Updated:** Thursday, 26 February 2026, 10:34 PM UTC (Friday, 27 February 2026, 04:04 AM IST)
 
 ### Premier League
 
@@ -413,14 +413,14 @@ Data not available.
 | 10 | Mirassol | 3 | 1 | 2 | 0 | 1 | 5 |
 | 11 | Flamengo | 3 | 1 | 1 | 1 | 0 | 4 |
 | 12 | Coritiba | 4 | 1 | 1 | 2 | -1 | 4 |
-| 13 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
-| 14 | Vitória | 3 | 1 | 0 | 2 | -3 | 3 |
-| 15 | Remo | 4 | 0 | 3 | 1 | -2 | 3 |
-| 16 | Atlético Mineiro | 4 | 0 | 2 | 2 | -2 | 2 |
-| 17 | Internacional | 4 | 0 | 2 | 2 | -3 | 2 |
-| 18 | Cruzeiro | 4 | 0 | 2 | 2 | -5 | 2 |
-| 19 | Vasco da Gama | 3 | 0 | 1 | 2 | -2 | 1 |
-| 20 | Santos | 3 | 0 | 1 | 2 | -3 | 1 |
+| 13 | Santos | 4 | 1 | 1 | 2 | -2 | 4 |
+| 14 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
+| 15 | Vitória | 3 | 1 | 0 | 2 | -3 | 3 |
+| 16 | Remo | 4 | 0 | 3 | 1 | -2 | 3 |
+| 17 | Atlético Mineiro | 4 | 0 | 2 | 2 | -2 | 2 |
+| 18 | Internacional | 4 | 0 | 2 | 2 | -3 | 2 |
+| 19 | Cruzeiro | 4 | 0 | 2 | 2 | -5 | 2 |
+| 20 | Vasco da Gama | 4 | 0 | 1 | 3 | -3 | 1 |
 
 
 <!-- END_TABLE -->
