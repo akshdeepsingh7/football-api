@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 26 February 2026, 01:48 PM UTC",
-        "IST": "Thursday, 26 February 2026, 07:18 PM IST"
+        "UTC": "Thursday, 26 February 2026, 02:48 PM UTC",
+        "IST": "Thursday, 26 February 2026, 08:18 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2789,6 +2789,16 @@
         "Indian Super League": [
             {
                 "Position": "1",
+                "Team": "FC Goa",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "7"
+            },
+            {
+                "Position": "2",
                 "Team": "East Bengal",
                 "Played": "2",
                 "Wins": "2",
@@ -2798,7 +2808,7 @@
                 "Points": "6"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Mohun Bagan SG",
                 "Played": "2",
                 "Wins": "2",
@@ -2808,7 +2818,7 @@
                 "Points": "6"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Jamshedpur",
                 "Played": "2",
                 "Wins": "2",
@@ -2818,7 +2828,7 @@
                 "Points": "6"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Mumbai City",
                 "Played": "2",
                 "Wins": "2",
@@ -2828,18 +2838,8 @@
                 "Points": "6"
             },
             {
-                "Position": "5",
-                "Team": "Bengaluru",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "4"
-            },
-            {
                 "Position": "6",
-                "Team": "FC Goa",
+                "Team": "Bengaluru",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "1",
@@ -2920,11 +2920,11 @@
             {
                 "Position": "14",
                 "Team": "SC Delhi",
-                "Played": "2",
+                "Played": "3",
                 "Wins": "0",
                 "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-5",
+                "Losses": "3",
+                "Goal Difference": "-6",
                 "Points": "0"
             }
         ],
