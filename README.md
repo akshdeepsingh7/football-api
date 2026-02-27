@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 27 February 2026, 06:44 PM UTC (Saturday, 28 February 2026, 12:14 AM IST)
+**Last Updated:** Friday, 27 February 2026, 07:34 PM UTC (Saturday, 28 February 2026, 01:04 AM IST)
 
 ### Premier League
 
@@ -105,10 +105,10 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Bayer Leverkusen | 22 | 12 | 3 | 7 | 15 | 39 |
 | 7 | SC Freiburg | 23 | 9 | 6 | 8 | -3 | 33 |
 | 8 | Eintracht Frankfurt | 23 | 8 | 7 | 8 | -3 | 31 |
-| 9 | Union Berlin | 23 | 7 | 7 | 9 | -8 | 28 |
-| 10 | Augsburg | 23 | 8 | 4 | 11 | -13 | 28 |
+| 9 | Augsburg | 24 | 8 | 5 | 11 | -13 | 29 |
+| 10 | Union Berlin | 23 | 7 | 7 | 9 | -8 | 28 |
 | 11 | Hamburg | 22 | 6 | 8 | 8 | -7 | 26 |
-| 12 | Köln | 23 | 6 | 6 | 11 | -6 | 24 |
+| 12 | Köln | 24 | 6 | 7 | 11 | -6 | 25 |
 | 13 | Mainz 05 | 23 | 5 | 7 | 11 | -12 | 22 |
 | 14 | Borussia Mönchengladbach | 23 | 5 | 7 | 11 | -13 | 22 |
 | 15 | VfL Wolfsburg | 23 | 5 | 5 | 13 | -16 | 20 |
@@ -291,7 +291,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 23 | 20 | 2 | 1 | 37 | 62 |
+| 1 | Porto | 24 | 21 | 2 | 1 | 38 | 65 |
 | 2 | Sporting CP | 23 | 18 | 4 | 1 | 47 | 58 |
 | 3 | Benfica | 23 | 16 | 7 | 0 | 36 | 55 |
 | 4 | Braga | 23 | 12 | 6 | 5 | 26 | 42 |
@@ -300,7 +300,7 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Estoril | 23 | 9 | 6 | 8 | 7 | 33 |
 | 8 | Moreirense | 23 | 10 | 3 | 10 | -4 | 33 |
 | 9 | Vitória S.C. | 23 | 9 | 4 | 10 | -7 | 31 |
-| 10 | Arouca | 23 | 7 | 5 | 11 | -18 | 26 |
+| 10 | Arouca | 24 | 7 | 5 | 12 | -19 | 26 |
 | 11 | Alverca | 23 | 7 | 5 | 11 | -15 | 26 |
 | 12 | Estrela Amadora | 23 | 5 | 8 | 10 | -15 | 23 |
 | 13 | Casa Pia | 23 | 5 | 7 | 11 | -18 | 22 |

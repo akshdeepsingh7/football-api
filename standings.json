@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 27 February 2026, 06:44 PM UTC",
-        "IST": "Saturday, 28 February 2026, 12:14 AM IST"
+        "UTC": "Friday, 27 February 2026, 07:34 PM UTC",
+        "IST": "Saturday, 28 February 2026, 01:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -491,22 +491,22 @@
             },
             {
                 "Position": "9",
+                "Team": "Augsburg",
+                "Played": "24",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-13",
+                "Points": "29"
+            },
+            {
+                "Position": "10",
                 "Team": "Union Berlin",
                 "Played": "23",
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "-8",
-                "Points": "28"
-            },
-            {
-                "Position": "10",
-                "Team": "Augsburg",
-                "Played": "23",
-                "Wins": "8",
-                "Draws": "4",
-                "Losses": "11",
-                "Goal Difference": "-13",
                 "Points": "28"
             },
             {
@@ -522,12 +522,12 @@
             {
                 "Position": "12",
                 "Team": "K\u00f6ln",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "11",
                 "Goal Difference": "-6",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "13",
@@ -2064,12 +2064,12 @@
             {
                 "Position": "1",
                 "Team": "Porto",
-                "Played": "23",
-                "Wins": "20",
+                "Played": "24",
+                "Wins": "21",
                 "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "37",
-                "Points": "62"
+                "Goal Difference": "38",
+                "Points": "65"
             },
             {
                 "Position": "2",
@@ -2154,11 +2154,11 @@
             {
                 "Position": "10",
                 "Team": "Arouca",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "7",
                 "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-18",
+                "Losses": "12",
+                "Goal Difference": "-19",
                 "Points": "26"
             },
             {
