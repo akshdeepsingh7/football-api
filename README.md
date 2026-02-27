@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 27 February 2026, 08:29 PM UTC (Saturday, 28 February 2026, 01:59 AM IST)
+**Last Updated:** Friday, 27 February 2026, 08:55 PM UTC (Saturday, 28 February 2026, 02:25 AM IST)
 
 ### Premier League
 
@@ -105,10 +105,10 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Bayer Leverkusen | 22 | 12 | 3 | 7 | 15 | 39 |
 | 7 | SC Freiburg | 23 | 9 | 6 | 8 | -3 | 33 |
 | 8 | Eintracht Frankfurt | 23 | 8 | 7 | 8 | -3 | 31 |
-| 9 | Augsburg | 24 | 8 | 5 | 11 | -13 | 29 |
+| 9 | Augsburg | 24 | 9 | 4 | 11 | -12 | 31 |
 | 10 | Union Berlin | 23 | 7 | 7 | 9 | -8 | 28 |
 | 11 | Hamburg | 22 | 6 | 8 | 8 | -7 | 26 |
-| 12 | Köln | 24 | 6 | 7 | 11 | -6 | 25 |
+| 12 | Köln | 24 | 6 | 6 | 12 | -7 | 24 |
 | 13 | Mainz 05 | 23 | 5 | 7 | 11 | -12 | 22 |
 | 14 | Borussia Mönchengladbach | 23 | 5 | 7 | 11 | -13 | 22 |
 | 15 | VfL Wolfsburg | 23 | 5 | 5 | 13 | -16 | 20 |
@@ -291,16 +291,16 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 24 | 20 | 3 | 1 | 37 | 63 |
-| 2 | Sporting CP | 23 | 18 | 4 | 1 | 47 | 58 |
+| 1 | Porto | 24 | 21 | 2 | 1 | 39 | 65 |
+| 2 | Sporting CP | 24 | 19 | 4 | 1 | 48 | 61 |
 | 3 | Benfica | 23 | 16 | 7 | 0 | 36 | 55 |
 | 4 | Braga | 23 | 12 | 6 | 5 | 26 | 42 |
 | 5 | Gil Vicente | 23 | 11 | 7 | 5 | 13 | 40 |
 | 6 | Famalicão | 23 | 10 | 5 | 8 | 8 | 35 |
-| 7 | Estoril | 23 | 9 | 6 | 8 | 7 | 33 |
+| 7 | Estoril | 24 | 9 | 6 | 9 | 6 | 33 |
 | 8 | Moreirense | 23 | 10 | 3 | 10 | -4 | 33 |
 | 9 | Vitória S.C. | 23 | 9 | 4 | 10 | -7 | 31 |
-| 10 | Arouca | 24 | 7 | 6 | 11 | -18 | 27 |
+| 10 | Arouca | 24 | 7 | 5 | 12 | -20 | 26 |
 | 11 | Alverca | 23 | 7 | 5 | 11 | -15 | 26 |
 | 12 | Estrela Amadora | 23 | 5 | 8 | 10 | -15 | 23 |
 | 13 | Casa Pia | 23 | 5 | 7 | 11 | -18 | 22 |
@@ -320,9 +320,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Ipswich Town | 32 | 16 | 9 | 7 | 22 | 57 |
 | 5 | Hull City | 33 | 17 | 6 | 10 | 7 | 57 |
 | 6 | Wrexham | 34 | 14 | 12 | 8 | 8 | 54 |
-| 7 | Watford | 35 | 13 | 12 | 10 | 4 | 51 |
+| 7 | Bristol City | 35 | 14 | 9 | 12 | 5 | 51 |
 | 8 | Southampton | 34 | 13 | 11 | 10 | 9 | 50 |
-| 9 | Bristol City | 35 | 14 | 8 | 13 | 4 | 50 |
+| 9 | Watford | 35 | 12 | 13 | 10 | 3 | 49 |
 | 10 | Preston North End | 34 | 12 | 13 | 9 | 3 | 49 |
 | 11 | Birmingham City | 34 | 13 | 10 | 11 | 2 | 49 |
 | 12 | Derby County | 34 | 13 | 9 | 12 | 4 | 48 |
