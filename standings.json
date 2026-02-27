@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 27 February 2026, 08:55 PM UTC",
-        "IST": "Saturday, 28 February 2026, 02:25 AM IST"
+        "UTC": "Friday, 27 February 2026, 09:31 PM UTC",
+        "IST": "Saturday, 28 February 2026, 03:01 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -30,10 +30,10 @@
                 "Team": "Aston Villa",
                 "Played": "28",
                 "Wins": "15",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "10",
-                "Points": "52"
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "9",
+                "Points": "51"
             },
             {
                 "Position": "4",
@@ -199,11 +199,11 @@
                 "Position": "20",
                 "Team": "Wolverhampton Wanderers",
                 "Played": "29",
-                "Wins": "1",
-                "Draws": "8",
+                "Wins": "2",
+                "Draws": "7",
                 "Losses": "20",
-                "Goal Difference": "-33",
-                "Points": "11"
+                "Goal Difference": "-32",
+                "Points": "13"
             }
         ],
         "La Liga": [
@@ -496,7 +496,7 @@
                 "Wins": "9",
                 "Draws": "4",
                 "Losses": "11",
-                "Goal Difference": "-12",
+                "Goal Difference": "-11",
                 "Points": "31"
             },
             {
@@ -526,7 +526,7 @@
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "12",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "24"
             },
             {
@@ -808,10 +808,10 @@
                 "Team": "Lens",
                 "Played": "24",
                 "Wins": "17",
-                "Draws": "1",
-                "Losses": "6",
-                "Goal Difference": "23",
-                "Points": "52"
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "24",
+                "Points": "53"
             },
             {
                 "Position": "3",
@@ -835,16 +835,6 @@
             },
             {
                 "Position": "5",
-                "Team": "Strasbourg",
-                "Played": "24",
-                "Wins": "11",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "10",
-                "Points": "37"
-            },
-            {
-                "Position": "6",
                 "Team": "Lille",
                 "Played": "23",
                 "Wins": "11",
@@ -854,7 +844,7 @@
                 "Points": "37"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Rennes",
                 "Played": "23",
                 "Wins": "10",
@@ -862,6 +852,16 @@
                 "Losses": "6",
                 "Goal Difference": "2",
                 "Points": "37"
+            },
+            {
+                "Position": "7",
+                "Team": "Strasbourg",
+                "Played": "24",
+                "Wins": "10",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "9",
+                "Points": "35"
             },
             {
                 "Position": "8",
@@ -2078,7 +2078,7 @@
                 "Wins": "19",
                 "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "48",
+                "Goal Difference": "49",
                 "Points": "61"
             },
             {
@@ -2128,7 +2128,7 @@
                 "Wins": "9",
                 "Draws": "6",
                 "Losses": "9",
-                "Goal Difference": "6",
+                "Goal Difference": "5",
                 "Points": "33"
             },
             {
