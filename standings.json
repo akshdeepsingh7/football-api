@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 27 February 2026, 09:31 PM UTC",
-        "IST": "Saturday, 28 February 2026, 03:01 AM IST"
+        "UTC": "Friday, 27 February 2026, 10:24 PM UTC",
+        "IST": "Saturday, 28 February 2026, 03:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -32,7 +32,7 @@
                 "Wins": "15",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "9",
+                "Goal Difference": "8",
                 "Points": "51"
             },
             {
@@ -202,7 +202,7 @@
                 "Wins": "2",
                 "Draws": "7",
                 "Losses": "20",
-                "Goal Difference": "-32",
+                "Goal Difference": "-31",
                 "Points": "13"
             }
         ],
@@ -342,10 +342,10 @@
                 "Team": "Alav\u00e9s",
                 "Played": "26",
                 "Wins": "7",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-9",
-                "Points": "28"
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-11",
+                "Points": "27"
             },
             {
                 "Position": "15",
@@ -391,11 +391,11 @@
                 "Position": "19",
                 "Team": "Levante",
                 "Played": "26",
-                "Wins": "4",
-                "Draws": "7",
+                "Wins": "5",
+                "Draws": "6",
                 "Losses": "15",
-                "Goal Difference": "-18",
-                "Points": "19"
+                "Goal Difference": "-16",
+                "Points": "21"
             },
             {
                 "Position": "20",
@@ -2305,12 +2305,12 @@
             },
             {
                 "Position": "7",
-                "Team": "Bristol City",
+                "Team": "Watford",
                 "Played": "35",
-                "Wins": "14",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "5",
+                "Wins": "13",
+                "Draws": "12",
+                "Losses": "10",
+                "Goal Difference": "4",
                 "Points": "51"
             },
             {
@@ -2325,13 +2325,13 @@
             },
             {
                 "Position": "9",
-                "Team": "Watford",
+                "Team": "Bristol City",
                 "Played": "35",
-                "Wins": "12",
-                "Draws": "13",
-                "Losses": "10",
-                "Goal Difference": "3",
-                "Points": "49"
+                "Wins": "14",
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "4",
+                "Points": "50"
             },
             {
                 "Position": "10",

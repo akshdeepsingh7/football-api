@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 27 February 2026, 09:31 PM UTC (Saturday, 28 February 2026, 03:01 AM IST)
+**Last Updated:** Friday, 27 February 2026, 10:24 PM UTC (Saturday, 28 February 2026, 03:54 AM IST)
 
 ### Premier League
 
@@ -49,7 +49,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 28 | 18 | 7 | 3 | 35 | 61 |
 | 2 | Manchester City | 27 | 17 | 5 | 5 | 31 | 56 |
-| 3 | Aston Villa | 28 | 15 | 6 | 7 | 9 | 51 |
+| 3 | Aston Villa | 28 | 15 | 6 | 7 | 8 | 51 |
 | 4 | Manchester United | 27 | 13 | 9 | 5 | 11 | 48 |
 | 5 | Chelsea | 27 | 12 | 9 | 6 | 17 | 45 |
 | 6 | Liverpool FC | 27 | 13 | 6 | 8 | 7 | 45 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Nottingham Forest | 27 | 7 | 6 | 14 | -14 | 27 |
 | 18 | West Ham United | 27 | 6 | 7 | 14 | -17 | 25 |
 | 19 | Burnley | 27 | 4 | 7 | 16 | -23 | 19 |
-| 20 | Wolverhampton Wanderers | 29 | 2 | 7 | 20 | -32 | 13 |
+| 20 | Wolverhampton Wanderers | 29 | 2 | 7 | 20 | -31 | 13 |
 
 ### La Liga
 
@@ -85,12 +85,12 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Girona | 25 | 7 | 9 | 9 | -14 | 30 |
 | 12 | Sevilla | 25 | 8 | 5 | 12 | -7 | 29 |
 | 13 | Getafe | 25 | 8 | 5 | 12 | -9 | 29 |
-| 14 | Alavés | 26 | 7 | 7 | 12 | -9 | 28 |
+| 14 | Alavés | 26 | 7 | 6 | 13 | -11 | 27 |
 | 15 | Rayo Vallecano | 24 | 6 | 8 | 10 | -9 | 26 |
 | 16 | Valencia | 25 | 6 | 8 | 11 | -13 | 26 |
 | 17 | Elche | 25 | 5 | 10 | 10 | -5 | 25 |
 | 18 | Mallorca | 25 | 6 | 6 | 13 | -12 | 24 |
-| 19 | Levante | 26 | 4 | 7 | 15 | -18 | 19 |
+| 19 | Levante | 26 | 5 | 6 | 15 | -16 | 21 |
 | 20 | Real Oviedo | 24 | 3 | 8 | 13 | -23 | 17 |
 
 ### Bundesliga
@@ -320,9 +320,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Ipswich Town | 32 | 16 | 9 | 7 | 22 | 57 |
 | 5 | Hull City | 33 | 17 | 6 | 10 | 7 | 57 |
 | 6 | Wrexham | 34 | 14 | 12 | 8 | 8 | 54 |
-| 7 | Bristol City | 35 | 14 | 9 | 12 | 5 | 51 |
+| 7 | Watford | 35 | 13 | 12 | 10 | 4 | 51 |
 | 8 | Southampton | 34 | 13 | 11 | 10 | 9 | 50 |
-| 9 | Watford | 35 | 12 | 13 | 10 | 3 | 49 |
+| 9 | Bristol City | 35 | 14 | 8 | 13 | 4 | 50 |
 | 10 | Preston North End | 34 | 12 | 13 | 9 | 3 | 49 |
 | 11 | Birmingham City | 34 | 13 | 10 | 11 | 2 | 49 |
 | 12 | Derby County | 34 | 13 | 9 | 12 | 4 | 48 |
