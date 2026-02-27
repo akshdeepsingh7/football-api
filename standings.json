@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 27 February 2026, 02:08 PM UTC",
-        "IST": "Friday, 27 February 2026, 07:38 PM IST"
+        "UTC": "Friday, 27 February 2026, 03:06 PM UTC",
+        "IST": "Friday, 27 February 2026, 08:36 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2842,13 +2842,23 @@
                 "Team": "Bengaluru",
                 "Played": "3",
                 "Wins": "1",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "5"
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "4"
             },
             {
                 "Position": "7",
+                "Team": "Punjab FC",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "3"
+            },
+            {
+                "Position": "8",
                 "Team": "Inter Kashi",
                 "Played": "2",
                 "Wins": "0",
@@ -2858,23 +2868,13 @@
                 "Points": "2"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Odisha",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
-                "Position": "9",
-                "Team": "Punjab FC",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-1",
                 "Points": "1"
             },
             {
