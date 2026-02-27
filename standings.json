@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 27 February 2026, 10:38 AM UTC",
-        "IST": "Friday, 27 February 2026, 04:08 PM IST"
+        "UTC": "Friday, 27 February 2026, 11:33 AM UTC",
+        "IST": "Friday, 27 February 2026, 05:03 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2789,6 +2789,16 @@
         "Indian Super League": [
             {
                 "Position": "1",
+                "Team": "East Bengal",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "6",
+                "Points": "7"
+            },
+            {
+                "Position": "2",
                 "Team": "FC Goa",
                 "Played": "3",
                 "Wins": "2",
@@ -2798,33 +2808,23 @@
                 "Points": "7"
             },
             {
-                "Position": "2",
-                "Team": "East Bengal",
-                "Played": "2",
+                "Position": "3",
+                "Team": "Jamshedpur",
+                "Played": "3",
                 "Wins": "2",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "6",
-                "Points": "6"
+                "Goal Difference": "2",
+                "Points": "7"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Mohun Bagan SG",
                 "Played": "2",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "0",
                 "Goal Difference": "4",
-                "Points": "6"
-            },
-            {
-                "Position": "4",
-                "Team": "Jamshedpur",
-                "Played": "2",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "2",
                 "Points": "6"
             },
             {
