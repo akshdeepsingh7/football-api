@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 11:20 AM UTC",
-        "IST": "Saturday, 28 February 2026, 04:50 PM IST"
+        "UTC": "Saturday, 28 February 2026, 11:42 AM UTC",
+        "IST": "Saturday, 28 February 2026, 05:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2860,12 +2860,12 @@
             {
                 "Position": "8",
                 "Team": "Inter Kashi",
-                "Played": "2",
+                "Played": "3",
                 "Wins": "0",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "0",
                 "Goal Difference": "0",
-                "Points": "2"
+                "Points": "3"
             },
             {
                 "Position": "9",
@@ -2889,17 +2889,17 @@
             },
             {
                 "Position": "11",
-                "Team": "Chennaiyin",
-                "Played": "2",
+                "Team": "Kerala Blasters",
+                "Played": "3",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "-3",
-                "Points": "0"
+                "Points": "1"
             },
             {
                 "Position": "12",
-                "Team": "Kerala Blasters",
+                "Team": "Chennaiyin",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
