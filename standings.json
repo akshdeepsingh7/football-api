@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 05:21 PM UTC",
-        "IST": "Saturday, 28 February 2026, 10:51 PM IST"
+        "UTC": "Saturday, 28 February 2026, 05:45 PM UTC",
+        "IST": "Saturday, 28 February 2026, 11:15 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -18,12 +18,12 @@
             {
                 "Position": "2",
                 "Team": "Manchester City",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "17",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "5",
                 "Goal Difference": "31",
-                "Points": "56"
+                "Points": "57"
             },
             {
                 "Position": "3",
@@ -148,12 +148,12 @@
             {
                 "Position": "15",
                 "Team": "Leeds United",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "7",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "10",
                 "Goal Difference": "-9",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "16",
@@ -300,12 +300,12 @@
             {
                 "Position": "10",
                 "Team": "Real Sociedad",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "8",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "9",
                 "Goal Difference": "-1",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "11",
@@ -380,12 +380,12 @@
             {
                 "Position": "18",
                 "Team": "Mallorca",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "13",
                 "Goal Difference": "-12",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "19",
@@ -412,22 +412,22 @@
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "19",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "64",
-                "Points": "60"
+                "Points": "61"
             },
             {
                 "Position": "2",
                 "Team": "Borussia Dortmund",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "15",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "1",
                 "Goal Difference": "27",
-                "Points": "52"
+                "Points": "53"
             },
             {
                 "Position": "3",

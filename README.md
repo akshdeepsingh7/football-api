@@ -41,14 +41,14 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 28 February 2026, 05:21 PM UTC (Saturday, 28 February 2026, 10:51 PM IST)
+**Last Updated:** Saturday, 28 February 2026, 05:45 PM UTC (Saturday, 28 February 2026, 11:15 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 28 | 18 | 7 | 3 | 35 | 61 |
-| 2 | Manchester City | 27 | 17 | 5 | 5 | 31 | 56 |
+| 2 | Manchester City | 28 | 17 | 6 | 5 | 31 | 57 |
 | 3 | Aston Villa | 28 | 15 | 6 | 7 | 8 | 51 |
 | 4 | Manchester United | 27 | 13 | 9 | 5 | 11 | 48 |
 | 5 | Liverpool FC | 28 | 14 | 6 | 8 | 10 | 48 |
@@ -61,7 +61,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Newcastle United | 28 | 10 | 6 | 12 | -2 | 36 |
 | 13 | Crystal Palace | 27 | 9 | 8 | 10 | -3 | 35 |
 | 14 | Brighton & Hove Albion | 27 | 8 | 10 | 9 | 2 | 34 |
-| 15 | Leeds United | 27 | 7 | 10 | 10 | -9 | 31 |
+| 15 | Leeds United | 28 | 7 | 11 | 10 | -9 | 32 |
 | 16 | Tottenham Hotspur | 27 | 7 | 8 | 12 | -4 | 29 |
 | 17 | Nottingham Forest | 27 | 7 | 6 | 14 | -14 | 27 |
 | 18 | West Ham United | 28 | 6 | 7 | 15 | -20 | 25 |
@@ -81,7 +81,7 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Espanyol | 25 | 10 | 5 | 10 | -6 | 35 |
 | 8 | Athletic Bilbao | 26 | 10 | 5 | 11 | -6 | 35 |
 | 9 | Osasuna | 25 | 9 | 6 | 10 | 1 | 33 |
-| 10 | Real Sociedad | 25 | 8 | 8 | 9 | -1 | 32 |
+| 10 | Real Sociedad | 26 | 8 | 9 | 9 | -1 | 33 |
 | 11 | Girona | 25 | 7 | 9 | 9 | -14 | 30 |
 | 12 | Sevilla | 25 | 8 | 5 | 12 | -7 | 29 |
 | 13 | Getafe | 25 | 8 | 5 | 12 | -9 | 29 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Alavés | 26 | 7 | 6 | 13 | -11 | 27 |
 | 16 | Valencia | 25 | 6 | 8 | 11 | -13 | 26 |
 | 17 | Elche | 25 | 5 | 10 | 10 | -5 | 25 |
-| 18 | Mallorca | 25 | 6 | 6 | 13 | -12 | 24 |
+| 18 | Mallorca | 26 | 6 | 7 | 13 | -12 | 25 |
 | 19 | Levante | 26 | 5 | 6 | 15 | -16 | 21 |
 | 20 | Real Oviedo | 24 | 3 | 8 | 13 | -23 | 17 |
 
@@ -97,8 +97,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 23 | 19 | 3 | 1 | 64 | 60 |
-| 2 | Borussia Dortmund | 23 | 15 | 7 | 1 | 27 | 52 |
+| 1 | Bayern Munich | 24 | 19 | 4 | 1 | 64 | 61 |
+| 2 | Borussia Dortmund | 24 | 15 | 8 | 1 | 27 | 53 |
 | 3 | Hoffenheim | 24 | 14 | 4 | 6 | 18 | 46 |
 | 4 | VfB Stuttgart | 23 | 13 | 4 | 6 | 12 | 43 |
 | 5 | RB Leipzig | 23 | 12 | 5 | 6 | 12 | 41 |
