@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 04:50 PM UTC",
-        "IST": "Saturday, 28 February 2026, 10:20 PM IST"
+        "UTC": "Saturday, 28 February 2026, 05:21 PM UTC",
+        "IST": "Saturday, 28 February 2026, 10:51 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -69,11 +69,11 @@
                 "Position": "7",
                 "Team": "Brentford",
                 "Played": "28",
-                "Wins": "12",
-                "Draws": "5",
+                "Wins": "13",
+                "Draws": "4",
                 "Losses": "11",
-                "Goal Difference": "3",
-                "Points": "41"
+                "Goal Difference": "4",
+                "Points": "43"
             },
             {
                 "Position": "8",
@@ -190,10 +190,10 @@
                 "Team": "Burnley",
                 "Played": "28",
                 "Wins": "4",
-                "Draws": "8",
-                "Losses": "16",
-                "Goal Difference": "-23",
-                "Points": "20"
+                "Draws": "7",
+                "Losses": "17",
+                "Goal Difference": "-24",
+                "Points": "19"
             },
             {
                 "Position": "20",
@@ -214,7 +214,7 @@
                 "Wins": "21",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "44",
+                "Goal Difference": "45",
                 "Points": "64"
             },
             {
@@ -234,7 +234,7 @@
                 "Wins": "16",
                 "Draws": "3",
                 "Losses": "7",
-                "Goal Difference": "18",
+                "Goal Difference": "17",
                 "Points": "51"
             },
             {
@@ -614,12 +614,12 @@
             {
                 "Position": "3",
                 "Team": "Napoli",
-                "Played": "26",
-                "Wins": "15",
+                "Played": "27",
+                "Wins": "16",
                 "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "12",
-                "Points": "50"
+                "Goal Difference": "13",
+                "Points": "53"
             },
             {
                 "Position": "4",
@@ -784,11 +784,11 @@
             {
                 "Position": "20",
                 "Team": "Hellas Verona",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "2",
                 "Draws": "9",
-                "Losses": "15",
-                "Goal Difference": "-27",
+                "Losses": "16",
+                "Goal Difference": "-28",
                 "Points": "15"
             }
         ],
@@ -2247,11 +2247,11 @@
                 "Position": "1",
                 "Team": "Coventry City",
                 "Played": "35",
-                "Wins": "20",
-                "Draws": "9",
+                "Wins": "21",
+                "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "33",
-                "Points": "69"
+                "Goal Difference": "34",
+                "Points": "71"
             },
             {
                 "Position": "2",
@@ -2270,7 +2270,7 @@
                 "Wins": "18",
                 "Draws": "8",
                 "Losses": "9",
-                "Goal Difference": "6",
+                "Goal Difference": "7",
                 "Points": "62"
             },
             {
@@ -2360,21 +2360,11 @@
                 "Wins": "12",
                 "Draws": "13",
                 "Losses": "10",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "49"
             },
             {
                 "Position": "13",
-                "Team": "Stoke City",
-                "Played": "35",
-                "Wins": "13",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "6",
-                "Points": "48"
-            },
-            {
-                "Position": "14",
                 "Team": "Sheffield United",
                 "Played": "35",
                 "Wins": "15",
@@ -2382,6 +2372,16 @@
                 "Losses": "17",
                 "Goal Difference": "2",
                 "Points": "48"
+            },
+            {
+                "Position": "14",
+                "Team": "Stoke City",
+                "Played": "35",
+                "Wins": "13",
+                "Draws": "8",
+                "Losses": "14",
+                "Goal Difference": "5",
+                "Points": "47"
             },
             {
                 "Position": "15",
