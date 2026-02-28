@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 03:23 PM UTC",
-        "IST": "Saturday, 28 February 2026, 08:53 PM IST"
+        "UTC": "Saturday, 28 February 2026, 03:44 PM UTC",
+        "IST": "Saturday, 28 February 2026, 09:14 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -52,7 +52,7 @@
                 "Wins": "14",
                 "Draws": "6",
                 "Losses": "8",
-                "Goal Difference": "8",
+                "Goal Difference": "10",
                 "Points": "48"
             },
             {
@@ -72,7 +72,7 @@
                 "Wins": "13",
                 "Draws": "4",
                 "Losses": "11",
-                "Goal Difference": "4",
+                "Goal Difference": "6",
                 "Points": "43"
             },
             {
@@ -182,7 +182,7 @@
                 "Wins": "6",
                 "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-18",
+                "Goal Difference": "-20",
                 "Points": "25"
             },
             {
@@ -192,7 +192,7 @@
                 "Wins": "4",
                 "Draws": "7",
                 "Losses": "17",
-                "Goal Difference": "-24",
+                "Goal Difference": "-26",
                 "Points": "19"
             },
             {
@@ -2174,12 +2174,12 @@
             {
                 "Position": "12",
                 "Team": "Estrela Amadora",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "5",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "10",
                 "Goal Difference": "-15",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "13",
@@ -2234,12 +2234,12 @@
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "1",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "17",
                 "Goal Difference": "-39",
-                "Points": "8"
+                "Points": "9"
             }
         ],
         "EFL Championship": [
@@ -2265,16 +2265,26 @@
             },
             {
                 "Position": "3",
+                "Team": "Millwall",
+                "Played": "35",
+                "Wins": "18",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "6",
+                "Points": "62"
+            },
+            {
+                "Position": "4",
                 "Team": "Ipswich Town",
                 "Played": "33",
                 "Wins": "17",
                 "Draws": "9",
                 "Losses": "7",
-                "Goal Difference": "23",
+                "Goal Difference": "24",
                 "Points": "60"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Hull City",
                 "Played": "34",
                 "Wins": "18",
@@ -2284,24 +2294,14 @@
                 "Points": "60"
             },
             {
-                "Position": "5",
-                "Team": "Millwall",
-                "Played": "35",
-                "Wins": "17",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "5",
-                "Points": "60"
-            },
-            {
                 "Position": "6",
                 "Team": "Wrexham",
                 "Played": "35",
-                "Wins": "14",
-                "Draws": "13",
+                "Wins": "15",
+                "Draws": "12",
                 "Losses": "8",
-                "Goal Difference": "8",
-                "Points": "55"
+                "Goal Difference": "9",
+                "Points": "57"
             },
             {
                 "Position": "7",
@@ -2345,21 +2345,21 @@
             },
             {
                 "Position": "11",
-                "Team": "Preston North End",
-                "Played": "35",
-                "Wins": "12",
-                "Draws": "14",
-                "Losses": "9",
-                "Goal Difference": "3",
-                "Points": "50"
-            },
-            {
-                "Position": "12",
                 "Team": "Birmingham City",
                 "Played": "34",
                 "Wins": "13",
                 "Draws": "10",
                 "Losses": "11",
+                "Goal Difference": "2",
+                "Points": "49"
+            },
+            {
+                "Position": "12",
+                "Team": "Preston North End",
+                "Played": "35",
+                "Wins": "12",
+                "Draws": "13",
+                "Losses": "10",
                 "Goal Difference": "2",
                 "Points": "49"
             },
@@ -2370,7 +2370,7 @@
                 "Wins": "15",
                 "Draws": "3",
                 "Losses": "17",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "48"
             },
             {
@@ -2390,7 +2390,7 @@
                 "Wins": "13",
                 "Draws": "8",
                 "Losses": "14",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "47"
             },
             {
@@ -2400,7 +2400,7 @@
                 "Wins": "13",
                 "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "46"
             },
             {
@@ -2418,10 +2418,10 @@
                 "Team": "Charlton Athletic",
                 "Played": "35",
                 "Wins": "10",
-                "Draws": "12",
-                "Losses": "13",
-                "Goal Difference": "-10",
-                "Points": "42"
+                "Draws": "11",
+                "Losses": "14",
+                "Goal Difference": "-11",
+                "Points": "41"
             },
             {
                 "Position": "19",
@@ -2794,7 +2794,7 @@
                 "Wins": "3",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "6",
+                "Goal Difference": "8",
                 "Points": "9"
             },
             {
@@ -2909,22 +2909,22 @@
             },
             {
                 "Position": "13",
-                "Team": "Mohammedan",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-5",
-                "Points": "0"
-            },
-            {
-                "Position": "14",
                 "Team": "SC Delhi",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "3",
                 "Goal Difference": "-6",
+                "Points": "0"
+            },
+            {
+                "Position": "14",
+                "Team": "Mohammedan",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "-7",
                 "Points": "0"
             }
         ],
