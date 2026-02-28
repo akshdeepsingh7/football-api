@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 11:42 AM UTC",
-        "IST": "Saturday, 28 February 2026, 05:12 PM IST"
+        "UTC": "Saturday, 28 February 2026, 12:48 PM UTC",
+        "IST": "Saturday, 28 February 2026, 06:18 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -78,12 +78,12 @@
             {
                 "Position": "8",
                 "Team": "AFC Bournemouth",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "9",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "7",
                 "Goal Difference": "-2",
-                "Points": "38"
+                "Points": "39"
             },
             {
                 "Position": "9",
@@ -107,22 +107,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Sunderland",
+                "Played": "28",
+                "Wins": "9",
+                "Draws": "10",
+                "Losses": "9",
+                "Goal Difference": "-5",
+                "Points": "37"
+            },
+            {
+                "Position": "12",
                 "Team": "Newcastle United",
                 "Played": "27",
                 "Wins": "10",
                 "Draws": "6",
                 "Losses": "11",
                 "Goal Difference": "-1",
-                "Points": "36"
-            },
-            {
-                "Position": "12",
-                "Team": "Sunderland",
-                "Played": "27",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "-5",
                 "Points": "36"
             },
             {
@@ -2275,22 +2275,22 @@
             },
             {
                 "Position": "4",
+                "Team": "Hull City",
+                "Played": "34",
+                "Wins": "17",
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "7",
+                "Points": "58"
+            },
+            {
+                "Position": "5",
                 "Team": "Ipswich Town",
                 "Played": "32",
                 "Wins": "16",
                 "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "22",
-                "Points": "57"
-            },
-            {
-                "Position": "5",
-                "Team": "Hull City",
-                "Played": "33",
-                "Wins": "17",
-                "Draws": "6",
-                "Losses": "10",
-                "Goal Difference": "7",
                 "Points": "57"
             },
             {
@@ -2335,6 +2335,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Derby County",
+                "Played": "35",
+                "Wins": "13",
+                "Draws": "10",
+                "Losses": "12",
+                "Goal Difference": "4",
+                "Points": "49"
+            },
+            {
+                "Position": "11",
                 "Team": "Preston North End",
                 "Played": "34",
                 "Wins": "12",
@@ -2344,7 +2354,7 @@
                 "Points": "49"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Birmingham City",
                 "Played": "34",
                 "Wins": "13",
@@ -2352,16 +2362,6 @@
                 "Losses": "11",
                 "Goal Difference": "2",
                 "Points": "49"
-            },
-            {
-                "Position": "12",
-                "Team": "Derby County",
-                "Played": "34",
-                "Wins": "13",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "4",
-                "Points": "48"
             },
             {
                 "Position": "13",
@@ -2406,12 +2406,12 @@
             {
                 "Position": "17",
                 "Team": "Norwich City",
-                "Played": "34",
+                "Played": "35",
                 "Wins": "12",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "16",
                 "Goal Difference": "1",
-                "Points": "42"
+                "Points": "43"
             },
             {
                 "Position": "18",
@@ -2426,25 +2426,35 @@
             {
                 "Position": "19",
                 "Team": "Portsmouth",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "10",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "14",
                 "Goal Difference": "-9",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "20",
                 "Team": "Blackburn Rovers",
-                "Played": "34",
+                "Played": "35",
                 "Wins": "10",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "16",
                 "Goal Difference": "-11",
-                "Points": "38"
+                "Points": "39"
             },
             {
                 "Position": "21",
+                "Team": "Leicester City",
+                "Played": "35",
+                "Wins": "10",
+                "Draws": "11",
+                "Losses": "14",
+                "Goal Difference": "-7",
+                "Points": "35"
+            },
+            {
+                "Position": "22",
                 "Team": "West Bromwich Albion",
                 "Played": "34",
                 "Wins": "9",
@@ -2452,16 +2462,6 @@
                 "Losses": "17",
                 "Goal Difference": "-17",
                 "Points": "35"
-            },
-            {
-                "Position": "22",
-                "Team": "Leicester City",
-                "Played": "34",
-                "Wins": "10",
-                "Draws": "10",
-                "Losses": "14",
-                "Goal Difference": "-7",
-                "Points": "34"
             },
             {
                 "Position": "23",
@@ -2839,6 +2839,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Inter Kashi",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "1",
+                "Points": "5"
+            },
+            {
+                "Position": "7",
                 "Team": "Bengaluru",
                 "Played": "3",
                 "Wins": "1",
@@ -2848,23 +2858,13 @@
                 "Points": "4"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Punjab FC",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "1",
-                "Points": "3"
-            },
-            {
-                "Position": "8",
-                "Team": "Inter Kashi",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "3",
-                "Losses": "0",
-                "Goal Difference": "0",
                 "Points": "3"
             },
             {
@@ -2889,16 +2889,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Kerala Blasters",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "1"
-            },
-            {
-                "Position": "12",
                 "Team": "Chennaiyin",
                 "Played": "2",
                 "Wins": "0",
@@ -2908,13 +2898,23 @@
                 "Points": "0"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Mohammedan",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "-3",
+                "Points": "0"
+            },
+            {
+                "Position": "13",
+                "Team": "Kerala Blasters",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "-4",
                 "Points": "0"
             },
             {
