@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 12:48 PM UTC",
-        "IST": "Saturday, 28 February 2026, 06:18 PM IST"
+        "UTC": "Saturday, 28 February 2026, 01:37 PM UTC",
+        "IST": "Saturday, 28 February 2026, 07:07 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -77,16 +77,26 @@
             },
             {
                 "Position": "8",
-                "Team": "AFC Bournemouth",
+                "Team": "Sunderland",
                 "Played": "28",
-                "Wins": "9",
-                "Draws": "12",
-                "Losses": "7",
-                "Goal Difference": "-2",
+                "Wins": "10",
+                "Draws": "9",
+                "Losses": "9",
+                "Goal Difference": "-4",
                 "Points": "39"
             },
             {
                 "Position": "9",
+                "Team": "AFC Bournemouth",
+                "Played": "28",
+                "Wins": "9",
+                "Draws": "11",
+                "Losses": "8",
+                "Goal Difference": "-3",
+                "Points": "38"
+            },
+            {
+                "Position": "10",
                 "Team": "Everton",
                 "Played": "27",
                 "Wins": "10",
@@ -96,23 +106,13 @@
                 "Points": "37"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Fulham",
                 "Played": "27",
                 "Wins": "11",
                 "Draws": "4",
                 "Losses": "12",
                 "Goal Difference": "-3",
-                "Points": "37"
-            },
-            {
-                "Position": "11",
-                "Team": "Sunderland",
-                "Played": "28",
-                "Wins": "9",
-                "Draws": "10",
-                "Losses": "9",
-                "Goal Difference": "-5",
                 "Points": "37"
             },
             {
@@ -280,12 +280,12 @@
             {
                 "Position": "8",
                 "Team": "Athletic Bilbao",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "10",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "11",
                 "Goal Difference": "-6",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "9",
@@ -339,6 +339,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Rayo Vallecano",
+                "Played": "25",
+                "Wins": "6",
+                "Draws": "9",
+                "Losses": "10",
+                "Goal Difference": "-9",
+                "Points": "27"
+            },
+            {
+                "Position": "15",
                 "Team": "Alav\u00e9s",
                 "Played": "26",
                 "Wins": "7",
@@ -346,16 +356,6 @@
                 "Losses": "13",
                 "Goal Difference": "-11",
                 "Points": "27"
-            },
-            {
-                "Position": "15",
-                "Team": "Rayo Vallecano",
-                "Played": "24",
-                "Wins": "6",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-9",
-                "Points": "26"
             },
             {
                 "Position": "16",
@@ -2335,16 +2335,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Derby County",
-                "Played": "35",
-                "Wins": "13",
-                "Draws": "10",
-                "Losses": "12",
-                "Goal Difference": "4",
-                "Points": "49"
-            },
-            {
-                "Position": "11",
                 "Team": "Preston North End",
                 "Played": "34",
                 "Wins": "12",
@@ -2354,7 +2344,7 @@
                 "Points": "49"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Birmingham City",
                 "Played": "34",
                 "Wins": "13",
@@ -2362,6 +2352,16 @@
                 "Losses": "11",
                 "Goal Difference": "2",
                 "Points": "49"
+            },
+            {
+                "Position": "12",
+                "Team": "Derby County",
+                "Played": "35",
+                "Wins": "13",
+                "Draws": "9",
+                "Losses": "13",
+                "Goal Difference": "3",
+                "Points": "48"
             },
             {
                 "Position": "13",
@@ -2425,6 +2425,16 @@
             },
             {
                 "Position": "19",
+                "Team": "Blackburn Rovers",
+                "Played": "35",
+                "Wins": "11",
+                "Draws": "8",
+                "Losses": "16",
+                "Goal Difference": "-10",
+                "Points": "41"
+            },
+            {
+                "Position": "20",
                 "Team": "Portsmouth",
                 "Played": "34",
                 "Wins": "10",
@@ -2432,16 +2442,6 @@
                 "Losses": "14",
                 "Goal Difference": "-9",
                 "Points": "40"
-            },
-            {
-                "Position": "20",
-                "Team": "Blackburn Rovers",
-                "Played": "35",
-                "Wins": "10",
-                "Draws": "9",
-                "Losses": "16",
-                "Goal Difference": "-11",
-                "Points": "39"
             },
             {
                 "Position": "21",
