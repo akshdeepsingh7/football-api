@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 08:27 PM UTC",
-        "IST": "Sunday, 01 March 2026, 01:57 AM IST"
+        "UTC": "Saturday, 28 February 2026, 08:49 PM UTC",
+        "IST": "Sunday, 01 March 2026, 02:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -797,11 +797,11 @@
                 "Position": "1",
                 "Team": "PSG",
                 "Played": "24",
-                "Wins": "17",
-                "Draws": "4",
+                "Wins": "18",
+                "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "33",
-                "Points": "55"
+                "Goal Difference": "34",
+                "Points": "57"
             },
             {
                 "Position": "2",
@@ -918,10 +918,10 @@
                 "Team": "Le Havre",
                 "Played": "24",
                 "Wins": "6",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "-9",
-                "Points": "27"
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-10",
+                "Points": "26"
             },
             {
                 "Position": "14",
@@ -2144,31 +2144,31 @@
             {
                 "Position": "9",
                 "Team": "Vit\u00f3ria S.C.",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "9",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "10",
                 "Goal Difference": "-7",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "10",
+                "Team": "Alverca",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "-15",
+                "Points": "27"
+            },
+            {
+                "Position": "11",
                 "Team": "Arouca",
                 "Played": "24",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "12",
                 "Goal Difference": "-20",
-                "Points": "26"
-            },
-            {
-                "Position": "11",
-                "Team": "Alverca",
-                "Played": "23",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-15",
                 "Points": "26"
             },
             {

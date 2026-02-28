@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 28 February 2026, 08:27 PM UTC (Sunday, 01 March 2026, 01:57 AM IST)
+**Last Updated:** Saturday, 28 February 2026, 08:49 PM UTC (Sunday, 01 March 2026, 02:19 AM IST)
 
 ### Premier League
 
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 24 | 17 | 4 | 3 | 33 | 55 |
+| 1 | PSG | 24 | 18 | 3 | 3 | 34 | 57 |
 | 2 | Lens | 24 | 17 | 2 | 5 | 24 | 53 |
 | 3 | Lyon | 23 | 14 | 3 | 6 | 14 | 45 |
 | 4 | Marseille | 23 | 12 | 4 | 7 | 17 | 40 |
@@ -157,7 +157,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Toulouse | 24 | 8 | 7 | 9 | 5 | 31 |
 | 11 | Brest | 23 | 8 | 6 | 9 | -3 | 30 |
 | 12 | Angers | 24 | 8 | 5 | 11 | -8 | 29 |
-| 13 | Le Havre | 24 | 6 | 9 | 9 | -9 | 27 |
+| 13 | Le Havre | 24 | 6 | 8 | 10 | -10 | 26 |
 | 14 | Nice | 23 | 6 | 6 | 11 | -13 | 24 |
 | 15 | Paris FC | 23 | 5 | 8 | 10 | -13 | 23 |
 | 16 | Auxerre | 23 | 4 | 5 | 14 | -16 | 17 |
@@ -299,9 +299,9 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Famalicão | 23 | 10 | 5 | 8 | 8 | 35 |
 | 7 | Estoril | 24 | 9 | 6 | 9 | 4 | 33 |
 | 8 | Moreirense | 23 | 10 | 3 | 10 | -4 | 33 |
-| 9 | Vitória S.C. | 23 | 9 | 4 | 10 | -7 | 31 |
-| 10 | Arouca | 24 | 7 | 5 | 12 | -20 | 26 |
-| 11 | Alverca | 23 | 7 | 5 | 11 | -15 | 26 |
+| 9 | Vitória S.C. | 24 | 9 | 5 | 10 | -7 | 32 |
+| 10 | Alverca | 24 | 7 | 6 | 11 | -15 | 27 |
+| 11 | Arouca | 24 | 7 | 5 | 12 | -20 | 26 |
 | 12 | Estrela Amadora | 24 | 5 | 9 | 10 | -15 | 24 |
 | 13 | Casa Pia | 23 | 5 | 7 | 11 | -18 | 22 |
 | 14 | Nacional | 24 | 5 | 6 | 13 | -8 | 21 |
