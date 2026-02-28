@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 28 February 2026, 02:23 PM UTC (Saturday, 28 February 2026, 07:53 PM IST)
+**Last Updated:** Saturday, 28 February 2026, 02:47 PM UTC (Saturday, 28 February 2026, 08:17 PM IST)
 
 ### Premier League
 
@@ -99,22 +99,22 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 23 | 19 | 3 | 1 | 64 | 60 |
 | 2 | Borussia Dortmund | 23 | 15 | 7 | 1 | 27 | 52 |
-| 3 | Hoffenheim | 23 | 14 | 4 | 5 | 19 | 46 |
+| 3 | Hoffenheim | 24 | 14 | 5 | 5 | 19 | 47 |
 | 4 | VfB Stuttgart | 23 | 13 | 4 | 6 | 12 | 43 |
 | 5 | RB Leipzig | 23 | 12 | 5 | 6 | 12 | 41 |
-| 6 | Bayer Leverkusen | 22 | 12 | 3 | 7 | 15 | 39 |
+| 6 | Bayer Leverkusen | 23 | 12 | 4 | 7 | 15 | 40 |
 | 7 | SC Freiburg | 23 | 9 | 6 | 8 | -3 | 33 |
 | 8 | Eintracht Frankfurt | 23 | 8 | 7 | 8 | -3 | 31 |
 | 9 | Augsburg | 24 | 9 | 4 | 11 | -11 | 31 |
-| 10 | Union Berlin | 23 | 7 | 7 | 9 | -8 | 28 |
+| 10 | Union Berlin | 24 | 7 | 8 | 9 | -8 | 29 |
 | 11 | Hamburg | 22 | 6 | 8 | 8 | -7 | 26 |
 | 12 | Köln | 24 | 6 | 6 | 12 | -8 | 24 |
-| 13 | Mainz 05 | 23 | 5 | 7 | 11 | -12 | 22 |
-| 14 | Borussia Mönchengladbach | 23 | 5 | 7 | 11 | -13 | 22 |
-| 15 | VfL Wolfsburg | 23 | 5 | 5 | 13 | -16 | 20 |
-| 16 | St. Pauli | 23 | 5 | 5 | 13 | -18 | 20 |
-| 17 | Werder Bremen | 23 | 4 | 7 | 12 | -21 | 19 |
-| 18 | Heidenheim | 23 | 3 | 5 | 15 | -29 | 14 |
+| 13 | Mainz 05 | 24 | 5 | 8 | 11 | -12 | 23 |
+| 14 | Borussia Mönchengladbach | 24 | 5 | 8 | 11 | -13 | 23 |
+| 15 | St. Pauli | 24 | 5 | 6 | 13 | -18 | 21 |
+| 16 | VfL Wolfsburg | 23 | 5 | 5 | 13 | -16 | 20 |
+| 17 | Werder Bremen | 24 | 4 | 8 | 12 | -21 | 20 |
+| 18 | Heidenheim | 24 | 3 | 6 | 15 | -29 | 15 |
 
 ### Serie A
 
@@ -124,8 +124,8 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Milan | 26 | 15 | 9 | 2 | 21 | 54 |
 | 3 | Napoli | 26 | 15 | 5 | 6 | 12 | 50 |
 | 4 | Roma | 26 | 16 | 2 | 8 | 18 | 50 |
-| 5 | Juventus | 26 | 13 | 7 | 6 | 18 | 46 |
-| 6 | Como | 27 | 12 | 10 | 5 | 22 | 46 |
+| 5 | Como | 27 | 13 | 9 | 5 | 24 | 48 |
+| 6 | Juventus | 26 | 13 | 7 | 6 | 18 | 46 |
 | 7 | Atalanta | 26 | 12 | 9 | 5 | 14 | 45 |
 | 8 | Bologna | 26 | 10 | 6 | 10 | 3 | 36 |
 | 9 | Sassuolo | 26 | 10 | 5 | 11 | -3 | 35 |
@@ -135,9 +135,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Cagliari | 27 | 7 | 9 | 11 | -7 | 30 |
 | 14 | Genoa | 26 | 6 | 9 | 11 | -5 | 27 |
 | 15 | Torino | 26 | 7 | 6 | 13 | -22 | 27 |
-| 16 | Lecce | 27 | 6 | 7 | 14 | -16 | 25 |
-| 17 | Fiorentina | 26 | 5 | 9 | 12 | -9 | 24 |
-| 18 | Cremonese | 26 | 5 | 9 | 12 | -15 | 24 |
+| 16 | Fiorentina | 26 | 5 | 9 | 12 | -9 | 24 |
+| 17 | Cremonese | 26 | 5 | 9 | 12 | -15 | 24 |
+| 18 | Lecce | 27 | 6 | 6 | 15 | -18 | 24 |
 | 19 | Pisa | 26 | 1 | 12 | 13 | -23 | 15 |
 | 20 | Hellas Verona | 26 | 2 | 9 | 15 | -27 | 15 |
 
@@ -378,19 +378,19 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Jamshedpur | 3 | 3 | 0 | 0 | 3 | 9 |
-| 2 | FC Goa | 3 | 2 | 1 | 0 | 3 | 7 |
-| 3 | East Bengal | 3 | 2 | 0 | 1 | 5 | 6 |
-| 4 | Mohun Bagan SG | 3 | 2 | 0 | 1 | 3 | 6 |
+| 1 | Mohun Bagan SG | 3 | 3 | 0 | 0 | 6 | 9 |
+| 2 | Jamshedpur | 3 | 3 | 0 | 0 | 3 | 9 |
+| 3 | FC Goa | 3 | 2 | 1 | 0 | 3 | 7 |
+| 4 | East Bengal | 3 | 2 | 0 | 1 | 5 | 6 |
 | 5 | Mumbai City | 2 | 2 | 0 | 0 | 2 | 6 |
 | 6 | Inter Kashi | 3 | 1 | 2 | 0 | 1 | 5 |
 | 7 | Bengaluru | 3 | 1 | 1 | 1 | 0 | 4 |
 | 8 | Punjab FC | 2 | 1 | 0 | 1 | 1 | 3 |
-| 9 | Mohammedan | 3 | 1 | 0 | 2 | -2 | 3 |
-| 10 | Odisha | 1 | 0 | 1 | 0 | 0 | 1 |
-| 11 | NorthEast Utd | 2 | 0 | 1 | 1 | -3 | 1 |
-| 12 | Chennaiyin | 2 | 0 | 0 | 2 | -3 | 0 |
-| 13 | Kerala Blasters | 3 | 0 | 0 | 3 | -4 | 0 |
+| 9 | Odisha | 1 | 0 | 1 | 0 | 0 | 1 |
+| 10 | NorthEast Utd | 2 | 0 | 1 | 1 | -3 | 1 |
+| 11 | Chennaiyin | 2 | 0 | 0 | 2 | -3 | 0 |
+| 12 | Kerala Blasters | 3 | 0 | 0 | 3 | -4 | 0 |
+| 13 | Mohammedan | 3 | 0 | 0 | 3 | -5 | 0 |
 | 14 | SC Delhi | 3 | 0 | 0 | 3 | -6 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
