@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 10:47 PM UTC",
-        "IST": "Sunday, 01 March 2026, 04:17 AM IST"
+        "UTC": "Saturday, 28 February 2026, 11:23 PM UTC",
+        "IST": "Sunday, 01 March 2026, 04:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2497,16 +2497,6 @@
             },
             {
                 "Position": "2",
-                "Team": "Cincinnati",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "4"
-            },
-            {
-                "Position": "3",
                 "Team": "Nashville",
                 "Played": "1",
                 "Wins": "1",
@@ -2516,13 +2506,23 @@
                 "Points": "3"
             },
             {
-                "Position": "4",
+                "Position": "3",
                 "Team": "Chicago Fire",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "2",
+                "Points": "3"
+            },
+            {
+                "Position": "4",
+                "Team": "Cincinnati",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "1",
                 "Points": "3"
             },
             {
@@ -2637,6 +2637,16 @@
             },
             {
                 "Position": "1",
+                "Team": "Minnesota United",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "1",
+                "Points": "4"
+            },
+            {
+                "Position": "2",
                 "Team": "San Diego",
                 "Played": "1",
                 "Wins": "1",
@@ -2646,7 +2656,7 @@
                 "Points": "3"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "LAFC",
                 "Played": "1",
                 "Wins": "1",
@@ -2656,7 +2666,7 @@
                 "Points": "3"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "San Jose Earthquakes",
                 "Played": "1",
                 "Wins": "1",
@@ -2666,7 +2676,7 @@
                 "Points": "3"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Seattle Sounders",
                 "Played": "1",
                 "Wins": "1",
@@ -2676,7 +2686,7 @@
                 "Points": "3"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Dallas",
                 "Played": "1",
                 "Wins": "1",
@@ -2686,7 +2696,7 @@
                 "Points": "3"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Houston Dynamo",
                 "Played": "1",
                 "Wins": "1",
@@ -2696,7 +2706,7 @@
                 "Points": "3"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Vancouver Whitecaps",
                 "Played": "1",
                 "Wins": "1",
@@ -2706,34 +2716,24 @@
                 "Points": "3"
             },
             {
-                "Position": "8",
-                "Team": "Portland Timbers",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "3"
-            },
-            {
                 "Position": "9",
                 "Team": "Colorado Rapids",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "1",
-                "Goal Difference": "-1",
+                "Goal Difference": "0",
                 "Points": "3"
             },
             {
                 "Position": "10",
-                "Team": "Minnesota United",
+                "Team": "Portland Timbers",
                 "Played": "2",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "2"
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "3"
             },
             {
                 "Position": "11",

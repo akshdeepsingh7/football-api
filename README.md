@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 28 February 2026, 10:47 PM UTC (Sunday, 01 March 2026, 04:17 AM IST)
+**Last Updated:** Saturday, 28 February 2026, 11:23 PM UTC (Sunday, 01 March 2026, 04:53 AM IST)
 
 ### Premier League
 
@@ -344,9 +344,9 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | New York RB | 2 | 2 | 0 | 0 | 2 | 6 |
-| 2 | Cincinnati | 2 | 1 | 1 | 0 | 2 | 4 |
-| 3 | Nashville | 1 | 1 | 0 | 0 | 3 | 3 |
-| 4 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
+| 2 | Nashville | 1 | 1 | 0 | 0 | 3 | 3 |
+| 3 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
+| 4 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
 | 5 | DC United | 1 | 1 | 0 | 0 | 1 | 3 |
 | 6 | Charlotte | 1 | 0 | 1 | 0 | 0 | 1 |
 | 7 | NYCFC | 1 | 0 | 1 | 0 | 0 | 1 |
@@ -358,16 +358,16 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Inter Miami | 1 | 0 | 0 | 1 | -3 | 0 |
 | 14 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
 | 15 | CF Montréal | 2 | 0 | 0 | 2 | -8 | 0 |
-| 1 | San Diego | 1 | 1 | 0 | 0 | 5 | 3 |
-| 2 | LAFC | 1 | 1 | 0 | 0 | 3 | 3 |
-| 3 | San Jose Earthquakes | 1 | 1 | 0 | 0 | 3 | 3 |
-| 4 | Seattle Sounders | 1 | 1 | 0 | 0 | 2 | 3 |
-| 5 | Dallas | 1 | 1 | 0 | 0 | 1 | 3 |
-| 6 | Houston Dynamo | 1 | 1 | 0 | 0 | 1 | 3 |
-| 7 | Vancouver Whitecaps | 1 | 1 | 0 | 0 | 1 | 3 |
-| 8 | Portland Timbers | 2 | 1 | 0 | 1 | 0 | 3 |
-| 9 | Colorado Rapids | 2 | 1 | 0 | 1 | -1 | 3 |
-| 10 | Minnesota United | 2 | 0 | 2 | 0 | 0 | 2 |
+| 1 | Minnesota United | 2 | 1 | 1 | 0 | 1 | 4 |
+| 2 | San Diego | 1 | 1 | 0 | 0 | 5 | 3 |
+| 3 | LAFC | 1 | 1 | 0 | 0 | 3 | 3 |
+| 4 | San Jose Earthquakes | 1 | 1 | 0 | 0 | 3 | 3 |
+| 5 | Seattle Sounders | 1 | 1 | 0 | 0 | 2 | 3 |
+| 6 | Dallas | 1 | 1 | 0 | 0 | 1 | 3 |
+| 7 | Houston Dynamo | 1 | 1 | 0 | 0 | 1 | 3 |
+| 8 | Vancouver Whitecaps | 1 | 1 | 0 | 0 | 1 | 3 |
+| 9 | Colorado Rapids | 2 | 1 | 0 | 1 | 0 | 3 |
+| 10 | Portland Timbers | 2 | 1 | 0 | 1 | -1 | 3 |
 | 11 | Austin | 1 | 0 | 1 | 0 | 0 | 1 |
 | 12 | St. Louis City | 1 | 0 | 1 | 0 | 0 | 1 |
 | 13 | LA Galaxy | 1 | 0 | 1 | 0 | 0 | 1 |
