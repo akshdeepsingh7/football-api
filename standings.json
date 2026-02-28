@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 04:28 PM UTC",
-        "IST": "Saturday, 28 February 2026, 09:58 PM IST"
+        "UTC": "Saturday, 28 February 2026, 04:50 PM UTC",
+        "IST": "Saturday, 28 February 2026, 10:20 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -52,7 +52,7 @@
                 "Wins": "14",
                 "Draws": "6",
                 "Losses": "8",
-                "Goal Difference": "9",
+                "Goal Difference": "10",
                 "Points": "48"
             },
             {
@@ -182,7 +182,7 @@
                 "Wins": "6",
                 "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-19",
+                "Goal Difference": "-20",
                 "Points": "25"
             },
             {
@@ -214,7 +214,7 @@
                 "Wins": "21",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "43",
+                "Goal Difference": "44",
                 "Points": "64"
             },
             {
@@ -234,7 +234,7 @@
                 "Wins": "16",
                 "Draws": "3",
                 "Losses": "7",
-                "Goal Difference": "19",
+                "Goal Difference": "18",
                 "Points": "51"
             },
             {
@@ -566,7 +566,7 @@
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "12",
-                "Goal Difference": "-20",
+                "Goal Difference": "-19",
                 "Points": "22"
             },
             {
@@ -586,7 +586,7 @@
                 "Wins": "3",
                 "Draws": "5",
                 "Losses": "16",
-                "Goal Difference": "-30",
+                "Goal Difference": "-31",
                 "Points": "14"
             }
         ],
@@ -837,11 +837,11 @@
                 "Position": "5",
                 "Team": "Rennes",
                 "Played": "24",
-                "Wins": "10",
-                "Draws": "8",
+                "Wins": "11",
+                "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "2",
-                "Points": "38"
+                "Goal Difference": "3",
+                "Points": "40"
             },
             {
                 "Position": "6",
@@ -875,16 +875,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Toulouse",
-                "Played": "24",
-                "Wins": "8",
-                "Draws": "8",
-                "Losses": "8",
-                "Goal Difference": "6",
-                "Points": "32"
-            },
-            {
-                "Position": "10",
                 "Team": "Lorient",
                 "Played": "23",
                 "Wins": "8",
@@ -892,6 +882,16 @@
                 "Losses": "7",
                 "Goal Difference": "-4",
                 "Points": "32"
+            },
+            {
+                "Position": "10",
+                "Team": "Toulouse",
+                "Played": "24",
+                "Wins": "8",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "5",
+                "Points": "31"
             },
             {
                 "Position": "11",
@@ -2280,7 +2280,7 @@
                 "Wins": "17",
                 "Draws": "9",
                 "Losses": "7",
-                "Goal Difference": "24",
+                "Goal Difference": "25",
                 "Points": "60"
             },
             {
@@ -2310,7 +2310,7 @@
                 "Wins": "14",
                 "Draws": "11",
                 "Losses": "10",
-                "Goal Difference": "10",
+                "Goal Difference": "11",
                 "Points": "53"
             },
             {
@@ -2400,7 +2400,7 @@
                 "Wins": "13",
                 "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "46"
             },
             {
@@ -2480,7 +2480,7 @@
                 "Wins": "1",
                 "Draws": "8",
                 "Losses": "26",
-                "Goal Difference": "-49",
+                "Goal Difference": "-50",
                 "Points": "-7"
             }
         ],
