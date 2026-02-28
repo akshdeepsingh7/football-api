@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 28 February 2026, 01:37 PM UTC (Saturday, 28 February 2026, 07:07 PM IST)
+**Last Updated:** Saturday, 28 February 2026, 02:23 PM UTC (Saturday, 28 February 2026, 07:53 PM IST)
 
 ### Premier League
 
@@ -54,10 +54,10 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Chelsea | 27 | 12 | 9 | 6 | 17 | 45 |
 | 6 | Liverpool FC | 27 | 13 | 6 | 8 | 7 | 45 |
 | 7 | Brentford | 27 | 12 | 4 | 11 | 3 | 40 |
-| 8 | Sunderland | 28 | 10 | 9 | 9 | -4 | 39 |
-| 9 | AFC Bournemouth | 28 | 9 | 11 | 8 | -3 | 38 |
-| 10 | Everton | 27 | 10 | 7 | 10 | -2 | 37 |
-| 11 | Fulham | 27 | 11 | 4 | 12 | -3 | 37 |
+| 8 | AFC Bournemouth | 28 | 9 | 12 | 7 | -2 | 39 |
+| 9 | Everton | 27 | 10 | 7 | 10 | -2 | 37 |
+| 10 | Fulham | 27 | 11 | 4 | 12 | -3 | 37 |
+| 11 | Sunderland | 28 | 9 | 10 | 9 | -5 | 37 |
 | 12 | Newcastle United | 27 | 10 | 6 | 11 | -1 | 36 |
 | 13 | Crystal Palace | 27 | 9 | 8 | 10 | -3 | 35 |
 | 14 | Brighton & Hove Albion | 27 | 8 | 10 | 9 | 2 | 34 |
@@ -125,7 +125,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Napoli | 26 | 15 | 5 | 6 | 12 | 50 |
 | 4 | Roma | 26 | 16 | 2 | 8 | 18 | 50 |
 | 5 | Juventus | 26 | 13 | 7 | 6 | 18 | 46 |
-| 6 | Como | 26 | 12 | 9 | 5 | 22 | 45 |
+| 6 | Como | 27 | 12 | 10 | 5 | 22 | 46 |
 | 7 | Atalanta | 26 | 12 | 9 | 5 | 14 | 45 |
 | 8 | Bologna | 26 | 10 | 6 | 10 | 3 | 36 |
 | 9 | Sassuolo | 26 | 10 | 5 | 11 | -3 | 35 |
@@ -135,9 +135,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Cagliari | 27 | 7 | 9 | 11 | -7 | 30 |
 | 14 | Genoa | 26 | 6 | 9 | 11 | -5 | 27 |
 | 15 | Torino | 26 | 7 | 6 | 13 | -22 | 27 |
-| 16 | Fiorentina | 26 | 5 | 9 | 12 | -9 | 24 |
-| 17 | Cremonese | 26 | 5 | 9 | 12 | -15 | 24 |
-| 18 | Lecce | 26 | 6 | 6 | 14 | -16 | 24 |
+| 16 | Lecce | 27 | 6 | 7 | 14 | -16 | 25 |
+| 17 | Fiorentina | 26 | 5 | 9 | 12 | -9 | 24 |
+| 18 | Cremonese | 26 | 5 | 9 | 12 | -15 | 24 |
 | 19 | Pisa | 26 | 1 | 12 | 13 | -23 | 15 |
 | 20 | Hellas Verona | 26 | 2 | 9 | 15 | -27 | 15 |
 
@@ -316,26 +316,26 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 34 | 20 | 8 | 6 | 33 | 68 |
 | 2 | Middlesbrough | 34 | 18 | 9 | 7 | 17 | 63 |
-| 3 | Millwall | 34 | 17 | 8 | 9 | 5 | 59 |
-| 4 | Hull City | 34 | 17 | 7 | 10 | 7 | 58 |
+| 3 | Hull City | 34 | 18 | 6 | 10 | 8 | 60 |
+| 4 | Millwall | 34 | 17 | 8 | 9 | 5 | 59 |
 | 5 | Ipswich Town | 32 | 16 | 9 | 7 | 22 | 57 |
 | 6 | Wrexham | 34 | 14 | 12 | 8 | 8 | 54 |
-| 7 | Watford | 35 | 13 | 12 | 10 | 4 | 51 |
-| 8 | Southampton | 34 | 13 | 11 | 10 | 9 | 50 |
-| 9 | Bristol City | 35 | 14 | 8 | 13 | 4 | 50 |
-| 10 | Preston North End | 34 | 12 | 13 | 9 | 3 | 49 |
-| 11 | Birmingham City | 34 | 13 | 10 | 11 | 2 | 49 |
-| 12 | Derby County | 35 | 13 | 9 | 13 | 3 | 48 |
+| 7 | Derby County | 35 | 14 | 9 | 12 | 6 | 51 |
+| 8 | Watford | 35 | 13 | 12 | 10 | 4 | 51 |
+| 9 | Southampton | 34 | 13 | 11 | 10 | 9 | 50 |
+| 10 | Bristol City | 35 | 14 | 8 | 13 | 4 | 50 |
+| 11 | Preston North End | 34 | 12 | 13 | 9 | 3 | 49 |
+| 12 | Birmingham City | 34 | 13 | 10 | 11 | 2 | 49 |
 | 13 | Stoke City | 34 | 13 | 8 | 13 | 6 | 47 |
 | 14 | Queens Park Rangers | 34 | 13 | 8 | 13 | -6 | 47 |
 | 15 | Swansea City | 34 | 13 | 7 | 14 | 0 | 46 |
-| 16 | Sheffield United | 34 | 14 | 3 | 17 | 0 | 45 |
-| 17 | Norwich City | 35 | 12 | 7 | 16 | 1 | 43 |
+| 16 | Norwich City | 35 | 13 | 6 | 16 | 3 | 45 |
+| 17 | Sheffield United | 34 | 14 | 3 | 17 | 0 | 45 |
 | 18 | Charlton Athletic | 34 | 10 | 11 | 13 | -10 | 41 |
-| 19 | Blackburn Rovers | 35 | 11 | 8 | 16 | -10 | 41 |
-| 20 | Portsmouth | 34 | 10 | 10 | 14 | -9 | 40 |
-| 21 | Leicester City | 35 | 10 | 11 | 14 | -7 | 35 |
-| 22 | West Bromwich Albion | 34 | 9 | 8 | 17 | -17 | 35 |
+| 19 | Portsmouth | 34 | 10 | 9 | 15 | -10 | 39 |
+| 20 | Blackburn Rovers | 35 | 10 | 8 | 17 | -13 | 38 |
+| 21 | West Bromwich Albion | 34 | 9 | 8 | 17 | -17 | 35 |
+| 22 | Leicester City | 35 | 10 | 10 | 15 | -9 | 34 |
 | 23 | Oxford United | 34 | 6 | 11 | 17 | -17 | 29 |
 | 24 | Sheffield Wednesday | 34 | 1 | 8 | 25 | -48 | -7 |
 
@@ -381,15 +381,15 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Jamshedpur | 3 | 3 | 0 | 0 | 3 | 9 |
 | 2 | FC Goa | 3 | 2 | 1 | 0 | 3 | 7 |
 | 3 | East Bengal | 3 | 2 | 0 | 1 | 5 | 6 |
-| 4 | Mohun Bagan SG | 2 | 2 | 0 | 0 | 4 | 6 |
+| 4 | Mohun Bagan SG | 3 | 2 | 0 | 1 | 3 | 6 |
 | 5 | Mumbai City | 2 | 2 | 0 | 0 | 2 | 6 |
 | 6 | Inter Kashi | 3 | 1 | 2 | 0 | 1 | 5 |
 | 7 | Bengaluru | 3 | 1 | 1 | 1 | 0 | 4 |
 | 8 | Punjab FC | 2 | 1 | 0 | 1 | 1 | 3 |
-| 9 | Odisha | 1 | 0 | 1 | 0 | 0 | 1 |
-| 10 | NorthEast Utd | 2 | 0 | 1 | 1 | -3 | 1 |
-| 11 | Chennaiyin | 2 | 0 | 0 | 2 | -3 | 0 |
-| 12 | Mohammedan | 2 | 0 | 0 | 2 | -3 | 0 |
+| 9 | Mohammedan | 3 | 1 | 0 | 2 | -2 | 3 |
+| 10 | Odisha | 1 | 0 | 1 | 0 | 0 | 1 |
+| 11 | NorthEast Utd | 2 | 0 | 1 | 1 | -3 | 1 |
+| 12 | Chennaiyin | 2 | 0 | 0 | 2 | -3 | 0 |
 | 13 | Kerala Blasters | 3 | 0 | 0 | 3 | -4 | 0 |
 | 14 | SC Delhi | 3 | 0 | 0 | 3 | -6 | 0 |
 
