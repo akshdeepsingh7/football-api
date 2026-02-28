@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 06:34 PM UTC",
-        "IST": "Sunday, 01 March 2026, 12:04 AM IST"
+        "UTC": "Saturday, 28 February 2026, 07:21 PM UTC",
+        "IST": "Sunday, 01 March 2026, 12:51 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -414,20 +414,20 @@
                 "Team": "Bayern Munich",
                 "Played": "24",
                 "Wins": "19",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "63",
-                "Points": "60"
+                "Draws": "4",
+                "Losses": "1",
+                "Goal Difference": "64",
+                "Points": "61"
             },
             {
                 "Position": "2",
                 "Team": "Borussia Dortmund",
                 "Played": "24",
-                "Wins": "16",
-                "Draws": "7",
+                "Wins": "15",
+                "Draws": "8",
                 "Losses": "1",
-                "Goal Difference": "28",
-                "Points": "55"
+                "Goal Difference": "27",
+                "Points": "53"
             },
             {
                 "Position": "3",
@@ -615,11 +615,11 @@
                 "Position": "3",
                 "Team": "Napoli",
                 "Played": "27",
-                "Wins": "15",
-                "Draws": "6",
+                "Wins": "16",
+                "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "12",
-                "Points": "51"
+                "Goal Difference": "13",
+                "Points": "53"
             },
             {
                 "Position": "4",
@@ -773,22 +773,22 @@
             },
             {
                 "Position": "19",
-                "Team": "Hellas Verona",
-                "Played": "27",
-                "Wins": "2",
-                "Draws": "10",
-                "Losses": "15",
-                "Goal Difference": "-27",
-                "Points": "16"
-            },
-            {
-                "Position": "20",
                 "Team": "Pisa",
                 "Played": "26",
                 "Wins": "1",
                 "Draws": "12",
                 "Losses": "13",
                 "Goal Difference": "-23",
+                "Points": "15"
+            },
+            {
+                "Position": "20",
+                "Team": "Hellas Verona",
+                "Played": "27",
+                "Wins": "2",
+                "Draws": "9",
+                "Losses": "16",
+                "Goal Difference": "-28",
                 "Points": "15"
             }
         ],
@@ -855,22 +855,22 @@
             },
             {
                 "Position": "7",
+                "Team": "Monaco",
+                "Played": "24",
+                "Wins": "11",
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "3",
+                "Points": "37"
+            },
+            {
+                "Position": "8",
                 "Team": "Strasbourg",
                 "Played": "24",
                 "Wins": "10",
                 "Draws": "5",
                 "Losses": "9",
                 "Goal Difference": "9",
-                "Points": "35"
-            },
-            {
-                "Position": "8",
-                "Team": "Monaco",
-                "Played": "24",
-                "Wins": "10",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "2",
                 "Points": "35"
             },
             {
@@ -908,10 +908,10 @@
                 "Team": "Angers",
                 "Played": "24",
                 "Wins": "8",
-                "Draws": "6",
-                "Losses": "10",
-                "Goal Difference": "-6",
-                "Points": "30"
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-7",
+                "Points": "29"
             },
             {
                 "Position": "13",
@@ -2095,11 +2095,11 @@
                 "Position": "4",
                 "Team": "Braga",
                 "Played": "24",
-                "Wins": "13",
-                "Draws": "6",
+                "Wins": "12",
+                "Draws": "7",
                 "Losses": "5",
-                "Goal Difference": "27",
-                "Points": "45"
+                "Goal Difference": "26",
+                "Points": "43"
             },
             {
                 "Position": "5",
@@ -2183,6 +2183,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Nacional",
+                "Played": "24",
+                "Wins": "5",
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "-7",
+                "Points": "22"
+            },
+            {
+                "Position": "14",
                 "Team": "Casa Pia",
                 "Played": "23",
                 "Wins": "5",
@@ -2190,16 +2200,6 @@
                 "Losses": "11",
                 "Goal Difference": "-18",
                 "Points": "22"
-            },
-            {
-                "Position": "14",
-                "Team": "Nacional",
-                "Played": "24",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-8",
-                "Points": "21"
             },
             {
                 "Position": "15",
