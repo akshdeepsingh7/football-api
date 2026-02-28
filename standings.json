@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 09:43 PM UTC",
-        "IST": "Sunday, 01 March 2026, 03:13 AM IST"
+        "UTC": "Saturday, 28 February 2026, 10:23 PM UTC",
+        "IST": "Sunday, 01 March 2026, 03:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -229,6 +229,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "26",
+                "Wins": "15",
+                "Draws": "6",
+                "Losses": "5",
+                "Goal Difference": "20",
+                "Points": "51"
+            },
+            {
+                "Position": "4",
                 "Team": "Villarreal",
                 "Played": "26",
                 "Wins": "16",
@@ -236,16 +246,6 @@
                 "Losses": "7",
                 "Goal Difference": "17",
                 "Points": "51"
-            },
-            {
-                "Position": "4",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "26",
-                "Wins": "14",
-                "Draws": "7",
-                "Losses": "5",
-                "Goal Difference": "19",
-                "Points": "49"
             },
             {
                 "Position": "5",
@@ -402,10 +402,10 @@
                 "Team": "Real Oviedo",
                 "Played": "25",
                 "Wins": "3",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-23",
-                "Points": "18"
+                "Draws": "8",
+                "Losses": "14",
+                "Goal Difference": "-24",
+                "Points": "17"
             }
         ],
         "Bundesliga": [
@@ -2123,16 +2123,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Vit\u00f3ria S.C.",
-                "Played": "24",
-                "Wins": "10",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "-6",
-                "Points": "34"
-            },
-            {
-                "Position": "8",
                 "Team": "Estoril",
                 "Played": "24",
                 "Wins": "9",
@@ -2142,7 +2132,7 @@
                 "Points": "33"
             },
             {
-                "Position": "9",
+                "Position": "8",
                 "Team": "Moreirense",
                 "Played": "23",
                 "Wins": "10",
@@ -2152,23 +2142,33 @@
                 "Points": "33"
             },
             {
+                "Position": "9",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "24",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "-7",
+                "Points": "32"
+            },
+            {
                 "Position": "10",
+                "Team": "Alverca",
+                "Played": "24",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "-15",
+                "Points": "27"
+            },
+            {
+                "Position": "11",
                 "Team": "Arouca",
                 "Played": "24",
                 "Wins": "7",
                 "Draws": "5",
                 "Losses": "12",
                 "Goal Difference": "-20",
-                "Points": "26"
-            },
-            {
-                "Position": "11",
-                "Team": "Alverca",
-                "Played": "24",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-16",
                 "Points": "26"
             },
             {
@@ -2637,16 +2637,6 @@
             },
             {
                 "Position": "1",
-                "Team": "Portland Timbers",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "1",
-                "Points": "4"
-            },
-            {
-                "Position": "2",
                 "Team": "San Diego",
                 "Played": "1",
                 "Wins": "1",
@@ -2656,7 +2646,7 @@
                 "Points": "3"
             },
             {
-                "Position": "3",
+                "Position": "2",
                 "Team": "LAFC",
                 "Played": "1",
                 "Wins": "1",
@@ -2666,7 +2656,7 @@
                 "Points": "3"
             },
             {
-                "Position": "4",
+                "Position": "3",
                 "Team": "San Jose Earthquakes",
                 "Played": "1",
                 "Wins": "1",
@@ -2676,7 +2666,7 @@
                 "Points": "3"
             },
             {
-                "Position": "5",
+                "Position": "4",
                 "Team": "Seattle Sounders",
                 "Played": "1",
                 "Wins": "1",
@@ -2686,7 +2676,7 @@
                 "Points": "3"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Dallas",
                 "Played": "1",
                 "Wins": "1",
@@ -2696,7 +2686,7 @@
                 "Points": "3"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Houston Dynamo",
                 "Played": "1",
                 "Wins": "1",
@@ -2706,7 +2696,7 @@
                 "Points": "3"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Vancouver Whitecaps",
                 "Played": "1",
                 "Wins": "1",
@@ -2716,7 +2706,27 @@
                 "Points": "3"
             },
             {
+                "Position": "8",
+                "Team": "Portland Timbers",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "3"
+            },
+            {
                 "Position": "9",
+                "Team": "Colorado Rapids",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "3"
+            },
+            {
+                "Position": "10",
                 "Team": "Minnesota United",
                 "Played": "2",
                 "Wins": "0",
@@ -2726,7 +2736,7 @@
                 "Points": "2"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Austin",
                 "Played": "1",
                 "Wins": "0",
@@ -2736,7 +2746,7 @@
                 "Points": "1"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "St. Louis City",
                 "Played": "1",
                 "Wins": "0",
@@ -2746,23 +2756,13 @@
                 "Points": "1"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "LA Galaxy",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "0",
-                "Points": "1"
-            },
-            {
-                "Position": "13",
-                "Team": "Colorado Rapids",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-2",
                 "Points": "1"
             },
             {

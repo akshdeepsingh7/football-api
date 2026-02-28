@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 28 February 2026, 09:43 PM UTC (Sunday, 01 March 2026, 03:13 AM IST)
+**Last Updated:** Saturday, 28 February 2026, 10:23 PM UTC (Sunday, 01 March 2026, 03:53 AM IST)
 
 ### Premier League
 
@@ -74,8 +74,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 26 | 21 | 1 | 4 | 45 | 64 |
 | 2 | Real Madrid | 25 | 19 | 3 | 3 | 33 | 60 |
-| 3 | Villarreal | 26 | 16 | 3 | 7 | 17 | 51 |
-| 4 | Atlético de Madrid | 26 | 14 | 7 | 5 | 19 | 49 |
+| 3 | Atlético de Madrid | 26 | 15 | 6 | 5 | 20 | 51 |
+| 4 | Villarreal | 26 | 16 | 3 | 7 | 17 | 51 |
 | 5 | Real Betis | 25 | 11 | 9 | 5 | 10 | 42 |
 | 6 | Celta de Vigo | 25 | 9 | 10 | 6 | 7 | 37 |
 | 7 | Real Sociedad | 26 | 9 | 8 | 9 | 0 | 35 |
@@ -91,7 +91,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Elche | 25 | 5 | 10 | 10 | -5 | 25 |
 | 18 | Mallorca | 26 | 6 | 6 | 14 | -13 | 24 |
 | 19 | Levante | 26 | 5 | 6 | 15 | -16 | 21 |
-| 20 | Real Oviedo | 25 | 3 | 9 | 13 | -23 | 18 |
+| 20 | Real Oviedo | 25 | 3 | 8 | 14 | -24 | 17 |
 
 ### Bundesliga
 
@@ -297,11 +297,11 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Braga | 24 | 13 | 6 | 5 | 27 | 45 |
 | 5 | Gil Vicente | 23 | 11 | 7 | 5 | 13 | 40 |
 | 6 | Famalicão | 23 | 10 | 5 | 8 | 8 | 35 |
-| 7 | Vitória S.C. | 24 | 10 | 4 | 10 | -6 | 34 |
-| 8 | Estoril | 24 | 9 | 6 | 9 | 4 | 33 |
-| 9 | Moreirense | 23 | 10 | 3 | 10 | -4 | 33 |
-| 10 | Arouca | 24 | 7 | 5 | 12 | -20 | 26 |
-| 11 | Alverca | 24 | 7 | 5 | 12 | -16 | 26 |
+| 7 | Estoril | 24 | 9 | 6 | 9 | 4 | 33 |
+| 8 | Moreirense | 23 | 10 | 3 | 10 | -4 | 33 |
+| 9 | Vitória S.C. | 24 | 9 | 5 | 10 | -7 | 32 |
+| 10 | Alverca | 24 | 7 | 6 | 11 | -15 | 27 |
+| 11 | Arouca | 24 | 7 | 5 | 12 | -20 | 26 |
 | 12 | Estrela Amadora | 24 | 5 | 9 | 10 | -15 | 24 |
 | 13 | Casa Pia | 23 | 5 | 7 | 11 | -18 | 22 |
 | 14 | Nacional | 24 | 5 | 6 | 13 | -8 | 21 |
@@ -358,19 +358,19 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Inter Miami | 1 | 0 | 0 | 1 | -3 | 0 |
 | 14 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
 | 15 | CF Montréal | 2 | 0 | 0 | 2 | -8 | 0 |
-| 1 | Portland Timbers | 2 | 1 | 1 | 0 | 1 | 4 |
-| 2 | San Diego | 1 | 1 | 0 | 0 | 5 | 3 |
-| 3 | LAFC | 1 | 1 | 0 | 0 | 3 | 3 |
-| 4 | San Jose Earthquakes | 1 | 1 | 0 | 0 | 3 | 3 |
-| 5 | Seattle Sounders | 1 | 1 | 0 | 0 | 2 | 3 |
-| 6 | Dallas | 1 | 1 | 0 | 0 | 1 | 3 |
-| 7 | Houston Dynamo | 1 | 1 | 0 | 0 | 1 | 3 |
-| 8 | Vancouver Whitecaps | 1 | 1 | 0 | 0 | 1 | 3 |
-| 9 | Minnesota United | 2 | 0 | 2 | 0 | 0 | 2 |
-| 10 | Austin | 1 | 0 | 1 | 0 | 0 | 1 |
-| 11 | St. Louis City | 1 | 0 | 1 | 0 | 0 | 1 |
-| 12 | LA Galaxy | 1 | 0 | 1 | 0 | 0 | 1 |
-| 13 | Colorado Rapids | 2 | 0 | 1 | 1 | -2 | 1 |
+| 1 | San Diego | 1 | 1 | 0 | 0 | 5 | 3 |
+| 2 | LAFC | 1 | 1 | 0 | 0 | 3 | 3 |
+| 3 | San Jose Earthquakes | 1 | 1 | 0 | 0 | 3 | 3 |
+| 4 | Seattle Sounders | 1 | 1 | 0 | 0 | 2 | 3 |
+| 5 | Dallas | 1 | 1 | 0 | 0 | 1 | 3 |
+| 6 | Houston Dynamo | 1 | 1 | 0 | 0 | 1 | 3 |
+| 7 | Vancouver Whitecaps | 1 | 1 | 0 | 0 | 1 | 3 |
+| 8 | Portland Timbers | 2 | 1 | 0 | 1 | 0 | 3 |
+| 9 | Colorado Rapids | 2 | 1 | 0 | 1 | -1 | 3 |
+| 10 | Minnesota United | 2 | 0 | 2 | 0 | 0 | 2 |
+| 11 | Austin | 1 | 0 | 1 | 0 | 0 | 1 |
+| 12 | St. Louis City | 1 | 0 | 1 | 0 | 0 | 1 |
+| 13 | LA Galaxy | 1 | 0 | 1 | 0 | 0 | 1 |
 | 14 | Real Salt Lake | 1 | 0 | 0 | 1 | -1 | 0 |
 | 15 | Sporting KC | 1 | 0 | 0 | 1 | -3 | 0 |
 
