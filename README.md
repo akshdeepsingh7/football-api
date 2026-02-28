@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 28 February 2026, 08:49 PM UTC (Sunday, 01 March 2026, 02:19 AM IST)
+**Last Updated:** Saturday, 28 February 2026, 09:22 PM UTC (Sunday, 01 March 2026, 02:52 AM IST)
 
 ### Premier League
 
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 27 | 22 | 1 | 4 | 42 | 67 |
+| 1 | Inter | 27 | 22 | 1 | 4 | 43 | 67 |
 | 2 | Milan | 26 | 15 | 9 | 2 | 21 | 54 |
 | 3 | Napoli | 27 | 16 | 5 | 6 | 13 | 53 |
 | 4 | Roma | 26 | 16 | 2 | 8 | 18 | 50 |
@@ -134,7 +134,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Udinese | 26 | 9 | 5 | 12 | -11 | 32 |
 | 13 | Cagliari | 27 | 7 | 9 | 11 | -7 | 30 |
 | 14 | Torino | 26 | 7 | 6 | 13 | -22 | 27 |
-| 15 | Genoa | 27 | 6 | 9 | 12 | -6 | 27 |
+| 15 | Genoa | 27 | 6 | 9 | 12 | -7 | 27 |
 | 16 | Fiorentina | 26 | 5 | 9 | 12 | -9 | 24 |
 | 17 | Cremonese | 26 | 5 | 9 | 12 | -15 | 24 |
 | 18 | Lecce | 27 | 6 | 6 | 15 | -18 | 24 |
@@ -343,20 +343,20 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | New York RB | 2 | 1 | 1 | 0 | 1 | 4 |
+| 1 | New York RB | 2 | 2 | 0 | 0 | 2 | 6 |
 | 2 | Nashville | 1 | 1 | 0 | 0 | 3 | 3 |
 | 3 | Cincinnati | 1 | 1 | 0 | 0 | 2 | 3 |
 | 4 | DC United | 1 | 1 | 0 | 0 | 1 | 3 |
 | 5 | Chicago Fire | 2 | 1 | 0 | 1 | 0 | 3 |
 | 6 | Charlotte | 1 | 0 | 1 | 0 | 0 | 1 |
 | 7 | NYCFC | 1 | 0 | 1 | 0 | 0 | 1 |
-| 8 | New England Revolution | 2 | 0 | 1 | 1 | -3 | 1 |
-| 9 | Columbus Crew | 1 | 0 | 0 | 1 | -1 | 0 |
-| 10 | Toronto | 1 | 0 | 0 | 1 | -1 | 0 |
-| 11 | Orlando City | 1 | 0 | 0 | 1 | -1 | 0 |
-| 12 | Philadelphia Union | 1 | 0 | 0 | 1 | -1 | 0 |
-| 13 | Atlanta United | 1 | 0 | 0 | 1 | -2 | 0 |
-| 14 | Inter Miami | 1 | 0 | 0 | 1 | -3 | 0 |
+| 8 | Columbus Crew | 1 | 0 | 0 | 1 | -1 | 0 |
+| 9 | Toronto | 1 | 0 | 0 | 1 | -1 | 0 |
+| 10 | Orlando City | 1 | 0 | 0 | 1 | -1 | 0 |
+| 11 | Philadelphia Union | 1 | 0 | 0 | 1 | -1 | 0 |
+| 12 | Atlanta United | 1 | 0 | 0 | 1 | -2 | 0 |
+| 13 | Inter Miami | 1 | 0 | 0 | 1 | -3 | 0 |
+| 14 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
 | 15 | CF Montréal | 2 | 0 | 0 | 2 | -6 | 0 |
 | 1 | San Diego | 1 | 1 | 0 | 0 | 5 | 3 |
 | 2 | LAFC | 1 | 1 | 0 | 0 | 3 | 3 |

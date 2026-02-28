@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 28 February 2026, 08:49 PM UTC",
-        "IST": "Sunday, 01 March 2026, 02:19 AM IST"
+        "UTC": "Saturday, 28 February 2026, 09:22 PM UTC",
+        "IST": "Sunday, 01 March 2026, 02:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -598,7 +598,7 @@
                 "Wins": "22",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "42",
+                "Goal Difference": "43",
                 "Points": "67"
             },
             {
@@ -738,7 +738,7 @@
                 "Wins": "6",
                 "Draws": "9",
                 "Losses": "12",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "27"
             },
             {
@@ -2489,11 +2489,11 @@
                 "Position": "1",
                 "Team": "New York RB",
                 "Played": "2",
-                "Wins": "1",
-                "Draws": "1",
+                "Wins": "2",
+                "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "1",
-                "Points": "4"
+                "Goal Difference": "2",
+                "Points": "6"
             },
             {
                 "Position": "2",
@@ -2557,16 +2557,6 @@
             },
             {
                 "Position": "8",
-                "Team": "New England Revolution",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-3",
-                "Points": "1"
-            },
-            {
-                "Position": "9",
                 "Team": "Columbus Crew",
                 "Played": "1",
                 "Wins": "0",
@@ -2576,7 +2566,7 @@
                 "Points": "0"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Toronto",
                 "Played": "1",
                 "Wins": "0",
@@ -2586,7 +2576,7 @@
                 "Points": "0"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Orlando City",
                 "Played": "1",
                 "Wins": "0",
@@ -2596,7 +2586,7 @@
                 "Points": "0"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Philadelphia Union",
                 "Played": "1",
                 "Wins": "0",
@@ -2606,7 +2596,7 @@
                 "Points": "0"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Atlanta United",
                 "Played": "1",
                 "Wins": "0",
@@ -2616,13 +2606,23 @@
                 "Points": "0"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Inter Miami",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "-3",
+                "Points": "0"
+            },
+            {
+                "Position": "14",
+                "Team": "New England Revolution",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-4",
                 "Points": "0"
             },
             {
