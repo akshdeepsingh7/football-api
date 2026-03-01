@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 11:21 AM UTC",
-        "IST": "Sunday, 01 March 2026, 04:51 PM IST"
+        "UTC": "Sunday, 01 March 2026, 11:42 AM UTC",
+        "IST": "Sunday, 01 March 2026, 05:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -604,12 +604,12 @@
             {
                 "Position": "2",
                 "Team": "Milan",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "15",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "2",
                 "Goal Difference": "21",
-                "Points": "54"
+                "Points": "55"
             },
             {
                 "Position": "3",
@@ -743,22 +743,22 @@
             },
             {
                 "Position": "16",
+                "Team": "Cremonese",
+                "Played": "27",
+                "Wins": "5",
+                "Draws": "10",
+                "Losses": "12",
+                "Goal Difference": "-15",
+                "Points": "25"
+            },
+            {
+                "Position": "17",
                 "Team": "Fiorentina",
                 "Played": "26",
                 "Wins": "5",
                 "Draws": "9",
                 "Losses": "12",
                 "Goal Difference": "-9",
-                "Points": "24"
-            },
-            {
-                "Position": "17",
-                "Team": "Cremonese",
-                "Played": "26",
-                "Wins": "5",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-15",
                 "Points": "24"
             },
             {
@@ -2870,12 +2870,12 @@
             {
                 "Position": "9",
                 "Team": "Odisha",
-                "Played": "1",
+                "Played": "2",
                 "Wins": "0",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "0",
                 "Goal Difference": "0",
-                "Points": "1"
+                "Points": "2"
             },
             {
                 "Position": "10",
@@ -2890,12 +2890,12 @@
             {
                 "Position": "11",
                 "Team": "Chennaiyin",
-                "Played": "2",
+                "Played": "3",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "-3",
-                "Points": "0"
+                "Points": "1"
             },
             {
                 "Position": "12",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 March 2026, 11:21 AM UTC (Sunday, 01 March 2026, 04:51 PM IST)
+**Last Updated:** Sunday, 01 March 2026, 11:42 AM UTC (Sunday, 01 March 2026, 05:12 PM IST)
 
 ### Premier League
 
@@ -121,7 +121,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 27 | 22 | 1 | 4 | 43 | 67 |
-| 2 | Milan | 26 | 15 | 9 | 2 | 21 | 54 |
+| 2 | Milan | 27 | 15 | 10 | 2 | 21 | 55 |
 | 3 | Napoli | 27 | 16 | 5 | 6 | 13 | 53 |
 | 4 | Roma | 26 | 16 | 2 | 8 | 18 | 50 |
 | 5 | Como | 27 | 13 | 9 | 5 | 24 | 48 |
@@ -135,8 +135,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Cagliari | 27 | 7 | 9 | 11 | -7 | 30 |
 | 14 | Torino | 26 | 7 | 6 | 13 | -22 | 27 |
 | 15 | Genoa | 27 | 6 | 9 | 12 | -7 | 27 |
-| 16 | Fiorentina | 26 | 5 | 9 | 12 | -9 | 24 |
-| 17 | Cremonese | 26 | 5 | 9 | 12 | -15 | 24 |
+| 16 | Cremonese | 27 | 5 | 10 | 12 | -15 | 25 |
+| 17 | Fiorentina | 26 | 5 | 9 | 12 | -9 | 24 |
 | 18 | Lecce | 27 | 6 | 6 | 15 | -18 | 24 |
 | 19 | Pisa | 26 | 1 | 12 | 13 | -23 | 15 |
 | 20 | Hellas Verona | 27 | 2 | 9 | 16 | -28 | 15 |
@@ -386,9 +386,9 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Inter Kashi | 3 | 1 | 2 | 0 | 1 | 5 |
 | 7 | Bengaluru | 3 | 1 | 1 | 1 | 0 | 4 |
 | 8 | Punjab FC | 2 | 1 | 0 | 1 | 1 | 3 |
-| 9 | Odisha | 1 | 0 | 1 | 0 | 0 | 1 |
+| 9 | Odisha | 2 | 0 | 2 | 0 | 0 | 2 |
 | 10 | NorthEast Utd | 2 | 0 | 1 | 1 | -3 | 1 |
-| 11 | Chennaiyin | 2 | 0 | 0 | 2 | -3 | 0 |
+| 11 | Chennaiyin | 3 | 0 | 1 | 2 | -3 | 1 |
 | 12 | Kerala Blasters | 3 | 0 | 0 | 3 | -4 | 0 |
 | 13 | SC Delhi | 3 | 0 | 0 | 3 | -6 | 0 |
 | 14 | Mohammedan | 3 | 0 | 0 | 3 | -7 | 0 |
