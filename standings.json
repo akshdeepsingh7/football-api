@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 01:39 PM UTC",
-        "IST": "Sunday, 01 March 2026, 07:09 PM IST"
+        "UTC": "Sunday, 01 March 2026, 02:25 PM UTC",
+        "IST": "Sunday, 01 March 2026, 07:55 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -38,11 +38,11 @@
             {
                 "Position": "4",
                 "Team": "Manchester United",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "13",
                 "Draws": "9",
-                "Losses": "5",
-                "Goal Difference": "11",
+                "Losses": "6",
+                "Goal Difference": "10",
                 "Points": "48"
             },
             {
@@ -87,6 +87,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Fulham",
+                "Played": "28",
+                "Wins": "12",
+                "Draws": "4",
+                "Losses": "12",
+                "Goal Difference": "-2",
+                "Points": "40"
+            },
+            {
+                "Position": "10",
                 "Team": "AFC Bournemouth",
                 "Played": "28",
                 "Wins": "9",
@@ -96,17 +106,27 @@
                 "Points": "39"
             },
             {
-                "Position": "10",
-                "Team": "Fulham",
-                "Played": "27",
-                "Wins": "11",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-3",
+                "Position": "11",
+                "Team": "Crystal Palace",
+                "Played": "28",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-2",
+                "Points": "38"
+            },
+            {
+                "Position": "12",
+                "Team": "Brighton & Hove Albion",
+                "Played": "28",
+                "Wins": "9",
+                "Draws": "10",
+                "Losses": "9",
+                "Goal Difference": "3",
                 "Points": "37"
             },
             {
-                "Position": "11",
+                "Position": "13",
                 "Team": "Sunderland",
                 "Played": "28",
                 "Wins": "9",
@@ -116,7 +136,7 @@
                 "Points": "37"
             },
             {
-                "Position": "12",
+                "Position": "14",
                 "Team": "Newcastle United",
                 "Played": "28",
                 "Wins": "10",
@@ -124,26 +144,6 @@
                 "Losses": "12",
                 "Goal Difference": "-2",
                 "Points": "36"
-            },
-            {
-                "Position": "13",
-                "Team": "Crystal Palace",
-                "Played": "27",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-3",
-                "Points": "35"
-            },
-            {
-                "Position": "14",
-                "Team": "Brighton & Hove Albion",
-                "Played": "27",
-                "Wins": "8",
-                "Draws": "10",
-                "Losses": "9",
-                "Goal Difference": "2",
-                "Points": "34"
             },
             {
                 "Position": "15",
@@ -158,21 +158,21 @@
             {
                 "Position": "16",
                 "Team": "Tottenham Hotspur",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "7",
                 "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-4",
+                "Losses": "13",
+                "Goal Difference": "-5",
                 "Points": "29"
             },
             {
                 "Position": "17",
                 "Team": "Nottingham Forest",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "7",
                 "Draws": "6",
-                "Losses": "14",
-                "Goal Difference": "-14",
+                "Losses": "15",
+                "Goal Difference": "-15",
                 "Points": "27"
             },
             {
@@ -654,15 +654,25 @@
             {
                 "Position": "7",
                 "Team": "Atalanta",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "12",
                 "Draws": "9",
-                "Losses": "5",
-                "Goal Difference": "14",
+                "Losses": "6",
+                "Goal Difference": "13",
                 "Points": "45"
             },
             {
                 "Position": "8",
+                "Team": "Sassuolo",
+                "Played": "27",
+                "Wins": "11",
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-2",
+                "Points": "38"
+            },
+            {
+                "Position": "9",
                 "Team": "Bologna",
                 "Played": "26",
                 "Wins": "10",
@@ -670,16 +680,6 @@
                 "Losses": "10",
                 "Goal Difference": "3",
                 "Points": "36"
-            },
-            {
-                "Position": "9",
-                "Team": "Sassuolo",
-                "Played": "26",
-                "Wins": "10",
-                "Draws": "5",
-                "Losses": "11",
-                "Goal Difference": "-3",
-                "Points": "35"
             },
             {
                 "Position": "10",
@@ -926,22 +926,22 @@
             {
                 "Position": "14",
                 "Team": "Nice",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "11",
                 "Goal Difference": "-13",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "15",
                 "Team": "Paris FC",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "5",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "10",
                 "Goal Difference": "-13",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "16",
@@ -2819,22 +2819,22 @@
             },
             {
                 "Position": "4",
+                "Team": "Mumbai City",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "7"
+            },
+            {
+                "Position": "5",
                 "Team": "East Bengal",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "5",
-                "Points": "6"
-            },
-            {
-                "Position": "5",
-                "Team": "Mumbai City",
-                "Played": "2",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "2",
                 "Points": "6"
             },
             {
@@ -2879,21 +2879,21 @@
             },
             {
                 "Position": "10",
+                "Team": "NorthEast Utd",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "-3",
+                "Points": "2"
+            },
+            {
+                "Position": "11",
                 "Team": "Chennaiyin",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "1"
-            },
-            {
-                "Position": "11",
-                "Team": "NorthEast Utd",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "1",
                 "Goal Difference": "-3",
                 "Points": "1"
             },
