@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 07:43 PM UTC",
-        "IST": "Monday, 02 March 2026, 01:13 AM IST"
+        "UTC": "Sunday, 01 March 2026, 08:28 PM UTC",
+        "IST": "Monday, 02 March 2026, 01:58 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -260,12 +260,12 @@
             {
                 "Position": "6",
                 "Team": "Celta de Vigo",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "9",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "6",
                 "Goal Difference": "7",
-                "Points": "37"
+                "Points": "38"
             },
             {
                 "Position": "7",
@@ -309,22 +309,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Girona",
+                "Played": "26",
+                "Wins": "7",
+                "Draws": "10",
+                "Losses": "9",
+                "Goal Difference": "-14",
+                "Points": "31"
+            },
+            {
+                "Position": "12",
                 "Team": "Sevilla",
                 "Played": "26",
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "-7",
-                "Points": "30"
-            },
-            {
-                "Position": "12",
-                "Team": "Girona",
-                "Played": "25",
-                "Wins": "7",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "-14",
                 "Points": "30"
             },
             {
@@ -624,12 +624,12 @@
             {
                 "Position": "4",
                 "Team": "Roma",
-                "Played": "26",
-                "Wins": "16",
+                "Played": "27",
+                "Wins": "17",
                 "Draws": "2",
                 "Losses": "8",
-                "Goal Difference": "18",
-                "Points": "50"
+                "Goal Difference": "19",
+                "Points": "53"
             },
             {
                 "Position": "5",
@@ -644,11 +644,11 @@
             {
                 "Position": "6",
                 "Team": "Juventus",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "13",
                 "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "18",
+                "Losses": "7",
+                "Goal Difference": "17",
                 "Points": "46"
             },
             {
@@ -816,21 +816,21 @@
             {
                 "Position": "3",
                 "Team": "Lyon",
-                "Played": "23",
-                "Wins": "14",
+                "Played": "24",
+                "Wins": "15",
                 "Draws": "3",
                 "Losses": "6",
-                "Goal Difference": "14",
-                "Points": "45"
+                "Goal Difference": "15",
+                "Points": "48"
             },
             {
                 "Position": "4",
                 "Team": "Marseille",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "12",
                 "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "17",
+                "Losses": "8",
+                "Goal Difference": "16",
                 "Points": "40"
             },
             {

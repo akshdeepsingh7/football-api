@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 March 2026, 07:43 PM UTC (Monday, 02 March 2026, 01:13 AM IST)
+**Last Updated:** Sunday, 01 March 2026, 08:28 PM UTC (Monday, 02 March 2026, 01:58 AM IST)
 
 ### Premier League
 
@@ -77,13 +77,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Atlético de Madrid | 26 | 15 | 6 | 5 | 20 | 51 |
 | 4 | Villarreal | 26 | 16 | 3 | 7 | 17 | 51 |
 | 5 | Real Betis | 26 | 11 | 10 | 5 | 10 | 43 |
-| 6 | Celta de Vigo | 25 | 9 | 10 | 6 | 7 | 37 |
+| 6 | Celta de Vigo | 26 | 9 | 11 | 6 | 7 | 38 |
 | 7 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
 | 8 | Real Sociedad | 26 | 9 | 8 | 9 | 0 | 35 |
 | 9 | Athletic Bilbao | 26 | 10 | 5 | 11 | -6 | 35 |
 | 10 | Osasuna | 26 | 9 | 6 | 11 | 0 | 33 |
-| 11 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
-| 12 | Girona | 25 | 7 | 9 | 9 | -14 | 30 |
+| 11 | Girona | 26 | 7 | 10 | 9 | -14 | 31 |
+| 12 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
 | 13 | Valencia | 26 | 7 | 8 | 11 | -12 | 29 |
 | 14 | Getafe | 25 | 8 | 5 | 12 | -9 | 29 |
 | 15 | Rayo Vallecano | 25 | 6 | 9 | 10 | -9 | 27 |
@@ -123,9 +123,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 27 | 22 | 1 | 4 | 43 | 67 |
 | 2 | Milan | 27 | 16 | 9 | 2 | 23 | 57 |
 | 3 | Napoli | 27 | 16 | 5 | 6 | 13 | 53 |
-| 4 | Roma | 26 | 16 | 2 | 8 | 18 | 50 |
+| 4 | Roma | 27 | 17 | 2 | 8 | 19 | 53 |
 | 5 | Como | 27 | 13 | 9 | 5 | 24 | 48 |
-| 6 | Juventus | 26 | 13 | 7 | 6 | 18 | 46 |
+| 6 | Juventus | 27 | 13 | 7 | 7 | 17 | 46 |
 | 7 | Atalanta | 27 | 12 | 9 | 6 | 13 | 45 |
 | 8 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
 | 9 | Bologna | 26 | 10 | 6 | 10 | 3 | 36 |
@@ -147,8 +147,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 24 | 18 | 3 | 3 | 34 | 57 |
 | 2 | Lens | 24 | 17 | 2 | 5 | 24 | 53 |
-| 3 | Lyon | 23 | 14 | 3 | 6 | 14 | 45 |
-| 4 | Marseille | 23 | 12 | 4 | 7 | 17 | 40 |
+| 3 | Lyon | 24 | 15 | 3 | 6 | 15 | 48 |
+| 4 | Marseille | 24 | 12 | 4 | 8 | 16 | 40 |
 | 5 | Lille | 24 | 12 | 4 | 8 | 6 | 40 |
 | 6 | Rennes | 24 | 11 | 7 | 6 | 3 | 40 |
 | 7 | Monaco | 24 | 11 | 4 | 9 | 4 | 37 |
