@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 March 2026, 09:24 PM UTC (Monday, 02 March 2026, 02:54 AM IST)
+**Last Updated:** Sunday, 01 March 2026, 09:45 PM UTC (Monday, 02 March 2026, 03:15 AM IST)
 
 ### Premier League
 
@@ -77,13 +77,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Atlético de Madrid | 26 | 15 | 6 | 5 | 20 | 51 |
 | 4 | Villarreal | 26 | 16 | 3 | 7 | 17 | 51 |
 | 5 | Real Betis | 26 | 11 | 10 | 5 | 10 | 43 |
-| 6 | Celta de Vigo | 26 | 9 | 11 | 6 | 7 | 38 |
+| 6 | Celta de Vigo | 26 | 10 | 10 | 6 | 8 | 40 |
 | 7 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
 | 8 | Real Sociedad | 26 | 9 | 8 | 9 | 0 | 35 |
 | 9 | Athletic Bilbao | 26 | 10 | 5 | 11 | -6 | 35 |
 | 10 | Osasuna | 26 | 9 | 6 | 11 | 0 | 33 |
-| 11 | Girona | 26 | 7 | 10 | 9 | -14 | 31 |
-| 12 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
+| 11 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
+| 12 | Girona | 26 | 7 | 9 | 10 | -15 | 30 |
 | 13 | Valencia | 26 | 7 | 8 | 11 | -12 | 29 |
 | 14 | Getafe | 25 | 8 | 5 | 12 | -9 | 29 |
 | 15 | Rayo Vallecano | 25 | 6 | 9 | 10 | -9 | 27 |
@@ -123,9 +123,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 27 | 22 | 1 | 4 | 43 | 67 |
 | 2 | Milan | 27 | 16 | 9 | 2 | 23 | 57 |
 | 3 | Napoli | 27 | 16 | 5 | 6 | 13 | 53 |
-| 4 | Roma | 27 | 17 | 2 | 8 | 19 | 53 |
+| 4 | Roma | 27 | 16 | 3 | 8 | 18 | 51 |
 | 5 | Como | 27 | 13 | 9 | 5 | 24 | 48 |
-| 6 | Juventus | 27 | 13 | 7 | 7 | 17 | 46 |
+| 6 | Juventus | 27 | 13 | 8 | 6 | 18 | 47 |
 | 7 | Atalanta | 27 | 12 | 9 | 6 | 13 | 45 |
 | 8 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
 | 9 | Bologna | 26 | 10 | 6 | 10 | 3 | 36 |
@@ -147,8 +147,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 24 | 18 | 3 | 3 | 34 | 57 |
 | 2 | Lens | 24 | 17 | 2 | 5 | 24 | 53 |
-| 3 | Lyon | 24 | 14 | 4 | 6 | 14 | 46 |
-| 4 | Marseille | 24 | 12 | 5 | 7 | 17 | 41 |
+| 3 | Lyon | 24 | 14 | 3 | 7 | 13 | 45 |
+| 4 | Marseille | 24 | 13 | 4 | 7 | 18 | 43 |
 | 5 | Lille | 24 | 12 | 4 | 8 | 6 | 40 |
 | 6 | Rennes | 24 | 11 | 7 | 6 | 3 | 40 |
 | 7 | Monaco | 24 | 11 | 4 | 9 | 4 | 37 |
@@ -348,11 +348,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
 | 4 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
 | 5 | DC United | 2 | 1 | 0 | 1 | 0 | 3 |
-| 6 | NYCFC | 1 | 0 | 1 | 0 | 0 | 1 |
+| 6 | NYCFC | 2 | 0 | 2 | 0 | 0 | 2 |
 | 7 | Columbus Crew | 2 | 0 | 1 | 1 | -1 | 1 |
-| 8 | Charlotte | 2 | 0 | 1 | 1 | -3 | 1 |
-| 9 | Orlando City | 1 | 0 | 0 | 1 | -1 | 0 |
-| 10 | Philadelphia Union | 1 | 0 | 0 | 1 | -1 | 0 |
+| 8 | Philadelphia Union | 2 | 0 | 1 | 1 | -1 | 1 |
+| 9 | Charlotte | 2 | 0 | 1 | 1 | -3 | 1 |
+| 10 | Orlando City | 1 | 0 | 0 | 1 | -1 | 0 |
 | 11 | Inter Miami | 1 | 0 | 0 | 1 | -3 | 0 |
 | 12 | Toronto | 2 | 0 | 0 | 2 | -4 | 0 |
 | 13 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
@@ -362,8 +362,8 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | San Jose Earthquakes | 2 | 2 | 0 | 0 | 5 | 6 |
 | 3 | Vancouver Whitecaps | 2 | 2 | 0 | 0 | 4 | 6 |
 | 4 | LA Galaxy | 2 | 1 | 1 | 0 | 3 | 4 |
-| 5 | Austin | 2 | 1 | 1 | 0 | 1 | 4 |
-| 6 | Minnesota United | 2 | 1 | 1 | 0 | 1 | 4 |
+| 5 | Minnesota United | 2 | 1 | 1 | 0 | 1 | 4 |
+| 6 | Austin | 2 | 1 | 1 | 0 | 1 | 4 |
 | 7 | Dallas | 2 | 1 | 1 | 0 | 1 | 4 |
 | 8 | San Diego | 1 | 1 | 0 | 0 | 5 | 3 |
 | 9 | Seattle Sounders | 2 | 1 | 0 | 1 | 1 | 3 |

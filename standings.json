@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 09:24 PM UTC",
-        "IST": "Monday, 02 March 2026, 02:54 AM IST"
+        "UTC": "Sunday, 01 March 2026, 09:45 PM UTC",
+        "IST": "Monday, 02 March 2026, 03:15 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -261,11 +261,11 @@
                 "Position": "6",
                 "Team": "Celta de Vigo",
                 "Played": "26",
-                "Wins": "9",
-                "Draws": "11",
+                "Wins": "10",
+                "Draws": "10",
                 "Losses": "6",
-                "Goal Difference": "7",
-                "Points": "38"
+                "Goal Difference": "8",
+                "Points": "40"
             },
             {
                 "Position": "7",
@@ -309,22 +309,22 @@
             },
             {
                 "Position": "11",
-                "Team": "Girona",
-                "Played": "26",
-                "Wins": "7",
-                "Draws": "10",
-                "Losses": "9",
-                "Goal Difference": "-14",
-                "Points": "31"
-            },
-            {
-                "Position": "12",
                 "Team": "Sevilla",
                 "Played": "26",
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "-7",
+                "Points": "30"
+            },
+            {
+                "Position": "12",
+                "Team": "Girona",
+                "Played": "26",
+                "Wins": "7",
+                "Draws": "9",
+                "Losses": "10",
+                "Goal Difference": "-15",
                 "Points": "30"
             },
             {
@@ -625,11 +625,11 @@
                 "Position": "4",
                 "Team": "Roma",
                 "Played": "27",
-                "Wins": "17",
-                "Draws": "2",
+                "Wins": "16",
+                "Draws": "3",
                 "Losses": "8",
-                "Goal Difference": "19",
-                "Points": "53"
+                "Goal Difference": "18",
+                "Points": "51"
             },
             {
                 "Position": "5",
@@ -646,10 +646,10 @@
                 "Team": "Juventus",
                 "Played": "27",
                 "Wins": "13",
-                "Draws": "7",
-                "Losses": "7",
-                "Goal Difference": "17",
-                "Points": "46"
+                "Draws": "8",
+                "Losses": "6",
+                "Goal Difference": "18",
+                "Points": "47"
             },
             {
                 "Position": "7",
@@ -818,20 +818,20 @@
                 "Team": "Lyon",
                 "Played": "24",
                 "Wins": "14",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "14",
-                "Points": "46"
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "13",
+                "Points": "45"
             },
             {
                 "Position": "4",
                 "Team": "Marseille",
                 "Played": "24",
-                "Wins": "12",
-                "Draws": "5",
+                "Wins": "13",
+                "Draws": "4",
                 "Losses": "7",
-                "Goal Difference": "17",
-                "Points": "41"
+                "Goal Difference": "18",
+                "Points": "43"
             },
             {
                 "Position": "5",
@@ -2538,12 +2538,12 @@
             {
                 "Position": "6",
                 "Team": "NYCFC",
-                "Played": "1",
+                "Played": "2",
                 "Wins": "0",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "0",
                 "Goal Difference": "0",
-                "Points": "1"
+                "Points": "2"
             },
             {
                 "Position": "7",
@@ -2557,6 +2557,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Philadelphia Union",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "1"
+            },
+            {
+                "Position": "9",
                 "Team": "Charlotte",
                 "Played": "2",
                 "Wins": "0",
@@ -2566,18 +2576,8 @@
                 "Points": "1"
             },
             {
-                "Position": "9",
-                "Team": "Orlando City",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "0"
-            },
-            {
                 "Position": "10",
-                "Team": "Philadelphia Union",
+                "Team": "Orlando City",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
@@ -2677,7 +2677,7 @@
             },
             {
                 "Position": "5",
-                "Team": "Austin",
+                "Team": "Minnesota United",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "1",
@@ -2687,7 +2687,7 @@
             },
             {
                 "Position": "6",
-                "Team": "Minnesota United",
+                "Team": "Austin",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "1",
