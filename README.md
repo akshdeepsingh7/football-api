@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 March 2026, 07:22 PM UTC (Monday, 02 March 2026, 12:52 AM IST)
+**Last Updated:** Sunday, 01 March 2026, 07:43 PM UTC (Monday, 02 March 2026, 01:13 AM IST)
 
 ### Premier League
 
@@ -101,13 +101,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Borussia Dortmund | 24 | 15 | 7 | 2 | 26 | 52 |
 | 3 | Hoffenheim | 24 | 14 | 4 | 6 | 18 | 46 |
 | 4 | VfB Stuttgart | 24 | 14 | 4 | 6 | 16 | 46 |
-| 5 | RB Leipzig | 24 | 12 | 6 | 6 | 12 | 42 |
+| 5 | RB Leipzig | 24 | 13 | 5 | 6 | 13 | 44 |
 | 6 | Bayer Leverkusen | 23 | 12 | 4 | 7 | 15 | 40 |
 | 7 | Eintracht Frankfurt | 24 | 9 | 7 | 8 | -1 | 34 |
 | 8 | SC Freiburg | 24 | 9 | 6 | 9 | -5 | 33 |
 | 9 | Augsburg | 24 | 9 | 4 | 11 | -11 | 31 |
 | 10 | Union Berlin | 24 | 7 | 7 | 10 | -9 | 28 |
-| 11 | Hamburg | 23 | 6 | 9 | 8 | -7 | 27 |
+| 11 | Hamburg | 23 | 6 | 8 | 9 | -8 | 26 |
 | 12 | Borussia Mönchengladbach | 24 | 6 | 7 | 11 | -12 | 25 |
 | 13 | Köln | 24 | 6 | 6 | 12 | -8 | 24 |
 | 14 | Mainz 05 | 24 | 5 | 8 | 11 | -12 | 23 |
@@ -345,9 +345,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | New York RB | 2 | 2 | 0 | 0 | 2 | 6 |
 | 2 | Nashville | 2 | 1 | 1 | 0 | 3 | 4 |
-| 3 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
-| 4 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
-| 5 | DC United | 1 | 1 | 0 | 0 | 1 | 3 |
+| 3 | DC United | 2 | 1 | 1 | 0 | 1 | 4 |
+| 4 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
+| 5 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
 | 6 | NYCFC | 1 | 0 | 1 | 0 | 0 | 1 |
 | 7 | Columbus Crew | 2 | 0 | 1 | 1 | -1 | 1 |
 | 8 | Charlotte | 2 | 0 | 1 | 1 | -3 | 1 |
@@ -370,7 +370,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Colorado Rapids | 2 | 1 | 0 | 1 | 0 | 3 |
 | 11 | Portland Timbers | 2 | 1 | 0 | 1 | -1 | 3 |
 | 12 | Houston Dynamo | 2 | 1 | 0 | 1 | -1 | 3 |
-| 13 | Austin | 1 | 0 | 1 | 0 | 0 | 1 |
+| 13 | Austin | 2 | 0 | 2 | 0 | 0 | 2 |
 | 14 | St. Louis City | 1 | 0 | 1 | 0 | 0 | 1 |
 | 15 | Sporting KC | 2 | 0 | 1 | 1 | -3 | 1 |
 
