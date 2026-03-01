@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 March 2026, 03:24 PM UTC (Sunday, 01 March 2026, 08:54 PM IST)
+**Last Updated:** Sunday, 01 March 2026, 03:46 PM UTC (Sunday, 01 March 2026, 09:16 PM IST)
 
 ### Premier League
 
@@ -49,20 +49,20 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 28 | 18 | 7 | 3 | 35 | 61 |
 | 2 | Manchester City | 28 | 18 | 5 | 5 | 32 | 59 |
-| 3 | Aston Villa | 28 | 15 | 6 | 7 | 8 | 51 |
-| 4 | Manchester United | 28 | 13 | 10 | 5 | 11 | 49 |
+| 3 | Manchester United | 28 | 14 | 9 | 5 | 12 | 51 |
+| 4 | Aston Villa | 28 | 15 | 6 | 7 | 8 | 51 |
 | 5 | Liverpool FC | 28 | 14 | 6 | 8 | 10 | 48 |
 | 6 | Chelsea | 27 | 12 | 9 | 6 | 17 | 45 |
 | 7 | Brentford | 28 | 13 | 4 | 11 | 4 | 43 |
-| 8 | Fulham | 28 | 12 | 4 | 12 | -1 | 40 |
-| 9 | Everton | 28 | 11 | 7 | 10 | -1 | 40 |
+| 8 | Everton | 28 | 11 | 7 | 10 | -1 | 40 |
+| 9 | Fulham | 28 | 12 | 4 | 12 | -2 | 40 |
 | 10 | AFC Bournemouth | 28 | 9 | 12 | 7 | -2 | 39 |
 | 11 | Brighton & Hove Albion | 28 | 9 | 10 | 9 | 3 | 37 |
 | 12 | Sunderland | 28 | 9 | 10 | 9 | -5 | 37 |
 | 13 | Newcastle United | 28 | 10 | 6 | 12 | -2 | 36 |
-| 14 | Crystal Palace | 28 | 9 | 9 | 10 | -3 | 36 |
+| 14 | Crystal Palace | 28 | 9 | 8 | 11 | -4 | 35 |
 | 15 | Leeds United | 28 | 7 | 10 | 11 | -10 | 31 |
-| 16 | Tottenham Hotspur | 28 | 7 | 8 | 13 | -6 | 29 |
+| 16 | Tottenham Hotspur | 28 | 7 | 8 | 13 | -5 | 29 |
 | 17 | Nottingham Forest | 28 | 7 | 6 | 15 | -15 | 27 |
 | 18 | West Ham United | 28 | 6 | 7 | 15 | -20 | 25 |
 | 19 | Burnley | 28 | 4 | 7 | 17 | -24 | 19 |
@@ -126,8 +126,8 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Roma | 26 | 16 | 2 | 8 | 18 | 50 |
 | 5 | Como | 27 | 13 | 9 | 5 | 24 | 48 |
 | 6 | Juventus | 26 | 13 | 7 | 6 | 18 | 46 |
-| 7 | Atalanta | 27 | 12 | 9 | 6 | 13 | 45 |
-| 8 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
+| 7 | Atalanta | 27 | 12 | 9 | 6 | 12 | 45 |
+| 8 | Sassuolo | 27 | 11 | 5 | 11 | -1 | 38 |
 | 9 | Bologna | 26 | 10 | 6 | 10 | 3 | 36 |
 | 10 | Lazio | 26 | 8 | 10 | 8 | 1 | 34 |
 | 11 | Parma | 27 | 8 | 9 | 10 | -12 | 33 |
@@ -305,9 +305,9 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Estrela Amadora | 24 | 5 | 9 | 10 | -15 | 24 |
 | 13 | Casa Pia | 23 | 5 | 7 | 11 | -18 | 22 |
 | 14 | Nacional | 24 | 5 | 6 | 13 | -8 | 21 |
-| 15 | Rio Ave | 23 | 4 | 8 | 11 | -21 | 20 |
-| 16 | Tondela | 23 | 4 | 6 | 13 | -19 | 18 |
-| 17 | Santa Clara | 23 | 4 | 6 | 13 | -11 | 18 |
+| 15 | Tondela | 24 | 5 | 6 | 13 | -18 | 21 |
+| 16 | Rio Ave | 23 | 4 | 8 | 11 | -21 | 20 |
+| 17 | Santa Clara | 24 | 4 | 6 | 14 | -12 | 18 |
 | 18 | AVS | 24 | 1 | 6 | 17 | -39 | 9 |
 
 ### EFL Championship
@@ -381,13 +381,13 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Mohun Bagan SG | 3 | 3 | 0 | 0 | 8 | 9 |
 | 2 | Jamshedpur | 3 | 3 | 0 | 0 | 3 | 9 |
 | 3 | FC Goa | 3 | 2 | 1 | 0 | 3 | 7 |
-| 4 | East Bengal | 3 | 2 | 0 | 1 | 5 | 6 |
-| 5 | Mumbai City | 3 | 2 | 0 | 1 | 1 | 6 |
+| 4 | Mumbai City | 3 | 2 | 1 | 0 | 2 | 7 |
+| 5 | East Bengal | 3 | 2 | 0 | 1 | 5 | 6 |
 | 6 | Inter Kashi | 3 | 1 | 2 | 0 | 1 | 5 |
 | 7 | Bengaluru | 3 | 1 | 1 | 1 | 0 | 4 |
-| 8 | NorthEast Utd | 3 | 1 | 1 | 1 | -2 | 4 |
-| 9 | Punjab FC | 2 | 1 | 0 | 1 | 1 | 3 |
-| 10 | Odisha | 2 | 0 | 2 | 0 | 0 | 2 |
+| 8 | Punjab FC | 2 | 1 | 0 | 1 | 1 | 3 |
+| 9 | Odisha | 2 | 0 | 2 | 0 | 0 | 2 |
+| 10 | NorthEast Utd | 3 | 0 | 2 | 1 | -3 | 2 |
 | 11 | Chennaiyin | 3 | 0 | 1 | 2 | -3 | 1 |
 | 12 | Kerala Blasters | 3 | 0 | 0 | 3 | -4 | 0 |
 | 13 | SC Delhi | 3 | 0 | 0 | 3 | -6 | 0 |

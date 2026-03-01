@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 03:24 PM UTC",
-        "IST": "Sunday, 01 March 2026, 08:54 PM IST"
+        "UTC": "Sunday, 01 March 2026, 03:46 PM UTC",
+        "IST": "Sunday, 01 March 2026, 09:16 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -27,6 +27,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Manchester United",
+                "Played": "28",
+                "Wins": "14",
+                "Draws": "9",
+                "Losses": "5",
+                "Goal Difference": "12",
+                "Points": "51"
+            },
+            {
+                "Position": "4",
                 "Team": "Aston Villa",
                 "Played": "28",
                 "Wins": "15",
@@ -34,16 +44,6 @@
                 "Losses": "7",
                 "Goal Difference": "8",
                 "Points": "51"
-            },
-            {
-                "Position": "4",
-                "Team": "Manchester United",
-                "Played": "28",
-                "Wins": "13",
-                "Draws": "10",
-                "Losses": "5",
-                "Goal Difference": "11",
-                "Points": "49"
             },
             {
                 "Position": "5",
@@ -77,22 +77,22 @@
             },
             {
                 "Position": "8",
-                "Team": "Fulham",
-                "Played": "28",
-                "Wins": "12",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-1",
-                "Points": "40"
-            },
-            {
-                "Position": "9",
                 "Team": "Everton",
                 "Played": "28",
                 "Wins": "11",
                 "Draws": "7",
                 "Losses": "10",
                 "Goal Difference": "-1",
+                "Points": "40"
+            },
+            {
+                "Position": "9",
+                "Team": "Fulham",
+                "Played": "28",
+                "Wins": "12",
+                "Draws": "4",
+                "Losses": "12",
+                "Goal Difference": "-2",
                 "Points": "40"
             },
             {
@@ -140,10 +140,10 @@
                 "Team": "Crystal Palace",
                 "Played": "28",
                 "Wins": "9",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-3",
-                "Points": "36"
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-4",
+                "Points": "35"
             },
             {
                 "Position": "15",
@@ -162,7 +162,7 @@
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "13",
-                "Goal Difference": "-6",
+                "Goal Difference": "-5",
                 "Points": "29"
             },
             {
@@ -658,7 +658,7 @@
                 "Wins": "12",
                 "Draws": "9",
                 "Losses": "6",
-                "Goal Difference": "13",
+                "Goal Difference": "12",
                 "Points": "45"
             },
             {
@@ -668,7 +668,7 @@
                 "Wins": "11",
                 "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "38"
             },
             {
@@ -2203,6 +2203,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Tondela",
+                "Played": "24",
+                "Wins": "5",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-18",
+                "Points": "21"
+            },
+            {
+                "Position": "16",
                 "Team": "Rio Ave",
                 "Played": "23",
                 "Wins": "4",
@@ -2212,23 +2222,13 @@
                 "Points": "20"
             },
             {
-                "Position": "16",
-                "Team": "Tondela",
-                "Played": "23",
-                "Wins": "4",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-19",
-                "Points": "18"
-            },
-            {
                 "Position": "17",
                 "Team": "Santa Clara",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "4",
                 "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-11",
+                "Losses": "14",
+                "Goal Difference": "-12",
                 "Points": "18"
             },
             {
@@ -2819,22 +2819,22 @@
             },
             {
                 "Position": "4",
+                "Team": "Mumbai City",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "7"
+            },
+            {
+                "Position": "5",
                 "Team": "East Bengal",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "5",
-                "Points": "6"
-            },
-            {
-                "Position": "5",
-                "Team": "Mumbai City",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "1",
                 "Points": "6"
             },
             {
@@ -2859,16 +2859,6 @@
             },
             {
                 "Position": "8",
-                "Team": "NorthEast Utd",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-2",
-                "Points": "4"
-            },
-            {
-                "Position": "9",
                 "Team": "Punjab FC",
                 "Played": "2",
                 "Wins": "1",
@@ -2878,13 +2868,23 @@
                 "Points": "3"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Odisha",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "0",
                 "Goal Difference": "0",
+                "Points": "2"
+            },
+            {
+                "Position": "10",
+                "Team": "NorthEast Utd",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "-3",
                 "Points": "2"
             },
             {
