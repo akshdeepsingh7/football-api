@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 06:35 PM UTC",
-        "IST": "Monday, 02 March 2026, 12:05 AM IST"
+        "UTC": "Sunday, 01 March 2026, 07:22 PM UTC",
+        "IST": "Monday, 02 March 2026, 12:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -251,11 +251,11 @@
                 "Position": "5",
                 "Team": "Real Betis",
                 "Played": "26",
-                "Wins": "12",
-                "Draws": "9",
+                "Wins": "11",
+                "Draws": "10",
                 "Losses": "5",
-                "Goal Difference": "12",
-                "Points": "45"
+                "Goal Difference": "10",
+                "Points": "43"
             },
             {
                 "Position": "6",
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Sevilla",
+                "Played": "26",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-7",
+                "Points": "30"
+            },
+            {
+                "Position": "12",
                 "Team": "Girona",
                 "Played": "25",
                 "Wins": "7",
@@ -318,33 +328,23 @@
                 "Points": "30"
             },
             {
-                "Position": "12",
-                "Team": "Sevilla",
-                "Played": "26",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "13",
-                "Goal Difference": "-9",
-                "Points": "29"
-            },
-            {
                 "Position": "13",
-                "Team": "Getafe",
-                "Played": "25",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-9",
-                "Points": "29"
-            },
-            {
-                "Position": "14",
                 "Team": "Valencia",
                 "Played": "26",
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-12",
+                "Points": "29"
+            },
+            {
+                "Position": "14",
+                "Team": "Getafe",
+                "Played": "25",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-9",
                 "Points": "29"
             },
             {
