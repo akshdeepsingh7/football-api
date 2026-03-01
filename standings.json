@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 05:23 PM UTC",
-        "IST": "Sunday, 01 March 2026, 10:53 PM IST"
+        "UTC": "Sunday, 01 March 2026, 05:47 PM UTC",
+        "IST": "Sunday, 01 March 2026, 11:17 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -250,12 +250,12 @@
             {
                 "Position": "5",
                 "Team": "Real Betis",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "11",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "5",
                 "Goal Difference": "10",
-                "Points": "42"
+                "Points": "43"
             },
             {
                 "Position": "6",
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Sevilla",
+                "Played": "26",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-7",
+                "Points": "30"
+            },
+            {
+                "Position": "12",
                 "Team": "Girona",
                 "Played": "25",
                 "Wins": "7",
@@ -318,33 +328,23 @@
                 "Points": "30"
             },
             {
-                "Position": "12",
-                "Team": "Sevilla",
-                "Played": "25",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-7",
-                "Points": "29"
-            },
-            {
                 "Position": "13",
-                "Team": "Getafe",
-                "Played": "25",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-9",
-                "Points": "29"
-            },
-            {
-                "Position": "14",
                 "Team": "Valencia",
                 "Played": "26",
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-12",
+                "Points": "29"
+            },
+            {
+                "Position": "14",
+                "Team": "Getafe",
+                "Played": "25",
+                "Wins": "8",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-9",
                 "Points": "29"
             },
             {
@@ -875,6 +875,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Brest",
+                "Played": "24",
+                "Wins": "9",
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "-2",
+                "Points": "33"
+            },
+            {
+                "Position": "10",
                 "Team": "Lorient",
                 "Played": "24",
                 "Wins": "8",
@@ -884,23 +894,13 @@
                 "Points": "33"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Toulouse",
                 "Played": "24",
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "5",
-                "Points": "31"
-            },
-            {
-                "Position": "11",
-                "Team": "Brest",
-                "Played": "24",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "9",
-                "Goal Difference": "-3",
                 "Points": "31"
             },
             {
@@ -968,10 +968,10 @@
                 "Team": "Metz",
                 "Played": "24",
                 "Wins": "3",
-                "Draws": "5",
-                "Losses": "16",
-                "Goal Difference": "-30",
-                "Points": "14"
+                "Draws": "4",
+                "Losses": "17",
+                "Goal Difference": "-31",
+                "Points": "13"
             }
         ],
         "Champions League": [
