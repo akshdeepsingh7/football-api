@@ -41,18 +41,18 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 March 2026, 04:54 PM UTC (Sunday, 01 March 2026, 10:24 PM IST)
+**Last Updated:** Sunday, 01 March 2026, 05:23 PM UTC (Sunday, 01 March 2026, 10:53 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 29 | 19 | 7 | 3 | 36 | 64 |
+| 1 | Arsenal | 29 | 18 | 8 | 3 | 35 | 62 |
 | 2 | Manchester City | 28 | 18 | 5 | 5 | 32 | 59 |
 | 3 | Manchester United | 28 | 14 | 9 | 5 | 12 | 51 |
 | 4 | Aston Villa | 28 | 15 | 6 | 7 | 8 | 51 |
 | 5 | Liverpool FC | 28 | 14 | 6 | 8 | 10 | 48 |
-| 6 | Chelsea | 28 | 12 | 9 | 7 | 16 | 45 |
+| 6 | Chelsea | 28 | 12 | 10 | 6 | 17 | 46 |
 | 7 | Brentford | 28 | 13 | 4 | 11 | 4 | 43 |
 | 8 | Everton | 28 | 11 | 7 | 10 | -1 | 40 |
 | 9 | Fulham | 28 | 12 | 4 | 12 | -2 | 40 |
@@ -129,11 +129,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Atalanta | 27 | 12 | 9 | 6 | 13 | 45 |
 | 8 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
 | 9 | Bologna | 26 | 10 | 6 | 10 | 3 | 36 |
-| 10 | Lazio | 26 | 8 | 10 | 8 | 1 | 34 |
+| 10 | Lazio | 27 | 8 | 10 | 9 | 0 | 34 |
 | 11 | Parma | 27 | 8 | 9 | 10 | -12 | 33 |
 | 12 | Udinese | 26 | 9 | 5 | 12 | -11 | 32 |
 | 13 | Cagliari | 27 | 7 | 9 | 11 | -7 | 30 |
-| 14 | Torino | 26 | 7 | 6 | 13 | -22 | 27 |
+| 14 | Torino | 27 | 8 | 6 | 13 | -21 | 30 |
 | 15 | Genoa | 27 | 6 | 9 | 12 | -7 | 27 |
 | 16 | Fiorentina | 26 | 5 | 9 | 12 | -9 | 24 |
 | 17 | Cremonese | 27 | 5 | 9 | 13 | -17 | 24 |

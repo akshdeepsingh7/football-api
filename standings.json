@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 04:54 PM UTC",
-        "IST": "Sunday, 01 March 2026, 10:24 PM IST"
+        "UTC": "Sunday, 01 March 2026, 05:23 PM UTC",
+        "IST": "Sunday, 01 March 2026, 10:53 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -9,11 +9,11 @@
                 "Position": "1",
                 "Team": "Arsenal",
                 "Played": "29",
-                "Wins": "19",
-                "Draws": "7",
+                "Wins": "18",
+                "Draws": "8",
                 "Losses": "3",
-                "Goal Difference": "36",
-                "Points": "64"
+                "Goal Difference": "35",
+                "Points": "62"
             },
             {
                 "Position": "2",
@@ -60,10 +60,10 @@
                 "Team": "Chelsea",
                 "Played": "28",
                 "Wins": "12",
-                "Draws": "9",
-                "Losses": "7",
-                "Goal Difference": "16",
-                "Points": "45"
+                "Draws": "10",
+                "Losses": "6",
+                "Goal Difference": "17",
+                "Points": "46"
             },
             {
                 "Position": "7",
@@ -684,11 +684,11 @@
             {
                 "Position": "10",
                 "Team": "Lazio",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "8",
                 "Draws": "10",
-                "Losses": "8",
-                "Goal Difference": "1",
+                "Losses": "9",
+                "Goal Difference": "0",
                 "Points": "34"
             },
             {
@@ -724,12 +724,12 @@
             {
                 "Position": "14",
                 "Team": "Torino",
-                "Played": "26",
-                "Wins": "7",
+                "Played": "27",
+                "Wins": "8",
                 "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "-22",
-                "Points": "27"
+                "Goal Difference": "-21",
+                "Points": "30"
             },
             {
                 "Position": "15",
