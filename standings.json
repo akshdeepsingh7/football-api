@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 03:46 PM UTC",
-        "IST": "Sunday, 01 March 2026, 09:16 PM IST"
+        "UTC": "Sunday, 01 March 2026, 04:29 PM UTC",
+        "IST": "Sunday, 01 March 2026, 09:59 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -446,7 +446,7 @@
                 "Wins": "14",
                 "Draws": "4",
                 "Losses": "6",
-                "Goal Difference": "15",
+                "Goal Difference": "16",
                 "Points": "46"
             },
             {
@@ -576,7 +576,7 @@
                 "Wins": "5",
                 "Draws": "5",
                 "Losses": "14",
-                "Goal Difference": "-19",
+                "Goal Difference": "-20",
                 "Points": "20"
             },
             {
@@ -658,7 +658,7 @@
                 "Wins": "12",
                 "Draws": "9",
                 "Losses": "6",
-                "Goal Difference": "12",
+                "Goal Difference": "13",
                 "Points": "45"
             },
             {
@@ -668,7 +668,7 @@
                 "Wins": "11",
                 "Draws": "5",
                 "Losses": "11",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "38"
             },
             {
@@ -846,12 +846,12 @@
             {
                 "Position": "6",
                 "Team": "Lille",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "11",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "5",
-                "Points": "37"
+                "Points": "38"
             },
             {
                 "Position": "7",
@@ -876,11 +876,11 @@
             {
                 "Position": "9",
                 "Team": "Lorient",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "8",
                 "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "-4",
+                "Losses": "8",
+                "Goal Difference": "-5",
                 "Points": "32"
             },
             {
@@ -896,12 +896,12 @@
             {
                 "Position": "11",
                 "Team": "Brest",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "8",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "-3",
-                "Points": "30"
+                "Points": "31"
             },
             {
                 "Position": "12",
@@ -946,32 +946,32 @@
             {
                 "Position": "16",
                 "Team": "Auxerre",
-                "Played": "23",
-                "Wins": "4",
+                "Played": "24",
+                "Wins": "5",
                 "Draws": "5",
                 "Losses": "14",
-                "Goal Difference": "-16",
-                "Points": "17"
+                "Goal Difference": "-15",
+                "Points": "20"
             },
             {
                 "Position": "17",
                 "Team": "Nantes",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "14",
                 "Goal Difference": "-18",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "18",
                 "Team": "Metz",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "16",
                 "Goal Difference": "-30",
-                "Points": "13"
+                "Points": "14"
             }
         ],
         "Champions League": [
@@ -2203,16 +2203,6 @@
             },
             {
                 "Position": "15",
-                "Team": "Tondela",
-                "Played": "24",
-                "Wins": "5",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-18",
-                "Points": "21"
-            },
-            {
-                "Position": "16",
                 "Team": "Rio Ave",
                 "Played": "23",
                 "Wins": "4",
@@ -2222,14 +2212,24 @@
                 "Points": "20"
             },
             {
+                "Position": "16",
+                "Team": "Tondela",
+                "Played": "24",
+                "Wins": "4",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-19",
+                "Points": "19"
+            },
+            {
                 "Position": "17",
                 "Team": "Santa Clara",
                 "Played": "24",
                 "Wins": "4",
-                "Draws": "6",
-                "Losses": "14",
-                "Goal Difference": "-12",
-                "Points": "18"
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-11",
+                "Points": "19"
             },
             {
                 "Position": "18",

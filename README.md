@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 March 2026, 03:46 PM UTC (Sunday, 01 March 2026, 09:16 PM IST)
+**Last Updated:** Sunday, 01 March 2026, 04:29 PM UTC (Sunday, 01 March 2026, 09:59 PM IST)
 
 ### Premier League
 
@@ -100,7 +100,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 24 | 20 | 3 | 1 | 65 | 63 |
 | 2 | Borussia Dortmund | 24 | 15 | 7 | 2 | 26 | 52 |
 | 3 | Hoffenheim | 24 | 14 | 4 | 6 | 18 | 46 |
-| 4 | VfB Stuttgart | 24 | 14 | 4 | 6 | 15 | 46 |
+| 4 | VfB Stuttgart | 24 | 14 | 4 | 6 | 16 | 46 |
 | 5 | RB Leipzig | 23 | 12 | 5 | 6 | 12 | 41 |
 | 6 | Bayer Leverkusen | 23 | 12 | 4 | 7 | 15 | 40 |
 | 7 | SC Freiburg | 23 | 9 | 6 | 8 | -3 | 33 |
@@ -113,7 +113,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Mainz 05 | 24 | 5 | 8 | 11 | -12 | 23 |
 | 15 | St. Pauli | 24 | 6 | 5 | 13 | -17 | 23 |
 | 16 | Werder Bremen | 24 | 5 | 7 | 12 | -19 | 22 |
-| 17 | VfL Wolfsburg | 24 | 5 | 5 | 14 | -19 | 20 |
+| 17 | VfL Wolfsburg | 24 | 5 | 5 | 14 | -20 | 20 |
 | 18 | Heidenheim | 24 | 3 | 5 | 16 | -31 | 14 |
 
 ### Serie A
@@ -126,8 +126,8 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Roma | 26 | 16 | 2 | 8 | 18 | 50 |
 | 5 | Como | 27 | 13 | 9 | 5 | 24 | 48 |
 | 6 | Juventus | 26 | 13 | 7 | 6 | 18 | 46 |
-| 7 | Atalanta | 27 | 12 | 9 | 6 | 12 | 45 |
-| 8 | Sassuolo | 27 | 11 | 5 | 11 | -1 | 38 |
+| 7 | Atalanta | 27 | 12 | 9 | 6 | 13 | 45 |
+| 8 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
 | 9 | Bologna | 26 | 10 | 6 | 10 | 3 | 36 |
 | 10 | Lazio | 26 | 8 | 10 | 8 | 1 | 34 |
 | 11 | Parma | 27 | 8 | 9 | 10 | -12 | 33 |
@@ -150,19 +150,19 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Lyon | 23 | 14 | 3 | 6 | 14 | 45 |
 | 4 | Marseille | 23 | 12 | 4 | 7 | 17 | 40 |
 | 5 | Rennes | 24 | 11 | 7 | 6 | 3 | 40 |
-| 6 | Lille | 23 | 11 | 4 | 8 | 5 | 37 |
+| 6 | Lille | 24 | 11 | 5 | 8 | 5 | 38 |
 | 7 | Monaco | 24 | 11 | 4 | 9 | 4 | 37 |
 | 8 | Strasbourg | 24 | 10 | 5 | 9 | 9 | 35 |
-| 9 | Lorient | 23 | 8 | 8 | 7 | -4 | 32 |
+| 9 | Lorient | 24 | 8 | 8 | 8 | -5 | 32 |
 | 10 | Toulouse | 24 | 8 | 7 | 9 | 5 | 31 |
-| 11 | Brest | 23 | 8 | 6 | 9 | -3 | 30 |
+| 11 | Brest | 24 | 8 | 7 | 9 | -3 | 31 |
 | 12 | Angers | 24 | 8 | 5 | 11 | -8 | 29 |
 | 13 | Le Havre | 24 | 6 | 8 | 10 | -10 | 26 |
 | 14 | Paris FC | 24 | 6 | 8 | 10 | -12 | 26 |
 | 15 | Nice | 24 | 6 | 6 | 12 | -14 | 24 |
-| 16 | Auxerre | 23 | 4 | 5 | 14 | -16 | 17 |
-| 17 | Nantes | 23 | 4 | 5 | 14 | -18 | 17 |
-| 18 | Metz | 23 | 3 | 4 | 16 | -30 | 13 |
+| 16 | Auxerre | 24 | 5 | 5 | 14 | -15 | 20 |
+| 17 | Nantes | 24 | 4 | 6 | 14 | -18 | 18 |
+| 18 | Metz | 24 | 3 | 5 | 16 | -30 | 14 |
 
 ### Champions League
 
@@ -305,9 +305,9 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Estrela Amadora | 24 | 5 | 9 | 10 | -15 | 24 |
 | 13 | Casa Pia | 23 | 5 | 7 | 11 | -18 | 22 |
 | 14 | Nacional | 24 | 5 | 6 | 13 | -8 | 21 |
-| 15 | Tondela | 24 | 5 | 6 | 13 | -18 | 21 |
-| 16 | Rio Ave | 23 | 4 | 8 | 11 | -21 | 20 |
-| 17 | Santa Clara | 24 | 4 | 6 | 14 | -12 | 18 |
+| 15 | Rio Ave | 23 | 4 | 8 | 11 | -21 | 20 |
+| 16 | Tondela | 24 | 4 | 7 | 13 | -19 | 19 |
+| 17 | Santa Clara | 24 | 4 | 7 | 13 | -11 | 19 |
 | 18 | AVS | 24 | 1 | 6 | 17 | -39 | 9 |
 
 ### EFL Championship
