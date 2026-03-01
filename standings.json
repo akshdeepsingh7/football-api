@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 09:45 PM UTC",
-        "IST": "Monday, 02 March 2026, 03:15 AM IST"
+        "UTC": "Sunday, 01 March 2026, 10:25 PM UTC",
+        "IST": "Monday, 02 March 2026, 03:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2507,6 +2507,16 @@
             },
             {
                 "Position": "3",
+                "Team": "NYCFC",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "1",
+                "Points": "4"
+            },
+            {
+                "Position": "4",
                 "Team": "Chicago Fire",
                 "Played": "2",
                 "Wins": "1",
@@ -2516,7 +2526,7 @@
                 "Points": "3"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Cincinnati",
                 "Played": "2",
                 "Wins": "1",
@@ -2526,7 +2536,7 @@
                 "Points": "3"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "DC United",
                 "Played": "2",
                 "Wins": "1",
@@ -2534,16 +2544,6 @@
                 "Losses": "1",
                 "Goal Difference": "0",
                 "Points": "3"
-            },
-            {
-                "Position": "6",
-                "Team": "NYCFC",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "2"
             },
             {
                 "Position": "7",
@@ -2557,16 +2557,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Philadelphia Union",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "1"
-            },
-            {
-                "Position": "9",
                 "Team": "Charlotte",
                 "Played": "2",
                 "Wins": "0",
@@ -2576,13 +2566,23 @@
                 "Points": "1"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Orlando City",
                 "Played": "1",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "-1",
+                "Points": "0"
+            },
+            {
+                "Position": "10",
+                "Team": "Philadelphia Union",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-2",
                 "Points": "0"
             },
             {
