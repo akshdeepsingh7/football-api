@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 March 2026, 02:25 PM UTC (Sunday, 01 March 2026, 07:55 PM IST)
+**Last Updated:** Sunday, 01 March 2026, 02:49 PM UTC (Sunday, 01 March 2026, 08:19 PM IST)
 
 ### Premier League
 
@@ -54,15 +54,15 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Liverpool FC | 28 | 14 | 6 | 8 | 10 | 48 |
 | 6 | Chelsea | 27 | 12 | 9 | 6 | 17 | 45 |
 | 7 | Brentford | 28 | 13 | 4 | 11 | 4 | 43 |
-| 8 | Everton | 28 | 11 | 7 | 10 | -1 | 40 |
-| 9 | Fulham | 28 | 12 | 4 | 12 | -2 | 40 |
+| 8 | Fulham | 28 | 12 | 4 | 12 | -1 | 40 |
+| 9 | Everton | 28 | 11 | 7 | 10 | -1 | 40 |
 | 10 | AFC Bournemouth | 28 | 9 | 12 | 7 | -2 | 39 |
 | 11 | Crystal Palace | 28 | 10 | 8 | 10 | -2 | 38 |
 | 12 | Brighton & Hove Albion | 28 | 9 | 10 | 9 | 3 | 37 |
 | 13 | Sunderland | 28 | 9 | 10 | 9 | -5 | 37 |
 | 14 | Newcastle United | 28 | 10 | 6 | 12 | -2 | 36 |
 | 15 | Leeds United | 28 | 7 | 10 | 11 | -10 | 31 |
-| 16 | Tottenham Hotspur | 28 | 7 | 8 | 13 | -5 | 29 |
+| 16 | Tottenham Hotspur | 28 | 7 | 8 | 13 | -6 | 29 |
 | 17 | Nottingham Forest | 28 | 7 | 6 | 15 | -15 | 27 |
 | 18 | West Ham United | 28 | 6 | 7 | 15 | -20 | 25 |
 | 19 | Burnley | 28 | 4 | 7 | 17 | -24 | 19 |
@@ -100,7 +100,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 24 | 20 | 3 | 1 | 65 | 63 |
 | 2 | Borussia Dortmund | 24 | 15 | 7 | 2 | 26 | 52 |
 | 3 | Hoffenheim | 24 | 14 | 4 | 6 | 18 | 46 |
-| 4 | VfB Stuttgart | 23 | 13 | 4 | 6 | 12 | 43 |
+| 4 | VfB Stuttgart | 24 | 13 | 5 | 6 | 12 | 44 |
 | 5 | RB Leipzig | 23 | 12 | 5 | 6 | 12 | 41 |
 | 6 | Bayer Leverkusen | 23 | 12 | 4 | 7 | 15 | 40 |
 | 7 | SC Freiburg | 23 | 9 | 6 | 8 | -3 | 33 |
@@ -113,7 +113,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Mainz 05 | 24 | 5 | 8 | 11 | -12 | 23 |
 | 15 | St. Pauli | 24 | 6 | 5 | 13 | -17 | 23 |
 | 16 | Werder Bremen | 24 | 5 | 7 | 12 | -19 | 22 |
-| 17 | VfL Wolfsburg | 23 | 5 | 5 | 13 | -16 | 20 |
+| 17 | VfL Wolfsburg | 24 | 5 | 6 | 13 | -16 | 21 |
 | 18 | Heidenheim | 24 | 3 | 5 | 16 | -31 | 14 |
 
 ### Serie A
@@ -158,8 +158,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Brest | 23 | 8 | 6 | 9 | -3 | 30 |
 | 12 | Angers | 24 | 8 | 5 | 11 | -8 | 29 |
 | 13 | Le Havre | 24 | 6 | 8 | 10 | -10 | 26 |
-| 14 | Nice | 24 | 6 | 7 | 11 | -13 | 25 |
-| 15 | Paris FC | 24 | 5 | 9 | 10 | -13 | 24 |
+| 14 | Paris FC | 24 | 6 | 8 | 10 | -12 | 26 |
+| 15 | Nice | 24 | 6 | 6 | 12 | -14 | 24 |
 | 16 | Auxerre | 23 | 4 | 5 | 14 | -16 | 17 |
 | 17 | Nantes | 23 | 4 | 5 | 14 | -18 | 17 |
 | 18 | Metz | 23 | 3 | 4 | 16 | -30 | 13 |

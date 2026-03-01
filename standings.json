@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 02:25 PM UTC",
-        "IST": "Sunday, 01 March 2026, 07:55 PM IST"
+        "UTC": "Sunday, 01 March 2026, 02:49 PM UTC",
+        "IST": "Sunday, 01 March 2026, 08:19 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -77,22 +77,22 @@
             },
             {
                 "Position": "8",
+                "Team": "Fulham",
+                "Played": "28",
+                "Wins": "12",
+                "Draws": "4",
+                "Losses": "12",
+                "Goal Difference": "-1",
+                "Points": "40"
+            },
+            {
+                "Position": "9",
                 "Team": "Everton",
                 "Played": "28",
                 "Wins": "11",
                 "Draws": "7",
                 "Losses": "10",
                 "Goal Difference": "-1",
-                "Points": "40"
-            },
-            {
-                "Position": "9",
-                "Team": "Fulham",
-                "Played": "28",
-                "Wins": "12",
-                "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-2",
                 "Points": "40"
             },
             {
@@ -162,7 +162,7 @@
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "13",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "29"
             },
             {
@@ -442,12 +442,12 @@
             {
                 "Position": "4",
                 "Team": "VfB Stuttgart",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "13",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "12",
-                "Points": "43"
+                "Points": "44"
             },
             {
                 "Position": "5",
@@ -572,12 +572,12 @@
             {
                 "Position": "17",
                 "Team": "VfL Wolfsburg",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "5",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "13",
                 "Goal Difference": "-16",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "18",
@@ -925,22 +925,22 @@
             },
             {
                 "Position": "14",
-                "Team": "Nice",
+                "Team": "Paris FC",
                 "Played": "24",
                 "Wins": "6",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-13",
-                "Points": "25"
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-12",
+                "Points": "26"
             },
             {
                 "Position": "15",
-                "Team": "Paris FC",
+                "Team": "Nice",
                 "Played": "24",
-                "Wins": "5",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-13",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-14",
                 "Points": "24"
             },
             {
