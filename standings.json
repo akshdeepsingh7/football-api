@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 11:42 AM UTC",
-        "IST": "Sunday, 01 March 2026, 05:12 PM IST"
+        "UTC": "Sunday, 01 March 2026, 12:51 PM UTC",
+        "IST": "Sunday, 01 March 2026, 06:21 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2869,31 +2869,31 @@
             },
             {
                 "Position": "9",
-                "Team": "Odisha",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "0",
-                "Points": "2"
+                "Team": "Chennaiyin",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "3"
             },
             {
                 "Position": "10",
+                "Team": "Odisha",
+                "Played": "2",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "1"
+            },
+            {
+                "Position": "11",
                 "Team": "NorthEast Utd",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "-3",
-                "Points": "1"
-            },
-            {
-                "Position": "11",
-                "Team": "Chennaiyin",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "2",
                 "Goal Difference": "-3",
                 "Points": "1"
             },
