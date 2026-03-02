@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 01 March 2026, 11:47 PM UTC",
-        "IST": "Monday, 02 March 2026, 05:17 AM IST"
+        "UTC": "Monday, 02 March 2026, 02:11 AM UTC",
+        "IST": "Monday, 02 March 2026, 07:41 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2547,6 +2547,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Inter Miami",
+                "Played": "2",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "3"
+            },
+            {
+                "Position": "8",
                 "Team": "Columbus Crew",
                 "Played": "2",
                 "Wins": "0",
@@ -2556,7 +2566,7 @@
                 "Points": "1"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Charlotte",
                 "Played": "2",
                 "Wins": "0",
@@ -2564,16 +2574,6 @@
                 "Losses": "1",
                 "Goal Difference": "-3",
                 "Points": "1"
-            },
-            {
-                "Position": "9",
-                "Team": "Orlando City",
-                "Played": "1",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "0"
             },
             {
                 "Position": "10",
@@ -2587,11 +2587,11 @@
             },
             {
                 "Position": "11",
-                "Team": "Inter Miami",
-                "Played": "1",
+                "Team": "Orlando City",
+                "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
-                "Losses": "1",
+                "Losses": "2",
                 "Goal Difference": "-3",
                 "Points": "0"
             },

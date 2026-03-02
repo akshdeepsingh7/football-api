@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 01 March 2026, 11:47 PM UTC (Monday, 02 March 2026, 05:17 AM IST)
+**Last Updated:** Monday, 02 March 2026, 02:11 AM UTC (Monday, 02 March 2026, 07:41 AM IST)
 
 ### Premier League
 
@@ -349,11 +349,11 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
 | 5 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
 | 6 | DC United | 2 | 1 | 0 | 1 | 0 | 3 |
-| 7 | Columbus Crew | 2 | 0 | 1 | 1 | -1 | 1 |
-| 8 | Charlotte | 2 | 0 | 1 | 1 | -3 | 1 |
-| 9 | Orlando City | 1 | 0 | 0 | 1 | -1 | 0 |
+| 7 | Inter Miami | 2 | 1 | 0 | 1 | -1 | 3 |
+| 8 | Columbus Crew | 2 | 0 | 1 | 1 | -1 | 1 |
+| 9 | Charlotte | 2 | 0 | 1 | 1 | -3 | 1 |
 | 10 | Philadelphia Union | 2 | 0 | 0 | 2 | -2 | 0 |
-| 11 | Inter Miami | 1 | 0 | 0 | 1 | -3 | 0 |
+| 11 | Orlando City | 2 | 0 | 0 | 2 | -3 | 0 |
 | 12 | Toronto | 2 | 0 | 0 | 2 | -4 | 0 |
 | 13 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
 | 14 | Atlanta United | 2 | 0 | 0 | 2 | -4 | 0 |
