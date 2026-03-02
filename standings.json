@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 02 March 2026, 07:11 PM UTC",
-        "IST": "Tuesday, 03 March 2026, 12:41 AM IST"
+        "UTC": "Monday, 02 March 2026, 07:57 PM UTC",
+        "IST": "Tuesday, 03 March 2026, 01:27 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -663,6 +663,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Bologna",
+                "Played": "27",
+                "Wins": "11",
+                "Draws": "6",
+                "Losses": "10",
+                "Goal Difference": "4",
+                "Points": "39"
+            },
+            {
+                "Position": "9",
                 "Team": "Sassuolo",
                 "Played": "27",
                 "Wins": "11",
@@ -670,16 +680,6 @@
                 "Losses": "11",
                 "Goal Difference": "-2",
                 "Points": "38"
-            },
-            {
-                "Position": "9",
-                "Team": "Bologna",
-                "Played": "27",
-                "Wins": "10",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "3",
-                "Points": "37"
             },
             {
                 "Position": "10",
@@ -693,6 +693,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Udinese",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-11",
+                "Points": "33"
+            },
+            {
+                "Position": "12",
                 "Team": "Parma",
                 "Played": "27",
                 "Wins": "8",
@@ -700,16 +710,6 @@
                 "Losses": "10",
                 "Goal Difference": "-12",
                 "Points": "33"
-            },
-            {
-                "Position": "12",
-                "Team": "Udinese",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-11",
-                "Points": "32"
             },
             {
                 "Position": "13",
@@ -744,12 +744,12 @@
             {
                 "Position": "16",
                 "Team": "Fiorentina",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "5",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "12",
                 "Goal Difference": "-9",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "17",
@@ -776,10 +776,10 @@
                 "Team": "Pisa",
                 "Played": "27",
                 "Wins": "1",
-                "Draws": "13",
-                "Losses": "13",
-                "Goal Difference": "-23",
-                "Points": "16"
+                "Draws": "12",
+                "Losses": "14",
+                "Goal Difference": "-24",
+                "Points": "15"
             },
             {
                 "Position": "20",
