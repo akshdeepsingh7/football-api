@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 02 March 2026, 05:12 PM UTC",
-        "IST": "Monday, 02 March 2026, 10:42 PM IST"
+        "UTC": "Monday, 02 March 2026, 06:03 PM UTC",
+        "IST": "Monday, 02 March 2026, 11:33 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -674,12 +674,12 @@
             {
                 "Position": "9",
                 "Team": "Bologna",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "10",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "10",
                 "Goal Difference": "3",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "10",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Pisa",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "1",
-                "Draws": "12",
+                "Draws": "13",
                 "Losses": "13",
                 "Goal Difference": "-23",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "20",
