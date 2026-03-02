@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 02 March 2026, 07:57 PM UTC",
-        "IST": "Tuesday, 03 March 2026, 01:27 AM IST"
+        "UTC": "Monday, 02 March 2026, 08:42 PM UTC",
+        "IST": "Tuesday, 03 March 2026, 02:12 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,11 +220,11 @@
             {
                 "Position": "2",
                 "Team": "Real Madrid",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "19",
                 "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "33",
+                "Losses": "4",
+                "Goal Difference": "32",
                 "Points": "60"
             },
             {
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Getafe",
+                "Played": "26",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-8",
+                "Points": "32"
+            },
+            {
+                "Position": "12",
                 "Team": "Sevilla",
                 "Played": "26",
                 "Wins": "8",
@@ -318,7 +328,7 @@
                 "Points": "30"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Girona",
                 "Played": "26",
                 "Wins": "7",
@@ -328,23 +338,13 @@
                 "Points": "30"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Valencia",
                 "Played": "26",
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-12",
-                "Points": "29"
-            },
-            {
-                "Position": "14",
-                "Team": "Getafe",
-                "Played": "25",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-9",
                 "Points": "29"
             },
             {
@@ -683,6 +683,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Udinese",
+                "Played": "27",
+                "Wins": "10",
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-10",
+                "Points": "35"
+            },
+            {
+                "Position": "11",
                 "Team": "Lazio",
                 "Played": "27",
                 "Wins": "8",
@@ -690,16 +700,6 @@
                 "Losses": "9",
                 "Goal Difference": "-1",
                 "Points": "34"
-            },
-            {
-                "Position": "11",
-                "Team": "Udinese",
-                "Played": "27",
-                "Wins": "9",
-                "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "-11",
-                "Points": "33"
             },
             {
                 "Position": "12",
@@ -746,10 +746,10 @@
                 "Team": "Fiorentina",
                 "Played": "27",
                 "Wins": "5",
-                "Draws": "10",
-                "Losses": "12",
-                "Goal Difference": "-9",
-                "Points": "25"
+                "Draws": "9",
+                "Losses": "13",
+                "Goal Difference": "-10",
+                "Points": "24"
             },
             {
                 "Position": "17",
@@ -2084,12 +2084,12 @@
             {
                 "Position": "3",
                 "Team": "Benfica",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "16",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "0",
                 "Goal Difference": "36",
-                "Points": "55"
+                "Points": "56"
             },
             {
                 "Position": "4",
@@ -2104,12 +2104,12 @@
             {
                 "Position": "5",
                 "Team": "Gil Vicente",
-                "Played": "23",
+                "Played": "24",
                 "Wins": "11",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "5",
                 "Goal Difference": "13",
-                "Points": "40"
+                "Points": "41"
             },
             {
                 "Position": "6",
@@ -2256,12 +2256,12 @@
             {
                 "Position": "2",
                 "Team": "Middlesbrough",
-                "Played": "34",
-                "Wins": "18",
+                "Played": "35",
+                "Wins": "19",
                 "Draws": "9",
                 "Losses": "7",
-                "Goal Difference": "17",
-                "Points": "63"
+                "Goal Difference": "19",
+                "Points": "66"
             },
             {
                 "Position": "3",
@@ -2345,22 +2345,22 @@
             },
             {
                 "Position": "11",
-                "Team": "Birmingham City",
-                "Played": "34",
-                "Wins": "13",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "2",
-                "Points": "49"
-            },
-            {
-                "Position": "12",
                 "Team": "Preston North End",
                 "Played": "35",
                 "Wins": "12",
                 "Draws": "13",
                 "Losses": "10",
                 "Goal Difference": "1",
+                "Points": "49"
+            },
+            {
+                "Position": "12",
+                "Team": "Birmingham City",
+                "Played": "35",
+                "Wins": "13",
+                "Draws": "10",
+                "Losses": "12",
+                "Goal Difference": "0",
                 "Points": "49"
             },
             {
