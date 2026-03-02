@@ -41,11 +41,32 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 02 March 2026, 09:35 PM UTC (Tuesday, 03 March 2026, 03:05 AM IST)
+**Last Updated:** Monday, 02 March 2026, 10:28 PM UTC (Tuesday, 03 March 2026, 03:58 AM IST)
 
 ### Premier League
 
-Data not available.
+| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
+|----------|------|--------|------|-------|--------|-----------------|--------|
+| 1 | Arsenal | 29 | 19 | 7 | 3 | 36 | 64 |
+| 2 | Manchester City | 28 | 18 | 5 | 5 | 32 | 59 |
+| 3 | Manchester United | 28 | 14 | 9 | 5 | 12 | 51 |
+| 4 | Aston Villa | 28 | 15 | 6 | 7 | 8 | 51 |
+| 5 | Liverpool FC | 28 | 14 | 6 | 8 | 10 | 48 |
+| 6 | Chelsea | 28 | 12 | 9 | 7 | 16 | 45 |
+| 7 | Brentford | 28 | 13 | 4 | 11 | 4 | 43 |
+| 8 | Everton | 28 | 11 | 7 | 10 | -1 | 40 |
+| 9 | Fulham | 28 | 12 | 4 | 12 | -2 | 40 |
+| 10 | AFC Bournemouth | 28 | 9 | 12 | 7 | -2 | 39 |
+| 11 | Brighton & Hove Albion | 28 | 9 | 10 | 9 | 3 | 37 |
+| 12 | Sunderland | 28 | 9 | 10 | 9 | -5 | 37 |
+| 13 | Newcastle United | 28 | 10 | 6 | 12 | -2 | 36 |
+| 14 | Crystal Palace | 28 | 9 | 8 | 11 | -4 | 35 |
+| 15 | Leeds United | 28 | 7 | 10 | 11 | -10 | 31 |
+| 16 | Tottenham Hotspur | 28 | 7 | 8 | 13 | -5 | 29 |
+| 17 | Nottingham Forest | 28 | 7 | 6 | 15 | -15 | 27 |
+| 18 | West Ham United | 28 | 6 | 7 | 15 | -20 | 25 |
+| 19 | Burnley | 28 | 4 | 7 | 17 | -24 | 19 |
+| 20 | Wolverhampton Wanderers | 29 | 2 | 7 | 20 | -31 | 13 |
 
 ### La Liga
 
@@ -108,13 +129,13 @@ Data not available.
 | 7 | Atalanta | 27 | 12 | 9 | 6 | 13 | 45 |
 | 8 | Bologna | 27 | 11 | 6 | 10 | 4 | 39 |
 | 9 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
-| 10 | Udinese | 27 | 10 | 5 | 12 | -9 | 35 |
+| 10 | Udinese | 27 | 10 | 5 | 12 | -8 | 35 |
 | 11 | Lazio | 27 | 8 | 10 | 9 | -1 | 34 |
 | 12 | Parma | 27 | 8 | 9 | 10 | -12 | 33 |
 | 13 | Cagliari | 27 | 7 | 9 | 11 | -7 | 30 |
 | 14 | Torino | 27 | 8 | 6 | 13 | -20 | 30 |
 | 15 | Genoa | 27 | 6 | 9 | 12 | -7 | 27 |
-| 16 | Fiorentina | 27 | 5 | 9 | 13 | -11 | 24 |
+| 16 | Fiorentina | 27 | 5 | 9 | 13 | -12 | 24 |
 | 17 | Cremonese | 27 | 5 | 9 | 13 | -17 | 24 |
 | 18 | Lecce | 27 | 6 | 6 | 15 | -18 | 24 |
 | 19 | Pisa | 27 | 1 | 12 | 14 | -24 | 15 |
@@ -272,9 +293,9 @@ Data not available.
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 24 | 21 | 2 | 1 | 39 | 65 |
 | 2 | Sporting CP | 24 | 19 | 4 | 1 | 50 | 61 |
-| 3 | Benfica | 24 | 16 | 8 | 0 | 36 | 56 |
+| 3 | Benfica | 24 | 17 | 7 | 0 | 37 | 58 |
 | 4 | Braga | 24 | 13 | 6 | 5 | 27 | 45 |
-| 5 | Gil Vicente | 24 | 11 | 8 | 5 | 13 | 41 |
+| 5 | Gil Vicente | 24 | 11 | 7 | 6 | 12 | 40 |
 | 6 | Famalicão | 24 | 10 | 6 | 8 | 8 | 36 |
 | 7 | Moreirense | 24 | 10 | 4 | 10 | -4 | 34 |
 | 8 | Estoril | 24 | 9 | 6 | 9 | 4 | 33 |
