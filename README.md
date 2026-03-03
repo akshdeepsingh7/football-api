@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 03 March 2026, 08:38 PM UTC (Wednesday, 04 March 2026, 02:08 AM IST)
+**Last Updated:** Tuesday, 03 March 2026, 09:35 PM UTC (Wednesday, 04 March 2026, 03:05 AM IST)
 
 ### Premier League
 
@@ -54,18 +54,18 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Liverpool FC | 29 | 14 | 7 | 8 | 10 | 49 |
 | 6 | Chelsea | 28 | 12 | 9 | 7 | 16 | 45 |
 | 7 | Brentford | 29 | 13 | 5 | 11 | 4 | 44 |
-| 8 | Everton | 29 | 12 | 7 | 10 | 0 | 43 |
+| 8 | Everton | 29 | 12 | 7 | 10 | 1 | 43 |
 | 9 | AFC Bournemouth | 29 | 9 | 13 | 7 | -2 | 40 |
 | 10 | Fulham | 28 | 12 | 4 | 12 | -2 | 40 |
-| 11 | Sunderland | 29 | 9 | 11 | 9 | -5 | 38 |
+| 11 | Sunderland | 29 | 10 | 10 | 9 | -4 | 40 |
 | 12 | Brighton & Hove Albion | 28 | 9 | 10 | 9 | 3 | 37 |
 | 13 | Newcastle United | 28 | 10 | 6 | 12 | -2 | 36 |
 | 14 | Crystal Palace | 28 | 9 | 8 | 11 | -4 | 35 |
-| 15 | Leeds United | 29 | 7 | 11 | 11 | -10 | 32 |
+| 15 | Leeds United | 29 | 7 | 10 | 12 | -11 | 31 |
 | 16 | Tottenham Hotspur | 28 | 7 | 8 | 13 | -5 | 29 |
 | 17 | Nottingham Forest | 28 | 7 | 6 | 15 | -15 | 27 |
 | 18 | West Ham United | 28 | 6 | 7 | 15 | -20 | 25 |
-| 19 | Burnley | 29 | 4 | 7 | 18 | -25 | 19 |
+| 19 | Burnley | 29 | 4 | 7 | 18 | -26 | 19 |
 | 20 | Wolverhampton Wanderers | 30 | 2 | 8 | 20 | -31 | 14 |
 
 ### La Liga
@@ -316,9 +316,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 35 | 21 | 8 | 6 | 34 | 71 |
 | 2 | Middlesbrough | 35 | 19 | 9 | 7 | 19 | 66 |
-| 3 | Millwall | 35 | 18 | 8 | 9 | 7 | 62 |
-| 4 | Ipswich Town | 34 | 17 | 10 | 7 | 25 | 61 |
-| 5 | Hull City | 35 | 18 | 7 | 10 | 8 | 61 |
+| 3 | Ipswich Town | 34 | 18 | 9 | 7 | 26 | 63 |
+| 4 | Millwall | 35 | 18 | 8 | 9 | 7 | 62 |
+| 5 | Hull City | 35 | 18 | 6 | 11 | 7 | 60 |
 | 6 | Wrexham | 35 | 15 | 12 | 8 | 9 | 57 |
 | 7 | Southampton | 35 | 14 | 11 | 10 | 11 | 53 |
 | 8 | Derby County | 35 | 14 | 9 | 12 | 6 | 51 |
