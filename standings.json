@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 03 March 2026, 09:35 PM UTC",
-        "IST": "Wednesday, 04 March 2026, 03:05 AM IST"
+        "UTC": "Tuesday, 03 March 2026, 10:30 PM UTC",
+        "IST": "Wednesday, 04 March 2026, 04:00 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -50,10 +50,10 @@
                 "Team": "Liverpool FC",
                 "Played": "29",
                 "Wins": "14",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "10",
-                "Points": "49"
+                "Draws": "6",
+                "Losses": "9",
+                "Goal Difference": "9",
+                "Points": "48"
             },
             {
                 "Position": "6",
@@ -199,11 +199,11 @@
                 "Position": "20",
                 "Team": "Wolverhampton Wanderers",
                 "Played": "30",
-                "Wins": "2",
-                "Draws": "8",
+                "Wins": "3",
+                "Draws": "7",
                 "Losses": "20",
-                "Goal Difference": "-31",
-                "Points": "14"
+                "Goal Difference": "-30",
+                "Points": "16"
             }
         ],
         "La Liga": [
