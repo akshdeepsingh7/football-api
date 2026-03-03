@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 03 March 2026, 07:57 PM UTC",
-        "IST": "Wednesday, 04 March 2026, 01:27 AM IST"
+        "UTC": "Tuesday, 03 March 2026, 08:38 PM UTC",
+        "IST": "Wednesday, 04 March 2026, 02:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -48,12 +48,12 @@
             {
                 "Position": "5",
                 "Team": "Liverpool FC",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "14",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "8",
                 "Goal Difference": "10",
-                "Points": "48"
+                "Points": "49"
             },
             {
                 "Position": "6",
@@ -79,11 +79,11 @@
                 "Position": "8",
                 "Team": "Everton",
                 "Played": "29",
-                "Wins": "11",
-                "Draws": "8",
+                "Wins": "12",
+                "Draws": "7",
                 "Losses": "10",
-                "Goal Difference": "-1",
-                "Points": "41"
+                "Goal Difference": "0",
+                "Points": "43"
             },
             {
                 "Position": "9",
@@ -190,20 +190,20 @@
                 "Team": "Burnley",
                 "Played": "29",
                 "Wins": "4",
-                "Draws": "8",
-                "Losses": "17",
-                "Goal Difference": "-24",
-                "Points": "20"
+                "Draws": "7",
+                "Losses": "18",
+                "Goal Difference": "-25",
+                "Points": "19"
             },
             {
                 "Position": "20",
                 "Team": "Wolverhampton Wanderers",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "2",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "20",
                 "Goal Difference": "-31",
-                "Points": "13"
+                "Points": "14"
             }
         ],
         "La Liga": [
