@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 03 March 2026, 07:23 PM UTC",
-        "IST": "Wednesday, 04 March 2026, 12:53 AM IST"
+        "UTC": "Tuesday, 03 March 2026, 07:57 PM UTC",
+        "IST": "Wednesday, 04 March 2026, 01:27 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -68,25 +68,35 @@
             {
                 "Position": "7",
                 "Team": "Brentford",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "13",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "11",
                 "Goal Difference": "4",
-                "Points": "43"
+                "Points": "44"
             },
             {
                 "Position": "8",
                 "Team": "Everton",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "11",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "-1",
-                "Points": "40"
+                "Points": "41"
             },
             {
                 "Position": "9",
+                "Team": "AFC Bournemouth",
+                "Played": "29",
+                "Wins": "9",
+                "Draws": "13",
+                "Losses": "7",
+                "Goal Difference": "-2",
+                "Points": "40"
+            },
+            {
+                "Position": "10",
                 "Team": "Fulham",
                 "Played": "28",
                 "Wins": "12",
@@ -96,33 +106,23 @@
                 "Points": "40"
             },
             {
-                "Position": "10",
-                "Team": "AFC Bournemouth",
-                "Played": "28",
+                "Position": "11",
+                "Team": "Sunderland",
+                "Played": "29",
                 "Wins": "9",
-                "Draws": "12",
-                "Losses": "7",
-                "Goal Difference": "-2",
-                "Points": "39"
+                "Draws": "11",
+                "Losses": "9",
+                "Goal Difference": "-5",
+                "Points": "38"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Brighton & Hove Albion",
                 "Played": "28",
                 "Wins": "9",
                 "Draws": "10",
                 "Losses": "9",
                 "Goal Difference": "3",
-                "Points": "37"
-            },
-            {
-                "Position": "12",
-                "Team": "Sunderland",
-                "Played": "28",
-                "Wins": "9",
-                "Draws": "10",
-                "Losses": "9",
-                "Goal Difference": "-5",
                 "Points": "37"
             },
             {
@@ -148,12 +148,12 @@
             {
                 "Position": "15",
                 "Team": "Leeds United",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "7",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "11",
                 "Goal Difference": "-10",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "16",
@@ -188,12 +188,12 @@
             {
                 "Position": "19",
                 "Team": "Burnley",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "4",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "17",
                 "Goal Difference": "-24",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "20",
@@ -2276,22 +2276,22 @@
             {
                 "Position": "4",
                 "Team": "Ipswich Town",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "17",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "7",
                 "Goal Difference": "25",
-                "Points": "60"
+                "Points": "61"
             },
             {
                 "Position": "5",
                 "Team": "Hull City",
-                "Played": "34",
+                "Played": "35",
                 "Wins": "18",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "10",
                 "Goal Difference": "8",
-                "Points": "60"
+                "Points": "61"
             },
             {
                 "Position": "6",
