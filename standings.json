@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 04 March 2026, 08:38 PM UTC",
-        "IST": "Thursday, 05 March 2026, 02:08 AM IST"
+        "UTC": "Wednesday, 04 March 2026, 09:35 PM UTC",
+        "IST": "Thursday, 05 March 2026, 03:05 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -19,11 +19,11 @@
                 "Position": "2",
                 "Team": "Manchester City",
                 "Played": "29",
-                "Wins": "19",
-                "Draws": "5",
+                "Wins": "18",
+                "Draws": "6",
                 "Losses": "5",
-                "Goal Difference": "33",
-                "Points": "62"
+                "Goal Difference": "32",
+                "Points": "60"
             },
             {
                 "Position": "3",
@@ -42,7 +42,7 @@
                 "Wins": "15",
                 "Draws": "6",
                 "Losses": "8",
-                "Goal Difference": "7",
+                "Goal Difference": "5",
                 "Points": "51"
             },
             {
@@ -52,7 +52,7 @@
                 "Wins": "13",
                 "Draws": "9",
                 "Losses": "7",
-                "Goal Difference": "17",
+                "Goal Difference": "19",
                 "Points": "48"
             },
             {
@@ -87,22 +87,22 @@
             },
             {
                 "Position": "9",
-                "Team": "Fulham",
-                "Played": "29",
-                "Wins": "12",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-2",
-                "Points": "41"
-            },
-            {
-                "Position": "10",
                 "Team": "AFC Bournemouth",
                 "Played": "29",
                 "Wins": "9",
                 "Draws": "13",
                 "Losses": "7",
                 "Goal Difference": "-2",
+                "Points": "40"
+            },
+            {
+                "Position": "10",
+                "Team": "Fulham",
+                "Played": "29",
+                "Wins": "12",
+                "Draws": "4",
+                "Losses": "13",
+                "Goal Difference": "-3",
                 "Points": "40"
             },
             {
@@ -170,20 +170,20 @@
                 "Team": "Nottingham Forest",
                 "Played": "29",
                 "Wins": "7",
-                "Draws": "6",
-                "Losses": "16",
-                "Goal Difference": "-16",
-                "Points": "27"
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-15",
+                "Points": "28"
             },
             {
                 "Position": "18",
                 "Team": "West Ham United",
                 "Played": "29",
-                "Wins": "6",
-                "Draws": "8",
+                "Wins": "7",
+                "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-20",
-                "Points": "26"
+                "Goal Difference": "-19",
+                "Points": "28"
             },
             {
                 "Position": "19",
@@ -463,11 +463,11 @@
                 "Position": "6",
                 "Team": "Bayer Leverkusen",
                 "Played": "24",
-                "Wins": "12",
-                "Draws": "5",
+                "Wins": "13",
+                "Draws": "4",
                 "Losses": "7",
-                "Goal Difference": "15",
-                "Points": "41"
+                "Goal Difference": "16",
+                "Points": "43"
             },
             {
                 "Position": "7",
@@ -514,10 +514,10 @@
                 "Team": "Hamburg",
                 "Played": "24",
                 "Wins": "6",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "-8",
-                "Points": "27"
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-9",
+                "Points": "26"
             },
             {
                 "Position": "12",
