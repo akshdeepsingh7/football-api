@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 04 March 2026, 06:03 PM UTC",
-        "IST": "Wednesday, 04 March 2026, 11:33 PM IST"
+        "UTC": "Wednesday, 04 March 2026, 07:11 PM UTC",
+        "IST": "Thursday, 05 March 2026, 12:41 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -329,6 +329,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Rayo Vallecano",
+                "Played": "26",
+                "Wins": "7",
+                "Draws": "9",
+                "Losses": "10",
+                "Goal Difference": "-7",
+                "Points": "30"
+            },
+            {
+                "Position": "14",
                 "Team": "Girona",
                 "Played": "26",
                 "Wins": "7",
@@ -338,7 +348,7 @@
                 "Points": "30"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Valencia",
                 "Played": "26",
                 "Wins": "7",
@@ -346,16 +356,6 @@
                 "Losses": "11",
                 "Goal Difference": "-12",
                 "Points": "29"
-            },
-            {
-                "Position": "15",
-                "Team": "Rayo Vallecano",
-                "Played": "26",
-                "Wins": "6",
-                "Draws": "10",
-                "Losses": "10",
-                "Goal Difference": "-9",
-                "Points": "28"
             },
             {
                 "Position": "16",
@@ -402,10 +402,10 @@
                 "Team": "Real Oviedo",
                 "Played": "26",
                 "Wins": "3",
-                "Draws": "9",
-                "Losses": "14",
-                "Goal Difference": "-24",
-                "Points": "18"
+                "Draws": "8",
+                "Losses": "15",
+                "Goal Difference": "-26",
+                "Points": "17"
             }
         ],
         "Bundesliga": [

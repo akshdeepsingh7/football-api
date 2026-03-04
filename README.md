@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 04 March 2026, 06:03 PM UTC (Wednesday, 04 March 2026, 11:33 PM IST)
+**Last Updated:** Wednesday, 04 March 2026, 07:11 PM UTC (Thursday, 05 March 2026, 12:41 AM IST)
 
 ### Premier League
 
@@ -84,14 +84,14 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Osasuna | 26 | 9 | 6 | 11 | 0 | 33 |
 | 11 | Getafe | 26 | 9 | 5 | 12 | -8 | 32 |
 | 12 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
-| 13 | Girona | 26 | 7 | 9 | 10 | -15 | 30 |
-| 14 | Valencia | 26 | 7 | 8 | 11 | -12 | 29 |
-| 15 | Rayo Vallecano | 26 | 6 | 10 | 10 | -9 | 28 |
+| 13 | Rayo Vallecano | 26 | 7 | 9 | 10 | -7 | 30 |
+| 14 | Girona | 26 | 7 | 9 | 10 | -15 | 30 |
+| 15 | Valencia | 26 | 7 | 8 | 11 | -12 | 29 |
 | 16 | Alavés | 26 | 7 | 6 | 13 | -11 | 27 |
 | 17 | Elche | 26 | 5 | 11 | 10 | -5 | 26 |
 | 18 | Mallorca | 26 | 6 | 6 | 14 | -13 | 24 |
 | 19 | Levante | 26 | 5 | 6 | 15 | -16 | 21 |
-| 20 | Real Oviedo | 26 | 3 | 9 | 14 | -24 | 18 |
+| 20 | Real Oviedo | 26 | 3 | 8 | 15 | -26 | 17 |
 
 ### Bundesliga
 
