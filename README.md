@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 04 March 2026, 05:09 PM UTC (Wednesday, 04 March 2026, 10:39 PM IST)
+**Last Updated:** Wednesday, 04 March 2026, 06:03 PM UTC (Wednesday, 04 March 2026, 11:33 PM IST)
 
 ### Premier League
 
@@ -86,12 +86,12 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
 | 13 | Girona | 26 | 7 | 9 | 10 | -15 | 30 |
 | 14 | Valencia | 26 | 7 | 8 | 11 | -12 | 29 |
-| 15 | Rayo Vallecano | 25 | 6 | 9 | 10 | -9 | 27 |
+| 15 | Rayo Vallecano | 26 | 6 | 10 | 10 | -9 | 28 |
 | 16 | Alavés | 26 | 7 | 6 | 13 | -11 | 27 |
 | 17 | Elche | 26 | 5 | 11 | 10 | -5 | 26 |
 | 18 | Mallorca | 26 | 6 | 6 | 14 | -13 | 24 |
 | 19 | Levante | 26 | 5 | 6 | 15 | -16 | 21 |
-| 20 | Real Oviedo | 25 | 3 | 8 | 14 | -24 | 17 |
+| 20 | Real Oviedo | 26 | 3 | 9 | 14 | -24 | 18 |
 
 ### Bundesliga
 

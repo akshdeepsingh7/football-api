@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 04 March 2026, 05:09 PM UTC",
-        "IST": "Wednesday, 04 March 2026, 10:39 PM IST"
+        "UTC": "Wednesday, 04 March 2026, 06:03 PM UTC",
+        "IST": "Wednesday, 04 March 2026, 11:33 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -350,12 +350,12 @@
             {
                 "Position": "15",
                 "Team": "Rayo Vallecano",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "6",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "10",
                 "Goal Difference": "-9",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "16",
@@ -400,12 +400,12 @@
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "3",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "14",
                 "Goal Difference": "-24",
-                "Points": "17"
+                "Points": "18"
             }
         ],
         "Bundesliga": [
