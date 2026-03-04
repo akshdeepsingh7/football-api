@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 04 March 2026, 09:35 PM UTC",
-        "IST": "Thursday, 05 March 2026, 03:05 AM IST"
+        "UTC": "Wednesday, 04 March 2026, 10:34 PM UTC",
+        "IST": "Thursday, 05 March 2026, 04:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -30,10 +30,10 @@
                 "Team": "Manchester United",
                 "Played": "29",
                 "Wins": "14",
-                "Draws": "10",
-                "Losses": "5",
-                "Goal Difference": "12",
-                "Points": "52"
+                "Draws": "9",
+                "Losses": "6",
+                "Goal Difference": "11",
+                "Points": "51"
             },
             {
                 "Position": "4",
@@ -117,22 +117,22 @@
             },
             {
                 "Position": "12",
+                "Team": "Newcastle United",
+                "Played": "29",
+                "Wins": "11",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-1",
+                "Points": "39"
+            },
+            {
+                "Position": "13",
                 "Team": "Brighton & Hove Albion",
                 "Played": "29",
                 "Wins": "9",
                 "Draws": "10",
                 "Losses": "10",
                 "Goal Difference": "2",
-                "Points": "37"
-            },
-            {
-                "Position": "13",
-                "Team": "Newcastle United",
-                "Played": "29",
-                "Wins": "10",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-2",
                 "Points": "37"
             },
             {

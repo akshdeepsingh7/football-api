@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 04 March 2026, 09:35 PM UTC (Thursday, 05 March 2026, 03:05 AM IST)
+**Last Updated:** Wednesday, 04 March 2026, 10:34 PM UTC (Thursday, 05 March 2026, 04:04 AM IST)
 
 ### Premier League
 
@@ -49,7 +49,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 30 | 20 | 7 | 3 | 37 | 67 |
 | 2 | Manchester City | 29 | 18 | 6 | 5 | 32 | 60 |
-| 3 | Manchester United | 29 | 14 | 10 | 5 | 12 | 52 |
+| 3 | Manchester United | 29 | 14 | 9 | 6 | 11 | 51 |
 | 4 | Aston Villa | 29 | 15 | 6 | 8 | 5 | 51 |
 | 5 | Chelsea | 29 | 13 | 9 | 7 | 19 | 48 |
 | 6 | Liverpool FC | 29 | 14 | 6 | 9 | 9 | 48 |
@@ -58,8 +58,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | AFC Bournemouth | 29 | 9 | 13 | 7 | -2 | 40 |
 | 10 | Fulham | 29 | 12 | 4 | 13 | -3 | 40 |
 | 11 | Sunderland | 29 | 10 | 10 | 9 | -4 | 40 |
-| 12 | Brighton & Hove Albion | 29 | 9 | 10 | 10 | 2 | 37 |
-| 13 | Newcastle United | 29 | 10 | 7 | 12 | -2 | 37 |
+| 12 | Newcastle United | 29 | 11 | 6 | 12 | -1 | 39 |
+| 13 | Brighton & Hove Albion | 29 | 9 | 10 | 10 | 2 | 37 |
 | 14 | Crystal Palace | 28 | 9 | 8 | 11 | -4 | 35 |
 | 15 | Leeds United | 29 | 7 | 10 | 12 | -11 | 31 |
 | 16 | Tottenham Hotspur | 28 | 7 | 8 | 13 | -5 | 29 |
