@@ -41,29 +41,29 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 04 March 2026, 07:57 PM UTC (Thursday, 05 March 2026, 01:27 AM IST)
+**Last Updated:** Wednesday, 04 March 2026, 08:38 PM UTC (Thursday, 05 March 2026, 02:08 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 30 | 20 | 7 | 3 | 37 | 67 |
-| 2 | Manchester City | 29 | 18 | 6 | 5 | 32 | 60 |
-| 3 | Aston Villa | 29 | 16 | 6 | 7 | 9 | 54 |
-| 4 | Manchester United | 28 | 14 | 9 | 5 | 12 | 51 |
-| 5 | Liverpool FC | 29 | 14 | 6 | 9 | 9 | 48 |
-| 6 | Chelsea | 29 | 12 | 9 | 8 | 15 | 45 |
+| 2 | Manchester City | 29 | 19 | 5 | 5 | 33 | 62 |
+| 3 | Manchester United | 29 | 14 | 10 | 5 | 12 | 52 |
+| 4 | Aston Villa | 29 | 15 | 6 | 8 | 7 | 51 |
+| 5 | Chelsea | 29 | 13 | 9 | 7 | 17 | 48 |
+| 6 | Liverpool FC | 29 | 14 | 6 | 9 | 9 | 48 |
 | 7 | Brentford | 29 | 13 | 5 | 11 | 4 | 44 |
 | 8 | Everton | 29 | 12 | 7 | 10 | 1 | 43 |
 | 9 | Fulham | 29 | 12 | 5 | 12 | -2 | 41 |
 | 10 | AFC Bournemouth | 29 | 9 | 13 | 7 | -2 | 40 |
 | 11 | Sunderland | 29 | 10 | 10 | 9 | -4 | 40 |
 | 12 | Brighton & Hove Albion | 29 | 9 | 10 | 10 | 2 | 37 |
-| 13 | Newcastle United | 28 | 10 | 6 | 12 | -2 | 36 |
+| 13 | Newcastle United | 29 | 10 | 7 | 12 | -2 | 37 |
 | 14 | Crystal Palace | 28 | 9 | 8 | 11 | -4 | 35 |
 | 15 | Leeds United | 29 | 7 | 10 | 12 | -11 | 31 |
 | 16 | Tottenham Hotspur | 28 | 7 | 8 | 13 | -5 | 29 |
-| 17 | Nottingham Forest | 29 | 7 | 7 | 15 | -15 | 28 |
+| 17 | Nottingham Forest | 29 | 7 | 6 | 16 | -16 | 27 |
 | 18 | West Ham United | 29 | 6 | 8 | 15 | -20 | 26 |
 | 19 | Burnley | 29 | 4 | 7 | 18 | -26 | 19 |
 | 20 | Wolverhampton Wanderers | 30 | 3 | 7 | 20 | -30 | 16 |
