@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 05 March 2026, 07:43 PM UTC",
-        "IST": "Friday, 06 March 2026, 01:13 AM IST"
+        "UTC": "Thursday, 05 March 2026, 08:38 PM UTC",
+        "IST": "Friday, 06 March 2026, 02:08 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -138,15 +138,25 @@
             {
                 "Position": "14",
                 "Team": "Crystal Palace",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "9",
                 "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-4",
+                "Losses": "12",
+                "Goal Difference": "-5",
                 "Points": "35"
             },
             {
                 "Position": "15",
+                "Team": "Tottenham Hotspur",
+                "Played": "29",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "-4",
+                "Points": "32"
+            },
+            {
+                "Position": "16",
                 "Team": "Leeds United",
                 "Played": "29",
                 "Wins": "7",
@@ -154,16 +164,6 @@
                 "Losses": "12",
                 "Goal Difference": "-11",
                 "Points": "31"
-            },
-            {
-                "Position": "16",
-                "Team": "Tottenham Hotspur",
-                "Played": "28",
-                "Wins": "7",
-                "Draws": "8",
-                "Losses": "13",
-                "Goal Difference": "-5",
-                "Points": "29"
             },
             {
                 "Position": "17",
