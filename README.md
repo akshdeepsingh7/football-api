@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 05 March 2026, 08:38 PM UTC (Friday, 06 March 2026, 02:08 AM IST)
+**Last Updated:** Thursday, 05 March 2026, 09:36 PM UTC (Friday, 06 March 2026, 03:06 AM IST)
 
 ### Premier League
 
@@ -59,10 +59,10 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Fulham | 29 | 12 | 4 | 13 | -3 | 40 |
 | 11 | Sunderland | 29 | 10 | 10 | 9 | -4 | 40 |
 | 12 | Newcastle United | 29 | 11 | 6 | 12 | -1 | 39 |
-| 13 | Brighton & Hove Albion | 29 | 9 | 10 | 10 | 2 | 37 |
-| 14 | Crystal Palace | 29 | 9 | 8 | 12 | -5 | 35 |
-| 15 | Tottenham Hotspur | 29 | 8 | 8 | 13 | -4 | 32 |
-| 16 | Leeds United | 29 | 7 | 10 | 12 | -11 | 31 |
+| 13 | Crystal Palace | 29 | 10 | 8 | 11 | -2 | 38 |
+| 14 | Brighton & Hove Albion | 29 | 9 | 10 | 10 | 2 | 37 |
+| 15 | Leeds United | 29 | 7 | 10 | 12 | -11 | 31 |
+| 16 | Tottenham Hotspur | 29 | 7 | 8 | 14 | -7 | 29 |
 | 17 | Nottingham Forest | 29 | 7 | 7 | 15 | -15 | 28 |
 | 18 | West Ham United | 29 | 7 | 7 | 15 | -19 | 28 |
 | 19 | Burnley | 29 | 4 | 7 | 18 | -26 | 19 |
