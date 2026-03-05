@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 05 March 2026, 10:40 AM UTC",
-        "IST": "Thursday, 05 March 2026, 04:10 PM IST"
+        "UTC": "Thursday, 05 March 2026, 11:34 AM UTC",
+        "IST": "Thursday, 05 March 2026, 05:04 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2810,15 +2810,25 @@
             {
                 "Position": "3",
                 "Team": "FC Goa",
-                "Played": "3",
+                "Played": "4",
                 "Wins": "2",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "0",
                 "Goal Difference": "3",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "4",
+                "Team": "East Bengal",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "5",
+                "Points": "7"
+            },
+            {
+                "Position": "5",
                 "Team": "Mumbai City",
                 "Played": "3",
                 "Wins": "2",
@@ -2826,16 +2836,6 @@
                 "Losses": "0",
                 "Goal Difference": "2",
                 "Points": "7"
-            },
-            {
-                "Position": "5",
-                "Team": "East Bengal",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "5",
-                "Points": "6"
             },
             {
                 "Position": "6",
