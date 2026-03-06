@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 06 March 2026, 07:34 PM UTC",
-        "IST": "Saturday, 07 March 2026, 01:04 AM IST"
+        "UTC": "Friday, 06 March 2026, 08:33 PM UTC",
+        "IST": "Saturday, 07 March 2026, 02:03 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -220,12 +220,12 @@
             {
                 "Position": "2",
                 "Team": "Real Madrid",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "19",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "32",
-                "Points": "60"
+                "Points": "61"
             },
             {
                 "Position": "3",
@@ -260,12 +260,12 @@
             {
                 "Position": "6",
                 "Team": "Celta de Vigo",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "10",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "6",
                 "Goal Difference": "8",
-                "Points": "40"
+                "Points": "41"
             },
             {
                 "Position": "7",
@@ -413,11 +413,11 @@
                 "Position": "1",
                 "Team": "Bayern Munich",
                 "Played": "25",
-                "Wins": "20",
-                "Draws": "4",
+                "Wins": "21",
+                "Draws": "3",
                 "Losses": "1",
-                "Goal Difference": "65",
-                "Points": "64"
+                "Goal Difference": "67",
+                "Points": "66"
             },
             {
                 "Position": "2",
@@ -524,10 +524,10 @@
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "25",
                 "Wins": "6",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-12",
-                "Points": "26"
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "-14",
+                "Points": "25"
             },
             {
                 "Position": "13",
@@ -614,12 +614,12 @@
             {
                 "Position": "3",
                 "Team": "Napoli",
-                "Played": "27",
-                "Wins": "16",
+                "Played": "28",
+                "Wins": "17",
                 "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "13",
-                "Points": "53"
+                "Goal Difference": "14",
+                "Points": "56"
             },
             {
                 "Position": "4",
@@ -724,11 +724,11 @@
             {
                 "Position": "14",
                 "Team": "Torino",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "8",
                 "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-20",
+                "Losses": "14",
+                "Goal Difference": "-21",
                 "Points": "30"
             },
             {
@@ -796,11 +796,11 @@
             {
                 "Position": "1",
                 "Team": "PSG",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "18",
                 "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "34",
+                "Losses": "4",
+                "Goal Difference": "33",
                 "Points": "57"
             },
             {
@@ -845,6 +845,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Monaco",
+                "Played": "25",
+                "Wins": "12",
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "5",
+                "Points": "40"
+            },
+            {
+                "Position": "7",
                 "Team": "Rennes",
                 "Played": "24",
                 "Wins": "11",
@@ -852,16 +862,6 @@
                 "Losses": "6",
                 "Goal Difference": "3",
                 "Points": "40"
-            },
-            {
-                "Position": "7",
-                "Team": "Monaco",
-                "Played": "24",
-                "Wins": "11",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "4",
-                "Points": "37"
             },
             {
                 "Position": "8",
@@ -2114,12 +2114,12 @@
             {
                 "Position": "6",
                 "Team": "Famalic\u00e3o",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "10",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "8",
                 "Goal Difference": "8",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "7",
@@ -2153,6 +2153,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Arouca",
+                "Played": "25",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "-20",
+                "Points": "27"
+            },
+            {
+                "Position": "11",
                 "Team": "Alverca",
                 "Played": "24",
                 "Wins": "7",
@@ -2160,16 +2170,6 @@
                 "Losses": "11",
                 "Goal Difference": "-15",
                 "Points": "27"
-            },
-            {
-                "Position": "11",
-                "Team": "Arouca",
-                "Played": "24",
-                "Wins": "7",
-                "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-20",
-                "Points": "26"
             },
             {
                 "Position": "12",
@@ -2346,12 +2346,12 @@
             {
                 "Position": "11",
                 "Team": "Preston North End",
-                "Played": "35",
+                "Played": "36",
                 "Wins": "12",
-                "Draws": "13",
+                "Draws": "14",
                 "Losses": "10",
                 "Goal Difference": "1",
-                "Points": "49"
+                "Points": "50"
             },
             {
                 "Position": "12",
@@ -2466,12 +2466,12 @@
             {
                 "Position": "23",
                 "Team": "Oxford United",
-                "Played": "35",
+                "Played": "36",
                 "Wins": "7",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "17",
                 "Goal Difference": "-16",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "24",
