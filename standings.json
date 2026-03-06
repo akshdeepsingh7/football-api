@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 06 March 2026, 11:29 AM UTC",
-        "IST": "Friday, 06 March 2026, 04:59 PM IST"
+        "UTC": "Friday, 06 March 2026, 11:53 AM UTC",
+        "IST": "Friday, 06 March 2026, 05:23 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2790,12 +2790,12 @@
             {
                 "Position": "1",
                 "Team": "Mohun Bagan SG",
-                "Played": "3",
-                "Wins": "3",
+                "Played": "4",
+                "Wins": "4",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "8",
-                "Points": "9"
+                "Goal Difference": "9",
+                "Points": "12"
             },
             {
                 "Position": "2",
@@ -2870,11 +2870,11 @@
             {
                 "Position": "9",
                 "Team": "Odisha",
-                "Played": "2",
+                "Played": "3",
                 "Wins": "0",
                 "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "0",
+                "Losses": "1",
+                "Goal Difference": "-1",
                 "Points": "2"
             },
             {
