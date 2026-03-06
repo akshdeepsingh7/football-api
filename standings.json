@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 06 March 2026, 01:58 PM UTC",
-        "IST": "Friday, 06 March 2026, 07:28 PM IST"
+        "UTC": "Friday, 06 March 2026, 02:48 PM UTC",
+        "IST": "Friday, 06 March 2026, 08:18 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2800,12 +2800,12 @@
             {
                 "Position": "2",
                 "Team": "Jamshedpur",
-                "Played": "3",
+                "Played": "4",
                 "Wins": "3",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "3",
-                "Points": "9"
+                "Points": "10"
             },
             {
                 "Position": "3",
@@ -2840,12 +2840,12 @@
             {
                 "Position": "6",
                 "Team": "Inter Kashi",
-                "Played": "3",
+                "Played": "4",
                 "Wins": "1",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "0",
                 "Goal Difference": "1",
-                "Points": "5"
+                "Points": "6"
             },
             {
                 "Position": "7",
