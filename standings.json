@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 06 March 2026, 08:33 PM UTC",
-        "IST": "Saturday, 07 March 2026, 02:03 AM IST"
+        "UTC": "Friday, 06 March 2026, 09:30 PM UTC",
+        "IST": "Saturday, 07 March 2026, 03:00 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -416,7 +416,7 @@
                 "Wins": "21",
                 "Draws": "3",
                 "Losses": "1",
-                "Goal Difference": "67",
+                "Goal Difference": "68",
                 "Points": "66"
             },
             {
@@ -526,7 +526,7 @@
                 "Wins": "6",
                 "Draws": "7",
                 "Losses": "12",
-                "Goal Difference": "-14",
+                "Goal Difference": "-15",
                 "Points": "25"
             },
             {
@@ -618,7 +618,7 @@
                 "Wins": "17",
                 "Draws": "5",
                 "Losses": "6",
-                "Goal Difference": "14",
+                "Goal Difference": "15",
                 "Points": "56"
             },
             {
@@ -728,7 +728,7 @@
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-21",
+                "Goal Difference": "-22",
                 "Points": "30"
             },
             {
@@ -800,7 +800,7 @@
                 "Wins": "18",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "33",
+                "Goal Difference": "32",
                 "Points": "57"
             },
             {
@@ -835,22 +835,22 @@
             },
             {
                 "Position": "5",
+                "Team": "Monaco",
+                "Played": "25",
+                "Wins": "12",
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "6",
+                "Points": "40"
+            },
+            {
+                "Position": "6",
                 "Team": "Lille",
                 "Played": "24",
                 "Wins": "12",
                 "Draws": "4",
                 "Losses": "8",
                 "Goal Difference": "6",
-                "Points": "40"
-            },
-            {
-                "Position": "6",
-                "Team": "Monaco",
-                "Played": "25",
-                "Wins": "12",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "5",
                 "Points": "40"
             },
             {
@@ -2345,22 +2345,22 @@
             },
             {
                 "Position": "11",
-                "Team": "Preston North End",
-                "Played": "36",
-                "Wins": "12",
-                "Draws": "14",
-                "Losses": "10",
-                "Goal Difference": "1",
-                "Points": "50"
-            },
-            {
-                "Position": "12",
                 "Team": "Birmingham City",
                 "Played": "35",
                 "Wins": "13",
                 "Draws": "10",
                 "Losses": "12",
                 "Goal Difference": "0",
+                "Points": "49"
+            },
+            {
+                "Position": "12",
+                "Team": "Preston North End",
+                "Played": "36",
+                "Wins": "12",
+                "Draws": "13",
+                "Losses": "11",
+                "Goal Difference": "-1",
                 "Points": "49"
             },
             {
@@ -2445,6 +2445,16 @@
             },
             {
                 "Position": "21",
+                "Team": "Oxford United",
+                "Played": "36",
+                "Wins": "8",
+                "Draws": "11",
+                "Losses": "17",
+                "Goal Difference": "-14",
+                "Points": "35"
+            },
+            {
+                "Position": "22",
                 "Team": "West Bromwich Albion",
                 "Played": "35",
                 "Wins": "9",
@@ -2454,7 +2464,7 @@
                 "Points": "35"
             },
             {
-                "Position": "22",
+                "Position": "23",
                 "Team": "Leicester City",
                 "Played": "35",
                 "Wins": "10",
@@ -2462,16 +2472,6 @@
                 "Losses": "15",
                 "Goal Difference": "-9",
                 "Points": "34"
-            },
-            {
-                "Position": "23",
-                "Team": "Oxford United",
-                "Played": "36",
-                "Wins": "7",
-                "Draws": "12",
-                "Losses": "17",
-                "Goal Difference": "-16",
-                "Points": "33"
             },
             {
                 "Position": "24",
