@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 06 March 2026, 11:53 AM UTC",
-        "IST": "Friday, 06 March 2026, 05:23 PM IST"
+        "UTC": "Friday, 06 March 2026, 01:58 PM UTC",
+        "IST": "Friday, 06 March 2026, 07:28 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2794,7 +2794,7 @@
                 "Wins": "4",
                 "Draws": "0",
                 "Losses": "0",
-                "Goal Difference": "9",
+                "Goal Difference": "12",
                 "Points": "12"
             },
             {
@@ -2869,22 +2869,22 @@
             },
             {
                 "Position": "9",
-                "Team": "Odisha",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "2"
-            },
-            {
-                "Position": "10",
                 "Team": "NorthEast Utd",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "-3",
+                "Points": "2"
+            },
+            {
+                "Position": "10",
+                "Team": "Odisha",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "-4",
                 "Points": "2"
             },
             {
