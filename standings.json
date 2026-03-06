@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 06 March 2026, 06:49 PM UTC",
-        "IST": "Saturday, 07 March 2026, 12:19 AM IST"
+        "UTC": "Friday, 06 March 2026, 07:34 PM UTC",
+        "IST": "Saturday, 07 March 2026, 01:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -412,12 +412,12 @@
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "20",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "65",
-                "Points": "63"
+                "Points": "64"
             },
             {
                 "Position": "2",
@@ -522,12 +522,12 @@
             {
                 "Position": "12",
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "6",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-12",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "13",

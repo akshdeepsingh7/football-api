@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 06 March 2026, 06:49 PM UTC (Saturday, 07 March 2026, 12:19 AM IST)
+**Last Updated:** Friday, 06 March 2026, 07:34 PM UTC (Saturday, 07 March 2026, 01:04 AM IST)
 
 ### Premier League
 
@@ -97,7 +97,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 24 | 20 | 3 | 1 | 65 | 63 |
+| 1 | Bayern Munich | 25 | 20 | 4 | 1 | 65 | 64 |
 | 2 | Borussia Dortmund | 24 | 15 | 7 | 2 | 26 | 52 |
 | 3 | Hoffenheim | 24 | 14 | 4 | 6 | 18 | 46 |
 | 4 | VfB Stuttgart | 24 | 14 | 4 | 6 | 16 | 46 |
@@ -108,7 +108,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Augsburg | 24 | 9 | 4 | 11 | -11 | 31 |
 | 10 | Union Berlin | 24 | 7 | 7 | 10 | -9 | 28 |
 | 11 | Hamburg | 24 | 6 | 8 | 10 | -9 | 26 |
-| 12 | Borussia Mönchengladbach | 24 | 6 | 7 | 11 | -12 | 25 |
+| 12 | Borussia Mönchengladbach | 25 | 6 | 8 | 11 | -12 | 26 |
 | 13 | Köln | 24 | 6 | 6 | 12 | -8 | 24 |
 | 14 | Mainz 05 | 24 | 5 | 8 | 11 | -12 | 23 |
 | 15 | St. Pauli | 24 | 6 | 5 | 13 | -17 | 23 |
