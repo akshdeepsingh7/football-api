@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 March 2026, 06:35 PM UTC (Sunday, 08 March 2026, 12:05 AM IST)
+**Last Updated:** Saturday, 07 March 2026, 07:22 PM UTC (Sunday, 08 March 2026, 12:52 AM IST)
 
 ### Premier League
 
@@ -74,12 +74,12 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 26 | 21 | 1 | 4 | 45 | 64 |
 | 2 | Real Madrid | 27 | 20 | 3 | 4 | 33 | 63 |
-| 3 | Atlético de Madrid | 27 | 15 | 7 | 5 | 20 | 52 |
+| 3 | Atlético de Madrid | 27 | 16 | 6 | 5 | 21 | 54 |
 | 4 | Villarreal | 26 | 16 | 3 | 7 | 17 | 51 |
 | 5 | Real Betis | 26 | 11 | 10 | 5 | 10 | 43 |
 | 6 | Celta de Vigo | 27 | 10 | 10 | 7 | 7 | 40 |
-| 7 | Real Sociedad | 27 | 9 | 9 | 9 | 0 | 36 |
-| 8 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
+| 7 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
+| 8 | Real Sociedad | 27 | 9 | 8 | 10 | -1 | 35 |
 | 9 | Athletic Bilbao | 26 | 10 | 5 | 11 | -6 | 35 |
 | 10 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
 | 11 | Getafe | 26 | 9 | 5 | 12 | -8 | 32 |
@@ -126,10 +126,10 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Roma | 27 | 16 | 3 | 8 | 18 | 51 |
 | 5 | Como | 28 | 14 | 9 | 5 | 25 | 51 |
 | 6 | Juventus | 27 | 13 | 8 | 6 | 18 | 47 |
-| 7 | Atalanta | 28 | 12 | 9 | 7 | 12 | 45 |
+| 7 | Atalanta | 28 | 12 | 10 | 6 | 13 | 46 |
 | 8 | Bologna | 27 | 11 | 6 | 10 | 4 | 39 |
 | 9 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
-| 10 | Udinese | 28 | 11 | 5 | 12 | -7 | 38 |
+| 10 | Udinese | 28 | 10 | 6 | 12 | -8 | 36 |
 | 11 | Lazio | 27 | 8 | 10 | 9 | -1 | 34 |
 | 12 | Parma | 27 | 8 | 9 | 10 | -12 | 33 |
 | 13 | Cagliari | 28 | 7 | 9 | 12 | -8 | 30 |

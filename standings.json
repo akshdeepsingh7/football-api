@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 06:35 PM UTC",
-        "IST": "Sunday, 08 March 2026, 12:05 AM IST"
+        "UTC": "Saturday, 07 March 2026, 07:22 PM UTC",
+        "IST": "Sunday, 08 March 2026, 12:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -231,11 +231,11 @@
                 "Position": "3",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "27",
-                "Wins": "15",
-                "Draws": "7",
+                "Wins": "16",
+                "Draws": "6",
                 "Losses": "5",
-                "Goal Difference": "20",
-                "Points": "52"
+                "Goal Difference": "21",
+                "Points": "54"
             },
             {
                 "Position": "4",
@@ -269,16 +269,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Real Sociedad",
-                "Played": "27",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "0",
-                "Points": "36"
-            },
-            {
-                "Position": "8",
                 "Team": "Espanyol",
                 "Played": "26",
                 "Wins": "10",
@@ -286,6 +276,16 @@
                 "Losses": "10",
                 "Goal Difference": "-6",
                 "Points": "36"
+            },
+            {
+                "Position": "8",
+                "Team": "Real Sociedad",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "-1",
+                "Points": "35"
             },
             {
                 "Position": "9",
@@ -656,10 +656,10 @@
                 "Team": "Atalanta",
                 "Played": "28",
                 "Wins": "12",
-                "Draws": "9",
-                "Losses": "7",
-                "Goal Difference": "12",
-                "Points": "45"
+                "Draws": "10",
+                "Losses": "6",
+                "Goal Difference": "13",
+                "Points": "46"
             },
             {
                 "Position": "8",
@@ -685,11 +685,11 @@
                 "Position": "10",
                 "Team": "Udinese",
                 "Played": "28",
-                "Wins": "11",
-                "Draws": "5",
+                "Wins": "10",
+                "Draws": "6",
                 "Losses": "12",
-                "Goal Difference": "-7",
-                "Points": "38"
+                "Goal Difference": "-8",
+                "Points": "36"
             },
             {
                 "Position": "11",
