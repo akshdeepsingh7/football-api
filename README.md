@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 March 2026, 07:43 PM UTC (Sunday, 08 March 2026, 01:13 AM IST)
+**Last Updated:** Saturday, 07 March 2026, 08:27 PM UTC (Sunday, 08 March 2026, 01:57 AM IST)
 
 ### Premier League
 
@@ -72,15 +72,15 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 26 | 21 | 1 | 4 | 45 | 64 |
+| 1 | Barcelona | 27 | 21 | 2 | 4 | 45 | 65 |
 | 2 | Real Madrid | 27 | 20 | 3 | 4 | 33 | 63 |
 | 3 | Atlético de Madrid | 27 | 16 | 6 | 5 | 21 | 54 |
 | 4 | Villarreal | 26 | 16 | 3 | 7 | 17 | 51 |
 | 5 | Real Betis | 26 | 11 | 10 | 5 | 10 | 43 |
 | 6 | Celta de Vigo | 27 | 10 | 10 | 7 | 7 | 40 |
 | 7 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
-| 8 | Real Sociedad | 27 | 9 | 8 | 10 | -1 | 35 |
-| 9 | Athletic Bilbao | 26 | 10 | 5 | 11 | -6 | 35 |
+| 8 | Athletic Bilbao | 27 | 10 | 6 | 11 | -6 | 36 |
+| 9 | Real Sociedad | 27 | 9 | 8 | 10 | -1 | 35 |
 | 10 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
 | 11 | Getafe | 26 | 9 | 5 | 12 | -8 | 32 |
 | 12 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
@@ -125,7 +125,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Napoli | 28 | 17 | 5 | 6 | 14 | 56 |
 | 4 | Roma | 27 | 16 | 3 | 8 | 18 | 51 |
 | 5 | Como | 28 | 14 | 9 | 5 | 25 | 51 |
-| 6 | Juventus | 27 | 13 | 8 | 6 | 18 | 47 |
+| 6 | Juventus | 28 | 13 | 9 | 6 | 18 | 48 |
 | 7 | Atalanta | 28 | 12 | 10 | 6 | 13 | 46 |
 | 8 | Bologna | 27 | 11 | 6 | 10 | 4 | 39 |
 | 9 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
@@ -138,7 +138,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Fiorentina | 27 | 5 | 9 | 13 | -12 | 24 |
 | 17 | Cremonese | 27 | 5 | 9 | 13 | -17 | 24 |
 | 18 | Lecce | 27 | 6 | 6 | 15 | -18 | 24 |
-| 19 | Pisa | 27 | 1 | 12 | 14 | -24 | 15 |
+| 19 | Pisa | 28 | 1 | 13 | 14 | -24 | 16 |
 | 20 | Hellas Verona | 27 | 2 | 9 | 16 | -28 | 15 |
 
 ### Ligue 1
@@ -147,8 +147,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 25 | 18 | 3 | 4 | 32 | 57 |
 | 2 | Lens | 24 | 17 | 2 | 5 | 24 | 53 |
-| 3 | Lyon | 24 | 14 | 3 | 7 | 13 | 45 |
-| 4 | Marseille | 24 | 13 | 4 | 7 | 18 | 43 |
+| 3 | Marseille | 25 | 14 | 4 | 7 | 19 | 46 |
+| 4 | Lyon | 24 | 14 | 3 | 7 | 13 | 45 |
 | 5 | Monaco | 25 | 12 | 4 | 9 | 6 | 40 |
 | 6 | Lille | 24 | 12 | 4 | 8 | 6 | 40 |
 | 7 | Rennes | 24 | 11 | 7 | 6 | 3 | 40 |
@@ -156,7 +156,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Brest | 24 | 9 | 6 | 9 | -2 | 33 |
 | 10 | Lorient | 24 | 8 | 9 | 7 | -4 | 33 |
 | 11 | Angers | 25 | 9 | 5 | 11 | -7 | 32 |
-| 12 | Toulouse | 24 | 8 | 7 | 9 | 5 | 31 |
+| 12 | Toulouse | 25 | 8 | 7 | 10 | 4 | 31 |
 | 13 | Le Havre | 24 | 6 | 8 | 10 | -10 | 26 |
 | 14 | Paris FC | 24 | 6 | 8 | 10 | -12 | 26 |
 | 15 | Nice | 24 | 6 | 6 | 12 | -14 | 24 |
@@ -292,9 +292,9 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 24 | 21 | 2 | 1 | 39 | 65 |
-| 2 | Sporting CP | 25 | 20 | 4 | 1 | 51 | 64 |
+| 2 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
 | 3 | Benfica | 24 | 17 | 7 | 0 | 37 | 58 |
-| 4 | Braga | 25 | 13 | 6 | 6 | 26 | 45 |
+| 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
 | 5 | Gil Vicente | 24 | 11 | 7 | 6 | 12 | 40 |
 | 6 | Famalicão | 25 | 11 | 6 | 8 | 9 | 39 |
 | 7 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
@@ -343,20 +343,20 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | New York RB | 2 | 2 | 0 | 0 | 2 | 6 |
-| 2 | NYCFC | 3 | 1 | 2 | 0 | 1 | 5 |
+| 1 | NYCFC | 3 | 2 | 1 | 0 | 3 | 7 |
+| 2 | New York RB | 2 | 2 | 0 | 0 | 2 | 6 |
 | 3 | Nashville | 2 | 1 | 1 | 0 | 3 | 4 |
 | 4 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
 | 5 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
 | 6 | DC United | 2 | 1 | 0 | 1 | 0 | 3 |
 | 7 | Inter Miami | 2 | 1 | 0 | 1 | -1 | 3 |
 | 8 | Columbus Crew | 2 | 0 | 1 | 1 | -1 | 1 |
-| 9 | Orlando City | 3 | 0 | 1 | 2 | -3 | 1 |
-| 10 | Charlotte | 2 | 0 | 1 | 1 | -3 | 1 |
-| 11 | Philadelphia Union | 2 | 0 | 0 | 2 | -2 | 0 |
-| 12 | Toronto | 2 | 0 | 0 | 2 | -4 | 0 |
-| 13 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
-| 14 | Atlanta United | 2 | 0 | 0 | 2 | -4 | 0 |
+| 9 | Charlotte | 2 | 0 | 1 | 1 | -3 | 1 |
+| 10 | Philadelphia Union | 2 | 0 | 0 | 2 | -2 | 0 |
+| 11 | Toronto | 2 | 0 | 0 | 2 | -4 | 0 |
+| 12 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
+| 13 | Atlanta United | 2 | 0 | 0 | 2 | -4 | 0 |
+| 14 | Orlando City | 3 | 0 | 0 | 3 | -5 | 0 |
 | 15 | CF Montréal | 2 | 0 | 0 | 2 | -8 | 0 |
 | 1 | San Diego | 2 | 2 | 0 | 0 | 7 | 6 |
 | 2 | LAFC | 2 | 2 | 0 | 0 | 5 | 6 |
