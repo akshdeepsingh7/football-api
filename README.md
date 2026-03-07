@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 March 2026, 11:43 AM UTC (Saturday, 07 March 2026, 05:13 PM IST)
+**Last Updated:** Saturday, 07 March 2026, 12:49 PM UTC (Saturday, 07 March 2026, 06:19 PM IST)
 
 ### Premier League
 
@@ -317,8 +317,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Coventry City | 35 | 21 | 8 | 6 | 34 | 71 |
 | 2 | Middlesbrough | 35 | 19 | 9 | 7 | 19 | 66 |
 | 3 | Ipswich Town | 34 | 18 | 9 | 7 | 26 | 63 |
-| 4 | Millwall | 35 | 18 | 8 | 9 | 7 | 62 |
-| 5 | Hull City | 35 | 18 | 6 | 11 | 7 | 60 |
+| 4 | Millwall | 36 | 18 | 9 | 9 | 7 | 63 |
+| 5 | Hull City | 36 | 18 | 7 | 11 | 7 | 61 |
 | 6 | Wrexham | 35 | 15 | 12 | 8 | 9 | 57 |
 | 7 | Southampton | 35 | 14 | 11 | 10 | 11 | 53 |
 | 8 | Derby County | 35 | 14 | 9 | 12 | 6 | 51 |
@@ -332,8 +332,8 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Swansea City | 35 | 13 | 7 | 15 | -3 | 46 |
 | 17 | Norwich City | 35 | 13 | 6 | 16 | 3 | 45 |
 | 18 | Charlton Athletic | 35 | 10 | 11 | 14 | -11 | 41 |
-| 19 | Portsmouth | 34 | 10 | 9 | 15 | -10 | 39 |
-| 20 | Blackburn Rovers | 35 | 10 | 8 | 17 | -13 | 38 |
+| 19 | Portsmouth | 35 | 10 | 10 | 15 | -10 | 40 |
+| 20 | Blackburn Rovers | 36 | 10 | 9 | 17 | -13 | 39 |
 | 21 | Oxford United | 36 | 8 | 11 | 17 | -14 | 35 |
 | 22 | West Bromwich Albion | 35 | 9 | 8 | 18 | -18 | 35 |
 | 23 | Leicester City | 35 | 10 | 10 | 15 | -9 | 34 |
@@ -383,15 +383,15 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | FC Goa | 4 | 2 | 2 | 0 | 3 | 8 |
 | 4 | East Bengal | 4 | 2 | 1 | 1 | 5 | 7 |
 | 5 | Mumbai City | 3 | 2 | 1 | 0 | 2 | 7 |
-| 6 | Bengaluru | 4 | 1 | 2 | 1 | 0 | 5 |
+| 6 | Bengaluru | 4 | 2 | 1 | 1 | 1 | 7 |
 | 7 | Inter Kashi | 4 | 1 | 2 | 1 | 0 | 5 |
 | 8 | Punjab FC | 2 | 1 | 0 | 1 | 1 | 3 |
 | 9 | NorthEast Utd | 3 | 0 | 2 | 1 | -3 | 2 |
 | 10 | Odisha | 3 | 0 | 2 | 1 | -4 | 2 |
 | 11 | Chennaiyin | 3 | 0 | 1 | 2 | -3 | 1 |
-| 12 | Mohammedan | 4 | 0 | 1 | 3 | -7 | 1 |
-| 13 | Kerala Blasters | 3 | 0 | 0 | 3 | -4 | 0 |
-| 14 | SC Delhi | 3 | 0 | 0 | 3 | -6 | 0 |
+| 12 | Kerala Blasters | 3 | 0 | 0 | 3 | -4 | 0 |
+| 13 | SC Delhi | 3 | 0 | 0 | 3 | -6 | 0 |
+| 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
 
