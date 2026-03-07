@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 04:29 PM UTC",
-        "IST": "Saturday, 07 March 2026, 09:59 PM IST"
+        "UTC": "Saturday, 07 March 2026, 04:53 PM UTC",
+        "IST": "Saturday, 07 March 2026, 10:23 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2278,10 +2278,10 @@
                 "Team": "Ipswich Town",
                 "Played": "35",
                 "Wins": "18",
-                "Draws": "9",
-                "Losses": "8",
-                "Goal Difference": "25",
-                "Points": "63"
+                "Draws": "10",
+                "Losses": "7",
+                "Goal Difference": "26",
+                "Points": "64"
             },
             {
                 "Position": "5",
@@ -2335,16 +2335,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Sheffield United",
-                "Played": "36",
-                "Wins": "16",
-                "Draws": "3",
-                "Losses": "17",
-                "Goal Difference": "3",
-                "Points": "51"
-            },
-            {
-                "Position": "11",
                 "Team": "Bristol City",
                 "Played": "36",
                 "Wins": "14",
@@ -2354,14 +2344,24 @@
                 "Points": "50"
             },
             {
+                "Position": "11",
+                "Team": "Sheffield United",
+                "Played": "36",
+                "Wins": "15",
+                "Draws": "4",
+                "Losses": "17",
+                "Goal Difference": "2",
+                "Points": "49"
+            },
+            {
                 "Position": "12",
                 "Team": "Birmingham City",
                 "Played": "36",
                 "Wins": "13",
-                "Draws": "11",
-                "Losses": "12",
-                "Goal Difference": "0",
-                "Points": "50"
+                "Draws": "10",
+                "Losses": "13",
+                "Goal Difference": "-1",
+                "Points": "49"
             },
             {
                 "Position": "13",
@@ -2380,7 +2380,7 @@
                 "Wins": "14",
                 "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "49"
             },
             {
@@ -2390,7 +2390,7 @@
                 "Wins": "13",
                 "Draws": "8",
                 "Losses": "15",
-                "Goal Difference": "4",
+                "Goal Difference": "3",
                 "Points": "47"
             },
             {
@@ -2417,11 +2417,11 @@
                 "Position": "18",
                 "Team": "Charlton Athletic",
                 "Played": "36",
-                "Wins": "10",
-                "Draws": "12",
+                "Wins": "11",
+                "Draws": "11",
                 "Losses": "14",
-                "Goal Difference": "-11",
-                "Points": "42"
+                "Goal Difference": "-10",
+                "Points": "44"
             },
             {
                 "Position": "19",
@@ -2445,32 +2445,32 @@
             },
             {
                 "Position": "21",
-                "Team": "Leicester City",
+                "Team": "West Bromwich Albion",
                 "Played": "36",
-                "Wins": "11",
-                "Draws": "10",
-                "Losses": "15",
-                "Goal Difference": "-8",
-                "Points": "37"
+                "Wins": "9",
+                "Draws": "9",
+                "Losses": "18",
+                "Goal Difference": "-18",
+                "Points": "36"
             },
             {
                 "Position": "22",
+                "Team": "Leicester City",
+                "Played": "36",
+                "Wins": "10",
+                "Draws": "11",
+                "Losses": "15",
+                "Goal Difference": "-9",
+                "Points": "35"
+            },
+            {
+                "Position": "23",
                 "Team": "Oxford United",
                 "Played": "36",
                 "Wins": "8",
                 "Draws": "11",
                 "Losses": "17",
                 "Goal Difference": "-14",
-                "Points": "35"
-            },
-            {
-                "Position": "23",
-                "Team": "West Bromwich Albion",
-                "Played": "36",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "19",
-                "Goal Difference": "-19",
                 "Points": "35"
             },
             {
