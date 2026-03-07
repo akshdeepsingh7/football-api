@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 05:46 PM UTC",
-        "IST": "Saturday, 07 March 2026, 11:16 PM IST"
+        "UTC": "Saturday, 07 March 2026, 06:35 PM UTC",
+        "IST": "Sunday, 08 March 2026, 12:05 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -423,11 +423,11 @@
                 "Position": "2",
                 "Team": "Borussia Dortmund",
                 "Played": "25",
-                "Wins": "15",
-                "Draws": "8",
+                "Wins": "16",
+                "Draws": "7",
                 "Losses": "2",
-                "Goal Difference": "26",
-                "Points": "53"
+                "Goal Difference": "27",
+                "Points": "55"
             },
             {
                 "Position": "3",
@@ -521,16 +521,6 @@
             },
             {
                 "Position": "12",
-                "Team": "K\u00f6ln",
-                "Played": "25",
-                "Wins": "6",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-8",
-                "Points": "25"
-            },
-            {
-                "Position": "13",
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "25",
                 "Wins": "6",
@@ -538,6 +528,16 @@
                 "Losses": "12",
                 "Goal Difference": "-15",
                 "Points": "25"
+            },
+            {
+                "Position": "13",
+                "Team": "K\u00f6ln",
+                "Played": "25",
+                "Wins": "6",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-9",
+                "Points": "24"
             },
             {
                 "Position": "14",
@@ -866,12 +866,12 @@
             {
                 "Position": "8",
                 "Team": "Strasbourg",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "10",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "9",
                 "Goal Difference": "9",
-                "Points": "35"
+                "Points": "36"
             },
             {
                 "Position": "9",
@@ -946,12 +946,12 @@
             {
                 "Position": "16",
                 "Team": "Auxerre",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "4",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "14",
                 "Goal Difference": "-16",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "17",
@@ -2074,12 +2074,12 @@
             {
                 "Position": "2",
                 "Team": "Sporting CP",
-                "Played": "24",
-                "Wins": "19",
+                "Played": "25",
+                "Wins": "20",
                 "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "50",
-                "Points": "61"
+                "Goal Difference": "51",
+                "Points": "64"
             },
             {
                 "Position": "3",
@@ -2094,11 +2094,11 @@
             {
                 "Position": "4",
                 "Team": "Braga",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "13",
                 "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "27",
+                "Losses": "6",
+                "Goal Difference": "26",
                 "Points": "45"
             },
             {

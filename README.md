@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 March 2026, 05:46 PM UTC (Saturday, 07 March 2026, 11:16 PM IST)
+**Last Updated:** Saturday, 07 March 2026, 06:35 PM UTC (Sunday, 08 March 2026, 12:05 AM IST)
 
 ### Premier League
 
@@ -98,7 +98,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 25 | 21 | 3 | 1 | 68 | 66 |
-| 2 | Borussia Dortmund | 25 | 15 | 8 | 2 | 26 | 53 |
+| 2 | Borussia Dortmund | 25 | 16 | 7 | 2 | 27 | 55 |
 | 3 | Hoffenheim | 25 | 15 | 4 | 6 | 20 | 49 |
 | 4 | VfB Stuttgart | 25 | 14 | 5 | 6 | 16 | 47 |
 | 5 | RB Leipzig | 25 | 14 | 5 | 6 | 14 | 47 |
@@ -108,8 +108,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Augsburg | 25 | 9 | 4 | 12 | -12 | 31 |
 | 10 | Hamburg | 25 | 7 | 8 | 10 | -8 | 29 |
 | 11 | Union Berlin | 24 | 7 | 7 | 10 | -9 | 28 |
-| 12 | Köln | 25 | 6 | 7 | 12 | -8 | 25 |
-| 13 | Borussia Mönchengladbach | 25 | 6 | 7 | 12 | -15 | 25 |
+| 12 | Borussia Mönchengladbach | 25 | 6 | 7 | 12 | -15 | 25 |
+| 13 | Köln | 25 | 6 | 6 | 13 | -9 | 24 |
 | 14 | Mainz 05 | 25 | 5 | 9 | 11 | -12 | 24 |
 | 15 | St. Pauli | 24 | 6 | 5 | 13 | -17 | 23 |
 | 16 | Werder Bremen | 24 | 5 | 7 | 12 | -19 | 22 |
@@ -152,7 +152,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Monaco | 25 | 12 | 4 | 9 | 6 | 40 |
 | 6 | Lille | 24 | 12 | 4 | 8 | 6 | 40 |
 | 7 | Rennes | 24 | 11 | 7 | 6 | 3 | 40 |
-| 8 | Strasbourg | 24 | 10 | 5 | 9 | 9 | 35 |
+| 8 | Strasbourg | 25 | 10 | 6 | 9 | 9 | 36 |
 | 9 | Brest | 24 | 9 | 6 | 9 | -2 | 33 |
 | 10 | Lorient | 24 | 8 | 9 | 7 | -4 | 33 |
 | 11 | Angers | 25 | 9 | 5 | 11 | -7 | 32 |
@@ -160,7 +160,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Le Havre | 24 | 6 | 8 | 10 | -10 | 26 |
 | 14 | Paris FC | 24 | 6 | 8 | 10 | -12 | 26 |
 | 15 | Nice | 24 | 6 | 6 | 12 | -14 | 24 |
-| 16 | Auxerre | 24 | 4 | 6 | 14 | -16 | 18 |
+| 16 | Auxerre | 25 | 4 | 7 | 14 | -16 | 19 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
 | 18 | Metz | 24 | 3 | 4 | 17 | -31 | 13 |
 
@@ -292,9 +292,9 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 24 | 21 | 2 | 1 | 39 | 65 |
-| 2 | Sporting CP | 24 | 19 | 4 | 1 | 50 | 61 |
+| 2 | Sporting CP | 25 | 20 | 4 | 1 | 51 | 64 |
 | 3 | Benfica | 24 | 17 | 7 | 0 | 37 | 58 |
-| 4 | Braga | 24 | 13 | 6 | 5 | 27 | 45 |
+| 4 | Braga | 25 | 13 | 6 | 6 | 26 | 45 |
 | 5 | Gil Vicente | 24 | 11 | 7 | 6 | 12 | 40 |
 | 6 | Famalicão | 25 | 11 | 6 | 8 | 9 | 39 |
 | 7 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
