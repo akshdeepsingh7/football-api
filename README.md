@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 March 2026, 01:39 PM UTC (Saturday, 07 March 2026, 07:09 PM IST)
+**Last Updated:** Saturday, 07 March 2026, 02:24 PM UTC (Saturday, 07 March 2026, 07:54 PM IST)
 
 ### Premier League
 
@@ -81,14 +81,14 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
 | 8 | Real Sociedad | 26 | 9 | 8 | 9 | 0 | 35 |
 | 9 | Athletic Bilbao | 26 | 10 | 5 | 11 | -6 | 35 |
-| 10 | Osasuna | 27 | 9 | 6 | 12 | -1 | 33 |
+| 10 | Osasuna | 27 | 9 | 6 | 12 | -2 | 33 |
 | 11 | Getafe | 26 | 9 | 5 | 12 | -8 | 32 |
 | 12 | Rayo Vallecano | 26 | 7 | 9 | 10 | -6 | 30 |
 | 13 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
 | 14 | Girona | 26 | 7 | 9 | 10 | -15 | 30 |
 | 15 | Valencia | 26 | 7 | 8 | 11 | -12 | 29 |
-| 16 | Alavés | 26 | 7 | 6 | 13 | -11 | 27 |
-| 17 | Mallorca | 27 | 7 | 6 | 14 | -12 | 27 |
+| 16 | Mallorca | 27 | 7 | 6 | 14 | -11 | 27 |
+| 17 | Alavés | 26 | 7 | 6 | 13 | -11 | 27 |
 | 18 | Elche | 26 | 5 | 11 | 10 | -5 | 26 |
 | 19 | Levante | 26 | 5 | 6 | 15 | -16 | 21 |
 | 20 | Real Oviedo | 26 | 3 | 8 | 15 | -27 | 17 |
@@ -124,7 +124,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Milan | 27 | 16 | 9 | 2 | 23 | 57 |
 | 3 | Napoli | 28 | 17 | 5 | 6 | 14 | 56 |
 | 4 | Roma | 27 | 16 | 3 | 8 | 18 | 51 |
-| 5 | Como | 27 | 13 | 9 | 5 | 24 | 48 |
+| 5 | Como | 28 | 14 | 9 | 5 | 25 | 51 |
 | 6 | Juventus | 27 | 13 | 8 | 6 | 18 | 47 |
 | 7 | Atalanta | 27 | 12 | 9 | 6 | 13 | 45 |
 | 8 | Bologna | 27 | 11 | 6 | 10 | 4 | 39 |
@@ -132,7 +132,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Udinese | 27 | 10 | 5 | 12 | -8 | 35 |
 | 11 | Lazio | 27 | 8 | 10 | 9 | -1 | 34 |
 | 12 | Parma | 27 | 8 | 9 | 10 | -12 | 33 |
-| 13 | Cagliari | 27 | 7 | 9 | 11 | -7 | 30 |
+| 13 | Cagliari | 28 | 7 | 9 | 12 | -8 | 30 |
 | 14 | Torino | 28 | 8 | 6 | 14 | -21 | 30 |
 | 15 | Genoa | 27 | 6 | 9 | 12 | -7 | 27 |
 | 16 | Fiorentina | 27 | 5 | 9 | 13 | -12 | 24 |
@@ -316,9 +316,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 35 | 21 | 8 | 6 | 34 | 71 |
 | 2 | Middlesbrough | 35 | 19 | 9 | 7 | 19 | 66 |
-| 3 | Ipswich Town | 34 | 18 | 9 | 7 | 26 | 63 |
-| 4 | Millwall | 36 | 18 | 9 | 9 | 7 | 63 |
-| 5 | Hull City | 36 | 18 | 7 | 11 | 7 | 61 |
+| 3 | Millwall | 36 | 19 | 8 | 9 | 9 | 65 |
+| 4 | Ipswich Town | 34 | 18 | 9 | 7 | 26 | 63 |
+| 5 | Hull City | 36 | 18 | 6 | 12 | 5 | 60 |
 | 6 | Wrexham | 35 | 15 | 12 | 8 | 9 | 57 |
 | 7 | Southampton | 35 | 14 | 11 | 10 | 11 | 53 |
 | 8 | Derby County | 35 | 14 | 9 | 12 | 6 | 51 |
@@ -387,9 +387,9 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Inter Kashi | 4 | 1 | 2 | 1 | 0 | 5 |
 | 8 | Punjab FC | 2 | 1 | 0 | 1 | 1 | 3 |
 | 9 | NorthEast Utd | 3 | 0 | 2 | 1 | -3 | 2 |
-| 10 | Odisha | 3 | 0 | 2 | 1 | -4 | 2 |
-| 11 | Chennaiyin | 3 | 0 | 1 | 2 | -3 | 1 |
-| 12 | Kerala Blasters | 3 | 0 | 0 | 3 | -4 | 0 |
+| 10 | Chennaiyin | 4 | 0 | 2 | 2 | -3 | 2 |
+| 11 | Odisha | 3 | 0 | 2 | 1 | -4 | 2 |
+| 12 | Kerala Blasters | 4 | 0 | 1 | 3 | -4 | 1 |
 | 13 | SC Delhi | 3 | 0 | 0 | 3 | -6 | 0 |
 | 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
 

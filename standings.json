@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 01:39 PM UTC",
-        "IST": "Saturday, 07 March 2026, 07:09 PM IST"
+        "UTC": "Saturday, 07 March 2026, 02:24 PM UTC",
+        "IST": "Saturday, 07 March 2026, 07:54 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -304,7 +304,7 @@
                 "Wins": "9",
                 "Draws": "6",
                 "Losses": "12",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "33"
             },
             {
@@ -359,22 +359,22 @@
             },
             {
                 "Position": "16",
+                "Team": "Mallorca",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "-11",
+                "Points": "27"
+            },
+            {
+                "Position": "17",
                 "Team": "Alav\u00e9s",
                 "Played": "26",
                 "Wins": "7",
                 "Draws": "6",
                 "Losses": "13",
                 "Goal Difference": "-11",
-                "Points": "27"
-            },
-            {
-                "Position": "17",
-                "Team": "Mallorca",
-                "Played": "27",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "14",
-                "Goal Difference": "-12",
                 "Points": "27"
             },
             {
@@ -634,12 +634,12 @@
             {
                 "Position": "5",
                 "Team": "Como",
-                "Played": "27",
-                "Wins": "13",
+                "Played": "28",
+                "Wins": "14",
                 "Draws": "9",
                 "Losses": "5",
-                "Goal Difference": "24",
-                "Points": "48"
+                "Goal Difference": "25",
+                "Points": "51"
             },
             {
                 "Position": "6",
@@ -714,11 +714,11 @@
             {
                 "Position": "13",
                 "Team": "Cagliari",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "7",
                 "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-7",
+                "Losses": "12",
+                "Goal Difference": "-8",
                 "Points": "30"
             },
             {
@@ -2265,6 +2265,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Millwall",
+                "Played": "36",
+                "Wins": "19",
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "9",
+                "Points": "65"
+            },
+            {
+                "Position": "4",
                 "Team": "Ipswich Town",
                 "Played": "34",
                 "Wins": "18",
@@ -2274,24 +2284,14 @@
                 "Points": "63"
             },
             {
-                "Position": "4",
-                "Team": "Millwall",
-                "Played": "36",
-                "Wins": "18",
-                "Draws": "9",
-                "Losses": "9",
-                "Goal Difference": "7",
-                "Points": "63"
-            },
-            {
                 "Position": "5",
                 "Team": "Hull City",
                 "Played": "36",
                 "Wins": "18",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "7",
-                "Points": "61"
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "5",
+                "Points": "60"
             },
             {
                 "Position": "6",
@@ -2879,6 +2879,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Chennaiyin",
+                "Played": "4",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "2"
+            },
+            {
+                "Position": "11",
                 "Team": "Odisha",
                 "Played": "3",
                 "Wins": "0",
@@ -2888,24 +2898,14 @@
                 "Points": "2"
             },
             {
-                "Position": "11",
-                "Team": "Chennaiyin",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-3",
-                "Points": "1"
-            },
-            {
                 "Position": "12",
                 "Team": "Kerala Blasters",
-                "Played": "3",
+                "Played": "4",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "-4",
-                "Points": "0"
+                "Points": "1"
             },
             {
                 "Position": "13",
