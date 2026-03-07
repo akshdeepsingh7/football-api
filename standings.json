@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 09:43 PM UTC",
-        "IST": "Sunday, 08 March 2026, 03:13 AM IST"
+        "UTC": "Saturday, 07 March 2026, 10:24 PM UTC",
+        "IST": "Sunday, 08 March 2026, 03:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2507,6 +2507,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Inter Miami",
+                "Played": "3",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "6"
+            },
+            {
+                "Position": "4",
                 "Team": "Nashville",
                 "Played": "2",
                 "Wins": "1",
@@ -2516,27 +2526,7 @@
                 "Points": "4"
             },
             {
-                "Position": "4",
-                "Team": "DC United",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "4"
-            },
-            {
                 "Position": "5",
-                "Team": "Inter Miami",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "4"
-            },
-            {
-                "Position": "6",
                 "Team": "Chicago Fire",
                 "Played": "2",
                 "Wins": "1",
@@ -2546,13 +2536,23 @@
                 "Points": "3"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Cincinnati",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "1",
                 "Goal Difference": "1",
+                "Points": "3"
+            },
+            {
+                "Position": "7",
+                "Team": "DC United",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-2",
                 "Points": "3"
             },
             {
