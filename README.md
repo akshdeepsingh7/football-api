@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 March 2026, 10:48 PM UTC (Sunday, 08 March 2026, 04:18 AM IST)
+**Last Updated:** Saturday, 07 March 2026, 11:23 PM UTC (Sunday, 08 March 2026, 04:53 AM IST)
 
 ### Premier League
 
@@ -345,11 +345,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | NYCFC | 3 | 2 | 1 | 0 | 6 | 7 |
 | 2 | New York RB | 2 | 2 | 0 | 0 | 2 | 6 |
-| 3 | Inter Miami | 3 | 2 | 0 | 1 | 1 | 6 |
+| 3 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
 | 4 | Nashville | 2 | 1 | 1 | 0 | 3 | 4 |
 | 5 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
 | 6 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
-| 7 | DC United | 3 | 1 | 0 | 2 | -2 | 3 |
+| 7 | DC United | 3 | 1 | 0 | 2 | -1 | 3 |
 | 8 | Columbus Crew | 2 | 0 | 1 | 1 | -1 | 1 |
 | 9 | Charlotte | 2 | 0 | 1 | 1 | -3 | 1 |
 | 10 | Philadelphia Union | 2 | 0 | 0 | 2 | -2 | 0 |
