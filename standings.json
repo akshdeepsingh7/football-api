@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 12:49 PM UTC",
-        "IST": "Saturday, 07 March 2026, 06:19 PM IST"
+        "UTC": "Saturday, 07 March 2026, 01:39 PM UTC",
+        "IST": "Saturday, 07 March 2026, 07:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -300,11 +300,11 @@
             {
                 "Position": "10",
                 "Team": "Osasuna",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "9",
                 "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "0",
+                "Losses": "12",
+                "Goal Difference": "-1",
                 "Points": "33"
             },
             {
@@ -369,6 +369,16 @@
             },
             {
                 "Position": "17",
+                "Team": "Mallorca",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "-12",
+                "Points": "27"
+            },
+            {
+                "Position": "18",
                 "Team": "Elche",
                 "Played": "26",
                 "Wins": "5",
@@ -376,16 +386,6 @@
                 "Losses": "10",
                 "Goal Difference": "-5",
                 "Points": "26"
-            },
-            {
-                "Position": "18",
-                "Team": "Mallorca",
-                "Played": "26",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "14",
-                "Goal Difference": "-13",
-                "Points": "24"
             },
             {
                 "Position": "19",
