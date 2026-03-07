@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 March 2026, 02:24 PM UTC (Saturday, 07 March 2026, 07:54 PM IST)
+**Last Updated:** Saturday, 07 March 2026, 02:49 PM UTC (Saturday, 07 March 2026, 08:19 PM IST)
 
 ### Premier League
 
@@ -99,22 +99,22 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 25 | 21 | 3 | 1 | 68 | 66 |
 | 2 | Borussia Dortmund | 24 | 15 | 7 | 2 | 26 | 52 |
-| 3 | Hoffenheim | 24 | 14 | 4 | 6 | 18 | 46 |
-| 4 | VfB Stuttgart | 24 | 14 | 4 | 6 | 16 | 46 |
-| 5 | RB Leipzig | 24 | 13 | 5 | 6 | 13 | 44 |
-| 6 | Bayer Leverkusen | 24 | 13 | 4 | 7 | 16 | 43 |
+| 3 | Hoffenheim | 25 | 14 | 5 | 6 | 18 | 47 |
+| 4 | VfB Stuttgart | 25 | 14 | 5 | 6 | 16 | 47 |
+| 5 | RB Leipzig | 25 | 13 | 6 | 6 | 13 | 45 |
+| 6 | Bayer Leverkusen | 25 | 13 | 5 | 7 | 16 | 44 |
 | 7 | Eintracht Frankfurt | 24 | 9 | 7 | 8 | -1 | 34 |
-| 8 | SC Freiburg | 24 | 9 | 6 | 9 | -5 | 33 |
-| 9 | Augsburg | 24 | 9 | 4 | 11 | -11 | 31 |
+| 8 | SC Freiburg | 25 | 9 | 7 | 9 | -5 | 34 |
+| 9 | Augsburg | 25 | 9 | 5 | 11 | -11 | 32 |
 | 10 | Union Berlin | 24 | 7 | 7 | 10 | -9 | 28 |
-| 11 | Hamburg | 24 | 6 | 8 | 10 | -9 | 26 |
+| 11 | Hamburg | 25 | 6 | 9 | 10 | -9 | 27 |
 | 12 | Borussia Mönchengladbach | 25 | 6 | 7 | 12 | -15 | 25 |
 | 13 | Köln | 24 | 6 | 6 | 12 | -8 | 24 |
-| 14 | Mainz 05 | 24 | 5 | 8 | 11 | -12 | 23 |
+| 14 | Mainz 05 | 25 | 5 | 9 | 11 | -12 | 24 |
 | 15 | St. Pauli | 24 | 6 | 5 | 13 | -17 | 23 |
 | 16 | Werder Bremen | 24 | 5 | 7 | 12 | -19 | 22 |
-| 17 | VfL Wolfsburg | 24 | 5 | 5 | 14 | -20 | 20 |
-| 18 | Heidenheim | 24 | 3 | 5 | 16 | -31 | 14 |
+| 17 | VfL Wolfsburg | 25 | 5 | 6 | 14 | -20 | 21 |
+| 18 | Heidenheim | 25 | 3 | 6 | 16 | -31 | 15 |
 
 ### Serie A
 
@@ -385,11 +385,11 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Mumbai City | 3 | 2 | 1 | 0 | 2 | 7 |
 | 6 | Bengaluru | 4 | 2 | 1 | 1 | 1 | 7 |
 | 7 | Inter Kashi | 4 | 1 | 2 | 1 | 0 | 5 |
-| 8 | Punjab FC | 2 | 1 | 0 | 1 | 1 | 3 |
-| 9 | NorthEast Utd | 3 | 0 | 2 | 1 | -3 | 2 |
-| 10 | Chennaiyin | 4 | 0 | 2 | 2 | -3 | 2 |
+| 8 | Chennaiyin | 4 | 1 | 1 | 2 | -2 | 4 |
+| 9 | Punjab FC | 2 | 1 | 0 | 1 | 1 | 3 |
+| 10 | NorthEast Utd | 3 | 0 | 2 | 1 | -3 | 2 |
 | 11 | Odisha | 3 | 0 | 2 | 1 | -4 | 2 |
-| 12 | Kerala Blasters | 4 | 0 | 1 | 3 | -4 | 1 |
+| 12 | Kerala Blasters | 4 | 0 | 0 | 4 | -5 | 0 |
 | 13 | SC Delhi | 3 | 0 | 0 | 3 | -6 | 0 |
 | 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
 
