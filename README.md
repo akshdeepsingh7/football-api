@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 March 2026, 08:27 PM UTC (Sunday, 08 March 2026, 01:57 AM IST)
+**Last Updated:** Saturday, 07 March 2026, 08:49 PM UTC (Sunday, 08 March 2026, 02:19 AM IST)
 
 ### Premier League
 
@@ -298,12 +298,12 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Gil Vicente | 24 | 11 | 7 | 6 | 12 | 40 |
 | 6 | Famalicão | 25 | 11 | 6 | 8 | 9 | 39 |
 | 7 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
-| 8 | Estoril | 24 | 9 | 6 | 9 | 4 | 33 |
+| 8 | Estoril | 25 | 9 | 7 | 9 | 4 | 34 |
 | 9 | Vitória S.C. | 24 | 9 | 5 | 10 | -7 | 32 |
 | 10 | Alverca | 25 | 7 | 7 | 11 | -15 | 28 |
 | 11 | Arouca | 25 | 7 | 5 | 13 | -21 | 26 |
 | 12 | Estrela Amadora | 24 | 5 | 9 | 10 | -15 | 24 |
-| 13 | Casa Pia | 24 | 5 | 8 | 11 | -18 | 23 |
+| 13 | Casa Pia | 25 | 5 | 9 | 11 | -18 | 24 |
 | 14 | Nacional | 25 | 5 | 7 | 13 | -8 | 22 |
 | 15 | Rio Ave | 24 | 4 | 9 | 11 | -21 | 21 |
 | 16 | Tondela | 24 | 4 | 7 | 13 | -19 | 19 |
@@ -343,7 +343,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | NYCFC | 3 | 2 | 1 | 0 | 3 | 7 |
+| 1 | NYCFC | 3 | 2 | 1 | 0 | 4 | 7 |
 | 2 | New York RB | 2 | 2 | 0 | 0 | 2 | 6 |
 | 3 | Nashville | 2 | 1 | 1 | 0 | 3 | 4 |
 | 4 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
@@ -356,7 +356,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Toronto | 2 | 0 | 0 | 2 | -4 | 0 |
 | 12 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
 | 13 | Atlanta United | 2 | 0 | 0 | 2 | -4 | 0 |
-| 14 | Orlando City | 3 | 0 | 0 | 3 | -5 | 0 |
+| 14 | Orlando City | 3 | 0 | 0 | 3 | -6 | 0 |
 | 15 | CF Montréal | 2 | 0 | 0 | 2 | -8 | 0 |
 | 1 | San Diego | 2 | 2 | 0 | 0 | 7 | 6 |
 | 2 | LAFC | 2 | 2 | 0 | 0 | 5 | 6 |
