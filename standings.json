@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 07:22 PM UTC",
-        "IST": "Sunday, 08 March 2026, 12:52 AM IST"
+        "UTC": "Saturday, 07 March 2026, 07:43 PM UTC",
+        "IST": "Sunday, 08 March 2026, 01:13 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2497,22 +2497,22 @@
             },
             {
                 "Position": "2",
+                "Team": "NYCFC",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "1",
+                "Points": "5"
+            },
+            {
+                "Position": "3",
                 "Team": "Nashville",
                 "Played": "2",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "3",
-                "Points": "4"
-            },
-            {
-                "Position": "3",
-                "Team": "NYCFC",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "1",
                 "Points": "4"
             },
             {
@@ -2567,6 +2567,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Orlando City",
+                "Played": "3",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "1"
+            },
+            {
+                "Position": "10",
                 "Team": "Charlotte",
                 "Played": "2",
                 "Wins": "0",
@@ -2576,23 +2586,13 @@
                 "Points": "1"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Philadelphia Union",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "-2",
-                "Points": "0"
-            },
-            {
-                "Position": "11",
-                "Team": "Orlando City",
-                "Played": "2",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-3",
                 "Points": "0"
             },
             {
