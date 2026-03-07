@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 05:22 PM UTC",
-        "IST": "Saturday, 07 March 2026, 10:52 PM IST"
+        "UTC": "Saturday, 07 March 2026, 05:46 PM UTC",
+        "IST": "Saturday, 07 March 2026, 11:16 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -230,12 +230,12 @@
             {
                 "Position": "3",
                 "Team": "Atl\u00e9tico de Madrid",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "15",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "5",
                 "Goal Difference": "20",
-                "Points": "51"
+                "Points": "52"
             },
             {
                 "Position": "4",
@@ -269,6 +269,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Real Sociedad",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "9",
+                "Losses": "9",
+                "Goal Difference": "0",
+                "Points": "36"
+            },
+            {
+                "Position": "8",
                 "Team": "Espanyol",
                 "Played": "26",
                 "Wins": "10",
@@ -276,16 +286,6 @@
                 "Losses": "10",
                 "Goal Difference": "-6",
                 "Points": "36"
-            },
-            {
-                "Position": "8",
-                "Team": "Real Sociedad",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "0",
-                "Points": "35"
             },
             {
                 "Position": "9",
@@ -422,12 +422,12 @@
             {
                 "Position": "2",
                 "Team": "Borussia Dortmund",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "15",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "2",
                 "Goal Difference": "26",
-                "Points": "52"
+                "Points": "53"
             },
             {
                 "Position": "3",
@@ -521,6 +521,16 @@
             },
             {
                 "Position": "12",
+                "Team": "K\u00f6ln",
+                "Played": "25",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "-8",
+                "Points": "25"
+            },
+            {
+                "Position": "13",
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "25",
                 "Wins": "6",
@@ -528,16 +538,6 @@
                 "Losses": "12",
                 "Goal Difference": "-15",
                 "Points": "25"
-            },
-            {
-                "Position": "13",
-                "Team": "K\u00f6ln",
-                "Played": "24",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "-8",
-                "Points": "24"
             },
             {
                 "Position": "14",
@@ -656,10 +656,10 @@
                 "Team": "Atalanta",
                 "Played": "28",
                 "Wins": "12",
-                "Draws": "10",
-                "Losses": "6",
-                "Goal Difference": "13",
-                "Points": "46"
+                "Draws": "9",
+                "Losses": "7",
+                "Goal Difference": "12",
+                "Points": "45"
             },
             {
                 "Position": "8",
@@ -685,11 +685,11 @@
                 "Position": "10",
                 "Team": "Udinese",
                 "Played": "28",
-                "Wins": "10",
-                "Draws": "6",
+                "Wins": "11",
+                "Draws": "5",
                 "Losses": "12",
-                "Goal Difference": "-8",
-                "Points": "36"
+                "Goal Difference": "-7",
+                "Points": "38"
             },
             {
                 "Position": "11",
