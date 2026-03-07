@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 08:49 PM UTC",
-        "IST": "Sunday, 08 March 2026, 02:19 AM IST"
+        "UTC": "Saturday, 07 March 2026, 09:22 PM UTC",
+        "IST": "Sunday, 08 March 2026, 02:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -645,11 +645,11 @@
                 "Position": "6",
                 "Team": "Juventus",
                 "Played": "28",
-                "Wins": "13",
-                "Draws": "9",
+                "Wins": "14",
+                "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "18",
-                "Points": "48"
+                "Goal Difference": "21",
+                "Points": "50"
             },
             {
                 "Position": "7",
@@ -773,22 +773,22 @@
             },
             {
                 "Position": "19",
-                "Team": "Pisa",
-                "Played": "28",
-                "Wins": "1",
-                "Draws": "13",
-                "Losses": "14",
-                "Goal Difference": "-24",
-                "Points": "16"
-            },
-            {
-                "Position": "20",
                 "Team": "Hellas Verona",
                 "Played": "27",
                 "Wins": "2",
                 "Draws": "9",
                 "Losses": "16",
                 "Goal Difference": "-28",
+                "Points": "15"
+            },
+            {
+                "Position": "20",
+                "Team": "Pisa",
+                "Played": "28",
+                "Wins": "1",
+                "Draws": "12",
+                "Losses": "15",
+                "Goal Difference": "-27",
                 "Points": "15"
             }
         ],
@@ -2492,7 +2492,7 @@
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "4",
+                "Goal Difference": "6",
                 "Points": "7"
             },
             {
@@ -2622,7 +2622,7 @@
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "3",
-                "Goal Difference": "-6",
+                "Goal Difference": "-8",
                 "Points": "0"
             },
             {

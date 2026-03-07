@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 March 2026, 08:49 PM UTC (Sunday, 08 March 2026, 02:19 AM IST)
+**Last Updated:** Saturday, 07 March 2026, 09:22 PM UTC (Sunday, 08 March 2026, 02:52 AM IST)
 
 ### Premier League
 
@@ -125,7 +125,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Napoli | 28 | 17 | 5 | 6 | 14 | 56 |
 | 4 | Roma | 27 | 16 | 3 | 8 | 18 | 51 |
 | 5 | Como | 28 | 14 | 9 | 5 | 25 | 51 |
-| 6 | Juventus | 28 | 13 | 9 | 6 | 18 | 48 |
+| 6 | Juventus | 28 | 14 | 8 | 6 | 21 | 50 |
 | 7 | Atalanta | 28 | 12 | 10 | 6 | 13 | 46 |
 | 8 | Bologna | 27 | 11 | 6 | 10 | 4 | 39 |
 | 9 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
@@ -138,8 +138,8 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Fiorentina | 27 | 5 | 9 | 13 | -12 | 24 |
 | 17 | Cremonese | 27 | 5 | 9 | 13 | -17 | 24 |
 | 18 | Lecce | 27 | 6 | 6 | 15 | -18 | 24 |
-| 19 | Pisa | 28 | 1 | 13 | 14 | -24 | 16 |
-| 20 | Hellas Verona | 27 | 2 | 9 | 16 | -28 | 15 |
+| 19 | Hellas Verona | 27 | 2 | 9 | 16 | -28 | 15 |
+| 20 | Pisa | 28 | 1 | 12 | 15 | -27 | 15 |
 
 ### Ligue 1
 
@@ -343,7 +343,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | NYCFC | 3 | 2 | 1 | 0 | 4 | 7 |
+| 1 | NYCFC | 3 | 2 | 1 | 0 | 6 | 7 |
 | 2 | New York RB | 2 | 2 | 0 | 0 | 2 | 6 |
 | 3 | Nashville | 2 | 1 | 1 | 0 | 3 | 4 |
 | 4 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
@@ -356,7 +356,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Toronto | 2 | 0 | 0 | 2 | -4 | 0 |
 | 12 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
 | 13 | Atlanta United | 2 | 0 | 0 | 2 | -4 | 0 |
-| 14 | Orlando City | 3 | 0 | 0 | 3 | -6 | 0 |
+| 14 | Orlando City | 3 | 0 | 0 | 3 | -8 | 0 |
 | 15 | CF Montréal | 2 | 0 | 0 | 2 | -8 | 0 |
 | 1 | San Diego | 2 | 2 | 0 | 0 | 7 | 6 |
 | 2 | LAFC | 2 | 2 | 0 | 0 | 5 | 6 |
