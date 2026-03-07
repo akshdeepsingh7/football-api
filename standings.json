@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 07 March 2026, 04:53 PM UTC",
-        "IST": "Saturday, 07 March 2026, 10:23 PM IST"
+        "UTC": "Saturday, 07 March 2026, 05:22 PM UTC",
+        "IST": "Saturday, 07 March 2026, 10:52 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -319,6 +319,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Girona",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "10",
+                "Losses": "10",
+                "Goal Difference": "-15",
+                "Points": "31"
+            },
+            {
+                "Position": "13",
                 "Team": "Rayo Vallecano",
                 "Played": "26",
                 "Wins": "7",
@@ -328,23 +338,13 @@
                 "Points": "30"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Sevilla",
                 "Played": "26",
                 "Wins": "8",
                 "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "-7",
-                "Points": "30"
-            },
-            {
-                "Position": "14",
-                "Team": "Girona",
-                "Played": "27",
-                "Wins": "7",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-16",
                 "Points": "30"
             },
             {
@@ -391,11 +391,11 @@
                 "Position": "19",
                 "Team": "Levante",
                 "Played": "27",
-                "Wins": "6",
-                "Draws": "6",
+                "Wins": "5",
+                "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-15",
-                "Points": "24"
+                "Goal Difference": "-16",
+                "Points": "22"
             },
             {
                 "Position": "20",
@@ -654,12 +654,12 @@
             {
                 "Position": "7",
                 "Team": "Atalanta",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "12",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "6",
                 "Goal Difference": "13",
-                "Points": "45"
+                "Points": "46"
             },
             {
                 "Position": "8",
@@ -684,12 +684,12 @@
             {
                 "Position": "10",
                 "Team": "Udinese",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "10",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "-8",
-                "Points": "35"
+                "Points": "36"
             },
             {
                 "Position": "11",
@@ -895,6 +895,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Angers",
+                "Played": "25",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "11",
+                "Goal Difference": "-7",
+                "Points": "32"
+            },
+            {
+                "Position": "12",
                 "Team": "Toulouse",
                 "Played": "24",
                 "Wins": "8",
@@ -902,16 +912,6 @@
                 "Losses": "9",
                 "Goal Difference": "5",
                 "Points": "31"
-            },
-            {
-                "Position": "12",
-                "Team": "Angers",
-                "Played": "25",
-                "Wins": "8",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-8",
-                "Points": "30"
             },
             {
                 "Position": "13",
@@ -958,10 +958,10 @@
                 "Team": "Nantes",
                 "Played": "25",
                 "Wins": "4",
-                "Draws": "6",
-                "Losses": "15",
-                "Goal Difference": "-19",
-                "Points": "18"
+                "Draws": "5",
+                "Losses": "16",
+                "Goal Difference": "-20",
+                "Points": "17"
             },
             {
                 "Position": "18",
@@ -2125,11 +2125,11 @@
                 "Position": "7",
                 "Team": "Moreirense",
                 "Played": "25",
-                "Wins": "11",
-                "Draws": "4",
+                "Wins": "10",
+                "Draws": "5",
                 "Losses": "10",
-                "Goal Difference": "-3",
-                "Points": "37"
+                "Goal Difference": "-4",
+                "Points": "35"
             },
             {
                 "Position": "8",
@@ -2196,10 +2196,10 @@
                 "Team": "Nacional",
                 "Played": "25",
                 "Wins": "5",
-                "Draws": "6",
-                "Losses": "14",
-                "Goal Difference": "-9",
-                "Points": "21"
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-8",
+                "Points": "22"
             },
             {
                 "Position": "15",
