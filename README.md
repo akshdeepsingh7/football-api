@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 07 March 2026, 09:22 PM UTC (Sunday, 08 March 2026, 02:52 AM IST)
+**Last Updated:** Saturday, 07 March 2026, 09:43 PM UTC (Sunday, 08 March 2026, 03:13 AM IST)
 
 ### Premier League
 
@@ -72,15 +72,15 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 27 | 21 | 2 | 4 | 45 | 65 |
+| 1 | Barcelona | 27 | 22 | 1 | 4 | 46 | 67 |
 | 2 | Real Madrid | 27 | 20 | 3 | 4 | 33 | 63 |
 | 3 | Atlético de Madrid | 27 | 16 | 6 | 5 | 21 | 54 |
 | 4 | Villarreal | 26 | 16 | 3 | 7 | 17 | 51 |
 | 5 | Real Betis | 26 | 11 | 10 | 5 | 10 | 43 |
 | 6 | Celta de Vigo | 27 | 10 | 10 | 7 | 7 | 40 |
 | 7 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
-| 8 | Athletic Bilbao | 27 | 10 | 6 | 11 | -6 | 36 |
-| 9 | Real Sociedad | 27 | 9 | 8 | 10 | -1 | 35 |
+| 8 | Real Sociedad | 27 | 9 | 8 | 10 | -1 | 35 |
+| 9 | Athletic Bilbao | 27 | 10 | 5 | 12 | -7 | 35 |
 | 10 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
 | 11 | Getafe | 26 | 9 | 5 | 12 | -8 | 32 |
 | 12 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
@@ -125,7 +125,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Napoli | 28 | 17 | 5 | 6 | 14 | 56 |
 | 4 | Roma | 27 | 16 | 3 | 8 | 18 | 51 |
 | 5 | Como | 28 | 14 | 9 | 5 | 25 | 51 |
-| 6 | Juventus | 28 | 14 | 8 | 6 | 21 | 50 |
+| 6 | Juventus | 28 | 14 | 8 | 6 | 22 | 50 |
 | 7 | Atalanta | 28 | 12 | 10 | 6 | 13 | 46 |
 | 8 | Bologna | 27 | 11 | 6 | 10 | 4 | 39 |
 | 9 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
@@ -139,7 +139,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Cremonese | 27 | 5 | 9 | 13 | -17 | 24 |
 | 18 | Lecce | 27 | 6 | 6 | 15 | -18 | 24 |
 | 19 | Hellas Verona | 27 | 2 | 9 | 16 | -28 | 15 |
-| 20 | Pisa | 28 | 1 | 12 | 15 | -27 | 15 |
+| 20 | Pisa | 28 | 1 | 12 | 15 | -28 | 15 |
 
 ### Ligue 1
 
@@ -346,10 +346,10 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | NYCFC | 3 | 2 | 1 | 0 | 6 | 7 |
 | 2 | New York RB | 2 | 2 | 0 | 0 | 2 | 6 |
 | 3 | Nashville | 2 | 1 | 1 | 0 | 3 | 4 |
-| 4 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
-| 5 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
-| 6 | DC United | 2 | 1 | 0 | 1 | 0 | 3 |
-| 7 | Inter Miami | 2 | 1 | 0 | 1 | -1 | 3 |
+| 4 | DC United | 3 | 1 | 1 | 1 | 0 | 4 |
+| 5 | Inter Miami | 3 | 1 | 1 | 1 | -1 | 4 |
+| 6 | Chicago Fire | 2 | 1 | 0 | 1 | 2 | 3 |
+| 7 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
 | 8 | Columbus Crew | 2 | 0 | 1 | 1 | -1 | 1 |
 | 9 | Charlotte | 2 | 0 | 1 | 1 | -3 | 1 |
 | 10 | Philadelphia Union | 2 | 0 | 0 | 2 | -2 | 0 |
