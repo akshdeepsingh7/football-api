@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 March 2026, 12:51 PM UTC (Sunday, 08 March 2026, 06:21 PM IST)
+**Last Updated:** Sunday, 08 March 2026, 01:40 PM UTC (Sunday, 08 March 2026, 07:10 PM IST)
 
 ### Premier League
 
@@ -75,7 +75,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Barcelona | 27 | 22 | 1 | 4 | 46 | 67 |
 | 2 | Real Madrid | 27 | 20 | 3 | 4 | 33 | 63 |
 | 3 | Atlético de Madrid | 27 | 16 | 6 | 5 | 21 | 54 |
-| 4 | Villarreal | 26 | 16 | 3 | 7 | 17 | 51 |
+| 4 | Villarreal | 27 | 17 | 3 | 7 | 18 | 54 |
 | 5 | Real Betis | 26 | 11 | 10 | 5 | 10 | 43 |
 | 6 | Celta de Vigo | 27 | 10 | 10 | 7 | 7 | 40 |
 | 7 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
@@ -88,7 +88,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
 | 15 | Valencia | 26 | 7 | 8 | 11 | -12 | 29 |
 | 16 | Alavés | 26 | 7 | 6 | 13 | -11 | 27 |
-| 17 | Elche | 26 | 5 | 11 | 10 | -5 | 26 |
+| 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
 | 20 | Real Oviedo | 26 | 3 | 8 | 15 | -27 | 17 |
