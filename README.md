@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 March 2026, 09:46 PM UTC (Monday, 09 March 2026, 03:16 AM IST)
+**Last Updated:** Sunday, 08 March 2026, 10:25 PM UTC (Monday, 09 March 2026, 03:55 AM IST)
 
 ### Premier League
 
@@ -83,11 +83,11 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Getafe | 27 | 10 | 5 | 12 | -6 | 35 |
 | 10 | Athletic Bilbao | 27 | 10 | 5 | 12 | -7 | 35 |
 | 11 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
-| 12 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
-| 13 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
-| 14 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
-| 15 | Alavés | 27 | 8 | 6 | 13 | -10 | 30 |
-| 16 | Valencia | 27 | 7 | 8 | 12 | -13 | 29 |
+| 12 | Valencia | 27 | 8 | 8 | 11 | -11 | 32 |
+| 13 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
+| 14 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
+| 15 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
+| 16 | Alavés | 27 | 7 | 6 | 14 | -12 | 27 |
 | 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
@@ -346,12 +346,12 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | NYCFC | 3 | 2 | 1 | 0 | 6 | 7 |
 | 2 | Nashville | 3 | 2 | 1 | 0 | 5 | 7 |
 | 3 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
-| 4 | New York RB | 3 | 2 | 0 | 1 | 0 | 6 |
+| 4 | New York RB | 3 | 2 | 0 | 1 | -1 | 6 |
 | 5 | Chicago Fire | 3 | 1 | 1 | 1 | 2 | 4 |
 | 6 | Charlotte | 3 | 1 | 1 | 1 | -1 | 4 |
 | 7 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
 | 8 | DC United | 3 | 1 | 0 | 2 | -1 | 3 |
-| 9 | CF Montréal | 3 | 1 | 0 | 2 | -6 | 3 |
+| 9 | CF Montréal | 3 | 1 | 0 | 2 | -5 | 3 |
 | 10 | Columbus Crew | 3 | 0 | 2 | 1 | -1 | 2 |
 | 11 | Philadelphia Union | 3 | 0 | 0 | 3 | -3 | 0 |
 | 12 | Toronto | 2 | 0 | 0 | 2 | -4 | 0 |
