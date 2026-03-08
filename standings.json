@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 March 2026, 04:30 PM UTC",
-        "IST": "Sunday, 08 March 2026, 10:00 PM IST"
+        "UTC": "Sunday, 08 March 2026, 05:24 PM UTC",
+        "IST": "Sunday, 08 March 2026, 10:54 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -512,11 +512,11 @@
             {
                 "Position": "11",
                 "Team": "Union Berlin",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "7",
                 "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "-9",
+                "Losses": "11",
+                "Goal Difference": "-10",
                 "Points": "28"
             },
             {
@@ -531,6 +531,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Werder Bremen",
+                "Played": "25",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "-18",
+                "Points": "25"
+            },
+            {
+                "Position": "14",
                 "Team": "K\u00f6ln",
                 "Played": "25",
                 "Wins": "6",
@@ -540,7 +550,7 @@
                 "Points": "24"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Mainz 05",
                 "Played": "25",
                 "Wins": "5",
@@ -550,7 +560,7 @@
                 "Points": "24"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "St. Pauli",
                 "Played": "25",
                 "Wins": "6",
@@ -558,16 +568,6 @@
                 "Losses": "13",
                 "Goal Difference": "-17",
                 "Points": "24"
-            },
-            {
-                "Position": "16",
-                "Team": "Werder Bremen",
-                "Played": "24",
-                "Wins": "5",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-19",
-                "Points": "22"
             },
             {
                 "Position": "17",
@@ -624,12 +624,12 @@
             {
                 "Position": "4",
                 "Team": "Roma",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "16",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "8",
                 "Goal Difference": "18",
-                "Points": "51"
+                "Points": "52"
             },
             {
                 "Position": "5",
@@ -734,12 +734,12 @@
             {
                 "Position": "15",
                 "Team": "Genoa",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "6",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "12",
                 "Goal Difference": "-7",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "16",
@@ -840,7 +840,7 @@
                 "Wins": "12",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "43"
             },
             {
@@ -877,11 +877,11 @@
                 "Position": "9",
                 "Team": "Brest",
                 "Played": "25",
-                "Wins": "9",
-                "Draws": "7",
+                "Wins": "10",
+                "Draws": "6",
                 "Losses": "9",
-                "Goal Difference": "-2",
-                "Points": "34"
+                "Goal Difference": "-1",
+                "Points": "36"
             },
             {
                 "Position": "10",
@@ -918,10 +918,10 @@
                 "Team": "Le Havre",
                 "Played": "25",
                 "Wins": "6",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-10",
-                "Points": "27"
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-11",
+                "Points": "26"
             },
             {
                 "Position": "14",
@@ -940,7 +940,7 @@
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "-15",
+                "Goal Difference": "-16",
                 "Points": "24"
             },
             {
@@ -2105,11 +2105,11 @@
                 "Position": "5",
                 "Team": "Gil Vicente",
                 "Played": "25",
-                "Wins": "12",
-                "Draws": "7",
+                "Wins": "11",
+                "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "13",
-                "Points": "43"
+                "Goal Difference": "12",
+                "Points": "41"
             },
             {
                 "Position": "6",
@@ -2176,10 +2176,10 @@
                 "Team": "Estrela Amadora",
                 "Played": "25",
                 "Wins": "5",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-16",
-                "Points": "24"
+                "Draws": "10",
+                "Losses": "10",
+                "Goal Difference": "-15",
+                "Points": "25"
             },
             {
                 "Position": "13",
@@ -2256,12 +2256,12 @@
             {
                 "Position": "2",
                 "Team": "Middlesbrough",
-                "Played": "35",
-                "Wins": "19",
+                "Played": "36",
+                "Wins": "20",
                 "Draws": "9",
                 "Losses": "7",
-                "Goal Difference": "19",
-                "Points": "66"
+                "Goal Difference": "20",
+                "Points": "69"
             },
             {
                 "Position": "3",
@@ -2396,11 +2396,11 @@
             {
                 "Position": "16",
                 "Team": "Queens Park Rangers",
-                "Played": "35",
+                "Played": "36",
                 "Wins": "13",
                 "Draws": "8",
-                "Losses": "14",
-                "Goal Difference": "-8",
+                "Losses": "15",
+                "Goal Difference": "-9",
                 "Points": "47"
             },
             {
