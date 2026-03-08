@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 March 2026, 02:50 PM UTC",
-        "IST": "Sunday, 08 March 2026, 08:20 PM IST"
+        "UTC": "Sunday, 08 March 2026, 03:25 PM UTC",
+        "IST": "Sunday, 08 March 2026, 08:55 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -250,12 +250,12 @@
             {
                 "Position": "5",
                 "Team": "Real Betis",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "11",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "5",
                 "Goal Difference": "10",
-                "Points": "43"
+                "Points": "44"
             },
             {
                 "Position": "6",
@@ -310,12 +310,12 @@
             {
                 "Position": "11",
                 "Team": "Getafe",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "9",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "-8",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "12",
@@ -666,10 +666,10 @@
                 "Team": "Bologna",
                 "Played": "28",
                 "Wins": "11",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "4",
-                "Points": "40"
+                "Draws": "6",
+                "Losses": "11",
+                "Goal Difference": "3",
+                "Points": "39"
             },
             {
                 "Position": "9",
@@ -775,11 +775,11 @@
                 "Position": "19",
                 "Team": "Hellas Verona",
                 "Played": "28",
-                "Wins": "2",
-                "Draws": "10",
+                "Wins": "3",
+                "Draws": "9",
                 "Losses": "16",
-                "Goal Difference": "-28",
-                "Points": "16"
+                "Goal Difference": "-27",
+                "Points": "18"
             },
             {
                 "Position": "20",
@@ -810,7 +810,7 @@
                 "Wins": "18",
                 "Draws": "2",
                 "Losses": "5",
-                "Goal Difference": "25",
+                "Goal Difference": "27",
                 "Points": "56"
             },
             {
@@ -970,7 +970,7 @@
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "18",
-                "Goal Difference": "-32",
+                "Goal Difference": "-34",
                 "Points": "13"
             }
         ],
