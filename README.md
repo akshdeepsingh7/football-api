@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 March 2026, 06:36 PM UTC (Monday, 09 March 2026, 12:06 AM IST)
+**Last Updated:** Sunday, 08 March 2026, 07:24 PM UTC (Monday, 09 March 2026, 12:54 AM IST)
 
 ### Premier League
 
@@ -83,9 +83,9 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Getafe | 27 | 10 | 5 | 12 | -6 | 35 |
 | 10 | Athletic Bilbao | 27 | 10 | 5 | 12 | -7 | 35 |
 | 11 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
-| 12 | Sevilla | 27 | 9 | 6 | 12 | -6 | 33 |
-| 13 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
-| 14 | Rayo Vallecano | 27 | 7 | 9 | 11 | -7 | 30 |
+| 12 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
+| 13 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
+| 14 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
 | 15 | Valencia | 26 | 7 | 8 | 11 | -12 | 29 |
 | 16 | Alavés | 26 | 7 | 6 | 13 | -11 | 27 |
 | 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
@@ -123,8 +123,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 27 | 22 | 1 | 4 | 43 | 67 |
 | 2 | Milan | 27 | 16 | 9 | 2 | 23 | 57 |
 | 3 | Napoli | 28 | 17 | 5 | 6 | 14 | 56 |
-| 4 | Roma | 28 | 16 | 4 | 8 | 18 | 52 |
-| 5 | Como | 28 | 14 | 9 | 5 | 25 | 51 |
+| 4 | Como | 28 | 14 | 9 | 5 | 25 | 51 |
+| 5 | Roma | 28 | 16 | 3 | 9 | 17 | 51 |
 | 6 | Juventus | 28 | 14 | 8 | 6 | 22 | 50 |
 | 7 | Atalanta | 28 | 12 | 10 | 6 | 13 | 46 |
 | 8 | Bologna | 28 | 11 | 6 | 11 | 3 | 39 |
@@ -132,9 +132,9 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Udinese | 28 | 10 | 6 | 12 | -8 | 36 |
 | 11 | Lazio | 27 | 8 | 10 | 9 | -1 | 34 |
 | 12 | Parma | 28 | 8 | 10 | 10 | -12 | 34 |
-| 13 | Cagliari | 28 | 7 | 9 | 12 | -8 | 30 |
-| 14 | Torino | 28 | 8 | 6 | 14 | -21 | 30 |
-| 15 | Genoa | 28 | 6 | 10 | 12 | -7 | 28 |
+| 13 | Genoa | 28 | 7 | 9 | 12 | -6 | 30 |
+| 14 | Cagliari | 28 | 7 | 9 | 12 | -8 | 30 |
+| 15 | Torino | 28 | 8 | 6 | 14 | -21 | 30 |
 | 16 | Lecce | 28 | 7 | 6 | 15 | -17 | 27 |
 | 17 | Fiorentina | 28 | 5 | 10 | 13 | -12 | 25 |
 | 18 | Cremonese | 28 | 5 | 9 | 14 | -18 | 24 |
@@ -291,9 +291,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 25 | 22 | 2 | 1 | 40 | 68 |
+| 1 | Porto | 25 | 22 | 2 | 1 | 41 | 68 |
 | 2 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
-| 3 | Benfica | 25 | 17 | 7 | 1 | 36 | 58 |
+| 3 | Benfica | 25 | 17 | 7 | 1 | 35 | 58 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
 | 5 | Gil Vicente | 25 | 11 | 8 | 6 | 12 | 41 |
 | 6 | Famalicão | 25 | 11 | 6 | 8 | 9 | 39 |
