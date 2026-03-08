@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 March 2026, 01:40 PM UTC (Sunday, 08 March 2026, 07:10 PM IST)
+**Last Updated:** Sunday, 08 March 2026, 02:26 PM UTC (Sunday, 08 March 2026, 07:56 PM IST)
 
 ### Premier League
 
@@ -75,7 +75,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Barcelona | 27 | 22 | 1 | 4 | 46 | 67 |
 | 2 | Real Madrid | 27 | 20 | 3 | 4 | 33 | 63 |
 | 3 | Atlético de Madrid | 27 | 16 | 6 | 5 | 21 | 54 |
-| 4 | Villarreal | 27 | 17 | 3 | 7 | 18 | 54 |
+| 4 | Villarreal | 27 | 17 | 3 | 7 | 19 | 54 |
 | 5 | Real Betis | 26 | 11 | 10 | 5 | 10 | 43 |
 | 6 | Celta de Vigo | 27 | 10 | 10 | 7 | 7 | 40 |
 | 7 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
@@ -88,7 +88,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
 | 15 | Valencia | 26 | 7 | 8 | 11 | -12 | 29 |
 | 16 | Alavés | 26 | 7 | 6 | 13 | -11 | 27 |
-| 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
+| 17 | Elche | 27 | 5 | 11 | 11 | -7 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
 | 20 | Real Oviedo | 26 | 3 | 8 | 15 | -27 | 17 |
@@ -127,18 +127,18 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Como | 28 | 14 | 9 | 5 | 25 | 51 |
 | 6 | Juventus | 28 | 14 | 8 | 6 | 22 | 50 |
 | 7 | Atalanta | 28 | 12 | 10 | 6 | 13 | 46 |
-| 8 | Bologna | 27 | 11 | 6 | 10 | 4 | 39 |
+| 8 | Bologna | 28 | 11 | 7 | 10 | 4 | 40 |
 | 9 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
 | 10 | Udinese | 28 | 10 | 6 | 12 | -8 | 36 |
 | 11 | Lazio | 27 | 8 | 10 | 9 | -1 | 34 |
-| 12 | Parma | 27 | 8 | 9 | 10 | -12 | 33 |
+| 12 | Parma | 28 | 8 | 10 | 10 | -12 | 34 |
 | 13 | Cagliari | 28 | 7 | 9 | 12 | -8 | 30 |
 | 14 | Torino | 28 | 8 | 6 | 14 | -21 | 30 |
 | 15 | Genoa | 27 | 6 | 9 | 12 | -7 | 27 |
 | 16 | Lecce | 28 | 7 | 6 | 15 | -17 | 27 |
-| 17 | Fiorentina | 27 | 5 | 9 | 13 | -12 | 24 |
+| 17 | Fiorentina | 28 | 5 | 10 | 13 | -12 | 25 |
 | 18 | Cremonese | 28 | 5 | 9 | 14 | -18 | 24 |
-| 19 | Hellas Verona | 27 | 2 | 9 | 16 | -28 | 15 |
+| 19 | Hellas Verona | 28 | 2 | 10 | 16 | -28 | 16 |
 | 20 | Pisa | 28 | 1 | 12 | 15 | -28 | 15 |
 
 ### Ligue 1
@@ -146,7 +146,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 25 | 18 | 3 | 4 | 32 | 57 |
-| 2 | Lens | 24 | 17 | 2 | 5 | 24 | 53 |
+| 2 | Lens | 25 | 17 | 3 | 5 | 24 | 54 |
 | 3 | Marseille | 25 | 14 | 4 | 7 | 19 | 46 |
 | 4 | Lyon | 24 | 14 | 3 | 7 | 13 | 45 |
 | 5 | Monaco | 25 | 12 | 4 | 9 | 6 | 40 |
@@ -162,7 +162,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Nice | 24 | 6 | 6 | 12 | -14 | 24 |
 | 16 | Auxerre | 25 | 4 | 7 | 14 | -16 | 19 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
-| 18 | Metz | 24 | 3 | 4 | 17 | -31 | 13 |
+| 18 | Metz | 25 | 3 | 5 | 17 | -31 | 14 |
 
 ### Champions League
 
@@ -380,9 +380,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mohun Bagan SG | 4 | 4 | 0 | 0 | 12 | 12 |
 | 2 | Jamshedpur | 4 | 4 | 0 | 0 | 4 | 12 |
-| 3 | FC Goa | 4 | 2 | 2 | 0 | 3 | 8 |
-| 4 | East Bengal | 4 | 2 | 1 | 1 | 5 | 7 |
-| 5 | Mumbai City | 3 | 2 | 1 | 0 | 2 | 7 |
+| 3 | Mumbai City | 4 | 3 | 1 | 0 | 4 | 10 |
+| 4 | FC Goa | 4 | 2 | 2 | 0 | 3 | 8 |
+| 5 | East Bengal | 4 | 2 | 1 | 1 | 5 | 7 |
 | 6 | Bengaluru | 4 | 2 | 1 | 1 | 1 | 7 |
 | 7 | Inter Kashi | 4 | 1 | 2 | 1 | 0 | 5 |
 | 8 | Chennaiyin | 4 | 1 | 1 | 2 | -2 | 4 |
@@ -390,8 +390,8 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | NorthEast Utd | 3 | 0 | 2 | 1 | -3 | 2 |
 | 11 | Odisha | 3 | 0 | 2 | 1 | -4 | 2 |
 | 12 | Kerala Blasters | 4 | 0 | 0 | 4 | -5 | 0 |
-| 13 | SC Delhi | 3 | 0 | 0 | 3 | -6 | 0 |
-| 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
+| 13 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
+| 14 | SC Delhi | 4 | 0 | 0 | 4 | -8 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
 

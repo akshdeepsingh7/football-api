@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 March 2026, 01:40 PM UTC",
-        "IST": "Sunday, 08 March 2026, 07:10 PM IST"
+        "UTC": "Sunday, 08 March 2026, 02:26 PM UTC",
+        "IST": "Sunday, 08 March 2026, 07:56 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -244,7 +244,7 @@
                 "Wins": "17",
                 "Draws": "3",
                 "Losses": "7",
-                "Goal Difference": "18",
+                "Goal Difference": "19",
                 "Points": "54"
             },
             {
@@ -374,7 +374,7 @@
                 "Wins": "5",
                 "Draws": "11",
                 "Losses": "11",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "26"
             },
             {
@@ -664,12 +664,12 @@
             {
                 "Position": "8",
                 "Team": "Bologna",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "11",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "10",
                 "Goal Difference": "4",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "9",
@@ -704,12 +704,12 @@
             {
                 "Position": "12",
                 "Team": "Parma",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "8",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "10",
                 "Goal Difference": "-12",
-                "Points": "33"
+                "Points": "34"
             },
             {
                 "Position": "13",
@@ -754,12 +754,12 @@
             {
                 "Position": "17",
                 "Team": "Fiorentina",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "5",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "13",
                 "Goal Difference": "-12",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "18",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Hellas Verona",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "2",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "16",
                 "Goal Difference": "-28",
-                "Points": "15"
+                "Points": "16"
             },
             {
                 "Position": "20",
@@ -806,12 +806,12 @@
             {
                 "Position": "2",
                 "Team": "Lens",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "17",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "5",
                 "Goal Difference": "24",
-                "Points": "53"
+                "Points": "54"
             },
             {
                 "Position": "3",
@@ -966,12 +966,12 @@
             {
                 "Position": "18",
                 "Team": "Metz",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "17",
                 "Goal Difference": "-31",
-                "Points": "13"
+                "Points": "14"
             }
         ],
         "Champions League": [
@@ -2809,6 +2809,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Mumbai City",
+                "Played": "4",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "0",
+                "Goal Difference": "4",
+                "Points": "10"
+            },
+            {
+                "Position": "4",
                 "Team": "FC Goa",
                 "Played": "4",
                 "Wins": "2",
@@ -2818,23 +2828,13 @@
                 "Points": "8"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "East Bengal",
                 "Played": "4",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "5",
-                "Points": "7"
-            },
-            {
-                "Position": "5",
-                "Team": "Mumbai City",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "2",
                 "Points": "7"
             },
             {
@@ -2909,17 +2909,17 @@
             },
             {
                 "Position": "13",
-                "Team": "SC Delhi",
-                "Played": "3",
+                "Team": "Mohammedan",
+                "Played": "4",
                 "Wins": "0",
                 "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-6",
+                "Losses": "4",
+                "Goal Difference": "-8",
                 "Points": "0"
             },
             {
                 "Position": "14",
-                "Team": "Mohammedan",
+                "Team": "SC Delhi",
                 "Played": "4",
                 "Wins": "0",
                 "Draws": "0",
