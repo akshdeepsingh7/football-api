@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 March 2026, 03:25 PM UTC (Sunday, 08 March 2026, 08:55 PM IST)
+**Last Updated:** Sunday, 08 March 2026, 03:47 PM UTC (Sunday, 08 March 2026, 09:17 PM IST)
 
 ### Premier League
 
@@ -76,13 +76,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Real Madrid | 27 | 20 | 3 | 4 | 33 | 63 |
 | 3 | Atlético de Madrid | 27 | 16 | 6 | 5 | 21 | 54 |
 | 4 | Villarreal | 27 | 17 | 3 | 7 | 18 | 54 |
-| 5 | Real Betis | 27 | 11 | 11 | 5 | 10 | 44 |
+| 5 | Real Betis | 27 | 11 | 10 | 6 | 9 | 43 |
 | 6 | Celta de Vigo | 27 | 10 | 10 | 7 | 7 | 40 |
 | 7 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
 | 8 | Real Sociedad | 27 | 9 | 8 | 10 | -1 | 35 |
 | 9 | Athletic Bilbao | 27 | 10 | 5 | 12 | -7 | 35 |
-| 10 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
-| 11 | Getafe | 27 | 9 | 6 | 12 | -8 | 33 |
+| 10 | Getafe | 27 | 10 | 5 | 12 | -7 | 35 |
+| 11 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
 | 12 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
 | 13 | Rayo Vallecano | 26 | 7 | 9 | 10 | -6 | 30 |
 | 14 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
@@ -295,14 +295,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
 | 3 | Benfica | 24 | 17 | 7 | 0 | 37 | 58 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
-| 5 | Gil Vicente | 24 | 11 | 7 | 6 | 12 | 40 |
+| 5 | Gil Vicente | 25 | 12 | 7 | 6 | 13 | 43 |
 | 6 | Famalicão | 25 | 11 | 6 | 8 | 9 | 39 |
 | 7 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
 | 8 | Estoril | 25 | 9 | 7 | 9 | 4 | 34 |
 | 9 | Vitória S.C. | 24 | 9 | 5 | 10 | -7 | 32 |
 | 10 | Alverca | 25 | 7 | 7 | 11 | -15 | 28 |
 | 11 | Arouca | 25 | 7 | 5 | 13 | -21 | 26 |
-| 12 | Estrela Amadora | 24 | 5 | 9 | 10 | -15 | 24 |
+| 12 | Estrela Amadora | 25 | 5 | 9 | 11 | -16 | 24 |
 | 13 | Casa Pia | 25 | 5 | 9 | 11 | -18 | 24 |
 | 14 | Nacional | 25 | 5 | 7 | 13 | -8 | 22 |
 | 15 | Rio Ave | 24 | 4 | 9 | 11 | -21 | 21 |
@@ -380,8 +380,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mohun Bagan SG | 4 | 4 | 0 | 0 | 12 | 12 |
 | 2 | Jamshedpur | 4 | 4 | 0 | 0 | 4 | 12 |
-| 3 | Mumbai City | 4 | 3 | 1 | 0 | 3 | 10 |
-| 4 | FC Goa | 4 | 2 | 2 | 0 | 3 | 8 |
+| 3 | FC Goa | 4 | 2 | 2 | 0 | 3 | 8 |
+| 4 | Mumbai City | 4 | 2 | 2 | 0 | 2 | 8 |
 | 5 | East Bengal | 4 | 2 | 1 | 1 | 5 | 7 |
 | 6 | Bengaluru | 4 | 2 | 1 | 1 | 1 | 7 |
 | 7 | Inter Kashi | 4 | 1 | 2 | 1 | 0 | 5 |
@@ -389,8 +389,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Punjab FC | 2 | 1 | 0 | 1 | 1 | 3 |
 | 10 | NorthEast Utd | 3 | 0 | 2 | 1 | -3 | 2 |
 | 11 | Odisha | 3 | 0 | 2 | 1 | -4 | 2 |
-| 12 | Kerala Blasters | 4 | 0 | 0 | 4 | -5 | 0 |
-| 13 | SC Delhi | 4 | 0 | 0 | 4 | -7 | 0 |
+| 12 | SC Delhi | 4 | 0 | 1 | 3 | -6 | 1 |
+| 13 | Kerala Blasters | 4 | 0 | 0 | 4 | -5 | 0 |
 | 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
