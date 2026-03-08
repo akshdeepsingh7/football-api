@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 March 2026, 08:51 PM UTC",
-        "IST": "Monday, 09 March 2026, 02:21 AM IST"
+        "UTC": "Sunday, 08 March 2026, 09:24 PM UTC",
+        "IST": "Monday, 09 March 2026, 02:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -349,23 +349,23 @@
             },
             {
                 "Position": "15",
-                "Team": "Alav\u00e9s",
+                "Team": "Valencia",
                 "Played": "27",
-                "Wins": "8",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-10",
+                "Wins": "7",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-12",
                 "Points": "30"
             },
             {
                 "Position": "16",
-                "Team": "Valencia",
+                "Team": "Alav\u00e9s",
                 "Played": "27",
                 "Wins": "7",
-                "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-13",
-                "Points": "29"
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-11",
+                "Points": "28"
             },
             {
                 "Position": "17",
@@ -828,10 +828,10 @@
                 "Team": "Lyon",
                 "Played": "25",
                 "Wins": "14",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "13",
-                "Points": "46"
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "12",
+                "Points": "45"
             },
             {
                 "Position": "5",
@@ -917,11 +917,11 @@
                 "Position": "13",
                 "Team": "Paris FC",
                 "Played": "25",
-                "Wins": "6",
-                "Draws": "9",
+                "Wins": "7",
+                "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "-12",
-                "Points": "27"
+                "Goal Difference": "-11",
+                "Points": "29"
             },
             {
                 "Position": "14",
@@ -2507,17 +2507,17 @@
             },
             {
                 "Position": "3",
-                "Team": "New York RB",
+                "Team": "Inter Miami",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "1",
-                "Goal Difference": "1",
+                "Goal Difference": "0",
                 "Points": "6"
             },
             {
                 "Position": "4",
-                "Team": "Inter Miami",
+                "Team": "New York RB",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "0",
@@ -2572,7 +2572,7 @@
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-7",
+                "Goal Difference": "-6",
                 "Points": "3"
             },
             {

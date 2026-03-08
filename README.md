@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 March 2026, 08:51 PM UTC (Monday, 09 March 2026, 02:21 AM IST)
+**Last Updated:** Sunday, 08 March 2026, 09:24 PM UTC (Monday, 09 March 2026, 02:54 AM IST)
 
 ### Premier League
 
@@ -86,8 +86,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
 | 13 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
 | 14 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
-| 15 | Alavés | 27 | 8 | 6 | 13 | -10 | 30 |
-| 16 | Valencia | 27 | 7 | 8 | 12 | -13 | 29 |
+| 15 | Valencia | 27 | 7 | 9 | 11 | -12 | 30 |
+| 16 | Alavés | 27 | 7 | 7 | 13 | -11 | 28 |
 | 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
@@ -148,7 +148,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 25 | 18 | 3 | 4 | 32 | 57 |
 | 2 | Lens | 25 | 18 | 2 | 5 | 27 | 56 |
 | 3 | Marseille | 25 | 14 | 4 | 7 | 19 | 46 |
-| 4 | Lyon | 25 | 14 | 4 | 7 | 13 | 46 |
+| 4 | Lyon | 25 | 14 | 3 | 8 | 12 | 45 |
 | 5 | Rennes | 25 | 12 | 7 | 6 | 7 | 43 |
 | 6 | Lille | 25 | 12 | 5 | 8 | 6 | 41 |
 | 7 | Monaco | 25 | 12 | 4 | 9 | 6 | 40 |
@@ -157,7 +157,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Lorient | 25 | 8 | 10 | 7 | -4 | 34 |
 | 11 | Angers | 25 | 9 | 5 | 11 | -7 | 32 |
 | 12 | Toulouse | 25 | 8 | 7 | 10 | 4 | 31 |
-| 13 | Paris FC | 25 | 6 | 9 | 10 | -12 | 27 |
+| 13 | Paris FC | 25 | 7 | 8 | 10 | -11 | 29 |
 | 14 | Le Havre | 25 | 6 | 8 | 11 | -12 | 26 |
 | 15 | Nice | 25 | 6 | 6 | 13 | -18 | 24 |
 | 16 | Auxerre | 25 | 4 | 7 | 14 | -16 | 19 |
@@ -345,13 +345,13 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | NYCFC | 3 | 2 | 1 | 0 | 6 | 7 |
 | 2 | Nashville | 3 | 2 | 1 | 0 | 5 | 7 |
-| 3 | New York RB | 3 | 2 | 0 | 1 | 1 | 6 |
-| 4 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
+| 3 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
+| 4 | New York RB | 3 | 2 | 0 | 1 | 0 | 6 |
 | 5 | Chicago Fire | 3 | 1 | 1 | 1 | 2 | 4 |
 | 6 | Charlotte | 3 | 1 | 1 | 1 | -1 | 4 |
 | 7 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
 | 8 | DC United | 3 | 1 | 0 | 2 | -1 | 3 |
-| 9 | CF Montréal | 3 | 1 | 0 | 2 | -7 | 3 |
+| 9 | CF Montréal | 3 | 1 | 0 | 2 | -6 | 3 |
 | 10 | Columbus Crew | 3 | 0 | 2 | 1 | -1 | 2 |
 | 11 | Philadelphia Union | 3 | 0 | 0 | 3 | -3 | 0 |
 | 12 | Toronto | 2 | 0 | 0 | 2 | -4 | 0 |
