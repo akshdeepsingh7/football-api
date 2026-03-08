@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 March 2026, 02:26 PM UTC (Sunday, 08 March 2026, 07:56 PM IST)
+**Last Updated:** Sunday, 08 March 2026, 02:50 PM UTC (Sunday, 08 March 2026, 08:20 PM IST)
 
 ### Premier League
 
@@ -75,7 +75,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Barcelona | 27 | 22 | 1 | 4 | 46 | 67 |
 | 2 | Real Madrid | 27 | 20 | 3 | 4 | 33 | 63 |
 | 3 | Atlético de Madrid | 27 | 16 | 6 | 5 | 21 | 54 |
-| 4 | Villarreal | 27 | 17 | 3 | 7 | 19 | 54 |
+| 4 | Villarreal | 27 | 17 | 3 | 7 | 18 | 54 |
 | 5 | Real Betis | 26 | 11 | 10 | 5 | 10 | 43 |
 | 6 | Celta de Vigo | 27 | 10 | 10 | 7 | 7 | 40 |
 | 7 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
@@ -88,7 +88,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
 | 15 | Valencia | 26 | 7 | 8 | 11 | -12 | 29 |
 | 16 | Alavés | 26 | 7 | 6 | 13 | -11 | 27 |
-| 17 | Elche | 27 | 5 | 11 | 11 | -7 | 26 |
+| 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
 | 20 | Real Oviedo | 26 | 3 | 8 | 15 | -27 | 17 |
@@ -103,7 +103,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | VfB Stuttgart | 25 | 14 | 5 | 6 | 16 | 47 |
 | 5 | RB Leipzig | 25 | 14 | 5 | 6 | 14 | 47 |
 | 6 | Bayer Leverkusen | 25 | 13 | 5 | 7 | 16 | 44 |
-| 7 | Eintracht Frankfurt | 24 | 9 | 7 | 8 | -1 | 34 |
+| 7 | Eintracht Frankfurt | 25 | 9 | 8 | 8 | -1 | 35 |
 | 8 | SC Freiburg | 25 | 9 | 7 | 9 | -5 | 34 |
 | 9 | Augsburg | 25 | 9 | 4 | 12 | -12 | 31 |
 | 10 | Hamburg | 25 | 7 | 8 | 10 | -8 | 29 |
@@ -111,7 +111,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Borussia Mönchengladbach | 25 | 6 | 7 | 12 | -15 | 25 |
 | 13 | Köln | 25 | 6 | 6 | 13 | -9 | 24 |
 | 14 | Mainz 05 | 25 | 5 | 9 | 11 | -12 | 24 |
-| 15 | St. Pauli | 24 | 6 | 5 | 13 | -17 | 23 |
+| 15 | St. Pauli | 25 | 6 | 6 | 13 | -17 | 24 |
 | 16 | Werder Bremen | 24 | 5 | 7 | 12 | -19 | 22 |
 | 17 | VfL Wolfsburg | 25 | 5 | 5 | 15 | -21 | 20 |
 | 18 | Heidenheim | 25 | 3 | 5 | 17 | -33 | 14 |
@@ -146,7 +146,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 25 | 18 | 3 | 4 | 32 | 57 |
-| 2 | Lens | 25 | 17 | 3 | 5 | 24 | 54 |
+| 2 | Lens | 25 | 18 | 2 | 5 | 25 | 56 |
 | 3 | Marseille | 25 | 14 | 4 | 7 | 19 | 46 |
 | 4 | Lyon | 24 | 14 | 3 | 7 | 13 | 45 |
 | 5 | Monaco | 25 | 12 | 4 | 9 | 6 | 40 |
@@ -162,7 +162,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Nice | 24 | 6 | 6 | 12 | -14 | 24 |
 | 16 | Auxerre | 25 | 4 | 7 | 14 | -16 | 19 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
-| 18 | Metz | 25 | 3 | 5 | 17 | -31 | 14 |
+| 18 | Metz | 25 | 3 | 4 | 18 | -32 | 13 |
 
 ### Champions League
 
@@ -380,7 +380,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mohun Bagan SG | 4 | 4 | 0 | 0 | 12 | 12 |
 | 2 | Jamshedpur | 4 | 4 | 0 | 0 | 4 | 12 |
-| 3 | Mumbai City | 4 | 3 | 1 | 0 | 4 | 10 |
+| 3 | Mumbai City | 4 | 3 | 1 | 0 | 3 | 10 |
 | 4 | FC Goa | 4 | 2 | 2 | 0 | 3 | 8 |
 | 5 | East Bengal | 4 | 2 | 1 | 1 | 5 | 7 |
 | 6 | Bengaluru | 4 | 2 | 1 | 1 | 1 | 7 |
@@ -390,8 +390,8 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | NorthEast Utd | 3 | 0 | 2 | 1 | -3 | 2 |
 | 11 | Odisha | 3 | 0 | 2 | 1 | -4 | 2 |
 | 12 | Kerala Blasters | 4 | 0 | 0 | 4 | -5 | 0 |
-| 13 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
-| 14 | SC Delhi | 4 | 0 | 0 | 4 | -8 | 0 |
+| 13 | SC Delhi | 4 | 0 | 0 | 4 | -7 | 0 |
+| 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
 
