@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 March 2026, 09:24 PM UTC (Monday, 09 March 2026, 02:54 AM IST)
+**Last Updated:** Sunday, 08 March 2026, 09:46 PM UTC (Monday, 09 March 2026, 03:16 AM IST)
 
 ### Premier League
 
@@ -86,8 +86,8 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
 | 13 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
 | 14 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
-| 15 | Valencia | 27 | 7 | 9 | 11 | -12 | 30 |
-| 16 | Alavés | 27 | 7 | 7 | 13 | -11 | 28 |
+| 15 | Alavés | 27 | 8 | 6 | 13 | -10 | 30 |
+| 16 | Valencia | 27 | 7 | 8 | 12 | -13 | 29 |
 | 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
@@ -148,7 +148,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 25 | 18 | 3 | 4 | 32 | 57 |
 | 2 | Lens | 25 | 18 | 2 | 5 | 27 | 56 |
 | 3 | Marseille | 25 | 14 | 4 | 7 | 19 | 46 |
-| 4 | Lyon | 25 | 14 | 3 | 8 | 12 | 45 |
+| 4 | Lyon | 25 | 14 | 4 | 7 | 13 | 46 |
 | 5 | Rennes | 25 | 12 | 7 | 6 | 7 | 43 |
 | 6 | Lille | 25 | 12 | 5 | 8 | 6 | 41 |
 | 7 | Monaco | 25 | 12 | 4 | 9 | 6 | 40 |
@@ -157,7 +157,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Lorient | 25 | 8 | 10 | 7 | -4 | 34 |
 | 11 | Angers | 25 | 9 | 5 | 11 | -7 | 32 |
 | 12 | Toulouse | 25 | 8 | 7 | 10 | 4 | 31 |
-| 13 | Paris FC | 25 | 7 | 8 | 10 | -11 | 29 |
+| 13 | Paris FC | 25 | 6 | 9 | 10 | -12 | 27 |
 | 14 | Le Havre | 25 | 6 | 8 | 11 | -12 | 26 |
 | 15 | Nice | 25 | 6 | 6 | 13 | -18 | 24 |
 | 16 | Auxerre | 25 | 4 | 7 | 14 | -16 | 19 |
