@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 March 2026, 05:24 PM UTC (Sunday, 08 March 2026, 10:54 PM IST)
+**Last Updated:** Sunday, 08 March 2026, 05:48 PM UTC (Sunday, 08 March 2026, 11:18 PM IST)
 
 ### Premier League
 
@@ -83,9 +83,9 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Getafe | 27 | 10 | 5 | 12 | -6 | 35 |
 | 10 | Athletic Bilbao | 27 | 10 | 5 | 12 | -7 | 35 |
 | 11 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
-| 12 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
-| 13 | Rayo Vallecano | 26 | 7 | 9 | 10 | -6 | 30 |
-| 14 | Sevilla | 26 | 8 | 6 | 12 | -7 | 30 |
+| 12 | Sevilla | 27 | 9 | 6 | 12 | -6 | 33 |
+| 13 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
+| 14 | Rayo Vallecano | 27 | 7 | 9 | 11 | -7 | 30 |
 | 15 | Valencia | 26 | 7 | 8 | 11 | -12 | 29 |
 | 16 | Alavés | 26 | 7 | 6 | 13 | -11 | 27 |
 | 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
@@ -149,16 +149,16 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 25 | 18 | 2 | 5 | 27 | 56 |
 | 3 | Marseille | 25 | 14 | 4 | 7 | 19 | 46 |
 | 4 | Lyon | 24 | 14 | 3 | 7 | 13 | 45 |
-| 5 | Rennes | 25 | 12 | 7 | 6 | 5 | 43 |
-| 6 | Lille | 25 | 12 | 5 | 8 | 6 | 41 |
+| 5 | Lille | 25 | 13 | 4 | 8 | 7 | 43 |
+| 6 | Rennes | 25 | 12 | 7 | 6 | 5 | 43 |
 | 7 | Monaco | 25 | 12 | 4 | 9 | 6 | 40 |
 | 8 | Strasbourg | 25 | 10 | 6 | 9 | 9 | 36 |
-| 9 | Brest | 25 | 10 | 6 | 9 | -1 | 36 |
-| 10 | Lorient | 25 | 8 | 10 | 7 | -4 | 34 |
+| 9 | Brest | 25 | 10 | 6 | 9 | 0 | 36 |
+| 10 | Lorient | 25 | 8 | 9 | 8 | -5 | 33 |
 | 11 | Angers | 25 | 9 | 5 | 11 | -7 | 32 |
 | 12 | Toulouse | 25 | 8 | 7 | 10 | 4 | 31 |
-| 13 | Le Havre | 25 | 6 | 8 | 11 | -11 | 26 |
-| 14 | Paris FC | 24 | 6 | 8 | 10 | -12 | 26 |
+| 13 | Paris FC | 24 | 6 | 8 | 10 | -12 | 26 |
+| 14 | Le Havre | 25 | 6 | 8 | 11 | -12 | 26 |
 | 15 | Nice | 25 | 6 | 6 | 13 | -16 | 24 |
 | 16 | Auxerre | 25 | 4 | 7 | 14 | -16 | 19 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
