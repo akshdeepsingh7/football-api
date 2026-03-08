@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 March 2026, 08:28 PM UTC (Monday, 09 March 2026, 01:58 AM IST)
+**Last Updated:** Sunday, 08 March 2026, 08:51 PM UTC (Monday, 09 March 2026, 02:21 AM IST)
 
 ### Premier League
 
@@ -299,15 +299,15 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Famalicão | 25 | 11 | 6 | 8 | 9 | 39 |
 | 7 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
 | 8 | Estoril | 25 | 9 | 7 | 9 | 4 | 34 |
-| 9 | Vitória S.C. | 24 | 9 | 5 | 10 | -7 | 32 |
+| 9 | Vitória S.C. | 25 | 9 | 5 | 11 | -9 | 32 |
 | 10 | Alverca | 25 | 7 | 7 | 11 | -15 | 28 |
 | 11 | Arouca | 25 | 7 | 5 | 13 | -21 | 26 |
 | 12 | Estrela Amadora | 25 | 5 | 10 | 10 | -15 | 25 |
 | 13 | Casa Pia | 25 | 5 | 9 | 11 | -18 | 24 |
 | 14 | Nacional | 25 | 5 | 7 | 13 | -8 | 22 |
-| 15 | Rio Ave | 24 | 4 | 9 | 11 | -21 | 21 |
-| 16 | Tondela | 24 | 4 | 7 | 13 | -19 | 19 |
-| 17 | Santa Clara | 24 | 4 | 7 | 13 | -11 | 19 |
+| 15 | Santa Clara | 25 | 5 | 7 | 13 | -9 | 22 |
+| 16 | Rio Ave | 24 | 4 | 9 | 11 | -21 | 21 |
+| 17 | Tondela | 24 | 4 | 7 | 13 | -19 | 19 |
 | 18 | AVS | 25 | 1 | 7 | 17 | -39 | 10 |
 
 ### EFL Championship
@@ -345,19 +345,19 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | NYCFC | 3 | 2 | 1 | 0 | 6 | 7 |
 | 2 | Nashville | 3 | 2 | 1 | 0 | 5 | 7 |
-| 3 | New York RB | 2 | 2 | 0 | 0 | 2 | 6 |
+| 3 | New York RB | 3 | 2 | 0 | 1 | 1 | 6 |
 | 4 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
 | 5 | Chicago Fire | 3 | 1 | 1 | 1 | 2 | 4 |
 | 6 | Charlotte | 3 | 1 | 1 | 1 | -1 | 4 |
 | 7 | Cincinnati | 2 | 1 | 0 | 1 | 1 | 3 |
 | 8 | DC United | 3 | 1 | 0 | 2 | -1 | 3 |
-| 9 | Columbus Crew | 3 | 0 | 2 | 1 | -1 | 2 |
-| 10 | Philadelphia Union | 3 | 0 | 0 | 3 | -3 | 0 |
-| 11 | Toronto | 2 | 0 | 0 | 2 | -4 | 0 |
-| 12 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
-| 13 | Atlanta United | 3 | 0 | 0 | 3 | -5 | 0 |
-| 14 | Orlando City | 3 | 0 | 0 | 3 | -8 | 0 |
-| 15 | CF Montréal | 2 | 0 | 0 | 2 | -8 | 0 |
+| 9 | CF Montréal | 3 | 1 | 0 | 2 | -7 | 3 |
+| 10 | Columbus Crew | 3 | 0 | 2 | 1 | -1 | 2 |
+| 11 | Philadelphia Union | 3 | 0 | 0 | 3 | -3 | 0 |
+| 12 | Toronto | 2 | 0 | 0 | 2 | -4 | 0 |
+| 13 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
+| 14 | Atlanta United | 3 | 0 | 0 | 3 | -5 | 0 |
+| 15 | Orlando City | 3 | 0 | 0 | 3 | -8 | 0 |
 | 1 | San Diego | 3 | 3 | 0 | 0 | 8 | 9 |
 | 2 | Vancouver Whitecaps | 3 | 3 | 0 | 0 | 7 | 9 |
 | 3 | LAFC | 3 | 3 | 0 | 0 | 6 | 9 |
