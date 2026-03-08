@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 March 2026, 11:21 AM UTC",
-        "IST": "Sunday, 08 March 2026, 04:51 PM IST"
+        "UTC": "Sunday, 08 March 2026, 11:44 AM UTC",
+        "IST": "Sunday, 08 March 2026, 05:14 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -743,32 +743,32 @@
             },
             {
                 "Position": "16",
+                "Team": "Cremonese",
+                "Played": "28",
+                "Wins": "5",
+                "Draws": "10",
+                "Losses": "13",
+                "Goal Difference": "-17",
+                "Points": "25"
+            },
+            {
+                "Position": "17",
+                "Team": "Lecce",
+                "Played": "28",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-18",
+                "Points": "25"
+            },
+            {
+                "Position": "18",
                 "Team": "Fiorentina",
                 "Played": "27",
                 "Wins": "5",
                 "Draws": "9",
                 "Losses": "13",
                 "Goal Difference": "-12",
-                "Points": "24"
-            },
-            {
-                "Position": "17",
-                "Team": "Cremonese",
-                "Played": "27",
-                "Wins": "5",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-17",
-                "Points": "24"
-            },
-            {
-                "Position": "18",
-                "Team": "Lecce",
-                "Played": "27",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "15",
-                "Goal Difference": "-18",
                 "Points": "24"
             },
             {
