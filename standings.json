@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 March 2026, 03:47 PM UTC",
-        "IST": "Sunday, 08 March 2026, 09:17 PM IST"
+        "UTC": "Sunday, 08 March 2026, 04:30 PM UTC",
+        "IST": "Sunday, 08 March 2026, 10:00 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -254,7 +254,7 @@
                 "Wins": "11",
                 "Draws": "10",
                 "Losses": "6",
-                "Goal Difference": "9",
+                "Goal Difference": "8",
                 "Points": "43"
             },
             {
@@ -289,17 +289,17 @@
             },
             {
                 "Position": "9",
-                "Team": "Athletic Bilbao",
+                "Team": "Getafe",
                 "Played": "27",
                 "Wins": "10",
                 "Draws": "5",
                 "Losses": "12",
-                "Goal Difference": "-7",
+                "Goal Difference": "-6",
                 "Points": "35"
             },
             {
                 "Position": "10",
-                "Team": "Getafe",
+                "Team": "Athletic Bilbao",
                 "Played": "27",
                 "Wins": "10",
                 "Draws": "5",
@@ -835,32 +835,32 @@
             },
             {
                 "Position": "5",
+                "Team": "Rennes",
+                "Played": "25",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "4",
+                "Points": "43"
+            },
+            {
+                "Position": "6",
+                "Team": "Lille",
+                "Played": "25",
+                "Wins": "12",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "6",
+                "Points": "41"
+            },
+            {
+                "Position": "7",
                 "Team": "Monaco",
                 "Played": "25",
                 "Wins": "12",
                 "Draws": "4",
                 "Losses": "9",
                 "Goal Difference": "6",
-                "Points": "40"
-            },
-            {
-                "Position": "6",
-                "Team": "Lille",
-                "Played": "24",
-                "Wins": "12",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "6",
-                "Points": "40"
-            },
-            {
-                "Position": "7",
-                "Team": "Rennes",
-                "Played": "24",
-                "Wins": "11",
-                "Draws": "7",
-                "Losses": "6",
-                "Goal Difference": "3",
                 "Points": "40"
             },
             {
@@ -876,22 +876,22 @@
             {
                 "Position": "9",
                 "Team": "Brest",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "9",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "-2",
-                "Points": "33"
+                "Points": "34"
             },
             {
                 "Position": "10",
                 "Team": "Lorient",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "8",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "7",
                 "Goal Difference": "-4",
-                "Points": "33"
+                "Points": "34"
             },
             {
                 "Position": "11",
@@ -916,12 +916,12 @@
             {
                 "Position": "13",
                 "Team": "Le Havre",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "6",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "10",
                 "Goal Difference": "-10",
-                "Points": "26"
+                "Points": "27"
             },
             {
                 "Position": "14",
@@ -936,11 +936,11 @@
             {
                 "Position": "15",
                 "Team": "Nice",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "6",
                 "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "-14",
+                "Losses": "13",
+                "Goal Difference": "-15",
                 "Points": "24"
             },
             {
