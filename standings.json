@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 March 2026, 09:33 PM UTC",
-        "IST": "Tuesday, 10 March 2026, 03:03 AM IST"
+        "UTC": "Monday, 09 March 2026, 10:30 PM UTC",
+        "IST": "Tuesday, 10 March 2026, 04:00 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -676,13 +676,23 @@
                 "Team": "Sassuolo",
                 "Played": "28",
                 "Wins": "11",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-2",
-                "Points": "39"
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-3",
+                "Points": "38"
             },
             {
                 "Position": "10",
+                "Team": "Lazio",
+                "Played": "28",
+                "Wins": "9",
+                "Draws": "10",
+                "Losses": "9",
+                "Goal Difference": "0",
+                "Points": "37"
+            },
+            {
+                "Position": "11",
                 "Team": "Udinese",
                 "Played": "28",
                 "Wins": "10",
@@ -690,16 +700,6 @@
                 "Losses": "12",
                 "Goal Difference": "-8",
                 "Points": "36"
-            },
-            {
-                "Position": "11",
-                "Team": "Lazio",
-                "Played": "28",
-                "Wins": "8",
-                "Draws": "11",
-                "Losses": "9",
-                "Goal Difference": "-1",
-                "Points": "35"
             },
             {
                 "Position": "12",
@@ -2183,6 +2183,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Rio Ave",
+                "Played": "25",
+                "Wins": "5",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-20",
+                "Points": "24"
+            },
+            {
+                "Position": "14",
                 "Team": "Casa Pia",
                 "Played": "25",
                 "Wins": "5",
@@ -2192,7 +2202,7 @@
                 "Points": "24"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Nacional",
                 "Played": "25",
                 "Wins": "5",
@@ -2202,7 +2212,7 @@
                 "Points": "22"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Santa Clara",
                 "Played": "25",
                 "Wins": "5",
@@ -2212,24 +2222,14 @@
                 "Points": "22"
             },
             {
-                "Position": "16",
-                "Team": "Rio Ave",
-                "Played": "25",
-                "Wins": "4",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-21",
-                "Points": "22"
-            },
-            {
                 "Position": "17",
                 "Team": "Tondela",
                 "Played": "25",
                 "Wins": "4",
-                "Draws": "8",
-                "Losses": "13",
-                "Goal Difference": "-19",
-                "Points": "20"
+                "Draws": "7",
+                "Losses": "14",
+                "Goal Difference": "-20",
+                "Points": "19"
             },
             {
                 "Position": "18",

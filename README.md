@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 09 March 2026, 09:33 PM UTC (Tuesday, 10 March 2026, 03:03 AM IST)
+**Last Updated:** Monday, 09 March 2026, 10:30 PM UTC (Tuesday, 10 March 2026, 04:00 AM IST)
 
 ### Premier League
 
@@ -128,9 +128,9 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Juventus | 28 | 14 | 8 | 6 | 22 | 50 |
 | 7 | Atalanta | 28 | 12 | 10 | 6 | 13 | 46 |
 | 8 | Bologna | 28 | 11 | 6 | 11 | 3 | 39 |
-| 9 | Sassuolo | 28 | 11 | 6 | 11 | -2 | 39 |
-| 10 | Udinese | 28 | 10 | 6 | 12 | -8 | 36 |
-| 11 | Lazio | 28 | 8 | 11 | 9 | -1 | 35 |
+| 9 | Sassuolo | 28 | 11 | 5 | 12 | -3 | 38 |
+| 10 | Lazio | 28 | 9 | 10 | 9 | 0 | 37 |
+| 11 | Udinese | 28 | 10 | 6 | 12 | -8 | 36 |
 | 12 | Parma | 28 | 8 | 10 | 10 | -12 | 34 |
 | 13 | Genoa | 28 | 7 | 9 | 12 | -6 | 30 |
 | 14 | Cagliari | 28 | 7 | 9 | 12 | -8 | 30 |
@@ -303,11 +303,11 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Alverca | 25 | 7 | 7 | 11 | -15 | 28 |
 | 11 | Arouca | 25 | 7 | 5 | 13 | -21 | 26 |
 | 12 | Estrela Amadora | 25 | 5 | 10 | 10 | -15 | 25 |
-| 13 | Casa Pia | 25 | 5 | 9 | 11 | -18 | 24 |
-| 14 | Nacional | 25 | 5 | 7 | 13 | -8 | 22 |
-| 15 | Santa Clara | 25 | 5 | 7 | 13 | -9 | 22 |
-| 16 | Rio Ave | 25 | 4 | 10 | 11 | -21 | 22 |
-| 17 | Tondela | 25 | 4 | 8 | 13 | -19 | 20 |
+| 13 | Rio Ave | 25 | 5 | 9 | 11 | -20 | 24 |
+| 14 | Casa Pia | 25 | 5 | 9 | 11 | -18 | 24 |
+| 15 | Nacional | 25 | 5 | 7 | 13 | -8 | 22 |
+| 16 | Santa Clara | 25 | 5 | 7 | 13 | -9 | 22 |
+| 17 | Tondela | 25 | 4 | 7 | 14 | -20 | 19 |
 | 18 | AVS | 25 | 1 | 7 | 17 | -39 | 10 |
 
 ### EFL Championship
