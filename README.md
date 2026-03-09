@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 09 March 2026, 07:41 PM UTC (Tuesday, 10 March 2026, 01:11 AM IST)
+**Last Updated:** Monday, 09 March 2026, 08:36 PM UTC (Tuesday, 10 March 2026, 02:06 AM IST)
 
 ### Premier League
 
@@ -78,7 +78,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Villarreal | 27 | 17 | 3 | 7 | 18 | 54 |
 | 5 | Real Betis | 27 | 11 | 10 | 6 | 8 | 43 |
 | 6 | Celta de Vigo | 27 | 10 | 10 | 7 | 7 | 40 |
-| 7 | Espanyol | 26 | 10 | 6 | 10 | -6 | 36 |
+| 7 | Espanyol | 27 | 10 | 6 | 11 | -7 | 36 |
 | 8 | Real Sociedad | 27 | 9 | 8 | 10 | -1 | 35 |
 | 9 | Getafe | 27 | 10 | 5 | 12 | -6 | 35 |
 | 10 | Athletic Bilbao | 27 | 10 | 5 | 12 | -7 | 35 |
@@ -91,7 +91,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
-| 20 | Real Oviedo | 26 | 3 | 8 | 15 | -27 | 17 |
+| 20 | Real Oviedo | 27 | 4 | 8 | 15 | -26 | 20 |
 
 ### Bundesliga
 
@@ -128,9 +128,9 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Juventus | 28 | 14 | 8 | 6 | 22 | 50 |
 | 7 | Atalanta | 28 | 12 | 10 | 6 | 13 | 46 |
 | 8 | Bologna | 28 | 11 | 6 | 11 | 3 | 39 |
-| 9 | Sassuolo | 27 | 11 | 5 | 11 | -2 | 38 |
+| 9 | Sassuolo | 28 | 11 | 6 | 11 | -2 | 39 |
 | 10 | Udinese | 28 | 10 | 6 | 12 | -8 | 36 |
-| 11 | Lazio | 27 | 8 | 10 | 9 | -1 | 34 |
+| 11 | Lazio | 28 | 8 | 11 | 9 | -1 | 35 |
 | 12 | Parma | 28 | 8 | 10 | 10 | -12 | 34 |
 | 13 | Genoa | 28 | 7 | 9 | 12 | -6 | 30 |
 | 14 | Cagliari | 28 | 7 | 9 | 12 | -8 | 30 |
@@ -306,8 +306,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Casa Pia | 25 | 5 | 9 | 11 | -18 | 24 |
 | 14 | Nacional | 25 | 5 | 7 | 13 | -8 | 22 |
 | 15 | Santa Clara | 25 | 5 | 7 | 13 | -9 | 22 |
-| 16 | Rio Ave | 24 | 4 | 9 | 11 | -21 | 21 |
-| 17 | Tondela | 24 | 4 | 7 | 13 | -19 | 19 |
+| 16 | Rio Ave | 25 | 4 | 10 | 11 | -21 | 22 |
+| 17 | Tondela | 25 | 4 | 8 | 13 | -19 | 20 |
 | 18 | AVS | 25 | 1 | 7 | 17 | -39 | 10 |
 
 ### EFL Championship

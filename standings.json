@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 March 2026, 07:41 PM UTC",
-        "IST": "Tuesday, 10 March 2026, 01:11 AM IST"
+        "UTC": "Monday, 09 March 2026, 08:36 PM UTC",
+        "IST": "Tuesday, 10 March 2026, 02:06 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -270,11 +270,11 @@
             {
                 "Position": "7",
                 "Team": "Espanyol",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "10",
                 "Draws": "6",
-                "Losses": "10",
-                "Goal Difference": "-6",
+                "Losses": "11",
+                "Goal Difference": "-7",
                 "Points": "36"
             },
             {
@@ -400,12 +400,12 @@
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
-                "Played": "26",
-                "Wins": "3",
+                "Played": "27",
+                "Wins": "4",
                 "Draws": "8",
                 "Losses": "15",
-                "Goal Difference": "-27",
-                "Points": "17"
+                "Goal Difference": "-26",
+                "Points": "20"
             }
         ],
         "Bundesliga": [
@@ -674,12 +674,12 @@
             {
                 "Position": "9",
                 "Team": "Sassuolo",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "11",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "11",
                 "Goal Difference": "-2",
-                "Points": "38"
+                "Points": "39"
             },
             {
                 "Position": "10",
@@ -694,12 +694,12 @@
             {
                 "Position": "11",
                 "Team": "Lazio",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "8",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "9",
                 "Goal Difference": "-1",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "12",
@@ -2214,22 +2214,22 @@
             {
                 "Position": "16",
                 "Team": "Rio Ave",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "4",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "11",
                 "Goal Difference": "-21",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "17",
                 "Team": "Tondela",
-                "Played": "24",
+                "Played": "25",
                 "Wins": "4",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "13",
                 "Goal Difference": "-19",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "18",
