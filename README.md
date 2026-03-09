@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 08 March 2026, 11:47 PM UTC (Monday, 09 March 2026, 05:17 AM IST)
+**Last Updated:** Monday, 09 March 2026, 02:12 AM UTC (Monday, 09 March 2026, 07:42 AM IST)
 
 ### Premier League
 
@@ -348,12 +348,12 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
 | 4 | New York RB | 3 | 2 | 0 | 1 | -1 | 6 |
 | 5 | Chicago Fire | 3 | 1 | 1 | 1 | 2 | 4 |
-| 6 | Cincinnati | 3 | 1 | 1 | 1 | 1 | 4 |
-| 7 | Charlotte | 3 | 1 | 1 | 1 | -1 | 4 |
+| 6 | Charlotte | 3 | 1 | 1 | 1 | -1 | 4 |
+| 7 | Cincinnati | 3 | 1 | 0 | 2 | 0 | 3 |
 | 8 | DC United | 3 | 1 | 0 | 2 | -1 | 3 |
-| 9 | CF Montréal | 3 | 1 | 0 | 2 | -5 | 3 |
-| 10 | Columbus Crew | 3 | 0 | 2 | 1 | -1 | 2 |
-| 11 | Toronto | 3 | 0 | 1 | 2 | -4 | 1 |
+| 9 | Toronto | 3 | 1 | 0 | 2 | -3 | 3 |
+| 10 | CF Montréal | 3 | 1 | 0 | 2 | -5 | 3 |
+| 11 | Columbus Crew | 3 | 0 | 2 | 1 | -1 | 2 |
 | 12 | Philadelphia Union | 3 | 0 | 0 | 3 | -3 | 0 |
 | 13 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
 | 14 | Atlanta United | 3 | 0 | 0 | 3 | -5 | 0 |

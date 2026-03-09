@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 08 March 2026, 11:47 PM UTC",
-        "IST": "Monday, 09 March 2026, 05:17 AM IST"
+        "UTC": "Monday, 09 March 2026, 02:12 AM UTC",
+        "IST": "Monday, 09 March 2026, 07:42 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2537,16 +2537,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Cincinnati",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "4"
-            },
-            {
-                "Position": "7",
                 "Team": "Charlotte",
                 "Played": "3",
                 "Wins": "1",
@@ -2554,6 +2544,16 @@
                 "Losses": "1",
                 "Goal Difference": "-1",
                 "Points": "4"
+            },
+            {
+                "Position": "7",
+                "Team": "Cincinnati",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "3"
             },
             {
                 "Position": "8",
@@ -2567,6 +2567,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Toronto",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "3"
+            },
+            {
+                "Position": "10",
                 "Team": "CF Montr\u00e9al",
                 "Played": "3",
                 "Wins": "1",
@@ -2576,7 +2586,7 @@
                 "Points": "3"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Columbus Crew",
                 "Played": "3",
                 "Wins": "0",
@@ -2584,16 +2594,6 @@
                 "Losses": "1",
                 "Goal Difference": "-1",
                 "Points": "2"
-            },
-            {
-                "Position": "11",
-                "Team": "Toronto",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-4",
-                "Points": "1"
             },
             {
                 "Position": "12",
