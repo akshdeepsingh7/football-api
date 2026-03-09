@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 March 2026, 08:36 PM UTC",
-        "IST": "Tuesday, 10 March 2026, 02:06 AM IST"
+        "UTC": "Monday, 09 March 2026, 09:33 PM UTC",
+        "IST": "Tuesday, 10 March 2026, 03:03 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -272,10 +272,10 @@
                 "Team": "Espanyol",
                 "Played": "27",
                 "Wins": "10",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-7",
-                "Points": "36"
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "-6",
+                "Points": "37"
             },
             {
                 "Position": "8",
@@ -401,11 +401,11 @@
                 "Position": "20",
                 "Team": "Real Oviedo",
                 "Played": "27",
-                "Wins": "4",
-                "Draws": "8",
+                "Wins": "3",
+                "Draws": "9",
                 "Losses": "15",
-                "Goal Difference": "-26",
-                "Points": "20"
+                "Goal Difference": "-27",
+                "Points": "18"
             }
         ],
         "Bundesliga": [
