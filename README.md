@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 09 March 2026, 01:09 PM UTC (Monday, 09 March 2026, 06:39 PM IST)
+**Last Updated:** Monday, 09 March 2026, 02:29 PM UTC (Monday, 09 March 2026, 07:59 PM IST)
 
 ### Premier League
 
@@ -360,8 +360,8 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Orlando City | 3 | 0 | 0 | 3 | -8 | 0 |
 | 1 | San Diego | 3 | 3 | 0 | 0 | 8 | 9 |
 | 2 | Vancouver Whitecaps | 3 | 3 | 0 | 0 | 7 | 9 |
-| 3 | LAFC | 3 | 3 | 0 | 0 | 6 | 9 |
-| 4 | San Jose Earthquakes | 3 | 3 | 0 | 0 | 6 | 9 |
+| 3 | San Jose Earthquakes | 3 | 3 | 0 | 0 | 6 | 9 |
+| 4 | LAFC | 3 | 3 | 0 | 0 | 6 | 9 |
 | 5 | Colorado Rapids | 3 | 2 | 0 | 1 | 3 | 6 |
 | 6 | Seattle Sounders | 3 | 2 | 0 | 1 | 2 | 6 |
 | 7 | Real Salt Lake | 3 | 2 | 0 | 1 | 1 | 6 |
@@ -385,9 +385,9 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | East Bengal | 4 | 2 | 1 | 1 | 5 | 7 |
 | 6 | Bengaluru | 4 | 2 | 1 | 1 | 1 | 7 |
 | 7 | Inter Kashi | 4 | 1 | 2 | 1 | 0 | 5 |
-| 8 | Chennaiyin | 4 | 1 | 1 | 2 | -2 | 4 |
-| 9 | Punjab FC | 2 | 1 | 0 | 1 | 1 | 3 |
-| 10 | NorthEast Utd | 3 | 0 | 2 | 1 | -3 | 2 |
+| 8 | Punjab FC | 3 | 1 | 1 | 1 | 1 | 4 |
+| 9 | Chennaiyin | 4 | 1 | 1 | 2 | -2 | 4 |
+| 10 | NorthEast Utd | 4 | 0 | 3 | 1 | -3 | 3 |
 | 11 | Odisha | 3 | 0 | 2 | 1 | -4 | 2 |
 | 12 | SC Delhi | 4 | 0 | 1 | 3 | -6 | 1 |
 | 13 | Kerala Blasters | 4 | 0 | 0 | 4 | -5 | 0 |

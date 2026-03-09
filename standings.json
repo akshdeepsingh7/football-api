@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 09 March 2026, 01:09 PM UTC",
-        "IST": "Monday, 09 March 2026, 06:39 PM IST"
+        "UTC": "Monday, 09 March 2026, 02:29 PM UTC",
+        "IST": "Monday, 09 March 2026, 07:59 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2657,7 +2657,7 @@
             },
             {
                 "Position": "3",
-                "Team": "LAFC",
+                "Team": "San Jose Earthquakes",
                 "Played": "3",
                 "Wins": "3",
                 "Draws": "0",
@@ -2667,7 +2667,7 @@
             },
             {
                 "Position": "4",
-                "Team": "San Jose Earthquakes",
+                "Team": "LAFC",
                 "Played": "3",
                 "Wins": "3",
                 "Draws": "0",
@@ -2859,6 +2859,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Punjab FC",
+                "Played": "3",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "4"
+            },
+            {
+                "Position": "9",
                 "Team": "Chennaiyin",
                 "Played": "4",
                 "Wins": "1",
@@ -2868,24 +2878,14 @@
                 "Points": "4"
             },
             {
-                "Position": "9",
-                "Team": "Punjab FC",
-                "Played": "2",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "3"
-            },
-            {
                 "Position": "10",
                 "Team": "NorthEast Utd",
-                "Played": "3",
+                "Played": "4",
                 "Wins": "0",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "-3",
-                "Points": "2"
+                "Points": "3"
             },
             {
                 "Position": "11",
