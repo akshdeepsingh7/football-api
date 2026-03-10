@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 10 March 2026, 09:53 PM UTC",
-        "IST": "Wednesday, 11 March 2026, 03:23 AM IST"
+        "UTC": "Tuesday, 10 March 2026, 10:29 PM UTC",
+        "IST": "Wednesday, 11 March 2026, 03:59 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2277,11 +2277,11 @@
                 "Position": "4",
                 "Team": "Ipswich Town",
                 "Played": "36",
-                "Wins": "19",
-                "Draws": "10",
+                "Wins": "18",
+                "Draws": "11",
                 "Losses": "7",
-                "Goal Difference": "27",
-                "Points": "67"
+                "Goal Difference": "26",
+                "Points": "65"
             },
             {
                 "Position": "5",
@@ -2388,10 +2388,10 @@
                 "Team": "Stoke City",
                 "Played": "37",
                 "Wins": "13",
-                "Draws": "8",
-                "Losses": "16",
-                "Goal Difference": "2",
-                "Points": "47"
+                "Draws": "9",
+                "Losses": "15",
+                "Goal Difference": "3",
+                "Points": "48"
             },
             {
                 "Position": "16",
