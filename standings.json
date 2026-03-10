@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 10 March 2026, 09:30 PM UTC",
-        "IST": "Wednesday, 11 March 2026, 03:00 AM IST"
+        "UTC": "Tuesday, 10 March 2026, 09:53 PM UTC",
+        "IST": "Wednesday, 11 March 2026, 03:23 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2277,11 +2277,11 @@
                 "Position": "4",
                 "Team": "Ipswich Town",
                 "Played": "36",
-                "Wins": "18",
-                "Draws": "11",
+                "Wins": "19",
+                "Draws": "10",
                 "Losses": "7",
-                "Goal Difference": "26",
-                "Points": "65"
+                "Goal Difference": "27",
+                "Points": "67"
             },
             {
                 "Position": "5",
@@ -2325,6 +2325,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Watford",
+                "Played": "36",
+                "Wins": "13",
+                "Draws": "13",
+                "Losses": "10",
+                "Goal Difference": "4",
+                "Points": "52"
+            },
+            {
+                "Position": "10",
                 "Team": "Swansea City",
                 "Played": "37",
                 "Wins": "15",
@@ -2332,16 +2342,6 @@
                 "Losses": "15",
                 "Goal Difference": "0",
                 "Points": "52"
-            },
-            {
-                "Position": "10",
-                "Team": "Watford",
-                "Played": "36",
-                "Wins": "13",
-                "Draws": "12",
-                "Losses": "11",
-                "Goal Difference": "3",
-                "Points": "51"
             },
             {
                 "Position": "11",
@@ -2388,10 +2388,10 @@
                 "Team": "Stoke City",
                 "Played": "37",
                 "Wins": "13",
-                "Draws": "9",
-                "Losses": "15",
-                "Goal Difference": "3",
-                "Points": "48"
+                "Draws": "8",
+                "Losses": "16",
+                "Goal Difference": "2",
+                "Points": "47"
             },
             {
                 "Position": "16",
@@ -2477,11 +2477,11 @@
                 "Position": "24",
                 "Team": "Sheffield Wednesday",
                 "Played": "37",
-                "Wins": "2",
-                "Draws": "8",
+                "Wins": "1",
+                "Draws": "9",
                 "Losses": "27",
-                "Goal Difference": "-50",
-                "Points": "-4"
+                "Goal Difference": "-51",
+                "Points": "-6"
             }
         ],
         "Major League Soccer (MLS)": [
