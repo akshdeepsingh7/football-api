@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 10 March 2026, 07:38 PM UTC (Wednesday, 11 March 2026, 01:08 AM IST)
+**Last Updated:** Tuesday, 10 March 2026, 08:35 PM UTC (Wednesday, 11 March 2026, 02:05 AM IST)
 
 ### Premier League
 
@@ -316,28 +316,28 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 36 | 22 | 8 | 6 | 36 | 74 |
 | 2 | Middlesbrough | 36 | 20 | 9 | 7 | 23 | 69 |
-| 3 | Millwall | 36 | 19 | 8 | 9 | 9 | 65 |
-| 4 | Ipswich Town | 35 | 18 | 10 | 7 | 26 | 64 |
-| 5 | Hull City | 36 | 18 | 6 | 12 | 5 | 60 |
-| 6 | Wrexham | 35 | 15 | 12 | 8 | 9 | 57 |
-| 7 | Derby County | 36 | 15 | 9 | 12 | 7 | 54 |
+| 3 | Millwall | 37 | 20 | 8 | 9 | 10 | 68 |
+| 4 | Ipswich Town | 36 | 18 | 11 | 7 | 26 | 65 |
+| 5 | Hull City | 37 | 19 | 6 | 12 | 6 | 63 |
+| 6 | Wrexham | 36 | 15 | 12 | 9 | 8 | 57 |
+| 7 | Derby County | 37 | 15 | 9 | 13 | 6 | 54 |
 | 8 | Southampton | 35 | 14 | 11 | 10 | 11 | 53 |
-| 9 | Watford | 35 | 13 | 12 | 10 | 4 | 51 |
-| 10 | Bristol City | 36 | 14 | 8 | 14 | 2 | 50 |
-| 11 | Sheffield United | 36 | 15 | 4 | 17 | 2 | 49 |
-| 12 | Birmingham City | 36 | 13 | 10 | 13 | -1 | 49 |
-| 13 | Preston North End | 36 | 12 | 13 | 11 | -1 | 49 |
-| 14 | Swansea City | 36 | 14 | 7 | 15 | -1 | 49 |
-| 15 | Stoke City | 36 | 13 | 8 | 15 | 3 | 47 |
+| 9 | Watford | 36 | 13 | 13 | 10 | 4 | 52 |
+| 10 | Swansea City | 37 | 15 | 7 | 15 | 1 | 52 |
+| 11 | Bristol City | 37 | 14 | 8 | 15 | 0 | 50 |
+| 12 | Sheffield United | 36 | 15 | 4 | 17 | 2 | 49 |
+| 13 | Birmingham City | 36 | 13 | 10 | 13 | -1 | 49 |
+| 14 | Preston North End | 36 | 12 | 13 | 11 | -1 | 49 |
+| 15 | Stoke City | 37 | 13 | 9 | 15 | 3 | 48 |
 | 16 | Queens Park Rangers | 36 | 13 | 8 | 15 | -12 | 47 |
 | 17 | Norwich City | 35 | 13 | 6 | 16 | 3 | 45 |
 | 18 | Charlton Athletic | 36 | 11 | 11 | 14 | -10 | 44 |
-| 19 | Portsmouth | 35 | 10 | 10 | 15 | -10 | 40 |
+| 19 | Portsmouth | 36 | 10 | 10 | 16 | -12 | 40 |
 | 20 | Blackburn Rovers | 36 | 10 | 9 | 17 | -13 | 39 |
-| 21 | West Bromwich Albion | 36 | 9 | 9 | 18 | -18 | 36 |
-| 22 | Leicester City | 36 | 10 | 11 | 15 | -9 | 35 |
+| 21 | Leicester City | 37 | 11 | 11 | 15 | -7 | 38 |
+| 22 | West Bromwich Albion | 36 | 9 | 9 | 18 | -18 | 36 |
 | 23 | Oxford United | 36 | 8 | 11 | 17 | -14 | 35 |
-| 24 | Sheffield Wednesday | 36 | 1 | 8 | 27 | -51 | -7 |
+| 24 | Sheffield Wednesday | 37 | 1 | 9 | 27 | -51 | -6 |
 
 ### Major League Soccer (MLS)
 
