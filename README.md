@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 11 March 2026, 01:02 PM UTC (Wednesday, 11 March 2026, 06:32 PM IST)
+**Last Updated:** Wednesday, 11 March 2026, 02:27 PM UTC (Wednesday, 11 March 2026, 07:57 PM IST)
 
 ### Premier League
 
@@ -341,38 +341,7 @@ The latest league standings are displayed below in Markdown tables:
 
 ### Major League Soccer (MLS)
 
-| Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
-|----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | NYCFC | 3 | 2 | 1 | 0 | 6 | 7 |
-| 2 | Nashville | 3 | 2 | 1 | 0 | 5 | 7 |
-| 3 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
-| 4 | New York RB | 3 | 2 | 0 | 1 | -1 | 6 |
-| 5 | Chicago Fire | 3 | 1 | 1 | 1 | 2 | 4 |
-| 6 | Charlotte | 3 | 1 | 1 | 1 | -1 | 4 |
-| 7 | Cincinnati | 3 | 1 | 0 | 2 | 0 | 3 |
-| 8 | DC United | 3 | 1 | 0 | 2 | -1 | 3 |
-| 9 | Toronto | 3 | 1 | 0 | 2 | -3 | 3 |
-| 10 | CF Montréal | 3 | 1 | 0 | 2 | -5 | 3 |
-| 11 | Columbus Crew | 3 | 0 | 2 | 1 | -1 | 2 |
-| 12 | Philadelphia Union | 3 | 0 | 0 | 3 | -3 | 0 |
-| 13 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
-| 14 | Atlanta United | 3 | 0 | 0 | 3 | -5 | 0 |
-| 15 | Orlando City | 3 | 0 | 0 | 3 | -8 | 0 |
-| 1 | San Diego | 3 | 3 | 0 | 0 | 8 | 9 |
-| 2 | Vancouver Whitecaps | 3 | 3 | 0 | 0 | 7 | 9 |
-| 3 | San Jose Earthquakes | 3 | 3 | 0 | 0 | 6 | 9 |
-| 4 | LAFC | 3 | 3 | 0 | 0 | 6 | 9 |
-| 5 | Colorado Rapids | 3 | 2 | 0 | 1 | 3 | 6 |
-| 6 | Seattle Sounders | 3 | 2 | 0 | 1 | 2 | 6 |
-| 7 | Real Salt Lake | 3 | 2 | 0 | 1 | 1 | 6 |
-| 8 | LA Galaxy | 3 | 1 | 1 | 1 | 0 | 4 |
-| 9 | Dallas | 3 | 1 | 1 | 1 | 0 | 4 |
-| 10 | Minnesota United | 3 | 1 | 1 | 1 | -1 | 4 |
-| 11 | Austin | 3 | 1 | 1 | 1 | -1 | 4 |
-| 12 | Houston Dynamo | 2 | 1 | 0 | 1 | -1 | 3 |
-| 13 | Portland Timbers | 3 | 1 | 0 | 2 | -4 | 3 |
-| 14 | St. Louis City | 3 | 0 | 1 | 2 | -3 | 1 |
-| 15 | Sporting KC | 3 | 0 | 1 | 2 | -4 | 1 |
+Data not available.
 
 ### Indian Super League
 
