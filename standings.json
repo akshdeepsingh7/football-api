@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 11 March 2026, 10:51 PM UTC",
-        "IST": "Thursday, 12 March 2026, 04:21 AM IST"
+        "UTC": "Wednesday, 11 March 2026, 11:27 PM UTC",
+        "IST": "Thursday, 12 March 2026, 04:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2952,21 +2952,21 @@
             },
             {
                 "Position": "3",
+                "Team": "Bahia",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "2",
+                "Points": "8"
+            },
+            {
+                "Position": "4",
                 "Team": "Corinthians",
                 "Played": "4",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "7"
-            },
-            {
-                "Position": "4",
-                "Team": "Bahia",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "0",
                 "Goal Difference": "2",
                 "Points": "7"
             },
@@ -3072,22 +3072,22 @@
             },
             {
                 "Position": "15",
+                "Team": "Vit\u00f3ria",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "4"
+            },
+            {
+                "Position": "16",
                 "Team": "Botafogo",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "1",
-                "Points": "3"
-            },
-            {
-                "Position": "16",
-                "Team": "Vit\u00f3ria",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-3",
                 "Points": "3"
             },
             {
