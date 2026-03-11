@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 10 March 2026, 11:34 PM UTC",
-        "IST": "Wednesday, 11 March 2026, 05:04 AM IST"
+        "UTC": "Wednesday, 11 March 2026, 02:04 AM UTC",
+        "IST": "Wednesday, 11 March 2026, 07:34 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2952,6 +2952,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Mirassol",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "8"
+            },
+            {
+                "Position": "4",
                 "Team": "Corinthians",
                 "Played": "4",
                 "Wins": "2",
@@ -2961,7 +2971,7 @@
                 "Points": "7"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Bahia",
                 "Played": "3",
                 "Wins": "2",
@@ -2971,7 +2981,7 @@
                 "Points": "7"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Fluminense",
                 "Played": "4",
                 "Wins": "2",
@@ -2981,7 +2991,7 @@
                 "Points": "7"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Athletico Paranaense",
                 "Played": "4",
                 "Wins": "2",
@@ -2991,7 +3001,7 @@
                 "Points": "7"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "RB Bragantino",
                 "Played": "4",
                 "Wins": "2",
@@ -3001,7 +3011,7 @@
                 "Points": "7"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Gr\u00eamio",
                 "Played": "4",
                 "Wins": "2",
@@ -3011,23 +3021,13 @@
                 "Points": "6"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Chapecoense",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "0",
                 "Goal Difference": "2",
-                "Points": "5"
-            },
-            {
-                "Position": "10",
-                "Team": "Mirassol",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "1",
                 "Points": "5"
             },
             {
@@ -3053,11 +3053,11 @@
             {
                 "Position": "13",
                 "Team": "Santos",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "1",
                 "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-2",
+                "Losses": "3",
+                "Goal Difference": "-4",
                 "Points": "4"
             },
             {
