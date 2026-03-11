@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 11 March 2026, 09:34 PM UTC",
-        "IST": "Thursday, 12 March 2026, 03:04 AM IST"
+        "UTC": "Wednesday, 11 March 2026, 10:27 PM UTC",
+        "IST": "Thursday, 12 March 2026, 03:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2305,6 +2305,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Southampton",
+                "Played": "36",
+                "Wins": "14",
+                "Draws": "12",
+                "Losses": "10",
+                "Goal Difference": "11",
+                "Points": "54"
+            },
+            {
+                "Position": "8",
                 "Team": "Derby County",
                 "Played": "37",
                 "Wins": "15",
@@ -2312,16 +2322,6 @@
                 "Losses": "13",
                 "Goal Difference": "6",
                 "Points": "54"
-            },
-            {
-                "Position": "8",
-                "Team": "Southampton",
-                "Played": "36",
-                "Wins": "14",
-                "Draws": "11",
-                "Losses": "11",
-                "Goal Difference": "10",
-                "Points": "53"
             },
             {
                 "Position": "9",
@@ -2445,16 +2445,6 @@
             },
             {
                 "Position": "21",
-                "Team": "West Bromwich Albion",
-                "Played": "37",
-                "Wins": "10",
-                "Draws": "9",
-                "Losses": "18",
-                "Goal Difference": "-17",
-                "Points": "39"
-            },
-            {
-                "Position": "22",
                 "Team": "Leicester City",
                 "Played": "37",
                 "Wins": "11",
@@ -2464,7 +2454,7 @@
                 "Points": "38"
             },
             {
-                "Position": "23",
+                "Position": "22",
                 "Team": "Oxford United",
                 "Played": "37",
                 "Wins": "9",
@@ -2472,6 +2462,16 @@
                 "Losses": "17",
                 "Goal Difference": "-13",
                 "Points": "38"
+            },
+            {
+                "Position": "23",
+                "Team": "West Bromwich Albion",
+                "Played": "37",
+                "Wins": "9",
+                "Draws": "10",
+                "Losses": "18",
+                "Goal Difference": "-18",
+                "Points": "37"
             },
             {
                 "Position": "24",
@@ -3032,6 +3032,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "5"
+            },
+            {
+                "Position": "12",
                 "Team": "Santos",
                 "Played": "5",
                 "Wins": "1",
@@ -3041,7 +3051,7 @@
                 "Points": "5"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Flamengo",
                 "Played": "3",
                 "Wins": "1",
@@ -3051,7 +3061,7 @@
                 "Points": "4"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Coritiba",
                 "Played": "4",
                 "Wins": "1",
@@ -3061,7 +3071,7 @@
                 "Points": "4"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Botafogo",
                 "Played": "3",
                 "Wins": "1",
@@ -3071,7 +3081,7 @@
                 "Points": "3"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Vit\u00f3ria",
                 "Played": "3",
                 "Wins": "1",
@@ -3081,7 +3091,7 @@
                 "Points": "3"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Remo",
                 "Played": "4",
                 "Wins": "0",
@@ -3091,23 +3101,13 @@
                 "Points": "3"
             },
             {
-                "Position": "17",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "4",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "2"
-            },
-            {
                 "Position": "18",
                 "Team": "Internacional",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "0",
                 "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-3",
+                "Losses": "3",
+                "Goal Difference": "-4",
                 "Points": "2"
             },
             {
