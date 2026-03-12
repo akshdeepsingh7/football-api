@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 11 March 2026, 11:50 PM UTC (Thursday, 12 March 2026, 05:20 AM IST)
+**Last Updated:** Thursday, 12 March 2026, 02:11 AM UTC (Thursday, 12 March 2026, 07:41 AM IST)
 
 ### Premier League
 
@@ -403,23 +403,23 @@ Data not available.
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 4 | 3 | 1 | 0 | 7 | 10 |
 | 2 | São Paulo | 4 | 3 | 1 | 0 | 4 | 10 |
-| 3 | Corinthians | 4 | 2 | 1 | 1 | 2 | 7 |
-| 4 | Fluminense | 4 | 2 | 1 | 1 | 1 | 7 |
-| 5 | Athletico Paranaense | 4 | 2 | 1 | 1 | 1 | 7 |
-| 6 | Bahia | 4 | 2 | 1 | 1 | 1 | 7 |
-| 7 | RB Bragantino | 4 | 2 | 1 | 1 | 0 | 7 |
-| 8 | Grêmio | 4 | 2 | 0 | 2 | 0 | 6 |
-| 9 | Vitória | 4 | 2 | 0 | 2 | -2 | 6 |
-| 10 | Mirassol | 4 | 1 | 3 | 0 | 1 | 6 |
-| 11 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
-| 12 | Atlético Mineiro | 5 | 1 | 2 | 2 | -1 | 5 |
-| 13 | Santos | 5 | 1 | 2 | 2 | -2 | 5 |
-| 14 | Flamengo | 3 | 1 | 1 | 1 | 0 | 4 |
-| 15 | Coritiba | 4 | 1 | 1 | 2 | -1 | 4 |
+| 3 | Bahia | 4 | 2 | 2 | 0 | 2 | 8 |
+| 4 | Coritiba | 5 | 2 | 1 | 2 | 1 | 7 |
+| 5 | Flamengo | 4 | 2 | 1 | 1 | 1 | 7 |
+| 6 | Fluminense | 4 | 2 | 1 | 1 | 1 | 7 |
+| 7 | Athletico Paranaense | 4 | 2 | 1 | 1 | 1 | 7 |
+| 8 | Corinthians | 5 | 2 | 1 | 2 | 0 | 7 |
+| 9 | RB Bragantino | 4 | 2 | 1 | 1 | 0 | 7 |
+| 10 | Grêmio | 4 | 2 | 0 | 2 | 0 | 6 |
+| 11 | Mirassol | 4 | 1 | 3 | 0 | 1 | 6 |
+| 12 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
+| 13 | Atlético Mineiro | 5 | 1 | 2 | 2 | -1 | 5 |
+| 14 | Santos | 5 | 1 | 2 | 2 | -2 | 5 |
+| 15 | Vitória | 4 | 1 | 1 | 2 | -3 | 4 |
 | 16 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
 | 17 | Remo | 4 | 0 | 3 | 1 | -2 | 3 |
 | 18 | Internacional | 5 | 0 | 2 | 3 | -4 | 2 |
-| 19 | Cruzeiro | 4 | 0 | 2 | 2 | -5 | 2 |
+| 19 | Cruzeiro | 5 | 0 | 2 | 3 | -6 | 2 |
 | 20 | Vasco da Gama | 4 | 0 | 1 | 3 | -3 | 1 |
 
 

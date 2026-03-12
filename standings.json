@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 11 March 2026, 11:50 PM UTC",
-        "IST": "Thursday, 12 March 2026, 05:20 AM IST"
+        "UTC": "Thursday, 12 March 2026, 02:11 AM UTC",
+        "IST": "Thursday, 12 March 2026, 07:41 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2952,27 +2952,27 @@
             },
             {
                 "Position": "3",
-                "Team": "Corinthians",
+                "Team": "Bahia",
                 "Played": "4",
                 "Wins": "2",
-                "Draws": "1",
-                "Losses": "1",
+                "Draws": "2",
+                "Losses": "0",
                 "Goal Difference": "2",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "4",
-                "Team": "Fluminense",
-                "Played": "4",
+                "Team": "Coritiba",
+                "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
-                "Losses": "1",
+                "Losses": "2",
                 "Goal Difference": "1",
                 "Points": "7"
             },
             {
                 "Position": "5",
-                "Team": "Athletico Paranaense",
+                "Team": "Flamengo",
                 "Played": "4",
                 "Wins": "2",
                 "Draws": "1",
@@ -2982,7 +2982,7 @@
             },
             {
                 "Position": "6",
-                "Team": "Bahia",
+                "Team": "Fluminense",
                 "Played": "4",
                 "Wins": "2",
                 "Draws": "1",
@@ -2992,6 +2992,26 @@
             },
             {
                 "Position": "7",
+                "Team": "Athletico Paranaense",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "7"
+            },
+            {
+                "Position": "8",
+                "Team": "Corinthians",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "0",
+                "Points": "7"
+            },
+            {
+                "Position": "9",
                 "Team": "RB Bragantino",
                 "Played": "4",
                 "Wins": "2",
@@ -3001,7 +3021,7 @@
                 "Points": "7"
             },
             {
-                "Position": "8",
+                "Position": "10",
                 "Team": "Gr\u00eamio",
                 "Played": "4",
                 "Wins": "2",
@@ -3011,17 +3031,7 @@
                 "Points": "6"
             },
             {
-                "Position": "9",
-                "Team": "Vit\u00f3ria",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "6"
-            },
-            {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Mirassol",
                 "Played": "4",
                 "Wins": "1",
@@ -3031,7 +3041,7 @@
                 "Points": "6"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Chapecoense",
                 "Played": "3",
                 "Wins": "1",
@@ -3041,7 +3051,7 @@
                 "Points": "5"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "5",
                 "Wins": "1",
@@ -3051,7 +3061,7 @@
                 "Points": "5"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Santos",
                 "Played": "5",
                 "Wins": "1",
@@ -3061,23 +3071,13 @@
                 "Points": "5"
             },
             {
-                "Position": "14",
-                "Team": "Flamengo",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "4"
-            },
-            {
                 "Position": "15",
-                "Team": "Coritiba",
+                "Team": "Vit\u00f3ria",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "-1",
+                "Goal Difference": "-3",
                 "Points": "4"
             },
             {
@@ -3113,11 +3113,11 @@
             {
                 "Position": "19",
                 "Team": "Cruzeiro",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "0",
                 "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-5",
+                "Losses": "3",
+                "Goal Difference": "-6",
                 "Points": "2"
             },
             {
