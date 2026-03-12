@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 12 March 2026, 09:34 PM UTC (Friday, 13 March 2026, 03:04 AM IST)
+**Last Updated:** Thursday, 12 March 2026, 10:27 PM UTC (Friday, 13 March 2026, 03:57 AM IST)
 
 ### Premier League
 
@@ -403,10 +403,10 @@ Data not available.
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 4 | 3 | 1 | 0 | 7 | 10 |
 | 2 | São Paulo | 4 | 3 | 1 | 0 | 4 | 10 |
-| 3 | Bahia | 4 | 2 | 2 | 0 | 2 | 8 |
-| 4 | Flamengo | 4 | 2 | 1 | 1 | 2 | 7 |
-| 5 | Coritiba | 5 | 2 | 1 | 2 | 1 | 7 |
-| 6 | Fluminense | 4 | 2 | 1 | 1 | 1 | 7 |
+| 3 | Fluminense | 5 | 3 | 1 | 1 | 2 | 10 |
+| 4 | Bahia | 4 | 2 | 2 | 0 | 2 | 8 |
+| 5 | Flamengo | 4 | 2 | 1 | 1 | 2 | 7 |
+| 6 | Coritiba | 5 | 2 | 1 | 2 | 1 | 7 |
 | 7 | Athletico Paranaense | 4 | 2 | 1 | 1 | 1 | 7 |
 | 8 | Corinthians | 5 | 2 | 1 | 2 | 0 | 7 |
 | 9 | RB Bragantino | 4 | 2 | 1 | 1 | 0 | 7 |
@@ -417,7 +417,7 @@ Data not available.
 | 14 | Santos | 5 | 1 | 2 | 2 | -2 | 5 |
 | 15 | Vitória | 4 | 1 | 1 | 2 | -3 | 4 |
 | 16 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
-| 17 | Remo | 4 | 0 | 3 | 1 | -2 | 3 |
+| 17 | Remo | 5 | 0 | 3 | 2 | -3 | 3 |
 | 18 | Internacional | 5 | 0 | 2 | 3 | -4 | 2 |
 | 19 | Cruzeiro | 5 | 0 | 2 | 3 | -7 | 2 |
 | 20 | Vasco da Gama | 4 | 0 | 1 | 3 | -3 | 1 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 12 March 2026, 09:34 PM UTC",
-        "IST": "Friday, 13 March 2026, 03:04 AM IST"
+        "UTC": "Thursday, 12 March 2026, 10:27 PM UTC",
+        "IST": "Friday, 13 March 2026, 03:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2952,6 +2952,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Fluminense",
+                "Played": "5",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "2",
+                "Points": "10"
+            },
+            {
+                "Position": "4",
                 "Team": "Bahia",
                 "Played": "4",
                 "Wins": "2",
@@ -2961,7 +2971,7 @@
                 "Points": "8"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Flamengo",
                 "Played": "4",
                 "Wins": "2",
@@ -2971,22 +2981,12 @@
                 "Points": "7"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Coritiba",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "7"
-            },
-            {
-                "Position": "6",
-                "Team": "Fluminense",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "1",
                 "Goal Difference": "1",
                 "Points": "7"
             },
@@ -3093,11 +3093,11 @@
             {
                 "Position": "17",
                 "Team": "Remo",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "0",
                 "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "-2",
+                "Losses": "2",
+                "Goal Difference": "-3",
                 "Points": "3"
             },
             {
