@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 12 March 2026, 10:27 PM UTC (Friday, 13 March 2026, 03:57 AM IST)
+**Last Updated:** Thursday, 12 March 2026, 10:54 PM UTC (Friday, 13 March 2026, 04:24 AM IST)
 
 ### Premier League
 
@@ -401,7 +401,7 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 4 | 3 | 1 | 0 | 7 | 10 |
+| 1 | Palmeiras | 5 | 3 | 2 | 0 | 7 | 11 |
 | 2 | São Paulo | 4 | 3 | 1 | 0 | 4 | 10 |
 | 3 | Fluminense | 5 | 3 | 1 | 1 | 2 | 10 |
 | 4 | Bahia | 4 | 2 | 2 | 0 | 2 | 8 |
@@ -418,9 +418,9 @@ Data not available.
 | 15 | Vitória | 4 | 1 | 1 | 2 | -3 | 4 |
 | 16 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
 | 17 | Remo | 5 | 0 | 3 | 2 | -3 | 3 |
-| 18 | Internacional | 5 | 0 | 2 | 3 | -4 | 2 |
-| 19 | Cruzeiro | 5 | 0 | 2 | 3 | -7 | 2 |
-| 20 | Vasco da Gama | 4 | 0 | 1 | 3 | -3 | 1 |
+| 18 | Vasco da Gama | 5 | 0 | 2 | 3 | -3 | 2 |
+| 19 | Internacional | 5 | 0 | 2 | 3 | -4 | 2 |
+| 20 | Cruzeiro | 5 | 0 | 2 | 3 | -7 | 2 |
 
 
 <!-- END_TABLE -->
