@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 12 March 2026, 10:54 PM UTC (Friday, 13 March 2026, 04:24 AM IST)
+**Last Updated:** Thursday, 12 March 2026, 11:29 PM UTC (Friday, 13 March 2026, 04:59 AM IST)
 
 ### Premier League
 
@@ -401,9 +401,9 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 5 | 3 | 2 | 0 | 7 | 11 |
-| 2 | São Paulo | 4 | 3 | 1 | 0 | 4 | 10 |
-| 3 | Fluminense | 5 | 3 | 1 | 1 | 2 | 10 |
+| 1 | Palmeiras | 5 | 4 | 1 | 0 | 8 | 13 |
+| 2 | São Paulo | 5 | 3 | 2 | 0 | 4 | 11 |
+| 3 | Fluminense | 5 | 3 | 1 | 1 | 3 | 10 |
 | 4 | Bahia | 4 | 2 | 2 | 0 | 2 | 8 |
 | 5 | Flamengo | 4 | 2 | 1 | 1 | 2 | 7 |
 | 6 | Coritiba | 5 | 2 | 1 | 2 | 1 | 7 |
@@ -411,16 +411,16 @@ Data not available.
 | 8 | Corinthians | 5 | 2 | 1 | 2 | 0 | 7 |
 | 9 | RB Bragantino | 4 | 2 | 1 | 1 | 0 | 7 |
 | 10 | Grêmio | 4 | 2 | 0 | 2 | 0 | 6 |
-| 11 | Mirassol | 4 | 1 | 3 | 0 | 1 | 6 |
-| 12 | Chapecoense | 3 | 1 | 2 | 0 | 2 | 5 |
+| 11 | Chapecoense | 4 | 1 | 3 | 0 | 2 | 6 |
+| 12 | Mirassol | 4 | 1 | 3 | 0 | 1 | 6 |
 | 13 | Atlético Mineiro | 5 | 1 | 2 | 2 | -1 | 5 |
 | 14 | Santos | 5 | 1 | 2 | 2 | -2 | 5 |
 | 15 | Vitória | 4 | 1 | 1 | 2 | -3 | 4 |
 | 16 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
-| 17 | Remo | 5 | 0 | 3 | 2 | -3 | 3 |
-| 18 | Vasco da Gama | 5 | 0 | 2 | 3 | -3 | 2 |
-| 19 | Internacional | 5 | 0 | 2 | 3 | -4 | 2 |
-| 20 | Cruzeiro | 5 | 0 | 2 | 3 | -7 | 2 |
+| 17 | Remo | 5 | 0 | 3 | 2 | -4 | 3 |
+| 18 | Internacional | 5 | 0 | 2 | 3 | -4 | 2 |
+| 19 | Cruzeiro | 5 | 0 | 2 | 3 | -7 | 2 |
+| 20 | Vasco da Gama | 5 | 0 | 1 | 4 | -4 | 1 |
 
 
 <!-- END_TABLE -->
