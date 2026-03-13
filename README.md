@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 13 March 2026, 09:34 PM UTC (Saturday, 14 March 2026, 03:04 AM IST)
+**Last Updated:** Friday, 13 March 2026, 10:28 PM UTC (Saturday, 14 March 2026, 03:58 AM IST)
 
 ### Premier League
 
@@ -74,8 +74,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 27 | 22 | 1 | 4 | 46 | 67 |
 | 2 | Real Madrid | 27 | 20 | 3 | 4 | 33 | 63 |
-| 3 | Atlético de Madrid | 27 | 16 | 6 | 5 | 21 | 54 |
-| 4 | Villarreal | 28 | 17 | 3 | 8 | 17 | 54 |
+| 3 | Villarreal | 28 | 17 | 4 | 7 | 18 | 55 |
+| 4 | Atlético de Madrid | 27 | 16 | 6 | 5 | 21 | 54 |
 | 5 | Real Betis | 27 | 11 | 10 | 6 | 8 | 43 |
 | 6 | Celta de Vigo | 27 | 10 | 10 | 7 | 7 | 40 |
 | 7 | Espanyol | 27 | 10 | 7 | 10 | -6 | 37 |
@@ -87,7 +87,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
 | 14 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
 | 15 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
-| 16 | Alavés | 28 | 8 | 6 | 14 | -11 | 30 |
+| 16 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
 | 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
@@ -131,8 +131,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Sassuolo | 28 | 11 | 5 | 12 | -3 | 38 |
 | 10 | Lazio | 28 | 9 | 10 | 9 | 0 | 37 |
 | 11 | Udinese | 28 | 10 | 6 | 12 | -8 | 36 |
-| 12 | Parma | 29 | 8 | 10 | 11 | -14 | 34 |
-| 13 | Torino | 29 | 9 | 6 | 14 | -19 | 33 |
+| 12 | Parma | 29 | 8 | 10 | 11 | -15 | 34 |
+| 13 | Torino | 29 | 9 | 6 | 14 | -18 | 33 |
 | 14 | Genoa | 28 | 7 | 9 | 12 | -6 | 30 |
 | 15 | Cagliari | 28 | 7 | 9 | 12 | -8 | 30 |
 | 16 | Lecce | 28 | 7 | 6 | 15 | -17 | 27 |
@@ -319,12 +319,12 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Millwall | 37 | 20 | 8 | 9 | 10 | 68 |
 | 4 | Ipswich Town | 36 | 18 | 11 | 7 | 26 | 65 |
 | 5 | Hull City | 37 | 19 | 6 | 12 | 6 | 63 |
-| 6 | Wrexham | 37 | 16 | 12 | 9 | 9 | 60 |
+| 6 | Wrexham | 37 | 16 | 12 | 9 | 10 | 60 |
 | 7 | Southampton | 36 | 14 | 12 | 10 | 11 | 54 |
 | 8 | Derby County | 37 | 15 | 9 | 13 | 6 | 54 |
 | 9 | Watford | 36 | 13 | 13 | 10 | 4 | 52 |
 | 10 | Birmingham City | 37 | 14 | 10 | 13 | 0 | 52 |
-| 11 | Swansea City | 38 | 15 | 7 | 16 | -1 | 52 |
+| 11 | Swansea City | 38 | 15 | 7 | 16 | -2 | 52 |
 | 12 | Bristol City | 37 | 14 | 8 | 15 | 0 | 50 |
 | 13 | Sheffield United | 37 | 15 | 4 | 18 | 1 | 49 |
 | 14 | Preston North End | 37 | 12 | 13 | 12 | -4 | 49 |

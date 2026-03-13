@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 13 March 2026, 09:34 PM UTC",
-        "IST": "Saturday, 14 March 2026, 03:04 AM IST"
+        "UTC": "Friday, 13 March 2026, 10:28 PM UTC",
+        "IST": "Saturday, 14 March 2026, 03:58 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -229,22 +229,22 @@
             },
             {
                 "Position": "3",
+                "Team": "Villarreal",
+                "Played": "28",
+                "Wins": "17",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "18",
+                "Points": "55"
+            },
+            {
+                "Position": "4",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "27",
                 "Wins": "16",
                 "Draws": "6",
                 "Losses": "5",
                 "Goal Difference": "21",
-                "Points": "54"
-            },
-            {
-                "Position": "4",
-                "Team": "Villarreal",
-                "Played": "28",
-                "Wins": "17",
-                "Draws": "3",
-                "Losses": "8",
-                "Goal Difference": "17",
                 "Points": "54"
             },
             {
@@ -361,11 +361,11 @@
                 "Position": "16",
                 "Team": "Alav\u00e9s",
                 "Played": "28",
-                "Wins": "8",
-                "Draws": "6",
+                "Wins": "7",
+                "Draws": "7",
                 "Losses": "14",
-                "Goal Difference": "-11",
-                "Points": "30"
+                "Goal Difference": "-12",
+                "Points": "28"
             },
             {
                 "Position": "17",
@@ -708,7 +708,7 @@
                 "Wins": "8",
                 "Draws": "10",
                 "Losses": "11",
-                "Goal Difference": "-14",
+                "Goal Difference": "-15",
                 "Points": "34"
             },
             {
@@ -718,7 +718,7 @@
                 "Wins": "9",
                 "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-19",
+                "Goal Difference": "-18",
                 "Points": "33"
             },
             {
@@ -2300,7 +2300,7 @@
                 "Wins": "16",
                 "Draws": "12",
                 "Losses": "9",
-                "Goal Difference": "9",
+                "Goal Difference": "10",
                 "Points": "60"
             },
             {
@@ -2350,7 +2350,7 @@
                 "Wins": "15",
                 "Draws": "7",
                 "Losses": "16",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "52"
             },
             {
