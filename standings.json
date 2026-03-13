@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 13 March 2026, 06:56 PM UTC",
-        "IST": "Saturday, 14 March 2026, 12:26 AM IST"
+        "UTC": "Friday, 13 March 2026, 07:34 PM UTC",
+        "IST": "Saturday, 14 March 2026, 01:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -522,12 +522,12 @@
             {
                 "Position": "12",
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "6",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "12",
                 "Goal Difference": "-15",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "13",
@@ -541,6 +541,16 @@
             },
             {
                 "Position": "14",
+                "Team": "St. Pauli",
+                "Played": "26",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-17",
+                "Points": "25"
+            },
+            {
+                "Position": "15",
                 "Team": "K\u00f6ln",
                 "Played": "25",
                 "Wins": "6",
@@ -550,23 +560,13 @@
                 "Points": "24"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Mainz 05",
                 "Played": "25",
                 "Wins": "5",
                 "Draws": "9",
                 "Losses": "11",
                 "Goal Difference": "-12",
-                "Points": "24"
-            },
-            {
-                "Position": "16",
-                "Team": "St. Pauli",
-                "Played": "25",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-17",
                 "Points": "24"
             },
             {
