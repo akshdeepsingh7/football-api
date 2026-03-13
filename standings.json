@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 13 March 2026, 08:36 PM UTC",
-        "IST": "Saturday, 14 March 2026, 02:06 AM IST"
+        "UTC": "Friday, 13 March 2026, 09:34 PM UTC",
+        "IST": "Saturday, 14 March 2026, 03:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -229,22 +229,22 @@
             },
             {
                 "Position": "3",
-                "Team": "Villarreal",
-                "Played": "28",
-                "Wins": "17",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "18",
-                "Points": "55"
-            },
-            {
-                "Position": "4",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "27",
                 "Wins": "16",
                 "Draws": "6",
                 "Losses": "5",
                 "Goal Difference": "21",
+                "Points": "54"
+            },
+            {
+                "Position": "4",
+                "Team": "Villarreal",
+                "Played": "28",
+                "Wins": "17",
+                "Draws": "3",
+                "Losses": "8",
+                "Goal Difference": "17",
                 "Points": "54"
             },
             {
@@ -361,11 +361,11 @@
                 "Position": "16",
                 "Team": "Alav\u00e9s",
                 "Played": "28",
-                "Wins": "7",
-                "Draws": "7",
+                "Wins": "8",
+                "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-12",
-                "Points": "28"
+                "Goal Difference": "-11",
+                "Points": "30"
             },
             {
                 "Position": "17",
@@ -526,7 +526,7 @@
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "12",
-                "Goal Difference": "-14",
+                "Goal Difference": "-13",
                 "Points": "28"
             },
             {
@@ -566,7 +566,7 @@
                 "Wins": "6",
                 "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-18",
+                "Goal Difference": "-19",
                 "Points": "24"
             },
             {
@@ -706,20 +706,20 @@
                 "Team": "Parma",
                 "Played": "29",
                 "Wins": "8",
-                "Draws": "11",
-                "Losses": "10",
-                "Goal Difference": "-12",
-                "Points": "35"
+                "Draws": "10",
+                "Losses": "11",
+                "Goal Difference": "-14",
+                "Points": "34"
             },
             {
                 "Position": "13",
                 "Team": "Torino",
                 "Played": "29",
-                "Wins": "8",
-                "Draws": "7",
+                "Wins": "9",
+                "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-21",
-                "Points": "31"
+                "Goal Difference": "-19",
+                "Points": "33"
             },
             {
                 "Position": "14",
@@ -817,11 +817,11 @@
                 "Position": "3",
                 "Team": "Marseille",
                 "Played": "26",
-                "Wins": "14",
-                "Draws": "5",
+                "Wins": "15",
+                "Draws": "4",
                 "Losses": "7",
-                "Goal Difference": "19",
-                "Points": "47"
+                "Goal Difference": "20",
+                "Points": "49"
             },
             {
                 "Position": "4",
@@ -948,10 +948,10 @@
                 "Team": "Auxerre",
                 "Played": "26",
                 "Wins": "4",
-                "Draws": "8",
-                "Losses": "14",
-                "Goal Difference": "-16",
-                "Points": "20"
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-17",
+                "Points": "19"
             },
             {
                 "Position": "17",
