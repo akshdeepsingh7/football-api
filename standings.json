@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 09:28 PM UTC",
-        "IST": "Sunday, 15 March 2026, 02:58 AM IST"
+        "UTC": "Saturday, 14 March 2026, 09:50 PM UTC",
+        "IST": "Sunday, 15 March 2026, 03:20 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -840,7 +840,7 @@
                 "Wins": "13",
                 "Draws": "4",
                 "Losses": "9",
-                "Goal Difference": "7",
+                "Goal Difference": "8",
                 "Points": "43"
             },
             {
@@ -890,7 +890,7 @@
                 "Wins": "10",
                 "Draws": "6",
                 "Losses": "10",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "36"
             },
             {
@@ -2086,10 +2086,10 @@
                 "Team": "Benfica",
                 "Played": "26",
                 "Wins": "17",
-                "Draws": "8",
-                "Losses": "1",
-                "Goal Difference": "36",
-                "Points": "59"
+                "Draws": "9",
+                "Losses": "0",
+                "Goal Difference": "37",
+                "Points": "60"
             },
             {
                 "Position": "4",
@@ -2153,16 +2153,6 @@
             },
             {
                 "Position": "10",
-                "Team": "Arouca",
-                "Played": "26",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "13",
-                "Goal Difference": "-20",
-                "Points": "29"
-            },
-            {
-                "Position": "11",
                 "Team": "Alverca",
                 "Played": "26",
                 "Wins": "7",
@@ -2170,6 +2160,16 @@
                 "Losses": "11",
                 "Goal Difference": "-15",
                 "Points": "29"
+            },
+            {
+                "Position": "11",
+                "Team": "Arouca",
+                "Played": "26",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-21",
+                "Points": "27"
             },
             {
                 "Position": "12",
@@ -3042,22 +3042,22 @@
             },
             {
                 "Position": "12",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "6"
+            },
+            {
+                "Position": "13",
                 "Team": "Chapecoense",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "0",
-                "Points": "5"
-            },
-            {
-                "Position": "13",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-1",
                 "Points": "5"
             },
             {
@@ -3072,22 +3072,22 @@
             },
             {
                 "Position": "15",
+                "Team": "Vit\u00f3ria",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-3",
+                "Points": "5"
+            },
+            {
+                "Position": "16",
                 "Team": "Vasco da Gama",
                 "Played": "5",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "4"
-            },
-            {
-                "Position": "16",
-                "Team": "Vit\u00f3ria",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-3",
                 "Points": "4"
             },
             {

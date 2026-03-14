@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 09:28 PM UTC (Sunday, 15 March 2026, 02:58 AM IST)
+**Last Updated:** Saturday, 14 March 2026, 09:50 PM UTC (Sunday, 15 March 2026, 03:20 AM IST)
 
 ### Premier League
 
@@ -149,12 +149,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 26 | 18 | 2 | 6 | 26 | 56 |
 | 3 | Marseille | 26 | 15 | 4 | 7 | 20 | 49 |
 | 4 | Lyon | 25 | 14 | 4 | 7 | 13 | 46 |
-| 5 | Monaco | 26 | 13 | 4 | 9 | 7 | 43 |
+| 5 | Monaco | 26 | 13 | 4 | 9 | 8 | 43 |
 | 6 | Rennes | 25 | 12 | 7 | 6 | 7 | 43 |
 | 7 | Lille | 25 | 12 | 5 | 8 | 6 | 41 |
 | 8 | Lorient | 26 | 9 | 10 | 7 | -3 | 37 |
 | 9 | Strasbourg | 25 | 10 | 6 | 9 | 9 | 36 |
-| 10 | Brest | 26 | 10 | 6 | 10 | -1 | 36 |
+| 10 | Brest | 26 | 10 | 6 | 10 | -2 | 36 |
 | 11 | Angers | 26 | 9 | 5 | 12 | -9 | 32 |
 | 12 | Toulouse | 25 | 8 | 7 | 10 | 4 | 31 |
 | 13 | Paris FC | 25 | 6 | 9 | 10 | -12 | 27 |
@@ -293,15 +293,15 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 25 | 21 | 3 | 1 | 39 | 66 |
 | 2 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
-| 3 | Benfica | 26 | 17 | 8 | 1 | 36 | 59 |
+| 3 | Benfica | 26 | 17 | 9 | 0 | 37 | 60 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
 | 5 | Gil Vicente | 26 | 11 | 9 | 6 | 12 | 42 |
 | 6 | Famalicão | 26 | 12 | 6 | 8 | 10 | 42 |
 | 7 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
 | 8 | Estoril | 25 | 9 | 7 | 9 | 4 | 34 |
 | 9 | Vitória S.C. | 26 | 9 | 5 | 12 | -10 | 32 |
-| 10 | Arouca | 26 | 8 | 5 | 13 | -20 | 29 |
-| 11 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
+| 10 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
+| 11 | Arouca | 26 | 7 | 6 | 13 | -21 | 27 |
 | 12 | Estrela Amadora | 25 | 5 | 10 | 10 | -15 | 25 |
 | 13 | Rio Ave | 25 | 5 | 9 | 11 | -20 | 24 |
 | 14 | Casa Pia | 25 | 5 | 9 | 11 | -18 | 24 |
@@ -412,11 +412,11 @@ Data not available.
 | 9 | Grêmio | 5 | 2 | 1 | 2 | 0 | 7 |
 | 10 | Corinthians | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Mirassol | 4 | 1 | 3 | 0 | 1 | 6 |
-| 12 | Chapecoense | 4 | 1 | 2 | 1 | 0 | 5 |
-| 13 | Atlético Mineiro | 5 | 1 | 2 | 2 | -1 | 5 |
+| 12 | Atlético Mineiro | 6 | 1 | 3 | 2 | -1 | 6 |
+| 13 | Chapecoense | 4 | 1 | 2 | 1 | 0 | 5 |
 | 14 | Santos | 5 | 1 | 2 | 2 | -2 | 5 |
-| 15 | Vasco da Gama | 5 | 1 | 1 | 3 | -2 | 4 |
-| 16 | Vitória | 4 | 1 | 1 | 2 | -3 | 4 |
+| 15 | Vitória | 5 | 1 | 2 | 2 | -3 | 5 |
+| 16 | Vasco da Gama | 5 | 1 | 1 | 3 | -2 | 4 |
 | 17 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
 | 18 | Remo | 5 | 0 | 3 | 2 | -4 | 3 |
 | 19 | Internacional | 5 | 0 | 2 | 3 | -4 | 2 |
