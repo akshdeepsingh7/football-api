@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 10:54 PM UTC (Sunday, 15 March 2026, 04:24 AM IST)
+**Last Updated:** Saturday, 14 March 2026, 11:28 PM UTC (Sunday, 15 March 2026, 04:58 AM IST)
 
 ### Premier League
 
@@ -411,11 +411,11 @@ Data not available.
 | 8 | Athletico Paranaense | 4 | 2 | 1 | 1 | 1 | 7 |
 | 9 | Grêmio | 5 | 2 | 1 | 2 | 0 | 7 |
 | 10 | Corinthians | 5 | 2 | 1 | 2 | 0 | 7 |
-| 11 | Vitória | 5 | 2 | 1 | 2 | -2 | 7 |
+| 11 | Vitória | 5 | 2 | 1 | 2 | -1 | 7 |
 | 12 | Mirassol | 4 | 1 | 3 | 0 | 1 | 6 |
 | 13 | Chapecoense | 4 | 1 | 2 | 1 | 0 | 5 |
 | 14 | Santos | 5 | 1 | 2 | 2 | -2 | 5 |
-| 15 | Atlético Mineiro | 6 | 1 | 2 | 3 | -2 | 5 |
+| 15 | Atlético Mineiro | 6 | 1 | 2 | 3 | -3 | 5 |
 | 16 | Vasco da Gama | 5 | 1 | 1 | 3 | -2 | 4 |
 | 17 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
 | 18 | Remo | 5 | 0 | 3 | 2 | -4 | 3 |
