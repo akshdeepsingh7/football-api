@@ -41,20 +41,20 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 06:39 PM UTC (Sunday, 15 March 2026, 12:09 AM IST)
+**Last Updated:** Saturday, 14 March 2026, 07:27 PM UTC (Sunday, 15 March 2026, 12:57 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 31 | 20 | 8 | 3 | 37 | 68 |
+| 1 | Arsenal | 31 | 21 | 7 | 3 | 38 | 70 |
 | 2 | Manchester City | 29 | 18 | 6 | 5 | 32 | 60 |
 | 3 | Manchester United | 29 | 14 | 9 | 6 | 11 | 51 |
 | 4 | Aston Villa | 29 | 15 | 6 | 8 | 5 | 51 |
 | 5 | Chelsea | 30 | 13 | 9 | 8 | 18 | 48 |
 | 6 | Liverpool FC | 29 | 14 | 6 | 9 | 9 | 48 |
 | 7 | Brentford | 29 | 13 | 5 | 11 | 4 | 44 |
-| 8 | Everton | 30 | 12 | 8 | 10 | 1 | 44 |
+| 8 | Everton | 30 | 12 | 7 | 11 | 0 | 43 |
 | 9 | Newcastle United | 30 | 12 | 6 | 12 | 0 | 42 |
 | 10 | AFC Bournemouth | 30 | 9 | 14 | 7 | -2 | 41 |
 | 11 | Brighton & Hove Albion | 30 | 10 | 10 | 10 | 3 | 40 |
@@ -155,11 +155,11 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Lorient | 26 | 9 | 10 | 7 | -3 | 37 |
 | 9 | Strasbourg | 25 | 10 | 6 | 9 | 9 | 36 |
 | 10 | Brest | 25 | 10 | 6 | 9 | 0 | 36 |
-| 11 | Angers | 26 | 9 | 6 | 11 | -7 | 33 |
+| 11 | Angers | 26 | 9 | 5 | 12 | -8 | 32 |
 | 12 | Toulouse | 25 | 8 | 7 | 10 | 4 | 31 |
 | 13 | Paris FC | 25 | 6 | 9 | 10 | -12 | 27 |
-| 14 | Le Havre | 25 | 6 | 8 | 11 | -12 | 26 |
-| 15 | Nice | 26 | 6 | 7 | 13 | -18 | 25 |
+| 14 | Nice | 26 | 7 | 6 | 13 | -17 | 27 |
+| 15 | Le Havre | 25 | 6 | 8 | 11 | -12 | 26 |
 | 16 | Auxerre | 26 | 4 | 7 | 15 | -17 | 19 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
 | 18 | Metz | 25 | 3 | 4 | 18 | -34 | 13 |
@@ -295,12 +295,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
 | 3 | Benfica | 25 | 17 | 8 | 0 | 37 | 59 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
-| 5 | Gil Vicente | 26 | 12 | 8 | 6 | 13 | 44 |
+| 5 | Gil Vicente | 26 | 11 | 9 | 6 | 12 | 42 |
 | 6 | Famalicão | 26 | 12 | 6 | 8 | 10 | 42 |
 | 7 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
 | 8 | Estoril | 25 | 9 | 7 | 9 | 4 | 34 |
 | 9 | Vitória S.C. | 26 | 9 | 5 | 12 | -10 | 32 |
-| 10 | Alverca | 26 | 7 | 7 | 12 | -16 | 28 |
+| 10 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
 | 11 | Arouca | 25 | 7 | 5 | 13 | -21 | 26 |
 | 12 | Estrela Amadora | 25 | 5 | 10 | 10 | -15 | 25 |
 | 13 | Rio Ave | 25 | 5 | 9 | 11 | -20 | 24 |
@@ -345,18 +345,18 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | NYCFC | 3 | 2 | 1 | 0 | 6 | 7 |
 | 2 | Nashville | 3 | 2 | 1 | 0 | 5 | 7 |
-| 3 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
-| 4 | Toronto | 4 | 2 | 0 | 2 | -2 | 6 |
-| 5 | New York RB | 4 | 2 | 0 | 2 | -2 | 6 |
-| 6 | Chicago Fire | 3 | 1 | 1 | 1 | 2 | 4 |
-| 7 | Charlotte | 3 | 1 | 1 | 1 | -1 | 4 |
+| 3 | New York RB | 4 | 2 | 1 | 1 | -1 | 7 |
+| 4 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
+| 5 | Chicago Fire | 3 | 1 | 1 | 1 | 2 | 4 |
+| 6 | Charlotte | 3 | 1 | 1 | 1 | -1 | 4 |
+| 7 | Toronto | 4 | 1 | 1 | 2 | -3 | 4 |
 | 8 | Cincinnati | 3 | 1 | 0 | 2 | 0 | 3 |
 | 9 | DC United | 3 | 1 | 0 | 2 | -1 | 3 |
 | 10 | CF Montréal | 3 | 1 | 0 | 2 | -5 | 3 |
 | 11 | Columbus Crew | 3 | 0 | 2 | 1 | -1 | 2 |
-| 12 | Philadelphia Union | 3 | 0 | 0 | 3 | -3 | 0 |
-| 13 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
-| 14 | Atlanta United | 3 | 0 | 0 | 3 | -5 | 0 |
+| 12 | Philadelphia Union | 4 | 0 | 1 | 3 | -3 | 1 |
+| 13 | Atlanta United | 4 | 0 | 1 | 3 | -5 | 1 |
+| 14 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
 | 15 | Orlando City | 3 | 0 | 0 | 3 | -8 | 0 |
 | 1 | San Diego | 3 | 3 | 0 | 0 | 8 | 9 |
 | 2 | Vancouver Whitecaps | 3 | 3 | 0 | 0 | 7 | 9 |

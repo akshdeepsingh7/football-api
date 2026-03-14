@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 06:39 PM UTC",
-        "IST": "Sunday, 15 March 2026, 12:09 AM IST"
+        "UTC": "Saturday, 14 March 2026, 07:27 PM UTC",
+        "IST": "Sunday, 15 March 2026, 12:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -9,11 +9,11 @@
                 "Position": "1",
                 "Team": "Arsenal",
                 "Played": "31",
-                "Wins": "20",
-                "Draws": "8",
+                "Wins": "21",
+                "Draws": "7",
                 "Losses": "3",
-                "Goal Difference": "37",
-                "Points": "68"
+                "Goal Difference": "38",
+                "Points": "70"
             },
             {
                 "Position": "2",
@@ -80,10 +80,10 @@
                 "Team": "Everton",
                 "Played": "30",
                 "Wins": "12",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "1",
-                "Points": "44"
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "0",
+                "Points": "43"
             },
             {
                 "Position": "9",
@@ -898,10 +898,10 @@
                 "Team": "Angers",
                 "Played": "26",
                 "Wins": "9",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "-7",
-                "Points": "33"
+                "Draws": "5",
+                "Losses": "12",
+                "Goal Difference": "-8",
+                "Points": "32"
             },
             {
                 "Position": "12",
@@ -925,6 +925,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Nice",
+                "Played": "26",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-17",
+                "Points": "27"
+            },
+            {
+                "Position": "15",
                 "Team": "Le Havre",
                 "Played": "25",
                 "Wins": "6",
@@ -932,16 +942,6 @@
                 "Losses": "11",
                 "Goal Difference": "-12",
                 "Points": "26"
-            },
-            {
-                "Position": "15",
-                "Team": "Nice",
-                "Played": "26",
-                "Wins": "6",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "-18",
-                "Points": "25"
             },
             {
                 "Position": "16",
@@ -2105,11 +2105,11 @@
                 "Position": "5",
                 "Team": "Gil Vicente",
                 "Played": "26",
-                "Wins": "12",
-                "Draws": "8",
+                "Wins": "11",
+                "Draws": "9",
                 "Losses": "6",
-                "Goal Difference": "13",
-                "Points": "44"
+                "Goal Difference": "12",
+                "Points": "42"
             },
             {
                 "Position": "6",
@@ -2156,10 +2156,10 @@
                 "Team": "Alverca",
                 "Played": "26",
                 "Wins": "7",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-16",
-                "Points": "28"
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-15",
+                "Points": "29"
             },
             {
                 "Position": "11",
@@ -2507,6 +2507,16 @@
             },
             {
                 "Position": "3",
+                "Team": "New York RB",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "7"
+            },
+            {
+                "Position": "4",
                 "Team": "Inter Miami",
                 "Played": "3",
                 "Wins": "2",
@@ -2516,27 +2526,7 @@
                 "Points": "6"
             },
             {
-                "Position": "4",
-                "Team": "Toronto",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "6"
-            },
-            {
                 "Position": "5",
-                "Team": "New York RB",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "6"
-            },
-            {
-                "Position": "6",
                 "Team": "Chicago Fire",
                 "Played": "3",
                 "Wins": "1",
@@ -2546,13 +2536,23 @@
                 "Points": "4"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Charlotte",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "-1",
+                "Points": "4"
+            },
+            {
+                "Position": "7",
+                "Team": "Toronto",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-3",
                 "Points": "4"
             },
             {
@@ -2598,31 +2598,31 @@
             {
                 "Position": "12",
                 "Team": "Philadelphia Union",
-                "Played": "3",
+                "Played": "4",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "3",
                 "Goal Difference": "-3",
-                "Points": "0"
+                "Points": "1"
             },
             {
                 "Position": "13",
+                "Team": "Atlanta United",
+                "Played": "4",
+                "Wins": "0",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-5",
+                "Points": "1"
+            },
+            {
+                "Position": "14",
                 "Team": "New England Revolution",
                 "Played": "2",
                 "Wins": "0",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "-4",
-                "Points": "0"
-            },
-            {
-                "Position": "14",
-                "Team": "Atlanta United",
-                "Played": "3",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-5",
                 "Points": "0"
             },
             {
