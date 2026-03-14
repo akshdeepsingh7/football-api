@@ -41,25 +41,25 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 05:27 PM UTC (Saturday, 14 March 2026, 10:57 PM IST)
+**Last Updated:** Saturday, 14 March 2026, 05:52 PM UTC (Saturday, 14 March 2026, 11:22 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 30 | 20 | 7 | 3 | 37 | 67 |
+| 1 | Arsenal | 31 | 20 | 8 | 3 | 37 | 68 |
 | 2 | Manchester City | 29 | 18 | 6 | 5 | 32 | 60 |
 | 3 | Manchester United | 29 | 14 | 9 | 6 | 11 | 51 |
 | 4 | Aston Villa | 29 | 15 | 6 | 8 | 5 | 51 |
-| 5 | Chelsea | 29 | 13 | 9 | 7 | 19 | 48 |
+| 5 | Chelsea | 30 | 13 | 9 | 8 | 18 | 48 |
 | 6 | Liverpool FC | 29 | 14 | 6 | 9 | 9 | 48 |
 | 7 | Brentford | 29 | 13 | 5 | 11 | 4 | 44 |
-| 8 | Everton | 29 | 12 | 7 | 10 | 1 | 43 |
-| 9 | AFC Bournemouth | 30 | 9 | 14 | 7 | -2 | 41 |
-| 10 | Brighton & Hove Albion | 30 | 10 | 10 | 10 | 3 | 40 |
-| 11 | Fulham | 29 | 12 | 4 | 13 | -3 | 40 |
-| 12 | Sunderland | 30 | 10 | 10 | 10 | -5 | 40 |
-| 13 | Newcastle United | 29 | 11 | 6 | 12 | -1 | 39 |
+| 8 | Everton | 30 | 12 | 8 | 10 | 1 | 44 |
+| 9 | Newcastle United | 30 | 12 | 6 | 12 | 0 | 42 |
+| 10 | AFC Bournemouth | 30 | 9 | 14 | 7 | -2 | 41 |
+| 11 | Brighton & Hove Albion | 30 | 10 | 10 | 10 | 3 | 40 |
+| 12 | Fulham | 29 | 12 | 4 | 13 | -3 | 40 |
+| 13 | Sunderland | 30 | 10 | 10 | 10 | -5 | 40 |
 | 14 | Crystal Palace | 29 | 10 | 8 | 11 | -2 | 38 |
 | 15 | Leeds United | 29 | 7 | 10 | 12 | -11 | 31 |
 | 16 | Tottenham Hotspur | 29 | 7 | 8 | 14 | -7 | 29 |
@@ -84,14 +84,14 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Athletic Bilbao | 28 | 10 | 5 | 13 | -10 | 35 |
 | 11 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
 | 12 | Girona | 28 | 8 | 10 | 10 | -12 | 34 |
-| 13 | Valencia | 27 | 8 | 8 | 11 | -11 | 32 |
+| 13 | Valencia | 28 | 8 | 9 | 11 | -11 | 33 |
 | 14 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
 | 15 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
 | 16 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
 | 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
-| 20 | Real Oviedo | 27 | 3 | 9 | 15 | -27 | 18 |
+| 20 | Real Oviedo | 28 | 3 | 10 | 15 | -27 | 19 |
 
 ### Bundesliga
 
@@ -106,11 +106,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Eintracht Frankfurt | 26 | 10 | 8 | 8 | 0 | 38 |
 | 8 | SC Freiburg | 25 | 9 | 7 | 9 | -5 | 34 |
 | 9 | Augsburg | 26 | 9 | 4 | 13 | -14 | 31 |
-| 10 | Hamburg | 25 | 7 | 8 | 10 | -8 | 29 |
+| 10 | Hamburg | 26 | 7 | 9 | 10 | -8 | 30 |
 | 11 | Union Berlin | 25 | 7 | 7 | 11 | -12 | 28 |
 | 12 | Borussia Mönchengladbach | 26 | 7 | 7 | 12 | -13 | 28 |
-| 13 | Werder Bremen | 25 | 6 | 7 | 12 | -16 | 25 |
-| 14 | Köln | 25 | 6 | 6 | 13 | -9 | 24 |
+| 13 | Köln | 26 | 6 | 7 | 13 | -9 | 25 |
+| 14 | Werder Bremen | 25 | 6 | 7 | 12 | -16 | 25 |
 | 15 | Mainz 05 | 25 | 5 | 9 | 11 | -12 | 24 |
 | 16 | St. Pauli | 26 | 6 | 6 | 14 | -19 | 24 |
 | 17 | VfL Wolfsburg | 26 | 5 | 6 | 15 | -21 | 21 |
