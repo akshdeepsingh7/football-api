@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 12:54 PM UTC (Saturday, 14 March 2026, 06:24 PM IST)
+**Last Updated:** Saturday, 14 March 2026, 01:47 PM UTC (Saturday, 14 March 2026, 07:17 PM IST)
 
 ### Premier League
 
@@ -81,12 +81,12 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Espanyol | 27 | 10 | 7 | 10 | -6 | 37 |
 | 8 | Real Sociedad | 27 | 9 | 8 | 10 | -1 | 35 |
 | 9 | Getafe | 27 | 10 | 5 | 12 | -6 | 35 |
-| 10 | Athletic Bilbao | 27 | 10 | 5 | 12 | -7 | 35 |
+| 10 | Athletic Bilbao | 28 | 10 | 5 | 13 | -8 | 35 |
 | 11 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
-| 12 | Valencia | 27 | 8 | 8 | 11 | -11 | 32 |
-| 13 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
+| 12 | Girona | 28 | 8 | 10 | 10 | -14 | 34 |
+| 13 | Valencia | 27 | 8 | 8 | 11 | -11 | 32 |
 | 14 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
-| 15 | Girona | 27 | 7 | 10 | 10 | -15 | 31 |
+| 15 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
 | 16 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
 | 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
@@ -314,13 +314,13 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 38 | 23 | 9 | 6 | 39 | 78 |
+| 1 | Coventry City | 38 | 23 | 8 | 7 | 38 | 77 |
 | 2 | Middlesbrough | 38 | 20 | 10 | 8 | 22 | 70 |
 | 3 | Millwall | 37 | 20 | 8 | 9 | 10 | 68 |
 | 4 | Ipswich Town | 36 | 18 | 11 | 7 | 26 | 65 |
 | 5 | Hull City | 37 | 19 | 6 | 12 | 6 | 63 |
 | 6 | Wrexham | 37 | 16 | 12 | 9 | 10 | 60 |
-| 7 | Southampton | 37 | 14 | 13 | 10 | 11 | 55 |
+| 7 | Southampton | 37 | 15 | 12 | 10 | 12 | 57 |
 | 8 | Derby County | 37 | 15 | 9 | 13 | 6 | 54 |
 | 9 | Watford | 36 | 13 | 13 | 10 | 4 | 52 |
 | 10 | Birmingham City | 37 | 14 | 10 | 13 | 0 | 52 |
@@ -330,10 +330,10 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Preston North End | 37 | 12 | 13 | 12 | -4 | 49 |
 | 15 | Norwich City | 36 | 14 | 6 | 16 | 4 | 48 |
 | 16 | Stoke City | 37 | 13 | 9 | 15 | 3 | 48 |
-| 17 | Charlton Athletic | 38 | 12 | 12 | 14 | -9 | 48 |
+| 17 | Charlton Athletic | 38 | 12 | 11 | 15 | -10 | 47 |
 | 18 | Queens Park Rangers | 37 | 13 | 8 | 16 | -13 | 47 |
-| 19 | Portsmouth | 36 | 10 | 10 | 16 | -11 | 40 |
-| 20 | Oxford United | 38 | 9 | 12 | 17 | -13 | 39 |
+| 19 | Oxford United | 38 | 10 | 11 | 17 | -12 | 41 |
+| 20 | Portsmouth | 36 | 10 | 10 | 16 | -11 | 40 |
 | 21 | Blackburn Rovers | 37 | 10 | 9 | 18 | -14 | 39 |
 | 22 | Leicester City | 37 | 11 | 11 | 15 | -7 | 38 |
 | 23 | West Bromwich Albion | 37 | 9 | 10 | 18 | -18 | 37 |
@@ -380,7 +380,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mohun Bagan SG | 4 | 4 | 0 | 0 | 12 | 12 |
 | 2 | Jamshedpur | 4 | 4 | 0 | 0 | 4 | 12 |
-| 3 | East Bengal | 5 | 3 | 1 | 1 | 6 | 10 |
+| 3 | East Bengal | 5 | 2 | 2 | 1 | 5 | 8 |
 | 4 | FC Goa | 4 | 2 | 2 | 0 | 3 | 8 |
 | 5 | Mumbai City | 4 | 2 | 2 | 0 | 2 | 8 |
 | 6 | Bengaluru | 4 | 2 | 1 | 1 | 1 | 7 |
@@ -389,8 +389,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Chennaiyin | 4 | 1 | 1 | 2 | -2 | 4 |
 | 10 | NorthEast Utd | 4 | 0 | 3 | 1 | -3 | 3 |
 | 11 | Odisha | 3 | 0 | 2 | 1 | -4 | 2 |
-| 12 | SC Delhi | 4 | 0 | 1 | 3 | -6 | 1 |
-| 13 | Kerala Blasters | 5 | 0 | 0 | 5 | -6 | 0 |
+| 12 | Kerala Blasters | 5 | 0 | 1 | 4 | -5 | 1 |
+| 13 | SC Delhi | 4 | 0 | 1 | 3 | -6 | 1 |
 | 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
