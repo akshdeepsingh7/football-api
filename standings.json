@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 01:47 PM UTC",
-        "IST": "Saturday, 14 March 2026, 07:17 PM IST"
+        "UTC": "Saturday, 14 March 2026, 02:29 PM UTC",
+        "IST": "Saturday, 14 March 2026, 07:59 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -594,12 +594,12 @@
             {
                 "Position": "1",
                 "Team": "Inter",
-                "Played": "28",
-                "Wins": "22",
+                "Played": "29",
+                "Wins": "23",
                 "Draws": "1",
                 "Losses": "5",
-                "Goal Difference": "42",
-                "Points": "67"
+                "Goal Difference": "43",
+                "Points": "70"
             },
             {
                 "Position": "2",
@@ -654,11 +654,11 @@
             {
                 "Position": "7",
                 "Team": "Atalanta",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "12",
                 "Draws": "10",
-                "Losses": "6",
-                "Goal Difference": "13",
+                "Losses": "7",
+                "Goal Difference": "12",
                 "Points": "46"
             },
             {
@@ -2408,10 +2408,10 @@
                 "Team": "Charlton Athletic",
                 "Played": "38",
                 "Wins": "12",
-                "Draws": "11",
-                "Losses": "15",
-                "Goal Difference": "-10",
-                "Points": "47"
+                "Draws": "12",
+                "Losses": "14",
+                "Goal Difference": "-9",
+                "Points": "48"
             },
             {
                 "Position": "18",
@@ -2425,16 +2425,6 @@
             },
             {
                 "Position": "19",
-                "Team": "Oxford United",
-                "Played": "38",
-                "Wins": "10",
-                "Draws": "11",
-                "Losses": "17",
-                "Goal Difference": "-12",
-                "Points": "41"
-            },
-            {
-                "Position": "20",
                 "Team": "Portsmouth",
                 "Played": "36",
                 "Wins": "10",
@@ -2442,6 +2432,16 @@
                 "Losses": "16",
                 "Goal Difference": "-11",
                 "Points": "40"
+            },
+            {
+                "Position": "20",
+                "Team": "Oxford United",
+                "Played": "38",
+                "Wins": "9",
+                "Draws": "12",
+                "Losses": "17",
+                "Goal Difference": "-13",
+                "Points": "39"
             },
             {
                 "Position": "21",
@@ -2790,12 +2790,12 @@
             {
                 "Position": "1",
                 "Team": "Mohun Bagan SG",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "4",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "12",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "2",
@@ -2840,12 +2840,12 @@
             {
                 "Position": "6",
                 "Team": "Bengaluru",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "2",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "1",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "7",

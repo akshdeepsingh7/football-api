@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 01:47 PM UTC (Saturday, 14 March 2026, 07:17 PM IST)
+**Last Updated:** Saturday, 14 March 2026, 02:29 PM UTC (Saturday, 14 March 2026, 07:59 PM IST)
 
 ### Premier League
 
@@ -120,13 +120,13 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 28 | 22 | 1 | 5 | 42 | 67 |
+| 1 | Inter | 29 | 23 | 1 | 5 | 43 | 70 |
 | 2 | Milan | 28 | 17 | 9 | 2 | 24 | 60 |
 | 3 | Napoli | 28 | 17 | 5 | 6 | 14 | 56 |
 | 4 | Como | 28 | 14 | 9 | 5 | 25 | 51 |
 | 5 | Roma | 28 | 16 | 3 | 9 | 17 | 51 |
 | 6 | Juventus | 28 | 14 | 8 | 6 | 22 | 50 |
-| 7 | Atalanta | 28 | 12 | 10 | 6 | 13 | 46 |
+| 7 | Atalanta | 29 | 12 | 10 | 7 | 12 | 46 |
 | 8 | Bologna | 28 | 11 | 6 | 11 | 3 | 39 |
 | 9 | Sassuolo | 28 | 11 | 5 | 12 | -3 | 38 |
 | 10 | Lazio | 28 | 9 | 10 | 9 | 0 | 37 |
@@ -330,10 +330,10 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Preston North End | 37 | 12 | 13 | 12 | -4 | 49 |
 | 15 | Norwich City | 36 | 14 | 6 | 16 | 4 | 48 |
 | 16 | Stoke City | 37 | 13 | 9 | 15 | 3 | 48 |
-| 17 | Charlton Athletic | 38 | 12 | 11 | 15 | -10 | 47 |
+| 17 | Charlton Athletic | 38 | 12 | 12 | 14 | -9 | 48 |
 | 18 | Queens Park Rangers | 37 | 13 | 8 | 16 | -13 | 47 |
-| 19 | Oxford United | 38 | 10 | 11 | 17 | -12 | 41 |
-| 20 | Portsmouth | 36 | 10 | 10 | 16 | -11 | 40 |
+| 19 | Portsmouth | 36 | 10 | 10 | 16 | -11 | 40 |
+| 20 | Oxford United | 38 | 9 | 12 | 17 | -13 | 39 |
 | 21 | Blackburn Rovers | 37 | 10 | 9 | 18 | -14 | 39 |
 | 22 | Leicester City | 37 | 11 | 11 | 15 | -7 | 38 |
 | 23 | West Bromwich Albion | 37 | 9 | 10 | 18 | -18 | 37 |
@@ -378,12 +378,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Mohun Bagan SG | 4 | 4 | 0 | 0 | 12 | 12 |
+| 1 | Mohun Bagan SG | 5 | 4 | 1 | 0 | 12 | 13 |
 | 2 | Jamshedpur | 4 | 4 | 0 | 0 | 4 | 12 |
 | 3 | East Bengal | 5 | 2 | 2 | 1 | 5 | 8 |
 | 4 | FC Goa | 4 | 2 | 2 | 0 | 3 | 8 |
 | 5 | Mumbai City | 4 | 2 | 2 | 0 | 2 | 8 |
-| 6 | Bengaluru | 4 | 2 | 1 | 1 | 1 | 7 |
+| 6 | Bengaluru | 5 | 2 | 2 | 1 | 1 | 8 |
 | 7 | Inter Kashi | 4 | 1 | 2 | 1 | 0 | 5 |
 | 8 | Punjab FC | 3 | 1 | 1 | 1 | 1 | 4 |
 | 9 | Chennaiyin | 4 | 1 | 1 | 2 | -2 | 4 |
