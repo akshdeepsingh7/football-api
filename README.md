@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 08:29 PM UTC (Sunday, 15 March 2026, 01:59 AM IST)
+**Last Updated:** Saturday, 14 March 2026, 08:55 PM UTC (Sunday, 15 March 2026, 02:25 AM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 27 | 22 | 1 | 4 | 46 | 67 |
-| 2 | Real Madrid | 28 | 20 | 4 | 4 | 33 | 64 |
+| 2 | Real Madrid | 28 | 21 | 3 | 4 | 35 | 66 |
 | 3 | Atlético de Madrid | 28 | 17 | 6 | 5 | 22 | 57 |
 | 4 | Villarreal | 28 | 17 | 4 | 7 | 18 | 55 |
 | 5 | Real Betis | 27 | 11 | 10 | 6 | 8 | 43 |
@@ -88,7 +88,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
 | 15 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
 | 16 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
-| 17 | Elche | 28 | 5 | 12 | 11 | -6 | 27 |
+| 17 | Elche | 28 | 5 | 11 | 12 | -8 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
 | 20 | Real Oviedo | 28 | 4 | 9 | 15 | -26 | 21 |
@@ -293,15 +293,15 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 25 | 21 | 3 | 1 | 39 | 66 |
 | 2 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
-| 3 | Benfica | 25 | 17 | 8 | 0 | 37 | 59 |
+| 3 | Benfica | 26 | 17 | 8 | 1 | 36 | 59 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
 | 5 | Gil Vicente | 26 | 11 | 9 | 6 | 12 | 42 |
 | 6 | Famalicão | 26 | 12 | 6 | 8 | 10 | 42 |
 | 7 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
 | 8 | Estoril | 25 | 9 | 7 | 9 | 4 | 34 |
 | 9 | Vitória S.C. | 26 | 9 | 5 | 12 | -10 | 32 |
-| 10 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
-| 11 | Arouca | 25 | 7 | 5 | 13 | -21 | 26 |
+| 10 | Arouca | 26 | 8 | 5 | 13 | -20 | 29 |
+| 11 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
 | 12 | Estrela Amadora | 25 | 5 | 10 | 10 | -15 | 25 |
 | 13 | Rio Ave | 25 | 5 | 9 | 11 | -20 | 24 |
 | 14 | Casa Pia | 25 | 5 | 9 | 11 | -18 | 24 |
@@ -352,11 +352,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Toronto | 4 | 1 | 1 | 2 | -3 | 4 |
 | 8 | Cincinnati | 3 | 1 | 0 | 2 | 0 | 3 |
 | 9 | DC United | 3 | 1 | 0 | 2 | -1 | 3 |
-| 10 | Atlanta United | 4 | 1 | 0 | 3 | -4 | 3 |
+| 10 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
 | 11 | CF Montréal | 3 | 1 | 0 | 2 | -5 | 3 |
 | 12 | Columbus Crew | 3 | 0 | 2 | 1 | -1 | 2 |
 | 13 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
-| 14 | Philadelphia Union | 4 | 0 | 0 | 4 | -4 | 0 |
+| 14 | Philadelphia Union | 4 | 0 | 0 | 4 | -5 | 0 |
 | 15 | Orlando City | 3 | 0 | 0 | 3 | -8 | 0 |
 | 1 | San Diego | 3 | 3 | 0 | 0 | 8 | 9 |
 | 2 | Vancouver Whitecaps | 3 | 3 | 0 | 0 | 7 | 9 |
