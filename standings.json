@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 11:29 AM UTC",
-        "IST": "Saturday, 14 March 2026, 04:59 PM IST"
+        "UTC": "Saturday, 14 March 2026, 11:49 AM UTC",
+        "IST": "Saturday, 14 March 2026, 05:19 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2809,6 +2809,16 @@
             },
             {
                 "Position": "3",
+                "Team": "East Bengal",
+                "Played": "5",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "6",
+                "Points": "10"
+            },
+            {
+                "Position": "4",
                 "Team": "FC Goa",
                 "Played": "4",
                 "Wins": "2",
@@ -2818,7 +2828,7 @@
                 "Points": "8"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Mumbai City",
                 "Played": "4",
                 "Wins": "2",
@@ -2826,16 +2836,6 @@
                 "Losses": "0",
                 "Goal Difference": "2",
                 "Points": "8"
-            },
-            {
-                "Position": "5",
-                "Team": "East Bengal",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "5",
-                "Points": "7"
             },
             {
                 "Position": "6",
@@ -2910,11 +2910,11 @@
             {
                 "Position": "13",
                 "Team": "Kerala Blasters",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "0",
                 "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "-5",
+                "Losses": "5",
+                "Goal Difference": "-6",
                 "Points": "0"
             },
             {
