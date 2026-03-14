@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 02:29 PM UTC",
-        "IST": "Saturday, 14 March 2026, 07:59 PM IST"
+        "UTC": "Saturday, 14 March 2026, 02:56 PM UTC",
+        "IST": "Saturday, 14 March 2026, 08:26 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -304,7 +304,7 @@
                 "Wins": "10",
                 "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-8",
+                "Goal Difference": "-10",
                 "Points": "35"
             },
             {
@@ -324,7 +324,7 @@
                 "Wins": "8",
                 "Draws": "10",
                 "Losses": "10",
-                "Goal Difference": "-14",
+                "Goal Difference": "-12",
                 "Points": "34"
             },
             {
@@ -412,35 +412,45 @@
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "21",
                 "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "68",
+                "Losses": "2",
+                "Goal Difference": "67",
                 "Points": "66"
             },
             {
                 "Position": "2",
                 "Team": "Borussia Dortmund",
-                "Played": "25",
-                "Wins": "16",
+                "Played": "26",
+                "Wins": "17",
                 "Draws": "7",
                 "Losses": "2",
-                "Goal Difference": "27",
-                "Points": "55"
+                "Goal Difference": "28",
+                "Points": "58"
             },
             {
                 "Position": "3",
                 "Team": "Hoffenheim",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "15",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "6",
                 "Goal Difference": "20",
-                "Points": "49"
+                "Points": "50"
             },
             {
                 "Position": "4",
+                "Team": "Bayer Leverkusen",
+                "Played": "26",
+                "Wins": "14",
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "17",
+                "Points": "47"
+            },
+            {
+                "Position": "5",
                 "Team": "VfB Stuttgart",
                 "Played": "25",
                 "Wins": "14",
@@ -450,7 +460,7 @@
                 "Points": "47"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "RB Leipzig",
                 "Played": "25",
                 "Wins": "14",
@@ -460,24 +470,14 @@
                 "Points": "47"
             },
             {
-                "Position": "6",
-                "Team": "Bayer Leverkusen",
-                "Played": "25",
-                "Wins": "13",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "16",
-                "Points": "44"
-            },
-            {
                 "Position": "7",
                 "Team": "Eintracht Frankfurt",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "9",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "8",
                 "Goal Difference": "-1",
-                "Points": "35"
+                "Points": "36"
             },
             {
                 "Position": "8",
@@ -492,11 +492,11 @@
             {
                 "Position": "9",
                 "Team": "Augsburg",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "9",
                 "Draws": "4",
-                "Losses": "12",
-                "Goal Difference": "-12",
+                "Losses": "13",
+                "Goal Difference": "-13",
                 "Points": "31"
             },
             {
@@ -572,22 +572,22 @@
             {
                 "Position": "17",
                 "Team": "VfL Wolfsburg",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "5",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "15",
                 "Goal Difference": "-21",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "18",
                 "Team": "Heidenheim",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "3",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "17",
                 "Goal Difference": "-33",
-                "Points": "14"
+                "Points": "15"
             }
         ],
         "Serie A": [

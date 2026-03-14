@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 02:29 PM UTC (Saturday, 14 March 2026, 07:59 PM IST)
+**Last Updated:** Saturday, 14 March 2026, 02:56 PM UTC (Saturday, 14 March 2026, 08:26 PM IST)
 
 ### Premier League
 
@@ -81,9 +81,9 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Espanyol | 27 | 10 | 7 | 10 | -6 | 37 |
 | 8 | Real Sociedad | 27 | 9 | 8 | 10 | -1 | 35 |
 | 9 | Getafe | 27 | 10 | 5 | 12 | -6 | 35 |
-| 10 | Athletic Bilbao | 28 | 10 | 5 | 13 | -8 | 35 |
+| 10 | Athletic Bilbao | 28 | 10 | 5 | 13 | -10 | 35 |
 | 11 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
-| 12 | Girona | 28 | 8 | 10 | 10 | -14 | 34 |
+| 12 | Girona | 28 | 8 | 10 | 10 | -12 | 34 |
 | 13 | Valencia | 27 | 8 | 8 | 11 | -11 | 32 |
 | 14 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
 | 15 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
@@ -97,15 +97,15 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 25 | 21 | 3 | 1 | 68 | 66 |
-| 2 | Borussia Dortmund | 25 | 16 | 7 | 2 | 27 | 55 |
-| 3 | Hoffenheim | 25 | 15 | 4 | 6 | 20 | 49 |
-| 4 | VfB Stuttgart | 25 | 14 | 5 | 6 | 16 | 47 |
-| 5 | RB Leipzig | 25 | 14 | 5 | 6 | 14 | 47 |
-| 6 | Bayer Leverkusen | 25 | 13 | 5 | 7 | 16 | 44 |
-| 7 | Eintracht Frankfurt | 25 | 9 | 8 | 8 | -1 | 35 |
+| 1 | Bayern Munich | 26 | 21 | 3 | 2 | 67 | 66 |
+| 2 | Borussia Dortmund | 26 | 17 | 7 | 2 | 28 | 58 |
+| 3 | Hoffenheim | 26 | 15 | 5 | 6 | 20 | 50 |
+| 4 | Bayer Leverkusen | 26 | 14 | 5 | 7 | 17 | 47 |
+| 5 | VfB Stuttgart | 25 | 14 | 5 | 6 | 16 | 47 |
+| 6 | RB Leipzig | 25 | 14 | 5 | 6 | 14 | 47 |
+| 7 | Eintracht Frankfurt | 26 | 9 | 9 | 8 | -1 | 36 |
 | 8 | SC Freiburg | 25 | 9 | 7 | 9 | -5 | 34 |
-| 9 | Augsburg | 25 | 9 | 4 | 12 | -12 | 31 |
+| 9 | Augsburg | 26 | 9 | 4 | 13 | -13 | 31 |
 | 10 | Hamburg | 25 | 7 | 8 | 10 | -8 | 29 |
 | 11 | Union Berlin | 25 | 7 | 7 | 11 | -12 | 28 |
 | 12 | Borussia Mönchengladbach | 26 | 7 | 7 | 12 | -13 | 28 |
@@ -113,8 +113,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Köln | 25 | 6 | 6 | 13 | -9 | 24 |
 | 15 | Mainz 05 | 25 | 5 | 9 | 11 | -12 | 24 |
 | 16 | St. Pauli | 26 | 6 | 6 | 14 | -19 | 24 |
-| 17 | VfL Wolfsburg | 25 | 5 | 5 | 15 | -21 | 20 |
-| 18 | Heidenheim | 25 | 3 | 5 | 17 | -33 | 14 |
+| 17 | VfL Wolfsburg | 26 | 5 | 6 | 15 | -21 | 21 |
+| 18 | Heidenheim | 26 | 3 | 6 | 17 | -33 | 15 |
 
 ### Serie A
 
