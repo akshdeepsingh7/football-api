@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 10:27 PM UTC",
-        "IST": "Sunday, 15 March 2026, 03:57 AM IST"
+        "UTC": "Saturday, 14 March 2026, 10:54 PM UTC",
+        "IST": "Sunday, 15 March 2026, 04:24 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2085,11 +2085,11 @@
                 "Position": "3",
                 "Team": "Benfica",
                 "Played": "26",
-                "Wins": "17",
-                "Draws": "9",
+                "Wins": "18",
+                "Draws": "8",
                 "Losses": "0",
-                "Goal Difference": "37",
-                "Points": "60"
+                "Goal Difference": "38",
+                "Points": "62"
             },
             {
                 "Position": "4",
@@ -2166,10 +2166,10 @@
                 "Team": "Arouca",
                 "Played": "26",
                 "Wins": "7",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-21",
-                "Points": "27"
+                "Draws": "5",
+                "Losses": "14",
+                "Goal Difference": "-22",
+                "Points": "26"
             },
             {
                 "Position": "12",
