@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 05:52 PM UTC (Saturday, 14 March 2026, 11:22 PM IST)
+**Last Updated:** Saturday, 14 March 2026, 06:39 PM UTC (Sunday, 15 March 2026, 12:09 AM IST)
 
 ### Premier League
 
@@ -84,14 +84,14 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Athletic Bilbao | 28 | 10 | 5 | 13 | -10 | 35 |
 | 11 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
 | 12 | Girona | 28 | 8 | 10 | 10 | -12 | 34 |
-| 13 | Valencia | 28 | 8 | 9 | 11 | -11 | 33 |
+| 13 | Valencia | 28 | 8 | 8 | 12 | -12 | 32 |
 | 14 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
 | 15 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
 | 16 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
 | 17 | Elche | 27 | 5 | 11 | 11 | -6 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
-| 20 | Real Oviedo | 28 | 3 | 10 | 15 | -27 | 19 |
+| 20 | Real Oviedo | 28 | 4 | 9 | 15 | -26 | 21 |
 
 ### Bundesliga
 
@@ -122,7 +122,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 29 | 22 | 2 | 5 | 42 | 68 |
 | 2 | Milan | 28 | 17 | 9 | 2 | 24 | 60 |
-| 3 | Napoli | 29 | 17 | 5 | 7 | 13 | 56 |
+| 3 | Napoli | 29 | 18 | 5 | 6 | 15 | 59 |
 | 4 | Como | 28 | 14 | 9 | 5 | 25 | 51 |
 | 5 | Roma | 28 | 16 | 3 | 9 | 17 | 51 |
 | 6 | Juventus | 28 | 14 | 8 | 6 | 22 | 50 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Torino | 29 | 9 | 6 | 14 | -18 | 33 |
 | 14 | Genoa | 28 | 7 | 9 | 12 | -6 | 30 |
 | 15 | Cagliari | 28 | 7 | 9 | 12 | -8 | 30 |
-| 16 | Lecce | 29 | 8 | 6 | 15 | -16 | 30 |
+| 16 | Lecce | 29 | 7 | 6 | 16 | -18 | 27 |
 | 17 | Fiorentina | 28 | 5 | 10 | 13 | -12 | 25 |
 | 18 | Cremonese | 28 | 5 | 9 | 14 | -18 | 24 |
 | 19 | Hellas Verona | 28 | 3 | 9 | 16 | -27 | 18 |
@@ -155,11 +155,11 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Lorient | 26 | 9 | 10 | 7 | -3 | 37 |
 | 9 | Strasbourg | 25 | 10 | 6 | 9 | 9 | 36 |
 | 10 | Brest | 25 | 10 | 6 | 9 | 0 | 36 |
-| 11 | Angers | 25 | 9 | 5 | 11 | -7 | 32 |
+| 11 | Angers | 26 | 9 | 6 | 11 | -7 | 33 |
 | 12 | Toulouse | 25 | 8 | 7 | 10 | 4 | 31 |
 | 13 | Paris FC | 25 | 6 | 9 | 10 | -12 | 27 |
 | 14 | Le Havre | 25 | 6 | 8 | 11 | -12 | 26 |
-| 15 | Nice | 25 | 6 | 6 | 13 | -18 | 24 |
+| 15 | Nice | 26 | 6 | 7 | 13 | -18 | 25 |
 | 16 | Auxerre | 26 | 4 | 7 | 15 | -17 | 19 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
 | 18 | Metz | 25 | 3 | 4 | 18 | -34 | 13 |
@@ -295,12 +295,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
 | 3 | Benfica | 25 | 17 | 8 | 0 | 37 | 59 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
-| 5 | Famalicão | 26 | 12 | 6 | 8 | 10 | 42 |
-| 6 | Gil Vicente | 25 | 11 | 8 | 6 | 12 | 41 |
+| 5 | Gil Vicente | 26 | 12 | 8 | 6 | 13 | 44 |
+| 6 | Famalicão | 26 | 12 | 6 | 8 | 10 | 42 |
 | 7 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
 | 8 | Estoril | 25 | 9 | 7 | 9 | 4 | 34 |
 | 9 | Vitória S.C. | 26 | 9 | 5 | 12 | -10 | 32 |
-| 10 | Alverca | 25 | 7 | 7 | 11 | -15 | 28 |
+| 10 | Alverca | 26 | 7 | 7 | 12 | -16 | 28 |
 | 11 | Arouca | 25 | 7 | 5 | 13 | -21 | 26 |
 | 12 | Estrela Amadora | 25 | 5 | 10 | 10 | -15 | 25 |
 | 13 | Rio Ave | 25 | 5 | 9 | 11 | -20 | 24 |
@@ -345,11 +345,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | NYCFC | 3 | 2 | 1 | 0 | 6 | 7 |
 | 2 | Nashville | 3 | 2 | 1 | 0 | 5 | 7 |
-| 3 | New York RB | 4 | 2 | 1 | 1 | -1 | 7 |
-| 4 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
-| 5 | Chicago Fire | 3 | 1 | 1 | 1 | 2 | 4 |
-| 6 | Charlotte | 3 | 1 | 1 | 1 | -1 | 4 |
-| 7 | Toronto | 4 | 1 | 1 | 2 | -3 | 4 |
+| 3 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
+| 4 | Toronto | 4 | 2 | 0 | 2 | -2 | 6 |
+| 5 | New York RB | 4 | 2 | 0 | 2 | -2 | 6 |
+| 6 | Chicago Fire | 3 | 1 | 1 | 1 | 2 | 4 |
+| 7 | Charlotte | 3 | 1 | 1 | 1 | -1 | 4 |
 | 8 | Cincinnati | 3 | 1 | 0 | 2 | 0 | 3 |
 | 9 | DC United | 3 | 1 | 0 | 2 | -1 | 3 |
 | 10 | CF Montréal | 3 | 1 | 0 | 2 | -5 | 3 |
