@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 07:27 PM UTC",
-        "IST": "Sunday, 15 March 2026, 12:57 AM IST"
+        "UTC": "Saturday, 14 March 2026, 07:49 PM UTC",
+        "IST": "Sunday, 15 March 2026, 01:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -12,7 +12,7 @@
                 "Wins": "21",
                 "Draws": "7",
                 "Losses": "3",
-                "Goal Difference": "38",
+                "Goal Difference": "39",
                 "Points": "70"
             },
             {
@@ -82,7 +82,7 @@
                 "Wins": "12",
                 "Draws": "7",
                 "Losses": "11",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "43"
             },
             {
@@ -644,12 +644,12 @@
             {
                 "Position": "6",
                 "Team": "Juventus",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "14",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "6",
                 "Goal Difference": "22",
-                "Points": "50"
+                "Points": "51"
             },
             {
                 "Position": "7",
@@ -694,12 +694,12 @@
             {
                 "Position": "11",
                 "Team": "Udinese",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "10",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "12",
                 "Goal Difference": "-8",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "12",
@@ -2105,11 +2105,11 @@
                 "Position": "5",
                 "Team": "Gil Vicente",
                 "Played": "26",
-                "Wins": "11",
-                "Draws": "9",
+                "Wins": "12",
+                "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "12",
-                "Points": "42"
+                "Goal Difference": "13",
+                "Points": "44"
             },
             {
                 "Position": "6",
@@ -2156,10 +2156,10 @@
                 "Team": "Alverca",
                 "Played": "26",
                 "Wins": "7",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-15",
-                "Points": "29"
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "-16",
+                "Points": "28"
             },
             {
                 "Position": "11",

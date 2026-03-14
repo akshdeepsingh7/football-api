@@ -41,20 +41,20 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 07:27 PM UTC (Sunday, 15 March 2026, 12:57 AM IST)
+**Last Updated:** Saturday, 14 March 2026, 07:49 PM UTC (Sunday, 15 March 2026, 01:19 AM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 31 | 21 | 7 | 3 | 38 | 70 |
+| 1 | Arsenal | 31 | 21 | 7 | 3 | 39 | 70 |
 | 2 | Manchester City | 29 | 18 | 6 | 5 | 32 | 60 |
 | 3 | Manchester United | 29 | 14 | 9 | 6 | 11 | 51 |
 | 4 | Aston Villa | 29 | 15 | 6 | 8 | 5 | 51 |
 | 5 | Chelsea | 30 | 13 | 9 | 8 | 18 | 48 |
 | 6 | Liverpool FC | 29 | 14 | 6 | 9 | 9 | 48 |
 | 7 | Brentford | 29 | 13 | 5 | 11 | 4 | 44 |
-| 8 | Everton | 30 | 12 | 7 | 11 | 0 | 43 |
+| 8 | Everton | 30 | 12 | 7 | 11 | -1 | 43 |
 | 9 | Newcastle United | 30 | 12 | 6 | 12 | 0 | 42 |
 | 10 | AFC Bournemouth | 30 | 9 | 14 | 7 | -2 | 41 |
 | 11 | Brighton & Hove Albion | 30 | 10 | 10 | 10 | 3 | 40 |
@@ -125,12 +125,12 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Napoli | 29 | 18 | 5 | 6 | 15 | 59 |
 | 4 | Como | 28 | 14 | 9 | 5 | 25 | 51 |
 | 5 | Roma | 28 | 16 | 3 | 9 | 17 | 51 |
-| 6 | Juventus | 28 | 14 | 8 | 6 | 22 | 50 |
+| 6 | Juventus | 29 | 14 | 9 | 6 | 22 | 51 |
 | 7 | Atalanta | 29 | 12 | 11 | 6 | 13 | 47 |
 | 8 | Bologna | 28 | 11 | 6 | 11 | 3 | 39 |
 | 9 | Sassuolo | 28 | 11 | 5 | 12 | -3 | 38 |
 | 10 | Lazio | 28 | 9 | 10 | 9 | 0 | 37 |
-| 11 | Udinese | 28 | 10 | 6 | 12 | -8 | 36 |
+| 11 | Udinese | 29 | 10 | 7 | 12 | -8 | 37 |
 | 12 | Parma | 29 | 8 | 10 | 11 | -15 | 34 |
 | 13 | Torino | 29 | 9 | 6 | 14 | -18 | 33 |
 | 14 | Genoa | 28 | 7 | 9 | 12 | -6 | 30 |
@@ -295,12 +295,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
 | 3 | Benfica | 25 | 17 | 8 | 0 | 37 | 59 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
-| 5 | Gil Vicente | 26 | 11 | 9 | 6 | 12 | 42 |
+| 5 | Gil Vicente | 26 | 12 | 8 | 6 | 13 | 44 |
 | 6 | Famalicão | 26 | 12 | 6 | 8 | 10 | 42 |
 | 7 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
 | 8 | Estoril | 25 | 9 | 7 | 9 | 4 | 34 |
 | 9 | Vitória S.C. | 26 | 9 | 5 | 12 | -10 | 32 |
-| 10 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
+| 10 | Alverca | 26 | 7 | 7 | 12 | -16 | 28 |
 | 11 | Arouca | 25 | 7 | 5 | 13 | -21 | 26 |
 | 12 | Estrela Amadora | 25 | 5 | 10 | 10 | -15 | 25 |
 | 13 | Rio Ave | 25 | 5 | 9 | 11 | -20 | 24 |
