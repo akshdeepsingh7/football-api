@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 14 March 2026, 09:50 PM UTC",
-        "IST": "Sunday, 15 March 2026, 03:20 AM IST"
+        "UTC": "Saturday, 14 March 2026, 10:27 PM UTC",
+        "IST": "Sunday, 15 March 2026, 03:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -224,7 +224,7 @@
                 "Wins": "21",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "35",
+                "Goal Difference": "36",
                 "Points": "66"
             },
             {
@@ -374,7 +374,7 @@
                 "Wins": "5",
                 "Draws": "11",
                 "Losses": "12",
-                "Goal Difference": "-8",
+                "Goal Difference": "-9",
                 "Points": "26"
             },
             {
@@ -2487,22 +2487,22 @@
         "Major League Soccer (MLS)": [
             {
                 "Position": "1",
+                "Team": "Nashville",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "5",
+                "Points": "8"
+            },
+            {
+                "Position": "2",
                 "Team": "NYCFC",
                 "Played": "3",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "6",
-                "Points": "7"
-            },
-            {
-                "Position": "2",
-                "Team": "Nashville",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "5",
                 "Points": "7"
             },
             {
@@ -2598,12 +2598,12 @@
             {
                 "Position": "12",
                 "Team": "Columbus Crew",
-                "Played": "3",
+                "Played": "4",
                 "Wins": "0",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "-1",
-                "Points": "2"
+                "Points": "3"
             },
             {
                 "Position": "13",
@@ -3032,22 +3032,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Vit\u00f3ria",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "7"
+            },
+            {
+                "Position": "12",
                 "Team": "Mirassol",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "0",
                 "Goal Difference": "1",
-                "Points": "6"
-            },
-            {
-                "Position": "12",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-1",
                 "Points": "6"
             },
             {
@@ -3072,12 +3072,12 @@
             },
             {
                 "Position": "15",
-                "Team": "Vit\u00f3ria",
-                "Played": "5",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "6",
                 "Wins": "1",
                 "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-3",
+                "Losses": "3",
+                "Goal Difference": "-2",
                 "Points": "5"
             },
             {

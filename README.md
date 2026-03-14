@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 09:50 PM UTC (Sunday, 15 March 2026, 03:20 AM IST)
+**Last Updated:** Saturday, 14 March 2026, 10:27 PM UTC (Sunday, 15 March 2026, 03:57 AM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 27 | 22 | 1 | 4 | 46 | 67 |
-| 2 | Real Madrid | 28 | 21 | 3 | 4 | 35 | 66 |
+| 2 | Real Madrid | 28 | 21 | 3 | 4 | 36 | 66 |
 | 3 | Atlético de Madrid | 28 | 17 | 6 | 5 | 22 | 57 |
 | 4 | Villarreal | 28 | 17 | 4 | 7 | 18 | 55 |
 | 5 | Real Betis | 27 | 11 | 10 | 6 | 8 | 43 |
@@ -88,7 +88,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Sevilla | 27 | 8 | 7 | 12 | -7 | 31 |
 | 15 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
 | 16 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
-| 17 | Elche | 28 | 5 | 11 | 12 | -8 | 26 |
+| 17 | Elche | 28 | 5 | 11 | 12 | -9 | 26 |
 | 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
 | 20 | Real Oviedo | 28 | 4 | 9 | 15 | -26 | 21 |
@@ -343,8 +343,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | NYCFC | 3 | 2 | 1 | 0 | 6 | 7 |
-| 2 | Nashville | 3 | 2 | 1 | 0 | 5 | 7 |
+| 1 | Nashville | 4 | 2 | 2 | 0 | 5 | 8 |
+| 2 | NYCFC | 3 | 2 | 1 | 0 | 6 | 7 |
 | 3 | New York RB | 4 | 2 | 1 | 1 | -1 | 7 |
 | 4 | Inter Miami | 3 | 2 | 0 | 1 | 0 | 6 |
 | 5 | Chicago Fire | 3 | 1 | 1 | 1 | 2 | 4 |
@@ -354,7 +354,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | DC United | 3 | 1 | 0 | 2 | -1 | 3 |
 | 10 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
 | 11 | CF Montréal | 3 | 1 | 0 | 2 | -5 | 3 |
-| 12 | Columbus Crew | 3 | 0 | 2 | 1 | -1 | 2 |
+| 12 | Columbus Crew | 4 | 0 | 3 | 1 | -1 | 3 |
 | 13 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
 | 14 | Philadelphia Union | 4 | 0 | 0 | 4 | -5 | 0 |
 | 15 | Orlando City | 3 | 0 | 0 | 3 | -8 | 0 |
@@ -411,11 +411,11 @@ Data not available.
 | 8 | Athletico Paranaense | 4 | 2 | 1 | 1 | 1 | 7 |
 | 9 | Grêmio | 5 | 2 | 1 | 2 | 0 | 7 |
 | 10 | Corinthians | 5 | 2 | 1 | 2 | 0 | 7 |
-| 11 | Mirassol | 4 | 1 | 3 | 0 | 1 | 6 |
-| 12 | Atlético Mineiro | 6 | 1 | 3 | 2 | -1 | 6 |
+| 11 | Vitória | 5 | 2 | 1 | 2 | -2 | 7 |
+| 12 | Mirassol | 4 | 1 | 3 | 0 | 1 | 6 |
 | 13 | Chapecoense | 4 | 1 | 2 | 1 | 0 | 5 |
 | 14 | Santos | 5 | 1 | 2 | 2 | -2 | 5 |
-| 15 | Vitória | 5 | 1 | 2 | 2 | -3 | 5 |
+| 15 | Atlético Mineiro | 6 | 1 | 2 | 3 | -2 | 5 |
 | 16 | Vasco da Gama | 5 | 1 | 1 | 3 | -2 | 4 |
 | 17 | Botafogo | 3 | 1 | 0 | 2 | 1 | 3 |
 | 18 | Remo | 5 | 0 | 3 | 2 | -4 | 3 |
