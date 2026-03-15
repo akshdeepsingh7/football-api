@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 March 2026, 09:53 PM UTC (Monday, 16 March 2026, 03:23 AM IST)
+**Last Updated:** Sunday, 15 March 2026, 10:29 PM UTC (Monday, 16 March 2026, 03:59 AM IST)
 
 ### Premier League
 
@@ -291,14 +291,14 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 26 | 22 | 3 | 1 | 41 | 69 |
+| 1 | Porto | 26 | 22 | 3 | 1 | 42 | 69 |
 | 2 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
 | 3 | Benfica | 26 | 18 | 8 | 0 | 38 | 62 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
 | 5 | Gil Vicente | 26 | 11 | 9 | 6 | 12 | 42 |
 | 6 | Famalicão | 26 | 12 | 6 | 8 | 10 | 42 |
 | 7 | Estoril | 26 | 10 | 7 | 9 | 5 | 37 |
-| 8 | Moreirense | 26 | 10 | 5 | 11 | -6 | 35 |
+| 8 | Moreirense | 26 | 10 | 5 | 11 | -7 | 35 |
 | 9 | Vitória S.C. | 26 | 9 | 5 | 12 | -10 | 32 |
 | 10 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
 | 11 | Rio Ave | 26 | 6 | 9 | 11 | -19 | 27 |
@@ -358,7 +358,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Orlando City | 4 | 1 | 0 | 3 | -7 | 3 |
 | 14 | Columbus Crew | 4 | 0 | 2 | 2 | -2 | 2 |
 | 15 | Philadelphia Union | 4 | 0 | 0 | 4 | -5 | 0 |
-| 1 | Vancouver Whitecaps | 4 | 4 | 0 | 0 | 11 | 12 |
+| 1 | Vancouver Whitecaps | 4 | 4 | 0 | 0 | 13 | 12 |
 | 2 | LAFC | 4 | 4 | 0 | 0 | 8 | 12 |
 | 3 | San Diego | 4 | 3 | 1 | 0 | 8 | 10 |
 | 4 | San Jose Earthquakes | 3 | 3 | 0 | 0 | 6 | 9 |
@@ -370,7 +370,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | LA Galaxy | 4 | 1 | 1 | 2 | -1 | 4 |
 | 11 | Austin | 4 | 1 | 1 | 2 | -2 | 4 |
 | 12 | Sporting KC | 4 | 1 | 1 | 2 | -3 | 4 |
-| 13 | Minnesota United | 4 | 1 | 1 | 2 | -5 | 4 |
+| 13 | Minnesota United | 4 | 1 | 1 | 2 | -7 | 4 |
 | 14 | Portland Timbers | 4 | 1 | 0 | 3 | -5 | 3 |
 | 15 | St. Louis City | 4 | 0 | 1 | 3 | -5 | 1 |
 
@@ -401,24 +401,24 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | São Paulo | 5 | 4 | 1 | 0 | 6 | 13 |
-| 2 | Fluminense | 6 | 4 | 1 | 1 | 4 | 13 |
-| 3 | Palmeiras | 6 | 3 | 2 | 1 | 6 | 11 |
+| 1 | Palmeiras | 6 | 4 | 1 | 1 | 7 | 13 |
+| 2 | São Paulo | 5 | 4 | 1 | 0 | 6 | 13 |
+| 3 | Fluminense | 6 | 4 | 1 | 1 | 4 | 13 |
 | 4 | Bahia | 5 | 3 | 2 | 0 | 3 | 11 |
 | 5 | Flamengo | 5 | 3 | 1 | 1 | 5 | 10 |
-| 6 | Coritiba | 6 | 2 | 2 | 2 | 1 | 8 |
+| 6 | Coritiba | 6 | 3 | 1 | 2 | 2 | 10 |
 | 7 | Corinthians | 6 | 2 | 2 | 2 | 0 | 8 |
 | 8 | RB Bragantino | 5 | 2 | 2 | 1 | 0 | 8 |
 | 9 | Grêmio | 5 | 2 | 1 | 2 | 0 | 7 |
 | 10 | Athletico Paranaense | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Vitória | 5 | 2 | 1 | 2 | -1 | 7 |
-| 12 | Mirassol | 5 | 1 | 4 | 0 | 1 | 7 |
+| 12 | Mirassol | 5 | 1 | 3 | 1 | 0 | 6 |
 | 13 | Santos | 6 | 1 | 3 | 2 | -2 | 6 |
 | 14 | Chapecoense | 4 | 1 | 2 | 1 | 0 | 5 |
 | 15 | Atlético Mineiro | 6 | 1 | 2 | 3 | -3 | 5 |
 | 16 | Vasco da Gama | 5 | 1 | 1 | 3 | -2 | 4 |
-| 17 | Remo | 6 | 0 | 4 | 2 | -4 | 4 |
-| 18 | Botafogo | 4 | 1 | 0 | 3 | -2 | 3 |
+| 17 | Botafogo | 4 | 1 | 0 | 3 | -2 | 3 |
+| 18 | Remo | 6 | 0 | 3 | 3 | -5 | 3 |
 | 19 | Internacional | 6 | 0 | 2 | 4 | -5 | 2 |
 | 20 | Cruzeiro | 5 | 0 | 2 | 3 | -7 | 2 |
 
