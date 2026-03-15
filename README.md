@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 March 2026, 12:55 PM UTC (Sunday, 15 March 2026, 06:25 PM IST)
+**Last Updated:** Sunday, 15 March 2026, 01:49 PM UTC (Sunday, 15 March 2026, 07:19 PM IST)
 
 ### Premier League
 
@@ -77,8 +77,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Atlético de Madrid | 28 | 17 | 6 | 5 | 22 | 57 |
 | 4 | Villarreal | 28 | 17 | 4 | 7 | 18 | 55 |
 | 5 | Real Betis | 27 | 11 | 10 | 6 | 8 | 43 |
-| 6 | Celta de Vigo | 27 | 10 | 10 | 7 | 7 | 40 |
-| 7 | Espanyol | 27 | 10 | 7 | 10 | -6 | 37 |
+| 6 | Espanyol | 28 | 11 | 7 | 10 | -5 | 40 |
+| 7 | Celta de Vigo | 27 | 10 | 10 | 7 | 7 | 40 |
 | 8 | Real Sociedad | 27 | 9 | 8 | 10 | -1 | 35 |
 | 9 | Getafe | 28 | 10 | 5 | 13 | -7 | 35 |
 | 10 | Athletic Bilbao | 28 | 10 | 5 | 13 | -10 | 35 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
 | 16 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
 | 17 | Elche | 28 | 5 | 11 | 12 | -9 | 26 |
-| 18 | Mallorca | 27 | 6 | 7 | 14 | -13 | 25 |
+| 18 | Mallorca | 28 | 6 | 7 | 15 | -14 | 25 |
 | 19 | Levante | 27 | 5 | 7 | 15 | -16 | 22 |
 | 20 | Real Oviedo | 28 | 4 | 9 | 15 | -26 | 21 |
 
@@ -132,13 +132,13 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Lazio | 28 | 9 | 10 | 9 | 0 | 37 |
 | 11 | Udinese | 29 | 10 | 6 | 13 | -9 | 36 |
 | 12 | Parma | 29 | 8 | 10 | 11 | -15 | 34 |
-| 13 | Genoa | 29 | 8 | 9 | 12 | -5 | 33 |
+| 13 | Genoa | 29 | 8 | 9 | 12 | -4 | 33 |
 | 14 | Torino | 29 | 9 | 6 | 14 | -18 | 33 |
 | 15 | Cagliari | 28 | 7 | 9 | 12 | -8 | 30 |
 | 16 | Lecce | 29 | 7 | 6 | 16 | -18 | 27 |
 | 17 | Fiorentina | 28 | 5 | 10 | 13 | -12 | 25 |
 | 18 | Cremonese | 28 | 5 | 9 | 14 | -18 | 24 |
-| 19 | Hellas Verona | 29 | 3 | 9 | 17 | -28 | 18 |
+| 19 | Hellas Verona | 29 | 3 | 9 | 17 | -29 | 18 |
 | 20 | Pisa | 28 | 1 | 12 | 15 | -28 | 15 |
 
 ### Ligue 1
