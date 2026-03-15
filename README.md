@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 March 2026, 07:28 PM UTC (Monday, 16 March 2026, 12:58 AM IST)
+**Last Updated:** Sunday, 15 March 2026, 07:50 PM UTC (Monday, 16 March 2026, 01:20 AM IST)
 
 ### Premier League
 
@@ -100,8 +100,8 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 26 | 21 | 4 | 1 | 68 | 67 |
 | 2 | Borussia Dortmund | 26 | 17 | 7 | 2 | 29 | 58 |
 | 3 | Hoffenheim | 26 | 15 | 5 | 6 | 20 | 50 |
-| 4 | VfB Stuttgart | 26 | 14 | 6 | 6 | 16 | 48 |
-| 5 | RB Leipzig | 26 | 14 | 6 | 6 | 14 | 48 |
+| 4 | VfB Stuttgart | 26 | 15 | 5 | 6 | 17 | 50 |
+| 5 | RB Leipzig | 26 | 14 | 5 | 7 | 13 | 47 |
 | 6 | Bayer Leverkusen | 26 | 13 | 6 | 7 | 16 | 45 |
 | 7 | Eintracht Frankfurt | 26 | 10 | 8 | 8 | 0 | 38 |
 | 8 | SC Freiburg | 26 | 9 | 7 | 10 | -6 | 34 |
@@ -121,15 +121,15 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 29 | 22 | 2 | 5 | 42 | 68 |
-| 2 | Milan | 28 | 17 | 9 | 2 | 24 | 60 |
+| 2 | Milan | 29 | 17 | 10 | 2 | 24 | 61 |
 | 3 | Napoli | 29 | 18 | 5 | 6 | 15 | 59 |
 | 4 | Como | 29 | 15 | 9 | 5 | 26 | 54 |
 | 5 | Juventus | 29 | 15 | 8 | 6 | 23 | 53 |
 | 6 | Roma | 29 | 16 | 3 | 10 | 16 | 51 |
 | 7 | Atalanta | 29 | 12 | 11 | 6 | 13 | 47 |
 | 8 | Bologna | 29 | 12 | 6 | 11 | 4 | 42 |
-| 9 | Sassuolo | 29 | 11 | 5 | 13 | -4 | 38 |
-| 10 | Lazio | 28 | 9 | 10 | 9 | 0 | 37 |
+| 9 | Lazio | 29 | 9 | 11 | 9 | 0 | 38 |
+| 10 | Sassuolo | 29 | 11 | 5 | 13 | -4 | 38 |
 | 11 | Udinese | 29 | 10 | 6 | 13 | -9 | 36 |
 | 12 | Parma | 29 | 8 | 10 | 11 | -15 | 34 |
 | 13 | Genoa | 29 | 8 | 9 | 12 | -4 | 33 |
@@ -149,9 +149,9 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 26 | 18 | 2 | 6 | 26 | 56 |
 | 3 | Marseille | 26 | 15 | 4 | 7 | 20 | 49 |
 | 4 | Lyon | 26 | 14 | 5 | 7 | 13 | 47 |
-| 5 | Monaco | 26 | 13 | 4 | 9 | 8 | 43 |
-| 6 | Rennes | 25 | 12 | 7 | 6 | 7 | 43 |
-| 7 | Lille | 25 | 12 | 5 | 8 | 6 | 41 |
+| 5 | Lille | 26 | 13 | 5 | 8 | 7 | 44 |
+| 6 | Monaco | 26 | 13 | 4 | 9 | 8 | 43 |
+| 7 | Rennes | 26 | 12 | 7 | 7 | 6 | 43 |
 | 8 | Strasbourg | 26 | 10 | 7 | 9 | 9 | 37 |
 | 9 | Lorient | 26 | 9 | 10 | 7 | -3 | 37 |
 | 10 | Brest | 26 | 10 | 6 | 10 | -2 | 36 |
@@ -351,9 +351,9 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Charlotte | 4 | 1 | 2 | 1 | -1 | 5 |
 | 7 | Chicago Fire | 4 | 1 | 1 | 2 | 1 | 4 |
 | 8 | Toronto | 4 | 1 | 1 | 2 | -3 | 4 |
-| 9 | Cincinnati | 4 | 1 | 0 | 3 | -1 | 3 |
-| 10 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
-| 11 | New England Revolution | 3 | 1 | 0 | 2 | -3 | 3 |
+| 9 | New England Revolution | 3 | 1 | 0 | 2 | -2 | 3 |
+| 10 | Cincinnati | 4 | 1 | 0 | 3 | -2 | 3 |
+| 11 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
 | 12 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
 | 13 | Orlando City | 4 | 1 | 0 | 3 | -7 | 3 |
 | 14 | Columbus Crew | 4 | 0 | 2 | 2 | -2 | 2 |
@@ -402,15 +402,15 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | São Paulo | 5 | 4 | 1 | 0 | 6 | 13 |
-| 2 | Fluminense | 6 | 3 | 2 | 1 | 3 | 11 |
+| 2 | Fluminense | 6 | 4 | 1 | 1 | 4 | 13 |
 | 3 | Bahia | 5 | 3 | 2 | 0 | 3 | 11 |
 | 4 | Palmeiras | 5 | 3 | 1 | 1 | 6 | 10 |
 | 5 | Flamengo | 5 | 3 | 1 | 1 | 5 | 10 |
-| 6 | Athletico Paranaense | 5 | 2 | 2 | 1 | 1 | 8 |
-| 7 | Corinthians | 6 | 2 | 2 | 2 | 0 | 8 |
-| 8 | RB Bragantino | 5 | 2 | 2 | 1 | 0 | 8 |
-| 9 | Coritiba | 5 | 2 | 1 | 2 | 1 | 7 |
-| 10 | Grêmio | 5 | 2 | 1 | 2 | 0 | 7 |
+| 6 | Corinthians | 6 | 2 | 2 | 2 | 0 | 8 |
+| 7 | RB Bragantino | 5 | 2 | 2 | 1 | 0 | 8 |
+| 8 | Coritiba | 5 | 2 | 1 | 2 | 1 | 7 |
+| 9 | Grêmio | 5 | 2 | 1 | 2 | 0 | 7 |
+| 10 | Athletico Paranaense | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Vitória | 5 | 2 | 1 | 2 | -1 | 7 |
 | 12 | Mirassol | 4 | 1 | 3 | 0 | 1 | 6 |
 | 13 | Santos | 6 | 1 | 3 | 2 | -2 | 6 |
