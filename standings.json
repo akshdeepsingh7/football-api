@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 05:28 PM UTC",
-        "IST": "Sunday, 15 March 2026, 10:58 PM IST"
+        "UTC": "Sunday, 15 March 2026, 05:55 PM UTC",
+        "IST": "Sunday, 15 March 2026, 11:25 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -249,23 +249,23 @@
             },
             {
                 "Position": "5",
-                "Team": "Real Betis",
-                "Played": "27",
+                "Team": "Celta de Vigo",
+                "Played": "28",
                 "Wins": "11",
                 "Draws": "10",
-                "Losses": "6",
+                "Losses": "7",
                 "Goal Difference": "8",
                 "Points": "43"
             },
             {
                 "Position": "6",
-                "Team": "Celta de Vigo",
-                "Played": "27",
-                "Wins": "10",
+                "Team": "Real Betis",
+                "Played": "28",
+                "Wins": "11",
                 "Draws": "10",
                 "Losses": "7",
                 "Goal Difference": "7",
-                "Points": "40"
+                "Points": "43"
             },
             {
                 "Position": "7",
