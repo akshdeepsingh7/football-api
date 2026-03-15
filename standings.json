@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 03:53 PM UTC",
-        "IST": "Sunday, 15 March 2026, 09:23 PM IST"
+        "UTC": "Sunday, 15 March 2026, 04:34 PM UTC",
+        "IST": "Sunday, 15 March 2026, 10:04 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -47,22 +47,22 @@
             },
             {
                 "Position": "5",
+                "Team": "Liverpool FC",
+                "Played": "30",
+                "Wins": "14",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "9",
+                "Points": "49"
+            },
+            {
+                "Position": "6",
                 "Team": "Chelsea",
                 "Played": "30",
                 "Wins": "13",
                 "Draws": "9",
                 "Losses": "8",
                 "Goal Difference": "18",
-                "Points": "48"
-            },
-            {
-                "Position": "6",
-                "Team": "Liverpool FC",
-                "Played": "29",
-                "Wins": "14",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "9",
                 "Points": "48"
             },
             {
@@ -158,12 +158,12 @@
             {
                 "Position": "16",
                 "Team": "Tottenham Hotspur",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "7",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "14",
                 "Goal Difference": "-7",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "17",
@@ -214,7 +214,7 @@
                 "Wins": "23",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "48",
+                "Goal Difference": "49",
                 "Points": "70"
             },
             {
@@ -344,7 +344,7 @@
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "13",
-                "Goal Difference": "-9",
+                "Goal Difference": "-10",
                 "Points": "31"
             },
             {
@@ -482,12 +482,12 @@
             {
                 "Position": "8",
                 "Team": "SC Freiburg",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "9",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "9",
                 "Goal Difference": "-5",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "9",
@@ -512,12 +512,12 @@
             {
                 "Position": "11",
                 "Team": "Union Berlin",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "7",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-12",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "12",
@@ -826,12 +826,12 @@
             {
                 "Position": "4",
                 "Team": "Lyon",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "14",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "7",
                 "Goal Difference": "13",
-                "Points": "46"
+                "Points": "47"
             },
             {
                 "Position": "5",
@@ -895,6 +895,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Toulouse",
+                "Played": "26",
+                "Wins": "9",
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "6",
+                "Points": "34"
+            },
+            {
+                "Position": "12",
                 "Team": "Angers",
                 "Played": "26",
                 "Wins": "9",
@@ -902,16 +912,6 @@
                 "Losses": "12",
                 "Goal Difference": "-9",
                 "Points": "32"
-            },
-            {
-                "Position": "12",
-                "Team": "Toulouse",
-                "Played": "25",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "4",
-                "Points": "31"
             },
             {
                 "Position": "13",
@@ -925,6 +925,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Le Havre",
+                "Played": "26",
+                "Wins": "6",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-12",
+                "Points": "27"
+            },
+            {
+                "Position": "15",
                 "Team": "Nice",
                 "Played": "26",
                 "Wins": "7",
@@ -932,16 +942,6 @@
                 "Losses": "13",
                 "Goal Difference": "-16",
                 "Points": "27"
-            },
-            {
-                "Position": "15",
-                "Team": "Le Havre",
-                "Played": "25",
-                "Wins": "6",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-12",
-                "Points": "26"
             },
             {
                 "Position": "16",
@@ -966,11 +966,11 @@
             {
                 "Position": "18",
                 "Team": "Metz",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "3",
                 "Draws": "4",
-                "Losses": "18",
-                "Goal Difference": "-34",
+                "Losses": "19",
+                "Goal Difference": "-36",
                 "Points": "13"
             }
         ],

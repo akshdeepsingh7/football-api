@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 March 2026, 03:53 PM UTC (Sunday, 15 March 2026, 09:23 PM IST)
+**Last Updated:** Sunday, 15 March 2026, 04:34 PM UTC (Sunday, 15 March 2026, 10:04 PM IST)
 
 ### Premier League
 
@@ -51,8 +51,8 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 30 | 18 | 7 | 5 | 32 | 61 |
 | 3 | Manchester United | 30 | 15 | 9 | 6 | 13 | 54 |
 | 4 | Aston Villa | 30 | 15 | 6 | 9 | 3 | 51 |
-| 5 | Chelsea | 30 | 13 | 9 | 8 | 18 | 48 |
-| 6 | Liverpool FC | 29 | 14 | 6 | 9 | 9 | 48 |
+| 5 | Liverpool FC | 30 | 14 | 7 | 9 | 9 | 49 |
+| 6 | Chelsea | 30 | 13 | 9 | 8 | 18 | 48 |
 | 7 | Brentford | 29 | 13 | 5 | 11 | 4 | 44 |
 | 8 | Everton | 30 | 12 | 7 | 11 | -1 | 43 |
 | 9 | Newcastle United | 30 | 12 | 6 | 12 | 0 | 42 |
@@ -62,7 +62,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Sunderland | 30 | 10 | 10 | 10 | -5 | 40 |
 | 14 | Crystal Palace | 30 | 10 | 9 | 11 | -2 | 39 |
 | 15 | Leeds United | 30 | 7 | 11 | 12 | -11 | 32 |
-| 16 | Tottenham Hotspur | 29 | 7 | 8 | 14 | -7 | 29 |
+| 16 | Tottenham Hotspur | 30 | 7 | 9 | 14 | -7 | 30 |
 | 17 | Nottingham Forest | 30 | 7 | 8 | 15 | -15 | 29 |
 | 18 | West Ham United | 30 | 7 | 8 | 15 | -19 | 29 |
 | 19 | Burnley | 30 | 4 | 8 | 18 | -26 | 20 |
@@ -72,7 +72,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 28 | 23 | 1 | 4 | 48 | 70 |
+| 1 | Barcelona | 28 | 23 | 1 | 4 | 49 | 70 |
 | 2 | Real Madrid | 28 | 21 | 3 | 4 | 36 | 66 |
 | 3 | Atlético de Madrid | 28 | 17 | 6 | 5 | 22 | 57 |
 | 4 | Villarreal | 28 | 17 | 4 | 7 | 18 | 55 |
@@ -85,7 +85,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
 | 12 | Girona | 28 | 8 | 10 | 10 | -12 | 34 |
 | 13 | Valencia | 28 | 8 | 8 | 12 | -12 | 32 |
-| 14 | Sevilla | 28 | 8 | 7 | 13 | -9 | 31 |
+| 14 | Sevilla | 28 | 8 | 7 | 13 | -10 | 31 |
 | 15 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
 | 16 | Mallorca | 28 | 7 | 7 | 14 | -12 | 28 |
 | 17 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
@@ -104,10 +104,10 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | RB Leipzig | 25 | 14 | 5 | 6 | 14 | 47 |
 | 6 | Bayer Leverkusen | 26 | 13 | 6 | 7 | 16 | 45 |
 | 7 | Eintracht Frankfurt | 26 | 10 | 8 | 8 | 0 | 38 |
-| 8 | SC Freiburg | 25 | 9 | 7 | 9 | -5 | 34 |
+| 8 | SC Freiburg | 26 | 9 | 8 | 9 | -5 | 35 |
 | 9 | Augsburg | 26 | 9 | 4 | 13 | -14 | 31 |
 | 10 | Hamburg | 26 | 7 | 9 | 10 | -8 | 30 |
-| 11 | Union Berlin | 25 | 7 | 7 | 11 | -12 | 28 |
+| 11 | Union Berlin | 26 | 7 | 8 | 11 | -12 | 29 |
 | 12 | Borussia Mönchengladbach | 26 | 7 | 7 | 12 | -13 | 28 |
 | 13 | Mainz 05 | 26 | 6 | 9 | 11 | -10 | 27 |
 | 14 | Köln | 26 | 6 | 7 | 13 | -9 | 25 |
@@ -148,21 +148,21 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 25 | 18 | 3 | 4 | 32 | 57 |
 | 2 | Lens | 26 | 18 | 2 | 6 | 26 | 56 |
 | 3 | Marseille | 26 | 15 | 4 | 7 | 20 | 49 |
-| 4 | Lyon | 25 | 14 | 4 | 7 | 13 | 46 |
+| 4 | Lyon | 26 | 14 | 5 | 7 | 13 | 47 |
 | 5 | Monaco | 26 | 13 | 4 | 9 | 8 | 43 |
 | 6 | Rennes | 25 | 12 | 7 | 6 | 7 | 43 |
 | 7 | Lille | 25 | 12 | 5 | 8 | 6 | 41 |
 | 8 | Strasbourg | 26 | 10 | 7 | 9 | 9 | 37 |
 | 9 | Lorient | 26 | 9 | 10 | 7 | -3 | 37 |
 | 10 | Brest | 26 | 10 | 6 | 10 | -2 | 36 |
-| 11 | Angers | 26 | 9 | 5 | 12 | -9 | 32 |
-| 12 | Toulouse | 25 | 8 | 7 | 10 | 4 | 31 |
+| 11 | Toulouse | 26 | 9 | 7 | 10 | 6 | 34 |
+| 12 | Angers | 26 | 9 | 5 | 12 | -9 | 32 |
 | 13 | Paris FC | 26 | 6 | 10 | 10 | -12 | 28 |
-| 14 | Nice | 26 | 7 | 6 | 13 | -16 | 27 |
-| 15 | Le Havre | 25 | 6 | 8 | 11 | -12 | 26 |
+| 14 | Le Havre | 26 | 6 | 9 | 11 | -12 | 27 |
+| 15 | Nice | 26 | 7 | 6 | 13 | -16 | 27 |
 | 16 | Auxerre | 26 | 4 | 7 | 15 | -17 | 19 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
-| 18 | Metz | 25 | 3 | 4 | 18 | -34 | 13 |
+| 18 | Metz | 26 | 3 | 4 | 19 | -36 | 13 |
 
 ### Champions League
 
