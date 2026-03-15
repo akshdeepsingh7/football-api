@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 07:50 PM UTC",
-        "IST": "Monday, 16 March 2026, 01:20 AM IST"
+        "UTC": "Sunday, 15 March 2026, 08:31 PM UTC",
+        "IST": "Monday, 16 March 2026, 02:01 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -269,6 +269,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Real Sociedad",
+                "Played": "28",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "10",
+                "Goal Difference": "0",
+                "Points": "38"
+            },
+            {
+                "Position": "8",
                 "Team": "Espanyol",
                 "Played": "28",
                 "Wins": "10",
@@ -276,16 +286,6 @@
                 "Losses": "11",
                 "Goal Difference": "-7",
                 "Points": "37"
-            },
-            {
-                "Position": "8",
-                "Team": "Real Sociedad",
-                "Played": "27",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-1",
-                "Points": "35"
             },
             {
                 "Position": "9",
@@ -310,11 +310,11 @@
             {
                 "Position": "11",
                 "Team": "Osasuna",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "9",
                 "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "0",
+                "Losses": "12",
+                "Goal Difference": "-1",
                 "Points": "34"
             },
             {
@@ -606,10 +606,10 @@
                 "Team": "Milan",
                 "Played": "29",
                 "Wins": "17",
-                "Draws": "10",
-                "Losses": "2",
-                "Goal Difference": "24",
-                "Points": "61"
+                "Draws": "9",
+                "Losses": "3",
+                "Goal Difference": "23",
+                "Points": "60"
             },
             {
                 "Position": "3",
@@ -675,11 +675,11 @@
                 "Position": "9",
                 "Team": "Lazio",
                 "Played": "29",
-                "Wins": "9",
-                "Draws": "11",
+                "Wins": "10",
+                "Draws": "10",
                 "Losses": "9",
-                "Goal Difference": "0",
-                "Points": "38"
+                "Goal Difference": "1",
+                "Points": "40"
             },
             {
                 "Position": "10",
@@ -2064,12 +2064,12 @@
             {
                 "Position": "1",
                 "Team": "Porto",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "21",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "39",
-                "Points": "66"
+                "Points": "67"
             },
             {
                 "Position": "2",
@@ -2134,12 +2134,12 @@
             {
                 "Position": "8",
                 "Team": "Moreirense",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "10",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "10",
                 "Goal Difference": "-4",
-                "Points": "35"
+                "Points": "36"
             },
             {
                 "Position": "9",
@@ -2572,27 +2572,27 @@
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
-                "Goal Difference": "-2",
+                "Goal Difference": "0",
                 "Points": "3"
             },
             {
                 "Position": "10",
-                "Team": "Cincinnati",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "3"
-            },
-            {
-                "Position": "11",
                 "Team": "Atlanta United",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "3",
                 "Goal Difference": "-3",
+                "Points": "3"
+            },
+            {
+                "Position": "11",
+                "Team": "Cincinnati",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "-4",
                 "Points": "3"
             },
             {
@@ -2658,12 +2658,12 @@
             {
                 "Position": "3",
                 "Team": "Vancouver Whitecaps",
-                "Played": "3",
+                "Played": "4",
                 "Wins": "3",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "7",
-                "Points": "9"
+                "Points": "10"
             },
             {
                 "Position": "4",
@@ -2727,21 +2727,21 @@
             },
             {
                 "Position": "10",
+                "Team": "Minnesota United",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "5"
+            },
+            {
+                "Position": "11",
                 "Team": "LA Galaxy",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "4"
-            },
-            {
-                "Position": "11",
-                "Team": "Minnesota United",
-                "Played": "3",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "1",
                 "Goal Difference": "-1",
                 "Points": "4"
             },
