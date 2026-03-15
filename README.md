@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 March 2026, 06:40 PM UTC (Monday, 16 March 2026, 12:10 AM IST)
+**Last Updated:** Sunday, 15 March 2026, 07:28 PM UTC (Monday, 16 March 2026, 12:58 AM IST)
 
 ### Premier League
 
@@ -76,8 +76,8 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Real Madrid | 28 | 21 | 3 | 4 | 36 | 66 |
 | 3 | Atlético de Madrid | 28 | 17 | 6 | 5 | 22 | 57 |
 | 4 | Villarreal | 28 | 17 | 4 | 7 | 18 | 55 |
-| 5 | Celta de Vigo | 28 | 11 | 10 | 7 | 8 | 43 |
-| 6 | Real Betis | 28 | 11 | 10 | 7 | 7 | 43 |
+| 5 | Real Betis | 28 | 11 | 11 | 6 | 8 | 44 |
+| 6 | Celta de Vigo | 28 | 10 | 11 | 7 | 7 | 41 |
 | 7 | Espanyol | 28 | 10 | 7 | 11 | -7 | 37 |
 | 8 | Real Sociedad | 27 | 9 | 8 | 10 | -1 | 35 |
 | 9 | Getafe | 28 | 10 | 5 | 13 | -7 | 35 |
@@ -123,9 +123,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 29 | 22 | 2 | 5 | 42 | 68 |
 | 2 | Milan | 28 | 17 | 9 | 2 | 24 | 60 |
 | 3 | Napoli | 29 | 18 | 5 | 6 | 15 | 59 |
-| 4 | Juventus | 29 | 15 | 8 | 6 | 23 | 53 |
-| 5 | Como | 29 | 14 | 10 | 5 | 25 | 52 |
-| 6 | Roma | 29 | 16 | 4 | 9 | 17 | 52 |
+| 4 | Como | 29 | 15 | 9 | 5 | 26 | 54 |
+| 5 | Juventus | 29 | 15 | 8 | 6 | 23 | 53 |
+| 6 | Roma | 29 | 16 | 3 | 10 | 16 | 51 |
 | 7 | Atalanta | 29 | 12 | 11 | 6 | 13 | 47 |
 | 8 | Bologna | 29 | 12 | 6 | 11 | 4 | 42 |
 | 9 | Sassuolo | 29 | 11 | 5 | 13 | -4 | 38 |
@@ -351,12 +351,12 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Charlotte | 4 | 1 | 2 | 1 | -1 | 5 |
 | 7 | Chicago Fire | 4 | 1 | 1 | 2 | 1 | 4 |
 | 8 | Toronto | 4 | 1 | 1 | 2 | -3 | 4 |
-| 9 | Cincinnati | 3 | 1 | 0 | 2 | 0 | 3 |
+| 9 | Cincinnati | 4 | 1 | 0 | 3 | -1 | 3 |
 | 10 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
-| 11 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
-| 12 | Orlando City | 4 | 1 | 0 | 3 | -7 | 3 |
-| 13 | Columbus Crew | 4 | 0 | 2 | 2 | -2 | 2 |
-| 14 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
+| 11 | New England Revolution | 3 | 1 | 0 | 2 | -3 | 3 |
+| 12 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
+| 13 | Orlando City | 4 | 1 | 0 | 3 | -7 | 3 |
+| 14 | Columbus Crew | 4 | 0 | 2 | 2 | -2 | 2 |
 | 15 | Philadelphia Union | 4 | 0 | 0 | 4 | -5 | 0 |
 | 1 | LAFC | 4 | 4 | 0 | 0 | 8 | 12 |
 | 2 | San Diego | 4 | 3 | 1 | 0 | 8 | 10 |
@@ -402,24 +402,24 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | São Paulo | 5 | 4 | 1 | 0 | 6 | 13 |
-| 2 | Palmeiras | 5 | 3 | 1 | 1 | 6 | 10 |
-| 3 | Flamengo | 5 | 3 | 1 | 1 | 5 | 10 |
-| 4 | Fluminense | 5 | 3 | 1 | 1 | 3 | 10 |
-| 5 | Bahia | 4 | 2 | 2 | 0 | 2 | 8 |
-| 6 | RB Bragantino | 5 | 2 | 2 | 1 | 0 | 8 |
-| 7 | Coritiba | 5 | 2 | 1 | 2 | 1 | 7 |
-| 8 | Athletico Paranaense | 4 | 2 | 1 | 1 | 1 | 7 |
-| 9 | Grêmio | 5 | 2 | 1 | 2 | 0 | 7 |
-| 10 | Corinthians | 5 | 2 | 1 | 2 | 0 | 7 |
+| 2 | Fluminense | 6 | 3 | 2 | 1 | 3 | 11 |
+| 3 | Bahia | 5 | 3 | 2 | 0 | 3 | 11 |
+| 4 | Palmeiras | 5 | 3 | 1 | 1 | 6 | 10 |
+| 5 | Flamengo | 5 | 3 | 1 | 1 | 5 | 10 |
+| 6 | Athletico Paranaense | 5 | 2 | 2 | 1 | 1 | 8 |
+| 7 | Corinthians | 6 | 2 | 2 | 2 | 0 | 8 |
+| 8 | RB Bragantino | 5 | 2 | 2 | 1 | 0 | 8 |
+| 9 | Coritiba | 5 | 2 | 1 | 2 | 1 | 7 |
+| 10 | Grêmio | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Vitória | 5 | 2 | 1 | 2 | -1 | 7 |
 | 12 | Mirassol | 4 | 1 | 3 | 0 | 1 | 6 |
-| 13 | Chapecoense | 4 | 1 | 2 | 1 | 0 | 5 |
-| 14 | Santos | 5 | 1 | 2 | 2 | -2 | 5 |
+| 13 | Santos | 6 | 1 | 3 | 2 | -2 | 6 |
+| 14 | Chapecoense | 4 | 1 | 2 | 1 | 0 | 5 |
 | 15 | Atlético Mineiro | 6 | 1 | 2 | 3 | -3 | 5 |
 | 16 | Vasco da Gama | 5 | 1 | 1 | 3 | -2 | 4 |
 | 17 | Botafogo | 4 | 1 | 0 | 3 | -2 | 3 |
 | 18 | Remo | 5 | 0 | 3 | 2 | -4 | 3 |
-| 19 | Internacional | 5 | 0 | 2 | 3 | -4 | 2 |
+| 19 | Internacional | 6 | 0 | 2 | 4 | -5 | 2 |
 | 20 | Cruzeiro | 5 | 0 | 2 | 3 | -7 | 2 |
 
 
