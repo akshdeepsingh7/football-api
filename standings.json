@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 05:55 PM UTC",
-        "IST": "Sunday, 15 March 2026, 11:25 PM IST"
+        "UTC": "Sunday, 15 March 2026, 06:40 PM UTC",
+        "IST": "Monday, 16 March 2026, 12:10 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -37,16 +37,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Liverpool FC",
-                "Played": "30",
-                "Wins": "15",
-                "Draws": "6",
-                "Losses": "9",
-                "Goal Difference": "10",
-                "Points": "51"
-            },
-            {
-                "Position": "5",
                 "Team": "Aston Villa",
                 "Played": "30",
                 "Wins": "15",
@@ -54,6 +44,16 @@
                 "Losses": "9",
                 "Goal Difference": "3",
                 "Points": "51"
+            },
+            {
+                "Position": "5",
+                "Team": "Liverpool FC",
+                "Played": "30",
+                "Wins": "14",
+                "Draws": "7",
+                "Losses": "9",
+                "Goal Difference": "9",
+                "Points": "49"
             },
             {
                 "Position": "6",
@@ -160,10 +160,10 @@
                 "Team": "Tottenham Hotspur",
                 "Played": "30",
                 "Wins": "7",
-                "Draws": "8",
-                "Losses": "15",
-                "Goal Difference": "-8",
-                "Points": "29"
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "-7",
+                "Points": "30"
             },
             {
                 "Position": "17",
@@ -442,22 +442,22 @@
             {
                 "Position": "4",
                 "Team": "VfB Stuttgart",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "14",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "16",
-                "Points": "47"
+                "Points": "48"
             },
             {
                 "Position": "5",
                 "Team": "RB Leipzig",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "14",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "14",
-                "Points": "47"
+                "Points": "48"
             },
             {
                 "Position": "6",
@@ -484,13 +484,23 @@
                 "Team": "SC Freiburg",
                 "Played": "26",
                 "Wins": "9",
-                "Draws": "8",
-                "Losses": "9",
-                "Goal Difference": "-5",
-                "Points": "35"
+                "Draws": "7",
+                "Losses": "10",
+                "Goal Difference": "-6",
+                "Points": "34"
             },
             {
                 "Position": "9",
+                "Team": "Union Berlin",
+                "Played": "26",
+                "Wins": "8",
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-11",
+                "Points": "31"
+            },
+            {
+                "Position": "10",
                 "Team": "Augsburg",
                 "Played": "26",
                 "Wins": "9",
@@ -500,7 +510,7 @@
                 "Points": "31"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Hamburg",
                 "Played": "26",
                 "Wins": "7",
@@ -508,16 +518,6 @@
                 "Losses": "10",
                 "Goal Difference": "-8",
                 "Points": "30"
-            },
-            {
-                "Position": "11",
-                "Team": "Union Berlin",
-                "Played": "26",
-                "Wins": "7",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-12",
-                "Points": "29"
             },
             {
                 "Position": "12",
@@ -623,16 +623,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Roma",
-                "Played": "29",
-                "Wins": "17",
-                "Draws": "3",
-                "Losses": "9",
-                "Goal Difference": "18",
-                "Points": "54"
-            },
-            {
-                "Position": "5",
                 "Team": "Juventus",
                 "Played": "29",
                 "Wins": "15",
@@ -642,14 +632,24 @@
                 "Points": "53"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Como",
                 "Played": "29",
                 "Wins": "14",
-                "Draws": "9",
-                "Losses": "6",
-                "Goal Difference": "24",
-                "Points": "51"
+                "Draws": "10",
+                "Losses": "5",
+                "Goal Difference": "25",
+                "Points": "52"
+            },
+            {
+                "Position": "6",
+                "Team": "Roma",
+                "Played": "29",
+                "Wins": "16",
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "17",
+                "Points": "52"
             },
             {
                 "Position": "7",
@@ -2163,6 +2163,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Rio Ave",
+                "Played": "26",
+                "Wins": "6",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-19",
+                "Points": "27"
+            },
+            {
+                "Position": "12",
                 "Team": "Arouca",
                 "Played": "26",
                 "Wins": "7",
@@ -2172,17 +2182,17 @@
                 "Points": "26"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Estrela Amadora",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "5",
                 "Draws": "10",
-                "Losses": "10",
-                "Goal Difference": "-15",
+                "Losses": "11",
+                "Goal Difference": "-16",
                 "Points": "25"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Santa Clara",
                 "Played": "26",
                 "Wins": "6",
@@ -2190,16 +2200,6 @@
                 "Losses": "13",
                 "Goal Difference": "-8",
                 "Points": "25"
-            },
-            {
-                "Position": "14",
-                "Team": "Rio Ave",
-                "Played": "25",
-                "Wins": "5",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-20",
-                "Points": "24"
             },
             {
                 "Position": "15",
