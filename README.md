@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 March 2026, 08:31 PM UTC (Monday, 16 March 2026, 02:01 AM IST)
+**Last Updated:** Sunday, 15 March 2026, 09:29 PM UTC (Monday, 16 March 2026, 02:59 AM IST)
 
 ### Premier League
 
@@ -78,11 +78,11 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Villarreal | 28 | 17 | 4 | 7 | 18 | 55 |
 | 5 | Real Betis | 28 | 11 | 11 | 6 | 8 | 44 |
 | 6 | Celta de Vigo | 28 | 10 | 11 | 7 | 7 | 41 |
-| 7 | Real Sociedad | 28 | 10 | 8 | 10 | 0 | 38 |
+| 7 | Real Sociedad | 28 | 10 | 8 | 10 | 2 | 38 |
 | 8 | Espanyol | 28 | 10 | 7 | 11 | -7 | 37 |
 | 9 | Getafe | 28 | 10 | 5 | 13 | -7 | 35 |
 | 10 | Athletic Bilbao | 28 | 10 | 5 | 13 | -10 | 35 |
-| 11 | Osasuna | 28 | 9 | 7 | 12 | -1 | 34 |
+| 11 | Osasuna | 28 | 9 | 7 | 12 | -3 | 34 |
 | 12 | Girona | 28 | 8 | 10 | 10 | -12 | 34 |
 | 13 | Valencia | 28 | 8 | 8 | 12 | -12 | 32 |
 | 14 | Sevilla | 28 | 8 | 7 | 13 | -10 | 31 |
@@ -291,14 +291,14 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 26 | 21 | 4 | 1 | 39 | 67 |
+| 1 | Porto | 26 | 22 | 3 | 1 | 41 | 69 |
 | 2 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
 | 3 | Benfica | 26 | 18 | 8 | 0 | 38 | 62 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
 | 5 | Gil Vicente | 26 | 11 | 9 | 6 | 12 | 42 |
 | 6 | Famalicão | 26 | 12 | 6 | 8 | 10 | 42 |
 | 7 | Estoril | 26 | 10 | 7 | 9 | 5 | 37 |
-| 8 | Moreirense | 26 | 10 | 6 | 10 | -4 | 36 |
+| 8 | Moreirense | 26 | 10 | 5 | 11 | -6 | 35 |
 | 9 | Vitória S.C. | 26 | 9 | 5 | 12 | -10 | 32 |
 | 10 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
 | 11 | Rio Ave | 26 | 6 | 9 | 11 | -19 | 27 |
@@ -351,26 +351,26 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Charlotte | 4 | 1 | 2 | 1 | -1 | 5 |
 | 7 | Chicago Fire | 4 | 1 | 1 | 2 | 1 | 4 |
 | 8 | Toronto | 4 | 1 | 1 | 2 | -3 | 4 |
-| 9 | New England Revolution | 3 | 1 | 0 | 2 | 0 | 3 |
+| 9 | New England Revolution | 3 | 1 | 0 | 2 | 1 | 3 |
 | 10 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
-| 11 | Cincinnati | 4 | 1 | 0 | 3 | -4 | 3 |
+| 11 | Cincinnati | 4 | 1 | 0 | 3 | -5 | 3 |
 | 12 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
 | 13 | Orlando City | 4 | 1 | 0 | 3 | -7 | 3 |
 | 14 | Columbus Crew | 4 | 0 | 2 | 2 | -2 | 2 |
 | 15 | Philadelphia Union | 4 | 0 | 0 | 4 | -5 | 0 |
-| 1 | LAFC | 4 | 4 | 0 | 0 | 8 | 12 |
-| 2 | San Diego | 4 | 3 | 1 | 0 | 8 | 10 |
-| 3 | Vancouver Whitecaps | 4 | 3 | 1 | 0 | 7 | 10 |
+| 1 | Vancouver Whitecaps | 4 | 4 | 0 | 0 | 11 | 12 |
+| 2 | LAFC | 4 | 4 | 0 | 0 | 8 | 12 |
+| 3 | San Diego | 4 | 3 | 1 | 0 | 8 | 10 |
 | 4 | San Jose Earthquakes | 3 | 3 | 0 | 0 | 6 | 9 |
 | 5 | Real Salt Lake | 4 | 3 | 0 | 1 | 2 | 9 |
 | 6 | Seattle Sounders | 3 | 2 | 0 | 1 | 2 | 6 |
 | 7 | Colorado Rapids | 4 | 2 | 0 | 2 | 1 | 6 |
 | 8 | Houston Dynamo | 3 | 2 | 0 | 1 | 0 | 6 |
 | 9 | Dallas | 4 | 1 | 2 | 1 | 0 | 5 |
-| 10 | Minnesota United | 4 | 1 | 2 | 1 | -1 | 5 |
-| 11 | LA Galaxy | 4 | 1 | 1 | 2 | -1 | 4 |
-| 12 | Austin | 4 | 1 | 1 | 2 | -2 | 4 |
-| 13 | Sporting KC | 4 | 1 | 1 | 2 | -3 | 4 |
+| 10 | LA Galaxy | 4 | 1 | 1 | 2 | -1 | 4 |
+| 11 | Austin | 4 | 1 | 1 | 2 | -2 | 4 |
+| 12 | Sporting KC | 4 | 1 | 1 | 2 | -3 | 4 |
+| 13 | Minnesota United | 4 | 1 | 1 | 2 | -5 | 4 |
 | 14 | Portland Timbers | 4 | 1 | 0 | 3 | -5 | 3 |
 | 15 | St. Louis City | 4 | 0 | 1 | 3 | -5 | 1 |
 
