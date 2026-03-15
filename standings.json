@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 11:26 AM UTC",
-        "IST": "Sunday, 15 March 2026, 04:56 PM IST"
+        "UTC": "Sunday, 15 March 2026, 11:49 AM UTC",
+        "IST": "Sunday, 15 March 2026, 05:19 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -724,12 +724,12 @@
             {
                 "Position": "14",
                 "Team": "Genoa",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "7",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "12",
                 "Goal Difference": "-6",
-                "Points": "30"
+                "Points": "31"
             },
             {
                 "Position": "15",
@@ -774,12 +774,12 @@
             {
                 "Position": "19",
                 "Team": "Hellas Verona",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "3",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "16",
                 "Goal Difference": "-27",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "20",
@@ -2800,12 +2800,12 @@
             {
                 "Position": "2",
                 "Team": "Jamshedpur",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "4",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "0",
                 "Goal Difference": "4",
-                "Points": "12"
+                "Points": "13"
             },
             {
                 "Position": "3",
@@ -2880,12 +2880,12 @@
             {
                 "Position": "10",
                 "Team": "NorthEast Utd",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "0",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "-3",
-                "Points": "3"
+                "Points": "4"
             },
             {
                 "Position": "11",

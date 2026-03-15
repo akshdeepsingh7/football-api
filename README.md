@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 March 2026, 11:26 AM UTC (Sunday, 15 March 2026, 04:56 PM IST)
+**Last Updated:** Sunday, 15 March 2026, 11:49 AM UTC (Sunday, 15 March 2026, 05:19 PM IST)
 
 ### Premier League
 
@@ -133,12 +133,12 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Udinese | 29 | 10 | 6 | 13 | -9 | 36 |
 | 12 | Parma | 29 | 8 | 10 | 11 | -15 | 34 |
 | 13 | Torino | 29 | 9 | 6 | 14 | -18 | 33 |
-| 14 | Genoa | 28 | 7 | 9 | 12 | -6 | 30 |
+| 14 | Genoa | 29 | 7 | 10 | 12 | -6 | 31 |
 | 15 | Cagliari | 28 | 7 | 9 | 12 | -8 | 30 |
 | 16 | Lecce | 29 | 7 | 6 | 16 | -18 | 27 |
 | 17 | Fiorentina | 28 | 5 | 10 | 13 | -12 | 25 |
 | 18 | Cremonese | 28 | 5 | 9 | 14 | -18 | 24 |
-| 19 | Hellas Verona | 28 | 3 | 9 | 16 | -27 | 18 |
+| 19 | Hellas Verona | 29 | 3 | 10 | 16 | -27 | 19 |
 | 20 | Pisa | 28 | 1 | 12 | 15 | -28 | 15 |
 
 ### Ligue 1
@@ -379,7 +379,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mohun Bagan SG | 5 | 4 | 1 | 0 | 12 | 13 |
-| 2 | Jamshedpur | 4 | 4 | 0 | 0 | 4 | 12 |
+| 2 | Jamshedpur | 5 | 4 | 1 | 0 | 4 | 13 |
 | 3 | East Bengal | 5 | 2 | 2 | 1 | 5 | 8 |
 | 4 | FC Goa | 4 | 2 | 2 | 0 | 3 | 8 |
 | 5 | Mumbai City | 4 | 2 | 2 | 0 | 2 | 8 |
@@ -387,7 +387,7 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Inter Kashi | 4 | 1 | 2 | 1 | 0 | 5 |
 | 8 | Punjab FC | 3 | 1 | 1 | 1 | 1 | 4 |
 | 9 | Chennaiyin | 4 | 1 | 1 | 2 | -2 | 4 |
-| 10 | NorthEast Utd | 4 | 0 | 3 | 1 | -3 | 3 |
+| 10 | NorthEast Utd | 5 | 0 | 4 | 1 | -3 | 4 |
 | 11 | Odisha | 3 | 0 | 2 | 1 | -4 | 2 |
 | 12 | Kerala Blasters | 5 | 0 | 1 | 4 | -5 | 1 |
 | 13 | SC Delhi | 4 | 0 | 1 | 3 | -6 | 1 |
