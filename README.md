@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 March 2026, 03:30 PM UTC (Sunday, 15 March 2026, 09:00 PM IST)
+**Last Updated:** Sunday, 15 March 2026, 03:53 PM UTC (Sunday, 15 March 2026, 09:23 PM IST)
 
 ### Premier League
 
@@ -49,8 +49,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 31 | 21 | 7 | 3 | 39 | 70 |
 | 2 | Manchester City | 30 | 18 | 7 | 5 | 32 | 61 |
-| 3 | Manchester United | 30 | 14 | 10 | 6 | 11 | 52 |
-| 4 | Aston Villa | 30 | 15 | 7 | 8 | 5 | 52 |
+| 3 | Manchester United | 30 | 15 | 9 | 6 | 13 | 54 |
+| 4 | Aston Villa | 30 | 15 | 6 | 9 | 3 | 51 |
 | 5 | Chelsea | 30 | 13 | 9 | 8 | 18 | 48 |
 | 6 | Liverpool FC | 29 | 14 | 6 | 9 | 9 | 48 |
 | 7 | Brentford | 29 | 13 | 5 | 11 | 4 | 44 |
@@ -72,7 +72,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 28 | 23 | 1 | 4 | 47 | 70 |
+| 1 | Barcelona | 28 | 23 | 1 | 4 | 48 | 70 |
 | 2 | Real Madrid | 28 | 21 | 3 | 4 | 36 | 66 |
 | 3 | Atlético de Madrid | 28 | 17 | 6 | 5 | 22 | 57 |
 | 4 | Villarreal | 28 | 17 | 4 | 7 | 18 | 55 |
@@ -85,7 +85,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Osasuna | 27 | 9 | 7 | 11 | 0 | 34 |
 | 12 | Girona | 28 | 8 | 10 | 10 | -12 | 34 |
 | 13 | Valencia | 28 | 8 | 8 | 12 | -12 | 32 |
-| 14 | Sevilla | 28 | 8 | 7 | 13 | -8 | 31 |
+| 14 | Sevilla | 28 | 8 | 7 | 13 | -9 | 31 |
 | 15 | Rayo Vallecano | 27 | 7 | 10 | 10 | -6 | 31 |
 | 16 | Mallorca | 28 | 7 | 7 | 14 | -12 | 28 |
 | 17 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
@@ -109,9 +109,9 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Hamburg | 26 | 7 | 9 | 10 | -8 | 30 |
 | 11 | Union Berlin | 25 | 7 | 7 | 11 | -12 | 28 |
 | 12 | Borussia Mönchengladbach | 26 | 7 | 7 | 12 | -13 | 28 |
-| 13 | Mainz 05 | 26 | 6 | 9 | 11 | -11 | 27 |
+| 13 | Mainz 05 | 26 | 6 | 9 | 11 | -10 | 27 |
 | 14 | Köln | 26 | 6 | 7 | 13 | -9 | 25 |
-| 15 | Werder Bremen | 26 | 6 | 7 | 13 | -17 | 25 |
+| 15 | Werder Bremen | 26 | 6 | 7 | 13 | -18 | 25 |
 | 16 | St. Pauli | 26 | 6 | 6 | 14 | -19 | 24 |
 | 17 | VfL Wolfsburg | 26 | 5 | 6 | 15 | -21 | 21 |
 | 18 | Heidenheim | 26 | 3 | 5 | 18 | -34 | 14 |
@@ -134,11 +134,11 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Parma | 29 | 8 | 10 | 11 | -15 | 34 |
 | 13 | Genoa | 29 | 8 | 9 | 12 | -4 | 33 |
 | 14 | Torino | 29 | 9 | 6 | 14 | -18 | 33 |
-| 15 | Cagliari | 29 | 7 | 9 | 13 | -11 | 30 |
+| 15 | Cagliari | 29 | 7 | 9 | 13 | -10 | 30 |
 | 16 | Lecce | 29 | 7 | 6 | 16 | -18 | 27 |
 | 17 | Fiorentina | 28 | 5 | 10 | 13 | -12 | 25 |
 | 18 | Cremonese | 28 | 5 | 9 | 14 | -18 | 24 |
-| 19 | Pisa | 29 | 2 | 12 | 15 | -25 | 18 |
+| 19 | Pisa | 29 | 2 | 12 | 15 | -26 | 18 |
 | 20 | Hellas Verona | 29 | 3 | 9 | 17 | -29 | 18 |
 
 ### Ligue 1
@@ -297,18 +297,18 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
 | 5 | Gil Vicente | 26 | 11 | 9 | 6 | 12 | 42 |
 | 6 | Famalicão | 26 | 12 | 6 | 8 | 10 | 42 |
-| 7 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
-| 8 | Estoril | 25 | 9 | 7 | 9 | 4 | 34 |
+| 7 | Estoril | 26 | 10 | 7 | 9 | 5 | 37 |
+| 8 | Moreirense | 25 | 10 | 5 | 10 | -4 | 35 |
 | 9 | Vitória S.C. | 26 | 9 | 5 | 12 | -10 | 32 |
 | 10 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
 | 11 | Arouca | 26 | 7 | 5 | 14 | -22 | 26 |
 | 12 | Estrela Amadora | 25 | 5 | 10 | 10 | -15 | 25 |
 | 13 | Rio Ave | 25 | 5 | 9 | 11 | -20 | 24 |
 | 14 | Casa Pia | 25 | 5 | 9 | 11 | -18 | 24 |
-| 15 | Nacional | 25 | 5 | 7 | 13 | -8 | 22 |
-| 16 | Santa Clara | 25 | 5 | 7 | 13 | -9 | 22 |
+| 15 | Santa Clara | 26 | 5 | 8 | 13 | -9 | 23 |
+| 16 | Nacional | 26 | 5 | 7 | 14 | -9 | 22 |
 | 17 | Tondela | 25 | 4 | 7 | 14 | -20 | 19 |
-| 18 | AVS | 25 | 1 | 7 | 17 | -39 | 10 |
+| 18 | AVS | 26 | 1 | 8 | 17 | -39 | 11 |
 
 ### EFL Championship
 
