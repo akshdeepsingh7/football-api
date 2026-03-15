@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 02:31 PM UTC",
-        "IST": "Sunday, 15 March 2026, 08:01 PM IST"
+        "UTC": "Sunday, 15 March 2026, 03:30 PM UTC",
+        "IST": "Sunday, 15 March 2026, 09:00 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -210,12 +210,12 @@
             {
                 "Position": "1",
                 "Team": "Barcelona",
-                "Played": "27",
-                "Wins": "22",
+                "Played": "28",
+                "Wins": "23",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "46",
-                "Points": "67"
+                "Goal Difference": "47",
+                "Points": "70"
             },
             {
                 "Position": "2",
@@ -272,10 +272,10 @@
                 "Team": "Espanyol",
                 "Played": "28",
                 "Wins": "10",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-6",
-                "Points": "38"
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-7",
+                "Points": "37"
             },
             {
                 "Position": "8",
@@ -340,11 +340,11 @@
             {
                 "Position": "14",
                 "Team": "Sevilla",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "8",
                 "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-7",
+                "Losses": "13",
+                "Goal Difference": "-8",
                 "Points": "31"
             },
             {
@@ -359,7 +359,7 @@
             },
             {
                 "Position": "16",
-                "Team": "Alav\u00e9s",
+                "Team": "Mallorca",
                 "Played": "28",
                 "Wins": "7",
                 "Draws": "7",
@@ -369,22 +369,22 @@
             },
             {
                 "Position": "17",
+                "Team": "Alav\u00e9s",
+                "Played": "28",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "14",
+                "Goal Difference": "-12",
+                "Points": "28"
+            },
+            {
+                "Position": "18",
                 "Team": "Elche",
                 "Played": "28",
                 "Wins": "5",
                 "Draws": "11",
                 "Losses": "12",
                 "Goal Difference": "-9",
-                "Points": "26"
-            },
-            {
-                "Position": "18",
-                "Team": "Mallorca",
-                "Played": "28",
-                "Wins": "6",
-                "Draws": "8",
-                "Losses": "14",
-                "Goal Difference": "-13",
                 "Points": "26"
             },
             {
@@ -531,13 +531,13 @@
             },
             {
                 "Position": "13",
-                "Team": "Werder Bremen",
+                "Team": "Mainz 05",
                 "Played": "26",
                 "Wins": "6",
-                "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-16",
-                "Points": "26"
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-11",
+                "Points": "27"
             },
             {
                 "Position": "14",
@@ -551,12 +551,12 @@
             },
             {
                 "Position": "15",
-                "Team": "Mainz 05",
+                "Team": "Werder Bremen",
                 "Played": "26",
-                "Wins": "5",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-12",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-17",
                 "Points": "25"
             },
             {
@@ -738,7 +738,7 @@
                 "Wins": "7",
                 "Draws": "9",
                 "Losses": "13",
-                "Goal Difference": "-9",
+                "Goal Difference": "-11",
                 "Points": "30"
             },
             {
@@ -778,7 +778,7 @@
                 "Wins": "2",
                 "Draws": "12",
                 "Losses": "15",
-                "Goal Difference": "-27",
+                "Goal Difference": "-25",
                 "Points": "18"
             },
             {
@@ -2811,11 +2811,11 @@
                 "Position": "3",
                 "Team": "Mumbai City",
                 "Played": "5",
-                "Wins": "2",
-                "Draws": "3",
+                "Wins": "3",
+                "Draws": "2",
                 "Losses": "0",
-                "Goal Difference": "2",
-                "Points": "9"
+                "Goal Difference": "3",
+                "Points": "11"
             },
             {
                 "Position": "4",
@@ -2849,16 +2849,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Inter Kashi",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "6"
-            },
-            {
-                "Position": "8",
                 "Team": "NorthEast Utd",
                 "Played": "5",
                 "Wins": "1",
@@ -2866,6 +2856,16 @@
                 "Losses": "1",
                 "Goal Difference": "-2",
                 "Points": "6"
+            },
+            {
+                "Position": "8",
+                "Team": "Inter Kashi",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "5"
             },
             {
                 "Position": "9",
