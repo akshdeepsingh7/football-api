@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 14 March 2026, 11:52 PM UTC (Sunday, 15 March 2026, 05:22 AM IST)
+**Last Updated:** Sunday, 15 March 2026, 02:31 AM UTC (Sunday, 15 March 2026, 08:01 AM IST)
 
 ### Premier League
 
@@ -343,36 +343,36 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | NYCFC | 4 | 2 | 2 | 0 | 6 | 8 |
-| 2 | Nashville | 4 | 2 | 2 | 0 | 5 | 8 |
+| 1 | NYCFC | 4 | 3 | 1 | 0 | 8 | 10 |
+| 2 | Nashville | 4 | 3 | 1 | 0 | 6 | 10 |
 | 3 | Inter Miami | 4 | 2 | 1 | 1 | 0 | 7 |
 | 4 | New York RB | 4 | 2 | 1 | 1 | -1 | 7 |
-| 5 | Charlotte | 4 | 1 | 2 | 1 | -1 | 5 |
-| 6 | Chicago Fire | 3 | 1 | 1 | 1 | 2 | 4 |
-| 7 | Toronto | 4 | 1 | 1 | 2 | -3 | 4 |
-| 8 | CF Montréal | 4 | 1 | 1 | 2 | -5 | 4 |
+| 5 | Chicago Fire | 4 | 1 | 2 | 1 | 2 | 5 |
+| 6 | Charlotte | 4 | 1 | 2 | 1 | -1 | 5 |
+| 7 | DC United | 4 | 1 | 1 | 2 | -1 | 4 |
+| 8 | Toronto | 4 | 1 | 1 | 2 | -3 | 4 |
 | 9 | Cincinnati | 3 | 1 | 0 | 2 | 0 | 3 |
-| 10 | DC United | 3 | 1 | 0 | 2 | -1 | 3 |
-| 11 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
-| 12 | Columbus Crew | 4 | 0 | 3 | 1 | -1 | 3 |
-| 13 | Orlando City | 4 | 0 | 1 | 3 | -8 | 1 |
+| 10 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
+| 11 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
+| 12 | Orlando City | 4 | 1 | 0 | 3 | -7 | 3 |
+| 13 | Columbus Crew | 4 | 0 | 2 | 2 | -2 | 2 |
 | 14 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
 | 15 | Philadelphia Union | 4 | 0 | 0 | 4 | -5 | 0 |
-| 1 | San Diego | 3 | 3 | 0 | 0 | 8 | 9 |
-| 2 | Vancouver Whitecaps | 3 | 3 | 0 | 0 | 7 | 9 |
-| 3 | San Jose Earthquakes | 3 | 3 | 0 | 0 | 6 | 9 |
-| 4 | LAFC | 3 | 3 | 0 | 0 | 6 | 9 |
-| 5 | Colorado Rapids | 4 | 2 | 1 | 1 | 3 | 7 |
+| 1 | San Diego | 4 | 4 | 0 | 0 | 9 | 12 |
+| 2 | LAFC | 4 | 3 | 1 | 0 | 6 | 10 |
+| 3 | Vancouver Whitecaps | 3 | 3 | 0 | 0 | 7 | 9 |
+| 4 | San Jose Earthquakes | 3 | 3 | 0 | 0 | 6 | 9 |
+| 5 | Real Salt Lake | 4 | 2 | 1 | 1 | 1 | 7 |
 | 6 | Seattle Sounders | 3 | 2 | 0 | 1 | 2 | 6 |
-| 7 | Real Salt Lake | 3 | 2 | 0 | 1 | 1 | 6 |
-| 8 | LA Galaxy | 3 | 1 | 1 | 1 | 0 | 4 |
-| 9 | Dallas | 3 | 1 | 1 | 1 | 0 | 4 |
-| 10 | Minnesota United | 3 | 1 | 1 | 1 | -1 | 4 |
-| 11 | Austin | 3 | 1 | 1 | 1 | -1 | 4 |
-| 12 | Houston Dynamo | 2 | 1 | 0 | 1 | -1 | 3 |
-| 13 | Portland Timbers | 3 | 1 | 0 | 2 | -4 | 3 |
-| 14 | St. Louis City | 3 | 0 | 1 | 2 | -3 | 1 |
-| 15 | Sporting KC | 3 | 0 | 1 | 2 | -4 | 1 |
+| 7 | Colorado Rapids | 4 | 2 | 0 | 2 | 1 | 6 |
+| 8 | Austin | 4 | 1 | 2 | 1 | -1 | 5 |
+| 9 | Dallas | 4 | 1 | 1 | 2 | -1 | 4 |
+| 10 | LA Galaxy | 4 | 1 | 1 | 2 | -1 | 4 |
+| 11 | Minnesota United | 3 | 1 | 1 | 1 | -1 | 4 |
+| 12 | Houston Dynamo | 3 | 1 | 1 | 1 | -1 | 4 |
+| 13 | Sporting KC | 4 | 1 | 1 | 2 | -3 | 4 |
+| 14 | Portland Timbers | 4 | 1 | 1 | 2 | -4 | 4 |
+| 15 | St. Louis City | 4 | 0 | 2 | 2 | -3 | 2 |
 
 ### Indian Super League
 
@@ -403,7 +403,7 @@ Data not available.
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | São Paulo | 5 | 4 | 1 | 0 | 6 | 13 |
 | 2 | Palmeiras | 5 | 3 | 1 | 1 | 6 | 10 |
-| 3 | Flamengo | 5 | 3 | 1 | 1 | 3 | 10 |
+| 3 | Flamengo | 5 | 3 | 1 | 1 | 5 | 10 |
 | 4 | Fluminense | 5 | 3 | 1 | 1 | 3 | 10 |
 | 5 | Bahia | 4 | 2 | 2 | 0 | 2 | 8 |
 | 6 | RB Bragantino | 5 | 2 | 2 | 1 | 0 | 8 |
@@ -417,7 +417,7 @@ Data not available.
 | 14 | Santos | 5 | 1 | 2 | 2 | -2 | 5 |
 | 15 | Atlético Mineiro | 6 | 1 | 2 | 3 | -3 | 5 |
 | 16 | Vasco da Gama | 5 | 1 | 1 | 3 | -2 | 4 |
-| 17 | Botafogo | 4 | 1 | 0 | 3 | 0 | 3 |
+| 17 | Botafogo | 4 | 1 | 0 | 3 | -2 | 3 |
 | 18 | Remo | 5 | 0 | 3 | 2 | -4 | 3 |
 | 19 | Internacional | 5 | 0 | 2 | 3 | -4 | 2 |
 | 20 | Cruzeiro | 5 | 0 | 2 | 3 | -7 | 2 |
