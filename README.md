@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 March 2026, 09:29 PM UTC (Monday, 16 March 2026, 02:59 AM IST)
+**Last Updated:** Sunday, 15 March 2026, 09:53 PM UTC (Monday, 16 March 2026, 03:23 AM IST)
 
 ### Premier League
 
@@ -78,11 +78,11 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Villarreal | 28 | 17 | 4 | 7 | 18 | 55 |
 | 5 | Real Betis | 28 | 11 | 11 | 6 | 8 | 44 |
 | 6 | Celta de Vigo | 28 | 10 | 11 | 7 | 7 | 41 |
-| 7 | Real Sociedad | 28 | 10 | 8 | 10 | 2 | 38 |
+| 7 | Real Sociedad | 28 | 10 | 8 | 10 | 1 | 38 |
 | 8 | Espanyol | 28 | 10 | 7 | 11 | -7 | 37 |
 | 9 | Getafe | 28 | 10 | 5 | 13 | -7 | 35 |
 | 10 | Athletic Bilbao | 28 | 10 | 5 | 13 | -10 | 35 |
-| 11 | Osasuna | 28 | 9 | 7 | 12 | -3 | 34 |
+| 11 | Osasuna | 28 | 9 | 7 | 12 | -2 | 34 |
 | 12 | Girona | 28 | 8 | 10 | 10 | -12 | 34 |
 | 13 | Valencia | 28 | 8 | 8 | 12 | -12 | 32 |
 | 14 | Sevilla | 28 | 8 | 7 | 13 | -10 | 31 |
@@ -403,22 +403,22 @@ Data not available.
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | São Paulo | 5 | 4 | 1 | 0 | 6 | 13 |
 | 2 | Fluminense | 6 | 4 | 1 | 1 | 4 | 13 |
-| 3 | Bahia | 5 | 3 | 2 | 0 | 3 | 11 |
-| 4 | Palmeiras | 5 | 3 | 1 | 1 | 6 | 10 |
+| 3 | Palmeiras | 6 | 3 | 2 | 1 | 6 | 11 |
+| 4 | Bahia | 5 | 3 | 2 | 0 | 3 | 11 |
 | 5 | Flamengo | 5 | 3 | 1 | 1 | 5 | 10 |
-| 6 | Corinthians | 6 | 2 | 2 | 2 | 0 | 8 |
-| 7 | RB Bragantino | 5 | 2 | 2 | 1 | 0 | 8 |
-| 8 | Coritiba | 5 | 2 | 1 | 2 | 1 | 7 |
+| 6 | Coritiba | 6 | 2 | 2 | 2 | 1 | 8 |
+| 7 | Corinthians | 6 | 2 | 2 | 2 | 0 | 8 |
+| 8 | RB Bragantino | 5 | 2 | 2 | 1 | 0 | 8 |
 | 9 | Grêmio | 5 | 2 | 1 | 2 | 0 | 7 |
 | 10 | Athletico Paranaense | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Vitória | 5 | 2 | 1 | 2 | -1 | 7 |
-| 12 | Mirassol | 4 | 1 | 3 | 0 | 1 | 6 |
+| 12 | Mirassol | 5 | 1 | 4 | 0 | 1 | 7 |
 | 13 | Santos | 6 | 1 | 3 | 2 | -2 | 6 |
 | 14 | Chapecoense | 4 | 1 | 2 | 1 | 0 | 5 |
 | 15 | Atlético Mineiro | 6 | 1 | 2 | 3 | -3 | 5 |
 | 16 | Vasco da Gama | 5 | 1 | 1 | 3 | -2 | 4 |
-| 17 | Botafogo | 4 | 1 | 0 | 3 | -2 | 3 |
-| 18 | Remo | 5 | 0 | 3 | 2 | -4 | 3 |
+| 17 | Remo | 6 | 0 | 4 | 2 | -4 | 4 |
+| 18 | Botafogo | 4 | 1 | 0 | 3 | -2 | 3 |
 | 19 | Internacional | 6 | 0 | 2 | 4 | -5 | 2 |
 | 20 | Cruzeiro | 5 | 0 | 2 | 3 | -7 | 2 |
 

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 09:29 PM UTC",
-        "IST": "Monday, 16 March 2026, 02:59 AM IST"
+        "UTC": "Sunday, 15 March 2026, 09:53 PM UTC",
+        "IST": "Monday, 16 March 2026, 03:23 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -274,7 +274,7 @@
                 "Wins": "10",
                 "Draws": "8",
                 "Losses": "10",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "38"
             },
             {
@@ -314,7 +314,7 @@
                 "Wins": "9",
                 "Draws": "7",
                 "Losses": "12",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "34"
             },
             {
@@ -2952,6 +2952,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Palmeiras",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "6",
+                "Points": "11"
+            },
+            {
+                "Position": "4",
                 "Team": "Bahia",
                 "Played": "5",
                 "Wins": "3",
@@ -2959,16 +2969,6 @@
                 "Losses": "0",
                 "Goal Difference": "3",
                 "Points": "11"
-            },
-            {
-                "Position": "4",
-                "Team": "Palmeiras",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "6",
-                "Points": "10"
             },
             {
                 "Position": "5",
@@ -2982,6 +2982,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Coritiba",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "8"
+            },
+            {
+                "Position": "7",
                 "Team": "Corinthians",
                 "Played": "6",
                 "Wins": "2",
@@ -2991,7 +3001,7 @@
                 "Points": "8"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "RB Bragantino",
                 "Played": "5",
                 "Wins": "2",
@@ -2999,16 +3009,6 @@
                 "Losses": "1",
                 "Goal Difference": "0",
                 "Points": "8"
-            },
-            {
-                "Position": "8",
-                "Team": "Coritiba",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "7"
             },
             {
                 "Position": "9",
@@ -3043,12 +3043,12 @@
             {
                 "Position": "12",
                 "Team": "Mirassol",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "1",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "0",
                 "Goal Difference": "1",
-                "Points": "6"
+                "Points": "7"
             },
             {
                 "Position": "13",
@@ -3092,22 +3092,22 @@
             },
             {
                 "Position": "17",
+                "Team": "Remo",
+                "Played": "6",
+                "Wins": "0",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "-4",
+                "Points": "4"
+            },
+            {
+                "Position": "18",
                 "Team": "Botafogo",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "3"
-            },
-            {
-                "Position": "18",
-                "Team": "Remo",
-                "Played": "5",
-                "Wins": "0",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-4",
                 "Points": "3"
             },
             {
