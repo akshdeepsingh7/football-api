@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 10:57 PM UTC",
-        "IST": "Monday, 16 March 2026, 04:27 AM IST"
+        "UTC": "Sunday, 15 March 2026, 11:37 PM UTC",
+        "IST": "Monday, 16 March 2026, 05:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2668,15 +2668,25 @@
             {
                 "Position": "4",
                 "Team": "San Jose Earthquakes",
-                "Played": "3",
+                "Played": "4",
                 "Wins": "3",
                 "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "6",
+                "Losses": "1",
+                "Goal Difference": "5",
                 "Points": "9"
             },
             {
                 "Position": "5",
+                "Team": "Seattle Sounders",
+                "Played": "4",
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "9"
+            },
+            {
+                "Position": "6",
                 "Team": "Real Salt Lake",
                 "Played": "4",
                 "Wins": "3",
@@ -2684,16 +2694,6 @@
                 "Losses": "1",
                 "Goal Difference": "2",
                 "Points": "9"
-            },
-            {
-                "Position": "6",
-                "Team": "Seattle Sounders",
-                "Played": "3",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "6"
             },
             {
                 "Position": "7",
@@ -2932,22 +2932,22 @@
         "Brasileir\u00e3o": [
             {
                 "Position": "1",
+                "Team": "S\u00e3o Paulo",
+                "Played": "6",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "6",
+                "Points": "14"
+            },
+            {
+                "Position": "2",
                 "Team": "Palmeiras",
                 "Played": "6",
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "7",
-                "Points": "13"
-            },
-            {
-                "Position": "2",
-                "Team": "S\u00e3o Paulo",
-                "Played": "5",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "6",
                 "Points": "13"
             },
             {
@@ -2992,21 +2992,21 @@
             },
             {
                 "Position": "7",
+                "Team": "RB Bragantino",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "0",
+                "Points": "9"
+            },
+            {
+                "Position": "8",
                 "Team": "Corinthians",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "0",
-                "Points": "8"
-            },
-            {
-                "Position": "8",
-                "Team": "RB Bragantino",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "1",
                 "Goal Difference": "0",
                 "Points": "8"
             },
@@ -3072,6 +3072,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Vasco da Gama",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "5"
+            },
+            {
+                "Position": "16",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "6",
                 "Wins": "1",
@@ -3079,16 +3089,6 @@
                 "Losses": "3",
                 "Goal Difference": "-3",
                 "Points": "5"
-            },
-            {
-                "Position": "16",
-                "Team": "Vasco da Gama",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "4"
             },
             {
                 "Position": "17",
@@ -3112,22 +3112,22 @@
             },
             {
                 "Position": "19",
+                "Team": "Cruzeiro",
+                "Played": "6",
+                "Wins": "0",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-7",
+                "Points": "3"
+            },
+            {
+                "Position": "20",
                 "Team": "Internacional",
                 "Played": "6",
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "2"
-            },
-            {
-                "Position": "20",
-                "Team": "Cruzeiro",
-                "Played": "5",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-7",
                 "Points": "2"
             }
         ]
