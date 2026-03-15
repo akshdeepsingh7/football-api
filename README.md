@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 March 2026, 02:31 AM UTC (Sunday, 15 March 2026, 08:01 AM IST)
+**Last Updated:** Sunday, 15 March 2026, 05:06 AM UTC (Sunday, 15 March 2026, 10:36 AM IST)
 
 ### Premier League
 
@@ -347,9 +347,9 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Nashville | 4 | 3 | 1 | 0 | 6 | 10 |
 | 3 | Inter Miami | 4 | 2 | 1 | 1 | 0 | 7 |
 | 4 | New York RB | 4 | 2 | 1 | 1 | -1 | 7 |
-| 5 | Chicago Fire | 4 | 1 | 2 | 1 | 2 | 5 |
+| 5 | DC United | 4 | 2 | 0 | 2 | 0 | 6 |
 | 6 | Charlotte | 4 | 1 | 2 | 1 | -1 | 5 |
-| 7 | DC United | 4 | 1 | 1 | 2 | -1 | 4 |
+| 7 | Chicago Fire | 4 | 1 | 1 | 2 | 1 | 4 |
 | 8 | Toronto | 4 | 1 | 1 | 2 | -3 | 4 |
 | 9 | Cincinnati | 3 | 1 | 0 | 2 | 0 | 3 |
 | 10 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
@@ -358,21 +358,21 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Columbus Crew | 4 | 0 | 2 | 2 | -2 | 2 |
 | 14 | New England Revolution | 2 | 0 | 0 | 2 | -4 | 0 |
 | 15 | Philadelphia Union | 4 | 0 | 0 | 4 | -5 | 0 |
-| 1 | San Diego | 4 | 4 | 0 | 0 | 9 | 12 |
-| 2 | LAFC | 4 | 3 | 1 | 0 | 6 | 10 |
+| 1 | LAFC | 4 | 4 | 0 | 0 | 8 | 12 |
+| 2 | San Diego | 4 | 3 | 1 | 0 | 8 | 10 |
 | 3 | Vancouver Whitecaps | 3 | 3 | 0 | 0 | 7 | 9 |
 | 4 | San Jose Earthquakes | 3 | 3 | 0 | 0 | 6 | 9 |
-| 5 | Real Salt Lake | 4 | 2 | 1 | 1 | 1 | 7 |
+| 5 | Real Salt Lake | 4 | 3 | 0 | 1 | 2 | 9 |
 | 6 | Seattle Sounders | 3 | 2 | 0 | 1 | 2 | 6 |
 | 7 | Colorado Rapids | 4 | 2 | 0 | 2 | 1 | 6 |
-| 8 | Austin | 4 | 1 | 2 | 1 | -1 | 5 |
-| 9 | Dallas | 4 | 1 | 1 | 2 | -1 | 4 |
+| 8 | Houston Dynamo | 3 | 2 | 0 | 1 | 0 | 6 |
+| 9 | Dallas | 4 | 1 | 2 | 1 | 0 | 5 |
 | 10 | LA Galaxy | 4 | 1 | 1 | 2 | -1 | 4 |
 | 11 | Minnesota United | 3 | 1 | 1 | 1 | -1 | 4 |
-| 12 | Houston Dynamo | 3 | 1 | 1 | 1 | -1 | 4 |
+| 12 | Austin | 4 | 1 | 1 | 2 | -2 | 4 |
 | 13 | Sporting KC | 4 | 1 | 1 | 2 | -3 | 4 |
-| 14 | Portland Timbers | 4 | 1 | 1 | 2 | -4 | 4 |
-| 15 | St. Louis City | 4 | 0 | 2 | 2 | -3 | 2 |
+| 14 | Portland Timbers | 4 | 1 | 0 | 3 | -5 | 3 |
+| 15 | St. Louis City | 4 | 0 | 1 | 3 | -5 | 1 |
 
 ### Indian Super League
 
