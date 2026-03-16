@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 March 2026, 02:44 PM UTC",
-        "IST": "Monday, 16 March 2026, 08:14 PM IST"
+        "UTC": "Monday, 16 March 2026, 04:05 PM UTC",
+        "IST": "Monday, 16 March 2026, 09:35 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2819,22 +2819,22 @@
             },
             {
                 "Position": "4",
+                "Team": "FC Goa",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "9"
+            },
+            {
+                "Position": "5",
                 "Team": "East Bengal",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "5",
-                "Points": "8"
-            },
-            {
-                "Position": "5",
-                "Team": "FC Goa",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "2",
                 "Points": "8"
             },
             {
@@ -2849,16 +2849,6 @@
             },
             {
                 "Position": "7",
-                "Team": "Punjab FC",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "7"
-            },
-            {
-                "Position": "8",
                 "Team": "NorthEast Utd",
                 "Played": "5",
                 "Wins": "1",
@@ -2866,6 +2856,16 @@
                 "Losses": "1",
                 "Goal Difference": "-2",
                 "Points": "6"
+            },
+            {
+                "Position": "8",
+                "Team": "Punjab FC",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "1",
+                "Points": "5"
             },
             {
                 "Position": "9",
