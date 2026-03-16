@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 March 2026, 07:02 PM UTC",
-        "IST": "Tuesday, 17 March 2026, 12:32 AM IST"
+        "UTC": "Monday, 16 March 2026, 08:00 PM UTC",
+        "IST": "Tuesday, 17 March 2026, 01:30 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -754,22 +754,22 @@
             {
                 "Position": "17",
                 "Team": "Fiorentina",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "5",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "13",
                 "Goal Difference": "-12",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "18",
                 "Team": "Cremonese",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "5",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "14",
                 "Goal Difference": "-18",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "19",
