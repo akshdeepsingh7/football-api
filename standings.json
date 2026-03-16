@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 March 2026, 09:41 PM UTC",
-        "IST": "Tuesday, 17 March 2026, 03:11 AM IST"
+        "UTC": "Monday, 16 March 2026, 10:34 PM UTC",
+        "IST": "Tuesday, 17 March 2026, 04:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -329,6 +329,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Rayo Vallecano",
+                "Played": "28",
+                "Wins": "7",
+                "Draws": "11",
+                "Losses": "10",
+                "Goal Difference": "-6",
+                "Points": "32"
+            },
+            {
+                "Position": "14",
                 "Team": "Valencia",
                 "Played": "28",
                 "Wins": "8",
@@ -338,23 +348,13 @@
                 "Points": "32"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Sevilla",
                 "Played": "28",
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "13",
                 "Goal Difference": "-10",
-                "Points": "31"
-            },
-            {
-                "Position": "15",
-                "Team": "Rayo Vallecano",
-                "Played": "28",
-                "Wins": "7",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-7",
                 "Points": "31"
             },
             {
@@ -391,11 +391,11 @@
                 "Position": "19",
                 "Team": "Levante",
                 "Played": "28",
-                "Wins": "6",
-                "Draws": "7",
+                "Wins": "5",
+                "Draws": "8",
                 "Losses": "15",
-                "Goal Difference": "-15",
-                "Points": "25"
+                "Goal Difference": "-16",
+                "Points": "23"
             },
             {
                 "Position": "20",
