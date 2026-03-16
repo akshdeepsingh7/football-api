@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 16 March 2026, 08:52 PM UTC (Tuesday, 17 March 2026, 02:22 AM IST)
+**Last Updated:** Monday, 16 March 2026, 09:41 PM UTC (Tuesday, 17 March 2026, 03:11 AM IST)
 
 ### Premier League
 
@@ -53,7 +53,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Aston Villa | 30 | 15 | 6 | 9 | 3 | 51 |
 | 5 | Liverpool FC | 30 | 14 | 7 | 9 | 9 | 49 |
 | 6 | Chelsea | 30 | 13 | 9 | 8 | 18 | 48 |
-| 7 | Brentford | 30 | 14 | 5 | 11 | 5 | 47 |
+| 7 | Brentford | 30 | 13 | 6 | 11 | 4 | 45 |
 | 8 | Everton | 30 | 12 | 7 | 11 | -1 | 43 |
 | 9 | Newcastle United | 30 | 12 | 6 | 12 | 0 | 42 |
 | 10 | AFC Bournemouth | 30 | 9 | 14 | 7 | -2 | 41 |
@@ -66,7 +66,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Nottingham Forest | 30 | 7 | 8 | 15 | -15 | 29 |
 | 18 | West Ham United | 30 | 7 | 8 | 15 | -19 | 29 |
 | 19 | Burnley | 30 | 4 | 8 | 18 | -26 | 20 |
-| 20 | Wolverhampton Wanderers | 31 | 3 | 7 | 21 | -31 | 16 |
+| 20 | Wolverhampton Wanderers | 31 | 3 | 8 | 20 | -30 | 17 |
 
 ### La Liga
 
@@ -135,9 +135,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Genoa | 29 | 8 | 9 | 12 | -4 | 33 |
 | 14 | Torino | 29 | 9 | 6 | 14 | -18 | 33 |
 | 15 | Cagliari | 29 | 7 | 9 | 13 | -10 | 30 |
-| 16 | Fiorentina | 29 | 6 | 10 | 13 | -10 | 28 |
+| 16 | Fiorentina | 29 | 6 | 10 | 13 | -9 | 28 |
 | 17 | Lecce | 29 | 7 | 6 | 16 | -18 | 27 |
-| 18 | Cremonese | 29 | 5 | 9 | 15 | -20 | 24 |
+| 18 | Cremonese | 29 | 5 | 9 | 15 | -21 | 24 |
 | 19 | Pisa | 29 | 2 | 12 | 15 | -26 | 18 |
 | 20 | Hellas Verona | 29 | 3 | 9 | 17 | -29 | 18 |
 

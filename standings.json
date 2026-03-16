@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 16 March 2026, 08:52 PM UTC",
-        "IST": "Tuesday, 17 March 2026, 02:22 AM IST"
+        "UTC": "Monday, 16 March 2026, 09:41 PM UTC",
+        "IST": "Tuesday, 17 March 2026, 03:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -69,11 +69,11 @@
                 "Position": "7",
                 "Team": "Brentford",
                 "Played": "30",
-                "Wins": "14",
-                "Draws": "5",
+                "Wins": "13",
+                "Draws": "6",
                 "Losses": "11",
-                "Goal Difference": "5",
-                "Points": "47"
+                "Goal Difference": "4",
+                "Points": "45"
             },
             {
                 "Position": "8",
@@ -200,10 +200,10 @@
                 "Team": "Wolverhampton Wanderers",
                 "Played": "31",
                 "Wins": "3",
-                "Draws": "7",
-                "Losses": "21",
-                "Goal Difference": "-31",
-                "Points": "16"
+                "Draws": "8",
+                "Losses": "20",
+                "Goal Difference": "-30",
+                "Points": "17"
             }
         ],
         "La Liga": [
@@ -748,7 +748,7 @@
                 "Wins": "6",
                 "Draws": "10",
                 "Losses": "13",
-                "Goal Difference": "-10",
+                "Goal Difference": "-9",
                 "Points": "28"
             },
             {
@@ -768,7 +768,7 @@
                 "Wins": "5",
                 "Draws": "9",
                 "Losses": "15",
-                "Goal Difference": "-20",
+                "Goal Difference": "-21",
                 "Points": "24"
             },
             {
