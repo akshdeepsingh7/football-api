@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 15 March 2026, 11:37 PM UTC (Monday, 16 March 2026, 05:07 AM IST)
+**Last Updated:** Monday, 16 March 2026, 02:32 AM UTC (Monday, 16 March 2026, 08:02 AM IST)
 
 ### Premier League
 
@@ -401,14 +401,14 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | São Paulo | 6 | 4 | 2 | 0 | 6 | 14 |
+| 1 | São Paulo | 6 | 5 | 1 | 0 | 7 | 16 |
 | 2 | Palmeiras | 6 | 4 | 1 | 1 | 7 | 13 |
 | 3 | Fluminense | 6 | 4 | 1 | 1 | 4 | 13 |
 | 4 | Bahia | 5 | 3 | 2 | 0 | 3 | 11 |
 | 5 | Flamengo | 5 | 3 | 1 | 1 | 5 | 10 |
 | 6 | Coritiba | 6 | 3 | 1 | 2 | 2 | 10 |
-| 7 | RB Bragantino | 6 | 2 | 3 | 1 | 0 | 9 |
-| 8 | Corinthians | 6 | 2 | 2 | 2 | 0 | 8 |
+| 7 | Corinthians | 6 | 2 | 2 | 2 | 0 | 8 |
+| 8 | RB Bragantino | 6 | 2 | 2 | 2 | -1 | 8 |
 | 9 | Grêmio | 5 | 2 | 1 | 2 | 0 | 7 |
 | 10 | Athletico Paranaense | 5 | 2 | 1 | 2 | 0 | 7 |
 | 11 | Vitória | 5 | 2 | 1 | 2 | -1 | 7 |

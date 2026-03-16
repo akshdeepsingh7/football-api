@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 15 March 2026, 11:37 PM UTC",
-        "IST": "Monday, 16 March 2026, 05:07 AM IST"
+        "UTC": "Monday, 16 March 2026, 02:32 AM UTC",
+        "IST": "Monday, 16 March 2026, 08:02 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2934,11 +2934,11 @@
                 "Position": "1",
                 "Team": "S\u00e3o Paulo",
                 "Played": "6",
-                "Wins": "4",
-                "Draws": "2",
+                "Wins": "5",
+                "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "6",
-                "Points": "14"
+                "Goal Difference": "7",
+                "Points": "16"
             },
             {
                 "Position": "2",
@@ -2992,22 +2992,22 @@
             },
             {
                 "Position": "7",
-                "Team": "RB Bragantino",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "9"
-            },
-            {
-                "Position": "8",
                 "Team": "Corinthians",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "0",
+                "Points": "8"
+            },
+            {
+                "Position": "8",
+                "Team": "RB Bragantino",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-1",
                 "Points": "8"
             },
             {
