@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 16 March 2026, 11:32 PM UTC (Tuesday, 17 March 2026, 05:02 AM IST)
+**Last Updated:** Tuesday, 17 March 2026, 02:11 AM UTC (Tuesday, 17 March 2026, 07:41 AM IST)
 
 ### Premier League
 
@@ -407,12 +407,12 @@ Data not available.
 | 4 | Bahia | 5 | 3 | 2 | 0 | 3 | 11 |
 | 5 | Flamengo | 5 | 3 | 1 | 1 | 5 | 10 |
 | 6 | Coritiba | 6 | 3 | 1 | 2 | 2 | 10 |
-| 7 | Chapecoense | 5 | 2 | 2 | 1 | 1 | 8 |
+| 7 | Grêmio | 6 | 2 | 2 | 2 | 0 | 8 |
 | 8 | Corinthians | 6 | 2 | 2 | 2 | 0 | 8 |
 | 9 | RB Bragantino | 6 | 2 | 2 | 2 | -1 | 8 |
 | 10 | Athletico Paranaense | 5 | 2 | 1 | 2 | 0 | 7 |
-| 11 | Grêmio | 6 | 2 | 1 | 3 | -1 | 7 |
-| 12 | Vitória | 5 | 2 | 1 | 2 | -1 | 7 |
+| 11 | Vitória | 5 | 2 | 1 | 2 | -1 | 7 |
+| 12 | Chapecoense | 5 | 1 | 3 | 1 | 0 | 6 |
 | 13 | Mirassol | 5 | 1 | 3 | 1 | 0 | 6 |
 | 14 | Santos | 6 | 1 | 3 | 2 | -2 | 6 |
 | 15 | Vasco da Gama | 6 | 1 | 2 | 3 | -2 | 5 |
