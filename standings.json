@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 18 March 2026, 07:01 PM UTC",
-        "IST": "Thursday, 19 March 2026, 12:31 AM IST"
+        "UTC": "Wednesday, 18 March 2026, 07:59 PM UTC",
+        "IST": "Thursday, 19 March 2026, 01:29 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2306,12 +2306,12 @@
             {
                 "Position": "7",
                 "Team": "Southampton",
-                "Played": "37",
+                "Played": "38",
                 "Wins": "15",
-                "Draws": "12",
+                "Draws": "13",
                 "Losses": "10",
                 "Goal Difference": "12",
-                "Points": "57"
+                "Points": "58"
             },
             {
                 "Position": "8",
@@ -2345,6 +2345,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Norwich City",
+                "Played": "38",
+                "Wins": "15",
+                "Draws": "7",
+                "Losses": "16",
+                "Goal Difference": "6",
+                "Points": "52"
+            },
+            {
+                "Position": "12",
                 "Team": "Swansea City",
                 "Played": "38",
                 "Wins": "15",
@@ -2352,16 +2362,6 @@
                 "Losses": "16",
                 "Goal Difference": "-2",
                 "Points": "52"
-            },
-            {
-                "Position": "12",
-                "Team": "Norwich City",
-                "Played": "37",
-                "Wins": "15",
-                "Draws": "6",
-                "Losses": "16",
-                "Goal Difference": "6",
-                "Points": "51"
             },
             {
                 "Position": "13",
