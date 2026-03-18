@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 18 March 2026, 07:59 PM UTC (Thursday, 19 March 2026, 01:29 AM IST)
+**Last Updated:** Wednesday, 18 March 2026, 08:50 PM UTC (Thursday, 19 March 2026, 02:20 AM IST)
 
 ### Premier League
 
@@ -319,13 +319,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Ipswich Town | 37 | 19 | 11 | 7 | 28 | 68 |
 | 4 | Millwall | 38 | 20 | 8 | 10 | 9 | 68 |
 | 5 | Hull City | 38 | 19 | 6 | 13 | 3 | 63 |
-| 6 | Wrexham | 38 | 16 | 12 | 10 | 8 | 60 |
-| 7 | Southampton | 38 | 15 | 13 | 10 | 12 | 58 |
+| 6 | Southampton | 38 | 16 | 12 | 10 | 13 | 60 |
+| 7 | Wrexham | 38 | 16 | 12 | 10 | 8 | 60 |
 | 8 | Derby County | 38 | 16 | 9 | 13 | 7 | 57 |
 | 9 | Watford | 38 | 14 | 13 | 11 | 4 | 55 |
 | 10 | Birmingham City | 38 | 14 | 11 | 13 | 0 | 53 |
-| 11 | Norwich City | 38 | 15 | 7 | 16 | 6 | 52 |
-| 12 | Swansea City | 38 | 15 | 7 | 16 | -2 | 52 |
+| 11 | Swansea City | 38 | 15 | 7 | 16 | -2 | 52 |
+| 12 | Norwich City | 38 | 15 | 6 | 17 | 5 | 51 |
 | 13 | Stoke City | 38 | 14 | 9 | 15 | 5 | 51 |
 | 14 | Bristol City | 38 | 14 | 9 | 15 | 0 | 51 |
 | 15 | Sheffield United | 38 | 15 | 5 | 18 | 1 | 50 |
