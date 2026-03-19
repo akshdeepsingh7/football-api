@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 19 March 2026, 02:24 AM UTC",
-        "IST": "Thursday, 19 March 2026, 07:54 AM IST"
+        "UTC": "Thursday, 19 March 2026, 04:33 AM UTC",
+        "IST": "Thursday, 19 March 2026, 10:03 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2965,10 +2965,10 @@
                 "Team": "Fluminense",
                 "Played": "7",
                 "Wins": "4",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "4",
-                "Points": "14"
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "3",
+                "Points": "13"
             },
             {
                 "Position": "5",
@@ -3022,6 +3022,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Vasco da Gama",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "8"
+            },
+            {
+                "Position": "11",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "7",
                 "Wins": "2",
@@ -3031,7 +3041,7 @@
                 "Points": "8"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "RB Bragantino",
                 "Played": "7",
                 "Wins": "2",
@@ -3041,23 +3051,13 @@
                 "Points": "8"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Vit\u00f3ria",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "-1",
-                "Points": "7"
-            },
-            {
-                "Position": "13",
-                "Team": "Santos",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "-2",
                 "Points": "7"
             },
             {
@@ -3082,16 +3082,26 @@
             },
             {
                 "Position": "16",
-                "Team": "Vasco da Gama",
+                "Team": "Santos",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "6"
             },
             {
                 "Position": "17",
+                "Team": "Internacional",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "5"
+            },
+            {
+                "Position": "18",
                 "Team": "Botafogo",
                 "Played": "5",
                 "Wins": "1",
@@ -3101,22 +3111,12 @@
                 "Points": "3"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Remo",
                 "Played": "6",
                 "Wins": "0",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "-5",
-                "Points": "3"
-            },
-            {
-                "Position": "19",
-                "Team": "Internacional",
-                "Played": "7",
-                "Wins": "0",
-                "Draws": "3",
-                "Losses": "4",
                 "Goal Difference": "-5",
                 "Points": "3"
             },
