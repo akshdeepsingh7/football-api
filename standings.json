@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 19 March 2026, 03:26 PM UTC",
-        "IST": "Thursday, 19 March 2026, 08:56 PM IST"
+        "UTC": "Thursday, 19 March 2026, 04:29 PM UTC",
+        "IST": "Thursday, 19 March 2026, 09:59 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2802,10 +2802,10 @@
                 "Team": "Jamshedpur",
                 "Played": "6",
                 "Wins": "4",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "12"
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "13"
             },
             {
                 "Position": "3",
@@ -2889,22 +2889,22 @@
             },
             {
                 "Position": "11",
-                "Team": "SC Delhi",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-5",
-                "Points": "4"
-            },
-            {
-                "Position": "12",
                 "Team": "Odisha",
                 "Played": "3",
                 "Wins": "0",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "-4",
+                "Points": "2"
+            },
+            {
+                "Position": "12",
+                "Team": "SC Delhi",
+                "Played": "5",
+                "Wins": "0",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-6",
                 "Points": "2"
             },
             {
