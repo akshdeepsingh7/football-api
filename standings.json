@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Wednesday, 18 March 2026, 11:31 PM UTC",
-        "IST": "Thursday, 19 March 2026, 05:01 AM IST"
+        "UTC": "Thursday, 19 March 2026, 02:24 AM UTC",
+        "IST": "Thursday, 19 March 2026, 07:54 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2932,22 +2932,22 @@
         "Brasileir\u00e3o": [
             {
                 "Position": "1",
-                "Team": "S\u00e3o Paulo",
-                "Played": "7",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "7",
-                "Points": "17"
-            },
-            {
-                "Position": "2",
                 "Team": "Palmeiras",
                 "Played": "7",
                 "Wins": "5",
                 "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "8",
+                "Points": "16"
+            },
+            {
+                "Position": "2",
+                "Team": "S\u00e3o Paulo",
+                "Played": "7",
+                "Wins": "5",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "6",
                 "Points": "16"
             },
             {
@@ -2963,22 +2963,22 @@
             {
                 "Position": "4",
                 "Team": "Fluminense",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "4",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "4",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "5",
                 "Team": "Coritiba",
                 "Played": "7",
-                "Wins": "3",
-                "Draws": "2",
+                "Wins": "4",
+                "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "2",
-                "Points": "11"
+                "Goal Difference": "3",
+                "Points": "13"
             },
             {
                 "Position": "6",
@@ -2997,7 +2997,7 @@
                 "Wins": "3",
                 "Draws": "1",
                 "Losses": "2",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "10"
             },
             {
@@ -3022,6 +3022,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "8"
+            },
+            {
+                "Position": "11",
                 "Team": "RB Bragantino",
                 "Played": "7",
                 "Wins": "2",
@@ -3031,7 +3041,7 @@
                 "Points": "8"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Vit\u00f3ria",
                 "Played": "5",
                 "Wins": "2",
@@ -3041,17 +3051,17 @@
                 "Points": "7"
             },
             {
-                "Position": "12",
-                "Team": "Mirassol",
-                "Played": "6",
+                "Position": "13",
+                "Team": "Santos",
+                "Played": "7",
                 "Wins": "1",
                 "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "0",
+                "Losses": "2",
+                "Goal Difference": "-2",
                 "Points": "7"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Chapecoense",
                 "Played": "5",
                 "Wins": "1",
@@ -3061,34 +3071,24 @@
                 "Points": "6"
             },
             {
-                "Position": "14",
-                "Team": "Santos",
+                "Position": "15",
+                "Team": "Mirassol",
                 "Played": "6",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "6"
-            },
-            {
-                "Position": "15",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-3",
+                "Goal Difference": "-1",
                 "Points": "6"
             },
             {
                 "Position": "16",
                 "Team": "Vasco da Gama",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "1",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "5"
+                "Points": "6"
             },
             {
                 "Position": "17",
@@ -3112,23 +3112,23 @@
             },
             {
                 "Position": "19",
+                "Team": "Internacional",
+                "Played": "7",
+                "Wins": "0",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "3"
+            },
+            {
+                "Position": "20",
                 "Team": "Cruzeiro",
                 "Played": "7",
                 "Wins": "0",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "-9",
+                "Goal Difference": "-8",
                 "Points": "3"
-            },
-            {
-                "Position": "20",
-                "Team": "Internacional",
-                "Played": "6",
-                "Wins": "0",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-5",
-                "Points": "2"
             }
         ]
     }

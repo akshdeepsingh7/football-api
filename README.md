@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 18 March 2026, 11:31 PM UTC (Thursday, 19 March 2026, 05:01 AM IST)
+**Last Updated:** Thursday, 19 March 2026, 02:24 AM UTC (Thursday, 19 March 2026, 07:54 AM IST)
 
 ### Premier League
 
@@ -401,26 +401,26 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | São Paulo | 7 | 5 | 2 | 0 | 7 | 17 |
-| 2 | Palmeiras | 7 | 5 | 1 | 1 | 8 | 16 |
+| 1 | Palmeiras | 7 | 5 | 1 | 1 | 8 | 16 |
+| 2 | São Paulo | 7 | 5 | 1 | 1 | 6 | 16 |
 | 3 | Bahia | 6 | 4 | 2 | 0 | 5 | 14 |
-| 4 | Fluminense | 6 | 4 | 1 | 1 | 4 | 13 |
-| 5 | Coritiba | 7 | 3 | 2 | 2 | 2 | 11 |
+| 4 | Fluminense | 7 | 4 | 2 | 1 | 4 | 14 |
+| 5 | Coritiba | 7 | 4 | 1 | 2 | 3 | 13 |
 | 6 | Flamengo | 5 | 3 | 1 | 1 | 5 | 10 |
-| 7 | Athletico Paranaense | 6 | 3 | 1 | 2 | 2 | 10 |
+| 7 | Athletico Paranaense | 6 | 3 | 1 | 2 | 1 | 10 |
 | 8 | Grêmio | 6 | 2 | 2 | 2 | 0 | 8 |
 | 9 | Corinthians | 6 | 2 | 2 | 2 | 0 | 8 |
-| 10 | RB Bragantino | 7 | 2 | 2 | 3 | -3 | 8 |
-| 11 | Vitória | 5 | 2 | 1 | 2 | -1 | 7 |
-| 12 | Mirassol | 6 | 1 | 4 | 1 | 0 | 7 |
-| 13 | Chapecoense | 5 | 1 | 3 | 1 | 0 | 6 |
-| 14 | Santos | 6 | 1 | 3 | 2 | -2 | 6 |
-| 15 | Atlético Mineiro | 7 | 1 | 3 | 3 | -3 | 6 |
-| 16 | Vasco da Gama | 6 | 1 | 2 | 3 | -2 | 5 |
+| 10 | Atlético Mineiro | 7 | 2 | 2 | 3 | -2 | 8 |
+| 11 | RB Bragantino | 7 | 2 | 2 | 3 | -3 | 8 |
+| 12 | Vitória | 5 | 2 | 1 | 2 | -1 | 7 |
+| 13 | Santos | 7 | 1 | 4 | 2 | -2 | 7 |
+| 14 | Chapecoense | 5 | 1 | 3 | 1 | 0 | 6 |
+| 15 | Mirassol | 6 | 1 | 3 | 2 | -1 | 6 |
+| 16 | Vasco da Gama | 7 | 1 | 3 | 3 | -2 | 6 |
 | 17 | Botafogo | 5 | 1 | 0 | 4 | -3 | 3 |
 | 18 | Remo | 6 | 0 | 3 | 3 | -5 | 3 |
-| 19 | Cruzeiro | 7 | 0 | 3 | 4 | -9 | 3 |
-| 20 | Internacional | 6 | 0 | 2 | 4 | -5 | 2 |
+| 19 | Internacional | 7 | 0 | 3 | 4 | -5 | 3 |
+| 20 | Cruzeiro | 7 | 0 | 3 | 4 | -8 | 3 |
 
 
 <!-- END_TABLE -->
