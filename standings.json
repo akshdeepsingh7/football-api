@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 March 2026, 05:09 PM UTC",
-        "IST": "Friday, 20 March 2026, 10:39 PM IST"
+        "UTC": "Friday, 20 March 2026, 06:00 PM UTC",
+        "IST": "Friday, 20 March 2026, 11:30 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -603,6 +603,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Napoli",
+                "Played": "30",
+                "Wins": "19",
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "16",
+                "Points": "62"
+            },
+            {
+                "Position": "3",
                 "Team": "Milan",
                 "Played": "29",
                 "Wins": "17",
@@ -610,16 +620,6 @@
                 "Losses": "3",
                 "Goal Difference": "23",
                 "Points": "60"
-            },
-            {
-                "Position": "3",
-                "Team": "Napoli",
-                "Played": "29",
-                "Wins": "18",
-                "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "15",
-                "Points": "59"
             },
             {
                 "Position": "4",
@@ -734,11 +734,11 @@
             {
                 "Position": "15",
                 "Team": "Cagliari",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "7",
                 "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-10",
+                "Losses": "14",
+                "Goal Difference": "-11",
                 "Points": "30"
             },
             {
