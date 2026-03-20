@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 19 March 2026, 11:38 PM UTC",
-        "IST": "Friday, 20 March 2026, 05:08 AM IST"
+        "UTC": "Friday, 20 March 2026, 02:09 AM UTC",
+        "IST": "Friday, 20 March 2026, 07:39 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2967,7 +2967,7 @@
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "6",
+                "Goal Difference": "8",
                 "Points": "13"
             },
             {
@@ -3013,12 +3013,12 @@
             {
                 "Position": "9",
                 "Team": "Corinthians",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "2",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "0",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "10",
@@ -3063,12 +3063,12 @@
             {
                 "Position": "14",
                 "Team": "Chapecoense",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "1",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "0",
-                "Points": "6"
+                "Points": "7"
             },
             {
                 "Position": "15",
@@ -3112,17 +3112,17 @@
             },
             {
                 "Position": "19",
-                "Team": "Remo",
+                "Team": "Cruzeiro",
                 "Played": "7",
                 "Wins": "0",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "-6",
+                "Goal Difference": "-8",
                 "Points": "3"
             },
             {
                 "Position": "20",
-                "Team": "Cruzeiro",
+                "Team": "Remo",
                 "Played": "7",
                 "Wins": "0",
                 "Draws": "3",
