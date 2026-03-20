@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 20 March 2026, 07:11 PM UTC (Saturday, 21 March 2026, 12:41 AM IST)
+**Last Updated:** Friday, 20 March 2026, 07:55 PM UTC (Saturday, 21 March 2026, 01:25 AM IST)
 
 ### Premier League
 
@@ -99,9 +99,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 26 | 21 | 4 | 1 | 68 | 67 |
 | 2 | Borussia Dortmund | 26 | 17 | 7 | 2 | 29 | 58 |
-| 3 | Hoffenheim | 26 | 15 | 5 | 6 | 20 | 50 |
+| 3 | Hoffenheim | 27 | 15 | 5 | 7 | 18 | 50 |
 | 4 | VfB Stuttgart | 26 | 15 | 5 | 6 | 17 | 50 |
-| 5 | RB Leipzig | 26 | 14 | 5 | 7 | 13 | 47 |
+| 5 | RB Leipzig | 27 | 15 | 5 | 7 | 15 | 50 |
 | 6 | Bayer Leverkusen | 26 | 13 | 6 | 7 | 16 | 45 |
 | 7 | Eintracht Frankfurt | 26 | 10 | 8 | 8 | 0 | 38 |
 | 8 | SC Freiburg | 26 | 9 | 7 | 10 | -6 | 34 |
@@ -130,9 +130,9 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Bologna | 29 | 12 | 6 | 11 | 4 | 42 |
 | 9 | Lazio | 29 | 10 | 10 | 9 | 1 | 40 |
 | 10 | Sassuolo | 29 | 11 | 5 | 13 | -4 | 38 |
-| 11 | Udinese | 29 | 10 | 6 | 13 | -9 | 36 |
+| 11 | Udinese | 30 | 10 | 7 | 13 | -9 | 37 |
 | 12 | Parma | 29 | 8 | 10 | 11 | -15 | 34 |
-| 13 | Genoa | 29 | 8 | 9 | 12 | -4 | 33 |
+| 13 | Genoa | 30 | 8 | 10 | 12 | -4 | 34 |
 | 14 | Torino | 29 | 9 | 6 | 14 | -18 | 33 |
 | 15 | Cagliari | 30 | 7 | 9 | 14 | -11 | 30 |
 | 16 | Fiorentina | 29 | 6 | 10 | 13 | -9 | 28 |
@@ -146,7 +146,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 25 | 18 | 3 | 4 | 32 | 57 |
-| 2 | Lens | 26 | 18 | 2 | 6 | 26 | 56 |
+| 2 | Lens | 27 | 18 | 3 | 6 | 26 | 57 |
 | 3 | Marseille | 26 | 15 | 4 | 7 | 20 | 49 |
 | 4 | Lyon | 26 | 14 | 5 | 7 | 13 | 47 |
 | 5 | Lille | 26 | 13 | 5 | 8 | 7 | 44 |
@@ -156,7 +156,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Lorient | 26 | 9 | 10 | 7 | -3 | 37 |
 | 10 | Brest | 26 | 10 | 6 | 10 | -2 | 36 |
 | 11 | Toulouse | 26 | 9 | 7 | 10 | 5 | 34 |
-| 12 | Angers | 26 | 9 | 5 | 12 | -9 | 32 |
+| 12 | Angers | 27 | 9 | 6 | 12 | -9 | 33 |
 | 13 | Paris FC | 26 | 6 | 10 | 10 | -12 | 28 |
 | 14 | Le Havre | 26 | 6 | 9 | 11 | -12 | 27 |
 | 15 | Nice | 26 | 7 | 6 | 13 | -16 | 27 |

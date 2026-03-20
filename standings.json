@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 March 2026, 07:11 PM UTC",
-        "IST": "Saturday, 21 March 2026, 12:41 AM IST"
+        "UTC": "Friday, 20 March 2026, 07:55 PM UTC",
+        "IST": "Saturday, 21 March 2026, 01:25 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -432,11 +432,11 @@
             {
                 "Position": "3",
                 "Team": "Hoffenheim",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "15",
                 "Draws": "5",
-                "Losses": "6",
-                "Goal Difference": "20",
+                "Losses": "7",
+                "Goal Difference": "18",
                 "Points": "50"
             },
             {
@@ -452,12 +452,12 @@
             {
                 "Position": "5",
                 "Team": "RB Leipzig",
-                "Played": "26",
-                "Wins": "14",
+                "Played": "27",
+                "Wins": "15",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "13",
-                "Points": "47"
+                "Goal Difference": "15",
+                "Points": "50"
             },
             {
                 "Position": "6",
@@ -694,12 +694,12 @@
             {
                 "Position": "11",
                 "Team": "Udinese",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "10",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "13",
                 "Goal Difference": "-9",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "12",
@@ -714,12 +714,12 @@
             {
                 "Position": "13",
                 "Team": "Genoa",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "8",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "12",
                 "Goal Difference": "-4",
-                "Points": "33"
+                "Points": "34"
             },
             {
                 "Position": "14",
@@ -806,12 +806,12 @@
             {
                 "Position": "2",
                 "Team": "Lens",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "18",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "26",
-                "Points": "56"
+                "Points": "57"
             },
             {
                 "Position": "3",
@@ -906,12 +906,12 @@
             {
                 "Position": "12",
                 "Team": "Angers",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "9",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "12",
                 "Goal Difference": "-9",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "13",
