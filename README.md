@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 20 March 2026, 09:31 PM UTC (Saturday, 21 March 2026, 03:01 AM IST)
+**Last Updated:** Friday, 20 March 2026, 10:29 PM UTC (Saturday, 21 March 2026, 03:59 AM IST)
 
 ### Premier League
 
@@ -49,14 +49,14 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 31 | 21 | 7 | 3 | 39 | 70 |
 | 2 | Manchester City | 30 | 18 | 7 | 5 | 32 | 61 |
-| 3 | Manchester United | 31 | 16 | 9 | 6 | 14 | 57 |
+| 3 | Manchester United | 31 | 15 | 10 | 6 | 13 | 55 |
 | 4 | Aston Villa | 30 | 15 | 6 | 9 | 3 | 51 |
 | 5 | Liverpool FC | 30 | 14 | 7 | 9 | 9 | 49 |
 | 6 | Chelsea | 30 | 13 | 9 | 8 | 18 | 48 |
 | 7 | Brentford | 30 | 13 | 6 | 11 | 4 | 45 |
 | 8 | Everton | 30 | 12 | 7 | 11 | -1 | 43 |
 | 9 | Newcastle United | 30 | 12 | 6 | 12 | 0 | 42 |
-| 10 | AFC Bournemouth | 31 | 9 | 14 | 8 | -3 | 41 |
+| 10 | AFC Bournemouth | 31 | 9 | 15 | 7 | -2 | 42 |
 | 11 | Fulham | 30 | 12 | 5 | 13 | -3 | 41 |
 | 12 | Brighton & Hove Albion | 30 | 10 | 10 | 10 | 3 | 40 |
 | 13 | Sunderland | 30 | 10 | 10 | 10 | -5 | 40 |
@@ -129,11 +129,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Atalanta | 29 | 12 | 11 | 6 | 13 | 47 |
 | 8 | Bologna | 29 | 12 | 6 | 11 | 4 | 42 |
 | 9 | Lazio | 29 | 10 | 10 | 9 | 1 | 40 |
-| 10 | Udinese | 30 | 11 | 6 | 13 | -8 | 39 |
+| 10 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
 | 11 | Sassuolo | 29 | 11 | 5 | 13 | -4 | 38 |
 | 12 | Parma | 29 | 8 | 10 | 11 | -15 | 34 |
 | 13 | Torino | 29 | 9 | 6 | 14 | -18 | 33 |
-| 14 | Genoa | 30 | 8 | 9 | 13 | -5 | 33 |
+| 14 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
 | 15 | Cagliari | 30 | 7 | 9 | 14 | -11 | 30 |
 | 16 | Fiorentina | 29 | 6 | 10 | 13 | -9 | 28 |
 | 17 | Lecce | 29 | 7 | 6 | 16 | -18 | 27 |
@@ -301,11 +301,11 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Moreirense | 26 | 10 | 5 | 11 | -7 | 35 |
 | 9 | Vitória S.C. | 26 | 9 | 5 | 12 | -10 | 32 |
 | 10 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
-| 11 | Estrela Amadora | 27 | 6 | 10 | 11 | -13 | 28 |
+| 11 | Estrela Amadora | 27 | 6 | 10 | 11 | -12 | 28 |
 | 12 | Rio Ave | 26 | 6 | 9 | 11 | -19 | 27 |
 | 13 | Arouca | 26 | 7 | 5 | 14 | -22 | 26 |
 | 14 | Santa Clara | 26 | 6 | 7 | 13 | -8 | 25 |
-| 15 | Casa Pia | 26 | 5 | 9 | 12 | -21 | 24 |
+| 15 | Casa Pia | 26 | 5 | 9 | 12 | -22 | 24 |
 | 16 | Nacional | 26 | 5 | 7 | 14 | -9 | 22 |
 | 17 | Tondela | 25 | 4 | 7 | 14 | -20 | 19 |
 | 18 | AVS | 26 | 1 | 7 | 18 | -40 | 10 |
