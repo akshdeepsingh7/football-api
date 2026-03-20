@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 March 2026, 07:55 PM UTC",
-        "IST": "Saturday, 21 March 2026, 01:25 AM IST"
+        "UTC": "Friday, 20 March 2026, 08:34 PM UTC",
+        "IST": "Saturday, 21 March 2026, 02:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -28,12 +28,12 @@
             {
                 "Position": "3",
                 "Team": "Manchester United",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "15",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "6",
                 "Goal Difference": "13",
-                "Points": "54"
+                "Points": "55"
             },
             {
                 "Position": "4",
@@ -98,12 +98,12 @@
             {
                 "Position": "10",
                 "Team": "AFC Bournemouth",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "9",
-                "Draws": "14",
+                "Draws": "15",
                 "Losses": "7",
                 "Goal Difference": "-2",
-                "Points": "41"
+                "Points": "42"
             },
             {
                 "Position": "11",
@@ -229,6 +229,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Villarreal",
+                "Played": "29",
+                "Wins": "18",
+                "Draws": "4",
+                "Losses": "7",
+                "Goal Difference": "21",
+                "Points": "58"
+            },
+            {
+                "Position": "4",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "28",
                 "Wins": "17",
@@ -236,16 +246,6 @@
                 "Losses": "5",
                 "Goal Difference": "22",
                 "Points": "57"
-            },
-            {
-                "Position": "4",
-                "Team": "Villarreal",
-                "Played": "28",
-                "Wins": "17",
-                "Draws": "4",
-                "Losses": "7",
-                "Goal Difference": "18",
-                "Points": "55"
             },
             {
                 "Position": "5",
@@ -270,11 +270,11 @@
             {
                 "Position": "7",
                 "Team": "Real Sociedad",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "10",
                 "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "1",
+                "Losses": "11",
+                "Goal Difference": "-2",
                 "Points": "38"
             },
             {
@@ -431,12 +431,12 @@
             },
             {
                 "Position": "3",
-                "Team": "Hoffenheim",
+                "Team": "RB Leipzig",
                 "Played": "27",
                 "Wins": "15",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "18",
+                "Goal Difference": "17",
                 "Points": "50"
             },
             {
@@ -451,12 +451,12 @@
             },
             {
                 "Position": "5",
-                "Team": "RB Leipzig",
+                "Team": "Hoffenheim",
                 "Played": "27",
                 "Wins": "15",
                 "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "15",
+                "Goal Difference": "16",
                 "Points": "50"
             },
             {
@@ -795,22 +795,22 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "Lens",
+                "Played": "27",
+                "Wins": "19",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "29",
+                "Points": "59"
+            },
+            {
+                "Position": "2",
                 "Team": "PSG",
                 "Played": "25",
                 "Wins": "18",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "32",
-                "Points": "57"
-            },
-            {
-                "Position": "2",
-                "Team": "Lens",
-                "Played": "27",
-                "Wins": "18",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "26",
                 "Points": "57"
             },
             {
@@ -908,10 +908,10 @@
                 "Team": "Angers",
                 "Played": "27",
                 "Wins": "9",
-                "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "-9",
-                "Points": "33"
+                "Draws": "5",
+                "Losses": "13",
+                "Goal Difference": "-12",
+                "Points": "32"
             },
             {
                 "Position": "13",
@@ -2163,6 +2163,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Estrela Amadora",
+                "Played": "27",
+                "Wins": "6",
+                "Draws": "10",
+                "Losses": "11",
+                "Goal Difference": "-15",
+                "Points": "28"
+            },
+            {
+                "Position": "12",
                 "Team": "Rio Ave",
                 "Played": "26",
                 "Wins": "6",
@@ -2172,7 +2182,7 @@
                 "Points": "27"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Arouca",
                 "Played": "26",
                 "Wins": "7",
@@ -2180,16 +2190,6 @@
                 "Losses": "14",
                 "Goal Difference": "-22",
                 "Points": "26"
-            },
-            {
-                "Position": "13",
-                "Team": "Estrela Amadora",
-                "Played": "26",
-                "Wins": "5",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-16",
-                "Points": "25"
             },
             {
                 "Position": "14",
@@ -2204,11 +2204,11 @@
             {
                 "Position": "15",
                 "Team": "Casa Pia",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "5",
                 "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-18",
+                "Losses": "12",
+                "Goal Difference": "-19",
                 "Points": "24"
             },
             {
@@ -2345,6 +2345,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Stoke City",
+                "Played": "39",
+                "Wins": "14",
+                "Draws": "10",
+                "Losses": "15",
+                "Goal Difference": "5",
+                "Points": "52"
+            },
+            {
+                "Position": "12",
                 "Team": "Swansea City",
                 "Played": "38",
                 "Wins": "15",
@@ -2354,22 +2364,12 @@
                 "Points": "52"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Norwich City",
                 "Played": "38",
                 "Wins": "15",
                 "Draws": "6",
                 "Losses": "17",
-                "Goal Difference": "5",
-                "Points": "51"
-            },
-            {
-                "Position": "13",
-                "Team": "Stoke City",
-                "Played": "38",
-                "Wins": "14",
-                "Draws": "9",
-                "Losses": "15",
                 "Goal Difference": "5",
                 "Points": "51"
             },
@@ -2395,6 +2395,16 @@
             },
             {
                 "Position": "16",
+                "Team": "Preston North End",
+                "Played": "39",
+                "Wins": "12",
+                "Draws": "14",
+                "Losses": "13",
+                "Goal Difference": "-6",
+                "Points": "50"
+            },
+            {
+                "Position": "17",
                 "Team": "Queens Park Rangers",
                 "Played": "38",
                 "Wins": "14",
@@ -2402,16 +2412,6 @@
                 "Losses": "16",
                 "Goal Difference": "-11",
                 "Points": "50"
-            },
-            {
-                "Position": "17",
-                "Team": "Preston North End",
-                "Played": "38",
-                "Wins": "12",
-                "Draws": "13",
-                "Losses": "13",
-                "Goal Difference": "-6",
-                "Points": "49"
             },
             {
                 "Position": "18",
