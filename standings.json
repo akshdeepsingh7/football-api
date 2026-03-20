@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 March 2026, 02:11 PM UTC",
-        "IST": "Friday, 20 March 2026, 07:41 PM IST"
+        "UTC": "Friday, 20 March 2026, 03:12 PM UTC",
+        "IST": "Friday, 20 March 2026, 08:42 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2789,16 +2789,26 @@
         "Indian Super League": [
             {
                 "Position": "1",
-                "Team": "Mohun Bagan SG",
+                "Team": "Mumbai City",
                 "Played": "6",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "0",
-                "Goal Difference": "12",
+                "Goal Difference": "4",
                 "Points": "14"
             },
             {
                 "Position": "2",
+                "Team": "Mohun Bagan SG",
+                "Played": "6",
+                "Wins": "4",
+                "Draws": "1",
+                "Losses": "1",
+                "Goal Difference": "11",
+                "Points": "13"
+            },
+            {
+                "Position": "3",
                 "Team": "Jamshedpur",
                 "Played": "6",
                 "Wins": "4",
@@ -2806,16 +2816,6 @@
                 "Losses": "1",
                 "Goal Difference": "3",
                 "Points": "13"
-            },
-            {
-                "Position": "3",
-                "Team": "Mumbai City",
-                "Played": "6",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "0",
-                "Goal Difference": "3",
-                "Points": "12"
             },
             {
                 "Position": "4",

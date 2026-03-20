@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 20 March 2026, 02:11 PM UTC (Friday, 20 March 2026, 07:41 PM IST)
+**Last Updated:** Friday, 20 March 2026, 03:12 PM UTC (Friday, 20 March 2026, 08:42 PM IST)
 
 ### Premier League
 
@@ -378,9 +378,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Mohun Bagan SG | 6 | 4 | 2 | 0 | 12 | 14 |
-| 2 | Jamshedpur | 6 | 4 | 1 | 1 | 3 | 13 |
-| 3 | Mumbai City | 6 | 3 | 3 | 0 | 3 | 12 |
+| 1 | Mumbai City | 6 | 4 | 2 | 0 | 4 | 14 |
+| 2 | Mohun Bagan SG | 6 | 4 | 1 | 1 | 11 | 13 |
+| 3 | Jamshedpur | 6 | 4 | 1 | 1 | 3 | 13 |
 | 4 | FC Goa | 5 | 2 | 3 | 0 | 3 | 9 |
 | 5 | East Bengal | 5 | 2 | 2 | 1 | 5 | 8 |
 | 6 | Bengaluru | 5 | 2 | 2 | 1 | 1 | 8 |
