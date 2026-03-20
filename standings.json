@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 20 March 2026, 11:32 AM UTC",
-        "IST": "Friday, 20 March 2026, 05:02 PM IST"
+        "UTC": "Friday, 20 March 2026, 01:02 PM UTC",
+        "IST": "Friday, 20 March 2026, 06:32 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2852,10 +2852,10 @@
                 "Team": "NorthEast Utd",
                 "Played": "6",
                 "Wins": "1",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "-2",
-                "Points": "7"
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "-5",
+                "Points": "6"
             },
             {
                 "Position": "8",
@@ -2869,6 +2869,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Odisha",
+                "Played": "4",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "5"
+            },
+            {
+                "Position": "10",
                 "Team": "Inter Kashi",
                 "Played": "5",
                 "Wins": "1",
@@ -2878,7 +2888,7 @@
                 "Points": "5"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Chennaiyin",
                 "Played": "4",
                 "Wins": "1",
@@ -2886,16 +2896,6 @@
                 "Losses": "2",
                 "Goal Difference": "-2",
                 "Points": "4"
-            },
-            {
-                "Position": "11",
-                "Team": "Odisha",
-                "Played": "4",
-                "Wins": "0",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "-4",
-                "Points": "3"
             },
             {
                 "Position": "12",
