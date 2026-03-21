@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 03:49 PM UTC",
-        "IST": "Saturday, 21 March 2026, 09:19 PM IST"
+        "UTC": "Saturday, 21 March 2026, 04:31 PM UTC",
+        "IST": "Saturday, 21 March 2026, 10:01 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -279,23 +279,23 @@
             },
             {
                 "Position": "8",
-                "Team": "Espanyol",
+                "Team": "Getafe",
                 "Played": "29",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-7",
+                "Wins": "11",
+                "Draws": "5",
+                "Losses": "13",
+                "Goal Difference": "-5",
                 "Points": "38"
             },
             {
                 "Position": "9",
-                "Team": "Getafe",
+                "Team": "Espanyol",
                 "Played": "29",
                 "Wins": "10",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-7",
-                "Points": "36"
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "-9",
+                "Points": "37"
             },
             {
                 "Position": "10",
@@ -416,7 +416,7 @@
                 "Wins": "22",
                 "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "71",
+                "Goal Difference": "72",
                 "Points": "70"
             },
             {
@@ -463,11 +463,11 @@
                 "Position": "6",
                 "Team": "Bayer Leverkusen",
                 "Played": "27",
-                "Wins": "14",
-                "Draws": "6",
+                "Wins": "13",
+                "Draws": "7",
                 "Losses": "7",
-                "Goal Difference": "17",
-                "Points": "48"
+                "Goal Difference": "16",
+                "Points": "46"
             },
             {
                 "Position": "7",
@@ -506,7 +506,7 @@
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "12",
-                "Goal Difference": "-14",
+                "Goal Difference": "-15",
                 "Points": "31"
             },
             {
@@ -531,6 +531,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Werder Bremen",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-17",
+                "Points": "28"
+            },
+            {
+                "Position": "14",
                 "Team": "Mainz 05",
                 "Played": "26",
                 "Wins": "6",
@@ -540,23 +550,13 @@
                 "Points": "27"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "K\u00f6ln",
                 "Played": "27",
                 "Wins": "6",
                 "Draws": "8",
                 "Losses": "13",
                 "Goal Difference": "-9",
-                "Points": "26"
-            },
-            {
-                "Position": "15",
-                "Team": "Werder Bremen",
-                "Played": "27",
-                "Wins": "6",
-                "Draws": "8",
-                "Losses": "13",
-                "Goal Difference": "-18",
                 "Points": "26"
             },
             {
@@ -574,20 +574,20 @@
                 "Team": "VfL Wolfsburg",
                 "Played": "27",
                 "Wins": "5",
-                "Draws": "7",
-                "Losses": "15",
-                "Goal Difference": "-21",
-                "Points": "22"
+                "Draws": "6",
+                "Losses": "16",
+                "Goal Difference": "-22",
+                "Points": "21"
             },
             {
                 "Position": "18",
                 "Team": "Heidenheim",
                 "Played": "27",
                 "Wins": "3",
-                "Draws": "5",
-                "Losses": "19",
-                "Goal Difference": "-35",
-                "Points": "14"
+                "Draws": "6",
+                "Losses": "18",
+                "Goal Difference": "-34",
+                "Points": "15"
             }
         ],
         "Serie A": [
@@ -865,22 +865,22 @@
             },
             {
                 "Position": "8",
+                "Team": "Lorient",
+                "Played": "27",
+                "Wins": "9",
+                "Draws": "11",
+                "Losses": "7",
+                "Goal Difference": "-3",
+                "Points": "38"
+            },
+            {
+                "Position": "9",
                 "Team": "Strasbourg",
                 "Played": "26",
                 "Wins": "10",
                 "Draws": "7",
                 "Losses": "9",
                 "Goal Difference": "9",
-                "Points": "37"
-            },
-            {
-                "Position": "9",
-                "Team": "Lorient",
-                "Played": "26",
-                "Wins": "9",
-                "Draws": "10",
-                "Losses": "7",
-                "Goal Difference": "-3",
                 "Points": "37"
             },
             {
@@ -896,12 +896,12 @@
             {
                 "Position": "11",
                 "Team": "Toulouse",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "9",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "5",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "12",
@@ -2287,11 +2287,11 @@
                 "Position": "5",
                 "Team": "Hull City",
                 "Played": "39",
-                "Wins": "19",
-                "Draws": "7",
+                "Wins": "20",
+                "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "3",
-                "Points": "64"
+                "Goal Difference": "5",
+                "Points": "66"
             },
             {
                 "Position": "6",
@@ -2360,7 +2360,7 @@
                 "Wins": "15",
                 "Draws": "8",
                 "Losses": "16",
-                "Goal Difference": "-9",
+                "Goal Difference": "-8",
                 "Points": "53"
             },
             {
@@ -2450,7 +2450,7 @@
                 "Wins": "10",
                 "Draws": "10",
                 "Losses": "18",
-                "Goal Difference": "-14",
+                "Goal Difference": "-15",
                 "Points": "40"
             },
             {
@@ -2478,10 +2478,10 @@
                 "Team": "Sheffield Wednesday",
                 "Played": "39",
                 "Wins": "1",
-                "Draws": "10",
-                "Losses": "28",
-                "Goal Difference": "-53",
-                "Points": "-5"
+                "Draws": "9",
+                "Losses": "29",
+                "Goal Difference": "-55",
+                "Points": "-6"
             }
         ],
         "Major League Soccer (MLS)": [
