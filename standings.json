@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 11:26 PM UTC",
-        "IST": "Sunday, 22 March 2026, 04:56 AM IST"
+        "UTC": "Saturday, 21 March 2026, 11:49 PM UTC",
+        "IST": "Sunday, 22 March 2026, 05:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2492,7 +2492,7 @@
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "0",
-                "Goal Difference": "8",
+                "Goal Difference": "9",
                 "Points": "13"
             },
             {
@@ -2507,6 +2507,16 @@
             },
             {
                 "Position": "3",
+                "Team": "New York RB",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "8"
+            },
+            {
+                "Position": "4",
                 "Team": "Chicago Fire",
                 "Played": "5",
                 "Wins": "2",
@@ -2516,7 +2526,7 @@
                 "Points": "7"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Inter Miami",
                 "Played": "4",
                 "Wins": "2",
@@ -2526,17 +2536,17 @@
                 "Points": "7"
             },
             {
-                "Position": "5",
-                "Team": "New York RB",
-                "Played": "4",
+                "Position": "6",
+                "Team": "DC United",
+                "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "-1",
+                "Losses": "2",
+                "Goal Difference": "0",
                 "Points": "7"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Toronto",
                 "Played": "5",
                 "Wins": "2",
@@ -2546,43 +2556,33 @@
                 "Points": "7"
             },
             {
-                "Position": "7",
-                "Team": "DC United",
-                "Played": "4",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "0",
+                "Position": "8",
+                "Team": "Charlotte",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "-1",
                 "Points": "6"
             },
             {
-                "Position": "8",
-                "Team": "Charlotte",
-                "Played": "4",
+                "Position": "9",
+                "Team": "Atlanta United",
+                "Played": "5",
                 "Wins": "1",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "5"
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "4"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "New England Revolution",
                 "Played": "3",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "2",
                 "Goal Difference": "1",
-                "Points": "3"
-            },
-            {
-                "Position": "10",
-                "Team": "Atlanta United",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-3",
                 "Points": "3"
             },
             {
@@ -2612,7 +2612,7 @@
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "4",
-                "Goal Difference": "-9",
+                "Goal Difference": "-10",
                 "Points": "3"
             },
             {
