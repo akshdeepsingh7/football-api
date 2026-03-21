@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 March 2026, 08:28 PM UTC (Sunday, 22 March 2026, 01:58 AM IST)
+**Last Updated:** Saturday, 21 March 2026, 08:53 PM UTC (Sunday, 22 March 2026, 02:23 AM IST)
 
 ### Premier League
 
@@ -82,11 +82,11 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Getafe | 29 | 11 | 5 | 13 | -6 | 38 |
 | 9 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
 | 10 | Espanyol | 29 | 10 | 7 | 12 | -8 | 37 |
-| 11 | Athletic Bilbao | 28 | 10 | 5 | 13 | -10 | 35 |
-| 12 | Girona | 29 | 8 | 10 | 11 | -13 | 34 |
-| 13 | Valencia | 29 | 8 | 9 | 12 | -12 | 33 |
-| 14 | Sevilla | 29 | 8 | 8 | 13 | -10 | 32 |
-| 15 | Rayo Vallecano | 28 | 7 | 11 | 10 | -6 | 32 |
+| 11 | Valencia | 29 | 9 | 8 | 12 | -10 | 35 |
+| 12 | Athletic Bilbao | 28 | 10 | 5 | 13 | -10 | 35 |
+| 13 | Girona | 29 | 8 | 10 | 11 | -13 | 34 |
+| 14 | Rayo Vallecano | 28 | 7 | 11 | 10 | -6 | 32 |
+| 15 | Sevilla | 29 | 8 | 7 | 14 | -12 | 31 |
 | 16 | Elche | 29 | 6 | 11 | 12 | -8 | 29 |
 | 17 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
 | 18 | Mallorca | 29 | 7 | 7 | 15 | -13 | 28 |
@@ -145,8 +145,8 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Lens | 27 | 19 | 2 | 6 | 30 | 59 |
-| 2 | PSG | 26 | 18 | 4 | 4 | 32 | 58 |
+| 1 | PSG | 26 | 19 | 3 | 4 | 33 | 60 |
+| 2 | Lens | 27 | 19 | 2 | 6 | 30 | 59 |
 | 3 | Marseille | 26 | 15 | 4 | 7 | 20 | 49 |
 | 4 | Lyon | 26 | 14 | 5 | 7 | 13 | 47 |
 | 5 | Lille | 26 | 13 | 5 | 8 | 7 | 44 |
@@ -158,8 +158,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Brest | 27 | 10 | 6 | 11 | -5 | 36 |
 | 12 | Angers | 27 | 9 | 5 | 13 | -13 | 32 |
 | 13 | Paris FC | 26 | 6 | 10 | 10 | -12 | 28 |
-| 14 | Nice | 27 | 7 | 7 | 13 | -16 | 28 |
-| 15 | Le Havre | 26 | 6 | 9 | 11 | -12 | 27 |
+| 14 | Le Havre | 26 | 6 | 9 | 11 | -12 | 27 |
+| 15 | Nice | 27 | 7 | 6 | 14 | -17 | 27 |
 | 16 | Auxerre | 27 | 5 | 7 | 15 | -14 | 22 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
 | 18 | Metz | 26 | 3 | 4 | 19 | -35 | 13 |
@@ -307,8 +307,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Rio Ave | 26 | 6 | 9 | 11 | -19 | 27 |
 | 15 | Casa Pia | 26 | 5 | 9 | 12 | -22 | 24 |
 | 16 | Nacional | 27 | 5 | 7 | 15 | -10 | 22 |
-| 17 | Tondela | 25 | 4 | 7 | 14 | -20 | 19 |
-| 18 | AVS | 26 | 1 | 7 | 18 | -40 | 10 |
+| 17 | Tondela | 26 | 4 | 8 | 14 | -20 | 20 |
+| 18 | AVS | 27 | 1 | 8 | 18 | -40 | 11 |
 
 ### EFL Championship
 
@@ -349,15 +349,15 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | New York RB | 4 | 2 | 1 | 1 | -1 | 7 |
 | 5 | Toronto | 5 | 2 | 1 | 2 | -2 | 7 |
 | 6 | DC United | 4 | 2 | 0 | 2 | 0 | 6 |
-| 7 | Charlotte | 4 | 1 | 2 | 1 | -1 | 5 |
-| 8 | Chicago Fire | 4 | 1 | 1 | 2 | 1 | 4 |
+| 7 | Chicago Fire | 5 | 1 | 2 | 2 | 1 | 5 |
+| 8 | Charlotte | 4 | 1 | 2 | 1 | -1 | 5 |
 | 9 | New England Revolution | 3 | 1 | 0 | 2 | 1 | 3 |
 | 10 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
 | 11 | Cincinnati | 4 | 1 | 0 | 3 | -5 | 3 |
 | 12 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
 | 13 | Orlando City | 4 | 1 | 0 | 3 | -7 | 3 |
 | 14 | Columbus Crew | 5 | 0 | 2 | 3 | -3 | 2 |
-| 15 | Philadelphia Union | 4 | 0 | 0 | 4 | -5 | 0 |
+| 15 | Philadelphia Union | 5 | 0 | 1 | 4 | -5 | 1 |
 | 1 | Vancouver Whitecaps | 4 | 4 | 0 | 0 | 13 | 12 |
 | 2 | LAFC | 4 | 4 | 0 | 0 | 8 | 12 |
 | 3 | San Diego | 4 | 3 | 1 | 0 | 8 | 10 |
@@ -410,15 +410,15 @@ Data not available.
 | 7 | Grêmio | 7 | 3 | 2 | 2 | 2 | 11 |
 | 8 | Athletico Paranaense | 6 | 3 | 1 | 2 | 1 | 10 |
 | 9 | Corinthians | 7 | 2 | 3 | 2 | 0 | 9 |
-| 10 | RB Bragantino | 8 | 2 | 3 | 3 | -3 | 9 |
-| 11 | Vasco da Gama | 7 | 2 | 2 | 3 | -1 | 8 |
-| 12 | Atlético Mineiro | 7 | 2 | 2 | 3 | -2 | 8 |
+| 10 | Vasco da Gama | 7 | 2 | 2 | 3 | -1 | 8 |
+| 11 | Atlético Mineiro | 7 | 2 | 2 | 3 | -2 | 8 |
+| 12 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
 | 13 | Vitória | 6 | 2 | 1 | 3 | -3 | 7 |
 | 14 | Chapecoense | 6 | 1 | 4 | 1 | 0 | 7 |
-| 15 | Mirassol | 6 | 1 | 3 | 2 | -1 | 6 |
-| 16 | Santos | 7 | 1 | 3 | 3 | -3 | 6 |
-| 17 | Internacional | 7 | 1 | 2 | 4 | -4 | 5 |
-| 18 | Botafogo | 6 | 1 | 1 | 4 | -3 | 4 |
+| 15 | Botafogo | 6 | 2 | 0 | 4 | -2 | 6 |
+| 16 | Mirassol | 6 | 1 | 3 | 2 | -1 | 6 |
+| 17 | Santos | 7 | 1 | 3 | 3 | -3 | 6 |
+| 18 | Internacional | 7 | 1 | 2 | 4 | -4 | 5 |
 | 19 | Cruzeiro | 7 | 0 | 3 | 4 | -8 | 3 |
 | 20 | Remo | 7 | 0 | 3 | 4 | -8 | 3 |
 

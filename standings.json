@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 08:28 PM UTC",
-        "IST": "Sunday, 22 March 2026, 01:58 AM IST"
+        "UTC": "Saturday, 21 March 2026, 08:53 PM UTC",
+        "IST": "Sunday, 22 March 2026, 02:23 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Valencia",
+                "Played": "29",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-10",
+                "Points": "35"
+            },
+            {
+                "Position": "12",
                 "Team": "Athletic Bilbao",
                 "Played": "28",
                 "Wins": "10",
@@ -318,7 +328,7 @@
                 "Points": "35"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Girona",
                 "Played": "29",
                 "Wins": "8",
@@ -328,27 +338,7 @@
                 "Points": "34"
             },
             {
-                "Position": "13",
-                "Team": "Valencia",
-                "Played": "29",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-12",
-                "Points": "33"
-            },
-            {
                 "Position": "14",
-                "Team": "Sevilla",
-                "Played": "29",
-                "Wins": "8",
-                "Draws": "8",
-                "Losses": "13",
-                "Goal Difference": "-10",
-                "Points": "32"
-            },
-            {
-                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "28",
                 "Wins": "7",
@@ -356,6 +346,16 @@
                 "Losses": "10",
                 "Goal Difference": "-6",
                 "Points": "32"
+            },
+            {
+                "Position": "15",
+                "Team": "Sevilla",
+                "Played": "29",
+                "Wins": "8",
+                "Draws": "7",
+                "Losses": "14",
+                "Goal Difference": "-12",
+                "Points": "31"
             },
             {
                 "Position": "16",
@@ -795,6 +795,16 @@
         "Ligue 1": [
             {
                 "Position": "1",
+                "Team": "PSG",
+                "Played": "26",
+                "Wins": "19",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "33",
+                "Points": "60"
+            },
+            {
+                "Position": "2",
                 "Team": "Lens",
                 "Played": "27",
                 "Wins": "19",
@@ -802,16 +812,6 @@
                 "Losses": "6",
                 "Goal Difference": "30",
                 "Points": "59"
-            },
-            {
-                "Position": "2",
-                "Team": "PSG",
-                "Played": "26",
-                "Wins": "18",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "32",
-                "Points": "58"
             },
             {
                 "Position": "3",
@@ -925,22 +925,22 @@
             },
             {
                 "Position": "14",
-                "Team": "Nice",
-                "Played": "27",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "-16",
-                "Points": "28"
-            },
-            {
-                "Position": "15",
                 "Team": "Le Havre",
                 "Played": "26",
                 "Wins": "6",
                 "Draws": "9",
                 "Losses": "11",
                 "Goal Difference": "-12",
+                "Points": "27"
+            },
+            {
+                "Position": "15",
+                "Team": "Nice",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "-17",
                 "Points": "27"
             },
             {
@@ -2224,22 +2224,22 @@
             {
                 "Position": "17",
                 "Team": "Tondela",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "4",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "14",
                 "Goal Difference": "-20",
-                "Points": "19"
+                "Points": "20"
             },
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "1",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "18",
                 "Goal Difference": "-40",
-                "Points": "10"
+                "Points": "11"
             }
         ],
         "EFL Championship": [
@@ -2547,6 +2547,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Chicago Fire",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "1",
+                "Points": "5"
+            },
+            {
+                "Position": "8",
                 "Team": "Charlotte",
                 "Played": "4",
                 "Wins": "1",
@@ -2554,16 +2564,6 @@
                 "Losses": "1",
                 "Goal Difference": "-1",
                 "Points": "5"
-            },
-            {
-                "Position": "8",
-                "Team": "Chicago Fire",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "1",
-                "Points": "4"
             },
             {
                 "Position": "9",
@@ -2628,12 +2628,12 @@
             {
                 "Position": "15",
                 "Team": "Philadelphia Union",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "0",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "0"
+                "Points": "1"
             },
             {
                 "Position": "1",
@@ -3022,16 +3022,6 @@
             },
             {
                 "Position": "10",
-                "Team": "RB Bragantino",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "9"
-            },
-            {
-                "Position": "11",
                 "Team": "Vasco da Gama",
                 "Played": "7",
                 "Wins": "2",
@@ -3041,13 +3031,23 @@
                 "Points": "8"
             },
             {
-                "Position": "12",
+                "Position": "11",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-2",
+                "Points": "8"
+            },
+            {
+                "Position": "12",
+                "Team": "RB Bragantino",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-4",
                 "Points": "8"
             },
             {
@@ -3072,6 +3072,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Botafogo",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "6"
+            },
+            {
+                "Position": "16",
                 "Team": "Mirassol",
                 "Played": "6",
                 "Wins": "1",
@@ -3081,7 +3091,7 @@
                 "Points": "6"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Santos",
                 "Played": "7",
                 "Wins": "1",
@@ -3091,7 +3101,7 @@
                 "Points": "6"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Internacional",
                 "Played": "7",
                 "Wins": "1",
@@ -3099,16 +3109,6 @@
                 "Losses": "4",
                 "Goal Difference": "-4",
                 "Points": "5"
-            },
-            {
-                "Position": "18",
-                "Team": "Botafogo",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "4"
             },
             {
                 "Position": "19",
