@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 March 2026, 03:27 PM UTC (Saturday, 21 March 2026, 08:57 PM IST)
+**Last Updated:** Saturday, 21 March 2026, 03:49 PM UTC (Saturday, 21 March 2026, 09:19 PM IST)
 
 ### Premier League
 
@@ -97,16 +97,16 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 27 | 22 | 4 | 1 | 70 | 70 |
+| 1 | Bayern Munich | 27 | 22 | 4 | 1 | 71 | 70 |
 | 2 | Borussia Dortmund | 26 | 17 | 7 | 2 | 29 | 58 |
 | 3 | RB Leipzig | 27 | 15 | 5 | 7 | 18 | 50 |
 | 4 | VfB Stuttgart | 26 | 15 | 5 | 6 | 17 | 50 |
 | 5 | Hoffenheim | 27 | 15 | 5 | 7 | 15 | 50 |
-| 6 | Bayer Leverkusen | 27 | 14 | 6 | 7 | 18 | 48 |
+| 6 | Bayer Leverkusen | 27 | 14 | 6 | 7 | 17 | 48 |
 | 7 | Eintracht Frankfurt | 26 | 10 | 8 | 8 | 0 | 38 |
 | 8 | SC Freiburg | 26 | 9 | 7 | 10 | -6 | 34 |
-| 9 | Union Berlin | 27 | 8 | 7 | 12 | -13 | 31 |
-| 10 | Augsburg | 26 | 9 | 4 | 13 | -14 | 31 |
+| 9 | Augsburg | 26 | 9 | 4 | 13 | -14 | 31 |
+| 10 | Union Berlin | 27 | 8 | 7 | 12 | -14 | 31 |
 | 11 | Hamburg | 26 | 7 | 9 | 10 | -8 | 30 |
 | 12 | Borussia Mönchengladbach | 27 | 7 | 8 | 12 | -13 | 29 |
 | 13 | Mainz 05 | 26 | 6 | 9 | 11 | -10 | 27 |
@@ -114,7 +114,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Werder Bremen | 27 | 6 | 8 | 13 | -18 | 26 |
 | 16 | St. Pauli | 26 | 6 | 6 | 14 | -19 | 24 |
 | 17 | VfL Wolfsburg | 27 | 5 | 7 | 15 | -21 | 22 |
-| 18 | Heidenheim | 27 | 3 | 5 | 19 | -36 | 14 |
+| 18 | Heidenheim | 27 | 3 | 5 | 19 | -35 | 14 |
 
 ### Serie A
 
@@ -295,18 +295,18 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
 | 3 | Benfica | 26 | 18 | 8 | 0 | 38 | 62 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
-| 5 | Gil Vicente | 26 | 11 | 9 | 6 | 12 | 42 |
-| 6 | Famalicão | 26 | 12 | 6 | 8 | 10 | 42 |
+| 5 | Famalicão | 27 | 12 | 7 | 8 | 10 | 43 |
+| 6 | Gil Vicente | 26 | 11 | 9 | 6 | 12 | 42 |
 | 7 | Estoril | 26 | 10 | 7 | 9 | 5 | 37 |
-| 8 | Moreirense | 26 | 10 | 5 | 11 | -7 | 35 |
+| 8 | Moreirense | 27 | 10 | 6 | 11 | -7 | 36 |
 | 9 | Vitória S.C. | 26 | 9 | 5 | 12 | -10 | 32 |
 | 10 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
 | 11 | Estrela Amadora | 27 | 6 | 10 | 11 | -12 | 28 |
-| 12 | Rio Ave | 26 | 6 | 9 | 11 | -19 | 27 |
-| 13 | Arouca | 26 | 7 | 5 | 14 | -22 | 26 |
+| 12 | Arouca | 27 | 7 | 6 | 14 | -22 | 27 |
+| 13 | Rio Ave | 26 | 6 | 9 | 11 | -19 | 27 |
 | 14 | Santa Clara | 26 | 6 | 7 | 13 | -8 | 25 |
 | 15 | Casa Pia | 26 | 5 | 9 | 12 | -22 | 24 |
-| 16 | Nacional | 26 | 5 | 7 | 14 | -9 | 22 |
+| 16 | Nacional | 27 | 5 | 8 | 14 | -9 | 23 |
 | 17 | Tondela | 25 | 4 | 7 | 14 | -20 | 19 |
 | 18 | AVS | 26 | 1 | 7 | 18 | -40 | 10 |
 
@@ -326,14 +326,14 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Norwich City | 39 | 16 | 6 | 17 | 6 | 54 |
 | 11 | Birmingham City | 39 | 14 | 11 | 14 | -1 | 53 |
 | 12 | Queens Park Rangers | 39 | 15 | 8 | 16 | -9 | 53 |
-| 13 | Bristol City | 39 | 14 | 10 | 15 | 0 | 52 |
-| 14 | Swansea City | 38 | 15 | 7 | 16 | -2 | 52 |
-| 15 | Preston North End | 39 | 13 | 13 | 13 | -4 | 52 |
-| 16 | Stoke City | 39 | 14 | 9 | 16 | 3 | 51 |
-| 17 | Sheffield United | 39 | 15 | 6 | 18 | 1 | 51 |
+| 13 | Swansea City | 38 | 15 | 7 | 16 | -2 | 52 |
+| 14 | Preston North End | 39 | 13 | 13 | 13 | -4 | 52 |
+| 15 | Stoke City | 39 | 14 | 9 | 16 | 3 | 51 |
+| 16 | Sheffield United | 39 | 15 | 6 | 18 | 1 | 51 |
+| 17 | Bristol City | 39 | 14 | 9 | 16 | -1 | 51 |
 | 18 | Charlton Athletic | 39 | 12 | 12 | 15 | -10 | 48 |
 | 19 | Blackburn Rovers | 39 | 11 | 10 | 18 | -13 | 43 |
-| 20 | West Bromwich Albion | 39 | 10 | 11 | 18 | -15 | 41 |
+| 20 | West Bromwich Albion | 39 | 11 | 10 | 18 | -14 | 43 |
 | 21 | Portsmouth | 38 | 10 | 10 | 18 | -14 | 40 |
 | 22 | Leicester City | 39 | 11 | 12 | 16 | -9 | 39 |
 | 23 | Oxford United | 39 | 9 | 12 | 18 | -15 | 39 |
@@ -383,14 +383,14 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Jamshedpur | 6 | 4 | 1 | 1 | 3 | 13 |
 | 4 | FC Goa | 5 | 2 | 3 | 0 | 3 | 9 |
 | 5 | East Bengal | 5 | 2 | 2 | 1 | 5 | 8 |
-| 6 | Punjab FC | 5 | 2 | 2 | 1 | 4 | 8 |
+| 6 | Punjab FC | 5 | 2 | 2 | 1 | 3 | 8 |
 | 7 | Bengaluru | 5 | 2 | 2 | 1 | 1 | 8 |
 | 8 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
 | 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
 | 10 | Inter Kashi | 5 | 1 | 2 | 2 | -1 | 5 |
 | 11 | Chennaiyin | 4 | 1 | 1 | 2 | -2 | 4 |
 | 12 | SC Delhi | 5 | 0 | 2 | 3 | -6 | 2 |
-| 13 | Kerala Blasters | 6 | 0 | 1 | 5 | -8 | 1 |
+| 13 | Kerala Blasters | 6 | 0 | 1 | 5 | -7 | 1 |
 | 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
