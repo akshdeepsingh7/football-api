@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 12:51 PM UTC",
-        "IST": "Saturday, 21 March 2026, 06:21 PM IST"
+        "UTC": "Saturday, 21 March 2026, 01:42 PM UTC",
+        "IST": "Saturday, 21 March 2026, 07:12 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -360,12 +360,12 @@
             {
                 "Position": "16",
                 "Team": "Mallorca",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "7",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "14",
                 "Goal Difference": "-12",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "17",
@@ -380,12 +380,12 @@
             {
                 "Position": "18",
                 "Team": "Elche",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "5",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "12",
                 "Goal Difference": "-9",
-                "Points": "26"
+                "Points": "27"
             },
             {
                 "Position": "19",
@@ -2317,11 +2317,11 @@
                 "Position": "8",
                 "Team": "Derby County",
                 "Played": "39",
-                "Wins": "16",
-                "Draws": "10",
+                "Wins": "17",
+                "Draws": "9",
                 "Losses": "13",
-                "Goal Difference": "7",
-                "Points": "58"
+                "Goal Difference": "8",
+                "Points": "60"
             },
             {
                 "Position": "9",
@@ -2338,10 +2338,10 @@
                 "Team": "Birmingham City",
                 "Played": "39",
                 "Wins": "14",
-                "Draws": "12",
-                "Losses": "13",
-                "Goal Difference": "0",
-                "Points": "54"
+                "Draws": "11",
+                "Losses": "14",
+                "Goal Difference": "-1",
+                "Points": "53"
             },
             {
                 "Position": "11",

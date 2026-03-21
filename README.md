@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 March 2026, 12:51 PM UTC (Saturday, 21 March 2026, 06:21 PM IST)
+**Last Updated:** Saturday, 21 March 2026, 01:42 PM UTC (Saturday, 21 March 2026, 07:12 PM IST)
 
 ### Premier League
 
@@ -87,9 +87,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Rayo Vallecano | 28 | 7 | 11 | 10 | -6 | 32 |
 | 14 | Valencia | 28 | 8 | 8 | 12 | -12 | 32 |
 | 15 | Sevilla | 28 | 8 | 7 | 13 | -10 | 31 |
-| 16 | Mallorca | 28 | 7 | 7 | 14 | -12 | 28 |
+| 16 | Mallorca | 29 | 7 | 8 | 14 | -12 | 29 |
 | 17 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
-| 18 | Elche | 28 | 5 | 11 | 12 | -9 | 26 |
+| 18 | Elche | 29 | 5 | 12 | 12 | -9 | 27 |
 | 19 | Levante | 28 | 5 | 8 | 15 | -16 | 23 |
 | 20 | Real Oviedo | 28 | 4 | 9 | 15 | -26 | 21 |
 
@@ -321,9 +321,9 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Hull City | 38 | 19 | 6 | 13 | 3 | 63 |
 | 6 | Southampton | 38 | 16 | 12 | 10 | 13 | 60 |
 | 7 | Wrexham | 38 | 16 | 12 | 10 | 8 | 60 |
-| 8 | Derby County | 39 | 16 | 10 | 13 | 7 | 58 |
+| 8 | Derby County | 39 | 17 | 9 | 13 | 8 | 60 |
 | 9 | Watford | 38 | 14 | 13 | 11 | 4 | 55 |
-| 10 | Birmingham City | 39 | 14 | 12 | 13 | 0 | 54 |
+| 10 | Birmingham City | 39 | 14 | 11 | 14 | -1 | 53 |
 | 11 | Swansea City | 38 | 15 | 7 | 16 | -2 | 52 |
 | 12 | Preston North End | 39 | 13 | 13 | 13 | -4 | 52 |
 | 13 | Norwich City | 38 | 15 | 6 | 17 | 5 | 51 |
