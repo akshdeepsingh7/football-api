@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 March 2026, 09:26 PM UTC (Sunday, 22 March 2026, 02:56 AM IST)
+**Last Updated:** Saturday, 21 March 2026, 09:48 PM UTC (Sunday, 22 March 2026, 03:18 AM IST)
 
 ### Premier League
 
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 26 | 19 | 3 | 4 | 34 | 60 |
+| 1 | PSG | 26 | 19 | 3 | 4 | 35 | 60 |
 | 2 | Lens | 27 | 19 | 2 | 6 | 30 | 59 |
 | 3 | Marseille | 26 | 15 | 4 | 7 | 20 | 49 |
 | 4 | Lyon | 26 | 14 | 5 | 7 | 13 | 47 |
@@ -159,7 +159,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Angers | 27 | 9 | 5 | 13 | -13 | 32 |
 | 13 | Paris FC | 26 | 6 | 10 | 10 | -12 | 28 |
 | 14 | Le Havre | 26 | 6 | 9 | 11 | -12 | 27 |
-| 15 | Nice | 27 | 7 | 6 | 14 | -18 | 27 |
+| 15 | Nice | 27 | 7 | 6 | 14 | -19 | 27 |
 | 16 | Auxerre | 27 | 5 | 7 | 15 | -14 | 22 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
 | 18 | Metz | 26 | 3 | 4 | 19 | -35 | 13 |
@@ -404,14 +404,14 @@ Data not available.
 | 1 | Palmeiras | 7 | 5 | 1 | 1 | 8 | 16 |
 | 2 | São Paulo | 7 | 5 | 1 | 1 | 6 | 16 |
 | 3 | Bahia | 6 | 4 | 2 | 0 | 5 | 14 |
-| 4 | Flamengo | 6 | 4 | 1 | 1 | 8 | 13 |
-| 5 | Fluminense | 7 | 4 | 1 | 2 | 3 | 13 |
+| 4 | Fluminense | 8 | 4 | 2 | 2 | 3 | 14 |
+| 5 | Flamengo | 6 | 4 | 1 | 1 | 8 | 13 |
 | 6 | Coritiba | 7 | 4 | 1 | 2 | 3 | 13 |
 | 7 | Grêmio | 7 | 3 | 2 | 2 | 2 | 11 |
 | 8 | Athletico Paranaense | 6 | 3 | 1 | 2 | 1 | 10 |
 | 9 | Corinthians | 7 | 2 | 3 | 2 | 0 | 9 |
-| 10 | Vasco da Gama | 7 | 2 | 2 | 3 | -1 | 8 |
-| 11 | Atlético Mineiro | 7 | 2 | 2 | 3 | -2 | 8 |
+| 10 | Atlético Mineiro | 8 | 2 | 3 | 3 | -2 | 9 |
+| 11 | Vasco da Gama | 7 | 2 | 2 | 3 | -1 | 8 |
 | 12 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
 | 13 | Vitória | 6 | 2 | 1 | 3 | -3 | 7 |
 | 14 | Chapecoense | 6 | 1 | 4 | 1 | 0 | 7 |

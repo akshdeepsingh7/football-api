@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 09:26 PM UTC",
-        "IST": "Sunday, 22 March 2026, 02:56 AM IST"
+        "UTC": "Saturday, 21 March 2026, 09:48 PM UTC",
+        "IST": "Sunday, 22 March 2026, 03:18 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -800,7 +800,7 @@
                 "Wins": "19",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "34",
+                "Goal Difference": "35",
                 "Points": "60"
             },
             {
@@ -940,7 +940,7 @@
                 "Wins": "7",
                 "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-18",
+                "Goal Difference": "-19",
                 "Points": "27"
             },
             {
@@ -2962,22 +2962,22 @@
             },
             {
                 "Position": "4",
+                "Team": "Fluminense",
+                "Played": "8",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "3",
+                "Points": "14"
+            },
+            {
+                "Position": "5",
                 "Team": "Flamengo",
                 "Played": "6",
                 "Wins": "4",
                 "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "8",
-                "Points": "13"
-            },
-            {
-                "Position": "5",
-                "Team": "Fluminense",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "3",
                 "Points": "13"
             },
             {
@@ -3022,22 +3022,22 @@
             },
             {
                 "Position": "10",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "9"
+            },
+            {
+                "Position": "11",
                 "Team": "Vasco da Gama",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-1",
-                "Points": "8"
-            },
-            {
-                "Position": "11",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-2",
                 "Points": "8"
             },
             {
