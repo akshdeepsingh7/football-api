@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 March 2026, 01:42 PM UTC (Saturday, 21 March 2026, 07:12 PM IST)
+**Last Updated:** Saturday, 21 March 2026, 02:28 PM UTC (Saturday, 21 March 2026, 07:58 PM IST)
 
 ### Premier League
 
@@ -51,13 +51,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 30 | 18 | 7 | 5 | 32 | 61 |
 | 3 | Manchester United | 31 | 15 | 10 | 6 | 13 | 55 |
 | 4 | Aston Villa | 30 | 15 | 6 | 9 | 3 | 51 |
-| 5 | Liverpool FC | 31 | 14 | 8 | 9 | 9 | 50 |
+| 5 | Liverpool FC | 31 | 14 | 7 | 10 | 8 | 49 |
 | 6 | Chelsea | 30 | 13 | 9 | 8 | 18 | 48 |
 | 7 | Brentford | 30 | 13 | 6 | 11 | 4 | 45 |
-| 8 | Everton | 30 | 12 | 7 | 11 | -1 | 43 |
-| 9 | Newcastle United | 30 | 12 | 6 | 12 | 0 | 42 |
-| 10 | AFC Bournemouth | 31 | 9 | 15 | 7 | -2 | 42 |
-| 11 | Brighton & Hove Albion | 31 | 10 | 11 | 10 | 3 | 41 |
+| 8 | Brighton & Hove Albion | 31 | 11 | 10 | 10 | 4 | 43 |
+| 9 | Everton | 30 | 12 | 7 | 11 | -1 | 43 |
+| 10 | Newcastle United | 30 | 12 | 6 | 12 | 0 | 42 |
+| 11 | AFC Bournemouth | 31 | 9 | 15 | 7 | -2 | 42 |
 | 12 | Fulham | 30 | 12 | 5 | 13 | -3 | 41 |
 | 13 | Sunderland | 30 | 10 | 10 | 10 | -5 | 40 |
 | 14 | Crystal Palace | 30 | 10 | 9 | 11 | -2 | 39 |
@@ -131,13 +131,13 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Lazio | 29 | 10 | 10 | 9 | 1 | 40 |
 | 10 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
 | 11 | Sassuolo | 29 | 11 | 5 | 13 | -4 | 38 |
-| 12 | Parma | 29 | 8 | 10 | 11 | -15 | 34 |
+| 12 | Parma | 30 | 8 | 11 | 11 | -15 | 35 |
 | 13 | Torino | 29 | 9 | 6 | 14 | -18 | 33 |
 | 14 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
 | 15 | Cagliari | 30 | 7 | 9 | 14 | -11 | 30 |
 | 16 | Fiorentina | 29 | 6 | 10 | 13 | -9 | 28 |
 | 17 | Lecce | 29 | 7 | 6 | 16 | -18 | 27 |
-| 18 | Cremonese | 29 | 5 | 9 | 15 | -21 | 24 |
+| 18 | Cremonese | 30 | 5 | 10 | 15 | -21 | 25 |
 | 19 | Pisa | 29 | 2 | 12 | 15 | -26 | 18 |
 | 20 | Hellas Verona | 29 | 3 | 9 | 17 | -29 | 18 |
 
@@ -383,14 +383,14 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Jamshedpur | 6 | 4 | 1 | 1 | 3 | 13 |
 | 4 | FC Goa | 5 | 2 | 3 | 0 | 3 | 9 |
 | 5 | East Bengal | 5 | 2 | 2 | 1 | 5 | 8 |
-| 6 | Bengaluru | 5 | 2 | 2 | 1 | 1 | 8 |
-| 7 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
-| 8 | Punjab FC | 4 | 1 | 2 | 1 | 1 | 5 |
+| 6 | Punjab FC | 5 | 2 | 2 | 1 | 3 | 8 |
+| 7 | Bengaluru | 5 | 2 | 2 | 1 | 1 | 8 |
+| 8 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
 | 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
 | 10 | Inter Kashi | 5 | 1 | 2 | 2 | -1 | 5 |
 | 11 | Chennaiyin | 4 | 1 | 1 | 2 | -2 | 4 |
 | 12 | SC Delhi | 5 | 0 | 2 | 3 | -6 | 2 |
-| 13 | Kerala Blasters | 5 | 0 | 1 | 4 | -5 | 1 |
+| 13 | Kerala Blasters | 6 | 0 | 1 | 5 | -7 | 1 |
 | 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
