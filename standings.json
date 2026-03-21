@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 08:53 PM UTC",
-        "IST": "Sunday, 22 March 2026, 02:23 AM IST"
+        "UTC": "Saturday, 21 March 2026, 09:26 PM UTC",
+        "IST": "Sunday, 22 March 2026, 02:56 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -623,22 +623,22 @@
             },
             {
                 "Position": "4",
-                "Team": "Juventus",
-                "Played": "30",
-                "Wins": "16",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "24",
-                "Points": "56"
-            },
-            {
-                "Position": "5",
                 "Team": "Como",
                 "Played": "29",
                 "Wins": "15",
                 "Draws": "9",
                 "Losses": "5",
                 "Goal Difference": "26",
+                "Points": "54"
+            },
+            {
+                "Position": "5",
+                "Team": "Juventus",
+                "Played": "30",
+                "Wins": "15",
+                "Draws": "9",
+                "Losses": "6",
+                "Goal Difference": "23",
                 "Points": "54"
             },
             {
@@ -683,6 +683,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Sassuolo",
+                "Played": "30",
+                "Wins": "11",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-4",
+                "Points": "39"
+            },
+            {
+                "Position": "11",
                 "Team": "Udinese",
                 "Played": "30",
                 "Wins": "11",
@@ -690,16 +700,6 @@
                 "Losses": "13",
                 "Goal Difference": "-7",
                 "Points": "39"
-            },
-            {
-                "Position": "11",
-                "Team": "Sassuolo",
-                "Played": "30",
-                "Wins": "11",
-                "Draws": "5",
-                "Losses": "14",
-                "Goal Difference": "-5",
-                "Points": "38"
             },
             {
                 "Position": "12",
@@ -800,7 +800,7 @@
                 "Wins": "19",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "33",
+                "Goal Difference": "34",
                 "Points": "60"
             },
             {
@@ -940,7 +940,7 @@
                 "Wins": "7",
                 "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-17",
+                "Goal Difference": "-18",
                 "Points": "27"
             },
             {

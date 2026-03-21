@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 March 2026, 08:53 PM UTC (Sunday, 22 March 2026, 02:23 AM IST)
+**Last Updated:** Saturday, 21 March 2026, 09:26 PM UTC (Sunday, 22 March 2026, 02:56 AM IST)
 
 ### Premier League
 
@@ -123,14 +123,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 29 | 22 | 2 | 5 | 42 | 68 |
 | 2 | Milan | 30 | 18 | 9 | 3 | 24 | 63 |
 | 3 | Napoli | 30 | 19 | 5 | 6 | 16 | 62 |
-| 4 | Juventus | 30 | 16 | 8 | 6 | 24 | 56 |
-| 5 | Como | 29 | 15 | 9 | 5 | 26 | 54 |
+| 4 | Como | 29 | 15 | 9 | 5 | 26 | 54 |
+| 5 | Juventus | 30 | 15 | 9 | 6 | 23 | 54 |
 | 6 | Roma | 29 | 16 | 3 | 10 | 16 | 51 |
 | 7 | Atalanta | 29 | 12 | 11 | 6 | 13 | 47 |
 | 8 | Bologna | 29 | 12 | 6 | 11 | 4 | 42 |
 | 9 | Lazio | 29 | 10 | 10 | 9 | 1 | 40 |
-| 10 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
-| 11 | Sassuolo | 30 | 11 | 5 | 14 | -5 | 38 |
+| 10 | Sassuolo | 30 | 11 | 6 | 13 | -4 | 39 |
+| 11 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
 | 12 | Parma | 30 | 8 | 10 | 12 | -17 | 34 |
 | 13 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
 | 14 | Torino | 30 | 9 | 6 | 15 | -19 | 33 |
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 26 | 19 | 3 | 4 | 33 | 60 |
+| 1 | PSG | 26 | 19 | 3 | 4 | 34 | 60 |
 | 2 | Lens | 27 | 19 | 2 | 6 | 30 | 59 |
 | 3 | Marseille | 26 | 15 | 4 | 7 | 20 | 49 |
 | 4 | Lyon | 26 | 14 | 5 | 7 | 13 | 47 |
@@ -159,7 +159,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Angers | 27 | 9 | 5 | 13 | -13 | 32 |
 | 13 | Paris FC | 26 | 6 | 10 | 10 | -12 | 28 |
 | 14 | Le Havre | 26 | 6 | 9 | 11 | -12 | 27 |
-| 15 | Nice | 27 | 7 | 6 | 14 | -17 | 27 |
+| 15 | Nice | 27 | 7 | 6 | 14 | -18 | 27 |
 | 16 | Auxerre | 27 | 5 | 7 | 15 | -14 | 22 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
 | 18 | Metz | 26 | 3 | 4 | 19 | -35 | 13 |
