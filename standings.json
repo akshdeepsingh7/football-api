@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 07:46 PM UTC",
-        "IST": "Sunday, 22 March 2026, 01:16 AM IST"
+        "UTC": "Saturday, 21 March 2026, 08:28 PM UTC",
+        "IST": "Sunday, 22 March 2026, 01:58 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -67,6 +67,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Brentford",
+                "Played": "31",
+                "Wins": "13",
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "4",
+                "Points": "46"
+            },
+            {
+                "Position": "8",
                 "Team": "Everton",
                 "Played": "31",
                 "Wins": "13",
@@ -74,16 +84,6 @@
                 "Losses": "11",
                 "Goal Difference": "2",
                 "Points": "46"
-            },
-            {
-                "Position": "8",
-                "Team": "Brentford",
-                "Played": "30",
-                "Wins": "13",
-                "Draws": "6",
-                "Losses": "11",
-                "Goal Difference": "4",
-                "Points": "45"
             },
             {
                 "Position": "9",
@@ -148,12 +148,12 @@
             {
                 "Position": "15",
                 "Team": "Leeds United",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "7",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "12",
                 "Goal Difference": "-11",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "16",
@@ -329,6 +329,26 @@
             },
             {
                 "Position": "13",
+                "Team": "Valencia",
+                "Played": "29",
+                "Wins": "8",
+                "Draws": "9",
+                "Losses": "12",
+                "Goal Difference": "-12",
+                "Points": "33"
+            },
+            {
+                "Position": "14",
+                "Team": "Sevilla",
+                "Played": "29",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "-10",
+                "Points": "32"
+            },
+            {
+                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "28",
                 "Wins": "7",
@@ -336,26 +356,6 @@
                 "Losses": "10",
                 "Goal Difference": "-6",
                 "Points": "32"
-            },
-            {
-                "Position": "14",
-                "Team": "Valencia",
-                "Played": "28",
-                "Wins": "8",
-                "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-12",
-                "Points": "32"
-            },
-            {
-                "Position": "15",
-                "Team": "Sevilla",
-                "Played": "28",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "-10",
-                "Points": "31"
             },
             {
                 "Position": "16",
@@ -623,6 +623,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Juventus",
+                "Played": "30",
+                "Wins": "16",
+                "Draws": "8",
+                "Losses": "6",
+                "Goal Difference": "24",
+                "Points": "56"
+            },
+            {
+                "Position": "5",
                 "Team": "Como",
                 "Played": "29",
                 "Wins": "15",
@@ -630,16 +640,6 @@
                 "Losses": "5",
                 "Goal Difference": "26",
                 "Points": "54"
-            },
-            {
-                "Position": "5",
-                "Team": "Juventus",
-                "Played": "29",
-                "Wins": "15",
-                "Draws": "8",
-                "Losses": "6",
-                "Goal Difference": "23",
-                "Points": "53"
             },
             {
                 "Position": "6",
@@ -694,11 +694,11 @@
             {
                 "Position": "11",
                 "Team": "Sassuolo",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "11",
                 "Draws": "5",
-                "Losses": "13",
-                "Goal Difference": "-4",
+                "Losses": "14",
+                "Goal Difference": "-5",
                 "Points": "38"
             },
             {
@@ -806,12 +806,12 @@
             {
                 "Position": "2",
                 "Team": "PSG",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "18",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "4",
                 "Goal Difference": "32",
-                "Points": "57"
+                "Points": "58"
             },
             {
                 "Position": "3",
@@ -925,22 +925,22 @@
             },
             {
                 "Position": "14",
+                "Team": "Nice",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-16",
+                "Points": "28"
+            },
+            {
+                "Position": "15",
                 "Team": "Le Havre",
                 "Played": "26",
                 "Wins": "6",
                 "Draws": "9",
                 "Losses": "11",
                 "Goal Difference": "-12",
-                "Points": "27"
-            },
-            {
-                "Position": "15",
-                "Team": "Nice",
-                "Played": "26",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-16",
                 "Points": "27"
             },
             {
@@ -2116,10 +2116,10 @@
                 "Team": "Gil Vicente",
                 "Played": "27",
                 "Wins": "11",
-                "Draws": "10",
-                "Losses": "6",
-                "Goal Difference": "12",
-                "Points": "43"
+                "Draws": "9",
+                "Losses": "7",
+                "Goal Difference": "11",
+                "Points": "42"
             },
             {
                 "Position": "7",
@@ -2183,6 +2183,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Santa Clara",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-7",
+                "Points": "28"
+            },
+            {
+                "Position": "14",
                 "Team": "Rio Ave",
                 "Played": "26",
                 "Wins": "6",
@@ -2190,16 +2200,6 @@
                 "Losses": "11",
                 "Goal Difference": "-19",
                 "Points": "27"
-            },
-            {
-                "Position": "14",
-                "Team": "Santa Clara",
-                "Played": "27",
-                "Wins": "6",
-                "Draws": "8",
-                "Losses": "13",
-                "Goal Difference": "-8",
-                "Points": "26"
             },
             {
                 "Position": "15",
