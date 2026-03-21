@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 March 2026, 09:48 PM UTC (Sunday, 22 March 2026, 03:18 AM IST)
+**Last Updated:** Saturday, 21 March 2026, 10:26 PM UTC (Sunday, 22 March 2026, 03:56 AM IST)
 
 ### Premier League
 
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 26 | 19 | 3 | 4 | 35 | 60 |
+| 1 | PSG | 26 | 19 | 3 | 4 | 36 | 60 |
 | 2 | Lens | 27 | 19 | 2 | 6 | 30 | 59 |
 | 3 | Marseille | 26 | 15 | 4 | 7 | 20 | 49 |
 | 4 | Lyon | 26 | 14 | 5 | 7 | 13 | 47 |
@@ -159,7 +159,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Angers | 27 | 9 | 5 | 13 | -13 | 32 |
 | 13 | Paris FC | 26 | 6 | 10 | 10 | -12 | 28 |
 | 14 | Le Havre | 26 | 6 | 9 | 11 | -12 | 27 |
-| 15 | Nice | 27 | 7 | 6 | 14 | -19 | 27 |
+| 15 | Nice | 27 | 7 | 6 | 14 | -20 | 27 |
 | 16 | Auxerre | 27 | 5 | 7 | 15 | -14 | 22 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
 | 18 | Metz | 26 | 3 | 4 | 19 | -35 | 13 |
@@ -343,21 +343,21 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | NYCFC | 4 | 3 | 1 | 0 | 8 | 10 |
-| 2 | Nashville | 4 | 3 | 1 | 0 | 6 | 10 |
-| 3 | Inter Miami | 4 | 2 | 1 | 1 | 0 | 7 |
-| 4 | New York RB | 4 | 2 | 1 | 1 | -1 | 7 |
-| 5 | Toronto | 5 | 2 | 1 | 2 | -2 | 7 |
-| 6 | DC United | 4 | 2 | 0 | 2 | 0 | 6 |
-| 7 | Chicago Fire | 5 | 1 | 2 | 2 | 1 | 5 |
+| 1 | Nashville | 5 | 3 | 2 | 0 | 6 | 11 |
+| 2 | NYCFC | 4 | 3 | 1 | 0 | 8 | 10 |
+| 3 | Chicago Fire | 5 | 2 | 1 | 2 | 2 | 7 |
+| 4 | Inter Miami | 4 | 2 | 1 | 1 | 0 | 7 |
+| 5 | New York RB | 4 | 2 | 1 | 1 | -1 | 7 |
+| 6 | Toronto | 5 | 2 | 1 | 2 | -2 | 7 |
+| 7 | DC United | 4 | 2 | 0 | 2 | 0 | 6 |
 | 8 | Charlotte | 4 | 1 | 2 | 1 | -1 | 5 |
-| 9 | New England Revolution | 3 | 1 | 0 | 2 | 1 | 3 |
-| 10 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
-| 11 | Cincinnati | 4 | 1 | 0 | 3 | -5 | 3 |
-| 12 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
-| 13 | Orlando City | 4 | 1 | 0 | 3 | -7 | 3 |
+| 9 | Orlando City | 5 | 1 | 1 | 3 | -7 | 4 |
+| 10 | New England Revolution | 3 | 1 | 0 | 2 | 1 | 3 |
+| 11 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
+| 12 | Cincinnati | 4 | 1 | 0 | 3 | -5 | 3 |
+| 13 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
 | 14 | Columbus Crew | 5 | 0 | 2 | 3 | -3 | 2 |
-| 15 | Philadelphia Union | 5 | 0 | 1 | 4 | -5 | 1 |
+| 15 | Philadelphia Union | 5 | 0 | 0 | 5 | -6 | 0 |
 | 1 | Vancouver Whitecaps | 4 | 4 | 0 | 0 | 13 | 12 |
 | 2 | LAFC | 4 | 4 | 0 | 0 | 8 | 12 |
 | 3 | San Diego | 4 | 3 | 1 | 0 | 8 | 10 |
@@ -403,15 +403,15 @@ Data not available.
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 7 | 5 | 1 | 1 | 8 | 16 |
 | 2 | São Paulo | 7 | 5 | 1 | 1 | 6 | 16 |
-| 3 | Bahia | 6 | 4 | 2 | 0 | 5 | 14 |
-| 4 | Fluminense | 8 | 4 | 2 | 2 | 3 | 14 |
+| 3 | Fluminense | 8 | 5 | 1 | 2 | 4 | 16 |
+| 4 | Bahia | 6 | 4 | 2 | 0 | 5 | 14 |
 | 5 | Flamengo | 6 | 4 | 1 | 1 | 8 | 13 |
 | 6 | Coritiba | 7 | 4 | 1 | 2 | 3 | 13 |
 | 7 | Grêmio | 7 | 3 | 2 | 2 | 2 | 11 |
 | 8 | Athletico Paranaense | 6 | 3 | 1 | 2 | 1 | 10 |
 | 9 | Corinthians | 7 | 2 | 3 | 2 | 0 | 9 |
-| 10 | Atlético Mineiro | 8 | 2 | 3 | 3 | -2 | 9 |
-| 11 | Vasco da Gama | 7 | 2 | 2 | 3 | -1 | 8 |
+| 10 | Vasco da Gama | 7 | 2 | 2 | 3 | -1 | 8 |
+| 11 | Atlético Mineiro | 8 | 2 | 2 | 4 | -3 | 8 |
 | 12 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
 | 13 | Vitória | 6 | 2 | 1 | 3 | -3 | 7 |
 | 14 | Chapecoense | 6 | 1 | 4 | 1 | 0 | 7 |
