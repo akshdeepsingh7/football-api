@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 06:37 PM UTC",
-        "IST": "Sunday, 22 March 2026, 12:07 AM IST"
+        "UTC": "Saturday, 21 March 2026, 07:25 PM UTC",
+        "IST": "Sunday, 22 March 2026, 12:55 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -62,7 +62,7 @@
                 "Wins": "13",
                 "Draws": "9",
                 "Losses": "9",
-                "Goal Difference": "17",
+                "Goal Difference": "15",
                 "Points": "48"
             },
             {
@@ -72,7 +72,7 @@
                 "Wins": "13",
                 "Draws": "7",
                 "Losses": "11",
-                "Goal Difference": "0",
+                "Goal Difference": "2",
                 "Points": "46"
             },
             {
@@ -289,6 +289,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Osasuna",
+                "Played": "29",
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "-1",
+                "Points": "37"
+            },
+            {
+                "Position": "10",
                 "Team": "Espanyol",
                 "Played": "29",
                 "Wins": "10",
@@ -296,16 +306,6 @@
                 "Losses": "12",
                 "Goal Difference": "-8",
                 "Points": "37"
-            },
-            {
-                "Position": "10",
-                "Team": "Osasuna",
-                "Played": "29",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-2",
-                "Points": "35"
             },
             {
                 "Position": "11",
@@ -322,10 +322,10 @@
                 "Team": "Girona",
                 "Played": "29",
                 "Wins": "8",
-                "Draws": "11",
-                "Losses": "10",
-                "Goal Difference": "-12",
-                "Points": "35"
+                "Draws": "10",
+                "Losses": "11",
+                "Goal Difference": "-13",
+                "Points": "34"
             },
             {
                 "Position": "13",
@@ -391,21 +391,21 @@
                 "Position": "19",
                 "Team": "Levante",
                 "Played": "29",
-                "Wins": "5",
-                "Draws": "9",
+                "Wins": "6",
+                "Draws": "8",
                 "Losses": "15",
-                "Goal Difference": "-16",
-                "Points": "24"
+                "Goal Difference": "-15",
+                "Points": "26"
             },
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
                 "Played": "29",
                 "Wins": "4",
-                "Draws": "10",
-                "Losses": "15",
-                "Goal Difference": "-26",
-                "Points": "22"
+                "Draws": "9",
+                "Losses": "16",
+                "Goal Difference": "-27",
+                "Points": "21"
             }
         ],
         "Bundesliga": [
@@ -423,11 +423,11 @@
                 "Position": "2",
                 "Team": "Borussia Dortmund",
                 "Played": "27",
-                "Wins": "17",
+                "Wins": "18",
                 "Draws": "7",
-                "Losses": "3",
-                "Goal Difference": "27",
-                "Points": "58"
+                "Losses": "2",
+                "Goal Difference": "30",
+                "Points": "61"
             },
             {
                 "Position": "3",
@@ -491,16 +491,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Hamburg",
-                "Played": "27",
-                "Wins": "8",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "-6",
-                "Points": "33"
-            },
-            {
-                "Position": "10",
                 "Team": "Augsburg",
                 "Played": "26",
                 "Wins": "9",
@@ -510,7 +500,7 @@
                 "Points": "31"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Union Berlin",
                 "Played": "27",
                 "Wins": "8",
@@ -518,6 +508,16 @@
                 "Losses": "12",
                 "Goal Difference": "-15",
                 "Points": "31"
+            },
+            {
+                "Position": "11",
+                "Team": "Hamburg",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-9",
+                "Points": "30"
             },
             {
                 "Position": "12",
@@ -608,7 +608,7 @@
                 "Wins": "18",
                 "Draws": "9",
                 "Losses": "3",
-                "Goal Difference": "25",
+                "Goal Difference": "24",
                 "Points": "63"
             },
             {
@@ -728,7 +728,7 @@
                 "Wins": "9",
                 "Draws": "6",
                 "Losses": "15",
-                "Goal Difference": "-20",
+                "Goal Difference": "-19",
                 "Points": "33"
             },
             {
@@ -900,7 +900,7 @@
                 "Wins": "10",
                 "Draws": "6",
                 "Losses": "11",
-                "Goal Difference": "-3",
+                "Goal Difference": "-4",
                 "Points": "36"
             },
             {
@@ -950,7 +950,7 @@
                 "Wins": "5",
                 "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-16",
+                "Goal Difference": "-15",
                 "Points": "22"
             },
             {
@@ -2078,7 +2078,7 @@
                 "Wins": "19",
                 "Draws": "8",
                 "Losses": "0",
-                "Goal Difference": "39",
+                "Goal Difference": "40",
                 "Points": "65"
             },
             {
@@ -2148,7 +2148,7 @@
                 "Wins": "9",
                 "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-11",
+                "Goal Difference": "-12",
                 "Points": "32"
             },
             {
@@ -2527,6 +2527,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Toronto",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "7"
+            },
+            {
+                "Position": "6",
                 "Team": "DC United",
                 "Played": "4",
                 "Wins": "2",
@@ -2536,23 +2546,13 @@
                 "Points": "6"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Charlotte",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "-1",
-                "Points": "5"
-            },
-            {
-                "Position": "7",
-                "Team": "Toronto",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-3",
                 "Points": "5"
             },
             {
@@ -2620,10 +2620,10 @@
                 "Team": "Columbus Crew",
                 "Played": "5",
                 "Wins": "0",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "3"
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "2"
             },
             {
                 "Position": "15",
@@ -3022,6 +3022,16 @@
             },
             {
                 "Position": "10",
+                "Team": "RB Bragantino",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "9"
+            },
+            {
+                "Position": "11",
                 "Team": "Vasco da Gama",
                 "Played": "7",
                 "Wins": "2",
@@ -3031,23 +3041,13 @@
                 "Points": "8"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-2",
-                "Points": "8"
-            },
-            {
-                "Position": "12",
-                "Team": "RB Bragantino",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-3",
                 "Points": "8"
             },
             {
@@ -3103,12 +3103,12 @@
             {
                 "Position": "18",
                 "Team": "Botafogo",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "1",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "4",
                 "Goal Difference": "-3",
-                "Points": "3"
+                "Points": "4"
             },
             {
                 "Position": "19",
