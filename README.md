@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 March 2026, 07:25 PM UTC (Sunday, 22 March 2026, 12:55 AM IST)
+**Last Updated:** Saturday, 21 March 2026, 07:46 PM UTC (Sunday, 22 March 2026, 01:16 AM IST)
 
 ### Premier League
 
@@ -90,8 +90,8 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Elche | 29 | 6 | 11 | 12 | -8 | 29 |
 | 17 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
 | 18 | Mallorca | 29 | 7 | 7 | 15 | -13 | 28 |
-| 19 | Levante | 29 | 6 | 8 | 15 | -15 | 26 |
-| 20 | Real Oviedo | 29 | 4 | 9 | 16 | -27 | 21 |
+| 19 | Levante | 29 | 6 | 8 | 15 | -14 | 26 |
+| 20 | Real Oviedo | 29 | 4 | 9 | 16 | -28 | 21 |
 
 ### Bundesliga
 
@@ -155,12 +155,12 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Strasbourg | 26 | 10 | 7 | 9 | 9 | 37 |
 | 9 | Toulouse | 27 | 10 | 7 | 10 | 6 | 37 |
 | 10 | Lorient | 27 | 9 | 10 | 8 | -4 | 37 |
-| 11 | Brest | 27 | 10 | 6 | 11 | -4 | 36 |
+| 11 | Brest | 27 | 10 | 6 | 11 | -5 | 36 |
 | 12 | Angers | 27 | 9 | 5 | 13 | -13 | 32 |
 | 13 | Paris FC | 26 | 6 | 10 | 10 | -12 | 28 |
 | 14 | Le Havre | 26 | 6 | 9 | 11 | -12 | 27 |
 | 15 | Nice | 26 | 7 | 6 | 13 | -16 | 27 |
-| 16 | Auxerre | 27 | 5 | 7 | 15 | -15 | 22 |
+| 16 | Auxerre | 27 | 5 | 7 | 15 | -14 | 22 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
 | 18 | Metz | 26 | 3 | 4 | 19 | -35 | 13 |
 
@@ -292,14 +292,14 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 26 | 22 | 3 | 1 | 42 | 69 |
-| 2 | Benfica | 27 | 19 | 8 | 0 | 40 | 65 |
+| 2 | Benfica | 27 | 19 | 8 | 0 | 41 | 65 |
 | 3 | Sporting CP | 25 | 19 | 5 | 1 | 50 | 62 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
 | 5 | Famalicão | 27 | 13 | 6 | 8 | 11 | 45 |
 | 6 | Gil Vicente | 27 | 11 | 10 | 6 | 12 | 43 |
 | 7 | Estoril | 26 | 10 | 7 | 9 | 5 | 37 |
 | 8 | Moreirense | 27 | 10 | 5 | 12 | -8 | 35 |
-| 9 | Vitória S.C. | 27 | 9 | 5 | 13 | -12 | 32 |
+| 9 | Vitória S.C. | 27 | 9 | 5 | 13 | -13 | 32 |
 | 10 | Arouca | 27 | 8 | 5 | 14 | -21 | 29 |
 | 11 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
 | 12 | Estrela Amadora | 27 | 6 | 10 | 11 | -12 | 28 |
