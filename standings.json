@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 21 March 2026, 02:28 PM UTC",
-        "IST": "Saturday, 21 March 2026, 07:58 PM IST"
+        "UTC": "Saturday, 21 March 2026, 02:54 PM UTC",
+        "IST": "Saturday, 21 March 2026, 08:24 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -359,12 +359,12 @@
             },
             {
                 "Position": "16",
-                "Team": "Mallorca",
+                "Team": "Elche",
                 "Played": "29",
-                "Wins": "7",
-                "Draws": "8",
-                "Losses": "14",
-                "Goal Difference": "-12",
+                "Wins": "6",
+                "Draws": "11",
+                "Losses": "12",
+                "Goal Difference": "-8",
                 "Points": "29"
             },
             {
@@ -379,13 +379,13 @@
             },
             {
                 "Position": "18",
-                "Team": "Elche",
+                "Team": "Mallorca",
                 "Played": "29",
-                "Wins": "5",
-                "Draws": "12",
-                "Losses": "12",
-                "Goal Difference": "-9",
-                "Points": "27"
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-13",
+                "Points": "28"
             },
             {
                 "Position": "19",
@@ -412,12 +412,12 @@
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "21",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "68",
-                "Points": "67"
+                "Points": "68"
             },
             {
                 "Position": "2",
@@ -462,12 +462,12 @@
             {
                 "Position": "6",
                 "Team": "Bayer Leverkusen",
-                "Played": "26",
-                "Wins": "13",
+                "Played": "27",
+                "Wins": "14",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "16",
-                "Points": "45"
+                "Goal Difference": "17",
+                "Points": "48"
             },
             {
                 "Position": "7",
@@ -492,12 +492,12 @@
             {
                 "Position": "9",
                 "Team": "Union Berlin",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "8",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "-11",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "10",
@@ -522,12 +522,12 @@
             {
                 "Position": "12",
                 "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "7",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "12",
                 "Goal Difference": "-13",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "13",
@@ -542,22 +542,22 @@
             {
                 "Position": "14",
                 "Team": "K\u00f6ln",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "6",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "13",
                 "Goal Difference": "-9",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "15",
                 "Team": "Werder Bremen",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "6",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "13",
                 "Goal Difference": "-18",
-                "Points": "25"
+                "Points": "26"
             },
             {
                 "Position": "16",
@@ -572,21 +572,21 @@
             {
                 "Position": "17",
                 "Team": "VfL Wolfsburg",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "5",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "15",
                 "Goal Difference": "-21",
-                "Points": "21"
+                "Points": "22"
             },
             {
                 "Position": "18",
                 "Team": "Heidenheim",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "3",
                 "Draws": "5",
-                "Losses": "18",
-                "Goal Difference": "-34",
+                "Losses": "19",
+                "Goal Difference": "-35",
                 "Points": "14"
             }
         ],
@@ -2844,7 +2844,7 @@
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "3",
+                "Goal Difference": "4",
                 "Points": "8"
             },
             {
@@ -2914,7 +2914,7 @@
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "5",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "1"
             },
             {

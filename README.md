@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 March 2026, 02:28 PM UTC (Saturday, 21 March 2026, 07:58 PM IST)
+**Last Updated:** Saturday, 21 March 2026, 02:54 PM UTC (Saturday, 21 March 2026, 08:24 PM IST)
 
 ### Premier League
 
@@ -87,9 +87,9 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Rayo Vallecano | 28 | 7 | 11 | 10 | -6 | 32 |
 | 14 | Valencia | 28 | 8 | 8 | 12 | -12 | 32 |
 | 15 | Sevilla | 28 | 8 | 7 | 13 | -10 | 31 |
-| 16 | Mallorca | 29 | 7 | 8 | 14 | -12 | 29 |
+| 16 | Elche | 29 | 6 | 11 | 12 | -8 | 29 |
 | 17 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
-| 18 | Elche | 29 | 5 | 12 | 12 | -9 | 27 |
+| 18 | Mallorca | 29 | 7 | 7 | 15 | -13 | 28 |
 | 19 | Levante | 28 | 5 | 8 | 15 | -16 | 23 |
 | 20 | Real Oviedo | 28 | 4 | 9 | 15 | -26 | 21 |
 
@@ -97,24 +97,24 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 26 | 21 | 4 | 1 | 68 | 67 |
+| 1 | Bayern Munich | 27 | 21 | 5 | 1 | 68 | 68 |
 | 2 | Borussia Dortmund | 26 | 17 | 7 | 2 | 29 | 58 |
 | 3 | RB Leipzig | 27 | 15 | 5 | 7 | 18 | 50 |
 | 4 | VfB Stuttgart | 26 | 15 | 5 | 6 | 17 | 50 |
 | 5 | Hoffenheim | 27 | 15 | 5 | 7 | 15 | 50 |
-| 6 | Bayer Leverkusen | 26 | 13 | 6 | 7 | 16 | 45 |
+| 6 | Bayer Leverkusen | 27 | 14 | 6 | 7 | 17 | 48 |
 | 7 | Eintracht Frankfurt | 26 | 10 | 8 | 8 | 0 | 38 |
 | 8 | SC Freiburg | 26 | 9 | 7 | 10 | -6 | 34 |
-| 9 | Union Berlin | 26 | 8 | 7 | 11 | -11 | 31 |
+| 9 | Union Berlin | 27 | 8 | 8 | 11 | -11 | 32 |
 | 10 | Augsburg | 26 | 9 | 4 | 13 | -14 | 31 |
 | 11 | Hamburg | 26 | 7 | 9 | 10 | -8 | 30 |
-| 12 | Borussia Mönchengladbach | 26 | 7 | 7 | 12 | -13 | 28 |
+| 12 | Borussia Mönchengladbach | 27 | 7 | 8 | 12 | -13 | 29 |
 | 13 | Mainz 05 | 26 | 6 | 9 | 11 | -10 | 27 |
-| 14 | Köln | 26 | 6 | 7 | 13 | -9 | 25 |
-| 15 | Werder Bremen | 26 | 6 | 7 | 13 | -18 | 25 |
+| 14 | Köln | 27 | 6 | 8 | 13 | -9 | 26 |
+| 15 | Werder Bremen | 27 | 6 | 8 | 13 | -18 | 26 |
 | 16 | St. Pauli | 26 | 6 | 6 | 14 | -19 | 24 |
-| 17 | VfL Wolfsburg | 26 | 5 | 6 | 15 | -21 | 21 |
-| 18 | Heidenheim | 26 | 3 | 5 | 18 | -34 | 14 |
+| 17 | VfL Wolfsburg | 27 | 5 | 7 | 15 | -21 | 22 |
+| 18 | Heidenheim | 27 | 3 | 5 | 19 | -35 | 14 |
 
 ### Serie A
 
@@ -383,14 +383,14 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Jamshedpur | 6 | 4 | 1 | 1 | 3 | 13 |
 | 4 | FC Goa | 5 | 2 | 3 | 0 | 3 | 9 |
 | 5 | East Bengal | 5 | 2 | 2 | 1 | 5 | 8 |
-| 6 | Punjab FC | 5 | 2 | 2 | 1 | 3 | 8 |
+| 6 | Punjab FC | 5 | 2 | 2 | 1 | 4 | 8 |
 | 7 | Bengaluru | 5 | 2 | 2 | 1 | 1 | 8 |
 | 8 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
 | 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
 | 10 | Inter Kashi | 5 | 1 | 2 | 2 | -1 | 5 |
 | 11 | Chennaiyin | 4 | 1 | 1 | 2 | -2 | 4 |
 | 12 | SC Delhi | 5 | 0 | 2 | 3 | -6 | 2 |
-| 13 | Kerala Blasters | 6 | 0 | 1 | 5 | -7 | 1 |
+| 13 | Kerala Blasters | 6 | 0 | 1 | 5 | -8 | 1 |
 | 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
