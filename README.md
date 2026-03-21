@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 March 2026, 10:26 PM UTC (Sunday, 22 March 2026, 03:56 AM IST)
+**Last Updated:** Saturday, 21 March 2026, 10:52 PM UTC (Sunday, 22 March 2026, 04:22 AM IST)
 
 ### Premier League
 
@@ -343,7 +343,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Nashville | 5 | 3 | 2 | 0 | 6 | 11 |
+| 1 | Nashville | 5 | 4 | 1 | 0 | 7 | 13 |
 | 2 | NYCFC | 4 | 3 | 1 | 0 | 8 | 10 |
 | 3 | Chicago Fire | 5 | 2 | 1 | 2 | 2 | 7 |
 | 4 | Inter Miami | 4 | 2 | 1 | 1 | 0 | 7 |
@@ -351,11 +351,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Toronto | 5 | 2 | 1 | 2 | -2 | 7 |
 | 7 | DC United | 4 | 2 | 0 | 2 | 0 | 6 |
 | 8 | Charlotte | 4 | 1 | 2 | 1 | -1 | 5 |
-| 9 | Orlando City | 5 | 1 | 1 | 3 | -7 | 4 |
-| 10 | New England Revolution | 3 | 1 | 0 | 2 | 1 | 3 |
-| 11 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
-| 12 | Cincinnati | 4 | 1 | 0 | 3 | -5 | 3 |
-| 13 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
+| 9 | New England Revolution | 3 | 1 | 0 | 2 | 1 | 3 |
+| 10 | Atlanta United | 4 | 1 | 0 | 3 | -3 | 3 |
+| 11 | Cincinnati | 4 | 1 | 0 | 3 | -5 | 3 |
+| 12 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
+| 13 | Orlando City | 5 | 1 | 0 | 4 | -8 | 3 |
 | 14 | Columbus Crew | 5 | 0 | 2 | 3 | -3 | 2 |
 | 15 | Philadelphia Union | 5 | 0 | 0 | 5 | -6 | 0 |
 | 1 | Vancouver Whitecaps | 4 | 4 | 0 | 0 | 13 | 12 |
