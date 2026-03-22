@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 March 2026, 02:24 AM UTC (Sunday, 22 March 2026, 07:54 AM IST)
+**Last Updated:** Sunday, 22 March 2026, 04:31 AM UTC (Sunday, 22 March 2026, 10:01 AM IST)
 
 ### Premier League
 
@@ -352,24 +352,24 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Toronto | 5 | 2 | 1 | 2 | -2 | 7 |
 | 8 | New York RB | 5 | 2 | 1 | 2 | -6 | 7 |
 | 9 | Atlanta United | 5 | 1 | 1 | 3 | -3 | 4 |
-| 10 | New England Revolution | 4 | 1 | 0 | 3 | 0 | 3 |
+| 10 | New England Revolution | 4 | 1 | 0 | 3 | -1 | 3 |
 | 11 | Cincinnati | 4 | 1 | 0 | 3 | -5 | 3 |
 | 12 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
 | 13 | Orlando City | 5 | 1 | 0 | 4 | -12 | 3 |
 | 14 | Columbus Crew | 5 | 0 | 2 | 3 | -3 | 2 |
 | 15 | Philadelphia Union | 5 | 0 | 0 | 5 | -6 | 0 |
 | 1 | LAFC | 5 | 4 | 1 | 0 | 8 | 13 |
-| 2 | Vancouver Whitecaps | 4 | 4 | 0 | 0 | 13 | 12 |
-| 3 | San Diego | 4 | 3 | 1 | 0 | 8 | 10 |
-| 4 | San Jose Earthquakes | 4 | 3 | 0 | 1 | 5 | 9 |
+| 2 | Vancouver Whitecaps | 5 | 4 | 0 | 1 | 12 | 12 |
+| 3 | San Jose Earthquakes | 5 | 4 | 0 | 1 | 6 | 12 |
+| 4 | San Diego | 4 | 3 | 1 | 0 | 8 | 10 |
 | 5 | Colorado Rapids | 5 | 3 | 0 | 2 | 4 | 9 |
 | 6 | Seattle Sounders | 4 | 3 | 0 | 1 | 3 | 9 |
 | 7 | Real Salt Lake | 4 | 3 | 0 | 1 | 2 | 9 |
-| 8 | Houston Dynamo | 4 | 2 | 1 | 1 | 0 | 7 |
-| 9 | Dallas | 5 | 1 | 3 | 1 | 0 | 6 |
+| 8 | Dallas | 5 | 2 | 2 | 1 | 1 | 8 |
+| 9 | Houston Dynamo | 4 | 2 | 0 | 2 | -1 | 6 |
 | 10 | Austin | 5 | 1 | 2 | 2 | -2 | 5 |
 | 11 | LA Galaxy | 4 | 1 | 1 | 2 | -1 | 4 |
-| 12 | St. Louis City | 5 | 1 | 1 | 3 | -4 | 4 |
+| 12 | St. Louis City | 5 | 1 | 1 | 3 | -3 | 4 |
 | 13 | Sporting KC | 5 | 1 | 1 | 3 | -6 | 4 |
 | 14 | Minnesota United | 4 | 1 | 1 | 2 | -7 | 4 |
 | 15 | Portland Timbers | 4 | 1 | 0 | 3 | -5 | 3 |

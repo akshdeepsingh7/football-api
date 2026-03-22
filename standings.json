@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 02:24 AM UTC",
-        "IST": "Sunday, 22 March 2026, 07:54 AM IST"
+        "UTC": "Sunday, 22 March 2026, 04:31 AM UTC",
+        "IST": "Sunday, 22 March 2026, 10:01 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2582,7 +2582,7 @@
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "3",
-                "Goal Difference": "0",
+                "Goal Difference": "-1",
                 "Points": "3"
             },
             {
@@ -2648,15 +2648,25 @@
             {
                 "Position": "2",
                 "Team": "Vancouver Whitecaps",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "4",
                 "Draws": "0",
-                "Losses": "0",
-                "Goal Difference": "13",
+                "Losses": "1",
+                "Goal Difference": "12",
                 "Points": "12"
             },
             {
                 "Position": "3",
+                "Team": "San Jose Earthquakes",
+                "Played": "5",
+                "Wins": "4",
+                "Draws": "0",
+                "Losses": "1",
+                "Goal Difference": "6",
+                "Points": "12"
+            },
+            {
+                "Position": "4",
                 "Team": "San Diego",
                 "Played": "4",
                 "Wins": "3",
@@ -2664,16 +2674,6 @@
                 "Losses": "0",
                 "Goal Difference": "8",
                 "Points": "10"
-            },
-            {
-                "Position": "4",
-                "Team": "San Jose Earthquakes",
-                "Played": "4",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "1",
-                "Goal Difference": "5",
-                "Points": "9"
             },
             {
                 "Position": "5",
@@ -2707,22 +2707,22 @@
             },
             {
                 "Position": "8",
-                "Team": "Houston Dynamo",
-                "Played": "4",
+                "Team": "Dallas",
+                "Played": "5",
                 "Wins": "2",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "7"
+                "Goal Difference": "1",
+                "Points": "8"
             },
             {
                 "Position": "9",
-                "Team": "Dallas",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "0",
+                "Team": "Houston Dynamo",
+                "Played": "4",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "2",
+                "Goal Difference": "-1",
                 "Points": "6"
             },
             {
@@ -2752,7 +2752,7 @@
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "3",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "4"
             },
             {
