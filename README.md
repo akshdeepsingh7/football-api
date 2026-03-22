@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 March 2026, 09:27 PM UTC (Monday, 23 March 2026, 02:57 AM IST)
+**Last Updated:** Sunday, 22 March 2026, 09:51 PM UTC (Monday, 23 March 2026, 03:21 AM IST)
 
 ### Premier League
 
@@ -152,7 +152,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Lille | 27 | 14 | 5 | 8 | 8 | 47 |
 | 6 | Monaco | 27 | 14 | 4 | 9 | 9 | 46 |
 | 7 | Rennes | 27 | 12 | 8 | 7 | 6 | 44 |
-| 8 | Strasbourg | 27 | 10 | 8 | 9 | 9 | 38 |
+| 8 | Strasbourg | 27 | 11 | 7 | 9 | 10 | 40 |
 | 9 | Toulouse | 27 | 10 | 7 | 10 | 6 | 37 |
 | 10 | Lorient | 27 | 9 | 10 | 8 | -4 | 37 |
 | 11 | Brest | 27 | 10 | 6 | 11 | -5 | 36 |
@@ -161,7 +161,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Le Havre | 27 | 6 | 9 | 12 | -13 | 27 |
 | 15 | Nice | 27 | 7 | 6 | 14 | -20 | 27 |
 | 16 | Auxerre | 27 | 5 | 7 | 15 | -14 | 22 |
-| 17 | Nantes | 26 | 4 | 6 | 16 | -20 | 18 |
+| 17 | Nantes | 26 | 4 | 5 | 17 | -21 | 17 |
 | 18 | Metz | 27 | 3 | 5 | 19 | -35 | 14 |
 
 ### Champions League
@@ -291,10 +291,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 27 | 22 | 4 | 1 | 42 | 70 |
+| 1 | Porto | 27 | 22 | 3 | 2 | 41 | 69 |
 | 2 | Sporting CP | 26 | 20 | 5 | 1 | 53 | 65 |
 | 3 | Benfica | 27 | 19 | 8 | 0 | 41 | 65 |
-| 4 | Braga | 26 | 13 | 8 | 5 | 27 | 47 |
+| 4 | Braga | 26 | 14 | 7 | 5 | 28 | 49 |
 | 5 | Famalicão | 27 | 13 | 6 | 8 | 11 | 45 |
 | 6 | Gil Vicente | 27 | 11 | 9 | 7 | 11 | 42 |
 | 7 | Estoril | 27 | 10 | 7 | 10 | 4 | 37 |
@@ -412,14 +412,14 @@ Data not available.
 | 9 | Vasco da Gama | 8 | 3 | 2 | 3 | 0 | 11 |
 | 10 | Corinthians | 7 | 2 | 3 | 2 | 0 | 9 |
 | 11 | Atlético Mineiro | 8 | 2 | 2 | 4 | -3 | 8 |
-| 12 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
-| 13 | Vitória | 6 | 2 | 1 | 3 | -3 | 7 |
-| 14 | Chapecoense | 6 | 1 | 4 | 1 | 0 | 7 |
-| 15 | Santos | 8 | 1 | 4 | 3 | -3 | 7 |
-| 16 | Botafogo | 6 | 2 | 0 | 4 | -2 | 6 |
-| 17 | Mirassol | 6 | 1 | 3 | 2 | -1 | 6 |
-| 18 | Remo | 8 | 1 | 3 | 4 | -5 | 6 |
-| 19 | Internacional | 7 | 1 | 2 | 4 | -4 | 5 |
+| 12 | Vitória | 7 | 2 | 2 | 3 | -3 | 8 |
+| 13 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
+| 14 | Chapecoense | 7 | 1 | 5 | 1 | 0 | 8 |
+| 15 | Mirassol | 7 | 1 | 4 | 2 | -1 | 7 |
+| 16 | Santos | 8 | 1 | 4 | 3 | -3 | 7 |
+| 17 | Botafogo | 6 | 2 | 0 | 4 | -2 | 6 |
+| 18 | Internacional | 8 | 1 | 3 | 4 | -4 | 6 |
+| 19 | Remo | 8 | 1 | 3 | 4 | -5 | 6 |
 | 20 | Cruzeiro | 8 | 0 | 4 | 4 | -8 | 4 |
 
 

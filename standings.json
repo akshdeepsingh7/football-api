@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 09:27 PM UTC",
-        "IST": "Monday, 23 March 2026, 02:57 AM IST"
+        "UTC": "Sunday, 22 March 2026, 09:51 PM UTC",
+        "IST": "Monday, 23 March 2026, 03:21 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -867,11 +867,11 @@
                 "Position": "8",
                 "Team": "Strasbourg",
                 "Played": "27",
-                "Wins": "10",
-                "Draws": "8",
+                "Wins": "11",
+                "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "9",
-                "Points": "38"
+                "Goal Difference": "10",
+                "Points": "40"
             },
             {
                 "Position": "9",
@@ -958,10 +958,10 @@
                 "Team": "Nantes",
                 "Played": "26",
                 "Wins": "4",
-                "Draws": "6",
-                "Losses": "16",
-                "Goal Difference": "-20",
-                "Points": "18"
+                "Draws": "5",
+                "Losses": "17",
+                "Goal Difference": "-21",
+                "Points": "17"
             },
             {
                 "Position": "18",
@@ -2066,10 +2066,10 @@
                 "Team": "Porto",
                 "Played": "27",
                 "Wins": "22",
-                "Draws": "4",
-                "Losses": "1",
-                "Goal Difference": "42",
-                "Points": "70"
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "41",
+                "Points": "69"
             },
             {
                 "Position": "2",
@@ -2095,11 +2095,11 @@
                 "Position": "4",
                 "Team": "Braga",
                 "Played": "26",
-                "Wins": "13",
-                "Draws": "8",
+                "Wins": "14",
+                "Draws": "7",
                 "Losses": "5",
-                "Goal Difference": "27",
-                "Points": "47"
+                "Goal Difference": "28",
+                "Points": "49"
             },
             {
                 "Position": "5",
@@ -3042,6 +3042,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Vit\u00f3ria",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "8"
+            },
+            {
+                "Position": "13",
                 "Team": "RB Bragantino",
                 "Played": "8",
                 "Wins": "2",
@@ -3051,27 +3061,27 @@
                 "Points": "8"
             },
             {
-                "Position": "13",
-                "Team": "Vit\u00f3ria",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-3",
-                "Points": "7"
-            },
-            {
                 "Position": "14",
                 "Team": "Chapecoense",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "1",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "0",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "15",
+                "Team": "Mirassol",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "4",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "7"
+            },
+            {
+                "Position": "16",
                 "Team": "Santos",
                 "Played": "8",
                 "Wins": "1",
@@ -3081,7 +3091,7 @@
                 "Points": "7"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Botafogo",
                 "Played": "6",
                 "Wins": "2",
@@ -3091,17 +3101,17 @@
                 "Points": "6"
             },
             {
-                "Position": "17",
-                "Team": "Mirassol",
-                "Played": "6",
+                "Position": "18",
+                "Team": "Internacional",
+                "Played": "8",
                 "Wins": "1",
                 "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-1",
+                "Losses": "4",
+                "Goal Difference": "-4",
                 "Points": "6"
             },
             {
-                "Position": "18",
+                "Position": "19",
                 "Team": "Remo",
                 "Played": "8",
                 "Wins": "1",
@@ -3109,16 +3119,6 @@
                 "Losses": "4",
                 "Goal Difference": "-5",
                 "Points": "6"
-            },
-            {
-                "Position": "19",
-                "Team": "Internacional",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "5"
             },
             {
                 "Position": "20",
