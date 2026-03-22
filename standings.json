@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 08:55 PM UTC",
-        "IST": "Monday, 23 March 2026, 02:25 AM IST"
+        "UTC": "Sunday, 22 March 2026, 09:27 PM UTC",
+        "IST": "Monday, 23 March 2026, 02:57 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -221,24 +221,14 @@
                 "Position": "2",
                 "Team": "Real Madrid",
                 "Played": "29",
-                "Wins": "21",
+                "Wins": "22",
                 "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "35",
-                "Points": "66"
+                "Losses": "4",
+                "Goal Difference": "37",
+                "Points": "69"
             },
             {
                 "Position": "3",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "29",
-                "Wins": "18",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "23",
-                "Points": "60"
-            },
-            {
-                "Position": "4",
                 "Team": "Villarreal",
                 "Played": "29",
                 "Wins": "18",
@@ -246,6 +236,16 @@
                 "Losses": "7",
                 "Goal Difference": "20",
                 "Points": "58"
+            },
+            {
+                "Position": "4",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "29",
+                "Wins": "17",
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "21",
+                "Points": "57"
             },
             {
                 "Position": "5",
@@ -595,11 +595,11 @@
                 "Position": "1",
                 "Team": "Inter",
                 "Played": "30",
-                "Wins": "23",
-                "Draws": "2",
+                "Wins": "22",
+                "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "43",
-                "Points": "71"
+                "Goal Difference": "42",
+                "Points": "69"
             },
             {
                 "Position": "2",
@@ -746,10 +746,10 @@
                 "Team": "Fiorentina",
                 "Played": "30",
                 "Wins": "6",
-                "Draws": "10",
-                "Losses": "14",
-                "Goal Difference": "-10",
-                "Points": "28"
+                "Draws": "11",
+                "Losses": "13",
+                "Goal Difference": "-9",
+                "Points": "29"
             },
             {
                 "Position": "17",
@@ -2727,6 +2727,16 @@
             },
             {
                 "Position": "10",
+                "Team": "LA Galaxy",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "5"
+            },
+            {
+                "Position": "11",
                 "Team": "Austin",
                 "Played": "5",
                 "Wins": "1",
@@ -2736,7 +2746,7 @@
                 "Points": "5"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Minnesota United",
                 "Played": "5",
                 "Wins": "1",
@@ -2744,16 +2754,6 @@
                 "Losses": "2",
                 "Goal Difference": "-7",
                 "Points": "5"
-            },
-            {
-                "Position": "12",
-                "Team": "LA Galaxy",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "4"
             },
             {
                 "Position": "13",
@@ -2767,6 +2767,16 @@
             },
             {
                 "Position": "14",
+                "Team": "Portland Timbers",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-5",
+                "Points": "4"
+            },
+            {
+                "Position": "15",
                 "Team": "Sporting KC",
                 "Played": "5",
                 "Wins": "1",
@@ -2774,16 +2784,6 @@
                 "Losses": "3",
                 "Goal Difference": "-6",
                 "Points": "4"
-            },
-            {
-                "Position": "15",
-                "Team": "Portland Timbers",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-5",
-                "Points": "3"
             }
         ],
         "Indian Super League": [

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 March 2026, 08:55 PM UTC (Monday, 23 March 2026, 02:25 AM IST)
+**Last Updated:** Sunday, 22 March 2026, 09:27 PM UTC (Monday, 23 March 2026, 02:57 AM IST)
 
 ### Premier League
 
@@ -73,9 +73,9 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 29 | 24 | 1 | 4 | 50 | 73 |
-| 2 | Real Madrid | 29 | 21 | 3 | 5 | 35 | 66 |
-| 3 | Atlético de Madrid | 29 | 18 | 6 | 5 | 23 | 60 |
-| 4 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
+| 2 | Real Madrid | 29 | 22 | 3 | 4 | 37 | 69 |
+| 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
+| 4 | Atlético de Madrid | 29 | 17 | 6 | 6 | 21 | 57 |
 | 5 | Real Betis | 29 | 11 | 11 | 7 | 7 | 44 |
 | 6 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
 | 7 | Real Sociedad | 29 | 10 | 8 | 11 | -1 | 38 |
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 30 | 23 | 2 | 5 | 43 | 71 |
+| 1 | Inter | 30 | 22 | 3 | 5 | 42 | 69 |
 | 2 | Milan | 30 | 18 | 9 | 3 | 24 | 63 |
 | 3 | Napoli | 30 | 19 | 5 | 6 | 16 | 62 |
 | 4 | Como | 30 | 16 | 9 | 5 | 31 | 57 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
 | 14 | Torino | 30 | 9 | 6 | 15 | -19 | 33 |
 | 15 | Cagliari | 30 | 7 | 9 | 14 | -11 | 30 |
-| 16 | Fiorentina | 30 | 6 | 10 | 14 | -10 | 28 |
+| 16 | Fiorentina | 30 | 6 | 11 | 13 | -9 | 29 |
 | 17 | Cremonese | 30 | 6 | 9 | 15 | -19 | 27 |
 | 18 | Lecce | 30 | 7 | 6 | 17 | -19 | 27 |
 | 19 | Hellas Verona | 30 | 3 | 9 | 18 | -30 | 18 |
@@ -367,12 +367,12 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Real Salt Lake | 4 | 3 | 0 | 1 | 2 | 9 |
 | 8 | Dallas | 5 | 2 | 2 | 1 | 1 | 8 |
 | 9 | Houston Dynamo | 4 | 2 | 0 | 2 | -1 | 6 |
-| 10 | Austin | 5 | 1 | 2 | 2 | -2 | 5 |
-| 11 | Minnesota United | 5 | 1 | 2 | 2 | -7 | 5 |
-| 12 | LA Galaxy | 4 | 1 | 1 | 2 | -1 | 4 |
+| 10 | LA Galaxy | 5 | 1 | 2 | 2 | -1 | 5 |
+| 11 | Austin | 5 | 1 | 2 | 2 | -2 | 5 |
+| 12 | Minnesota United | 5 | 1 | 2 | 2 | -7 | 5 |
 | 13 | St. Louis City | 5 | 1 | 1 | 3 | -3 | 4 |
-| 14 | Sporting KC | 5 | 1 | 1 | 3 | -6 | 4 |
-| 15 | Portland Timbers | 4 | 1 | 0 | 3 | -5 | 3 |
+| 14 | Portland Timbers | 5 | 1 | 1 | 3 | -5 | 4 |
+| 15 | Sporting KC | 5 | 1 | 1 | 3 | -6 | 4 |
 
 ### Indian Super League
 
