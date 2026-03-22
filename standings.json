@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 02:55 PM UTC",
-        "IST": "Sunday, 22 March 2026, 08:25 PM IST"
+        "UTC": "Sunday, 22 March 2026, 03:27 PM UTC",
+        "IST": "Sunday, 22 March 2026, 08:57 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -157,22 +157,22 @@
             },
             {
                 "Position": "16",
-                "Team": "Tottenham Hotspur",
+                "Team": "Nottingham Forest",
                 "Played": "31",
-                "Wins": "7",
-                "Draws": "10",
-                "Losses": "14",
-                "Goal Difference": "-7",
-                "Points": "31"
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "15",
+                "Goal Difference": "-14",
+                "Points": "32"
             },
             {
                 "Position": "17",
-                "Team": "Nottingham Forest",
+                "Team": "Tottenham Hotspur",
                 "Played": "31",
                 "Wins": "7",
                 "Draws": "9",
                 "Losses": "15",
-                "Goal Difference": "-15",
+                "Goal Difference": "-8",
                 "Points": "30"
             },
             {
@@ -260,12 +260,12 @@
             {
                 "Position": "6",
                 "Team": "Celta de Vigo",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "10",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "7",
                 "Goal Difference": "7",
-                "Points": "41"
+                "Points": "42"
             },
             {
                 "Position": "7",
@@ -370,12 +370,12 @@
             {
                 "Position": "17",
                 "Team": "Alav\u00e9s",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "7",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "14",
                 "Goal Difference": "-12",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "18",
@@ -815,16 +815,6 @@
             },
             {
                 "Position": "3",
-                "Team": "Lyon",
-                "Played": "27",
-                "Wins": "15",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "14",
-                "Points": "50"
-            },
-            {
-                "Position": "4",
                 "Team": "Marseille",
                 "Played": "26",
                 "Wins": "15",
@@ -834,7 +824,27 @@
                 "Points": "49"
             },
             {
+                "Position": "4",
+                "Team": "Lyon",
+                "Played": "27",
+                "Wins": "14",
+                "Draws": "6",
+                "Losses": "7",
+                "Goal Difference": "13",
+                "Points": "48"
+            },
+            {
                 "Position": "5",
+                "Team": "Monaco",
+                "Played": "27",
+                "Wins": "13",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "8",
+                "Points": "44"
+            },
+            {
+                "Position": "6",
                 "Team": "Lille",
                 "Played": "26",
                 "Wins": "13",
@@ -842,16 +852,6 @@
                 "Losses": "8",
                 "Goal Difference": "7",
                 "Points": "44"
-            },
-            {
-                "Position": "6",
-                "Team": "Monaco",
-                "Played": "27",
-                "Wins": "13",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "7",
-                "Points": "43"
             },
             {
                 "Position": "7",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 March 2026, 02:55 PM UTC (Sunday, 22 March 2026, 08:25 PM IST)
+**Last Updated:** Sunday, 22 March 2026, 03:27 PM UTC (Sunday, 22 March 2026, 08:57 PM IST)
 
 ### Premier League
 
@@ -62,8 +62,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | AFC Bournemouth | 31 | 9 | 15 | 7 | -2 | 42 |
 | 14 | Crystal Palace | 30 | 10 | 9 | 11 | -2 | 39 |
 | 15 | Leeds United | 31 | 7 | 12 | 12 | -11 | 33 |
-| 16 | Tottenham Hotspur | 31 | 7 | 10 | 14 | -7 | 31 |
-| 17 | Nottingham Forest | 31 | 7 | 9 | 15 | -15 | 30 |
+| 16 | Nottingham Forest | 31 | 8 | 8 | 15 | -14 | 32 |
+| 17 | Tottenham Hotspur | 31 | 7 | 9 | 15 | -8 | 30 |
 | 18 | West Ham United | 31 | 7 | 8 | 16 | -20 | 29 |
 | 19 | Burnley | 31 | 4 | 8 | 19 | -28 | 20 |
 | 20 | Wolverhampton Wanderers | 31 | 3 | 8 | 20 | -30 | 17 |
@@ -77,7 +77,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 4 | Atlético de Madrid | 28 | 17 | 6 | 5 | 22 | 57 |
 | 5 | Real Betis | 28 | 11 | 11 | 6 | 8 | 44 |
-| 6 | Celta de Vigo | 28 | 10 | 11 | 7 | 7 | 41 |
+| 6 | Celta de Vigo | 29 | 10 | 12 | 7 | 7 | 42 |
 | 7 | Real Sociedad | 29 | 10 | 8 | 11 | -1 | 38 |
 | 8 | Getafe | 29 | 11 | 5 | 13 | -6 | 38 |
 | 9 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
@@ -88,7 +88,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Rayo Vallecano | 29 | 7 | 11 | 11 | -7 | 32 |
 | 15 | Sevilla | 29 | 8 | 7 | 14 | -12 | 31 |
 | 16 | Elche | 29 | 6 | 11 | 12 | -8 | 29 |
-| 17 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
+| 17 | Alavés | 29 | 7 | 8 | 14 | -12 | 29 |
 | 18 | Mallorca | 29 | 7 | 7 | 15 | -13 | 28 |
 | 19 | Levante | 29 | 6 | 8 | 15 | -14 | 26 |
 | 20 | Real Oviedo | 29 | 4 | 9 | 16 | -28 | 21 |
@@ -147,10 +147,10 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 26 | 19 | 3 | 4 | 36 | 60 |
 | 2 | Lens | 27 | 19 | 2 | 6 | 30 | 59 |
-| 3 | Lyon | 27 | 15 | 5 | 7 | 14 | 50 |
-| 4 | Marseille | 26 | 15 | 4 | 7 | 20 | 49 |
-| 5 | Lille | 26 | 13 | 5 | 8 | 7 | 44 |
-| 6 | Monaco | 27 | 13 | 4 | 10 | 7 | 43 |
+| 3 | Marseille | 26 | 15 | 4 | 7 | 20 | 49 |
+| 4 | Lyon | 27 | 14 | 6 | 7 | 13 | 48 |
+| 5 | Monaco | 27 | 13 | 5 | 9 | 8 | 44 |
+| 6 | Lille | 26 | 13 | 5 | 8 | 7 | 44 |
 | 7 | Rennes | 26 | 12 | 7 | 7 | 6 | 43 |
 | 8 | Strasbourg | 26 | 10 | 7 | 9 | 9 | 37 |
 | 9 | Toulouse | 27 | 10 | 7 | 10 | 6 | 37 |
