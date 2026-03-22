@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 21 March 2026, 11:49 PM UTC (Sunday, 22 March 2026, 05:19 AM IST)
+**Last Updated:** Sunday, 22 March 2026, 02:24 AM UTC (Sunday, 22 March 2026, 07:54 AM IST)
 
 ### Premier League
 
@@ -343,36 +343,36 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Nashville | 5 | 4 | 1 | 0 | 9 | 13 |
+| 1 | Nashville | 5 | 4 | 1 | 0 | 11 | 13 |
 | 2 | NYCFC | 4 | 3 | 1 | 0 | 8 | 10 |
-| 3 | New York RB | 5 | 2 | 2 | 1 | -1 | 8 |
+| 3 | Charlotte | 5 | 2 | 2 | 1 | 4 | 8 |
 | 4 | Chicago Fire | 5 | 2 | 1 | 2 | 2 | 7 |
 | 5 | Inter Miami | 4 | 2 | 1 | 1 | 0 | 7 |
 | 6 | DC United | 5 | 2 | 1 | 2 | 0 | 7 |
 | 7 | Toronto | 5 | 2 | 1 | 2 | -2 | 7 |
-| 8 | Charlotte | 5 | 1 | 3 | 1 | -1 | 6 |
+| 8 | New York RB | 5 | 2 | 1 | 2 | -6 | 7 |
 | 9 | Atlanta United | 5 | 1 | 1 | 3 | -3 | 4 |
-| 10 | New England Revolution | 3 | 1 | 0 | 2 | 1 | 3 |
+| 10 | New England Revolution | 4 | 1 | 0 | 3 | 0 | 3 |
 | 11 | Cincinnati | 4 | 1 | 0 | 3 | -5 | 3 |
 | 12 | CF Montréal | 4 | 1 | 0 | 3 | -6 | 3 |
-| 13 | Orlando City | 5 | 1 | 0 | 4 | -10 | 3 |
+| 13 | Orlando City | 5 | 1 | 0 | 4 | -12 | 3 |
 | 14 | Columbus Crew | 5 | 0 | 2 | 3 | -3 | 2 |
 | 15 | Philadelphia Union | 5 | 0 | 0 | 5 | -6 | 0 |
-| 1 | Vancouver Whitecaps | 4 | 4 | 0 | 0 | 13 | 12 |
-| 2 | LAFC | 4 | 4 | 0 | 0 | 8 | 12 |
+| 1 | LAFC | 5 | 4 | 1 | 0 | 8 | 13 |
+| 2 | Vancouver Whitecaps | 4 | 4 | 0 | 0 | 13 | 12 |
 | 3 | San Diego | 4 | 3 | 1 | 0 | 8 | 10 |
 | 4 | San Jose Earthquakes | 4 | 3 | 0 | 1 | 5 | 9 |
-| 5 | Seattle Sounders | 4 | 3 | 0 | 1 | 3 | 9 |
-| 6 | Real Salt Lake | 4 | 3 | 0 | 1 | 2 | 9 |
-| 7 | Colorado Rapids | 4 | 2 | 0 | 2 | 1 | 6 |
-| 8 | Houston Dynamo | 3 | 2 | 0 | 1 | 0 | 6 |
-| 9 | Dallas | 4 | 1 | 2 | 1 | 0 | 5 |
-| 10 | LA Galaxy | 4 | 1 | 1 | 2 | -1 | 4 |
-| 11 | Austin | 4 | 1 | 1 | 2 | -2 | 4 |
-| 12 | Sporting KC | 4 | 1 | 1 | 2 | -3 | 4 |
-| 13 | Minnesota United | 4 | 1 | 1 | 2 | -7 | 4 |
-| 14 | Portland Timbers | 4 | 1 | 0 | 3 | -5 | 3 |
-| 15 | St. Louis City | 4 | 0 | 1 | 3 | -5 | 1 |
+| 5 | Colorado Rapids | 5 | 3 | 0 | 2 | 4 | 9 |
+| 6 | Seattle Sounders | 4 | 3 | 0 | 1 | 3 | 9 |
+| 7 | Real Salt Lake | 4 | 3 | 0 | 1 | 2 | 9 |
+| 8 | Houston Dynamo | 4 | 2 | 1 | 1 | 0 | 7 |
+| 9 | Dallas | 5 | 1 | 3 | 1 | 0 | 6 |
+| 10 | Austin | 5 | 1 | 2 | 2 | -2 | 5 |
+| 11 | LA Galaxy | 4 | 1 | 1 | 2 | -1 | 4 |
+| 12 | St. Louis City | 5 | 1 | 1 | 3 | -4 | 4 |
+| 13 | Sporting KC | 5 | 1 | 1 | 3 | -6 | 4 |
+| 14 | Minnesota United | 4 | 1 | 1 | 2 | -7 | 4 |
+| 15 | Portland Timbers | 4 | 1 | 0 | 3 | -5 | 3 |
 
 ### Indian Super League
 
@@ -401,8 +401,8 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 7 | 5 | 1 | 1 | 8 | 16 |
-| 2 | São Paulo | 7 | 5 | 1 | 1 | 6 | 16 |
+| 1 | Palmeiras | 8 | 6 | 1 | 1 | 9 | 19 |
+| 2 | São Paulo | 8 | 5 | 1 | 2 | 5 | 16 |
 | 3 | Fluminense | 8 | 5 | 1 | 2 | 4 | 16 |
 | 4 | Bahia | 6 | 4 | 2 | 0 | 5 | 14 |
 | 5 | Flamengo | 6 | 4 | 1 | 1 | 8 | 13 |
