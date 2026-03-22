@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 03:27 PM UTC",
-        "IST": "Sunday, 22 March 2026, 08:57 PM IST"
+        "UTC": "Sunday, 22 March 2026, 03:50 PM UTC",
+        "IST": "Sunday, 22 March 2026, 09:20 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -42,7 +42,7 @@
                 "Wins": "16",
                 "Draws": "6",
                 "Losses": "9",
-                "Goal Difference": "4",
+                "Goal Difference": "5",
                 "Points": "54"
             },
             {
@@ -162,7 +162,7 @@
                 "Wins": "8",
                 "Draws": "8",
                 "Losses": "15",
-                "Goal Difference": "-14",
+                "Goal Difference": "-13",
                 "Points": "32"
             },
             {
@@ -172,7 +172,7 @@
                 "Wins": "7",
                 "Draws": "9",
                 "Losses": "15",
-                "Goal Difference": "-8",
+                "Goal Difference": "-9",
                 "Points": "30"
             },
             {
@@ -182,7 +182,7 @@
                 "Wins": "7",
                 "Draws": "8",
                 "Losses": "16",
-                "Goal Difference": "-20",
+                "Goal Difference": "-21",
                 "Points": "29"
             },
             {
@@ -249,6 +249,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Celta de Vigo",
+                "Played": "29",
+                "Wins": "11",
+                "Draws": "11",
+                "Losses": "7",
+                "Goal Difference": "9",
+                "Points": "44"
+            },
+            {
+                "Position": "6",
                 "Team": "Real Betis",
                 "Played": "28",
                 "Wins": "11",
@@ -256,16 +266,6 @@
                 "Losses": "6",
                 "Goal Difference": "8",
                 "Points": "44"
-            },
-            {
-                "Position": "6",
-                "Team": "Celta de Vigo",
-                "Played": "29",
-                "Wins": "10",
-                "Draws": "12",
-                "Losses": "7",
-                "Goal Difference": "7",
-                "Points": "42"
             },
             {
                 "Position": "7",
@@ -369,22 +369,22 @@
             },
             {
                 "Position": "17",
-                "Team": "Alav\u00e9s",
-                "Played": "29",
-                "Wins": "7",
-                "Draws": "8",
-                "Losses": "14",
-                "Goal Difference": "-12",
-                "Points": "29"
-            },
-            {
-                "Position": "18",
                 "Team": "Mallorca",
                 "Played": "29",
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "15",
                 "Goal Difference": "-13",
+                "Points": "28"
+            },
+            {
+                "Position": "18",
+                "Team": "Alav\u00e9s",
+                "Played": "29",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-14",
                 "Points": "28"
             },
             {
@@ -663,23 +663,23 @@
             },
             {
                 "Position": "8",
-                "Team": "Bologna",
+                "Team": "Lazio",
                 "Played": "30",
-                "Wins": "12",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "4",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "9",
+                "Goal Difference": "3",
                 "Points": "43"
             },
             {
                 "Position": "9",
-                "Team": "Lazio",
+                "Team": "Bologna",
                 "Played": "30",
-                "Wins": "10",
-                "Draws": "11",
-                "Losses": "9",
-                "Goal Difference": "1",
-                "Points": "41"
+                "Wins": "12",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "2",
+                "Points": "42"
             },
             {
                 "Position": "10",
@@ -828,20 +828,20 @@
                 "Team": "Lyon",
                 "Played": "27",
                 "Wins": "14",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "13",
-                "Points": "48"
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "12",
+                "Points": "47"
             },
             {
                 "Position": "5",
                 "Team": "Monaco",
                 "Played": "27",
-                "Wins": "13",
-                "Draws": "5",
+                "Wins": "14",
+                "Draws": "4",
                 "Losses": "9",
-                "Goal Difference": "8",
-                "Points": "44"
+                "Goal Difference": "9",
+                "Points": "46"
             },
             {
                 "Position": "6",
@@ -2124,12 +2124,12 @@
             {
                 "Position": "7",
                 "Team": "Estoril",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "10",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "9",
                 "Goal Difference": "5",
-                "Points": "37"
+                "Points": "38"
             },
             {
                 "Position": "8",
@@ -2173,6 +2173,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Rio Ave",
+                "Played": "27",
+                "Wins": "6",
+                "Draws": "10",
+                "Losses": "11",
+                "Goal Difference": "-19",
+                "Points": "28"
+            },
+            {
+                "Position": "13",
                 "Team": "Estrela Amadora",
                 "Played": "27",
                 "Wins": "6",
@@ -2182,7 +2192,7 @@
                 "Points": "28"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Santa Clara",
                 "Played": "27",
                 "Wins": "7",
@@ -2190,16 +2200,6 @@
                 "Losses": "13",
                 "Goal Difference": "-7",
                 "Points": "28"
-            },
-            {
-                "Position": "14",
-                "Team": "Rio Ave",
-                "Played": "26",
-                "Wins": "6",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-19",
-                "Points": "27"
             },
             {
                 "Position": "15",
@@ -2819,6 +2819,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Bengaluru",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "2",
+                "Points": "11"
+            },
+            {
+                "Position": "5",
                 "Team": "FC Goa",
                 "Played": "6",
                 "Wins": "2",
@@ -2826,16 +2836,6 @@
                 "Losses": "0",
                 "Goal Difference": "3",
                 "Points": "10"
-            },
-            {
-                "Position": "5",
-                "Team": "Bengaluru",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "9"
             },
             {
                 "Position": "6",
@@ -2859,16 +2859,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Inter Kashi",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "6"
-            },
-            {
-                "Position": "9",
                 "Team": "NorthEast Utd",
                 "Played": "6",
                 "Wins": "1",
@@ -2878,13 +2868,23 @@
                 "Points": "6"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Odisha",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "-1",
+                "Points": "5"
+            },
+            {
+                "Position": "10",
+                "Team": "Inter Kashi",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-2",
                 "Points": "5"
             },
             {
