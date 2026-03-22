@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 March 2026, 03:50 PM UTC (Sunday, 22 March 2026, 09:20 PM IST)
+**Last Updated:** Sunday, 22 March 2026, 04:32 PM UTC (Sunday, 22 March 2026, 10:02 PM IST)
 
 ### Premier League
 
@@ -62,8 +62,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | AFC Bournemouth | 31 | 9 | 15 | 7 | -2 | 42 |
 | 14 | Crystal Palace | 30 | 10 | 9 | 11 | -2 | 39 |
 | 15 | Leeds United | 31 | 7 | 12 | 12 | -11 | 33 |
-| 16 | Nottingham Forest | 31 | 8 | 8 | 15 | -13 | 32 |
-| 17 | Tottenham Hotspur | 31 | 7 | 9 | 15 | -9 | 30 |
+| 16 | Nottingham Forest | 31 | 8 | 8 | 15 | -12 | 32 |
+| 17 | Tottenham Hotspur | 31 | 7 | 9 | 15 | -10 | 30 |
 | 18 | West Ham United | 31 | 7 | 8 | 16 | -21 | 29 |
 | 19 | Burnley | 31 | 4 | 8 | 19 | -28 | 20 |
 | 20 | Wolverhampton Wanderers | 31 | 3 | 8 | 20 | -30 | 17 |
@@ -76,8 +76,8 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Real Madrid | 28 | 21 | 3 | 4 | 36 | 66 |
 | 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 4 | Atlético de Madrid | 28 | 17 | 6 | 5 | 22 | 57 |
-| 5 | Celta de Vigo | 29 | 11 | 11 | 7 | 9 | 44 |
-| 6 | Real Betis | 28 | 11 | 11 | 6 | 8 | 44 |
+| 5 | Real Betis | 28 | 11 | 11 | 6 | 8 | 44 |
+| 6 | Celta de Vigo | 29 | 11 | 11 | 7 | 8 | 44 |
 | 7 | Real Sociedad | 29 | 10 | 8 | 11 | -1 | 38 |
 | 8 | Getafe | 29 | 11 | 5 | 13 | -6 | 38 |
 | 9 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
@@ -89,7 +89,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Sevilla | 29 | 8 | 7 | 14 | -12 | 31 |
 | 16 | Elche | 29 | 6 | 11 | 12 | -8 | 29 |
 | 17 | Mallorca | 29 | 7 | 7 | 15 | -13 | 28 |
-| 18 | Alavés | 29 | 7 | 7 | 15 | -14 | 28 |
+| 18 | Alavés | 29 | 7 | 7 | 15 | -13 | 28 |
 | 19 | Levante | 29 | 6 | 8 | 15 | -14 | 26 |
 | 20 | Real Oviedo | 29 | 4 | 9 | 16 | -28 | 21 |
 
@@ -103,16 +103,16 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | VfB Stuttgart | 26 | 15 | 5 | 6 | 17 | 50 |
 | 5 | Hoffenheim | 27 | 15 | 5 | 7 | 15 | 50 |
 | 6 | Bayer Leverkusen | 27 | 13 | 7 | 7 | 16 | 46 |
-| 7 | Eintracht Frankfurt | 27 | 10 | 9 | 8 | 0 | 39 |
-| 8 | SC Freiburg | 26 | 9 | 7 | 10 | -6 | 34 |
+| 7 | Eintracht Frankfurt | 27 | 10 | 8 | 9 | -1 | 38 |
+| 8 | SC Freiburg | 27 | 9 | 8 | 10 | -6 | 35 |
 | 9 | Augsburg | 26 | 9 | 4 | 13 | -14 | 31 |
 | 10 | Union Berlin | 27 | 8 | 7 | 12 | -15 | 31 |
-| 11 | Hamburg | 27 | 7 | 9 | 11 | -9 | 30 |
-| 12 | Borussia Mönchengladbach | 27 | 7 | 8 | 12 | -13 | 29 |
-| 13 | Mainz 05 | 27 | 6 | 10 | 11 | -10 | 28 |
+| 11 | Mainz 05 | 27 | 7 | 9 | 11 | -9 | 30 |
+| 12 | Hamburg | 27 | 7 | 9 | 11 | -9 | 30 |
+| 13 | Borussia Mönchengladbach | 27 | 7 | 8 | 12 | -13 | 29 |
 | 14 | Werder Bremen | 27 | 7 | 7 | 13 | -17 | 28 |
 | 15 | Köln | 27 | 6 | 8 | 13 | -9 | 26 |
-| 16 | St. Pauli | 26 | 6 | 6 | 14 | -19 | 24 |
+| 16 | St. Pauli | 27 | 6 | 7 | 14 | -19 | 25 |
 | 17 | VfL Wolfsburg | 27 | 5 | 6 | 16 | -22 | 21 |
 | 18 | Heidenheim | 27 | 3 | 6 | 18 | -34 | 15 |
 
@@ -147,22 +147,22 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 26 | 19 | 3 | 4 | 36 | 60 |
 | 2 | Lens | 27 | 19 | 2 | 6 | 30 | 59 |
-| 3 | Marseille | 26 | 15 | 4 | 7 | 20 | 49 |
+| 3 | Marseille | 27 | 15 | 5 | 7 | 20 | 50 |
 | 4 | Lyon | 27 | 14 | 5 | 8 | 12 | 47 |
 | 5 | Monaco | 27 | 14 | 4 | 9 | 9 | 46 |
-| 6 | Lille | 26 | 13 | 5 | 8 | 7 | 44 |
-| 7 | Rennes | 26 | 12 | 7 | 7 | 6 | 43 |
+| 6 | Lille | 27 | 13 | 6 | 8 | 7 | 45 |
+| 7 | Rennes | 27 | 12 | 8 | 7 | 6 | 44 |
 | 8 | Strasbourg | 26 | 10 | 7 | 9 | 9 | 37 |
 | 9 | Toulouse | 27 | 10 | 7 | 10 | 6 | 37 |
 | 10 | Lorient | 27 | 9 | 10 | 8 | -4 | 37 |
 | 11 | Brest | 27 | 10 | 6 | 11 | -5 | 36 |
 | 12 | Angers | 27 | 9 | 5 | 13 | -13 | 32 |
-| 13 | Paris FC | 26 | 6 | 10 | 10 | -12 | 28 |
-| 14 | Le Havre | 26 | 6 | 9 | 11 | -12 | 27 |
+| 13 | Paris FC | 27 | 6 | 11 | 10 | -12 | 29 |
+| 14 | Le Havre | 27 | 6 | 10 | 11 | -12 | 28 |
 | 15 | Nice | 27 | 7 | 6 | 14 | -20 | 27 |
 | 16 | Auxerre | 27 | 5 | 7 | 15 | -14 | 22 |
 | 17 | Nantes | 25 | 4 | 5 | 16 | -20 | 17 |
-| 18 | Metz | 26 | 3 | 4 | 19 | -35 | 13 |
+| 18 | Metz | 27 | 3 | 5 | 19 | -35 | 14 |
 
 ### Champions League
 
@@ -297,14 +297,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
 | 5 | Famalicão | 27 | 13 | 6 | 8 | 11 | 45 |
 | 6 | Gil Vicente | 27 | 11 | 9 | 7 | 11 | 42 |
-| 7 | Estoril | 27 | 10 | 8 | 9 | 5 | 38 |
+| 7 | Estoril | 27 | 11 | 7 | 9 | 6 | 40 |
 | 8 | Moreirense | 27 | 10 | 5 | 12 | -8 | 35 |
 | 9 | Vitória S.C. | 27 | 9 | 5 | 13 | -13 | 32 |
 | 10 | Arouca | 27 | 8 | 5 | 14 | -21 | 29 |
 | 11 | Alverca | 26 | 7 | 8 | 11 | -15 | 29 |
-| 12 | Rio Ave | 27 | 6 | 10 | 11 | -19 | 28 |
-| 13 | Estrela Amadora | 27 | 6 | 10 | 11 | -12 | 28 |
-| 14 | Santa Clara | 27 | 7 | 7 | 13 | -7 | 28 |
+| 12 | Estrela Amadora | 27 | 6 | 10 | 11 | -12 | 28 |
+| 13 | Santa Clara | 27 | 7 | 7 | 13 | -7 | 28 |
+| 14 | Rio Ave | 27 | 6 | 9 | 12 | -20 | 27 |
 | 15 | Casa Pia | 26 | 5 | 9 | 12 | -22 | 24 |
 | 16 | Nacional | 27 | 5 | 7 | 15 | -10 | 22 |
 | 17 | Tondela | 26 | 4 | 8 | 14 | -20 | 20 |
@@ -381,14 +381,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Mumbai City | 6 | 4 | 2 | 0 | 4 | 14 |
 | 2 | Mohun Bagan SG | 6 | 4 | 1 | 1 | 11 | 13 |
 | 3 | Jamshedpur | 6 | 4 | 1 | 1 | 3 | 13 |
-| 4 | Bengaluru | 6 | 3 | 2 | 1 | 2 | 11 |
+| 4 | Bengaluru | 6 | 3 | 2 | 1 | 3 | 11 |
 | 5 | FC Goa | 6 | 2 | 4 | 0 | 3 | 10 |
 | 6 | East Bengal | 5 | 2 | 2 | 1 | 5 | 8 |
 | 7 | Punjab FC | 5 | 2 | 2 | 1 | 3 | 8 |
 | 8 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
 | 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
-| 10 | Inter Kashi | 6 | 1 | 2 | 3 | -2 | 5 |
-| 11 | Chennaiyin | 5 | 1 | 2 | 2 | -2 | 5 |
+| 10 | Chennaiyin | 5 | 1 | 2 | 2 | -2 | 5 |
+| 11 | Inter Kashi | 6 | 1 | 2 | 3 | -3 | 5 |
 | 12 | SC Delhi | 5 | 0 | 2 | 3 | -6 | 2 |
 | 13 | Kerala Blasters | 6 | 0 | 1 | 5 | -7 | 1 |
 | 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 03:50 PM UTC",
-        "IST": "Sunday, 22 March 2026, 09:20 PM IST"
+        "UTC": "Sunday, 22 March 2026, 04:32 PM UTC",
+        "IST": "Sunday, 22 March 2026, 10:02 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -162,7 +162,7 @@
                 "Wins": "8",
                 "Draws": "8",
                 "Losses": "15",
-                "Goal Difference": "-13",
+                "Goal Difference": "-12",
                 "Points": "32"
             },
             {
@@ -172,7 +172,7 @@
                 "Wins": "7",
                 "Draws": "9",
                 "Losses": "15",
-                "Goal Difference": "-9",
+                "Goal Difference": "-10",
                 "Points": "30"
             },
             {
@@ -249,21 +249,21 @@
             },
             {
                 "Position": "5",
-                "Team": "Celta de Vigo",
-                "Played": "29",
-                "Wins": "11",
-                "Draws": "11",
-                "Losses": "7",
-                "Goal Difference": "9",
-                "Points": "44"
-            },
-            {
-                "Position": "6",
                 "Team": "Real Betis",
                 "Played": "28",
                 "Wins": "11",
                 "Draws": "11",
                 "Losses": "6",
+                "Goal Difference": "8",
+                "Points": "44"
+            },
+            {
+                "Position": "6",
+                "Team": "Celta de Vigo",
+                "Played": "29",
+                "Wins": "11",
+                "Draws": "11",
+                "Losses": "7",
                 "Goal Difference": "8",
                 "Points": "44"
             },
@@ -384,7 +384,7 @@
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-14",
+                "Goal Difference": "-13",
                 "Points": "28"
             },
             {
@@ -474,20 +474,20 @@
                 "Team": "Eintracht Frankfurt",
                 "Played": "27",
                 "Wins": "10",
-                "Draws": "9",
-                "Losses": "8",
-                "Goal Difference": "0",
-                "Points": "39"
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "-1",
+                "Points": "38"
             },
             {
                 "Position": "8",
                 "Team": "SC Freiburg",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "9",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "-6",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "9",
@@ -511,7 +511,7 @@
             },
             {
                 "Position": "11",
-                "Team": "Hamburg",
+                "Team": "Mainz 05",
                 "Played": "27",
                 "Wins": "7",
                 "Draws": "9",
@@ -521,6 +521,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Hamburg",
+                "Played": "27",
+                "Wins": "7",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-9",
+                "Points": "30"
+            },
+            {
+                "Position": "13",
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "27",
                 "Wins": "7",
@@ -528,16 +538,6 @@
                 "Losses": "12",
                 "Goal Difference": "-13",
                 "Points": "29"
-            },
-            {
-                "Position": "13",
-                "Team": "Mainz 05",
-                "Played": "27",
-                "Wins": "6",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-10",
-                "Points": "28"
             },
             {
                 "Position": "14",
@@ -562,12 +562,12 @@
             {
                 "Position": "16",
                 "Team": "St. Pauli",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "6",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "14",
                 "Goal Difference": "-19",
-                "Points": "24"
+                "Points": "25"
             },
             {
                 "Position": "17",
@@ -816,12 +816,12 @@
             {
                 "Position": "3",
                 "Team": "Marseille",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "15",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "7",
                 "Goal Difference": "20",
-                "Points": "49"
+                "Points": "50"
             },
             {
                 "Position": "4",
@@ -846,22 +846,22 @@
             {
                 "Position": "6",
                 "Team": "Lille",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "13",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "8",
                 "Goal Difference": "7",
-                "Points": "44"
+                "Points": "45"
             },
             {
                 "Position": "7",
                 "Team": "Rennes",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "12",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "7",
                 "Goal Difference": "6",
-                "Points": "43"
+                "Points": "44"
             },
             {
                 "Position": "8",
@@ -916,22 +916,22 @@
             {
                 "Position": "13",
                 "Team": "Paris FC",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "6",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "10",
                 "Goal Difference": "-12",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "14",
                 "Team": "Le Havre",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "6",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "11",
                 "Goal Difference": "-12",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "15",
@@ -966,12 +966,12 @@
             {
                 "Position": "18",
                 "Team": "Metz",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "19",
                 "Goal Difference": "-35",
-                "Points": "13"
+                "Points": "14"
             }
         ],
         "Champions League": [
@@ -2125,11 +2125,11 @@
                 "Position": "7",
                 "Team": "Estoril",
                 "Played": "27",
-                "Wins": "10",
-                "Draws": "8",
+                "Wins": "11",
+                "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "5",
-                "Points": "38"
+                "Goal Difference": "6",
+                "Points": "40"
             },
             {
                 "Position": "8",
@@ -2173,16 +2173,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Rio Ave",
-                "Played": "27",
-                "Wins": "6",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-19",
-                "Points": "28"
-            },
-            {
-                "Position": "13",
                 "Team": "Estrela Amadora",
                 "Played": "27",
                 "Wins": "6",
@@ -2192,7 +2182,7 @@
                 "Points": "28"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Santa Clara",
                 "Played": "27",
                 "Wins": "7",
@@ -2200,6 +2190,16 @@
                 "Losses": "13",
                 "Goal Difference": "-7",
                 "Points": "28"
+            },
+            {
+                "Position": "14",
+                "Team": "Rio Ave",
+                "Played": "27",
+                "Wins": "6",
+                "Draws": "9",
+                "Losses": "12",
+                "Goal Difference": "-20",
+                "Points": "27"
             },
             {
                 "Position": "15",
@@ -2824,7 +2824,7 @@
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "2",
+                "Goal Difference": "3",
                 "Points": "11"
             },
             {
@@ -2879,22 +2879,22 @@
             },
             {
                 "Position": "10",
-                "Team": "Inter Kashi",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "5"
-            },
-            {
-                "Position": "11",
                 "Team": "Chennaiyin",
                 "Played": "5",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "-2",
+                "Points": "5"
+            },
+            {
+                "Position": "11",
+                "Team": "Inter Kashi",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-3",
                 "Points": "5"
             },
             {
