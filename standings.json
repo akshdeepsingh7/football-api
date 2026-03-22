@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 10:26 PM UTC",
-        "IST": "Monday, 23 March 2026, 03:56 AM IST"
+        "UTC": "Sunday, 22 March 2026, 10:53 PM UTC",
+        "IST": "Monday, 23 March 2026, 04:23 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3042,17 +3042,17 @@
             },
             {
                 "Position": "12",
-                "Team": "Atl\u00e9tico Mineiro",
+                "Team": "Internacional",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "-3",
+                "Goal Difference": "-2",
                 "Points": "8"
             },
             {
                 "Position": "13",
-                "Team": "Internacional",
+                "Team": "Atl\u00e9tico Mineiro",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "2",
@@ -3077,7 +3077,7 @@
                 "Wins": "1",
                 "Draws": "4",
                 "Losses": "2",
-                "Goal Difference": "-1",
+                "Goal Difference": "-2",
                 "Points": "7"
             },
             {
