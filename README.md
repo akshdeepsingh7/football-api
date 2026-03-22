@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 March 2026, 08:29 PM UTC (Monday, 23 March 2026, 01:59 AM IST)
+**Last Updated:** Sunday, 22 March 2026, 08:55 PM UTC (Monday, 23 March 2026, 02:25 AM IST)
 
 ### Premier League
 
@@ -73,8 +73,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 29 | 24 | 1 | 4 | 50 | 73 |
-| 2 | Real Madrid | 29 | 21 | 4 | 4 | 36 | 67 |
-| 3 | Atlético de Madrid | 29 | 17 | 7 | 5 | 22 | 58 |
+| 2 | Real Madrid | 29 | 21 | 3 | 5 | 35 | 66 |
+| 3 | Atlético de Madrid | 29 | 18 | 6 | 5 | 23 | 60 |
 | 4 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 5 | Real Betis | 29 | 11 | 11 | 7 | 7 | 44 |
 | 6 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
@@ -152,7 +152,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Lille | 27 | 14 | 5 | 8 | 8 | 47 |
 | 6 | Monaco | 27 | 14 | 4 | 9 | 9 | 46 |
 | 7 | Rennes | 27 | 12 | 8 | 7 | 6 | 44 |
-| 8 | Strasbourg | 27 | 10 | 7 | 10 | 8 | 37 |
+| 8 | Strasbourg | 27 | 10 | 8 | 9 | 9 | 38 |
 | 9 | Toulouse | 27 | 10 | 7 | 10 | 6 | 37 |
 | 10 | Lorient | 27 | 9 | 10 | 8 | -4 | 37 |
 | 11 | Brest | 27 | 10 | 6 | 11 | -5 | 36 |
@@ -161,7 +161,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Le Havre | 27 | 6 | 9 | 12 | -13 | 27 |
 | 15 | Nice | 27 | 7 | 6 | 14 | -20 | 27 |
 | 16 | Auxerre | 27 | 5 | 7 | 15 | -14 | 22 |
-| 17 | Nantes | 26 | 5 | 5 | 16 | -19 | 20 |
+| 17 | Nantes | 26 | 4 | 6 | 16 | -20 | 18 |
 | 18 | Metz | 27 | 3 | 5 | 19 | -35 | 14 |
 
 ### Champions League
@@ -291,10 +291,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 26 | 22 | 3 | 1 | 42 | 69 |
+| 1 | Porto | 27 | 22 | 4 | 1 | 42 | 70 |
 | 2 | Sporting CP | 26 | 20 | 5 | 1 | 53 | 65 |
 | 3 | Benfica | 27 | 19 | 8 | 0 | 41 | 65 |
-| 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
+| 4 | Braga | 26 | 13 | 8 | 5 | 27 | 47 |
 | 5 | Famalicão | 27 | 13 | 6 | 8 | 11 | 45 |
 | 6 | Gil Vicente | 27 | 11 | 9 | 7 | 11 | 42 |
 | 7 | Estoril | 27 | 10 | 7 | 10 | 4 | 37 |
@@ -404,7 +404,7 @@ Data not available.
 | 1 | Palmeiras | 8 | 6 | 1 | 1 | 9 | 19 |
 | 2 | São Paulo | 8 | 5 | 1 | 2 | 5 | 16 |
 | 3 | Fluminense | 8 | 5 | 1 | 2 | 4 | 16 |
-| 4 | Bahia | 7 | 4 | 2 | 1 | 4 | 14 |
+| 4 | Bahia | 7 | 4 | 2 | 1 | 2 | 14 |
 | 5 | Flamengo | 6 | 4 | 1 | 1 | 8 | 13 |
 | 6 | Athletico Paranaense | 7 | 4 | 1 | 2 | 3 | 13 |
 | 7 | Coritiba | 8 | 4 | 1 | 3 | 1 | 13 |
@@ -418,7 +418,7 @@ Data not available.
 | 15 | Santos | 8 | 1 | 4 | 3 | -3 | 7 |
 | 16 | Botafogo | 6 | 2 | 0 | 4 | -2 | 6 |
 | 17 | Mirassol | 6 | 1 | 3 | 2 | -1 | 6 |
-| 18 | Remo | 8 | 1 | 3 | 4 | -7 | 6 |
+| 18 | Remo | 8 | 1 | 3 | 4 | -5 | 6 |
 | 19 | Internacional | 7 | 1 | 2 | 4 | -4 | 5 |
 | 20 | Cruzeiro | 8 | 0 | 4 | 4 | -8 | 4 |
 

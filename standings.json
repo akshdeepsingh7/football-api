@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 08:29 PM UTC",
-        "IST": "Monday, 23 March 2026, 01:59 AM IST"
+        "UTC": "Sunday, 22 March 2026, 08:55 PM UTC",
+        "IST": "Monday, 23 March 2026, 02:25 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -222,20 +222,20 @@
                 "Team": "Real Madrid",
                 "Played": "29",
                 "Wins": "21",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "36",
-                "Points": "67"
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "35",
+                "Points": "66"
             },
             {
                 "Position": "3",
                 "Team": "Atl\u00e9tico de Madrid",
                 "Played": "29",
-                "Wins": "17",
-                "Draws": "7",
+                "Wins": "18",
+                "Draws": "6",
                 "Losses": "5",
-                "Goal Difference": "22",
-                "Points": "58"
+                "Goal Difference": "23",
+                "Points": "60"
             },
             {
                 "Position": "4",
@@ -868,10 +868,10 @@
                 "Team": "Strasbourg",
                 "Played": "27",
                 "Wins": "10",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "8",
-                "Points": "37"
+                "Draws": "8",
+                "Losses": "9",
+                "Goal Difference": "9",
+                "Points": "38"
             },
             {
                 "Position": "9",
@@ -957,11 +957,11 @@
                 "Position": "17",
                 "Team": "Nantes",
                 "Played": "26",
-                "Wins": "5",
-                "Draws": "5",
+                "Wins": "4",
+                "Draws": "6",
                 "Losses": "16",
-                "Goal Difference": "-19",
-                "Points": "20"
+                "Goal Difference": "-20",
+                "Points": "18"
             },
             {
                 "Position": "18",
@@ -2064,12 +2064,12 @@
             {
                 "Position": "1",
                 "Team": "Porto",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "22",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "1",
                 "Goal Difference": "42",
-                "Points": "69"
+                "Points": "70"
             },
             {
                 "Position": "2",
@@ -2094,12 +2094,12 @@
             {
                 "Position": "4",
                 "Team": "Braga",
-                "Played": "25",
+                "Played": "26",
                 "Wins": "13",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "5",
                 "Goal Difference": "27",
-                "Points": "46"
+                "Points": "47"
             },
             {
                 "Position": "5",
@@ -2967,7 +2967,7 @@
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "4",
+                "Goal Difference": "2",
                 "Points": "14"
             },
             {
@@ -3107,7 +3107,7 @@
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "-7",
+                "Goal Difference": "-5",
                 "Points": "6"
             },
             {
