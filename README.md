@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 March 2026, 07:47 PM UTC (Monday, 23 March 2026, 01:17 AM IST)
+**Last Updated:** Sunday, 22 March 2026, 08:29 PM UTC (Monday, 23 March 2026, 01:59 AM IST)
 
 ### Premier League
 
@@ -73,9 +73,9 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 29 | 24 | 1 | 4 | 50 | 73 |
-| 2 | Real Madrid | 28 | 21 | 3 | 4 | 36 | 66 |
-| 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
-| 4 | Atlético de Madrid | 28 | 17 | 6 | 5 | 22 | 57 |
+| 2 | Real Madrid | 29 | 21 | 4 | 4 | 36 | 67 |
+| 3 | Atlético de Madrid | 29 | 17 | 7 | 5 | 22 | 58 |
+| 4 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 5 | Real Betis | 29 | 11 | 11 | 7 | 7 | 44 |
 | 6 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
 | 7 | Real Sociedad | 29 | 10 | 8 | 11 | -1 | 38 |
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 29 | 22 | 2 | 5 | 42 | 68 |
+| 1 | Inter | 30 | 23 | 2 | 5 | 43 | 71 |
 | 2 | Milan | 30 | 18 | 9 | 3 | 24 | 63 |
 | 3 | Napoli | 30 | 19 | 5 | 6 | 16 | 62 |
 | 4 | Como | 30 | 16 | 9 | 5 | 31 | 57 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
 | 14 | Torino | 30 | 9 | 6 | 15 | -19 | 33 |
 | 15 | Cagliari | 30 | 7 | 9 | 14 | -11 | 30 |
-| 16 | Fiorentina | 29 | 6 | 10 | 13 | -9 | 28 |
+| 16 | Fiorentina | 30 | 6 | 10 | 14 | -10 | 28 |
 | 17 | Cremonese | 30 | 6 | 9 | 15 | -19 | 27 |
 | 18 | Lecce | 30 | 7 | 6 | 17 | -19 | 27 |
 | 19 | Hellas Verona | 30 | 3 | 9 | 18 | -30 | 18 |
@@ -152,7 +152,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Lille | 27 | 14 | 5 | 8 | 8 | 47 |
 | 6 | Monaco | 27 | 14 | 4 | 9 | 9 | 46 |
 | 7 | Rennes | 27 | 12 | 8 | 7 | 6 | 44 |
-| 8 | Strasbourg | 27 | 10 | 8 | 9 | 9 | 38 |
+| 8 | Strasbourg | 27 | 10 | 7 | 10 | 8 | 37 |
 | 9 | Toulouse | 27 | 10 | 7 | 10 | 6 | 37 |
 | 10 | Lorient | 27 | 9 | 10 | 8 | -4 | 37 |
 | 11 | Brest | 27 | 10 | 6 | 11 | -5 | 36 |
@@ -161,7 +161,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Le Havre | 27 | 6 | 9 | 12 | -13 | 27 |
 | 15 | Nice | 27 | 7 | 6 | 14 | -20 | 27 |
 | 16 | Auxerre | 27 | 5 | 7 | 15 | -14 | 22 |
-| 17 | Nantes | 26 | 4 | 6 | 16 | -20 | 18 |
+| 17 | Nantes | 26 | 5 | 5 | 16 | -19 | 20 |
 | 18 | Metz | 27 | 3 | 5 | 19 | -35 | 14 |
 
 ### Champions League
@@ -402,12 +402,12 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 8 | 6 | 1 | 1 | 9 | 19 |
-| 2 | Bahia | 7 | 5 | 2 | 0 | 6 | 17 |
-| 3 | São Paulo | 8 | 5 | 1 | 2 | 5 | 16 |
-| 4 | Fluminense | 8 | 5 | 1 | 2 | 4 | 16 |
+| 2 | São Paulo | 8 | 5 | 1 | 2 | 5 | 16 |
+| 3 | Fluminense | 8 | 5 | 1 | 2 | 4 | 16 |
+| 4 | Bahia | 7 | 4 | 2 | 1 | 4 | 14 |
 | 5 | Flamengo | 6 | 4 | 1 | 1 | 8 | 13 |
-| 6 | Athletico Paranaense | 7 | 4 | 1 | 2 | 2 | 13 |
-| 7 | Coritiba | 8 | 4 | 1 | 3 | 2 | 13 |
+| 6 | Athletico Paranaense | 7 | 4 | 1 | 2 | 3 | 13 |
+| 7 | Coritiba | 8 | 4 | 1 | 3 | 1 | 13 |
 | 8 | Grêmio | 8 | 3 | 2 | 3 | 1 | 11 |
 | 9 | Vasco da Gama | 8 | 3 | 2 | 3 | 0 | 11 |
 | 10 | Corinthians | 7 | 2 | 3 | 2 | 0 | 9 |
@@ -418,9 +418,9 @@ Data not available.
 | 15 | Santos | 8 | 1 | 4 | 3 | -3 | 7 |
 | 16 | Botafogo | 6 | 2 | 0 | 4 | -2 | 6 |
 | 17 | Mirassol | 6 | 1 | 3 | 2 | -1 | 6 |
-| 18 | Internacional | 7 | 1 | 2 | 4 | -4 | 5 |
-| 19 | Cruzeiro | 8 | 0 | 4 | 4 | -8 | 4 |
-| 20 | Remo | 8 | 0 | 3 | 5 | -9 | 3 |
+| 18 | Remo | 8 | 1 | 3 | 4 | -7 | 6 |
+| 19 | Internacional | 7 | 1 | 2 | 4 | -4 | 5 |
+| 20 | Cruzeiro | 8 | 0 | 4 | 4 | -8 | 4 |
 
 
 <!-- END_TABLE -->
