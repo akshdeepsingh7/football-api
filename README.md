@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 March 2026, 12:54 PM UTC (Sunday, 22 March 2026, 06:24 PM IST)
+**Last Updated:** Sunday, 22 March 2026, 01:45 PM UTC (Sunday, 22 March 2026, 07:15 PM IST)
 
 ### Premier League
 
@@ -55,11 +55,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Chelsea | 31 | 13 | 9 | 9 | 15 | 48 |
 | 7 | Brentford | 31 | 13 | 7 | 11 | 4 | 46 |
 | 8 | Everton | 31 | 13 | 7 | 11 | 2 | 46 |
-| 9 | Newcastle United | 31 | 13 | 6 | 12 | 1 | 45 |
-| 10 | Fulham | 31 | 13 | 5 | 13 | -1 | 44 |
-| 11 | Brighton & Hove Albion | 31 | 11 | 10 | 10 | 4 | 43 |
+| 9 | Fulham | 31 | 13 | 5 | 13 | -1 | 44 |
+| 10 | Brighton & Hove Albion | 31 | 11 | 10 | 10 | 4 | 43 |
+| 11 | Newcastle United | 31 | 12 | 7 | 12 | 0 | 43 |
 | 12 | AFC Bournemouth | 31 | 9 | 15 | 7 | -2 | 42 |
-| 13 | Sunderland | 31 | 10 | 10 | 11 | -6 | 40 |
+| 13 | Sunderland | 31 | 10 | 11 | 10 | -5 | 41 |
 | 14 | Crystal Palace | 30 | 10 | 9 | 11 | -2 | 39 |
 | 15 | Leeds United | 31 | 7 | 12 | 12 | -11 | 33 |
 | 16 | Tottenham Hotspur | 30 | 7 | 9 | 14 | -7 | 30 |
@@ -72,7 +72,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 28 | 23 | 1 | 4 | 49 | 70 |
+| 1 | Barcelona | 29 | 24 | 1 | 4 | 50 | 73 |
 | 2 | Real Madrid | 28 | 21 | 3 | 4 | 36 | 66 |
 | 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 4 | Atlético de Madrid | 28 | 17 | 6 | 5 | 22 | 57 |
@@ -85,7 +85,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Valencia | 29 | 9 | 8 | 12 | -10 | 35 |
 | 12 | Athletic Bilbao | 28 | 10 | 5 | 13 | -10 | 35 |
 | 13 | Girona | 29 | 8 | 10 | 11 | -13 | 34 |
-| 14 | Rayo Vallecano | 28 | 7 | 11 | 10 | -6 | 32 |
+| 14 | Rayo Vallecano | 29 | 7 | 11 | 11 | -7 | 32 |
 | 15 | Sevilla | 29 | 8 | 7 | 14 | -12 | 31 |
 | 16 | Elche | 29 | 6 | 11 | 12 | -8 | 29 |
 | 17 | Alavés | 28 | 7 | 7 | 14 | -12 | 28 |
@@ -123,7 +123,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 29 | 22 | 2 | 5 | 42 | 68 |
 | 2 | Milan | 30 | 18 | 9 | 3 | 24 | 63 |
 | 3 | Napoli | 30 | 19 | 5 | 6 | 16 | 62 |
-| 4 | Como | 30 | 16 | 9 | 5 | 29 | 57 |
+| 4 | Como | 30 | 16 | 9 | 5 | 31 | 57 |
 | 5 | Juventus | 30 | 15 | 9 | 6 | 23 | 54 |
 | 6 | Roma | 29 | 16 | 3 | 10 | 16 | 51 |
 | 7 | Atalanta | 29 | 12 | 11 | 6 | 13 | 47 |
@@ -139,7 +139,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Lecce | 29 | 7 | 6 | 16 | -18 | 27 |
 | 18 | Cremonese | 30 | 6 | 9 | 15 | -19 | 27 |
 | 19 | Hellas Verona | 29 | 3 | 9 | 17 | -29 | 18 |
-| 20 | Pisa | 30 | 2 | 12 | 16 | -29 | 18 |
+| 20 | Pisa | 30 | 2 | 12 | 16 | -31 | 18 |
 
 ### Ligue 1
 
@@ -381,14 +381,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Mumbai City | 6 | 4 | 2 | 0 | 4 | 14 |
 | 2 | Mohun Bagan SG | 6 | 4 | 1 | 1 | 11 | 13 |
 | 3 | Jamshedpur | 6 | 4 | 1 | 1 | 3 | 13 |
-| 4 | FC Goa | 6 | 2 | 3 | 1 | 2 | 9 |
+| 4 | FC Goa | 6 | 2 | 4 | 0 | 3 | 10 |
 | 5 | East Bengal | 5 | 2 | 2 | 1 | 5 | 8 |
 | 6 | Punjab FC | 5 | 2 | 2 | 1 | 3 | 8 |
 | 7 | Bengaluru | 5 | 2 | 2 | 1 | 1 | 8 |
-| 8 | Chennaiyin | 5 | 2 | 1 | 2 | -1 | 7 |
-| 9 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
-| 10 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
-| 11 | Inter Kashi | 5 | 1 | 2 | 2 | -1 | 5 |
+| 8 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
+| 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
+| 10 | Inter Kashi | 5 | 1 | 2 | 2 | -1 | 5 |
+| 11 | Chennaiyin | 5 | 1 | 2 | 2 | -2 | 5 |
 | 12 | SC Delhi | 5 | 0 | 2 | 3 | -6 | 2 |
 | 13 | Kerala Blasters | 6 | 0 | 1 | 5 | -7 | 1 |
 | 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |

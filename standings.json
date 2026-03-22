@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 12:54 PM UTC",
-        "IST": "Sunday, 22 March 2026, 06:24 PM IST"
+        "UTC": "Sunday, 22 March 2026, 01:45 PM UTC",
+        "IST": "Sunday, 22 March 2026, 07:15 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -87,16 +87,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Newcastle United",
-                "Played": "31",
-                "Wins": "13",
-                "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "1",
-                "Points": "45"
-            },
-            {
-                "Position": "10",
                 "Team": "Fulham",
                 "Played": "31",
                 "Wins": "13",
@@ -106,13 +96,23 @@
                 "Points": "44"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Brighton & Hove Albion",
                 "Played": "31",
                 "Wins": "11",
                 "Draws": "10",
                 "Losses": "10",
                 "Goal Difference": "4",
+                "Points": "43"
+            },
+            {
+                "Position": "11",
+                "Team": "Newcastle United",
+                "Played": "31",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "0",
                 "Points": "43"
             },
             {
@@ -130,10 +130,10 @@
                 "Team": "Sunderland",
                 "Played": "31",
                 "Wins": "10",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-6",
-                "Points": "40"
+                "Draws": "11",
+                "Losses": "10",
+                "Goal Difference": "-5",
+                "Points": "41"
             },
             {
                 "Position": "14",
@@ -210,12 +210,12 @@
             {
                 "Position": "1",
                 "Team": "Barcelona",
-                "Played": "28",
-                "Wins": "23",
+                "Played": "29",
+                "Wins": "24",
                 "Draws": "1",
                 "Losses": "4",
-                "Goal Difference": "49",
-                "Points": "70"
+                "Goal Difference": "50",
+                "Points": "73"
             },
             {
                 "Position": "2",
@@ -340,11 +340,11 @@
             {
                 "Position": "14",
                 "Team": "Rayo Vallecano",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "7",
                 "Draws": "11",
-                "Losses": "10",
-                "Goal Difference": "-6",
+                "Losses": "11",
+                "Goal Difference": "-7",
                 "Points": "32"
             },
             {
@@ -628,7 +628,7 @@
                 "Wins": "16",
                 "Draws": "9",
                 "Losses": "5",
-                "Goal Difference": "29",
+                "Goal Difference": "31",
                 "Points": "57"
             },
             {
@@ -788,7 +788,7 @@
                 "Wins": "2",
                 "Draws": "12",
                 "Losses": "16",
-                "Goal Difference": "-29",
+                "Goal Difference": "-31",
                 "Points": "18"
             }
         ],
@@ -2822,10 +2822,10 @@
                 "Team": "FC Goa",
                 "Played": "6",
                 "Wins": "2",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "2",
-                "Points": "9"
+                "Draws": "4",
+                "Losses": "0",
+                "Goal Difference": "3",
+                "Points": "10"
             },
             {
                 "Position": "5",
@@ -2859,16 +2859,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Chennaiyin",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-1",
-                "Points": "7"
-            },
-            {
-                "Position": "9",
                 "Team": "NorthEast Utd",
                 "Played": "6",
                 "Wins": "1",
@@ -2878,7 +2868,7 @@
                 "Points": "6"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Odisha",
                 "Played": "4",
                 "Wins": "1",
@@ -2888,13 +2878,23 @@
                 "Points": "5"
             },
             {
-                "Position": "11",
+                "Position": "10",
                 "Team": "Inter Kashi",
                 "Played": "5",
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "-1",
+                "Points": "5"
+            },
+            {
+                "Position": "11",
+                "Team": "Chennaiyin",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-2",
                 "Points": "5"
             },
             {
