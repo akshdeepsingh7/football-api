@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 05:26 PM UTC",
-        "IST": "Sunday, 22 March 2026, 10:56 PM IST"
+        "UTC": "Sunday, 22 March 2026, 05:51 PM UTC",
+        "IST": "Sunday, 22 March 2026, 11:21 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -250,12 +250,12 @@
             {
                 "Position": "5",
                 "Team": "Real Betis",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "11",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "6",
                 "Goal Difference": "8",
-                "Points": "44"
+                "Points": "45"
             },
             {
                 "Position": "6",
@@ -309,21 +309,21 @@
             },
             {
                 "Position": "11",
+                "Team": "Athletic Bilbao",
+                "Played": "29",
+                "Wins": "10",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-10",
+                "Points": "36"
+            },
+            {
+                "Position": "12",
                 "Team": "Valencia",
                 "Played": "29",
                 "Wins": "9",
                 "Draws": "8",
                 "Losses": "12",
-                "Goal Difference": "-10",
-                "Points": "35"
-            },
-            {
-                "Position": "12",
-                "Team": "Athletic Bilbao",
-                "Played": "28",
-                "Wins": "10",
-                "Draws": "5",
-                "Losses": "13",
                 "Goal Difference": "-10",
                 "Points": "35"
             },
@@ -817,11 +817,11 @@
                 "Position": "3",
                 "Team": "Marseille",
                 "Played": "27",
-                "Wins": "16",
-                "Draws": "4",
+                "Wins": "15",
+                "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "21",
-                "Points": "52"
+                "Goal Difference": "20",
+                "Points": "50"
             },
             {
                 "Position": "4",
@@ -845,21 +845,21 @@
             },
             {
                 "Position": "6",
+                "Team": "Lille",
+                "Played": "27",
+                "Wins": "13",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "7",
+                "Points": "45"
+            },
+            {
+                "Position": "7",
                 "Team": "Rennes",
                 "Played": "27",
                 "Wins": "12",
                 "Draws": "8",
                 "Losses": "7",
-                "Goal Difference": "6",
-                "Points": "44"
-            },
-            {
-                "Position": "7",
-                "Team": "Lille",
-                "Played": "27",
-                "Wins": "13",
-                "Draws": "5",
-                "Losses": "9",
                 "Goal Difference": "6",
                 "Points": "44"
             },
@@ -920,7 +920,7 @@
                 "Wins": "7",
                 "Draws": "10",
                 "Losses": "10",
-                "Goal Difference": "-10",
+                "Goal Difference": "-11",
                 "Points": "31"
             },
             {
@@ -930,7 +930,7 @@
                 "Wins": "6",
                 "Draws": "9",
                 "Losses": "12",
-                "Goal Difference": "-14",
+                "Goal Difference": "-13",
                 "Points": "27"
             },
             {
@@ -2500,29 +2500,29 @@
                 "Team": "NYCFC",
                 "Played": "5",
                 "Wins": "3",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "7",
-                "Points": "10"
+                "Draws": "2",
+                "Losses": "0",
+                "Goal Difference": "8",
+                "Points": "11"
             },
             {
                 "Position": "3",
-                "Team": "Inter Miami",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "1",
-                "Losses": "1",
-                "Goal Difference": "1",
-                "Points": "10"
-            },
-            {
-                "Position": "4",
                 "Team": "Charlotte",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "4",
+                "Points": "8"
+            },
+            {
+                "Position": "4",
+                "Team": "Inter Miami",
+                "Played": "5",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "0",
                 "Points": "8"
             },
             {
@@ -2567,16 +2567,6 @@
             },
             {
                 "Position": "9",
-                "Team": "CF Montr\u00e9al",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "3",
-                "Goal Difference": "-5",
-                "Points": "6"
-            },
-            {
-                "Position": "10",
                 "Team": "Atlanta United",
                 "Played": "5",
                 "Wins": "1",
@@ -2586,23 +2576,33 @@
                 "Points": "4"
             },
             {
+                "Position": "10",
+                "Team": "Cincinnati",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-5",
+                "Points": "4"
+            },
+            {
                 "Position": "11",
+                "Team": "CF Montr\u00e9al",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-6",
+                "Points": "4"
+            },
+            {
+                "Position": "12",
                 "Team": "New England Revolution",
                 "Played": "4",
                 "Wins": "1",
                 "Draws": "0",
                 "Losses": "3",
                 "Goal Difference": "-1",
-                "Points": "3"
-            },
-            {
-                "Position": "12",
-                "Team": "Cincinnati",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "-6",
                 "Points": "3"
             },
             {
