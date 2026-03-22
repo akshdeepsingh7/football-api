@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 March 2026, 06:38 PM UTC (Monday, 23 March 2026, 12:08 AM IST)
+**Last Updated:** Sunday, 22 March 2026, 07:26 PM UTC (Monday, 23 March 2026, 12:56 AM IST)
 
 ### Premier League
 
@@ -76,11 +76,11 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Real Madrid | 28 | 21 | 3 | 4 | 36 | 66 |
 | 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 4 | Atlético de Madrid | 28 | 17 | 6 | 5 | 22 | 57 |
-| 5 | Real Betis | 29 | 11 | 11 | 7 | 6 | 44 |
+| 5 | Real Betis | 29 | 11 | 11 | 7 | 7 | 44 |
 | 6 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
 | 7 | Real Sociedad | 29 | 10 | 8 | 11 | -1 | 38 |
 | 8 | Getafe | 29 | 11 | 5 | 13 | -6 | 38 |
-| 9 | Athletic Bilbao | 29 | 11 | 5 | 13 | -8 | 38 |
+| 9 | Athletic Bilbao | 29 | 11 | 5 | 13 | -9 | 38 |
 | 10 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
 | 11 | Espanyol | 29 | 10 | 7 | 12 | -8 | 37 |
 | 12 | Valencia | 29 | 9 | 8 | 12 | -10 | 35 |
@@ -99,14 +99,14 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 27 | 22 | 4 | 1 | 72 | 70 |
 | 2 | Borussia Dortmund | 27 | 18 | 7 | 2 | 30 | 61 |
-| 3 | VfB Stuttgart | 27 | 15 | 6 | 6 | 17 | 51 |
+| 3 | VfB Stuttgart | 27 | 16 | 5 | 6 | 20 | 53 |
 | 4 | RB Leipzig | 27 | 15 | 5 | 7 | 18 | 50 |
 | 5 | Hoffenheim | 27 | 15 | 5 | 7 | 15 | 50 |
 | 6 | Bayer Leverkusen | 27 | 13 | 7 | 7 | 16 | 46 |
 | 7 | Eintracht Frankfurt | 27 | 10 | 8 | 9 | -1 | 38 |
 | 8 | SC Freiburg | 27 | 10 | 7 | 10 | -5 | 37 |
-| 9 | Augsburg | 27 | 9 | 5 | 13 | -14 | 32 |
-| 10 | Union Berlin | 27 | 8 | 7 | 12 | -15 | 31 |
+| 9 | Union Berlin | 27 | 8 | 7 | 12 | -15 | 31 |
+| 10 | Augsburg | 27 | 9 | 4 | 14 | -17 | 31 |
 | 11 | Mainz 05 | 27 | 7 | 9 | 11 | -9 | 30 |
 | 12 | Hamburg | 27 | 7 | 9 | 11 | -9 | 30 |
 | 13 | Borussia Mönchengladbach | 27 | 7 | 8 | 12 | -13 | 29 |
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 26 | 22 | 3 | 1 | 42 | 69 |
-| 2 | Sporting CP | 26 | 20 | 5 | 1 | 51 | 65 |
+| 2 | Sporting CP | 26 | 20 | 5 | 1 | 52 | 65 |
 | 3 | Benfica | 27 | 19 | 8 | 0 | 41 | 65 |
 | 4 | Braga | 25 | 13 | 7 | 5 | 27 | 46 |
 | 5 | Famalicão | 27 | 13 | 6 | 8 | 11 | 45 |
@@ -302,7 +302,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Vitória S.C. | 27 | 9 | 5 | 13 | -13 | 32 |
 | 10 | Rio Ave | 27 | 7 | 9 | 11 | -18 | 30 |
 | 11 | Arouca | 27 | 8 | 5 | 14 | -21 | 29 |
-| 12 | Alverca | 27 | 7 | 8 | 12 | -16 | 29 |
+| 12 | Alverca | 27 | 7 | 8 | 12 | -17 | 29 |
 | 13 | Estrela Amadora | 27 | 6 | 10 | 11 | -12 | 28 |
 | 14 | Santa Clara | 27 | 7 | 7 | 13 | -7 | 28 |
 | 15 | Casa Pia | 26 | 5 | 9 | 12 | -22 | 24 |
@@ -344,17 +344,17 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Nashville | 5 | 4 | 1 | 0 | 11 | 13 |
-| 2 | NYCFC | 5 | 3 | 2 | 0 | 8 | 11 |
-| 3 | Charlotte | 5 | 2 | 2 | 1 | 4 | 8 |
-| 4 | Inter Miami | 5 | 2 | 2 | 1 | 0 | 8 |
+| 2 | NYCFC | 5 | 3 | 1 | 1 | 7 | 10 |
+| 3 | Inter Miami | 5 | 3 | 1 | 1 | 1 | 10 |
+| 4 | Charlotte | 5 | 2 | 2 | 1 | 4 | 8 |
 | 5 | Chicago Fire | 5 | 2 | 1 | 2 | 2 | 7 |
 | 6 | DC United | 5 | 2 | 1 | 2 | 0 | 7 |
 | 7 | Toronto | 5 | 2 | 1 | 2 | -2 | 7 |
 | 8 | New York RB | 5 | 2 | 1 | 2 | -6 | 7 |
-| 9 | CF Montréal | 5 | 2 | 0 | 3 | -5 | 6 |
+| 9 | Cincinnati | 5 | 2 | 0 | 3 | -4 | 6 |
 | 10 | Atlanta United | 5 | 1 | 1 | 3 | -3 | 4 |
 | 11 | New England Revolution | 4 | 1 | 0 | 3 | -1 | 3 |
-| 12 | Cincinnati | 5 | 1 | 0 | 4 | -6 | 3 |
+| 12 | CF Montréal | 5 | 1 | 0 | 4 | -7 | 3 |
 | 13 | Orlando City | 5 | 1 | 0 | 4 | -12 | 3 |
 | 14 | Columbus Crew | 5 | 0 | 2 | 3 | -3 | 2 |
 | 15 | Philadelphia Union | 5 | 0 | 0 | 5 | -6 | 0 |
@@ -404,23 +404,23 @@ Data not available.
 | 1 | Palmeiras | 8 | 6 | 1 | 1 | 9 | 19 |
 | 2 | São Paulo | 8 | 5 | 1 | 2 | 5 | 16 |
 | 3 | Fluminense | 8 | 5 | 1 | 2 | 4 | 16 |
-| 4 | Bahia | 6 | 4 | 2 | 0 | 5 | 14 |
+| 4 | Bahia | 7 | 4 | 3 | 0 | 5 | 15 |
 | 5 | Flamengo | 6 | 4 | 1 | 1 | 8 | 13 |
-| 6 | Coritiba | 7 | 4 | 1 | 2 | 3 | 13 |
-| 7 | Grêmio | 7 | 3 | 2 | 2 | 2 | 11 |
-| 8 | Athletico Paranaense | 6 | 3 | 1 | 2 | 1 | 10 |
-| 9 | Corinthians | 7 | 2 | 3 | 2 | 0 | 9 |
-| 10 | Vasco da Gama | 7 | 2 | 2 | 3 | -1 | 8 |
+| 6 | Athletico Paranaense | 7 | 4 | 1 | 2 | 2 | 13 |
+| 7 | Coritiba | 8 | 4 | 1 | 3 | 2 | 13 |
+| 8 | Grêmio | 8 | 3 | 2 | 3 | 1 | 11 |
+| 9 | Vasco da Gama | 8 | 3 | 2 | 3 | 0 | 11 |
+| 10 | Corinthians | 7 | 2 | 3 | 2 | 0 | 9 |
 | 11 | Atlético Mineiro | 8 | 2 | 2 | 4 | -3 | 8 |
 | 12 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
 | 13 | Vitória | 6 | 2 | 1 | 3 | -3 | 7 |
 | 14 | Chapecoense | 6 | 1 | 4 | 1 | 0 | 7 |
-| 15 | Botafogo | 6 | 2 | 0 | 4 | -2 | 6 |
-| 16 | Mirassol | 6 | 1 | 3 | 2 | -1 | 6 |
-| 17 | Santos | 7 | 1 | 3 | 3 | -3 | 6 |
+| 15 | Santos | 8 | 1 | 4 | 3 | -3 | 7 |
+| 16 | Botafogo | 6 | 2 | 0 | 4 | -2 | 6 |
+| 17 | Mirassol | 6 | 1 | 3 | 2 | -1 | 6 |
 | 18 | Internacional | 7 | 1 | 2 | 4 | -4 | 5 |
-| 19 | Cruzeiro | 7 | 0 | 3 | 4 | -8 | 3 |
-| 20 | Remo | 7 | 0 | 3 | 4 | -8 | 3 |
+| 19 | Cruzeiro | 8 | 0 | 4 | 4 | -8 | 4 |
+| 20 | Remo | 8 | 0 | 4 | 4 | -8 | 4 |
 
 
 <!-- END_TABLE -->
