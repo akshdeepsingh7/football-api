@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 09:51 PM UTC",
-        "IST": "Monday, 23 March 2026, 03:21 AM IST"
+        "UTC": "Sunday, 22 March 2026, 10:26 PM UTC",
+        "IST": "Monday, 23 March 2026, 03:56 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2065,11 +2065,11 @@
                 "Position": "1",
                 "Team": "Porto",
                 "Played": "27",
-                "Wins": "22",
+                "Wins": "23",
                 "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "41",
-                "Points": "69"
+                "Losses": "1",
+                "Goal Difference": "43",
+                "Points": "72"
             },
             {
                 "Position": "2",
@@ -2095,11 +2095,11 @@
                 "Position": "4",
                 "Team": "Braga",
                 "Played": "26",
-                "Wins": "14",
+                "Wins": "13",
                 "Draws": "7",
-                "Losses": "5",
-                "Goal Difference": "28",
-                "Points": "49"
+                "Losses": "6",
+                "Goal Difference": "26",
+                "Points": "46"
             },
             {
                 "Position": "5",
@@ -3022,6 +3022,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Vit\u00f3ria",
+                "Played": "7",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "10"
+            },
+            {
+                "Position": "11",
                 "Team": "Corinthians",
                 "Played": "7",
                 "Wins": "2",
@@ -3031,7 +3041,7 @@
                 "Points": "9"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "8",
                 "Wins": "2",
@@ -3041,17 +3051,17 @@
                 "Points": "8"
             },
             {
-                "Position": "12",
-                "Team": "Vit\u00f3ria",
-                "Played": "7",
+                "Position": "13",
+                "Team": "Internacional",
+                "Played": "8",
                 "Wins": "2",
                 "Draws": "2",
-                "Losses": "3",
+                "Losses": "4",
                 "Goal Difference": "-3",
                 "Points": "8"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "RB Bragantino",
                 "Played": "8",
                 "Wins": "2",
@@ -3061,18 +3071,8 @@
                 "Points": "8"
             },
             {
-                "Position": "14",
-                "Team": "Chapecoense",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "0",
-                "Points": "8"
-            },
-            {
                 "Position": "15",
-                "Team": "Mirassol",
+                "Team": "Chapecoense",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "4",
@@ -3102,12 +3102,12 @@
             },
             {
                 "Position": "18",
-                "Team": "Internacional",
-                "Played": "8",
+                "Team": "Mirassol",
+                "Played": "7",
                 "Wins": "1",
                 "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-4",
+                "Losses": "3",
+                "Goal Difference": "-2",
                 "Points": "6"
             },
             {

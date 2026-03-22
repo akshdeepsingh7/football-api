@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 March 2026, 09:51 PM UTC (Monday, 23 March 2026, 03:21 AM IST)
+**Last Updated:** Sunday, 22 March 2026, 10:26 PM UTC (Monday, 23 March 2026, 03:56 AM IST)
 
 ### Premier League
 
@@ -291,10 +291,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 27 | 22 | 3 | 2 | 41 | 69 |
+| 1 | Porto | 27 | 23 | 3 | 1 | 43 | 72 |
 | 2 | Sporting CP | 26 | 20 | 5 | 1 | 53 | 65 |
 | 3 | Benfica | 27 | 19 | 8 | 0 | 41 | 65 |
-| 4 | Braga | 26 | 14 | 7 | 5 | 28 | 49 |
+| 4 | Braga | 26 | 13 | 7 | 6 | 26 | 46 |
 | 5 | Famalicão | 27 | 13 | 6 | 8 | 11 | 45 |
 | 6 | Gil Vicente | 27 | 11 | 9 | 7 | 11 | 42 |
 | 7 | Estoril | 27 | 10 | 7 | 10 | 4 | 37 |
@@ -410,15 +410,15 @@ Data not available.
 | 7 | Coritiba | 8 | 4 | 1 | 3 | 1 | 13 |
 | 8 | Grêmio | 8 | 3 | 2 | 3 | 1 | 11 |
 | 9 | Vasco da Gama | 8 | 3 | 2 | 3 | 0 | 11 |
-| 10 | Corinthians | 7 | 2 | 3 | 2 | 0 | 9 |
-| 11 | Atlético Mineiro | 8 | 2 | 2 | 4 | -3 | 8 |
-| 12 | Vitória | 7 | 2 | 2 | 3 | -3 | 8 |
-| 13 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
-| 14 | Chapecoense | 7 | 1 | 5 | 1 | 0 | 8 |
-| 15 | Mirassol | 7 | 1 | 4 | 2 | -1 | 7 |
+| 10 | Vitória | 7 | 3 | 1 | 3 | -2 | 10 |
+| 11 | Corinthians | 7 | 2 | 3 | 2 | 0 | 9 |
+| 12 | Atlético Mineiro | 8 | 2 | 2 | 4 | -3 | 8 |
+| 13 | Internacional | 8 | 2 | 2 | 4 | -3 | 8 |
+| 14 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
+| 15 | Chapecoense | 7 | 1 | 4 | 2 | -1 | 7 |
 | 16 | Santos | 8 | 1 | 4 | 3 | -3 | 7 |
 | 17 | Botafogo | 6 | 2 | 0 | 4 | -2 | 6 |
-| 18 | Internacional | 8 | 1 | 3 | 4 | -4 | 6 |
+| 18 | Mirassol | 7 | 1 | 3 | 3 | -2 | 6 |
 | 19 | Remo | 8 | 1 | 3 | 4 | -5 | 6 |
 | 20 | Cruzeiro | 8 | 0 | 4 | 4 | -8 | 4 |
 
