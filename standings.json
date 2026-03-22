@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 22 March 2026, 11:24 AM UTC",
-        "IST": "Sunday, 22 March 2026, 04:54 PM IST"
+        "UTC": "Sunday, 22 March 2026, 11:46 AM UTC",
+        "IST": "Sunday, 22 March 2026, 05:16 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -624,12 +624,12 @@
             {
                 "Position": "4",
                 "Team": "Como",
-                "Played": "29",
-                "Wins": "15",
+                "Played": "30",
+                "Wins": "16",
                 "Draws": "9",
                 "Losses": "5",
-                "Goal Difference": "26",
-                "Points": "54"
+                "Goal Difference": "27",
+                "Points": "57"
             },
             {
                 "Position": "5",
@@ -773,22 +773,22 @@
             },
             {
                 "Position": "19",
-                "Team": "Pisa",
-                "Played": "29",
-                "Wins": "2",
-                "Draws": "12",
-                "Losses": "15",
-                "Goal Difference": "-26",
-                "Points": "18"
-            },
-            {
-                "Position": "20",
                 "Team": "Hellas Verona",
                 "Played": "29",
                 "Wins": "3",
                 "Draws": "9",
                 "Losses": "17",
                 "Goal Difference": "-29",
+                "Points": "18"
+            },
+            {
+                "Position": "20",
+                "Team": "Pisa",
+                "Played": "30",
+                "Wins": "2",
+                "Draws": "12",
+                "Losses": "16",
+                "Goal Difference": "-27",
                 "Points": "18"
             }
         ],
@@ -2820,12 +2820,12 @@
             {
                 "Position": "4",
                 "Team": "FC Goa",
-                "Played": "5",
+                "Played": "6",
                 "Wins": "2",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "0",
                 "Goal Difference": "3",
-                "Points": "9"
+                "Points": "10"
             },
             {
                 "Position": "5",
@@ -2890,12 +2890,12 @@
             {
                 "Position": "11",
                 "Team": "Chennaiyin",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "1",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "-2",
-                "Points": "4"
+                "Points": "5"
             },
             {
                 "Position": "12",

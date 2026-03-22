@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 22 March 2026, 11:24 AM UTC (Sunday, 22 March 2026, 04:54 PM IST)
+**Last Updated:** Sunday, 22 March 2026, 11:46 AM UTC (Sunday, 22 March 2026, 05:16 PM IST)
 
 ### Premier League
 
@@ -123,7 +123,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 29 | 22 | 2 | 5 | 42 | 68 |
 | 2 | Milan | 30 | 18 | 9 | 3 | 24 | 63 |
 | 3 | Napoli | 30 | 19 | 5 | 6 | 16 | 62 |
-| 4 | Como | 29 | 15 | 9 | 5 | 26 | 54 |
+| 4 | Como | 30 | 16 | 9 | 5 | 27 | 57 |
 | 5 | Juventus | 30 | 15 | 9 | 6 | 23 | 54 |
 | 6 | Roma | 29 | 16 | 3 | 10 | 16 | 51 |
 | 7 | Atalanta | 29 | 12 | 11 | 6 | 13 | 47 |
@@ -138,8 +138,8 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Fiorentina | 29 | 6 | 10 | 13 | -9 | 28 |
 | 17 | Lecce | 29 | 7 | 6 | 16 | -18 | 27 |
 | 18 | Cremonese | 30 | 6 | 9 | 15 | -19 | 27 |
-| 19 | Pisa | 29 | 2 | 12 | 15 | -26 | 18 |
-| 20 | Hellas Verona | 29 | 3 | 9 | 17 | -29 | 18 |
+| 19 | Hellas Verona | 29 | 3 | 9 | 17 | -29 | 18 |
+| 20 | Pisa | 30 | 2 | 12 | 16 | -27 | 18 |
 
 ### Ligue 1
 
@@ -381,14 +381,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Mumbai City | 6 | 4 | 2 | 0 | 4 | 14 |
 | 2 | Mohun Bagan SG | 6 | 4 | 1 | 1 | 11 | 13 |
 | 3 | Jamshedpur | 6 | 4 | 1 | 1 | 3 | 13 |
-| 4 | FC Goa | 5 | 2 | 3 | 0 | 3 | 9 |
+| 4 | FC Goa | 6 | 2 | 4 | 0 | 3 | 10 |
 | 5 | East Bengal | 5 | 2 | 2 | 1 | 5 | 8 |
 | 6 | Punjab FC | 5 | 2 | 2 | 1 | 3 | 8 |
 | 7 | Bengaluru | 5 | 2 | 2 | 1 | 1 | 8 |
 | 8 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
 | 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
 | 10 | Inter Kashi | 5 | 1 | 2 | 2 | -1 | 5 |
-| 11 | Chennaiyin | 4 | 1 | 1 | 2 | -2 | 4 |
+| 11 | Chennaiyin | 5 | 1 | 2 | 2 | -2 | 5 |
 | 12 | SC Delhi | 5 | 0 | 2 | 3 | -6 | 2 |
 | 13 | Kerala Blasters | 6 | 0 | 1 | 5 | -7 | 1 |
 | 14 | Mohammedan | 4 | 0 | 0 | 4 | -8 | 0 |
