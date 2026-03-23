@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 23 March 2026, 01:54 PM UTC",
-        "IST": "Monday, 23 March 2026, 07:24 PM IST"
+        "UTC": "Monday, 23 March 2026, 02:56 PM UTC",
+        "IST": "Monday, 23 March 2026, 08:26 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2819,6 +2819,16 @@
             },
             {
                 "Position": "4",
+                "Team": "East Bengal",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "8",
+                "Points": "11"
+            },
+            {
+                "Position": "5",
                 "Team": "Bengaluru",
                 "Played": "6",
                 "Wins": "3",
@@ -2828,7 +2838,7 @@
                 "Points": "11"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "FC Goa",
                 "Played": "6",
                 "Wins": "2",
@@ -2836,16 +2846,6 @@
                 "Losses": "0",
                 "Goal Difference": "3",
                 "Points": "10"
-            },
-            {
-                "Position": "6",
-                "Team": "East Bengal",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "5",
-                "Points": "8"
             },
             {
                 "Position": "7",
@@ -2920,11 +2920,11 @@
             {
                 "Position": "14",
                 "Team": "Mohammedan",
-                "Played": "4",
+                "Played": "5",
                 "Wins": "0",
                 "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "-8",
+                "Losses": "5",
+                "Goal Difference": "-11",
                 "Points": "0"
             }
         ],
