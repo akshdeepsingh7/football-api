@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 29 March 2026, 10:31 PM UTC",
-        "IST": "Monday, 30 March 2026, 04:01 AM IST"
+        "UTC": "Sunday, 29 March 2026, 11:34 PM UTC",
+        "IST": "Monday, 30 March 2026, 05:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2962,6 +2962,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Athletico Paranaense",
+                "Played": "8",
+                "Wins": "5",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "16"
+            },
+            {
+                "Position": "5",
                 "Team": "Flamengo",
                 "Played": "7",
                 "Wins": "4",
@@ -2971,7 +2981,7 @@
                 "Points": "14"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Bahia",
                 "Played": "7",
                 "Wins": "4",
@@ -2979,16 +2989,6 @@
                 "Losses": "1",
                 "Goal Difference": "2",
                 "Points": "14"
-            },
-            {
-                "Position": "6",
-                "Team": "Athletico Paranaense",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "13"
             },
             {
                 "Position": "7",
@@ -3093,11 +3093,11 @@
             {
                 "Position": "17",
                 "Team": "Botafogo",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "2",
                 "Draws": "0",
-                "Losses": "4",
-                "Goal Difference": "-2",
+                "Losses": "5",
+                "Goal Difference": "-3",
                 "Points": "6"
             },
             {
