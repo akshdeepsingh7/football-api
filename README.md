@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 01 April 2026, 09:42 PM UTC (Thursday, 02 April 2026, 03:12 AM IST)
+**Last Updated:** Wednesday, 01 April 2026, 10:38 PM UTC (Thursday, 02 April 2026, 04:08 AM IST)
 
 ### Premier League
 
@@ -402,8 +402,8 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 8 | 6 | 1 | 1 | 9 | 19 |
-| 2 | Athletico Paranaense | 8 | 5 | 1 | 2 | 6 | 16 |
-| 3 | São Paulo | 8 | 5 | 1 | 2 | 5 | 16 |
+| 2 | São Paulo | 9 | 5 | 2 | 2 | 5 | 17 |
+| 3 | Athletico Paranaense | 8 | 5 | 1 | 2 | 6 | 16 |
 | 4 | Fluminense | 8 | 5 | 1 | 2 | 4 | 16 |
 | 5 | Flamengo | 7 | 4 | 2 | 1 | 8 | 14 |
 | 6 | Bahia | 7 | 4 | 2 | 1 | 2 | 14 |
@@ -412,13 +412,13 @@ Data not available.
 | 9 | Vasco da Gama | 8 | 3 | 2 | 3 | 0 | 11 |
 | 10 | Vitória | 7 | 3 | 1 | 3 | -2 | 10 |
 | 11 | Corinthians | 8 | 2 | 4 | 2 | 0 | 10 |
-| 12 | Internacional | 8 | 2 | 2 | 4 | -2 | 8 |
+| 12 | Internacional | 9 | 2 | 3 | 4 | -2 | 9 |
 | 13 | Atlético Mineiro | 8 | 2 | 2 | 4 | -3 | 8 |
 | 14 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
-| 15 | Chapecoense | 7 | 1 | 4 | 2 | -2 | 7 |
-| 16 | Santos | 8 | 1 | 4 | 3 | -3 | 7 |
-| 17 | Botafogo | 7 | 2 | 0 | 5 | -5 | 6 |
-| 18 | Mirassol | 7 | 1 | 3 | 3 | -2 | 6 |
+| 15 | Botafogo | 8 | 2 | 1 | 5 | -5 | 7 |
+| 16 | Chapecoense | 7 | 1 | 4 | 2 | -2 | 7 |
+| 17 | Mirassol | 8 | 1 | 4 | 3 | -2 | 7 |
+| 18 | Santos | 8 | 1 | 4 | 3 | -3 | 7 |
 | 19 | Remo | 8 | 1 | 3 | 4 | -5 | 6 |
 | 20 | Cruzeiro | 8 | 0 | 4 | 4 | -8 | 4 |
 
