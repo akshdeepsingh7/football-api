@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 01 April 2026, 10:38 PM UTC (Thursday, 02 April 2026, 04:08 AM IST)
+**Last Updated:** Wednesday, 01 April 2026, 11:36 PM UTC (Thursday, 02 April 2026, 05:06 AM IST)
 
 ### Premier League
 
@@ -402,25 +402,25 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 8 | 6 | 1 | 1 | 9 | 19 |
-| 2 | São Paulo | 9 | 5 | 2 | 2 | 5 | 17 |
-| 3 | Athletico Paranaense | 8 | 5 | 1 | 2 | 6 | 16 |
+| 2 | Bahia | 8 | 5 | 2 | 1 | 3 | 17 |
+| 3 | Athletico Paranaense | 9 | 5 | 1 | 3 | 5 | 16 |
 | 4 | Fluminense | 8 | 5 | 1 | 2 | 4 | 16 |
-| 5 | Flamengo | 7 | 4 | 2 | 1 | 8 | 14 |
-| 6 | Bahia | 7 | 4 | 2 | 1 | 2 | 14 |
-| 7 | Coritiba | 8 | 4 | 1 | 3 | 1 | 13 |
-| 8 | Grêmio | 8 | 3 | 2 | 3 | 1 | 11 |
-| 9 | Vasco da Gama | 8 | 3 | 2 | 3 | 0 | 11 |
-| 10 | Vitória | 7 | 3 | 1 | 3 | -2 | 10 |
-| 11 | Corinthians | 8 | 2 | 4 | 2 | 0 | 10 |
-| 12 | Internacional | 9 | 2 | 3 | 4 | -2 | 9 |
-| 13 | Atlético Mineiro | 8 | 2 | 2 | 4 | -3 | 8 |
-| 14 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
-| 15 | Botafogo | 8 | 2 | 1 | 5 | -5 | 7 |
+| 5 | São Paulo | 9 | 5 | 1 | 3 | 4 | 16 |
+| 6 | Flamengo | 7 | 4 | 2 | 1 | 8 | 14 |
+| 7 | Coritiba | 9 | 4 | 2 | 3 | 1 | 14 |
+| 8 | Vasco da Gama | 9 | 3 | 3 | 3 | 0 | 12 |
+| 9 | Grêmio | 8 | 3 | 2 | 3 | 1 | 11 |
+| 10 | Internacional | 9 | 3 | 2 | 4 | -1 | 11 |
+| 11 | Vitória | 8 | 3 | 1 | 4 | -3 | 10 |
+| 12 | Corinthians | 8 | 2 | 4 | 2 | 0 | 10 |
+| 13 | Botafogo | 8 | 3 | 0 | 5 | -4 | 9 |
+| 14 | Atlético Mineiro | 8 | 2 | 2 | 4 | -3 | 8 |
+| 15 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
 | 16 | Chapecoense | 7 | 1 | 4 | 2 | -2 | 7 |
-| 17 | Mirassol | 8 | 1 | 4 | 3 | -2 | 7 |
-| 18 | Santos | 8 | 1 | 4 | 3 | -3 | 7 |
-| 19 | Remo | 8 | 1 | 3 | 4 | -5 | 6 |
-| 20 | Cruzeiro | 8 | 0 | 4 | 4 | -8 | 4 |
+| 17 | Santos | 8 | 1 | 4 | 3 | -3 | 7 |
+| 18 | Cruzeiro | 9 | 1 | 4 | 4 | -7 | 7 |
+| 19 | Mirassol | 8 | 1 | 3 | 4 | -3 | 6 |
+| 20 | Remo | 8 | 1 | 3 | 4 | -5 | 6 |
 
 
 <!-- END_TABLE -->
