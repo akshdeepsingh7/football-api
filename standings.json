@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 02 April 2026, 09:39 PM UTC",
-        "IST": "Friday, 03 April 2026, 03:09 AM IST"
+        "UTC": "Thursday, 02 April 2026, 10:31 PM UTC",
+        "IST": "Friday, 03 April 2026, 04:01 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3022,6 +3022,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "11"
+            },
+            {
+                "Position": "11",
                 "Team": "Vit\u00f3ria",
                 "Played": "8",
                 "Wins": "3",
@@ -3031,7 +3041,7 @@
                 "Points": "10"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Corinthians",
                 "Played": "9",
                 "Wins": "2",
@@ -3041,7 +3051,7 @@
                 "Points": "10"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Botafogo",
                 "Played": "8",
                 "Wins": "3",
@@ -3051,7 +3061,7 @@
                 "Points": "9"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Internacional",
                 "Played": "9",
                 "Wins": "2",
@@ -3059,16 +3069,6 @@
                 "Losses": "4",
                 "Goal Difference": "-2",
                 "Points": "9"
-            },
-            {
-                "Position": "14",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "8"
             },
             {
                 "Position": "15",
@@ -3082,17 +3082,17 @@
             },
             {
                 "Position": "16",
-                "Team": "Chapecoense",
-                "Played": "7",
+                "Team": "Santos",
+                "Played": "9",
                 "Wins": "1",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "7"
+                "Draws": "5",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "8"
             },
             {
                 "Position": "17",
-                "Team": "Santos",
+                "Team": "Chapecoense",
                 "Played": "8",
                 "Wins": "1",
                 "Draws": "4",
@@ -3112,22 +3112,22 @@
             },
             {
                 "Position": "19",
+                "Team": "Remo",
+                "Played": "9",
+                "Wins": "1",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "7"
+            },
+            {
+                "Position": "20",
                 "Team": "Mirassol",
                 "Played": "8",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-3",
-                "Points": "6"
-            },
-            {
-                "Position": "20",
-                "Team": "Remo",
-                "Played": "8",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-5",
                 "Points": "6"
             }
         ]

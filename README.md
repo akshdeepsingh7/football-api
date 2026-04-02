@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 02 April 2026, 09:39 PM UTC (Friday, 03 April 2026, 03:09 AM IST)
+**Last Updated:** Thursday, 02 April 2026, 10:31 PM UTC (Friday, 03 April 2026, 04:01 AM IST)
 
 ### Premier League
 
@@ -410,17 +410,17 @@ Data not available.
 | 7 | Coritiba | 9 | 4 | 2 | 3 | 1 | 14 |
 | 8 | Vasco da Gama | 9 | 3 | 3 | 3 | 0 | 12 |
 | 9 | Grêmio | 8 | 3 | 2 | 3 | 1 | 11 |
-| 10 | Vitória | 8 | 3 | 1 | 4 | -5 | 10 |
-| 11 | Corinthians | 9 | 2 | 4 | 3 | -2 | 10 |
-| 12 | Botafogo | 8 | 3 | 0 | 5 | -4 | 9 |
-| 13 | Internacional | 9 | 2 | 3 | 4 | -2 | 9 |
-| 14 | Atlético Mineiro | 8 | 2 | 2 | 4 | -3 | 8 |
+| 10 | Atlético Mineiro | 9 | 3 | 2 | 4 | -2 | 11 |
+| 11 | Vitória | 8 | 3 | 1 | 4 | -5 | 10 |
+| 12 | Corinthians | 9 | 2 | 4 | 3 | -2 | 10 |
+| 13 | Botafogo | 8 | 3 | 0 | 5 | -4 | 9 |
+| 14 | Internacional | 9 | 2 | 3 | 4 | -2 | 9 |
 | 15 | RB Bragantino | 8 | 2 | 2 | 4 | -4 | 8 |
-| 16 | Chapecoense | 7 | 1 | 4 | 2 | -2 | 7 |
-| 17 | Santos | 8 | 1 | 4 | 3 | -3 | 7 |
+| 16 | Santos | 9 | 1 | 5 | 3 | -3 | 8 |
+| 17 | Chapecoense | 8 | 1 | 4 | 3 | -3 | 7 |
 | 18 | Cruzeiro | 9 | 1 | 4 | 4 | -5 | 7 |
-| 19 | Mirassol | 8 | 1 | 3 | 4 | -3 | 6 |
-| 20 | Remo | 8 | 1 | 3 | 4 | -5 | 6 |
+| 19 | Remo | 9 | 1 | 4 | 4 | -5 | 7 |
+| 20 | Mirassol | 8 | 1 | 3 | 4 | -3 | 6 |
 
 
 <!-- END_TABLE -->
