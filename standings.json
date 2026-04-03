@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 03 April 2026, 04:02 PM UTC",
-        "IST": "Friday, 03 April 2026, 09:32 PM IST"
+        "UTC": "Friday, 03 April 2026, 05:03 PM UTC",
+        "IST": "Friday, 03 April 2026, 10:33 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2108,7 +2108,7 @@
                 "Wins": "12",
                 "Draws": "9",
                 "Losses": "7",
-                "Goal Difference": "13",
+                "Goal Difference": "14",
                 "Points": "45"
             },
             {
@@ -2144,12 +2144,12 @@
             {
                 "Position": "9",
                 "Team": "Vit\u00f3ria S.C.",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "9",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "13",
                 "Goal Difference": "-13",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "10",
@@ -2224,12 +2224,12 @@
             {
                 "Position": "17",
                 "Team": "Tondela",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "4",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "14",
                 "Goal Difference": "-20",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "18",
@@ -2238,7 +2238,7 @@
                 "Wins": "1",
                 "Draws": "8",
                 "Losses": "19",
-                "Goal Difference": "-42",
+                "Goal Difference": "-43",
                 "Points": "11"
             }
         ],
