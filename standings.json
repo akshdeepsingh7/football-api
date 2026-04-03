@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 03 April 2026, 07:58 PM UTC",
-        "IST": "Saturday, 04 April 2026, 01:28 AM IST"
+        "UTC": "Friday, 03 April 2026, 08:48 PM UTC",
+        "IST": "Saturday, 04 April 2026, 02:18 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -319,6 +319,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Rayo Vallecano",
+                "Played": "30",
+                "Wins": "8",
+                "Draws": "11",
+                "Losses": "11",
+                "Goal Difference": "-6",
+                "Points": "35"
+            },
+            {
+                "Position": "13",
                 "Team": "Valencia",
                 "Played": "29",
                 "Wins": "9",
@@ -328,7 +338,7 @@
                 "Points": "35"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Girona",
                 "Played": "29",
                 "Wins": "8",
@@ -336,16 +346,6 @@
                 "Losses": "11",
                 "Goal Difference": "-13",
                 "Points": "34"
-            },
-            {
-                "Position": "14",
-                "Team": "Rayo Vallecano",
-                "Played": "30",
-                "Wins": "7",
-                "Draws": "12",
-                "Losses": "11",
-                "Goal Difference": "-7",
-                "Points": "33"
             },
             {
                 "Position": "15",
@@ -372,10 +372,10 @@
                 "Team": "Elche",
                 "Played": "30",
                 "Wins": "6",
-                "Draws": "12",
-                "Losses": "12",
-                "Goal Difference": "-8",
-                "Points": "30"
+                "Draws": "11",
+                "Losses": "13",
+                "Goal Difference": "-9",
+                "Points": "29"
             },
             {
                 "Position": "18",
@@ -800,7 +800,7 @@
                 "Wins": "20",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "37",
+                "Goal Difference": "38",
                 "Points": "63"
             },
             {
@@ -880,7 +880,7 @@
                 "Wins": "10",
                 "Draws": "7",
                 "Losses": "11",
-                "Goal Difference": "5",
+                "Goal Difference": "4",
                 "Points": "37"
             },
             {
@@ -2075,11 +2075,11 @@
                 "Position": "2",
                 "Team": "Sporting CP",
                 "Played": "27",
-                "Wins": "20",
-                "Draws": "6",
+                "Wins": "21",
+                "Draws": "5",
                 "Losses": "1",
-                "Goal Difference": "53",
-                "Points": "66"
+                "Goal Difference": "55",
+                "Points": "68"
             },
             {
                 "Position": "3",
@@ -2163,16 +2163,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Santa Clara",
-                "Played": "28",
-                "Wins": "7",
-                "Draws": "8",
-                "Losses": "13",
-                "Goal Difference": "-7",
-                "Points": "29"
-            },
-            {
-                "Position": "12",
                 "Team": "Arouca",
                 "Played": "27",
                 "Wins": "8",
@@ -2182,7 +2172,7 @@
                 "Points": "29"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Alverca",
                 "Played": "27",
                 "Wins": "7",
@@ -2192,13 +2182,23 @@
                 "Points": "29"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Estrela Amadora",
                 "Played": "27",
                 "Wins": "6",
                 "Draws": "10",
                 "Losses": "11",
                 "Goal Difference": "-12",
+                "Points": "28"
+            },
+            {
+                "Position": "14",
+                "Team": "Santa Clara",
+                "Played": "28",
+                "Wins": "7",
+                "Draws": "7",
+                "Losses": "14",
+                "Goal Difference": "-9",
                 "Points": "28"
             },
             {
@@ -2247,11 +2247,11 @@
                 "Position": "1",
                 "Team": "Coventry City",
                 "Played": "40",
-                "Wins": "24",
-                "Draws": "9",
+                "Wins": "25",
+                "Draws": "8",
                 "Losses": "7",
-                "Goal Difference": "41",
-                "Points": "81"
+                "Goal Difference": "42",
+                "Points": "83"
             },
             {
                 "Position": "2",
@@ -2318,10 +2318,10 @@
                 "Team": "Derby County",
                 "Played": "40",
                 "Wins": "17",
-                "Draws": "10",
-                "Losses": "13",
-                "Goal Difference": "8",
-                "Points": "61"
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "7",
+                "Points": "60"
             },
             {
                 "Position": "9",
