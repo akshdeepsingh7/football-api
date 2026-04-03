@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 02 April 2026, 11:35 PM UTC",
-        "IST": "Friday, 03 April 2026, 05:05 AM IST"
+        "UTC": "Friday, 03 April 2026, 02:28 AM UTC",
+        "IST": "Friday, 03 April 2026, 07:58 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2933,12 +2933,12 @@
             {
                 "Position": "1",
                 "Team": "Palmeiras",
-                "Played": "8",
-                "Wins": "6",
+                "Played": "9",
+                "Wins": "7",
                 "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "9",
-                "Points": "19"
+                "Goal Difference": "10",
+                "Points": "22"
             },
             {
                 "Position": "2",
@@ -2983,11 +2983,11 @@
             {
                 "Position": "6",
                 "Team": "Flamengo",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "4",
                 "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "8",
+                "Losses": "2",
+                "Goal Difference": "5",
                 "Points": "14"
             },
             {
@@ -3012,17 +3012,17 @@
             },
             {
                 "Position": "9",
-                "Team": "Gr\u00eamio",
-                "Played": "8",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "9",
                 "Wins": "3",
                 "Draws": "2",
-                "Losses": "3",
+                "Losses": "4",
                 "Goal Difference": "1",
                 "Points": "11"
             },
             {
                 "Position": "10",
-                "Team": "Atl\u00e9tico Mineiro",
+                "Team": "Gr\u00eamio",
                 "Played": "9",
                 "Wins": "3",
                 "Draws": "2",
@@ -3032,6 +3032,16 @@
             },
             {
                 "Position": "11",
+                "Team": "RB Bragantino",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "11"
+            },
+            {
+                "Position": "12",
                 "Team": "Vit\u00f3ria",
                 "Played": "8",
                 "Wins": "3",
@@ -3041,17 +3051,17 @@
                 "Points": "10"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Santos",
                 "Played": "9",
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "3",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "10"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Corinthians",
                 "Played": "9",
                 "Wins": "2",
@@ -3061,7 +3071,7 @@
                 "Points": "10"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Botafogo",
                 "Played": "8",
                 "Wins": "3",
@@ -3071,7 +3081,7 @@
                 "Points": "9"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Internacional",
                 "Played": "9",
                 "Wins": "2",
@@ -3079,16 +3089,6 @@
                 "Losses": "4",
                 "Goal Difference": "-2",
                 "Points": "9"
-            },
-            {
-                "Position": "16",
-                "Team": "RB Bragantino",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-4",
-                "Points": "8"
             },
             {
                 "Position": "17",
@@ -3107,7 +3107,7 @@
                 "Wins": "1",
                 "Draws": "4",
                 "Losses": "3",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "7"
             },
             {
@@ -3127,7 +3127,7 @@
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "-6",
+                "Goal Difference": "-7",
                 "Points": "6"
             }
         ]
