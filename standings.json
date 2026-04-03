@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 03 April 2026, 10:43 AM UTC",
-        "IST": "Friday, 03 April 2026, 04:13 PM IST"
+        "UTC": "Friday, 03 April 2026, 11:38 AM UTC",
+        "IST": "Friday, 03 April 2026, 05:08 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2256,31 +2256,31 @@
             {
                 "Position": "2",
                 "Team": "Middlesbrough",
-                "Played": "39",
+                "Played": "40",
                 "Wins": "20",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "8",
                 "Goal Difference": "22",
-                "Points": "71"
+                "Points": "72"
             },
             {
                 "Position": "3",
+                "Team": "Millwall",
+                "Played": "40",
+                "Wins": "20",
+                "Draws": "10",
+                "Losses": "10",
+                "Goal Difference": "9",
+                "Points": "70"
+            },
+            {
+                "Position": "4",
                 "Team": "Ipswich Town",
                 "Played": "38",
                 "Wins": "19",
                 "Draws": "12",
                 "Losses": "7",
                 "Goal Difference": "28",
-                "Points": "69"
-            },
-            {
-                "Position": "4",
-                "Team": "Millwall",
-                "Played": "39",
-                "Wins": "20",
-                "Draws": "9",
-                "Losses": "10",
-                "Goal Difference": "9",
                 "Points": "69"
             },
             {
