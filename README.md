@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 03 April 2026, 07:11 PM UTC (Saturday, 04 April 2026, 12:41 AM IST)
+**Last Updated:** Friday, 03 April 2026, 07:58 PM UTC (Saturday, 04 April 2026, 01:28 AM IST)
 
 ### Premier League
 
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 27 | 23 | 3 | 1 | 43 | 72 |
-| 2 | Sporting CP | 26 | 20 | 5 | 1 | 53 | 65 |
+| 2 | Sporting CP | 27 | 20 | 6 | 1 | 53 | 66 |
 | 3 | Benfica | 27 | 19 | 8 | 0 | 41 | 65 |
 | 4 | Braga | 26 | 13 | 7 | 6 | 26 | 46 |
 | 5 | Gil Vicente | 28 | 12 | 9 | 7 | 14 | 45 |
@@ -301,10 +301,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Moreirense | 27 | 10 | 5 | 12 | -8 | 35 |
 | 9 | Vitória S.C. | 28 | 10 | 5 | 13 | -8 | 35 |
 | 10 | Rio Ave | 27 | 7 | 9 | 11 | -18 | 30 |
-| 11 | Arouca | 27 | 8 | 5 | 14 | -21 | 29 |
-| 12 | Alverca | 27 | 7 | 8 | 12 | -18 | 29 |
-| 13 | Estrela Amadora | 27 | 6 | 10 | 11 | -12 | 28 |
-| 14 | Santa Clara | 27 | 7 | 7 | 13 | -7 | 28 |
+| 11 | Santa Clara | 28 | 7 | 8 | 13 | -7 | 29 |
+| 12 | Arouca | 27 | 8 | 5 | 14 | -21 | 29 |
+| 13 | Alverca | 27 | 7 | 8 | 12 | -18 | 29 |
+| 14 | Estrela Amadora | 27 | 6 | 10 | 11 | -12 | 28 |
 | 15 | Casa Pia | 26 | 5 | 9 | 12 | -22 | 24 |
 | 16 | Nacional | 27 | 5 | 7 | 15 | -10 | 22 |
 | 17 | Tondela | 27 | 4 | 8 | 15 | -25 | 20 |

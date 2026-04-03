@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 03 April 2026, 07:11 PM UTC",
-        "IST": "Saturday, 04 April 2026, 12:41 AM IST"
+        "UTC": "Friday, 03 April 2026, 07:58 PM UTC",
+        "IST": "Saturday, 04 April 2026, 01:28 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2074,12 +2074,12 @@
             {
                 "Position": "2",
                 "Team": "Sporting CP",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "20",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "1",
                 "Goal Difference": "53",
-                "Points": "65"
+                "Points": "66"
             },
             {
                 "Position": "3",
@@ -2163,6 +2163,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Santa Clara",
+                "Played": "28",
+                "Wins": "7",
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "-7",
+                "Points": "29"
+            },
+            {
+                "Position": "12",
                 "Team": "Arouca",
                 "Played": "27",
                 "Wins": "8",
@@ -2172,7 +2182,7 @@
                 "Points": "29"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Alverca",
                 "Played": "27",
                 "Wins": "7",
@@ -2182,23 +2192,13 @@
                 "Points": "29"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Estrela Amadora",
                 "Played": "27",
                 "Wins": "6",
                 "Draws": "10",
                 "Losses": "11",
                 "Goal Difference": "-12",
-                "Points": "28"
-            },
-            {
-                "Position": "14",
-                "Team": "Santa Clara",
-                "Played": "27",
-                "Wins": "7",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "-7",
                 "Points": "28"
             },
             {
