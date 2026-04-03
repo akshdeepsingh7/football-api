@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 03 April 2026, 01:05 PM UTC (Friday, 03 April 2026, 06:35 PM IST)
+**Last Updated:** Friday, 03 April 2026, 02:11 PM UTC (Friday, 03 April 2026, 07:41 PM IST)
 
 ### Premier League
 
@@ -315,29 +315,29 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 39 | 24 | 8 | 7 | 41 | 80 |
-| 2 | Middlesbrough | 40 | 20 | 12 | 8 | 22 | 72 |
-| 3 | Millwall | 40 | 20 | 10 | 10 | 9 | 70 |
+| 2 | Millwall | 40 | 21 | 9 | 10 | 10 | 72 |
+| 3 | Middlesbrough | 40 | 20 | 11 | 9 | 21 | 71 |
 | 4 | Ipswich Town | 38 | 19 | 12 | 7 | 28 | 69 |
-| 5 | Hull City | 39 | 20 | 6 | 13 | 5 | 66 |
-| 6 | Southampton | 39 | 17 | 12 | 10 | 15 | 63 |
-| 7 | Wrexham | 39 | 17 | 12 | 10 | 9 | 63 |
+| 5 | Hull City | 40 | 21 | 6 | 13 | 6 | 69 |
+| 6 | Wrexham | 40 | 17 | 13 | 10 | 9 | 64 |
+| 7 | Southampton | 39 | 17 | 12 | 10 | 15 | 63 |
 | 8 | Derby County | 39 | 17 | 9 | 13 | 8 | 60 |
-| 9 | Watford | 39 | 14 | 14 | 11 | 4 | 56 |
-| 10 | Norwich City | 39 | 16 | 6 | 17 | 6 | 54 |
-| 11 | Birmingham City | 39 | 14 | 11 | 14 | -1 | 53 |
-| 12 | Queens Park Rangers | 39 | 15 | 8 | 16 | -6 | 53 |
-| 13 | Preston North End | 39 | 13 | 13 | 13 | -4 | 52 |
-| 14 | Swansea City | 39 | 15 | 7 | 17 | -5 | 52 |
-| 15 | Stoke City | 39 | 14 | 9 | 16 | 3 | 51 |
-| 16 | Bristol City | 39 | 14 | 9 | 16 | -1 | 51 |
-| 17 | Sheffield United | 39 | 15 | 5 | 19 | 0 | 50 |
-| 18 | Charlton Athletic | 39 | 12 | 12 | 15 | -10 | 48 |
-| 19 | Blackburn Rovers | 39 | 11 | 10 | 18 | -13 | 43 |
-| 20 | West Bromwich Albion | 39 | 11 | 10 | 18 | -14 | 43 |
-| 21 | Portsmouth | 38 | 10 | 10 | 18 | -17 | 40 |
-| 22 | Leicester City | 39 | 11 | 12 | 16 | -9 | 39 |
-| 23 | Oxford United | 39 | 9 | 12 | 18 | -15 | 39 |
-| 24 | Sheffield Wednesday | 39 | 1 | 9 | 29 | -55 | -6 |
+| 9 | Watford | 40 | 14 | 15 | 11 | 4 | 57 |
+| 10 | Norwich City | 40 | 16 | 7 | 17 | 6 | 55 |
+| 11 | Birmingham City | 40 | 14 | 12 | 14 | -1 | 54 |
+| 12 | Queens Park Rangers | 40 | 15 | 9 | 16 | -6 | 54 |
+| 13 | Swansea City | 40 | 15 | 8 | 17 | -5 | 53 |
+| 14 | Stoke City | 40 | 14 | 10 | 16 | 3 | 52 |
+| 15 | Bristol City | 40 | 14 | 10 | 16 | -1 | 52 |
+| 16 | Preston North End | 40 | 13 | 13 | 14 | -5 | 52 |
+| 17 | Sheffield United | 40 | 15 | 6 | 19 | 0 | 51 |
+| 18 | Charlton Athletic | 40 | 12 | 13 | 15 | -10 | 49 |
+| 19 | Blackburn Rovers | 40 | 11 | 11 | 18 | -13 | 44 |
+| 20 | West Bromwich Albion | 40 | 11 | 11 | 18 | -14 | 44 |
+| 21 | Leicester City | 40 | 12 | 12 | 16 | -8 | 42 |
+| 22 | Portsmouth | 39 | 10 | 11 | 18 | -17 | 41 |
+| 23 | Oxford United | 40 | 9 | 12 | 19 | -16 | 39 |
+| 24 | Sheffield Wednesday | 40 | 1 | 10 | 29 | -55 | -5 |
 
 ### Major League Soccer (MLS)
 
@@ -384,14 +384,14 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | East Bengal | 6 | 3 | 2 | 1 | 12 | 11 |
 | 5 | Bengaluru | 6 | 3 | 2 | 1 | 3 | 11 |
 | 6 | FC Goa | 6 | 2 | 4 | 0 | 3 | 10 |
-| 7 | Punjab FC | 5 | 2 | 2 | 1 | 3 | 8 |
+| 7 | Punjab FC | 6 | 2 | 3 | 1 | 3 | 9 |
 | 8 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
 | 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
 | 10 | Chennaiyin | 5 | 1 | 2 | 2 | -2 | 5 |
 | 11 | Inter Kashi | 6 | 1 | 2 | 3 | -3 | 5 |
 | 12 | SC Delhi | 5 | 0 | 2 | 3 | -6 | 2 |
 | 13 | Kerala Blasters | 6 | 0 | 1 | 5 | -7 | 1 |
-| 14 | Mohammedan | 5 | 0 | 0 | 5 | -15 | 0 |
+| 14 | Mohammedan | 6 | 0 | 1 | 5 | -15 | 1 |
 
 ### Liga Profesional Argentina (Clausura)
 
