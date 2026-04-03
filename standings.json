@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 03 April 2026, 06:00 PM UTC",
-        "IST": "Friday, 03 April 2026, 11:30 PM IST"
+        "UTC": "Friday, 03 April 2026, 07:11 PM UTC",
+        "IST": "Saturday, 04 April 2026, 12:41 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -340,12 +340,12 @@
             {
                 "Position": "14",
                 "Team": "Rayo Vallecano",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "7",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "11",
                 "Goal Difference": "-7",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "15",
@@ -370,12 +370,12 @@
             {
                 "Position": "17",
                 "Team": "Elche",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "6",
-                "Draws": "11",
+                "Draws": "12",
                 "Losses": "12",
                 "Goal Difference": "-8",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "18",
@@ -796,12 +796,12 @@
             {
                 "Position": "1",
                 "Team": "PSG",
-                "Played": "26",
-                "Wins": "19",
+                "Played": "27",
+                "Wins": "20",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "36",
-                "Points": "60"
+                "Goal Difference": "37",
+                "Points": "63"
             },
             {
                 "Position": "2",
@@ -876,11 +876,11 @@
             {
                 "Position": "9",
                 "Team": "Toulouse",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "10",
                 "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "6",
+                "Losses": "11",
+                "Goal Difference": "5",
                 "Points": "37"
             },
             {
@@ -2148,7 +2148,7 @@
                 "Wins": "10",
                 "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-11",
+                "Goal Difference": "-8",
                 "Points": "35"
             },
             {
@@ -2228,7 +2228,7 @@
                 "Wins": "4",
                 "Draws": "8",
                 "Losses": "15",
-                "Goal Difference": "-22",
+                "Goal Difference": "-25",
                 "Points": "20"
             },
             {
@@ -2246,12 +2246,12 @@
             {
                 "Position": "1",
                 "Team": "Coventry City",
-                "Played": "39",
+                "Played": "40",
                 "Wins": "24",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "41",
-                "Points": "80"
+                "Points": "81"
             },
             {
                 "Position": "2",
@@ -2316,12 +2316,12 @@
             {
                 "Position": "8",
                 "Team": "Derby County",
-                "Played": "39",
+                "Played": "40",
                 "Wins": "17",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "13",
                 "Goal Difference": "8",
-                "Points": "60"
+                "Points": "61"
             },
             {
                 "Position": "9",
