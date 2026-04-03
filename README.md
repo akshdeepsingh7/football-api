@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 03 April 2026, 03:08 PM UTC (Friday, 03 April 2026, 08:38 PM IST)
+**Last Updated:** Friday, 03 April 2026, 04:02 PM UTC (Friday, 03 April 2026, 09:32 PM IST)
 
 ### Premier League
 
@@ -295,7 +295,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 26 | 20 | 5 | 1 | 53 | 65 |
 | 3 | Benfica | 27 | 19 | 8 | 0 | 41 | 65 |
 | 4 | Braga | 26 | 13 | 7 | 6 | 26 | 46 |
-| 5 | Gil Vicente | 28 | 12 | 9 | 7 | 12 | 45 |
+| 5 | Gil Vicente | 28 | 12 | 9 | 7 | 13 | 45 |
 | 6 | Famalicão | 27 | 13 | 6 | 8 | 11 | 45 |
 | 7 | Estoril | 27 | 10 | 7 | 10 | 4 | 37 |
 | 8 | Moreirense | 27 | 10 | 5 | 12 | -8 | 35 |
@@ -308,7 +308,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Casa Pia | 26 | 5 | 9 | 12 | -22 | 24 |
 | 16 | Nacional | 27 | 5 | 7 | 15 | -10 | 22 |
 | 17 | Tondela | 26 | 4 | 8 | 14 | -20 | 20 |
-| 18 | AVS | 28 | 1 | 8 | 19 | -41 | 11 |
+| 18 | AVS | 28 | 1 | 8 | 19 | -42 | 11 |
 
 ### EFL Championship
 
@@ -319,25 +319,25 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Middlesbrough | 40 | 20 | 11 | 9 | 21 | 71 |
 | 4 | Ipswich Town | 38 | 19 | 12 | 7 | 28 | 69 |
 | 5 | Hull City | 40 | 20 | 7 | 13 | 5 | 67 |
-| 6 | Southampton | 39 | 17 | 12 | 10 | 15 | 63 |
-| 7 | Wrexham | 40 | 17 | 12 | 11 | 8 | 63 |
+| 6 | Wrexham | 40 | 17 | 13 | 10 | 9 | 64 |
+| 7 | Southampton | 39 | 17 | 12 | 10 | 15 | 63 |
 | 8 | Derby County | 39 | 17 | 9 | 13 | 8 | 60 |
-| 9 | Norwich City | 40 | 17 | 6 | 17 | 7 | 57 |
-| 10 | Watford | 40 | 14 | 14 | 12 | 3 | 56 |
-| 11 | Queens Park Rangers | 40 | 16 | 8 | 16 | -5 | 56 |
-| 12 | Preston North End | 40 | 14 | 13 | 13 | -3 | 55 |
-| 13 | Stoke City | 40 | 15 | 9 | 16 | 4 | 54 |
-| 14 | Birmingham City | 40 | 14 | 12 | 14 | -1 | 54 |
-| 15 | Swansea City | 40 | 15 | 8 | 17 | -5 | 53 |
-| 16 | Bristol City | 40 | 14 | 10 | 16 | -1 | 52 |
+| 9 | Watford | 40 | 14 | 14 | 12 | 3 | 56 |
+| 10 | Queens Park Rangers | 40 | 16 | 8 | 16 | -5 | 56 |
+| 11 | Norwich City | 40 | 16 | 7 | 17 | 6 | 55 |
+| 12 | Stoke City | 40 | 15 | 9 | 16 | 5 | 54 |
+| 13 | Bristol City | 40 | 15 | 9 | 16 | 0 | 54 |
+| 14 | Birmingham City | 40 | 14 | 11 | 15 | -2 | 53 |
+| 15 | Preston North End | 40 | 13 | 14 | 13 | -4 | 53 |
+| 16 | Swansea City | 40 | 15 | 8 | 17 | -5 | 53 |
 | 17 | Sheffield United | 40 | 15 | 6 | 19 | 0 | 51 |
-| 18 | Charlton Athletic | 40 | 12 | 13 | 15 | -10 | 49 |
-| 19 | West Bromwich Albion | 40 | 12 | 10 | 18 | -13 | 46 |
-| 20 | Blackburn Rovers | 40 | 11 | 11 | 18 | -13 | 44 |
-| 21 | Oxford United | 40 | 9 | 13 | 18 | -15 | 40 |
-| 22 | Portsmouth | 39 | 10 | 10 | 19 | -18 | 40 |
-| 23 | Leicester City | 40 | 11 | 12 | 17 | -10 | 39 |
-| 24 | Sheffield Wednesday | 40 | 1 | 9 | 30 | -56 | -6 |
+| 18 | Charlton Athletic | 40 | 12 | 12 | 16 | -11 | 48 |
+| 19 | Blackburn Rovers | 40 | 12 | 10 | 18 | -12 | 46 |
+| 20 | West Bromwich Albion | 40 | 11 | 11 | 18 | -14 | 44 |
+| 21 | Portsmouth | 39 | 10 | 11 | 18 | -17 | 41 |
+| 22 | Leicester City | 40 | 11 | 13 | 16 | -9 | 40 |
+| 23 | Oxford United | 40 | 9 | 13 | 18 | -15 | 40 |
+| 24 | Sheffield Wednesday | 40 | 1 | 9 | 30 | -57 | -6 |
 
 ### Major League Soccer (MLS)
 
@@ -382,16 +382,16 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Mohun Bagan SG | 6 | 4 | 1 | 1 | 11 | 13 |
 | 3 | Jamshedpur | 6 | 4 | 1 | 1 | 3 | 13 |
 | 4 | East Bengal | 6 | 3 | 2 | 1 | 12 | 11 |
-| 5 | Bengaluru | 6 | 3 | 2 | 1 | 3 | 11 |
-| 6 | FC Goa | 6 | 2 | 4 | 0 | 3 | 10 |
-| 7 | Punjab FC | 6 | 2 | 3 | 1 | 3 | 9 |
+| 5 | Punjab FC | 6 | 3 | 2 | 1 | 4 | 11 |
+| 6 | Bengaluru | 6 | 3 | 2 | 1 | 3 | 11 |
+| 7 | FC Goa | 6 | 2 | 4 | 0 | 3 | 10 |
 | 8 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
 | 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
 | 10 | Chennaiyin | 5 | 1 | 2 | 2 | -2 | 5 |
 | 11 | Inter Kashi | 6 | 1 | 2 | 3 | -3 | 5 |
 | 12 | SC Delhi | 5 | 0 | 2 | 3 | -6 | 2 |
 | 13 | Kerala Blasters | 6 | 0 | 1 | 5 | -7 | 1 |
-| 14 | Mohammedan | 6 | 0 | 1 | 5 | -15 | 1 |
+| 14 | Mohammedan | 6 | 0 | 0 | 6 | -16 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
 
