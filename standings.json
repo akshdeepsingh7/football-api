@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 April 2026, 04:36 PM UTC",
-        "IST": "Saturday, 04 April 2026, 10:06 PM IST"
+        "UTC": "Saturday, 04 April 2026, 05:33 PM UTC",
+        "IST": "Saturday, 04 April 2026, 11:03 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -856,12 +856,12 @@
             {
                 "Position": "7",
                 "Team": "Rennes",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "12",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "6",
-                "Points": "44"
+                "Points": "45"
             },
             {
                 "Position": "8",
@@ -870,7 +870,7 @@
                 "Wins": "12",
                 "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "13",
+                "Goal Difference": "12",
                 "Points": "43"
             },
             {
@@ -896,12 +896,12 @@
             {
                 "Position": "11",
                 "Team": "Brest",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "10",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "11",
                 "Goal Difference": "-5",
-                "Points": "36"
+                "Points": "37"
             },
             {
                 "Position": "12",
@@ -940,7 +940,7 @@
                 "Wins": "7",
                 "Draws": "6",
                 "Losses": "15",
-                "Goal Difference": "-23",
+                "Goal Difference": "-22",
                 "Points": "27"
             },
             {
@@ -2094,12 +2094,12 @@
             {
                 "Position": "4",
                 "Team": "Braga",
-                "Played": "26",
-                "Wins": "13",
+                "Played": "27",
+                "Wins": "14",
                 "Draws": "7",
                 "Losses": "6",
-                "Goal Difference": "26",
-                "Points": "46"
+                "Goal Difference": "27",
+                "Points": "49"
             },
             {
                 "Position": "5",
@@ -2134,11 +2134,11 @@
             {
                 "Position": "8",
                 "Team": "Moreirense",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "10",
                 "Draws": "5",
-                "Losses": "12",
-                "Goal Difference": "-8",
+                "Losses": "13",
+                "Goal Difference": "-9",
                 "Points": "35"
             },
             {
@@ -2153,32 +2153,32 @@
             },
             {
                 "Position": "10",
-                "Team": "Rio Ave",
-                "Played": "27",
-                "Wins": "7",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "-18",
-                "Points": "30"
+                "Team": "Alverca",
+                "Played": "28",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-16",
+                "Points": "32"
             },
             {
                 "Position": "11",
+                "Team": "Rio Ave",
+                "Played": "28",
+                "Wins": "7",
+                "Draws": "9",
+                "Losses": "12",
+                "Goal Difference": "-20",
+                "Points": "30"
+            },
+            {
+                "Position": "12",
                 "Team": "Arouca",
                 "Played": "27",
                 "Wins": "8",
                 "Draws": "5",
                 "Losses": "14",
                 "Goal Difference": "-21",
-                "Points": "29"
-            },
-            {
-                "Position": "12",
-                "Team": "Alverca",
-                "Played": "27",
-                "Wins": "7",
-                "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-18",
                 "Points": "29"
             },
             {
@@ -2527,6 +2527,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Toronto",
+                "Played": "6",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "8"
+            },
+            {
+                "Position": "6",
                 "Team": "Chicago Fire",
                 "Played": "5",
                 "Wins": "2",
@@ -2536,23 +2546,13 @@
                 "Points": "7"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "DC United",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "0",
-                "Points": "7"
-            },
-            {
-                "Position": "7",
-                "Team": "Toronto",
-                "Played": "5",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "-2",
                 "Points": "7"
             },
             {
@@ -2677,6 +2677,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Colorado Rapids",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "10"
+            },
+            {
+                "Position": "6",
                 "Team": "Seattle Sounders",
                 "Played": "5",
                 "Wins": "3",
@@ -2686,7 +2696,7 @@
                 "Points": "10"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Real Salt Lake",
                 "Played": "5",
                 "Wins": "3",
@@ -2694,16 +2704,6 @@
                 "Losses": "1",
                 "Goal Difference": "2",
                 "Points": "10"
-            },
-            {
-                "Position": "7",
-                "Team": "Colorado Rapids",
-                "Played": "5",
-                "Wins": "3",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "4",
-                "Points": "9"
             },
             {
                 "Position": "8",

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 April 2026, 04:36 PM UTC (Saturday, 04 April 2026, 10:06 PM IST)
+**Last Updated:** Saturday, 04 April 2026, 05:33 PM UTC (Saturday, 04 April 2026, 11:03 PM IST)
 
 ### Premier League
 
@@ -151,15 +151,15 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Lyon | 27 | 14 | 5 | 8 | 12 | 47 |
 | 5 | Lille | 27 | 14 | 5 | 8 | 8 | 47 |
 | 6 | Monaco | 27 | 14 | 4 | 9 | 9 | 46 |
-| 7 | Rennes | 27 | 12 | 8 | 7 | 6 | 44 |
-| 8 | Strasbourg | 28 | 12 | 7 | 9 | 13 | 43 |
+| 7 | Rennes | 28 | 12 | 9 | 7 | 6 | 45 |
+| 8 | Strasbourg | 28 | 12 | 7 | 9 | 12 | 43 |
 | 9 | Toulouse | 28 | 10 | 7 | 11 | 4 | 37 |
 | 10 | Lorient | 27 | 9 | 10 | 8 | -4 | 37 |
-| 11 | Brest | 27 | 10 | 6 | 11 | -5 | 36 |
+| 11 | Brest | 28 | 10 | 7 | 11 | -5 | 37 |
 | 12 | Angers | 27 | 9 | 5 | 13 | -13 | 32 |
 | 13 | Paris FC | 27 | 7 | 10 | 10 | -11 | 31 |
 | 14 | Le Havre | 27 | 6 | 9 | 12 | -13 | 27 |
-| 15 | Nice | 28 | 7 | 6 | 15 | -23 | 27 |
+| 15 | Nice | 28 | 7 | 6 | 15 | -22 | 27 |
 | 16 | Auxerre | 27 | 5 | 7 | 15 | -14 | 22 |
 | 17 | Nantes | 26 | 4 | 5 | 17 | -21 | 17 |
 | 18 | Metz | 27 | 3 | 5 | 19 | -35 | 14 |
@@ -294,15 +294,15 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 27 | 23 | 3 | 1 | 43 | 72 |
 | 2 | Sporting CP | 27 | 21 | 5 | 1 | 55 | 68 |
 | 3 | Benfica | 27 | 19 | 8 | 0 | 41 | 65 |
-| 4 | Braga | 26 | 13 | 7 | 6 | 26 | 46 |
+| 4 | Braga | 27 | 14 | 7 | 6 | 27 | 49 |
 | 5 | Gil Vicente | 28 | 12 | 9 | 7 | 14 | 45 |
 | 6 | Famalicão | 27 | 13 | 6 | 8 | 11 | 45 |
 | 7 | Estoril | 27 | 10 | 7 | 10 | 4 | 37 |
-| 8 | Moreirense | 27 | 10 | 5 | 12 | -8 | 35 |
+| 8 | Moreirense | 28 | 10 | 5 | 13 | -9 | 35 |
 | 9 | Vitória S.C. | 28 | 10 | 5 | 13 | -8 | 35 |
-| 10 | Rio Ave | 27 | 7 | 9 | 11 | -18 | 30 |
-| 11 | Arouca | 27 | 8 | 5 | 14 | -21 | 29 |
-| 12 | Alverca | 27 | 7 | 8 | 12 | -18 | 29 |
+| 10 | Alverca | 28 | 8 | 8 | 12 | -16 | 32 |
+| 11 | Rio Ave | 28 | 7 | 9 | 12 | -20 | 30 |
+| 12 | Arouca | 27 | 8 | 5 | 14 | -21 | 29 |
 | 13 | Estrela Amadora | 28 | 6 | 10 | 12 | -14 | 28 |
 | 14 | Santa Clara | 28 | 7 | 7 | 14 | -9 | 28 |
 | 15 | Nacional | 28 | 6 | 7 | 15 | -8 | 25 |
@@ -347,9 +347,9 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | NYCFC | 5 | 3 | 1 | 1 | 7 | 10 |
 | 3 | Inter Miami | 5 | 3 | 1 | 1 | 1 | 10 |
 | 4 | Charlotte | 5 | 2 | 2 | 1 | 4 | 8 |
-| 5 | Chicago Fire | 5 | 2 | 1 | 2 | 2 | 7 |
-| 6 | DC United | 5 | 2 | 1 | 2 | 0 | 7 |
-| 7 | Toronto | 5 | 2 | 1 | 2 | -2 | 7 |
+| 5 | Toronto | 6 | 2 | 2 | 2 | -2 | 8 |
+| 6 | Chicago Fire | 5 | 2 | 1 | 2 | 2 | 7 |
+| 7 | DC United | 5 | 2 | 1 | 2 | 0 | 7 |
 | 8 | New York RB | 5 | 2 | 1 | 2 | -6 | 7 |
 | 9 | Cincinnati | 5 | 2 | 0 | 3 | -4 | 6 |
 | 10 | Atlanta United | 5 | 1 | 1 | 3 | -3 | 4 |
@@ -362,9 +362,9 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Vancouver Whitecaps | 5 | 4 | 0 | 1 | 12 | 12 |
 | 3 | San Jose Earthquakes | 5 | 4 | 0 | 1 | 6 | 12 |
 | 4 | San Diego | 5 | 3 | 2 | 0 | 8 | 11 |
-| 5 | Seattle Sounders | 5 | 3 | 1 | 1 | 3 | 10 |
-| 6 | Real Salt Lake | 5 | 3 | 1 | 1 | 2 | 10 |
-| 7 | Colorado Rapids | 5 | 3 | 0 | 2 | 4 | 9 |
+| 5 | Colorado Rapids | 6 | 3 | 1 | 2 | 4 | 10 |
+| 6 | Seattle Sounders | 5 | 3 | 1 | 1 | 3 | 10 |
+| 7 | Real Salt Lake | 5 | 3 | 1 | 1 | 2 | 10 |
 | 8 | Dallas | 5 | 2 | 2 | 1 | 1 | 8 |
 | 9 | Houston Dynamo | 4 | 2 | 0 | 2 | -1 | 6 |
 | 10 | LA Galaxy | 5 | 1 | 2 | 2 | -1 | 5 |
