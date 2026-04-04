@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 April 2026, 03:33 PM UTC (Saturday, 04 April 2026, 09:03 PM IST)
+**Last Updated:** Saturday, 04 April 2026, 04:36 PM UTC (Saturday, 04 April 2026, 10:06 PM IST)
 
 ### Premier League
 
@@ -76,13 +76,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Real Madrid | 30 | 22 | 3 | 5 | 36 | 69 |
 | 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 4 | Atlético de Madrid | 29 | 17 | 6 | 6 | 21 | 57 |
-| 5 | Real Betis | 29 | 11 | 11 | 7 | 7 | 44 |
+| 5 | Real Betis | 30 | 11 | 12 | 7 | 7 | 45 |
 | 6 | Real Sociedad | 30 | 11 | 8 | 11 | 1 | 41 |
 | 7 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
 | 8 | Getafe | 29 | 11 | 5 | 13 | -6 | 38 |
-| 9 | Athletic Bilbao | 29 | 11 | 5 | 13 | -9 | 38 |
-| 10 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
-| 11 | Espanyol | 29 | 10 | 7 | 12 | -8 | 37 |
+| 9 | Espanyol | 30 | 10 | 8 | 12 | -8 | 38 |
+| 10 | Athletic Bilbao | 29 | 11 | 5 | 13 | -9 | 38 |
+| 11 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
 | 12 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
 | 13 | Valencia | 29 | 9 | 8 | 12 | -10 | 35 |
 | 14 | Girona | 29 | 8 | 10 | 11 | -13 | 34 |
@@ -98,8 +98,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 28 | 23 | 4 | 1 | 73 | 73 |
-| 2 | Borussia Dortmund | 27 | 18 | 7 | 2 | 30 | 61 |
-| 3 | VfB Stuttgart | 27 | 16 | 5 | 6 | 20 | 53 |
+| 2 | Borussia Dortmund | 28 | 18 | 8 | 2 | 30 | 62 |
+| 3 | VfB Stuttgart | 28 | 16 | 6 | 6 | 20 | 54 |
 | 4 | RB Leipzig | 28 | 16 | 5 | 7 | 19 | 53 |
 | 5 | Hoffenheim | 28 | 15 | 5 | 8 | 14 | 50 |
 | 6 | Bayer Leverkusen | 28 | 14 | 7 | 7 | 19 | 49 |
@@ -135,10 +135,10 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
 | 14 | Torino | 30 | 9 | 6 | 15 | -19 | 33 |
 | 15 | Cagliari | 31 | 7 | 9 | 15 | -12 | 30 |
-| 16 | Fiorentina | 30 | 6 | 11 | 13 | -9 | 29 |
+| 16 | Fiorentina | 31 | 6 | 12 | 13 | -9 | 30 |
 | 17 | Cremonese | 30 | 6 | 9 | 15 | -19 | 27 |
 | 18 | Lecce | 30 | 7 | 6 | 17 | -19 | 27 |
-| 19 | Hellas Verona | 30 | 3 | 9 | 18 | -30 | 18 |
+| 19 | Hellas Verona | 31 | 3 | 10 | 18 | -30 | 19 |
 | 20 | Pisa | 30 | 2 | 12 | 16 | -31 | 18 |
 
 ### Ligue 1
@@ -152,14 +152,14 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Lille | 27 | 14 | 5 | 8 | 8 | 47 |
 | 6 | Monaco | 27 | 14 | 4 | 9 | 9 | 46 |
 | 7 | Rennes | 27 | 12 | 8 | 7 | 6 | 44 |
-| 8 | Strasbourg | 28 | 12 | 7 | 9 | 11 | 43 |
+| 8 | Strasbourg | 28 | 12 | 7 | 9 | 13 | 43 |
 | 9 | Toulouse | 28 | 10 | 7 | 11 | 4 | 37 |
 | 10 | Lorient | 27 | 9 | 10 | 8 | -4 | 37 |
 | 11 | Brest | 27 | 10 | 6 | 11 | -5 | 36 |
 | 12 | Angers | 27 | 9 | 5 | 13 | -13 | 32 |
 | 13 | Paris FC | 27 | 7 | 10 | 10 | -11 | 31 |
 | 14 | Le Havre | 27 | 6 | 9 | 12 | -13 | 27 |
-| 15 | Nice | 28 | 7 | 6 | 15 | -21 | 27 |
+| 15 | Nice | 28 | 7 | 6 | 15 | -23 | 27 |
 | 16 | Auxerre | 27 | 5 | 7 | 15 | -14 | 22 |
 | 17 | Nantes | 26 | 4 | 5 | 17 | -21 | 17 |
 | 18 | Metz | 27 | 3 | 5 | 19 | -35 | 14 |
@@ -303,9 +303,9 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Rio Ave | 27 | 7 | 9 | 11 | -18 | 30 |
 | 11 | Arouca | 27 | 8 | 5 | 14 | -21 | 29 |
 | 12 | Alverca | 27 | 7 | 8 | 12 | -18 | 29 |
-| 13 | Estrela Amadora | 28 | 6 | 10 | 12 | -13 | 28 |
+| 13 | Estrela Amadora | 28 | 6 | 10 | 12 | -14 | 28 |
 | 14 | Santa Clara | 28 | 7 | 7 | 14 | -9 | 28 |
-| 15 | Nacional | 28 | 6 | 7 | 15 | -9 | 25 |
+| 15 | Nacional | 28 | 6 | 7 | 15 | -8 | 25 |
 | 16 | Casa Pia | 26 | 5 | 9 | 12 | -22 | 24 |
 | 17 | Tondela | 27 | 4 | 8 | 15 | -25 | 20 |
 | 18 | AVS | 28 | 1 | 8 | 19 | -43 | 11 |
@@ -379,12 +379,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mohun Bagan SG | 7 | 4 | 2 | 1 | 11 | 14 |
-| 2 | Bengaluru | 7 | 4 | 2 | 1 | 4 | 14 |
+| 2 | Bengaluru | 7 | 4 | 2 | 1 | 5 | 14 |
 | 3 | Mumbai City | 6 | 4 | 2 | 0 | 4 | 14 |
 | 4 | Jamshedpur | 7 | 4 | 2 | 1 | 3 | 14 |
 | 5 | East Bengal | 6 | 3 | 2 | 1 | 12 | 11 |
 | 6 | Punjab FC | 6 | 3 | 2 | 1 | 4 | 11 |
-| 7 | FC Goa | 7 | 2 | 4 | 1 | 2 | 10 |
+| 7 | FC Goa | 7 | 2 | 4 | 1 | 1 | 10 |
 | 8 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
 | 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
 | 10 | Chennaiyin | 5 | 1 | 2 | 2 | -2 | 5 |
