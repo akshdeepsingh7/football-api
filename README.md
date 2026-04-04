@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 April 2026, 08:33 PM UTC (Sunday, 05 April 2026, 02:03 AM IST)
+**Last Updated:** Saturday, 04 April 2026, 09:32 PM UTC (Sunday, 05 April 2026, 03:02 AM IST)
 
 ### Premier League
 
@@ -72,10 +72,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 30 | 24 | 2 | 4 | 50 | 74 |
+| 1 | Barcelona | 30 | 25 | 1 | 4 | 51 | 76 |
 | 2 | Real Madrid | 30 | 22 | 3 | 5 | 36 | 69 |
-| 3 | Atlético de Madrid | 30 | 17 | 7 | 6 | 21 | 58 |
-| 4 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
+| 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
+| 4 | Atlético de Madrid | 30 | 17 | 6 | 7 | 20 | 57 |
 | 5 | Real Betis | 30 | 11 | 12 | 7 | 7 | 45 |
 | 6 | Real Sociedad | 30 | 11 | 8 | 11 | 1 | 41 |
 | 7 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
@@ -351,19 +351,19 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Chicago Fire | 5 | 2 | 1 | 2 | 2 | 7 |
 | 7 | DC United | 5 | 2 | 1 | 2 | 0 | 7 |
 | 8 | New York RB | 5 | 2 | 1 | 2 | -6 | 7 |
-| 9 | Cincinnati | 5 | 2 | 0 | 3 | -4 | 6 |
-| 10 | Atlanta United | 5 | 1 | 1 | 3 | -3 | 4 |
-| 11 | New England Revolution | 4 | 1 | 0 | 3 | -1 | 3 |
-| 12 | CF Montréal | 5 | 1 | 0 | 4 | -7 | 3 |
+| 9 | New England Revolution | 5 | 2 | 0 | 3 | 0 | 6 |
+| 10 | Cincinnati | 5 | 2 | 0 | 3 | -4 | 6 |
+| 11 | Atlanta United | 5 | 1 | 1 | 3 | -3 | 4 |
+| 12 | CF Montréal | 6 | 1 | 0 | 5 | -8 | 3 |
 | 13 | Orlando City | 5 | 1 | 0 | 4 | -12 | 3 |
 | 14 | Columbus Crew | 5 | 0 | 2 | 3 | -3 | 2 |
 | 15 | Philadelphia Union | 5 | 0 | 0 | 5 | -6 | 0 |
 | 1 | LAFC | 5 | 4 | 1 | 0 | 8 | 13 |
-| 2 | Vancouver Whitecaps | 5 | 4 | 0 | 1 | 12 | 12 |
-| 3 | San Jose Earthquakes | 5 | 4 | 0 | 1 | 6 | 12 |
-| 4 | San Diego | 5 | 3 | 2 | 0 | 8 | 11 |
-| 5 | Seattle Sounders | 5 | 3 | 1 | 1 | 3 | 10 |
-| 6 | Real Salt Lake | 5 | 3 | 1 | 1 | 2 | 10 |
+| 2 | Real Salt Lake | 6 | 4 | 1 | 1 | 3 | 13 |
+| 3 | Vancouver Whitecaps | 5 | 4 | 0 | 1 | 12 | 12 |
+| 4 | San Jose Earthquakes | 5 | 4 | 0 | 1 | 6 | 12 |
+| 5 | San Diego | 5 | 3 | 2 | 0 | 8 | 11 |
+| 6 | Seattle Sounders | 5 | 3 | 1 | 1 | 3 | 10 |
 | 7 | Colorado Rapids | 6 | 3 | 0 | 3 | 3 | 9 |
 | 8 | Dallas | 5 | 2 | 2 | 1 | 1 | 8 |
 | 9 | Houston Dynamo | 4 | 2 | 0 | 2 | -1 | 6 |
@@ -372,7 +372,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Minnesota United | 5 | 1 | 2 | 2 | -7 | 5 |
 | 13 | St. Louis City | 5 | 1 | 1 | 3 | -3 | 4 |
 | 14 | Portland Timbers | 5 | 1 | 1 | 3 | -5 | 4 |
-| 15 | Sporting KC | 5 | 1 | 1 | 3 | -6 | 4 |
+| 15 | Sporting KC | 6 | 1 | 1 | 4 | -7 | 4 |
 
 ### Indian Super League
 
@@ -403,8 +403,8 @@ Data not available.
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 9 | 7 | 1 | 1 | 10 | 22 |
 | 2 | Fluminense | 9 | 6 | 1 | 2 | 6 | 19 |
-| 3 | Bahia | 8 | 5 | 2 | 1 | 5 | 17 |
-| 4 | São Paulo | 9 | 5 | 2 | 2 | 5 | 17 |
+| 3 | São Paulo | 10 | 5 | 3 | 2 | 5 | 18 |
+| 4 | Bahia | 8 | 5 | 2 | 1 | 5 | 17 |
 | 5 | Athletico Paranaense | 9 | 5 | 1 | 3 | 3 | 16 |
 | 6 | Flamengo | 8 | 4 | 2 | 2 | 5 | 14 |
 | 7 | Coritiba | 9 | 4 | 2 | 3 | 1 | 14 |
@@ -417,7 +417,7 @@ Data not available.
 | 14 | Corinthians | 9 | 2 | 4 | 3 | -2 | 10 |
 | 15 | Botafogo | 8 | 3 | 0 | 5 | -4 | 9 |
 | 16 | Internacional | 9 | 2 | 3 | 4 | -2 | 9 |
-| 17 | Cruzeiro | 9 | 1 | 4 | 4 | -5 | 7 |
+| 17 | Cruzeiro | 10 | 1 | 5 | 4 | -5 | 8 |
 | 18 | Chapecoense | 8 | 1 | 4 | 3 | -6 | 7 |
 | 19 | Mirassol | 8 | 1 | 3 | 4 | -3 | 6 |
 | 20 | Remo | 9 | 1 | 3 | 5 | -7 | 6 |
