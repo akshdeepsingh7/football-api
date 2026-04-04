@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 April 2026, 12:58 PM UTC (Saturday, 04 April 2026, 06:28 PM IST)
+**Last Updated:** Saturday, 04 April 2026, 01:56 PM UTC (Saturday, 04 April 2026, 07:26 PM IST)
 
 ### Premier League
 
@@ -77,7 +77,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 4 | Atlético de Madrid | 29 | 17 | 6 | 6 | 21 | 57 |
 | 5 | Real Betis | 29 | 11 | 11 | 7 | 7 | 44 |
-| 6 | Real Sociedad | 30 | 11 | 8 | 11 | 0 | 41 |
+| 6 | Real Sociedad | 30 | 11 | 8 | 11 | 1 | 41 |
 | 7 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
 | 8 | Getafe | 29 | 11 | 5 | 13 | -6 | 38 |
 | 9 | Athletic Bilbao | 29 | 11 | 5 | 13 | -9 | 38 |
@@ -90,31 +90,31 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Alavés | 29 | 8 | 7 | 14 | -11 | 31 |
 | 17 | Elche | 30 | 6 | 11 | 13 | -9 | 29 |
 | 18 | Mallorca | 29 | 7 | 7 | 15 | -13 | 28 |
-| 19 | Levante | 30 | 6 | 8 | 16 | -15 | 26 |
+| 19 | Levante | 30 | 6 | 8 | 16 | -16 | 26 |
 | 20 | Real Oviedo | 29 | 4 | 9 | 16 | -28 | 21 |
 
 ### Bundesliga
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 27 | 22 | 4 | 1 | 72 | 70 |
+| 1 | Bayern Munich | 28 | 22 | 5 | 1 | 72 | 71 |
 | 2 | Borussia Dortmund | 27 | 18 | 7 | 2 | 30 | 61 |
 | 3 | VfB Stuttgart | 27 | 16 | 5 | 6 | 20 | 53 |
-| 4 | RB Leipzig | 27 | 15 | 5 | 7 | 18 | 50 |
-| 5 | Hoffenheim | 27 | 15 | 5 | 7 | 15 | 50 |
-| 6 | Bayer Leverkusen | 27 | 13 | 7 | 7 | 16 | 46 |
+| 4 | RB Leipzig | 28 | 16 | 5 | 7 | 19 | 53 |
+| 5 | Hoffenheim | 28 | 15 | 6 | 7 | 15 | 51 |
+| 6 | Bayer Leverkusen | 28 | 13 | 7 | 8 | 15 | 46 |
 | 7 | Eintracht Frankfurt | 27 | 10 | 8 | 9 | -1 | 38 |
-| 8 | SC Freiburg | 27 | 10 | 7 | 10 | -5 | 37 |
-| 9 | Union Berlin | 27 | 8 | 7 | 12 | -15 | 31 |
-| 10 | Augsburg | 27 | 9 | 4 | 14 | -17 | 31 |
-| 11 | Mainz 05 | 27 | 7 | 9 | 11 | -9 | 30 |
-| 12 | Hamburg | 27 | 7 | 9 | 11 | -9 | 30 |
-| 13 | Borussia Mönchengladbach | 27 | 7 | 8 | 12 | -13 | 29 |
-| 14 | Werder Bremen | 27 | 7 | 7 | 13 | -17 | 28 |
+| 8 | SC Freiburg | 28 | 10 | 8 | 10 | -5 | 38 |
+| 9 | Augsburg | 28 | 10 | 4 | 14 | -16 | 34 |
+| 10 | Borussia Mönchengladbach | 28 | 8 | 8 | 12 | -12 | 32 |
+| 11 | Mainz 05 | 28 | 7 | 10 | 11 | -9 | 31 |
+| 12 | Union Berlin | 27 | 8 | 7 | 12 | -15 | 31 |
+| 13 | Hamburg | 28 | 7 | 9 | 12 | -10 | 30 |
+| 14 | Werder Bremen | 28 | 7 | 7 | 14 | -18 | 28 |
 | 15 | Köln | 27 | 6 | 8 | 13 | -9 | 26 |
 | 16 | St. Pauli | 27 | 6 | 6 | 15 | -20 | 24 |
-| 17 | VfL Wolfsburg | 27 | 5 | 6 | 16 | -22 | 21 |
-| 18 | Heidenheim | 27 | 3 | 6 | 18 | -34 | 15 |
+| 17 | VfL Wolfsburg | 28 | 6 | 6 | 16 | -21 | 24 |
+| 18 | Heidenheim | 28 | 3 | 6 | 19 | -35 | 15 |
 
 ### Serie A
 
@@ -129,12 +129,12 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Atalanta | 30 | 13 | 11 | 6 | 14 | 50 |
 | 8 | Lazio | 30 | 11 | 10 | 9 | 3 | 43 |
 | 9 | Bologna | 30 | 12 | 6 | 12 | 2 | 42 |
-| 10 | Sassuolo | 30 | 11 | 6 | 13 | -4 | 39 |
-| 11 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
+| 10 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
+| 11 | Sassuolo | 31 | 11 | 6 | 14 | -5 | 39 |
 | 12 | Parma | 30 | 8 | 10 | 12 | -17 | 34 |
 | 13 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
 | 14 | Torino | 30 | 9 | 6 | 15 | -19 | 33 |
-| 15 | Cagliari | 30 | 7 | 9 | 14 | -11 | 30 |
+| 15 | Cagliari | 31 | 8 | 9 | 14 | -10 | 33 |
 | 16 | Fiorentina | 30 | 6 | 11 | 13 | -9 | 29 |
 | 17 | Cremonese | 30 | 6 | 9 | 15 | -19 | 27 |
 | 18 | Lecce | 30 | 7 | 6 | 17 | -19 | 27 |
@@ -378,9 +378,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Mohun Bagan SG | 7 | 5 | 1 | 1 | 12 | 16 |
+| 1 | Mohun Bagan SG | 7 | 4 | 2 | 1 | 11 | 14 |
 | 2 | Mumbai City | 6 | 4 | 2 | 0 | 4 | 14 |
-| 3 | Jamshedpur | 7 | 4 | 1 | 2 | 2 | 13 |
+| 3 | Jamshedpur | 7 | 4 | 2 | 1 | 3 | 14 |
 | 4 | East Bengal | 6 | 3 | 2 | 1 | 12 | 11 |
 | 5 | Punjab FC | 6 | 3 | 2 | 1 | 4 | 11 |
 | 6 | Bengaluru | 6 | 3 | 2 | 1 | 3 | 11 |
