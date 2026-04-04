@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 April 2026, 06:43 PM UTC",
-        "IST": "Sunday, 05 April 2026, 12:13 AM IST"
+        "UTC": "Saturday, 04 April 2026, 07:31 PM UTC",
+        "IST": "Sunday, 05 April 2026, 01:01 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -210,12 +210,12 @@
             {
                 "Position": "1",
                 "Team": "Barcelona",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "24",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "50",
-                "Points": "73"
+                "Points": "74"
             },
             {
                 "Position": "2",
@@ -229,6 +229,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Atl\u00e9tico de Madrid",
+                "Played": "30",
+                "Wins": "17",
+                "Draws": "7",
+                "Losses": "6",
+                "Goal Difference": "21",
+                "Points": "58"
+            },
+            {
+                "Position": "4",
                 "Team": "Villarreal",
                 "Played": "29",
                 "Wins": "18",
@@ -236,16 +246,6 @@
                 "Losses": "7",
                 "Goal Difference": "20",
                 "Points": "58"
-            },
-            {
-                "Position": "4",
-                "Team": "Atl\u00e9tico de Madrid",
-                "Played": "29",
-                "Wins": "17",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "21",
-                "Points": "57"
             },
             {
                 "Position": "5",
@@ -664,11 +664,11 @@
             {
                 "Position": "8",
                 "Team": "Lazio",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "11",
                 "Draws": "10",
-                "Losses": "9",
-                "Goal Difference": "3",
+                "Losses": "10",
+                "Goal Difference": "2",
                 "Points": "43"
             },
             {
@@ -704,12 +704,12 @@
             {
                 "Position": "12",
                 "Team": "Parma",
-                "Played": "30",
-                "Wins": "8",
+                "Played": "31",
+                "Wins": "9",
                 "Draws": "10",
                 "Losses": "12",
-                "Goal Difference": "-17",
-                "Points": "34"
+                "Goal Difference": "-16",
+                "Points": "37"
             },
             {
                 "Position": "13",
@@ -806,12 +806,12 @@
             {
                 "Position": "2",
                 "Team": "Lens",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "19",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "6",
                 "Goal Difference": "30",
-                "Points": "59"
+                "Points": "60"
             },
             {
                 "Position": "3",
@@ -825,22 +825,22 @@
             },
             {
                 "Position": "4",
+                "Team": "Lille",
+                "Played": "28",
+                "Wins": "14",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "8",
+                "Points": "48"
+            },
+            {
+                "Position": "5",
                 "Team": "Lyon",
                 "Played": "27",
                 "Wins": "14",
                 "Draws": "5",
                 "Losses": "8",
                 "Goal Difference": "12",
-                "Points": "47"
-            },
-            {
-                "Position": "5",
-                "Team": "Lille",
-                "Played": "27",
-                "Wins": "14",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "8",
                 "Points": "47"
             },
             {
@@ -2517,6 +2517,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Toronto",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "-1",
+                "Points": "10"
+            },
+            {
+                "Position": "5",
                 "Team": "Charlotte",
                 "Played": "5",
                 "Wins": "2",
@@ -2526,7 +2536,7 @@
                 "Points": "8"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Chicago Fire",
                 "Played": "5",
                 "Wins": "2",
@@ -2536,23 +2546,13 @@
                 "Points": "7"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "DC United",
                 "Played": "5",
                 "Wins": "2",
                 "Draws": "1",
                 "Losses": "2",
                 "Goal Difference": "0",
-                "Points": "7"
-            },
-            {
-                "Position": "7",
-                "Team": "Toronto",
-                "Played": "6",
-                "Wins": "2",
-                "Draws": "1",
-                "Losses": "3",
-                "Goal Difference": "-3",
                 "Points": "7"
             },
             {
@@ -2667,16 +2667,6 @@
             },
             {
                 "Position": "4",
-                "Team": "Colorado Rapids",
-                "Played": "6",
-                "Wins": "4",
-                "Draws": "0",
-                "Losses": "2",
-                "Goal Difference": "5",
-                "Points": "12"
-            },
-            {
-                "Position": "5",
                 "Team": "San Diego",
                 "Played": "5",
                 "Wins": "3",
@@ -2686,7 +2676,7 @@
                 "Points": "11"
             },
             {
-                "Position": "6",
+                "Position": "5",
                 "Team": "Seattle Sounders",
                 "Played": "5",
                 "Wins": "3",
@@ -2696,7 +2686,7 @@
                 "Points": "10"
             },
             {
-                "Position": "7",
+                "Position": "6",
                 "Team": "Real Salt Lake",
                 "Played": "5",
                 "Wins": "3",
@@ -2704,6 +2694,16 @@
                 "Losses": "1",
                 "Goal Difference": "2",
                 "Points": "10"
+            },
+            {
+                "Position": "7",
+                "Team": "Colorado Rapids",
+                "Played": "6",
+                "Wins": "3",
+                "Draws": "0",
+                "Losses": "3",
+                "Goal Difference": "3",
+                "Points": "9"
             },
             {
                 "Position": "8",
