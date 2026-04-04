@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 April 2026, 10:31 PM UTC (Sunday, 05 April 2026, 04:01 AM IST)
+**Last Updated:** Saturday, 04 April 2026, 11:32 PM UTC (Sunday, 05 April 2026, 05:02 AM IST)
 
 ### Premier League
 
@@ -351,10 +351,10 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Chicago Fire | 5 | 2 | 1 | 2 | 2 | 7 |
 | 7 | DC United | 5 | 2 | 1 | 2 | 0 | 7 |
 | 8 | New York RB | 5 | 2 | 1 | 2 | -6 | 7 |
-| 9 | New England Revolution | 5 | 2 | 0 | 3 | 1 | 6 |
+| 9 | New England Revolution | 5 | 2 | 0 | 3 | 2 | 6 |
 | 10 | Cincinnati | 5 | 2 | 0 | 3 | -4 | 6 |
 | 11 | Atlanta United | 5 | 1 | 1 | 3 | -3 | 4 |
-| 12 | CF Montréal | 6 | 1 | 0 | 5 | -9 | 3 |
+| 12 | CF Montréal | 6 | 1 | 0 | 5 | -10 | 3 |
 | 13 | Orlando City | 5 | 1 | 0 | 4 | -12 | 3 |
 | 14 | Columbus Crew | 5 | 0 | 2 | 3 | -3 | 2 |
 | 15 | Philadelphia Union | 5 | 0 | 0 | 5 | -6 | 0 |
@@ -402,12 +402,12 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 9 | 7 | 1 | 1 | 10 | 22 |
-| 2 | São Paulo | 10 | 6 | 2 | 2 | 7 | 20 |
-| 3 | Fluminense | 9 | 6 | 1 | 2 | 6 | 19 |
+| 2 | São Paulo | 10 | 6 | 2 | 2 | 8 | 20 |
+| 3 | Fluminense | 10 | 6 | 2 | 2 | 6 | 20 |
 | 4 | Bahia | 8 | 5 | 2 | 1 | 5 | 17 |
 | 5 | Athletico Paranaense | 9 | 5 | 1 | 3 | 3 | 16 |
-| 6 | Flamengo | 8 | 4 | 2 | 2 | 5 | 14 |
-| 7 | Coritiba | 9 | 4 | 2 | 3 | 1 | 14 |
+| 6 | Coritiba | 10 | 4 | 3 | 3 | 1 | 15 |
+| 7 | Flamengo | 8 | 4 | 2 | 2 | 5 | 14 |
 | 8 | Vasco da Gama | 9 | 3 | 3 | 3 | 0 | 12 |
 | 9 | Atlético Mineiro | 9 | 3 | 2 | 4 | 1 | 11 |
 | 10 | Grêmio | 9 | 3 | 2 | 4 | 0 | 11 |
@@ -418,7 +418,7 @@ Data not available.
 | 15 | Botafogo | 8 | 3 | 0 | 5 | -4 | 9 |
 | 16 | Internacional | 9 | 2 | 3 | 4 | -2 | 9 |
 | 17 | Chapecoense | 8 | 1 | 4 | 3 | -6 | 7 |
-| 18 | Cruzeiro | 10 | 1 | 4 | 5 | -7 | 7 |
+| 18 | Cruzeiro | 10 | 1 | 4 | 5 | -8 | 7 |
 | 19 | Mirassol | 8 | 1 | 3 | 4 | -3 | 6 |
 | 20 | Remo | 9 | 1 | 3 | 5 | -7 | 6 |
 
