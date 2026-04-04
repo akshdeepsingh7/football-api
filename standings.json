@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 April 2026, 02:37 PM UTC",
-        "IST": "Saturday, 04 April 2026, 08:07 PM IST"
+        "UTC": "Saturday, 04 April 2026, 03:33 PM UTC",
+        "IST": "Saturday, 04 April 2026, 09:03 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -222,10 +222,10 @@
                 "Team": "Real Madrid",
                 "Played": "30",
                 "Wins": "22",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "37",
-                "Points": "70"
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "36",
+                "Points": "69"
             },
             {
                 "Position": "3",
@@ -349,16 +349,6 @@
             },
             {
                 "Position": "15",
-                "Team": "Sevilla",
-                "Played": "29",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "14",
-                "Goal Difference": "-12",
-                "Points": "31"
-            },
-            {
-                "Position": "16",
                 "Team": "Alav\u00e9s",
                 "Played": "29",
                 "Wins": "8",
@@ -368,14 +358,24 @@
                 "Points": "31"
             },
             {
+                "Position": "16",
+                "Team": "Sevilla",
+                "Played": "29",
+                "Wins": "8",
+                "Draws": "7",
+                "Losses": "14",
+                "Goal Difference": "-12",
+                "Points": "31"
+            },
+            {
                 "Position": "17",
                 "Team": "Mallorca",
                 "Played": "30",
-                "Wins": "7",
-                "Draws": "8",
+                "Wins": "8",
+                "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-13",
-                "Points": "29"
+                "Goal Difference": "-12",
+                "Points": "31"
             },
             {
                 "Position": "18",
@@ -413,11 +413,11 @@
                 "Position": "1",
                 "Team": "Bayern Munich",
                 "Played": "28",
-                "Wins": "22",
-                "Draws": "5",
+                "Wins": "23",
+                "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "72",
-                "Points": "71"
+                "Goal Difference": "73",
+                "Points": "73"
             },
             {
                 "Position": "2",
@@ -454,20 +454,20 @@
                 "Team": "Hoffenheim",
                 "Played": "28",
                 "Wins": "15",
-                "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "15",
-                "Points": "51"
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "14",
+                "Points": "50"
             },
             {
                 "Position": "6",
                 "Team": "Bayer Leverkusen",
                 "Played": "28",
-                "Wins": "13",
+                "Wins": "14",
                 "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "15",
-                "Points": "46"
+                "Losses": "7",
+                "Goal Difference": "19",
+                "Points": "49"
             },
             {
                 "Position": "7",
@@ -484,24 +484,34 @@
                 "Team": "SC Freiburg",
                 "Played": "28",
                 "Wins": "10",
-                "Draws": "8",
-                "Losses": "10",
-                "Goal Difference": "-5",
-                "Points": "38"
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-6",
+                "Points": "37"
             },
             {
                 "Position": "9",
-                "Team": "Augsburg",
+                "Team": "Mainz 05",
                 "Played": "28",
-                "Wins": "10",
-                "Draws": "4",
-                "Losses": "14",
-                "Goal Difference": "-16",
-                "Points": "34"
+                "Wins": "8",
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-8",
+                "Points": "33"
             },
             {
                 "Position": "10",
-                "Team": "Mainz 05",
+                "Team": "Augsburg",
+                "Played": "28",
+                "Wins": "9",
+                "Draws": "5",
+                "Losses": "14",
+                "Goal Difference": "-17",
+                "Points": "32"
+            },
+            {
+                "Position": "11",
+                "Team": "Hamburg",
                 "Played": "28",
                 "Wins": "7",
                 "Draws": "10",
@@ -510,7 +520,7 @@
                 "Points": "31"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Union Berlin",
                 "Played": "27",
                 "Wins": "8",
@@ -518,16 +528,6 @@
                 "Losses": "12",
                 "Goal Difference": "-15",
                 "Points": "31"
-            },
-            {
-                "Position": "12",
-                "Team": "Hamburg",
-                "Played": "28",
-                "Wins": "7",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-10",
-                "Points": "30"
             },
             {
                 "Position": "13",
@@ -573,11 +573,11 @@
                 "Position": "17",
                 "Team": "VfL Wolfsburg",
                 "Played": "28",
-                "Wins": "6",
+                "Wins": "5",
                 "Draws": "6",
-                "Losses": "16",
-                "Goal Difference": "-21",
-                "Points": "24"
+                "Losses": "17",
+                "Goal Difference": "-25",
+                "Points": "21"
             },
             {
                 "Position": "18",
@@ -685,11 +685,11 @@
                 "Position": "10",
                 "Team": "Sassuolo",
                 "Played": "31",
-                "Wins": "11",
-                "Draws": "7",
+                "Wins": "12",
+                "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "-4",
-                "Points": "40"
+                "Goal Difference": "-3",
+                "Points": "42"
             },
             {
                 "Position": "11",
@@ -736,10 +736,10 @@
                 "Team": "Cagliari",
                 "Played": "31",
                 "Wins": "7",
-                "Draws": "10",
-                "Losses": "14",
-                "Goal Difference": "-11",
-                "Points": "31"
+                "Draws": "9",
+                "Losses": "15",
+                "Goal Difference": "-12",
+                "Points": "30"
             },
             {
                 "Position": "16",
@@ -866,12 +866,12 @@
             {
                 "Position": "8",
                 "Team": "Strasbourg",
-                "Played": "27",
-                "Wins": "11",
+                "Played": "28",
+                "Wins": "12",
                 "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "10",
-                "Points": "40"
+                "Goal Difference": "11",
+                "Points": "43"
             },
             {
                 "Position": "9",
@@ -936,11 +936,11 @@
             {
                 "Position": "15",
                 "Team": "Nice",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "7",
                 "Draws": "6",
-                "Losses": "14",
-                "Goal Difference": "-20",
+                "Losses": "15",
+                "Goal Difference": "-21",
                 "Points": "27"
             },
             {
