@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 April 2026, 01:56 PM UTC (Saturday, 04 April 2026, 07:26 PM IST)
+**Last Updated:** Saturday, 04 April 2026, 02:37 PM UTC (Saturday, 04 April 2026, 08:07 PM IST)
 
 ### Premier League
 
@@ -73,7 +73,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 29 | 24 | 1 | 4 | 50 | 73 |
-| 2 | Real Madrid | 29 | 22 | 3 | 4 | 37 | 69 |
+| 2 | Real Madrid | 30 | 22 | 4 | 4 | 37 | 70 |
 | 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 4 | Atlético de Madrid | 29 | 17 | 6 | 6 | 21 | 57 |
 | 5 | Real Betis | 29 | 11 | 11 | 7 | 7 | 44 |
@@ -88,8 +88,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Girona | 29 | 8 | 10 | 11 | -13 | 34 |
 | 15 | Sevilla | 29 | 8 | 7 | 14 | -12 | 31 |
 | 16 | Alavés | 29 | 8 | 7 | 14 | -11 | 31 |
-| 17 | Elche | 30 | 6 | 11 | 13 | -9 | 29 |
-| 18 | Mallorca | 29 | 7 | 7 | 15 | -13 | 28 |
+| 17 | Mallorca | 30 | 7 | 8 | 15 | -13 | 29 |
+| 18 | Elche | 30 | 6 | 11 | 13 | -9 | 29 |
 | 19 | Levante | 30 | 6 | 8 | 16 | -16 | 26 |
 | 20 | Real Oviedo | 29 | 4 | 9 | 16 | -28 | 21 |
 
@@ -106,15 +106,15 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Eintracht Frankfurt | 27 | 10 | 8 | 9 | -1 | 38 |
 | 8 | SC Freiburg | 28 | 10 | 8 | 10 | -5 | 38 |
 | 9 | Augsburg | 28 | 10 | 4 | 14 | -16 | 34 |
-| 10 | Borussia Mönchengladbach | 28 | 8 | 8 | 12 | -12 | 32 |
-| 11 | Mainz 05 | 28 | 7 | 10 | 11 | -9 | 31 |
-| 12 | Union Berlin | 27 | 8 | 7 | 12 | -15 | 31 |
-| 13 | Hamburg | 28 | 7 | 9 | 12 | -10 | 30 |
+| 10 | Mainz 05 | 28 | 7 | 10 | 11 | -9 | 31 |
+| 11 | Union Berlin | 27 | 8 | 7 | 12 | -15 | 31 |
+| 12 | Hamburg | 28 | 7 | 9 | 12 | -10 | 30 |
+| 13 | Borussia Mönchengladbach | 28 | 7 | 9 | 12 | -13 | 30 |
 | 14 | Werder Bremen | 28 | 7 | 7 | 14 | -18 | 28 |
 | 15 | Köln | 27 | 6 | 8 | 13 | -9 | 26 |
 | 16 | St. Pauli | 27 | 6 | 6 | 15 | -20 | 24 |
 | 17 | VfL Wolfsburg | 28 | 6 | 6 | 16 | -21 | 24 |
-| 18 | Heidenheim | 28 | 3 | 6 | 19 | -35 | 15 |
+| 18 | Heidenheim | 28 | 3 | 7 | 18 | -34 | 16 |
 
 ### Serie A
 
@@ -129,12 +129,12 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Atalanta | 30 | 13 | 11 | 6 | 14 | 50 |
 | 8 | Lazio | 30 | 11 | 10 | 9 | 3 | 43 |
 | 9 | Bologna | 30 | 12 | 6 | 12 | 2 | 42 |
-| 10 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
-| 11 | Sassuolo | 31 | 11 | 6 | 14 | -5 | 39 |
+| 10 | Sassuolo | 31 | 11 | 7 | 13 | -4 | 40 |
+| 11 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
 | 12 | Parma | 30 | 8 | 10 | 12 | -17 | 34 |
 | 13 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
 | 14 | Torino | 30 | 9 | 6 | 15 | -19 | 33 |
-| 15 | Cagliari | 31 | 8 | 9 | 14 | -10 | 33 |
+| 15 | Cagliari | 31 | 7 | 10 | 14 | -11 | 31 |
 | 16 | Fiorentina | 30 | 6 | 11 | 13 | -9 | 29 |
 | 17 | Cremonese | 30 | 6 | 9 | 15 | -19 | 27 |
 | 18 | Lecce | 30 | 7 | 6 | 17 | -19 | 27 |
@@ -303,10 +303,10 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Rio Ave | 27 | 7 | 9 | 11 | -18 | 30 |
 | 11 | Arouca | 27 | 8 | 5 | 14 | -21 | 29 |
 | 12 | Alverca | 27 | 7 | 8 | 12 | -18 | 29 |
-| 13 | Estrela Amadora | 27 | 6 | 10 | 11 | -12 | 28 |
+| 13 | Estrela Amadora | 28 | 6 | 10 | 12 | -13 | 28 |
 | 14 | Santa Clara | 28 | 7 | 7 | 14 | -9 | 28 |
-| 15 | Casa Pia | 26 | 5 | 9 | 12 | -22 | 24 |
-| 16 | Nacional | 27 | 5 | 7 | 15 | -10 | 22 |
+| 15 | Nacional | 28 | 6 | 7 | 15 | -9 | 25 |
+| 16 | Casa Pia | 26 | 5 | 9 | 12 | -22 | 24 |
 | 17 | Tondela | 27 | 4 | 8 | 15 | -25 | 20 |
 | 18 | AVS | 28 | 1 | 8 | 19 | -43 | 11 |
 
@@ -379,12 +379,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mohun Bagan SG | 7 | 4 | 2 | 1 | 11 | 14 |
-| 2 | Mumbai City | 6 | 4 | 2 | 0 | 4 | 14 |
-| 3 | Jamshedpur | 7 | 4 | 2 | 1 | 3 | 14 |
-| 4 | East Bengal | 6 | 3 | 2 | 1 | 12 | 11 |
-| 5 | Punjab FC | 6 | 3 | 2 | 1 | 4 | 11 |
-| 6 | Bengaluru | 6 | 3 | 2 | 1 | 3 | 11 |
-| 7 | FC Goa | 6 | 2 | 4 | 0 | 3 | 10 |
+| 2 | Bengaluru | 7 | 4 | 2 | 1 | 4 | 14 |
+| 3 | Mumbai City | 6 | 4 | 2 | 0 | 4 | 14 |
+| 4 | Jamshedpur | 7 | 4 | 2 | 1 | 3 | 14 |
+| 5 | East Bengal | 6 | 3 | 2 | 1 | 12 | 11 |
+| 6 | Punjab FC | 6 | 3 | 2 | 1 | 4 | 11 |
+| 7 | FC Goa | 7 | 2 | 4 | 1 | 2 | 10 |
 | 8 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
 | 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
 | 10 | Chennaiyin | 5 | 1 | 2 | 2 | -2 | 5 |
