@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 04 April 2026, 11:37 AM UTC (Saturday, 04 April 2026, 05:07 PM IST)
+**Last Updated:** Saturday, 04 April 2026, 12:58 PM UTC (Saturday, 04 April 2026, 06:28 PM IST)
 
 ### Premier League
 
@@ -77,8 +77,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 4 | Atlético de Madrid | 29 | 17 | 6 | 6 | 21 | 57 |
 | 5 | Real Betis | 29 | 11 | 11 | 7 | 7 | 44 |
-| 6 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
-| 7 | Real Sociedad | 29 | 10 | 8 | 11 | -1 | 38 |
+| 6 | Real Sociedad | 30 | 11 | 8 | 11 | 0 | 41 |
+| 7 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
 | 8 | Getafe | 29 | 11 | 5 | 13 | -6 | 38 |
 | 9 | Athletic Bilbao | 29 | 11 | 5 | 13 | -9 | 38 |
 | 10 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
@@ -90,7 +90,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Alavés | 29 | 8 | 7 | 14 | -11 | 31 |
 | 17 | Elche | 30 | 6 | 11 | 13 | -9 | 29 |
 | 18 | Mallorca | 29 | 7 | 7 | 15 | -13 | 28 |
-| 19 | Levante | 29 | 6 | 8 | 15 | -14 | 26 |
+| 19 | Levante | 30 | 6 | 8 | 16 | -15 | 26 |
 | 20 | Real Oviedo | 29 | 4 | 9 | 16 | -28 | 21 |
 
 ### Bundesliga
@@ -378,9 +378,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Mohun Bagan SG | 7 | 4 | 2 | 1 | 11 | 14 |
+| 1 | Mohun Bagan SG | 7 | 5 | 1 | 1 | 12 | 16 |
 | 2 | Mumbai City | 6 | 4 | 2 | 0 | 4 | 14 |
-| 3 | Jamshedpur | 7 | 4 | 2 | 1 | 3 | 14 |
+| 3 | Jamshedpur | 7 | 4 | 1 | 2 | 2 | 13 |
 | 4 | East Bengal | 6 | 3 | 2 | 1 | 12 | 11 |
 | 5 | Punjab FC | 6 | 3 | 2 | 1 | 4 | 11 |
 | 6 | Bengaluru | 6 | 3 | 2 | 1 | 3 | 11 |

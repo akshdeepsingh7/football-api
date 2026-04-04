@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 04 April 2026, 11:37 AM UTC",
-        "IST": "Saturday, 04 April 2026, 05:07 PM IST"
+        "UTC": "Saturday, 04 April 2026, 12:58 PM UTC",
+        "IST": "Saturday, 04 April 2026, 06:28 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -259,6 +259,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Real Sociedad",
+                "Played": "30",
+                "Wins": "11",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "0",
+                "Points": "41"
+            },
+            {
+                "Position": "7",
                 "Team": "Celta de Vigo",
                 "Played": "29",
                 "Wins": "10",
@@ -266,16 +276,6 @@
                 "Losses": "8",
                 "Goal Difference": "6",
                 "Points": "41"
-            },
-            {
-                "Position": "7",
-                "Team": "Real Sociedad",
-                "Played": "29",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "-1",
-                "Points": "38"
             },
             {
                 "Position": "8",
@@ -390,11 +390,11 @@
             {
                 "Position": "19",
                 "Team": "Levante",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "6",
                 "Draws": "8",
-                "Losses": "15",
-                "Goal Difference": "-14",
+                "Losses": "16",
+                "Goal Difference": "-15",
                 "Points": "26"
             },
             {
@@ -2791,11 +2791,11 @@
                 "Position": "1",
                 "Team": "Mohun Bagan SG",
                 "Played": "7",
-                "Wins": "4",
-                "Draws": "2",
+                "Wins": "5",
+                "Draws": "1",
                 "Losses": "1",
-                "Goal Difference": "11",
-                "Points": "14"
+                "Goal Difference": "12",
+                "Points": "16"
             },
             {
                 "Position": "2",
@@ -2812,10 +2812,10 @@
                 "Team": "Jamshedpur",
                 "Played": "7",
                 "Wins": "4",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "3",
-                "Points": "14"
+                "Draws": "1",
+                "Losses": "2",
+                "Goal Difference": "2",
+                "Points": "13"
             },
             {
                 "Position": "4",
