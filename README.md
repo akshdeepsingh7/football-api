@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 April 2026, 01:58 PM UTC (Sunday, 05 April 2026, 07:28 PM IST)
+**Last Updated:** Sunday, 05 April 2026, 02:44 PM UTC (Sunday, 05 April 2026, 08:14 PM IST)
 
 ### Premier League
 
@@ -77,14 +77,14 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 4 | Atlético de Madrid | 30 | 17 | 6 | 7 | 20 | 57 |
 | 5 | Real Betis | 30 | 11 | 12 | 7 | 7 | 45 |
-| 6 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
+| 6 | Celta de Vigo | 30 | 10 | 11 | 9 | 5 | 41 |
 | 7 | Real Sociedad | 30 | 11 | 8 | 11 | 1 | 41 |
 | 8 | Getafe | 30 | 12 | 5 | 13 | -4 | 41 |
 | 9 | Espanyol | 30 | 10 | 8 | 12 | -8 | 38 |
-| 10 | Athletic Bilbao | 30 | 11 | 5 | 14 | -11 | 38 |
-| 11 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
-| 12 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
-| 13 | Valencia | 29 | 9 | 8 | 12 | -10 | 35 |
+| 10 | Valencia | 30 | 10 | 8 | 12 | -9 | 38 |
+| 11 | Athletic Bilbao | 30 | 11 | 5 | 14 | -11 | 38 |
+| 12 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
+| 13 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
 | 14 | Girona | 29 | 8 | 10 | 11 | -13 | 34 |
 | 15 | Alavés | 29 | 8 | 7 | 14 | -11 | 31 |
 | 16 | Sevilla | 29 | 8 | 7 | 14 | -12 | 31 |
@@ -106,13 +106,13 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Eintracht Frankfurt | 27 | 10 | 8 | 9 | -1 | 38 |
 | 8 | SC Freiburg | 28 | 10 | 7 | 11 | -6 | 37 |
 | 9 | Mainz 05 | 28 | 8 | 9 | 11 | -8 | 33 |
-| 10 | Augsburg | 28 | 9 | 5 | 14 | -17 | 32 |
-| 11 | Hamburg | 28 | 7 | 10 | 11 | -9 | 31 |
-| 12 | Union Berlin | 28 | 8 | 7 | 13 | -16 | 31 |
+| 10 | Union Berlin | 28 | 8 | 8 | 12 | -15 | 32 |
+| 11 | Augsburg | 28 | 9 | 5 | 14 | -17 | 32 |
+| 12 | Hamburg | 28 | 7 | 10 | 11 | -9 | 31 |
 | 13 | Borussia Mönchengladbach | 28 | 7 | 9 | 12 | -13 | 30 |
 | 14 | Werder Bremen | 28 | 7 | 7 | 14 | -18 | 28 |
-| 15 | St. Pauli | 28 | 7 | 6 | 15 | -19 | 27 |
-| 16 | Köln | 27 | 6 | 8 | 13 | -9 | 26 |
+| 15 | Köln | 27 | 6 | 8 | 13 | -9 | 26 |
+| 16 | St. Pauli | 28 | 6 | 7 | 15 | -20 | 25 |
 | 17 | VfL Wolfsburg | 28 | 5 | 6 | 17 | -25 | 21 |
 | 18 | Heidenheim | 28 | 3 | 7 | 18 | -34 | 16 |
 
@@ -378,15 +378,15 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Mohun Bagan SG | 7 | 4 | 2 | 1 | 11 | 14 |
-| 2 | Bengaluru | 7 | 4 | 2 | 1 | 5 | 14 |
-| 3 | Mumbai City | 6 | 4 | 2 | 0 | 4 | 14 |
+| 1 | Mumbai City | 7 | 4 | 3 | 0 | 4 | 15 |
+| 2 | Mohun Bagan SG | 7 | 4 | 2 | 1 | 11 | 14 |
+| 3 | Bengaluru | 7 | 4 | 2 | 1 | 5 | 14 |
 | 4 | Jamshedpur | 7 | 4 | 2 | 1 | 3 | 14 |
 | 5 | East Bengal | 6 | 3 | 2 | 1 | 12 | 11 |
 | 6 | Punjab FC | 6 | 3 | 2 | 1 | 4 | 11 |
 | 7 | FC Goa | 7 | 2 | 4 | 1 | 1 | 10 |
-| 8 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
-| 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
+| 8 | Odisha | 5 | 1 | 3 | 1 | -1 | 6 |
+| 9 | NorthEast Utd | 6 | 1 | 3 | 2 | -5 | 6 |
 | 10 | Chennaiyin | 5 | 1 | 2 | 2 | -2 | 5 |
 | 11 | Inter Kashi | 6 | 1 | 2 | 3 | -3 | 5 |
 | 12 | SC Delhi | 6 | 1 | 2 | 3 | -4 | 5 |

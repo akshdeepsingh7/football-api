@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 01:58 PM UTC",
-        "IST": "Sunday, 05 April 2026, 07:28 PM IST"
+        "UTC": "Sunday, 05 April 2026, 02:44 PM UTC",
+        "IST": "Sunday, 05 April 2026, 08:14 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -260,11 +260,11 @@
             {
                 "Position": "6",
                 "Team": "Celta de Vigo",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "10",
                 "Draws": "11",
-                "Losses": "8",
-                "Goal Difference": "6",
+                "Losses": "9",
+                "Goal Difference": "5",
                 "Points": "41"
             },
             {
@@ -299,6 +299,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Valencia",
+                "Played": "30",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-9",
+                "Points": "38"
+            },
+            {
+                "Position": "11",
                 "Team": "Athletic Bilbao",
                 "Played": "30",
                 "Wins": "11",
@@ -308,7 +318,7 @@
                 "Points": "38"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Osasuna",
                 "Played": "29",
                 "Wins": "10",
@@ -318,23 +328,13 @@
                 "Points": "37"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Rayo Vallecano",
                 "Played": "30",
                 "Wins": "8",
                 "Draws": "11",
                 "Losses": "11",
                 "Goal Difference": "-6",
-                "Points": "35"
-            },
-            {
-                "Position": "13",
-                "Team": "Valencia",
-                "Played": "29",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-10",
                 "Points": "35"
             },
             {
@@ -501,6 +501,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Union Berlin",
+                "Played": "28",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "-15",
+                "Points": "32"
+            },
+            {
+                "Position": "11",
                 "Team": "Augsburg",
                 "Played": "28",
                 "Wins": "9",
@@ -510,23 +520,13 @@
                 "Points": "32"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Hamburg",
                 "Played": "28",
                 "Wins": "7",
                 "Draws": "10",
                 "Losses": "11",
                 "Goal Difference": "-9",
-                "Points": "31"
-            },
-            {
-                "Position": "12",
-                "Team": "Union Berlin",
-                "Played": "28",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "-16",
                 "Points": "31"
             },
             {
@@ -551,16 +551,6 @@
             },
             {
                 "Position": "15",
-                "Team": "St. Pauli",
-                "Played": "28",
-                "Wins": "7",
-                "Draws": "6",
-                "Losses": "15",
-                "Goal Difference": "-19",
-                "Points": "27"
-            },
-            {
-                "Position": "16",
                 "Team": "K\u00f6ln",
                 "Played": "27",
                 "Wins": "6",
@@ -568,6 +558,16 @@
                 "Losses": "13",
                 "Goal Difference": "-9",
                 "Points": "26"
+            },
+            {
+                "Position": "16",
+                "Team": "St. Pauli",
+                "Played": "28",
+                "Wins": "6",
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-20",
+                "Points": "25"
             },
             {
                 "Position": "17",
@@ -2789,6 +2789,16 @@
         "Indian Super League": [
             {
                 "Position": "1",
+                "Team": "Mumbai City",
+                "Played": "7",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "0",
+                "Goal Difference": "4",
+                "Points": "15"
+            },
+            {
+                "Position": "2",
                 "Team": "Mohun Bagan SG",
                 "Played": "7",
                 "Wins": "4",
@@ -2798,23 +2808,13 @@
                 "Points": "14"
             },
             {
-                "Position": "2",
+                "Position": "3",
                 "Team": "Bengaluru",
                 "Played": "7",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "5",
-                "Points": "14"
-            },
-            {
-                "Position": "3",
-                "Team": "Mumbai City",
-                "Played": "6",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "0",
-                "Goal Difference": "4",
                 "Points": "14"
             },
             {
@@ -2859,6 +2859,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Odisha",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "-1",
+                "Points": "6"
+            },
+            {
+                "Position": "9",
                 "Team": "NorthEast Utd",
                 "Played": "6",
                 "Wins": "1",
@@ -2866,16 +2876,6 @@
                 "Losses": "2",
                 "Goal Difference": "-5",
                 "Points": "6"
-            },
-            {
-                "Position": "9",
-                "Team": "Odisha",
-                "Played": "4",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "5"
             },
             {
                 "Position": "10",
