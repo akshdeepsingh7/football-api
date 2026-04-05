@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 April 2026, 02:35 AM UTC (Sunday, 05 April 2026, 08:05 AM IST)
+**Last Updated:** Sunday, 05 April 2026, 05:12 AM UTC (Sunday, 05 April 2026, 10:42 AM IST)
 
 ### Premier League
 
@@ -356,22 +356,22 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Columbus Crew | 6 | 1 | 2 | 3 | -1 | 5 |
 | 12 | Atlanta United | 6 | 1 | 1 | 4 | -5 | 4 |
 | 13 | CF Montréal | 6 | 1 | 0 | 5 | -10 | 3 |
-| 14 | Orlando City | 6 | 1 | 0 | 5 | -17 | 3 |
+| 14 | Orlando City | 6 | 1 | 0 | 5 | -18 | 3 |
 | 15 | Philadelphia Union | 6 | 0 | 0 | 6 | -7 | 0 |
-| 1 | LAFC | 6 | 5 | 1 | 0 | 13 | 16 |
-| 2 | Vancouver Whitecaps | 6 | 4 | 1 | 1 | 12 | 13 |
-| 3 | San Jose Earthquakes | 6 | 4 | 1 | 1 | 6 | 13 |
+| 1 | LAFC | 6 | 5 | 1 | 0 | 14 | 16 |
+| 2 | Vancouver Whitecaps | 6 | 5 | 0 | 1 | 13 | 15 |
+| 3 | San Jose Earthquakes | 6 | 5 | 0 | 1 | 9 | 15 |
 | 4 | Real Salt Lake | 6 | 4 | 1 | 1 | 4 | 13 |
-| 5 | San Diego | 6 | 3 | 3 | 0 | 8 | 12 |
+| 5 | Seattle Sounders | 6 | 4 | 1 | 1 | 4 | 13 |
 | 6 | Dallas | 6 | 3 | 2 | 1 | 5 | 11 |
-| 7 | Seattle Sounders | 6 | 3 | 2 | 1 | 3 | 11 |
+| 7 | San Diego | 6 | 3 | 2 | 1 | 5 | 11 |
 | 8 | Colorado Rapids | 6 | 3 | 0 | 3 | 3 | 9 |
-| 9 | Houston Dynamo | 5 | 2 | 1 | 2 | -1 | 7 |
-| 10 | LA Galaxy | 6 | 1 | 3 | 2 | -1 | 6 |
+| 9 | Minnesota United | 6 | 2 | 2 | 2 | -6 | 8 |
+| 10 | Houston Dynamo | 5 | 2 | 0 | 3 | -2 | 6 |
 | 11 | Austin | 6 | 1 | 3 | 2 | -2 | 6 |
-| 12 | Minnesota United | 6 | 1 | 3 | 2 | -7 | 6 |
+| 12 | LA Galaxy | 6 | 1 | 2 | 3 | -2 | 5 |
 | 13 | St. Louis City | 6 | 1 | 2 | 3 | -3 | 5 |
-| 14 | Portland Timbers | 6 | 1 | 2 | 3 | -5 | 5 |
+| 14 | Portland Timbers | 6 | 1 | 1 | 4 | -6 | 4 |
 | 15 | Sporting KC | 6 | 1 | 1 | 4 | -8 | 4 |
 
 ### Indian Super League
