@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 April 2026, 04:38 PM UTC (Sunday, 05 April 2026, 10:08 PM IST)
+**Last Updated:** Sunday, 05 April 2026, 05:32 PM UTC (Sunday, 05 April 2026, 11:02 PM IST)
 
 ### Premier League
 
@@ -86,12 +86,12 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
 | 13 | Valencia | 30 | 9 | 8 | 13 | -11 | 35 |
 | 14 | Girona | 29 | 8 | 10 | 11 | -13 | 34 |
-| 15 | Sevilla | 30 | 8 | 8 | 14 | -12 | 32 |
-| 16 | Alavés | 29 | 8 | 7 | 14 | -11 | 31 |
-| 17 | Mallorca | 30 | 8 | 7 | 15 | -12 | 31 |
+| 15 | Alavés | 29 | 8 | 7 | 14 | -11 | 31 |
+| 16 | Mallorca | 30 | 8 | 7 | 15 | -12 | 31 |
+| 17 | Sevilla | 30 | 8 | 7 | 15 | -13 | 31 |
 | 18 | Elche | 30 | 6 | 11 | 13 | -9 | 29 |
 | 19 | Levante | 30 | 6 | 8 | 16 | -16 | 26 |
-| 20 | Real Oviedo | 30 | 4 | 10 | 16 | -28 | 22 |
+| 20 | Real Oviedo | 30 | 5 | 9 | 16 | -27 | 24 |
 
 ### Bundesliga
 
@@ -153,11 +153,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Rennes | 28 | 13 | 8 | 7 | 7 | 47 |
 | 7 | Monaco | 27 | 14 | 4 | 9 | 9 | 46 |
 | 8 | Strasbourg | 28 | 12 | 7 | 9 | 12 | 43 |
-| 9 | Lorient | 28 | 10 | 10 | 8 | -3 | 40 |
+| 9 | Lorient | 28 | 9 | 11 | 8 | -4 | 38 |
 | 10 | Toulouse | 28 | 10 | 7 | 11 | 4 | 37 |
 | 11 | Brest | 28 | 10 | 6 | 12 | -6 | 36 |
 | 12 | Angers | 28 | 9 | 6 | 13 | -13 | 33 |
-| 13 | Paris FC | 28 | 7 | 10 | 11 | -12 | 31 |
+| 13 | Paris FC | 28 | 7 | 11 | 10 | -11 | 32 |
 | 14 | Le Havre | 28 | 6 | 10 | 12 | -13 | 28 |
 | 15 | Nice | 28 | 7 | 6 | 15 | -22 | 27 |
 | 16 | Auxerre | 28 | 5 | 8 | 15 | -14 | 23 |
