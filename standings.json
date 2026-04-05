@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 02:44 PM UTC",
-        "IST": "Sunday, 05 April 2026, 08:14 PM IST"
+        "UTC": "Sunday, 05 April 2026, 03:34 PM UTC",
+        "IST": "Sunday, 05 April 2026, 09:04 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -472,12 +472,12 @@
             {
                 "Position": "7",
                 "Team": "Eintracht Frankfurt",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "10",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "9",
                 "Goal Difference": "-1",
-                "Points": "38"
+                "Points": "39"
             },
             {
                 "Position": "8",
@@ -552,12 +552,12 @@
             {
                 "Position": "15",
                 "Team": "K\u00f6ln",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "6",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "13",
                 "Goal Difference": "-9",
-                "Points": "26"
+                "Points": "27"
             },
             {
                 "Position": "16",
@@ -668,7 +668,7 @@
                 "Wins": "13",
                 "Draws": "6",
                 "Losses": "12",
-                "Goal Difference": "4",
+                "Goal Difference": "3",
                 "Points": "45"
             },
             {
@@ -768,7 +768,7 @@
                 "Wins": "6",
                 "Draws": "9",
                 "Losses": "16",
-                "Goal Difference": "-21",
+                "Goal Difference": "-20",
                 "Points": "27"
             },
             {
@@ -875,22 +875,22 @@
             },
             {
                 "Position": "9",
+                "Team": "Lorient",
+                "Played": "28",
+                "Wins": "9",
+                "Draws": "11",
+                "Losses": "8",
+                "Goal Difference": "-4",
+                "Points": "38"
+            },
+            {
+                "Position": "10",
                 "Team": "Toulouse",
                 "Played": "28",
                 "Wins": "10",
                 "Draws": "7",
                 "Losses": "11",
                 "Goal Difference": "4",
-                "Points": "37"
-            },
-            {
-                "Position": "10",
-                "Team": "Lorient",
-                "Played": "27",
-                "Wins": "9",
-                "Draws": "10",
-                "Losses": "8",
-                "Goal Difference": "-4",
                 "Points": "37"
             },
             {
@@ -916,21 +916,21 @@
             {
                 "Position": "13",
                 "Team": "Paris FC",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "7",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "10",
                 "Goal Difference": "-11",
-                "Points": "31"
+                "Points": "32"
             },
             {
                 "Position": "14",
                 "Team": "Le Havre",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "6",
                 "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-13",
+                "Losses": "13",
+                "Goal Difference": "-14",
                 "Points": "27"
             },
             {
@@ -946,32 +946,32 @@
             {
                 "Position": "16",
                 "Team": "Auxerre",
-                "Played": "27",
-                "Wins": "5",
+                "Played": "28",
+                "Wins": "6",
                 "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-14",
-                "Points": "22"
+                "Goal Difference": "-13",
+                "Points": "25"
             },
             {
                 "Position": "17",
                 "Team": "Nantes",
-                "Played": "26",
+                "Played": "27",
                 "Wins": "4",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "17",
                 "Goal Difference": "-21",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "18",
                 "Team": "Metz",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "3",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "19",
                 "Goal Difference": "-35",
-                "Points": "14"
+                "Points": "15"
             }
         ],
         "Champions League": [
@@ -2791,11 +2791,11 @@
                 "Position": "1",
                 "Team": "Mumbai City",
                 "Played": "7",
-                "Wins": "4",
-                "Draws": "3",
+                "Wins": "5",
+                "Draws": "2",
                 "Losses": "0",
-                "Goal Difference": "4",
-                "Points": "15"
+                "Goal Difference": "5",
+                "Points": "17"
             },
             {
                 "Position": "2",
@@ -2859,16 +2859,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Odisha",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "-1",
-                "Points": "6"
-            },
-            {
-                "Position": "9",
                 "Team": "NorthEast Utd",
                 "Played": "6",
                 "Wins": "1",
@@ -2876,6 +2866,16 @@
                 "Losses": "2",
                 "Goal Difference": "-5",
                 "Points": "6"
+            },
+            {
+                "Position": "9",
+                "Team": "Odisha",
+                "Played": "5",
+                "Wins": "1",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "5"
             },
             {
                 "Position": "10",
