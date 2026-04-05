@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 April 2026, 12:59 PM UTC (Sunday, 05 April 2026, 06:29 PM IST)
+**Last Updated:** Sunday, 05 April 2026, 01:58 PM UTC (Sunday, 05 April 2026, 07:28 PM IST)
 
 ### Premier League
 
@@ -79,9 +79,9 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Real Betis | 30 | 11 | 12 | 7 | 7 | 45 |
 | 6 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
 | 7 | Real Sociedad | 30 | 11 | 8 | 11 | 1 | 41 |
-| 8 | Getafe | 30 | 12 | 5 | 13 | -5 | 41 |
+| 8 | Getafe | 30 | 12 | 5 | 13 | -4 | 41 |
 | 9 | Espanyol | 30 | 10 | 8 | 12 | -8 | 38 |
-| 10 | Athletic Bilbao | 30 | 11 | 5 | 14 | -10 | 38 |
+| 10 | Athletic Bilbao | 30 | 11 | 5 | 14 | -11 | 38 |
 | 11 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
 | 12 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
 | 13 | Valencia | 29 | 9 | 8 | 12 | -10 | 35 |
@@ -108,11 +108,11 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Mainz 05 | 28 | 8 | 9 | 11 | -8 | 33 |
 | 10 | Augsburg | 28 | 9 | 5 | 14 | -17 | 32 |
 | 11 | Hamburg | 28 | 7 | 10 | 11 | -9 | 31 |
-| 12 | Union Berlin | 27 | 8 | 7 | 12 | -15 | 31 |
+| 12 | Union Berlin | 28 | 8 | 7 | 13 | -16 | 31 |
 | 13 | Borussia Mönchengladbach | 28 | 7 | 9 | 12 | -13 | 30 |
 | 14 | Werder Bremen | 28 | 7 | 7 | 14 | -18 | 28 |
-| 15 | Köln | 27 | 6 | 8 | 13 | -9 | 26 |
-| 16 | St. Pauli | 27 | 6 | 6 | 15 | -20 | 24 |
+| 15 | St. Pauli | 28 | 7 | 6 | 15 | -19 | 27 |
+| 16 | Köln | 27 | 6 | 8 | 13 | -9 | 26 |
 | 17 | VfL Wolfsburg | 28 | 5 | 6 | 17 | -25 | 21 |
 | 18 | Heidenheim | 28 | 3 | 7 | 18 | -34 | 16 |
 
@@ -127,8 +127,8 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Juventus | 30 | 15 | 9 | 6 | 23 | 54 |
 | 6 | Roma | 30 | 17 | 3 | 10 | 17 | 54 |
 | 7 | Atalanta | 30 | 13 | 11 | 6 | 14 | 50 |
-| 8 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
-| 9 | Bologna | 30 | 12 | 6 | 12 | 2 | 42 |
+| 8 | Bologna | 31 | 13 | 6 | 12 | 4 | 45 |
+| 9 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
 | 10 | Sassuolo | 31 | 12 | 6 | 13 | -3 | 42 |
 | 11 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
 | 12 | Parma | 31 | 8 | 11 | 12 | -17 | 35 |
@@ -136,8 +136,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Torino | 30 | 9 | 6 | 15 | -19 | 33 |
 | 15 | Fiorentina | 31 | 7 | 11 | 13 | -8 | 32 |
 | 16 | Cagliari | 31 | 7 | 9 | 15 | -12 | 30 |
-| 17 | Cremonese | 30 | 6 | 9 | 15 | -19 | 27 |
-| 18 | Lecce | 30 | 7 | 6 | 17 | -19 | 27 |
+| 17 | Lecce | 30 | 7 | 6 | 17 | -19 | 27 |
+| 18 | Cremonese | 31 | 6 | 9 | 16 | -21 | 27 |
 | 19 | Pisa | 30 | 2 | 12 | 16 | -31 | 18 |
 | 20 | Hellas Verona | 31 | 3 | 9 | 19 | -31 | 18 |
 
@@ -149,14 +149,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 28 | 19 | 2 | 7 | 27 | 59 |
 | 3 | Lille | 28 | 15 | 5 | 8 | 11 | 50 |
 | 4 | Marseille | 27 | 15 | 4 | 8 | 19 | 49 |
-| 5 | Lyon | 27 | 14 | 5 | 8 | 12 | 47 |
+| 5 | Lyon | 28 | 14 | 6 | 8 | 12 | 48 |
 | 6 | Rennes | 28 | 13 | 8 | 7 | 7 | 47 |
 | 7 | Monaco | 27 | 14 | 4 | 9 | 9 | 46 |
 | 8 | Strasbourg | 28 | 12 | 7 | 9 | 12 | 43 |
 | 9 | Toulouse | 28 | 10 | 7 | 11 | 4 | 37 |
 | 10 | Lorient | 27 | 9 | 10 | 8 | -4 | 37 |
 | 11 | Brest | 28 | 10 | 6 | 12 | -6 | 36 |
-| 12 | Angers | 27 | 9 | 5 | 13 | -13 | 32 |
+| 12 | Angers | 28 | 9 | 6 | 13 | -13 | 33 |
 | 13 | Paris FC | 27 | 7 | 10 | 10 | -11 | 31 |
 | 14 | Le Havre | 27 | 6 | 9 | 12 | -13 | 27 |
 | 15 | Nice | 28 | 7 | 6 | 15 | -22 | 27 |
@@ -389,8 +389,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
 | 10 | Chennaiyin | 5 | 1 | 2 | 2 | -2 | 5 |
 | 11 | Inter Kashi | 6 | 1 | 2 | 3 | -3 | 5 |
-| 12 | SC Delhi | 6 | 1 | 2 | 3 | -5 | 5 |
-| 13 | Kerala Blasters | 7 | 0 | 1 | 6 | -8 | 1 |
+| 12 | SC Delhi | 6 | 1 | 2 | 3 | -4 | 5 |
+| 13 | Kerala Blasters | 7 | 0 | 1 | 6 | -9 | 1 |
 | 14 | Mohammedan | 6 | 0 | 0 | 6 | -16 | 0 |
 
 ### Liga Profesional Argentina (Clausura)

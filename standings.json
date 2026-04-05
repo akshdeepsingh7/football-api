@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 12:59 PM UTC",
-        "IST": "Sunday, 05 April 2026, 06:29 PM IST"
+        "UTC": "Sunday, 05 April 2026, 01:58 PM UTC",
+        "IST": "Sunday, 05 April 2026, 07:28 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -284,7 +284,7 @@
                 "Wins": "12",
                 "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "41"
             },
             {
@@ -304,7 +304,7 @@
                 "Wins": "11",
                 "Draws": "5",
                 "Losses": "14",
-                "Goal Difference": "-10",
+                "Goal Difference": "-11",
                 "Points": "38"
             },
             {
@@ -522,11 +522,11 @@
             {
                 "Position": "12",
                 "Team": "Union Berlin",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "8",
                 "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-15",
+                "Losses": "13",
+                "Goal Difference": "-16",
                 "Points": "31"
             },
             {
@@ -551,6 +551,16 @@
             },
             {
                 "Position": "15",
+                "Team": "St. Pauli",
+                "Played": "28",
+                "Wins": "7",
+                "Draws": "6",
+                "Losses": "15",
+                "Goal Difference": "-19",
+                "Points": "27"
+            },
+            {
+                "Position": "16",
                 "Team": "K\u00f6ln",
                 "Played": "27",
                 "Wins": "6",
@@ -558,16 +568,6 @@
                 "Losses": "13",
                 "Goal Difference": "-9",
                 "Points": "26"
-            },
-            {
-                "Position": "16",
-                "Team": "St. Pauli",
-                "Played": "27",
-                "Wins": "6",
-                "Draws": "6",
-                "Losses": "15",
-                "Goal Difference": "-20",
-                "Points": "24"
             },
             {
                 "Position": "17",
@@ -663,6 +663,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Bologna",
+                "Played": "31",
+                "Wins": "13",
+                "Draws": "6",
+                "Losses": "12",
+                "Goal Difference": "4",
+                "Points": "45"
+            },
+            {
+                "Position": "9",
                 "Team": "Lazio",
                 "Played": "31",
                 "Wins": "11",
@@ -670,16 +680,6 @@
                 "Losses": "9",
                 "Goal Difference": "3",
                 "Points": "44"
-            },
-            {
-                "Position": "9",
-                "Team": "Bologna",
-                "Played": "30",
-                "Wins": "12",
-                "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "2",
-                "Points": "42"
             },
             {
                 "Position": "10",
@@ -753,22 +753,22 @@
             },
             {
                 "Position": "17",
-                "Team": "Cremonese",
-                "Played": "30",
-                "Wins": "6",
-                "Draws": "9",
-                "Losses": "15",
-                "Goal Difference": "-19",
-                "Points": "27"
-            },
-            {
-                "Position": "18",
                 "Team": "Lecce",
                 "Played": "30",
                 "Wins": "7",
                 "Draws": "6",
                 "Losses": "17",
                 "Goal Difference": "-19",
+                "Points": "27"
+            },
+            {
+                "Position": "18",
+                "Team": "Cremonese",
+                "Played": "31",
+                "Wins": "6",
+                "Draws": "9",
+                "Losses": "16",
+                "Goal Difference": "-21",
                 "Points": "27"
             },
             {
@@ -836,12 +836,12 @@
             {
                 "Position": "5",
                 "Team": "Lyon",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "14",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "8",
                 "Goal Difference": "12",
-                "Points": "47"
+                "Points": "48"
             },
             {
                 "Position": "6",
@@ -906,12 +906,12 @@
             {
                 "Position": "12",
                 "Team": "Angers",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "9",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "13",
                 "Goal Difference": "-13",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "13",
@@ -2904,7 +2904,7 @@
                 "Wins": "1",
                 "Draws": "2",
                 "Losses": "3",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "5"
             },
             {
@@ -2914,7 +2914,7 @@
                 "Wins": "0",
                 "Draws": "1",
                 "Losses": "6",
-                "Goal Difference": "-8",
+                "Goal Difference": "-9",
                 "Points": "1"
             },
             {
