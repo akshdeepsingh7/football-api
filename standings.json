@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 11:30 AM UTC",
-        "IST": "Sunday, 05 April 2026, 05:00 PM IST"
+        "UTC": "Sunday, 05 April 2026, 12:59 PM UTC",
+        "IST": "Sunday, 05 April 2026, 06:29 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -259,16 +259,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Real Sociedad",
-                "Played": "30",
-                "Wins": "11",
-                "Draws": "8",
-                "Losses": "11",
-                "Goal Difference": "1",
-                "Points": "41"
-            },
-            {
-                "Position": "7",
                 "Team": "Celta de Vigo",
                 "Played": "29",
                 "Wins": "10",
@@ -278,14 +268,24 @@
                 "Points": "41"
             },
             {
+                "Position": "7",
+                "Team": "Real Sociedad",
+                "Played": "30",
+                "Wins": "11",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "1",
+                "Points": "41"
+            },
+            {
                 "Position": "8",
                 "Team": "Getafe",
-                "Played": "29",
-                "Wins": "11",
+                "Played": "30",
+                "Wins": "12",
                 "Draws": "5",
                 "Losses": "13",
-                "Goal Difference": "-6",
-                "Points": "38"
+                "Goal Difference": "-5",
+                "Points": "41"
             },
             {
                 "Position": "9",
@@ -300,11 +300,11 @@
             {
                 "Position": "10",
                 "Team": "Athletic Bilbao",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "11",
                 "Draws": "5",
-                "Losses": "13",
-                "Goal Difference": "-9",
+                "Losses": "14",
+                "Goal Difference": "-10",
                 "Points": "38"
             },
             {
@@ -2900,21 +2900,21 @@
             {
                 "Position": "12",
                 "Team": "SC Delhi",
-                "Played": "5",
-                "Wins": "0",
+                "Played": "6",
+                "Wins": "1",
                 "Draws": "2",
                 "Losses": "3",
-                "Goal Difference": "-6",
-                "Points": "2"
+                "Goal Difference": "-5",
+                "Points": "5"
             },
             {
                 "Position": "13",
                 "Team": "Kerala Blasters",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "0",
                 "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-7",
+                "Losses": "6",
+                "Goal Difference": "-8",
                 "Points": "1"
             },
             {

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 April 2026, 11:30 AM UTC (Sunday, 05 April 2026, 05:00 PM IST)
+**Last Updated:** Sunday, 05 April 2026, 12:59 PM UTC (Sunday, 05 April 2026, 06:29 PM IST)
 
 ### Premier League
 
@@ -77,11 +77,11 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 4 | Atlético de Madrid | 30 | 17 | 6 | 7 | 20 | 57 |
 | 5 | Real Betis | 30 | 11 | 12 | 7 | 7 | 45 |
-| 6 | Real Sociedad | 30 | 11 | 8 | 11 | 1 | 41 |
-| 7 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
-| 8 | Getafe | 29 | 11 | 5 | 13 | -6 | 38 |
+| 6 | Celta de Vigo | 29 | 10 | 11 | 8 | 6 | 41 |
+| 7 | Real Sociedad | 30 | 11 | 8 | 11 | 1 | 41 |
+| 8 | Getafe | 30 | 12 | 5 | 13 | -5 | 41 |
 | 9 | Espanyol | 30 | 10 | 8 | 12 | -8 | 38 |
-| 10 | Athletic Bilbao | 29 | 11 | 5 | 13 | -9 | 38 |
+| 10 | Athletic Bilbao | 30 | 11 | 5 | 14 | -10 | 38 |
 | 11 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
 | 12 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
 | 13 | Valencia | 29 | 9 | 8 | 12 | -10 | 35 |
@@ -389,8 +389,8 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Odisha | 4 | 1 | 2 | 1 | -1 | 5 |
 | 10 | Chennaiyin | 5 | 1 | 2 | 2 | -2 | 5 |
 | 11 | Inter Kashi | 6 | 1 | 2 | 3 | -3 | 5 |
-| 12 | SC Delhi | 5 | 0 | 2 | 3 | -6 | 2 |
-| 13 | Kerala Blasters | 6 | 0 | 1 | 5 | -7 | 1 |
+| 12 | SC Delhi | 6 | 1 | 2 | 3 | -5 | 5 |
+| 13 | Kerala Blasters | 7 | 0 | 1 | 6 | -8 | 1 |
 | 14 | Mohammedan | 6 | 0 | 0 | 6 | -16 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
