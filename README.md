@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 April 2026, 03:34 PM UTC (Sunday, 05 April 2026, 09:04 PM IST)
+**Last Updated:** Sunday, 05 April 2026, 04:38 PM UTC (Sunday, 05 April 2026, 10:08 PM IST)
 
 ### Premier League
 
@@ -77,21 +77,21 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
 | 4 | Atlético de Madrid | 30 | 17 | 6 | 7 | 20 | 57 |
 | 5 | Real Betis | 30 | 11 | 12 | 7 | 7 | 45 |
-| 6 | Celta de Vigo | 30 | 10 | 11 | 9 | 5 | 41 |
+| 6 | Celta de Vigo | 30 | 11 | 11 | 8 | 7 | 44 |
 | 7 | Real Sociedad | 30 | 11 | 8 | 11 | 1 | 41 |
 | 8 | Getafe | 30 | 12 | 5 | 13 | -4 | 41 |
 | 9 | Espanyol | 30 | 10 | 8 | 12 | -8 | 38 |
-| 10 | Valencia | 30 | 10 | 8 | 12 | -9 | 38 |
-| 11 | Athletic Bilbao | 30 | 11 | 5 | 14 | -11 | 38 |
-| 12 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
-| 13 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
+| 10 | Athletic Bilbao | 30 | 11 | 5 | 14 | -11 | 38 |
+| 11 | Osasuna | 29 | 10 | 7 | 12 | -1 | 37 |
+| 12 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
+| 13 | Valencia | 30 | 9 | 8 | 13 | -11 | 35 |
 | 14 | Girona | 29 | 8 | 10 | 11 | -13 | 34 |
-| 15 | Alavés | 29 | 8 | 7 | 14 | -11 | 31 |
-| 16 | Sevilla | 29 | 8 | 7 | 14 | -12 | 31 |
+| 15 | Sevilla | 30 | 8 | 8 | 14 | -12 | 32 |
+| 16 | Alavés | 29 | 8 | 7 | 14 | -11 | 31 |
 | 17 | Mallorca | 30 | 8 | 7 | 15 | -12 | 31 |
 | 18 | Elche | 30 | 6 | 11 | 13 | -9 | 29 |
 | 19 | Levante | 30 | 6 | 8 | 16 | -16 | 26 |
-| 20 | Real Oviedo | 29 | 4 | 9 | 16 | -28 | 21 |
+| 20 | Real Oviedo | 30 | 4 | 10 | 16 | -28 | 22 |
 
 ### Bundesliga
 
@@ -132,13 +132,13 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Sassuolo | 31 | 12 | 6 | 13 | -3 | 42 |
 | 11 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
 | 12 | Parma | 31 | 8 | 11 | 12 | -17 | 35 |
-| 13 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
-| 14 | Torino | 30 | 9 | 6 | 15 | -19 | 33 |
+| 13 | Torino | 31 | 9 | 7 | 15 | -19 | 34 |
+| 14 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
 | 15 | Fiorentina | 31 | 7 | 11 | 13 | -8 | 32 |
 | 16 | Cagliari | 31 | 7 | 9 | 15 | -12 | 30 |
 | 17 | Lecce | 30 | 7 | 6 | 17 | -19 | 27 |
 | 18 | Cremonese | 31 | 6 | 9 | 16 | -20 | 27 |
-| 19 | Pisa | 30 | 2 | 12 | 16 | -31 | 18 |
+| 19 | Pisa | 31 | 2 | 13 | 16 | -31 | 19 |
 | 20 | Hellas Verona | 31 | 3 | 9 | 19 | -31 | 18 |
 
 ### Ligue 1
@@ -153,14 +153,14 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Rennes | 28 | 13 | 8 | 7 | 7 | 47 |
 | 7 | Monaco | 27 | 14 | 4 | 9 | 9 | 46 |
 | 8 | Strasbourg | 28 | 12 | 7 | 9 | 12 | 43 |
-| 9 | Lorient | 28 | 9 | 11 | 8 | -4 | 38 |
+| 9 | Lorient | 28 | 10 | 10 | 8 | -3 | 40 |
 | 10 | Toulouse | 28 | 10 | 7 | 11 | 4 | 37 |
 | 11 | Brest | 28 | 10 | 6 | 12 | -6 | 36 |
 | 12 | Angers | 28 | 9 | 6 | 13 | -13 | 33 |
-| 13 | Paris FC | 28 | 7 | 11 | 10 | -11 | 32 |
-| 14 | Le Havre | 28 | 6 | 9 | 13 | -14 | 27 |
+| 13 | Paris FC | 28 | 7 | 10 | 11 | -12 | 31 |
+| 14 | Le Havre | 28 | 6 | 10 | 12 | -13 | 28 |
 | 15 | Nice | 28 | 7 | 6 | 15 | -22 | 27 |
-| 16 | Auxerre | 28 | 6 | 7 | 15 | -13 | 25 |
+| 16 | Auxerre | 28 | 5 | 8 | 15 | -14 | 23 |
 | 17 | Nantes | 27 | 4 | 6 | 17 | -21 | 18 |
 | 18 | Metz | 28 | 3 | 6 | 19 | -35 | 15 |
 
