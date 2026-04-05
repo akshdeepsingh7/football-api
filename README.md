@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 April 2026, 08:35 PM UTC (Monday, 06 April 2026, 02:05 AM IST)
+**Last Updated:** Sunday, 05 April 2026, 09:33 PM UTC (Monday, 06 April 2026, 03:03 AM IST)
 
 ### Premier League
 
@@ -405,11 +405,11 @@ Data not available.
 | 2 | São Paulo | 10 | 6 | 2 | 2 | 8 | 20 |
 | 3 | Fluminense | 10 | 6 | 2 | 2 | 6 | 20 |
 | 4 | Bahia | 8 | 5 | 2 | 1 | 5 | 17 |
-| 5 | Athletico Paranaense | 10 | 5 | 2 | 3 | 3 | 17 |
+| 5 | Athletico Paranaense | 10 | 5 | 1 | 4 | 2 | 16 |
 | 6 | Flamengo | 9 | 4 | 3 | 2 | 5 | 15 |
 | 7 | Coritiba | 10 | 4 | 3 | 3 | 1 | 15 |
-| 8 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
-| 9 | Atlético Mineiro | 10 | 3 | 3 | 4 | 1 | 12 |
+| 8 | Atlético Mineiro | 10 | 4 | 2 | 4 | 2 | 14 |
+| 9 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
 | 10 | Vasco da Gama | 10 | 3 | 3 | 4 | -1 | 12 |
 | 11 | Grêmio | 9 | 3 | 2 | 4 | 0 | 11 |
 | 12 | RB Bragantino | 9 | 3 | 2 | 4 | -1 | 11 |

@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 08:35 PM UTC",
-        "IST": "Monday, 06 April 2026, 02:05 AM IST"
+        "UTC": "Sunday, 05 April 2026, 09:33 PM UTC",
+        "IST": "Monday, 06 April 2026, 03:03 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2975,10 +2975,10 @@
                 "Team": "Athletico Paranaense",
                 "Played": "10",
                 "Wins": "5",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "3",
-                "Points": "17"
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "2",
+                "Points": "16"
             },
             {
                 "Position": "6",
@@ -3002,22 +3002,22 @@
             },
             {
                 "Position": "8",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "2",
+                "Points": "14"
+            },
+            {
+                "Position": "9",
                 "Team": "Botafogo",
                 "Played": "9",
                 "Wins": "4",
                 "Draws": "0",
                 "Losses": "5",
                 "Goal Difference": "-3",
-                "Points": "12"
-            },
-            {
-                "Position": "9",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "1",
                 "Points": "12"
             },
             {
