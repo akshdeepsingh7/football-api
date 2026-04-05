@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 07:34 PM UTC",
-        "IST": "Monday, 06 April 2026, 01:04 AM IST"
+        "UTC": "Sunday, 05 April 2026, 08:35 PM UTC",
+        "IST": "Monday, 06 April 2026, 02:05 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -291,11 +291,11 @@
                 "Position": "9",
                 "Team": "Osasuna",
                 "Played": "30",
-                "Wins": "11",
-                "Draws": "7",
+                "Wins": "10",
+                "Draws": "8",
                 "Losses": "12",
-                "Goal Difference": "0",
-                "Points": "40"
+                "Goal Difference": "-1",
+                "Points": "38"
             },
             {
                 "Position": "10",
@@ -349,17 +349,17 @@
             },
             {
                 "Position": "15",
-                "Team": "Mallorca",
+                "Team": "Alav\u00e9s",
                 "Played": "30",
                 "Wins": "8",
-                "Draws": "7",
-                "Losses": "15",
-                "Goal Difference": "-12",
-                "Points": "31"
+                "Draws": "8",
+                "Losses": "14",
+                "Goal Difference": "-11",
+                "Points": "32"
             },
             {
                 "Position": "16",
-                "Team": "Alav\u00e9s",
+                "Team": "Mallorca",
                 "Played": "30",
                 "Wins": "8",
                 "Draws": "7",
@@ -595,11 +595,11 @@
                 "Position": "1",
                 "Team": "Inter",
                 "Played": "31",
-                "Wins": "22",
-                "Draws": "4",
+                "Wins": "23",
+                "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "42",
-                "Points": "70"
+                "Goal Difference": "45",
+                "Points": "72"
             },
             {
                 "Position": "2",
@@ -633,22 +633,22 @@
             },
             {
                 "Position": "5",
-                "Team": "Roma",
-                "Played": "31",
-                "Wins": "17",
-                "Draws": "4",
-                "Losses": "10",
-                "Goal Difference": "17",
-                "Points": "55"
-            },
-            {
-                "Position": "6",
                 "Team": "Juventus",
                 "Played": "30",
                 "Wins": "15",
                 "Draws": "9",
                 "Losses": "6",
                 "Goal Difference": "23",
+                "Points": "54"
+            },
+            {
+                "Position": "6",
+                "Team": "Roma",
+                "Played": "31",
+                "Wins": "17",
+                "Draws": "3",
+                "Losses": "11",
+                "Goal Difference": "14",
                 "Points": "54"
             },
             {
@@ -815,16 +815,6 @@
             },
             {
                 "Position": "3",
-                "Team": "Marseille",
-                "Played": "28",
-                "Wins": "15",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "19",
-                "Points": "50"
-            },
-            {
-                "Position": "4",
                 "Team": "Lille",
                 "Played": "28",
                 "Wins": "15",
@@ -834,7 +824,27 @@
                 "Points": "50"
             },
             {
+                "Position": "4",
+                "Team": "Marseille",
+                "Played": "28",
+                "Wins": "15",
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "18",
+                "Points": "49"
+            },
+            {
                 "Position": "5",
+                "Team": "Monaco",
+                "Played": "28",
+                "Wins": "15",
+                "Draws": "4",
+                "Losses": "9",
+                "Goal Difference": "10",
+                "Points": "49"
+            },
+            {
+                "Position": "6",
                 "Team": "Lyon",
                 "Played": "28",
                 "Wins": "14",
@@ -842,16 +852,6 @@
                 "Losses": "8",
                 "Goal Difference": "12",
                 "Points": "48"
-            },
-            {
-                "Position": "6",
-                "Team": "Monaco",
-                "Played": "28",
-                "Wins": "14",
-                "Draws": "5",
-                "Losses": "9",
-                "Goal Difference": "9",
-                "Points": "47"
             },
             {
                 "Position": "7",
@@ -2973,15 +2973,25 @@
             {
                 "Position": "5",
                 "Team": "Athletico Paranaense",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "5",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "3",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "6",
+                "Team": "Flamengo",
+                "Played": "9",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "5",
+                "Points": "15"
+            },
+            {
+                "Position": "7",
                 "Team": "Coritiba",
                 "Played": "10",
                 "Wins": "4",
@@ -2989,16 +2999,6 @@
                 "Losses": "3",
                 "Goal Difference": "1",
                 "Points": "15"
-            },
-            {
-                "Position": "7",
-                "Team": "Flamengo",
-                "Played": "8",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "5",
-                "Points": "14"
             },
             {
                 "Position": "8",
@@ -3012,6 +3012,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Atl\u00e9tico Mineiro",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "1",
+                "Points": "12"
+            },
+            {
+                "Position": "10",
                 "Team": "Vasco da Gama",
                 "Played": "10",
                 "Wins": "3",
@@ -3019,16 +3029,6 @@
                 "Losses": "4",
                 "Goal Difference": "-1",
                 "Points": "12"
-            },
-            {
-                "Position": "10",
-                "Team": "Atl\u00e9tico Mineiro",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "1",
-                "Points": "11"
             },
             {
                 "Position": "11",
@@ -3063,12 +3063,12 @@
             {
                 "Position": "14",
                 "Team": "Santos",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "2",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "-1",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "15",
