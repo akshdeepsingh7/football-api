@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 April 2026, 05:32 PM UTC (Sunday, 05 April 2026, 11:02 PM IST)
+**Last Updated:** Sunday, 05 April 2026, 06:45 PM UTC (Monday, 06 April 2026, 12:15 AM IST)
 
 ### Premier League
 
@@ -131,15 +131,15 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
 | 10 | Sassuolo | 31 | 12 | 6 | 13 | -3 | 42 |
 | 11 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
-| 12 | Parma | 31 | 8 | 11 | 12 | -17 | 35 |
-| 13 | Torino | 31 | 9 | 7 | 15 | -19 | 34 |
+| 12 | Torino | 31 | 10 | 6 | 15 | -18 | 36 |
+| 13 | Parma | 31 | 8 | 11 | 12 | -17 | 35 |
 | 14 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
 | 15 | Fiorentina | 31 | 7 | 11 | 13 | -8 | 32 |
 | 16 | Cagliari | 31 | 7 | 9 | 15 | -12 | 30 |
 | 17 | Lecce | 30 | 7 | 6 | 17 | -19 | 27 |
 | 18 | Cremonese | 31 | 6 | 9 | 16 | -20 | 27 |
-| 19 | Pisa | 31 | 2 | 13 | 16 | -31 | 19 |
-| 20 | Hellas Verona | 31 | 3 | 9 | 19 | -31 | 18 |
+| 19 | Hellas Verona | 31 | 3 | 9 | 19 | -31 | 18 |
+| 20 | Pisa | 31 | 2 | 12 | 17 | -32 | 18 |
 
 ### Ligue 1
 
