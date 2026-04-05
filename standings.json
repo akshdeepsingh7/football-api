@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 06:45 PM UTC",
-        "IST": "Monday, 06 April 2026, 12:15 AM IST"
+        "UTC": "Sunday, 05 April 2026, 07:34 PM UTC",
+        "IST": "Monday, 06 April 2026, 01:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -289,6 +289,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Osasuna",
+                "Played": "30",
+                "Wins": "11",
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "0",
+                "Points": "40"
+            },
+            {
+                "Position": "10",
                 "Team": "Espanyol",
                 "Played": "30",
                 "Wins": "10",
@@ -298,7 +308,7 @@
                 "Points": "38"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Athletic Bilbao",
                 "Played": "30",
                 "Wins": "11",
@@ -306,16 +316,6 @@
                 "Losses": "14",
                 "Goal Difference": "-11",
                 "Points": "38"
-            },
-            {
-                "Position": "11",
-                "Team": "Osasuna",
-                "Played": "29",
-                "Wins": "10",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "-1",
-                "Points": "37"
             },
             {
                 "Position": "12",
@@ -349,17 +349,17 @@
             },
             {
                 "Position": "15",
-                "Team": "Alav\u00e9s",
-                "Played": "29",
+                "Team": "Mallorca",
+                "Played": "30",
                 "Wins": "8",
                 "Draws": "7",
-                "Losses": "14",
-                "Goal Difference": "-11",
+                "Losses": "15",
+                "Goal Difference": "-12",
                 "Points": "31"
             },
             {
                 "Position": "16",
-                "Team": "Mallorca",
+                "Team": "Alav\u00e9s",
                 "Played": "30",
                 "Wins": "8",
                 "Draws": "7",
@@ -594,12 +594,12 @@
             {
                 "Position": "1",
                 "Team": "Inter",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "22",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "42",
-                "Points": "69"
+                "Points": "70"
             },
             {
                 "Position": "2",
@@ -633,22 +633,22 @@
             },
             {
                 "Position": "5",
+                "Team": "Roma",
+                "Played": "31",
+                "Wins": "17",
+                "Draws": "4",
+                "Losses": "10",
+                "Goal Difference": "17",
+                "Points": "55"
+            },
+            {
+                "Position": "6",
                 "Team": "Juventus",
                 "Played": "30",
                 "Wins": "15",
                 "Draws": "9",
                 "Losses": "6",
                 "Goal Difference": "23",
-                "Points": "54"
-            },
-            {
-                "Position": "6",
-                "Team": "Roma",
-                "Played": "30",
-                "Wins": "17",
-                "Draws": "3",
-                "Losses": "10",
-                "Goal Difference": "17",
                 "Points": "54"
             },
             {
@@ -815,6 +815,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Marseille",
+                "Played": "28",
+                "Wins": "15",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "19",
+                "Points": "50"
+            },
+            {
+                "Position": "4",
                 "Team": "Lille",
                 "Played": "28",
                 "Wins": "15",
@@ -822,16 +832,6 @@
                 "Losses": "8",
                 "Goal Difference": "11",
                 "Points": "50"
-            },
-            {
-                "Position": "4",
-                "Team": "Marseille",
-                "Played": "27",
-                "Wins": "15",
-                "Draws": "4",
-                "Losses": "8",
-                "Goal Difference": "19",
-                "Points": "49"
             },
             {
                 "Position": "5",
@@ -845,6 +845,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Monaco",
+                "Played": "28",
+                "Wins": "14",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "9",
+                "Points": "47"
+            },
+            {
+                "Position": "7",
                 "Team": "Rennes",
                 "Played": "28",
                 "Wins": "13",
@@ -852,16 +862,6 @@
                 "Losses": "7",
                 "Goal Difference": "7",
                 "Points": "47"
-            },
-            {
-                "Position": "7",
-                "Team": "Monaco",
-                "Played": "27",
-                "Wins": "14",
-                "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "9",
-                "Points": "46"
             },
             {
                 "Position": "8",
@@ -3053,12 +3053,12 @@
             {
                 "Position": "13",
                 "Team": "Vit\u00f3ria",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "3",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "14",
@@ -3093,12 +3093,12 @@
             {
                 "Position": "17",
                 "Team": "Chapecoense",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "1",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "3",
                 "Goal Difference": "-6",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "18",
