@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 April 2026, 09:33 PM UTC (Monday, 06 April 2026, 03:03 AM IST)
+**Last Updated:** Sunday, 05 April 2026, 10:32 PM UTC (Monday, 06 April 2026, 04:02 AM IST)
 
 ### Premier League
 
@@ -401,12 +401,12 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 9 | 7 | 1 | 1 | 10 | 22 |
+| 1 | Palmeiras | 10 | 7 | 2 | 1 | 10 | 23 |
 | 2 | São Paulo | 10 | 6 | 2 | 2 | 8 | 20 |
 | 3 | Fluminense | 10 | 6 | 2 | 2 | 6 | 20 |
-| 4 | Bahia | 8 | 5 | 2 | 1 | 5 | 17 |
-| 5 | Athletico Paranaense | 10 | 5 | 1 | 4 | 2 | 16 |
-| 6 | Flamengo | 9 | 4 | 3 | 2 | 5 | 15 |
+| 4 | Bahia | 9 | 5 | 3 | 1 | 5 | 18 |
+| 5 | Flamengo | 9 | 5 | 2 | 2 | 7 | 17 |
+| 6 | Athletico Paranaense | 10 | 5 | 1 | 4 | 2 | 16 |
 | 7 | Coritiba | 10 | 4 | 3 | 3 | 1 | 15 |
 | 8 | Atlético Mineiro | 10 | 4 | 2 | 4 | 2 | 14 |
 | 9 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
@@ -414,9 +414,9 @@ Data not available.
 | 11 | Grêmio | 9 | 3 | 2 | 4 | 0 | 11 |
 | 12 | RB Bragantino | 9 | 3 | 2 | 4 | -1 | 11 |
 | 13 | Vitória | 9 | 3 | 2 | 4 | -5 | 11 |
-| 14 | Santos | 10 | 2 | 5 | 3 | -1 | 11 |
-| 15 | Corinthians | 9 | 2 | 4 | 3 | -2 | 10 |
-| 16 | Internacional | 9 | 2 | 3 | 4 | -2 | 9 |
+| 14 | Corinthians | 10 | 2 | 5 | 3 | -2 | 11 |
+| 15 | Internacional | 10 | 2 | 4 | 4 | -2 | 10 |
+| 16 | Santos | 10 | 2 | 4 | 4 | -3 | 10 |
 | 17 | Chapecoense | 9 | 1 | 5 | 3 | -6 | 8 |
 | 18 | Cruzeiro | 10 | 1 | 4 | 5 | -8 | 7 |
 | 19 | Mirassol | 8 | 1 | 3 | 4 | -3 | 6 |
