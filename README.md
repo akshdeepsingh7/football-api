@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 06 April 2026, 11:26 AM UTC (Monday, 06 April 2026, 04:56 PM IST)
+**Last Updated:** Monday, 06 April 2026, 12:05 PM UTC (Monday, 06 April 2026, 05:35 PM IST)
 
 ### Premier League
 
@@ -315,16 +315,16 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 40 | 25 | 8 | 7 | 42 | 83 |
-| 2 | Millwall | 40 | 21 | 9 | 10 | 10 | 72 |
+| 2 | Millwall | 41 | 21 | 10 | 10 | 10 | 73 |
 | 3 | Middlesbrough | 40 | 20 | 11 | 9 | 21 | 71 |
 | 4 | Ipswich Town | 38 | 19 | 12 | 7 | 28 | 69 |
 | 5 | Hull City | 40 | 20 | 7 | 13 | 5 | 67 |
 | 6 | Wrexham | 40 | 17 | 13 | 10 | 9 | 64 |
 | 7 | Southampton | 39 | 17 | 12 | 10 | 15 | 63 |
 | 8 | Derby County | 40 | 17 | 9 | 14 | 7 | 60 |
-| 9 | Watford | 40 | 14 | 14 | 12 | 3 | 56 |
-| 10 | Queens Park Rangers | 40 | 16 | 8 | 16 | -5 | 56 |
-| 11 | Norwich City | 40 | 16 | 7 | 17 | 6 | 55 |
+| 9 | Norwich City | 41 | 16 | 8 | 17 | 6 | 56 |
+| 10 | Watford | 40 | 14 | 14 | 12 | 3 | 56 |
+| 11 | Queens Park Rangers | 40 | 16 | 8 | 16 | -5 | 56 |
 | 12 | Stoke City | 40 | 15 | 9 | 16 | 5 | 54 |
 | 13 | Bristol City | 40 | 15 | 9 | 16 | 0 | 54 |
 | 14 | Birmingham City | 40 | 14 | 11 | 15 | -2 | 53 |
@@ -334,9 +334,9 @@ The latest league standings are displayed below in Markdown tables:
 | 18 | Charlton Athletic | 40 | 12 | 12 | 16 | -11 | 48 |
 | 19 | Blackburn Rovers | 40 | 12 | 10 | 18 | -12 | 46 |
 | 20 | West Bromwich Albion | 40 | 11 | 11 | 18 | -14 | 44 |
-| 21 | Portsmouth | 39 | 10 | 11 | 18 | -17 | 41 |
+| 21 | Portsmouth | 40 | 11 | 11 | 18 | -16 | 44 |
 | 22 | Leicester City | 40 | 11 | 13 | 16 | -9 | 40 |
-| 23 | Oxford United | 40 | 9 | 13 | 18 | -15 | 40 |
+| 23 | Oxford United | 41 | 9 | 13 | 19 | -16 | 40 |
 | 24 | Sheffield Wednesday | 40 | 1 | 9 | 30 | -57 | -6 |
 
 ### Major League Soccer (MLS)

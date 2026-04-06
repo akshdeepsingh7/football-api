@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 06 April 2026, 11:26 AM UTC",
-        "IST": "Monday, 06 April 2026, 04:56 PM IST"
+        "UTC": "Monday, 06 April 2026, 12:05 PM UTC",
+        "IST": "Monday, 06 April 2026, 05:35 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2256,12 +2256,12 @@
             {
                 "Position": "2",
                 "Team": "Millwall",
-                "Played": "40",
+                "Played": "41",
                 "Wins": "21",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "10",
                 "Goal Difference": "10",
-                "Points": "72"
+                "Points": "73"
             },
             {
                 "Position": "3",
@@ -2325,6 +2325,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Norwich City",
+                "Played": "41",
+                "Wins": "16",
+                "Draws": "8",
+                "Losses": "17",
+                "Goal Difference": "6",
+                "Points": "56"
+            },
+            {
+                "Position": "10",
                 "Team": "Watford",
                 "Played": "40",
                 "Wins": "14",
@@ -2334,7 +2344,7 @@
                 "Points": "56"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Queens Park Rangers",
                 "Played": "40",
                 "Wins": "16",
@@ -2342,16 +2352,6 @@
                 "Losses": "16",
                 "Goal Difference": "-5",
                 "Points": "56"
-            },
-            {
-                "Position": "11",
-                "Team": "Norwich City",
-                "Played": "40",
-                "Wins": "16",
-                "Draws": "7",
-                "Losses": "17",
-                "Goal Difference": "6",
-                "Points": "55"
             },
             {
                 "Position": "12",
@@ -2446,12 +2446,12 @@
             {
                 "Position": "21",
                 "Team": "Portsmouth",
-                "Played": "39",
-                "Wins": "10",
+                "Played": "40",
+                "Wins": "11",
                 "Draws": "11",
                 "Losses": "18",
-                "Goal Difference": "-17",
-                "Points": "41"
+                "Goal Difference": "-16",
+                "Points": "44"
             },
             {
                 "Position": "22",
@@ -2466,11 +2466,11 @@
             {
                 "Position": "23",
                 "Team": "Oxford United",
-                "Played": "40",
+                "Played": "41",
                 "Wins": "9",
                 "Draws": "13",
-                "Losses": "18",
-                "Goal Difference": "-15",
+                "Losses": "19",
+                "Goal Difference": "-16",
                 "Points": "40"
             },
             {
