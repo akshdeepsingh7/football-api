@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 06 April 2026, 07:01 PM UTC (Tuesday, 07 April 2026, 12:31 AM IST)
+**Last Updated:** Monday, 06 April 2026, 08:04 PM UTC (Tuesday, 07 April 2026, 01:34 AM IST)
 
 ### Premier League
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 30 | 25 | 1 | 4 | 51 | 76 |
 | 2 | Real Madrid | 30 | 22 | 3 | 5 | 36 | 69 |
-| 3 | Villarreal | 29 | 18 | 4 | 7 | 20 | 58 |
+| 3 | Villarreal | 30 | 18 | 4 | 8 | 19 | 58 |
 | 4 | Atlético de Madrid | 30 | 17 | 6 | 7 | 20 | 57 |
 | 5 | Real Betis | 30 | 11 | 12 | 7 | 7 | 45 |
 | 6 | Celta de Vigo | 30 | 11 | 11 | 8 | 7 | 44 |
@@ -83,9 +83,9 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Osasuna | 30 | 10 | 8 | 12 | -1 | 38 |
 | 10 | Espanyol | 30 | 10 | 8 | 12 | -8 | 38 |
 | 11 | Athletic Bilbao | 30 | 11 | 5 | 14 | -11 | 38 |
-| 12 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
-| 13 | Valencia | 30 | 9 | 8 | 13 | -11 | 35 |
-| 14 | Girona | 29 | 8 | 10 | 11 | -13 | 34 |
+| 12 | Girona | 30 | 9 | 10 | 11 | -12 | 37 |
+| 13 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
+| 14 | Valencia | 30 | 9 | 8 | 13 | -11 | 35 |
 | 15 | Alavés | 30 | 8 | 8 | 14 | -11 | 32 |
 | 16 | Mallorca | 30 | 8 | 7 | 15 | -12 | 31 |
 | 17 | Sevilla | 30 | 8 | 7 | 15 | -13 | 31 |
@@ -293,20 +293,20 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 28 | 23 | 4 | 1 | 43 | 73 |
 | 2 | Sporting CP | 27 | 21 | 5 | 1 | 55 | 68 |
-| 3 | Benfica | 27 | 19 | 8 | 0 | 41 | 65 |
+| 3 | Benfica | 28 | 19 | 9 | 0 | 41 | 66 |
 | 4 | Braga | 27 | 14 | 7 | 6 | 27 | 49 |
 | 5 | Famalicão | 28 | 13 | 7 | 8 | 11 | 46 |
 | 6 | Gil Vicente | 28 | 12 | 9 | 7 | 14 | 45 |
-| 7 | Estoril | 28 | 10 | 8 | 10 | 4 | 38 |
+| 7 | Estoril | 28 | 10 | 7 | 11 | 3 | 37 |
 | 8 | Moreirense | 28 | 10 | 5 | 13 | -9 | 35 |
 | 9 | Vitória S.C. | 28 | 10 | 5 | 13 | -8 | 35 |
-| 10 | Alverca | 28 | 8 | 8 | 12 | -17 | 32 |
-| 11 | Arouca | 28 | 8 | 6 | 14 | -21 | 30 |
+| 10 | Arouca | 28 | 9 | 5 | 14 | -20 | 32 |
+| 11 | Alverca | 28 | 8 | 8 | 12 | -17 | 32 |
 | 12 | Rio Ave | 28 | 7 | 9 | 12 | -19 | 30 |
 | 13 | Estrela Amadora | 28 | 6 | 10 | 12 | -14 | 28 |
 | 14 | Santa Clara | 28 | 7 | 7 | 14 | -9 | 28 |
 | 15 | Nacional | 28 | 6 | 7 | 15 | -8 | 25 |
-| 16 | Casa Pia | 26 | 5 | 9 | 12 | -22 | 24 |
+| 16 | Casa Pia | 27 | 5 | 10 | 12 | -22 | 25 |
 | 17 | Tondela | 27 | 4 | 8 | 15 | -25 | 20 |
 | 18 | AVS | 28 | 1 | 8 | 19 | -43 | 11 |
 
