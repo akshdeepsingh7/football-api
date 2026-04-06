@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 06 April 2026, 03:49 PM UTC",
-        "IST": "Monday, 06 April 2026, 09:19 PM IST"
+        "UTC": "Monday, 06 April 2026, 04:50 PM UTC",
+        "IST": "Monday, 06 April 2026, 10:20 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -634,12 +634,12 @@
             {
                 "Position": "5",
                 "Team": "Juventus",
-                "Played": "30",
-                "Wins": "15",
+                "Played": "31",
+                "Wins": "16",
                 "Draws": "9",
                 "Losses": "6",
-                "Goal Difference": "23",
-                "Points": "54"
+                "Goal Difference": "25",
+                "Points": "57"
             },
             {
                 "Position": "6",
@@ -724,11 +724,11 @@
             {
                 "Position": "14",
                 "Team": "Genoa",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "8",
                 "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-6",
+                "Losses": "14",
+                "Goal Difference": "-8",
                 "Points": "33"
             },
             {
@@ -2265,6 +2265,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Middlesbrough",
+                "Played": "41",
+                "Wins": "20",
+                "Draws": "12",
+                "Losses": "9",
+                "Goal Difference": "21",
+                "Points": "72"
+            },
+            {
+                "Position": "4",
                 "Team": "Millwall",
                 "Played": "41",
                 "Wins": "21",
@@ -2272,16 +2282,6 @@
                 "Losses": "11",
                 "Goal Difference": "9",
                 "Points": "72"
-            },
-            {
-                "Position": "4",
-                "Team": "Middlesbrough",
-                "Played": "40",
-                "Wins": "20",
-                "Draws": "11",
-                "Losses": "9",
-                "Goal Difference": "21",
-                "Points": "71"
             },
             {
                 "Position": "5",
@@ -2320,7 +2320,7 @@
                 "Wins": "18",
                 "Draws": "9",
                 "Losses": "14",
-                "Goal Difference": "8",
+                "Goal Difference": "9",
                 "Points": "63"
             },
             {
@@ -2370,7 +2370,7 @@
                 "Wins": "15",
                 "Draws": "9",
                 "Losses": "17",
-                "Goal Difference": "4",
+                "Goal Difference": "3",
                 "Points": "54"
             },
             {
@@ -2385,22 +2385,22 @@
             },
             {
                 "Position": "15",
+                "Team": "Swansea City",
+                "Played": "41",
+                "Wins": "15",
+                "Draws": "9",
+                "Losses": "17",
+                "Goal Difference": "-5",
+                "Points": "54"
+            },
+            {
+                "Position": "16",
                 "Team": "Birmingham City",
                 "Played": "41",
                 "Wins": "14",
                 "Draws": "11",
                 "Losses": "16",
                 "Goal Difference": "-3",
-                "Points": "53"
-            },
-            {
-                "Position": "16",
-                "Team": "Swansea City",
-                "Played": "40",
-                "Wins": "15",
-                "Draws": "8",
-                "Losses": "17",
-                "Goal Difference": "-5",
                 "Points": "53"
             },
             {

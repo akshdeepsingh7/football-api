@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 06 April 2026, 03:49 PM UTC (Monday, 06 April 2026, 09:19 PM IST)
+**Last Updated:** Monday, 06 April 2026, 04:50 PM UTC (Monday, 06 April 2026, 10:20 PM IST)
 
 ### Premier League
 
@@ -124,7 +124,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Milan | 30 | 18 | 9 | 3 | 24 | 63 |
 | 3 | Napoli | 30 | 19 | 5 | 6 | 16 | 62 |
 | 4 | Como | 31 | 16 | 10 | 5 | 31 | 58 |
-| 5 | Juventus | 30 | 15 | 9 | 6 | 23 | 54 |
+| 5 | Juventus | 31 | 16 | 9 | 6 | 25 | 57 |
 | 6 | Roma | 31 | 17 | 3 | 11 | 14 | 54 |
 | 7 | Atalanta | 31 | 14 | 11 | 6 | 17 | 53 |
 | 8 | Bologna | 31 | 13 | 6 | 12 | 3 | 45 |
@@ -133,7 +133,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Udinese | 31 | 11 | 7 | 13 | -7 | 40 |
 | 12 | Torino | 31 | 10 | 6 | 15 | -18 | 36 |
 | 13 | Parma | 31 | 8 | 11 | 12 | -17 | 35 |
-| 14 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
+| 14 | Genoa | 31 | 8 | 9 | 14 | -8 | 33 |
 | 15 | Fiorentina | 31 | 7 | 11 | 13 | -8 | 32 |
 | 16 | Cagliari | 31 | 7 | 9 | 15 | -12 | 30 |
 | 17 | Cremonese | 31 | 6 | 9 | 16 | -20 | 27 |
@@ -316,20 +316,20 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 40 | 25 | 8 | 7 | 42 | 83 |
 | 2 | Ipswich Town | 39 | 20 | 12 | 7 | 29 | 72 |
-| 3 | Millwall | 41 | 21 | 9 | 11 | 9 | 72 |
-| 4 | Middlesbrough | 40 | 20 | 11 | 9 | 21 | 71 |
+| 3 | Middlesbrough | 41 | 20 | 12 | 9 | 21 | 72 |
+| 4 | Millwall | 41 | 21 | 9 | 11 | 9 | 72 |
 | 5 | Hull City | 40 | 20 | 7 | 13 | 5 | 67 |
 | 6 | Wrexham | 40 | 17 | 13 | 10 | 9 | 64 |
 | 7 | Southampton | 39 | 17 | 12 | 10 | 15 | 63 |
-| 8 | Derby County | 41 | 18 | 9 | 14 | 8 | 63 |
+| 8 | Derby County | 41 | 18 | 9 | 14 | 9 | 63 |
 | 9 | Norwich City | 41 | 17 | 7 | 17 | 7 | 58 |
 | 10 | Watford | 41 | 14 | 15 | 12 | 3 | 57 |
 | 11 | Bristol City | 41 | 16 | 9 | 16 | 1 | 57 |
 | 12 | Queens Park Rangers | 41 | 16 | 9 | 16 | -5 | 57 |
-| 13 | Stoke City | 41 | 15 | 9 | 17 | 4 | 54 |
+| 13 | Stoke City | 41 | 15 | 9 | 17 | 3 | 54 |
 | 14 | Preston North End | 41 | 13 | 15 | 13 | -4 | 54 |
-| 15 | Birmingham City | 41 | 14 | 11 | 16 | -3 | 53 |
-| 16 | Swansea City | 40 | 15 | 8 | 17 | -5 | 53 |
+| 15 | Swansea City | 41 | 15 | 9 | 17 | -5 | 54 |
+| 16 | Birmingham City | 41 | 14 | 11 | 16 | -3 | 53 |
 | 17 | Sheffield United | 41 | 15 | 6 | 20 | -1 | 51 |
 | 18 | Charlton Athletic | 41 | 12 | 13 | 16 | -11 | 49 |
 | 19 | Blackburn Rovers | 41 | 12 | 11 | 18 | -12 | 47 |
