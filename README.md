@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 05 April 2026, 11:34 PM UTC (Monday, 06 April 2026, 05:04 AM IST)
+**Last Updated:** Monday, 06 April 2026, 02:36 AM UTC (Monday, 06 April 2026, 08:06 AM IST)
 
 ### Premier League
 
@@ -409,18 +409,18 @@ Data not available.
 | 6 | Athletico Paranaense | 10 | 5 | 1 | 4 | 2 | 16 |
 | 7 | Coritiba | 10 | 4 | 3 | 3 | 1 | 15 |
 | 8 | Atlético Mineiro | 10 | 4 | 2 | 4 | 2 | 14 |
-| 9 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
-| 10 | Grêmio | 10 | 3 | 3 | 4 | 0 | 12 |
-| 11 | Vasco da Gama | 10 | 3 | 3 | 4 | -1 | 12 |
-| 12 | RB Bragantino | 10 | 3 | 3 | 4 | -1 | 12 |
-| 13 | Vitória | 9 | 3 | 2 | 4 | -5 | 11 |
-| 14 | Corinthians | 10 | 2 | 5 | 3 | -2 | 11 |
-| 15 | Internacional | 10 | 2 | 4 | 4 | -2 | 10 |
-| 16 | Santos | 10 | 2 | 4 | 4 | -3 | 10 |
+| 9 | RB Bragantino | 10 | 4 | 2 | 4 | 0 | 14 |
+| 10 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
+| 11 | Grêmio | 10 | 3 | 3 | 4 | 0 | 12 |
+| 12 | Vasco da Gama | 10 | 3 | 3 | 4 | -1 | 12 |
+| 13 | Internacional | 10 | 3 | 3 | 4 | -1 | 12 |
+| 14 | Vitória | 9 | 3 | 2 | 4 | -5 | 11 |
+| 15 | Santos | 10 | 2 | 4 | 4 | -3 | 10 |
+| 16 | Corinthians | 10 | 2 | 4 | 4 | -3 | 10 |
 | 17 | Chapecoense | 9 | 1 | 5 | 3 | -6 | 8 |
-| 18 | Mirassol | 9 | 1 | 4 | 4 | -3 | 7 |
-| 19 | Remo | 10 | 1 | 4 | 5 | -7 | 7 |
-| 20 | Cruzeiro | 10 | 1 | 4 | 5 | -8 | 7 |
+| 18 | Remo | 10 | 1 | 4 | 5 | -7 | 7 |
+| 19 | Cruzeiro | 10 | 1 | 4 | 5 | -8 | 7 |
+| 20 | Mirassol | 9 | 1 | 3 | 5 | -4 | 6 |
 
 
 <!-- END_TABLE -->

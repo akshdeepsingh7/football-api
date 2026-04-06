@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 05 April 2026, 11:34 PM UTC",
-        "IST": "Monday, 06 April 2026, 05:04 AM IST"
+        "UTC": "Monday, 06 April 2026, 02:36 AM UTC",
+        "IST": "Monday, 06 April 2026, 08:06 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -3012,6 +3012,16 @@
             },
             {
                 "Position": "9",
+                "Team": "RB Bragantino",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "14"
+            },
+            {
+                "Position": "10",
                 "Team": "Botafogo",
                 "Played": "9",
                 "Wins": "4",
@@ -3021,7 +3031,7 @@
                 "Points": "12"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Gr\u00eamio",
                 "Played": "10",
                 "Wins": "3",
@@ -3031,7 +3041,7 @@
                 "Points": "12"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Vasco da Gama",
                 "Played": "10",
                 "Wins": "3",
@@ -3041,8 +3051,8 @@
                 "Points": "12"
             },
             {
-                "Position": "12",
-                "Team": "RB Bragantino",
+                "Position": "13",
+                "Team": "Internacional",
                 "Played": "10",
                 "Wins": "3",
                 "Draws": "3",
@@ -3051,7 +3061,7 @@
                 "Points": "12"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Vit\u00f3ria",
                 "Played": "9",
                 "Wins": "3",
@@ -3061,28 +3071,18 @@
                 "Points": "11"
             },
             {
-                "Position": "14",
-                "Team": "Corinthians",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "5",
-                "Losses": "3",
-                "Goal Difference": "-2",
-                "Points": "11"
-            },
-            {
                 "Position": "15",
-                "Team": "Internacional",
+                "Team": "Santos",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "4",
                 "Losses": "4",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "10"
             },
             {
                 "Position": "16",
-                "Team": "Santos",
+                "Team": "Corinthians",
                 "Played": "10",
                 "Wins": "2",
                 "Draws": "4",
@@ -3102,16 +3102,6 @@
             },
             {
                 "Position": "18",
-                "Team": "Mirassol",
-                "Played": "9",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "7"
-            },
-            {
-                "Position": "19",
                 "Team": "Remo",
                 "Played": "10",
                 "Wins": "1",
@@ -3121,7 +3111,7 @@
                 "Points": "7"
             },
             {
-                "Position": "20",
+                "Position": "19",
                 "Team": "Cruzeiro",
                 "Played": "10",
                 "Wins": "1",
@@ -3129,6 +3119,16 @@
                 "Losses": "5",
                 "Goal Difference": "-8",
                 "Points": "7"
+            },
+            {
+                "Position": "20",
+                "Team": "Mirassol",
+                "Played": "9",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-4",
+                "Points": "6"
             }
         ]
     }
