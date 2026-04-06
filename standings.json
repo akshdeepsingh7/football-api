@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 06 April 2026, 05:45 PM UTC",
-        "IST": "Monday, 06 April 2026, 11:15 PM IST"
+        "UTC": "Monday, 06 April 2026, 07:01 PM UTC",
+        "IST": "Tuesday, 07 April 2026, 12:31 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -604,22 +604,22 @@
             {
                 "Position": "2",
                 "Team": "Milan",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "18",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "3",
                 "Goal Difference": "24",
-                "Points": "63"
+                "Points": "64"
             },
             {
                 "Position": "3",
                 "Team": "Napoli",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "19",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "16",
-                "Points": "62"
+                "Points": "63"
             },
             {
                 "Position": "4",
@@ -2124,12 +2124,12 @@
             {
                 "Position": "7",
                 "Team": "Estoril",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "10",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "4",
-                "Points": "37"
+                "Points": "38"
             },
             {
                 "Position": "8",
@@ -2163,6 +2163,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Arouca",
+                "Played": "28",
+                "Wins": "8",
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "-21",
+                "Points": "30"
+            },
+            {
+                "Position": "12",
                 "Team": "Rio Ave",
                 "Played": "28",
                 "Wins": "7",
@@ -2170,16 +2180,6 @@
                 "Losses": "12",
                 "Goal Difference": "-19",
                 "Points": "30"
-            },
-            {
-                "Position": "12",
-                "Team": "Arouca",
-                "Played": "27",
-                "Wins": "8",
-                "Draws": "5",
-                "Losses": "14",
-                "Goal Difference": "-21",
-                "Points": "29"
             },
             {
                 "Position": "13",
@@ -2246,12 +2246,12 @@
             {
                 "Position": "1",
                 "Team": "Coventry City",
-                "Played": "40",
+                "Played": "41",
                 "Wins": "25",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "7",
                 "Goal Difference": "42",
-                "Points": "83"
+                "Points": "84"
             },
             {
                 "Position": "2",
@@ -2265,6 +2265,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Middlesbrough",
+                "Played": "41",
+                "Wins": "20",
+                "Draws": "12",
+                "Losses": "9",
+                "Goal Difference": "21",
+                "Points": "72"
+            },
+            {
+                "Position": "4",
                 "Team": "Millwall",
                 "Played": "41",
                 "Wins": "21",
@@ -2274,24 +2284,14 @@
                 "Points": "72"
             },
             {
-                "Position": "4",
-                "Team": "Middlesbrough",
-                "Played": "41",
-                "Wins": "20",
-                "Draws": "11",
-                "Losses": "10",
-                "Goal Difference": "20",
-                "Points": "71"
-            },
-            {
                 "Position": "5",
                 "Team": "Hull City",
-                "Played": "40",
+                "Played": "41",
                 "Wins": "20",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "13",
                 "Goal Difference": "5",
-                "Points": "67"
+                "Points": "68"
             },
             {
                 "Position": "6",
@@ -2365,16 +2365,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Swansea City",
-                "Played": "41",
-                "Wins": "16",
-                "Draws": "8",
-                "Losses": "17",
-                "Goal Difference": "-4",
-                "Points": "56"
-            },
-            {
-                "Position": "14",
                 "Team": "Stoke City",
                 "Played": "41",
                 "Wins": "15",
@@ -2384,13 +2374,23 @@
                 "Points": "54"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Preston North End",
                 "Played": "41",
                 "Wins": "13",
                 "Draws": "15",
                 "Losses": "13",
                 "Goal Difference": "-4",
+                "Points": "54"
+            },
+            {
+                "Position": "15",
+                "Team": "Swansea City",
+                "Played": "41",
+                "Wins": "15",
+                "Draws": "9",
+                "Losses": "17",
+                "Goal Difference": "-5",
                 "Points": "54"
             },
             {

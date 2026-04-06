@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 06 April 2026, 05:45 PM UTC (Monday, 06 April 2026, 11:15 PM IST)
+**Last Updated:** Monday, 06 April 2026, 07:01 PM UTC (Tuesday, 07 April 2026, 12:31 AM IST)
 
 ### Premier League
 
@@ -121,8 +121,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 31 | 23 | 3 | 5 | 45 | 72 |
-| 2 | Milan | 30 | 18 | 9 | 3 | 24 | 63 |
-| 3 | Napoli | 30 | 19 | 5 | 6 | 16 | 62 |
+| 2 | Milan | 31 | 18 | 10 | 3 | 24 | 64 |
+| 3 | Napoli | 31 | 19 | 6 | 6 | 16 | 63 |
 | 4 | Como | 31 | 16 | 10 | 5 | 31 | 58 |
 | 5 | Juventus | 31 | 16 | 9 | 6 | 25 | 57 |
 | 6 | Roma | 31 | 17 | 3 | 11 | 14 | 54 |
@@ -297,12 +297,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Braga | 27 | 14 | 7 | 6 | 27 | 49 |
 | 5 | Famalicão | 28 | 13 | 7 | 8 | 11 | 46 |
 | 6 | Gil Vicente | 28 | 12 | 9 | 7 | 14 | 45 |
-| 7 | Estoril | 27 | 10 | 7 | 10 | 4 | 37 |
+| 7 | Estoril | 28 | 10 | 8 | 10 | 4 | 38 |
 | 8 | Moreirense | 28 | 10 | 5 | 13 | -9 | 35 |
 | 9 | Vitória S.C. | 28 | 10 | 5 | 13 | -8 | 35 |
 | 10 | Alverca | 28 | 8 | 8 | 12 | -17 | 32 |
-| 11 | Rio Ave | 28 | 7 | 9 | 12 | -19 | 30 |
-| 12 | Arouca | 27 | 8 | 5 | 14 | -21 | 29 |
+| 11 | Arouca | 28 | 8 | 6 | 14 | -21 | 30 |
+| 12 | Rio Ave | 28 | 7 | 9 | 12 | -19 | 30 |
 | 13 | Estrela Amadora | 28 | 6 | 10 | 12 | -14 | 28 |
 | 14 | Santa Clara | 28 | 7 | 7 | 14 | -9 | 28 |
 | 15 | Nacional | 28 | 6 | 7 | 15 | -8 | 25 |
@@ -314,11 +314,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 40 | 25 | 8 | 7 | 42 | 83 |
+| 1 | Coventry City | 41 | 25 | 9 | 7 | 42 | 84 |
 | 2 | Ipswich Town | 39 | 20 | 12 | 7 | 29 | 72 |
-| 3 | Millwall | 41 | 21 | 9 | 11 | 9 | 72 |
-| 4 | Middlesbrough | 41 | 20 | 11 | 10 | 20 | 71 |
-| 5 | Hull City | 40 | 20 | 7 | 13 | 5 | 67 |
+| 3 | Middlesbrough | 41 | 20 | 12 | 9 | 21 | 72 |
+| 4 | Millwall | 41 | 21 | 9 | 11 | 9 | 72 |
+| 5 | Hull City | 41 | 20 | 8 | 13 | 5 | 68 |
 | 6 | Wrexham | 40 | 17 | 13 | 10 | 9 | 64 |
 | 7 | Southampton | 39 | 17 | 12 | 10 | 15 | 63 |
 | 8 | Derby County | 41 | 18 | 9 | 14 | 9 | 63 |
@@ -326,9 +326,9 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Watford | 41 | 14 | 15 | 12 | 3 | 57 |
 | 11 | Bristol City | 41 | 16 | 9 | 16 | 1 | 57 |
 | 12 | Queens Park Rangers | 41 | 16 | 9 | 16 | -5 | 57 |
-| 13 | Swansea City | 41 | 16 | 8 | 17 | -4 | 56 |
-| 14 | Stoke City | 41 | 15 | 9 | 17 | 3 | 54 |
-| 15 | Preston North End | 41 | 13 | 15 | 13 | -4 | 54 |
+| 13 | Stoke City | 41 | 15 | 9 | 17 | 3 | 54 |
+| 14 | Preston North End | 41 | 13 | 15 | 13 | -4 | 54 |
+| 15 | Swansea City | 41 | 15 | 9 | 17 | -5 | 54 |
 | 16 | Birmingham City | 41 | 14 | 11 | 16 | -3 | 53 |
 | 17 | Sheffield United | 41 | 15 | 6 | 20 | -1 | 51 |
 | 18 | Charlton Athletic | 41 | 12 | 13 | 16 | -11 | 49 |
