@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 06 April 2026, 04:50 PM UTC",
-        "IST": "Monday, 06 April 2026, 10:20 PM IST"
+        "UTC": "Monday, 06 April 2026, 05:45 PM UTC",
+        "IST": "Monday, 06 April 2026, 11:15 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2265,16 +2265,6 @@
             },
             {
                 "Position": "3",
-                "Team": "Middlesbrough",
-                "Played": "41",
-                "Wins": "20",
-                "Draws": "12",
-                "Losses": "9",
-                "Goal Difference": "21",
-                "Points": "72"
-            },
-            {
-                "Position": "4",
                 "Team": "Millwall",
                 "Played": "41",
                 "Wins": "21",
@@ -2282,6 +2272,16 @@
                 "Losses": "11",
                 "Goal Difference": "9",
                 "Points": "72"
+            },
+            {
+                "Position": "4",
+                "Team": "Middlesbrough",
+                "Played": "41",
+                "Wins": "20",
+                "Draws": "11",
+                "Losses": "10",
+                "Goal Difference": "20",
+                "Points": "71"
             },
             {
                 "Position": "5",
@@ -2365,6 +2365,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Swansea City",
+                "Played": "41",
+                "Wins": "16",
+                "Draws": "8",
+                "Losses": "17",
+                "Goal Difference": "-4",
+                "Points": "56"
+            },
+            {
+                "Position": "14",
                 "Team": "Stoke City",
                 "Played": "41",
                 "Wins": "15",
@@ -2374,23 +2384,13 @@
                 "Points": "54"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Preston North End",
                 "Played": "41",
                 "Wins": "13",
                 "Draws": "15",
                 "Losses": "13",
                 "Goal Difference": "-4",
-                "Points": "54"
-            },
-            {
-                "Position": "15",
-                "Team": "Swansea City",
-                "Played": "41",
-                "Wins": "15",
-                "Draws": "9",
-                "Losses": "17",
-                "Goal Difference": "-5",
                 "Points": "54"
             },
             {
