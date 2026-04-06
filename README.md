@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 06 April 2026, 10:09 AM UTC (Monday, 06 April 2026, 03:39 PM IST)
+**Last Updated:** Monday, 06 April 2026, 11:26 AM UTC (Monday, 06 April 2026, 04:56 PM IST)
 
 ### Premier League
 
@@ -123,14 +123,14 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 31 | 23 | 3 | 5 | 45 | 72 |
 | 2 | Milan | 30 | 18 | 9 | 3 | 24 | 63 |
 | 3 | Napoli | 30 | 19 | 5 | 6 | 16 | 62 |
-| 4 | Como | 30 | 16 | 9 | 5 | 31 | 57 |
+| 4 | Como | 31 | 16 | 10 | 5 | 31 | 58 |
 | 5 | Juventus | 30 | 15 | 9 | 6 | 23 | 54 |
 | 6 | Roma | 31 | 17 | 3 | 11 | 14 | 54 |
 | 7 | Atalanta | 30 | 13 | 11 | 6 | 14 | 50 |
 | 8 | Bologna | 31 | 13 | 6 | 12 | 3 | 45 |
 | 9 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
 | 10 | Sassuolo | 31 | 12 | 6 | 13 | -3 | 42 |
-| 11 | Udinese | 30 | 11 | 6 | 13 | -7 | 39 |
+| 11 | Udinese | 31 | 11 | 7 | 13 | -7 | 40 |
 | 12 | Torino | 31 | 10 | 6 | 15 | -18 | 36 |
 | 13 | Parma | 31 | 8 | 11 | 12 | -17 | 35 |
 | 14 | Genoa | 30 | 8 | 9 | 13 | -6 | 33 |
