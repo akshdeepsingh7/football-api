@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 06 April 2026, 02:48 PM UTC",
-        "IST": "Monday, 06 April 2026, 08:18 PM IST"
+        "UTC": "Monday, 06 April 2026, 03:49 PM UTC",
+        "IST": "Monday, 06 April 2026, 09:19 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2317,11 +2317,11 @@
                 "Position": "8",
                 "Team": "Derby County",
                 "Played": "41",
-                "Wins": "17",
-                "Draws": "10",
+                "Wins": "18",
+                "Draws": "9",
                 "Losses": "14",
-                "Goal Difference": "7",
-                "Points": "61"
+                "Goal Difference": "8",
+                "Points": "63"
             },
             {
                 "Position": "9",
@@ -2368,10 +2368,10 @@
                 "Team": "Stoke City",
                 "Played": "41",
                 "Wins": "15",
-                "Draws": "10",
-                "Losses": "16",
-                "Goal Difference": "5",
-                "Points": "55"
+                "Draws": "9",
+                "Losses": "17",
+                "Goal Difference": "4",
+                "Points": "54"
             },
             {
                 "Position": "14",
@@ -2455,6 +2455,16 @@
             },
             {
                 "Position": "22",
+                "Team": "Leicester City",
+                "Played": "41",
+                "Wins": "11",
+                "Draws": "14",
+                "Losses": "16",
+                "Goal Difference": "-9",
+                "Points": "41"
+            },
+            {
+                "Position": "23",
                 "Team": "Oxford United",
                 "Played": "41",
                 "Wins": "9",
@@ -2464,24 +2474,14 @@
                 "Points": "41"
             },
             {
-                "Position": "23",
-                "Team": "Leicester City",
-                "Played": "41",
-                "Wins": "11",
-                "Draws": "13",
-                "Losses": "17",
-                "Goal Difference": "-10",
-                "Points": "40"
-            },
-            {
                 "Position": "24",
                 "Team": "Sheffield Wednesday",
                 "Played": "41",
-                "Wins": "2",
-                "Draws": "9",
+                "Wins": "1",
+                "Draws": "10",
                 "Losses": "30",
-                "Goal Difference": "-56",
-                "Points": "-3"
+                "Goal Difference": "-57",
+                "Points": "-5"
             }
         ],
         "Major League Soccer (MLS)": [
