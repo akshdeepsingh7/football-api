@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 07 April 2026, 05:32 PM UTC (Tuesday, 07 April 2026, 11:02 PM IST)
+**Last Updated:** Tuesday, 07 April 2026, 07:04 PM UTC (Wednesday, 08 April 2026, 12:34 AM IST)
 
 ### Premier League
 
@@ -319,8 +319,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Middlesbrough | 41 | 20 | 12 | 9 | 21 | 72 |
 | 4 | Millwall | 41 | 21 | 9 | 11 | 9 | 72 |
 | 5 | Hull City | 41 | 20 | 8 | 13 | 5 | 68 |
-| 6 | Wrexham | 40 | 17 | 13 | 10 | 9 | 64 |
-| 7 | Southampton | 39 | 17 | 12 | 10 | 15 | 63 |
+| 6 | Wrexham | 41 | 17 | 14 | 10 | 9 | 65 |
+| 7 | Southampton | 40 | 17 | 13 | 10 | 15 | 64 |
 | 8 | Derby County | 41 | 18 | 9 | 14 | 9 | 63 |
 | 9 | Norwich City | 41 | 17 | 7 | 17 | 7 | 58 |
 | 10 | Watford | 41 | 14 | 15 | 12 | 3 | 57 |
