@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 09 April 2026, 11:59 AM UTC",
-        "IST": "Thursday, 09 April 2026, 05:29 PM IST"
+        "UTC": "Thursday, 09 April 2026, 02:05 PM UTC",
+        "IST": "Thursday, 09 April 2026, 07:35 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2790,15 +2790,25 @@
             {
                 "Position": "1",
                 "Team": "Mumbai City",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "5",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "0",
                 "Goal Difference": "5",
-                "Points": "17"
+                "Points": "18"
             },
             {
                 "Position": "2",
+                "Team": "Jamshedpur",
+                "Played": "8",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "3",
+                "Points": "15"
+            },
+            {
+                "Position": "3",
                 "Team": "Mohun Bagan SG",
                 "Played": "7",
                 "Wins": "4",
@@ -2808,23 +2818,13 @@
                 "Points": "14"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "Bengaluru",
                 "Played": "7",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "5",
-                "Points": "14"
-            },
-            {
-                "Position": "4",
-                "Team": "Jamshedpur",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "3",
                 "Points": "14"
             },
             {
