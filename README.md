@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 10 April 2026, 05:49 PM UTC (Friday, 10 April 2026, 11:19 PM IST)
+**Last Updated:** Friday, 10 April 2026, 06:55 PM UTC (Saturday, 11 April 2026, 12:25 AM IST)
 
 ### Premier League
 
@@ -101,13 +101,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Borussia Dortmund | 28 | 19 | 7 | 2 | 32 | 64 |
 | 3 | RB Leipzig | 28 | 16 | 5 | 7 | 19 | 53 |
 | 4 | VfB Stuttgart | 28 | 16 | 5 | 7 | 18 | 53 |
-| 5 | Hoffenheim | 28 | 15 | 5 | 8 | 14 | 50 |
+| 5 | Hoffenheim | 29 | 15 | 5 | 9 | 12 | 50 |
 | 6 | Bayer Leverkusen | 28 | 14 | 7 | 7 | 19 | 49 |
 | 7 | Eintracht Frankfurt | 28 | 10 | 9 | 9 | -1 | 39 |
 | 8 | SC Freiburg | 28 | 10 | 7 | 11 | -6 | 37 |
-| 9 | Mainz 05 | 28 | 8 | 9 | 11 | -8 | 33 |
-| 10 | Union Berlin | 28 | 8 | 8 | 12 | -15 | 32 |
-| 11 | Augsburg | 28 | 9 | 5 | 14 | -17 | 32 |
+| 9 | Augsburg | 29 | 10 | 5 | 14 | -15 | 35 |
+| 10 | Mainz 05 | 28 | 8 | 9 | 11 | -8 | 33 |
+| 11 | Union Berlin | 28 | 8 | 8 | 12 | -15 | 32 |
 | 12 | Hamburg | 28 | 7 | 10 | 11 | -9 | 31 |
 | 13 | Borussia Mönchengladbach | 28 | 7 | 9 | 12 | -13 | 30 |
 | 14 | Werder Bremen | 28 | 7 | 7 | 14 | -18 | 28 |
@@ -125,7 +125,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Milan | 31 | 18 | 9 | 4 | 23 | 63 |
 | 4 | Como | 31 | 16 | 10 | 5 | 31 | 58 |
 | 5 | Juventus | 31 | 16 | 9 | 6 | 25 | 57 |
-| 6 | Roma | 31 | 17 | 3 | 11 | 14 | 54 |
+| 6 | Roma | 32 | 18 | 3 | 11 | 15 | 57 |
 | 7 | Atalanta | 31 | 14 | 11 | 6 | 17 | 53 |
 | 8 | Bologna | 31 | 13 | 6 | 12 | 3 | 45 |
 | 9 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
@@ -139,7 +139,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Cremonese | 31 | 6 | 9 | 16 | -20 | 27 |
 | 18 | Lecce | 31 | 7 | 6 | 18 | -22 | 27 |
 | 19 | Hellas Verona | 31 | 3 | 9 | 19 | -31 | 18 |
-| 20 | Pisa | 31 | 2 | 12 | 17 | -32 | 18 |
+| 20 | Pisa | 32 | 2 | 12 | 18 | -33 | 18 |
 
 ### Ligue 1
 
@@ -149,14 +149,14 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 28 | 19 | 2 | 7 | 27 | 59 |
 | 3 | LOSC | 28 | 15 | 5 | 8 | 11 | 50 |
 | 4 | Marseille | 28 | 15 | 4 | 9 | 18 | 49 |
-| 5 | Monaco | 29 | 15 | 4 | 10 | 8 | 49 |
+| 5 | Monaco | 29 | 15 | 4 | 10 | 7 | 49 |
 | 6 | Lyon | 28 | 14 | 6 | 8 | 12 | 48 |
 | 7 | Rennes | 28 | 13 | 8 | 7 | 7 | 47 |
 | 8 | Strasbourg | 28 | 12 | 7 | 9 | 12 | 43 |
 | 9 | Lorient | 28 | 9 | 11 | 8 | -4 | 38 |
 | 10 | Toulouse | 28 | 10 | 7 | 11 | 4 | 37 |
 | 11 | Brest | 28 | 10 | 6 | 12 | -6 | 36 |
-| 12 | Paris FC | 29 | 8 | 11 | 10 | -9 | 35 |
+| 12 | Paris FC | 29 | 8 | 11 | 10 | -8 | 35 |
 | 13 | Angers | 28 | 9 | 6 | 13 | -13 | 33 |
 | 14 | Le Havre | 28 | 6 | 10 | 12 | -13 | 28 |
 | 15 | Nice | 28 | 7 | 6 | 15 | -22 | 27 |
