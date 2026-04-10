@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 10 April 2026, 01:13 PM UTC (Friday, 10 April 2026, 06:43 PM IST)
+**Last Updated:** Friday, 10 April 2026, 02:33 PM UTC (Friday, 10 April 2026, 08:03 PM IST)
 
 ### Premier League
 
@@ -384,11 +384,11 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Bengaluru | 7 | 4 | 2 | 1 | 5 | 14 |
 | 5 | East Bengal | 6 | 3 | 2 | 1 | 12 | 11 |
 | 6 | Punjab FC | 6 | 3 | 2 | 1 | 4 | 11 |
-| 7 | FC Goa | 7 | 2 | 4 | 1 | 1 | 10 |
+| 7 | FC Goa | 8 | 2 | 5 | 1 | 1 | 11 |
 | 8 | SC Delhi | 7 | 2 | 2 | 3 | -1 | 8 |
 | 9 | Inter Kashi | 7 | 2 | 2 | 3 | -2 | 8 |
-| 10 | NorthEast Utd | 7 | 1 | 3 | 3 | -8 | 6 |
-| 11 | Odisha | 5 | 1 | 2 | 2 | -2 | 5 |
+| 10 | Odisha | 6 | 1 | 3 | 2 | -2 | 6 |
+| 11 | NorthEast Utd | 7 | 1 | 3 | 3 | -8 | 6 |
 | 12 | Chennaiyin | 6 | 1 | 2 | 3 | -3 | 5 |
 | 13 | Kerala Blasters | 7 | 0 | 1 | 6 | -9 | 1 |
 | 14 | Mohammedan | 6 | 0 | 0 | 6 | -16 | 0 |

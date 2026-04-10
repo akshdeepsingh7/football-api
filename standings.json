@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 10 April 2026, 01:13 PM UTC",
-        "IST": "Friday, 10 April 2026, 06:43 PM IST"
+        "UTC": "Friday, 10 April 2026, 02:33 PM UTC",
+        "IST": "Friday, 10 April 2026, 08:03 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2850,12 +2850,12 @@
             {
                 "Position": "7",
                 "Team": "FC Goa",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "2",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "1",
-                "Points": "10"
+                "Points": "11"
             },
             {
                 "Position": "8",
@@ -2879,6 +2879,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Odisha",
+                "Played": "6",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "-2",
+                "Points": "6"
+            },
+            {
+                "Position": "11",
                 "Team": "NorthEast Utd",
                 "Played": "7",
                 "Wins": "1",
@@ -2886,16 +2896,6 @@
                 "Losses": "3",
                 "Goal Difference": "-8",
                 "Points": "6"
-            },
-            {
-                "Position": "11",
-                "Team": "Odisha",
-                "Played": "5",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "5"
             },
             {
                 "Position": "12",
