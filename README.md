@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 10 April 2026, 04:52 PM UTC (Friday, 10 April 2026, 10:22 PM IST)
+**Last Updated:** Friday, 10 April 2026, 05:49 PM UTC (Friday, 10 April 2026, 11:19 PM IST)
 
 ### Premier League
 
@@ -149,15 +149,15 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 28 | 19 | 2 | 7 | 27 | 59 |
 | 3 | LOSC | 28 | 15 | 5 | 8 | 11 | 50 |
 | 4 | Marseille | 28 | 15 | 4 | 9 | 18 | 49 |
-| 5 | Monaco | 28 | 15 | 4 | 9 | 10 | 49 |
+| 5 | Monaco | 29 | 15 | 4 | 10 | 8 | 49 |
 | 6 | Lyon | 28 | 14 | 6 | 8 | 12 | 48 |
 | 7 | Rennes | 28 | 13 | 8 | 7 | 7 | 47 |
 | 8 | Strasbourg | 28 | 12 | 7 | 9 | 12 | 43 |
 | 9 | Lorient | 28 | 9 | 11 | 8 | -4 | 38 |
 | 10 | Toulouse | 28 | 10 | 7 | 11 | 4 | 37 |
 | 11 | Brest | 28 | 10 | 6 | 12 | -6 | 36 |
-| 12 | Angers | 28 | 9 | 6 | 13 | -13 | 33 |
-| 13 | Paris FC | 28 | 7 | 11 | 10 | -11 | 32 |
+| 12 | Paris FC | 29 | 8 | 11 | 10 | -9 | 35 |
+| 13 | Angers | 28 | 9 | 6 | 13 | -13 | 33 |
 | 14 | Le Havre | 28 | 6 | 10 | 12 | -13 | 28 |
 | 15 | Nice | 28 | 7 | 6 | 15 | -22 | 27 |
 | 16 | Auxerre | 28 | 5 | 8 | 15 | -14 | 23 |

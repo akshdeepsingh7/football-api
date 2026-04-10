@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 10 April 2026, 04:52 PM UTC",
-        "IST": "Friday, 10 April 2026, 10:22 PM IST"
+        "UTC": "Friday, 10 April 2026, 05:49 PM UTC",
+        "IST": "Friday, 10 April 2026, 11:19 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -836,11 +836,11 @@
             {
                 "Position": "5",
                 "Team": "Monaco",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "15",
                 "Draws": "4",
-                "Losses": "9",
-                "Goal Difference": "10",
+                "Losses": "10",
+                "Goal Difference": "8",
                 "Points": "49"
             },
             {
@@ -905,6 +905,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Paris FC",
+                "Played": "29",
+                "Wins": "8",
+                "Draws": "11",
+                "Losses": "10",
+                "Goal Difference": "-9",
+                "Points": "35"
+            },
+            {
+                "Position": "13",
                 "Team": "Angers",
                 "Played": "28",
                 "Wins": "9",
@@ -912,16 +922,6 @@
                 "Losses": "13",
                 "Goal Difference": "-13",
                 "Points": "33"
-            },
-            {
-                "Position": "13",
-                "Team": "Paris FC",
-                "Played": "28",
-                "Wins": "7",
-                "Draws": "11",
-                "Losses": "10",
-                "Goal Difference": "-11",
-                "Points": "32"
             },
             {
                 "Position": "14",
