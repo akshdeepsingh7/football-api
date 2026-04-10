@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 10 April 2026, 08:38 PM UTC (Saturday, 11 April 2026, 02:08 AM IST)
+**Last Updated:** Friday, 10 April 2026, 09:38 PM UTC (Saturday, 11 April 2026, 03:08 AM IST)
 
 ### Premier League
 
@@ -63,10 +63,10 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Crystal Palace | 30 | 10 | 9 | 11 | -2 | 39 |
 | 15 | Leeds United | 31 | 7 | 12 | 12 | -11 | 33 |
 | 16 | Nottingham Forest | 31 | 8 | 8 | 15 | -12 | 32 |
-| 17 | West Ham United | 32 | 8 | 8 | 16 | -18 | 32 |
+| 17 | West Ham United | 32 | 8 | 8 | 16 | -17 | 32 |
 | 18 | Tottenham Hotspur | 31 | 7 | 9 | 15 | -10 | 30 |
 | 19 | Burnley | 31 | 4 | 8 | 19 | -28 | 20 |
-| 20 | Wolverhampton Wanderers | 32 | 3 | 8 | 21 | -33 | 17 |
+| 20 | Wolverhampton Wanderers | 32 | 3 | 8 | 21 | -34 | 17 |
 
 ### La Liga
 
@@ -147,7 +147,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 27 | 20 | 3 | 4 | 38 | 63 |
 | 2 | Lens | 28 | 19 | 2 | 7 | 27 | 59 |
-| 3 | Marseille | 29 | 16 | 4 | 9 | 19 | 52 |
+| 3 | Marseille | 29 | 16 | 4 | 9 | 20 | 52 |
 | 4 | LOSC | 28 | 15 | 5 | 8 | 11 | 50 |
 | 5 | Monaco | 29 | 15 | 4 | 10 | 7 | 49 |
 | 6 | Lyon | 28 | 14 | 6 | 8 | 12 | 48 |
@@ -162,7 +162,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Nice | 28 | 7 | 6 | 15 | -22 | 27 |
 | 16 | Auxerre | 28 | 5 | 8 | 15 | -14 | 23 |
 | 17 | Nantes | 27 | 4 | 6 | 17 | -21 | 18 |
-| 18 | Metz | 29 | 3 | 6 | 20 | -36 | 15 |
+| 18 | Metz | 29 | 3 | 6 | 20 | -37 | 15 |
 
 ### Champions League
 
@@ -295,10 +295,10 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Sporting CP | 27 | 21 | 5 | 1 | 55 | 68 |
 | 3 | Benfica | 28 | 19 | 9 | 0 | 41 | 66 |
 | 4 | Braga | 27 | 14 | 7 | 6 | 27 | 49 |
-| 5 | Famalicão | 29 | 13 | 7 | 9 | 10 | 46 |
+| 5 | Famalicão | 29 | 13 | 8 | 8 | 11 | 47 |
 | 6 | Gil Vicente | 28 | 12 | 9 | 7 | 14 | 45 |
-| 7 | Moreirense | 29 | 11 | 5 | 13 | -8 | 38 |
-| 8 | Estoril | 28 | 10 | 7 | 11 | 3 | 37 |
+| 7 | Estoril | 28 | 10 | 7 | 11 | 3 | 37 |
+| 8 | Moreirense | 29 | 10 | 6 | 13 | -9 | 36 |
 | 9 | Vitória S.C. | 28 | 10 | 5 | 13 | -8 | 35 |
 | 10 | Arouca | 28 | 9 | 5 | 14 | -20 | 32 |
 | 11 | Alverca | 28 | 8 | 8 | 12 | -17 | 32 |
