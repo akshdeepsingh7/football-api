@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 10 April 2026, 06:55 PM UTC (Saturday, 11 April 2026, 12:25 AM IST)
+**Last Updated:** Friday, 10 April 2026, 07:45 PM UTC (Saturday, 11 April 2026, 01:15 AM IST)
 
 ### Premier League
 
@@ -63,17 +63,17 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Crystal Palace | 30 | 10 | 9 | 11 | -2 | 39 |
 | 15 | Leeds United | 31 | 7 | 12 | 12 | -11 | 33 |
 | 16 | Nottingham Forest | 31 | 8 | 8 | 15 | -12 | 32 |
-| 17 | Tottenham Hotspur | 31 | 7 | 9 | 15 | -10 | 30 |
-| 18 | West Ham United | 31 | 7 | 8 | 16 | -21 | 29 |
+| 17 | West Ham United | 32 | 8 | 8 | 16 | -20 | 32 |
+| 18 | Tottenham Hotspur | 31 | 7 | 9 | 15 | -10 | 30 |
 | 19 | Burnley | 31 | 4 | 8 | 19 | -28 | 20 |
-| 20 | Wolverhampton Wanderers | 31 | 3 | 8 | 20 | -30 | 17 |
+| 20 | Wolverhampton Wanderers | 32 | 3 | 8 | 21 | -31 | 17 |
 
 ### La Liga
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 30 | 25 | 1 | 4 | 51 | 76 |
-| 2 | Real Madrid | 30 | 22 | 3 | 5 | 36 | 69 |
+| 2 | Real Madrid | 31 | 22 | 4 | 5 | 36 | 70 |
 | 3 | Villarreal | 30 | 18 | 4 | 8 | 19 | 58 |
 | 4 | Atlético de Madrid | 30 | 17 | 6 | 7 | 20 | 57 |
 | 5 | Real Betis | 30 | 11 | 12 | 7 | 7 | 45 |
@@ -83,7 +83,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Osasuna | 30 | 10 | 8 | 12 | -1 | 38 |
 | 10 | Espanyol | 30 | 10 | 8 | 12 | -8 | 38 |
 | 11 | Athletic Bilbao | 30 | 11 | 5 | 14 | -11 | 38 |
-| 12 | Girona | 30 | 9 | 10 | 11 | -12 | 37 |
+| 12 | Girona | 31 | 9 | 11 | 11 | -12 | 38 |
 | 13 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
 | 14 | Valencia | 30 | 9 | 8 | 13 | -11 | 35 |
 | 15 | Alavés | 30 | 8 | 8 | 14 | -11 | 32 |
@@ -101,12 +101,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Borussia Dortmund | 28 | 19 | 7 | 2 | 32 | 64 |
 | 3 | RB Leipzig | 28 | 16 | 5 | 7 | 19 | 53 |
 | 4 | VfB Stuttgart | 28 | 16 | 5 | 7 | 18 | 53 |
-| 5 | Hoffenheim | 29 | 15 | 5 | 9 | 12 | 50 |
+| 5 | Hoffenheim | 29 | 15 | 6 | 8 | 14 | 51 |
 | 6 | Bayer Leverkusen | 28 | 14 | 7 | 7 | 19 | 49 |
 | 7 | Eintracht Frankfurt | 28 | 10 | 9 | 9 | -1 | 39 |
 | 8 | SC Freiburg | 28 | 10 | 7 | 11 | -6 | 37 |
-| 9 | Augsburg | 29 | 10 | 5 | 14 | -15 | 35 |
-| 10 | Mainz 05 | 28 | 8 | 9 | 11 | -8 | 33 |
+| 9 | Mainz 05 | 28 | 8 | 9 | 11 | -8 | 33 |
+| 10 | Augsburg | 29 | 9 | 6 | 14 | -17 | 33 |
 | 11 | Union Berlin | 28 | 8 | 8 | 12 | -15 | 32 |
 | 12 | Hamburg | 28 | 7 | 10 | 11 | -9 | 31 |
 | 13 | Borussia Mönchengladbach | 28 | 7 | 9 | 12 | -13 | 30 |
@@ -125,7 +125,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Milan | 31 | 18 | 9 | 4 | 23 | 63 |
 | 4 | Como | 31 | 16 | 10 | 5 | 31 | 58 |
 | 5 | Juventus | 31 | 16 | 9 | 6 | 25 | 57 |
-| 6 | Roma | 32 | 18 | 3 | 11 | 15 | 57 |
+| 6 | Roma | 32 | 18 | 3 | 11 | 16 | 57 |
 | 7 | Atalanta | 31 | 14 | 11 | 6 | 17 | 53 |
 | 8 | Bologna | 31 | 13 | 6 | 12 | 3 | 45 |
 | 9 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
@@ -139,7 +139,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Cremonese | 31 | 6 | 9 | 16 | -20 | 27 |
 | 18 | Lecce | 31 | 7 | 6 | 18 | -22 | 27 |
 | 19 | Hellas Verona | 31 | 3 | 9 | 19 | -31 | 18 |
-| 20 | Pisa | 32 | 2 | 12 | 18 | -33 | 18 |
+| 20 | Pisa | 32 | 2 | 12 | 18 | -34 | 18 |
 
 ### Ligue 1
 
@@ -147,8 +147,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 27 | 20 | 3 | 4 | 38 | 63 |
 | 2 | Lens | 28 | 19 | 2 | 7 | 27 | 59 |
-| 3 | LOSC | 28 | 15 | 5 | 8 | 11 | 50 |
-| 4 | Marseille | 28 | 15 | 4 | 9 | 18 | 49 |
+| 3 | Marseille | 29 | 16 | 4 | 9 | 19 | 52 |
+| 4 | LOSC | 28 | 15 | 5 | 8 | 11 | 50 |
 | 5 | Monaco | 29 | 15 | 4 | 10 | 7 | 49 |
 | 6 | Lyon | 28 | 14 | 6 | 8 | 12 | 48 |
 | 7 | Rennes | 28 | 13 | 8 | 7 | 7 | 47 |
@@ -162,7 +162,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Nice | 28 | 7 | 6 | 15 | -22 | 27 |
 | 16 | Auxerre | 28 | 5 | 8 | 15 | -14 | 23 |
 | 17 | Nantes | 27 | 4 | 6 | 17 | -21 | 18 |
-| 18 | Metz | 28 | 3 | 6 | 19 | -35 | 15 |
+| 18 | Metz | 29 | 3 | 6 | 20 | -36 | 15 |
 
 ### Champions League
 
@@ -315,9 +315,9 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 41 | 25 | 9 | 7 | 42 | 84 |
-| 2 | Ipswich Town | 39 | 20 | 12 | 7 | 29 | 72 |
-| 3 | Middlesbrough | 41 | 20 | 12 | 9 | 21 | 72 |
-| 4 | Millwall | 41 | 21 | 9 | 11 | 9 | 72 |
+| 2 | Millwall | 42 | 21 | 10 | 11 | 9 | 73 |
+| 3 | Ipswich Town | 39 | 20 | 12 | 7 | 29 | 72 |
+| 4 | Middlesbrough | 41 | 20 | 12 | 9 | 21 | 72 |
 | 5 | Hull City | 41 | 20 | 8 | 13 | 5 | 68 |
 | 6 | Southampton | 40 | 18 | 12 | 10 | 19 | 66 |
 | 7 | Wrexham | 41 | 17 | 13 | 11 | 5 | 64 |
@@ -333,7 +333,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Sheffield United | 41 | 15 | 6 | 20 | -1 | 51 |
 | 18 | Charlton Athletic | 41 | 12 | 13 | 16 | -11 | 49 |
 | 19 | Blackburn Rovers | 41 | 12 | 11 | 18 | -12 | 47 |
-| 20 | West Bromwich Albion | 41 | 11 | 12 | 18 | -14 | 45 |
+| 20 | West Bromwich Albion | 42 | 11 | 13 | 18 | -14 | 46 |
 | 21 | Portsmouth | 40 | 10 | 12 | 18 | -17 | 42 |
 | 22 | Leicester City | 41 | 11 | 14 | 16 | -9 | 41 |
 | 23 | Oxford United | 41 | 9 | 14 | 18 | -15 | 41 |
