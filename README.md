@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 10 April 2026, 11:50 AM UTC (Friday, 10 April 2026, 05:20 PM IST)
+**Last Updated:** Friday, 10 April 2026, 01:13 PM UTC (Friday, 10 April 2026, 06:43 PM IST)
 
 ### Premier League
 
@@ -147,7 +147,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 27 | 20 | 3 | 4 | 38 | 63 |
 | 2 | Lens | 28 | 19 | 2 | 7 | 27 | 59 |
-| 3 | Lille | 28 | 15 | 5 | 8 | 11 | 50 |
+| 3 | LOSC | 28 | 15 | 5 | 8 | 11 | 50 |
 | 4 | Marseille | 28 | 15 | 4 | 9 | 18 | 49 |
 | 5 | Monaco | 28 | 15 | 4 | 9 | 10 | 49 |
 | 6 | Lyon | 28 | 14 | 6 | 8 | 12 | 48 |
@@ -226,7 +226,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Red Star Belgrade | 8 | 4 | 2 | 2 | 1 | 14 |
 | 16 | Celta de Vigo | 8 | 4 | 1 | 3 | 4 | 13 |
 | 17 | PAOK | 8 | 3 | 3 | 2 | 3 | 12 |
-| 18 | Lille | 8 | 4 | 0 | 4 | 3 | 12 |
+| 18 | LOSC | 8 | 4 | 0 | 4 | 3 | 12 |
 | 19 | Fenerbahçe | 8 | 3 | 3 | 2 | 3 | 12 |
 | 20 | Panathinaikos | 8 | 3 | 3 | 2 | 2 | 12 |
 | 21 | Celtic | 8 | 3 | 2 | 3 | -2 | 11 |
@@ -385,9 +385,9 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | East Bengal | 6 | 3 | 2 | 1 | 12 | 11 |
 | 6 | Punjab FC | 6 | 3 | 2 | 1 | 4 | 11 |
 | 7 | FC Goa | 7 | 2 | 4 | 1 | 1 | 10 |
-| 8 | Inter Kashi | 7 | 2 | 2 | 3 | -2 | 8 |
-| 9 | NorthEast Utd | 7 | 1 | 4 | 2 | -5 | 7 |
-| 10 | SC Delhi | 7 | 1 | 3 | 3 | -4 | 6 |
+| 8 | SC Delhi | 7 | 2 | 2 | 3 | -1 | 8 |
+| 9 | Inter Kashi | 7 | 2 | 2 | 3 | -2 | 8 |
+| 10 | NorthEast Utd | 7 | 1 | 3 | 3 | -8 | 6 |
 | 11 | Odisha | 5 | 1 | 2 | 2 | -2 | 5 |
 | 12 | Chennaiyin | 6 | 1 | 2 | 3 | -3 | 5 |
 | 13 | Kerala Blasters | 7 | 0 | 1 | 6 | -9 | 1 |

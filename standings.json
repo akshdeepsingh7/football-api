@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 10 April 2026, 11:50 AM UTC",
-        "IST": "Friday, 10 April 2026, 05:20 PM IST"
+        "UTC": "Friday, 10 April 2026, 01:13 PM UTC",
+        "IST": "Friday, 10 April 2026, 06:43 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -815,7 +815,7 @@
             },
             {
                 "Position": "3",
-                "Team": "Lille",
+                "Team": "LOSC",
                 "Played": "28",
                 "Wins": "15",
                 "Draws": "5",
@@ -1509,7 +1509,7 @@
             },
             {
                 "Position": "18",
-                "Team": "Lille",
+                "Team": "LOSC",
                 "Played": "8",
                 "Wins": "4",
                 "Draws": "0",
@@ -2859,6 +2859,16 @@
             },
             {
                 "Position": "8",
+                "Team": "SC Delhi",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "8"
+            },
+            {
+                "Position": "9",
                 "Team": "Inter Kashi",
                 "Played": "7",
                 "Wins": "2",
@@ -2868,23 +2878,13 @@
                 "Points": "8"
             },
             {
-                "Position": "9",
-                "Team": "NorthEast Utd",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "-5",
-                "Points": "7"
-            },
-            {
                 "Position": "10",
-                "Team": "SC Delhi",
+                "Team": "NorthEast Utd",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "-4",
+                "Goal Difference": "-8",
                 "Points": "6"
             },
             {
