@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 April 2026, 06:47 PM UTC",
-        "IST": "Sunday, 12 April 2026, 12:17 AM IST"
+        "UTC": "Saturday, 11 April 2026, 07:35 PM UTC",
+        "IST": "Sunday, 12 April 2026, 01:05 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -240,11 +240,11 @@
             {
                 "Position": "4",
                 "Team": "Atl\u00e9tico de Madrid",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "17",
                 "Draws": "6",
-                "Losses": "7",
-                "Goal Difference": "20",
+                "Losses": "8",
+                "Goal Difference": "19",
                 "Points": "57"
             },
             {
@@ -349,6 +349,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Sevilla",
+                "Played": "31",
+                "Wins": "9",
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-12",
+                "Points": "34"
+            },
+            {
+                "Position": "16",
                 "Team": "Alav\u00e9s",
                 "Played": "31",
                 "Wins": "8",
@@ -358,7 +368,7 @@
                 "Points": "33"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Elche",
                 "Played": "31",
                 "Wins": "7",
@@ -368,23 +378,13 @@
                 "Points": "32"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Mallorca",
                 "Played": "30",
                 "Wins": "8",
                 "Draws": "7",
                 "Losses": "15",
                 "Goal Difference": "-12",
-                "Points": "31"
-            },
-            {
-                "Position": "18",
-                "Team": "Sevilla",
-                "Played": "30",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "15",
-                "Goal Difference": "-13",
                 "Points": "31"
             },
             {
@@ -835,6 +835,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Rennes",
+                "Played": "29",
+                "Wins": "14",
+                "Draws": "8",
+                "Losses": "7",
+                "Goal Difference": "9",
+                "Points": "50"
+            },
+            {
+                "Position": "6",
                 "Team": "Monaco",
                 "Played": "29",
                 "Wins": "15",
@@ -844,7 +854,7 @@
                 "Points": "49"
             },
             {
-                "Position": "6",
+                "Position": "7",
                 "Team": "Lyon",
                 "Played": "28",
                 "Wins": "14",
@@ -852,16 +862,6 @@
                 "Losses": "8",
                 "Goal Difference": "12",
                 "Points": "48"
-            },
-            {
-                "Position": "7",
-                "Team": "Rennes",
-                "Played": "28",
-                "Wins": "13",
-                "Draws": "8",
-                "Losses": "7",
-                "Goal Difference": "7",
-                "Points": "47"
             },
             {
                 "Position": "8",
@@ -916,11 +916,11 @@
             {
                 "Position": "13",
                 "Team": "Angers",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "9",
                 "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-13",
+                "Losses": "14",
+                "Goal Difference": "-15",
                 "Points": "33"
             },
             {
@@ -2074,12 +2074,12 @@
             {
                 "Position": "2",
                 "Team": "Sporting CP",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "21",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "1",
                 "Goal Difference": "55",
-                "Points": "68"
+                "Points": "69"
             },
             {
                 "Position": "3",
@@ -2184,12 +2184,12 @@
             {
                 "Position": "13",
                 "Team": "Estrela Amadora",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "6",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "12",
                 "Goal Difference": "-14",
-                "Points": "28"
+                "Points": "29"
             },
             {
                 "Position": "14",
@@ -2587,6 +2587,16 @@
             },
             {
                 "Position": "11",
+                "Team": "CF Montr\u00e9al",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "0",
+                "Losses": "5",
+                "Goal Difference": "-9",
+                "Points": "6"
+            },
+            {
+                "Position": "12",
                 "Team": "Columbus Crew",
                 "Played": "6",
                 "Wins": "1",
@@ -2596,23 +2606,13 @@
                 "Points": "5"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Atlanta United",
                 "Played": "6",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "4"
-            },
-            {
-                "Position": "13",
-                "Team": "CF Montr\u00e9al",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "5",
-                "Goal Difference": "-10",
                 "Points": "4"
             },
             {
@@ -2630,10 +2630,10 @@
                 "Team": "Philadelphia Union",
                 "Played": "7",
                 "Wins": "0",
-                "Draws": "1",
-                "Losses": "6",
-                "Goal Difference": "-7",
-                "Points": "1"
+                "Draws": "0",
+                "Losses": "7",
+                "Goal Difference": "-8",
+                "Points": "0"
             },
             {
                 "Position": "1",
@@ -2717,6 +2717,16 @@
             },
             {
                 "Position": "9",
+                "Team": "LA Galaxy",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "8"
+            },
+            {
+                "Position": "10",
                 "Team": "Minnesota United",
                 "Played": "6",
                 "Wins": "2",
@@ -2724,16 +2734,6 @@
                 "Losses": "2",
                 "Goal Difference": "-6",
                 "Points": "8"
-            },
-            {
-                "Position": "10",
-                "Team": "Austin",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "7"
             },
             {
                 "Position": "11",
@@ -2747,12 +2747,12 @@
             },
             {
                 "Position": "12",
-                "Team": "LA Galaxy",
+                "Team": "Austin",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "3",
-                "Goal Difference": "-2",
+                "Goal Difference": "-3",
                 "Points": "6"
             },
             {
@@ -2943,12 +2943,12 @@
             {
                 "Position": "2",
                 "Team": "S\u00e3o Paulo",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "6",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "2",
                 "Goal Difference": "8",
-                "Points": "20"
+                "Points": "21"
             },
             {
                 "Position": "3",
@@ -3063,12 +3063,12 @@
             {
                 "Position": "14",
                 "Team": "Vit\u00f3ria",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "3",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-5",
-                "Points": "11"
+                "Points": "12"
             },
             {
                 "Position": "15",
