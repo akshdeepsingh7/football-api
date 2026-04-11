@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 April 2026, 07:35 PM UTC",
-        "IST": "Sunday, 12 April 2026, 01:05 AM IST"
+        "UTC": "Saturday, 11 April 2026, 08:35 PM UTC",
+        "IST": "Sunday, 12 April 2026, 02:05 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -623,22 +623,22 @@
             },
             {
                 "Position": "4",
+                "Team": "Juventus",
+                "Played": "32",
+                "Wins": "17",
+                "Draws": "9",
+                "Losses": "6",
+                "Goal Difference": "26",
+                "Points": "60"
+            },
+            {
+                "Position": "5",
                 "Team": "Como",
                 "Played": "31",
                 "Wins": "16",
                 "Draws": "10",
                 "Losses": "5",
                 "Goal Difference": "31",
-                "Points": "58"
-            },
-            {
-                "Position": "5",
-                "Team": "Juventus",
-                "Played": "32",
-                "Wins": "16",
-                "Draws": "10",
-                "Losses": "6",
-                "Goal Difference": "25",
                 "Points": "58"
             },
             {
@@ -656,10 +656,10 @@
                 "Team": "Atalanta",
                 "Played": "32",
                 "Wins": "14",
-                "Draws": "12",
-                "Losses": "6",
-                "Goal Difference": "17",
-                "Points": "54"
+                "Draws": "11",
+                "Losses": "7",
+                "Goal Difference": "16",
+                "Points": "53"
             },
             {
                 "Position": "8",
@@ -840,7 +840,7 @@
                 "Wins": "14",
                 "Draws": "8",
                 "Losses": "7",
-                "Goal Difference": "9",
+                "Goal Difference": "8",
                 "Points": "50"
             },
             {
@@ -920,7 +920,7 @@
                 "Wins": "9",
                 "Draws": "6",
                 "Losses": "14",
-                "Goal Difference": "-15",
+                "Goal Difference": "-14",
                 "Points": "33"
             },
             {
@@ -2587,16 +2587,6 @@
             },
             {
                 "Position": "11",
-                "Team": "CF Montr\u00e9al",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "5",
-                "Goal Difference": "-9",
-                "Points": "6"
-            },
-            {
-                "Position": "12",
                 "Team": "Columbus Crew",
                 "Played": "6",
                 "Wins": "1",
@@ -2606,7 +2596,7 @@
                 "Points": "5"
             },
             {
-                "Position": "13",
+                "Position": "12",
                 "Team": "Atlanta United",
                 "Played": "6",
                 "Wins": "1",
@@ -2616,7 +2606,27 @@
                 "Points": "4"
             },
             {
+                "Position": "13",
+                "Team": "Philadelphia Union",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "6",
+                "Goal Difference": "-6",
+                "Points": "3"
+            },
+            {
                 "Position": "14",
+                "Team": "CF Montr\u00e9al",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "0",
+                "Losses": "6",
+                "Goal Difference": "-11",
+                "Points": "3"
+            },
+            {
+                "Position": "15",
                 "Team": "Orlando City",
                 "Played": "6",
                 "Wins": "1",
@@ -2624,16 +2634,6 @@
                 "Losses": "5",
                 "Goal Difference": "-18",
                 "Points": "3"
-            },
-            {
-                "Position": "15",
-                "Team": "Philadelphia Union",
-                "Played": "7",
-                "Wins": "0",
-                "Draws": "0",
-                "Losses": "7",
-                "Goal Difference": "-8",
-                "Points": "0"
             },
             {
                 "Position": "1",
@@ -2945,10 +2945,10 @@
                 "Team": "S\u00e3o Paulo",
                 "Played": "11",
                 "Wins": "6",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "8",
-                "Points": "21"
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "7",
+                "Points": "20"
             },
             {
                 "Position": "3",
@@ -3022,6 +3022,26 @@
             },
             {
                 "Position": "10",
+                "Team": "Vit\u00f3ria",
+                "Played": "10",
+                "Wins": "4",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "14"
+            },
+            {
+                "Position": "11",
+                "Team": "Vasco da Gama",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "13"
+            },
+            {
+                "Position": "12",
                 "Team": "Botafogo",
                 "Played": "9",
                 "Wins": "4",
@@ -3031,7 +3051,7 @@
                 "Points": "12"
             },
             {
-                "Position": "11",
+                "Position": "13",
                 "Team": "Gr\u00eamio",
                 "Played": "10",
                 "Wins": "3",
@@ -3041,33 +3061,13 @@
                 "Points": "12"
             },
             {
-                "Position": "12",
-                "Team": "Vasco da Gama",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "12"
-            },
-            {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Internacional",
                 "Played": "10",
                 "Wins": "3",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-1",
-                "Points": "12"
-            },
-            {
-                "Position": "14",
-                "Team": "Vit\u00f3ria",
-                "Played": "10",
-                "Wins": "3",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-5",
                 "Points": "12"
             },
             {
@@ -3103,12 +3103,12 @@
             {
                 "Position": "18",
                 "Team": "Remo",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "1",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "5",
                 "Goal Difference": "-7",
-                "Points": "7"
+                "Points": "8"
             },
             {
                 "Position": "19",

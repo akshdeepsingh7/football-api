@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 11 April 2026, 07:35 PM UTC (Sunday, 12 April 2026, 01:05 AM IST)
+**Last Updated:** Saturday, 11 April 2026, 08:35 PM UTC (Sunday, 12 April 2026, 02:05 AM IST)
 
 ### Premier League
 
@@ -123,10 +123,10 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 31 | 23 | 3 | 5 | 45 | 72 |
 | 2 | Napoli | 31 | 20 | 5 | 6 | 17 | 65 |
 | 3 | Milan | 32 | 18 | 9 | 5 | 20 | 63 |
-| 4 | Como | 31 | 16 | 10 | 5 | 31 | 58 |
-| 5 | Juventus | 32 | 16 | 10 | 6 | 25 | 58 |
+| 4 | Juventus | 32 | 17 | 9 | 6 | 26 | 60 |
+| 5 | Como | 31 | 16 | 10 | 5 | 31 | 58 |
 | 6 | Roma | 32 | 18 | 3 | 11 | 17 | 57 |
-| 7 | Atalanta | 32 | 14 | 12 | 6 | 17 | 54 |
+| 7 | Atalanta | 32 | 14 | 11 | 7 | 16 | 53 |
 | 8 | Bologna | 31 | 13 | 6 | 12 | 3 | 45 |
 | 9 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
 | 10 | Udinese | 32 | 12 | 7 | 13 | -4 | 43 |
@@ -149,7 +149,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 28 | 19 | 2 | 7 | 27 | 59 |
 | 3 | Marseille | 29 | 16 | 4 | 9 | 20 | 52 |
 | 4 | LOSC | 28 | 15 | 5 | 8 | 11 | 50 |
-| 5 | Rennes | 29 | 14 | 8 | 7 | 9 | 50 |
+| 5 | Rennes | 29 | 14 | 8 | 7 | 8 | 50 |
 | 6 | Monaco | 29 | 15 | 4 | 10 | 7 | 49 |
 | 7 | Lyon | 28 | 14 | 6 | 8 | 12 | 48 |
 | 8 | Strasbourg | 28 | 12 | 7 | 9 | 12 | 43 |
@@ -157,7 +157,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Toulouse | 28 | 10 | 7 | 11 | 4 | 37 |
 | 11 | Brest | 28 | 10 | 6 | 12 | -6 | 36 |
 | 12 | Paris FC | 29 | 8 | 11 | 10 | -8 | 35 |
-| 13 | Angers | 29 | 9 | 6 | 14 | -15 | 33 |
+| 13 | Angers | 29 | 9 | 6 | 14 | -14 | 33 |
 | 14 | Le Havre | 28 | 6 | 10 | 12 | -13 | 28 |
 | 15 | Nice | 28 | 7 | 6 | 15 | -22 | 27 |
 | 16 | Auxerre | 29 | 5 | 9 | 15 | -14 | 24 |
@@ -353,11 +353,11 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | DC United | 6 | 2 | 1 | 3 | -4 | 7 |
 | 9 | Cincinnati | 7 | 2 | 1 | 4 | -6 | 7 |
 | 10 | New England Revolution | 5 | 2 | 0 | 3 | 2 | 6 |
-| 11 | CF Montréal | 7 | 2 | 0 | 5 | -9 | 6 |
-| 12 | Columbus Crew | 6 | 1 | 2 | 3 | -1 | 5 |
-| 13 | Atlanta United | 6 | 1 | 1 | 4 | -5 | 4 |
-| 14 | Orlando City | 6 | 1 | 0 | 5 | -18 | 3 |
-| 15 | Philadelphia Union | 7 | 0 | 0 | 7 | -8 | 0 |
+| 11 | Columbus Crew | 6 | 1 | 2 | 3 | -1 | 5 |
+| 12 | Atlanta United | 6 | 1 | 1 | 4 | -5 | 4 |
+| 13 | Philadelphia Union | 7 | 1 | 0 | 6 | -6 | 3 |
+| 14 | CF Montréal | 7 | 1 | 0 | 6 | -11 | 3 |
+| 15 | Orlando City | 6 | 1 | 0 | 5 | -18 | 3 |
 | 1 | LAFC | 6 | 5 | 1 | 0 | 14 | 16 |
 | 2 | Vancouver Whitecaps | 6 | 5 | 0 | 1 | 13 | 15 |
 | 3 | San Jose Earthquakes | 6 | 5 | 0 | 1 | 9 | 15 |
@@ -402,7 +402,7 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 10 | 8 | 1 | 1 | 11 | 25 |
-| 2 | São Paulo | 11 | 6 | 3 | 2 | 8 | 21 |
+| 2 | São Paulo | 11 | 6 | 2 | 3 | 7 | 20 |
 | 3 | Fluminense | 10 | 6 | 2 | 2 | 6 | 20 |
 | 4 | Flamengo | 9 | 5 | 2 | 2 | 7 | 17 |
 | 5 | Bahia | 9 | 5 | 2 | 2 | 4 | 17 |
@@ -410,15 +410,15 @@ Data not available.
 | 7 | Coritiba | 10 | 4 | 3 | 3 | 1 | 15 |
 | 8 | Atlético Mineiro | 10 | 4 | 2 | 4 | 2 | 14 |
 | 9 | RB Bragantino | 10 | 4 | 2 | 4 | 0 | 14 |
-| 10 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
-| 11 | Grêmio | 10 | 3 | 3 | 4 | 0 | 12 |
-| 12 | Vasco da Gama | 10 | 3 | 3 | 4 | -1 | 12 |
-| 13 | Internacional | 10 | 3 | 3 | 4 | -1 | 12 |
-| 14 | Vitória | 10 | 3 | 3 | 4 | -5 | 12 |
+| 10 | Vitória | 10 | 4 | 2 | 4 | -4 | 14 |
+| 11 | Vasco da Gama | 11 | 3 | 4 | 4 | -1 | 13 |
+| 12 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
+| 13 | Grêmio | 10 | 3 | 3 | 4 | 0 | 12 |
+| 14 | Internacional | 10 | 3 | 3 | 4 | -1 | 12 |
 | 15 | Santos | 10 | 2 | 4 | 4 | -3 | 10 |
 | 16 | Corinthians | 10 | 2 | 4 | 4 | -3 | 10 |
 | 17 | Chapecoense | 9 | 1 | 5 | 3 | -6 | 8 |
-| 18 | Remo | 10 | 1 | 4 | 5 | -7 | 7 |
+| 18 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
 | 19 | Cruzeiro | 10 | 1 | 4 | 5 | -8 | 7 |
 | 20 | Mirassol | 9 | 1 | 3 | 5 | -4 | 6 |
 
