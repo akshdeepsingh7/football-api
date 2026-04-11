@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 11 April 2026, 08:35 PM UTC (Sunday, 12 April 2026, 02:05 AM IST)
+**Last Updated:** Saturday, 11 April 2026, 09:34 PM UTC (Sunday, 12 April 2026, 03:04 AM IST)
 
 ### Premier League
 
@@ -292,7 +292,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 28 | 23 | 4 | 1 | 43 | 73 |
-| 2 | Sporting CP | 28 | 21 | 6 | 1 | 55 | 69 |
+| 2 | Sporting CP | 28 | 22 | 5 | 1 | 56 | 71 |
 | 3 | Benfica | 28 | 19 | 9 | 0 | 41 | 66 |
 | 4 | Braga | 27 | 14 | 7 | 6 | 27 | 49 |
 | 5 | Famalicão | 29 | 13 | 8 | 8 | 11 | 47 |
@@ -303,7 +303,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Rio Ave | 29 | 8 | 9 | 12 | -17 | 33 |
 | 11 | Arouca | 28 | 9 | 5 | 14 | -20 | 32 |
 | 12 | Alverca | 28 | 8 | 8 | 12 | -17 | 32 |
-| 13 | Estrela Amadora | 29 | 6 | 11 | 12 | -14 | 29 |
+| 13 | Estrela Amadora | 29 | 6 | 10 | 13 | -15 | 28 |
 | 14 | Santa Clara | 29 | 7 | 7 | 15 | -11 | 28 |
 | 15 | Nacional | 28 | 6 | 7 | 15 | -8 | 25 |
 | 16 | Casa Pia | 27 | 5 | 10 | 12 | -22 | 25 |
@@ -358,7 +358,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Philadelphia Union | 7 | 1 | 0 | 6 | -6 | 3 |
 | 14 | CF Montréal | 7 | 1 | 0 | 6 | -11 | 3 |
 | 15 | Orlando City | 6 | 1 | 0 | 5 | -18 | 3 |
-| 1 | LAFC | 6 | 5 | 1 | 0 | 14 | 16 |
+| 1 | LAFC | 7 | 5 | 1 | 1 | 13 | 16 |
 | 2 | Vancouver Whitecaps | 6 | 5 | 0 | 1 | 13 | 15 |
 | 3 | San Jose Earthquakes | 6 | 5 | 0 | 1 | 9 | 15 |
 | 4 | Real Salt Lake | 6 | 4 | 1 | 1 | 4 | 13 |
@@ -368,10 +368,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Colorado Rapids | 6 | 3 | 0 | 3 | 3 | 9 |
 | 9 | LA Galaxy | 7 | 2 | 2 | 3 | -1 | 8 |
 | 10 | Minnesota United | 6 | 2 | 2 | 2 | -6 | 8 |
-| 11 | Houston Dynamo | 5 | 2 | 0 | 3 | -2 | 6 |
-| 12 | Austin | 7 | 1 | 3 | 3 | -3 | 6 |
-| 13 | St. Louis City | 6 | 1 | 2 | 3 | -3 | 5 |
-| 14 | Portland Timbers | 6 | 1 | 1 | 4 | -6 | 4 |
+| 11 | Portland Timbers | 7 | 2 | 1 | 4 | -5 | 7 |
+| 12 | Houston Dynamo | 5 | 2 | 0 | 3 | -2 | 6 |
+| 13 | Austin | 7 | 1 | 3 | 3 | -3 | 6 |
+| 14 | St. Louis City | 6 | 1 | 2 | 3 | -3 | 5 |
 | 15 | Sporting KC | 6 | 1 | 1 | 4 | -8 | 4 |
 
 ### Indian Super League
@@ -402,25 +402,25 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 10 | 8 | 1 | 1 | 11 | 25 |
-| 2 | São Paulo | 11 | 6 | 2 | 3 | 7 | 20 |
-| 3 | Fluminense | 10 | 6 | 2 | 2 | 6 | 20 |
-| 4 | Flamengo | 9 | 5 | 2 | 2 | 7 | 17 |
-| 5 | Bahia | 9 | 5 | 2 | 2 | 4 | 17 |
+| 2 | Fluminense | 10 | 6 | 2 | 2 | 6 | 20 |
+| 3 | São Paulo | 11 | 6 | 2 | 3 | 6 | 20 |
+| 4 | Bahia | 10 | 5 | 3 | 2 | 4 | 18 |
+| 5 | Flamengo | 9 | 5 | 2 | 2 | 7 | 17 |
 | 6 | Athletico Paranaense | 10 | 5 | 1 | 4 | 2 | 16 |
 | 7 | Coritiba | 10 | 4 | 3 | 3 | 1 | 15 |
-| 8 | Atlético Mineiro | 10 | 4 | 2 | 4 | 2 | 14 |
-| 9 | RB Bragantino | 10 | 4 | 2 | 4 | 0 | 14 |
-| 10 | Vitória | 10 | 4 | 2 | 4 | -4 | 14 |
-| 11 | Vasco da Gama | 11 | 3 | 4 | 4 | -1 | 13 |
+| 8 | Vasco da Gama | 11 | 4 | 3 | 4 | 0 | 15 |
+| 9 | Atlético Mineiro | 10 | 4 | 2 | 4 | 2 | 14 |
+| 10 | RB Bragantino | 10 | 4 | 2 | 4 | 0 | 14 |
+| 11 | Vitória | 10 | 4 | 2 | 4 | -3 | 14 |
 | 12 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
 | 13 | Grêmio | 10 | 3 | 3 | 4 | 0 | 12 |
 | 14 | Internacional | 10 | 3 | 3 | 4 | -1 | 12 |
 | 15 | Santos | 10 | 2 | 4 | 4 | -3 | 10 |
 | 16 | Corinthians | 10 | 2 | 4 | 4 | -3 | 10 |
 | 17 | Chapecoense | 9 | 1 | 5 | 3 | -6 | 8 |
-| 18 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
+| 18 | Mirassol | 10 | 1 | 4 | 5 | -4 | 7 |
 | 19 | Cruzeiro | 10 | 1 | 4 | 5 | -8 | 7 |
-| 20 | Mirassol | 9 | 1 | 3 | 5 | -4 | 6 |
+| 20 | Remo | 11 | 1 | 4 | 6 | -8 | 7 |
 
 
 <!-- END_TABLE -->

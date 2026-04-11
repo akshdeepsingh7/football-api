@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 April 2026, 08:35 PM UTC",
-        "IST": "Sunday, 12 April 2026, 02:05 AM IST"
+        "UTC": "Saturday, 11 April 2026, 09:34 PM UTC",
+        "IST": "Sunday, 12 April 2026, 03:04 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2075,11 +2075,11 @@
                 "Position": "2",
                 "Team": "Sporting CP",
                 "Played": "28",
-                "Wins": "21",
-                "Draws": "6",
+                "Wins": "22",
+                "Draws": "5",
                 "Losses": "1",
-                "Goal Difference": "55",
-                "Points": "69"
+                "Goal Difference": "56",
+                "Points": "71"
             },
             {
                 "Position": "3",
@@ -2186,10 +2186,10 @@
                 "Team": "Estrela Amadora",
                 "Played": "29",
                 "Wins": "6",
-                "Draws": "11",
-                "Losses": "12",
-                "Goal Difference": "-14",
-                "Points": "29"
+                "Draws": "10",
+                "Losses": "13",
+                "Goal Difference": "-15",
+                "Points": "28"
             },
             {
                 "Position": "14",
@@ -2638,11 +2638,11 @@
             {
                 "Position": "1",
                 "Team": "LAFC",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "5",
                 "Draws": "1",
-                "Losses": "0",
-                "Goal Difference": "14",
+                "Losses": "1",
+                "Goal Difference": "13",
                 "Points": "16"
             },
             {
@@ -2737,6 +2737,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Portland Timbers",
+                "Played": "7",
+                "Wins": "2",
+                "Draws": "1",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "7"
+            },
+            {
+                "Position": "12",
                 "Team": "Houston Dynamo",
                 "Played": "5",
                 "Wins": "2",
@@ -2746,7 +2756,7 @@
                 "Points": "6"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Austin",
                 "Played": "7",
                 "Wins": "1",
@@ -2756,7 +2766,7 @@
                 "Points": "6"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "St. Louis City",
                 "Played": "6",
                 "Wins": "1",
@@ -2764,16 +2774,6 @@
                 "Losses": "3",
                 "Goal Difference": "-3",
                 "Points": "5"
-            },
-            {
-                "Position": "14",
-                "Team": "Portland Timbers",
-                "Played": "6",
-                "Wins": "1",
-                "Draws": "1",
-                "Losses": "4",
-                "Goal Difference": "-6",
-                "Points": "4"
             },
             {
                 "Position": "15",
@@ -2942,16 +2942,6 @@
             },
             {
                 "Position": "2",
-                "Team": "S\u00e3o Paulo",
-                "Played": "11",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "7",
-                "Points": "20"
-            },
-            {
-                "Position": "3",
                 "Team": "Fluminense",
                 "Played": "10",
                 "Wins": "6",
@@ -2961,23 +2951,33 @@
                 "Points": "20"
             },
             {
+                "Position": "3",
+                "Team": "S\u00e3o Paulo",
+                "Played": "11",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "6",
+                "Points": "20"
+            },
+            {
                 "Position": "4",
+                "Team": "Bahia",
+                "Played": "10",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "2",
+                "Goal Difference": "4",
+                "Points": "18"
+            },
+            {
+                "Position": "5",
                 "Team": "Flamengo",
                 "Played": "9",
                 "Wins": "5",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "7",
-                "Points": "17"
-            },
-            {
-                "Position": "5",
-                "Team": "Bahia",
-                "Played": "9",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "4",
                 "Points": "17"
             },
             {
@@ -3002,6 +3002,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Vasco da Gama",
+                "Played": "11",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "0",
+                "Points": "15"
+            },
+            {
+                "Position": "9",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "10",
                 "Wins": "4",
@@ -3011,7 +3021,7 @@
                 "Points": "14"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "RB Bragantino",
                 "Played": "10",
                 "Wins": "4",
@@ -3021,24 +3031,14 @@
                 "Points": "14"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Vit\u00f3ria",
                 "Played": "10",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "-4",
+                "Goal Difference": "-3",
                 "Points": "14"
-            },
-            {
-                "Position": "11",
-                "Team": "Vasco da Gama",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "13"
             },
             {
                 "Position": "12",
@@ -3102,13 +3102,13 @@
             },
             {
                 "Position": "18",
-                "Team": "Remo",
-                "Played": "11",
+                "Team": "Mirassol",
+                "Played": "10",
                 "Wins": "1",
-                "Draws": "5",
+                "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "-7",
-                "Points": "8"
+                "Goal Difference": "-4",
+                "Points": "7"
             },
             {
                 "Position": "19",
@@ -3122,13 +3122,13 @@
             },
             {
                 "Position": "20",
-                "Team": "Mirassol",
-                "Played": "9",
+                "Team": "Remo",
+                "Played": "11",
                 "Wins": "1",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-4",
-                "Points": "6"
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-8",
+                "Points": "7"
             }
         ]
     }
