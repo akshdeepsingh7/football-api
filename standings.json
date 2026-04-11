@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 April 2026, 10:35 AM UTC",
-        "IST": "Saturday, 11 April 2026, 04:05 PM IST"
+        "UTC": "Saturday, 11 April 2026, 11:30 AM UTC",
+        "IST": "Saturday, 11 April 2026, 05:00 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2335,32 +2335,32 @@
             },
             {
                 "Position": "10",
+                "Team": "Bristol City",
+                "Played": "42",
+                "Wins": "16",
+                "Draws": "10",
+                "Losses": "16",
+                "Goal Difference": "1",
+                "Points": "58"
+            },
+            {
+                "Position": "11",
+                "Team": "Queens Park Rangers",
+                "Played": "42",
+                "Wins": "16",
+                "Draws": "10",
+                "Losses": "16",
+                "Goal Difference": "-5",
+                "Points": "58"
+            },
+            {
+                "Position": "12",
                 "Team": "Watford",
                 "Played": "41",
                 "Wins": "14",
                 "Draws": "15",
                 "Losses": "12",
                 "Goal Difference": "3",
-                "Points": "57"
-            },
-            {
-                "Position": "11",
-                "Team": "Bristol City",
-                "Played": "41",
-                "Wins": "16",
-                "Draws": "9",
-                "Losses": "16",
-                "Goal Difference": "1",
-                "Points": "57"
-            },
-            {
-                "Position": "12",
-                "Team": "Queens Park Rangers",
-                "Played": "41",
-                "Wins": "16",
-                "Draws": "9",
-                "Losses": "16",
-                "Goal Difference": "-5",
                 "Points": "57"
             },
             {

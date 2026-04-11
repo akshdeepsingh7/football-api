@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 11 April 2026, 10:35 AM UTC (Saturday, 11 April 2026, 04:05 PM IST)
+**Last Updated:** Saturday, 11 April 2026, 11:30 AM UTC (Saturday, 11 April 2026, 05:00 PM IST)
 
 ### Premier League
 
@@ -323,9 +323,9 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Wrexham | 41 | 17 | 13 | 11 | 5 | 64 |
 | 8 | Derby County | 41 | 18 | 9 | 14 | 9 | 63 |
 | 9 | Norwich City | 41 | 17 | 7 | 17 | 7 | 58 |
-| 10 | Watford | 41 | 14 | 15 | 12 | 3 | 57 |
-| 11 | Bristol City | 41 | 16 | 9 | 16 | 1 | 57 |
-| 12 | Queens Park Rangers | 41 | 16 | 9 | 16 | -5 | 57 |
+| 10 | Bristol City | 42 | 16 | 10 | 16 | 1 | 58 |
+| 11 | Queens Park Rangers | 42 | 16 | 10 | 16 | -5 | 58 |
+| 12 | Watford | 41 | 14 | 15 | 12 | 3 | 57 |
 | 13 | Stoke City | 41 | 15 | 9 | 17 | 3 | 54 |
 | 14 | Preston North End | 41 | 13 | 15 | 13 | -4 | 54 |
 | 15 | Swansea City | 41 | 15 | 9 | 17 | -5 | 54 |
