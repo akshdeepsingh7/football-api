@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 11 April 2026, 10:33 PM UTC (Sunday, 12 April 2026, 04:03 AM IST)
+**Last Updated:** Saturday, 11 April 2026, 11:35 PM UTC (Sunday, 12 April 2026, 05:05 AM IST)
 
 ### Premier League
 
@@ -358,7 +358,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Philadelphia Union | 7 | 1 | 0 | 6 | -6 | 3 |
 | 14 | CF Montréal | 7 | 1 | 0 | 6 | -11 | 3 |
 | 15 | Orlando City | 6 | 1 | 0 | 5 | -18 | 3 |
-| 1 | LAFC | 7 | 5 | 2 | 0 | 14 | 17 |
+| 1 | LAFC | 7 | 5 | 1 | 1 | 13 | 16 |
 | 2 | Vancouver Whitecaps | 6 | 5 | 0 | 1 | 13 | 15 |
 | 3 | San Jose Earthquakes | 6 | 5 | 0 | 1 | 9 | 15 |
 | 4 | Real Salt Lake | 6 | 4 | 1 | 1 | 4 | 13 |
@@ -368,10 +368,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Colorado Rapids | 6 | 3 | 0 | 3 | 3 | 9 |
 | 9 | LA Galaxy | 7 | 2 | 2 | 3 | -1 | 8 |
 | 10 | Minnesota United | 6 | 2 | 2 | 2 | -6 | 8 |
-| 11 | Houston Dynamo | 5 | 2 | 0 | 3 | -2 | 6 |
-| 12 | Austin | 7 | 1 | 3 | 3 | -3 | 6 |
-| 13 | St. Louis City | 6 | 1 | 2 | 3 | -3 | 5 |
-| 14 | Portland Timbers | 7 | 1 | 2 | 4 | -6 | 5 |
+| 11 | Portland Timbers | 7 | 2 | 1 | 4 | -5 | 7 |
+| 12 | Houston Dynamo | 5 | 2 | 0 | 3 | -2 | 6 |
+| 13 | Austin | 7 | 1 | 3 | 3 | -3 | 6 |
+| 14 | St. Louis City | 6 | 1 | 2 | 3 | -3 | 5 |
 | 15 | Sporting KC | 6 | 1 | 1 | 4 | -8 | 4 |
 
 ### Indian Super League
@@ -404,23 +404,23 @@ Data not available.
 | 1 | Palmeiras | 10 | 8 | 1 | 1 | 11 | 25 |
 | 2 | Fluminense | 10 | 6 | 2 | 2 | 6 | 20 |
 | 3 | São Paulo | 11 | 6 | 2 | 3 | 6 | 20 |
-| 4 | Flamengo | 9 | 5 | 2 | 2 | 7 | 17 |
-| 5 | Bahia | 10 | 5 | 2 | 3 | 3 | 17 |
+| 4 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
+| 5 | Flamengo | 9 | 5 | 2 | 2 | 7 | 17 |
 | 6 | Athletico Paranaense | 10 | 5 | 1 | 4 | 2 | 16 |
-| 7 | Coritiba | 10 | 4 | 3 | 3 | 1 | 15 |
-| 8 | Atlético Mineiro | 10 | 4 | 2 | 4 | 2 | 14 |
+| 7 | Atlético Mineiro | 11 | 4 | 3 | 4 | 2 | 15 |
+| 8 | Coritiba | 10 | 4 | 3 | 3 | 1 | 15 |
 | 9 | RB Bragantino | 10 | 4 | 2 | 4 | 0 | 14 |
 | 10 | Vitória | 10 | 4 | 2 | 4 | -3 | 14 |
-| 11 | Vasco da Gama | 11 | 3 | 4 | 4 | -1 | 13 |
-| 12 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
-| 13 | Grêmio | 10 | 3 | 3 | 4 | 0 | 12 |
-| 14 | Internacional | 10 | 3 | 3 | 4 | -1 | 12 |
-| 15 | Santos | 10 | 2 | 4 | 4 | -3 | 10 |
+| 11 | Grêmio | 11 | 3 | 4 | 4 | 0 | 13 |
+| 12 | Vasco da Gama | 11 | 3 | 4 | 4 | -1 | 13 |
+| 13 | Internacional | 11 | 3 | 4 | 4 | -1 | 13 |
+| 14 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
+| 15 | Santos | 11 | 2 | 5 | 4 | -3 | 11 |
 | 16 | Corinthians | 10 | 2 | 4 | 4 | -3 | 10 |
-| 17 | Mirassol | 10 | 2 | 3 | 5 | -3 | 9 |
-| 18 | Chapecoense | 9 | 1 | 5 | 3 | -6 | 8 |
-| 19 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
-| 20 | Cruzeiro | 10 | 1 | 4 | 5 | -8 | 7 |
+| 17 | Chapecoense | 9 | 1 | 5 | 3 | -6 | 8 |
+| 18 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
+| 19 | Cruzeiro | 10 | 1 | 4 | 5 | -8 | 7 |
+| 20 | Mirassol | 10 | 1 | 3 | 6 | -5 | 6 |
 
 
 <!-- END_TABLE -->
