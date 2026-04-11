@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 11 April 2026, 03:56 PM UTC (Saturday, 11 April 2026, 09:26 PM IST)
+**Last Updated:** Saturday, 11 April 2026, 04:41 PM UTC (Saturday, 11 April 2026, 10:11 PM IST)
 
 ### Premier League
 
@@ -51,13 +51,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 30 | 18 | 7 | 5 | 32 | 61 |
 | 3 | Manchester United | 31 | 15 | 10 | 6 | 13 | 55 |
 | 4 | Aston Villa | 31 | 16 | 6 | 9 | 5 | 54 |
-| 5 | Liverpool FC | 31 | 14 | 7 | 10 | 8 | 49 |
+| 5 | Liverpool FC | 32 | 14 | 8 | 10 | 8 | 50 |
 | 6 | Chelsea | 31 | 13 | 9 | 9 | 15 | 48 |
 | 7 | Brentford | 32 | 13 | 8 | 11 | 4 | 47 |
 | 8 | Everton | 32 | 13 | 8 | 11 | 2 | 47 |
 | 9 | Brighton & Hove Albion | 32 | 12 | 10 | 10 | 6 | 46 |
 | 10 | AFC Bournemouth | 32 | 10 | 15 | 7 | -1 | 45 |
-| 11 | Fulham | 31 | 13 | 5 | 13 | -1 | 44 |
+| 11 | Fulham | 32 | 13 | 6 | 13 | -1 | 45 |
 | 12 | Sunderland | 31 | 11 | 10 | 10 | -4 | 43 |
 | 13 | Newcastle United | 31 | 12 | 6 | 13 | -1 | 42 |
 | 14 | Crystal Palace | 30 | 10 | 9 | 11 | -2 | 39 |
@@ -72,7 +72,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 30 | 25 | 1 | 4 | 51 | 76 |
+| 1 | Barcelona | 31 | 25 | 2 | 4 | 51 | 77 |
 | 2 | Real Madrid | 31 | 22 | 4 | 5 | 36 | 70 |
 | 3 | Villarreal | 30 | 18 | 4 | 8 | 19 | 58 |
 | 4 | Atlético de Madrid | 30 | 17 | 6 | 7 | 20 | 57 |
@@ -80,8 +80,8 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Celta de Vigo | 30 | 11 | 11 | 8 | 7 | 44 |
 | 7 | Real Sociedad | 31 | 11 | 9 | 11 | 1 | 42 |
 | 8 | Getafe | 30 | 12 | 5 | 13 | -4 | 41 |
-| 9 | Osasuna | 30 | 10 | 8 | 12 | -1 | 38 |
-| 10 | Espanyol | 30 | 10 | 8 | 12 | -8 | 38 |
+| 9 | Espanyol | 31 | 10 | 9 | 12 | -8 | 39 |
+| 10 | Osasuna | 30 | 10 | 8 | 12 | -1 | 38 |
 | 11 | Athletic Bilbao | 30 | 11 | 5 | 14 | -11 | 38 |
 | 12 | Girona | 31 | 9 | 11 | 11 | -12 | 38 |
 | 13 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
@@ -97,7 +97,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 28 | 23 | 4 | 1 | 73 | 73 |
+| 1 | Bayern Munich | 29 | 24 | 4 | 1 | 74 | 76 |
 | 2 | Borussia Dortmund | 29 | 19 | 7 | 3 | 31 | 64 |
 | 3 | RB Leipzig | 29 | 17 | 5 | 7 | 20 | 56 |
 | 4 | VfB Stuttgart | 28 | 16 | 5 | 7 | 18 | 53 |
@@ -112,7 +112,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Borussia Mönchengladbach | 29 | 7 | 9 | 13 | -14 | 30 |
 | 14 | Werder Bremen | 28 | 7 | 7 | 14 | -18 | 28 |
 | 15 | Köln | 28 | 6 | 9 | 13 | -9 | 27 |
-| 16 | St. Pauli | 28 | 6 | 7 | 15 | -20 | 25 |
+| 16 | St. Pauli | 29 | 6 | 7 | 16 | -21 | 25 |
 | 17 | VfL Wolfsburg | 29 | 5 | 6 | 18 | -26 | 21 |
 | 18 | Heidenheim | 29 | 4 | 7 | 18 | -32 | 19 |
 
@@ -122,15 +122,15 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 31 | 23 | 3 | 5 | 45 | 72 |
 | 2 | Napoli | 31 | 20 | 5 | 6 | 17 | 65 |
-| 3 | Milan | 31 | 18 | 9 | 4 | 23 | 63 |
+| 3 | Milan | 32 | 18 | 9 | 5 | 21 | 63 |
 | 4 | Como | 31 | 16 | 10 | 5 | 31 | 58 |
 | 5 | Juventus | 31 | 16 | 9 | 6 | 25 | 57 |
 | 6 | Roma | 32 | 18 | 3 | 11 | 17 | 57 |
 | 7 | Atalanta | 31 | 14 | 11 | 6 | 17 | 53 |
 | 8 | Bologna | 31 | 13 | 6 | 12 | 3 | 45 |
 | 9 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
-| 10 | Sassuolo | 31 | 12 | 6 | 13 | -3 | 42 |
-| 11 | Udinese | 31 | 11 | 7 | 13 | -7 | 40 |
+| 10 | Udinese | 32 | 12 | 7 | 13 | -5 | 43 |
+| 11 | Sassuolo | 31 | 12 | 6 | 13 | -3 | 42 |
 | 12 | Torino | 32 | 11 | 6 | 15 | -17 | 39 |
 | 13 | Parma | 31 | 8 | 11 | 12 | -17 | 35 |
 | 14 | Genoa | 31 | 8 | 9 | 14 | -8 | 33 |

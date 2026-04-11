@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 11 April 2026, 03:56 PM UTC",
-        "IST": "Saturday, 11 April 2026, 09:26 PM IST"
+        "UTC": "Saturday, 11 April 2026, 04:41 PM UTC",
+        "IST": "Saturday, 11 April 2026, 10:11 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -48,12 +48,12 @@
             {
                 "Position": "5",
                 "Team": "Liverpool FC",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "14",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "10",
                 "Goal Difference": "8",
-                "Points": "49"
+                "Points": "50"
             },
             {
                 "Position": "6",
@@ -108,12 +108,12 @@
             {
                 "Position": "11",
                 "Team": "Fulham",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "13",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "13",
                 "Goal Difference": "-1",
-                "Points": "44"
+                "Points": "45"
             },
             {
                 "Position": "12",
@@ -210,12 +210,12 @@
             {
                 "Position": "1",
                 "Team": "Barcelona",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "25",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "51",
-                "Points": "76"
+                "Points": "77"
             },
             {
                 "Position": "2",
@@ -289,22 +289,22 @@
             },
             {
                 "Position": "9",
+                "Team": "Espanyol",
+                "Played": "31",
+                "Wins": "10",
+                "Draws": "9",
+                "Losses": "12",
+                "Goal Difference": "-8",
+                "Points": "39"
+            },
+            {
+                "Position": "10",
                 "Team": "Osasuna",
                 "Played": "30",
                 "Wins": "10",
                 "Draws": "8",
                 "Losses": "12",
                 "Goal Difference": "-1",
-                "Points": "38"
-            },
-            {
-                "Position": "10",
-                "Team": "Espanyol",
-                "Played": "30",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-8",
                 "Points": "38"
             },
             {
@@ -412,12 +412,12 @@
             {
                 "Position": "1",
                 "Team": "Bayern Munich",
-                "Played": "28",
-                "Wins": "23",
+                "Played": "29",
+                "Wins": "24",
                 "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "73",
-                "Points": "73"
+                "Goal Difference": "74",
+                "Points": "76"
             },
             {
                 "Position": "2",
@@ -562,11 +562,11 @@
             {
                 "Position": "16",
                 "Team": "St. Pauli",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "6",
                 "Draws": "7",
-                "Losses": "15",
-                "Goal Difference": "-20",
+                "Losses": "16",
+                "Goal Difference": "-21",
                 "Points": "25"
             },
             {
@@ -614,11 +614,11 @@
             {
                 "Position": "3",
                 "Team": "Milan",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "18",
                 "Draws": "9",
-                "Losses": "4",
-                "Goal Difference": "23",
+                "Losses": "5",
+                "Goal Difference": "21",
                 "Points": "63"
             },
             {
@@ -683,6 +683,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Udinese",
+                "Played": "32",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-5",
+                "Points": "43"
+            },
+            {
+                "Position": "11",
                 "Team": "Sassuolo",
                 "Played": "31",
                 "Wins": "12",
@@ -690,16 +700,6 @@
                 "Losses": "13",
                 "Goal Difference": "-3",
                 "Points": "42"
-            },
-            {
-                "Position": "11",
-                "Team": "Udinese",
-                "Played": "31",
-                "Wins": "11",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "-7",
-                "Points": "40"
             },
             {
                 "Position": "12",
