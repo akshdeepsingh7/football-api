@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 11 April 2026, 04:41 PM UTC (Saturday, 11 April 2026, 10:11 PM IST)
+**Last Updated:** Saturday, 11 April 2026, 05:34 PM UTC (Saturday, 11 April 2026, 11:04 PM IST)
 
 ### Premier League
 
@@ -51,13 +51,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Manchester City | 30 | 18 | 7 | 5 | 32 | 61 |
 | 3 | Manchester United | 31 | 15 | 10 | 6 | 13 | 55 |
 | 4 | Aston Villa | 31 | 16 | 6 | 9 | 5 | 54 |
-| 5 | Liverpool FC | 32 | 14 | 8 | 10 | 8 | 50 |
+| 5 | Liverpool FC | 32 | 15 | 7 | 10 | 10 | 52 |
 | 6 | Chelsea | 31 | 13 | 9 | 9 | 15 | 48 |
 | 7 | Brentford | 32 | 13 | 8 | 11 | 4 | 47 |
 | 8 | Everton | 32 | 13 | 8 | 11 | 2 | 47 |
 | 9 | Brighton & Hove Albion | 32 | 12 | 10 | 10 | 6 | 46 |
 | 10 | AFC Bournemouth | 32 | 10 | 15 | 7 | -1 | 45 |
-| 11 | Fulham | 32 | 13 | 6 | 13 | -1 | 45 |
+| 11 | Fulham | 32 | 13 | 5 | 14 | -3 | 44 |
 | 12 | Sunderland | 31 | 11 | 10 | 10 | -4 | 43 |
 | 13 | Newcastle United | 31 | 12 | 6 | 13 | -1 | 42 |
 | 14 | Crystal Palace | 30 | 10 | 9 | 11 | -2 | 39 |
@@ -72,7 +72,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 31 | 25 | 2 | 4 | 51 | 77 |
+| 1 | Barcelona | 31 | 26 | 1 | 4 | 53 | 79 |
 | 2 | Real Madrid | 31 | 22 | 4 | 5 | 36 | 70 |
 | 3 | Villarreal | 30 | 18 | 4 | 8 | 19 | 58 |
 | 4 | Atlético de Madrid | 30 | 17 | 6 | 7 | 20 | 57 |
@@ -80,8 +80,8 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Celta de Vigo | 30 | 11 | 11 | 8 | 7 | 44 |
 | 7 | Real Sociedad | 31 | 11 | 9 | 11 | 1 | 42 |
 | 8 | Getafe | 30 | 12 | 5 | 13 | -4 | 41 |
-| 9 | Espanyol | 31 | 10 | 9 | 12 | -8 | 39 |
-| 10 | Osasuna | 30 | 10 | 8 | 12 | -1 | 38 |
+| 9 | Osasuna | 30 | 10 | 8 | 12 | -1 | 38 |
+| 10 | Espanyol | 31 | 10 | 8 | 13 | -10 | 38 |
 | 11 | Athletic Bilbao | 30 | 11 | 5 | 14 | -11 | 38 |
 | 12 | Girona | 31 | 9 | 11 | 11 | -12 | 38 |
 | 13 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
@@ -160,8 +160,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Angers | 28 | 9 | 6 | 13 | -13 | 33 |
 | 14 | Le Havre | 28 | 6 | 10 | 12 | -13 | 28 |
 | 15 | Nice | 28 | 7 | 6 | 15 | -22 | 27 |
-| 16 | Auxerre | 28 | 5 | 8 | 15 | -14 | 23 |
-| 17 | Nantes | 27 | 4 | 6 | 17 | -21 | 18 |
+| 16 | Auxerre | 29 | 5 | 9 | 15 | -14 | 24 |
+| 17 | Nantes | 28 | 4 | 7 | 17 | -21 | 19 |
 | 18 | Metz | 29 | 3 | 6 | 20 | -37 | 15 |
 
 ### Champions League
@@ -302,9 +302,9 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Vitória S.C. | 29 | 10 | 6 | 13 | -8 | 36 |
 | 10 | Arouca | 28 | 9 | 5 | 14 | -20 | 32 |
 | 11 | Alverca | 28 | 8 | 8 | 12 | -17 | 32 |
-| 12 | Rio Ave | 28 | 7 | 9 | 12 | -19 | 30 |
-| 13 | Estrela Amadora | 28 | 6 | 10 | 12 | -14 | 28 |
-| 14 | Santa Clara | 28 | 7 | 7 | 14 | -9 | 28 |
+| 12 | Rio Ave | 29 | 7 | 10 | 12 | -19 | 31 |
+| 13 | Santa Clara | 29 | 7 | 8 | 14 | -9 | 29 |
+| 14 | Estrela Amadora | 28 | 6 | 10 | 12 | -14 | 28 |
 | 15 | Nacional | 28 | 6 | 7 | 15 | -8 | 25 |
 | 16 | Casa Pia | 27 | 5 | 10 | 12 | -22 | 25 |
 | 17 | Tondela | 27 | 4 | 8 | 15 | -25 | 20 |
@@ -347,12 +347,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | NYCFC | 6 | 3 | 2 | 1 | 7 | 11 |
 | 3 | Charlotte | 6 | 3 | 2 | 1 | 5 | 11 |
 | 4 | Inter Miami | 6 | 3 | 2 | 1 | 1 | 11 |
-| 5 | Chicago Fire | 6 | 3 | 1 | 2 | 3 | 10 |
-| 6 | Toronto | 6 | 3 | 1 | 2 | -1 | 10 |
+| 5 | Toronto | 7 | 3 | 2 | 2 | -1 | 11 |
+| 6 | Chicago Fire | 6 | 3 | 1 | 2 | 3 | 10 |
 | 7 | New York RB | 6 | 3 | 1 | 2 | -4 | 10 |
 | 8 | DC United | 6 | 2 | 1 | 3 | -4 | 7 |
-| 9 | New England Revolution | 5 | 2 | 0 | 3 | 2 | 6 |
-| 10 | Cincinnati | 6 | 2 | 0 | 4 | -6 | 6 |
+| 9 | Cincinnati | 7 | 2 | 1 | 4 | -6 | 7 |
+| 10 | New England Revolution | 5 | 2 | 0 | 3 | 2 | 6 |
 | 11 | Columbus Crew | 6 | 1 | 2 | 3 | -1 | 5 |
 | 12 | Atlanta United | 6 | 1 | 1 | 4 | -5 | 4 |
 | 13 | CF Montréal | 6 | 1 | 0 | 5 | -10 | 3 |
