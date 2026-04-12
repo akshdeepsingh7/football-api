@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 April 2026, 08:38 PM UTC (Monday, 13 April 2026, 02:08 AM IST)
+**Last Updated:** Sunday, 12 April 2026, 09:36 PM UTC (Monday, 13 April 2026, 03:06 AM IST)
 
 ### Premier League
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 31 | 26 | 1 | 4 | 54 | 79 |
 | 2 | Real Madrid | 31 | 22 | 4 | 5 | 36 | 70 |
-| 3 | Villarreal | 31 | 19 | 4 | 8 | 21 | 61 |
+| 3 | Villarreal | 31 | 19 | 4 | 8 | 20 | 61 |
 | 4 | Atlético de Madrid | 31 | 17 | 6 | 8 | 19 | 57 |
 | 5 | Real Betis | 31 | 11 | 13 | 7 | 7 | 46 |
 | 6 | Celta de Vigo | 31 | 11 | 11 | 9 | 4 | 44 |
@@ -83,7 +83,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Osasuna | 31 | 10 | 9 | 12 | -1 | 39 |
 | 10 | Espanyol | 31 | 10 | 8 | 13 | -11 | 38 |
 | 11 | Girona | 31 | 9 | 11 | 11 | -12 | 38 |
-| 12 | Athletic Bilbao | 31 | 11 | 5 | 15 | -13 | 38 |
+| 12 | Athletic Bilbao | 31 | 11 | 5 | 15 | -12 | 38 |
 | 13 | Rayo Vallecano | 31 | 8 | 11 | 12 | -9 | 35 |
 | 14 | Valencia | 31 | 9 | 8 | 14 | -12 | 35 |
 | 15 | Mallorca | 31 | 9 | 7 | 15 | -9 | 34 |
@@ -401,25 +401,25 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 10 | 8 | 1 | 1 | 11 | 25 |
-| 2 | Fluminense | 10 | 6 | 2 | 2 | 6 | 20 |
+| 1 | Palmeiras | 11 | 8 | 2 | 1 | 11 | 26 |
+| 2 | Flamengo | 10 | 6 | 2 | 2 | 8 | 20 |
 | 3 | São Paulo | 11 | 6 | 2 | 3 | 6 | 20 |
-| 4 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
-| 5 | Athletico Paranaense | 11 | 6 | 1 | 4 | 4 | 19 |
-| 6 | Flamengo | 9 | 5 | 2 | 2 | 7 | 17 |
+| 4 | Fluminense | 11 | 6 | 2 | 3 | 5 | 20 |
+| 5 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
+| 6 | Athletico Paranaense | 11 | 6 | 1 | 4 | 4 | 19 |
 | 7 | Coritiba | 11 | 4 | 4 | 3 | 1 | 16 |
-| 8 | Atlético Mineiro | 11 | 4 | 2 | 5 | 1 | 14 |
-| 9 | RB Bragantino | 10 | 4 | 2 | 4 | 0 | 14 |
+| 8 | RB Bragantino | 11 | 4 | 3 | 4 | 0 | 15 |
+| 9 | Atlético Mineiro | 11 | 4 | 2 | 5 | 1 | 14 |
 | 10 | Vitória | 10 | 4 | 2 | 4 | -3 | 14 |
 | 11 | Botafogo | 10 | 4 | 1 | 5 | -3 | 13 |
 | 12 | Grêmio | 11 | 3 | 4 | 4 | 0 | 13 |
 | 13 | Vasco da Gama | 11 | 3 | 4 | 4 | -1 | 13 |
 | 14 | Internacional | 11 | 3 | 4 | 4 | -1 | 13 |
 | 15 | Santos | 11 | 3 | 4 | 4 | -2 | 13 |
-| 16 | Corinthians | 10 | 2 | 4 | 4 | -3 | 10 |
+| 16 | Corinthians | 11 | 2 | 5 | 4 | -3 | 11 |
 | 17 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
-| 18 | Chapecoense | 10 | 1 | 5 | 4 | -8 | 8 |
-| 19 | Cruzeiro | 10 | 1 | 4 | 5 | -8 | 7 |
+| 18 | Cruzeiro | 11 | 1 | 5 | 5 | -8 | 8 |
+| 19 | Chapecoense | 10 | 1 | 5 | 4 | -8 | 8 |
 | 20 | Mirassol | 10 | 1 | 3 | 6 | -5 | 6 |
 
 
