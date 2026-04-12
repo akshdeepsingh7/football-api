@@ -41,18 +41,18 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 April 2026, 03:04 PM UTC (Sunday, 12 April 2026, 08:34 PM IST)
+**Last Updated:** Sunday, 12 April 2026, 04:52 PM UTC (Sunday, 12 April 2026, 10:22 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 32 | 21 | 7 | 4 | 38 | 70 |
-| 2 | Manchester City | 30 | 18 | 7 | 5 | 32 | 61 |
+| 2 | Manchester City | 31 | 19 | 7 | 5 | 34 | 64 |
 | 3 | Manchester United | 31 | 15 | 10 | 6 | 13 | 55 |
 | 4 | Aston Villa | 32 | 16 | 7 | 9 | 5 | 55 |
 | 5 | Liverpool FC | 32 | 15 | 7 | 10 | 10 | 52 |
-| 6 | Chelsea | 31 | 13 | 9 | 9 | 15 | 48 |
+| 6 | Chelsea | 32 | 13 | 9 | 10 | 13 | 48 |
 | 7 | Brentford | 32 | 13 | 8 | 11 | 4 | 47 |
 | 8 | Everton | 32 | 13 | 8 | 11 | 2 | 47 |
 | 9 | Brighton & Hove Albion | 32 | 12 | 10 | 10 | 6 | 46 |
@@ -77,21 +77,21 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Villarreal | 30 | 18 | 4 | 8 | 19 | 58 |
 | 4 | Atlético de Madrid | 31 | 17 | 6 | 8 | 19 | 57 |
 | 5 | Real Betis | 31 | 11 | 13 | 7 | 7 | 46 |
-| 6 | Celta de Vigo | 30 | 11 | 11 | 8 | 7 | 44 |
+| 6 | Celta de Vigo | 31 | 11 | 11 | 9 | 6 | 44 |
 | 7 | Real Sociedad | 31 | 11 | 9 | 11 | 1 | 42 |
 | 8 | Getafe | 30 | 12 | 5 | 13 | -4 | 41 |
 | 9 | Osasuna | 31 | 10 | 9 | 12 | -1 | 39 |
 | 10 | Espanyol | 31 | 10 | 8 | 13 | -11 | 38 |
 | 11 | Athletic Bilbao | 30 | 11 | 5 | 14 | -11 | 38 |
 | 12 | Girona | 31 | 9 | 11 | 11 | -12 | 38 |
-| 13 | Rayo Vallecano | 31 | 8 | 11 | 12 | -8 | 35 |
+| 13 | Rayo Vallecano | 31 | 8 | 11 | 12 | -9 | 35 |
 | 14 | Valencia | 31 | 9 | 8 | 14 | -12 | 35 |
-| 15 | Mallorca | 31 | 9 | 7 | 15 | -10 | 34 |
+| 15 | Mallorca | 31 | 9 | 7 | 15 | -9 | 34 |
 | 16 | Sevilla | 31 | 9 | 7 | 15 | -12 | 34 |
 | 17 | Alavés | 31 | 8 | 9 | 14 | -11 | 33 |
 | 18 | Elche | 31 | 7 | 11 | 13 | -8 | 32 |
-| 19 | Levante | 30 | 6 | 8 | 16 | -16 | 26 |
-| 20 | Real Oviedo | 30 | 5 | 9 | 16 | -27 | 24 |
+| 19 | Real Oviedo | 31 | 6 | 9 | 16 | -26 | 27 |
+| 20 | Levante | 30 | 6 | 8 | 16 | -16 | 26 |
 
 ### Bundesliga
 
@@ -99,8 +99,8 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 29 | 24 | 4 | 1 | 78 | 76 |
 | 2 | Borussia Dortmund | 29 | 19 | 7 | 3 | 31 | 64 |
-| 3 | RB Leipzig | 29 | 17 | 5 | 7 | 20 | 56 |
-| 4 | VfB Stuttgart | 28 | 16 | 5 | 7 | 18 | 53 |
+| 3 | VfB Stuttgart | 29 | 17 | 5 | 7 | 21 | 56 |
+| 4 | RB Leipzig | 29 | 17 | 5 | 7 | 20 | 56 |
 | 5 | Bayer Leverkusen | 29 | 15 | 7 | 7 | 20 | 52 |
 | 6 | Hoffenheim | 29 | 15 | 6 | 8 | 14 | 51 |
 | 7 | Eintracht Frankfurt | 29 | 11 | 9 | 9 | 0 | 42 |
@@ -108,7 +108,7 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Mainz 05 | 28 | 8 | 9 | 11 | -8 | 33 |
 | 10 | Augsburg | 29 | 9 | 6 | 14 | -17 | 33 |
 | 11 | Union Berlin | 29 | 8 | 8 | 13 | -17 | 32 |
-| 12 | Hamburg | 28 | 7 | 10 | 11 | -9 | 31 |
+| 12 | Hamburg | 29 | 7 | 10 | 12 | -12 | 31 |
 | 13 | Köln | 29 | 7 | 9 | 13 | -7 | 30 |
 | 14 | Borussia Mönchengladbach | 29 | 7 | 9 | 13 | -14 | 30 |
 | 15 | Werder Bremen | 29 | 7 | 7 | 15 | -20 | 28 |
@@ -127,7 +127,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Como | 31 | 16 | 10 | 5 | 31 | 58 |
 | 6 | Roma | 32 | 18 | 3 | 11 | 17 | 57 |
 | 7 | Atalanta | 32 | 14 | 11 | 7 | 16 | 53 |
-| 8 | Bologna | 31 | 13 | 6 | 12 | 3 | 45 |
+| 8 | Bologna | 32 | 14 | 6 | 12 | 4 | 48 |
 | 9 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
 | 10 | Udinese | 32 | 12 | 7 | 13 | -4 | 43 |
 | 11 | Sassuolo | 32 | 12 | 6 | 14 | -4 | 42 |
@@ -136,8 +136,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Parma | 32 | 8 | 12 | 12 | -17 | 36 |
 | 15 | Cagliari | 32 | 8 | 9 | 15 | -11 | 33 |
 | 16 | Fiorentina | 31 | 7 | 11 | 13 | -8 | 32 |
-| 17 | Lecce | 31 | 7 | 6 | 18 | -22 | 27 |
-| 18 | Cremonese | 32 | 6 | 9 | 17 | -21 | 27 |
+| 17 | Cremonese | 32 | 6 | 9 | 17 | -21 | 27 |
+| 18 | Lecce | 32 | 7 | 6 | 19 | -23 | 27 |
 | 19 | Hellas Verona | 32 | 3 | 9 | 20 | -32 | 18 |
 | 20 | Pisa | 32 | 2 | 12 | 18 | -35 | 18 |
 
@@ -147,19 +147,19 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 27 | 20 | 3 | 4 | 38 | 63 |
 | 2 | Lens | 28 | 19 | 2 | 7 | 27 | 59 |
-| 3 | Marseille | 29 | 16 | 4 | 9 | 20 | 52 |
-| 4 | LOSC | 28 | 15 | 5 | 8 | 11 | 50 |
+| 3 | LOSC | 29 | 16 | 5 | 8 | 14 | 53 |
+| 4 | Marseille | 29 | 16 | 4 | 9 | 20 | 52 |
 | 5 | Rennes | 29 | 14 | 8 | 7 | 8 | 50 |
 | 6 | Monaco | 29 | 15 | 4 | 10 | 7 | 49 |
 | 7 | Lyon | 28 | 14 | 6 | 8 | 12 | 48 |
 | 8 | Strasbourg | 28 | 12 | 7 | 9 | 12 | 43 |
 | 9 | Lorient | 28 | 9 | 11 | 8 | -4 | 38 |
-| 10 | Toulouse | 28 | 10 | 7 | 11 | 4 | 37 |
+| 10 | Toulouse | 29 | 10 | 7 | 12 | 1 | 37 |
 | 11 | Brest | 28 | 10 | 6 | 12 | -6 | 36 |
 | 12 | Paris FC | 29 | 8 | 11 | 10 | -8 | 35 |
 | 13 | Angers | 29 | 9 | 6 | 14 | -14 | 33 |
-| 14 | Le Havre | 28 | 6 | 10 | 12 | -13 | 28 |
-| 15 | Nice | 28 | 7 | 6 | 15 | -22 | 27 |
+| 14 | Le Havre | 29 | 6 | 11 | 12 | -13 | 29 |
+| 15 | Nice | 29 | 7 | 7 | 15 | -22 | 28 |
 | 16 | Auxerre | 29 | 5 | 9 | 15 | -14 | 24 |
 | 17 | Nantes | 28 | 4 | 7 | 17 | -21 | 19 |
 | 18 | Metz | 29 | 3 | 6 | 20 | -37 | 15 |
@@ -300,13 +300,13 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Estoril | 28 | 10 | 7 | 11 | 3 | 37 |
 | 8 | Moreirense | 29 | 10 | 6 | 13 | -9 | 36 |
 | 9 | Vitória S.C. | 29 | 10 | 6 | 13 | -8 | 36 |
-| 10 | Rio Ave | 29 | 8 | 9 | 12 | -17 | 33 |
-| 11 | Arouca | 28 | 9 | 5 | 14 | -20 | 32 |
-| 12 | Alverca | 29 | 8 | 8 | 13 | -18 | 32 |
+| 10 | Alverca | 29 | 9 | 8 | 12 | -15 | 35 |
+| 11 | Rio Ave | 29 | 8 | 9 | 12 | -17 | 33 |
+| 12 | Arouca | 28 | 9 | 5 | 14 | -20 | 32 |
 | 13 | Estrela Amadora | 29 | 6 | 10 | 13 | -15 | 28 |
 | 14 | Santa Clara | 29 | 7 | 7 | 15 | -11 | 28 |
-| 15 | Casa Pia | 28 | 6 | 10 | 12 | -21 | 28 |
-| 16 | Nacional | 28 | 6 | 7 | 15 | -8 | 25 |
+| 15 | Nacional | 28 | 6 | 7 | 15 | -8 | 25 |
+| 16 | Casa Pia | 28 | 5 | 10 | 13 | -24 | 25 |
 | 17 | Tondela | 27 | 4 | 8 | 15 | -25 | 20 |
 | 18 | AVS | 29 | 1 | 9 | 19 | -43 | 12 |
 
@@ -379,12 +379,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mumbai City | 8 | 5 | 3 | 0 | 5 | 18 |
-| 2 | Mohun Bagan SG | 8 | 4 | 3 | 1 | 11 | 15 |
+| 2 | Mohun Bagan SG | 8 | 5 | 2 | 1 | 12 | 17 |
 | 3 | Jamshedpur | 8 | 4 | 3 | 1 | 3 | 15 |
 | 4 | East Bengal | 7 | 4 | 2 | 1 | 14 | 14 |
 | 5 | Bengaluru | 8 | 4 | 2 | 2 | 4 | 14 |
 | 6 | FC Goa | 8 | 3 | 4 | 1 | 3 | 13 |
-| 7 | Punjab FC | 7 | 3 | 3 | 1 | 4 | 12 |
+| 7 | Punjab FC | 7 | 3 | 2 | 2 | 3 | 11 |
 | 8 | Inter Kashi | 8 | 3 | 2 | 3 | -1 | 11 |
 | 9 | SC Delhi | 7 | 2 | 2 | 3 | -1 | 8 |
 | 10 | NorthEast Utd | 7 | 1 | 3 | 3 | -8 | 6 |
@@ -405,8 +405,8 @@ Data not available.
 | 2 | Fluminense | 10 | 6 | 2 | 2 | 6 | 20 |
 | 3 | São Paulo | 11 | 6 | 2 | 3 | 6 | 20 |
 | 4 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
-| 5 | Flamengo | 9 | 5 | 2 | 2 | 7 | 17 |
-| 6 | Athletico Paranaense | 11 | 5 | 2 | 4 | 2 | 17 |
+| 5 | Athletico Paranaense | 11 | 6 | 1 | 4 | 4 | 19 |
+| 6 | Flamengo | 9 | 5 | 2 | 2 | 7 | 17 |
 | 7 | Coritiba | 10 | 4 | 3 | 3 | 1 | 15 |
 | 8 | Atlético Mineiro | 11 | 4 | 2 | 5 | 1 | 14 |
 | 9 | RB Bragantino | 10 | 4 | 2 | 4 | 0 | 14 |
@@ -417,8 +417,8 @@ Data not available.
 | 14 | Santos | 11 | 3 | 4 | 4 | -2 | 13 |
 | 15 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
 | 16 | Corinthians | 10 | 2 | 4 | 4 | -3 | 10 |
-| 17 | Chapecoense | 10 | 1 | 6 | 3 | -6 | 9 |
-| 18 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
+| 17 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
+| 18 | Chapecoense | 10 | 1 | 5 | 4 | -8 | 8 |
 | 19 | Cruzeiro | 10 | 1 | 4 | 5 | -8 | 7 |
 | 20 | Mirassol | 10 | 1 | 3 | 6 | -5 | 6 |
 
