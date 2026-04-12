@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 01:13 PM UTC",
-        "IST": "Sunday, 12 April 2026, 06:43 PM IST"
+        "UTC": "Sunday, 12 April 2026, 02:08 PM UTC",
+        "IST": "Sunday, 12 April 2026, 07:38 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -97,6 +97,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Newcastle United",
+                "Played": "32",
+                "Wins": "13",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "0",
+                "Points": "45"
+            },
+            {
+                "Position": "11",
                 "Team": "AFC Bournemouth",
                 "Played": "32",
                 "Wins": "10",
@@ -106,7 +116,7 @@
                 "Points": "45"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Fulham",
                 "Played": "32",
                 "Wins": "13",
@@ -116,7 +126,7 @@
                 "Points": "44"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Sunderland",
                 "Played": "32",
                 "Wins": "11",
@@ -126,24 +136,14 @@
                 "Points": "44"
             },
             {
-                "Position": "13",
-                "Team": "Newcastle United",
-                "Played": "32",
-                "Wins": "12",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "-1",
-                "Points": "43"
-            },
-            {
                 "Position": "14",
                 "Team": "Crystal Palace",
                 "Played": "31",
                 "Wins": "10",
-                "Draws": "10",
-                "Losses": "11",
-                "Goal Difference": "-2",
-                "Points": "40"
+                "Draws": "9",
+                "Losses": "12",
+                "Goal Difference": "-3",
+                "Points": "39"
             },
             {
                 "Position": "15",
@@ -531,6 +531,16 @@
             },
             {
                 "Position": "13",
+                "Team": "K\u00f6ln",
+                "Played": "29",
+                "Wins": "7",
+                "Draws": "9",
+                "Losses": "13",
+                "Goal Difference": "-8",
+                "Points": "30"
+            },
+            {
+                "Position": "14",
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "29",
                 "Wins": "7",
@@ -540,24 +550,14 @@
                 "Points": "30"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Werder Bremen",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "7",
                 "Draws": "7",
-                "Losses": "14",
-                "Goal Difference": "-18",
+                "Losses": "15",
+                "Goal Difference": "-19",
                 "Points": "28"
-            },
-            {
-                "Position": "15",
-                "Team": "K\u00f6ln",
-                "Played": "28",
-                "Wins": "6",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-9",
-                "Points": "27"
             },
             {
                 "Position": "16",
@@ -2799,6 +2799,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Mohun Bagan SG",
+                "Played": "8",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "11",
+                "Points": "15"
+            },
+            {
+                "Position": "3",
                 "Team": "Jamshedpur",
                 "Played": "8",
                 "Wins": "4",
@@ -2808,23 +2818,13 @@
                 "Points": "15"
             },
             {
-                "Position": "3",
+                "Position": "4",
                 "Team": "East Bengal",
                 "Played": "7",
                 "Wins": "4",
                 "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "14",
-                "Points": "14"
-            },
-            {
-                "Position": "4",
-                "Team": "Mohun Bagan SG",
-                "Played": "7",
-                "Wins": "4",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "11",
                 "Points": "14"
             },
             {
@@ -2850,12 +2850,12 @@
             {
                 "Position": "7",
                 "Team": "Punjab FC",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "3",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "1",
                 "Goal Difference": "4",
-                "Points": "11"
+                "Points": "12"
             },
             {
                 "Position": "8",
@@ -2983,12 +2983,12 @@
             {
                 "Position": "6",
                 "Team": "Athletico Paranaense",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "5",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "2",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "7",
@@ -3093,12 +3093,12 @@
             {
                 "Position": "17",
                 "Team": "Chapecoense",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "1",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "3",
                 "Goal Difference": "-6",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "18",

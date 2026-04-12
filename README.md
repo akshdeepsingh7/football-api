@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 April 2026, 01:13 PM UTC (Sunday, 12 April 2026, 06:43 PM IST)
+**Last Updated:** Sunday, 12 April 2026, 02:08 PM UTC (Sunday, 12 April 2026, 07:38 PM IST)
 
 ### Premier League
 
@@ -56,11 +56,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Brentford | 32 | 13 | 8 | 11 | 4 | 47 |
 | 8 | Everton | 32 | 13 | 8 | 11 | 2 | 47 |
 | 9 | Brighton & Hove Albion | 32 | 12 | 10 | 10 | 6 | 46 |
-| 10 | AFC Bournemouth | 32 | 10 | 15 | 7 | -1 | 45 |
-| 11 | Fulham | 32 | 13 | 5 | 14 | -3 | 44 |
-| 12 | Sunderland | 32 | 11 | 11 | 10 | -4 | 44 |
-| 13 | Newcastle United | 32 | 12 | 7 | 13 | -1 | 43 |
-| 14 | Crystal Palace | 31 | 10 | 10 | 11 | -2 | 40 |
+| 10 | Newcastle United | 32 | 13 | 6 | 13 | 0 | 45 |
+| 11 | AFC Bournemouth | 32 | 10 | 15 | 7 | -1 | 45 |
+| 12 | Fulham | 32 | 13 | 5 | 14 | -3 | 44 |
+| 13 | Sunderland | 32 | 11 | 11 | 10 | -4 | 44 |
+| 14 | Crystal Palace | 31 | 10 | 9 | 12 | -3 | 39 |
 | 15 | Leeds United | 31 | 7 | 12 | 12 | -11 | 33 |
 | 16 | Nottingham Forest | 32 | 8 | 9 | 15 | -12 | 33 |
 | 17 | West Ham United | 32 | 8 | 8 | 16 | -17 | 32 |
@@ -109,9 +109,9 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Augsburg | 29 | 9 | 6 | 14 | -17 | 33 |
 | 11 | Union Berlin | 29 | 8 | 8 | 13 | -17 | 32 |
 | 12 | Hamburg | 28 | 7 | 10 | 11 | -9 | 31 |
-| 13 | Borussia Mönchengladbach | 29 | 7 | 9 | 13 | -14 | 30 |
-| 14 | Werder Bremen | 28 | 7 | 7 | 14 | -18 | 28 |
-| 15 | Köln | 28 | 6 | 9 | 13 | -9 | 27 |
+| 13 | Köln | 29 | 7 | 9 | 13 | -8 | 30 |
+| 14 | Borussia Mönchengladbach | 29 | 7 | 9 | 13 | -14 | 30 |
+| 15 | Werder Bremen | 29 | 7 | 7 | 15 | -19 | 28 |
 | 16 | St. Pauli | 29 | 6 | 7 | 16 | -25 | 25 |
 | 17 | VfL Wolfsburg | 29 | 5 | 6 | 18 | -26 | 21 |
 | 18 | Heidenheim | 29 | 4 | 7 | 18 | -32 | 19 |
@@ -379,12 +379,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mumbai City | 8 | 5 | 3 | 0 | 5 | 18 |
-| 2 | Jamshedpur | 8 | 4 | 3 | 1 | 3 | 15 |
-| 3 | East Bengal | 7 | 4 | 2 | 1 | 14 | 14 |
-| 4 | Mohun Bagan SG | 7 | 4 | 2 | 1 | 11 | 14 |
+| 2 | Mohun Bagan SG | 8 | 4 | 3 | 1 | 11 | 15 |
+| 3 | Jamshedpur | 8 | 4 | 3 | 1 | 3 | 15 |
+| 4 | East Bengal | 7 | 4 | 2 | 1 | 14 | 14 |
 | 5 | Bengaluru | 8 | 4 | 2 | 2 | 4 | 14 |
 | 6 | FC Goa | 8 | 3 | 4 | 1 | 3 | 13 |
-| 7 | Punjab FC | 6 | 3 | 2 | 1 | 4 | 11 |
+| 7 | Punjab FC | 7 | 3 | 3 | 1 | 4 | 12 |
 | 8 | Inter Kashi | 8 | 3 | 2 | 3 | -1 | 11 |
 | 9 | SC Delhi | 7 | 2 | 2 | 3 | -1 | 8 |
 | 10 | NorthEast Utd | 7 | 1 | 3 | 3 | -8 | 6 |
@@ -406,7 +406,7 @@ Data not available.
 | 3 | São Paulo | 11 | 6 | 2 | 3 | 6 | 20 |
 | 4 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
 | 5 | Flamengo | 9 | 5 | 2 | 2 | 7 | 17 |
-| 6 | Athletico Paranaense | 10 | 5 | 1 | 4 | 2 | 16 |
+| 6 | Athletico Paranaense | 11 | 5 | 2 | 4 | 2 | 17 |
 | 7 | Coritiba | 10 | 4 | 3 | 3 | 1 | 15 |
 | 8 | Atlético Mineiro | 11 | 4 | 2 | 5 | 1 | 14 |
 | 9 | RB Bragantino | 10 | 4 | 2 | 4 | 0 | 14 |
@@ -417,7 +417,7 @@ Data not available.
 | 14 | Santos | 11 | 3 | 4 | 4 | -2 | 13 |
 | 15 | Botafogo | 9 | 4 | 0 | 5 | -3 | 12 |
 | 16 | Corinthians | 10 | 2 | 4 | 4 | -3 | 10 |
-| 17 | Chapecoense | 9 | 1 | 5 | 3 | -6 | 8 |
+| 17 | Chapecoense | 10 | 1 | 6 | 3 | -6 | 9 |
 | 18 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
 | 19 | Cruzeiro | 10 | 1 | 4 | 5 | -8 | 7 |
 | 20 | Mirassol | 10 | 1 | 3 | 6 | -5 | 6 |
