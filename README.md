@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 April 2026, 11:06 AM UTC (Sunday, 12 April 2026, 04:36 PM IST)
+**Last Updated:** Sunday, 12 April 2026, 11:57 AM UTC (Sunday, 12 April 2026, 05:27 PM IST)
 
 ### Premier League
 
@@ -129,11 +129,11 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Atalanta | 32 | 14 | 11 | 7 | 16 | 53 |
 | 8 | Bologna | 31 | 13 | 6 | 12 | 3 | 45 |
 | 9 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
-| 10 | Udinese | 32 | 12 | 7 | 13 | -4 | 43 |
-| 11 | Sassuolo | 32 | 12 | 6 | 14 | -4 | 42 |
+| 10 | Sassuolo | 32 | 12 | 7 | 13 | -3 | 43 |
+| 11 | Udinese | 32 | 12 | 7 | 13 | -4 | 43 |
 | 12 | Torino | 32 | 11 | 6 | 15 | -17 | 39 |
-| 13 | Genoa | 32 | 9 | 9 | 14 | -7 | 36 |
-| 14 | Parma | 31 | 8 | 11 | 12 | -17 | 35 |
+| 13 | Parma | 31 | 8 | 11 | 12 | -17 | 35 |
+| 14 | Genoa | 32 | 8 | 10 | 14 | -8 | 34 |
 | 15 | Cagliari | 32 | 8 | 9 | 15 | -11 | 33 |
 | 16 | Fiorentina | 31 | 7 | 11 | 13 | -8 | 32 |
 | 17 | Lecce | 31 | 7 | 6 | 18 | -22 | 27 |
@@ -385,13 +385,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Bengaluru | 8 | 4 | 2 | 2 | 4 | 14 |
 | 6 | FC Goa | 8 | 3 | 4 | 1 | 3 | 13 |
 | 7 | Punjab FC | 6 | 3 | 2 | 1 | 4 | 11 |
-| 8 | SC Delhi | 7 | 2 | 2 | 3 | -1 | 8 |
-| 9 | Inter Kashi | 7 | 2 | 2 | 3 | -2 | 8 |
+| 8 | Inter Kashi | 8 | 3 | 2 | 3 | -1 | 11 |
+| 9 | SC Delhi | 7 | 2 | 2 | 3 | -1 | 8 |
 | 10 | NorthEast Utd | 7 | 1 | 3 | 3 | -8 | 6 |
 | 11 | Odisha | 6 | 1 | 2 | 3 | -4 | 5 |
 | 12 | Chennaiyin | 7 | 1 | 2 | 4 | -5 | 5 |
 | 13 | Kerala Blasters | 8 | 1 | 1 | 6 | -8 | 4 |
-| 14 | Mohammedan | 6 | 0 | 0 | 6 | -16 | 0 |
+| 14 | Mohammedan | 7 | 0 | 0 | 7 | -17 | 0 |
 
 ### Liga Profesional Argentina (Clausura)
 

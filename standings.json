@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 11:06 AM UTC",
-        "IST": "Sunday, 12 April 2026, 04:36 PM IST"
+        "UTC": "Sunday, 12 April 2026, 11:57 AM UTC",
+        "IST": "Sunday, 12 April 2026, 05:27 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -683,6 +683,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Sassuolo",
+                "Played": "32",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-3",
+                "Points": "43"
+            },
+            {
+                "Position": "11",
                 "Team": "Udinese",
                 "Played": "32",
                 "Wins": "12",
@@ -690,16 +700,6 @@
                 "Losses": "13",
                 "Goal Difference": "-4",
                 "Points": "43"
-            },
-            {
-                "Position": "11",
-                "Team": "Sassuolo",
-                "Played": "32",
-                "Wins": "12",
-                "Draws": "6",
-                "Losses": "14",
-                "Goal Difference": "-4",
-                "Points": "42"
             },
             {
                 "Position": "12",
@@ -713,16 +713,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Genoa",
-                "Played": "32",
-                "Wins": "9",
-                "Draws": "9",
-                "Losses": "14",
-                "Goal Difference": "-7",
-                "Points": "36"
-            },
-            {
-                "Position": "14",
                 "Team": "Parma",
                 "Played": "31",
                 "Wins": "8",
@@ -730,6 +720,16 @@
                 "Losses": "12",
                 "Goal Difference": "-17",
                 "Points": "35"
+            },
+            {
+                "Position": "14",
+                "Team": "Genoa",
+                "Played": "32",
+                "Wins": "8",
+                "Draws": "10",
+                "Losses": "14",
+                "Goal Difference": "-8",
+                "Points": "34"
             },
             {
                 "Position": "15",
@@ -2859,22 +2859,22 @@
             },
             {
                 "Position": "8",
+                "Team": "Inter Kashi",
+                "Played": "8",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-1",
+                "Points": "11"
+            },
+            {
+                "Position": "9",
                 "Team": "SC Delhi",
                 "Played": "7",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "3",
                 "Goal Difference": "-1",
-                "Points": "8"
-            },
-            {
-                "Position": "9",
-                "Team": "Inter Kashi",
-                "Played": "7",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-2",
                 "Points": "8"
             },
             {
@@ -2920,11 +2920,11 @@
             {
                 "Position": "14",
                 "Team": "Mohammedan",
-                "Played": "6",
+                "Played": "7",
                 "Wins": "0",
                 "Draws": "0",
-                "Losses": "6",
-                "Goal Difference": "-16",
+                "Losses": "7",
+                "Goal Difference": "-17",
                 "Points": "0"
             }
         ],
