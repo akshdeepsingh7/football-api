@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 April 2026, 02:41 AM UTC (Sunday, 12 April 2026, 08:11 AM IST)
+**Last Updated:** Sunday, 12 April 2026, 05:24 AM UTC (Sunday, 12 April 2026, 10:54 AM IST)
 
 ### Premier League
 
@@ -363,13 +363,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | LAFC | 7 | 5 | 1 | 1 | 13 | 16 |
 | 4 | Real Salt Lake | 6 | 4 | 1 | 1 | 4 | 13 |
 | 5 | Seattle Sounders | 6 | 4 | 1 | 1 | 4 | 13 |
-| 6 | Colorado Rapids | 7 | 4 | 0 | 3 | 5 | 12 |
+| 6 | Colorado Rapids | 7 | 4 | 0 | 3 | 7 | 12 |
 | 7 | Dallas | 7 | 3 | 3 | 1 | 5 | 12 |
-| 8 | San Diego | 7 | 3 | 3 | 1 | 5 | 12 |
-| 9 | Minnesota United | 7 | 2 | 3 | 2 | -6 | 9 |
+| 8 | San Diego | 7 | 3 | 2 | 2 | 4 | 11 |
+| 9 | Minnesota United | 7 | 3 | 2 | 2 | -5 | 11 |
 | 10 | LA Galaxy | 7 | 2 | 2 | 3 | -1 | 8 |
 | 11 | Portland Timbers | 7 | 2 | 1 | 4 | -5 | 7 |
-| 12 | Houston Dynamo | 6 | 2 | 0 | 4 | -4 | 6 |
+| 12 | Houston Dynamo | 6 | 2 | 0 | 4 | -6 | 6 |
 | 13 | Austin | 7 | 1 | 3 | 3 | -3 | 6 |
 | 14 | St. Louis City | 7 | 1 | 3 | 3 | -3 | 6 |
 | 15 | Sporting KC | 7 | 1 | 1 | 5 | -10 | 4 |
