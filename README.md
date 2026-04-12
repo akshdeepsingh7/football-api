@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 April 2026, 10:06 AM UTC (Sunday, 12 April 2026, 03:36 PM IST)
+**Last Updated:** Sunday, 12 April 2026, 11:06 AM UTC (Sunday, 12 April 2026, 04:36 PM IST)
 
 ### Premier League
 
@@ -130,10 +130,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Bologna | 31 | 13 | 6 | 12 | 3 | 45 |
 | 9 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
 | 10 | Udinese | 32 | 12 | 7 | 13 | -4 | 43 |
-| 11 | Sassuolo | 31 | 12 | 6 | 13 | -3 | 42 |
+| 11 | Sassuolo | 32 | 12 | 6 | 14 | -4 | 42 |
 | 12 | Torino | 32 | 11 | 6 | 15 | -17 | 39 |
-| 13 | Parma | 31 | 8 | 11 | 12 | -17 | 35 |
-| 14 | Genoa | 31 | 8 | 9 | 14 | -8 | 33 |
+| 13 | Genoa | 32 | 9 | 9 | 14 | -7 | 36 |
+| 14 | Parma | 31 | 8 | 11 | 12 | -17 | 35 |
 | 15 | Cagliari | 32 | 8 | 9 | 15 | -11 | 33 |
 | 16 | Fiorentina | 31 | 7 | 11 | 13 | -8 | 32 |
 | 17 | Lecce | 31 | 7 | 6 | 18 | -22 | 27 |
@@ -320,7 +320,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Middlesbrough | 42 | 20 | 12 | 10 | 20 | 72 |
 | 5 | Southampton | 41 | 19 | 12 | 10 | 20 | 69 |
 | 6 | Hull City | 42 | 20 | 8 | 14 | 4 | 68 |
-| 7 | Wrexham | 41 | 17 | 13 | 11 | 5 | 64 |
+| 7 | Wrexham | 42 | 17 | 14 | 11 | 5 | 65 |
 | 8 | Derby County | 42 | 18 | 9 | 15 | 8 | 63 |
 | 9 | Norwich City | 42 | 17 | 7 | 18 | 5 | 58 |
 | 10 | Bristol City | 42 | 16 | 10 | 16 | 1 | 58 |
@@ -330,7 +330,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Swansea City | 42 | 16 | 9 | 17 | -4 | 57 |
 | 15 | Stoke City | 42 | 15 | 10 | 17 | 3 | 55 |
 | 16 | Sheffield United | 42 | 16 | 6 | 20 | 0 | 54 |
-| 17 | Birmingham City | 41 | 14 | 11 | 16 | -3 | 53 |
+| 17 | Birmingham City | 42 | 14 | 12 | 16 | -3 | 54 |
 | 18 | Charlton Athletic | 42 | 12 | 13 | 17 | -12 | 49 |
 | 19 | Blackburn Rovers | 42 | 12 | 12 | 18 | -12 | 48 |
 | 20 | West Bromwich Albion | 42 | 11 | 13 | 18 | -14 | 46 |
