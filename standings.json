@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 06:52 PM UTC",
-        "IST": "Monday, 13 April 2026, 12:22 AM IST"
+        "UTC": "Sunday, 12 April 2026, 07:39 PM UTC",
+        "IST": "Monday, 13 April 2026, 01:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -230,12 +230,12 @@
             {
                 "Position": "3",
                 "Team": "Villarreal",
-                "Played": "30",
-                "Wins": "18",
+                "Played": "31",
+                "Wins": "19",
                 "Draws": "4",
                 "Losses": "8",
-                "Goal Difference": "19",
-                "Points": "58"
+                "Goal Difference": "20",
+                "Points": "61"
             },
             {
                 "Position": "4",
@@ -309,21 +309,21 @@
             },
             {
                 "Position": "11",
-                "Team": "Athletic Bilbao",
-                "Played": "30",
-                "Wins": "11",
-                "Draws": "5",
-                "Losses": "14",
-                "Goal Difference": "-11",
-                "Points": "38"
-            },
-            {
-                "Position": "12",
                 "Team": "Girona",
                 "Played": "31",
                 "Wins": "9",
                 "Draws": "11",
                 "Losses": "11",
+                "Goal Difference": "-12",
+                "Points": "38"
+            },
+            {
+                "Position": "12",
+                "Team": "Athletic Bilbao",
+                "Played": "31",
+                "Wins": "11",
+                "Draws": "5",
+                "Losses": "15",
                 "Goal Difference": "-12",
                 "Points": "38"
             },
@@ -596,10 +596,10 @@
                 "Team": "Inter",
                 "Played": "32",
                 "Wins": "23",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "45",
-                "Points": "73"
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "44",
+                "Points": "72"
             },
             {
                 "Position": "2",
@@ -623,6 +623,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Como",
+                "Played": "32",
+                "Wins": "17",
+                "Draws": "10",
+                "Losses": "5",
+                "Goal Difference": "32",
+                "Points": "61"
+            },
+            {
+                "Position": "5",
                 "Team": "Juventus",
                 "Played": "32",
                 "Wins": "17",
@@ -630,16 +640,6 @@
                 "Losses": "6",
                 "Goal Difference": "26",
                 "Points": "60"
-            },
-            {
-                "Position": "5",
-                "Team": "Como",
-                "Played": "32",
-                "Wins": "16",
-                "Draws": "11",
-                "Losses": "5",
-                "Goal Difference": "31",
-                "Points": "59"
             },
             {
                 "Position": "6",
@@ -2064,12 +2064,12 @@
             {
                 "Position": "1",
                 "Team": "Porto",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "23",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "1",
                 "Goal Difference": "43",
-                "Points": "73"
+                "Points": "74"
             },
             {
                 "Position": "2",
@@ -2124,12 +2124,12 @@
             {
                 "Position": "7",
                 "Team": "Estoril",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "10",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "11",
                 "Goal Difference": "3",
-                "Points": "37"
+                "Points": "38"
             },
             {
                 "Position": "8",
@@ -2982,6 +2982,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Coritiba",
+                "Played": "11",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "18"
+            },
+            {
+                "Position": "7",
                 "Team": "Flamengo",
                 "Played": "9",
                 "Wins": "5",
@@ -2989,16 +2999,6 @@
                 "Losses": "2",
                 "Goal Difference": "7",
                 "Points": "17"
-            },
-            {
-                "Position": "7",
-                "Team": "Coritiba",
-                "Played": "10",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "1",
-                "Points": "15"
             },
             {
                 "Position": "8",
@@ -3073,11 +3073,11 @@
             {
                 "Position": "15",
                 "Team": "Botafogo",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "4",
                 "Draws": "0",
-                "Losses": "5",
-                "Goal Difference": "-3",
+                "Losses": "6",
+                "Goal Difference": "-4",
                 "Points": "12"
             },
             {
