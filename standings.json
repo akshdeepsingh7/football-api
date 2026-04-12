@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 02:08 PM UTC",
-        "IST": "Sunday, 12 April 2026, 07:38 PM IST"
+        "UTC": "Sunday, 12 April 2026, 03:04 PM UTC",
+        "IST": "Sunday, 12 April 2026, 08:34 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -97,13 +97,13 @@
             },
             {
                 "Position": "10",
-                "Team": "Newcastle United",
+                "Team": "Sunderland",
                 "Played": "32",
-                "Wins": "13",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "0",
-                "Points": "45"
+                "Wins": "12",
+                "Draws": "10",
+                "Losses": "10",
+                "Goal Difference": "-3",
+                "Points": "46"
             },
             {
                 "Position": "11",
@@ -127,23 +127,23 @@
             },
             {
                 "Position": "13",
-                "Team": "Sunderland",
-                "Played": "32",
+                "Team": "Crystal Palace",
+                "Played": "31",
                 "Wins": "11",
-                "Draws": "11",
-                "Losses": "10",
-                "Goal Difference": "-4",
-                "Points": "44"
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "-1",
+                "Points": "42"
             },
             {
                 "Position": "14",
-                "Team": "Crystal Palace",
-                "Played": "31",
-                "Wins": "10",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-3",
-                "Points": "39"
+                "Team": "Newcastle United",
+                "Played": "32",
+                "Wins": "12",
+                "Draws": "6",
+                "Losses": "14",
+                "Goal Difference": "-2",
+                "Points": "42"
             },
             {
                 "Position": "15",
@@ -180,10 +180,10 @@
                 "Team": "Tottenham Hotspur",
                 "Played": "32",
                 "Wins": "7",
-                "Draws": "10",
-                "Losses": "15",
-                "Goal Difference": "-10",
-                "Points": "31"
+                "Draws": "9",
+                "Losses": "16",
+                "Goal Difference": "-11",
+                "Points": "30"
             },
             {
                 "Position": "19",
@@ -330,11 +330,11 @@
             {
                 "Position": "13",
                 "Team": "Rayo Vallecano",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "8",
                 "Draws": "11",
-                "Losses": "11",
-                "Goal Difference": "-6",
+                "Losses": "12",
+                "Goal Difference": "-8",
                 "Points": "35"
             },
             {
@@ -349,6 +349,16 @@
             },
             {
                 "Position": "15",
+                "Team": "Mallorca",
+                "Played": "31",
+                "Wins": "9",
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-10",
+                "Points": "34"
+            },
+            {
+                "Position": "16",
                 "Team": "Sevilla",
                 "Played": "31",
                 "Wins": "9",
@@ -358,7 +368,7 @@
                 "Points": "34"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Alav\u00e9s",
                 "Played": "31",
                 "Wins": "8",
@@ -368,7 +378,7 @@
                 "Points": "33"
             },
             {
-                "Position": "17",
+                "Position": "18",
                 "Team": "Elche",
                 "Played": "31",
                 "Wins": "7",
@@ -376,16 +386,6 @@
                 "Losses": "13",
                 "Goal Difference": "-8",
                 "Points": "32"
-            },
-            {
-                "Position": "18",
-                "Team": "Mallorca",
-                "Played": "30",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "15",
-                "Goal Difference": "-12",
-                "Points": "31"
             },
             {
                 "Position": "19",
@@ -536,7 +536,7 @@
                 "Wins": "7",
                 "Draws": "9",
                 "Losses": "13",
-                "Goal Difference": "-8",
+                "Goal Difference": "-7",
                 "Points": "30"
             },
             {
@@ -556,7 +556,7 @@
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-19",
+                "Goal Difference": "-20",
                 "Points": "28"
             },
             {
@@ -606,10 +606,10 @@
                 "Team": "Napoli",
                 "Played": "32",
                 "Wins": "20",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "16",
-                "Points": "65"
+                "Draws": "6",
+                "Losses": "6",
+                "Goal Difference": "17",
+                "Points": "66"
             },
             {
                 "Position": "3",
@@ -713,22 +713,22 @@
             },
             {
                 "Position": "13",
-                "Team": "Parma",
-                "Played": "32",
-                "Wins": "9",
-                "Draws": "11",
-                "Losses": "12",
-                "Goal Difference": "-16",
-                "Points": "38"
-            },
-            {
-                "Position": "14",
                 "Team": "Genoa",
                 "Played": "32",
                 "Wins": "9",
                 "Draws": "9",
                 "Losses": "14",
                 "Goal Difference": "-7",
+                "Points": "36"
+            },
+            {
+                "Position": "14",
+                "Team": "Parma",
+                "Played": "32",
+                "Wins": "8",
+                "Draws": "12",
+                "Losses": "12",
+                "Goal Difference": "-17",
                 "Points": "36"
             },
             {
@@ -2174,11 +2174,11 @@
             {
                 "Position": "12",
                 "Team": "Alverca",
-                "Played": "28",
+                "Played": "29",
                 "Wins": "8",
                 "Draws": "8",
-                "Losses": "12",
-                "Goal Difference": "-17",
+                "Losses": "13",
+                "Goal Difference": "-18",
                 "Points": "32"
             },
             {
@@ -2203,22 +2203,22 @@
             },
             {
                 "Position": "15",
+                "Team": "Casa Pia",
+                "Played": "28",
+                "Wins": "6",
+                "Draws": "10",
+                "Losses": "12",
+                "Goal Difference": "-21",
+                "Points": "28"
+            },
+            {
+                "Position": "16",
                 "Team": "Nacional",
                 "Played": "28",
                 "Wins": "6",
                 "Draws": "7",
                 "Losses": "15",
                 "Goal Difference": "-8",
-                "Points": "25"
-            },
-            {
-                "Position": "16",
-                "Team": "Casa Pia",
-                "Played": "27",
-                "Wins": "5",
-                "Draws": "10",
-                "Losses": "12",
-                "Goal Difference": "-22",
                 "Points": "25"
             },
             {

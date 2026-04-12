@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 April 2026, 02:08 PM UTC (Sunday, 12 April 2026, 07:38 PM IST)
+**Last Updated:** Sunday, 12 April 2026, 03:04 PM UTC (Sunday, 12 April 2026, 08:34 PM IST)
 
 ### Premier League
 
@@ -56,15 +56,15 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Brentford | 32 | 13 | 8 | 11 | 4 | 47 |
 | 8 | Everton | 32 | 13 | 8 | 11 | 2 | 47 |
 | 9 | Brighton & Hove Albion | 32 | 12 | 10 | 10 | 6 | 46 |
-| 10 | Newcastle United | 32 | 13 | 6 | 13 | 0 | 45 |
+| 10 | Sunderland | 32 | 12 | 10 | 10 | -3 | 46 |
 | 11 | AFC Bournemouth | 32 | 10 | 15 | 7 | -1 | 45 |
 | 12 | Fulham | 32 | 13 | 5 | 14 | -3 | 44 |
-| 13 | Sunderland | 32 | 11 | 11 | 10 | -4 | 44 |
-| 14 | Crystal Palace | 31 | 10 | 9 | 12 | -3 | 39 |
+| 13 | Crystal Palace | 31 | 11 | 9 | 11 | -1 | 42 |
+| 14 | Newcastle United | 32 | 12 | 6 | 14 | -2 | 42 |
 | 15 | Leeds United | 31 | 7 | 12 | 12 | -11 | 33 |
 | 16 | Nottingham Forest | 32 | 8 | 9 | 15 | -12 | 33 |
 | 17 | West Ham United | 32 | 8 | 8 | 16 | -17 | 32 |
-| 18 | Tottenham Hotspur | 32 | 7 | 10 | 15 | -10 | 31 |
+| 18 | Tottenham Hotspur | 32 | 7 | 9 | 16 | -11 | 30 |
 | 19 | Burnley | 32 | 4 | 8 | 20 | -30 | 20 |
 | 20 | Wolverhampton Wanderers | 32 | 3 | 8 | 21 | -34 | 17 |
 
@@ -84,12 +84,12 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Espanyol | 31 | 10 | 8 | 13 | -11 | 38 |
 | 11 | Athletic Bilbao | 30 | 11 | 5 | 14 | -11 | 38 |
 | 12 | Girona | 31 | 9 | 11 | 11 | -12 | 38 |
-| 13 | Rayo Vallecano | 30 | 8 | 11 | 11 | -6 | 35 |
+| 13 | Rayo Vallecano | 31 | 8 | 11 | 12 | -8 | 35 |
 | 14 | Valencia | 31 | 9 | 8 | 14 | -12 | 35 |
-| 15 | Sevilla | 31 | 9 | 7 | 15 | -12 | 34 |
-| 16 | Alavés | 31 | 8 | 9 | 14 | -11 | 33 |
-| 17 | Elche | 31 | 7 | 11 | 13 | -8 | 32 |
-| 18 | Mallorca | 30 | 8 | 7 | 15 | -12 | 31 |
+| 15 | Mallorca | 31 | 9 | 7 | 15 | -10 | 34 |
+| 16 | Sevilla | 31 | 9 | 7 | 15 | -12 | 34 |
+| 17 | Alavés | 31 | 8 | 9 | 14 | -11 | 33 |
+| 18 | Elche | 31 | 7 | 11 | 13 | -8 | 32 |
 | 19 | Levante | 30 | 6 | 8 | 16 | -16 | 26 |
 | 20 | Real Oviedo | 30 | 5 | 9 | 16 | -27 | 24 |
 
@@ -109,9 +109,9 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Augsburg | 29 | 9 | 6 | 14 | -17 | 33 |
 | 11 | Union Berlin | 29 | 8 | 8 | 13 | -17 | 32 |
 | 12 | Hamburg | 28 | 7 | 10 | 11 | -9 | 31 |
-| 13 | Köln | 29 | 7 | 9 | 13 | -8 | 30 |
+| 13 | Köln | 29 | 7 | 9 | 13 | -7 | 30 |
 | 14 | Borussia Mönchengladbach | 29 | 7 | 9 | 13 | -14 | 30 |
-| 15 | Werder Bremen | 29 | 7 | 7 | 15 | -19 | 28 |
+| 15 | Werder Bremen | 29 | 7 | 7 | 15 | -20 | 28 |
 | 16 | St. Pauli | 29 | 6 | 7 | 16 | -25 | 25 |
 | 17 | VfL Wolfsburg | 29 | 5 | 6 | 18 | -26 | 21 |
 | 18 | Heidenheim | 29 | 4 | 7 | 18 | -32 | 19 |
@@ -121,7 +121,7 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Inter | 31 | 23 | 3 | 5 | 45 | 72 |
-| 2 | Napoli | 32 | 20 | 5 | 7 | 16 | 65 |
+| 2 | Napoli | 32 | 20 | 6 | 6 | 17 | 66 |
 | 3 | Milan | 32 | 18 | 9 | 5 | 20 | 63 |
 | 4 | Juventus | 32 | 17 | 9 | 6 | 26 | 60 |
 | 5 | Como | 31 | 16 | 10 | 5 | 31 | 58 |
@@ -132,8 +132,8 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Udinese | 32 | 12 | 7 | 13 | -4 | 43 |
 | 11 | Sassuolo | 32 | 12 | 6 | 14 | -4 | 42 |
 | 12 | Torino | 32 | 11 | 6 | 15 | -17 | 39 |
-| 13 | Parma | 32 | 9 | 11 | 12 | -16 | 38 |
-| 14 | Genoa | 32 | 9 | 9 | 14 | -7 | 36 |
+| 13 | Genoa | 32 | 9 | 9 | 14 | -7 | 36 |
+| 14 | Parma | 32 | 8 | 12 | 12 | -17 | 36 |
 | 15 | Cagliari | 32 | 8 | 9 | 15 | -11 | 33 |
 | 16 | Fiorentina | 31 | 7 | 11 | 13 | -8 | 32 |
 | 17 | Lecce | 31 | 7 | 6 | 18 | -22 | 27 |
@@ -302,11 +302,11 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Vitória S.C. | 29 | 10 | 6 | 13 | -8 | 36 |
 | 10 | Rio Ave | 29 | 8 | 9 | 12 | -17 | 33 |
 | 11 | Arouca | 28 | 9 | 5 | 14 | -20 | 32 |
-| 12 | Alverca | 28 | 8 | 8 | 12 | -17 | 32 |
+| 12 | Alverca | 29 | 8 | 8 | 13 | -18 | 32 |
 | 13 | Estrela Amadora | 29 | 6 | 10 | 13 | -15 | 28 |
 | 14 | Santa Clara | 29 | 7 | 7 | 15 | -11 | 28 |
-| 15 | Nacional | 28 | 6 | 7 | 15 | -8 | 25 |
-| 16 | Casa Pia | 27 | 5 | 10 | 12 | -22 | 25 |
+| 15 | Casa Pia | 28 | 6 | 10 | 12 | -21 | 28 |
+| 16 | Nacional | 28 | 6 | 7 | 15 | -8 | 25 |
 | 17 | Tondela | 27 | 4 | 8 | 15 | -25 | 20 |
 | 18 | AVS | 29 | 1 | 9 | 19 | -43 | 12 |
 
