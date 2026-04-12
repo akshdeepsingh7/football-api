@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 April 2026, 10:35 PM UTC (Monday, 13 April 2026, 04:05 AM IST)
+**Last Updated:** Sunday, 12 April 2026, 11:35 PM UTC (Monday, 13 April 2026, 05:05 AM IST)
 
 ### Premier League
 
@@ -353,11 +353,11 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | New England Revolution | 6 | 3 | 0 | 3 | 3 | 9 |
 | 9 | DC United | 7 | 2 | 1 | 4 | -5 | 7 |
 | 10 | Cincinnati | 7 | 2 | 1 | 4 | -6 | 7 |
-| 11 | Columbus Crew | 6 | 1 | 2 | 3 | -1 | 5 |
-| 12 | Atlanta United | 7 | 1 | 1 | 5 | -6 | 4 |
-| 13 | Philadelphia Union | 7 | 1 | 0 | 6 | -6 | 3 |
-| 14 | CF Montréal | 7 | 1 | 0 | 6 | -11 | 3 |
-| 15 | Orlando City | 6 | 1 | 0 | 5 | -18 | 3 |
+| 11 | Orlando City | 7 | 2 | 0 | 5 | -17 | 6 |
+| 12 | Columbus Crew | 7 | 1 | 2 | 4 | -2 | 5 |
+| 13 | Atlanta United | 7 | 1 | 1 | 5 | -6 | 4 |
+| 14 | Philadelphia Union | 7 | 1 | 0 | 6 | -6 | 3 |
+| 15 | CF Montréal | 7 | 1 | 0 | 6 | -11 | 3 |
 | 1 | Vancouver Whitecaps | 7 | 6 | 0 | 1 | 15 | 18 |
 | 2 | San Jose Earthquakes | 7 | 6 | 0 | 1 | 11 | 18 |
 | 3 | LAFC | 7 | 5 | 1 | 1 | 13 | 16 |
@@ -402,14 +402,14 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 11 | 8 | 2 | 1 | 11 | 26 |
-| 2 | Flamengo | 10 | 6 | 2 | 2 | 9 | 20 |
+| 2 | Flamengo | 10 | 6 | 2 | 2 | 8 | 20 |
 | 3 | São Paulo | 11 | 6 | 2 | 3 | 6 | 20 |
-| 4 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
-| 5 | Fluminense | 11 | 6 | 2 | 3 | 4 | 20 |
+| 4 | Fluminense | 11 | 6 | 2 | 3 | 5 | 20 |
+| 5 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
 | 6 | Athletico Paranaense | 11 | 6 | 1 | 4 | 4 | 19 |
 | 7 | Coritiba | 11 | 4 | 4 | 3 | 1 | 16 |
-| 8 | RB Bragantino | 11 | 4 | 3 | 4 | 0 | 15 |
-| 9 | Atlético Mineiro | 11 | 4 | 2 | 5 | 1 | 14 |
+| 8 | Atlético Mineiro | 11 | 4 | 2 | 5 | 1 | 14 |
+| 9 | RB Bragantino | 11 | 4 | 2 | 5 | -1 | 14 |
 | 10 | Vitória | 10 | 4 | 2 | 4 | -3 | 14 |
 | 11 | Botafogo | 10 | 4 | 1 | 5 | -3 | 13 |
 | 12 | Grêmio | 11 | 3 | 4 | 4 | 0 | 13 |
@@ -417,8 +417,8 @@ Data not available.
 | 14 | Internacional | 11 | 3 | 4 | 4 | -1 | 13 |
 | 15 | Santos | 11 | 3 | 4 | 4 | -2 | 13 |
 | 16 | Corinthians | 11 | 2 | 5 | 4 | -3 | 11 |
-| 17 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
-| 18 | Cruzeiro | 11 | 1 | 5 | 5 | -8 | 8 |
+| 17 | Cruzeiro | 11 | 2 | 4 | 5 | -7 | 10 |
+| 18 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
 | 19 | Chapecoense | 10 | 1 | 5 | 4 | -8 | 8 |
 | 20 | Mirassol | 10 | 1 | 3 | 6 | -5 | 6 |
 
