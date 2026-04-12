@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 12 April 2026, 09:36 PM UTC (Monday, 13 April 2026, 03:06 AM IST)
+**Last Updated:** Sunday, 12 April 2026, 10:35 PM UTC (Monday, 13 April 2026, 04:05 AM IST)
 
 ### Premier League
 
@@ -402,10 +402,10 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 11 | 8 | 2 | 1 | 11 | 26 |
-| 2 | Flamengo | 10 | 6 | 2 | 2 | 8 | 20 |
+| 2 | Flamengo | 10 | 6 | 2 | 2 | 9 | 20 |
 | 3 | São Paulo | 11 | 6 | 2 | 3 | 6 | 20 |
-| 4 | Fluminense | 11 | 6 | 2 | 3 | 5 | 20 |
-| 5 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
+| 4 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
+| 5 | Fluminense | 11 | 6 | 2 | 3 | 4 | 20 |
 | 6 | Athletico Paranaense | 11 | 6 | 1 | 4 | 4 | 19 |
 | 7 | Coritiba | 11 | 4 | 4 | 3 | 1 | 16 |
 | 8 | RB Bragantino | 11 | 4 | 3 | 4 | 0 | 15 |

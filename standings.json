@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 09:36 PM UTC",
-        "IST": "Monday, 13 April 2026, 03:06 AM IST"
+        "UTC": "Sunday, 12 April 2026, 10:35 PM UTC",
+        "IST": "Monday, 13 April 2026, 04:05 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2947,7 +2947,7 @@
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "8",
+                "Goal Difference": "9",
                 "Points": "20"
             },
             {
@@ -2962,22 +2962,22 @@
             },
             {
                 "Position": "4",
-                "Team": "Fluminense",
-                "Played": "11",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "5",
-                "Points": "20"
-            },
-            {
-                "Position": "5",
                 "Team": "Bahia",
                 "Played": "10",
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "5",
+                "Points": "20"
+            },
+            {
+                "Position": "5",
+                "Team": "Fluminense",
+                "Played": "11",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "4",
                 "Points": "20"
             },
             {
