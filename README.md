@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 13 April 2026, 06:02 PM UTC (Monday, 13 April 2026, 11:32 PM IST)
+**Last Updated:** Monday, 13 April 2026, 07:47 PM UTC (Tuesday, 14 April 2026, 01:17 AM IST)
 
 ### Premier League
 
@@ -49,7 +49,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 32 | 21 | 7 | 4 | 38 | 70 |
 | 2 | Manchester City | 31 | 19 | 7 | 5 | 35 | 64 |
-| 3 | Manchester United | 31 | 15 | 10 | 6 | 13 | 55 |
+| 3 | Manchester United | 32 | 15 | 10 | 7 | 11 | 55 |
 | 4 | Aston Villa | 32 | 16 | 7 | 9 | 5 | 55 |
 | 5 | Liverpool FC | 32 | 15 | 7 | 10 | 10 | 52 |
 | 6 | Chelsea | 32 | 13 | 9 | 10 | 12 | 48 |
@@ -61,7 +61,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Fulham | 32 | 13 | 5 | 14 | -3 | 44 |
 | 13 | Crystal Palace | 31 | 11 | 9 | 11 | -1 | 42 |
 | 14 | Newcastle United | 32 | 12 | 6 | 14 | -2 | 42 |
-| 15 | Leeds United | 31 | 7 | 12 | 12 | -11 | 33 |
+| 15 | Leeds United | 32 | 8 | 12 | 12 | -9 | 36 |
 | 16 | Nottingham Forest | 32 | 8 | 9 | 15 | -12 | 33 |
 | 17 | West Ham United | 32 | 8 | 8 | 16 | -17 | 32 |
 | 18 | Tottenham Hotspur | 32 | 7 | 9 | 16 | -11 | 30 |
@@ -79,7 +79,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Real Betis | 31 | 11 | 13 | 7 | 7 | 46 |
 | 6 | Celta de Vigo | 31 | 11 | 11 | 9 | 4 | 44 |
 | 7 | Real Sociedad | 31 | 11 | 9 | 11 | 1 | 42 |
-| 8 | Getafe | 30 | 12 | 5 | 13 | -4 | 41 |
+| 8 | Getafe | 31 | 12 | 6 | 13 | -4 | 42 |
 | 9 | Osasuna | 31 | 10 | 9 | 12 | -1 | 39 |
 | 10 | Espanyol | 31 | 10 | 8 | 13 | -11 | 38 |
 | 11 | Girona | 31 | 9 | 11 | 11 | -12 | 38 |
@@ -90,8 +90,8 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Sevilla | 31 | 9 | 7 | 15 | -12 | 34 |
 | 17 | Alavés | 31 | 8 | 9 | 14 | -11 | 33 |
 | 18 | Elche | 31 | 7 | 11 | 13 | -8 | 32 |
-| 19 | Real Oviedo | 31 | 6 | 9 | 16 | -24 | 27 |
-| 20 | Levante | 30 | 6 | 8 | 16 | -16 | 26 |
+| 19 | Levante | 31 | 6 | 9 | 16 | -16 | 27 |
+| 20 | Real Oviedo | 31 | 6 | 9 | 16 | -24 | 27 |
 
 ### Bundesliga
 
@@ -128,14 +128,14 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Roma | 32 | 18 | 3 | 11 | 17 | 57 |
 | 7 | Atalanta | 32 | 14 | 11 | 7 | 16 | 53 |
 | 8 | Bologna | 32 | 14 | 6 | 12 | 5 | 48 |
-| 9 | Lazio | 31 | 11 | 11 | 9 | 3 | 44 |
+| 9 | Lazio | 32 | 11 | 11 | 10 | 2 | 44 |
 | 10 | Udinese | 32 | 12 | 7 | 13 | -4 | 43 |
 | 11 | Sassuolo | 32 | 12 | 6 | 14 | -4 | 42 |
 | 12 | Torino | 32 | 11 | 6 | 15 | -17 | 39 |
 | 13 | Genoa | 32 | 9 | 9 | 14 | -7 | 36 |
 | 14 | Parma | 32 | 8 | 12 | 12 | -17 | 36 |
-| 15 | Cagliari | 32 | 8 | 9 | 15 | -11 | 33 |
-| 16 | Fiorentina | 31 | 7 | 11 | 13 | -8 | 32 |
+| 15 | Fiorentina | 32 | 8 | 11 | 13 | -7 | 35 |
+| 16 | Cagliari | 32 | 8 | 9 | 15 | -11 | 33 |
 | 17 | Cremonese | 32 | 6 | 9 | 17 | -21 | 27 |
 | 18 | Lecce | 32 | 7 | 6 | 19 | -24 | 27 |
 | 19 | Hellas Verona | 32 | 3 | 9 | 20 | -32 | 18 |
@@ -296,7 +296,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Benfica | 29 | 20 | 9 | 0 | 43 | 69 |
 | 4 | Braga | 28 | 15 | 7 | 6 | 28 | 52 |
 | 5 | Famalicão | 29 | 13 | 8 | 8 | 11 | 47 |
-| 6 | Gil Vicente | 28 | 12 | 9 | 7 | 14 | 45 |
+| 6 | Gil Vicente | 29 | 12 | 10 | 7 | 14 | 46 |
 | 7 | Estoril | 29 | 10 | 7 | 12 | 1 | 37 |
 | 8 | Moreirense | 29 | 10 | 6 | 13 | -9 | 36 |
 | 9 | Vitória S.C. | 29 | 10 | 6 | 13 | -8 | 36 |
@@ -307,7 +307,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Santa Clara | 29 | 7 | 7 | 15 | -11 | 28 |
 | 15 | Nacional | 29 | 6 | 7 | 16 | -10 | 25 |
 | 16 | Casa Pia | 28 | 5 | 10 | 13 | -24 | 25 |
-| 17 | Tondela | 27 | 4 | 8 | 15 | -25 | 20 |
+| 17 | Tondela | 28 | 4 | 9 | 15 | -25 | 21 |
 | 18 | AVS | 29 | 1 | 9 | 19 | -43 | 12 |
 
 ### EFL Championship
