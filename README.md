@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 13 April 2026, 07:47 PM UTC (Tuesday, 14 April 2026, 01:17 AM IST)
+**Last Updated:** Monday, 13 April 2026, 08:56 PM UTC (Tuesday, 14 April 2026, 02:26 AM IST)
 
 ### Premier League
 
@@ -49,7 +49,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 32 | 21 | 7 | 4 | 38 | 70 |
 | 2 | Manchester City | 31 | 19 | 7 | 5 | 35 | 64 |
-| 3 | Manchester United | 32 | 15 | 10 | 7 | 11 | 55 |
+| 3 | Manchester United | 32 | 15 | 10 | 7 | 12 | 55 |
 | 4 | Aston Villa | 32 | 16 | 7 | 9 | 5 | 55 |
 | 5 | Liverpool FC | 32 | 15 | 7 | 10 | 10 | 52 |
 | 6 | Chelsea | 32 | 13 | 9 | 10 | 12 | 48 |
@@ -61,7 +61,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Fulham | 32 | 13 | 5 | 14 | -3 | 44 |
 | 13 | Crystal Palace | 31 | 11 | 9 | 11 | -1 | 42 |
 | 14 | Newcastle United | 32 | 12 | 6 | 14 | -2 | 42 |
-| 15 | Leeds United | 32 | 8 | 12 | 12 | -9 | 36 |
+| 15 | Leeds United | 32 | 8 | 12 | 12 | -10 | 36 |
 | 16 | Nottingham Forest | 32 | 8 | 9 | 15 | -12 | 33 |
 | 17 | West Ham United | 32 | 8 | 8 | 16 | -17 | 32 |
 | 18 | Tottenham Hotspur | 32 | 7 | 9 | 16 | -11 | 30 |
@@ -79,7 +79,7 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Real Betis | 31 | 11 | 13 | 7 | 7 | 46 |
 | 6 | Celta de Vigo | 31 | 11 | 11 | 9 | 4 | 44 |
 | 7 | Real Sociedad | 31 | 11 | 9 | 11 | 1 | 42 |
-| 8 | Getafe | 31 | 12 | 6 | 13 | -4 | 42 |
+| 8 | Getafe | 31 | 12 | 5 | 14 | -5 | 41 |
 | 9 | Osasuna | 31 | 10 | 9 | 12 | -1 | 39 |
 | 10 | Espanyol | 31 | 10 | 8 | 13 | -11 | 38 |
 | 11 | Girona | 31 | 9 | 11 | 11 | -12 | 38 |
@@ -90,7 +90,7 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Sevilla | 31 | 9 | 7 | 15 | -12 | 34 |
 | 17 | Alavés | 31 | 8 | 9 | 14 | -11 | 33 |
 | 18 | Elche | 31 | 7 | 11 | 13 | -8 | 32 |
-| 19 | Levante | 31 | 6 | 9 | 16 | -16 | 27 |
+| 19 | Levante | 31 | 7 | 8 | 16 | -15 | 29 |
 | 20 | Real Oviedo | 31 | 6 | 9 | 16 | -24 | 27 |
 
 ### Bundesliga

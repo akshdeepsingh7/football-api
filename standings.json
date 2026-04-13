@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 13 April 2026, 07:47 PM UTC",
-        "IST": "Tuesday, 14 April 2026, 01:17 AM IST"
+        "UTC": "Monday, 13 April 2026, 08:56 PM UTC",
+        "IST": "Tuesday, 14 April 2026, 02:26 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -32,7 +32,7 @@
                 "Wins": "15",
                 "Draws": "10",
                 "Losses": "7",
-                "Goal Difference": "11",
+                "Goal Difference": "12",
                 "Points": "55"
             },
             {
@@ -152,7 +152,7 @@
                 "Wins": "8",
                 "Draws": "12",
                 "Losses": "12",
-                "Goal Difference": "-9",
+                "Goal Difference": "-10",
                 "Points": "36"
             },
             {
@@ -282,10 +282,10 @@
                 "Team": "Getafe",
                 "Played": "31",
                 "Wins": "12",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-4",
-                "Points": "42"
+                "Draws": "5",
+                "Losses": "14",
+                "Goal Difference": "-5",
+                "Points": "41"
             },
             {
                 "Position": "9",
@@ -391,11 +391,11 @@
                 "Position": "19",
                 "Team": "Levante",
                 "Played": "31",
-                "Wins": "6",
-                "Draws": "9",
+                "Wins": "7",
+                "Draws": "8",
                 "Losses": "16",
-                "Goal Difference": "-16",
-                "Points": "27"
+                "Goal Difference": "-15",
+                "Points": "29"
             },
             {
                 "Position": "20",
