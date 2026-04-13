@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 12 April 2026, 11:35 PM UTC",
-        "IST": "Monday, 13 April 2026, 05:05 AM IST"
+        "UTC": "Monday, 13 April 2026, 02:46 AM UTC",
+        "IST": "Monday, 13 April 2026, 08:16 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2587,32 +2587,32 @@
             },
             {
                 "Position": "11",
-                "Team": "Orlando City",
+                "Team": "Columbus Crew",
                 "Played": "7",
-                "Wins": "2",
-                "Draws": "0",
-                "Losses": "5",
-                "Goal Difference": "-17",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-1",
                 "Points": "6"
             },
             {
                 "Position": "12",
-                "Team": "Columbus Crew",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "5"
-            },
-            {
-                "Position": "13",
                 "Team": "Atlanta United",
                 "Played": "7",
                 "Wins": "1",
                 "Draws": "1",
                 "Losses": "5",
                 "Goal Difference": "-6",
+                "Points": "4"
+            },
+            {
+                "Position": "13",
+                "Team": "Orlando City",
+                "Played": "7",
+                "Wins": "1",
+                "Draws": "1",
+                "Losses": "5",
+                "Goal Difference": "-18",
                 "Points": "4"
             },
             {
