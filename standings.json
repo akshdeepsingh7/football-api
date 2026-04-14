@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 14 April 2026, 11:56 AM UTC",
-        "IST": "Tuesday, 14 April 2026, 05:26 PM IST"
+        "UTC": "Tuesday, 14 April 2026, 01:57 PM UTC",
+        "IST": "Tuesday, 14 April 2026, 07:27 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -309,21 +309,21 @@
             },
             {
                 "Position": "11",
-                "Team": "Girona",
-                "Played": "31",
-                "Wins": "9",
-                "Draws": "11",
-                "Losses": "11",
-                "Goal Difference": "-12",
-                "Points": "38"
-            },
-            {
-                "Position": "12",
                 "Team": "Athletic Bilbao",
                 "Played": "31",
                 "Wins": "11",
                 "Draws": "5",
                 "Losses": "15",
+                "Goal Difference": "-12",
+                "Points": "38"
+            },
+            {
+                "Position": "12",
+                "Team": "Girona",
+                "Played": "31",
+                "Wins": "9",
+                "Draws": "11",
+                "Losses": "11",
                 "Goal Difference": "-12",
                 "Points": "38"
             },
