@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 14 April 2026, 06:05 PM UTC",
-        "IST": "Tuesday, 14 April 2026, 11:35 PM IST"
+        "UTC": "Tuesday, 14 April 2026, 07:48 PM UTC",
+        "IST": "Wednesday, 15 April 2026, 01:18 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2256,11 +2256,11 @@
             {
                 "Position": "2",
                 "Team": "Ipswich Town",
-                "Played": "40",
+                "Played": "41",
                 "Wins": "21",
                 "Draws": "12",
-                "Losses": "7",
-                "Goal Difference": "31",
+                "Losses": "8",
+                "Goal Difference": "29",
                 "Points": "75"
             },
             {
@@ -2275,6 +2275,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Southampton",
+                "Played": "42",
+                "Wins": "20",
+                "Draws": "12",
+                "Losses": "10",
+                "Goal Difference": "22",
+                "Points": "72"
+            },
+            {
+                "Position": "5",
                 "Team": "Middlesbrough",
                 "Played": "42",
                 "Wins": "20",
@@ -2282,16 +2292,6 @@
                 "Losses": "10",
                 "Goal Difference": "20",
                 "Points": "72"
-            },
-            {
-                "Position": "5",
-                "Team": "Southampton",
-                "Played": "41",
-                "Wins": "19",
-                "Draws": "12",
-                "Losses": "10",
-                "Goal Difference": "20",
-                "Points": "69"
             },
             {
                 "Position": "6",
@@ -2425,16 +2425,26 @@
             },
             {
                 "Position": "19",
-                "Team": "Blackburn Rovers",
+                "Team": "Portsmouth",
                 "Played": "42",
                 "Wins": "12",
                 "Draws": "12",
                 "Losses": "18",
-                "Goal Difference": "-12",
+                "Goal Difference": "-14",
                 "Points": "48"
             },
             {
                 "Position": "20",
+                "Team": "Blackburn Rovers",
+                "Played": "43",
+                "Wins": "12",
+                "Draws": "12",
+                "Losses": "19",
+                "Goal Difference": "-14",
+                "Points": "48"
+            },
+            {
+                "Position": "21",
                 "Team": "West Bromwich Albion",
                 "Played": "42",
                 "Wins": "11",
@@ -2442,16 +2452,6 @@
                 "Losses": "18",
                 "Goal Difference": "-14",
                 "Points": "46"
-            },
-            {
-                "Position": "21",
-                "Team": "Portsmouth",
-                "Played": "41",
-                "Wins": "11",
-                "Draws": "12",
-                "Losses": "18",
-                "Goal Difference": "-16",
-                "Points": "45"
             },
             {
                 "Position": "22",

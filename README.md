@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 14 April 2026, 06:05 PM UTC (Tuesday, 14 April 2026, 11:35 PM IST)
+**Last Updated:** Tuesday, 14 April 2026, 07:48 PM UTC (Wednesday, 15 April 2026, 01:18 AM IST)
 
 ### Premier League
 
@@ -315,10 +315,10 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 42 | 25 | 10 | 7 | 42 | 85 |
-| 2 | Ipswich Town | 40 | 21 | 12 | 7 | 31 | 75 |
+| 2 | Ipswich Town | 41 | 21 | 12 | 8 | 29 | 75 |
 | 3 | Millwall | 42 | 21 | 10 | 11 | 9 | 73 |
-| 4 | Middlesbrough | 42 | 20 | 12 | 10 | 20 | 72 |
-| 5 | Southampton | 41 | 19 | 12 | 10 | 20 | 69 |
+| 4 | Southampton | 42 | 20 | 12 | 10 | 22 | 72 |
+| 5 | Middlesbrough | 42 | 20 | 12 | 10 | 20 | 72 |
 | 6 | Hull City | 42 | 20 | 8 | 14 | 4 | 68 |
 | 7 | Wrexham | 42 | 17 | 13 | 12 | 3 | 64 |
 | 8 | Derby County | 42 | 18 | 9 | 15 | 8 | 63 |
@@ -332,9 +332,9 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Stoke City | 42 | 15 | 10 | 17 | 3 | 55 |
 | 17 | Sheffield United | 42 | 16 | 6 | 20 | 0 | 54 |
 | 18 | Charlton Athletic | 42 | 12 | 13 | 17 | -12 | 49 |
-| 19 | Blackburn Rovers | 42 | 12 | 12 | 18 | -12 | 48 |
-| 20 | West Bromwich Albion | 42 | 11 | 13 | 18 | -14 | 46 |
-| 21 | Portsmouth | 41 | 11 | 12 | 18 | -16 | 45 |
+| 19 | Portsmouth | 42 | 12 | 12 | 18 | -14 | 48 |
+| 20 | Blackburn Rovers | 43 | 12 | 12 | 19 | -14 | 48 |
+| 21 | West Bromwich Albion | 42 | 11 | 13 | 18 | -14 | 46 |
 | 22 | Oxford United | 42 | 10 | 14 | 18 | -13 | 44 |
 | 23 | Leicester City | 42 | 11 | 14 | 17 | -10 | 41 |
 | 24 | Sheffield Wednesday | 42 | 1 | 11 | 30 | -57 | -4 |
