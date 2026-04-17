@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 April 2026, 04:01 PM UTC",
-        "IST": "Friday, 17 April 2026, 09:31 PM IST"
+        "UTC": "Friday, 17 April 2026, 05:13 PM UTC",
+        "IST": "Friday, 17 April 2026, 10:43 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -634,12 +634,12 @@
             {
                 "Position": "5",
                 "Team": "Como",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "16",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "6",
                 "Goal Difference": "30",
-                "Points": "58"
+                "Points": "59"
             },
             {
                 "Position": "6",
@@ -694,12 +694,12 @@
             {
                 "Position": "11",
                 "Team": "Sassuolo",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "12",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "14",
                 "Goal Difference": "-4",
-                "Points": "42"
+                "Points": "43"
             },
             {
                 "Position": "12",
