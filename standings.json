@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 17 April 2026, 07:37 PM UTC",
-        "IST": "Saturday, 18 April 2026, 01:07 AM IST"
+        "UTC": "Friday, 17 April 2026, 08:45 PM UTC",
+        "IST": "Saturday, 18 April 2026, 02:15 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -595,11 +595,11 @@
                 "Position": "1",
                 "Team": "Inter",
                 "Played": "33",
-                "Wins": "24",
-                "Draws": "4",
+                "Wins": "25",
+                "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "46",
-                "Points": "76"
+                "Goal Difference": "49",
+                "Points": "78"
             },
             {
                 "Position": "2",
@@ -746,10 +746,10 @@
                 "Team": "Cagliari",
                 "Played": "33",
                 "Wins": "8",
-                "Draws": "10",
-                "Losses": "15",
-                "Goal Difference": "-11",
-                "Points": "34"
+                "Draws": "9",
+                "Losses": "16",
+                "Goal Difference": "-14",
+                "Points": "33"
             },
             {
                 "Position": "17",
@@ -807,11 +807,11 @@
                 "Position": "2",
                 "Team": "Lens",
                 "Played": "29",
-                "Wins": "19",
+                "Wins": "20",
                 "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "25",
-                "Points": "59"
+                "Losses": "7",
+                "Goal Difference": "28",
+                "Points": "62"
             },
             {
                 "Position": "3",
@@ -875,16 +875,6 @@
             },
             {
                 "Position": "9",
-                "Team": "Toulouse",
-                "Played": "30",
-                "Wins": "11",
-                "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "2",
-                "Points": "40"
-            },
-            {
-                "Position": "10",
                 "Team": "Lorient",
                 "Played": "29",
                 "Wins": "9",
@@ -892,6 +882,16 @@
                 "Losses": "9",
                 "Goal Difference": "-6",
                 "Points": "38"
+            },
+            {
+                "Position": "10",
+                "Team": "Toulouse",
+                "Played": "30",
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-1",
+                "Points": "37"
             },
             {
                 "Position": "11",
@@ -2164,12 +2164,12 @@
             {
                 "Position": "11",
                 "Team": "Rio Ave",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "8",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "12",
                 "Goal Difference": "-17",
-                "Points": "33"
+                "Points": "34"
             },
             {
                 "Position": "12",
@@ -2234,12 +2234,12 @@
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "1",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "19",
                 "Goal Difference": "-43",
-                "Points": "12"
+                "Points": "13"
             }
         ],
         "EFL Championship": [

@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 17 April 2026, 07:37 PM UTC (Saturday, 18 April 2026, 01:07 AM IST)
+**Last Updated:** Friday, 17 April 2026, 08:45 PM UTC (Saturday, 18 April 2026, 02:15 AM IST)
 
 ### Premier League
 
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 33 | 24 | 4 | 5 | 46 | 76 |
+| 1 | Inter | 33 | 25 | 3 | 5 | 49 | 78 |
 | 2 | Napoli | 32 | 20 | 6 | 6 | 17 | 66 |
 | 3 | Milan | 32 | 18 | 9 | 5 | 20 | 63 |
 | 4 | Juventus | 32 | 17 | 9 | 6 | 26 | 60 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Genoa | 32 | 9 | 9 | 14 | -7 | 36 |
 | 14 | Parma | 32 | 8 | 12 | 12 | -17 | 36 |
 | 15 | Fiorentina | 32 | 8 | 11 | 13 | -7 | 35 |
-| 16 | Cagliari | 33 | 8 | 10 | 15 | -11 | 34 |
+| 16 | Cagliari | 33 | 8 | 9 | 16 | -14 | 33 |
 | 17 | Cremonese | 32 | 6 | 9 | 17 | -21 | 27 |
 | 18 | Lecce | 32 | 7 | 6 | 19 | -24 | 27 |
 | 19 | Hellas Verona | 32 | 3 | 9 | 20 | -32 | 18 |
@@ -146,15 +146,15 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 27 | 20 | 3 | 4 | 38 | 63 |
-| 2 | Lens | 29 | 19 | 2 | 8 | 25 | 59 |
+| 2 | Lens | 29 | 20 | 2 | 7 | 28 | 62 |
 | 3 | LOSC | 29 | 16 | 5 | 8 | 15 | 53 |
 | 4 | Marseille | 29 | 16 | 4 | 9 | 20 | 52 |
 | 5 | Lyon | 29 | 15 | 6 | 8 | 14 | 51 |
 | 6 | Rennes | 29 | 14 | 8 | 7 | 8 | 50 |
 | 7 | Monaco | 29 | 15 | 4 | 10 | 7 | 49 |
 | 8 | Strasbourg | 28 | 12 | 7 | 9 | 12 | 43 |
-| 9 | Toulouse | 30 | 11 | 7 | 12 | 2 | 40 |
-| 10 | Lorient | 29 | 9 | 11 | 9 | -6 | 38 |
+| 9 | Lorient | 29 | 9 | 11 | 9 | -6 | 38 |
+| 10 | Toulouse | 30 | 10 | 7 | 13 | -1 | 37 |
 | 11 | Brest | 28 | 10 | 6 | 12 | -6 | 36 |
 | 12 | Paris FC | 29 | 8 | 11 | 10 | -8 | 35 |
 | 13 | Angers | 29 | 9 | 6 | 14 | -14 | 33 |
@@ -301,14 +301,14 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Moreirense | 29 | 10 | 6 | 13 | -9 | 36 |
 | 9 | Vitória S.C. | 29 | 10 | 6 | 13 | -8 | 36 |
 | 10 | Alverca | 29 | 9 | 8 | 12 | -15 | 35 |
-| 11 | Rio Ave | 29 | 8 | 9 | 12 | -17 | 33 |
+| 11 | Rio Ave | 30 | 8 | 10 | 12 | -17 | 34 |
 | 12 | Arouca | 29 | 9 | 5 | 15 | -21 | 32 |
 | 13 | Estrela Amadora | 29 | 6 | 10 | 13 | -15 | 28 |
 | 14 | Santa Clara | 29 | 7 | 7 | 15 | -11 | 28 |
 | 15 | Nacional | 29 | 6 | 7 | 16 | -10 | 25 |
 | 16 | Casa Pia | 28 | 5 | 10 | 13 | -24 | 25 |
 | 17 | Tondela | 28 | 4 | 9 | 15 | -25 | 21 |
-| 18 | AVS | 29 | 1 | 9 | 19 | -43 | 12 |
+| 18 | AVS | 30 | 1 | 10 | 19 | -43 | 13 |
 
 ### EFL Championship
 
