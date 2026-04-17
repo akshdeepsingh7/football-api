@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Friday, 17 April 2026, 06:11 PM UTC (Friday, 17 April 2026, 11:41 PM IST)
+**Last Updated:** Friday, 17 April 2026, 07:37 PM UTC (Saturday, 18 April 2026, 01:07 AM IST)
 
 ### Premier League
 
@@ -108,11 +108,11 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Mainz 05 | 29 | 8 | 9 | 12 | -9 | 33 |
 | 10 | Augsburg | 29 | 9 | 6 | 14 | -17 | 33 |
 | 11 | Union Berlin | 29 | 8 | 8 | 13 | -17 | 32 |
-| 12 | Hamburg | 29 | 7 | 10 | 12 | -13 | 31 |
-| 13 | Köln | 29 | 7 | 9 | 13 | -7 | 30 |
+| 12 | Köln | 30 | 7 | 10 | 13 | -7 | 31 |
+| 13 | Hamburg | 29 | 7 | 10 | 12 | -13 | 31 |
 | 14 | Borussia Mönchengladbach | 29 | 7 | 9 | 13 | -14 | 30 |
 | 15 | Werder Bremen | 29 | 7 | 7 | 15 | -20 | 28 |
-| 16 | St. Pauli | 29 | 6 | 7 | 16 | -25 | 25 |
+| 16 | St. Pauli | 30 | 6 | 8 | 16 | -25 | 26 |
 | 17 | VfL Wolfsburg | 29 | 5 | 6 | 18 | -26 | 21 |
 | 18 | Heidenheim | 29 | 4 | 7 | 18 | -32 | 19 |
 
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 32 | 24 | 3 | 5 | 46 | 75 |
+| 1 | Inter | 33 | 24 | 4 | 5 | 46 | 76 |
 | 2 | Napoli | 32 | 20 | 6 | 6 | 17 | 66 |
 | 3 | Milan | 32 | 18 | 9 | 5 | 20 | 63 |
 | 4 | Juventus | 32 | 17 | 9 | 6 | 26 | 60 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Genoa | 32 | 9 | 9 | 14 | -7 | 36 |
 | 14 | Parma | 32 | 8 | 12 | 12 | -17 | 36 |
 | 15 | Fiorentina | 32 | 8 | 11 | 13 | -7 | 35 |
-| 16 | Cagliari | 32 | 8 | 9 | 15 | -11 | 33 |
+| 16 | Cagliari | 33 | 8 | 10 | 15 | -11 | 34 |
 | 17 | Cremonese | 32 | 6 | 9 | 17 | -21 | 27 |
 | 18 | Lecce | 32 | 7 | 6 | 19 | -24 | 27 |
 | 19 | Hellas Verona | 32 | 3 | 9 | 20 | -32 | 18 |
@@ -146,15 +146,15 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 27 | 20 | 3 | 4 | 38 | 63 |
-| 2 | Lens | 28 | 19 | 2 | 7 | 27 | 59 |
+| 2 | Lens | 29 | 19 | 2 | 8 | 25 | 59 |
 | 3 | LOSC | 29 | 16 | 5 | 8 | 15 | 53 |
 | 4 | Marseille | 29 | 16 | 4 | 9 | 20 | 52 |
 | 5 | Lyon | 29 | 15 | 6 | 8 | 14 | 51 |
 | 6 | Rennes | 29 | 14 | 8 | 7 | 8 | 50 |
 | 7 | Monaco | 29 | 15 | 4 | 10 | 7 | 49 |
 | 8 | Strasbourg | 28 | 12 | 7 | 9 | 12 | 43 |
-| 9 | Lorient | 29 | 9 | 11 | 9 | -6 | 38 |
-| 10 | Toulouse | 29 | 10 | 7 | 12 | 0 | 37 |
+| 9 | Toulouse | 30 | 11 | 7 | 12 | 2 | 40 |
+| 10 | Lorient | 29 | 9 | 11 | 9 | -6 | 38 |
 | 11 | Brest | 28 | 10 | 6 | 12 | -6 | 36 |
 | 12 | Paris FC | 29 | 8 | 11 | 10 | -8 | 35 |
 | 13 | Angers | 29 | 9 | 6 | 14 | -14 | 33 |
@@ -314,7 +314,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Coventry City | 42 | 25 | 10 | 7 | 42 | 85 |
+| 1 | Coventry City | 43 | 25 | 11 | 7 | 42 | 86 |
 | 2 | Ipswich Town | 41 | 21 | 12 | 8 | 29 | 75 |
 | 3 | Millwall | 42 | 21 | 10 | 11 | 9 | 73 |
 | 4 | Southampton | 42 | 20 | 12 | 10 | 23 | 72 |
@@ -332,8 +332,8 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Stoke City | 42 | 15 | 10 | 17 | 3 | 55 |
 | 17 | Sheffield United | 42 | 16 | 6 | 20 | 0 | 54 |
 | 18 | Charlton Athletic | 42 | 12 | 13 | 17 | -12 | 49 |
-| 19 | Portsmouth | 42 | 12 | 12 | 18 | -14 | 48 |
-| 20 | Blackburn Rovers | 43 | 12 | 12 | 19 | -15 | 48 |
+| 19 | Blackburn Rovers | 44 | 12 | 13 | 19 | -15 | 49 |
+| 20 | Portsmouth | 42 | 12 | 12 | 18 | -14 | 48 |
 | 21 | West Bromwich Albion | 42 | 11 | 13 | 18 | -14 | 46 |
 | 22 | Oxford United | 42 | 10 | 14 | 18 | -13 | 44 |
 | 23 | Leicester City | 42 | 11 | 14 | 17 | -10 | 41 |
