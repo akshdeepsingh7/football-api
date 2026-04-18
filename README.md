@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 April 2026, 10:36 PM UTC (Sunday, 19 April 2026, 04:06 AM IST)
+**Last Updated:** Saturday, 18 April 2026, 11:36 PM UTC (Sunday, 19 April 2026, 05:06 AM IST)
 
 ### Premier League
 
@@ -402,24 +402,24 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 11 | 8 | 2 | 1 | 11 | 26 |
-| 2 | São Paulo | 12 | 7 | 2 | 3 | 7 | 23 |
-| 3 | Flamengo | 10 | 6 | 2 | 2 | 8 | 20 |
-| 4 | Fluminense | 11 | 6 | 2 | 3 | 5 | 20 |
+| 2 | Flamengo | 10 | 6 | 2 | 2 | 8 | 20 |
+| 3 | Fluminense | 11 | 6 | 2 | 3 | 5 | 20 |
+| 4 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
 | 5 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
 | 6 | Athletico Paranaense | 11 | 6 | 1 | 4 | 4 | 19 |
-| 7 | Botafogo | 11 | 5 | 1 | 5 | -1 | 16 |
+| 7 | Botafogo | 11 | 5 | 1 | 5 | 0 | 16 |
 | 8 | Coritiba | 11 | 4 | 4 | 3 | 1 | 16 |
-| 9 | Atlético Mineiro | 11 | 4 | 2 | 5 | 1 | 14 |
-| 10 | RB Bragantino | 11 | 4 | 2 | 5 | -1 | 14 |
-| 11 | Vitória | 10 | 4 | 2 | 4 | -3 | 14 |
-| 12 | Grêmio | 11 | 3 | 4 | 4 | 0 | 13 |
-| 13 | Internacional | 11 | 3 | 4 | 4 | -1 | 13 |
-| 14 | Vasco da Gama | 12 | 3 | 4 | 5 | -2 | 13 |
+| 9 | Vasco da Gama | 12 | 4 | 4 | 4 | 0 | 16 |
+| 10 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
+| 11 | Atlético Mineiro | 11 | 4 | 2 | 5 | 1 | 14 |
+| 12 | RB Bragantino | 11 | 4 | 2 | 5 | -1 | 14 |
+| 13 | Grêmio | 12 | 3 | 5 | 4 | 0 | 14 |
+| 14 | Internacional | 11 | 3 | 4 | 4 | -1 | 13 |
 | 15 | Santos | 11 | 3 | 4 | 4 | -2 | 13 |
-| 16 | Corinthians | 11 | 2 | 5 | 4 | -3 | 11 |
-| 17 | Cruzeiro | 11 | 2 | 4 | 5 | -7 | 10 |
+| 16 | Corinthians | 12 | 2 | 6 | 4 | -3 | 12 |
+| 17 | Cruzeiro | 12 | 2 | 5 | 5 | -7 | 11 |
 | 18 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
-| 19 | Chapecoense | 11 | 1 | 5 | 5 | -10 | 8 |
+| 19 | Chapecoense | 11 | 1 | 5 | 5 | -11 | 8 |
 | 20 | Mirassol | 10 | 1 | 3 | 6 | -5 | 6 |
 
 
