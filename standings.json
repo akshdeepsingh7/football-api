@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 April 2026, 05:05 PM UTC",
-        "IST": "Saturday, 18 April 2026, 10:35 PM IST"
+        "UTC": "Saturday, 18 April 2026, 06:01 PM UTC",
+        "IST": "Saturday, 18 April 2026, 11:31 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -433,11 +433,11 @@
                 "Position": "3",
                 "Team": "RB Leipzig",
                 "Played": "30",
-                "Wins": "17",
-                "Draws": "6",
+                "Wins": "18",
+                "Draws": "5",
                 "Losses": "7",
-                "Goal Difference": "20",
-                "Points": "57"
+                "Goal Difference": "21",
+                "Points": "59"
             },
             {
                 "Position": "4",
@@ -474,10 +474,10 @@
                 "Team": "Eintracht Frankfurt",
                 "Played": "30",
                 "Wins": "11",
-                "Draws": "10",
-                "Losses": "9",
-                "Goal Difference": "0",
-                "Points": "43"
+                "Draws": "9",
+                "Losses": "10",
+                "Goal Difference": "-1",
+                "Points": "42"
             },
             {
                 "Position": "8",
@@ -608,7 +608,7 @@
                 "Wins": "20",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "16",
+                "Goal Difference": "15",
                 "Points": "66"
             },
             {
@@ -678,7 +678,7 @@
                 "Wins": "12",
                 "Draws": "11",
                 "Losses": "10",
-                "Goal Difference": "3",
+                "Goal Difference": "4",
                 "Points": "47"
             },
             {
@@ -2538,11 +2538,11 @@
             {
                 "Position": "6",
                 "Team": "Toronto",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "3",
                 "Draws": "2",
-                "Losses": "2",
-                "Goal Difference": "-1",
+                "Losses": "3",
+                "Goal Difference": "-2",
                 "Points": "11"
             },
             {
@@ -2727,6 +2727,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Austin",
+                "Played": "8",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "3",
+                "Goal Difference": "-2",
+                "Points": "9"
+            },
+            {
+                "Position": "11",
                 "Team": "LA Galaxy",
                 "Played": "7",
                 "Wins": "2",
@@ -2736,7 +2746,7 @@
                 "Points": "8"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Portland Timbers",
                 "Played": "7",
                 "Wins": "2",
@@ -2746,23 +2756,13 @@
                 "Points": "7"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Houston Dynamo",
                 "Played": "6",
                 "Wins": "2",
                 "Draws": "0",
                 "Losses": "4",
                 "Goal Difference": "-6",
-                "Points": "6"
-            },
-            {
-                "Position": "13",
-                "Team": "Austin",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-3",
                 "Points": "6"
             },
             {
