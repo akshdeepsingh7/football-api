@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 April 2026, 07:59 PM UTC (Sunday, 19 April 2026, 01:29 AM IST)
+**Last Updated:** Saturday, 18 April 2026, 08:48 PM UTC (Sunday, 19 April 2026, 02:18 AM IST)
 
 ### Premier League
 
@@ -345,15 +345,15 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Nashville | 7 | 5 | 1 | 1 | 11 | 16 |
 | 2 | Chicago Fire | 7 | 4 | 1 | 2 | 4 | 13 |
-| 3 | Inter Miami | 7 | 3 | 3 | 1 | 1 | 12 |
+| 3 | Inter Miami | 8 | 3 | 4 | 1 | 1 | 13 |
 | 4 | Toronto | 8 | 3 | 3 | 2 | -1 | 12 |
 | 5 | NYCFC | 7 | 3 | 2 | 2 | 5 | 11 |
 | 6 | Charlotte | 7 | 3 | 2 | 2 | 4 | 11 |
-| 7 | New York RB | 8 | 3 | 2 | 3 | -6 | 11 |
+| 7 | New York RB | 8 | 3 | 2 | 3 | -7 | 11 |
 | 8 | New England Revolution | 6 | 3 | 0 | 3 | 3 | 9 |
 | 9 | DC United | 7 | 2 | 1 | 4 | -5 | 7 |
 | 10 | Cincinnati | 7 | 2 | 1 | 4 | -6 | 7 |
-| 11 | CF Montréal | 8 | 2 | 0 | 6 | -9 | 6 |
+| 11 | CF Montréal | 8 | 2 | 0 | 6 | -8 | 6 |
 | 12 | Columbus Crew | 7 | 1 | 3 | 3 | -1 | 6 |
 | 13 | Atlanta United | 7 | 1 | 1 | 5 | -6 | 4 |
 | 14 | Orlando City | 7 | 1 | 1 | 5 | -18 | 4 |
@@ -361,9 +361,9 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
 | 2 | San Jose Earthquakes | 7 | 6 | 0 | 1 | 11 | 18 |
 | 3 | LAFC | 7 | 5 | 1 | 1 | 13 | 16 |
-| 4 | Real Salt Lake | 6 | 4 | 1 | 1 | 4 | 13 |
-| 5 | Seattle Sounders | 6 | 4 | 1 | 1 | 4 | 13 |
-| 6 | Colorado Rapids | 7 | 4 | 0 | 3 | 7 | 12 |
+| 4 | Colorado Rapids | 8 | 4 | 1 | 3 | 7 | 13 |
+| 5 | Real Salt Lake | 6 | 4 | 1 | 1 | 4 | 13 |
+| 6 | Seattle Sounders | 6 | 4 | 1 | 1 | 4 | 13 |
 | 7 | Dallas | 7 | 3 | 3 | 1 | 5 | 12 |
 | 8 | San Diego | 7 | 3 | 2 | 2 | 4 | 11 |
 | 9 | Minnesota United | 7 | 3 | 2 | 2 | -5 | 11 |
