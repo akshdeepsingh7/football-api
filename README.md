@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 April 2026, 01:15 PM UTC (Saturday, 18 April 2026, 06:45 PM IST)
+**Last Updated:** Saturday, 18 April 2026, 02:09 PM UTC (Saturday, 18 April 2026, 07:39 PM IST)
 
 ### Premier League
 
@@ -56,17 +56,17 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Brentford | 33 | 13 | 9 | 11 | 4 | 48 |
 | 8 | Everton | 32 | 13 | 8 | 11 | 2 | 47 |
 | 9 | Brighton & Hove Albion | 32 | 12 | 10 | 10 | 6 | 46 |
-| 10 | Sunderland | 32 | 12 | 10 | 10 | -3 | 46 |
-| 11 | AFC Bournemouth | 32 | 10 | 15 | 7 | -1 | 45 |
+| 10 | AFC Bournemouth | 33 | 10 | 16 | 7 | -1 | 46 |
+| 11 | Sunderland | 32 | 12 | 10 | 10 | -3 | 46 |
 | 12 | Fulham | 33 | 13 | 6 | 14 | -3 | 45 |
-| 13 | Crystal Palace | 31 | 11 | 9 | 11 | -1 | 42 |
-| 14 | Newcastle United | 32 | 12 | 6 | 14 | -2 | 42 |
-| 15 | Leeds United | 32 | 8 | 12 | 12 | -10 | 36 |
+| 13 | Newcastle United | 33 | 12 | 7 | 14 | -2 | 43 |
+| 14 | Crystal Palace | 31 | 11 | 9 | 11 | -1 | 42 |
+| 15 | Leeds United | 33 | 8 | 13 | 12 | -10 | 37 |
 | 16 | Nottingham Forest | 32 | 8 | 9 | 15 | -12 | 33 |
 | 17 | West Ham United | 32 | 8 | 8 | 16 | -17 | 32 |
 | 18 | Tottenham Hotspur | 32 | 7 | 9 | 16 | -11 | 30 |
 | 19 | Burnley | 32 | 4 | 8 | 20 | -30 | 20 |
-| 20 | Wolverhampton Wanderers | 32 | 3 | 8 | 21 | -34 | 17 |
+| 20 | Wolverhampton Wanderers | 33 | 3 | 9 | 21 | -34 | 18 |
 
 ### La Liga
 
@@ -98,22 +98,22 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 29 | 24 | 4 | 1 | 78 | 76 |
-| 2 | Borussia Dortmund | 29 | 19 | 7 | 3 | 31 | 64 |
+| 2 | Borussia Dortmund | 30 | 19 | 8 | 3 | 31 | 65 |
 | 3 | VfB Stuttgart | 29 | 17 | 5 | 7 | 22 | 56 |
 | 4 | RB Leipzig | 29 | 17 | 5 | 7 | 20 | 56 |
-| 5 | Bayer Leverkusen | 29 | 15 | 7 | 7 | 20 | 52 |
-| 6 | Hoffenheim | 29 | 15 | 6 | 8 | 14 | 51 |
+| 5 | Bayer Leverkusen | 30 | 15 | 8 | 7 | 20 | 53 |
+| 6 | Hoffenheim | 30 | 15 | 7 | 8 | 14 | 52 |
 | 7 | Eintracht Frankfurt | 29 | 11 | 9 | 9 | 0 | 42 |
 | 8 | SC Freiburg | 29 | 11 | 7 | 11 | -5 | 40 |
-| 9 | Mainz 05 | 29 | 8 | 9 | 12 | -9 | 33 |
-| 10 | Augsburg | 29 | 9 | 6 | 14 | -17 | 33 |
-| 11 | Union Berlin | 29 | 8 | 8 | 13 | -17 | 32 |
+| 9 | Augsburg | 30 | 9 | 7 | 14 | -17 | 34 |
+| 10 | Mainz 05 | 29 | 8 | 9 | 12 | -9 | 33 |
+| 11 | Union Berlin | 30 | 8 | 8 | 14 | -18 | 32 |
 | 12 | Köln | 30 | 7 | 10 | 13 | -7 | 31 |
-| 13 | Hamburg | 29 | 7 | 10 | 12 | -13 | 31 |
-| 14 | Borussia Mönchengladbach | 29 | 7 | 9 | 13 | -14 | 30 |
-| 15 | Werder Bremen | 29 | 7 | 7 | 15 | -20 | 28 |
+| 13 | Hamburg | 30 | 7 | 10 | 13 | -14 | 31 |
+| 14 | Werder Bremen | 30 | 8 | 7 | 15 | -19 | 31 |
+| 15 | Borussia Mönchengladbach | 29 | 7 | 9 | 13 | -14 | 30 |
 | 16 | St. Pauli | 30 | 6 | 8 | 16 | -25 | 26 |
-| 17 | VfL Wolfsburg | 29 | 5 | 6 | 18 | -26 | 21 |
+| 17 | VfL Wolfsburg | 30 | 6 | 6 | 18 | -25 | 24 |
 | 18 | Heidenheim | 29 | 4 | 7 | 18 | -32 | 19 |
 
 ### Serie A
@@ -317,27 +317,27 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Coventry City | 43 | 25 | 11 | 7 | 42 | 86 |
 | 2 | Millwall | 43 | 22 | 10 | 11 | 11 | 76 |
 | 3 | Ipswich Town | 41 | 21 | 12 | 8 | 29 | 75 |
-| 4 | Southampton | 42 | 20 | 12 | 10 | 23 | 72 |
+| 4 | Southampton | 43 | 20 | 13 | 10 | 23 | 73 |
 | 5 | Middlesbrough | 42 | 20 | 12 | 10 | 20 | 72 |
-| 6 | Hull City | 42 | 20 | 8 | 14 | 4 | 68 |
+| 6 | Hull City | 43 | 20 | 9 | 14 | 4 | 69 |
 | 7 | Derby County | 43 | 19 | 9 | 15 | 9 | 66 |
-| 8 | Wrexham | 42 | 17 | 13 | 12 | 3 | 64 |
-| 9 | Norwich City | 42 | 17 | 7 | 18 | 5 | 58 |
-| 10 | Bristol City | 42 | 16 | 10 | 16 | 1 | 58 |
-| 11 | Queens Park Rangers | 43 | 16 | 10 | 17 | -7 | 58 |
-| 12 | Watford | 42 | 14 | 15 | 13 | 1 | 57 |
-| 13 | Preston North End | 42 | 14 | 15 | 13 | -3 | 57 |
-| 14 | Swansea City | 42 | 16 | 9 | 17 | -4 | 57 |
-| 15 | Birmingham City | 42 | 15 | 11 | 16 | -1 | 56 |
-| 16 | Stoke City | 42 | 15 | 10 | 17 | 3 | 55 |
-| 17 | Sheffield United | 42 | 16 | 6 | 20 | 0 | 54 |
+| 8 | Wrexham | 43 | 17 | 14 | 12 | 3 | 65 |
+| 9 | Bristol City | 43 | 17 | 10 | 16 | 2 | 61 |
+| 10 | Norwich City | 43 | 17 | 7 | 19 | 4 | 58 |
+| 11 | Watford | 43 | 14 | 16 | 13 | 1 | 58 |
+| 12 | Preston North End | 43 | 14 | 16 | 13 | -3 | 58 |
+| 13 | Swansea City | 43 | 16 | 10 | 17 | -4 | 58 |
+| 14 | Queens Park Rangers | 43 | 16 | 10 | 17 | -7 | 58 |
+| 15 | Birmingham City | 43 | 15 | 12 | 16 | -1 | 57 |
+| 16 | Stoke City | 43 | 15 | 11 | 17 | 3 | 56 |
+| 17 | Sheffield United | 43 | 16 | 7 | 20 | 0 | 55 |
 | 18 | Portsmouth | 43 | 13 | 12 | 18 | -13 | 51 |
-| 19 | Charlton Athletic | 42 | 12 | 13 | 17 | -12 | 49 |
+| 19 | Charlton Athletic | 43 | 12 | 14 | 17 | -12 | 50 |
 | 20 | Blackburn Rovers | 44 | 12 | 13 | 19 | -15 | 49 |
-| 21 | West Bromwich Albion | 42 | 11 | 13 | 18 | -14 | 46 |
+| 21 | West Bromwich Albion | 43 | 11 | 14 | 18 | -14 | 47 |
 | 22 | Oxford United | 43 | 10 | 14 | 19 | -14 | 44 |
 | 23 | Leicester City | 43 | 11 | 14 | 18 | -11 | 41 |
-| 24 | Sheffield Wednesday | 42 | 1 | 11 | 30 | -57 | -4 |
+| 24 | Sheffield Wednesday | 43 | 1 | 12 | 30 | -57 | -3 |
 
 ### Major League Soccer (MLS)
 
@@ -378,12 +378,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Mumbai City | 8 | 5 | 3 | 0 | 5 | 18 |
+| 1 | Mumbai City | 9 | 5 | 4 | 0 | 5 | 19 |
 | 2 | Mohun Bagan SG | 8 | 5 | 2 | 1 | 12 | 17 |
 | 3 | East Bengal | 8 | 4 | 3 | 1 | 14 | 15 |
 | 4 | Bengaluru | 9 | 4 | 3 | 2 | 4 | 15 |
 | 5 | Jamshedpur | 9 | 4 | 3 | 2 | 1 | 15 |
-| 6 | FC Goa | 8 | 3 | 4 | 1 | 3 | 13 |
+| 6 | FC Goa | 9 | 3 | 5 | 1 | 3 | 14 |
 | 7 | Punjab FC | 7 | 3 | 2 | 2 | 3 | 11 |
 | 8 | Inter Kashi | 8 | 3 | 2 | 3 | -1 | 11 |
 | 9 | SC Delhi | 8 | 2 | 2 | 4 | -2 | 8 |
