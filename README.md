@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 April 2026, 02:30 AM UTC (Saturday, 18 April 2026, 08:00 AM IST)
+**Last Updated:** Saturday, 18 April 2026, 05:07 AM UTC (Saturday, 18 April 2026, 10:37 AM IST)
 
 ### Premier League
 
@@ -358,7 +358,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Orlando City | 7 | 1 | 1 | 5 | -18 | 4 |
 | 14 | Philadelphia Union | 7 | 1 | 0 | 6 | -6 | 3 |
 | 15 | CF Montréal | 7 | 1 | 0 | 6 | -11 | 3 |
-| 1 | Vancouver Whitecaps | 7 | 6 | 0 | 1 | 15 | 18 |
+| 1 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
 | 2 | San Jose Earthquakes | 7 | 6 | 0 | 1 | 11 | 18 |
 | 3 | LAFC | 7 | 5 | 1 | 1 | 13 | 16 |
 | 4 | Real Salt Lake | 6 | 4 | 1 | 1 | 4 | 13 |
@@ -372,7 +372,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Houston Dynamo | 6 | 2 | 0 | 4 | -6 | 6 |
 | 13 | Austin | 7 | 1 | 3 | 3 | -3 | 6 |
 | 14 | St. Louis City | 7 | 1 | 3 | 3 | -3 | 6 |
-| 15 | Sporting KC | 7 | 1 | 1 | 5 | -10 | 4 |
+| 15 | Sporting KC | 8 | 1 | 1 | 6 | -13 | 4 |
 
 ### Indian Super League
 
