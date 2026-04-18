@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 April 2026, 11:57 AM UTC (Saturday, 18 April 2026, 05:27 PM IST)
+**Last Updated:** Saturday, 18 April 2026, 01:15 PM UTC (Saturday, 18 April 2026, 06:45 PM IST)
 
 ### Premier League
 
@@ -130,10 +130,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Bologna | 32 | 14 | 6 | 12 | 5 | 48 |
 | 9 | Sassuolo | 33 | 13 | 6 | 14 | -3 | 45 |
 | 10 | Lazio | 32 | 11 | 11 | 10 | 2 | 44 |
-| 11 | Udinese | 32 | 12 | 7 | 13 | -4 | 43 |
+| 11 | Udinese | 33 | 12 | 8 | 13 | -4 | 44 |
 | 12 | Torino | 32 | 11 | 6 | 15 | -17 | 39 |
-| 13 | Genoa | 32 | 9 | 9 | 14 | -7 | 36 |
-| 14 | Parma | 32 | 8 | 12 | 12 | -17 | 36 |
+| 13 | Parma | 33 | 8 | 13 | 12 | -17 | 37 |
+| 14 | Genoa | 32 | 9 | 9 | 14 | -7 | 36 |
 | 15 | Fiorentina | 32 | 8 | 11 | 13 | -7 | 35 |
 | 16 | Cagliari | 33 | 8 | 9 | 16 | -14 | 33 |
 | 17 | Cremonese | 32 | 6 | 9 | 17 | -21 | 27 |
@@ -331,12 +331,12 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Birmingham City | 42 | 15 | 11 | 16 | -1 | 56 |
 | 16 | Stoke City | 42 | 15 | 10 | 17 | 3 | 55 |
 | 17 | Sheffield United | 42 | 16 | 6 | 20 | 0 | 54 |
-| 18 | Charlton Athletic | 42 | 12 | 13 | 17 | -12 | 49 |
-| 19 | Portsmouth | 43 | 12 | 13 | 18 | -14 | 49 |
+| 18 | Portsmouth | 43 | 13 | 12 | 18 | -13 | 51 |
+| 19 | Charlton Athletic | 42 | 12 | 13 | 17 | -12 | 49 |
 | 20 | Blackburn Rovers | 44 | 12 | 13 | 19 | -15 | 49 |
 | 21 | West Bromwich Albion | 42 | 11 | 13 | 18 | -14 | 46 |
 | 22 | Oxford United | 43 | 10 | 14 | 19 | -14 | 44 |
-| 23 | Leicester City | 43 | 11 | 15 | 17 | -10 | 42 |
+| 23 | Leicester City | 43 | 11 | 14 | 18 | -11 | 41 |
 | 24 | Sheffield Wednesday | 42 | 1 | 11 | 30 | -57 | -4 |
 
 ### Major League Soccer (MLS)
@@ -382,13 +382,13 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Mohun Bagan SG | 8 | 5 | 2 | 1 | 12 | 17 |
 | 3 | East Bengal | 8 | 4 | 3 | 1 | 14 | 15 |
 | 4 | Bengaluru | 9 | 4 | 3 | 2 | 4 | 15 |
-| 5 | Jamshedpur | 9 | 4 | 3 | 2 | 2 | 15 |
+| 5 | Jamshedpur | 9 | 4 | 3 | 2 | 1 | 15 |
 | 6 | FC Goa | 8 | 3 | 4 | 1 | 3 | 13 |
 | 7 | Punjab FC | 7 | 3 | 2 | 2 | 3 | 11 |
 | 8 | Inter Kashi | 8 | 3 | 2 | 3 | -1 | 11 |
 | 9 | SC Delhi | 8 | 2 | 2 | 4 | -2 | 8 |
 | 10 | Chennaiyin | 8 | 2 | 2 | 4 | -4 | 8 |
-| 11 | Kerala Blasters | 10 | 2 | 2 | 6 | -7 | 8 |
+| 11 | Kerala Blasters | 10 | 2 | 2 | 6 | -6 | 8 |
 | 12 | NorthEast Utd | 8 | 1 | 4 | 3 | -8 | 7 |
 | 13 | Odisha | 7 | 1 | 3 | 3 | -4 | 6 |
 | 14 | Mohammedan | 8 | 0 | 1 | 7 | -17 | 1 |
