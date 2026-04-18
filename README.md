@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 April 2026, 06:01 PM UTC (Saturday, 18 April 2026, 11:31 PM IST)
+**Last Updated:** Saturday, 18 April 2026, 07:22 PM UTC (Sunday, 19 April 2026, 12:52 AM IST)
 
 ### Premier League
 
@@ -49,10 +49,10 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 32 | 21 | 7 | 4 | 38 | 70 |
 | 2 | Manchester City | 31 | 19 | 7 | 5 | 35 | 64 |
-| 3 | Manchester United | 32 | 15 | 10 | 7 | 12 | 55 |
+| 3 | Manchester United | 33 | 15 | 11 | 7 | 12 | 56 |
 | 4 | Aston Villa | 32 | 16 | 7 | 9 | 5 | 55 |
 | 5 | Liverpool FC | 32 | 15 | 7 | 10 | 10 | 52 |
-| 6 | Chelsea | 32 | 13 | 9 | 10 | 12 | 48 |
+| 6 | Chelsea | 33 | 13 | 10 | 10 | 12 | 49 |
 | 7 | Brentford | 33 | 13 | 9 | 11 | 4 | 48 |
 | 8 | AFC Bournemouth | 33 | 11 | 15 | 7 | 0 | 48 |
 | 9 | Brighton & Hove Albion | 33 | 12 | 11 | 10 | 6 | 47 |
@@ -99,11 +99,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 29 | 24 | 4 | 1 | 78 | 76 |
 | 2 | Borussia Dortmund | 30 | 19 | 7 | 4 | 30 | 64 |
-| 3 | RB Leipzig | 30 | 18 | 5 | 7 | 21 | 59 |
+| 3 | RB Leipzig | 30 | 18 | 5 | 7 | 22 | 59 |
 | 4 | VfB Stuttgart | 29 | 17 | 5 | 7 | 22 | 56 |
 | 5 | Hoffenheim | 30 | 16 | 6 | 8 | 15 | 54 |
 | 6 | Bayer Leverkusen | 30 | 15 | 7 | 8 | 19 | 52 |
-| 7 | Eintracht Frankfurt | 30 | 11 | 9 | 10 | -1 | 42 |
+| 7 | Eintracht Frankfurt | 30 | 11 | 9 | 10 | -2 | 42 |
 | 8 | SC Freiburg | 29 | 11 | 7 | 11 | -5 | 40 |
 | 9 | Augsburg | 30 | 10 | 6 | 14 | -16 | 36 |
 | 10 | Mainz 05 | 29 | 8 | 9 | 12 | -9 | 33 |
@@ -125,8 +125,8 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Milan | 32 | 18 | 9 | 5 | 20 | 63 |
 | 4 | Juventus | 32 | 17 | 9 | 6 | 26 | 60 |
 | 5 | Como | 33 | 16 | 10 | 7 | 29 | 58 |
-| 6 | Roma | 32 | 18 | 3 | 11 | 17 | 57 |
-| 7 | Atalanta | 32 | 14 | 11 | 7 | 16 | 53 |
+| 6 | Roma | 33 | 18 | 3 | 12 | 16 | 57 |
+| 7 | Atalanta | 33 | 15 | 11 | 7 | 17 | 56 |
 | 8 | Bologna | 32 | 14 | 6 | 12 | 5 | 48 |
 | 9 | Lazio | 33 | 12 | 11 | 10 | 4 | 47 |
 | 10 | Sassuolo | 33 | 13 | 6 | 14 | -3 | 45 |
@@ -147,7 +147,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | PSG | 27 | 20 | 3 | 4 | 38 | 63 |
 | 2 | Lens | 29 | 20 | 2 | 7 | 28 | 62 |
-| 3 | LOSC | 29 | 16 | 5 | 8 | 15 | 53 |
+| 3 | LOSC | 30 | 16 | 6 | 8 | 15 | 54 |
 | 4 | Marseille | 30 | 16 | 4 | 10 | 18 | 52 |
 | 5 | Lyon | 29 | 15 | 6 | 8 | 14 | 51 |
 | 6 | Rennes | 29 | 14 | 8 | 7 | 8 | 50 |
@@ -159,7 +159,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Paris FC | 29 | 8 | 11 | 10 | -8 | 35 |
 | 13 | Angers | 30 | 9 | 7 | 14 | -14 | 34 |
 | 14 | Le Havre | 30 | 6 | 12 | 12 | -13 | 30 |
-| 15 | Nice | 29 | 7 | 7 | 15 | -22 | 28 |
+| 15 | Nice | 30 | 7 | 8 | 15 | -22 | 29 |
 | 16 | Auxerre | 29 | 5 | 9 | 15 | -14 | 24 |
 | 17 | Nantes | 28 | 4 | 7 | 17 | -21 | 19 |
 | 18 | Metz | 29 | 3 | 6 | 20 | -37 | 15 |
@@ -346,18 +346,18 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Nashville | 7 | 5 | 1 | 1 | 11 | 16 |
 | 2 | Chicago Fire | 7 | 4 | 1 | 2 | 4 | 13 |
 | 3 | Inter Miami | 7 | 3 | 3 | 1 | 1 | 12 |
-| 4 | NYCFC | 7 | 3 | 2 | 2 | 5 | 11 |
-| 5 | Charlotte | 7 | 3 | 2 | 2 | 4 | 11 |
-| 6 | Toronto | 8 | 3 | 2 | 3 | -2 | 11 |
-| 7 | New York RB | 7 | 3 | 2 | 2 | -4 | 11 |
+| 4 | Toronto | 8 | 3 | 3 | 2 | -1 | 12 |
+| 5 | NYCFC | 7 | 3 | 2 | 2 | 5 | 11 |
+| 6 | Charlotte | 7 | 3 | 2 | 2 | 4 | 11 |
+| 7 | New York RB | 8 | 3 | 2 | 3 | -6 | 11 |
 | 8 | New England Revolution | 6 | 3 | 0 | 3 | 3 | 9 |
 | 9 | DC United | 7 | 2 | 1 | 4 | -5 | 7 |
 | 10 | Cincinnati | 7 | 2 | 1 | 4 | -6 | 7 |
-| 11 | Columbus Crew | 7 | 1 | 3 | 3 | -1 | 6 |
-| 12 | Atlanta United | 7 | 1 | 1 | 5 | -6 | 4 |
-| 13 | Orlando City | 7 | 1 | 1 | 5 | -18 | 4 |
-| 14 | Philadelphia Union | 7 | 1 | 0 | 6 | -6 | 3 |
-| 15 | CF Montréal | 7 | 1 | 0 | 6 | -11 | 3 |
+| 11 | CF Montréal | 8 | 2 | 0 | 6 | -9 | 6 |
+| 12 | Columbus Crew | 7 | 1 | 3 | 3 | -1 | 6 |
+| 13 | Atlanta United | 7 | 1 | 1 | 5 | -6 | 4 |
+| 14 | Orlando City | 7 | 1 | 1 | 5 | -18 | 4 |
+| 15 | Philadelphia Union | 7 | 1 | 0 | 6 | -6 | 3 |
 | 1 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
 | 2 | San Jose Earthquakes | 7 | 6 | 0 | 1 | 11 | 18 |
 | 3 | LAFC | 7 | 5 | 1 | 1 | 13 | 16 |
@@ -367,9 +367,9 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Dallas | 7 | 3 | 3 | 1 | 5 | 12 |
 | 8 | San Diego | 7 | 3 | 2 | 2 | 4 | 11 |
 | 9 | Minnesota United | 7 | 3 | 2 | 2 | -5 | 11 |
-| 10 | Austin | 8 | 2 | 3 | 3 | -2 | 9 |
-| 11 | LA Galaxy | 7 | 2 | 2 | 3 | -1 | 8 |
-| 12 | Portland Timbers | 7 | 2 | 1 | 4 | -5 | 7 |
+| 10 | LA Galaxy | 7 | 2 | 2 | 3 | -1 | 8 |
+| 11 | Portland Timbers | 7 | 2 | 1 | 4 | -5 | 7 |
+| 12 | Austin | 8 | 1 | 4 | 3 | -3 | 7 |
 | 13 | Houston Dynamo | 6 | 2 | 0 | 4 | -6 | 6 |
 | 14 | St. Louis City | 7 | 1 | 3 | 3 | -3 | 6 |
 | 15 | Sporting KC | 8 | 1 | 1 | 6 | -13 | 4 |
