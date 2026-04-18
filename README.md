@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 April 2026, 11:07 AM UTC (Saturday, 18 April 2026, 04:37 PM IST)
+**Last Updated:** Saturday, 18 April 2026, 11:57 AM UTC (Saturday, 18 April 2026, 05:27 PM IST)
 
 ### Premier League
 
@@ -53,12 +53,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Aston Villa | 32 | 16 | 7 | 9 | 5 | 55 |
 | 5 | Liverpool FC | 32 | 15 | 7 | 10 | 10 | 52 |
 | 6 | Chelsea | 32 | 13 | 9 | 10 | 12 | 48 |
-| 7 | Brentford | 32 | 13 | 8 | 11 | 4 | 47 |
+| 7 | Brentford | 33 | 13 | 9 | 11 | 4 | 48 |
 | 8 | Everton | 32 | 13 | 8 | 11 | 2 | 47 |
 | 9 | Brighton & Hove Albion | 32 | 12 | 10 | 10 | 6 | 46 |
 | 10 | Sunderland | 32 | 12 | 10 | 10 | -3 | 46 |
 | 11 | AFC Bournemouth | 32 | 10 | 15 | 7 | -1 | 45 |
-| 12 | Fulham | 32 | 13 | 5 | 14 | -3 | 44 |
+| 12 | Fulham | 33 | 13 | 6 | 14 | -3 | 45 |
 | 13 | Crystal Palace | 31 | 11 | 9 | 11 | -1 | 42 |
 | 14 | Newcastle United | 32 | 12 | 6 | 14 | -2 | 42 |
 | 15 | Leeds United | 32 | 8 | 12 | 12 | -10 | 36 |
@@ -315,16 +315,16 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 43 | 25 | 11 | 7 | 42 | 86 |
-| 2 | Ipswich Town | 41 | 21 | 12 | 8 | 29 | 75 |
-| 3 | Millwall | 42 | 21 | 10 | 11 | 9 | 73 |
+| 2 | Millwall | 43 | 22 | 10 | 11 | 11 | 76 |
+| 3 | Ipswich Town | 41 | 21 | 12 | 8 | 29 | 75 |
 | 4 | Southampton | 42 | 20 | 12 | 10 | 23 | 72 |
 | 5 | Middlesbrough | 42 | 20 | 12 | 10 | 20 | 72 |
 | 6 | Hull City | 42 | 20 | 8 | 14 | 4 | 68 |
-| 7 | Wrexham | 42 | 17 | 13 | 12 | 3 | 64 |
-| 8 | Derby County | 42 | 18 | 9 | 15 | 8 | 63 |
+| 7 | Derby County | 43 | 19 | 9 | 15 | 9 | 66 |
+| 8 | Wrexham | 42 | 17 | 13 | 12 | 3 | 64 |
 | 9 | Norwich City | 42 | 17 | 7 | 18 | 5 | 58 |
 | 10 | Bristol City | 42 | 16 | 10 | 16 | 1 | 58 |
-| 11 | Queens Park Rangers | 42 | 16 | 10 | 16 | -5 | 58 |
+| 11 | Queens Park Rangers | 43 | 16 | 10 | 17 | -7 | 58 |
 | 12 | Watford | 42 | 14 | 15 | 13 | 1 | 57 |
 | 13 | Preston North End | 42 | 14 | 15 | 13 | -3 | 57 |
 | 14 | Swansea City | 42 | 16 | 9 | 17 | -4 | 57 |
@@ -332,11 +332,11 @@ The latest league standings are displayed below in Markdown tables:
 | 16 | Stoke City | 42 | 15 | 10 | 17 | 3 | 55 |
 | 17 | Sheffield United | 42 | 16 | 6 | 20 | 0 | 54 |
 | 18 | Charlton Athletic | 42 | 12 | 13 | 17 | -12 | 49 |
-| 19 | Blackburn Rovers | 44 | 12 | 13 | 19 | -15 | 49 |
-| 20 | Portsmouth | 42 | 12 | 12 | 18 | -14 | 48 |
+| 19 | Portsmouth | 43 | 12 | 13 | 18 | -14 | 49 |
+| 20 | Blackburn Rovers | 44 | 12 | 13 | 19 | -15 | 49 |
 | 21 | West Bromwich Albion | 42 | 11 | 13 | 18 | -14 | 46 |
-| 22 | Oxford United | 42 | 10 | 14 | 18 | -13 | 44 |
-| 23 | Leicester City | 42 | 11 | 14 | 17 | -10 | 41 |
+| 22 | Oxford United | 43 | 10 | 14 | 19 | -14 | 44 |
+| 23 | Leicester City | 43 | 11 | 15 | 17 | -10 | 42 |
 | 24 | Sheffield Wednesday | 42 | 1 | 11 | 30 | -57 | -4 |
 
 ### Major League Soccer (MLS)
@@ -382,15 +382,15 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Mohun Bagan SG | 8 | 5 | 2 | 1 | 12 | 17 |
 | 3 | East Bengal | 8 | 4 | 3 | 1 | 14 | 15 |
 | 4 | Bengaluru | 9 | 4 | 3 | 2 | 4 | 15 |
-| 5 | Jamshedpur | 8 | 4 | 3 | 1 | 3 | 15 |
+| 5 | Jamshedpur | 9 | 4 | 3 | 2 | 2 | 15 |
 | 6 | FC Goa | 8 | 3 | 4 | 1 | 3 | 13 |
 | 7 | Punjab FC | 7 | 3 | 2 | 2 | 3 | 11 |
 | 8 | Inter Kashi | 8 | 3 | 2 | 3 | -1 | 11 |
 | 9 | SC Delhi | 8 | 2 | 2 | 4 | -2 | 8 |
 | 10 | Chennaiyin | 8 | 2 | 2 | 4 | -4 | 8 |
-| 11 | NorthEast Utd | 8 | 1 | 4 | 3 | -8 | 7 |
-| 12 | Odisha | 7 | 1 | 3 | 3 | -4 | 6 |
-| 13 | Kerala Blasters | 9 | 1 | 2 | 6 | -8 | 5 |
+| 11 | Kerala Blasters | 10 | 2 | 2 | 6 | -7 | 8 |
+| 12 | NorthEast Utd | 8 | 1 | 4 | 3 | -8 | 7 |
+| 13 | Odisha | 7 | 1 | 3 | 3 | -4 | 6 |
 | 14 | Mohammedan | 8 | 0 | 1 | 7 | -17 | 1 |
 
 ### Liga Profesional Argentina (Clausura)
