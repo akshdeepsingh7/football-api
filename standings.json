@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 18 April 2026, 07:22 PM UTC",
-        "IST": "Sunday, 19 April 2026, 12:52 AM IST"
+        "UTC": "Saturday, 18 April 2026, 07:59 PM UTC",
+        "IST": "Sunday, 19 April 2026, 01:29 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -29,11 +29,11 @@
                 "Position": "3",
                 "Team": "Manchester United",
                 "Played": "33",
-                "Wins": "15",
-                "Draws": "11",
+                "Wins": "16",
+                "Draws": "10",
                 "Losses": "7",
-                "Goal Difference": "12",
-                "Points": "56"
+                "Goal Difference": "13",
+                "Points": "58"
             },
             {
                 "Position": "4",
@@ -60,10 +60,10 @@
                 "Team": "Chelsea",
                 "Played": "33",
                 "Wins": "13",
-                "Draws": "10",
-                "Losses": "10",
-                "Goal Difference": "12",
-                "Points": "49"
+                "Draws": "9",
+                "Losses": "11",
+                "Goal Difference": "11",
+                "Points": "48"
             },
             {
                 "Position": "7",
@@ -646,20 +646,20 @@
                 "Team": "Roma",
                 "Played": "33",
                 "Wins": "18",
-                "Draws": "3",
-                "Losses": "12",
-                "Goal Difference": "16",
-                "Points": "57"
+                "Draws": "4",
+                "Losses": "11",
+                "Goal Difference": "17",
+                "Points": "58"
             },
             {
                 "Position": "7",
                 "Team": "Atalanta",
                 "Played": "33",
-                "Wins": "15",
-                "Draws": "11",
+                "Wins": "14",
+                "Draws": "12",
                 "Losses": "7",
-                "Goal Difference": "17",
-                "Points": "56"
+                "Goal Difference": "16",
+                "Points": "54"
             },
             {
                 "Position": "8",
@@ -2103,6 +2103,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Gil Vicente",
+                "Played": "30",
+                "Wins": "12",
+                "Draws": "11",
+                "Losses": "7",
+                "Goal Difference": "14",
+                "Points": "47"
+            },
+            {
+                "Position": "6",
                 "Team": "Famalic\u00e3o",
                 "Played": "29",
                 "Wins": "13",
@@ -2110,16 +2120,6 @@
                 "Losses": "8",
                 "Goal Difference": "11",
                 "Points": "47"
-            },
-            {
-                "Position": "6",
-                "Team": "Gil Vicente",
-                "Played": "29",
-                "Wins": "12",
-                "Draws": "10",
-                "Losses": "7",
-                "Goal Difference": "14",
-                "Points": "46"
             },
             {
                 "Position": "7",
@@ -2133,22 +2133,22 @@
             },
             {
                 "Position": "8",
+                "Team": "Vit\u00f3ria S.C.",
+                "Played": "30",
+                "Wins": "10",
+                "Draws": "7",
+                "Losses": "13",
+                "Goal Difference": "-8",
+                "Points": "37"
+            },
+            {
+                "Position": "9",
                 "Team": "Moreirense",
                 "Played": "29",
                 "Wins": "10",
                 "Draws": "6",
                 "Losses": "13",
                 "Goal Difference": "-9",
-                "Points": "36"
-            },
-            {
-                "Position": "9",
-                "Team": "Vit\u00f3ria S.C.",
-                "Played": "29",
-                "Wins": "10",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-8",
                 "Points": "36"
             },
             {
