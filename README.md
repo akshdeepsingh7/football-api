@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 April 2026, 09:37 PM UTC (Monday, 20 April 2026, 03:07 AM IST)
+**Last Updated:** Sunday, 19 April 2026, 10:36 PM UTC (Monday, 20 April 2026, 04:06 AM IST)
 
 ### Premier League
 
@@ -401,12 +401,12 @@ Data not available.
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Palmeiras | 12 | 8 | 3 | 1 | 11 | 27 |
+| 1 | Palmeiras | 12 | 9 | 2 | 1 | 12 | 29 |
 | 2 | Fluminense | 12 | 7 | 2 | 3 | 6 | 23 |
-| 3 | Flamengo | 10 | 6 | 2 | 2 | 8 | 20 |
-| 4 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
-| 5 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
-| 6 | Athletico Paranaense | 12 | 6 | 2 | 4 | 4 | 20 |
+| 3 | Flamengo | 11 | 6 | 3 | 2 | 8 | 21 |
+| 4 | Bahia | 11 | 6 | 3 | 2 | 5 | 21 |
+| 5 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
+| 6 | Athletico Paranaense | 12 | 6 | 1 | 5 | 3 | 19 |
 | 7 | Coritiba | 12 | 5 | 4 | 3 | 3 | 19 |
 | 8 | Botafogo | 11 | 5 | 1 | 5 | 0 | 16 |
 | 9 | Vasco da Gama | 12 | 4 | 4 | 4 | 0 | 16 |
