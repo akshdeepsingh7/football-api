@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 01:20 PM UTC",
-        "IST": "Sunday, 19 April 2026, 06:50 PM IST"
+        "UTC": "Sunday, 19 April 2026, 02:09 PM UTC",
+        "IST": "Sunday, 19 April 2026, 07:39 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -39,21 +39,21 @@
                 "Position": "4",
                 "Team": "Aston Villa",
                 "Played": "33",
-                "Wins": "16",
-                "Draws": "8",
+                "Wins": "17",
+                "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "5",
-                "Points": "56"
+                "Goal Difference": "7",
+                "Points": "58"
             },
             {
                 "Position": "5",
                 "Team": "Liverpool FC",
                 "Played": "33",
-                "Wins": "15",
-                "Draws": "8",
+                "Wins": "16",
+                "Draws": "7",
                 "Losses": "10",
-                "Goal Difference": "10",
-                "Points": "53"
+                "Goal Difference": "11",
+                "Points": "55"
             },
             {
                 "Position": "6",
@@ -77,16 +77,6 @@
             },
             {
                 "Position": "8",
-                "Team": "Everton",
-                "Played": "33",
-                "Wins": "13",
-                "Draws": "9",
-                "Losses": "11",
-                "Goal Difference": "2",
-                "Points": "48"
-            },
-            {
-                "Position": "9",
                 "Team": "AFC Bournemouth",
                 "Played": "33",
                 "Wins": "11",
@@ -96,7 +86,7 @@
                 "Points": "48"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Brighton & Hove Albion",
                 "Played": "33",
                 "Wins": "12",
@@ -106,14 +96,24 @@
                 "Points": "47"
             },
             {
+                "Position": "10",
+                "Team": "Everton",
+                "Played": "33",
+                "Wins": "13",
+                "Draws": "8",
+                "Losses": "12",
+                "Goal Difference": "1",
+                "Points": "47"
+            },
+            {
                 "Position": "11",
                 "Team": "Sunderland",
                 "Played": "33",
                 "Wins": "12",
-                "Draws": "11",
-                "Losses": "10",
-                "Goal Difference": "-3",
-                "Points": "47"
+                "Draws": "10",
+                "Losses": "11",
+                "Goal Difference": "-5",
+                "Points": "46"
             },
             {
                 "Position": "12",
@@ -160,10 +160,10 @@
                 "Team": "Nottingham Forest",
                 "Played": "33",
                 "Wins": "8",
-                "Draws": "10",
-                "Losses": "15",
-                "Goal Difference": "-12",
-                "Points": "34"
+                "Draws": "9",
+                "Losses": "16",
+                "Goal Difference": "-13",
+                "Points": "33"
             },
             {
                 "Position": "17",
@@ -189,11 +189,11 @@
                 "Position": "19",
                 "Team": "Burnley",
                 "Played": "33",
-                "Wins": "4",
-                "Draws": "9",
+                "Wins": "5",
+                "Draws": "8",
                 "Losses": "20",
-                "Goal Difference": "-30",
-                "Points": "21"
+                "Goal Difference": "-29",
+                "Points": "23"
             },
             {
                 "Position": "20",
@@ -471,6 +471,16 @@
             },
             {
                 "Position": "7",
+                "Team": "SC Freiburg",
+                "Played": "30",
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "-4",
+                "Points": "43"
+            },
+            {
+                "Position": "8",
                 "Team": "Eintracht Frankfurt",
                 "Played": "30",
                 "Wins": "11",
@@ -478,16 +488,6 @@
                 "Losses": "10",
                 "Goal Difference": "-2",
                 "Points": "42"
-            },
-            {
-                "Position": "8",
-                "Team": "SC Freiburg",
-                "Played": "29",
-                "Wins": "11",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-5",
-                "Points": "40"
             },
             {
                 "Position": "9",
@@ -582,11 +582,11 @@
             {
                 "Position": "18",
                 "Team": "Heidenheim",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "4",
                 "Draws": "7",
-                "Losses": "18",
-                "Goal Difference": "-32",
+                "Losses": "19",
+                "Goal Difference": "-33",
                 "Points": "19"
             }
         ],
@@ -603,6 +603,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Milan",
+                "Played": "33",
+                "Wins": "19",
+                "Draws": "9",
+                "Losses": "5",
+                "Goal Difference": "21",
+                "Points": "66"
+            },
+            {
+                "Position": "3",
                 "Team": "Napoli",
                 "Played": "33",
                 "Wins": "20",
@@ -610,16 +620,6 @@
                 "Losses": "7",
                 "Goal Difference": "15",
                 "Points": "66"
-            },
-            {
-                "Position": "3",
-                "Team": "Milan",
-                "Played": "33",
-                "Wins": "18",
-                "Draws": "10",
-                "Losses": "5",
-                "Goal Difference": "20",
-                "Points": "64"
             },
             {
                 "Position": "4",
@@ -773,22 +773,22 @@
             },
             {
                 "Position": "19",
-                "Team": "Hellas Verona",
-                "Played": "33",
-                "Wins": "3",
-                "Draws": "10",
-                "Losses": "20",
-                "Goal Difference": "-32",
-                "Points": "19"
-            },
-            {
-                "Position": "20",
                 "Team": "Pisa",
                 "Played": "32",
                 "Wins": "2",
                 "Draws": "12",
                 "Losses": "18",
                 "Goal Difference": "-35",
+                "Points": "18"
+            },
+            {
+                "Position": "20",
+                "Team": "Hellas Verona",
+                "Played": "33",
+                "Wins": "3",
+                "Draws": "9",
+                "Losses": "21",
+                "Goal Difference": "-33",
                 "Points": "18"
             }
         ],
@@ -860,7 +860,7 @@
                 "Wins": "15",
                 "Draws": "4",
                 "Losses": "11",
-                "Goal Difference": "6",
+                "Goal Difference": "5",
                 "Points": "49"
             },
             {
@@ -950,7 +950,7 @@
                 "Wins": "6",
                 "Draws": "9",
                 "Losses": "15",
-                "Goal Difference": "-13",
+                "Goal Difference": "-12",
                 "Points": "27"
             },
             {
@@ -2789,6 +2789,16 @@
         "Indian Super League": [
             {
                 "Position": "1",
+                "Team": "Mohun Bagan SG",
+                "Played": "9",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "1",
+                "Goal Difference": "13",
+                "Points": "20"
+            },
+            {
+                "Position": "2",
                 "Team": "Mumbai City",
                 "Played": "9",
                 "Wins": "5",
@@ -2796,16 +2806,6 @@
                 "Losses": "1",
                 "Goal Difference": "3",
                 "Points": "18"
-            },
-            {
-                "Position": "2",
-                "Team": "Mohun Bagan SG",
-                "Played": "8",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "1",
-                "Goal Difference": "12",
-                "Points": "17"
             },
             {
                 "Position": "3",
@@ -2900,11 +2900,11 @@
             {
                 "Position": "12",
                 "Team": "NorthEast Utd",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "1",
                 "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "-8",
+                "Losses": "4",
+                "Goal Difference": "-9",
                 "Points": "7"
             },
             {
@@ -3053,12 +3053,12 @@
             {
                 "Position": "13",
                 "Team": "Internacional",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "4",
                 "Goal Difference": "-1",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "14",
@@ -3123,12 +3123,12 @@
             {
                 "Position": "20",
                 "Team": "Mirassol",
-                "Played": "10",
+                "Played": "11",
                 "Wins": "1",
-                "Draws": "3",
+                "Draws": "4",
                 "Losses": "6",
                 "Goal Difference": "-5",
-                "Points": "6"
+                "Points": "7"
             }
         ]
     }
