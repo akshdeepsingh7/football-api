@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 April 2026, 10:07 AM UTC (Sunday, 19 April 2026, 03:37 PM IST)
+**Last Updated:** Sunday, 19 April 2026, 11:07 AM UTC (Sunday, 19 April 2026, 04:37 PM IST)
 
 ### Premier League
 
@@ -131,12 +131,12 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Lazio | 33 | 12 | 11 | 10 | 4 | 47 |
 | 10 | Sassuolo | 33 | 13 | 6 | 14 | -3 | 45 |
 | 11 | Udinese | 33 | 12 | 7 | 14 | -5 | 43 |
-| 12 | Torino | 32 | 11 | 6 | 15 | -17 | 39 |
+| 12 | Torino | 33 | 11 | 7 | 15 | -17 | 40 |
 | 13 | Parma | 33 | 9 | 12 | 12 | -16 | 39 |
 | 14 | Genoa | 32 | 9 | 9 | 14 | -7 | 36 |
 | 15 | Fiorentina | 32 | 8 | 11 | 13 | -7 | 35 |
 | 16 | Cagliari | 33 | 8 | 9 | 16 | -14 | 33 |
-| 17 | Cremonese | 32 | 6 | 9 | 17 | -21 | 27 |
+| 17 | Cremonese | 33 | 6 | 10 | 17 | -21 | 28 |
 | 18 | Lecce | 32 | 7 | 6 | 19 | -24 | 27 |
 | 19 | Hellas Verona | 32 | 3 | 9 | 20 | -32 | 18 |
 | 20 | Pisa | 32 | 2 | 12 | 18 | -35 | 18 |
@@ -315,10 +315,10 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 43 | 25 | 11 | 7 | 42 | 86 |
-| 2 | Millwall | 43 | 22 | 10 | 11 | 11 | 76 |
-| 3 | Ipswich Town | 41 | 21 | 12 | 8 | 29 | 75 |
+| 2 | Ipswich Town | 42 | 21 | 13 | 8 | 29 | 76 |
+| 3 | Millwall | 43 | 22 | 10 | 11 | 11 | 76 |
 | 4 | Southampton | 43 | 21 | 12 | 10 | 24 | 75 |
-| 5 | Middlesbrough | 42 | 20 | 12 | 10 | 20 | 72 |
+| 5 | Middlesbrough | 43 | 20 | 13 | 10 | 20 | 73 |
 | 6 | Hull City | 43 | 20 | 9 | 14 | 4 | 69 |
 | 7 | Wrexham | 43 | 18 | 13 | 12 | 5 | 67 |
 | 8 | Derby County | 43 | 19 | 9 | 15 | 9 | 66 |

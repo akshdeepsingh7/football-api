@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 10:07 AM UTC",
-        "IST": "Sunday, 19 April 2026, 03:37 PM IST"
+        "UTC": "Sunday, 19 April 2026, 11:07 AM UTC",
+        "IST": "Sunday, 19 April 2026, 04:37 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -704,12 +704,12 @@
             {
                 "Position": "12",
                 "Team": "Torino",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "11",
-                "Draws": "6",
+                "Draws": "7",
                 "Losses": "15",
                 "Goal Difference": "-17",
-                "Points": "39"
+                "Points": "40"
             },
             {
                 "Position": "13",
@@ -754,12 +754,12 @@
             {
                 "Position": "17",
                 "Team": "Cremonese",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "6",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "17",
                 "Goal Difference": "-21",
-                "Points": "27"
+                "Points": "28"
             },
             {
                 "Position": "18",
@@ -2255,6 +2255,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Ipswich Town",
+                "Played": "42",
+                "Wins": "21",
+                "Draws": "13",
+                "Losses": "8",
+                "Goal Difference": "29",
+                "Points": "76"
+            },
+            {
+                "Position": "3",
                 "Team": "Millwall",
                 "Played": "43",
                 "Wins": "22",
@@ -2262,16 +2272,6 @@
                 "Losses": "11",
                 "Goal Difference": "11",
                 "Points": "76"
-            },
-            {
-                "Position": "3",
-                "Team": "Ipswich Town",
-                "Played": "41",
-                "Wins": "21",
-                "Draws": "12",
-                "Losses": "8",
-                "Goal Difference": "29",
-                "Points": "75"
             },
             {
                 "Position": "4",
@@ -2286,12 +2286,12 @@
             {
                 "Position": "5",
                 "Team": "Middlesbrough",
-                "Played": "42",
+                "Played": "43",
                 "Wins": "20",
-                "Draws": "12",
+                "Draws": "13",
                 "Losses": "10",
                 "Goal Difference": "20",
-                "Points": "72"
+                "Points": "73"
             },
             {
                 "Position": "6",
