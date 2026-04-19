@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 April 2026, 10:36 PM UTC (Monday, 20 April 2026, 04:06 AM IST)
+**Last Updated:** Sunday, 19 April 2026, 11:37 PM UTC (Monday, 20 April 2026, 05:07 AM IST)
 
 ### Premier League
 
@@ -359,8 +359,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Atlanta United | 8 | 1 | 1 | 6 | -8 | 4 |
 | 15 | Orlando City | 8 | 1 | 1 | 6 | -19 | 4 |
 | 1 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
-| 2 | San Jose Earthquakes | 7 | 6 | 0 | 1 | 11 | 18 |
-| 3 | LAFC | 7 | 5 | 1 | 1 | 13 | 16 |
+| 2 | San Jose Earthquakes | 8 | 6 | 1 | 1 | 11 | 19 |
+| 3 | LAFC | 8 | 5 | 2 | 1 | 13 | 17 |
 | 4 | Seattle Sounders | 7 | 5 | 1 | 1 | 7 | 16 |
 | 5 | Real Salt Lake | 7 | 5 | 1 | 1 | 6 | 16 |
 | 6 | Minnesota United | 8 | 4 | 2 | 2 | -3 | 14 |
@@ -402,15 +402,15 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 12 | 9 | 2 | 1 | 12 | 29 |
-| 2 | Fluminense | 12 | 7 | 2 | 3 | 6 | 23 |
-| 3 | Flamengo | 11 | 6 | 3 | 2 | 8 | 21 |
-| 4 | Bahia | 11 | 6 | 3 | 2 | 5 | 21 |
-| 5 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
+| 2 | Flamengo | 11 | 7 | 2 | 2 | 9 | 23 |
+| 3 | Fluminense | 12 | 7 | 2 | 3 | 6 | 23 |
+| 4 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
+| 5 | Bahia | 11 | 6 | 2 | 3 | 4 | 20 |
 | 6 | Athletico Paranaense | 12 | 6 | 1 | 5 | 3 | 19 |
 | 7 | Coritiba | 12 | 5 | 4 | 3 | 3 | 19 |
-| 8 | Botafogo | 11 | 5 | 1 | 5 | 0 | 16 |
-| 9 | Vasco da Gama | 12 | 4 | 4 | 4 | 0 | 16 |
-| 10 | RB Bragantino | 12 | 4 | 3 | 5 | -1 | 15 |
+| 8 | RB Bragantino | 12 | 5 | 2 | 5 | 1 | 17 |
+| 9 | Botafogo | 11 | 5 | 1 | 5 | 0 | 16 |
+| 10 | Vasco da Gama | 12 | 4 | 4 | 4 | 0 | 16 |
 | 11 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
 | 12 | Atlético Mineiro | 12 | 4 | 2 | 6 | -1 | 14 |
 | 13 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
@@ -419,7 +419,7 @@ Data not available.
 | 16 | Cruzeiro | 12 | 3 | 4 | 5 | -5 | 13 |
 | 17 | Corinthians | 12 | 2 | 6 | 4 | -3 | 12 |
 | 18 | Mirassol | 11 | 2 | 3 | 6 | -4 | 9 |
-| 19 | Remo | 12 | 1 | 6 | 5 | -7 | 9 |
+| 19 | Remo | 12 | 1 | 5 | 6 | -9 | 8 |
 | 20 | Chapecoense | 11 | 1 | 5 | 5 | -11 | 8 |
 
 

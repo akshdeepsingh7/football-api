@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 10:36 PM UTC",
-        "IST": "Monday, 20 April 2026, 04:06 AM IST"
+        "UTC": "Sunday, 19 April 2026, 11:37 PM UTC",
+        "IST": "Monday, 20 April 2026, 05:07 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2648,22 +2648,22 @@
             {
                 "Position": "2",
                 "Team": "San Jose Earthquakes",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "6",
-                "Draws": "0",
+                "Draws": "1",
                 "Losses": "1",
                 "Goal Difference": "11",
-                "Points": "18"
+                "Points": "19"
             },
             {
                 "Position": "3",
                 "Team": "LAFC",
-                "Played": "7",
+                "Played": "8",
                 "Wins": "5",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "1",
                 "Goal Difference": "13",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "4",
@@ -2942,6 +2942,16 @@
             },
             {
                 "Position": "2",
+                "Team": "Flamengo",
+                "Played": "11",
+                "Wins": "7",
+                "Draws": "2",
+                "Losses": "2",
+                "Goal Difference": "9",
+                "Points": "23"
+            },
+            {
+                "Position": "3",
                 "Team": "Fluminense",
                 "Played": "12",
                 "Wins": "7",
@@ -2951,33 +2961,23 @@
                 "Points": "23"
             },
             {
-                "Position": "3",
-                "Team": "Flamengo",
-                "Played": "11",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "8",
-                "Points": "21"
-            },
-            {
                 "Position": "4",
-                "Team": "Bahia",
-                "Played": "11",
-                "Wins": "6",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "5",
-                "Points": "21"
-            },
-            {
-                "Position": "5",
                 "Team": "S\u00e3o Paulo",
                 "Played": "12",
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "5",
+                "Points": "20"
+            },
+            {
+                "Position": "5",
+                "Team": "Bahia",
+                "Played": "11",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "4",
                 "Points": "20"
             },
             {
@@ -3002,6 +3002,16 @@
             },
             {
                 "Position": "8",
+                "Team": "RB Bragantino",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "5",
+                "Goal Difference": "1",
+                "Points": "17"
+            },
+            {
+                "Position": "9",
                 "Team": "Botafogo",
                 "Played": "11",
                 "Wins": "5",
@@ -3011,7 +3021,7 @@
                 "Points": "16"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Vasco da Gama",
                 "Played": "12",
                 "Wins": "4",
@@ -3019,16 +3029,6 @@
                 "Losses": "4",
                 "Goal Difference": "0",
                 "Points": "16"
-            },
-            {
-                "Position": "10",
-                "Team": "RB Bragantino",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "-1",
-                "Points": "15"
             },
             {
                 "Position": "11",
@@ -3115,10 +3115,10 @@
                 "Team": "Remo",
                 "Played": "12",
                 "Wins": "1",
-                "Draws": "6",
-                "Losses": "5",
-                "Goal Difference": "-7",
-                "Points": "9"
+                "Draws": "5",
+                "Losses": "6",
+                "Goal Difference": "-9",
+                "Points": "8"
             },
             {
                 "Position": "20",
