@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 06:02 PM UTC",
-        "IST": "Sunday, 19 April 2026, 11:32 PM IST"
+        "UTC": "Sunday, 19 April 2026, 07:22 PM UTC",
+        "IST": "Monday, 20 April 2026, 12:52 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -624,12 +624,12 @@
             {
                 "Position": "4",
                 "Team": "Juventus",
-                "Played": "32",
-                "Wins": "17",
+                "Played": "33",
+                "Wins": "18",
                 "Draws": "9",
                 "Losses": "6",
-                "Goal Difference": "26",
-                "Points": "60"
+                "Goal Difference": "27",
+                "Points": "63"
             },
             {
                 "Position": "5",
@@ -664,11 +664,11 @@
             {
                 "Position": "8",
                 "Team": "Bologna",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "14",
                 "Draws": "6",
-                "Losses": "12",
-                "Goal Difference": "5",
+                "Losses": "13",
+                "Goal Difference": "4",
                 "Points": "48"
             },
             {
@@ -796,11 +796,11 @@
             {
                 "Position": "1",
                 "Team": "PSG",
-                "Played": "27",
+                "Played": "28",
                 "Wins": "20",
                 "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "38",
+                "Losses": "5",
+                "Goal Difference": "36",
                 "Points": "63"
             },
             {
@@ -815,6 +815,16 @@
             },
             {
                 "Position": "3",
+                "Team": "Lyon",
+                "Played": "30",
+                "Wins": "16",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "16",
+                "Points": "54"
+            },
+            {
+                "Position": "4",
                 "Team": "LOSC",
                 "Played": "30",
                 "Wins": "16",
@@ -824,7 +834,7 @@
                 "Points": "54"
             },
             {
-                "Position": "4",
+                "Position": "5",
                 "Team": "Rennes",
                 "Played": "30",
                 "Wins": "15",
@@ -834,7 +844,7 @@
                 "Points": "53"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Marseille",
                 "Played": "30",
                 "Wins": "16",
@@ -842,16 +852,6 @@
                 "Losses": "10",
                 "Goal Difference": "18",
                 "Points": "52"
-            },
-            {
-                "Position": "6",
-                "Team": "Lyon",
-                "Played": "29",
-                "Wins": "15",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "14",
-                "Points": "51"
             },
             {
                 "Position": "7",
@@ -2952,16 +2952,6 @@
             },
             {
                 "Position": "3",
-                "Team": "Fluminense",
-                "Played": "11",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "5",
-                "Points": "20"
-            },
-            {
-                "Position": "4",
                 "Team": "S\u00e3o Paulo",
                 "Played": "12",
                 "Wins": "6",
@@ -2971,13 +2961,23 @@
                 "Points": "20"
             },
             {
-                "Position": "5",
+                "Position": "4",
                 "Team": "Bahia",
                 "Played": "10",
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "2",
                 "Goal Difference": "5",
+                "Points": "20"
+            },
+            {
+                "Position": "5",
+                "Team": "Fluminense",
+                "Played": "12",
+                "Wins": "6",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "4",
                 "Points": "20"
             },
             {
@@ -2992,22 +2992,22 @@
             },
             {
                 "Position": "7",
+                "Team": "Coritiba",
+                "Played": "12",
+                "Wins": "5",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "2",
+                "Points": "19"
+            },
+            {
+                "Position": "8",
                 "Team": "Botafogo",
                 "Played": "11",
                 "Wins": "5",
                 "Draws": "1",
                 "Losses": "5",
                 "Goal Difference": "0",
-                "Points": "16"
-            },
-            {
-                "Position": "8",
-                "Team": "Coritiba",
-                "Played": "11",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "1",
                 "Points": "16"
             },
             {
@@ -3022,6 +3022,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Santos",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "16"
+            },
+            {
+                "Position": "11",
                 "Team": "Vit\u00f3ria",
                 "Played": "11",
                 "Wins": "4",
@@ -3031,17 +3041,17 @@
                 "Points": "15"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Atl\u00e9tico Mineiro",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "4",
                 "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "1",
+                "Losses": "6",
+                "Goal Difference": "0",
                 "Points": "14"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "RB Bragantino",
                 "Played": "11",
                 "Wins": "4",
@@ -3049,16 +3059,6 @@
                 "Losses": "5",
                 "Goal Difference": "-1",
                 "Points": "14"
-            },
-            {
-                "Position": "13",
-                "Team": "Santos",
-                "Played": "11",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "13"
             },
             {
                 "Position": "14",

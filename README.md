@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 April 2026, 06:02 PM UTC (Sunday, 19 April 2026, 11:32 PM IST)
+**Last Updated:** Sunday, 19 April 2026, 07:22 PM UTC (Monday, 20 April 2026, 12:52 AM IST)
 
 ### Premier League
 
@@ -123,11 +123,11 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 33 | 25 | 3 | 5 | 49 | 78 |
 | 2 | Milan | 33 | 19 | 9 | 5 | 21 | 66 |
 | 3 | Napoli | 33 | 20 | 6 | 7 | 15 | 66 |
-| 4 | Juventus | 32 | 17 | 9 | 6 | 26 | 60 |
+| 4 | Juventus | 33 | 18 | 9 | 6 | 27 | 63 |
 | 5 | Como | 33 | 16 | 10 | 7 | 29 | 58 |
 | 6 | Roma | 33 | 18 | 4 | 11 | 17 | 58 |
 | 7 | Atalanta | 33 | 14 | 12 | 7 | 16 | 54 |
-| 8 | Bologna | 32 | 14 | 6 | 12 | 5 | 48 |
+| 8 | Bologna | 33 | 14 | 6 | 13 | 4 | 48 |
 | 9 | Lazio | 33 | 12 | 11 | 10 | 4 | 47 |
 | 10 | Sassuolo | 33 | 13 | 6 | 14 | -3 | 45 |
 | 11 | Udinese | 33 | 12 | 7 | 14 | -5 | 43 |
@@ -145,12 +145,12 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 27 | 20 | 3 | 4 | 38 | 63 |
+| 1 | PSG | 28 | 20 | 3 | 5 | 36 | 63 |
 | 2 | Lens | 29 | 20 | 2 | 7 | 28 | 62 |
-| 3 | LOSC | 30 | 16 | 6 | 8 | 15 | 54 |
-| 4 | Rennes | 30 | 15 | 8 | 7 | 11 | 53 |
-| 5 | Marseille | 30 | 16 | 4 | 10 | 18 | 52 |
-| 6 | Lyon | 29 | 15 | 6 | 8 | 14 | 51 |
+| 3 | Lyon | 30 | 16 | 6 | 8 | 16 | 54 |
+| 4 | LOSC | 30 | 16 | 6 | 8 | 15 | 54 |
+| 5 | Rennes | 30 | 15 | 8 | 7 | 11 | 53 |
+| 6 | Marseille | 30 | 16 | 4 | 10 | 18 | 52 |
 | 7 | Monaco | 30 | 15 | 5 | 10 | 7 | 50 |
 | 8 | Strasbourg | 29 | 12 | 7 | 10 | 9 | 43 |
 | 9 | Lorient | 30 | 10 | 11 | 9 | -4 | 41 |
@@ -403,17 +403,17 @@ Data not available.
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 11 | 8 | 2 | 1 | 11 | 26 |
 | 2 | Flamengo | 10 | 6 | 2 | 2 | 8 | 20 |
-| 3 | Fluminense | 11 | 6 | 2 | 3 | 5 | 20 |
-| 4 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
-| 5 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
+| 3 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
+| 4 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
+| 5 | Fluminense | 12 | 6 | 2 | 4 | 4 | 20 |
 | 6 | Athletico Paranaense | 11 | 6 | 1 | 4 | 4 | 19 |
-| 7 | Botafogo | 11 | 5 | 1 | 5 | 0 | 16 |
-| 8 | Coritiba | 11 | 4 | 4 | 3 | 1 | 16 |
+| 7 | Coritiba | 12 | 5 | 4 | 3 | 2 | 19 |
+| 8 | Botafogo | 11 | 5 | 1 | 5 | 0 | 16 |
 | 9 | Vasco da Gama | 12 | 4 | 4 | 4 | 0 | 16 |
-| 10 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
-| 11 | Atlético Mineiro | 11 | 4 | 2 | 5 | 1 | 14 |
-| 12 | RB Bragantino | 11 | 4 | 2 | 5 | -1 | 14 |
-| 13 | Santos | 11 | 3 | 4 | 4 | -2 | 13 |
+| 10 | Santos | 12 | 4 | 4 | 4 | -1 | 16 |
+| 11 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
+| 12 | Atlético Mineiro | 12 | 4 | 2 | 6 | 0 | 14 |
+| 13 | RB Bragantino | 11 | 4 | 2 | 5 | -1 | 14 |
 | 14 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
 | 15 | Internacional | 12 | 3 | 4 | 5 | -2 | 13 |
 | 16 | Cruzeiro | 12 | 3 | 4 | 5 | -5 | 13 |
