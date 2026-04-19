@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 18 April 2026, 11:36 PM UTC (Sunday, 19 April 2026, 05:06 AM IST)
+**Last Updated:** Sunday, 19 April 2026, 02:46 AM UTC (Sunday, 19 April 2026, 08:16 AM IST)
 
 ### Premier League
 
@@ -343,35 +343,35 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Nashville | 7 | 5 | 1 | 1 | 11 | 16 |
+| 1 | Nashville | 8 | 6 | 1 | 1 | 13 | 19 |
 | 2 | Inter Miami | 8 | 4 | 3 | 1 | 2 | 15 |
-| 3 | Chicago Fire | 7 | 4 | 1 | 2 | 4 | 13 |
-| 4 | Toronto | 8 | 3 | 3 | 2 | -1 | 12 |
-| 5 | NYCFC | 7 | 3 | 2 | 2 | 5 | 11 |
-| 6 | Charlotte | 7 | 3 | 2 | 2 | 4 | 11 |
-| 7 | New York RB | 8 | 3 | 2 | 3 | -7 | 11 |
-| 8 | New England Revolution | 6 | 3 | 0 | 3 | 3 | 9 |
-| 9 | DC United | 7 | 2 | 1 | 4 | -5 | 7 |
-| 10 | Cincinnati | 7 | 2 | 1 | 4 | -6 | 7 |
+| 3 | Charlotte | 8 | 4 | 2 | 2 | 5 | 14 |
+| 4 | Chicago Fire | 8 | 4 | 2 | 2 | 4 | 14 |
+| 5 | New England Revolution | 7 | 4 | 0 | 3 | 4 | 12 |
+| 6 | Toronto | 8 | 3 | 3 | 2 | -1 | 12 |
+| 7 | NYCFC | 8 | 3 | 2 | 3 | 4 | 11 |
+| 8 | New York RB | 8 | 3 | 2 | 3 | -7 | 11 |
+| 9 | DC United | 8 | 2 | 2 | 4 | -5 | 8 |
+| 10 | Cincinnati | 8 | 2 | 2 | 4 | -6 | 8 |
 | 11 | CF Montréal | 8 | 2 | 0 | 6 | -8 | 6 |
-| 12 | Columbus Crew | 7 | 1 | 3 | 3 | -1 | 6 |
-| 13 | Atlanta United | 7 | 1 | 1 | 5 | -6 | 4 |
-| 14 | Orlando City | 7 | 1 | 1 | 5 | -18 | 4 |
-| 15 | Philadelphia Union | 7 | 1 | 0 | 6 | -6 | 3 |
+| 12 | Columbus Crew | 8 | 1 | 3 | 4 | -2 | 6 |
+| 13 | Philadelphia Union | 8 | 1 | 1 | 6 | -6 | 4 |
+| 14 | Atlanta United | 8 | 1 | 1 | 6 | -8 | 4 |
+| 15 | Orlando City | 8 | 1 | 1 | 6 | -19 | 4 |
 | 1 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
 | 2 | San Jose Earthquakes | 7 | 6 | 0 | 1 | 11 | 18 |
 | 3 | LAFC | 7 | 5 | 1 | 1 | 13 | 16 |
-| 4 | Real Salt Lake | 6 | 4 | 1 | 1 | 4 | 13 |
-| 5 | Seattle Sounders | 6 | 4 | 1 | 1 | 4 | 13 |
-| 6 | Colorado Rapids | 8 | 4 | 0 | 4 | 6 | 12 |
-| 7 | Dallas | 7 | 3 | 3 | 1 | 5 | 12 |
-| 8 | San Diego | 7 | 3 | 2 | 2 | 4 | 11 |
-| 9 | Minnesota United | 7 | 3 | 2 | 2 | -5 | 11 |
-| 10 | LA Galaxy | 7 | 2 | 2 | 3 | -1 | 8 |
-| 11 | Portland Timbers | 7 | 2 | 1 | 4 | -5 | 7 |
-| 12 | Austin | 8 | 1 | 4 | 3 | -3 | 7 |
-| 13 | Houston Dynamo | 6 | 2 | 0 | 4 | -6 | 6 |
-| 14 | St. Louis City | 7 | 1 | 3 | 3 | -3 | 6 |
+| 4 | Real Salt Lake | 7 | 5 | 1 | 1 | 7 | 16 |
+| 5 | Seattle Sounders | 7 | 5 | 1 | 1 | 6 | 16 |
+| 6 | Minnesota United | 8 | 4 | 2 | 2 | -3 | 14 |
+| 7 | Dallas | 8 | 3 | 4 | 1 | 5 | 13 |
+| 8 | Colorado Rapids | 8 | 4 | 0 | 4 | 6 | 12 |
+| 9 | San Diego | 8 | 3 | 2 | 3 | 1 | 11 |
+| 10 | Houston Dynamo | 7 | 3 | 0 | 4 | -5 | 9 |
+| 11 | LA Galaxy | 8 | 2 | 3 | 3 | -1 | 9 |
+| 12 | Portland Timbers | 8 | 2 | 1 | 5 | -7 | 7 |
+| 13 | Austin | 8 | 1 | 4 | 3 | -3 | 7 |
+| 14 | St. Louis City | 8 | 1 | 3 | 4 | -5 | 6 |
 | 15 | Sporting KC | 8 | 1 | 1 | 6 | -13 | 4 |
 
 ### Indian Super League
@@ -413,11 +413,11 @@ Data not available.
 | 10 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
 | 11 | Atlético Mineiro | 11 | 4 | 2 | 5 | 1 | 14 |
 | 12 | RB Bragantino | 11 | 4 | 2 | 5 | -1 | 14 |
-| 13 | Grêmio | 12 | 3 | 5 | 4 | 0 | 14 |
-| 14 | Internacional | 11 | 3 | 4 | 4 | -1 | 13 |
-| 15 | Santos | 11 | 3 | 4 | 4 | -2 | 13 |
-| 16 | Corinthians | 12 | 2 | 6 | 4 | -3 | 12 |
-| 17 | Cruzeiro | 12 | 2 | 5 | 5 | -7 | 11 |
+| 13 | Internacional | 11 | 3 | 4 | 4 | -1 | 13 |
+| 14 | Santos | 11 | 3 | 4 | 4 | -2 | 13 |
+| 15 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
+| 16 | Cruzeiro | 12 | 3 | 4 | 5 | -5 | 13 |
+| 17 | Corinthians | 12 | 2 | 6 | 4 | -3 | 12 |
 | 18 | Remo | 11 | 1 | 5 | 5 | -7 | 8 |
 | 19 | Chapecoense | 11 | 1 | 5 | 5 | -11 | 8 |
 | 20 | Mirassol | 10 | 1 | 3 | 6 | -5 | 6 |
