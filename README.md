@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 April 2026, 07:22 PM UTC (Monday, 20 April 2026, 12:52 AM IST)
+**Last Updated:** Sunday, 19 April 2026, 08:00 PM UTC (Monday, 20 April 2026, 01:30 AM IST)
 
 ### Premier League
 
@@ -106,10 +106,10 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | SC Freiburg | 30 | 12 | 7 | 11 | -4 | 43 |
 | 8 | Eintracht Frankfurt | 30 | 11 | 9 | 10 | -2 | 42 |
 | 9 | Augsburg | 30 | 10 | 6 | 14 | -16 | 36 |
-| 10 | Mainz 05 | 30 | 8 | 9 | 13 | -10 | 33 |
-| 11 | Borussia Mönchengladbach | 30 | 8 | 9 | 13 | -13 | 33 |
-| 12 | Union Berlin | 30 | 8 | 8 | 14 | -18 | 32 |
-| 13 | Köln | 30 | 7 | 10 | 13 | -7 | 31 |
+| 10 | Mainz 05 | 30 | 8 | 10 | 12 | -9 | 34 |
+| 11 | Union Berlin | 30 | 8 | 8 | 14 | -18 | 32 |
+| 12 | Köln | 30 | 7 | 10 | 13 | -7 | 31 |
+| 13 | Borussia Mönchengladbach | 30 | 7 | 10 | 13 | -14 | 31 |
 | 14 | Hamburg | 30 | 7 | 10 | 13 | -15 | 31 |
 | 15 | Werder Bremen | 30 | 8 | 7 | 15 | -18 | 31 |
 | 16 | St. Pauli | 30 | 6 | 8 | 16 | -25 | 26 |
@@ -291,11 +291,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 29 | 24 | 4 | 1 | 45 | 76 |
+| 1 | Porto | 30 | 24 | 5 | 1 | 45 | 77 |
 | 2 | Benfica | 30 | 21 | 9 | 0 | 44 | 72 |
 | 3 | Sporting CP | 29 | 22 | 5 | 2 | 55 | 71 |
-| 4 | Braga | 28 | 15 | 7 | 6 | 28 | 52 |
-| 5 | Famalicão | 29 | 13 | 8 | 8 | 11 | 47 |
+| 4 | Braga | 29 | 16 | 7 | 6 | 29 | 55 |
+| 5 | Famalicão | 30 | 13 | 8 | 9 | 10 | 47 |
 | 6 | Gil Vicente | 30 | 12 | 10 | 8 | 13 | 46 |
 | 7 | Vitória S.C. | 30 | 11 | 6 | 13 | -7 | 39 |
 | 8 | Estoril | 29 | 10 | 7 | 12 | 1 | 37 |
@@ -307,7 +307,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Nacional | 30 | 7 | 7 | 16 | -9 | 28 |
 | 15 | Estrela Amadora | 30 | 6 | 10 | 14 | -16 | 28 |
 | 16 | Casa Pia | 29 | 5 | 11 | 13 | -24 | 26 |
-| 17 | Tondela | 28 | 4 | 9 | 15 | -25 | 21 |
+| 17 | Tondela | 29 | 4 | 10 | 15 | -25 | 22 |
 | 18 | AVS | 30 | 1 | 10 | 19 | -43 | 13 |
 
 ### EFL Championship
@@ -402,18 +402,18 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 11 | 8 | 2 | 1 | 11 | 26 |
-| 2 | Flamengo | 10 | 6 | 2 | 2 | 8 | 20 |
-| 3 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
-| 4 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
-| 5 | Fluminense | 12 | 6 | 2 | 4 | 4 | 20 |
+| 2 | Fluminense | 12 | 6 | 3 | 3 | 5 | 21 |
+| 3 | Flamengo | 10 | 6 | 2 | 2 | 8 | 20 |
+| 4 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
+| 5 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
 | 6 | Athletico Paranaense | 11 | 6 | 1 | 4 | 4 | 19 |
 | 7 | Coritiba | 12 | 5 | 4 | 3 | 2 | 19 |
 | 8 | Botafogo | 11 | 5 | 1 | 5 | 0 | 16 |
 | 9 | Vasco da Gama | 12 | 4 | 4 | 4 | 0 | 16 |
-| 10 | Santos | 12 | 4 | 4 | 4 | -1 | 16 |
-| 11 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
-| 12 | Atlético Mineiro | 12 | 4 | 2 | 6 | 0 | 14 |
-| 13 | RB Bragantino | 11 | 4 | 2 | 5 | -1 | 14 |
+| 10 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
+| 11 | Atlético Mineiro | 12 | 4 | 2 | 6 | 0 | 14 |
+| 12 | RB Bragantino | 11 | 4 | 2 | 5 | -1 | 14 |
+| 13 | Santos | 12 | 3 | 5 | 4 | -2 | 14 |
 | 14 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
 | 15 | Internacional | 12 | 3 | 4 | 5 | -2 | 13 |
 | 16 | Cruzeiro | 12 | 3 | 4 | 5 | -5 | 13 |
