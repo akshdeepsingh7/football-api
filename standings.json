@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 05:05 PM UTC",
-        "IST": "Sunday, 19 April 2026, 10:35 PM IST"
+        "UTC": "Sunday, 19 April 2026, 06:02 PM UTC",
+        "IST": "Sunday, 19 April 2026, 11:32 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -416,7 +416,7 @@
                 "Wins": "25",
                 "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "81",
+                "Goal Difference": "80",
                 "Points": "79"
             },
             {
@@ -446,7 +446,7 @@
                 "Wins": "17",
                 "Draws": "5",
                 "Losses": "8",
-                "Goal Difference": "19",
+                "Goal Difference": "20",
                 "Points": "56"
             },
             {
@@ -502,15 +502,25 @@
             {
                 "Position": "10",
                 "Team": "Mainz 05",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "8",
                 "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-9",
+                "Losses": "13",
+                "Goal Difference": "-10",
                 "Points": "33"
             },
             {
                 "Position": "11",
+                "Team": "Borussia M\u00f6nchengladbach",
+                "Played": "30",
+                "Wins": "8",
+                "Draws": "9",
+                "Losses": "13",
+                "Goal Difference": "-13",
+                "Points": "33"
+            },
+            {
+                "Position": "12",
                 "Team": "Union Berlin",
                 "Played": "30",
                 "Wins": "8",
@@ -520,7 +530,7 @@
                 "Points": "32"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "K\u00f6ln",
                 "Played": "30",
                 "Wins": "7",
@@ -530,7 +540,7 @@
                 "Points": "31"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Hamburg",
                 "Played": "30",
                 "Wins": "7",
@@ -540,7 +550,7 @@
                 "Points": "31"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Werder Bremen",
                 "Played": "30",
                 "Wins": "8",
@@ -548,16 +558,6 @@
                 "Losses": "15",
                 "Goal Difference": "-18",
                 "Points": "31"
-            },
-            {
-                "Position": "15",
-                "Team": "Borussia M\u00f6nchengladbach",
-                "Played": "29",
-                "Wins": "7",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-14",
-                "Points": "30"
             },
             {
                 "Position": "16",
@@ -713,6 +713,16 @@
             },
             {
                 "Position": "13",
+                "Team": "Genoa",
+                "Played": "33",
+                "Wins": "10",
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "-6",
+                "Points": "39"
+            },
+            {
+                "Position": "14",
                 "Team": "Parma",
                 "Played": "33",
                 "Wins": "9",
@@ -720,16 +730,6 @@
                 "Losses": "12",
                 "Goal Difference": "-16",
                 "Points": "39"
-            },
-            {
-                "Position": "14",
-                "Team": "Genoa",
-                "Played": "33",
-                "Wins": "9",
-                "Draws": "10",
-                "Losses": "14",
-                "Goal Difference": "-7",
-                "Points": "37"
             },
             {
                 "Position": "15",
@@ -773,22 +773,22 @@
             },
             {
                 "Position": "19",
-                "Team": "Pisa",
-                "Played": "33",
-                "Wins": "2",
-                "Draws": "13",
-                "Losses": "18",
-                "Goal Difference": "-35",
-                "Points": "19"
-            },
-            {
-                "Position": "20",
                 "Team": "Hellas Verona",
                 "Played": "33",
                 "Wins": "3",
                 "Draws": "9",
                 "Losses": "21",
                 "Goal Difference": "-33",
+                "Points": "18"
+            },
+            {
+                "Position": "20",
+                "Team": "Pisa",
+                "Played": "33",
+                "Wins": "2",
+                "Draws": "12",
+                "Losses": "19",
+                "Goal Difference": "-36",
                 "Points": "18"
             }
         ],
@@ -908,10 +908,10 @@
                 "Team": "Brest",
                 "Played": "29",
                 "Wins": "10",
-                "Draws": "6",
-                "Losses": "13",
-                "Goal Difference": "-7",
-                "Points": "36"
+                "Draws": "7",
+                "Losses": "12",
+                "Goal Difference": "-6",
+                "Points": "37"
             },
             {
                 "Position": "13",
@@ -957,11 +957,11 @@
                 "Position": "17",
                 "Team": "Nantes",
                 "Played": "29",
-                "Wins": "5",
-                "Draws": "7",
+                "Wins": "4",
+                "Draws": "8",
                 "Losses": "17",
-                "Goal Difference": "-20",
-                "Points": "22"
+                "Goal Difference": "-21",
+                "Points": "20"
             },
             {
                 "Position": "18",
@@ -2073,23 +2073,23 @@
             },
             {
                 "Position": "2",
-                "Team": "Sporting CP",
-                "Played": "28",
-                "Wins": "22",
-                "Draws": "5",
-                "Losses": "1",
-                "Goal Difference": "56",
-                "Points": "71"
+                "Team": "Benfica",
+                "Played": "30",
+                "Wins": "21",
+                "Draws": "9",
+                "Losses": "0",
+                "Goal Difference": "44",
+                "Points": "72"
             },
             {
                 "Position": "3",
-                "Team": "Benfica",
+                "Team": "Sporting CP",
                 "Played": "29",
-                "Wins": "20",
-                "Draws": "9",
-                "Losses": "0",
-                "Goal Difference": "43",
-                "Points": "69"
+                "Wins": "22",
+                "Draws": "5",
+                "Losses": "2",
+                "Goal Difference": "55",
+                "Points": "71"
             },
             {
                 "Position": "4",

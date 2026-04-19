@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 April 2026, 05:05 PM UTC (Sunday, 19 April 2026, 10:35 PM IST)
+**Last Updated:** Sunday, 19 April 2026, 06:02 PM UTC (Sunday, 19 April 2026, 11:32 PM IST)
 
 ### Premier League
 
@@ -97,21 +97,21 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 30 | 25 | 4 | 1 | 81 | 79 |
+| 1 | Bayern Munich | 30 | 25 | 4 | 1 | 80 | 79 |
 | 2 | Borussia Dortmund | 30 | 19 | 7 | 4 | 30 | 64 |
 | 3 | RB Leipzig | 30 | 18 | 5 | 7 | 22 | 59 |
-| 4 | VfB Stuttgart | 30 | 17 | 5 | 8 | 19 | 56 |
+| 4 | VfB Stuttgart | 30 | 17 | 5 | 8 | 20 | 56 |
 | 5 | Hoffenheim | 30 | 16 | 6 | 8 | 15 | 54 |
 | 6 | Bayer Leverkusen | 30 | 15 | 7 | 8 | 19 | 52 |
 | 7 | SC Freiburg | 30 | 12 | 7 | 11 | -4 | 43 |
 | 8 | Eintracht Frankfurt | 30 | 11 | 9 | 10 | -2 | 42 |
 | 9 | Augsburg | 30 | 10 | 6 | 14 | -16 | 36 |
-| 10 | Mainz 05 | 29 | 8 | 9 | 12 | -9 | 33 |
-| 11 | Union Berlin | 30 | 8 | 8 | 14 | -18 | 32 |
-| 12 | Köln | 30 | 7 | 10 | 13 | -7 | 31 |
-| 13 | Hamburg | 30 | 7 | 10 | 13 | -15 | 31 |
-| 14 | Werder Bremen | 30 | 8 | 7 | 15 | -18 | 31 |
-| 15 | Borussia Mönchengladbach | 29 | 7 | 9 | 13 | -14 | 30 |
+| 10 | Mainz 05 | 30 | 8 | 9 | 13 | -10 | 33 |
+| 11 | Borussia Mönchengladbach | 30 | 8 | 9 | 13 | -13 | 33 |
+| 12 | Union Berlin | 30 | 8 | 8 | 14 | -18 | 32 |
+| 13 | Köln | 30 | 7 | 10 | 13 | -7 | 31 |
+| 14 | Hamburg | 30 | 7 | 10 | 13 | -15 | 31 |
+| 15 | Werder Bremen | 30 | 8 | 7 | 15 | -18 | 31 |
 | 16 | St. Pauli | 30 | 6 | 8 | 16 | -25 | 26 |
 | 17 | VfL Wolfsburg | 30 | 6 | 6 | 18 | -25 | 24 |
 | 18 | Heidenheim | 30 | 4 | 7 | 19 | -33 | 19 |
@@ -132,14 +132,14 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Sassuolo | 33 | 13 | 6 | 14 | -3 | 45 |
 | 11 | Udinese | 33 | 12 | 7 | 14 | -5 | 43 |
 | 12 | Torino | 33 | 11 | 7 | 15 | -17 | 40 |
-| 13 | Parma | 33 | 9 | 12 | 12 | -16 | 39 |
-| 14 | Genoa | 33 | 9 | 10 | 14 | -7 | 37 |
+| 13 | Genoa | 33 | 10 | 9 | 14 | -6 | 39 |
+| 14 | Parma | 33 | 9 | 12 | 12 | -16 | 39 |
 | 15 | Fiorentina | 32 | 8 | 11 | 13 | -7 | 35 |
 | 16 | Cagliari | 33 | 8 | 9 | 16 | -14 | 33 |
 | 17 | Cremonese | 33 | 6 | 10 | 17 | -21 | 28 |
 | 18 | Lecce | 32 | 7 | 6 | 19 | -24 | 27 |
-| 19 | Pisa | 33 | 2 | 13 | 18 | -35 | 19 |
-| 20 | Hellas Verona | 33 | 3 | 9 | 21 | -33 | 18 |
+| 19 | Hellas Verona | 33 | 3 | 9 | 21 | -33 | 18 |
+| 20 | Pisa | 33 | 2 | 12 | 19 | -36 | 18 |
 
 ### Ligue 1
 
@@ -156,12 +156,12 @@ The latest league standings are displayed below in Markdown tables:
 | 9 | Lorient | 30 | 10 | 11 | 9 | -4 | 41 |
 | 10 | Paris FC | 30 | 9 | 11 | 10 | -6 | 38 |
 | 11 | Toulouse | 30 | 10 | 7 | 13 | -1 | 37 |
-| 12 | Brest | 29 | 10 | 6 | 13 | -7 | 36 |
+| 12 | Brest | 29 | 10 | 7 | 12 | -6 | 37 |
 | 13 | Angers | 30 | 9 | 7 | 14 | -14 | 34 |
 | 14 | Le Havre | 30 | 6 | 12 | 12 | -13 | 30 |
 | 15 | Nice | 30 | 7 | 8 | 15 | -22 | 29 |
 | 16 | Auxerre | 30 | 5 | 10 | 15 | -14 | 25 |
-| 17 | Nantes | 29 | 5 | 7 | 17 | -20 | 22 |
+| 17 | Nantes | 29 | 4 | 8 | 17 | -21 | 20 |
 | 18 | Metz | 30 | 3 | 6 | 21 | -39 | 15 |
 
 ### Champions League
@@ -292,8 +292,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 29 | 24 | 4 | 1 | 45 | 76 |
-| 2 | Sporting CP | 28 | 22 | 5 | 1 | 56 | 71 |
-| 3 | Benfica | 29 | 20 | 9 | 0 | 43 | 69 |
+| 2 | Benfica | 30 | 21 | 9 | 0 | 44 | 72 |
+| 3 | Sporting CP | 29 | 22 | 5 | 2 | 55 | 71 |
 | 4 | Braga | 28 | 15 | 7 | 6 | 28 | 52 |
 | 5 | Famalicão | 29 | 13 | 8 | 8 | 11 | 47 |
 | 6 | Gil Vicente | 30 | 12 | 10 | 8 | 13 | 46 |
