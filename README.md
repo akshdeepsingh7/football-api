@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 April 2026, 02:46 AM UTC (Sunday, 19 April 2026, 08:16 AM IST)
+**Last Updated:** Sunday, 19 April 2026, 05:29 AM UTC (Sunday, 19 April 2026, 10:59 AM IST)
 
 ### Premier League
 
@@ -361,17 +361,17 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
 | 2 | San Jose Earthquakes | 7 | 6 | 0 | 1 | 11 | 18 |
 | 3 | LAFC | 7 | 5 | 1 | 1 | 13 | 16 |
-| 4 | Real Salt Lake | 7 | 5 | 1 | 1 | 7 | 16 |
-| 5 | Seattle Sounders | 7 | 5 | 1 | 1 | 6 | 16 |
+| 4 | Seattle Sounders | 7 | 5 | 1 | 1 | 7 | 16 |
+| 5 | Real Salt Lake | 7 | 5 | 1 | 1 | 6 | 16 |
 | 6 | Minnesota United | 8 | 4 | 2 | 2 | -3 | 14 |
 | 7 | Dallas | 8 | 3 | 4 | 1 | 5 | 13 |
 | 8 | Colorado Rapids | 8 | 4 | 0 | 4 | 6 | 12 |
-| 9 | San Diego | 8 | 3 | 2 | 3 | 1 | 11 |
+| 9 | San Diego | 8 | 3 | 2 | 3 | 2 | 11 |
 | 10 | Houston Dynamo | 7 | 3 | 0 | 4 | -5 | 9 |
 | 11 | LA Galaxy | 8 | 2 | 3 | 3 | -1 | 9 |
 | 12 | Portland Timbers | 8 | 2 | 1 | 5 | -7 | 7 |
 | 13 | Austin | 8 | 1 | 4 | 3 | -3 | 7 |
-| 14 | St. Louis City | 8 | 1 | 3 | 4 | -5 | 6 |
+| 14 | St. Louis City | 8 | 1 | 3 | 4 | -6 | 6 |
 | 15 | Sporting KC | 8 | 1 | 1 | 6 | -13 | 4 |
 
 ### Indian Super League

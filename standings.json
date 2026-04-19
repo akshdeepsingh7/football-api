@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 02:46 AM UTC",
-        "IST": "Sunday, 19 April 2026, 08:16 AM IST"
+        "UTC": "Sunday, 19 April 2026, 05:29 AM UTC",
+        "IST": "Sunday, 19 April 2026, 10:59 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2667,7 +2667,7 @@
             },
             {
                 "Position": "4",
-                "Team": "Real Salt Lake",
+                "Team": "Seattle Sounders",
                 "Played": "7",
                 "Wins": "5",
                 "Draws": "1",
@@ -2677,7 +2677,7 @@
             },
             {
                 "Position": "5",
-                "Team": "Seattle Sounders",
+                "Team": "Real Salt Lake",
                 "Played": "7",
                 "Wins": "5",
                 "Draws": "1",
@@ -2722,7 +2722,7 @@
                 "Wins": "3",
                 "Draws": "2",
                 "Losses": "3",
-                "Goal Difference": "1",
+                "Goal Difference": "2",
                 "Points": "11"
             },
             {
@@ -2772,7 +2772,7 @@
                 "Wins": "1",
                 "Draws": "3",
                 "Losses": "4",
-                "Goal Difference": "-5",
+                "Goal Difference": "-6",
                 "Points": "6"
             },
             {
