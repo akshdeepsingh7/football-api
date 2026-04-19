@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 04:01 PM UTC",
-        "IST": "Sunday, 19 April 2026, 09:31 PM IST"
+        "UTC": "Sunday, 19 April 2026, 05:05 PM UTC",
+        "IST": "Sunday, 19 April 2026, 10:35 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -10,20 +10,20 @@
                 "Team": "Arsenal",
                 "Played": "33",
                 "Wins": "21",
-                "Draws": "8",
-                "Losses": "4",
-                "Goal Difference": "38",
-                "Points": "71"
+                "Draws": "7",
+                "Losses": "5",
+                "Goal Difference": "37",
+                "Points": "70"
             },
             {
                 "Position": "2",
                 "Team": "Manchester City",
                 "Played": "32",
-                "Wins": "19",
-                "Draws": "8",
+                "Wins": "20",
+                "Draws": "7",
                 "Losses": "5",
-                "Goal Difference": "35",
-                "Points": "65"
+                "Goal Difference": "36",
+                "Points": "67"
             },
             {
                 "Position": "3",
@@ -413,11 +413,11 @@
                 "Position": "1",
                 "Team": "Bayern Munich",
                 "Played": "30",
-                "Wins": "24",
+                "Wins": "25",
                 "Draws": "4",
-                "Losses": "2",
-                "Goal Difference": "77",
-                "Points": "76"
+                "Losses": "1",
+                "Goal Difference": "81",
+                "Points": "79"
             },
             {
                 "Position": "2",
@@ -431,16 +431,6 @@
             },
             {
                 "Position": "3",
-                "Team": "VfB Stuttgart",
-                "Played": "30",
-                "Wins": "18",
-                "Draws": "5",
-                "Losses": "7",
-                "Goal Difference": "23",
-                "Points": "59"
-            },
-            {
-                "Position": "4",
                 "Team": "RB Leipzig",
                 "Played": "30",
                 "Wins": "18",
@@ -448,6 +438,16 @@
                 "Losses": "7",
                 "Goal Difference": "22",
                 "Points": "59"
+            },
+            {
+                "Position": "4",
+                "Team": "VfB Stuttgart",
+                "Played": "30",
+                "Wins": "17",
+                "Draws": "5",
+                "Losses": "8",
+                "Goal Difference": "19",
+                "Points": "56"
             },
             {
                 "Position": "5",
@@ -830,7 +830,7 @@
                 "Wins": "15",
                 "Draws": "8",
                 "Losses": "7",
-                "Goal Difference": "9",
+                "Goal Difference": "11",
                 "Points": "53"
             },
             {
@@ -870,7 +870,7 @@
                 "Wins": "12",
                 "Draws": "7",
                 "Losses": "10",
-                "Goal Difference": "11",
+                "Goal Difference": "9",
                 "Points": "43"
             },
             {
@@ -885,6 +885,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Paris FC",
+                "Played": "30",
+                "Wins": "9",
+                "Draws": "11",
+                "Losses": "10",
+                "Goal Difference": "-6",
+                "Points": "38"
+            },
+            {
+                "Position": "11",
                 "Team": "Toulouse",
                 "Played": "30",
                 "Wins": "10",
@@ -894,23 +904,13 @@
                 "Points": "37"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Brest",
                 "Played": "29",
                 "Wins": "10",
                 "Draws": "6",
                 "Losses": "13",
                 "Goal Difference": "-7",
-                "Points": "36"
-            },
-            {
-                "Position": "12",
-                "Team": "Paris FC",
-                "Played": "30",
-                "Wins": "8",
-                "Draws": "12",
-                "Losses": "10",
-                "Goal Difference": "-8",
                 "Points": "36"
             },
             {
@@ -968,10 +968,10 @@
                 "Team": "Metz",
                 "Played": "30",
                 "Wins": "3",
-                "Draws": "7",
-                "Losses": "20",
-                "Goal Difference": "-37",
-                "Points": "16"
+                "Draws": "6",
+                "Losses": "21",
+                "Goal Difference": "-39",
+                "Points": "15"
             }
         ],
         "Champions League": [

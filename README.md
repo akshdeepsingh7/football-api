@@ -41,14 +41,14 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 April 2026, 04:01 PM UTC (Sunday, 19 April 2026, 09:31 PM IST)
+**Last Updated:** Sunday, 19 April 2026, 05:05 PM UTC (Sunday, 19 April 2026, 10:35 PM IST)
 
 ### Premier League
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Arsenal | 33 | 21 | 8 | 4 | 38 | 71 |
-| 2 | Manchester City | 32 | 19 | 8 | 5 | 35 | 65 |
+| 1 | Arsenal | 33 | 21 | 7 | 5 | 37 | 70 |
+| 2 | Manchester City | 32 | 20 | 7 | 5 | 36 | 67 |
 | 3 | Manchester United | 33 | 16 | 10 | 7 | 13 | 58 |
 | 4 | Aston Villa | 33 | 17 | 7 | 9 | 6 | 58 |
 | 5 | Liverpool FC | 33 | 16 | 7 | 10 | 11 | 55 |
@@ -97,10 +97,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Bayern Munich | 30 | 24 | 4 | 2 | 77 | 76 |
+| 1 | Bayern Munich | 30 | 25 | 4 | 1 | 81 | 79 |
 | 2 | Borussia Dortmund | 30 | 19 | 7 | 4 | 30 | 64 |
-| 3 | VfB Stuttgart | 30 | 18 | 5 | 7 | 23 | 59 |
-| 4 | RB Leipzig | 30 | 18 | 5 | 7 | 22 | 59 |
+| 3 | RB Leipzig | 30 | 18 | 5 | 7 | 22 | 59 |
+| 4 | VfB Stuttgart | 30 | 17 | 5 | 8 | 19 | 56 |
 | 5 | Hoffenheim | 30 | 16 | 6 | 8 | 15 | 54 |
 | 6 | Bayer Leverkusen | 30 | 15 | 7 | 8 | 19 | 52 |
 | 7 | SC Freiburg | 30 | 12 | 7 | 11 | -4 | 43 |
@@ -148,21 +148,21 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 27 | 20 | 3 | 4 | 38 | 63 |
 | 2 | Lens | 29 | 20 | 2 | 7 | 28 | 62 |
 | 3 | LOSC | 30 | 16 | 6 | 8 | 15 | 54 |
-| 4 | Rennes | 30 | 15 | 8 | 7 | 9 | 53 |
+| 4 | Rennes | 30 | 15 | 8 | 7 | 11 | 53 |
 | 5 | Marseille | 30 | 16 | 4 | 10 | 18 | 52 |
 | 6 | Lyon | 29 | 15 | 6 | 8 | 14 | 51 |
 | 7 | Monaco | 30 | 15 | 5 | 10 | 7 | 50 |
-| 8 | Strasbourg | 29 | 12 | 7 | 10 | 11 | 43 |
+| 8 | Strasbourg | 29 | 12 | 7 | 10 | 9 | 43 |
 | 9 | Lorient | 30 | 10 | 11 | 9 | -4 | 41 |
-| 10 | Toulouse | 30 | 10 | 7 | 13 | -1 | 37 |
-| 11 | Brest | 29 | 10 | 6 | 13 | -7 | 36 |
-| 12 | Paris FC | 30 | 8 | 12 | 10 | -8 | 36 |
+| 10 | Paris FC | 30 | 9 | 11 | 10 | -6 | 38 |
+| 11 | Toulouse | 30 | 10 | 7 | 13 | -1 | 37 |
+| 12 | Brest | 29 | 10 | 6 | 13 | -7 | 36 |
 | 13 | Angers | 30 | 9 | 7 | 14 | -14 | 34 |
 | 14 | Le Havre | 30 | 6 | 12 | 12 | -13 | 30 |
 | 15 | Nice | 30 | 7 | 8 | 15 | -22 | 29 |
 | 16 | Auxerre | 30 | 5 | 10 | 15 | -14 | 25 |
 | 17 | Nantes | 29 | 5 | 7 | 17 | -20 | 22 |
-| 18 | Metz | 30 | 3 | 7 | 20 | -37 | 16 |
+| 18 | Metz | 30 | 3 | 6 | 21 | -39 | 15 |
 
 ### Champions League
 
