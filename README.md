@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 April 2026, 08:00 PM UTC (Monday, 20 April 2026, 01:30 AM IST)
+**Last Updated:** Sunday, 19 April 2026, 08:50 PM UTC (Monday, 20 April 2026, 02:20 AM IST)
 
 ### Premier League
 
@@ -123,11 +123,11 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Inter | 33 | 25 | 3 | 5 | 49 | 78 |
 | 2 | Milan | 33 | 19 | 9 | 5 | 21 | 66 |
 | 3 | Napoli | 33 | 20 | 6 | 7 | 15 | 66 |
-| 4 | Juventus | 33 | 18 | 9 | 6 | 27 | 63 |
+| 4 | Juventus | 33 | 18 | 9 | 6 | 28 | 63 |
 | 5 | Como | 33 | 16 | 10 | 7 | 29 | 58 |
 | 6 | Roma | 33 | 18 | 4 | 11 | 17 | 58 |
 | 7 | Atalanta | 33 | 14 | 12 | 7 | 16 | 54 |
-| 8 | Bologna | 33 | 14 | 6 | 13 | 4 | 48 |
+| 8 | Bologna | 33 | 14 | 6 | 13 | 3 | 48 |
 | 9 | Lazio | 33 | 12 | 11 | 10 | 4 | 47 |
 | 10 | Sassuolo | 33 | 13 | 6 | 14 | -3 | 45 |
 | 11 | Udinese | 33 | 12 | 7 | 14 | -5 | 43 |
@@ -145,9 +145,9 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 28 | 20 | 3 | 5 | 36 | 63 |
+| 1 | PSG | 28 | 20 | 3 | 5 | 37 | 63 |
 | 2 | Lens | 29 | 20 | 2 | 7 | 28 | 62 |
-| 3 | Lyon | 30 | 16 | 6 | 8 | 16 | 54 |
+| 3 | Lyon | 30 | 16 | 6 | 8 | 15 | 54 |
 | 4 | LOSC | 30 | 16 | 6 | 8 | 15 | 54 |
 | 5 | Rennes | 30 | 15 | 8 | 7 | 11 | 53 |
 | 6 | Marseille | 30 | 16 | 4 | 10 | 18 | 52 |
@@ -291,11 +291,11 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 30 | 24 | 5 | 1 | 45 | 77 |
+| 1 | Porto | 30 | 25 | 4 | 1 | 46 | 79 |
 | 2 | Benfica | 30 | 21 | 9 | 0 | 44 | 72 |
 | 3 | Sporting CP | 29 | 22 | 5 | 2 | 55 | 71 |
-| 4 | Braga | 29 | 16 | 7 | 6 | 29 | 55 |
-| 5 | Famalicão | 30 | 13 | 8 | 9 | 10 | 47 |
+| 4 | Braga | 29 | 15 | 8 | 6 | 28 | 53 |
+| 5 | Famalicão | 30 | 13 | 9 | 8 | 11 | 48 |
 | 6 | Gil Vicente | 30 | 12 | 10 | 8 | 13 | 46 |
 | 7 | Vitória S.C. | 30 | 11 | 6 | 13 | -7 | 39 |
 | 8 | Estoril | 29 | 10 | 7 | 12 | 1 | 37 |
@@ -307,7 +307,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Nacional | 30 | 7 | 7 | 16 | -9 | 28 |
 | 15 | Estrela Amadora | 30 | 6 | 10 | 14 | -16 | 28 |
 | 16 | Casa Pia | 29 | 5 | 11 | 13 | -24 | 26 |
-| 17 | Tondela | 29 | 4 | 10 | 15 | -25 | 22 |
+| 17 | Tondela | 29 | 4 | 9 | 16 | -26 | 21 |
 | 18 | AVS | 30 | 1 | 10 | 19 | -43 | 13 |
 
 ### EFL Championship
@@ -407,11 +407,11 @@ Data not available.
 | 4 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
 | 5 | Bahia | 10 | 6 | 2 | 2 | 5 | 20 |
 | 6 | Athletico Paranaense | 11 | 6 | 1 | 4 | 4 | 19 |
-| 7 | Coritiba | 12 | 5 | 4 | 3 | 2 | 19 |
+| 7 | Coritiba | 12 | 5 | 4 | 3 | 3 | 19 |
 | 8 | Botafogo | 11 | 5 | 1 | 5 | 0 | 16 |
 | 9 | Vasco da Gama | 12 | 4 | 4 | 4 | 0 | 16 |
 | 10 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
-| 11 | Atlético Mineiro | 12 | 4 | 2 | 6 | 0 | 14 |
+| 11 | Atlético Mineiro | 12 | 4 | 2 | 6 | -1 | 14 |
 | 12 | RB Bragantino | 11 | 4 | 2 | 5 | -1 | 14 |
 | 13 | Santos | 12 | 3 | 5 | 4 | -2 | 14 |
 | 14 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
