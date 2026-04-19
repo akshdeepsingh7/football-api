@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 19 April 2026, 02:09 PM UTC",
-        "IST": "Sunday, 19 April 2026, 07:39 PM IST"
+        "UTC": "Sunday, 19 April 2026, 03:06 PM UTC",
+        "IST": "Sunday, 19 April 2026, 08:36 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -42,7 +42,7 @@
                 "Wins": "17",
                 "Draws": "7",
                 "Losses": "9",
-                "Goal Difference": "7",
+                "Goal Difference": "6",
                 "Points": "58"
             },
             {
@@ -112,7 +112,7 @@
                 "Wins": "12",
                 "Draws": "10",
                 "Losses": "11",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "46"
             },
             {
@@ -159,11 +159,11 @@
                 "Position": "16",
                 "Team": "Nottingham Forest",
                 "Played": "33",
-                "Wins": "8",
+                "Wins": "9",
                 "Draws": "9",
-                "Losses": "16",
-                "Goal Difference": "-13",
-                "Points": "33"
+                "Losses": "15",
+                "Goal Difference": "-9",
+                "Points": "36"
             },
             {
                 "Position": "17",
@@ -189,11 +189,11 @@
                 "Position": "19",
                 "Team": "Burnley",
                 "Played": "33",
-                "Wins": "5",
+                "Wins": "4",
                 "Draws": "8",
-                "Losses": "20",
-                "Goal Difference": "-29",
-                "Points": "23"
+                "Losses": "21",
+                "Goal Difference": "-33",
+                "Points": "20"
             },
             {
                 "Position": "20",
@@ -471,16 +471,6 @@
             },
             {
                 "Position": "7",
-                "Team": "SC Freiburg",
-                "Played": "30",
-                "Wins": "12",
-                "Draws": "7",
-                "Losses": "11",
-                "Goal Difference": "-4",
-                "Points": "43"
-            },
-            {
-                "Position": "8",
                 "Team": "Eintracht Frankfurt",
                 "Played": "30",
                 "Wins": "11",
@@ -488,6 +478,16 @@
                 "Losses": "10",
                 "Goal Difference": "-2",
                 "Points": "42"
+            },
+            {
+                "Position": "8",
+                "Team": "SC Freiburg",
+                "Played": "30",
+                "Wins": "11",
+                "Draws": "8",
+                "Losses": "11",
+                "Goal Difference": "-5",
+                "Points": "41"
             },
             {
                 "Position": "9",
@@ -584,10 +584,10 @@
                 "Team": "Heidenheim",
                 "Played": "30",
                 "Wins": "4",
-                "Draws": "7",
-                "Losses": "19",
-                "Goal Difference": "-33",
-                "Points": "19"
+                "Draws": "8",
+                "Losses": "18",
+                "Goal Difference": "-32",
+                "Points": "20"
             }
         ],
         "Serie A": [
@@ -858,10 +858,10 @@
                 "Team": "Monaco",
                 "Played": "30",
                 "Wins": "15",
-                "Draws": "4",
-                "Losses": "11",
-                "Goal Difference": "5",
-                "Points": "49"
+                "Draws": "5",
+                "Losses": "10",
+                "Goal Difference": "7",
+                "Points": "50"
             },
             {
                 "Position": "8",
@@ -947,11 +947,11 @@
                 "Position": "16",
                 "Team": "Auxerre",
                 "Played": "30",
-                "Wins": "6",
-                "Draws": "9",
+                "Wins": "5",
+                "Draws": "10",
                 "Losses": "15",
-                "Goal Difference": "-12",
-                "Points": "27"
+                "Goal Difference": "-14",
+                "Points": "25"
             },
             {
                 "Position": "17",
@@ -2174,15 +2174,25 @@
             {
                 "Position": "12",
                 "Team": "Arouca",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "9",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "15",
                 "Goal Difference": "-21",
-                "Points": "32"
+                "Points": "33"
             },
             {
                 "Position": "13",
+                "Team": "Estrela Amadora",
+                "Played": "30",
+                "Wins": "6",
+                "Draws": "11",
+                "Losses": "13",
+                "Goal Difference": "-15",
+                "Points": "29"
+            },
+            {
+                "Position": "14",
                 "Team": "Santa Clara",
                 "Played": "30",
                 "Wins": "7",
@@ -2192,23 +2202,13 @@
                 "Points": "29"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Nacional",
                 "Played": "30",
                 "Wins": "7",
                 "Draws": "7",
                 "Losses": "16",
                 "Goal Difference": "-9",
-                "Points": "28"
-            },
-            {
-                "Position": "15",
-                "Team": "Estrela Amadora",
-                "Played": "29",
-                "Wins": "6",
-                "Draws": "10",
-                "Losses": "13",
-                "Goal Difference": "-15",
                 "Points": "28"
             },
             {
@@ -3052,16 +3052,6 @@
             },
             {
                 "Position": "13",
-                "Team": "Internacional",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "14"
-            },
-            {
-                "Position": "14",
                 "Team": "Santos",
                 "Played": "11",
                 "Wins": "3",
@@ -3071,13 +3061,23 @@
                 "Points": "13"
             },
             {
-                "Position": "15",
+                "Position": "14",
                 "Team": "Gr\u00eamio",
                 "Played": "12",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "-2",
+                "Points": "13"
+            },
+            {
+                "Position": "15",
+                "Team": "Internacional",
+                "Played": "12",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-3",
                 "Points": "13"
             },
             {
@@ -3102,6 +3102,16 @@
             },
             {
                 "Position": "18",
+                "Team": "Mirassol",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-3",
+                "Points": "9"
+            },
+            {
+                "Position": "19",
                 "Team": "Remo",
                 "Played": "11",
                 "Wins": "1",
@@ -3111,7 +3121,7 @@
                 "Points": "8"
             },
             {
-                "Position": "19",
+                "Position": "20",
                 "Team": "Chapecoense",
                 "Played": "11",
                 "Wins": "1",
@@ -3119,16 +3129,6 @@
                 "Losses": "5",
                 "Goal Difference": "-11",
                 "Points": "8"
-            },
-            {
-                "Position": "20",
-                "Team": "Mirassol",
-                "Played": "11",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "6",
-                "Goal Difference": "-5",
-                "Points": "7"
             }
         ]
     }
