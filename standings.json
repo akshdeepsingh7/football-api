@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 20 April 2026, 01:44 PM UTC",
-        "IST": "Monday, 20 April 2026, 07:14 PM IST"
+        "UTC": "Monday, 20 April 2026, 03:16 PM UTC",
+        "IST": "Monday, 20 April 2026, 08:46 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2850,21 +2850,21 @@
             {
                 "Position": "7",
                 "Team": "Punjab FC",
-                "Played": "7",
-                "Wins": "3",
+                "Played": "8",
+                "Wins": "4",
                 "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "3",
-                "Points": "11"
+                "Goal Difference": "5",
+                "Points": "14"
             },
             {
                 "Position": "8",
                 "Team": "Inter Kashi",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "3",
                 "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "-1",
+                "Losses": "4",
+                "Goal Difference": "-3",
                 "Points": "11"
             },
             {
