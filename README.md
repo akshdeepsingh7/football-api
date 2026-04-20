@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 20 April 2026, 05:58 PM UTC (Monday, 20 April 2026, 11:28 PM IST)
+**Last Updated:** Monday, 20 April 2026, 07:19 PM UTC (Tuesday, 21 April 2026, 12:49 AM IST)
 
 ### Premier League
 
@@ -59,11 +59,11 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Everton | 33 | 13 | 8 | 12 | 1 | 47 |
 | 11 | Sunderland | 33 | 12 | 10 | 11 | -4 | 46 |
 | 12 | Fulham | 33 | 13 | 6 | 14 | -3 | 45 |
-| 13 | Crystal Palace | 31 | 11 | 9 | 11 | -1 | 42 |
+| 13 | Crystal Palace | 32 | 11 | 10 | 11 | -1 | 43 |
 | 14 | Newcastle United | 33 | 12 | 6 | 15 | -3 | 42 |
 | 15 | Leeds United | 33 | 9 | 12 | 12 | -7 | 39 |
 | 16 | Nottingham Forest | 33 | 9 | 9 | 15 | -9 | 36 |
-| 17 | West Ham United | 32 | 8 | 8 | 16 | -17 | 32 |
+| 17 | West Ham United | 33 | 8 | 9 | 16 | -17 | 33 |
 | 18 | Tottenham Hotspur | 33 | 7 | 10 | 16 | -11 | 31 |
 | 19 | Burnley | 33 | 4 | 8 | 21 | -33 | 20 |
 | 20 | Wolverhampton Wanderers | 33 | 3 | 8 | 22 | -37 | 17 |
@@ -134,10 +134,10 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Torino | 33 | 11 | 7 | 15 | -17 | 40 |
 | 13 | Genoa | 33 | 10 | 9 | 14 | -6 | 39 |
 | 14 | Parma | 33 | 9 | 12 | 12 | -16 | 39 |
-| 15 | Fiorentina | 32 | 8 | 11 | 13 | -7 | 35 |
+| 15 | Fiorentina | 33 | 9 | 11 | 13 | -6 | 38 |
 | 16 | Cagliari | 33 | 8 | 9 | 16 | -14 | 33 |
 | 17 | Cremonese | 33 | 6 | 10 | 17 | -21 | 28 |
-| 18 | Lecce | 32 | 7 | 6 | 19 | -24 | 27 |
+| 18 | Lecce | 33 | 7 | 6 | 20 | -25 | 27 |
 | 19 | Hellas Verona | 33 | 3 | 9 | 21 | -33 | 18 |
 | 20 | Pisa | 33 | 2 | 12 | 19 | -36 | 18 |
 
