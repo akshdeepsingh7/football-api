@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 20 April 2026, 07:19 PM UTC",
-        "IST": "Tuesday, 21 April 2026, 12:49 AM IST"
+        "UTC": "Monday, 20 April 2026, 08:09 PM UTC",
+        "IST": "Tuesday, 21 April 2026, 01:39 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2123,6 +2123,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Moreirense",
+                "Played": "30",
+                "Wins": "11",
+                "Draws": "6",
+                "Losses": "13",
+                "Goal Difference": "-8",
+                "Points": "39"
+            },
+            {
+                "Position": "8",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "30",
                 "Wins": "11",
@@ -2132,24 +2142,14 @@
                 "Points": "39"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "Estoril",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "10",
                 "Draws": "7",
-                "Losses": "12",
-                "Goal Difference": "1",
-                "Points": "37"
-            },
-            {
-                "Position": "9",
-                "Team": "Moreirense",
-                "Played": "29",
-                "Wins": "10",
-                "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "-9",
-                "Points": "36"
+                "Goal Difference": "0",
+                "Points": "37"
             },
             {
                 "Position": "10",

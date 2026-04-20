@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 20 April 2026, 07:19 PM UTC (Tuesday, 21 April 2026, 12:49 AM IST)
+**Last Updated:** Monday, 20 April 2026, 08:09 PM UTC (Tuesday, 21 April 2026, 01:39 AM IST)
 
 ### Premier League
 
@@ -297,9 +297,9 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Braga | 29 | 15 | 8 | 6 | 28 | 53 |
 | 5 | Famalicão | 30 | 13 | 9 | 8 | 11 | 48 |
 | 6 | Gil Vicente | 30 | 12 | 10 | 8 | 13 | 46 |
-| 7 | Vitória S.C. | 30 | 11 | 6 | 13 | -7 | 39 |
-| 8 | Estoril | 29 | 10 | 7 | 12 | 1 | 37 |
-| 9 | Moreirense | 29 | 10 | 6 | 13 | -9 | 36 |
+| 7 | Moreirense | 30 | 11 | 6 | 13 | -8 | 39 |
+| 8 | Vitória S.C. | 30 | 11 | 6 | 13 | -7 | 39 |
+| 9 | Estoril | 30 | 10 | 7 | 13 | 0 | 37 |
 | 10 | Arouca | 30 | 10 | 5 | 15 | -20 | 35 |
 | 11 | Alverca | 30 | 9 | 8 | 13 | -16 | 35 |
 | 12 | Rio Ave | 30 | 8 | 10 | 12 | -17 | 34 |
