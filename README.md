@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 19 April 2026, 11:37 PM UTC (Monday, 20 April 2026, 05:07 AM IST)
+**Last Updated:** Monday, 20 April 2026, 02:47 AM UTC (Monday, 20 April 2026, 08:17 AM IST)
 
 ### Premier League
 
@@ -359,8 +359,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Atlanta United | 8 | 1 | 1 | 6 | -8 | 4 |
 | 15 | Orlando City | 8 | 1 | 1 | 6 | -19 | 4 |
 | 1 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
-| 2 | San Jose Earthquakes | 8 | 6 | 1 | 1 | 11 | 19 |
-| 3 | LAFC | 8 | 5 | 2 | 1 | 13 | 17 |
+| 2 | San Jose Earthquakes | 8 | 7 | 0 | 1 | 14 | 21 |
+| 3 | LAFC | 8 | 5 | 1 | 2 | 10 | 16 |
 | 4 | Seattle Sounders | 7 | 5 | 1 | 1 | 7 | 16 |
 | 5 | Real Salt Lake | 7 | 5 | 1 | 1 | 6 | 16 |
 | 6 | Minnesota United | 8 | 4 | 2 | 2 | -3 | 14 |
@@ -402,10 +402,10 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 12 | 9 | 2 | 1 | 12 | 29 |
-| 2 | Flamengo | 11 | 7 | 2 | 2 | 9 | 23 |
+| 2 | Flamengo | 11 | 7 | 2 | 2 | 10 | 23 |
 | 3 | Fluminense | 12 | 7 | 2 | 3 | 6 | 23 |
 | 4 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
-| 5 | Bahia | 11 | 6 | 2 | 3 | 4 | 20 |
+| 5 | Bahia | 11 | 6 | 2 | 3 | 3 | 20 |
 | 6 | Athletico Paranaense | 12 | 6 | 1 | 5 | 3 | 19 |
 | 7 | Coritiba | 12 | 5 | 4 | 3 | 3 | 19 |
 | 8 | RB Bragantino | 12 | 5 | 2 | 5 | 1 | 17 |
