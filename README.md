@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 21 April 2026, 04:10 PM UTC (Tuesday, 21 April 2026, 09:40 PM IST)
+**Last Updated:** Tuesday, 21 April 2026, 05:34 PM UTC (Tuesday, 21 April 2026, 11:04 PM IST)
 
 ### Premier League
 
@@ -80,13 +80,13 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Celta de Vigo | 31 | 11 | 11 | 9 | 4 | 44 |
 | 7 | Real Sociedad | 31 | 11 | 9 | 11 | 1 | 42 |
 | 8 | Getafe | 31 | 12 | 5 | 14 | -5 | 41 |
-| 9 | Osasuna | 31 | 10 | 9 | 12 | -1 | 39 |
-| 10 | Espanyol | 31 | 10 | 8 | 13 | -11 | 38 |
+| 9 | Athletic Bilbao | 32 | 12 | 5 | 15 | -11 | 41 |
+| 10 | Osasuna | 32 | 10 | 9 | 13 | -2 | 39 |
 | 11 | Girona | 31 | 9 | 11 | 11 | -12 | 38 |
-| 12 | Athletic Bilbao | 31 | 11 | 5 | 15 | -12 | 38 |
-| 13 | Rayo Vallecano | 31 | 8 | 11 | 12 | -9 | 35 |
-| 14 | Valencia | 31 | 9 | 8 | 14 | -12 | 35 |
-| 15 | Mallorca | 31 | 9 | 7 | 15 | -9 | 34 |
+| 12 | Espanyol | 31 | 10 | 8 | 13 | -11 | 38 |
+| 13 | Valencia | 32 | 9 | 9 | 14 | -12 | 36 |
+| 14 | Mallorca | 32 | 9 | 8 | 15 | -9 | 35 |
+| 15 | Rayo Vallecano | 31 | 8 | 11 | 12 | -9 | 35 |
 | 16 | Sevilla | 31 | 9 | 7 | 15 | -12 | 34 |
 | 17 | Alavés | 31 | 8 | 9 | 14 | -11 | 33 |
 | 18 | Elche | 31 | 7 | 11 | 13 | -8 | 32 |

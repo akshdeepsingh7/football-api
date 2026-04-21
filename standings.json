@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 21 April 2026, 04:10 PM UTC",
-        "IST": "Tuesday, 21 April 2026, 09:40 PM IST"
+        "UTC": "Tuesday, 21 April 2026, 05:34 PM UTC",
+        "IST": "Tuesday, 21 April 2026, 11:04 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -289,23 +289,23 @@
             },
             {
                 "Position": "9",
-                "Team": "Osasuna",
-                "Played": "31",
-                "Wins": "10",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "-1",
-                "Points": "39"
+                "Team": "Athletic Bilbao",
+                "Played": "32",
+                "Wins": "12",
+                "Draws": "5",
+                "Losses": "15",
+                "Goal Difference": "-11",
+                "Points": "41"
             },
             {
                 "Position": "10",
-                "Team": "Espanyol",
-                "Played": "31",
+                "Team": "Osasuna",
+                "Played": "32",
                 "Wins": "10",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "13",
-                "Goal Difference": "-11",
-                "Points": "38"
+                "Goal Difference": "-2",
+                "Points": "39"
             },
             {
                 "Position": "11",
@@ -319,16 +319,36 @@
             },
             {
                 "Position": "12",
-                "Team": "Athletic Bilbao",
+                "Team": "Espanyol",
                 "Played": "31",
-                "Wins": "11",
-                "Draws": "5",
-                "Losses": "15",
-                "Goal Difference": "-12",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "-11",
                 "Points": "38"
             },
             {
                 "Position": "13",
+                "Team": "Valencia",
+                "Played": "32",
+                "Wins": "9",
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "-12",
+                "Points": "36"
+            },
+            {
+                "Position": "14",
+                "Team": "Mallorca",
+                "Played": "32",
+                "Wins": "9",
+                "Draws": "8",
+                "Losses": "15",
+                "Goal Difference": "-9",
+                "Points": "35"
+            },
+            {
+                "Position": "15",
                 "Team": "Rayo Vallecano",
                 "Played": "31",
                 "Wins": "8",
@@ -336,26 +356,6 @@
                 "Losses": "12",
                 "Goal Difference": "-9",
                 "Points": "35"
-            },
-            {
-                "Position": "14",
-                "Team": "Valencia",
-                "Played": "31",
-                "Wins": "9",
-                "Draws": "8",
-                "Losses": "14",
-                "Goal Difference": "-12",
-                "Points": "35"
-            },
-            {
-                "Position": "15",
-                "Team": "Mallorca",
-                "Played": "31",
-                "Wins": "9",
-                "Draws": "7",
-                "Losses": "15",
-                "Goal Difference": "-9",
-                "Points": "34"
             },
             {
                 "Position": "16",
