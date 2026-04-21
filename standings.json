@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 21 April 2026, 12:41 PM UTC",
-        "IST": "Tuesday, 21 April 2026, 06:11 PM IST"
+        "UTC": "Tuesday, 21 April 2026, 02:46 PM UTC",
+        "IST": "Tuesday, 21 April 2026, 08:16 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2869,22 +2869,22 @@
             },
             {
                 "Position": "9",
+                "Team": "Chennaiyin",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-4",
+                "Points": "9"
+            },
+            {
+                "Position": "10",
                 "Team": "SC Delhi",
                 "Played": "8",
                 "Wins": "2",
                 "Draws": "2",
                 "Losses": "4",
                 "Goal Difference": "-2",
-                "Points": "8"
-            },
-            {
-                "Position": "10",
-                "Team": "Chennaiyin",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-4",
                 "Points": "8"
             },
             {
@@ -2920,12 +2920,12 @@
             {
                 "Position": "14",
                 "Team": "Mohammedan",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "0",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "7",
                 "Goal Difference": "-17",
-                "Points": "1"
+                "Points": "2"
             }
         ],
         "Liga Profesional Argentina (Clausura)": [],
