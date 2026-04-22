@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 22 April 2026, 08:05 PM UTC (Thursday, 23 April 2026, 01:35 AM IST)
+**Last Updated:** Wednesday, 22 April 2026, 09:26 PM UTC (Thursday, 23 April 2026, 02:56 AM IST)
 
 ### Premier League
 
@@ -72,13 +72,13 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Barcelona | 32 | 26 | 2 | 4 | 54 | 80 |
+| 1 | Barcelona | 32 | 27 | 1 | 4 | 55 | 82 |
 | 2 | Real Madrid | 32 | 23 | 4 | 5 | 37 | 73 |
 | 3 | Villarreal | 31 | 19 | 4 | 8 | 20 | 61 |
 | 4 | Atlético de Madrid | 32 | 17 | 6 | 9 | 18 | 57 |
 | 5 | Real Betis | 32 | 12 | 13 | 7 | 8 | 49 |
-| 6 | Celta de Vigo | 32 | 11 | 12 | 9 | 4 | 45 |
-| 7 | Getafe | 32 | 13 | 5 | 14 | -4 | 44 |
+| 6 | Getafe | 32 | 13 | 5 | 14 | -4 | 44 |
+| 7 | Celta de Vigo | 32 | 11 | 11 | 10 | 3 | 44 |
 | 8 | Real Sociedad | 32 | 11 | 9 | 12 | 0 | 42 |
 | 9 | Athletic Bilbao | 32 | 12 | 5 | 15 | -11 | 41 |
 | 10 | Osasuna | 32 | 10 | 9 | 13 | -2 | 39 |
@@ -315,8 +315,8 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 44 | 26 | 11 | 7 | 46 | 89 |
-| 2 | Millwall | 44 | 23 | 10 | 11 | 13 | 79 |
-| 3 | Ipswich Town | 43 | 21 | 14 | 8 | 29 | 77 |
+| 2 | Ipswich Town | 43 | 22 | 13 | 8 | 30 | 79 |
+| 3 | Millwall | 44 | 23 | 10 | 11 | 13 | 79 |
 | 4 | Southampton | 44 | 21 | 13 | 10 | 24 | 76 |
 | 5 | Middlesbrough | 44 | 21 | 13 | 10 | 21 | 76 |
 | 6 | Wrexham | 44 | 19 | 13 | 12 | 6 | 70 |
@@ -333,8 +333,8 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Stoke City | 44 | 15 | 10 | 19 | -1 | 55 |
 | 18 | West Bromwich Albion | 44 | 13 | 13 | 18 | -9 | 52 |
 | 19 | Blackburn Rovers | 45 | 13 | 13 | 19 | -13 | 52 |
-| 20 | Charlton Athletic | 44 | 12 | 15 | 17 | -12 | 51 |
-| 21 | Portsmouth | 44 | 13 | 12 | 19 | -17 | 51 |
+| 20 | Portsmouth | 44 | 13 | 12 | 19 | -17 | 51 |
+| 21 | Charlton Athletic | 44 | 12 | 14 | 18 | -13 | 50 |
 | 22 | Oxford United | 44 | 10 | 14 | 20 | -15 | 44 |
 | 23 | Leicester City | 44 | 11 | 15 | 18 | -11 | 42 |
 | 24 | Sheffield Wednesday | 44 | 1 | 12 | 31 | -58 | -3 |
