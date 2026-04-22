@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 22 April 2026, 05:02 PM UTC (Wednesday, 22 April 2026, 10:32 PM IST)
+**Last Updated:** Wednesday, 22 April 2026, 06:37 PM UTC (Thursday, 23 April 2026, 12:07 AM IST)
 
 ### Premier League
 
@@ -75,11 +75,11 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Barcelona | 31 | 26 | 1 | 4 | 54 | 79 |
 | 2 | Real Madrid | 32 | 23 | 4 | 5 | 37 | 73 |
 | 3 | Villarreal | 31 | 19 | 4 | 8 | 20 | 61 |
-| 4 | Atlético de Madrid | 31 | 17 | 6 | 8 | 19 | 57 |
+| 4 | Atlético de Madrid | 32 | 17 | 7 | 8 | 19 | 58 |
 | 5 | Real Betis | 32 | 12 | 13 | 7 | 8 | 49 |
-| 6 | Celta de Vigo | 31 | 11 | 11 | 9 | 4 | 44 |
-| 7 | Real Sociedad | 31 | 11 | 9 | 11 | 1 | 42 |
-| 8 | Getafe | 31 | 12 | 5 | 14 | -5 | 41 |
+| 6 | Getafe | 32 | 13 | 5 | 14 | -4 | 44 |
+| 7 | Celta de Vigo | 31 | 11 | 11 | 9 | 4 | 44 |
+| 8 | Real Sociedad | 32 | 11 | 9 | 12 | 0 | 42 |
 | 9 | Athletic Bilbao | 32 | 12 | 5 | 15 | -11 | 41 |
 | 10 | Osasuna | 32 | 10 | 9 | 13 | -2 | 39 |
 | 11 | Girona | 32 | 9 | 11 | 12 | -13 | 38 |
@@ -88,8 +88,8 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Mallorca | 32 | 9 | 8 | 15 | -9 | 35 |
 | 15 | Rayo Vallecano | 31 | 8 | 11 | 12 | -9 | 35 |
 | 16 | Sevilla | 31 | 9 | 7 | 15 | -12 | 34 |
-| 17 | Alavés | 32 | 8 | 9 | 15 | -12 | 33 |
-| 18 | Elche | 31 | 7 | 11 | 13 | -8 | 32 |
+| 17 | Elche | 32 | 7 | 12 | 13 | -8 | 33 |
+| 18 | Alavés | 32 | 8 | 9 | 15 | -12 | 33 |
 | 19 | Levante | 31 | 7 | 8 | 16 | -15 | 29 |
 | 20 | Real Oviedo | 31 | 6 | 9 | 16 | -24 | 27 |
 
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 29 | 20 | 4 | 5 | 37 | 64 |
+| 1 | PSG | 29 | 21 | 3 | 5 | 40 | 66 |
 | 2 | Lens | 29 | 20 | 2 | 7 | 28 | 62 |
 | 3 | Lyon | 30 | 16 | 6 | 8 | 15 | 54 |
 | 4 | LOSC | 30 | 16 | 6 | 8 | 15 | 54 |
@@ -161,7 +161,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Le Havre | 30 | 6 | 12 | 12 | -13 | 30 |
 | 15 | Nice | 30 | 7 | 8 | 15 | -22 | 29 |
 | 16 | Auxerre | 30 | 5 | 10 | 15 | -14 | 25 |
-| 17 | Nantes | 30 | 4 | 9 | 17 | -21 | 21 |
+| 17 | Nantes | 30 | 4 | 8 | 18 | -24 | 20 |
 | 18 | Metz | 30 | 3 | 6 | 21 | -39 | 15 |
 
 ### Champions League
