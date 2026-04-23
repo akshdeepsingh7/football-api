@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 23 April 2026, 01:45 PM UTC (Thursday, 23 April 2026, 07:15 PM IST)
+**Last Updated:** Thursday, 23 April 2026, 03:53 PM UTC (Thursday, 23 April 2026, 09:23 PM IST)
 
 ### Premier League
 
@@ -387,10 +387,10 @@ The latest league standings are displayed below in Markdown tables:
 | 7 | Punjab FC | 8 | 4 | 2 | 2 | 6 | 14 |
 | 8 | Inter Kashi | 9 | 3 | 2 | 4 | -4 | 11 |
 | 9 | Chennaiyin | 9 | 2 | 3 | 4 | -4 | 9 |
-| 10 | SC Delhi | 8 | 2 | 2 | 4 | -2 | 8 |
-| 11 | Kerala Blasters | 10 | 2 | 2 | 6 | -6 | 8 |
-| 12 | NorthEast Utd | 9 | 1 | 4 | 4 | -9 | 7 |
-| 13 | Odisha | 7 | 1 | 3 | 3 | -4 | 6 |
+| 10 | Kerala Blasters | 11 | 2 | 3 | 6 | -6 | 9 |
+| 11 | SC Delhi | 8 | 2 | 2 | 4 | -2 | 8 |
+| 12 | Odisha | 8 | 1 | 4 | 3 | -4 | 7 |
+| 13 | NorthEast Utd | 9 | 1 | 4 | 4 | -9 | 7 |
 | 14 | Mohammedan | 9 | 0 | 2 | 7 | -17 | 2 |
 
 ### Liga Profesional Argentina (Clausura)

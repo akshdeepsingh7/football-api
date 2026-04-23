@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 23 April 2026, 01:45 PM UTC",
-        "IST": "Thursday, 23 April 2026, 07:15 PM IST"
+        "UTC": "Thursday, 23 April 2026, 03:53 PM UTC",
+        "IST": "Thursday, 23 April 2026, 09:23 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2879,6 +2879,16 @@
             },
             {
                 "Position": "10",
+                "Team": "Kerala Blasters",
+                "Played": "11",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "6",
+                "Goal Difference": "-6",
+                "Points": "9"
+            },
+            {
+                "Position": "11",
                 "Team": "SC Delhi",
                 "Played": "8",
                 "Wins": "2",
@@ -2888,17 +2898,17 @@
                 "Points": "8"
             },
             {
-                "Position": "11",
-                "Team": "Kerala Blasters",
-                "Played": "10",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "-6",
-                "Points": "8"
+                "Position": "12",
+                "Team": "Odisha",
+                "Played": "8",
+                "Wins": "1",
+                "Draws": "4",
+                "Losses": "3",
+                "Goal Difference": "-4",
+                "Points": "7"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "NorthEast Utd",
                 "Played": "9",
                 "Wins": "1",
@@ -2906,16 +2916,6 @@
                 "Losses": "4",
                 "Goal Difference": "-9",
                 "Points": "7"
-            },
-            {
-                "Position": "13",
-                "Team": "Odisha",
-                "Played": "7",
-                "Wins": "1",
-                "Draws": "3",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "6"
             },
             {
                 "Position": "14",
