@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 23 April 2026, 03:54 AM UTC (Thursday, 23 April 2026, 09:24 AM IST)
+**Last Updated:** Thursday, 23 April 2026, 06:06 AM UTC (Thursday, 23 April 2026, 11:36 AM IST)
 
 ### Premier League
 
@@ -358,8 +358,8 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | CF Montréal | 8 | 2 | 0 | 6 | -8 | 6 |
 | 14 | Philadelphia Union | 9 | 1 | 2 | 6 | -6 | 5 |
 | 15 | Atlanta United | 9 | 1 | 1 | 7 | -9 | 4 |
-| 1 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
-| 2 | San Jose Earthquakes | 9 | 7 | 0 | 2 | 13 | 21 |
+| 1 | San Jose Earthquakes | 9 | 8 | 0 | 1 | 18 | 24 |
+| 2 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
 | 3 | LAFC | 9 | 5 | 2 | 2 | 10 | 17 |
 | 4 | Minnesota United | 9 | 5 | 2 | 2 | -2 | 17 |
 | 5 | Seattle Sounders | 7 | 5 | 1 | 1 | 7 | 16 |
@@ -368,9 +368,9 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Dallas | 9 | 3 | 4 | 2 | 4 | 13 |
 | 9 | Houston Dynamo | 8 | 4 | 0 | 4 | -4 | 12 |
 | 10 | San Diego | 9 | 3 | 2 | 4 | 1 | 11 |
-| 11 | Austin | 9 | 2 | 4 | 3 | -2 | 10 |
-| 12 | LA Galaxy | 9 | 2 | 3 | 4 | -2 | 9 |
-| 13 | Portland Timbers | 8 | 2 | 1 | 5 | -7 | 7 |
+| 11 | LA Galaxy | 9 | 2 | 3 | 4 | -2 | 9 |
+| 12 | Portland Timbers | 8 | 2 | 1 | 5 | -7 | 7 |
+| 13 | Austin | 9 | 1 | 4 | 4 | -7 | 7 |
 | 14 | St. Louis City | 8 | 1 | 3 | 4 | -6 | 6 |
 | 15 | Sporting KC | 8 | 1 | 1 | 6 | -13 | 4 |
 
