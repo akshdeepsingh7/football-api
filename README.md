@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 23 April 2026, 03:53 PM UTC (Thursday, 23 April 2026, 09:23 PM IST)
+**Last Updated:** Thursday, 23 April 2026, 05:21 PM UTC (Thursday, 23 April 2026, 10:51 PM IST)
 
 ### Premier League
 
@@ -88,9 +88,9 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Mallorca | 32 | 9 | 8 | 15 | -9 | 35 |
 | 15 | Elche | 32 | 8 | 11 | 13 | -7 | 35 |
 | 16 | Rayo Vallecano | 31 | 8 | 11 | 12 | -9 | 35 |
-| 17 | Sevilla | 31 | 9 | 7 | 15 | -12 | 34 |
+| 17 | Sevilla | 32 | 9 | 8 | 15 | -12 | 35 |
 | 18 | Alavés | 32 | 8 | 9 | 15 | -12 | 33 |
-| 19 | Levante | 31 | 7 | 8 | 16 | -15 | 29 |
+| 19 | Levante | 32 | 7 | 9 | 16 | -15 | 30 |
 | 20 | Real Oviedo | 31 | 6 | 9 | 16 | -24 | 27 |
 
 ### Bundesliga
@@ -386,11 +386,11 @@ The latest league standings are displayed below in Markdown tables:
 | 6 | Jamshedpur | 9 | 4 | 3 | 2 | 1 | 15 |
 | 7 | Punjab FC | 8 | 4 | 2 | 2 | 6 | 14 |
 | 8 | Inter Kashi | 9 | 3 | 2 | 4 | -4 | 11 |
-| 9 | Chennaiyin | 9 | 2 | 3 | 4 | -4 | 9 |
-| 10 | Kerala Blasters | 11 | 2 | 3 | 6 | -6 | 9 |
+| 9 | Kerala Blasters | 11 | 3 | 2 | 6 | -5 | 11 |
+| 10 | Chennaiyin | 9 | 2 | 3 | 4 | -4 | 9 |
 | 11 | SC Delhi | 8 | 2 | 2 | 4 | -2 | 8 |
-| 12 | Odisha | 8 | 1 | 4 | 3 | -4 | 7 |
-| 13 | NorthEast Utd | 9 | 1 | 4 | 4 | -9 | 7 |
+| 12 | NorthEast Utd | 9 | 1 | 4 | 4 | -9 | 7 |
+| 13 | Odisha | 8 | 1 | 3 | 4 | -5 | 6 |
 | 14 | Mohammedan | 9 | 0 | 2 | 7 | -17 | 2 |
 
 ### Liga Profesional Argentina (Clausura)

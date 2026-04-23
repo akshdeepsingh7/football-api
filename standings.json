@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 23 April 2026, 03:53 PM UTC",
-        "IST": "Thursday, 23 April 2026, 09:23 PM IST"
+        "UTC": "Thursday, 23 April 2026, 05:21 PM UTC",
+        "IST": "Thursday, 23 April 2026, 10:51 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -370,12 +370,12 @@
             {
                 "Position": "17",
                 "Team": "Sevilla",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "9",
-                "Draws": "7",
+                "Draws": "8",
                 "Losses": "15",
                 "Goal Difference": "-12",
-                "Points": "34"
+                "Points": "35"
             },
             {
                 "Position": "18",
@@ -390,12 +390,12 @@
             {
                 "Position": "19",
                 "Team": "Levante",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "7",
-                "Draws": "8",
+                "Draws": "9",
                 "Losses": "16",
                 "Goal Difference": "-15",
-                "Points": "29"
+                "Points": "30"
             },
             {
                 "Position": "20",
@@ -2869,22 +2869,22 @@
             },
             {
                 "Position": "9",
+                "Team": "Kerala Blasters",
+                "Played": "11",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "6",
+                "Goal Difference": "-5",
+                "Points": "11"
+            },
+            {
+                "Position": "10",
                 "Team": "Chennaiyin",
                 "Played": "9",
                 "Wins": "2",
                 "Draws": "3",
                 "Losses": "4",
                 "Goal Difference": "-4",
-                "Points": "9"
-            },
-            {
-                "Position": "10",
-                "Team": "Kerala Blasters",
-                "Played": "11",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "6",
-                "Goal Difference": "-6",
                 "Points": "9"
             },
             {
@@ -2899,16 +2899,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Odisha",
-                "Played": "8",
-                "Wins": "1",
-                "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "-4",
-                "Points": "7"
-            },
-            {
-                "Position": "13",
                 "Team": "NorthEast Utd",
                 "Played": "9",
                 "Wins": "1",
@@ -2916,6 +2906,16 @@
                 "Losses": "4",
                 "Goal Difference": "-9",
                 "Points": "7"
+            },
+            {
+                "Position": "13",
+                "Team": "Odisha",
+                "Played": "8",
+                "Wins": "1",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-5",
+                "Points": "6"
             },
             {
                 "Position": "14",
