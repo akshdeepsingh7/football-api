@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 23 April 2026, 05:21 PM UTC (Thursday, 23 April 2026, 10:51 PM IST)
+**Last Updated:** Thursday, 23 April 2026, 06:41 PM UTC (Friday, 24 April 2026, 12:11 AM IST)
 
 ### Premier League
 
@@ -82,15 +82,15 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Real Sociedad | 32 | 11 | 9 | 12 | 0 | 42 |
 | 9 | Athletic Bilbao | 32 | 12 | 5 | 15 | -11 | 41 |
 | 10 | Osasuna | 32 | 10 | 9 | 13 | -2 | 39 |
-| 11 | Girona | 32 | 9 | 11 | 12 | -13 | 38 |
-| 12 | Espanyol | 31 | 10 | 8 | 13 | -11 | 38 |
-| 13 | Valencia | 32 | 9 | 9 | 14 | -12 | 36 |
-| 14 | Mallorca | 32 | 9 | 8 | 15 | -9 | 35 |
-| 15 | Elche | 32 | 8 | 11 | 13 | -7 | 35 |
-| 16 | Rayo Vallecano | 31 | 8 | 11 | 12 | -9 | 35 |
-| 17 | Sevilla | 32 | 9 | 8 | 15 | -12 | 35 |
+| 11 | Espanyol | 32 | 10 | 9 | 13 | -11 | 39 |
+| 12 | Girona | 32 | 9 | 11 | 12 | -13 | 38 |
+| 13 | Rayo Vallecano | 32 | 8 | 12 | 12 | -9 | 36 |
+| 14 | Valencia | 32 | 9 | 9 | 14 | -12 | 36 |
+| 15 | Mallorca | 32 | 9 | 8 | 15 | -9 | 35 |
+| 16 | Elche | 32 | 8 | 11 | 13 | -7 | 35 |
+| 17 | Sevilla | 32 | 9 | 7 | 16 | -13 | 34 |
 | 18 | Alavés | 32 | 8 | 9 | 15 | -12 | 33 |
-| 19 | Levante | 32 | 7 | 9 | 16 | -15 | 30 |
+| 19 | Levante | 32 | 8 | 8 | 16 | -14 | 32 |
 | 20 | Real Oviedo | 31 | 6 | 9 | 16 | -24 | 27 |
 
 ### Bundesliga
@@ -294,7 +294,7 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Porto | 30 | 25 | 4 | 1 | 47 | 79 |
 | 2 | Benfica | 30 | 21 | 9 | 0 | 44 | 72 |
 | 3 | Sporting CP | 29 | 22 | 5 | 2 | 55 | 71 |
-| 4 | Braga | 29 | 15 | 8 | 6 | 28 | 53 |
+| 4 | Braga | 30 | 16 | 8 | 6 | 29 | 56 |
 | 5 | Famalicão | 30 | 13 | 9 | 8 | 11 | 48 |
 | 6 | Gil Vicente | 30 | 12 | 10 | 8 | 13 | 46 |
 | 7 | Moreirense | 30 | 11 | 6 | 13 | -8 | 39 |
@@ -306,7 +306,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Santa Clara | 30 | 7 | 8 | 15 | -11 | 29 |
 | 14 | Nacional | 30 | 7 | 7 | 16 | -9 | 28 |
 | 15 | Estrela Amadora | 30 | 6 | 10 | 14 | -16 | 28 |
-| 16 | Casa Pia | 29 | 5 | 11 | 13 | -24 | 26 |
+| 16 | Casa Pia | 30 | 5 | 11 | 14 | -25 | 26 |
 | 17 | Tondela | 29 | 4 | 9 | 16 | -27 | 21 |
 | 18 | AVS | 30 | 1 | 10 | 19 | -43 | 13 |
 

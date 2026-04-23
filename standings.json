@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 23 April 2026, 05:21 PM UTC",
-        "IST": "Thursday, 23 April 2026, 10:51 PM IST"
+        "UTC": "Thursday, 23 April 2026, 06:41 PM UTC",
+        "IST": "Friday, 24 April 2026, 12:11 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Espanyol",
+                "Played": "32",
+                "Wins": "10",
+                "Draws": "9",
+                "Losses": "13",
+                "Goal Difference": "-11",
+                "Points": "39"
+            },
+            {
+                "Position": "12",
                 "Team": "Girona",
                 "Played": "32",
                 "Wins": "9",
@@ -318,17 +328,17 @@
                 "Points": "38"
             },
             {
-                "Position": "12",
-                "Team": "Espanyol",
-                "Played": "31",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "13",
-                "Goal Difference": "-11",
-                "Points": "38"
+                "Position": "13",
+                "Team": "Rayo Vallecano",
+                "Played": "32",
+                "Wins": "8",
+                "Draws": "12",
+                "Losses": "12",
+                "Goal Difference": "-9",
+                "Points": "36"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Valencia",
                 "Played": "32",
                 "Wins": "9",
@@ -338,7 +348,7 @@
                 "Points": "36"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Mallorca",
                 "Played": "32",
                 "Wins": "9",
@@ -348,7 +358,7 @@
                 "Points": "35"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Elche",
                 "Played": "32",
                 "Wins": "8",
@@ -358,24 +368,14 @@
                 "Points": "35"
             },
             {
-                "Position": "16",
-                "Team": "Rayo Vallecano",
-                "Played": "31",
-                "Wins": "8",
-                "Draws": "11",
-                "Losses": "12",
-                "Goal Difference": "-9",
-                "Points": "35"
-            },
-            {
                 "Position": "17",
                 "Team": "Sevilla",
                 "Played": "32",
                 "Wins": "9",
-                "Draws": "8",
-                "Losses": "15",
-                "Goal Difference": "-12",
-                "Points": "35"
+                "Draws": "7",
+                "Losses": "16",
+                "Goal Difference": "-13",
+                "Points": "34"
             },
             {
                 "Position": "18",
@@ -391,11 +391,11 @@
                 "Position": "19",
                 "Team": "Levante",
                 "Played": "32",
-                "Wins": "7",
-                "Draws": "9",
+                "Wins": "8",
+                "Draws": "8",
                 "Losses": "16",
-                "Goal Difference": "-15",
-                "Points": "30"
+                "Goal Difference": "-14",
+                "Points": "32"
             },
             {
                 "Position": "20",
@@ -2094,12 +2094,12 @@
             {
                 "Position": "4",
                 "Team": "Braga",
-                "Played": "29",
-                "Wins": "15",
+                "Played": "30",
+                "Wins": "16",
                 "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "28",
-                "Points": "53"
+                "Goal Difference": "29",
+                "Points": "56"
             },
             {
                 "Position": "5",
@@ -2214,11 +2214,11 @@
             {
                 "Position": "16",
                 "Team": "Casa Pia",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "5",
                 "Draws": "11",
-                "Losses": "13",
-                "Goal Difference": "-24",
+                "Losses": "14",
+                "Goal Difference": "-25",
                 "Points": "26"
             },
             {
