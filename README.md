@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 23 April 2026, 06:41 PM UTC (Friday, 24 April 2026, 12:11 AM IST)
+**Last Updated:** Thursday, 23 April 2026, 08:05 PM UTC (Friday, 24 April 2026, 01:35 AM IST)
 
 ### Premier League
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 32 | 27 | 1 | 4 | 55 | 82 |
 | 2 | Real Madrid | 32 | 23 | 4 | 5 | 37 | 73 |
-| 3 | Villarreal | 31 | 19 | 4 | 8 | 20 | 61 |
+| 3 | Villarreal | 32 | 20 | 4 | 8 | 21 | 64 |
 | 4 | Atlético de Madrid | 32 | 17 | 6 | 9 | 18 | 57 |
 | 5 | Real Betis | 32 | 12 | 13 | 7 | 8 | 49 |
 | 6 | Getafe | 32 | 13 | 5 | 14 | -4 | 44 |
@@ -82,16 +82,16 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Real Sociedad | 32 | 11 | 9 | 12 | 0 | 42 |
 | 9 | Athletic Bilbao | 32 | 12 | 5 | 15 | -11 | 41 |
 | 10 | Osasuna | 32 | 10 | 9 | 13 | -2 | 39 |
-| 11 | Espanyol | 32 | 10 | 9 | 13 | -11 | 39 |
-| 12 | Girona | 32 | 9 | 11 | 12 | -13 | 38 |
-| 13 | Rayo Vallecano | 32 | 8 | 12 | 12 | -9 | 36 |
+| 11 | Rayo Vallecano | 32 | 9 | 11 | 12 | -8 | 38 |
+| 12 | Espanyol | 32 | 10 | 8 | 14 | -12 | 38 |
+| 13 | Girona | 32 | 9 | 11 | 12 | -13 | 38 |
 | 14 | Valencia | 32 | 9 | 9 | 14 | -12 | 36 |
 | 15 | Mallorca | 32 | 9 | 8 | 15 | -9 | 35 |
 | 16 | Elche | 32 | 8 | 11 | 13 | -7 | 35 |
-| 17 | Sevilla | 32 | 9 | 7 | 16 | -13 | 34 |
+| 17 | Sevilla | 32 | 9 | 7 | 16 | -14 | 34 |
 | 18 | Alavés | 32 | 8 | 9 | 15 | -12 | 33 |
-| 19 | Levante | 32 | 8 | 8 | 16 | -14 | 32 |
-| 20 | Real Oviedo | 31 | 6 | 9 | 16 | -24 | 27 |
+| 19 | Levante | 32 | 8 | 8 | 16 | -13 | 32 |
+| 20 | Real Oviedo | 32 | 6 | 9 | 17 | -25 | 27 |
 
 ### Bundesliga
 

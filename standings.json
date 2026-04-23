@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 23 April 2026, 06:41 PM UTC",
-        "IST": "Friday, 24 April 2026, 12:11 AM IST"
+        "UTC": "Thursday, 23 April 2026, 08:05 PM UTC",
+        "IST": "Friday, 24 April 2026, 01:35 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -230,12 +230,12 @@
             {
                 "Position": "3",
                 "Team": "Villarreal",
-                "Played": "31",
-                "Wins": "19",
+                "Played": "32",
+                "Wins": "20",
                 "Draws": "4",
                 "Losses": "8",
-                "Goal Difference": "20",
-                "Points": "61"
+                "Goal Difference": "21",
+                "Points": "64"
             },
             {
                 "Position": "4",
@@ -309,16 +309,26 @@
             },
             {
                 "Position": "11",
-                "Team": "Espanyol",
+                "Team": "Rayo Vallecano",
                 "Played": "32",
-                "Wins": "10",
-                "Draws": "9",
-                "Losses": "13",
-                "Goal Difference": "-11",
-                "Points": "39"
+                "Wins": "9",
+                "Draws": "11",
+                "Losses": "12",
+                "Goal Difference": "-8",
+                "Points": "38"
             },
             {
                 "Position": "12",
+                "Team": "Espanyol",
+                "Played": "32",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "14",
+                "Goal Difference": "-12",
+                "Points": "38"
+            },
+            {
+                "Position": "13",
                 "Team": "Girona",
                 "Played": "32",
                 "Wins": "9",
@@ -326,16 +336,6 @@
                 "Losses": "12",
                 "Goal Difference": "-13",
                 "Points": "38"
-            },
-            {
-                "Position": "13",
-                "Team": "Rayo Vallecano",
-                "Played": "32",
-                "Wins": "8",
-                "Draws": "12",
-                "Losses": "12",
-                "Goal Difference": "-9",
-                "Points": "36"
             },
             {
                 "Position": "14",
@@ -374,7 +374,7 @@
                 "Wins": "9",
                 "Draws": "7",
                 "Losses": "16",
-                "Goal Difference": "-13",
+                "Goal Difference": "-14",
                 "Points": "34"
             },
             {
@@ -394,17 +394,17 @@
                 "Wins": "8",
                 "Draws": "8",
                 "Losses": "16",
-                "Goal Difference": "-14",
+                "Goal Difference": "-13",
                 "Points": "32"
             },
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
-                "Played": "31",
+                "Played": "32",
                 "Wins": "6",
                 "Draws": "9",
-                "Losses": "16",
-                "Goal Difference": "-24",
+                "Losses": "17",
+                "Goal Difference": "-25",
                 "Points": "27"
             }
         ],
