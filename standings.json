@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Thursday, 23 April 2026, 08:05 PM UTC",
-        "IST": "Friday, 24 April 2026, 01:35 AM IST"
+        "UTC": "Thursday, 23 April 2026, 09:12 PM UTC",
+        "IST": "Friday, 24 April 2026, 02:42 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -231,11 +231,11 @@
                 "Position": "3",
                 "Team": "Villarreal",
                 "Played": "32",
-                "Wins": "20",
-                "Draws": "4",
+                "Wins": "19",
+                "Draws": "5",
                 "Losses": "8",
-                "Goal Difference": "21",
-                "Points": "64"
+                "Goal Difference": "20",
+                "Points": "62"
             },
             {
                 "Position": "4",
@@ -402,10 +402,10 @@
                 "Team": "Real Oviedo",
                 "Played": "32",
                 "Wins": "6",
-                "Draws": "9",
-                "Losses": "17",
-                "Goal Difference": "-25",
-                "Points": "27"
+                "Draws": "10",
+                "Losses": "16",
+                "Goal Difference": "-24",
+                "Points": "28"
             }
         ],
         "Bundesliga": [

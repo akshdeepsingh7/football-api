@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Thursday, 23 April 2026, 08:05 PM UTC (Friday, 24 April 2026, 01:35 AM IST)
+**Last Updated:** Thursday, 23 April 2026, 09:12 PM UTC (Friday, 24 April 2026, 02:42 AM IST)
 
 ### Premier League
 
@@ -74,7 +74,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 32 | 27 | 1 | 4 | 55 | 82 |
 | 2 | Real Madrid | 32 | 23 | 4 | 5 | 37 | 73 |
-| 3 | Villarreal | 32 | 20 | 4 | 8 | 21 | 64 |
+| 3 | Villarreal | 32 | 19 | 5 | 8 | 20 | 62 |
 | 4 | Atlético de Madrid | 32 | 17 | 6 | 9 | 18 | 57 |
 | 5 | Real Betis | 32 | 12 | 13 | 7 | 8 | 49 |
 | 6 | Getafe | 32 | 13 | 5 | 14 | -4 | 44 |
@@ -91,7 +91,7 @@ The latest league standings are displayed below in Markdown tables:
 | 17 | Sevilla | 32 | 9 | 7 | 16 | -14 | 34 |
 | 18 | Alavés | 32 | 8 | 9 | 15 | -12 | 33 |
 | 19 | Levante | 32 | 8 | 8 | 16 | -13 | 32 |
-| 20 | Real Oviedo | 32 | 6 | 9 | 17 | -25 | 27 |
+| 20 | Real Oviedo | 32 | 6 | 10 | 16 | -24 | 28 |
 
 ### Bundesliga
 
