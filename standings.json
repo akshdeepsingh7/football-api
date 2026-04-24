@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 24 April 2026, 07:28 PM UTC",
-        "IST": "Saturday, 25 April 2026, 12:58 AM IST"
+        "UTC": "Friday, 24 April 2026, 08:09 PM UTC",
+        "IST": "Saturday, 25 April 2026, 01:39 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -112,7 +112,7 @@
                 "Wins": "12",
                 "Draws": "10",
                 "Losses": "12",
-                "Goal Difference": "-5",
+                "Goal Difference": "-8",
                 "Points": "46"
             },
             {
@@ -162,7 +162,7 @@
                 "Wins": "10",
                 "Draws": "9",
                 "Losses": "15",
-                "Goal Difference": "-8",
+                "Goal Difference": "-5",
                 "Points": "39"
             },
             {
@@ -608,7 +608,7 @@
                 "Wins": "21",
                 "Draws": "6",
                 "Losses": "7",
-                "Goal Difference": "16",
+                "Goal Difference": "19",
                 "Points": "69"
             },
             {
@@ -768,7 +768,7 @@
                 "Wins": "6",
                 "Draws": "10",
                 "Losses": "18",
-                "Goal Difference": "-22",
+                "Goal Difference": "-25",
                 "Points": "28"
             },
             {
@@ -810,7 +810,7 @@
                 "Wins": "20",
                 "Draws": "2",
                 "Losses": "8",
-                "Goal Difference": "25",
+                "Goal Difference": "27",
                 "Points": "62"
             },
             {
@@ -890,7 +890,7 @@
                 "Wins": "11",
                 "Draws": "7",
                 "Losses": "12",
-                "Goal Difference": "-3",
+                "Goal Difference": "-5",
                 "Points": "40"
             },
             {
