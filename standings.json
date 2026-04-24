@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Friday, 24 April 2026, 08:09 PM UTC",
-        "IST": "Saturday, 25 April 2026, 01:39 AM IST"
+        "UTC": "Friday, 24 April 2026, 09:23 PM UTC",
+        "IST": "Saturday, 25 April 2026, 02:53 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -112,7 +112,7 @@
                 "Wins": "12",
                 "Draws": "10",
                 "Losses": "12",
-                "Goal Difference": "-8",
+                "Goal Difference": "-9",
                 "Points": "46"
             },
             {
@@ -162,7 +162,7 @@
                 "Wins": "10",
                 "Draws": "9",
                 "Losses": "15",
-                "Goal Difference": "-5",
+                "Goal Difference": "-4",
                 "Points": "39"
             },
             {
@@ -221,11 +221,11 @@
                 "Position": "2",
                 "Team": "Real Madrid",
                 "Played": "33",
-                "Wins": "24",
-                "Draws": "4",
+                "Wins": "23",
+                "Draws": "5",
                 "Losses": "5",
-                "Goal Difference": "38",
-                "Points": "76"
+                "Goal Difference": "37",
+                "Points": "74"
             },
             {
                 "Position": "3",
@@ -252,10 +252,10 @@
                 "Team": "Real Betis",
                 "Played": "33",
                 "Wins": "12",
-                "Draws": "13",
-                "Losses": "8",
-                "Goal Difference": "7",
-                "Points": "49"
+                "Draws": "14",
+                "Losses": "7",
+                "Goal Difference": "8",
+                "Points": "50"
             },
             {
                 "Position": "6",
@@ -808,10 +808,10 @@
                 "Team": "Lens",
                 "Played": "30",
                 "Wins": "20",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "27",
-                "Points": "62"
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "28",
+                "Points": "63"
             },
             {
                 "Position": "3",
@@ -887,11 +887,11 @@
                 "Position": "10",
                 "Team": "Brest",
                 "Played": "30",
-                "Wins": "11",
-                "Draws": "7",
+                "Wins": "10",
+                "Draws": "8",
                 "Losses": "12",
-                "Goal Difference": "-5",
-                "Points": "40"
+                "Goal Difference": "-6",
+                "Points": "38"
             },
             {
                 "Position": "11",
