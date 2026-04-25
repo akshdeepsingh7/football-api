@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 April 2026, 10:01 PM UTC (Sunday, 26 April 2026, 03:31 AM IST)
+**Last Updated:** Saturday, 25 April 2026, 11:05 PM UTC (Sunday, 26 April 2026, 04:35 AM IST)
 
 ### Premier League
 
@@ -405,21 +405,21 @@ Data not available.
 | 2 | Flamengo | 11 | 7 | 2 | 2 | 10 | 23 |
 | 3 | Fluminense | 12 | 7 | 2 | 3 | 6 | 23 |
 | 4 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
-| 5 | Bahia | 12 | 6 | 2 | 4 | 2 | 20 |
+| 5 | Bahia | 12 | 6 | 2 | 4 | 1 | 20 |
 | 6 | Athletico Paranaense | 12 | 6 | 1 | 5 | 3 | 19 |
-| 7 | Coritiba | 12 | 5 | 4 | 3 | 3 | 19 |
-| 8 | RB Bragantino | 12 | 5 | 2 | 5 | 1 | 17 |
-| 9 | Botafogo | 12 | 5 | 2 | 5 | 0 | 17 |
+| 7 | Botafogo | 12 | 6 | 1 | 5 | 1 | 19 |
+| 8 | Coritiba | 12 | 5 | 4 | 3 | 3 | 19 |
+| 9 | RB Bragantino | 12 | 5 | 2 | 5 | 1 | 17 |
 | 10 | Vasco da Gama | 12 | 4 | 4 | 4 | 0 | 16 |
-| 11 | Santos | 13 | 4 | 4 | 5 | -2 | 16 |
-| 12 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
-| 13 | Atlético Mineiro | 12 | 4 | 2 | 6 | -1 | 14 |
-| 14 | Internacional | 13 | 3 | 5 | 5 | -2 | 14 |
-| 15 | Cruzeiro | 13 | 3 | 5 | 5 | -5 | 14 |
-| 16 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
+| 11 | Santos | 13 | 4 | 4 | 5 | -1 | 16 |
+| 12 | Cruzeiro | 13 | 4 | 4 | 5 | -4 | 16 |
+| 13 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
+| 14 | Atlético Mineiro | 12 | 4 | 2 | 6 | -1 | 14 |
+| 15 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
+| 16 | Internacional | 13 | 3 | 4 | 6 | -3 | 13 |
 | 17 | Corinthians | 12 | 2 | 6 | 4 | -3 | 12 |
 | 18 | Mirassol | 11 | 2 | 3 | 6 | -4 | 9 |
-| 19 | Remo | 13 | 1 | 6 | 6 | -9 | 9 |
+| 19 | Remo | 13 | 1 | 5 | 7 | -10 | 8 |
 | 20 | Chapecoense | 11 | 1 | 5 | 5 | -11 | 8 |
 
 

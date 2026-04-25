@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 April 2026, 10:01 PM UTC",
-        "IST": "Sunday, 26 April 2026, 03:31 AM IST"
+        "UTC": "Saturday, 25 April 2026, 11:05 PM UTC",
+        "IST": "Sunday, 26 April 2026, 04:35 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2977,7 +2977,7 @@
                 "Wins": "6",
                 "Draws": "2",
                 "Losses": "4",
-                "Goal Difference": "2",
+                "Goal Difference": "1",
                 "Points": "20"
             },
             {
@@ -2992,6 +2992,16 @@
             },
             {
                 "Position": "7",
+                "Team": "Botafogo",
+                "Played": "12",
+                "Wins": "6",
+                "Draws": "1",
+                "Losses": "5",
+                "Goal Difference": "1",
+                "Points": "19"
+            },
+            {
+                "Position": "8",
                 "Team": "Coritiba",
                 "Played": "12",
                 "Wins": "5",
@@ -3001,23 +3011,13 @@
                 "Points": "19"
             },
             {
-                "Position": "8",
+                "Position": "9",
                 "Team": "RB Bragantino",
                 "Played": "12",
                 "Wins": "5",
                 "Draws": "2",
                 "Losses": "5",
                 "Goal Difference": "1",
-                "Points": "17"
-            },
-            {
-                "Position": "9",
-                "Team": "Botafogo",
-                "Played": "12",
-                "Wins": "5",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "0",
                 "Points": "17"
             },
             {
@@ -3037,11 +3037,21 @@
                 "Wins": "4",
                 "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "-2",
+                "Goal Difference": "-1",
                 "Points": "16"
             },
             {
                 "Position": "12",
+                "Team": "Cruzeiro",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-4",
+                "Points": "16"
+            },
+            {
+                "Position": "13",
                 "Team": "Vit\u00f3ria",
                 "Played": "11",
                 "Wins": "4",
@@ -3051,7 +3061,7 @@
                 "Points": "15"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "12",
                 "Wins": "4",
@@ -3061,33 +3071,23 @@
                 "Points": "14"
             },
             {
-                "Position": "14",
-                "Team": "Internacional",
-                "Played": "13",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-2",
-                "Points": "14"
-            },
-            {
                 "Position": "15",
-                "Team": "Cruzeiro",
-                "Played": "13",
-                "Wins": "3",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-5",
-                "Points": "14"
-            },
-            {
-                "Position": "16",
                 "Team": "Gr\u00eamio",
                 "Played": "12",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "-2",
+                "Points": "13"
+            },
+            {
+                "Position": "16",
+                "Team": "Internacional",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "4",
+                "Losses": "6",
+                "Goal Difference": "-3",
                 "Points": "13"
             },
             {
@@ -3115,10 +3115,10 @@
                 "Team": "Remo",
                 "Played": "13",
                 "Wins": "1",
-                "Draws": "6",
-                "Losses": "6",
-                "Goal Difference": "-9",
-                "Points": "9"
+                "Draws": "5",
+                "Losses": "7",
+                "Goal Difference": "-10",
+                "Points": "8"
             },
             {
                 "Position": "20",
