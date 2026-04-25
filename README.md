@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 April 2026, 08:01 PM UTC (Sunday, 26 April 2026, 01:31 AM IST)
+**Last Updated:** Saturday, 25 April 2026, 09:04 PM UTC (Sunday, 26 April 2026, 02:34 AM IST)
 
 ### Premier League
 
@@ -75,12 +75,12 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Barcelona | 33 | 28 | 1 | 4 | 57 | 85 |
 | 2 | Real Madrid | 33 | 23 | 5 | 5 | 37 | 74 |
 | 3 | Villarreal | 32 | 19 | 5 | 8 | 20 | 62 |
-| 4 | Atlético de Madrid | 33 | 17 | 6 | 10 | 17 | 57 |
+| 4 | Atlético de Madrid | 33 | 18 | 6 | 9 | 19 | 60 |
 | 5 | Real Betis | 33 | 12 | 14 | 7 | 8 | 50 |
-| 6 | Celta de Vigo | 32 | 11 | 11 | 10 | 3 | 44 |
-| 7 | Getafe | 33 | 13 | 5 | 15 | -6 | 44 |
-| 8 | Athletic Bilbao | 33 | 13 | 5 | 15 | -10 | 44 |
-| 9 | Real Sociedad | 32 | 11 | 9 | 12 | 0 | 42 |
+| 6 | Getafe | 33 | 13 | 5 | 15 | -6 | 44 |
+| 7 | Celta de Vigo | 32 | 11 | 11 | 10 | 3 | 44 |
+| 8 | Real Sociedad | 32 | 11 | 9 | 12 | 0 | 42 |
+| 9 | Athletic Bilbao | 33 | 12 | 5 | 16 | -12 | 41 |
 | 10 | Osasuna | 32 | 10 | 9 | 13 | -2 | 39 |
 | 11 | Valencia | 33 | 10 | 9 | 14 | -11 | 39 |
 | 12 | Rayo Vallecano | 32 | 9 | 11 | 12 | -8 | 38 |
@@ -150,13 +150,13 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Lyon | 31 | 17 | 6 | 8 | 16 | 57 |
 | 4 | LOSC | 30 | 16 | 6 | 8 | 15 | 54 |
 | 5 | Rennes | 30 | 15 | 8 | 7 | 11 | 53 |
-| 6 | Monaco | 31 | 16 | 5 | 10 | 9 | 53 |
-| 7 | Marseille | 30 | 16 | 4 | 10 | 18 | 52 |
+| 6 | Marseille | 30 | 16 | 4 | 10 | 18 | 52 |
+| 7 | Monaco | 31 | 15 | 6 | 10 | 7 | 51 |
 | 8 | Strasbourg | 29 | 12 | 7 | 10 | 9 | 43 |
 | 9 | Lorient | 30 | 10 | 11 | 9 | -4 | 41 |
-| 10 | Brest | 30 | 10 | 8 | 12 | -6 | 38 |
-| 11 | Paris FC | 30 | 9 | 11 | 10 | -6 | 38 |
-| 12 | Toulouse | 31 | 10 | 7 | 14 | -3 | 37 |
+| 10 | Toulouse | 31 | 10 | 8 | 13 | -1 | 38 |
+| 11 | Brest | 30 | 10 | 8 | 12 | -6 | 38 |
+| 12 | Paris FC | 30 | 9 | 11 | 10 | -6 | 38 |
 | 13 | Angers | 31 | 9 | 7 | 15 | -17 | 34 |
 | 14 | Le Havre | 30 | 6 | 12 | 12 | -13 | 30 |
 | 15 | Nice | 30 | 7 | 8 | 15 | -22 | 29 |
@@ -360,8 +360,8 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Philadelphia Union | 9 | 1 | 2 | 6 | -6 | 5 |
 | 1 | San Jose Earthquakes | 9 | 8 | 0 | 1 | 18 | 24 |
 | 2 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
-| 3 | LAFC | 9 | 5 | 2 | 2 | 10 | 17 |
-| 4 | Minnesota United | 9 | 5 | 2 | 2 | -2 | 17 |
+| 3 | LAFC | 10 | 5 | 3 | 2 | 10 | 18 |
+| 4 | Minnesota United | 10 | 5 | 3 | 2 | -2 | 18 |
 | 5 | Seattle Sounders | 7 | 5 | 1 | 1 | 7 | 16 |
 | 6 | Real Salt Lake | 8 | 5 | 1 | 2 | 4 | 16 |
 | 7 | Colorado Rapids | 9 | 4 | 1 | 4 | 6 | 13 |
