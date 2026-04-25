@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 April 2026, 10:44 AM UTC (Saturday, 25 April 2026, 04:14 PM IST)
+**Last Updated:** Saturday, 25 April 2026, 11:39 AM UTC (Saturday, 25 April 2026, 05:09 PM IST)
 
 ### Premier League
 
@@ -49,16 +49,16 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Manchester City | 33 | 21 | 7 | 5 | 37 | 70 |
 | 2 | Arsenal | 33 | 21 | 7 | 5 | 37 | 70 |
-| 3 | Manchester United | 33 | 16 | 10 | 7 | 13 | 58 |
-| 4 | Aston Villa | 33 | 17 | 7 | 9 | 6 | 58 |
+| 3 | Aston Villa | 34 | 17 | 8 | 9 | 6 | 59 |
+| 4 | Manchester United | 33 | 16 | 10 | 7 | 13 | 58 |
 | 5 | Liverpool FC | 33 | 16 | 7 | 10 | 11 | 55 |
 | 6 | Brighton & Hove Albion | 34 | 13 | 11 | 10 | 9 | 50 |
 | 7 | AFC Bournemouth | 34 | 11 | 16 | 7 | 0 | 49 |
 | 8 | Chelsea | 34 | 13 | 9 | 12 | 8 | 48 |
 | 9 | Brentford | 33 | 13 | 9 | 11 | 4 | 48 |
 | 10 | Everton | 33 | 13 | 8 | 12 | 1 | 47 |
-| 11 | Sunderland | 34 | 12 | 10 | 12 | -9 | 46 |
-| 12 | Fulham | 33 | 13 | 6 | 14 | -3 | 45 |
+| 11 | Fulham | 34 | 13 | 7 | 14 | -3 | 46 |
+| 12 | Sunderland | 34 | 12 | 10 | 12 | -9 | 46 |
 | 13 | Crystal Palace | 32 | 11 | 10 | 11 | -1 | 43 |
 | 14 | Newcastle United | 33 | 12 | 6 | 15 | -3 | 42 |
 | 15 | Leeds United | 34 | 9 | 13 | 12 | -7 | 40 |
@@ -315,12 +315,12 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Coventry City | 44 | 26 | 11 | 7 | 46 | 89 |
-| 2 | Millwall | 45 | 23 | 11 | 11 | 13 | 80 |
-| 3 | Ipswich Town | 43 | 22 | 13 | 8 | 30 | 79 |
-| 4 | Southampton | 44 | 21 | 13 | 10 | 24 | 76 |
-| 5 | Middlesbrough | 44 | 21 | 13 | 10 | 21 | 76 |
-| 6 | Wrexham | 44 | 19 | 13 | 12 | 6 | 70 |
-| 7 | Hull City | 44 | 20 | 10 | 14 | 4 | 70 |
+| 2 | Ipswich Town | 44 | 22 | 14 | 8 | 30 | 80 |
+| 3 | Millwall | 45 | 23 | 11 | 11 | 13 | 80 |
+| 4 | Middlesbrough | 45 | 22 | 13 | 10 | 22 | 79 |
+| 5 | Southampton | 44 | 21 | 13 | 10 | 24 | 76 |
+| 6 | Hull City | 45 | 20 | 11 | 14 | 4 | 71 |
+| 7 | Wrexham | 44 | 19 | 13 | 12 | 6 | 70 |
 | 8 | Derby County | 44 | 19 | 9 | 16 | 8 | 66 |
 | 9 | Norwich City | 44 | 19 | 7 | 18 | 8 | 64 |
 | 10 | Birmingham City | 44 | 16 | 12 | 16 | 0 | 60 |
@@ -328,13 +328,13 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Bristol City | 44 | 16 | 11 | 17 | -1 | 59 |
 | 13 | Queens Park Rangers | 44 | 16 | 10 | 18 | -8 | 58 |
 | 14 | Sheffield United | 44 | 17 | 6 | 21 | 0 | 57 |
-| 15 | Watford | 44 | 14 | 15 | 15 | -4 | 57 |
+| 15 | Watford | 45 | 14 | 15 | 16 | -5 | 57 |
 | 16 | Preston North End | 44 | 14 | 15 | 15 | -6 | 57 |
 | 17 | Stoke City | 44 | 15 | 10 | 19 | -1 | 55 |
 | 18 | Blackburn Rovers | 45 | 13 | 13 | 19 | -13 | 52 |
-| 19 | Portsmouth | 44 | 13 | 12 | 19 | -17 | 51 |
-| 20 | West Bromwich Albion | 44 | 13 | 13 | 18 | -9 | 50 |
-| 21 | Charlton Athletic | 44 | 12 | 14 | 18 | -13 | 50 |
+| 19 | West Bromwich Albion | 45 | 13 | 14 | 18 | -9 | 51 |
+| 20 | Charlton Athletic | 45 | 12 | 15 | 18 | -13 | 51 |
+| 21 | Portsmouth | 44 | 13 | 12 | 19 | -17 | 51 |
 | 22 | Oxford United | 44 | 10 | 14 | 20 | -15 | 44 |
 | 23 | Leicester City | 45 | 11 | 16 | 18 | -11 | 43 |
 | 24 | Sheffield Wednesday | 44 | 1 | 12 | 31 | -58 | -3 |
@@ -380,9 +380,9 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Mohun Bagan SG | 9 | 6 | 2 | 1 | 13 | 20 |
 | 2 | FC Goa | 10 | 5 | 4 | 1 | 7 | 19 |
-| 3 | Mumbai City | 9 | 5 | 3 | 1 | 3 | 18 |
-| 4 | East Bengal | 8 | 4 | 3 | 1 | 14 | 15 |
-| 5 | Bengaluru | 9 | 4 | 3 | 2 | 4 | 15 |
+| 3 | Mumbai City | 10 | 5 | 4 | 1 | 3 | 19 |
+| 4 | Bengaluru | 10 | 4 | 4 | 2 | 4 | 16 |
+| 5 | East Bengal | 8 | 4 | 3 | 1 | 14 | 15 |
 | 6 | Jamshedpur | 9 | 4 | 3 | 2 | 1 | 15 |
 | 7 | Punjab FC | 8 | 4 | 2 | 2 | 6 | 14 |
 | 8 | Inter Kashi | 9 | 3 | 2 | 4 | -4 | 11 |
