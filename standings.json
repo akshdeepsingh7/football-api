@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 April 2026, 09:04 PM UTC",
-        "IST": "Sunday, 26 April 2026, 02:34 AM IST"
+        "UTC": "Saturday, 25 April 2026, 10:01 PM UTC",
+        "IST": "Sunday, 26 April 2026, 03:31 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2125,11 +2125,11 @@
                 "Position": "7",
                 "Team": "Vit\u00f3ria S.C.",
                 "Played": "31",
-                "Wins": "11",
-                "Draws": "7",
+                "Wins": "12",
+                "Draws": "6",
                 "Losses": "13",
-                "Goal Difference": "-7",
-                "Points": "40"
+                "Goal Difference": "-5",
+                "Points": "42"
             },
             {
                 "Position": "8",
@@ -2176,10 +2176,10 @@
                 "Team": "Rio Ave",
                 "Played": "31",
                 "Wins": "8",
-                "Draws": "11",
-                "Losses": "12",
-                "Goal Difference": "-17",
-                "Points": "35"
+                "Draws": "10",
+                "Losses": "13",
+                "Goal Difference": "-19",
+                "Points": "34"
             },
             {
                 "Position": "13",
@@ -2659,21 +2659,21 @@
                 "Position": "3",
                 "Team": "LAFC",
                 "Played": "10",
-                "Wins": "5",
-                "Draws": "3",
+                "Wins": "6",
+                "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "10",
-                "Points": "18"
+                "Goal Difference": "11",
+                "Points": "20"
             },
             {
                 "Position": "4",
                 "Team": "Minnesota United",
                 "Played": "10",
                 "Wins": "5",
-                "Draws": "3",
-                "Losses": "2",
-                "Goal Difference": "-2",
-                "Points": "18"
+                "Draws": "2",
+                "Losses": "3",
+                "Goal Difference": "-3",
+                "Points": "17"
             },
             {
                 "Position": "5",
@@ -2973,11 +2973,11 @@
             {
                 "Position": "5",
                 "Team": "Bahia",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "6",
                 "Draws": "2",
-                "Losses": "3",
-                "Goal Difference": "3",
+                "Losses": "4",
+                "Goal Difference": "2",
                 "Points": "20"
             },
             {
@@ -3013,12 +3013,12 @@
             {
                 "Position": "9",
                 "Team": "Botafogo",
-                "Played": "11",
+                "Played": "12",
                 "Wins": "5",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "5",
                 "Goal Difference": "0",
-                "Points": "16"
+                "Points": "17"
             },
             {
                 "Position": "10",
@@ -3032,6 +3032,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Santos",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-2",
+                "Points": "16"
+            },
+            {
+                "Position": "12",
                 "Team": "Vit\u00f3ria",
                 "Played": "11",
                 "Wins": "4",
@@ -3041,7 +3051,7 @@
                 "Points": "15"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "12",
                 "Wins": "4",
@@ -3051,43 +3061,33 @@
                 "Points": "14"
             },
             {
-                "Position": "13",
+                "Position": "14",
+                "Team": "Internacional",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "-2",
+                "Points": "14"
+            },
+            {
+                "Position": "15",
+                "Team": "Cruzeiro",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "5",
+                "Losses": "5",
+                "Goal Difference": "-5",
+                "Points": "14"
+            },
+            {
+                "Position": "16",
                 "Team": "Gr\u00eamio",
                 "Played": "12",
                 "Wins": "3",
                 "Draws": "4",
                 "Losses": "5",
                 "Goal Difference": "-2",
-                "Points": "13"
-            },
-            {
-                "Position": "14",
-                "Team": "Internacional",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "-2",
-                "Points": "13"
-            },
-            {
-                "Position": "15",
-                "Team": "Santos",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "-3",
-                "Points": "13"
-            },
-            {
-                "Position": "16",
-                "Team": "Cruzeiro",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "-5",
                 "Points": "13"
             },
             {
@@ -3113,12 +3113,12 @@
             {
                 "Position": "19",
                 "Team": "Remo",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "1",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "6",
                 "Goal Difference": "-9",
-                "Points": "8"
+                "Points": "9"
             },
             {
                 "Position": "20",

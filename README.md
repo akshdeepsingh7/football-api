@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 April 2026, 09:04 PM UTC (Sunday, 26 April 2026, 02:34 AM IST)
+**Last Updated:** Saturday, 25 April 2026, 10:01 PM UTC (Sunday, 26 April 2026, 03:31 AM IST)
 
 ### Premier League
 
@@ -297,12 +297,12 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Braga | 30 | 16 | 8 | 6 | 29 | 56 |
 | 5 | Famalicão | 30 | 13 | 9 | 8 | 11 | 48 |
 | 6 | Gil Vicente | 30 | 12 | 10 | 8 | 13 | 46 |
-| 7 | Vitória S.C. | 31 | 11 | 7 | 13 | -7 | 40 |
+| 7 | Vitória S.C. | 31 | 12 | 6 | 13 | -5 | 42 |
 | 8 | Moreirense | 31 | 11 | 6 | 14 | -11 | 39 |
 | 9 | Alverca | 31 | 10 | 8 | 13 | -15 | 38 |
 | 10 | Estoril | 30 | 10 | 7 | 13 | 0 | 37 |
 | 11 | Arouca | 31 | 10 | 5 | 16 | -21 | 35 |
-| 12 | Rio Ave | 31 | 8 | 11 | 12 | -17 | 35 |
+| 12 | Rio Ave | 31 | 8 | 10 | 13 | -19 | 34 |
 | 13 | Nacional | 31 | 8 | 7 | 16 | -7 | 31 |
 | 14 | Santa Clara | 30 | 7 | 8 | 15 | -11 | 29 |
 | 15 | Estrela Amadora | 30 | 6 | 10 | 14 | -16 | 28 |
@@ -360,8 +360,8 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Philadelphia Union | 9 | 1 | 2 | 6 | -6 | 5 |
 | 1 | San Jose Earthquakes | 9 | 8 | 0 | 1 | 18 | 24 |
 | 2 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
-| 3 | LAFC | 10 | 5 | 3 | 2 | 10 | 18 |
-| 4 | Minnesota United | 10 | 5 | 3 | 2 | -2 | 18 |
+| 3 | LAFC | 10 | 6 | 2 | 2 | 11 | 20 |
+| 4 | Minnesota United | 10 | 5 | 2 | 3 | -3 | 17 |
 | 5 | Seattle Sounders | 7 | 5 | 1 | 1 | 7 | 16 |
 | 6 | Real Salt Lake | 8 | 5 | 1 | 2 | 4 | 16 |
 | 7 | Colorado Rapids | 9 | 4 | 1 | 4 | 6 | 13 |
@@ -405,21 +405,21 @@ Data not available.
 | 2 | Flamengo | 11 | 7 | 2 | 2 | 10 | 23 |
 | 3 | Fluminense | 12 | 7 | 2 | 3 | 6 | 23 |
 | 4 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
-| 5 | Bahia | 11 | 6 | 2 | 3 | 3 | 20 |
+| 5 | Bahia | 12 | 6 | 2 | 4 | 2 | 20 |
 | 6 | Athletico Paranaense | 12 | 6 | 1 | 5 | 3 | 19 |
 | 7 | Coritiba | 12 | 5 | 4 | 3 | 3 | 19 |
 | 8 | RB Bragantino | 12 | 5 | 2 | 5 | 1 | 17 |
-| 9 | Botafogo | 11 | 5 | 1 | 5 | 0 | 16 |
+| 9 | Botafogo | 12 | 5 | 2 | 5 | 0 | 17 |
 | 10 | Vasco da Gama | 12 | 4 | 4 | 4 | 0 | 16 |
-| 11 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
-| 12 | Atlético Mineiro | 12 | 4 | 2 | 6 | -1 | 14 |
-| 13 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
-| 14 | Internacional | 12 | 3 | 4 | 5 | -2 | 13 |
-| 15 | Santos | 12 | 3 | 4 | 5 | -3 | 13 |
-| 16 | Cruzeiro | 12 | 3 | 4 | 5 | -5 | 13 |
+| 11 | Santos | 13 | 4 | 4 | 5 | -2 | 16 |
+| 12 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
+| 13 | Atlético Mineiro | 12 | 4 | 2 | 6 | -1 | 14 |
+| 14 | Internacional | 13 | 3 | 5 | 5 | -2 | 14 |
+| 15 | Cruzeiro | 13 | 3 | 5 | 5 | -5 | 14 |
+| 16 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
 | 17 | Corinthians | 12 | 2 | 6 | 4 | -3 | 12 |
 | 18 | Mirassol | 11 | 2 | 3 | 6 | -4 | 9 |
-| 19 | Remo | 12 | 1 | 5 | 6 | -9 | 8 |
+| 19 | Remo | 13 | 1 | 6 | 6 | -9 | 9 |
 | 20 | Chapecoense | 11 | 1 | 5 | 5 | -11 | 8 |
 
 
