@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Saturday, 25 April 2026, 05:09 PM UTC",
-        "IST": "Saturday, 25 April 2026, 10:39 PM IST"
+        "UTC": "Saturday, 25 April 2026, 06:04 PM UTC",
+        "IST": "Saturday, 25 April 2026, 11:34 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -309,12 +309,12 @@
             },
             {
                 "Position": "11",
-                "Team": "Girona",
+                "Team": "Valencia",
                 "Played": "33",
-                "Wins": "9",
-                "Draws": "12",
-                "Losses": "12",
-                "Goal Difference": "-13",
+                "Wins": "10",
+                "Draws": "9",
+                "Losses": "14",
+                "Goal Difference": "-11",
                 "Points": "39"
             },
             {
@@ -339,13 +339,13 @@
             },
             {
                 "Position": "14",
-                "Team": "Valencia",
+                "Team": "Girona",
                 "Played": "33",
                 "Wins": "9",
-                "Draws": "10",
-                "Losses": "14",
-                "Goal Difference": "-12",
-                "Points": "37"
+                "Draws": "11",
+                "Losses": "13",
+                "Goal Difference": "-14",
+                "Points": "38"
             },
             {
                 "Position": "15",
@@ -441,6 +441,16 @@
             },
             {
                 "Position": "4",
+                "Team": "Hoffenheim",
+                "Played": "31",
+                "Wins": "17",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "16",
+                "Points": "57"
+            },
+            {
+                "Position": "5",
                 "Team": "VfB Stuttgart",
                 "Played": "30",
                 "Wins": "17",
@@ -450,23 +460,13 @@
                 "Points": "56"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Bayer Leverkusen",
                 "Played": "31",
                 "Wins": "16",
                 "Draws": "7",
                 "Losses": "8",
                 "Goal Difference": "20",
-                "Points": "55"
-            },
-            {
-                "Position": "6",
-                "Team": "Hoffenheim",
-                "Played": "31",
-                "Wins": "16",
-                "Draws": "7",
-                "Losses": "8",
-                "Goal Difference": "15",
                 "Points": "55"
             },
             {
@@ -521,16 +521,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Hamburg",
-                "Played": "31",
-                "Wins": "7",
-                "Draws": "11",
-                "Losses": "13",
-                "Goal Difference": "-15",
-                "Points": "32"
-            },
-            {
-                "Position": "13",
                 "Team": "Union Berlin",
                 "Played": "31",
                 "Wins": "8",
@@ -540,13 +530,23 @@
                 "Points": "32"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "K\u00f6ln",
                 "Played": "31",
                 "Wins": "7",
                 "Draws": "10",
                 "Losses": "14",
                 "Goal Difference": "-8",
+                "Points": "31"
+            },
+            {
+                "Position": "14",
+                "Team": "Hamburg",
+                "Played": "31",
+                "Wins": "7",
+                "Draws": "10",
+                "Losses": "14",
+                "Goal Difference": "-16",
                 "Points": "31"
             },
             {
@@ -800,7 +800,7 @@
                 "Wins": "22",
                 "Draws": "3",
                 "Losses": "5",
-                "Goal Difference": "41",
+                "Goal Difference": "42",
                 "Points": "69"
             },
             {
@@ -920,7 +920,7 @@
                 "Wins": "9",
                 "Draws": "7",
                 "Losses": "15",
-                "Goal Difference": "-15",
+                "Goal Difference": "-16",
                 "Points": "34"
             },
             {
@@ -2538,12 +2538,12 @@
             {
                 "Position": "6",
                 "Team": "Toronto",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "3",
-                "Draws": "4",
+                "Draws": "5",
                 "Losses": "2",
                 "Goal Difference": "-1",
-                "Points": "13"
+                "Points": "14"
             },
             {
                 "Position": "7",
@@ -2628,12 +2628,12 @@
             {
                 "Position": "15",
                 "Team": "Atlanta United",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "1",
-                "Draws": "1",
+                "Draws": "2",
                 "Losses": "7",
                 "Goal Difference": "-9",
-                "Points": "4"
+                "Points": "5"
             },
             {
                 "Position": "1",

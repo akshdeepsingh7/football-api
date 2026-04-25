@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 April 2026, 05:09 PM UTC (Saturday, 25 April 2026, 10:39 PM IST)
+**Last Updated:** Saturday, 25 April 2026, 06:04 PM UTC (Saturday, 25 April 2026, 11:34 PM IST)
 
 ### Premier League
 
@@ -82,10 +82,10 @@ The latest league standings are displayed below in Markdown tables:
 | 8 | Real Sociedad | 32 | 11 | 9 | 12 | 0 | 42 |
 | 9 | Athletic Bilbao | 32 | 12 | 5 | 15 | -11 | 41 |
 | 10 | Osasuna | 32 | 10 | 9 | 13 | -2 | 39 |
-| 11 | Girona | 33 | 9 | 12 | 12 | -13 | 39 |
+| 11 | Valencia | 33 | 10 | 9 | 14 | -11 | 39 |
 | 12 | Rayo Vallecano | 32 | 9 | 11 | 12 | -8 | 38 |
 | 13 | Espanyol | 32 | 10 | 8 | 14 | -12 | 38 |
-| 14 | Valencia | 33 | 9 | 10 | 14 | -12 | 37 |
+| 14 | Girona | 33 | 9 | 11 | 13 | -14 | 38 |
 | 15 | Alavés | 33 | 9 | 9 | 15 | -11 | 36 |
 | 16 | Mallorca | 33 | 9 | 8 | 16 | -10 | 35 |
 | 17 | Elche | 32 | 8 | 11 | 13 | -7 | 35 |
@@ -100,17 +100,17 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 31 | 26 | 4 | 1 | 81 | 82 |
 | 2 | Borussia Dortmund | 30 | 19 | 7 | 4 | 30 | 64 |
 | 3 | RB Leipzig | 31 | 19 | 5 | 7 | 24 | 62 |
-| 4 | VfB Stuttgart | 30 | 17 | 5 | 8 | 20 | 56 |
-| 5 | Bayer Leverkusen | 31 | 16 | 7 | 8 | 20 | 55 |
-| 6 | Hoffenheim | 31 | 16 | 7 | 8 | 15 | 55 |
+| 4 | Hoffenheim | 31 | 17 | 6 | 8 | 16 | 57 |
+| 5 | VfB Stuttgart | 30 | 17 | 5 | 8 | 20 | 56 |
+| 6 | Bayer Leverkusen | 31 | 16 | 7 | 8 | 20 | 55 |
 | 7 | Eintracht Frankfurt | 31 | 11 | 10 | 10 | -2 | 43 |
 | 8 | SC Freiburg | 30 | 12 | 7 | 11 | -4 | 43 |
 | 9 | Augsburg | 31 | 10 | 7 | 14 | -16 | 37 |
 | 10 | Mainz 05 | 31 | 8 | 10 | 13 | -10 | 34 |
 | 11 | Borussia Mönchengladbach | 31 | 7 | 11 | 13 | -14 | 32 |
-| 12 | Hamburg | 31 | 7 | 11 | 13 | -15 | 32 |
-| 13 | Union Berlin | 31 | 8 | 8 | 15 | -20 | 32 |
-| 14 | Köln | 31 | 7 | 10 | 14 | -8 | 31 |
+| 12 | Union Berlin | 31 | 8 | 8 | 15 | -20 | 32 |
+| 13 | Köln | 31 | 7 | 10 | 14 | -8 | 31 |
+| 14 | Hamburg | 31 | 7 | 10 | 14 | -16 | 31 |
 | 15 | Werder Bremen | 30 | 8 | 7 | 15 | -18 | 31 |
 | 16 | St. Pauli | 31 | 6 | 8 | 17 | -27 | 26 |
 | 17 | VfL Wolfsburg | 31 | 6 | 7 | 18 | -25 | 25 |
@@ -145,7 +145,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | PSG | 30 | 22 | 3 | 5 | 41 | 69 |
+| 1 | PSG | 30 | 22 | 3 | 5 | 42 | 69 |
 | 2 | Lens | 30 | 20 | 3 | 7 | 28 | 63 |
 | 3 | Lyon | 31 | 17 | 6 | 8 | 16 | 57 |
 | 4 | LOSC | 30 | 16 | 6 | 8 | 15 | 54 |
@@ -157,7 +157,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Brest | 30 | 10 | 8 | 12 | -6 | 38 |
 | 11 | Paris FC | 30 | 9 | 11 | 10 | -6 | 38 |
 | 12 | Toulouse | 30 | 10 | 7 | 13 | -1 | 37 |
-| 13 | Angers | 31 | 9 | 7 | 15 | -15 | 34 |
+| 13 | Angers | 31 | 9 | 7 | 15 | -16 | 34 |
 | 14 | Le Havre | 30 | 6 | 12 | 12 | -13 | 30 |
 | 15 | Nice | 30 | 7 | 8 | 15 | -22 | 29 |
 | 16 | Auxerre | 31 | 5 | 10 | 16 | -15 | 25 |
@@ -348,7 +348,7 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | New England Revolution | 8 | 5 | 0 | 3 | 5 | 15 |
 | 4 | Chicago Fire | 8 | 4 | 2 | 2 | 4 | 14 |
 | 5 | Charlotte | 9 | 4 | 2 | 3 | 2 | 14 |
-| 6 | Toronto | 9 | 3 | 4 | 2 | -1 | 13 |
+| 6 | Toronto | 10 | 3 | 5 | 2 | -1 | 14 |
 | 7 | NYCFC | 9 | 3 | 3 | 3 | 4 | 12 |
 | 8 | New York RB | 9 | 3 | 3 | 3 | -7 | 12 |
 | 9 | Columbus Crew | 9 | 2 | 3 | 4 | -1 | 9 |
@@ -357,7 +357,7 @@ The latest league standings are displayed below in Markdown tables:
 | 12 | Orlando City | 9 | 2 | 1 | 6 | -16 | 7 |
 | 13 | CF Montréal | 8 | 2 | 0 | 6 | -8 | 6 |
 | 14 | Philadelphia Union | 9 | 1 | 2 | 6 | -6 | 5 |
-| 15 | Atlanta United | 9 | 1 | 1 | 7 | -9 | 4 |
+| 15 | Atlanta United | 10 | 1 | 2 | 7 | -9 | 5 |
 | 1 | San Jose Earthquakes | 9 | 8 | 0 | 1 | 18 | 24 |
 | 2 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
 | 3 | LAFC | 9 | 5 | 2 | 2 | 10 | 17 |
