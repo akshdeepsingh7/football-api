@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Saturday, 25 April 2026, 11:05 PM UTC (Sunday, 26 April 2026, 04:35 AM IST)
+**Last Updated:** Sunday, 26 April 2026, 12:02 AM UTC (Sunday, 26 April 2026, 05:32 AM IST)
 
 ### Premier League
 
@@ -344,20 +344,20 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Nashville | 8 | 6 | 1 | 1 | 13 | 19 |
-| 2 | Inter Miami | 9 | 5 | 3 | 1 | 4 | 18 |
-| 3 | New England Revolution | 8 | 5 | 0 | 3 | 5 | 15 |
+| 2 | Inter Miami | 10 | 5 | 4 | 1 | 4 | 19 |
+| 3 | New England Revolution | 9 | 5 | 1 | 3 | 5 | 16 |
 | 4 | Chicago Fire | 8 | 4 | 2 | 2 | 4 | 14 |
 | 5 | Charlotte | 9 | 4 | 2 | 3 | 2 | 14 |
 | 6 | Toronto | 10 | 3 | 4 | 3 | -2 | 13 |
-| 7 | NYCFC | 10 | 3 | 3 | 4 | 3 | 12 |
-| 8 | New York RB | 9 | 3 | 3 | 3 | -7 | 12 |
-| 9 | CF Montréal | 9 | 3 | 0 | 6 | -7 | 9 |
-| 10 | Columbus Crew | 9 | 2 | 3 | 4 | -1 | 9 |
-| 11 | DC United | 9 | 2 | 3 | 4 | -5 | 9 |
-| 12 | Cincinnati | 9 | 2 | 3 | 4 | -6 | 9 |
+| 7 | New York RB | 10 | 3 | 4 | 3 | -7 | 13 |
+| 8 | NYCFC | 10 | 3 | 3 | 4 | 3 | 12 |
+| 9 | Columbus Crew | 10 | 3 | 3 | 4 | 0 | 12 |
+| 10 | DC United | 10 | 3 | 3 | 4 | -4 | 12 |
+| 11 | Cincinnati | 10 | 2 | 4 | 4 | -6 | 10 |
+| 12 | CF Montréal | 9 | 3 | 0 | 6 | -7 | 9 |
 | 13 | Atlanta United | 10 | 2 | 1 | 7 | -8 | 7 |
-| 14 | Orlando City | 9 | 2 | 1 | 6 | -16 | 7 |
-| 15 | Philadelphia Union | 9 | 1 | 2 | 6 | -6 | 5 |
+| 14 | Orlando City | 10 | 2 | 1 | 7 | -17 | 7 |
+| 15 | Philadelphia Union | 10 | 1 | 2 | 7 | -7 | 5 |
 | 1 | San Jose Earthquakes | 9 | 8 | 0 | 1 | 18 | 24 |
 | 2 | Vancouver Whitecaps | 8 | 7 | 0 | 1 | 18 | 21 |
 | 3 | LAFC | 10 | 6 | 2 | 2 | 11 | 20 |
@@ -404,21 +404,21 @@ Data not available.
 | 1 | Palmeiras | 12 | 9 | 2 | 1 | 12 | 29 |
 | 2 | Flamengo | 11 | 7 | 2 | 2 | 10 | 23 |
 | 3 | Fluminense | 12 | 7 | 2 | 3 | 6 | 23 |
-| 4 | São Paulo | 12 | 6 | 2 | 4 | 5 | 20 |
-| 5 | Bahia | 12 | 6 | 2 | 4 | 1 | 20 |
+| 4 | São Paulo | 13 | 6 | 3 | 4 | 5 | 21 |
+| 5 | Bahia | 12 | 6 | 3 | 3 | 3 | 21 |
 | 6 | Athletico Paranaense | 12 | 6 | 1 | 5 | 3 | 19 |
-| 7 | Botafogo | 12 | 6 | 1 | 5 | 1 | 19 |
-| 8 | Coritiba | 12 | 5 | 4 | 3 | 3 | 19 |
-| 9 | RB Bragantino | 12 | 5 | 2 | 5 | 1 | 17 |
+| 7 | Coritiba | 12 | 5 | 4 | 3 | 3 | 19 |
+| 8 | RB Bragantino | 12 | 5 | 2 | 5 | 1 | 17 |
+| 9 | Botafogo | 12 | 5 | 2 | 5 | 0 | 17 |
 | 10 | Vasco da Gama | 12 | 4 | 4 | 4 | 0 | 16 |
-| 11 | Santos | 13 | 4 | 4 | 5 | -1 | 16 |
-| 12 | Cruzeiro | 13 | 4 | 4 | 5 | -4 | 16 |
-| 13 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
-| 14 | Atlético Mineiro | 12 | 4 | 2 | 6 | -1 | 14 |
-| 15 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
-| 16 | Internacional | 13 | 3 | 4 | 6 | -3 | 13 |
+| 11 | Cruzeiro | 13 | 4 | 4 | 5 | -4 | 16 |
+| 12 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
+| 13 | Atlético Mineiro | 12 | 4 | 2 | 6 | -1 | 14 |
+| 14 | Internacional | 13 | 3 | 5 | 5 | -2 | 14 |
+| 15 | Santos | 13 | 3 | 5 | 5 | -3 | 14 |
+| 16 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
 | 17 | Corinthians | 12 | 2 | 6 | 4 | -3 | 12 |
-| 18 | Mirassol | 11 | 2 | 3 | 6 | -4 | 9 |
+| 18 | Mirassol | 12 | 2 | 4 | 6 | -4 | 10 |
 | 19 | Remo | 13 | 1 | 5 | 7 | -10 | 8 |
 | 20 | Chapecoense | 11 | 1 | 5 | 5 | -11 | 8 |
 
