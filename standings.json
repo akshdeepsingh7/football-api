@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 April 2026, 10:39 PM UTC",
-        "IST": "Monday, 27 April 2026, 04:09 AM IST"
+        "UTC": "Sunday, 26 April 2026, 11:39 PM UTC",
+        "IST": "Monday, 27 April 2026, 05:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2688,11 +2688,11 @@
             {
                 "Position": "6",
                 "Team": "Real Salt Lake",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "5",
                 "Draws": "1",
-                "Losses": "2",
-                "Goal Difference": "4",
+                "Losses": "3",
+                "Goal Difference": "3",
                 "Points": "16"
             },
             {
@@ -2727,6 +2727,16 @@
             },
             {
                 "Position": "10",
+                "Team": "LA Galaxy",
+                "Played": "10",
+                "Wins": "3",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "12"
+            },
+            {
+                "Position": "11",
                 "Team": "San Diego",
                 "Played": "10",
                 "Wins": "3",
@@ -2736,7 +2746,7 @@
                 "Points": "11"
             },
             {
-                "Position": "11",
+                "Position": "12",
                 "Team": "Portland Timbers",
                 "Played": "9",
                 "Wins": "3",
@@ -2746,7 +2756,7 @@
                 "Points": "10"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Austin",
                 "Played": "10",
                 "Wins": "2",
@@ -2754,16 +2764,6 @@
                 "Losses": "4",
                 "Goal Difference": "-5",
                 "Points": "10"
-            },
-            {
-                "Position": "13",
-                "Team": "LA Galaxy",
-                "Played": "9",
-                "Wins": "2",
-                "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "9"
             },
             {
                 "Position": "14",
@@ -2943,22 +2943,22 @@
             {
                 "Position": "2",
                 "Team": "Flamengo",
-                "Played": "11",
-                "Wins": "7",
+                "Played": "12",
+                "Wins": "8",
                 "Draws": "2",
                 "Losses": "2",
-                "Goal Difference": "10",
-                "Points": "23"
+                "Goal Difference": "11",
+                "Points": "26"
             },
             {
                 "Position": "3",
                 "Team": "Fluminense",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "7",
-                "Draws": "2",
+                "Draws": "3",
                 "Losses": "3",
                 "Goal Difference": "6",
-                "Points": "23"
+                "Points": "24"
             },
             {
                 "Position": "4",
@@ -2972,6 +2972,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Athletico Paranaense",
+                "Played": "13",
+                "Wins": "7",
+                "Draws": "1",
+                "Losses": "5",
+                "Goal Difference": "5",
+                "Points": "22"
+            },
+            {
+                "Position": "6",
                 "Team": "Bahia",
                 "Played": "12",
                 "Wins": "6",
@@ -2979,16 +2989,6 @@
                 "Losses": "3",
                 "Goal Difference": "3",
                 "Points": "21"
-            },
-            {
-                "Position": "6",
-                "Team": "Athletico Paranaense",
-                "Played": "13",
-                "Wins": "6",
-                "Draws": "2",
-                "Losses": "5",
-                "Goal Difference": "3",
-                "Points": "20"
             },
             {
                 "Position": "7",
@@ -3042,16 +3042,6 @@
             },
             {
                 "Position": "12",
-                "Team": "Vit\u00f3ria",
-                "Played": "12",
-                "Wins": "4",
-                "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "16"
-            },
-            {
-                "Position": "13",
                 "Team": "Cruzeiro",
                 "Played": "13",
                 "Wins": "4",
@@ -3059,6 +3049,16 @@
                 "Losses": "5",
                 "Goal Difference": "-4",
                 "Points": "16"
+            },
+            {
+                "Position": "13",
+                "Team": "Vit\u00f3ria",
+                "Played": "12",
+                "Wins": "4",
+                "Draws": "3",
+                "Losses": "5",
+                "Goal Difference": "-5",
+                "Points": "15"
             },
             {
                 "Position": "14",
@@ -3073,11 +3073,11 @@
             {
                 "Position": "15",
                 "Team": "Atl\u00e9tico Mineiro",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "4",
                 "Draws": "2",
-                "Losses": "6",
-                "Goal Difference": "-1",
+                "Losses": "7",
+                "Goal Difference": "-2",
                 "Points": "14"
             },
             {
@@ -3112,22 +3112,22 @@
             },
             {
                 "Position": "19",
+                "Team": "Chapecoense",
+                "Played": "12",
+                "Wins": "1",
+                "Draws": "6",
+                "Losses": "5",
+                "Goal Difference": "-11",
+                "Points": "9"
+            },
+            {
+                "Position": "20",
                 "Team": "Remo",
                 "Played": "13",
                 "Wins": "1",
                 "Draws": "5",
                 "Losses": "7",
                 "Goal Difference": "-10",
-                "Points": "8"
-            },
-            {
-                "Position": "20",
-                "Team": "Chapecoense",
-                "Played": "11",
-                "Wins": "1",
-                "Draws": "5",
-                "Losses": "5",
-                "Goal Difference": "-11",
                 "Points": "8"
             }
         ]
