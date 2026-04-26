@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 April 2026, 12:03 PM UTC",
-        "IST": "Sunday, 26 April 2026, 05:33 PM IST"
+        "UTC": "Sunday, 26 April 2026, 01:45 PM UTC",
+        "IST": "Sunday, 26 April 2026, 07:15 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -259,6 +259,16 @@
             },
             {
                 "Position": "6",
+                "Team": "Real Sociedad",
+                "Played": "33",
+                "Wins": "12",
+                "Draws": "9",
+                "Losses": "12",
+                "Goal Difference": "2",
+                "Points": "45"
+            },
+            {
+                "Position": "7",
                 "Team": "Getafe",
                 "Played": "33",
                 "Wins": "13",
@@ -268,7 +278,7 @@
                 "Points": "44"
             },
             {
-                "Position": "7",
+                "Position": "8",
                 "Team": "Celta de Vigo",
                 "Played": "32",
                 "Wins": "11",
@@ -276,16 +286,6 @@
                 "Losses": "10",
                 "Goal Difference": "3",
                 "Points": "44"
-            },
-            {
-                "Position": "8",
-                "Team": "Real Sociedad",
-                "Played": "33",
-                "Wins": "11",
-                "Draws": "10",
-                "Losses": "12",
-                "Goal Difference": "0",
-                "Points": "43"
             },
             {
                 "Position": "9",
@@ -309,16 +309,6 @@
             },
             {
                 "Position": "11",
-                "Team": "Rayo Vallecano",
-                "Played": "33",
-                "Wins": "9",
-                "Draws": "12",
-                "Losses": "12",
-                "Goal Difference": "-8",
-                "Points": "39"
-            },
-            {
-                "Position": "12",
                 "Team": "Valencia",
                 "Played": "33",
                 "Wins": "10",
@@ -328,23 +318,33 @@
                 "Points": "39"
             },
             {
-                "Position": "13",
-                "Team": "Girona",
+                "Position": "12",
+                "Team": "Rayo Vallecano",
                 "Played": "33",
                 "Wins": "9",
                 "Draws": "11",
                 "Losses": "13",
-                "Goal Difference": "-14",
+                "Goal Difference": "-10",
                 "Points": "38"
             },
             {
-                "Position": "14",
+                "Position": "13",
                 "Team": "Espanyol",
                 "Played": "32",
                 "Wins": "10",
                 "Draws": "8",
                 "Losses": "14",
                 "Goal Difference": "-12",
+                "Points": "38"
+            },
+            {
+                "Position": "14",
+                "Team": "Girona",
+                "Played": "33",
+                "Wins": "9",
+                "Draws": "11",
+                "Losses": "13",
+                "Goal Difference": "-14",
                 "Points": "38"
             },
             {
@@ -441,6 +441,16 @@
             },
             {
                 "Position": "4",
+                "Team": "VfB Stuttgart",
+                "Played": "31",
+                "Wins": "17",
+                "Draws": "6",
+                "Losses": "8",
+                "Goal Difference": "20",
+                "Points": "57"
+            },
+            {
+                "Position": "5",
                 "Team": "Hoffenheim",
                 "Played": "31",
                 "Wins": "17",
@@ -448,16 +458,6 @@
                 "Losses": "8",
                 "Goal Difference": "16",
                 "Points": "57"
-            },
-            {
-                "Position": "5",
-                "Team": "VfB Stuttgart",
-                "Played": "30",
-                "Wins": "17",
-                "Draws": "5",
-                "Losses": "8",
-                "Goal Difference": "20",
-                "Points": "56"
             },
             {
                 "Position": "6",
@@ -521,6 +521,16 @@
             },
             {
                 "Position": "12",
+                "Team": "Werder Bremen",
+                "Played": "31",
+                "Wins": "8",
+                "Draws": "8",
+                "Losses": "15",
+                "Goal Difference": "-18",
+                "Points": "32"
+            },
+            {
+                "Position": "13",
                 "Team": "Union Berlin",
                 "Played": "31",
                 "Wins": "8",
@@ -530,7 +540,7 @@
                 "Points": "32"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "K\u00f6ln",
                 "Played": "31",
                 "Wins": "7",
@@ -540,23 +550,13 @@
                 "Points": "31"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Hamburg",
                 "Played": "31",
                 "Wins": "7",
                 "Draws": "10",
                 "Losses": "14",
                 "Goal Difference": "-16",
-                "Points": "31"
-            },
-            {
-                "Position": "15",
-                "Team": "Werder Bremen",
-                "Played": "30",
-                "Wins": "8",
-                "Draws": "7",
-                "Losses": "15",
-                "Goal Difference": "-18",
                 "Points": "31"
             },
             {
@@ -633,6 +633,16 @@
             },
             {
                 "Position": "5",
+                "Team": "Como",
+                "Played": "34",
+                "Wins": "17",
+                "Draws": "10",
+                "Losses": "7",
+                "Goal Difference": "30",
+                "Points": "61"
+            },
+            {
+                "Position": "6",
                 "Team": "Roma",
                 "Played": "34",
                 "Wins": "19",
@@ -640,16 +650,6 @@
                 "Losses": "11",
                 "Goal Difference": "19",
                 "Points": "61"
-            },
-            {
-                "Position": "6",
-                "Team": "Como",
-                "Played": "33",
-                "Wins": "16",
-                "Draws": "10",
-                "Losses": "7",
-                "Goal Difference": "29",
-                "Points": "58"
             },
             {
                 "Position": "7",
@@ -724,11 +724,11 @@
             {
                 "Position": "14",
                 "Team": "Genoa",
-                "Played": "33",
+                "Played": "34",
                 "Wins": "10",
                 "Draws": "9",
-                "Losses": "14",
-                "Goal Difference": "-6",
+                "Losses": "15",
+                "Goal Difference": "-7",
                 "Points": "39"
             },
             {
@@ -865,23 +865,23 @@
             },
             {
                 "Position": "8",
-                "Team": "Strasbourg",
-                "Played": "29",
-                "Wins": "12",
-                "Draws": "7",
-                "Losses": "10",
-                "Goal Difference": "9",
-                "Points": "43"
+                "Team": "Lorient",
+                "Played": "31",
+                "Wins": "11",
+                "Draws": "11",
+                "Losses": "9",
+                "Goal Difference": "-3",
+                "Points": "44"
             },
             {
                 "Position": "9",
-                "Team": "Lorient",
+                "Team": "Strasbourg",
                 "Played": "30",
-                "Wins": "10",
-                "Draws": "11",
-                "Losses": "9",
-                "Goal Difference": "-4",
-                "Points": "41"
+                "Wins": "12",
+                "Draws": "7",
+                "Losses": "11",
+                "Goal Difference": "8",
+                "Points": "43"
             },
             {
                 "Position": "10",
@@ -2247,11 +2247,11 @@
                 "Position": "1",
                 "Team": "Coventry City",
                 "Played": "45",
-                "Wins": "26",
-                "Draws": "12",
+                "Wins": "27",
+                "Draws": "11",
                 "Losses": "7",
-                "Goal Difference": "46",
-                "Points": "90"
+                "Goal Difference": "48",
+                "Points": "92"
             },
             {
                 "Position": "2",
@@ -2298,10 +2298,10 @@
                 "Team": "Wrexham",
                 "Played": "45",
                 "Wins": "19",
-                "Draws": "14",
-                "Losses": "12",
-                "Goal Difference": "6",
-                "Points": "71"
+                "Draws": "13",
+                "Losses": "13",
+                "Goal Difference": "4",
+                "Points": "70"
             },
             {
                 "Position": "7",
@@ -2859,16 +2859,6 @@
             },
             {
                 "Position": "8",
-                "Team": "SC Delhi",
-                "Played": "9",
-                "Wins": "3",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-1",
-                "Points": "11"
-            },
-            {
-                "Position": "9",
                 "Team": "Inter Kashi",
                 "Played": "9",
                 "Wins": "3",
@@ -2878,7 +2868,7 @@
                 "Points": "11"
             },
             {
-                "Position": "10",
+                "Position": "9",
                 "Team": "Kerala Blasters",
                 "Played": "11",
                 "Wins": "3",
@@ -2886,6 +2876,16 @@
                 "Losses": "6",
                 "Goal Difference": "-5",
                 "Points": "11"
+            },
+            {
+                "Position": "10",
+                "Team": "SC Delhi",
+                "Played": "9",
+                "Wins": "2",
+                "Draws": "3",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "9"
             },
             {
                 "Position": "11",
@@ -2922,10 +2922,10 @@
                 "Team": "Mohammedan",
                 "Played": "10",
                 "Wins": "0",
-                "Draws": "2",
-                "Losses": "8",
-                "Goal Difference": "-18",
-                "Points": "2"
+                "Draws": "3",
+                "Losses": "7",
+                "Goal Difference": "-17",
+                "Points": "3"
             }
         ],
         "Liga Profesional Argentina (Clausura)": [],
