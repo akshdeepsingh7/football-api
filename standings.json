@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 April 2026, 09:38 PM UTC",
-        "IST": "Monday, 27 April 2026, 03:08 AM IST"
+        "UTC": "Sunday, 26 April 2026, 10:39 PM UTC",
+        "IST": "Monday, 27 April 2026, 04:09 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -2934,11 +2934,11 @@
                 "Position": "1",
                 "Team": "Palmeiras",
                 "Played": "13",
-                "Wins": "9",
-                "Draws": "3",
+                "Wins": "10",
+                "Draws": "2",
                 "Losses": "1",
-                "Goal Difference": "12",
-                "Points": "30"
+                "Goal Difference": "13",
+                "Points": "32"
             },
             {
                 "Position": "2",
@@ -3002,21 +3002,21 @@
             },
             {
                 "Position": "8",
-                "Team": "RB Bragantino",
-                "Played": "13",
-                "Wins": "5",
-                "Draws": "3",
-                "Losses": "5",
-                "Goal Difference": "1",
-                "Points": "18"
-            },
-            {
-                "Position": "9",
                 "Team": "Botafogo",
                 "Played": "12",
                 "Wins": "5",
                 "Draws": "2",
                 "Losses": "5",
+                "Goal Difference": "0",
+                "Points": "17"
+            },
+            {
+                "Position": "9",
+                "Team": "RB Bragantino",
+                "Played": "13",
+                "Wins": "5",
+                "Draws": "2",
+                "Losses": "6",
                 "Goal Difference": "0",
                 "Points": "17"
             },
