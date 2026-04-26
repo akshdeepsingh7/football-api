@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 April 2026, 01:45 PM UTC",
-        "IST": "Sunday, 26 April 2026, 07:15 PM IST"
+        "UTC": "Sunday, 26 April 2026, 02:44 PM UTC",
+        "IST": "Sunday, 26 April 2026, 08:14 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -259,16 +259,6 @@
             },
             {
                 "Position": "6",
-                "Team": "Real Sociedad",
-                "Played": "33",
-                "Wins": "12",
-                "Draws": "9",
-                "Losses": "12",
-                "Goal Difference": "2",
-                "Points": "45"
-            },
-            {
-                "Position": "7",
                 "Team": "Getafe",
                 "Played": "33",
                 "Wins": "13",
@@ -278,7 +268,7 @@
                 "Points": "44"
             },
             {
-                "Position": "8",
+                "Position": "7",
                 "Team": "Celta de Vigo",
                 "Played": "32",
                 "Wins": "11",
@@ -286,6 +276,16 @@
                 "Losses": "10",
                 "Goal Difference": "3",
                 "Points": "44"
+            },
+            {
+                "Position": "8",
+                "Team": "Real Sociedad",
+                "Played": "33",
+                "Wins": "11",
+                "Draws": "10",
+                "Losses": "12",
+                "Goal Difference": "0",
+                "Points": "43"
             },
             {
                 "Position": "9",
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Rayo Vallecano",
+                "Played": "33",
+                "Wins": "9",
+                "Draws": "12",
+                "Losses": "12",
+                "Goal Difference": "-8",
+                "Points": "39"
+            },
+            {
+                "Position": "12",
                 "Team": "Valencia",
                 "Played": "33",
                 "Wins": "10",
@@ -318,17 +328,17 @@
                 "Points": "39"
             },
             {
-                "Position": "12",
-                "Team": "Rayo Vallecano",
+                "Position": "13",
+                "Team": "Elche",
                 "Played": "33",
                 "Wins": "9",
                 "Draws": "11",
                 "Losses": "13",
-                "Goal Difference": "-10",
+                "Goal Difference": "-5",
                 "Points": "38"
             },
             {
-                "Position": "13",
+                "Position": "14",
                 "Team": "Espanyol",
                 "Played": "32",
                 "Wins": "10",
@@ -338,7 +348,7 @@
                 "Points": "38"
             },
             {
-                "Position": "14",
+                "Position": "15",
                 "Team": "Girona",
                 "Played": "33",
                 "Wins": "9",
@@ -348,7 +358,7 @@
                 "Points": "38"
             },
             {
-                "Position": "15",
+                "Position": "16",
                 "Team": "Alav\u00e9s",
                 "Played": "33",
                 "Wins": "9",
@@ -358,23 +368,13 @@
                 "Points": "36"
             },
             {
-                "Position": "16",
+                "Position": "17",
                 "Team": "Mallorca",
                 "Played": "33",
                 "Wins": "9",
                 "Draws": "8",
                 "Losses": "16",
                 "Goal Difference": "-10",
-                "Points": "35"
-            },
-            {
-                "Position": "17",
-                "Team": "Elche",
-                "Played": "32",
-                "Wins": "8",
-                "Draws": "11",
-                "Losses": "13",
-                "Goal Difference": "-7",
                 "Points": "35"
             },
             {
@@ -400,11 +400,11 @@
             {
                 "Position": "20",
                 "Team": "Real Oviedo",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "6",
                 "Draws": "10",
-                "Losses": "16",
-                "Goal Difference": "-24",
+                "Losses": "17",
+                "Goal Difference": "-26",
                 "Points": "28"
             }
         ],
@@ -441,16 +441,6 @@
             },
             {
                 "Position": "4",
-                "Team": "VfB Stuttgart",
-                "Played": "31",
-                "Wins": "17",
-                "Draws": "6",
-                "Losses": "8",
-                "Goal Difference": "20",
-                "Points": "57"
-            },
-            {
-                "Position": "5",
                 "Team": "Hoffenheim",
                 "Played": "31",
                 "Wins": "17",
@@ -458,6 +448,16 @@
                 "Losses": "8",
                 "Goal Difference": "16",
                 "Points": "57"
+            },
+            {
+                "Position": "5",
+                "Team": "VfB Stuttgart",
+                "Played": "31",
+                "Wins": "17",
+                "Draws": "5",
+                "Losses": "9",
+                "Goal Difference": "19",
+                "Points": "56"
             },
             {
                 "Position": "6",
@@ -511,22 +511,22 @@
             },
             {
                 "Position": "11",
+                "Team": "Werder Bremen",
+                "Played": "31",
+                "Wins": "9",
+                "Draws": "7",
+                "Losses": "15",
+                "Goal Difference": "-17",
+                "Points": "34"
+            },
+            {
+                "Position": "12",
                 "Team": "Borussia M\u00f6nchengladbach",
                 "Played": "31",
                 "Wins": "7",
                 "Draws": "11",
                 "Losses": "13",
                 "Goal Difference": "-14",
-                "Points": "32"
-            },
-            {
-                "Position": "12",
-                "Team": "Werder Bremen",
-                "Played": "31",
-                "Wins": "8",
-                "Draws": "8",
-                "Losses": "15",
-                "Goal Difference": "-18",
                 "Points": "32"
             },
             {
@@ -638,7 +638,7 @@
                 "Wins": "17",
                 "Draws": "10",
                 "Losses": "7",
-                "Goal Difference": "30",
+                "Goal Difference": "31",
                 "Points": "61"
             },
             {
@@ -728,7 +728,7 @@
                 "Wins": "10",
                 "Draws": "9",
                 "Losses": "15",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "39"
             },
             {
@@ -2104,12 +2104,12 @@
             {
                 "Position": "5",
                 "Team": "Famalic\u00e3o",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "13",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "8",
                 "Goal Difference": "11",
-                "Points": "48"
+                "Points": "49"
             },
             {
                 "Position": "6",
@@ -2143,6 +2143,16 @@
             },
             {
                 "Position": "9",
+                "Team": "Estoril",
+                "Played": "31",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "13",
+                "Goal Difference": "0",
+                "Points": "38"
+            },
+            {
+                "Position": "10",
                 "Team": "Alverca",
                 "Played": "31",
                 "Wins": "10",
@@ -2150,16 +2160,6 @@
                 "Losses": "13",
                 "Goal Difference": "-15",
                 "Points": "38"
-            },
-            {
-                "Position": "10",
-                "Team": "Estoril",
-                "Played": "30",
-                "Wins": "10",
-                "Draws": "7",
-                "Losses": "13",
-                "Goal Difference": "0",
-                "Points": "37"
             },
             {
                 "Position": "11",

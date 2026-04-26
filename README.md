@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 April 2026, 01:45 PM UTC (Sunday, 26 April 2026, 07:15 PM IST)
+**Last Updated:** Sunday, 26 April 2026, 02:44 PM UTC (Sunday, 26 April 2026, 08:14 PM IST)
 
 ### Premier League
 
@@ -77,21 +77,21 @@ The latest league standings are displayed below in Markdown tables:
 | 3 | Villarreal | 32 | 19 | 5 | 8 | 20 | 62 |
 | 4 | Atlético de Madrid | 33 | 18 | 6 | 9 | 19 | 60 |
 | 5 | Real Betis | 33 | 12 | 14 | 7 | 8 | 50 |
-| 6 | Real Sociedad | 33 | 12 | 9 | 12 | 2 | 45 |
-| 7 | Getafe | 33 | 13 | 5 | 15 | -6 | 44 |
-| 8 | Celta de Vigo | 32 | 11 | 11 | 10 | 3 | 44 |
+| 6 | Getafe | 33 | 13 | 5 | 15 | -6 | 44 |
+| 7 | Celta de Vigo | 32 | 11 | 11 | 10 | 3 | 44 |
+| 8 | Real Sociedad | 33 | 11 | 10 | 12 | 0 | 43 |
 | 9 | Athletic Bilbao | 33 | 12 | 5 | 16 | -12 | 41 |
 | 10 | Osasuna | 32 | 10 | 9 | 13 | -2 | 39 |
-| 11 | Valencia | 33 | 10 | 9 | 14 | -11 | 39 |
-| 12 | Rayo Vallecano | 33 | 9 | 11 | 13 | -10 | 38 |
-| 13 | Espanyol | 32 | 10 | 8 | 14 | -12 | 38 |
-| 14 | Girona | 33 | 9 | 11 | 13 | -14 | 38 |
-| 15 | Alavés | 33 | 9 | 9 | 15 | -11 | 36 |
-| 16 | Mallorca | 33 | 9 | 8 | 16 | -10 | 35 |
-| 17 | Elche | 32 | 8 | 11 | 13 | -7 | 35 |
+| 11 | Rayo Vallecano | 33 | 9 | 12 | 12 | -8 | 39 |
+| 12 | Valencia | 33 | 10 | 9 | 14 | -11 | 39 |
+| 13 | Elche | 33 | 9 | 11 | 13 | -5 | 38 |
+| 14 | Espanyol | 32 | 10 | 8 | 14 | -12 | 38 |
+| 15 | Girona | 33 | 9 | 11 | 13 | -14 | 38 |
+| 16 | Alavés | 33 | 9 | 9 | 15 | -11 | 36 |
+| 17 | Mallorca | 33 | 9 | 8 | 16 | -10 | 35 |
 | 18 | Sevilla | 32 | 9 | 7 | 16 | -14 | 34 |
 | 19 | Levante | 32 | 8 | 8 | 16 | -13 | 32 |
-| 20 | Real Oviedo | 32 | 6 | 10 | 16 | -24 | 28 |
+| 20 | Real Oviedo | 33 | 6 | 10 | 17 | -26 | 28 |
 
 ### Bundesliga
 
@@ -100,15 +100,15 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Bayern Munich | 31 | 26 | 4 | 1 | 81 | 82 |
 | 2 | Borussia Dortmund | 30 | 19 | 7 | 4 | 30 | 64 |
 | 3 | RB Leipzig | 31 | 19 | 5 | 7 | 24 | 62 |
-| 4 | VfB Stuttgart | 31 | 17 | 6 | 8 | 20 | 57 |
-| 5 | Hoffenheim | 31 | 17 | 6 | 8 | 16 | 57 |
+| 4 | Hoffenheim | 31 | 17 | 6 | 8 | 16 | 57 |
+| 5 | VfB Stuttgart | 31 | 17 | 5 | 9 | 19 | 56 |
 | 6 | Bayer Leverkusen | 31 | 16 | 7 | 8 | 20 | 55 |
 | 7 | Eintracht Frankfurt | 31 | 11 | 10 | 10 | -2 | 43 |
 | 8 | SC Freiburg | 30 | 12 | 7 | 11 | -4 | 43 |
 | 9 | Augsburg | 31 | 10 | 7 | 14 | -16 | 37 |
 | 10 | Mainz 05 | 31 | 8 | 10 | 13 | -10 | 34 |
-| 11 | Borussia Mönchengladbach | 31 | 7 | 11 | 13 | -14 | 32 |
-| 12 | Werder Bremen | 31 | 8 | 8 | 15 | -18 | 32 |
+| 11 | Werder Bremen | 31 | 9 | 7 | 15 | -17 | 34 |
+| 12 | Borussia Mönchengladbach | 31 | 7 | 11 | 13 | -14 | 32 |
 | 13 | Union Berlin | 31 | 8 | 8 | 15 | -20 | 32 |
 | 14 | Köln | 31 | 7 | 10 | 14 | -8 | 31 |
 | 15 | Hamburg | 31 | 7 | 10 | 14 | -16 | 31 |
@@ -124,7 +124,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Napoli | 34 | 21 | 6 | 7 | 19 | 69 |
 | 3 | Milan | 33 | 19 | 9 | 5 | 21 | 66 |
 | 4 | Juventus | 33 | 18 | 9 | 6 | 28 | 63 |
-| 5 | Como | 34 | 17 | 10 | 7 | 30 | 61 |
+| 5 | Como | 34 | 17 | 10 | 7 | 31 | 61 |
 | 6 | Roma | 34 | 19 | 4 | 11 | 19 | 61 |
 | 7 | Atalanta | 33 | 14 | 12 | 7 | 16 | 54 |
 | 8 | Bologna | 34 | 14 | 6 | 14 | 1 | 48 |
@@ -133,7 +133,7 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Udinese | 33 | 12 | 7 | 14 | -5 | 43 |
 | 12 | Parma | 34 | 10 | 12 | 12 | -15 | 42 |
 | 13 | Torino | 33 | 11 | 7 | 15 | -17 | 40 |
-| 14 | Genoa | 34 | 10 | 9 | 15 | -7 | 39 |
+| 14 | Genoa | 34 | 10 | 9 | 15 | -8 | 39 |
 | 15 | Fiorentina | 34 | 8 | 13 | 13 | -7 | 37 |
 | 16 | Cagliari | 33 | 8 | 9 | 16 | -14 | 33 |
 | 17 | Lecce | 34 | 7 | 8 | 19 | -24 | 29 |
@@ -295,12 +295,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Benfica | 31 | 22 | 9 | 0 | 47 | 75 |
 | 3 | Sporting CP | 29 | 22 | 5 | 2 | 55 | 71 |
 | 4 | Braga | 30 | 16 | 8 | 6 | 29 | 56 |
-| 5 | Famalicão | 30 | 13 | 9 | 8 | 11 | 48 |
+| 5 | Famalicão | 31 | 13 | 10 | 8 | 11 | 49 |
 | 6 | Gil Vicente | 30 | 12 | 10 | 8 | 13 | 46 |
 | 7 | Vitória S.C. | 31 | 12 | 6 | 13 | -5 | 42 |
 | 8 | Moreirense | 31 | 11 | 6 | 14 | -11 | 39 |
-| 9 | Alverca | 31 | 10 | 8 | 13 | -15 | 38 |
-| 10 | Estoril | 30 | 10 | 7 | 13 | 0 | 37 |
+| 9 | Estoril | 31 | 10 | 8 | 13 | 0 | 38 |
+| 10 | Alverca | 31 | 10 | 8 | 13 | -15 | 38 |
 | 11 | Arouca | 31 | 10 | 5 | 16 | -21 | 35 |
 | 12 | Rio Ave | 31 | 8 | 10 | 13 | -19 | 34 |
 | 13 | Nacional | 31 | 8 | 7 | 16 | -7 | 31 |
