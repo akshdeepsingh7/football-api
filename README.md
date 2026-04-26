@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 April 2026, 04:01 AM UTC (Sunday, 26 April 2026, 09:31 AM IST)
+**Last Updated:** Sunday, 26 April 2026, 06:23 AM UTC (Sunday, 26 April 2026, 11:53 AM IST)
 
 ### Premier League
 
@@ -359,12 +359,12 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Orlando City | 10 | 2 | 1 | 7 | -17 | 7 |
 | 15 | Philadelphia Union | 10 | 1 | 2 | 7 | -8 | 5 |
 | 1 | San Jose Earthquakes | 10 | 9 | 0 | 1 | 19 | 27 |
-| 2 | Vancouver Whitecaps | 9 | 8 | 0 | 1 | 19 | 24 |
+| 2 | Vancouver Whitecaps | 9 | 8 | 0 | 1 | 20 | 24 |
 | 3 | LAFC | 10 | 6 | 2 | 2 | 11 | 20 |
 | 4 | Seattle Sounders | 8 | 6 | 1 | 1 | 8 | 19 |
 | 5 | Minnesota United | 10 | 5 | 2 | 3 | -3 | 17 |
 | 6 | Real Salt Lake | 8 | 5 | 1 | 2 | 4 | 16 |
-| 7 | Colorado Rapids | 10 | 4 | 1 | 5 | 5 | 13 |
+| 7 | Colorado Rapids | 10 | 4 | 1 | 5 | 4 | 13 |
 | 8 | Dallas | 10 | 3 | 4 | 3 | 3 | 13 |
 | 9 | Houston Dynamo | 9 | 4 | 0 | 5 | -6 | 12 |
 | 10 | San Diego | 10 | 3 | 2 | 5 | 0 | 11 |
