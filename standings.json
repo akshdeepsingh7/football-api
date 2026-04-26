@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 April 2026, 04:43 PM UTC",
-        "IST": "Sunday, 26 April 2026, 10:13 PM IST"
+        "UTC": "Sunday, 26 April 2026, 05:39 PM UTC",
+        "IST": "Sunday, 26 April 2026, 11:09 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -426,7 +426,7 @@
                 "Wins": "20",
                 "Draws": "7",
                 "Losses": "4",
-                "Goal Difference": "33",
+                "Goal Difference": "34",
                 "Points": "67"
             },
             {
@@ -486,7 +486,7 @@
                 "Wins": "12",
                 "Draws": "7",
                 "Losses": "12",
-                "Goal Difference": "-7",
+                "Goal Difference": "-8",
                 "Points": "43"
             },
             {
@@ -595,11 +595,11 @@
                 "Position": "1",
                 "Team": "Inter",
                 "Played": "34",
-                "Wins": "26",
-                "Draws": "3",
+                "Wins": "25",
+                "Draws": "4",
                 "Losses": "5",
-                "Goal Difference": "50",
-                "Points": "81"
+                "Goal Difference": "49",
+                "Points": "79"
             },
             {
                 "Position": "2",
@@ -716,10 +716,10 @@
                 "Team": "Torino",
                 "Played": "34",
                 "Wins": "11",
-                "Draws": "7",
-                "Losses": "16",
-                "Goal Difference": "-18",
-                "Points": "40"
+                "Draws": "8",
+                "Losses": "15",
+                "Goal Difference": "-17",
+                "Points": "41"
             },
             {
                 "Position": "14",
@@ -837,11 +837,11 @@
                 "Position": "5",
                 "Team": "Rennes",
                 "Played": "31",
-                "Wins": "15",
-                "Draws": "9",
+                "Wins": "16",
+                "Draws": "8",
                 "Losses": "7",
-                "Goal Difference": "11",
-                "Points": "54"
+                "Goal Difference": "12",
+                "Points": "56"
             },
             {
                 "Position": "6",
@@ -927,11 +927,11 @@
                 "Position": "14",
                 "Team": "Le Havre",
                 "Played": "31",
-                "Wins": "7",
-                "Draws": "12",
+                "Wins": "6",
+                "Draws": "13",
                 "Losses": "12",
-                "Goal Difference": "-12",
-                "Points": "33"
+                "Goal Difference": "-13",
+                "Points": "31"
             },
             {
                 "Position": "15",
@@ -958,20 +958,20 @@
                 "Team": "Nantes",
                 "Played": "31",
                 "Wins": "4",
-                "Draws": "9",
-                "Losses": "18",
-                "Goal Difference": "-24",
-                "Points": "21"
+                "Draws": "8",
+                "Losses": "19",
+                "Goal Difference": "-25",
+                "Points": "20"
             },
             {
                 "Position": "18",
                 "Team": "Metz",
                 "Played": "31",
                 "Wins": "3",
-                "Draws": "6",
-                "Losses": "22",
-                "Goal Difference": "-40",
-                "Points": "15"
+                "Draws": "7",
+                "Losses": "21",
+                "Goal Difference": "-39",
+                "Points": "16"
             }
         ],
         "Champions League": [
@@ -2064,12 +2064,12 @@
             {
                 "Position": "1",
                 "Team": "Porto",
-                "Played": "30",
-                "Wins": "25",
+                "Played": "31",
+                "Wins": "26",
                 "Draws": "4",
                 "Losses": "1",
-                "Goal Difference": "47",
-                "Points": "79"
+                "Goal Difference": "48",
+                "Points": "82"
             },
             {
                 "Position": "2",
@@ -2094,12 +2094,12 @@
             {
                 "Position": "4",
                 "Team": "Braga",
-                "Played": "30",
-                "Wins": "16",
+                "Played": "31",
+                "Wins": "17",
                 "Draws": "8",
                 "Losses": "6",
-                "Goal Difference": "29",
-                "Points": "56"
+                "Goal Difference": "30",
+                "Points": "59"
             },
             {
                 "Position": "5",
@@ -2194,21 +2194,21 @@
             {
                 "Position": "14",
                 "Team": "Santa Clara",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "7",
                 "Draws": "8",
-                "Losses": "15",
-                "Goal Difference": "-11",
+                "Losses": "16",
+                "Goal Difference": "-12",
                 "Points": "29"
             },
             {
                 "Position": "15",
                 "Team": "Estrela Amadora",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "6",
                 "Draws": "10",
-                "Losses": "14",
-                "Goal Difference": "-16",
+                "Losses": "15",
+                "Goal Difference": "-17",
                 "Points": "28"
             },
             {

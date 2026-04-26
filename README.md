@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 April 2026, 04:43 PM UTC (Sunday, 26 April 2026, 10:13 PM IST)
+**Last Updated:** Sunday, 26 April 2026, 05:39 PM UTC (Sunday, 26 April 2026, 11:09 PM IST)
 
 ### Premier League
 
@@ -98,13 +98,13 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 31 | 26 | 4 | 1 | 81 | 82 |
-| 2 | Borussia Dortmund | 31 | 20 | 7 | 4 | 33 | 67 |
+| 2 | Borussia Dortmund | 31 | 20 | 7 | 4 | 34 | 67 |
 | 3 | RB Leipzig | 31 | 19 | 5 | 7 | 24 | 62 |
 | 4 | VfB Stuttgart | 31 | 17 | 6 | 8 | 20 | 57 |
 | 5 | Hoffenheim | 31 | 17 | 6 | 8 | 16 | 57 |
 | 6 | Bayer Leverkusen | 31 | 16 | 7 | 8 | 20 | 55 |
 | 7 | Eintracht Frankfurt | 31 | 11 | 10 | 10 | -2 | 43 |
-| 8 | SC Freiburg | 31 | 12 | 7 | 12 | -7 | 43 |
+| 8 | SC Freiburg | 31 | 12 | 7 | 12 | -8 | 43 |
 | 9 | Augsburg | 31 | 10 | 7 | 14 | -16 | 37 |
 | 10 | Mainz 05 | 31 | 8 | 10 | 13 | -10 | 34 |
 | 11 | Borussia Mönchengladbach | 31 | 7 | 11 | 13 | -14 | 32 |
@@ -120,7 +120,7 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Inter | 34 | 26 | 3 | 5 | 50 | 81 |
+| 1 | Inter | 34 | 25 | 4 | 5 | 49 | 79 |
 | 2 | Napoli | 34 | 21 | 6 | 7 | 19 | 69 |
 | 3 | Milan | 33 | 19 | 9 | 5 | 21 | 66 |
 | 4 | Juventus | 33 | 18 | 9 | 6 | 28 | 63 |
@@ -132,7 +132,7 @@ The latest league standings are displayed below in Markdown tables:
 | 10 | Sassuolo | 34 | 13 | 7 | 14 | -3 | 46 |
 | 11 | Udinese | 33 | 12 | 7 | 14 | -5 | 43 |
 | 12 | Parma | 34 | 10 | 12 | 12 | -15 | 42 |
-| 13 | Torino | 34 | 11 | 7 | 16 | -18 | 40 |
+| 13 | Torino | 34 | 11 | 8 | 15 | -17 | 41 |
 | 14 | Genoa | 34 | 10 | 9 | 15 | -8 | 39 |
 | 15 | Fiorentina | 34 | 8 | 13 | 13 | -7 | 37 |
 | 16 | Cagliari | 33 | 8 | 9 | 16 | -14 | 33 |
@@ -149,7 +149,7 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Lens | 30 | 20 | 3 | 7 | 28 | 63 |
 | 3 | Lyon | 31 | 17 | 6 | 8 | 16 | 57 |
 | 4 | LOSC | 31 | 17 | 6 | 8 | 16 | 57 |
-| 5 | Rennes | 31 | 15 | 9 | 7 | 11 | 54 |
+| 5 | Rennes | 31 | 16 | 8 | 7 | 12 | 56 |
 | 6 | Marseille | 30 | 16 | 4 | 10 | 18 | 52 |
 | 7 | Monaco | 31 | 15 | 6 | 10 | 7 | 51 |
 | 8 | Strasbourg | 30 | 13 | 7 | 10 | 10 | 46 |
@@ -158,11 +158,11 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Brest | 30 | 10 | 8 | 12 | -6 | 38 |
 | 12 | Paris FC | 31 | 9 | 11 | 11 | -7 | 38 |
 | 13 | Angers | 31 | 9 | 7 | 15 | -17 | 34 |
-| 14 | Le Havre | 31 | 7 | 12 | 12 | -12 | 33 |
+| 14 | Le Havre | 31 | 6 | 13 | 12 | -13 | 31 |
 | 15 | Nice | 30 | 7 | 8 | 15 | -22 | 29 |
 | 16 | Auxerre | 31 | 5 | 10 | 16 | -15 | 25 |
-| 17 | Nantes | 31 | 4 | 9 | 18 | -24 | 21 |
-| 18 | Metz | 31 | 3 | 6 | 22 | -40 | 15 |
+| 17 | Nantes | 31 | 4 | 8 | 19 | -25 | 20 |
+| 18 | Metz | 31 | 3 | 7 | 21 | -39 | 16 |
 
 ### Champions League
 
@@ -291,10 +291,10 @@ The latest league standings are displayed below in Markdown tables:
 
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
-| 1 | Porto | 30 | 25 | 4 | 1 | 47 | 79 |
+| 1 | Porto | 31 | 26 | 4 | 1 | 48 | 82 |
 | 2 | Benfica | 31 | 22 | 9 | 0 | 47 | 75 |
 | 3 | Sporting CP | 29 | 22 | 5 | 2 | 55 | 71 |
-| 4 | Braga | 30 | 16 | 8 | 6 | 29 | 56 |
+| 4 | Braga | 31 | 17 | 8 | 6 | 30 | 59 |
 | 5 | Famalicão | 31 | 14 | 9 | 8 | 12 | 51 |
 | 6 | Gil Vicente | 30 | 12 | 10 | 8 | 13 | 46 |
 | 7 | Vitória S.C. | 31 | 12 | 6 | 13 | -5 | 42 |
@@ -304,8 +304,8 @@ The latest league standings are displayed below in Markdown tables:
 | 11 | Arouca | 31 | 10 | 5 | 16 | -21 | 35 |
 | 12 | Rio Ave | 31 | 8 | 10 | 13 | -19 | 34 |
 | 13 | Nacional | 31 | 8 | 7 | 16 | -7 | 31 |
-| 14 | Santa Clara | 30 | 7 | 8 | 15 | -11 | 29 |
-| 15 | Estrela Amadora | 30 | 6 | 10 | 14 | -16 | 28 |
+| 14 | Santa Clara | 31 | 7 | 8 | 16 | -12 | 29 |
+| 15 | Estrela Amadora | 31 | 6 | 10 | 15 | -17 | 28 |
 | 16 | Casa Pia | 30 | 5 | 11 | 14 | -25 | 26 |
 | 17 | Tondela | 30 | 4 | 9 | 17 | -29 | 21 |
 | 18 | AVS | 30 | 1 | 10 | 19 | -43 | 13 |
