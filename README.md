@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 April 2026, 11:11 AM UTC (Sunday, 26 April 2026, 04:41 PM IST)
+**Last Updated:** Sunday, 26 April 2026, 12:03 PM UTC (Sunday, 26 April 2026, 05:33 PM IST)
 
 ### Premier League
 
@@ -79,13 +79,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Real Betis | 33 | 12 | 14 | 7 | 8 | 50 |
 | 6 | Getafe | 33 | 13 | 5 | 15 | -6 | 44 |
 | 7 | Celta de Vigo | 32 | 11 | 11 | 10 | 3 | 44 |
-| 8 | Real Sociedad | 32 | 11 | 9 | 12 | 0 | 42 |
+| 8 | Real Sociedad | 33 | 11 | 10 | 12 | 0 | 43 |
 | 9 | Athletic Bilbao | 33 | 12 | 5 | 16 | -12 | 41 |
 | 10 | Osasuna | 32 | 10 | 9 | 13 | -2 | 39 |
-| 11 | Valencia | 33 | 10 | 9 | 14 | -11 | 39 |
-| 12 | Rayo Vallecano | 32 | 9 | 11 | 12 | -8 | 38 |
-| 13 | Espanyol | 32 | 10 | 8 | 14 | -12 | 38 |
-| 14 | Girona | 33 | 9 | 11 | 13 | -14 | 38 |
+| 11 | Rayo Vallecano | 33 | 9 | 12 | 12 | -8 | 39 |
+| 12 | Valencia | 33 | 10 | 9 | 14 | -11 | 39 |
+| 13 | Girona | 33 | 9 | 11 | 13 | -14 | 38 |
+| 14 | Espanyol | 32 | 10 | 8 | 14 | -12 | 38 |
 | 15 | Alavés | 33 | 9 | 9 | 15 | -11 | 36 |
 | 16 | Mallorca | 33 | 9 | 8 | 16 | -10 | 35 |
 | 17 | Elche | 32 | 8 | 11 | 13 | -7 | 35 |
@@ -385,13 +385,13 @@ The latest league standings are displayed below in Markdown tables:
 | 5 | Bengaluru | 10 | 4 | 4 | 2 | 4 | 16 |
 | 6 | East Bengal | 8 | 4 | 3 | 1 | 14 | 15 |
 | 7 | Punjab FC | 8 | 4 | 2 | 2 | 6 | 14 |
-| 8 | Inter Kashi | 9 | 3 | 2 | 4 | -4 | 11 |
-| 9 | Kerala Blasters | 11 | 3 | 2 | 6 | -5 | 11 |
-| 10 | Chennaiyin | 10 | 2 | 3 | 5 | -7 | 9 |
-| 11 | SC Delhi | 8 | 2 | 2 | 4 | -2 | 8 |
+| 8 | SC Delhi | 9 | 3 | 2 | 4 | -1 | 11 |
+| 9 | Inter Kashi | 9 | 3 | 2 | 4 | -4 | 11 |
+| 10 | Kerala Blasters | 11 | 3 | 2 | 6 | -5 | 11 |
+| 11 | Chennaiyin | 10 | 2 | 3 | 5 | -7 | 9 |
 | 12 | NorthEast Utd | 10 | 1 | 4 | 5 | -11 | 7 |
 | 13 | Odisha | 8 | 1 | 3 | 4 | -5 | 6 |
-| 14 | Mohammedan | 9 | 0 | 2 | 7 | -17 | 2 |
+| 14 | Mohammedan | 10 | 0 | 2 | 8 | -18 | 2 |
 
 ### Liga Profesional Argentina (Clausura)
 

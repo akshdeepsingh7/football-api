@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 April 2026, 11:11 AM UTC",
-        "IST": "Sunday, 26 April 2026, 04:41 PM IST"
+        "UTC": "Sunday, 26 April 2026, 12:03 PM UTC",
+        "IST": "Sunday, 26 April 2026, 05:33 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -280,12 +280,12 @@
             {
                 "Position": "8",
                 "Team": "Real Sociedad",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "11",
-                "Draws": "9",
+                "Draws": "10",
                 "Losses": "12",
                 "Goal Difference": "0",
-                "Points": "42"
+                "Points": "43"
             },
             {
                 "Position": "9",
@@ -309,6 +309,16 @@
             },
             {
                 "Position": "11",
+                "Team": "Rayo Vallecano",
+                "Played": "33",
+                "Wins": "9",
+                "Draws": "12",
+                "Losses": "12",
+                "Goal Difference": "-8",
+                "Points": "39"
+            },
+            {
+                "Position": "12",
                 "Team": "Valencia",
                 "Played": "33",
                 "Wins": "10",
@@ -318,33 +328,23 @@
                 "Points": "39"
             },
             {
-                "Position": "12",
-                "Team": "Rayo Vallecano",
-                "Played": "32",
-                "Wins": "9",
-                "Draws": "11",
-                "Losses": "12",
-                "Goal Difference": "-8",
-                "Points": "38"
-            },
-            {
                 "Position": "13",
-                "Team": "Espanyol",
-                "Played": "32",
-                "Wins": "10",
-                "Draws": "8",
-                "Losses": "14",
-                "Goal Difference": "-12",
-                "Points": "38"
-            },
-            {
-                "Position": "14",
                 "Team": "Girona",
                 "Played": "33",
                 "Wins": "9",
                 "Draws": "11",
                 "Losses": "13",
                 "Goal Difference": "-14",
+                "Points": "38"
+            },
+            {
+                "Position": "14",
+                "Team": "Espanyol",
+                "Played": "32",
+                "Wins": "10",
+                "Draws": "8",
+                "Losses": "14",
+                "Goal Difference": "-12",
                 "Points": "38"
             },
             {
@@ -2859,6 +2859,16 @@
             },
             {
                 "Position": "8",
+                "Team": "SC Delhi",
+                "Played": "9",
+                "Wins": "3",
+                "Draws": "2",
+                "Losses": "4",
+                "Goal Difference": "-1",
+                "Points": "11"
+            },
+            {
+                "Position": "9",
                 "Team": "Inter Kashi",
                 "Played": "9",
                 "Wins": "3",
@@ -2868,7 +2878,7 @@
                 "Points": "11"
             },
             {
-                "Position": "9",
+                "Position": "10",
                 "Team": "Kerala Blasters",
                 "Played": "11",
                 "Wins": "3",
@@ -2878,7 +2888,7 @@
                 "Points": "11"
             },
             {
-                "Position": "10",
+                "Position": "11",
                 "Team": "Chennaiyin",
                 "Played": "10",
                 "Wins": "2",
@@ -2886,16 +2896,6 @@
                 "Losses": "5",
                 "Goal Difference": "-7",
                 "Points": "9"
-            },
-            {
-                "Position": "11",
-                "Team": "SC Delhi",
-                "Played": "8",
-                "Wins": "2",
-                "Draws": "2",
-                "Losses": "4",
-                "Goal Difference": "-2",
-                "Points": "8"
             },
             {
                 "Position": "12",
@@ -2920,11 +2920,11 @@
             {
                 "Position": "14",
                 "Team": "Mohammedan",
-                "Played": "9",
+                "Played": "10",
                 "Wins": "0",
                 "Draws": "2",
-                "Losses": "7",
-                "Goal Difference": "-17",
+                "Losses": "8",
+                "Goal Difference": "-18",
                 "Points": "2"
             }
         ],
