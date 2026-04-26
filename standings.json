@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Sunday, 26 April 2026, 06:56 PM UTC",
-        "IST": "Monday, 27 April 2026, 12:26 AM IST"
+        "UTC": "Sunday, 26 April 2026, 07:49 PM UTC",
+        "IST": "Monday, 27 April 2026, 01:19 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -230,12 +230,12 @@
             {
                 "Position": "3",
                 "Team": "Villarreal",
-                "Played": "32",
-                "Wins": "19",
+                "Played": "33",
+                "Wins": "20",
                 "Draws": "5",
                 "Losses": "8",
-                "Goal Difference": "20",
-                "Points": "62"
+                "Goal Difference": "22",
+                "Points": "65"
             },
             {
                 "Position": "4",
@@ -270,11 +270,11 @@
             {
                 "Position": "7",
                 "Team": "Celta de Vigo",
-                "Played": "32",
+                "Played": "33",
                 "Wins": "11",
                 "Draws": "11",
-                "Losses": "10",
-                "Goal Difference": "3",
+                "Losses": "11",
+                "Goal Difference": "1",
                 "Points": "44"
             },
             {
@@ -2084,12 +2084,12 @@
             {
                 "Position": "3",
                 "Team": "Sporting CP",
-                "Played": "29",
+                "Played": "30",
                 "Wins": "22",
-                "Draws": "5",
+                "Draws": "6",
                 "Losses": "2",
                 "Goal Difference": "55",
-                "Points": "71"
+                "Points": "72"
             },
             {
                 "Position": "4",
@@ -2234,12 +2234,12 @@
             {
                 "Position": "18",
                 "Team": "AVS",
-                "Played": "30",
+                "Played": "31",
                 "Wins": "1",
-                "Draws": "10",
+                "Draws": "11",
                 "Losses": "19",
                 "Goal Difference": "-43",
-                "Points": "13"
+                "Points": "14"
             }
         ],
         "EFL Championship": [
@@ -2993,11 +2993,11 @@
             {
                 "Position": "7",
                 "Team": "Coritiba",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "5",
                 "Draws": "4",
-                "Losses": "3",
-                "Goal Difference": "3",
+                "Losses": "4",
+                "Goal Difference": "2",
                 "Points": "19"
             },
             {
@@ -3023,15 +3023,25 @@
             {
                 "Position": "10",
                 "Team": "Vasco da Gama",
-                "Played": "12",
+                "Played": "13",
                 "Wins": "4",
                 "Draws": "4",
-                "Losses": "4",
-                "Goal Difference": "0",
+                "Losses": "5",
+                "Goal Difference": "-1",
                 "Points": "16"
             },
             {
                 "Position": "11",
+                "Team": "Gr\u00eamio",
+                "Played": "13",
+                "Wins": "4",
+                "Draws": "4",
+                "Losses": "5",
+                "Goal Difference": "-1",
+                "Points": "16"
+            },
+            {
+                "Position": "12",
                 "Team": "Cruzeiro",
                 "Played": "13",
                 "Wins": "4",
@@ -3041,7 +3051,7 @@
                 "Points": "16"
             },
             {
-                "Position": "12",
+                "Position": "13",
                 "Team": "Vit\u00f3ria",
                 "Played": "11",
                 "Wins": "4",
@@ -3051,7 +3061,17 @@
                 "Points": "15"
             },
             {
-                "Position": "13",
+                "Position": "14",
+                "Team": "Corinthians",
+                "Played": "13",
+                "Wins": "3",
+                "Draws": "6",
+                "Losses": "4",
+                "Goal Difference": "-2",
+                "Points": "15"
+            },
+            {
+                "Position": "15",
                 "Team": "Atl\u00e9tico Mineiro",
                 "Played": "12",
                 "Wins": "4",
@@ -3061,7 +3081,7 @@
                 "Points": "14"
             },
             {
-                "Position": "14",
+                "Position": "16",
                 "Team": "Internacional",
                 "Played": "13",
                 "Wins": "3",
@@ -3071,7 +3091,7 @@
                 "Points": "14"
             },
             {
-                "Position": "15",
+                "Position": "17",
                 "Team": "Santos",
                 "Played": "13",
                 "Wins": "3",
@@ -3079,26 +3099,6 @@
                 "Losses": "5",
                 "Goal Difference": "-3",
                 "Points": "14"
-            },
-            {
-                "Position": "16",
-                "Team": "Gr\u00eamio",
-                "Played": "12",
-                "Wins": "3",
-                "Draws": "4",
-                "Losses": "5",
-                "Goal Difference": "-2",
-                "Points": "13"
-            },
-            {
-                "Position": "17",
-                "Team": "Corinthians",
-                "Played": "12",
-                "Wins": "2",
-                "Draws": "6",
-                "Losses": "4",
-                "Goal Difference": "-3",
-                "Points": "12"
             },
             {
                 "Position": "18",

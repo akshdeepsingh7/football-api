@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 April 2026, 06:56 PM UTC (Monday, 27 April 2026, 12:26 AM IST)
+**Last Updated:** Sunday, 26 April 2026, 07:49 PM UTC (Monday, 27 April 2026, 01:19 AM IST)
 
 ### Premier League
 
@@ -74,11 +74,11 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Barcelona | 33 | 28 | 1 | 4 | 57 | 85 |
 | 2 | Real Madrid | 33 | 23 | 5 | 5 | 37 | 74 |
-| 3 | Villarreal | 32 | 19 | 5 | 8 | 20 | 62 |
+| 3 | Villarreal | 33 | 20 | 5 | 8 | 22 | 65 |
 | 4 | Atlético de Madrid | 33 | 18 | 6 | 9 | 19 | 60 |
 | 5 | Real Betis | 33 | 12 | 14 | 7 | 8 | 50 |
 | 6 | Getafe | 33 | 13 | 5 | 15 | -6 | 44 |
-| 7 | Celta de Vigo | 32 | 11 | 11 | 10 | 3 | 44 |
+| 7 | Celta de Vigo | 33 | 11 | 11 | 11 | 1 | 44 |
 | 8 | Real Sociedad | 33 | 11 | 10 | 12 | 0 | 43 |
 | 9 | Osasuna | 33 | 11 | 9 | 13 | -1 | 42 |
 | 10 | Athletic Bilbao | 33 | 12 | 5 | 16 | -12 | 41 |
@@ -293,7 +293,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 31 | 26 | 4 | 1 | 48 | 82 |
 | 2 | Benfica | 31 | 22 | 9 | 0 | 47 | 75 |
-| 3 | Sporting CP | 29 | 22 | 5 | 2 | 55 | 71 |
+| 3 | Sporting CP | 30 | 22 | 6 | 2 | 55 | 72 |
 | 4 | Braga | 31 | 16 | 8 | 7 | 28 | 56 |
 | 5 | Famalicão | 31 | 14 | 9 | 8 | 12 | 51 |
 | 6 | Gil Vicente | 30 | 12 | 10 | 8 | 13 | 46 |
@@ -308,7 +308,7 @@ The latest league standings are displayed below in Markdown tables:
 | 15 | Estrela Amadora | 31 | 6 | 10 | 15 | -17 | 28 |
 | 16 | Casa Pia | 30 | 5 | 11 | 14 | -25 | 26 |
 | 17 | Tondela | 30 | 4 | 9 | 17 | -29 | 21 |
-| 18 | AVS | 30 | 1 | 10 | 19 | -43 | 13 |
+| 18 | AVS | 31 | 1 | 11 | 19 | -43 | 14 |
 
 ### EFL Championship
 
@@ -407,17 +407,17 @@ Data not available.
 | 4 | São Paulo | 13 | 7 | 2 | 4 | 6 | 23 |
 | 5 | Bahia | 12 | 6 | 3 | 3 | 3 | 21 |
 | 6 | Athletico Paranaense | 12 | 6 | 1 | 5 | 3 | 19 |
-| 7 | Coritiba | 12 | 5 | 4 | 3 | 3 | 19 |
+| 7 | Coritiba | 13 | 5 | 4 | 4 | 2 | 19 |
 | 8 | RB Bragantino | 12 | 5 | 2 | 5 | 1 | 17 |
 | 9 | Botafogo | 12 | 5 | 2 | 5 | 0 | 17 |
-| 10 | Vasco da Gama | 12 | 4 | 4 | 4 | 0 | 16 |
-| 11 | Cruzeiro | 13 | 4 | 4 | 5 | -4 | 16 |
-| 12 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
-| 13 | Atlético Mineiro | 12 | 4 | 2 | 6 | -1 | 14 |
-| 14 | Internacional | 13 | 3 | 5 | 5 | -2 | 14 |
-| 15 | Santos | 13 | 3 | 5 | 5 | -3 | 14 |
-| 16 | Grêmio | 12 | 3 | 4 | 5 | -2 | 13 |
-| 17 | Corinthians | 12 | 2 | 6 | 4 | -3 | 12 |
+| 10 | Vasco da Gama | 13 | 4 | 4 | 5 | -1 | 16 |
+| 11 | Grêmio | 13 | 4 | 4 | 5 | -1 | 16 |
+| 12 | Cruzeiro | 13 | 4 | 4 | 5 | -4 | 16 |
+| 13 | Vitória | 11 | 4 | 3 | 4 | -3 | 15 |
+| 14 | Corinthians | 13 | 3 | 6 | 4 | -2 | 15 |
+| 15 | Atlético Mineiro | 12 | 4 | 2 | 6 | -1 | 14 |
+| 16 | Internacional | 13 | 3 | 5 | 5 | -2 | 14 |
+| 17 | Santos | 13 | 3 | 5 | 5 | -3 | 14 |
 | 18 | Mirassol | 12 | 2 | 3 | 7 | -5 | 9 |
 | 19 | Remo | 13 | 1 | 5 | 7 | -10 | 8 |
 | 20 | Chapecoense | 11 | 1 | 5 | 5 | -11 | 8 |
