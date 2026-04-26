@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 April 2026, 02:44 PM UTC (Sunday, 26 April 2026, 08:14 PM IST)
+**Last Updated:** Sunday, 26 April 2026, 03:42 PM UTC (Sunday, 26 April 2026, 09:12 PM IST)
 
 ### Premier League
 
@@ -98,17 +98,17 @@ The latest league standings are displayed below in Markdown tables:
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Bayern Munich | 31 | 26 | 4 | 1 | 81 | 82 |
-| 2 | Borussia Dortmund | 30 | 19 | 7 | 4 | 30 | 64 |
+| 2 | Borussia Dortmund | 31 | 20 | 7 | 4 | 31 | 67 |
 | 3 | RB Leipzig | 31 | 19 | 5 | 7 | 24 | 62 |
-| 4 | Hoffenheim | 31 | 17 | 6 | 8 | 16 | 57 |
-| 5 | VfB Stuttgart | 31 | 17 | 5 | 9 | 19 | 56 |
+| 4 | VfB Stuttgart | 31 | 17 | 6 | 8 | 20 | 57 |
+| 5 | Hoffenheim | 31 | 17 | 6 | 8 | 16 | 57 |
 | 6 | Bayer Leverkusen | 31 | 16 | 7 | 8 | 20 | 55 |
 | 7 | Eintracht Frankfurt | 31 | 11 | 10 | 10 | -2 | 43 |
-| 8 | SC Freiburg | 30 | 12 | 7 | 11 | -4 | 43 |
+| 8 | SC Freiburg | 31 | 12 | 7 | 12 | -5 | 43 |
 | 9 | Augsburg | 31 | 10 | 7 | 14 | -16 | 37 |
 | 10 | Mainz 05 | 31 | 8 | 10 | 13 | -10 | 34 |
-| 11 | Werder Bremen | 31 | 9 | 7 | 15 | -17 | 34 |
-| 12 | Borussia Mönchengladbach | 31 | 7 | 11 | 13 | -14 | 32 |
+| 11 | Borussia Mönchengladbach | 31 | 7 | 11 | 13 | -14 | 32 |
+| 12 | Werder Bremen | 31 | 8 | 8 | 15 | -18 | 32 |
 | 13 | Union Berlin | 31 | 8 | 8 | 15 | -20 | 32 |
 | 14 | Köln | 31 | 7 | 10 | 14 | -8 | 31 |
 | 15 | Hamburg | 31 | 7 | 10 | 14 | -16 | 31 |
@@ -148,21 +148,21 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | PSG | 30 | 22 | 3 | 5 | 43 | 69 |
 | 2 | Lens | 30 | 20 | 3 | 7 | 28 | 63 |
 | 3 | Lyon | 31 | 17 | 6 | 8 | 16 | 57 |
-| 4 | LOSC | 30 | 16 | 6 | 8 | 15 | 54 |
-| 5 | Rennes | 30 | 15 | 8 | 7 | 11 | 53 |
+| 4 | LOSC | 31 | 17 | 6 | 8 | 16 | 57 |
+| 5 | Rennes | 31 | 16 | 8 | 7 | 12 | 56 |
 | 6 | Marseille | 30 | 16 | 4 | 10 | 18 | 52 |
 | 7 | Monaco | 31 | 15 | 6 | 10 | 7 | 51 |
-| 8 | Lorient | 31 | 11 | 11 | 9 | -3 | 44 |
-| 9 | Strasbourg | 30 | 12 | 7 | 11 | 8 | 43 |
+| 8 | Strasbourg | 30 | 13 | 7 | 10 | 10 | 46 |
+| 9 | Lorient | 31 | 10 | 11 | 10 | -5 | 41 |
 | 10 | Toulouse | 31 | 10 | 8 | 13 | -1 | 38 |
 | 11 | Brest | 30 | 10 | 8 | 12 | -6 | 38 |
-| 12 | Paris FC | 30 | 9 | 11 | 10 | -6 | 38 |
+| 12 | Paris FC | 31 | 9 | 11 | 11 | -7 | 38 |
 | 13 | Angers | 31 | 9 | 7 | 15 | -17 | 34 |
-| 14 | Le Havre | 30 | 6 | 12 | 12 | -13 | 30 |
+| 14 | Le Havre | 31 | 7 | 12 | 12 | -12 | 33 |
 | 15 | Nice | 30 | 7 | 8 | 15 | -22 | 29 |
 | 16 | Auxerre | 31 | 5 | 10 | 16 | -15 | 25 |
-| 17 | Nantes | 30 | 4 | 8 | 18 | -24 | 20 |
-| 18 | Metz | 30 | 3 | 6 | 21 | -39 | 15 |
+| 17 | Nantes | 31 | 4 | 8 | 19 | -25 | 20 |
+| 18 | Metz | 31 | 3 | 6 | 22 | -40 | 15 |
 
 ### Champions League
 
@@ -295,12 +295,12 @@ The latest league standings are displayed below in Markdown tables:
 | 2 | Benfica | 31 | 22 | 9 | 0 | 47 | 75 |
 | 3 | Sporting CP | 29 | 22 | 5 | 2 | 55 | 71 |
 | 4 | Braga | 30 | 16 | 8 | 6 | 29 | 56 |
-| 5 | Famalicão | 31 | 13 | 10 | 8 | 11 | 49 |
+| 5 | Famalicão | 31 | 14 | 9 | 8 | 12 | 51 |
 | 6 | Gil Vicente | 30 | 12 | 10 | 8 | 13 | 46 |
 | 7 | Vitória S.C. | 31 | 12 | 6 | 13 | -5 | 42 |
 | 8 | Moreirense | 31 | 11 | 6 | 14 | -11 | 39 |
-| 9 | Estoril | 31 | 10 | 8 | 13 | 0 | 38 |
-| 10 | Alverca | 31 | 10 | 8 | 13 | -15 | 38 |
+| 9 | Alverca | 31 | 10 | 8 | 13 | -15 | 38 |
+| 10 | Estoril | 31 | 10 | 7 | 14 | -1 | 37 |
 | 11 | Arouca | 31 | 10 | 5 | 16 | -21 | 35 |
 | 12 | Rio Ave | 31 | 8 | 10 | 13 | -19 | 34 |
 | 13 | Nacional | 31 | 8 | 7 | 16 | -7 | 31 |
