@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Sunday, 26 April 2026, 11:39 PM UTC (Monday, 27 April 2026, 05:09 AM IST)
+**Last Updated:** Monday, 27 April 2026, 02:52 AM UTC (Monday, 27 April 2026, 08:22 AM IST)
 
 ### Premier League
 
@@ -402,8 +402,8 @@ Data not available.
 | Position | Team | Played | Wins | Draws | Losses | Goal Difference | Points |
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Palmeiras | 13 | 10 | 2 | 1 | 13 | 32 |
-| 2 | Flamengo | 12 | 8 | 2 | 2 | 11 | 26 |
-| 3 | Fluminense | 13 | 7 | 3 | 3 | 6 | 24 |
+| 2 | Flamengo | 12 | 8 | 2 | 2 | 14 | 26 |
+| 3 | Fluminense | 13 | 8 | 2 | 3 | 7 | 26 |
 | 4 | São Paulo | 13 | 7 | 2 | 4 | 6 | 23 |
 | 5 | Athletico Paranaense | 13 | 7 | 1 | 5 | 5 | 22 |
 | 6 | Bahia | 12 | 6 | 3 | 3 | 3 | 21 |
@@ -415,12 +415,12 @@ Data not available.
 | 12 | Cruzeiro | 13 | 4 | 4 | 5 | -4 | 16 |
 | 13 | Vitória | 12 | 4 | 3 | 5 | -5 | 15 |
 | 14 | Corinthians | 13 | 3 | 6 | 4 | -2 | 15 |
-| 15 | Atlético Mineiro | 13 | 4 | 2 | 7 | -2 | 14 |
+| 15 | Atlético Mineiro | 13 | 4 | 2 | 7 | -5 | 14 |
 | 16 | Internacional | 13 | 3 | 5 | 5 | -2 | 14 |
 | 17 | Santos | 13 | 3 | 5 | 5 | -3 | 14 |
 | 18 | Mirassol | 12 | 2 | 3 | 7 | -5 | 9 |
-| 19 | Chapecoense | 12 | 1 | 6 | 5 | -11 | 9 |
-| 20 | Remo | 13 | 1 | 5 | 7 | -10 | 8 |
+| 19 | Remo | 13 | 1 | 5 | 7 | -10 | 8 |
+| 20 | Chapecoense | 12 | 1 | 5 | 6 | -12 | 8 |
 
 
 <!-- END_TABLE -->
