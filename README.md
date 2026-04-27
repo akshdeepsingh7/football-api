@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 27 April 2026, 07:23 PM UTC (Tuesday, 28 April 2026, 12:53 AM IST)
+**Last Updated:** Monday, 27 April 2026, 08:38 PM UTC (Tuesday, 28 April 2026, 02:08 AM IST)
 
 ### Premier League
 
@@ -49,13 +49,13 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Arsenal | 34 | 22 | 7 | 5 | 38 | 73 |
 | 2 | Manchester City | 33 | 21 | 7 | 5 | 37 | 70 |
-| 3 | Manchester United | 34 | 17 | 10 | 7 | 14 | 61 |
+| 3 | Manchester United | 34 | 17 | 10 | 7 | 15 | 61 |
 | 4 | Liverpool FC | 34 | 17 | 7 | 10 | 13 | 58 |
 | 5 | Aston Villa | 34 | 17 | 7 | 10 | 5 | 58 |
 | 6 | Brighton & Hove Albion | 34 | 13 | 11 | 10 | 9 | 50 |
 | 7 | AFC Bournemouth | 34 | 11 | 16 | 7 | 0 | 49 |
 | 8 | Chelsea | 34 | 13 | 9 | 12 | 8 | 48 |
-| 9 | Brentford | 34 | 13 | 9 | 12 | 3 | 48 |
+| 9 | Brentford | 34 | 13 | 9 | 12 | 2 | 48 |
 | 10 | Fulham | 34 | 14 | 6 | 14 | -2 | 48 |
 | 11 | Everton | 34 | 13 | 8 | 13 | 0 | 47 |
 | 12 | Sunderland | 34 | 12 | 10 | 12 | -9 | 46 |
