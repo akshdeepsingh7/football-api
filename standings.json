@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Monday, 27 April 2026, 08:38 PM UTC",
-        "IST": "Tuesday, 28 April 2026, 02:08 AM IST"
+        "UTC": "Monday, 27 April 2026, 09:53 PM UTC",
+        "IST": "Tuesday, 28 April 2026, 03:23 AM IST"
     },
     "standings": {
         "Premier League": [
@@ -32,7 +32,7 @@
                 "Wins": "17",
                 "Draws": "10",
                 "Losses": "7",
-                "Goal Difference": "15",
+                "Goal Difference": "14",
                 "Points": "61"
             },
             {
@@ -92,7 +92,7 @@
                 "Wins": "13",
                 "Draws": "9",
                 "Losses": "12",
-                "Goal Difference": "2",
+                "Goal Difference": "3",
                 "Points": "48"
             },
             {
@@ -663,6 +663,16 @@
             },
             {
                 "Position": "8",
+                "Team": "Lazio",
+                "Played": "34",
+                "Wins": "12",
+                "Draws": "12",
+                "Losses": "10",
+                "Goal Difference": "4",
+                "Points": "48"
+            },
+            {
+                "Position": "9",
                 "Team": "Bologna",
                 "Played": "34",
                 "Wins": "14",
@@ -670,16 +680,6 @@
                 "Losses": "14",
                 "Goal Difference": "1",
                 "Points": "48"
-            },
-            {
-                "Position": "9",
-                "Team": "Lazio",
-                "Played": "34",
-                "Wins": "12",
-                "Draws": "11",
-                "Losses": "11",
-                "Goal Difference": "3",
-                "Points": "47"
             },
             {
                 "Position": "10",
@@ -695,11 +695,11 @@
                 "Position": "11",
                 "Team": "Udinese",
                 "Played": "34",
-                "Wins": "13",
-                "Draws": "7",
+                "Wins": "12",
+                "Draws": "8",
                 "Losses": "14",
-                "Goal Difference": "-4",
-                "Points": "46"
+                "Goal Difference": "-5",
+                "Points": "44"
             },
             {
                 "Position": "12",
@@ -2115,11 +2115,11 @@
                 "Position": "6",
                 "Team": "Gil Vicente",
                 "Played": "31",
-                "Wins": "12",
-                "Draws": "11",
+                "Wins": "13",
+                "Draws": "10",
                 "Losses": "8",
-                "Goal Difference": "13",
-                "Points": "47"
+                "Goal Difference": "14",
+                "Points": "49"
             },
             {
                 "Position": "7",
@@ -2216,10 +2216,10 @@
                 "Team": "Casa Pia",
                 "Played": "31",
                 "Wins": "5",
-                "Draws": "12",
-                "Losses": "14",
-                "Goal Difference": "-25",
-                "Points": "27"
+                "Draws": "11",
+                "Losses": "15",
+                "Goal Difference": "-26",
+                "Points": "26"
             },
             {
                 "Position": "17",
