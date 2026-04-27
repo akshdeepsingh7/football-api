@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Monday, 27 April 2026, 04:26 PM UTC (Monday, 27 April 2026, 09:56 PM IST)
+**Last Updated:** Monday, 27 April 2026, 05:49 PM UTC (Monday, 27 April 2026, 11:19 PM IST)
 
 ### Premier League
 
@@ -126,7 +126,7 @@ The latest league standings are displayed below in Markdown tables:
 | 4 | Juventus | 34 | 18 | 10 | 6 | 28 | 64 |
 | 5 | Como | 34 | 17 | 10 | 7 | 31 | 61 |
 | 6 | Roma | 34 | 19 | 4 | 11 | 19 | 61 |
-| 7 | Atalanta | 33 | 14 | 12 | 7 | 16 | 54 |
+| 7 | Atalanta | 34 | 14 | 12 | 8 | 15 | 54 |
 | 8 | Bologna | 34 | 14 | 6 | 14 | 1 | 48 |
 | 9 | Lazio | 33 | 12 | 11 | 10 | 4 | 47 |
 | 10 | Sassuolo | 34 | 13 | 7 | 14 | -3 | 46 |
@@ -135,7 +135,7 @@ The latest league standings are displayed below in Markdown tables:
 | 13 | Torino | 34 | 11 | 8 | 15 | -17 | 41 |
 | 14 | Genoa | 34 | 10 | 9 | 15 | -8 | 39 |
 | 15 | Fiorentina | 34 | 8 | 13 | 13 | -7 | 37 |
-| 16 | Cagliari | 33 | 8 | 9 | 16 | -14 | 33 |
+| 16 | Cagliari | 34 | 9 | 9 | 16 | -13 | 36 |
 | 17 | Lecce | 34 | 7 | 8 | 19 | -24 | 29 |
 | 18 | Cremonese | 34 | 6 | 10 | 18 | -25 | 28 |
 | 19 | Hellas Verona | 34 | 3 | 10 | 21 | -33 | 19 |
