@@ -1,7 +1,7 @@
 {
     "last_updated": {
-        "UTC": "Tuesday, 28 April 2026, 01:12 PM UTC",
-        "IST": "Tuesday, 28 April 2026, 06:42 PM IST"
+        "UTC": "Tuesday, 28 April 2026, 05:47 PM UTC",
+        "IST": "Tuesday, 28 April 2026, 11:17 PM IST"
     },
     "standings": {
         "Premier League": [
@@ -2819,6 +2819,16 @@
             },
             {
                 "Position": "4",
+                "Team": "East Bengal",
+                "Played": "9",
+                "Wins": "5",
+                "Draws": "3",
+                "Losses": "1",
+                "Goal Difference": "17",
+                "Points": "18"
+            },
+            {
+                "Position": "5",
                 "Team": "Jamshedpur",
                 "Played": "10",
                 "Wins": "5",
@@ -2828,7 +2838,7 @@
                 "Points": "18"
             },
             {
-                "Position": "5",
+                "Position": "6",
                 "Team": "Bengaluru",
                 "Played": "10",
                 "Wins": "4",
@@ -2836,16 +2846,6 @@
                 "Losses": "2",
                 "Goal Difference": "4",
                 "Points": "16"
-            },
-            {
-                "Position": "6",
-                "Team": "East Bengal",
-                "Played": "8",
-                "Wins": "4",
-                "Draws": "3",
-                "Losses": "1",
-                "Goal Difference": "14",
-                "Points": "15"
             },
             {
                 "Position": "7",
@@ -2910,11 +2910,11 @@
             {
                 "Position": "13",
                 "Team": "Odisha",
-                "Played": "8",
+                "Played": "9",
                 "Wins": "1",
                 "Draws": "3",
-                "Losses": "4",
-                "Goal Difference": "-5",
+                "Losses": "5",
+                "Goal Difference": "-8",
                 "Points": "6"
             },
             {

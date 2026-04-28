@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Tuesday, 28 April 2026, 01:12 PM UTC (Tuesday, 28 April 2026, 06:42 PM IST)
+**Last Updated:** Tuesday, 28 April 2026, 05:47 PM UTC (Tuesday, 28 April 2026, 11:17 PM IST)
 
 ### Premier League
 
@@ -381,16 +381,16 @@ The latest league standings are displayed below in Markdown tables:
 | 1 | Mohun Bagan SG | 9 | 6 | 2 | 1 | 13 | 20 |
 | 2 | FC Goa | 10 | 5 | 4 | 1 | 7 | 19 |
 | 3 | Mumbai City | 10 | 5 | 4 | 1 | 3 | 19 |
-| 4 | Jamshedpur | 10 | 5 | 3 | 2 | 4 | 18 |
-| 5 | Bengaluru | 10 | 4 | 4 | 2 | 4 | 16 |
-| 6 | East Bengal | 8 | 4 | 3 | 1 | 14 | 15 |
+| 4 | East Bengal | 9 | 5 | 3 | 1 | 17 | 18 |
+| 5 | Jamshedpur | 10 | 5 | 3 | 2 | 4 | 18 |
+| 6 | Bengaluru | 10 | 4 | 4 | 2 | 4 | 16 |
 | 7 | Punjab FC | 8 | 4 | 2 | 2 | 6 | 14 |
 | 8 | Inter Kashi | 9 | 3 | 2 | 4 | -4 | 11 |
 | 9 | Kerala Blasters | 11 | 3 | 2 | 6 | -5 | 11 |
 | 10 | SC Delhi | 9 | 2 | 3 | 4 | -2 | 9 |
 | 11 | Chennaiyin | 10 | 2 | 3 | 5 | -7 | 9 |
 | 12 | NorthEast Utd | 10 | 1 | 4 | 5 | -11 | 7 |
-| 13 | Odisha | 8 | 1 | 3 | 4 | -5 | 6 |
+| 13 | Odisha | 9 | 1 | 3 | 5 | -8 | 6 |
 | 14 | Mohammedan | 10 | 0 | 3 | 7 | -17 | 3 |
 
 ### Liga Profesional Argentina (Clausura)
