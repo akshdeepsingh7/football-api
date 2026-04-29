@@ -41,7 +41,7 @@ You can use this JSON file as an API to fetch the latest league standings progra
 The latest league standings are displayed below in Markdown tables:
 
 <!-- START_TABLE -->
-**Last Updated:** Wednesday, 29 April 2026, 07:47 PM UTC (Thursday, 30 April 2026, 01:17 AM IST)
+**Last Updated:** Wednesday, 29 April 2026, 09:06 PM UTC (Thursday, 30 April 2026, 02:36 AM IST)
 
 ### Premier League
 
@@ -293,7 +293,7 @@ The latest league standings are displayed below in Markdown tables:
 |----------|------|--------|------|-------|--------|-----------------|--------|
 | 1 | Porto | 31 | 26 | 4 | 1 | 48 | 82 |
 | 2 | Benfica | 31 | 22 | 9 | 0 | 47 | 75 |
-| 3 | Sporting CP | 31 | 22 | 7 | 2 | 55 | 73 |
+| 3 | Sporting CP | 31 | 23 | 6 | 2 | 57 | 75 |
 | 4 | Braga | 31 | 16 | 8 | 7 | 28 | 56 |
 | 5 | Famalicão | 31 | 14 | 9 | 8 | 12 | 51 |
 | 6 | Gil Vicente | 31 | 13 | 10 | 8 | 14 | 49 |
@@ -307,7 +307,7 @@ The latest league standings are displayed below in Markdown tables:
 | 14 | Nacional | 31 | 8 | 7 | 16 | -7 | 31 |
 | 15 | Estrela Amadora | 31 | 6 | 10 | 15 | -17 | 28 |
 | 16 | Casa Pia | 31 | 5 | 11 | 15 | -26 | 26 |
-| 17 | Tondela | 31 | 4 | 10 | 17 | -29 | 22 |
+| 17 | Tondela | 31 | 4 | 9 | 18 | -31 | 21 |
 | 18 | AVS | 31 | 1 | 11 | 19 | -43 | 14 |
 
 ### EFL Championship
