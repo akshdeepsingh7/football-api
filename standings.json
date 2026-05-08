@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08 19:41:02 UTC",
-  "generated_at_iso": "2026-05-08T19:41:02.068981+00:00",
+  "generated_at": "2026-05-08 21:11:08 UTC",
+  "generated_at_iso": "2026-05-08T21:11:08.372728+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -531,16 +531,16 @@
           "group": "2025-26 LALIGA",
           "team": "Osasuna",
           "abbreviation": "OSA",
-          "played": 34,
+          "played": 35,
           "wins": 11,
           "draws": 9,
-          "losses": 14,
-          "goals_for": 40,
-          "goals_against": 42,
-          "goal_difference": -2,
+          "losses": 15,
+          "goals_for": 42,
+          "goals_against": 45,
+          "goal_difference": -3,
           "points": 42,
           "streak": {},
-          "record": "11-9-14"
+          "record": "11-9-15"
         },
         {
           "rank": 11,
@@ -657,6 +657,22 @@
         {
           "rank": 18,
           "group": "2025-26 LALIGA",
+          "team": "Levante",
+          "abbreviation": "LEV",
+          "played": 35,
+          "wins": 9,
+          "draws": 9,
+          "losses": 17,
+          "goals_for": 41,
+          "goals_against": 57,
+          "goal_difference": -16,
+          "points": 36,
+          "streak": {},
+          "record": "9-9-17"
+        },
+        {
+          "rank": 19,
+          "group": "2025-26 LALIGA",
           "team": "Alavés",
           "abbreviation": "ALA",
           "played": 34,
@@ -669,22 +685,6 @@
           "points": 36,
           "streak": {},
           "record": "9-9-16"
-        },
-        {
-          "rank": 19,
-          "group": "2025-26 LALIGA",
-          "team": "Levante",
-          "abbreviation": "LEV",
-          "played": 34,
-          "wins": 8,
-          "draws": 9,
-          "losses": 17,
-          "goals_for": 38,
-          "goals_against": 55,
-          "goal_difference": -17,
-          "points": 33,
-          "streak": {},
-          "record": "8-9-17"
         },
         {
           "rank": 20,
@@ -879,16 +879,16 @@
           "group": "2025-2026 Italian Serie A",
           "team": "Sassuolo",
           "abbreviation": "SAS",
-          "played": 35,
+          "played": 36,
           "wins": 14,
           "draws": 7,
-          "losses": 14,
-          "goals_for": 43,
-          "goals_against": 44,
-          "goal_difference": -1,
+          "losses": 15,
+          "goals_for": 44,
+          "goals_against": 46,
+          "goal_difference": -2,
           "points": 49,
           "streak": {},
-          "record": "14-7-14"
+          "record": "14-7-15"
         },
         {
           "rank": 11,
@@ -909,6 +909,22 @@
         {
           "rank": 12,
           "group": "2025-2026 Italian Serie A",
+          "team": "Torino",
+          "abbreviation": "TOR",
+          "played": 36,
+          "wins": 12,
+          "draws": 8,
+          "losses": 16,
+          "goals_for": 41,
+          "goals_against": 59,
+          "goal_difference": -18,
+          "points": 44,
+          "streak": {},
+          "record": "12-8-16"
+        },
+        {
+          "rank": 13,
+          "group": "2025-2026 Italian Serie A",
           "team": "Parma",
           "abbreviation": "PAR",
           "played": 35,
@@ -921,22 +937,6 @@
           "points": 42,
           "streak": {},
           "record": "10-12-13"
-        },
-        {
-          "rank": 13,
-          "group": "2025-2026 Italian Serie A",
-          "team": "Torino",
-          "abbreviation": "TOR",
-          "played": 35,
-          "wins": 11,
-          "draws": 8,
-          "losses": 16,
-          "goals_for": 39,
-          "goals_against": 58,
-          "goal_difference": -19,
-          "points": 41,
-          "streak": {},
-          "record": "11-8-16"
         },
         {
           "rank": 14,
@@ -1066,7 +1066,7 @@
         },
         "best_defence": {
           "team": "Borussia Dortmund",
-          "goals_against": 32
+          "goals_against": 34
         },
         "most_wins": {
           "team": "Bayern Munich",
@@ -1099,16 +1099,16 @@
           "group": "2025-26 German Bundesliga",
           "team": "Borussia Dortmund",
           "abbreviation": "DOR",
-          "played": 32,
-          "wins": 20,
+          "played": 33,
+          "wins": 21,
           "draws": 7,
           "losses": 5,
-          "goals_for": 65,
-          "goals_against": 32,
-          "goal_difference": 33,
-          "points": 67,
+          "goals_for": 68,
+          "goals_against": 34,
+          "goal_difference": 34,
+          "points": 70,
           "streak": {},
-          "record": "20-7-5"
+          "record": "21-7-5"
         },
         {
           "rank": 3,
@@ -1195,16 +1195,16 @@
           "group": "2025-26 German Bundesliga",
           "team": "Eintracht Frankfurt",
           "abbreviation": "SGE",
-          "played": 32,
+          "played": 33,
           "wins": 11,
           "draws": 10,
-          "losses": 11,
-          "goals_for": 57,
-          "goals_against": 60,
-          "goal_difference": -3,
+          "losses": 12,
+          "goals_for": 59,
+          "goals_against": 63,
+          "goal_difference": -4,
           "points": 43,
           "streak": {},
-          "record": "11-10-11"
+          "record": "11-10-12"
         },
         {
           "rank": 9,
@@ -1415,16 +1415,16 @@
           "group": "French Ligue 1 2025-26",
           "team": "Lens",
           "abbreviation": "RCL",
-          "played": 31,
-          "wins": 20,
+          "played": 32,
+          "wins": 21,
           "draws": 4,
           "losses": 7,
-          "goals_for": 61,
+          "goals_for": 62,
           "goals_against": 33,
-          "goal_difference": 28,
-          "points": 64,
+          "goal_difference": 29,
+          "points": 67,
           "streak": {},
-          "record": "20-4-7"
+          "record": "21-4-7"
         },
         {
           "rank": 3,
@@ -1655,16 +1655,16 @@
           "group": "French Ligue 1 2025-26",
           "team": "Nantes",
           "abbreviation": "NAN",
-          "played": 32,
+          "played": 33,
           "wins": 5,
           "draws": 8,
-          "losses": 19,
+          "losses": 20,
           "goals_for": 29,
-          "goals_against": 51,
-          "goal_difference": -22,
+          "goals_against": 52,
+          "goal_difference": -23,
           "points": 23,
           "streak": {},
-          "record": "5-8-19"
+          "record": "5-8-20"
         },
         {
           "rank": 18,
