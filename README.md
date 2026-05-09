@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-09 21:56:38 UTC
+> **Last updated:** 2026-05-09 22:57:48 UTC
 
 ---
 
@@ -194,7 +194,7 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **San Jose Earthquakes** | 26 goals |
+| Best Attack | **Inter Miami CF** | 26 goals |
 | Best Defence | **Seattle Sounders FC** | 5 goals conceded |
 | Most Wins | **San Jose Earthquakes** | 9 wins |
 | Best GD | **Vancouver Whitecaps** | +20 |
@@ -240,7 +240,7 @@ A breakdown of all leagues and teams by football confederation.
 
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
-| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 925 | 925 |
+| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 937 | 937 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 854 | 854 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8452 | 8452 |
 
@@ -561,21 +561,21 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 4 | Eastern Conference | **Chicago Fire FC** | 10 | 5 | 2 | 3 | 19 | 11 | +8 | **17** |
-| 10 | Eastern Conference | **Columbus Crew** | 11 | 3 | 3 | 5 | 16 | 16 | 0 | **12** |
-| 2 | Eastern Conference | **New England Revolution** | 10 | 6 | 1 | 3 | 18 | 12 | +6 | **19** |
-| 11 | Eastern Conference | **Red Bull New York** | 11 | 3 | 3 | 5 | 16 | 27 | -11 | **12** |
+| 4 | Eastern Conference | **Chicago Fire FC** | 11 | 5 | 2 | 4 | 20 | 14 | +6 | **17** |
+| 12 | Eastern Conference | **Columbus Crew** | 11 | 3 | 3 | 5 | 16 | 16 | 0 | **12** |
+| 3 | Eastern Conference | **New England Revolution** | 10 | 6 | 1 | 3 | 18 | 12 | +6 | **19** |
+| 7 | Eastern Conference | **Red Bull New York** | 12 | 4 | 3 | 5 | 19 | 28 | -9 | **15** |
 | 5 | Eastern Conference | **D.C. United** | 11 | 4 | 3 | 4 | 13 | 15 | -2 | **15** |
-| 8 | Eastern Conference | **Toronto FC** | 11 | 3 | 5 | 3 | 18 | 20 | -2 | **14** |
-| 14 | Eastern Conference | **CF Montréal** | 10 | 3 | 0 | 7 | 14 | 23 | -9 | **9** |
+| 9 | Eastern Conference | **Toronto FC** | 12 | 3 | 5 | 4 | 20 | 24 | -4 | **14** |
+| 10 | Eastern Conference | **CF Montréal** | 11 | 4 | 0 | 7 | 16 | 23 | -7 | **12** |
 | 15 | Eastern Conference | **Philadelphia Union** | 11 | 1 | 3 | 7 | 9 | 17 | -8 | **6** |
-| 13 | Eastern Conference | **Orlando City SC** | 11 | 3 | 1 | 7 | 16 | 32 | -16 | **10** |
-| 9 | Eastern Conference | **New York City FC** | 11 | 3 | 3 | 5 | 19 | 18 | +1 | **12** |
+| 14 | Eastern Conference | **Orlando City SC** | 12 | 3 | 1 | 8 | 16 | 34 | -18 | **10** |
+| 11 | Eastern Conference | **New York City FC** | 11 | 3 | 3 | 5 | 19 | 18 | +1 | **12** |
 | 6 | Eastern Conference | **FC Cincinnati** | 11 | 4 | 3 | 4 | 22 | 25 | -3 | **15** |
-| 12 | Eastern Conference | **Atlanta United FC** | 11 | 3 | 1 | 7 | 12 | 18 | -6 | **10** |
+| 13 | Eastern Conference | **Atlanta United FC** | 11 | 3 | 1 | 7 | 12 | 18 | -6 | **10** |
 | 1 | Eastern Conference | **Nashville SC** | 10 | 7 | 2 | 1 | 21 | 6 | +15 | **23** |
-| 3 | Eastern Conference | **Inter Miami CF** | 11 | 5 | 4 | 2 | 22 | 19 | +3 | **19** |
-| 7 | Eastern Conference | **Charlotte FC** | 11 | 4 | 2 | 5 | 18 | 19 | -1 | **14** |
+| 2 | Eastern Conference | **Inter Miami CF** | 12 | 6 | 4 | 2 | 26 | 21 | +5 | **22** |
+| 8 | Eastern Conference | **Charlotte FC** | 11 | 4 | 2 | 5 | 18 | 19 | -1 | **14** |
 | 9 | Western Conference | **Colorado Rapids** | 11 | 4 | 1 | 6 | 22 | 19 | +3 | **13** |
 | 7 | Western Conference | **FC Dallas** | 11 | 4 | 4 | 3 | 20 | 15 | +5 | **16** |
 | 15 | Western Conference | **Sporting Kansas City** | 10 | 1 | 2 | 7 | 8 | 26 | -18 | **5** |
