@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-09 12:35:50 UTC
+> **Last updated:** 2026-05-09 14:19:18 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 925 | 925 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 854 | 854 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8368 | 8368 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8372 | 8372 |
 
 ---
 
@@ -253,12 +253,12 @@ A breakdown of all leagues and teams by football confederation.
 | 1 | English Premier League 2025-2026 | **Arsenal** | 35 | 23 | 7 | 5 | 67 | 26 | +41 | **76** |
 | 2 | English Premier League 2025-2026 | **Manchester City** | 34 | 21 | 8 | 5 | 69 | 32 | +37 | **71** |
 | 3 | English Premier League 2025-2026 | **Manchester United** | 35 | 18 | 10 | 7 | 63 | 48 | +15 | **64** |
-| 4 | English Premier League 2025-2026 | **Liverpool** | 35 | 17 | 7 | 11 | 59 | 47 | +12 | **58** |
+| 4 | English Premier League 2025-2026 | **Liverpool** | 36 | 17 | 8 | 11 | 60 | 48 | +12 | **59** |
 | 5 | English Premier League 2025-2026 | **Aston Villa** | 35 | 17 | 7 | 11 | 48 | 44 | +4 | **58** |
 | 6 | English Premier League 2025-2026 | **AFC Bournemouth** | 35 | 12 | 16 | 7 | 55 | 52 | +3 | **52** |
 | 7 | English Premier League 2025-2026 | **Brentford** | 35 | 14 | 9 | 12 | 52 | 46 | +6 | **51** |
 | 8 | English Premier League 2025-2026 | **Brighton & Hove Albion** | 35 | 13 | 11 | 11 | 49 | 42 | +7 | **50** |
-| 9 | English Premier League 2025-2026 | **Chelsea** | 35 | 13 | 9 | 13 | 54 | 48 | +6 | **48** |
+| 9 | English Premier League 2025-2026 | **Chelsea** | 36 | 13 | 10 | 13 | 55 | 49 | +6 | **49** |
 | 10 | English Premier League 2025-2026 | **Everton** | 35 | 13 | 9 | 13 | 44 | 44 | 0 | **48** |
 | 11 | English Premier League 2025-2026 | **Fulham** | 35 | 14 | 6 | 15 | 44 | 49 | -5 | **48** |
 | 12 | English Premier League 2025-2026 | **Sunderland** | 35 | 12 | 11 | 12 | 37 | 46 | -9 | **47** |
@@ -288,14 +288,14 @@ A breakdown of all leagues and teams by football confederation.
 | 9 | 2025-26 LALIGA | **Real Sociedad** | 34 | 11 | 10 | 13 | 52 | 53 | -1 | **43** |
 | 10 | 2025-26 LALIGA | **Osasuna** | 35 | 11 | 9 | 15 | 42 | 45 | -3 | **42** |
 | 11 | 2025-26 LALIGA | **Rayo Vallecano** | 34 | 10 | 12 | 12 | 35 | 41 | -6 | **42** |
-| 12 | 2025-26 LALIGA | **Valencia** | 34 | 10 | 9 | 15 | 37 | 50 | -13 | **39** |
-| 13 | 2025-26 LALIGA | **Espanyol** | 34 | 10 | 9 | 15 | 37 | 51 | -14 | **39** |
-| 14 | 2025-26 LALIGA | **Elche** | 34 | 9 | 11 | 14 | 45 | 53 | -8 | **38** |
+| 12 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
+| 13 | 2025-26 LALIGA | **Valencia** | 34 | 10 | 9 | 15 | 37 | 50 | -13 | **39** |
+| 14 | 2025-26 LALIGA | **Espanyol** | 34 | 10 | 9 | 15 | 37 | 51 | -14 | **39** |
 | 15 | 2025-26 LALIGA | **Mallorca** | 34 | 10 | 8 | 16 | 42 | 51 | -9 | **38** |
 | 16 | 2025-26 LALIGA | **Girona** | 34 | 9 | 11 | 14 | 36 | 51 | -15 | **38** |
 | 17 | 2025-26 LALIGA | **Sevilla** | 34 | 10 | 7 | 17 | 41 | 55 | -14 | **37** |
-| 18 | 2025-26 LALIGA | **Levante** | 35 | 9 | 9 | 17 | 41 | 57 | -16 | **36** |
-| 19 | 2025-26 LALIGA | **Alavés** | 34 | 9 | 9 | 16 | 40 | 53 | -13 | **36** |
+| 18 | 2025-26 LALIGA | **Alavés** | 35 | 9 | 10 | 16 | 41 | 54 | -13 | **37** |
+| 19 | 2025-26 LALIGA | **Levante** | 35 | 9 | 9 | 17 | 41 | 57 | -16 | **36** |
 | 20 | 2025-26 LALIGA | **Real Oviedo** | 34 | 6 | 10 | 18 | 26 | 54 | -28 | **28** |
 
 ---

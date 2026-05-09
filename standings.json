@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09 12:35:50 UTC",
-  "generated_at_iso": "2026-05-09T12:35:50.017316+00:00",
+  "generated_at": "2026-05-09 14:19:18 UTC",
+  "generated_at_iso": "2026-05-09T14:19:18.773535+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -87,16 +87,16 @@
           "group": "English Premier League 2025-2026",
           "team": "Liverpool",
           "abbreviation": "LIV",
-          "played": 35,
+          "played": 36,
           "wins": 17,
-          "draws": 7,
+          "draws": 8,
           "losses": 11,
-          "goals_for": 59,
-          "goals_against": 47,
+          "goals_for": 60,
+          "goals_against": 48,
           "goal_difference": 12,
-          "points": 58,
+          "points": 59,
           "streak": {},
-          "record": "17-7-11"
+          "record": "17-8-11"
         },
         {
           "rank": 5,
@@ -167,16 +167,16 @@
           "group": "English Premier League 2025-2026",
           "team": "Chelsea",
           "abbreviation": "CHE",
-          "played": 35,
+          "played": 36,
           "wins": 13,
-          "draws": 9,
+          "draws": 10,
           "losses": 13,
-          "goals_for": 54,
-          "goals_against": 48,
+          "goals_for": 55,
+          "goals_against": 49,
           "goal_difference": 6,
-          "points": 48,
+          "points": 49,
           "streak": {},
-          "record": "13-9-13"
+          "record": "13-10-13"
         },
         {
           "rank": 10,
@@ -561,6 +561,22 @@
         {
           "rank": 12,
           "group": "2025-26 LALIGA",
+          "team": "Elche",
+          "abbreviation": "ELC",
+          "played": 35,
+          "wins": 9,
+          "draws": 12,
+          "losses": 14,
+          "goals_for": 46,
+          "goals_against": 54,
+          "goal_difference": -8,
+          "points": 39,
+          "streak": {},
+          "record": "9-12-14"
+        },
+        {
+          "rank": 13,
+          "group": "2025-26 LALIGA",
           "team": "Valencia",
           "abbreviation": "VAL",
           "played": 34,
@@ -575,7 +591,7 @@
           "record": "10-9-15"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "group": "2025-26 LALIGA",
           "team": "Espanyol",
           "abbreviation": "ESP",
@@ -589,22 +605,6 @@
           "points": 39,
           "streak": {},
           "record": "10-9-15"
-        },
-        {
-          "rank": 14,
-          "group": "2025-26 LALIGA",
-          "team": "Elche",
-          "abbreviation": "ELC",
-          "played": 34,
-          "wins": 9,
-          "draws": 11,
-          "losses": 14,
-          "goals_for": 45,
-          "goals_against": 53,
-          "goal_difference": -8,
-          "points": 38,
-          "streak": {},
-          "record": "9-11-14"
         },
         {
           "rank": 15,
@@ -657,6 +657,22 @@
         {
           "rank": 18,
           "group": "2025-26 LALIGA",
+          "team": "Alavés",
+          "abbreviation": "ALA",
+          "played": 35,
+          "wins": 9,
+          "draws": 10,
+          "losses": 16,
+          "goals_for": 41,
+          "goals_against": 54,
+          "goal_difference": -13,
+          "points": 37,
+          "streak": {},
+          "record": "9-10-16"
+        },
+        {
+          "rank": 19,
+          "group": "2025-26 LALIGA",
           "team": "Levante",
           "abbreviation": "LEV",
           "played": 35,
@@ -669,22 +685,6 @@
           "points": 36,
           "streak": {},
           "record": "9-9-17"
-        },
-        {
-          "rank": 19,
-          "group": "2025-26 LALIGA",
-          "team": "Alavés",
-          "abbreviation": "ALA",
-          "played": 34,
-          "wins": 9,
-          "draws": 9,
-          "losses": 16,
-          "goals_for": 40,
-          "goals_against": 53,
-          "goal_difference": -13,
-          "points": 36,
-          "streak": {},
-          "record": "9-9-16"
         },
         {
           "rank": 20,
