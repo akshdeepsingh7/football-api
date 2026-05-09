@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09 14:19:18 UTC",
-  "generated_at_iso": "2026-05-09T14:19:18.773535+00:00",
+  "generated_at": "2026-05-09 15:31:12 UTC",
+  "generated_at_iso": "2026-05-09T15:31:12.533511+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -861,6 +861,22 @@
         {
           "rank": 9,
           "group": "2025-2026 Italian Serie A",
+          "team": "Udinese",
+          "abbreviation": "UDI",
+          "played": 36,
+          "wins": 14,
+          "draws": 8,
+          "losses": 14,
+          "goals_for": 45,
+          "goals_against": 46,
+          "goal_difference": -1,
+          "points": 50,
+          "streak": {},
+          "record": "14-8-14"
+        },
+        {
+          "rank": 10,
+          "group": "2025-2026 Italian Serie A",
           "team": "Bologna",
           "abbreviation": "BOL",
           "played": 35,
@@ -875,7 +891,7 @@
           "record": "14-7-14"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "2025-2026 Italian Serie A",
           "team": "Sassuolo",
           "abbreviation": "SAS",
@@ -889,22 +905,6 @@
           "points": 49,
           "streak": {},
           "record": "14-7-15"
-        },
-        {
-          "rank": 11,
-          "group": "2025-2026 Italian Serie A",
-          "team": "Udinese",
-          "abbreviation": "UDI",
-          "played": 35,
-          "wins": 13,
-          "draws": 8,
-          "losses": 14,
-          "goals_for": 43,
-          "goals_against": 46,
-          "goal_difference": -3,
-          "points": 47,
-          "streak": {},
-          "record": "13-8-14"
         },
         {
           "rank": 12,
@@ -957,22 +957,6 @@
         {
           "rank": 15,
           "group": "2025-2026 Italian Serie A",
-          "team": "Cagliari",
-          "abbreviation": "CAG",
-          "played": 35,
-          "wins": 9,
-          "draws": 10,
-          "losses": 16,
-          "goals_for": 36,
-          "goals_against": 49,
-          "goal_difference": -13,
-          "points": 37,
-          "streak": {},
-          "record": "9-10-16"
-        },
-        {
-          "rank": 16,
-          "group": "2025-2026 Italian Serie A",
           "team": "Fiorentina",
           "abbreviation": "FIO",
           "played": 35,
@@ -985,6 +969,22 @@
           "points": 37,
           "streak": {},
           "record": "8-13-14"
+        },
+        {
+          "rank": 16,
+          "group": "2025-2026 Italian Serie A",
+          "team": "Cagliari",
+          "abbreviation": "CAG",
+          "played": 36,
+          "wins": 9,
+          "draws": 10,
+          "losses": 17,
+          "goals_for": 36,
+          "goals_against": 51,
+          "goal_difference": -15,
+          "points": 37,
+          "streak": {},
+          "record": "9-10-17"
         },
         {
           "rank": 17,
