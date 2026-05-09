@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09 17:03:50 UTC",
-  "generated_at_iso": "2026-05-09T17:03:50.845563+00:00",
+  "generated_at": "2026-05-09 18:33:07 UTC",
+  "generated_at_iso": "2026-05-09T18:33:07.285449+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -18,7 +18,7 @@
       "top_performers": {
         "best_attack": {
           "team": "Manchester City",
-          "goals_for": 69
+          "goals_for": 72
         },
         "best_defence": {
           "team": "Arsenal",
@@ -55,16 +55,16 @@
           "group": "English Premier League 2025-2026",
           "team": "Manchester City",
           "abbreviation": "MNC",
-          "played": 34,
-          "wins": 21,
+          "played": 35,
+          "wins": 22,
           "draws": 8,
           "losses": 5,
-          "goals_for": 69,
+          "goals_for": 72,
           "goals_against": 32,
-          "goal_difference": 37,
-          "points": 71,
+          "goal_difference": 40,
+          "points": 74,
           "streak": {},
-          "record": "21-8-5"
+          "record": "22-8-5"
         },
         {
           "rank": 3,
@@ -151,16 +151,16 @@
           "group": "English Premier League 2025-2026",
           "team": "Brentford",
           "abbreviation": "BRE",
-          "played": 35,
+          "played": 36,
           "wins": 14,
           "draws": 9,
-          "losses": 12,
+          "losses": 13,
           "goals_for": 52,
-          "goals_against": 46,
-          "goal_difference": 6,
+          "goals_against": 49,
+          "goal_difference": 3,
           "points": 51,
           "streak": {},
-          "record": "14-9-12"
+          "record": "14-9-13"
         },
         {
           "rank": 9,
@@ -437,14 +437,14 @@
           "abbreviation": "ATM",
           "played": 35,
           "wins": 19,
-          "draws": 7,
-          "losses": 9,
+          "draws": 6,
+          "losses": 10,
           "goals_for": 58,
-          "goals_against": 37,
-          "goal_difference": 21,
-          "points": 64,
+          "goals_against": 38,
+          "goal_difference": 20,
+          "points": 63,
           "streak": {},
-          "record": "19-7-9"
+          "record": "19-6-10"
         },
         {
           "rank": 5,
@@ -468,15 +468,15 @@
           "team": "Celta Vigo",
           "abbreviation": "CEL",
           "played": 35,
-          "wins": 12,
-          "draws": 12,
+          "wins": 13,
+          "draws": 11,
           "losses": 11,
-          "goals_for": 48,
+          "goals_for": 49,
           "goals_against": 44,
-          "goal_difference": 4,
-          "points": 48,
+          "goal_difference": 5,
+          "points": 50,
           "streak": {},
-          "record": "12-12-11"
+          "record": "13-11-11"
         },
         {
           "rank": 7,
@@ -714,7 +714,7 @@
       "top_performers": {
         "best_attack": {
           "team": "Internazionale",
-          "goals_for": 82
+          "goals_for": 85
         },
         "best_defence": {
           "team": "Como",
@@ -722,11 +722,11 @@
         },
         "most_wins": {
           "team": "Internazionale",
-          "wins": 26
+          "wins": 27
         },
         "best_goal_difference": {
           "team": "Internazionale",
-          "goal_difference": 51
+          "goal_difference": 54
         }
       },
       "teams": [
@@ -735,16 +735,16 @@
           "group": "2025-2026 Italian Serie A",
           "team": "Internazionale",
           "abbreviation": "INT",
-          "played": 35,
-          "wins": 26,
+          "played": 36,
+          "wins": 27,
           "draws": 4,
           "losses": 5,
-          "goals_for": 82,
+          "goals_for": 85,
           "goals_against": 31,
-          "goal_difference": 51,
-          "points": 82,
+          "goal_difference": 54,
+          "points": 85,
           "streak": {},
-          "record": "26-4-5"
+          "record": "27-4-5"
         },
         {
           "rank": 2,
@@ -847,16 +847,16 @@
           "group": "2025-2026 Italian Serie A",
           "team": "Lazio",
           "abbreviation": "LAZ",
-          "played": 35,
+          "played": 36,
           "wins": 13,
           "draws": 12,
-          "losses": 10,
+          "losses": 11,
           "goals_for": 39,
-          "goals_against": 34,
-          "goal_difference": 5,
+          "goals_against": 37,
+          "goal_difference": 2,
           "points": 51,
           "streak": {},
-          "record": "13-12-10"
+          "record": "13-12-11"
         },
         {
           "rank": 9,
@@ -1062,7 +1062,7 @@
       "top_performers": {
         "best_attack": {
           "team": "Bayern Munich",
-          "goals_for": 116
+          "goals_for": 117
         },
         "best_defence": {
           "team": "Borussia Dortmund",
@@ -1070,11 +1070,11 @@
         },
         "most_wins": {
           "team": "Bayern Munich",
-          "wins": 26
+          "wins": 27
         },
         "best_goal_difference": {
           "team": "Bayern Munich",
-          "goal_difference": 81
+          "goal_difference": 82
         }
       },
       "teams": [
@@ -1083,16 +1083,16 @@
           "group": "2025-26 German Bundesliga",
           "team": "Bayern Munich",
           "abbreviation": "MUN",
-          "played": 32,
-          "wins": 26,
+          "played": 33,
+          "wins": 27,
           "draws": 5,
           "losses": 1,
-          "goals_for": 116,
+          "goals_for": 117,
           "goals_against": 35,
-          "goal_difference": 81,
-          "points": 83,
+          "goal_difference": 82,
+          "points": 86,
           "streak": {},
-          "record": "26-5-1"
+          "record": "27-5-1"
         },
         {
           "rank": 2,
@@ -1323,16 +1323,16 @@
           "group": "2025-26 German Bundesliga",
           "team": "VfL Wolfsburg",
           "abbreviation": "WOB",
-          "played": 32,
+          "played": 33,
           "wins": 6,
           "draws": 8,
-          "losses": 18,
+          "losses": 19,
           "goals_for": 42,
-          "goals_against": 67,
-          "goal_difference": -25,
+          "goals_against": 68,
+          "goal_difference": -26,
           "points": 26,
           "streak": {},
-          "record": "6-8-18"
+          "record": "6-8-19"
         },
         {
           "rank": 17,
