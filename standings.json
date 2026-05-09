@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09 19:59:34 UTC",
-  "generated_at_iso": "2026-05-09T19:59:34.930130+00:00",
+  "generated_at": "2026-05-09 20:58:18 UTC",
+  "generated_at_iso": "2026-05-09T20:58:18.766897+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -765,6 +765,22 @@
         {
           "rank": 3,
           "group": "2025-2026 Italian Serie A",
+          "team": "Juventus",
+          "abbreviation": "JUV",
+          "played": 36,
+          "wins": 19,
+          "draws": 11,
+          "losses": 6,
+          "goals_for": 59,
+          "goals_against": 30,
+          "goal_difference": 29,
+          "points": 68,
+          "streak": {},
+          "record": "19-11-6"
+        },
+        {
+          "rank": 4,
+          "group": "2025-2026 Italian Serie A",
           "team": "AC Milan",
           "abbreviation": "MIL",
           "played": 35,
@@ -777,22 +793,6 @@
           "points": 67,
           "streak": {},
           "record": "19-10-6"
-        },
-        {
-          "rank": 4,
-          "group": "2025-2026 Italian Serie A",
-          "team": "Juventus",
-          "abbreviation": "JUV",
-          "played": 35,
-          "wins": 18,
-          "draws": 11,
-          "losses": 6,
-          "goals_for": 58,
-          "goals_against": 30,
-          "goal_difference": 28,
-          "points": 65,
-          "streak": {},
-          "record": "18-11-6"
         },
         {
           "rank": 5,
@@ -991,16 +991,16 @@
           "group": "2025-2026 Italian Serie A",
           "team": "Lecce",
           "abbreviation": "LEC",
-          "played": 35,
+          "played": 36,
           "wins": 8,
           "draws": 8,
-          "losses": 19,
+          "losses": 20,
           "goals_for": 24,
-          "goals_against": 47,
-          "goal_difference": -23,
+          "goals_against": 48,
+          "goal_difference": -24,
           "points": 32,
           "streak": {},
-          "record": "8-8-19"
+          "record": "8-8-20"
         },
         {
           "rank": 18,
