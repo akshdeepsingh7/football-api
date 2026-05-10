@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 15:01:29 UTC
+> **Last updated:** 2026-05-10 16:30:50 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 966 | 966 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 865 | 865 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8472 | 8472 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8478 | 8478 |
 
 ---
 
@@ -285,14 +285,14 @@ A breakdown of all leagues and teams by football confederation.
 | 6 | 2025-26 LALIGA | **Celta Vigo** | 35 | 13 | 11 | 11 | 49 | 44 | +5 | **50** |
 | 7 | 2025-26 LALIGA | **Getafe** | 34 | 13 | 5 | 16 | 28 | 36 | -8 | **44** |
 | 8 | 2025-26 LALIGA | **Real Sociedad** | 35 | 11 | 11 | 13 | 54 | 55 | -1 | **44** |
-| 9 | 2025-26 LALIGA | **Athletic Club** | 34 | 13 | 5 | 16 | 40 | 50 | -10 | **44** |
+| 9 | 2025-26 LALIGA | **Athletic Club** | 35 | 13 | 5 | 17 | 40 | 51 | -11 | **44** |
 | 10 | 2025-26 LALIGA | **Osasuna** | 35 | 11 | 9 | 15 | 42 | 45 | -3 | **42** |
 | 11 | 2025-26 LALIGA | **Rayo Vallecano** | 34 | 10 | 12 | 12 | 35 | 41 | -6 | **42** |
-| 12 | 2025-26 LALIGA | **Sevilla** | 35 | 11 | 7 | 17 | 43 | 56 | -13 | **40** |
-| 13 | 2025-26 LALIGA | **Mallorca** | 35 | 10 | 9 | 16 | 43 | 52 | -9 | **39** |
+| 12 | 2025-26 LALIGA | **Valencia** | 35 | 11 | 9 | 15 | 38 | 50 | -12 | **42** |
+| 13 | 2025-26 LALIGA | **Sevilla** | 35 | 11 | 7 | 17 | 43 | 56 | -13 | **40** |
 | 14 | 2025-26 LALIGA | **Espanyol** | 35 | 10 | 9 | 16 | 38 | 53 | -15 | **39** |
-| 15 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
-| 16 | 2025-26 LALIGA | **Valencia** | 34 | 10 | 9 | 15 | 37 | 50 | -13 | **39** |
+| 15 | 2025-26 LALIGA | **Mallorca** | 35 | 10 | 9 | 16 | 43 | 52 | -9 | **39** |
+| 16 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
 | 17 | 2025-26 LALIGA | **Girona** | 34 | 9 | 11 | 14 | 36 | 51 | -15 | **38** |
 | 18 | 2025-26 LALIGA | **Alavés** | 35 | 9 | 10 | 16 | 41 | 54 | -13 | **37** |
 | 19 | 2025-26 LALIGA | **Levante** | 35 | 9 | 9 | 17 | 41 | 57 | -16 | **36** |
@@ -337,12 +337,12 @@ A breakdown of all leagues and teams by football confederation.
 | 4 | 2025-26 German Bundesliga | **VfB Stuttgart** | 33 | 18 | 7 | 8 | 69 | 47 | +22 | **61** |
 | 5 | 2025-26 German Bundesliga | **TSG Hoffenheim** | 33 | 18 | 7 | 8 | 65 | 48 | +17 | **61** |
 | 6 | 2025-26 German Bundesliga | **Bayer Leverkusen** | 33 | 17 | 7 | 9 | 67 | 46 | +21 | **58** |
-| 7 | 2025-26 German Bundesliga | **SC Freiburg** | 32 | 12 | 8 | 12 | 45 | 53 | -8 | **44** |
+| 7 | 2025-26 German Bundesliga | **SC Freiburg** | 33 | 12 | 8 | 13 | 47 | 56 | -9 | **44** |
 | 8 | 2025-26 German Bundesliga | **Eintracht Frankfurt** | 33 | 11 | 10 | 12 | 59 | 63 | -4 | **43** |
 | 9 | 2025-26 German Bundesliga | **FC Augsburg** | 33 | 12 | 7 | 14 | 45 | 57 | -12 | **43** |
 | 10 | 2025-26 German Bundesliga | **Mainz** | 32 | 9 | 10 | 13 | 41 | 50 | -9 | **37** |
-| 11 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
-| 12 | 2025-26 German Bundesliga | **Hamburg SV** | 32 | 8 | 10 | 14 | 36 | 51 | -15 | **34** |
+| 11 | 2025-26 German Bundesliga | **Hamburg SV** | 33 | 9 | 10 | 14 | 39 | 53 | -14 | **37** |
+| 12 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
 | 13 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 32 | 8 | 9 | 15 | 37 | 57 | -20 | **33** |
 | 14 | 2025-26 German Bundesliga | **FC Cologne** | 32 | 7 | 11 | 14 | 47 | 55 | -8 | **32** |
 | 15 | 2025-26 German Bundesliga | **Werder Bremen** | 33 | 8 | 8 | 17 | 37 | 58 | -21 | **32** |

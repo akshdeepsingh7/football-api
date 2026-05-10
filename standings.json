@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10 15:01:29 UTC",
-  "generated_at_iso": "2026-05-10T15:01:29.770338+00:00",
+  "generated_at": "2026-05-10 16:30:50 UTC",
+  "generated_at_iso": "2026-05-10T16:30:50.914824+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -515,16 +515,16 @@
           "group": "2025-26 LALIGA",
           "team": "Athletic Club",
           "abbreviation": "ATH",
-          "played": 34,
+          "played": 35,
           "wins": 13,
           "draws": 5,
-          "losses": 16,
+          "losses": 17,
           "goals_for": 40,
-          "goals_against": 50,
-          "goal_difference": -10,
+          "goals_against": 51,
+          "goal_difference": -11,
           "points": 44,
           "streak": {},
-          "record": "13-5-16"
+          "record": "13-5-17"
         },
         {
           "rank": 10,
@@ -561,6 +561,22 @@
         {
           "rank": 12,
           "group": "2025-26 LALIGA",
+          "team": "Valencia",
+          "abbreviation": "VAL",
+          "played": 35,
+          "wins": 11,
+          "draws": 9,
+          "losses": 15,
+          "goals_for": 38,
+          "goals_against": 50,
+          "goal_difference": -12,
+          "points": 42,
+          "streak": {},
+          "record": "11-9-15"
+        },
+        {
+          "rank": 13,
+          "group": "2025-26 LALIGA",
           "team": "Sevilla",
           "abbreviation": "SEV",
           "played": 35,
@@ -573,22 +589,6 @@
           "points": 40,
           "streak": {},
           "record": "11-7-17"
-        },
-        {
-          "rank": 13,
-          "group": "2025-26 LALIGA",
-          "team": "Mallorca",
-          "abbreviation": "MLL",
-          "played": 35,
-          "wins": 10,
-          "draws": 9,
-          "losses": 16,
-          "goals_for": 43,
-          "goals_against": 52,
-          "goal_difference": -9,
-          "points": 39,
-          "streak": {},
-          "record": "10-9-16"
         },
         {
           "rank": 14,
@@ -609,6 +609,22 @@
         {
           "rank": 15,
           "group": "2025-26 LALIGA",
+          "team": "Mallorca",
+          "abbreviation": "MLL",
+          "played": 35,
+          "wins": 10,
+          "draws": 9,
+          "losses": 16,
+          "goals_for": 43,
+          "goals_against": 52,
+          "goal_difference": -9,
+          "points": 39,
+          "streak": {},
+          "record": "10-9-16"
+        },
+        {
+          "rank": 16,
+          "group": "2025-26 LALIGA",
           "team": "Elche",
           "abbreviation": "ELC",
           "played": 35,
@@ -621,22 +637,6 @@
           "points": 39,
           "streak": {},
           "record": "9-12-14"
-        },
-        {
-          "rank": 16,
-          "group": "2025-26 LALIGA",
-          "team": "Valencia",
-          "abbreviation": "VAL",
-          "played": 34,
-          "wins": 10,
-          "draws": 9,
-          "losses": 15,
-          "goals_for": 37,
-          "goals_against": 50,
-          "goal_difference": -13,
-          "points": 39,
-          "streak": {},
-          "record": "10-9-15"
         },
         {
           "rank": 17,
@@ -1179,16 +1179,16 @@
           "group": "2025-26 German Bundesliga",
           "team": "SC Freiburg",
           "abbreviation": "SCF",
-          "played": 32,
+          "played": 33,
           "wins": 12,
           "draws": 8,
-          "losses": 12,
-          "goals_for": 45,
-          "goals_against": 53,
-          "goal_difference": -8,
+          "losses": 13,
+          "goals_for": 47,
+          "goals_against": 56,
+          "goal_difference": -9,
           "points": 44,
           "streak": {},
-          "record": "12-8-12"
+          "record": "12-8-13"
         },
         {
           "rank": 8,
@@ -1241,6 +1241,22 @@
         {
           "rank": 11,
           "group": "2025-26 German Bundesliga",
+          "team": "Hamburg SV",
+          "abbreviation": "HSV",
+          "played": 33,
+          "wins": 9,
+          "draws": 10,
+          "losses": 14,
+          "goals_for": 39,
+          "goals_against": 53,
+          "goal_difference": -14,
+          "points": 37,
+          "streak": {},
+          "record": "9-10-14"
+        },
+        {
+          "rank": 12,
+          "group": "2025-26 German Bundesliga",
           "team": "Borussia Mönchengladbach",
           "abbreviation": "BMG",
           "played": 33,
@@ -1253,22 +1269,6 @@
           "points": 35,
           "streak": {},
           "record": "8-11-14"
-        },
-        {
-          "rank": 12,
-          "group": "2025-26 German Bundesliga",
-          "team": "Hamburg SV",
-          "abbreviation": "HSV",
-          "played": 32,
-          "wins": 8,
-          "draws": 10,
-          "losses": 14,
-          "goals_for": 36,
-          "goals_against": 51,
-          "goal_difference": -15,
-          "points": 34,
-          "streak": {},
-          "record": "8-10-14"
         },
         {
           "rank": 13,
