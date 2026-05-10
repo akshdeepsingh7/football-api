@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10 19:18:18 UTC",
-  "generated_at_iso": "2026-05-10T19:18:18.324213+00:00",
+  "generated_at": "2026-05-10 20:11:27 UTC",
+  "generated_at_iso": "2026-05-10T20:11:27.347648+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -1227,16 +1227,16 @@
           "group": "2025-26 German Bundesliga",
           "team": "Mainz",
           "abbreviation": "M05",
-          "played": 32,
+          "played": 33,
           "wins": 9,
           "draws": 10,
-          "losses": 13,
-          "goals_for": 41,
-          "goals_against": 50,
-          "goal_difference": -9,
+          "losses": 14,
+          "goals_for": 42,
+          "goals_against": 53,
+          "goal_difference": -11,
           "points": 37,
           "streak": {},
-          "record": "9-10-13"
+          "record": "9-10-14"
         },
         {
           "rank": 11,
@@ -1257,6 +1257,22 @@
         {
           "rank": 12,
           "group": "2025-26 German Bundesliga",
+          "team": "1. FC Union Berlin",
+          "abbreviation": "FCU",
+          "played": 33,
+          "wins": 9,
+          "draws": 9,
+          "losses": 15,
+          "goals_for": 40,
+          "goals_against": 58,
+          "goal_difference": -18,
+          "points": 36,
+          "streak": {},
+          "record": "9-9-15"
+        },
+        {
+          "rank": 13,
+          "group": "2025-26 German Bundesliga",
           "team": "Borussia Mönchengladbach",
           "abbreviation": "BMG",
           "played": 33,
@@ -1269,22 +1285,6 @@
           "points": 35,
           "streak": {},
           "record": "8-11-14"
-        },
-        {
-          "rank": 13,
-          "group": "2025-26 German Bundesliga",
-          "team": "1. FC Union Berlin",
-          "abbreviation": "FCU",
-          "played": 32,
-          "wins": 8,
-          "draws": 9,
-          "losses": 15,
-          "goals_for": 37,
-          "goals_against": 57,
-          "goal_difference": -20,
-          "points": 33,
-          "streak": {},
-          "record": "8-9-15"
         },
         {
           "rank": 14,

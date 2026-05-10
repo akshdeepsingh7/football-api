@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 19:18:18 UTC
+> **Last updated:** 2026-05-10 20:11:27 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 966 | 966 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 865 | 865 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8519 | 8519 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8523 | 8523 |
 
 ---
 
@@ -340,10 +340,10 @@ A breakdown of all leagues and teams by football confederation.
 | 7 | 2025-26 German Bundesliga | **SC Freiburg** | 33 | 12 | 8 | 13 | 47 | 56 | -9 | **44** |
 | 8 | 2025-26 German Bundesliga | **Eintracht Frankfurt** | 33 | 11 | 10 | 12 | 59 | 63 | -4 | **43** |
 | 9 | 2025-26 German Bundesliga | **FC Augsburg** | 33 | 12 | 7 | 14 | 45 | 57 | -12 | **43** |
-| 10 | 2025-26 German Bundesliga | **Mainz** | 32 | 9 | 10 | 13 | 41 | 50 | -9 | **37** |
+| 10 | 2025-26 German Bundesliga | **Mainz** | 33 | 9 | 10 | 14 | 42 | 53 | -11 | **37** |
 | 11 | 2025-26 German Bundesliga | **Hamburg SV** | 33 | 9 | 10 | 14 | 39 | 53 | -14 | **37** |
-| 12 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
-| 13 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 32 | 8 | 9 | 15 | 37 | 57 | -20 | **33** |
+| 12 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 33 | 9 | 9 | 15 | 40 | 58 | -18 | **36** |
+| 13 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
 | 14 | 2025-26 German Bundesliga | **FC Cologne** | 33 | 7 | 11 | 15 | 48 | 58 | -10 | **32** |
 | 15 | 2025-26 German Bundesliga | **Werder Bremen** | 33 | 8 | 8 | 17 | 37 | 58 | -21 | **32** |
 | 16 | 2025-26 German Bundesliga | **VfL Wolfsburg** | 33 | 6 | 8 | 19 | 42 | 68 | -26 | **26** |
