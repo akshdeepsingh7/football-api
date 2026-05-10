@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09 23:58:20 UTC",
-  "generated_at_iso": "2026-05-09T23:58:20.100974+00:00",
+  "generated_at": "2026-05-10 04:08:09 UTC",
+  "generated_at_iso": "2026-05-10T04:08:09.622215+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4679,16 +4679,16 @@
           "group": "2026",
           "team": "Bahia",
           "abbreviation": "BAH",
-          "played": 13,
+          "played": 14,
           "wins": 6,
           "draws": 4,
-          "losses": 3,
-          "goals_for": 19,
-          "goals_against": 16,
-          "goal_difference": 3,
+          "losses": 4,
+          "goals_for": 20,
+          "goals_against": 18,
+          "goal_difference": 2,
           "points": 22,
           "streak": {},
-          "record": "6-4-3"
+          "record": "6-4-4"
         },
         {
           "rank": 7,
@@ -4741,6 +4741,22 @@
         {
           "rank": 10,
           "group": "2026",
+          "team": "Cruzeiro",
+          "abbreviation": "CRU",
+          "played": 15,
+          "wins": 5,
+          "draws": 4,
+          "losses": 6,
+          "goals_for": 20,
+          "goals_against": 25,
+          "goal_difference": -5,
+          "points": 19,
+          "streak": {},
+          "record": "5-4-6"
+        },
+        {
+          "rank": 11,
+          "group": "2026",
           "team": "Internacional",
           "abbreviation": "INT",
           "played": 15,
@@ -4755,7 +4771,7 @@
           "record": "4-6-5"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "2026",
           "team": "Botafogo",
           "abbreviation": "BOT",
@@ -4771,7 +4787,7 @@
           "record": "5-2-6"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "2026",
           "team": "Atlético-MG",
           "abbreviation": "CAM",
@@ -4787,7 +4803,7 @@
           "record": "5-2-7"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "group": "2026",
           "team": "Vasco da Gama",
           "abbreviation": "VAS",
@@ -4803,7 +4819,7 @@
           "record": "4-5-5"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "group": "2026",
           "team": "Grêmio",
           "abbreviation": "GRE",
@@ -4817,22 +4833,6 @@
           "points": 17,
           "streak": {},
           "record": "4-5-5"
-        },
-        {
-          "rank": 15,
-          "group": "2026",
-          "team": "Cruzeiro",
-          "abbreviation": "CRU",
-          "played": 14,
-          "wins": 4,
-          "draws": 4,
-          "losses": 6,
-          "goals_for": 18,
-          "goals_against": 24,
-          "goal_difference": -6,
-          "points": 16,
-          "streak": {},
-          "record": "4-4-6"
         },
         {
           "rank": 16,
