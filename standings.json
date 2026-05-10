@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10 21:26:19 UTC",
-  "generated_at_iso": "2026-05-10T21:26:19.673729+00:00",
+  "generated_at": "2026-05-10 22:25:32 UTC",
+  "generated_at_iso": "2026-05-10T22:25:32.950567+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -3051,32 +3051,32 @@
           "group": "2025-2026 Portuguese Liga",
           "team": "Estoril",
           "abbreviation": "EPF",
-          "played": 32,
+          "played": 33,
           "wins": 10,
-          "draws": 8,
+          "draws": 9,
           "losses": 14,
-          "goals_for": 52,
-          "goals_against": 53,
+          "goals_for": 53,
+          "goals_against": 54,
           "goal_difference": -1,
-          "points": 38,
+          "points": 39,
           "streak": {},
-          "record": "10-8-14"
+          "record": "10-9-14"
         },
         {
           "rank": 10,
           "group": "2025-2026 Portuguese Liga",
           "team": "Alverca",
           "abbreviation": "ALV",
-          "played": 32,
+          "played": 33,
           "wins": 10,
-          "draws": 8,
+          "draws": 9,
           "losses": 14,
-          "goals_for": 34,
-          "goals_against": 50,
+          "goals_for": 35,
+          "goals_against": 51,
           "goal_difference": -16,
-          "points": 38,
+          "points": 39,
           "streak": {},
-          "record": "10-8-14"
+          "record": "10-9-14"
         },
         {
           "rank": 11,

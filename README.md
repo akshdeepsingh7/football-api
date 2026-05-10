@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 21:26:19 UTC
+> **Last updated:** 2026-05-10 22:25:32 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 966 | 966 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 865 | 865 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8548 | 8548 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8550 | 8550 |
 
 ---
 
@@ -475,8 +475,8 @@ A breakdown of all leagues and teams by football confederation.
 | 6 | 2025-2026 Portuguese Liga | **Gil Vicente** | 32 | 13 | 11 | 8 | 46 | 32 | +14 | **50** |
 | 7 | 2025-2026 Portuguese Liga | **Moreirense** | 32 | 12 | 6 | 14 | 37 | 47 | -10 | **42** |
 | 8 | 2025-2026 Portuguese Liga | **Vitória de Guimaraes** | 32 | 12 | 6 | 14 | 39 | 48 | -9 | **42** |
-| 9 | 2025-2026 Portuguese Liga | **Estoril** | 32 | 10 | 8 | 14 | 52 | 53 | -1 | **38** |
-| 10 | 2025-2026 Portuguese Liga | **Alverca** | 32 | 10 | 8 | 14 | 34 | 50 | -16 | **38** |
+| 9 | 2025-2026 Portuguese Liga | **Estoril** | 33 | 10 | 9 | 14 | 53 | 54 | -1 | **39** |
+| 10 | 2025-2026 Portuguese Liga | **Alverca** | 33 | 10 | 9 | 14 | 35 | 51 | -16 | **39** |
 | 11 | 2025-2026 Portuguese Liga | **Arouca** | 32 | 10 | 6 | 16 | 41 | 62 | -21 | **36** |
 | 12 | 2025-2026 Portuguese Liga | **Rio Ave** | 32 | 8 | 11 | 13 | 33 | 52 | -19 | **35** |
 | 13 | 2025-2026 Portuguese Liga | **Santa Clara** | 32 | 8 | 9 | 15 | 30 | 40 | -10 | **33** |
