@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 16:30:50 UTC
+> **Last updated:** 2026-05-10 17:57:25 UTC
 
 ---
 
@@ -47,7 +47,7 @@
 
 | League | Country | Confederation | Teams | Leader | Points |
 |--------|---------|--------------|-------|--------|--------|
-| **English Premier League** | England | UEFA | 20 | **Arsenal** | 76 |
+| **English Premier League** | England | UEFA | 20 | **Arsenal** | 79 |
 | **Spanish La Liga** | Spain | UEFA | 20 | **Barcelona** | 88 |
 | **Italian Serie A** | Italy | UEFA | 20 | **Internazionale** | 85 |
 | **German Bundesliga** | Germany | UEFA | 18 | **Bayern Munich** | 86 |
@@ -55,7 +55,7 @@
 | **UEFA Champions League** | Europe | UEFA | 36 | **Arsenal** | 24 |
 | **UEFA Europa League** | Europe | UEFA | 36 | **Lyon** | 21 |
 | **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **FC Porto** | 85 |
-| **Dutch Eredivisie** | Netherlands | UEFA | 18 | **PSV Eindhoven** | 78 |
+| **Dutch Eredivisie** | Netherlands | UEFA | 18 | **PSV Eindhoven** | 81 |
 | **Turkish Super Lig** | Turkey | UEFA | 18 | **Galatasaray** | 77 |
 | **Scottish Premiership** | Scotland | UEFA | 12 | **Heart of Midlothian** | 77 |
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 17 |
@@ -75,8 +75,8 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 |----------|------|------|
 | Best Attack | **Manchester City** | 72 goals |
 | Best Defence | **Arsenal** | 26 goals conceded |
-| Most Wins | **Arsenal** | 23 wins |
-| Best GD | **Arsenal** | +41 |
+| Most Wins | **Arsenal** | 24 wins |
+| Best GD | **Arsenal** | +42 |
 
 ---
 
@@ -161,10 +161,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **PSV Eindhoven** | 92 goals |
+| Best Attack | **PSV Eindhoven** | 96 goals |
 | Best Defence | **FC Twente** | 35 goals conceded |
-| Most Wins | **PSV Eindhoven** | 25 wins |
-| Best GD | **PSV Eindhoven** | +49 |
+| Most Wins | **PSV Eindhoven** | 26 wins |
+| Best GD | **PSV Eindhoven** | +52 |
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 966 | 966 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 865 | 865 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8478 | 8478 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8512 | 8512 |
 
 ---
 
@@ -250,7 +250,7 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | English Premier League 2025-2026 | **Arsenal** | 35 | 23 | 7 | 5 | 67 | 26 | +41 | **76** |
+| 1 | English Premier League 2025-2026 | **Arsenal** | 36 | 24 | 7 | 5 | 68 | 26 | +42 | **79** |
 | 2 | English Premier League 2025-2026 | **Manchester City** | 35 | 22 | 8 | 5 | 72 | 32 | +40 | **74** |
 | 3 | English Premier League 2025-2026 | **Manchester United** | 36 | 18 | 11 | 7 | 63 | 48 | +15 | **65** |
 | 4 | English Premier League 2025-2026 | **Liverpool** | 36 | 17 | 8 | 11 | 60 | 48 | +12 | **59** |
@@ -267,7 +267,7 @@ A breakdown of all leagues and teams by football confederation.
 | 15 | English Premier League 2025-2026 | **Nottingham Forest** | 36 | 11 | 10 | 15 | 45 | 47 | -2 | **43** |
 | 16 | English Premier League 2025-2026 | **Leeds United** | 35 | 10 | 13 | 12 | 47 | 52 | -5 | **43** |
 | 17 | English Premier League 2025-2026 | **Tottenham Hotspur** | 35 | 9 | 10 | 16 | 45 | 54 | -9 | **37** |
-| 18 | English Premier League 2025-2026 | **West Ham United** | 35 | 9 | 9 | 17 | 42 | 61 | -19 | **36** |
+| 18 | English Premier League 2025-2026 | **West Ham United** | 36 | 9 | 9 | 18 | 42 | 62 | -20 | **36** |
 | 19 | English Premier League 2025-2026 | **Burnley** | 36 | 4 | 9 | 23 | 37 | 73 | -36 | **21** |
 | 20 | English Premier League 2025-2026 | **Wolverhampton Wanderers** | 36 | 3 | 9 | 24 | 25 | 66 | -41 | **18** |
 
@@ -344,11 +344,11 @@ A breakdown of all leagues and teams by football confederation.
 | 11 | 2025-26 German Bundesliga | **Hamburg SV** | 33 | 9 | 10 | 14 | 39 | 53 | -14 | **37** |
 | 12 | 2025-26 German Bundesliga | **Borussia Mönchengladbach** | 33 | 8 | 11 | 14 | 38 | 53 | -15 | **35** |
 | 13 | 2025-26 German Bundesliga | **1. FC Union Berlin** | 32 | 8 | 9 | 15 | 37 | 57 | -20 | **33** |
-| 14 | 2025-26 German Bundesliga | **FC Cologne** | 32 | 7 | 11 | 14 | 47 | 55 | -8 | **32** |
+| 14 | 2025-26 German Bundesliga | **FC Cologne** | 33 | 7 | 11 | 15 | 48 | 58 | -10 | **32** |
 | 15 | 2025-26 German Bundesliga | **Werder Bremen** | 33 | 8 | 8 | 17 | 37 | 58 | -21 | **32** |
 | 16 | 2025-26 German Bundesliga | **VfL Wolfsburg** | 33 | 6 | 8 | 19 | 42 | 68 | -26 | **26** |
-| 17 | 2025-26 German Bundesliga | **St. Pauli** | 33 | 6 | 8 | 19 | 28 | 57 | -29 | **26** |
-| 18 | 2025-26 German Bundesliga | **1. FC Heidenheim 1846** | 32 | 5 | 8 | 19 | 38 | 69 | -31 | **23** |
+| 17 | 2025-26 German Bundesliga | **1. FC Heidenheim 1846** | 33 | 6 | 8 | 19 | 41 | 70 | -29 | **26** |
+| 18 | 2025-26 German Bundesliga | **St. Pauli** | 33 | 6 | 8 | 19 | 28 | 57 | -29 | **26** |
 
 ---
 
@@ -492,24 +492,24 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-2026 Dutch Eredivisie | **PSV Eindhoven** | 32 | 25 | 3 | 4 | 92 | 43 | +49 | **78** |
-| 2 | 2025-2026 Dutch Eredivisie | **Feyenoord Rotterdam** | 32 | 18 | 7 | 7 | 67 | 43 | +24 | **61** |
-| 3 | 2025-2026 Dutch Eredivisie | **NEC Nijmegen** | 32 | 15 | 11 | 6 | 74 | 50 | +24 | **56** |
-| 4 | 2025-2026 Dutch Eredivisie | **Ajax Amsterdam** | 32 | 14 | 13 | 5 | 61 | 39 | +22 | **55** |
-| 5 | 2025-2026 Dutch Eredivisie | **FC Twente** | 32 | 14 | 13 | 5 | 54 | 35 | +19 | **55** |
-| 6 | 2025-2026 Dutch Eredivisie | **AZ Alkmaar** | 32 | 14 | 8 | 10 | 54 | 47 | +7 | **50** |
-| 7 | 2025-2026 Dutch Eredivisie | **Heerenveen** | 32 | 14 | 8 | 10 | 57 | 51 | +6 | **50** |
-| 8 | 2025-2026 Dutch Eredivisie | **FC Utrecht** | 32 | 13 | 8 | 11 | 51 | 41 | +10 | **47** |
-| 9 | 2025-2026 Dutch Eredivisie | **Sparta Rotterdam** | 32 | 12 | 7 | 13 | 38 | 55 | -17 | **43** |
-| 10 | 2025-2026 Dutch Eredivisie | **FC Groningen** | 32 | 12 | 6 | 14 | 45 | 43 | +2 | **42** |
-| 11 | 2025-2026 Dutch Eredivisie | **Go Ahead Eagles** | 32 | 8 | 14 | 10 | 52 | 47 | +5 | **38** |
-| 12 | 2025-2026 Dutch Eredivisie | **PEC Zwolle** | 32 | 9 | 10 | 13 | 42 | 66 | -24 | **37** |
-| 13 | 2025-2026 Dutch Eredivisie | **Fortuna Sittard** | 32 | 10 | 6 | 16 | 46 | 59 | -13 | **36** |
-| 14 | 2025-2026 Dutch Eredivisie | **Excelsior** | 32 | 9 | 7 | 16 | 39 | 53 | -14 | **34** |
-| 15 | 2025-2026 Dutch Eredivisie | **Telstar** | 32 | 7 | 10 | 15 | 44 | 54 | -10 | **31** |
-| 16 | 2025-2026 Dutch Eredivisie | **FC Volendam** | 32 | 8 | 7 | 17 | 33 | 52 | -19 | **31** |
-| 17 | 2025-2026 Dutch Eredivisie | **NAC Breda** | 32 | 5 | 10 | 17 | 30 | 55 | -25 | **25** |
-| 18 | 2025-2026 Dutch Eredivisie | **Heracles Almelo** | 32 | 5 | 4 | 23 | 34 | 80 | -46 | **19** |
+| 1 | 2025-2026 Dutch Eredivisie | **PSV Eindhoven** | 33 | 26 | 3 | 4 | 96 | 44 | +52 | **81** |
+| 2 | 2025-2026 Dutch Eredivisie | **Feyenoord Rotterdam** | 33 | 18 | 8 | 7 | 68 | 44 | +24 | **62** |
+| 3 | 2025-2026 Dutch Eredivisie | **FC Twente** | 33 | 15 | 13 | 5 | 58 | 35 | +23 | **58** |
+| 4 | 2025-2026 Dutch Eredivisie | **NEC Nijmegen** | 33 | 15 | 11 | 7 | 75 | 52 | +23 | **56** |
+| 5 | 2025-2026 Dutch Eredivisie | **Ajax Amsterdam** | 33 | 14 | 13 | 6 | 62 | 41 | +21 | **55** |
+| 6 | 2025-2026 Dutch Eredivisie | **AZ Alkmaar** | 33 | 14 | 9 | 10 | 55 | 48 | +7 | **51** |
+| 7 | 2025-2026 Dutch Eredivisie | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
+| 8 | 2025-2026 Dutch Eredivisie | **Heerenveen** | 33 | 14 | 8 | 11 | 57 | 53 | +4 | **50** |
+| 9 | 2025-2026 Dutch Eredivisie | **FC Groningen** | 33 | 13 | 6 | 14 | 47 | 44 | +3 | **45** |
+| 10 | 2025-2026 Dutch Eredivisie | **Sparta Rotterdam** | 33 | 12 | 7 | 14 | 38 | 59 | -21 | **43** |
+| 11 | 2025-2026 Dutch Eredivisie | **Fortuna Sittard** | 33 | 11 | 6 | 16 | 49 | 61 | -12 | **39** |
+| 12 | 2025-2026 Dutch Eredivisie | **Go Ahead Eagles** | 33 | 8 | 14 | 11 | 53 | 51 | +2 | **38** |
+| 13 | 2025-2026 Dutch Eredivisie | **PEC Zwolle** | 33 | 9 | 10 | 14 | 44 | 69 | -25 | **37** |
+| 14 | 2025-2026 Dutch Eredivisie | **Excelsior** | 33 | 9 | 8 | 16 | 40 | 54 | -14 | **35** |
+| 15 | 2025-2026 Dutch Eredivisie | **Telstar** | 33 | 8 | 10 | 15 | 47 | 54 | -7 | **34** |
+| 16 | 2025-2026 Dutch Eredivisie | **FC Volendam** | 33 | 8 | 8 | 17 | 34 | 53 | -19 | **32** |
+| 17 | 2025-2026 Dutch Eredivisie | **NAC Breda** | 33 | 6 | 10 | 17 | 32 | 55 | -23 | **28** |
+| 18 | 2025-2026 Dutch Eredivisie | **Heracles Almelo** | 33 | 5 | 4 | 24 | 34 | 83 | -49 | **19** |
 
 ---
 
