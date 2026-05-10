@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10 17:57:25 UTC",
-  "generated_at_iso": "2026-05-10T17:57:25.887067+00:00",
+  "generated_at": "2026-05-10 19:18:18 UTC",
+  "generated_at_iso": "2026-05-10T19:18:18.324213+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -483,16 +483,16 @@
           "group": "2025-26 LALIGA",
           "team": "Getafe",
           "abbreviation": "GET",
-          "played": 34,
+          "played": 35,
           "wins": 13,
-          "draws": 5,
+          "draws": 6,
           "losses": 16,
           "goals_for": 28,
           "goals_against": 36,
           "goal_difference": -8,
-          "points": 44,
+          "points": 45,
           "streak": {},
-          "record": "13-5-16"
+          "record": "13-6-16"
         },
         {
           "rank": 8,
@@ -691,16 +691,16 @@
           "group": "2025-26 LALIGA",
           "team": "Real Oviedo",
           "abbreviation": "OVI",
-          "played": 34,
+          "played": 35,
           "wins": 6,
-          "draws": 10,
+          "draws": 11,
           "losses": 18,
           "goals_for": 26,
           "goals_against": 54,
           "goal_difference": -28,
-          "points": 28,
+          "points": 29,
           "streak": {},
-          "record": "6-10-18"
+          "record": "6-11-18"
         }
       ]
     },
@@ -797,6 +797,22 @@
         {
           "rank": 5,
           "group": "2025-2026 Italian Serie A",
+          "team": "AS Roma",
+          "abbreviation": "ROMA",
+          "played": 36,
+          "wins": 21,
+          "draws": 4,
+          "losses": 11,
+          "goals_for": 55,
+          "goals_against": 31,
+          "goal_difference": 24,
+          "points": 67,
+          "streak": {},
+          "record": "21-4-11"
+        },
+        {
+          "rank": 6,
+          "group": "2025-2026 Italian Serie A",
           "team": "Como",
           "abbreviation": "COMO",
           "played": 36,
@@ -809,22 +825,6 @@
           "points": 65,
           "streak": {},
           "record": "18-11-7"
-        },
-        {
-          "rank": 6,
-          "group": "2025-2026 Italian Serie A",
-          "team": "AS Roma",
-          "abbreviation": "ROMA",
-          "played": 35,
-          "wins": 20,
-          "draws": 4,
-          "losses": 11,
-          "goals_for": 52,
-          "goals_against": 29,
-          "goal_difference": 23,
-          "points": 64,
-          "streak": {},
-          "record": "20-4-11"
         },
         {
           "rank": 7,
@@ -927,16 +927,16 @@
           "group": "2025-2026 Italian Serie A",
           "team": "Parma",
           "abbreviation": "PAR",
-          "played": 35,
+          "played": 36,
           "wins": 10,
           "draws": 12,
-          "losses": 13,
-          "goals_for": 25,
-          "goals_against": 42,
-          "goal_difference": -17,
+          "losses": 14,
+          "goals_for": 27,
+          "goals_against": 45,
+          "goal_difference": -18,
           "points": 42,
           "streak": {},
-          "record": "10-12-13"
+          "record": "10-12-14"
         },
         {
           "rank": 14,
@@ -2906,7 +2906,7 @@
         },
         "best_defence": {
           "team": "FC Porto",
-          "goals_against": 15
+          "goals_against": 18
         },
         "most_wins": {
           "team": "FC Porto",
@@ -2923,16 +2923,16 @@
           "group": "2025-2026 Portuguese Liga",
           "team": "FC Porto",
           "abbreviation": "FCP",
-          "played": 32,
+          "played": 33,
           "wins": 27,
           "draws": 4,
-          "losses": 1,
-          "goals_for": 64,
-          "goals_against": 15,
-          "goal_difference": 49,
+          "losses": 2,
+          "goals_for": 65,
+          "goals_against": 18,
+          "goal_difference": 47,
           "points": 85,
           "streak": {},
-          "record": "27-4-1"
+          "record": "27-4-2"
         },
         {
           "rank": 2,
@@ -3195,16 +3195,16 @@
           "group": "2025-2026 Portuguese Liga",
           "team": "AVS",
           "abbreviation": "AVS",
-          "played": 32,
-          "wins": 2,
+          "played": 33,
+          "wins": 3,
           "draws": 11,
           "losses": 19,
-          "goals_for": 24,
-          "goals_against": 66,
-          "goal_difference": -42,
-          "points": 17,
+          "goals_for": 27,
+          "goals_against": 67,
+          "goal_difference": -40,
+          "points": 20,
           "streak": {},
-          "record": "2-11-19"
+          "record": "3-11-19"
         }
       ]
     },
@@ -3333,6 +3333,22 @@
         {
           "rank": 7,
           "group": "2025-2026 Dutch Eredivisie",
+          "team": "Heerenveen",
+          "abbreviation": "HEE",
+          "played": 32,
+          "wins": 14,
+          "draws": 8,
+          "losses": 10,
+          "goals_for": 57,
+          "goals_against": 51,
+          "goal_difference": 6,
+          "points": 50,
+          "streak": {},
+          "record": "14-8-10"
+        },
+        {
+          "rank": 8,
+          "group": "2025-2026 Dutch Eredivisie",
           "team": "FC Utrecht",
           "abbreviation": "UTR",
           "played": 33,
@@ -3342,22 +3358,6 @@
           "goals_for": 53,
           "goals_against": 42,
           "goal_difference": 11,
-          "points": 50,
-          "streak": {},
-          "record": "14-8-11"
-        },
-        {
-          "rank": 8,
-          "group": "2025-2026 Dutch Eredivisie",
-          "team": "Heerenveen",
-          "abbreviation": "HEE",
-          "played": 33,
-          "wins": 14,
-          "draws": 8,
-          "losses": 11,
-          "goals_for": 57,
-          "goals_against": 53,
-          "goal_difference": 4,
           "points": 50,
           "streak": {},
           "record": "14-8-11"
@@ -3495,16 +3495,16 @@
           "group": "2025-2026 Dutch Eredivisie",
           "team": "NAC Breda",
           "abbreviation": "NAC",
-          "played": 33,
-          "wins": 6,
+          "played": 32,
+          "wins": 5,
           "draws": 10,
           "losses": 17,
-          "goals_for": 32,
+          "goals_for": 30,
           "goals_against": 55,
-          "goal_difference": -23,
-          "points": 28,
+          "goal_difference": -25,
+          "points": 25,
           "streak": {},
-          "record": "6-10-17"
+          "record": "5-10-17"
         },
         {
           "rank": 18,

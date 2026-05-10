@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 17:57:25 UTC
+> **Last updated:** 2026-05-10 19:18:18 UTC
 
 ---
 
@@ -151,7 +151,7 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 | Category | Team | Stat |
 |----------|------|------|
 | Best Attack | **Sporting CP** | 82 goals |
-| Best Defence | **FC Porto** | 15 goals conceded |
+| Best Defence | **FC Porto** | 18 goals conceded |
 | Most Wins | **FC Porto** | 27 wins |
 | Best GD | **Sporting CP** | +59 |
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 966 | 966 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 865 | 865 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8512 | 8512 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8519 | 8519 |
 
 ---
 
@@ -283,7 +283,7 @@ A breakdown of all leagues and teams by football confederation.
 | 4 | 2025-26 LALIGA | **Atlético Madrid** | 35 | 19 | 6 | 10 | 58 | 38 | +20 | **63** |
 | 5 | 2025-26 LALIGA | **Real Betis** | 35 | 13 | 15 | 7 | 54 | 43 | +11 | **54** |
 | 6 | 2025-26 LALIGA | **Celta Vigo** | 35 | 13 | 11 | 11 | 49 | 44 | +5 | **50** |
-| 7 | 2025-26 LALIGA | **Getafe** | 34 | 13 | 5 | 16 | 28 | 36 | -8 | **44** |
+| 7 | 2025-26 LALIGA | **Getafe** | 35 | 13 | 6 | 16 | 28 | 36 | -8 | **45** |
 | 8 | 2025-26 LALIGA | **Real Sociedad** | 35 | 11 | 11 | 13 | 54 | 55 | -1 | **44** |
 | 9 | 2025-26 LALIGA | **Athletic Club** | 35 | 13 | 5 | 17 | 40 | 51 | -11 | **44** |
 | 10 | 2025-26 LALIGA | **Osasuna** | 35 | 11 | 9 | 15 | 42 | 45 | -3 | **42** |
@@ -296,7 +296,7 @@ A breakdown of all leagues and teams by football confederation.
 | 17 | 2025-26 LALIGA | **Girona** | 34 | 9 | 11 | 14 | 36 | 51 | -15 | **38** |
 | 18 | 2025-26 LALIGA | **Alavés** | 35 | 9 | 10 | 16 | 41 | 54 | -13 | **37** |
 | 19 | 2025-26 LALIGA | **Levante** | 35 | 9 | 9 | 17 | 41 | 57 | -16 | **36** |
-| 20 | 2025-26 LALIGA | **Real Oviedo** | 34 | 6 | 10 | 18 | 26 | 54 | -28 | **28** |
+| 20 | 2025-26 LALIGA | **Real Oviedo** | 35 | 6 | 11 | 18 | 26 | 54 | -28 | **29** |
 
 ---
 
@@ -308,15 +308,15 @@ A breakdown of all leagues and teams by football confederation.
 | 2 | 2025-2026 Italian Serie A | **Napoli** | 35 | 21 | 7 | 7 | 52 | 33 | +19 | **70** |
 | 3 | 2025-2026 Italian Serie A | **Juventus** | 36 | 19 | 11 | 6 | 59 | 30 | +29 | **68** |
 | 4 | 2025-2026 Italian Serie A | **AC Milan** | 35 | 19 | 10 | 6 | 48 | 29 | +19 | **67** |
-| 5 | 2025-2026 Italian Serie A | **Como** | 36 | 18 | 11 | 7 | 60 | 28 | +32 | **65** |
-| 6 | 2025-2026 Italian Serie A | **AS Roma** | 35 | 20 | 4 | 11 | 52 | 29 | +23 | **64** |
+| 5 | 2025-2026 Italian Serie A | **AS Roma** | 36 | 21 | 4 | 11 | 55 | 31 | +24 | **67** |
+| 6 | 2025-2026 Italian Serie A | **Como** | 36 | 18 | 11 | 7 | 60 | 28 | +32 | **65** |
 | 7 | 2025-2026 Italian Serie A | **Atalanta** | 35 | 14 | 13 | 8 | 47 | 32 | +15 | **55** |
 | 8 | 2025-2026 Italian Serie A | **Lazio** | 36 | 13 | 12 | 11 | 39 | 37 | +2 | **51** |
 | 9 | 2025-2026 Italian Serie A | **Udinese** | 36 | 14 | 8 | 14 | 45 | 46 | -1 | **50** |
 | 10 | 2025-2026 Italian Serie A | **Bologna** | 35 | 14 | 7 | 14 | 42 | 41 | +1 | **49** |
 | 11 | 2025-2026 Italian Serie A | **Sassuolo** | 36 | 14 | 7 | 15 | 44 | 46 | -2 | **49** |
 | 12 | 2025-2026 Italian Serie A | **Torino** | 36 | 12 | 8 | 16 | 41 | 59 | -18 | **44** |
-| 13 | 2025-2026 Italian Serie A | **Parma** | 35 | 10 | 12 | 13 | 25 | 42 | -17 | **42** |
+| 13 | 2025-2026 Italian Serie A | **Parma** | 36 | 10 | 12 | 14 | 27 | 45 | -18 | **42** |
 | 14 | 2025-2026 Italian Serie A | **Genoa** | 36 | 10 | 11 | 15 | 40 | 48 | -8 | **41** |
 | 15 | 2025-2026 Italian Serie A | **Fiorentina** | 36 | 8 | 14 | 14 | 38 | 49 | -11 | **38** |
 | 16 | 2025-2026 Italian Serie A | **Cagliari** | 36 | 9 | 10 | 17 | 36 | 51 | -15 | **37** |
@@ -467,7 +467,7 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-2026 Portuguese Liga | **FC Porto** | 32 | 27 | 4 | 1 | 64 | 15 | +49 | **85** |
+| 1 | 2025-2026 Portuguese Liga | **FC Porto** | 33 | 27 | 4 | 2 | 65 | 18 | +47 | **85** |
 | 2 | 2025-2026 Portuguese Liga | **Benfica** | 32 | 22 | 10 | 0 | 69 | 22 | +47 | **76** |
 | 3 | 2025-2026 Portuguese Liga | **Sporting CP** | 32 | 23 | 7 | 2 | 82 | 23 | +59 | **76** |
 | 4 | 2025-2026 Portuguese Liga | **Braga** | 32 | 16 | 9 | 7 | 60 | 32 | +28 | **57** |
@@ -484,7 +484,7 @@ A breakdown of all leagues and teams by football confederation.
 | 15 | 2025-2026 Portuguese Liga | **Estrela** | 32 | 6 | 10 | 16 | 36 | 54 | -18 | **28** |
 | 16 | 2025-2026 Portuguese Liga | **Casa Pia** | 32 | 5 | 11 | 16 | 29 | 56 | -27 | **26** |
 | 17 | 2025-2026 Portuguese Liga | **Tondela** | 32 | 5 | 10 | 17 | 24 | 52 | -28 | **25** |
-| 18 | 2025-2026 Portuguese Liga | **AVS** | 32 | 2 | 11 | 19 | 24 | 66 | -42 | **17** |
+| 18 | 2025-2026 Portuguese Liga | **AVS** | 33 | 3 | 11 | 19 | 27 | 67 | -40 | **20** |
 
 ---
 
@@ -498,8 +498,8 @@ A breakdown of all leagues and teams by football confederation.
 | 4 | 2025-2026 Dutch Eredivisie | **NEC Nijmegen** | 33 | 15 | 11 | 7 | 75 | 52 | +23 | **56** |
 | 5 | 2025-2026 Dutch Eredivisie | **Ajax Amsterdam** | 33 | 14 | 13 | 6 | 62 | 41 | +21 | **55** |
 | 6 | 2025-2026 Dutch Eredivisie | **AZ Alkmaar** | 33 | 14 | 9 | 10 | 55 | 48 | +7 | **51** |
-| 7 | 2025-2026 Dutch Eredivisie | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
-| 8 | 2025-2026 Dutch Eredivisie | **Heerenveen** | 33 | 14 | 8 | 11 | 57 | 53 | +4 | **50** |
+| 7 | 2025-2026 Dutch Eredivisie | **Heerenveen** | 32 | 14 | 8 | 10 | 57 | 51 | +6 | **50** |
+| 8 | 2025-2026 Dutch Eredivisie | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
 | 9 | 2025-2026 Dutch Eredivisie | **FC Groningen** | 33 | 13 | 6 | 14 | 47 | 44 | +3 | **45** |
 | 10 | 2025-2026 Dutch Eredivisie | **Sparta Rotterdam** | 33 | 12 | 7 | 14 | 38 | 59 | -21 | **43** |
 | 11 | 2025-2026 Dutch Eredivisie | **Fortuna Sittard** | 33 | 11 | 6 | 16 | 49 | 61 | -12 | **39** |
@@ -508,7 +508,7 @@ A breakdown of all leagues and teams by football confederation.
 | 14 | 2025-2026 Dutch Eredivisie | **Excelsior** | 33 | 9 | 8 | 16 | 40 | 54 | -14 | **35** |
 | 15 | 2025-2026 Dutch Eredivisie | **Telstar** | 33 | 8 | 10 | 15 | 47 | 54 | -7 | **34** |
 | 16 | 2025-2026 Dutch Eredivisie | **FC Volendam** | 33 | 8 | 8 | 17 | 34 | 53 | -19 | **32** |
-| 17 | 2025-2026 Dutch Eredivisie | **NAC Breda** | 33 | 6 | 10 | 17 | 32 | 55 | -23 | **28** |
+| 17 | 2025-2026 Dutch Eredivisie | **NAC Breda** | 32 | 5 | 10 | 17 | 30 | 55 | -25 | **25** |
 | 18 | 2025-2026 Dutch Eredivisie | **Heracles Almelo** | 33 | 5 | 4 | 24 | 34 | 83 | -49 | **19** |
 
 ---
