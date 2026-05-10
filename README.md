@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-10 11:57:59 UTC
+> **Last updated:** 2026-05-10 13:49:53 UTC
 
 ---
 
@@ -183,10 +183,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Rangers** | 69 goals |
+| Best Attack | **Rangers** | 70 goals |
 | Best Defence | **Heart of Midlothian** | 31 goals conceded |
-| Most Wins | **Heart of Midlothian** | 23 wins |
-| Best GD | **Rangers** | +33 |
+| Most Wins | **Celtic** | 24 wins |
+| Best GD | **Heart of Midlothian** | +32 |
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 966 | 966 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 865 | 865 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8452 | 8452 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8457 | 8457 |
 
 ---
 
@@ -308,8 +308,8 @@ A breakdown of all leagues and teams by football confederation.
 | 2 | 2025-2026 Italian Serie A | **Napoli** | 35 | 21 | 7 | 7 | 52 | 33 | +19 | **70** |
 | 3 | 2025-2026 Italian Serie A | **Juventus** | 36 | 19 | 11 | 6 | 59 | 30 | +29 | **68** |
 | 4 | 2025-2026 Italian Serie A | **AC Milan** | 35 | 19 | 10 | 6 | 48 | 29 | +19 | **67** |
-| 5 | 2025-2026 Italian Serie A | **AS Roma** | 35 | 20 | 4 | 11 | 52 | 29 | +23 | **64** |
-| 6 | 2025-2026 Italian Serie A | **Como** | 35 | 17 | 11 | 7 | 59 | 28 | +31 | **62** |
+| 5 | 2025-2026 Italian Serie A | **Como** | 36 | 18 | 11 | 7 | 60 | 28 | +32 | **65** |
+| 6 | 2025-2026 Italian Serie A | **AS Roma** | 35 | 20 | 4 | 11 | 52 | 29 | +23 | **64** |
 | 7 | 2025-2026 Italian Serie A | **Atalanta** | 35 | 14 | 13 | 8 | 47 | 32 | +15 | **55** |
 | 8 | 2025-2026 Italian Serie A | **Lazio** | 36 | 13 | 12 | 11 | 39 | 37 | +2 | **51** |
 | 9 | 2025-2026 Italian Serie A | **Udinese** | 36 | 14 | 8 | 14 | 45 | 46 | -1 | **50** |
@@ -322,7 +322,7 @@ A breakdown of all leagues and teams by football confederation.
 | 16 | 2025-2026 Italian Serie A | **Cagliari** | 36 | 9 | 10 | 17 | 36 | 51 | -15 | **37** |
 | 17 | 2025-2026 Italian Serie A | **Lecce** | 36 | 8 | 8 | 20 | 24 | 48 | -24 | **32** |
 | 18 | 2025-2026 Italian Serie A | **Cremonese** | 35 | 6 | 10 | 19 | 27 | 53 | -26 | **28** |
-| 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 35 | 3 | 11 | 21 | 24 | 57 | -33 | **20** |
+| 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 36 | 3 | 11 | 22 | 24 | 58 | -34 | **20** |
 | 20 | 2025-2026 Italian Serie A | **Pisa** | 35 | 2 | 12 | 21 | 25 | 63 | -38 | **18** |
 
 ---
@@ -543,8 +543,8 @@ A breakdown of all leagues and teams by football confederation.
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
 | 1 | 2025-26 Scottish Premiership | **Heart of Midlothian** | 36 | 23 | 8 | 5 | 63 | 31 | +32 | **77** |
-| 2 | 2025-26 Scottish Premiership | **Celtic** | 35 | 23 | 4 | 8 | 64 | 37 | +27 | **73** |
-| 3 | 2025-26 Scottish Premiership | **Rangers** | 35 | 19 | 12 | 4 | 69 | 36 | +33 | **69** |
+| 2 | 2025-26 Scottish Premiership | **Celtic** | 36 | 24 | 4 | 8 | 67 | 38 | +29 | **76** |
+| 3 | 2025-26 Scottish Premiership | **Rangers** | 36 | 19 | 12 | 5 | 70 | 39 | +31 | **69** |
 | 4 | 2025-26 Scottish Premiership | **Motherwell** | 36 | 15 | 13 | 8 | 56 | 33 | +23 | **58** |
 | 5 | 2025-26 Scottish Premiership | **Hibernian** | 36 | 14 | 12 | 10 | 56 | 42 | +14 | **54** |
 | 6 | 2025-26 Scottish Premiership | **Falkirk** | 36 | 14 | 7 | 15 | 48 | 54 | -6 | **49** |

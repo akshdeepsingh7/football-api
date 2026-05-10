@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10 11:57:59 UTC",
-  "generated_at_iso": "2026-05-10T11:57:59.218920+00:00",
+  "generated_at": "2026-05-10 13:49:53 UTC",
+  "generated_at_iso": "2026-05-10T13:49:53.581741+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -797,6 +797,22 @@
         {
           "rank": 5,
           "group": "2025-2026 Italian Serie A",
+          "team": "Como",
+          "abbreviation": "COMO",
+          "played": 36,
+          "wins": 18,
+          "draws": 11,
+          "losses": 7,
+          "goals_for": 60,
+          "goals_against": 28,
+          "goal_difference": 32,
+          "points": 65,
+          "streak": {},
+          "record": "18-11-7"
+        },
+        {
+          "rank": 6,
+          "group": "2025-2026 Italian Serie A",
           "team": "AS Roma",
           "abbreviation": "ROMA",
           "played": 35,
@@ -809,22 +825,6 @@
           "points": 64,
           "streak": {},
           "record": "20-4-11"
-        },
-        {
-          "rank": 6,
-          "group": "2025-2026 Italian Serie A",
-          "team": "Como",
-          "abbreviation": "COMO",
-          "played": 35,
-          "wins": 17,
-          "draws": 11,
-          "losses": 7,
-          "goals_for": 59,
-          "goals_against": 28,
-          "goal_difference": 31,
-          "points": 62,
-          "streak": {},
-          "record": "17-11-7"
         },
         {
           "rank": 7,
@@ -1023,16 +1023,16 @@
           "group": "2025-2026 Italian Serie A",
           "team": "Hellas Verona",
           "abbreviation": "VER",
-          "played": 35,
+          "played": 36,
           "wins": 3,
           "draws": 11,
-          "losses": 21,
+          "losses": 22,
           "goals_for": 24,
-          "goals_against": 57,
-          "goal_difference": -33,
+          "goals_against": 58,
+          "goal_difference": -34,
           "points": 20,
           "streak": {},
-          "record": "3-11-21"
+          "record": "3-11-22"
         },
         {
           "rank": 20,
@@ -3850,19 +3850,19 @@
       "top_performers": {
         "best_attack": {
           "team": "Rangers",
-          "goals_for": 69
+          "goals_for": 70
         },
         "best_defence": {
           "team": "Heart of Midlothian",
           "goals_against": 31
         },
         "most_wins": {
-          "team": "Heart of Midlothian",
-          "wins": 23
+          "team": "Celtic",
+          "wins": 24
         },
         "best_goal_difference": {
-          "team": "Rangers",
-          "goal_difference": 33
+          "team": "Heart of Midlothian",
+          "goal_difference": 32
         }
       },
       "teams": [
@@ -3887,32 +3887,32 @@
           "group": "2025-26 Scottish Premiership",
           "team": "Celtic",
           "abbreviation": "CEL",
-          "played": 35,
-          "wins": 23,
+          "played": 36,
+          "wins": 24,
           "draws": 4,
           "losses": 8,
-          "goals_for": 64,
-          "goals_against": 37,
-          "goal_difference": 27,
-          "points": 73,
+          "goals_for": 67,
+          "goals_against": 38,
+          "goal_difference": 29,
+          "points": 76,
           "streak": {},
-          "record": "23-4-8"
+          "record": "24-4-8"
         },
         {
           "rank": 3,
           "group": "2025-26 Scottish Premiership",
           "team": "Rangers",
           "abbreviation": "RAN",
-          "played": 35,
+          "played": 36,
           "wins": 19,
           "draws": 12,
-          "losses": 4,
-          "goals_for": 69,
-          "goals_against": 36,
-          "goal_difference": 33,
+          "losses": 5,
+          "goals_for": 70,
+          "goals_against": 39,
+          "goal_difference": 31,
           "points": 69,
           "streak": {},
-          "record": "19-12-4"
+          "record": "19-12-5"
         },
         {
           "rank": 4,
