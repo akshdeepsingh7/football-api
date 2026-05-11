@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11 11:43:32 UTC",
-  "generated_at_iso": "2026-05-11T11:43:32.888032+00:00",
+  "generated_at": "2026-05-11 15:30:41 UTC",
+  "generated_at_iso": "2026-05-11T15:30:41.709204+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -3333,22 +3333,6 @@
         {
           "rank": 7,
           "group": "2025-2026 Dutch Eredivisie",
-          "team": "Heerenveen",
-          "abbreviation": "HEE",
-          "played": 32,
-          "wins": 14,
-          "draws": 8,
-          "losses": 10,
-          "goals_for": 57,
-          "goals_against": 51,
-          "goal_difference": 6,
-          "points": 50,
-          "streak": {},
-          "record": "14-8-10"
-        },
-        {
-          "rank": 8,
-          "group": "2025-2026 Dutch Eredivisie",
           "team": "FC Utrecht",
           "abbreviation": "UTR",
           "played": 33,
@@ -3358,6 +3342,22 @@
           "goals_for": 53,
           "goals_against": 42,
           "goal_difference": 11,
+          "points": 50,
+          "streak": {},
+          "record": "14-8-11"
+        },
+        {
+          "rank": 8,
+          "group": "2025-2026 Dutch Eredivisie",
+          "team": "Heerenveen",
+          "abbreviation": "HEE",
+          "played": 33,
+          "wins": 14,
+          "draws": 8,
+          "losses": 11,
+          "goals_for": 57,
+          "goals_against": 53,
+          "goal_difference": 4,
           "points": 50,
           "streak": {},
           "record": "14-8-11"
@@ -3495,16 +3495,16 @@
           "group": "2025-2026 Dutch Eredivisie",
           "team": "NAC Breda",
           "abbreviation": "NAC",
-          "played": 32,
-          "wins": 5,
+          "played": 33,
+          "wins": 6,
           "draws": 10,
           "losses": 17,
-          "goals_for": 30,
+          "goals_for": 32,
           "goals_against": 55,
-          "goal_difference": -25,
-          "points": 25,
+          "goal_difference": -23,
+          "points": 28,
           "streak": {},
-          "record": "5-10-17"
+          "record": "6-10-17"
         },
         {
           "rank": 18,
@@ -3697,22 +3697,6 @@
         {
           "rank": 10,
           "group": "2025/2026 Turkish Super Lig",
-          "team": "Alanyaspor",
-          "abbreviation": "ALA",
-          "played": 33,
-          "wins": 7,
-          "draws": 16,
-          "losses": 10,
-          "goals_for": 40,
-          "goals_against": 39,
-          "goal_difference": 1,
-          "points": 37,
-          "streak": {},
-          "record": "7-16-10"
-        },
-        {
-          "rank": 11,
-          "group": "2025/2026 Turkish Super Lig",
           "team": "Kocaelispor",
           "abbreviation": "KOC",
           "played": 33,
@@ -3725,6 +3709,22 @@
           "points": 37,
           "streak": {},
           "record": "9-10-14"
+        },
+        {
+          "rank": 11,
+          "group": "2025/2026 Turkish Super Lig",
+          "team": "Alanyaspor",
+          "abbreviation": "ALA",
+          "played": 33,
+          "wins": 7,
+          "draws": 16,
+          "losses": 10,
+          "goals_for": 40,
+          "goals_against": 39,
+          "goal_difference": 1,
+          "points": 37,
+          "streak": {},
+          "record": "7-16-10"
         },
         {
           "rank": 12,
@@ -3809,22 +3809,6 @@
         {
           "rank": 17,
           "group": "2025/2026 Turkish Super Lig",
-          "team": "Fatih Karagümrük",
-          "abbreviation": "KAR",
-          "played": 33,
-          "wins": 7,
-          "draws": 6,
-          "losses": 20,
-          "goals_for": 29,
-          "goals_against": 53,
-          "goal_difference": -24,
-          "points": 27,
-          "streak": {},
-          "record": "7-6-20"
-        },
-        {
-          "rank": 18,
-          "group": "2025/2026 Turkish Super Lig",
           "team": "Kayserispor",
           "abbreviation": "KAY",
           "played": 33,
@@ -3837,6 +3821,22 @@
           "points": 27,
           "streak": {},
           "record": "5-12-16"
+        },
+        {
+          "rank": 18,
+          "group": "2025/2026 Turkish Super Lig",
+          "team": "Fatih Karagümrük",
+          "abbreviation": "KAR",
+          "played": 33,
+          "wins": 7,
+          "draws": 6,
+          "losses": 20,
+          "goals_for": 29,
+          "goals_against": 53,
+          "goal_difference": -24,
+          "points": 27,
+          "streak": {},
+          "record": "7-6-20"
         }
       ]
     },

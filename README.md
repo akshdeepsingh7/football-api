@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-11 11:43:32 UTC
+> **Last updated:** 2026-05-11 15:30:41 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 978 | 978 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 880 | 880 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8550 | 8550 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8552 | 8552 |
 
 ---
 
@@ -498,8 +498,8 @@ A breakdown of all leagues and teams by football confederation.
 | 4 | 2025-2026 Dutch Eredivisie | **NEC Nijmegen** | 33 | 15 | 11 | 7 | 75 | 52 | +23 | **56** |
 | 5 | 2025-2026 Dutch Eredivisie | **Ajax Amsterdam** | 33 | 14 | 13 | 6 | 62 | 41 | +21 | **55** |
 | 6 | 2025-2026 Dutch Eredivisie | **AZ Alkmaar** | 33 | 14 | 9 | 10 | 55 | 48 | +7 | **51** |
-| 7 | 2025-2026 Dutch Eredivisie | **Heerenveen** | 32 | 14 | 8 | 10 | 57 | 51 | +6 | **50** |
-| 8 | 2025-2026 Dutch Eredivisie | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
+| 7 | 2025-2026 Dutch Eredivisie | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
+| 8 | 2025-2026 Dutch Eredivisie | **Heerenveen** | 33 | 14 | 8 | 11 | 57 | 53 | +4 | **50** |
 | 9 | 2025-2026 Dutch Eredivisie | **FC Groningen** | 33 | 13 | 6 | 14 | 47 | 44 | +3 | **45** |
 | 10 | 2025-2026 Dutch Eredivisie | **Sparta Rotterdam** | 33 | 12 | 7 | 14 | 38 | 59 | -21 | **43** |
 | 11 | 2025-2026 Dutch Eredivisie | **Fortuna Sittard** | 33 | 11 | 6 | 16 | 49 | 61 | -12 | **39** |
@@ -508,7 +508,7 @@ A breakdown of all leagues and teams by football confederation.
 | 14 | 2025-2026 Dutch Eredivisie | **Excelsior** | 33 | 9 | 8 | 16 | 40 | 54 | -14 | **35** |
 | 15 | 2025-2026 Dutch Eredivisie | **Telstar** | 33 | 8 | 10 | 15 | 47 | 54 | -7 | **34** |
 | 16 | 2025-2026 Dutch Eredivisie | **FC Volendam** | 33 | 8 | 8 | 17 | 34 | 53 | -19 | **32** |
-| 17 | 2025-2026 Dutch Eredivisie | **NAC Breda** | 32 | 5 | 10 | 17 | 30 | 55 | -25 | **25** |
+| 17 | 2025-2026 Dutch Eredivisie | **NAC Breda** | 33 | 6 | 10 | 17 | 32 | 55 | -23 | **28** |
 | 18 | 2025-2026 Dutch Eredivisie | **Heracles Almelo** | 33 | 5 | 4 | 24 | 34 | 83 | -49 | **19** |
 
 ---
@@ -526,15 +526,15 @@ A breakdown of all leagues and teams by football confederation.
 | 7 | 2025/2026 Turkish Super Lig | **Samsunspor** | 33 | 12 | 12 | 9 | 43 | 45 | -2 | **48** |
 | 8 | 2025/2026 Turkish Super Lig | **Caykur Rizespor** | 33 | 10 | 10 | 13 | 44 | 50 | -6 | **40** |
 | 9 | 2025/2026 Turkish Super Lig | **Konyaspor** | 33 | 10 | 10 | 13 | 42 | 48 | -6 | **40** |
-| 10 | 2025/2026 Turkish Super Lig | **Alanyaspor** | 33 | 7 | 16 | 10 | 40 | 39 | +1 | **37** |
-| 11 | 2025/2026 Turkish Super Lig | **Kocaelispor** | 33 | 9 | 10 | 14 | 26 | 37 | -11 | **37** |
+| 10 | 2025/2026 Turkish Super Lig | **Kocaelispor** | 33 | 9 | 10 | 14 | 26 | 37 | -11 | **37** |
+| 11 | 2025/2026 Turkish Super Lig | **Alanyaspor** | 33 | 7 | 16 | 10 | 40 | 39 | +1 | **37** |
 | 12 | 2025/2026 Turkish Super Lig | **Gaziantep FK** | 33 | 9 | 10 | 14 | 42 | 56 | -14 | **37** |
 | 13 | 2025/2026 Turkish Super Lig | **Eyupspor** | 33 | 8 | 8 | 17 | 30 | 45 | -15 | **32** |
 | 14 | 2025/2026 Turkish Super Lig | **Kasimpasa** | 33 | 7 | 11 | 15 | 32 | 49 | -17 | **32** |
 | 15 | 2025/2026 Turkish Super Lig | **Genclerbirligi** | 33 | 8 | 7 | 18 | 33 | 47 | -14 | **31** |
 | 16 | 2025/2026 Turkish Super Lig | **Antalyaspor** | 33 | 7 | 8 | 18 | 32 | 55 | -23 | **29** |
-| 17 | 2025/2026 Turkish Super Lig | **Fatih Karagümrük** | 33 | 7 | 6 | 20 | 29 | 53 | -24 | **27** |
-| 18 | 2025/2026 Turkish Super Lig | **Kayserispor** | 33 | 5 | 12 | 16 | 25 | 61 | -36 | **27** |
+| 17 | 2025/2026 Turkish Super Lig | **Kayserispor** | 33 | 5 | 12 | 16 | 25 | 61 | -36 | **27** |
+| 18 | 2025/2026 Turkish Super Lig | **Fatih Karagümrük** | 33 | 7 | 6 | 20 | 29 | 53 | -24 | **27** |
 
 ---
 
