@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-12 20:16:52 UTC
+> **Last updated:** 2026-05-12 21:51:45 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 978 | 978 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 880 | 880 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8579 | 8579 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8596 | 8596 |
 
 ---
 
@@ -280,22 +280,22 @@ A breakdown of all leagues and teams by football confederation.
 | 1 | 2025-26 LALIGA | **Barcelona** | 35 | 30 | 1 | 4 | 91 | 31 | +60 | **91** |
 | 2 | 2025-26 LALIGA | **Real Madrid** | 35 | 24 | 5 | 6 | 70 | 33 | +37 | **77** |
 | 3 | 2025-26 LALIGA | **Villarreal** | 35 | 21 | 6 | 8 | 65 | 40 | +25 | **69** |
-| 4 | 2025-26 LALIGA | **Atlético Madrid** | 35 | 19 | 6 | 10 | 58 | 38 | +20 | **63** |
-| 5 | 2025-26 LALIGA | **Real Betis** | 35 | 13 | 15 | 7 | 54 | 43 | +11 | **54** |
-| 6 | 2025-26 LALIGA | **Celta Vigo** | 35 | 13 | 11 | 11 | 49 | 44 | +5 | **50** |
+| 4 | 2025-26 LALIGA | **Atlético Madrid** | 36 | 20 | 6 | 10 | 60 | 39 | +21 | **66** |
+| 5 | 2025-26 LALIGA | **Real Betis** | 36 | 14 | 15 | 7 | 56 | 44 | +12 | **57** |
+| 6 | 2025-26 LALIGA | **Celta Vigo** | 36 | 13 | 11 | 12 | 51 | 47 | +4 | **50** |
 | 7 | 2025-26 LALIGA | **Getafe** | 35 | 13 | 6 | 16 | 28 | 36 | -8 | **45** |
 | 8 | 2025-26 LALIGA | **Real Sociedad** | 35 | 11 | 11 | 13 | 54 | 55 | -1 | **44** |
 | 9 | 2025-26 LALIGA | **Athletic Club** | 35 | 13 | 5 | 17 | 40 | 51 | -11 | **44** |
 | 10 | 2025-26 LALIGA | **Rayo Vallecano** | 35 | 10 | 13 | 12 | 36 | 42 | -6 | **43** |
-| 11 | 2025-26 LALIGA | **Osasuna** | 35 | 11 | 9 | 15 | 42 | 45 | -3 | **42** |
+| 11 | 2025-26 LALIGA | **Osasuna** | 36 | 11 | 9 | 16 | 43 | 47 | -4 | **42** |
 | 12 | 2025-26 LALIGA | **Valencia** | 35 | 11 | 9 | 15 | 38 | 50 | -12 | **42** |
 | 13 | 2025-26 LALIGA | **Sevilla** | 35 | 11 | 7 | 17 | 43 | 56 | -13 | **40** |
-| 14 | 2025-26 LALIGA | **Elche** | 35 | 9 | 12 | 14 | 46 | 54 | -8 | **39** |
+| 14 | 2025-26 LALIGA | **Elche** | 36 | 9 | 12 | 15 | 47 | 56 | -9 | **39** |
 | 15 | 2025-26 LALIGA | **Mallorca** | 35 | 10 | 9 | 16 | 43 | 52 | -9 | **39** |
-| 16 | 2025-26 LALIGA | **Espanyol** | 35 | 10 | 9 | 16 | 38 | 53 | -15 | **39** |
-| 17 | 2025-26 LALIGA | **Girona** | 35 | 9 | 12 | 14 | 37 | 52 | -15 | **39** |
-| 18 | 2025-26 LALIGA | **Alavés** | 35 | 9 | 10 | 16 | 41 | 54 | -13 | **37** |
-| 19 | 2025-26 LALIGA | **Levante** | 35 | 9 | 9 | 17 | 41 | 57 | -16 | **36** |
+| 16 | 2025-26 LALIGA | **Levante** | 36 | 10 | 9 | 17 | 44 | 59 | -15 | **39** |
+| 17 | 2025-26 LALIGA | **Espanyol** | 35 | 10 | 9 | 16 | 38 | 53 | -15 | **39** |
+| 18 | 2025-26 LALIGA | **Girona** | 35 | 9 | 12 | 14 | 37 | 52 | -15 | **39** |
+| 19 | 2025-26 LALIGA | **Alavés** | 35 | 9 | 10 | 16 | 41 | 54 | -13 | **37** |
 | 20 | 2025-26 LALIGA | **Real Oviedo** | 35 | 6 | 11 | 18 | 26 | 54 | -28 | **29** |
 
 ---
@@ -548,12 +548,12 @@ A breakdown of all leagues and teams by football confederation.
 | 4 | 2025-26 Scottish Premiership | **Motherwell** | 36 | 15 | 13 | 8 | 56 | 33 | +23 | **58** |
 | 5 | 2025-26 Scottish Premiership | **Hibernian** | 36 | 14 | 12 | 10 | 56 | 42 | +14 | **54** |
 | 6 | 2025-26 Scottish Premiership | **Falkirk** | 36 | 14 | 7 | 15 | 48 | 54 | -6 | **49** |
-| 7 | 2025-26 Scottish Premiership | **Dundee United** | 36 | 10 | 13 | 13 | 48 | 59 | -11 | **43** |
-| 8 | 2025-26 Scottish Premiership | **Aberdeen** | 36 | 11 | 7 | 18 | 38 | 50 | -12 | **40** |
-| 9 | 2025-26 Scottish Premiership | **Dundee** | 36 | 10 | 9 | 17 | 38 | 56 | -18 | **39** |
-| 10 | 2025-26 Scottish Premiership | **Kilmarnock** | 36 | 8 | 10 | 18 | 43 | 66 | -23 | **34** |
-| 11 | 2025-26 Scottish Premiership | **St Mirren** | 36 | 7 | 9 | 20 | 27 | 54 | -27 | **30** |
-| 12 | 2025-26 Scottish Premiership | **Livingston** | 36 | 2 | 14 | 20 | 39 | 71 | -32 | **20** |
+| 7 | 2025-26 Scottish Premiership | **Dundee United** | 37 | 10 | 14 | 13 | 48 | 59 | -11 | **44** |
+| 8 | 2025-26 Scottish Premiership | **Aberdeen** | 37 | 11 | 7 | 19 | 38 | 52 | -14 | **40** |
+| 9 | 2025-26 Scottish Premiership | **Dundee** | 37 | 10 | 9 | 18 | 39 | 59 | -20 | **39** |
+| 10 | 2025-26 Scottish Premiership | **Kilmarnock** | 37 | 9 | 10 | 18 | 46 | 67 | -21 | **37** |
+| 11 | 2025-26 Scottish Premiership | **St Mirren** | 37 | 8 | 9 | 20 | 29 | 54 | -25 | **33** |
+| 12 | 2025-26 Scottish Premiership | **Livingston** | 37 | 2 | 15 | 20 | 39 | 71 | -32 | **21** |
 
 ---
 
