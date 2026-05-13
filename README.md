@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-13 20:20:38 UTC
+> **Last updated:** 2026-05-13 21:55:25 UTC
 
 ---
 
@@ -51,13 +51,13 @@
 | **Spanish La Liga** | Spain | UEFA | 20 | **Barcelona** | 91 |
 | **Italian Serie A** | Italy | UEFA | 20 | **Internazionale** | 85 |
 | **German Bundesliga** | Germany | UEFA | 18 | **Bayern Munich** | 86 |
-| **French Ligue 1** | France | UEFA | 18 | **Paris Saint-Germain** | 73 |
+| **French Ligue 1** | France | UEFA | 18 | **Paris Saint-Germain** | 76 |
 | **UEFA Champions League** | Europe | UEFA | 36 | **Arsenal** | 24 |
 | **UEFA Europa League** | Europe | UEFA | 36 | **Lyon** | 21 |
 | **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **FC Porto** | 85 |
 | **Dutch Eredivisie** | Netherlands | UEFA | 18 | **PSV Eindhoven** | 81 |
 | **Turkish Super Lig** | Turkey | UEFA | 18 | **Galatasaray** | 77 |
-| **Scottish Premiership** | Scotland | UEFA | 12 | **Heart of Midlothian** | 77 |
+| **Scottish Premiership** | Scotland | UEFA | 12 | **Heart of Midlothian** | 80 |
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 17 |
 | **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 34 |
 | **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Boca Juniors** | 30 |
@@ -73,10 +73,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Manchester City** | 72 goals |
+| Best Attack | **Manchester City** | 75 goals |
 | Best Defence | **Arsenal** | 26 goals conceded |
 | Most Wins | **Arsenal** | 24 wins |
-| Best GD | **Arsenal** | +42 |
+| Best GD | **Manchester City** | +43 |
 
 ---
 
@@ -85,9 +85,9 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 | Category | Team | Stat |
 |----------|------|------|
 | Best Attack | **Barcelona** | 91 goals |
-| Best Defence | **Barcelona** | 31 goals conceded |
+| Best Defence | **Barcelona** | 32 goals conceded |
 | Most Wins | **Barcelona** | 30 wins |
-| Best GD | **Barcelona** | +60 |
+| Best GD | **Barcelona** | +59 |
 
 ---
 
@@ -117,10 +117,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Paris Saint-Germain** | 71 goals |
+| Best Attack | **Paris Saint-Germain** | 73 goals |
 | Best Defence | **Paris Saint-Germain** | 27 goals conceded |
-| Most Wins | **Paris Saint-Germain** | 23 wins |
-| Best GD | **Paris Saint-Germain** | +44 |
+| Most Wins | **Paris Saint-Germain** | 24 wins |
+| Best GD | **Paris Saint-Germain** | +46 |
 
 ---
 
@@ -183,10 +183,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Rangers** | 70 goals |
+| Best Attack | **Rangers** | 71 goals |
 | Best Defence | **Heart of Midlothian** | 31 goals conceded |
-| Most Wins | **Celtic** | 24 wins |
-| Best GD | **Heart of Midlothian** | +32 |
+| Most Wins | **Celtic** | 25 wins |
+| Best GD | **Heart of Midlothian** | +35 |
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 978 | 978 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 880 | 880 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8606 | 8606 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8627 | 8627 |
 
 ---
 
@@ -251,7 +251,7 @@ A breakdown of all leagues and teams by football confederation.
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
 | 1 | English Premier League 2025-2026 | **Arsenal** | 36 | 24 | 7 | 5 | 68 | 26 | +42 | **79** |
-| 2 | English Premier League 2025-2026 | **Manchester City** | 35 | 22 | 8 | 5 | 72 | 32 | +40 | **74** |
+| 2 | English Premier League 2025-2026 | **Manchester City** | 36 | 23 | 8 | 5 | 75 | 32 | +43 | **77** |
 | 3 | English Premier League 2025-2026 | **Manchester United** | 36 | 18 | 11 | 7 | 63 | 48 | +15 | **65** |
 | 4 | English Premier League 2025-2026 | **Liverpool** | 36 | 17 | 8 | 11 | 60 | 48 | +12 | **59** |
 | 5 | English Premier League 2025-2026 | **Aston Villa** | 36 | 17 | 8 | 11 | 50 | 46 | +4 | **59** |
@@ -264,7 +264,7 @@ A breakdown of all leagues and teams by football confederation.
 | 12 | English Premier League 2025-2026 | **Sunderland** | 36 | 12 | 12 | 12 | 37 | 46 | -9 | **48** |
 | 13 | English Premier League 2025-2026 | **Newcastle United** | 36 | 13 | 7 | 16 | 50 | 52 | -2 | **46** |
 | 14 | English Premier League 2025-2026 | **Leeds United** | 36 | 10 | 14 | 12 | 48 | 53 | -5 | **44** |
-| 15 | English Premier League 2025-2026 | **Crystal Palace** | 35 | 11 | 11 | 13 | 38 | 44 | -6 | **44** |
+| 15 | English Premier League 2025-2026 | **Crystal Palace** | 36 | 11 | 11 | 14 | 38 | 47 | -9 | **44** |
 | 16 | English Premier League 2025-2026 | **Nottingham Forest** | 36 | 11 | 10 | 15 | 45 | 47 | -2 | **43** |
 | 17 | English Premier League 2025-2026 | **Tottenham Hotspur** | 36 | 9 | 11 | 16 | 46 | 55 | -9 | **38** |
 | 18 | English Premier League 2025-2026 | **West Ham United** | 36 | 9 | 9 | 18 | 42 | 62 | -20 | **36** |
@@ -277,13 +277,13 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-26 LALIGA | **Barcelona** | 35 | 30 | 1 | 4 | 91 | 31 | +60 | **91** |
+| 1 | 2025-26 LALIGA | **Barcelona** | 36 | 30 | 1 | 5 | 91 | 32 | +59 | **91** |
 | 2 | 2025-26 LALIGA | **Real Madrid** | 35 | 24 | 5 | 6 | 70 | 33 | +37 | **77** |
 | 3 | 2025-26 LALIGA | **Villarreal** | 36 | 21 | 6 | 9 | 67 | 43 | +24 | **69** |
 | 4 | 2025-26 LALIGA | **Atlético Madrid** | 36 | 20 | 6 | 10 | 60 | 39 | +21 | **66** |
 | 5 | 2025-26 LALIGA | **Real Betis** | 36 | 14 | 15 | 7 | 56 | 44 | +12 | **57** |
 | 6 | 2025-26 LALIGA | **Celta Vigo** | 36 | 13 | 11 | 12 | 51 | 47 | +4 | **50** |
-| 7 | 2025-26 LALIGA | **Getafe** | 35 | 13 | 6 | 16 | 28 | 36 | -8 | **45** |
+| 7 | 2025-26 LALIGA | **Getafe** | 36 | 14 | 6 | 16 | 31 | 37 | -6 | **48** |
 | 8 | 2025-26 LALIGA | **Real Sociedad** | 35 | 11 | 11 | 13 | 54 | 55 | -1 | **44** |
 | 9 | 2025-26 LALIGA | **Athletic Club** | 36 | 13 | 5 | 18 | 40 | 53 | -13 | **44** |
 | 10 | 2025-26 LALIGA | **Sevilla** | 36 | 12 | 7 | 17 | 46 | 58 | -12 | **43** |
@@ -291,11 +291,11 @@ A breakdown of all leagues and teams by football confederation.
 | 12 | 2025-26 LALIGA | **Osasuna** | 36 | 11 | 9 | 16 | 43 | 47 | -4 | **42** |
 | 13 | 2025-26 LALIGA | **Valencia** | 35 | 11 | 9 | 15 | 38 | 50 | -12 | **42** |
 | 14 | 2025-26 LALIGA | **Espanyol** | 36 | 11 | 9 | 16 | 40 | 53 | -13 | **42** |
-| 15 | 2025-26 LALIGA | **Elche** | 36 | 9 | 12 | 15 | 47 | 56 | -9 | **39** |
-| 16 | 2025-26 LALIGA | **Mallorca** | 35 | 10 | 9 | 16 | 43 | 52 | -9 | **39** |
-| 17 | 2025-26 LALIGA | **Levante** | 36 | 10 | 9 | 17 | 44 | 59 | -15 | **39** |
-| 18 | 2025-26 LALIGA | **Girona** | 35 | 9 | 12 | 14 | 37 | 52 | -15 | **39** |
-| 19 | 2025-26 LALIGA | **Alavés** | 35 | 9 | 10 | 16 | 41 | 54 | -13 | **37** |
+| 15 | 2025-26 LALIGA | **Alavés** | 36 | 10 | 10 | 16 | 42 | 54 | -12 | **40** |
+| 16 | 2025-26 LALIGA | **Elche** | 36 | 9 | 12 | 15 | 47 | 56 | -9 | **39** |
+| 17 | 2025-26 LALIGA | **Mallorca** | 36 | 10 | 9 | 17 | 44 | 55 | -11 | **39** |
+| 18 | 2025-26 LALIGA | **Levante** | 36 | 10 | 9 | 17 | 44 | 59 | -15 | **39** |
+| 19 | 2025-26 LALIGA | **Girona** | 35 | 9 | 12 | 14 | 37 | 52 | -15 | **39** |
 | 20 | 2025-26 LALIGA | **Real Oviedo** | 35 | 6 | 11 | 18 | 26 | 54 | -28 | **29** |
 
 ---
@@ -356,8 +356,8 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | French Ligue 1 2025-26 | **Paris Saint-Germain** | 32 | 23 | 4 | 5 | 71 | 27 | +44 | **73** |
-| 2 | French Ligue 1 2025-26 | **Lens** | 32 | 21 | 4 | 7 | 62 | 33 | +29 | **67** |
+| 1 | French Ligue 1 2025-26 | **Paris Saint-Germain** | 33 | 24 | 4 | 5 | 73 | 27 | +46 | **76** |
+| 2 | French Ligue 1 2025-26 | **Lens** | 33 | 21 | 4 | 8 | 62 | 35 | +27 | **67** |
 | 3 | French Ligue 1 2025-26 | **Lille** | 33 | 18 | 7 | 8 | 52 | 35 | +17 | **61** |
 | 4 | French Ligue 1 2025-26 | **Lyon** | 33 | 18 | 6 | 9 | 53 | 36 | +17 | **60** |
 | 5 | French Ligue 1 2025-26 | **Stade Rennais** | 33 | 17 | 8 | 8 | 58 | 47 | +11 | **59** |
@@ -542,12 +542,12 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-26 Scottish Premiership | **Heart of Midlothian** | 36 | 23 | 8 | 5 | 63 | 31 | +32 | **77** |
-| 2 | 2025-26 Scottish Premiership | **Celtic** | 36 | 24 | 4 | 8 | 67 | 38 | +29 | **76** |
-| 3 | 2025-26 Scottish Premiership | **Rangers** | 36 | 19 | 12 | 5 | 70 | 39 | +31 | **69** |
-| 4 | 2025-26 Scottish Premiership | **Motherwell** | 36 | 15 | 13 | 8 | 56 | 33 | +23 | **58** |
-| 5 | 2025-26 Scottish Premiership | **Hibernian** | 36 | 14 | 12 | 10 | 56 | 42 | +14 | **54** |
-| 6 | 2025-26 Scottish Premiership | **Falkirk** | 36 | 14 | 7 | 15 | 48 | 54 | -6 | **49** |
+| 1 | 2025-26 Scottish Premiership | **Heart of Midlothian** | 37 | 24 | 8 | 5 | 66 | 31 | +35 | **80** |
+| 2 | 2025-26 Scottish Premiership | **Celtic** | 37 | 25 | 4 | 8 | 70 | 40 | +30 | **79** |
+| 3 | 2025-26 Scottish Premiership | **Rangers** | 37 | 19 | 12 | 6 | 71 | 41 | +30 | **69** |
+| 4 | 2025-26 Scottish Premiership | **Motherwell** | 37 | 15 | 13 | 9 | 58 | 36 | +22 | **58** |
+| 5 | 2025-26 Scottish Premiership | **Hibernian** | 37 | 15 | 12 | 10 | 58 | 43 | +15 | **57** |
+| 6 | 2025-26 Scottish Premiership | **Falkirk** | 37 | 14 | 7 | 16 | 48 | 57 | -9 | **49** |
 | 7 | 2025-26 Scottish Premiership | **Dundee United** | 37 | 10 | 14 | 13 | 48 | 59 | -11 | **44** |
 | 8 | 2025-26 Scottish Premiership | **Aberdeen** | 37 | 11 | 7 | 19 | 38 | 52 | -14 | **40** |
 | 9 | 2025-26 Scottish Premiership | **Dundee** | 37 | 10 | 9 | 18 | 39 | 59 | -20 | **39** |

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13 20:20:38 UTC",
-  "generated_at_iso": "2026-05-13T20:20:38.065168+00:00",
+  "generated_at": "2026-05-13 21:55:25 UTC",
+  "generated_at_iso": "2026-05-13T21:55:25.489019+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -18,7 +18,7 @@
       "top_performers": {
         "best_attack": {
           "team": "Manchester City",
-          "goals_for": 72
+          "goals_for": 75
         },
         "best_defence": {
           "team": "Arsenal",
@@ -29,8 +29,8 @@
           "wins": 24
         },
         "best_goal_difference": {
-          "team": "Arsenal",
-          "goal_difference": 42
+          "team": "Manchester City",
+          "goal_difference": 43
         }
       },
       "teams": [
@@ -55,16 +55,16 @@
           "group": "English Premier League 2025-2026",
           "team": "Manchester City",
           "abbreviation": "MNC",
-          "played": 35,
-          "wins": 22,
+          "played": 36,
+          "wins": 23,
           "draws": 8,
           "losses": 5,
-          "goals_for": 72,
+          "goals_for": 75,
           "goals_against": 32,
-          "goal_difference": 40,
-          "points": 74,
+          "goal_difference": 43,
+          "points": 77,
           "streak": {},
-          "record": "22-8-5"
+          "record": "23-8-5"
         },
         {
           "rank": 3,
@@ -263,16 +263,16 @@
           "group": "English Premier League 2025-2026",
           "team": "Crystal Palace",
           "abbreviation": "CRY",
-          "played": 35,
+          "played": 36,
           "wins": 11,
           "draws": 11,
-          "losses": 13,
+          "losses": 14,
           "goals_for": 38,
-          "goals_against": 44,
-          "goal_difference": -6,
+          "goals_against": 47,
+          "goal_difference": -9,
           "points": 44,
           "streak": {},
-          "record": "11-11-13"
+          "record": "11-11-14"
         },
         {
           "rank": 16,
@@ -370,7 +370,7 @@
         },
         "best_defence": {
           "team": "Barcelona",
-          "goals_against": 31
+          "goals_against": 32
         },
         "most_wins": {
           "team": "Barcelona",
@@ -378,7 +378,7 @@
         },
         "best_goal_difference": {
           "team": "Barcelona",
-          "goal_difference": 60
+          "goal_difference": 59
         }
       },
       "teams": [
@@ -387,16 +387,16 @@
           "group": "2025-26 LALIGA",
           "team": "Barcelona",
           "abbreviation": "BAR",
-          "played": 35,
+          "played": 36,
           "wins": 30,
           "draws": 1,
-          "losses": 4,
+          "losses": 5,
           "goals_for": 91,
-          "goals_against": 31,
-          "goal_difference": 60,
+          "goals_against": 32,
+          "goal_difference": 59,
           "points": 91,
           "streak": {},
-          "record": "30-1-4"
+          "record": "30-1-5"
         },
         {
           "rank": 2,
@@ -483,16 +483,16 @@
           "group": "2025-26 LALIGA",
           "team": "Getafe",
           "abbreviation": "GET",
-          "played": 35,
-          "wins": 13,
+          "played": 36,
+          "wins": 14,
           "draws": 6,
           "losses": 16,
-          "goals_for": 28,
-          "goals_against": 36,
-          "goal_difference": -8,
-          "points": 45,
+          "goals_for": 31,
+          "goals_against": 37,
+          "goal_difference": -6,
+          "points": 48,
           "streak": {},
-          "record": "13-6-16"
+          "record": "14-6-16"
         },
         {
           "rank": 8,
@@ -609,6 +609,22 @@
         {
           "rank": 15,
           "group": "2025-26 LALIGA",
+          "team": "Alavés",
+          "abbreviation": "ALA",
+          "played": 36,
+          "wins": 10,
+          "draws": 10,
+          "losses": 16,
+          "goals_for": 42,
+          "goals_against": 54,
+          "goal_difference": -12,
+          "points": 40,
+          "streak": {},
+          "record": "10-10-16"
+        },
+        {
+          "rank": 16,
+          "group": "2025-26 LALIGA",
           "team": "Elche",
           "abbreviation": "ELC",
           "played": 36,
@@ -623,23 +639,23 @@
           "record": "9-12-15"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "group": "2025-26 LALIGA",
           "team": "Mallorca",
           "abbreviation": "MLL",
-          "played": 35,
+          "played": 36,
           "wins": 10,
           "draws": 9,
-          "losses": 16,
-          "goals_for": 43,
-          "goals_against": 52,
-          "goal_difference": -9,
+          "losses": 17,
+          "goals_for": 44,
+          "goals_against": 55,
+          "goal_difference": -11,
           "points": 39,
           "streak": {},
-          "record": "10-9-16"
+          "record": "10-9-17"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "group": "2025-26 LALIGA",
           "team": "Levante",
           "abbreviation": "LEV",
@@ -655,7 +671,7 @@
           "record": "10-9-17"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "group": "2025-26 LALIGA",
           "team": "Girona",
           "abbreviation": "GIR",
@@ -669,22 +685,6 @@
           "points": 39,
           "streak": {},
           "record": "9-12-14"
-        },
-        {
-          "rank": 19,
-          "group": "2025-26 LALIGA",
-          "team": "Alavés",
-          "abbreviation": "ALA",
-          "played": 35,
-          "wins": 9,
-          "draws": 10,
-          "losses": 16,
-          "goals_for": 41,
-          "goals_against": 54,
-          "goal_difference": -13,
-          "points": 37,
-          "streak": {},
-          "record": "9-10-16"
         },
         {
           "rank": 20,
@@ -1378,7 +1378,7 @@
       "top_performers": {
         "best_attack": {
           "team": "Paris Saint-Germain",
-          "goals_for": 71
+          "goals_for": 73
         },
         "best_defence": {
           "team": "Paris Saint-Germain",
@@ -1386,11 +1386,11 @@
         },
         "most_wins": {
           "team": "Paris Saint-Germain",
-          "wins": 23
+          "wins": 24
         },
         "best_goal_difference": {
           "team": "Paris Saint-Germain",
-          "goal_difference": 44
+          "goal_difference": 46
         }
       },
       "teams": [
@@ -1399,32 +1399,32 @@
           "group": "French Ligue 1 2025-26",
           "team": "Paris Saint-Germain",
           "abbreviation": "PSG",
-          "played": 32,
-          "wins": 23,
+          "played": 33,
+          "wins": 24,
           "draws": 4,
           "losses": 5,
-          "goals_for": 71,
+          "goals_for": 73,
           "goals_against": 27,
-          "goal_difference": 44,
-          "points": 73,
+          "goal_difference": 46,
+          "points": 76,
           "streak": {},
-          "record": "23-4-5"
+          "record": "24-4-5"
         },
         {
           "rank": 2,
           "group": "French Ligue 1 2025-26",
           "team": "Lens",
           "abbreviation": "RCL",
-          "played": 32,
+          "played": 33,
           "wins": 21,
           "draws": 4,
-          "losses": 7,
+          "losses": 8,
           "goals_for": 62,
-          "goals_against": 33,
-          "goal_difference": 29,
+          "goals_against": 35,
+          "goal_difference": 27,
           "points": 67,
           "streak": {},
-          "record": "21-4-7"
+          "record": "21-4-8"
         },
         {
           "rank": 3,
@@ -3850,7 +3850,7 @@
       "top_performers": {
         "best_attack": {
           "team": "Rangers",
-          "goals_for": 70
+          "goals_for": 71
         },
         "best_defence": {
           "team": "Heart of Midlothian",
@@ -3858,11 +3858,11 @@
         },
         "most_wins": {
           "team": "Celtic",
-          "wins": 24
+          "wins": 25
         },
         "best_goal_difference": {
           "team": "Heart of Midlothian",
-          "goal_difference": 32
+          "goal_difference": 35
         }
       },
       "teams": [
@@ -3871,96 +3871,96 @@
           "group": "2025-26 Scottish Premiership",
           "team": "Heart of Midlothian",
           "abbreviation": "HOM",
-          "played": 36,
-          "wins": 23,
+          "played": 37,
+          "wins": 24,
           "draws": 8,
           "losses": 5,
-          "goals_for": 63,
+          "goals_for": 66,
           "goals_against": 31,
-          "goal_difference": 32,
-          "points": 77,
+          "goal_difference": 35,
+          "points": 80,
           "streak": {},
-          "record": "23-8-5"
+          "record": "24-8-5"
         },
         {
           "rank": 2,
           "group": "2025-26 Scottish Premiership",
           "team": "Celtic",
           "abbreviation": "CEL",
-          "played": 36,
-          "wins": 24,
+          "played": 37,
+          "wins": 25,
           "draws": 4,
           "losses": 8,
-          "goals_for": 67,
-          "goals_against": 38,
-          "goal_difference": 29,
-          "points": 76,
+          "goals_for": 70,
+          "goals_against": 40,
+          "goal_difference": 30,
+          "points": 79,
           "streak": {},
-          "record": "24-4-8"
+          "record": "25-4-8"
         },
         {
           "rank": 3,
           "group": "2025-26 Scottish Premiership",
           "team": "Rangers",
           "abbreviation": "RAN",
-          "played": 36,
+          "played": 37,
           "wins": 19,
           "draws": 12,
-          "losses": 5,
-          "goals_for": 70,
-          "goals_against": 39,
-          "goal_difference": 31,
+          "losses": 6,
+          "goals_for": 71,
+          "goals_against": 41,
+          "goal_difference": 30,
           "points": 69,
           "streak": {},
-          "record": "19-12-5"
+          "record": "19-12-6"
         },
         {
           "rank": 4,
           "group": "2025-26 Scottish Premiership",
           "team": "Motherwell",
           "abbreviation": "MOT",
-          "played": 36,
+          "played": 37,
           "wins": 15,
           "draws": 13,
-          "losses": 8,
-          "goals_for": 56,
-          "goals_against": 33,
-          "goal_difference": 23,
+          "losses": 9,
+          "goals_for": 58,
+          "goals_against": 36,
+          "goal_difference": 22,
           "points": 58,
           "streak": {},
-          "record": "15-13-8"
+          "record": "15-13-9"
         },
         {
           "rank": 5,
           "group": "2025-26 Scottish Premiership",
           "team": "Hibernian",
           "abbreviation": "HIBS",
-          "played": 36,
-          "wins": 14,
+          "played": 37,
+          "wins": 15,
           "draws": 12,
           "losses": 10,
-          "goals_for": 56,
-          "goals_against": 42,
-          "goal_difference": 14,
-          "points": 54,
+          "goals_for": 58,
+          "goals_against": 43,
+          "goal_difference": 15,
+          "points": 57,
           "streak": {},
-          "record": "14-12-10"
+          "record": "15-12-10"
         },
         {
           "rank": 6,
           "group": "2025-26 Scottish Premiership",
           "team": "Falkirk",
           "abbreviation": "FALK",
-          "played": 36,
+          "played": 37,
           "wins": 14,
           "draws": 7,
-          "losses": 15,
+          "losses": 16,
           "goals_for": 48,
-          "goals_against": 54,
-          "goal_difference": -6,
+          "goals_against": 57,
+          "goal_difference": -9,
           "points": 49,
           "streak": {},
-          "record": "14-7-15"
+          "record": "14-7-16"
         },
         {
           "rank": 7,
