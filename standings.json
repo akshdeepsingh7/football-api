@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13 18:26:14 UTC",
-  "generated_at_iso": "2026-05-13T18:26:14.261763+00:00",
+  "generated_at": "2026-05-13 20:20:38 UTC",
+  "generated_at_iso": "2026-05-13T20:20:38.065168+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -419,16 +419,16 @@
           "group": "2025-26 LALIGA",
           "team": "Villarreal",
           "abbreviation": "VIL",
-          "played": 35,
+          "played": 36,
           "wins": 21,
           "draws": 6,
-          "losses": 8,
-          "goals_for": 65,
-          "goals_against": 40,
-          "goal_difference": 25,
+          "losses": 9,
+          "goals_for": 67,
+          "goals_against": 43,
+          "goal_difference": 24,
           "points": 69,
           "streak": {},
-          "record": "21-6-8"
+          "record": "21-6-9"
         },
         {
           "rank": 4,
@@ -515,19 +515,35 @@
           "group": "2025-26 LALIGA",
           "team": "Athletic Club",
           "abbreviation": "ATH",
-          "played": 35,
+          "played": 36,
           "wins": 13,
           "draws": 5,
-          "losses": 17,
+          "losses": 18,
           "goals_for": 40,
-          "goals_against": 51,
-          "goal_difference": -11,
+          "goals_against": 53,
+          "goal_difference": -13,
           "points": 44,
           "streak": {},
-          "record": "13-5-17"
+          "record": "13-5-18"
         },
         {
           "rank": 10,
+          "group": "2025-26 LALIGA",
+          "team": "Sevilla",
+          "abbreviation": "SEV",
+          "played": 36,
+          "wins": 12,
+          "draws": 7,
+          "losses": 17,
+          "goals_for": 46,
+          "goals_against": 58,
+          "goal_difference": -12,
+          "points": 43,
+          "streak": {},
+          "record": "12-7-17"
+        },
+        {
+          "rank": 11,
           "group": "2025-26 LALIGA",
           "team": "Rayo Vallecano",
           "abbreviation": "RAY",
@@ -543,7 +559,7 @@
           "record": "10-13-12"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "2025-26 LALIGA",
           "team": "Osasuna",
           "abbreviation": "OSA",
@@ -559,7 +575,7 @@
           "record": "11-9-16"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "2025-26 LALIGA",
           "team": "Valencia",
           "abbreviation": "VAL",
@@ -575,23 +591,23 @@
           "record": "11-9-15"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "group": "2025-26 LALIGA",
-          "team": "Sevilla",
-          "abbreviation": "SEV",
-          "played": 35,
+          "team": "Espanyol",
+          "abbreviation": "ESP",
+          "played": 36,
           "wins": 11,
-          "draws": 7,
-          "losses": 17,
-          "goals_for": 43,
-          "goals_against": 56,
+          "draws": 9,
+          "losses": 16,
+          "goals_for": 40,
+          "goals_against": 53,
           "goal_difference": -13,
-          "points": 40,
+          "points": 42,
           "streak": {},
-          "record": "11-7-17"
+          "record": "11-9-16"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "group": "2025-26 LALIGA",
           "team": "Elche",
           "abbreviation": "ELC",
@@ -607,7 +623,7 @@
           "record": "9-12-15"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "group": "2025-26 LALIGA",
           "team": "Mallorca",
           "abbreviation": "MLL",
@@ -623,7 +639,7 @@
           "record": "10-9-16"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "group": "2025-26 LALIGA",
           "team": "Levante",
           "abbreviation": "LEV",
@@ -637,22 +653,6 @@
           "points": 39,
           "streak": {},
           "record": "10-9-17"
-        },
-        {
-          "rank": 17,
-          "group": "2025-26 LALIGA",
-          "team": "Espanyol",
-          "abbreviation": "ESP",
-          "played": 35,
-          "wins": 10,
-          "draws": 9,
-          "losses": 16,
-          "goals_for": 38,
-          "goals_against": 53,
-          "goal_difference": -15,
-          "points": 39,
-          "streak": {},
-          "record": "10-9-16"
         },
         {
           "rank": 18,
@@ -1511,16 +1511,16 @@
           "group": "French Ligue 1 2025-26",
           "team": "Strasbourg",
           "abbreviation": "STR",
-          "played": 32,
-          "wins": 13,
+          "played": 33,
+          "wins": 14,
           "draws": 8,
           "losses": 11,
-          "goals_for": 51,
-          "goals_against": 42,
-          "goal_difference": 9,
-          "points": 47,
+          "goals_for": 53,
+          "goals_against": 43,
+          "goal_difference": 10,
+          "points": 50,
           "streak": {},
-          "record": "13-8-11"
+          "record": "14-8-11"
         },
         {
           "rank": 9,
@@ -1575,16 +1575,16 @@
           "group": "French Ligue 1 2025-26",
           "team": "Brest",
           "abbreviation": "BRE",
-          "played": 32,
+          "played": 33,
           "wins": 10,
           "draws": 8,
-          "losses": 14,
-          "goals_for": 41,
-          "goals_against": 52,
-          "goal_difference": -11,
+          "losses": 15,
+          "goals_for": 42,
+          "goals_against": 54,
+          "goal_difference": -12,
           "points": 38,
           "streak": {},
-          "record": "10-8-14"
+          "record": "10-8-15"
         },
         {
           "rank": 13,
