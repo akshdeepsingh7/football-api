@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-14 20:16:28 UTC
+> **Last updated:** 2026-05-14 21:46:34 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1036 | 1036 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 880 | 880 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8627 | 8627 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8633 | 8633 |
 
 ---
 
@@ -278,25 +278,25 @@ A breakdown of all leagues and teams by football confederation.
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
 | 1 | 2025-26 LALIGA | **Barcelona** | 36 | 30 | 1 | 5 | 91 | 32 | +59 | **91** |
-| 2 | 2025-26 LALIGA | **Real Madrid** | 35 | 24 | 5 | 6 | 70 | 33 | +37 | **77** |
+| 2 | 2025-26 LALIGA | **Real Madrid** | 36 | 25 | 5 | 6 | 72 | 33 | +39 | **80** |
 | 3 | 2025-26 LALIGA | **Villarreal** | 36 | 21 | 6 | 9 | 67 | 43 | +24 | **69** |
 | 4 | 2025-26 LALIGA | **Atlético Madrid** | 36 | 20 | 6 | 10 | 60 | 39 | +21 | **66** |
 | 5 | 2025-26 LALIGA | **Real Betis** | 36 | 14 | 15 | 7 | 56 | 44 | +12 | **57** |
 | 6 | 2025-26 LALIGA | **Celta Vigo** | 36 | 13 | 11 | 12 | 51 | 47 | +4 | **50** |
 | 7 | 2025-26 LALIGA | **Getafe** | 36 | 14 | 6 | 16 | 31 | 37 | -6 | **48** |
-| 8 | 2025-26 LALIGA | **Real Sociedad** | 35 | 11 | 11 | 13 | 54 | 55 | -1 | **44** |
+| 8 | 2025-26 LALIGA | **Real Sociedad** | 36 | 11 | 12 | 13 | 55 | 56 | -1 | **45** |
 | 9 | 2025-26 LALIGA | **Athletic Club** | 36 | 13 | 5 | 18 | 40 | 53 | -13 | **44** |
-| 10 | 2025-26 LALIGA | **Sevilla** | 36 | 12 | 7 | 17 | 46 | 58 | -12 | **43** |
-| 11 | 2025-26 LALIGA | **Rayo Vallecano** | 35 | 10 | 13 | 12 | 36 | 42 | -6 | **43** |
-| 12 | 2025-26 LALIGA | **Osasuna** | 36 | 11 | 9 | 16 | 43 | 47 | -4 | **42** |
-| 13 | 2025-26 LALIGA | **Valencia** | 35 | 11 | 9 | 15 | 38 | 50 | -12 | **42** |
+| 10 | 2025-26 LALIGA | **Rayo Vallecano** | 36 | 10 | 14 | 12 | 37 | 43 | -6 | **44** |
+| 11 | 2025-26 LALIGA | **Valencia** | 36 | 11 | 10 | 15 | 39 | 51 | -12 | **43** |
+| 12 | 2025-26 LALIGA | **Sevilla** | 36 | 12 | 7 | 17 | 46 | 58 | -12 | **43** |
+| 13 | 2025-26 LALIGA | **Osasuna** | 36 | 11 | 9 | 16 | 43 | 47 | -4 | **42** |
 | 14 | 2025-26 LALIGA | **Espanyol** | 36 | 11 | 9 | 16 | 40 | 53 | -13 | **42** |
-| 15 | 2025-26 LALIGA | **Alavés** | 36 | 10 | 10 | 16 | 42 | 54 | -12 | **40** |
-| 16 | 2025-26 LALIGA | **Elche** | 36 | 9 | 12 | 15 | 47 | 56 | -9 | **39** |
-| 17 | 2025-26 LALIGA | **Mallorca** | 36 | 10 | 9 | 17 | 44 | 55 | -11 | **39** |
-| 18 | 2025-26 LALIGA | **Levante** | 36 | 10 | 9 | 17 | 44 | 59 | -15 | **39** |
-| 19 | 2025-26 LALIGA | **Girona** | 35 | 9 | 12 | 14 | 37 | 52 | -15 | **39** |
-| 20 | 2025-26 LALIGA | **Real Oviedo** | 35 | 6 | 11 | 18 | 26 | 54 | -28 | **29** |
+| 15 | 2025-26 LALIGA | **Girona** | 36 | 9 | 13 | 14 | 38 | 53 | -15 | **40** |
+| 16 | 2025-26 LALIGA | **Alavés** | 36 | 10 | 10 | 16 | 42 | 54 | -12 | **40** |
+| 17 | 2025-26 LALIGA | **Elche** | 36 | 9 | 12 | 15 | 47 | 56 | -9 | **39** |
+| 18 | 2025-26 LALIGA | **Mallorca** | 36 | 10 | 9 | 17 | 44 | 55 | -11 | **39** |
+| 19 | 2025-26 LALIGA | **Levante** | 36 | 10 | 9 | 17 | 44 | 59 | -15 | **39** |
+| 20 | 2025-26 LALIGA | **Real Oviedo** | 36 | 6 | 11 | 19 | 26 | 56 | -30 | **29** |
 
 ---
 

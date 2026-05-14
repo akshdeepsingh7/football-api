@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14 20:16:28 UTC",
-  "generated_at_iso": "2026-05-14T20:16:28.776223+00:00",
+  "generated_at": "2026-05-14 21:46:34 UTC",
+  "generated_at_iso": "2026-05-14T21:46:34.983451+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -403,16 +403,16 @@
           "group": "2025-26 LALIGA",
           "team": "Real Madrid",
           "abbreviation": "RMA",
-          "played": 35,
-          "wins": 24,
+          "played": 36,
+          "wins": 25,
           "draws": 5,
           "losses": 6,
-          "goals_for": 70,
+          "goals_for": 72,
           "goals_against": 33,
-          "goal_difference": 37,
-          "points": 77,
+          "goal_difference": 39,
+          "points": 80,
           "streak": {},
-          "record": "24-5-6"
+          "record": "25-5-6"
         },
         {
           "rank": 3,
@@ -499,16 +499,16 @@
           "group": "2025-26 LALIGA",
           "team": "Real Sociedad",
           "abbreviation": "RSO",
-          "played": 35,
+          "played": 36,
           "wins": 11,
-          "draws": 11,
+          "draws": 12,
           "losses": 13,
-          "goals_for": 54,
-          "goals_against": 55,
+          "goals_for": 55,
+          "goals_against": 56,
           "goal_difference": -1,
-          "points": 44,
+          "points": 45,
           "streak": {},
-          "record": "11-11-13"
+          "record": "11-12-13"
         },
         {
           "rank": 9,
@@ -529,6 +529,38 @@
         {
           "rank": 10,
           "group": "2025-26 LALIGA",
+          "team": "Rayo Vallecano",
+          "abbreviation": "RAY",
+          "played": 36,
+          "wins": 10,
+          "draws": 14,
+          "losses": 12,
+          "goals_for": 37,
+          "goals_against": 43,
+          "goal_difference": -6,
+          "points": 44,
+          "streak": {},
+          "record": "10-14-12"
+        },
+        {
+          "rank": 11,
+          "group": "2025-26 LALIGA",
+          "team": "Valencia",
+          "abbreviation": "VAL",
+          "played": 36,
+          "wins": 11,
+          "draws": 10,
+          "losses": 15,
+          "goals_for": 39,
+          "goals_against": 51,
+          "goal_difference": -12,
+          "points": 43,
+          "streak": {},
+          "record": "11-10-15"
+        },
+        {
+          "rank": 12,
+          "group": "2025-26 LALIGA",
           "team": "Sevilla",
           "abbreviation": "SEV",
           "played": 36,
@@ -543,23 +575,7 @@
           "record": "12-7-17"
         },
         {
-          "rank": 11,
-          "group": "2025-26 LALIGA",
-          "team": "Rayo Vallecano",
-          "abbreviation": "RAY",
-          "played": 35,
-          "wins": 10,
-          "draws": 13,
-          "losses": 12,
-          "goals_for": 36,
-          "goals_against": 42,
-          "goal_difference": -6,
-          "points": 43,
-          "streak": {},
-          "record": "10-13-12"
-        },
-        {
-          "rank": 12,
+          "rank": 13,
           "group": "2025-26 LALIGA",
           "team": "Osasuna",
           "abbreviation": "OSA",
@@ -573,22 +589,6 @@
           "points": 42,
           "streak": {},
           "record": "11-9-16"
-        },
-        {
-          "rank": 13,
-          "group": "2025-26 LALIGA",
-          "team": "Valencia",
-          "abbreviation": "VAL",
-          "played": 35,
-          "wins": 11,
-          "draws": 9,
-          "losses": 15,
-          "goals_for": 38,
-          "goals_against": 50,
-          "goal_difference": -12,
-          "points": 42,
-          "streak": {},
-          "record": "11-9-15"
         },
         {
           "rank": 14,
@@ -609,6 +609,22 @@
         {
           "rank": 15,
           "group": "2025-26 LALIGA",
+          "team": "Girona",
+          "abbreviation": "GIR",
+          "played": 36,
+          "wins": 9,
+          "draws": 13,
+          "losses": 14,
+          "goals_for": 38,
+          "goals_against": 53,
+          "goal_difference": -15,
+          "points": 40,
+          "streak": {},
+          "record": "9-13-14"
+        },
+        {
+          "rank": 16,
+          "group": "2025-26 LALIGA",
           "team": "Alavés",
           "abbreviation": "ALA",
           "played": 36,
@@ -623,7 +639,7 @@
           "record": "10-10-16"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "group": "2025-26 LALIGA",
           "team": "Elche",
           "abbreviation": "ELC",
@@ -639,7 +655,7 @@
           "record": "9-12-15"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "group": "2025-26 LALIGA",
           "team": "Mallorca",
           "abbreviation": "MLL",
@@ -655,7 +671,7 @@
           "record": "10-9-17"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "group": "2025-26 LALIGA",
           "team": "Levante",
           "abbreviation": "LEV",
@@ -671,36 +687,20 @@
           "record": "10-9-17"
         },
         {
-          "rank": 19,
-          "group": "2025-26 LALIGA",
-          "team": "Girona",
-          "abbreviation": "GIR",
-          "played": 35,
-          "wins": 9,
-          "draws": 12,
-          "losses": 14,
-          "goals_for": 37,
-          "goals_against": 52,
-          "goal_difference": -15,
-          "points": 39,
-          "streak": {},
-          "record": "9-12-14"
-        },
-        {
           "rank": 20,
           "group": "2025-26 LALIGA",
           "team": "Real Oviedo",
           "abbreviation": "OVI",
-          "played": 35,
+          "played": 36,
           "wins": 6,
           "draws": 11,
-          "losses": 18,
+          "losses": 19,
           "goals_for": 26,
-          "goals_against": 54,
-          "goal_difference": -28,
+          "goals_against": 56,
+          "goal_difference": -30,
           "points": 29,
           "streak": {},
-          "record": "6-11-18"
+          "record": "6-11-19"
         }
       ]
     },
