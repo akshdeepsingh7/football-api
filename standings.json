@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15 18:08:03 UTC",
-  "generated_at_iso": "2026-05-15T18:08:03.693634+00:00",
+  "generated_at": "2026-05-15 20:04:47 UTC",
+  "generated_at_iso": "2026-05-15T20:04:47.640469+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -3603,16 +3603,16 @@
           "group": "2025/2026 Turkish Super Lig",
           "team": "Besiktas",
           "abbreviation": "BES",
-          "played": 33,
+          "played": 34,
           "wins": 17,
-          "draws": 8,
+          "draws": 9,
           "losses": 8,
-          "goals_for": 57,
-          "goals_against": 38,
+          "goals_for": 59,
+          "goals_against": 40,
           "goal_difference": 19,
-          "points": 59,
+          "points": 60,
           "streak": {},
-          "record": "17-8-8"
+          "record": "17-9-8"
         },
         {
           "rank": 5,
@@ -3667,16 +3667,16 @@
           "group": "2025/2026 Turkish Super Lig",
           "team": "Caykur Rizespor",
           "abbreviation": "CAY",
-          "played": 33,
+          "played": 34,
           "wins": 10,
-          "draws": 10,
+          "draws": 11,
           "losses": 13,
-          "goals_for": 44,
-          "goals_against": 50,
+          "goals_for": 46,
+          "goals_against": 52,
           "goal_difference": -6,
-          "points": 40,
+          "points": 41,
           "streak": {},
-          "record": "10-10-13"
+          "record": "10-11-13"
         },
         {
           "rank": 9,
