@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16 22:26:04 UTC",
-  "generated_at_iso": "2026-05-16T22:26:04.917434+00:00",
+  "generated_at": "2026-05-16 23:31:12 UTC",
+  "generated_at_iso": "2026-05-16T23:31:12.599730+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4087,20 +4087,20 @@
       },
       "teams": [
         {
-          "rank": 4,
+          "rank": 3,
           "group": "Eastern Conference",
           "team": "Chicago Fire FC",
           "abbreviation": "CHI",
-          "played": 12,
-          "wins": 6,
+          "played": 13,
+          "wins": 7,
           "draws": 2,
           "losses": 4,
-          "goals_for": 23,
+          "goals_for": 25,
           "goals_against": 15,
-          "goal_difference": 8,
-          "points": 20,
+          "goal_difference": 10,
+          "points": 23,
           "streak": {},
-          "record": "6-2-4"
+          "record": "7-2-4"
         },
         {
           "rank": 13,
@@ -4119,7 +4119,7 @@
           "record": "3-3-7"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "group": "Eastern Conference",
           "team": "New England Revolution",
           "abbreviation": "NE",
@@ -4187,16 +4187,16 @@
           "group": "Eastern Conference",
           "team": "CF Montréal",
           "abbreviation": "MTL",
-          "played": 12,
+          "played": 13,
           "wins": 4,
           "draws": 1,
-          "losses": 7,
+          "losses": 8,
           "goals_for": 18,
-          "goals_against": 25,
-          "goal_difference": -7,
+          "goals_against": 27,
+          "goal_difference": -9,
           "points": 13,
           "streak": {},
-          "record": "4-1-7"
+          "record": "4-1-8"
         },
         {
           "rank": 15,

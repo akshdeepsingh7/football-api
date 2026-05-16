@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-16 22:26:04 UTC
+> **Last updated:** 2026-05-16 23:31:12 UTC
 
 ---
 
@@ -58,7 +58,7 @@
 | **Dutch Eredivisie** | Netherlands | UEFA | 18 | **PSV Eindhoven** | 81 |
 | **Turkish Super Lig** | Turkey | UEFA | 18 | **Galatasaray** | 77 |
 | **Scottish Premiership** | Scotland | UEFA | 12 | **Celtic** | 82 |
-| **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 20 |
+| **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 23 |
 | **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 34 |
 | **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Boca Juniors** | 30 |
 | **Mexican Liga MX** | Mexico | CONCACAF | 18 | **Pumas UNAM** | 36 |
@@ -240,7 +240,7 @@ A breakdown of all leagues and teams by football confederation.
 
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
-| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1036 | 1036 |
+| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1038 | 1038 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 880 | 880 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8718 | 8718 |
 
@@ -561,13 +561,13 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 4 | Eastern Conference | **Chicago Fire FC** | 12 | 6 | 2 | 4 | 23 | 15 | +8 | **20** |
+| 3 | Eastern Conference | **Chicago Fire FC** | 13 | 7 | 2 | 4 | 25 | 15 | +10 | **23** |
 | 13 | Eastern Conference | **Columbus Crew** | 13 | 3 | 3 | 7 | 18 | 22 | -4 | **12** |
-| 3 | Eastern Conference | **New England Revolution** | 12 | 7 | 1 | 4 | 20 | 16 | +4 | **22** |
+| 4 | Eastern Conference | **New England Revolution** | 12 | 7 | 1 | 4 | 20 | 16 | +4 | **22** |
 | 6 | Eastern Conference | **Red Bull New York** | 13 | 5 | 3 | 5 | 22 | 30 | -8 | **18** |
 | 7 | Eastern Conference | **D.C. United** | 13 | 4 | 4 | 5 | 16 | 20 | -4 | **16** |
 | 10 | Eastern Conference | **Toronto FC** | 12 | 3 | 5 | 4 | 20 | 24 | -4 | **14** |
-| 11 | Eastern Conference | **CF Montréal** | 12 | 4 | 1 | 7 | 18 | 25 | -7 | **13** |
+| 11 | Eastern Conference | **CF Montréal** | 13 | 4 | 1 | 8 | 18 | 27 | -9 | **13** |
 | 15 | Eastern Conference | **Philadelphia Union** | 13 | 1 | 3 | 9 | 13 | 23 | -10 | **6** |
 | 12 | Eastern Conference | **Orlando City SC** | 13 | 4 | 1 | 8 | 20 | 37 | -17 | **13** |
 | 5 | Eastern Conference | **New York City FC** | 13 | 5 | 3 | 5 | 23 | 18 | +5 | **18** |
