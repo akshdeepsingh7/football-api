@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-16 17:58:57 UTC
+> **Last updated:** 2026-05-16 19:20:06 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1036 | 1036 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 880 | 880 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8692 | 8692 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8710 | 8710 |
 
 ---
 
@@ -470,20 +470,20 @@ A breakdown of all leagues and teams by football confederation.
 | 1 | 2025-2026 Portuguese Liga | **FC Porto** | 34 | 28 | 4 | 2 | 66 | 18 | +48 | **88** |
 | 2 | 2025-2026 Portuguese Liga | **Sporting CP** | 33 | 24 | 7 | 2 | 86 | 24 | +62 | **79** |
 | 3 | 2025-2026 Portuguese Liga | **Benfica** | 33 | 22 | 11 | 0 | 71 | 24 | +47 | **77** |
-| 4 | 2025-2026 Portuguese Liga | **Braga** | 33 | 16 | 10 | 7 | 62 | 34 | +28 | **58** |
+| 4 | 2025-2026 Portuguese Liga | **Braga** | 34 | 16 | 11 | 7 | 64 | 36 | +28 | **59** |
 | 5 | 2025-2026 Portuguese Liga | **FC Famalicao** | 33 | 14 | 11 | 8 | 41 | 29 | +12 | **53** |
 | 6 | 2025-2026 Portuguese Liga | **Gil Vicente** | 33 | 13 | 11 | 9 | 47 | 35 | +12 | **50** |
 | 7 | 2025-2026 Portuguese Liga | **Moreirense** | 34 | 12 | 7 | 15 | 37 | 49 | -12 | **43** |
-| 8 | 2025-2026 Portuguese Liga | **Vitória de Guimaraes** | 33 | 12 | 6 | 15 | 39 | 49 | -10 | **42** |
-| 9 | 2025-2026 Portuguese Liga | **Estoril** | 33 | 10 | 9 | 14 | 53 | 54 | -1 | **39** |
-| 10 | 2025-2026 Portuguese Liga | **Arouca** | 33 | 11 | 6 | 16 | 44 | 63 | -19 | **39** |
+| 8 | 2025-2026 Portuguese Liga | **Arouca** | 34 | 12 | 6 | 16 | 47 | 64 | -17 | **42** |
+| 9 | 2025-2026 Portuguese Liga | **Vitória de Guimaraes** | 34 | 12 | 6 | 16 | 39 | 51 | -12 | **42** |
+| 10 | 2025-2026 Portuguese Liga | **Estoril** | 33 | 10 | 9 | 14 | 53 | 54 | -1 | **39** |
 | 11 | 2025-2026 Portuguese Liga | **Alverca** | 33 | 10 | 9 | 14 | 35 | 51 | -16 | **39** |
-| 12 | 2025-2026 Portuguese Liga | **Santa Clara** | 34 | 9 | 9 | 16 | 32 | 41 | -9 | **36** |
-| 13 | 2025-2026 Portuguese Liga | **Rio Ave** | 33 | 8 | 11 | 14 | 34 | 56 | -22 | **35** |
-| 14 | 2025-2026 Portuguese Liga | **C.D. Nacional** | 33 | 8 | 7 | 18 | 35 | 45 | -10 | **31** |
-| 15 | 2025-2026 Portuguese Liga | **Estrela** | 33 | 6 | 11 | 16 | 36 | 54 | -18 | **29** |
-| 16 | 2025-2026 Portuguese Liga | **Casa Pia** | 33 | 6 | 11 | 16 | 30 | 56 | -26 | **29** |
-| 17 | 2025-2026 Portuguese Liga | **Tondela** | 33 | 6 | 10 | 17 | 26 | 52 | -26 | **28** |
+| 12 | 2025-2026 Portuguese Liga | **Rio Ave** | 34 | 8 | 12 | 14 | 35 | 57 | -22 | **36** |
+| 13 | 2025-2026 Portuguese Liga | **Santa Clara** | 34 | 9 | 9 | 16 | 32 | 41 | -9 | **36** |
+| 14 | 2025-2026 Portuguese Liga | **C.D. Nacional** | 34 | 9 | 7 | 18 | 37 | 45 | -8 | **34** |
+| 15 | 2025-2026 Portuguese Liga | **Estrela** | 34 | 6 | 12 | 16 | 38 | 56 | -18 | **30** |
+| 16 | 2025-2026 Portuguese Liga | **Casa Pia** | 34 | 6 | 12 | 16 | 31 | 57 | -26 | **30** |
+| 17 | 2025-2026 Portuguese Liga | **Tondela** | 34 | 6 | 10 | 18 | 27 | 55 | -28 | **28** |
 | 18 | 2025-2026 Portuguese Liga | **AVS** | 34 | 3 | 12 | 19 | 27 | 67 | -40 | **21** |
 
 ---
@@ -521,14 +521,14 @@ A breakdown of all leagues and teams by football confederation.
 | 2 | 2025/2026 Turkish Super Lig | **Fenerbahce** | 33 | 21 | 10 | 2 | 74 | 34 | +40 | **73** |
 | 3 | 2025/2026 Turkish Super Lig | **Trabzonspor** | 33 | 20 | 9 | 4 | 61 | 36 | +25 | **69** |
 | 4 | 2025/2026 Turkish Super Lig | **Besiktas** | 34 | 17 | 9 | 8 | 59 | 40 | +19 | **60** |
-| 5 | 2025/2026 Turkish Super Lig | **Goztepe** | 33 | 14 | 13 | 6 | 42 | 29 | +13 | **55** |
-| 6 | 2025/2026 Turkish Super Lig | **Istanbul Basaksehir** | 33 | 15 | 9 | 9 | 56 | 34 | +22 | **54** |
-| 7 | 2025/2026 Turkish Super Lig | **Samsunspor** | 33 | 12 | 12 | 9 | 43 | 45 | -2 | **48** |
+| 5 | 2025/2026 Turkish Super Lig | **Istanbul Basaksehir** | 34 | 16 | 9 | 9 | 58 | 35 | +23 | **57** |
+| 6 | 2025/2026 Turkish Super Lig | **Goztepe** | 34 | 14 | 13 | 7 | 42 | 32 | +10 | **55** |
+| 7 | 2025/2026 Turkish Super Lig | **Samsunspor** | 34 | 13 | 12 | 9 | 46 | 45 | +1 | **51** |
 | 8 | 2025/2026 Turkish Super Lig | **Caykur Rizespor** | 34 | 10 | 11 | 13 | 46 | 52 | -6 | **41** |
 | 9 | 2025/2026 Turkish Super Lig | **Konyaspor** | 33 | 10 | 10 | 13 | 42 | 48 | -6 | **40** |
 | 10 | 2025/2026 Turkish Super Lig | **Kocaelispor** | 33 | 9 | 10 | 14 | 26 | 37 | -11 | **37** |
 | 11 | 2025/2026 Turkish Super Lig | **Alanyaspor** | 34 | 7 | 16 | 11 | 41 | 41 | 0 | **37** |
-| 12 | 2025/2026 Turkish Super Lig | **Gaziantep FK** | 33 | 9 | 10 | 14 | 42 | 56 | -14 | **37** |
+| 12 | 2025/2026 Turkish Super Lig | **Gaziantep FK** | 34 | 9 | 10 | 15 | 43 | 58 | -15 | **37** |
 | 13 | 2025/2026 Turkish Super Lig | **Eyupspor** | 33 | 8 | 8 | 17 | 30 | 45 | -15 | **32** |
 | 14 | 2025/2026 Turkish Super Lig | **Kasimpasa** | 33 | 7 | 11 | 15 | 32 | 49 | -17 | **32** |
 | 15 | 2025/2026 Turkish Super Lig | **Genclerbirligi** | 33 | 8 | 7 | 18 | 33 | 47 | -14 | **31** |
