@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16 16:30:30 UTC",
-  "generated_at_iso": "2026-05-16T16:30:30.901233+00:00",
+  "generated_at": "2026-05-16 17:58:57 UTC",
+  "generated_at_iso": "2026-05-16T17:58:57.960582+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -2910,7 +2910,7 @@
         },
         "most_wins": {
           "team": "FC Porto",
-          "wins": 27
+          "wins": 28
         },
         "best_goal_difference": {
           "team": "Sporting CP",
@@ -2923,16 +2923,16 @@
           "group": "2025-2026 Portuguese Liga",
           "team": "FC Porto",
           "abbreviation": "FCP",
-          "played": 33,
-          "wins": 27,
+          "played": 34,
+          "wins": 28,
           "draws": 4,
           "losses": 2,
-          "goals_for": 65,
+          "goals_for": 66,
           "goals_against": 18,
-          "goal_difference": 47,
-          "points": 85,
+          "goal_difference": 48,
+          "points": 88,
           "streak": {},
-          "record": "27-4-2"
+          "record": "28-4-2"
         },
         {
           "rank": 2,
@@ -3019,16 +3019,16 @@
           "group": "2025-2026 Portuguese Liga",
           "team": "Moreirense",
           "abbreviation": "MFC",
-          "played": 33,
+          "played": 34,
           "wins": 12,
-          "draws": 6,
+          "draws": 7,
           "losses": 15,
           "goals_for": 37,
           "goals_against": 49,
           "goal_difference": -12,
-          "points": 42,
+          "points": 43,
           "streak": {},
-          "record": "12-6-15"
+          "record": "12-7-15"
         },
         {
           "rank": 8,
@@ -3099,16 +3099,16 @@
           "group": "2025-2026 Portuguese Liga",
           "team": "Santa Clara",
           "abbreviation": "CDSC",
-          "played": 33,
+          "played": 34,
           "wins": 9,
           "draws": 9,
-          "losses": 15,
+          "losses": 16,
           "goals_for": 32,
-          "goals_against": 40,
-          "goal_difference": -8,
+          "goals_against": 41,
+          "goal_difference": -9,
           "points": 36,
           "streak": {},
-          "record": "9-9-15"
+          "record": "9-9-16"
         },
         {
           "rank": 13,
@@ -3195,16 +3195,16 @@
           "group": "2025-2026 Portuguese Liga",
           "team": "AVS",
           "abbreviation": "AVS",
-          "played": 33,
+          "played": 34,
           "wins": 3,
-          "draws": 11,
+          "draws": 12,
           "losses": 19,
           "goals_for": 27,
           "goals_against": 67,
           "goal_difference": -40,
-          "points": 20,
+          "points": 21,
           "streak": {},
-          "record": "3-11-19"
+          "record": "3-12-19"
         }
       ]
     },

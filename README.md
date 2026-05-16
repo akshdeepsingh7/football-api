@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-16 16:30:30 UTC
+> **Last updated:** 2026-05-16 17:58:57 UTC
 
 ---
 
@@ -54,7 +54,7 @@
 | **French Ligue 1** | France | UEFA | 18 | **Paris Saint-Germain** | 76 |
 | **UEFA Champions League** | Europe | UEFA | 36 | **Arsenal** | 24 |
 | **UEFA Europa League** | Europe | UEFA | 36 | **Lyon** | 21 |
-| **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **FC Porto** | 85 |
+| **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **FC Porto** | 88 |
 | **Dutch Eredivisie** | Netherlands | UEFA | 18 | **PSV Eindhoven** | 81 |
 | **Turkish Super Lig** | Turkey | UEFA | 18 | **Galatasaray** | 77 |
 | **Scottish Premiership** | Scotland | UEFA | 12 | **Celtic** | 82 |
@@ -152,7 +152,7 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 |----------|------|------|
 | Best Attack | **Sporting CP** | 86 goals |
 | Best Defence | **FC Porto** | 18 goals conceded |
-| Most Wins | **FC Porto** | 27 wins |
+| Most Wins | **FC Porto** | 28 wins |
 | Best GD | **Sporting CP** | +62 |
 
 ---
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1036 | 1036 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 880 | 880 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8691 | 8691 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8692 | 8692 |
 
 ---
 
@@ -467,24 +467,24 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-2026 Portuguese Liga | **FC Porto** | 33 | 27 | 4 | 2 | 65 | 18 | +47 | **85** |
+| 1 | 2025-2026 Portuguese Liga | **FC Porto** | 34 | 28 | 4 | 2 | 66 | 18 | +48 | **88** |
 | 2 | 2025-2026 Portuguese Liga | **Sporting CP** | 33 | 24 | 7 | 2 | 86 | 24 | +62 | **79** |
 | 3 | 2025-2026 Portuguese Liga | **Benfica** | 33 | 22 | 11 | 0 | 71 | 24 | +47 | **77** |
 | 4 | 2025-2026 Portuguese Liga | **Braga** | 33 | 16 | 10 | 7 | 62 | 34 | +28 | **58** |
 | 5 | 2025-2026 Portuguese Liga | **FC Famalicao** | 33 | 14 | 11 | 8 | 41 | 29 | +12 | **53** |
 | 6 | 2025-2026 Portuguese Liga | **Gil Vicente** | 33 | 13 | 11 | 9 | 47 | 35 | +12 | **50** |
-| 7 | 2025-2026 Portuguese Liga | **Moreirense** | 33 | 12 | 6 | 15 | 37 | 49 | -12 | **42** |
+| 7 | 2025-2026 Portuguese Liga | **Moreirense** | 34 | 12 | 7 | 15 | 37 | 49 | -12 | **43** |
 | 8 | 2025-2026 Portuguese Liga | **Vitória de Guimaraes** | 33 | 12 | 6 | 15 | 39 | 49 | -10 | **42** |
 | 9 | 2025-2026 Portuguese Liga | **Estoril** | 33 | 10 | 9 | 14 | 53 | 54 | -1 | **39** |
 | 10 | 2025-2026 Portuguese Liga | **Arouca** | 33 | 11 | 6 | 16 | 44 | 63 | -19 | **39** |
 | 11 | 2025-2026 Portuguese Liga | **Alverca** | 33 | 10 | 9 | 14 | 35 | 51 | -16 | **39** |
-| 12 | 2025-2026 Portuguese Liga | **Santa Clara** | 33 | 9 | 9 | 15 | 32 | 40 | -8 | **36** |
+| 12 | 2025-2026 Portuguese Liga | **Santa Clara** | 34 | 9 | 9 | 16 | 32 | 41 | -9 | **36** |
 | 13 | 2025-2026 Portuguese Liga | **Rio Ave** | 33 | 8 | 11 | 14 | 34 | 56 | -22 | **35** |
 | 14 | 2025-2026 Portuguese Liga | **C.D. Nacional** | 33 | 8 | 7 | 18 | 35 | 45 | -10 | **31** |
 | 15 | 2025-2026 Portuguese Liga | **Estrela** | 33 | 6 | 11 | 16 | 36 | 54 | -18 | **29** |
 | 16 | 2025-2026 Portuguese Liga | **Casa Pia** | 33 | 6 | 11 | 16 | 30 | 56 | -26 | **29** |
 | 17 | 2025-2026 Portuguese Liga | **Tondela** | 33 | 6 | 10 | 17 | 26 | 52 | -26 | **28** |
-| 18 | 2025-2026 Portuguese Liga | **AVS** | 33 | 3 | 11 | 19 | 27 | 67 | -40 | **20** |
+| 18 | 2025-2026 Portuguese Liga | **AVS** | 34 | 3 | 12 | 19 | 27 | 67 | -40 | **21** |
 
 ---
 
