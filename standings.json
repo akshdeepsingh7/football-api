@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16 11:58:25 UTC",
-  "generated_at_iso": "2026-05-16T11:58:25.574659+00:00",
+  "generated_at": "2026-05-16 13:53:44 UTC",
+  "generated_at_iso": "2026-05-16T13:53:44.009753+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -3850,117 +3850,117 @@
       "top_performers": {
         "best_attack": {
           "team": "Rangers",
-          "goals_for": 71
+          "goals_for": 76
         },
         "best_defence": {
           "team": "Heart of Midlothian",
-          "goals_against": 31
+          "goals_against": 34
         },
         "most_wins": {
           "team": "Celtic",
-          "wins": 25
+          "wins": 26
         },
         "best_goal_difference": {
           "team": "Heart of Midlothian",
-          "goal_difference": 35
+          "goal_difference": 33
         }
       },
       "teams": [
         {
           "rank": 1,
           "group": "2025-26 Scottish Premiership",
-          "team": "Heart of Midlothian",
-          "abbreviation": "HOM",
-          "played": 37,
-          "wins": 24,
-          "draws": 8,
-          "losses": 5,
-          "goals_for": 66,
-          "goals_against": 31,
-          "goal_difference": 35,
-          "points": 80,
+          "team": "Celtic",
+          "abbreviation": "CEL",
+          "played": 38,
+          "wins": 26,
+          "draws": 4,
+          "losses": 8,
+          "goals_for": 73,
+          "goals_against": 41,
+          "goal_difference": 32,
+          "points": 82,
           "streak": {},
-          "record": "24-8-5"
+          "record": "26-4-8"
         },
         {
           "rank": 2,
           "group": "2025-26 Scottish Premiership",
-          "team": "Celtic",
-          "abbreviation": "CEL",
-          "played": 37,
-          "wins": 25,
-          "draws": 4,
-          "losses": 8,
-          "goals_for": 70,
-          "goals_against": 40,
-          "goal_difference": 30,
-          "points": 79,
+          "team": "Heart of Midlothian",
+          "abbreviation": "HOM",
+          "played": 38,
+          "wins": 24,
+          "draws": 8,
+          "losses": 6,
+          "goals_for": 67,
+          "goals_against": 34,
+          "goal_difference": 33,
+          "points": 80,
           "streak": {},
-          "record": "25-4-8"
+          "record": "24-8-6"
         },
         {
           "rank": 3,
           "group": "2025-26 Scottish Premiership",
           "team": "Rangers",
           "abbreviation": "RAN",
-          "played": 37,
-          "wins": 19,
+          "played": 38,
+          "wins": 20,
           "draws": 12,
           "losses": 6,
-          "goals_for": 71,
-          "goals_against": 41,
-          "goal_difference": 30,
-          "points": 69,
+          "goals_for": 76,
+          "goals_against": 43,
+          "goal_difference": 33,
+          "points": 72,
           "streak": {},
-          "record": "19-12-6"
+          "record": "20-12-6"
         },
         {
           "rank": 4,
           "group": "2025-26 Scottish Premiership",
           "team": "Motherwell",
           "abbreviation": "MOT",
-          "played": 37,
-          "wins": 15,
+          "played": 38,
+          "wins": 16,
           "draws": 13,
           "losses": 9,
-          "goals_for": 58,
+          "goals_for": 59,
           "goals_against": 36,
-          "goal_difference": 22,
-          "points": 58,
+          "goal_difference": 23,
+          "points": 61,
           "streak": {},
-          "record": "15-13-9"
+          "record": "16-13-9"
         },
         {
           "rank": 5,
           "group": "2025-26 Scottish Premiership",
           "team": "Hibernian",
           "abbreviation": "HIBS",
-          "played": 37,
+          "played": 38,
           "wins": 15,
           "draws": 12,
-          "losses": 10,
+          "losses": 11,
           "goals_for": 58,
-          "goals_against": 43,
-          "goal_difference": 15,
+          "goals_against": 44,
+          "goal_difference": 14,
           "points": 57,
           "streak": {},
-          "record": "15-12-10"
+          "record": "15-12-11"
         },
         {
           "rank": 6,
           "group": "2025-26 Scottish Premiership",
           "team": "Falkirk",
           "abbreviation": "FALK",
-          "played": 37,
+          "played": 38,
           "wins": 14,
           "draws": 7,
-          "losses": 16,
-          "goals_for": 48,
-          "goals_against": 57,
-          "goal_difference": -9,
+          "losses": 17,
+          "goals_for": 50,
+          "goals_against": 62,
+          "goal_difference": -12,
           "points": 49,
           "streak": {},
-          "record": "14-7-16"
+          "record": "14-7-17"
         },
         {
           "rank": 7,
