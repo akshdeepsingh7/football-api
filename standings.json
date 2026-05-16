@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16 21:26:52 UTC",
-  "generated_at_iso": "2026-05-16T21:26:52.051846+00:00",
+  "generated_at": "2026-05-16 22:26:04 UTC",
+  "generated_at_iso": "2026-05-16T22:26:04.917434+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -2902,7 +2902,7 @@
       "top_performers": {
         "best_attack": {
           "team": "Sporting CP",
-          "goals_for": 86
+          "goals_for": 89
         },
         "best_defence": {
           "team": "FC Porto",
@@ -2914,7 +2914,7 @@
         },
         "best_goal_difference": {
           "team": "Sporting CP",
-          "goal_difference": 62
+          "goal_difference": 65
         }
       },
       "teams": [
@@ -2939,32 +2939,32 @@
           "group": "2025-2026 Portuguese Liga",
           "team": "Sporting CP",
           "abbreviation": "SCP",
-          "played": 33,
-          "wins": 24,
+          "played": 34,
+          "wins": 25,
           "draws": 7,
           "losses": 2,
-          "goals_for": 86,
+          "goals_for": 89,
           "goals_against": 24,
-          "goal_difference": 62,
-          "points": 79,
+          "goal_difference": 65,
+          "points": 82,
           "streak": {},
-          "record": "24-7-2"
+          "record": "25-7-2"
         },
         {
           "rank": 3,
           "group": "2025-2026 Portuguese Liga",
           "team": "Benfica",
           "abbreviation": "SLB",
-          "played": 33,
-          "wins": 22,
+          "played": 34,
+          "wins": 23,
           "draws": 11,
           "losses": 0,
-          "goals_for": 71,
-          "goals_against": 24,
-          "goal_difference": 47,
-          "points": 77,
+          "goals_for": 74,
+          "goals_against": 25,
+          "goal_difference": 49,
+          "points": 80,
           "streak": {},
-          "record": "22-11-0"
+          "record": "23-11-0"
         },
         {
           "rank": 4,
@@ -2987,32 +2987,32 @@
           "group": "2025-2026 Portuguese Liga",
           "team": "FC Famalicao",
           "abbreviation": "FCF",
-          "played": 33,
-          "wins": 14,
+          "played": 34,
+          "wins": 15,
           "draws": 11,
           "losses": 8,
-          "goals_for": 41,
+          "goals_for": 42,
           "goals_against": 29,
-          "goal_difference": 12,
-          "points": 53,
+          "goal_difference": 13,
+          "points": 56,
           "streak": {},
-          "record": "14-11-8"
+          "record": "15-11-8"
         },
         {
           "rank": 6,
           "group": "2025-2026 Portuguese Liga",
           "team": "Gil Vicente",
           "abbreviation": "GVFC",
-          "played": 33,
+          "played": 34,
           "wins": 13,
           "draws": 11,
-          "losses": 9,
+          "losses": 10,
           "goals_for": 47,
-          "goals_against": 35,
-          "goal_difference": 12,
+          "goals_against": 38,
+          "goal_difference": 9,
           "points": 50,
           "streak": {},
-          "record": "13-11-9"
+          "record": "13-11-10"
         },
         {
           "rank": 7,
@@ -3067,32 +3067,32 @@
           "group": "2025-2026 Portuguese Liga",
           "team": "Estoril",
           "abbreviation": "EPF",
-          "played": 33,
+          "played": 34,
           "wins": 10,
           "draws": 9,
-          "losses": 14,
-          "goals_for": 53,
-          "goals_against": 54,
-          "goal_difference": -1,
+          "losses": 15,
+          "goals_for": 54,
+          "goals_against": 57,
+          "goal_difference": -3,
           "points": 39,
           "streak": {},
-          "record": "10-9-14"
+          "record": "10-9-15"
         },
         {
           "rank": 11,
           "group": "2025-2026 Portuguese Liga",
           "team": "Alverca",
           "abbreviation": "ALV",
-          "played": 33,
+          "played": 34,
           "wins": 10,
           "draws": 9,
-          "losses": 14,
+          "losses": 15,
           "goals_for": 35,
-          "goals_against": 51,
-          "goal_difference": -16,
+          "goals_against": 52,
+          "goal_difference": -17,
           "points": 39,
           "streak": {},
-          "record": "10-9-14"
+          "record": "10-9-15"
         },
         {
           "rank": 12,
