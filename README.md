@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-17 04:10:22 UTC
+> **Last updated:** 2026-05-17 07:22:48 UTC
 
 ---
 
@@ -197,7 +197,7 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 | Best Attack | **Inter Miami CF** | 31 goals |
 | Best Defence | **Nashville SC** | 8 goals conceded |
 | Most Wins | **San Jose Earthquakes** | 9 wins |
-| Best GD | **Vancouver Whitecaps** | +21 |
+| Best GD | **Vancouver Whitecaps** | +20 |
 
 ---
 
@@ -240,7 +240,7 @@ A breakdown of all leagues and teams by football confederation.
 
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
-| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1038 | 1038 |
+| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1073 | 1073 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 894 | 894 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8718 | 8718 |
 
@@ -561,36 +561,36 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 3 | Eastern Conference | **Chicago Fire FC** | 13 | 7 | 2 | 4 | 25 | 15 | +10 | **23** |
-| 13 | Eastern Conference | **Columbus Crew** | 13 | 3 | 3 | 7 | 18 | 22 | -4 | **12** |
-| 4 | Eastern Conference | **New England Revolution** | 12 | 7 | 1 | 4 | 20 | 16 | +4 | **22** |
-| 6 | Eastern Conference | **Red Bull New York** | 13 | 5 | 3 | 5 | 22 | 30 | -8 | **18** |
-| 7 | Eastern Conference | **D.C. United** | 13 | 4 | 4 | 5 | 16 | 20 | -4 | **16** |
-| 10 | Eastern Conference | **Toronto FC** | 12 | 3 | 5 | 4 | 20 | 24 | -4 | **14** |
-| 11 | Eastern Conference | **CF Montréal** | 13 | 4 | 1 | 8 | 18 | 27 | -9 | **13** |
-| 15 | Eastern Conference | **Philadelphia Union** | 13 | 1 | 3 | 9 | 13 | 23 | -10 | **6** |
-| 12 | Eastern Conference | **Orlando City SC** | 13 | 4 | 1 | 8 | 20 | 37 | -17 | **13** |
-| 5 | Eastern Conference | **New York City FC** | 13 | 5 | 3 | 5 | 23 | 18 | +5 | **18** |
-| 8 | Eastern Conference | **FC Cincinnati** | 13 | 4 | 4 | 5 | 27 | 32 | -5 | **16** |
-| 14 | Eastern Conference | **Atlanta United FC** | 12 | 3 | 1 | 8 | 13 | 20 | -7 | **10** |
+| 4 | Eastern Conference | **Chicago Fire FC** | 13 | 7 | 2 | 4 | 25 | 15 | +10 | **23** |
+| 13 | Eastern Conference | **Columbus Crew** | 14 | 3 | 4 | 7 | 19 | 23 | -4 | **13** |
+| 2 | Eastern Conference | **New England Revolution** | 13 | 8 | 1 | 4 | 22 | 17 | +5 | **25** |
+| 6 | Eastern Conference | **Red Bull New York** | 14 | 5 | 4 | 5 | 23 | 31 | -8 | **19** |
+| 8 | Eastern Conference | **D.C. United** | 14 | 4 | 5 | 5 | 17 | 21 | -4 | **17** |
+| 11 | Eastern Conference | **Toronto FC** | 13 | 3 | 5 | 5 | 21 | 27 | -6 | **14** |
+| 12 | Eastern Conference | **CF Montréal** | 13 | 4 | 1 | 8 | 18 | 27 | -9 | **13** |
+| 15 | Eastern Conference | **Philadelphia Union** | 14 | 1 | 4 | 9 | 14 | 24 | -10 | **7** |
+| 10 | Eastern Conference | **Orlando City SC** | 14 | 4 | 2 | 8 | 21 | 38 | -17 | **14** |
+| 5 | Eastern Conference | **New York City FC** | 14 | 5 | 4 | 5 | 24 | 19 | +5 | **19** |
+| 9 | Eastern Conference | **FC Cincinnati** | 14 | 4 | 5 | 5 | 30 | 35 | -5 | **17** |
+| 14 | Eastern Conference | **Atlanta United FC** | 13 | 3 | 2 | 8 | 14 | 21 | -7 | **11** |
 | 1 | Eastern Conference | **Nashville SC** | 12 | 8 | 3 | 1 | 26 | 8 | +18 | **27** |
-| 2 | Eastern Conference | **Inter Miami CF** | 13 | 7 | 4 | 2 | 31 | 24 | +7 | **25** |
-| 9 | Eastern Conference | **Charlotte FC** | 13 | 4 | 3 | 6 | 20 | 22 | -2 | **15** |
-| 9 | Western Conference | **Colorado Rapids** | 13 | 5 | 1 | 7 | 23 | 20 | +3 | **16** |
-| 7 | Western Conference | **FC Dallas** | 13 | 5 | 4 | 4 | 25 | 19 | +6 | **19** |
-| 15 | Western Conference | **Sporting Kansas City** | 12 | 2 | 2 | 8 | 11 | 33 | -22 | **8** |
-| 11 | Western Conference | **LA Galaxy** | 13 | 4 | 4 | 5 | 19 | 21 | -2 | **16** |
-| 2 | Western Conference | **San Jose Earthquakes** | 13 | 9 | 2 | 2 | 29 | 11 | +18 | **29** |
-| 4 | Western Conference | **Real Salt Lake** | 12 | 7 | 1 | 4 | 23 | 17 | +6 | **22** |
-| 8 | Western Conference | **Houston Dynamo FC** | 12 | 6 | 0 | 6 | 17 | 22 | -5 | **18** |
+| 3 | Eastern Conference | **Inter Miami CF** | 13 | 7 | 4 | 2 | 31 | 24 | +7 | **25** |
+| 7 | Eastern Conference | **Charlotte FC** | 14 | 5 | 3 | 6 | 23 | 23 | 0 | **18** |
+| 11 | Western Conference | **Colorado Rapids** | 14 | 5 | 1 | 8 | 24 | 22 | +2 | **16** |
+| 5 | Western Conference | **FC Dallas** | 14 | 6 | 4 | 4 | 28 | 21 | +7 | **22** |
+| 15 | Western Conference | **Sporting Kansas City** | 13 | 3 | 2 | 8 | 13 | 34 | -21 | **11** |
+| 9 | Western Conference | **LA Galaxy** | 14 | 5 | 4 | 5 | 21 | 21 | 0 | **19** |
+| 2 | Western Conference | **San Jose Earthquakes** | 14 | 9 | 2 | 3 | 31 | 14 | +17 | **29** |
+| 3 | Western Conference | **Real Salt Lake** | 13 | 8 | 1 | 4 | 25 | 18 | +7 | **25** |
+| 6 | Western Conference | **Houston Dynamo FC** | 13 | 7 | 0 | 6 | 18 | 22 | -4 | **21** |
 | 12 | Western Conference | **Portland Timbers** | 12 | 4 | 2 | 6 | 21 | 23 | -2 | **14** |
-| 3 | Western Conference | **Seattle Sounders FC** | 11 | 7 | 3 | 1 | 17 | 8 | +9 | **24** |
-| 1 | Western Conference | **Vancouver Whitecaps** | 12 | 9 | 2 | 1 | 30 | 9 | +21 | **29** |
-| 6 | Western Conference | **Minnesota United FC** | 13 | 6 | 3 | 4 | 16 | 19 | -3 | **21** |
-| 5 | Western Conference | **LAFC** | 13 | 6 | 3 | 4 | 21 | 14 | +7 | **21** |
-| 13 | Western Conference | **Austin FC** | 13 | 3 | 5 | 5 | 18 | 26 | -8 | **14** |
-| 14 | Western Conference | **St. Louis CITY SC** | 12 | 3 | 3 | 6 | 12 | 19 | -7 | **12** |
-| 10 | Western Conference | **San Diego FC** | 13 | 4 | 4 | 5 | 25 | 20 | +5 | **16** |
+| 4 | Western Conference | **Seattle Sounders FC** | 12 | 7 | 3 | 2 | 17 | 10 | +7 | **24** |
+| 1 | Western Conference | **Vancouver Whitecaps** | 13 | 9 | 2 | 2 | 30 | 10 | +20 | **29** |
+| 8 | Western Conference | **Minnesota United FC** | 14 | 6 | 3 | 5 | 17 | 21 | -4 | **21** |
+| 7 | Western Conference | **LAFC** | 13 | 6 | 3 | 4 | 21 | 14 | +7 | **21** |
+| 13 | Western Conference | **Austin FC** | 14 | 3 | 5 | 6 | 19 | 28 | -9 | **14** |
+| 14 | Western Conference | **St. Louis CITY SC** | 13 | 3 | 4 | 6 | 13 | 20 | -7 | **13** |
+| 10 | Western Conference | **San Diego FC** | 14 | 4 | 5 | 5 | 28 | 23 | +5 | **17** |
 
 ---
 
