@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-16 23:31:12 UTC
+> **Last updated:** 2026-05-17 04:10:22 UTC
 
 ---
 
@@ -59,7 +59,7 @@
 | **Turkish Super Lig** | Turkey | UEFA | 18 | **Galatasaray** | 77 |
 | **Scottish Premiership** | Scotland | UEFA | 12 | **Celtic** | 82 |
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 23 |
-| **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 34 |
+| **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 35 |
 | **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Boca Juniors** | 30 |
 | **Mexican Liga MX** | Mexico | CONCACAF | 18 | **Pumas UNAM** | 36 |
 
@@ -206,7 +206,7 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 | Category | Team | Stat |
 |----------|------|------|
 | Best Attack | **Flamengo** | 27 goals |
-| Best Defence | **Palmeiras** | 12 goals conceded |
+| Best Defence | **Flamengo** | 12 goals conceded |
 | Most Wins | **Palmeiras** | 10 wins |
 | Best GD | **Flamengo** | +15 |
 
@@ -241,7 +241,7 @@ A breakdown of all leagues and teams by football confederation.
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1038 | 1038 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 880 | 880 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 894 | 894 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8718 | 8718 |
 
 ---
@@ -598,24 +598,24 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026 | **Palmeiras** | 15 | 10 | 4 | 1 | 25 | 12 | +13 | **34** |
+| 1 | 2026 | **Palmeiras** | 16 | 10 | 5 | 1 | 26 | 13 | +13 | **35** |
 | 2 | 2026 | **Flamengo** | 14 | 9 | 3 | 2 | 27 | 12 | +15 | **30** |
-| 3 | 2026 | **Fluminense** | 15 | 8 | 3 | 4 | 25 | 20 | +5 | **27** |
-| 4 | 2026 | **São Paulo** | 15 | 7 | 3 | 5 | 21 | 16 | +5 | **24** |
+| 3 | 2026 | **Fluminense** | 16 | 9 | 3 | 4 | 27 | 21 | +6 | **30** |
+| 4 | 2026 | **São Paulo** | 16 | 7 | 3 | 6 | 22 | 18 | +4 | **24** |
 | 5 | 2026 | **Athletico Paranaense** | 15 | 7 | 2 | 6 | 20 | 16 | +4 | **23** |
 | 6 | 2026 | **Bahia** | 14 | 6 | 4 | 4 | 20 | 18 | +2 | **22** |
-| 7 | 2026 | **Red Bull Bragantino** | 15 | 6 | 2 | 7 | 17 | 18 | -1 | **20** |
-| 8 | 2026 | **Vasco da Gama** | 15 | 5 | 5 | 5 | 21 | 21 | 0 | **20** |
-| 9 | 2026 | **Coritiba** | 15 | 5 | 5 | 5 | 18 | 19 | -1 | **20** |
-| 10 | 2026 | **Vitória** | 14 | 5 | 4 | 5 | 18 | 20 | -2 | **19** |
-| 11 | 2026 | **Cruzeiro** | 15 | 5 | 4 | 6 | 20 | 25 | -5 | **19** |
-| 12 | 2026 | **Botafogo** | 14 | 5 | 3 | 6 | 26 | 27 | -1 | **18** |
-| 13 | 2026 | **Atlético-MG** | 15 | 5 | 3 | 7 | 18 | 21 | -3 | **18** |
-| 14 | 2026 | **Internacional** | 15 | 4 | 6 | 5 | 16 | 16 | 0 | **18** |
+| 7 | 2026 | **Atlético-MG** | 16 | 6 | 3 | 7 | 21 | 22 | -1 | **21** |
+| 8 | 2026 | **Internacional** | 16 | 5 | 6 | 5 | 20 | 17 | +3 | **21** |
+| 9 | 2026 | **Red Bull Bragantino** | 15 | 6 | 2 | 7 | 17 | 18 | -1 | **20** |
+| 10 | 2026 | **Coritiba** | 15 | 5 | 5 | 5 | 18 | 19 | -1 | **20** |
+| 11 | 2026 | **Vasco da Gama** | 16 | 5 | 5 | 6 | 22 | 25 | -3 | **20** |
+| 12 | 2026 | **Cruzeiro** | 16 | 5 | 5 | 6 | 21 | 26 | -5 | **20** |
+| 13 | 2026 | **Vitória** | 14 | 5 | 4 | 5 | 18 | 20 | -2 | **19** |
+| 14 | 2026 | **Botafogo** | 14 | 5 | 3 | 6 | 26 | 27 | -1 | **18** |
 | 15 | 2026 | **Santos** | 15 | 4 | 6 | 5 | 21 | 22 | -1 | **18** |
 | 16 | 2026 | **Corinthians** | 15 | 4 | 6 | 5 | 13 | 15 | -2 | **18** |
 | 17 | 2026 | **Grêmio** | 15 | 4 | 5 | 6 | 15 | 17 | -2 | **17** |
-| 18 | 2026 | **Mirassol** | 14 | 3 | 4 | 7 | 16 | 20 | -4 | **13** |
+| 18 | 2026 | **Mirassol** | 15 | 3 | 4 | 8 | 17 | 23 | -6 | **13** |
 | 19 | 2026 | **Remo** | 15 | 2 | 6 | 7 | 16 | 25 | -9 | **12** |
 | 20 | 2026 | **Chapecoense** | 14 | 1 | 6 | 7 | 14 | 27 | -13 | **9** |
 
