@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17 17:06:30 UTC",
-  "generated_at_iso": "2026-05-17T17:06:30.723480+00:00",
+  "generated_at": "2026-05-17 18:36:50 UTC",
+  "generated_at_iso": "2026-05-17T18:36:50.828921+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -197,6 +197,22 @@
         {
           "rank": 11,
           "group": "English Premier League 2025-2026",
+          "team": "Newcastle United",
+          "abbreviation": "NEW",
+          "played": 37,
+          "wins": 14,
+          "draws": 7,
+          "losses": 16,
+          "goals_for": 53,
+          "goals_against": 53,
+          "goal_difference": 0,
+          "points": 49,
+          "streak": {},
+          "record": "14-7-16"
+        },
+        {
+          "rank": 12,
+          "group": "English Premier League 2025-2026",
           "team": "Everton",
           "abbreviation": "EVE",
           "played": 37,
@@ -211,7 +227,7 @@
           "record": "13-10-14"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "English Premier League 2025-2026",
           "team": "Fulham",
           "abbreviation": "FUL",
@@ -227,7 +243,7 @@
           "record": "14-7-16"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "group": "English Premier League 2025-2026",
           "team": "Leeds United",
           "abbreviation": "LEE",
@@ -241,22 +257,6 @@
           "points": 47,
           "streak": {},
           "record": "11-14-12"
-        },
-        {
-          "rank": 14,
-          "group": "English Premier League 2025-2026",
-          "team": "Newcastle United",
-          "abbreviation": "NEW",
-          "played": 36,
-          "wins": 13,
-          "draws": 7,
-          "losses": 16,
-          "goals_for": 50,
-          "goals_against": 52,
-          "goal_difference": -2,
-          "points": 46,
-          "streak": {},
-          "record": "13-7-16"
         },
         {
           "rank": 15,
@@ -311,16 +311,16 @@
           "group": "English Premier League 2025-2026",
           "team": "West Ham United",
           "abbreviation": "WHU",
-          "played": 36,
+          "played": 37,
           "wins": 9,
           "draws": 9,
-          "losses": 18,
-          "goals_for": 42,
-          "goals_against": 62,
-          "goal_difference": -20,
+          "losses": 19,
+          "goals_for": 43,
+          "goals_against": 65,
+          "goal_difference": -22,
           "points": 36,
           "streak": {},
-          "record": "9-9-18"
+          "record": "9-9-19"
         },
         {
           "rank": 19,
@@ -831,32 +831,32 @@
           "group": "2025-2026 Italian Serie A",
           "team": "Atalanta",
           "abbreviation": "ATA",
-          "played": 36,
+          "played": 37,
           "wins": 15,
           "draws": 13,
-          "losses": 8,
+          "losses": 9,
           "goals_for": 50,
-          "goals_against": 34,
-          "goal_difference": 16,
+          "goals_against": 35,
+          "goal_difference": 15,
           "points": 58,
           "streak": {},
-          "record": "15-13-8"
+          "record": "15-13-9"
         },
         {
           "rank": 8,
           "group": "2025-2026 Italian Serie A",
           "team": "Bologna",
           "abbreviation": "BOL",
-          "played": 36,
-          "wins": 15,
+          "played": 37,
+          "wins": 16,
           "draws": 7,
           "losses": 14,
-          "goals_for": 45,
+          "goals_for": 46,
           "goals_against": 43,
-          "goal_difference": 2,
-          "points": 52,
+          "goal_difference": 3,
+          "points": 55,
           "streak": {},
-          "record": "15-7-14"
+          "record": "16-7-14"
         },
         {
           "rank": 9,

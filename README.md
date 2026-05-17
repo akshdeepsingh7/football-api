@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-17 17:06:30 UTC
+> **Last updated:** 2026-05-17 18:36:50 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1073 | 1073 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 897 | 897 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8792 | 8792 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8797 | 8797 |
 
 ---
 
@@ -260,14 +260,14 @@ A breakdown of all leagues and teams by football confederation.
 | 8 | English Premier League 2025-2026 | **Brentford** | 37 | 14 | 10 | 13 | 54 | 51 | +3 | **52** |
 | 9 | English Premier League 2025-2026 | **Sunderland** | 37 | 13 | 12 | 12 | 40 | 47 | -7 | **51** |
 | 10 | English Premier League 2025-2026 | **Chelsea** | 36 | 13 | 10 | 13 | 55 | 49 | +6 | **49** |
-| 11 | English Premier League 2025-2026 | **Everton** | 37 | 13 | 10 | 14 | 47 | 49 | -2 | **49** |
-| 12 | English Premier League 2025-2026 | **Fulham** | 37 | 14 | 7 | 16 | 45 | 51 | -6 | **49** |
-| 13 | English Premier League 2025-2026 | **Leeds United** | 37 | 11 | 14 | 12 | 49 | 53 | -4 | **47** |
-| 14 | English Premier League 2025-2026 | **Newcastle United** | 36 | 13 | 7 | 16 | 50 | 52 | -2 | **46** |
+| 11 | English Premier League 2025-2026 | **Newcastle United** | 37 | 14 | 7 | 16 | 53 | 53 | 0 | **49** |
+| 12 | English Premier League 2025-2026 | **Everton** | 37 | 13 | 10 | 14 | 47 | 49 | -2 | **49** |
+| 13 | English Premier League 2025-2026 | **Fulham** | 37 | 14 | 7 | 16 | 45 | 51 | -6 | **49** |
+| 14 | English Premier League 2025-2026 | **Leeds United** | 37 | 11 | 14 | 12 | 49 | 53 | -4 | **47** |
 | 15 | English Premier League 2025-2026 | **Crystal Palace** | 37 | 11 | 12 | 14 | 40 | 49 | -9 | **45** |
 | 16 | English Premier League 2025-2026 | **Nottingham Forest** | 37 | 11 | 10 | 16 | 47 | 50 | -3 | **43** |
 | 17 | English Premier League 2025-2026 | **Tottenham Hotspur** | 36 | 9 | 11 | 16 | 46 | 55 | -9 | **38** |
-| 18 | English Premier League 2025-2026 | **West Ham United** | 36 | 9 | 9 | 18 | 42 | 62 | -20 | **36** |
+| 18 | English Premier League 2025-2026 | **West Ham United** | 37 | 9 | 9 | 19 | 43 | 65 | -22 | **36** |
 | 19 | English Premier League 2025-2026 | **Burnley** | 36 | 4 | 9 | 23 | 37 | 73 | -36 | **21** |
 | 20 | English Premier League 2025-2026 | **Wolverhampton Wanderers** | 37 | 3 | 10 | 24 | 26 | 67 | -41 | **19** |
 
@@ -310,8 +310,8 @@ A breakdown of all leagues and teams by football confederation.
 | 4 | 2025-2026 Italian Serie A | **AS Roma** | 37 | 22 | 4 | 11 | 57 | 31 | +26 | **70** |
 | 5 | 2025-2026 Italian Serie A | **Como** | 37 | 19 | 11 | 7 | 61 | 28 | +33 | **68** |
 | 6 | 2025-2026 Italian Serie A | **Juventus** | 37 | 19 | 11 | 7 | 59 | 32 | +27 | **68** |
-| 7 | 2025-2026 Italian Serie A | **Atalanta** | 36 | 15 | 13 | 8 | 50 | 34 | +16 | **58** |
-| 8 | 2025-2026 Italian Serie A | **Bologna** | 36 | 15 | 7 | 14 | 45 | 43 | +2 | **52** |
+| 7 | 2025-2026 Italian Serie A | **Atalanta** | 37 | 15 | 13 | 9 | 50 | 35 | +15 | **58** |
+| 8 | 2025-2026 Italian Serie A | **Bologna** | 37 | 16 | 7 | 14 | 46 | 43 | +3 | **55** |
 | 9 | 2025-2026 Italian Serie A | **Lazio** | 37 | 13 | 12 | 12 | 39 | 39 | 0 | **51** |
 | 10 | 2025-2026 Italian Serie A | **Udinese** | 36 | 14 | 8 | 14 | 45 | 46 | -1 | **50** |
 | 11 | 2025-2026 Italian Serie A | **Sassuolo** | 36 | 14 | 7 | 15 | 44 | 46 | -2 | **49** |
