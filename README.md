@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-17 14:06:57 UTC
+> **Last updated:** 2026-05-17 15:39:36 UTC
 
 ---
 
@@ -49,13 +49,13 @@
 |--------|---------|--------------|-------|--------|--------|
 | **English Premier League** | England | UEFA | 20 | **Arsenal** | 79 |
 | **Spanish La Liga** | Spain | UEFA | 20 | **Barcelona** | 91 |
-| **Italian Serie A** | Italy | UEFA | 20 | **Internazionale** | 85 |
+| **Italian Serie A** | Italy | UEFA | 20 | **Internazionale** | 86 |
 | **German Bundesliga** | Germany | UEFA | 18 | **Bayern Munich** | 89 |
 | **French Ligue 1** | France | UEFA | 18 | **Paris Saint-Germain** | 76 |
 | **UEFA Champions League** | Europe | UEFA | 36 | **Arsenal** | 24 |
 | **UEFA Europa League** | Europe | UEFA | 36 | **Lyon** | 21 |
 | **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **FC Porto** | 88 |
-| **Dutch Eredivisie** | Netherlands | UEFA | 18 | **PSV Eindhoven** | 81 |
+| **Dutch Eredivisie** | Netherlands | UEFA | 18 | **PSV Eindhoven** | 84 |
 | **Turkish Super Lig** | Turkey | UEFA | 18 | **Galatasaray** | 77 |
 | **Scottish Premiership** | Scotland | UEFA | 12 | **Celtic** | 82 |
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 23 |
@@ -95,7 +95,7 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Internazionale** | 85 goals |
+| Best Attack | **Internazionale** | 86 goals |
 | Best Defence | **Como** | 28 goals conceded |
 | Most Wins | **Internazionale** | 27 wins |
 | Best GD | **Internazionale** | +54 |
@@ -161,10 +161,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **PSV Eindhoven** | 96 goals |
-| Best Defence | **FC Twente** | 35 goals conceded |
-| Most Wins | **PSV Eindhoven** | 26 wins |
-| Best GD | **PSV Eindhoven** | +52 |
+| Best Attack | **PSV Eindhoven** | 101 goals |
+| Best Defence | **FC Twente** | 40 goals conceded |
+| Most Wins | **PSV Eindhoven** | 27 wins |
+| Best GD | **PSV Eindhoven** | +56 |
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1073 | 1073 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 894 | 894 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8734 | 8734 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8778 | 8778 |
 
 ---
 
@@ -304,7 +304,7 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-2026 Italian Serie A | **Internazionale** | 36 | 27 | 4 | 5 | 85 | 31 | +54 | **85** |
+| 1 | 2025-2026 Italian Serie A | **Internazionale** | 37 | 27 | 5 | 5 | 86 | 32 | +54 | **86** |
 | 2 | 2025-2026 Italian Serie A | **Napoli** | 37 | 22 | 7 | 8 | 57 | 36 | +21 | **73** |
 | 3 | 2025-2026 Italian Serie A | **AC Milan** | 37 | 20 | 10 | 7 | 52 | 33 | +19 | **70** |
 | 4 | 2025-2026 Italian Serie A | **AS Roma** | 37 | 22 | 4 | 11 | 57 | 31 | +26 | **70** |
@@ -322,7 +322,7 @@ A breakdown of all leagues and teams by football confederation.
 | 16 | 2025-2026 Italian Serie A | **Cagliari** | 36 | 9 | 10 | 17 | 36 | 51 | -15 | **37** |
 | 17 | 2025-2026 Italian Serie A | **Lecce** | 36 | 8 | 8 | 20 | 24 | 48 | -24 | **32** |
 | 18 | 2025-2026 Italian Serie A | **Cremonese** | 36 | 7 | 10 | 19 | 30 | 53 | -23 | **31** |
-| 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 36 | 3 | 11 | 22 | 24 | 58 | -34 | **20** |
+| 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 37 | 3 | 12 | 22 | 25 | 59 | -34 | **21** |
 | 20 | 2025-2026 Italian Serie A | **Pisa** | 37 | 2 | 12 | 23 | 25 | 69 | -44 | **18** |
 
 ---
@@ -492,24 +492,24 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-2026 Dutch Eredivisie | **PSV Eindhoven** | 33 | 26 | 3 | 4 | 96 | 44 | +52 | **81** |
-| 2 | 2025-2026 Dutch Eredivisie | **Feyenoord Rotterdam** | 33 | 18 | 8 | 7 | 68 | 44 | +24 | **62** |
-| 3 | 2025-2026 Dutch Eredivisie | **FC Twente** | 33 | 15 | 13 | 5 | 58 | 35 | +23 | **58** |
-| 4 | 2025-2026 Dutch Eredivisie | **NEC Nijmegen** | 33 | 15 | 11 | 7 | 75 | 52 | +23 | **56** |
-| 5 | 2025-2026 Dutch Eredivisie | **Ajax Amsterdam** | 33 | 14 | 13 | 6 | 62 | 41 | +21 | **55** |
-| 6 | 2025-2026 Dutch Eredivisie | **AZ Alkmaar** | 33 | 14 | 9 | 10 | 55 | 48 | +7 | **51** |
-| 7 | 2025-2026 Dutch Eredivisie | **FC Utrecht** | 33 | 14 | 8 | 11 | 53 | 42 | +11 | **50** |
-| 8 | 2025-2026 Dutch Eredivisie | **Heerenveen** | 33 | 14 | 8 | 11 | 57 | 53 | +4 | **50** |
-| 9 | 2025-2026 Dutch Eredivisie | **FC Groningen** | 33 | 13 | 6 | 14 | 47 | 44 | +3 | **45** |
-| 10 | 2025-2026 Dutch Eredivisie | **Sparta Rotterdam** | 33 | 12 | 7 | 14 | 38 | 59 | -21 | **43** |
-| 11 | 2025-2026 Dutch Eredivisie | **Fortuna Sittard** | 33 | 11 | 6 | 16 | 49 | 61 | -12 | **39** |
-| 12 | 2025-2026 Dutch Eredivisie | **Go Ahead Eagles** | 33 | 8 | 14 | 11 | 53 | 51 | +2 | **38** |
-| 13 | 2025-2026 Dutch Eredivisie | **PEC Zwolle** | 33 | 9 | 10 | 14 | 44 | 69 | -25 | **37** |
-| 14 | 2025-2026 Dutch Eredivisie | **Excelsior** | 33 | 9 | 8 | 16 | 40 | 54 | -14 | **35** |
-| 15 | 2025-2026 Dutch Eredivisie | **Telstar** | 33 | 8 | 10 | 15 | 47 | 54 | -7 | **34** |
-| 16 | 2025-2026 Dutch Eredivisie | **FC Volendam** | 33 | 8 | 8 | 17 | 34 | 53 | -19 | **32** |
-| 17 | 2025-2026 Dutch Eredivisie | **NAC Breda** | 33 | 6 | 10 | 17 | 32 | 55 | -23 | **28** |
-| 18 | 2025-2026 Dutch Eredivisie | **Heracles Almelo** | 33 | 5 | 4 | 24 | 34 | 83 | -49 | **19** |
+| 1 | 2025-2026 Dutch Eredivisie | **PSV Eindhoven** | 34 | 27 | 3 | 4 | 101 | 45 | +56 | **84** |
+| 2 | 2025-2026 Dutch Eredivisie | **Feyenoord Rotterdam** | 34 | 19 | 8 | 7 | 70 | 44 | +26 | **65** |
+| 3 | 2025-2026 Dutch Eredivisie | **NEC Nijmegen** | 34 | 16 | 11 | 7 | 77 | 53 | +24 | **59** |
+| 4 | 2025-2026 Dutch Eredivisie | **FC Twente** | 34 | 15 | 13 | 6 | 59 | 40 | +19 | **58** |
+| 5 | 2025-2026 Dutch Eredivisie | **Ajax Amsterdam** | 34 | 14 | 14 | 6 | 62 | 41 | +21 | **56** |
+| 6 | 2025-2026 Dutch Eredivisie | **FC Utrecht** | 34 | 15 | 8 | 11 | 55 | 42 | +13 | **53** |
+| 7 | 2025-2026 Dutch Eredivisie | **AZ Alkmaar** | 34 | 14 | 10 | 10 | 58 | 51 | +7 | **52** |
+| 8 | 2025-2026 Dutch Eredivisie | **Heerenveen** | 34 | 14 | 9 | 11 | 57 | 53 | +4 | **51** |
+| 9 | 2025-2026 Dutch Eredivisie | **FC Groningen** | 34 | 14 | 6 | 14 | 49 | 45 | +4 | **48** |
+| 10 | 2025-2026 Dutch Eredivisie | **Sparta Rotterdam** | 34 | 12 | 7 | 15 | 40 | 62 | -22 | **43** |
+| 11 | 2025-2026 Dutch Eredivisie | **Fortuna Sittard** | 34 | 11 | 6 | 17 | 49 | 63 | -14 | **39** |
+| 12 | 2025-2026 Dutch Eredivisie | **Go Ahead Eagles** | 34 | 8 | 14 | 12 | 54 | 53 | +1 | **38** |
+| 13 | 2025-2026 Dutch Eredivisie | **Excelsior** | 34 | 10 | 8 | 16 | 43 | 56 | -13 | **38** |
+| 14 | 2025-2026 Dutch Eredivisie | **Telstar** | 34 | 9 | 10 | 15 | 49 | 55 | -6 | **37** |
+| 15 | 2025-2026 Dutch Eredivisie | **PEC Zwolle** | 34 | 9 | 10 | 15 | 44 | 71 | -27 | **37** |
+| 16 | 2025-2026 Dutch Eredivisie | **FC Volendam** | 34 | 8 | 8 | 18 | 35 | 55 | -20 | **32** |
+| 17 | 2025-2026 Dutch Eredivisie | **NAC Breda** | 34 | 6 | 11 | 17 | 35 | 58 | -23 | **29** |
+| 18 | 2025-2026 Dutch Eredivisie | **Heracles Almelo** | 34 | 5 | 4 | 25 | 35 | 85 | -50 | **19** |
 
 ---
 
@@ -548,12 +548,12 @@ A breakdown of all leagues and teams by football confederation.
 | 4 | 2025-26 Scottish Premiership | **Motherwell** | 38 | 16 | 13 | 9 | 59 | 36 | +23 | **61** |
 | 5 | 2025-26 Scottish Premiership | **Hibernian** | 38 | 15 | 12 | 11 | 58 | 44 | +14 | **57** |
 | 6 | 2025-26 Scottish Premiership | **Falkirk** | 38 | 14 | 7 | 17 | 50 | 62 | -12 | **49** |
-| 7 | 2025-26 Scottish Premiership | **Dundee United** | 37 | 10 | 14 | 13 | 48 | 59 | -11 | **44** |
-| 8 | 2025-26 Scottish Premiership | **Aberdeen** | 37 | 11 | 7 | 19 | 38 | 52 | -14 | **40** |
-| 9 | 2025-26 Scottish Premiership | **Dundee** | 37 | 10 | 9 | 18 | 39 | 59 | -20 | **39** |
-| 10 | 2025-26 Scottish Premiership | **Kilmarnock** | 37 | 9 | 10 | 18 | 46 | 67 | -21 | **37** |
-| 11 | 2025-26 Scottish Premiership | **St Mirren** | 37 | 8 | 9 | 20 | 29 | 54 | -25 | **33** |
-| 12 | 2025-26 Scottish Premiership | **Livingston** | 37 | 2 | 15 | 20 | 39 | 71 | -32 | **21** |
+| 7 | 2025-26 Scottish Premiership | **Dundee United** | 38 | 10 | 15 | 13 | 49 | 60 | -11 | **45** |
+| 8 | 2025-26 Scottish Premiership | **Dundee** | 38 | 11 | 9 | 18 | 42 | 61 | -19 | **42** |
+| 9 | 2025-26 Scottish Premiership | **Aberdeen** | 38 | 11 | 7 | 20 | 40 | 55 | -15 | **40** |
+| 10 | 2025-26 Scottish Premiership | **Kilmarnock** | 38 | 10 | 10 | 18 | 50 | 68 | -18 | **40** |
+| 11 | 2025-26 Scottish Premiership | **St Mirren** | 38 | 8 | 10 | 20 | 30 | 55 | -25 | **34** |
+| 12 | 2025-26 Scottish Premiership | **Livingston** | 38 | 2 | 15 | 21 | 40 | 75 | -35 | **21** |
 
 ---
 
