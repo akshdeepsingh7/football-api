@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17 23:35:45 UTC",
-  "generated_at_iso": "2026-05-17T23:35:45.073200+00:00",
+  "generated_at": "2026-05-18 04:22:09 UTC",
+  "generated_at_iso": "2026-05-18T04:22:09.862020+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4070,14 +4070,14 @@
       "top_performers": {
         "best_attack": {
           "team": "Inter Miami CF",
-          "goals_for": 31
+          "goals_for": 33
         },
         "best_defence": {
           "team": "Nashville SC",
-          "goals_against": 8
+          "goals_against": 10
         },
         "most_wins": {
-          "team": "San Jose Earthquakes",
+          "team": "Nashville SC",
           "wins": 9
         },
         "best_goal_difference": {
@@ -4119,7 +4119,7 @@
           "record": "3-4-7"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "group": "Eastern Conference",
           "team": "New England Revolution",
           "abbreviation": "NE",
@@ -4283,32 +4283,32 @@
           "group": "Eastern Conference",
           "team": "Nashville SC",
           "abbreviation": "NSH",
-          "played": 12,
-          "wins": 8,
+          "played": 13,
+          "wins": 9,
           "draws": 3,
           "losses": 1,
-          "goals_for": 26,
-          "goals_against": 8,
-          "goal_difference": 18,
-          "points": 27,
+          "goals_for": 29,
+          "goals_against": 10,
+          "goal_difference": 19,
+          "points": 30,
           "streak": {},
-          "record": "8-3-1"
+          "record": "9-3-1"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "group": "Eastern Conference",
           "team": "Inter Miami CF",
           "abbreviation": "MIA",
-          "played": 13,
-          "wins": 7,
+          "played": 14,
+          "wins": 8,
           "draws": 4,
           "losses": 2,
-          "goals_for": 31,
+          "goals_for": 33,
           "goals_against": 24,
-          "goal_difference": 7,
-          "points": 25,
+          "goal_difference": 9,
+          "points": 28,
           "streak": {},
-          "record": "7-4-2"
+          "record": "8-4-2"
         },
         {
           "rank": 7,
@@ -4443,16 +4443,16 @@
           "group": "Western Conference",
           "team": "Portland Timbers",
           "abbreviation": "POR",
-          "played": 12,
+          "played": 13,
           "wins": 4,
           "draws": 2,
-          "losses": 6,
+          "losses": 7,
           "goals_for": 21,
-          "goals_against": 23,
-          "goal_difference": -2,
+          "goals_against": 25,
+          "goal_difference": -4,
           "points": 14,
           "streak": {},
-          "record": "4-2-6"
+          "record": "4-2-7"
         },
         {
           "rank": 4,
@@ -4507,16 +4507,16 @@
           "group": "Western Conference",
           "team": "LAFC",
           "abbreviation": "LAFC",
-          "played": 13,
+          "played": 14,
           "wins": 6,
           "draws": 3,
-          "losses": 4,
-          "goals_for": 21,
-          "goals_against": 14,
-          "goal_difference": 7,
+          "losses": 5,
+          "goals_for": 23,
+          "goals_against": 17,
+          "goal_difference": 6,
           "points": 21,
           "streak": {},
-          "record": "6-3-4"
+          "record": "6-3-5"
         },
         {
           "rank": 13,
@@ -4581,8 +4581,8 @@
           "goals_for": 29
         },
         "best_defence": {
-          "team": "Flamengo",
-          "goals_against": 12
+          "team": "Palmeiras",
+          "goals_against": 13
         },
         "most_wins": {
           "team": "Palmeiras",
@@ -4615,16 +4615,16 @@
           "group": "2026",
           "team": "Flamengo",
           "abbreviation": "FLA",
-          "played": 14,
+          "played": 15,
           "wins": 9,
-          "draws": 3,
+          "draws": 4,
           "losses": 2,
-          "goals_for": 27,
-          "goals_against": 12,
+          "goals_for": 28,
+          "goals_against": 13,
           "goal_difference": 15,
-          "points": 30,
+          "points": 31,
           "streak": {},
-          "record": "9-3-2"
+          "record": "9-4-2"
         },
         {
           "rank": 3,
@@ -4663,19 +4663,35 @@
           "group": "2026",
           "team": "Athletico Paranaense",
           "abbreviation": "CAP",
-          "played": 15,
+          "played": 16,
           "wins": 7,
-          "draws": 2,
+          "draws": 3,
           "losses": 6,
-          "goals_for": 20,
-          "goals_against": 16,
+          "goals_for": 21,
+          "goals_against": 17,
           "goal_difference": 4,
-          "points": 23,
+          "points": 24,
           "streak": {},
-          "record": "7-2-6"
+          "record": "7-3-6"
         },
         {
           "rank": 6,
+          "group": "2026",
+          "team": "Red Bull Bragantino",
+          "abbreviation": "BRA",
+          "played": 16,
+          "wins": 7,
+          "draws": 2,
+          "losses": 7,
+          "goals_for": 19,
+          "goals_against": 18,
+          "goal_difference": 1,
+          "points": 23,
+          "streak": {},
+          "record": "7-2-7"
+        },
+        {
+          "rank": 7,
           "group": "2026",
           "team": "Bahia",
           "abbreviation": "BAH",
@@ -4691,7 +4707,7 @@
           "record": "6-5-4"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "2026",
           "team": "Coritiba",
           "abbreviation": "CFC",
@@ -4707,7 +4723,7 @@
           "record": "6-5-5"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "2026",
           "team": "Botafogo",
           "abbreviation": "BOT",
@@ -4723,7 +4739,7 @@
           "record": "6-3-6"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "2026",
           "team": "Atlético-MG",
           "abbreviation": "CAM",
@@ -4739,7 +4755,7 @@
           "record": "6-3-7"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "2026",
           "team": "Internacional",
           "abbreviation": "INT",
@@ -4753,22 +4769,6 @@
           "points": 21,
           "streak": {},
           "record": "5-6-5"
-        },
-        {
-          "rank": 11,
-          "group": "2026",
-          "team": "Red Bull Bragantino",
-          "abbreviation": "BRA",
-          "played": 15,
-          "wins": 6,
-          "draws": 2,
-          "losses": 7,
-          "goals_for": 17,
-          "goals_against": 18,
-          "goal_difference": -1,
-          "points": 20,
-          "streak": {},
-          "record": "6-2-7"
         },
         {
           "rank": 12,
@@ -4807,16 +4807,16 @@
           "group": "2026",
           "team": "Vitória",
           "abbreviation": "VIT",
-          "played": 14,
+          "played": 15,
           "wins": 5,
           "draws": 4,
-          "losses": 5,
+          "losses": 6,
           "goals_for": 18,
-          "goals_against": 20,
-          "goal_difference": -2,
+          "goals_against": 22,
+          "goal_difference": -4,
           "points": 19,
           "streak": {},
-          "record": "5-4-5"
+          "record": "5-4-6"
         },
         {
           "rank": 15,
@@ -4869,6 +4869,22 @@
         {
           "rank": 18,
           "group": "2026",
+          "team": "Remo",
+          "abbreviation": "REMO",
+          "played": 16,
+          "wins": 3,
+          "draws": 6,
+          "losses": 7,
+          "goals_for": 19,
+          "goals_against": 27,
+          "goal_difference": -8,
+          "points": 15,
+          "streak": {},
+          "record": "3-6-7"
+        },
+        {
+          "rank": 19,
+          "group": "2026",
           "team": "Mirassol",
           "abbreviation": "MIR",
           "played": 15,
@@ -4883,36 +4899,20 @@
           "record": "3-4-8"
         },
         {
-          "rank": 19,
-          "group": "2026",
-          "team": "Remo",
-          "abbreviation": "REMO",
-          "played": 15,
-          "wins": 2,
-          "draws": 6,
-          "losses": 7,
-          "goals_for": 16,
-          "goals_against": 25,
-          "goal_difference": -9,
-          "points": 12,
-          "streak": {},
-          "record": "2-6-7"
-        },
-        {
           "rank": 20,
           "group": "2026",
           "team": "Chapecoense",
           "abbreviation": "CHA",
-          "played": 14,
+          "played": 15,
           "wins": 1,
           "draws": 6,
-          "losses": 7,
-          "goals_for": 14,
-          "goals_against": 27,
-          "goal_difference": -13,
+          "losses": 8,
+          "goals_for": 16,
+          "goals_against": 30,
+          "goal_difference": -14,
           "points": 9,
           "streak": {},
-          "record": "1-6-7"
+          "record": "1-6-8"
         }
       ]
     },
