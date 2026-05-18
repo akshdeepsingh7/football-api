@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18 20:41:34 UTC",
-  "generated_at_iso": "2026-05-18T20:41:34.107655+00:00",
+  "generated_at": "2026-05-18 22:08:25 UTC",
+  "generated_at_iso": "2026-05-18T22:08:25.794334+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -26,10 +26,10 @@
         },
         "most_wins": {
           "team": "Arsenal",
-          "wins": 24
+          "wins": 25
         },
         "best_goal_difference": {
-          "team": "Manchester City",
+          "team": "Arsenal",
           "goal_difference": 43
         }
       },
@@ -39,16 +39,16 @@
           "group": "English Premier League 2025-2026",
           "team": "Arsenal",
           "abbreviation": "ARS",
-          "played": 36,
-          "wins": 24,
+          "played": 37,
+          "wins": 25,
           "draws": 7,
           "losses": 5,
-          "goals_for": 68,
+          "goals_for": 69,
           "goals_against": 26,
-          "goal_difference": 42,
-          "points": 79,
+          "goal_difference": 43,
+          "points": 82,
           "streak": {},
-          "record": "24-7-5"
+          "record": "25-7-5"
         },
         {
           "rank": 2,
@@ -327,16 +327,16 @@
           "group": "English Premier League 2025-2026",
           "team": "Burnley",
           "abbreviation": "BUR",
-          "played": 36,
+          "played": 37,
           "wins": 4,
           "draws": 9,
-          "losses": 23,
+          "losses": 24,
           "goals_for": 37,
-          "goals_against": 73,
-          "goal_difference": -36,
+          "goals_against": 74,
+          "goal_difference": -37,
           "points": 21,
           "streak": {},
-          "record": "4-9-23"
+          "record": "4-9-24"
         },
         {
           "rank": 20,

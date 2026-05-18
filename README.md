@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-18 20:41:34 UTC
+> **Last updated:** 2026-05-18 22:08:25 UTC
 
 ---
 
@@ -47,7 +47,7 @@
 
 | League | Country | Confederation | Teams | Leader | Points |
 |--------|---------|--------------|-------|--------|--------|
-| **English Premier League** | England | UEFA | 20 | **Arsenal** | 79 |
+| **English Premier League** | England | UEFA | 20 | **Arsenal** | 82 |
 | **Spanish La Liga** | Spain | UEFA | 20 | **Barcelona** | 94 |
 | **Italian Serie A** | Italy | UEFA | 20 | **Internazionale** | 86 |
 | **German Bundesliga** | Germany | UEFA | 18 | **Bayern Munich** | 89 |
@@ -75,8 +75,8 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 |----------|------|------|
 | Best Attack | **Manchester City** | 75 goals |
 | Best Defence | **Arsenal** | 26 goals conceded |
-| Most Wins | **Arsenal** | 24 wins |
-| Best GD | **Manchester City** | +43 |
+| Most Wins | **Arsenal** | 25 wins |
+| Best GD | **Arsenal** | +43 |
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1080 | 1080 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 912 | 912 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8867 | 8867 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8868 | 8868 |
 
 ---
 
@@ -250,7 +250,7 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | English Premier League 2025-2026 | **Arsenal** | 36 | 24 | 7 | 5 | 68 | 26 | +42 | **79** |
+| 1 | English Premier League 2025-2026 | **Arsenal** | 37 | 25 | 7 | 5 | 69 | 26 | +43 | **82** |
 | 2 | English Premier League 2025-2026 | **Manchester City** | 36 | 23 | 8 | 5 | 75 | 32 | +43 | **77** |
 | 3 | English Premier League 2025-2026 | **Manchester United** | 37 | 19 | 11 | 7 | 66 | 50 | +16 | **68** |
 | 4 | English Premier League 2025-2026 | **Aston Villa** | 37 | 18 | 8 | 11 | 54 | 48 | +6 | **62** |
@@ -268,7 +268,7 @@ A breakdown of all leagues and teams by football confederation.
 | 16 | English Premier League 2025-2026 | **Nottingham Forest** | 37 | 11 | 10 | 16 | 47 | 50 | -3 | **43** |
 | 17 | English Premier League 2025-2026 | **Tottenham Hotspur** | 36 | 9 | 11 | 16 | 46 | 55 | -9 | **38** |
 | 18 | English Premier League 2025-2026 | **West Ham United** | 37 | 9 | 9 | 19 | 43 | 65 | -22 | **36** |
-| 19 | English Premier League 2025-2026 | **Burnley** | 36 | 4 | 9 | 23 | 37 | 73 | -36 | **21** |
+| 19 | English Premier League 2025-2026 | **Burnley** | 37 | 4 | 9 | 24 | 37 | 74 | -37 | **21** |
 | 20 | English Premier League 2025-2026 | **Wolverhampton Wanderers** | 37 | 3 | 10 | 24 | 26 | 67 | -41 | **19** |
 
 ---
