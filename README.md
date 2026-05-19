@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-19 20:15:54 UTC
+> **Last updated:** 2026-05-19 21:55:49 UTC
 
 ---
 
@@ -73,7 +73,7 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Manchester City** | 75 goals |
+| Best Attack | **Manchester City** | 76 goals |
 | Best Defence | **Arsenal** | 26 goals conceded |
 | Most Wins | **Arsenal** | 25 wins |
 | Best GD | **Arsenal** | +43 |
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1080 | 1080 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 912 | 912 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8868 | 8868 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8873 | 8873 |
 
 ---
 
@@ -251,22 +251,22 @@ A breakdown of all leagues and teams by football confederation.
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
 | 1 | English Premier League 2025-2026 | **Arsenal** | 37 | 25 | 7 | 5 | 69 | 26 | +43 | **82** |
-| 2 | English Premier League 2025-2026 | **Manchester City** | 36 | 23 | 8 | 5 | 75 | 32 | +43 | **77** |
+| 2 | English Premier League 2025-2026 | **Manchester City** | 37 | 23 | 9 | 5 | 76 | 33 | +43 | **78** |
 | 3 | English Premier League 2025-2026 | **Manchester United** | 37 | 19 | 11 | 7 | 66 | 50 | +16 | **68** |
 | 4 | English Premier League 2025-2026 | **Aston Villa** | 37 | 18 | 8 | 11 | 54 | 48 | +6 | **62** |
 | 5 | English Premier League 2025-2026 | **Liverpool** | 37 | 17 | 8 | 12 | 62 | 52 | +10 | **59** |
-| 6 | English Premier League 2025-2026 | **AFC Bournemouth** | 36 | 13 | 16 | 7 | 56 | 52 | +4 | **55** |
+| 6 | English Premier League 2025-2026 | **AFC Bournemouth** | 37 | 13 | 17 | 7 | 57 | 53 | +4 | **56** |
 | 7 | English Premier League 2025-2026 | **Brighton & Hove Albion** | 37 | 14 | 11 | 12 | 52 | 43 | +9 | **53** |
-| 8 | English Premier League 2025-2026 | **Brentford** | 37 | 14 | 10 | 13 | 54 | 51 | +3 | **52** |
-| 9 | English Premier League 2025-2026 | **Sunderland** | 37 | 13 | 12 | 12 | 40 | 47 | -7 | **51** |
-| 10 | English Premier League 2025-2026 | **Chelsea** | 36 | 13 | 10 | 13 | 55 | 49 | +6 | **49** |
+| 8 | English Premier League 2025-2026 | **Chelsea** | 37 | 14 | 10 | 13 | 57 | 50 | +7 | **52** |
+| 9 | English Premier League 2025-2026 | **Brentford** | 37 | 14 | 10 | 13 | 54 | 51 | +3 | **52** |
+| 10 | English Premier League 2025-2026 | **Sunderland** | 37 | 13 | 12 | 12 | 40 | 47 | -7 | **51** |
 | 11 | English Premier League 2025-2026 | **Newcastle United** | 37 | 14 | 7 | 16 | 53 | 53 | 0 | **49** |
 | 12 | English Premier League 2025-2026 | **Everton** | 37 | 13 | 10 | 14 | 47 | 49 | -2 | **49** |
 | 13 | English Premier League 2025-2026 | **Fulham** | 37 | 14 | 7 | 16 | 45 | 51 | -6 | **49** |
 | 14 | English Premier League 2025-2026 | **Leeds United** | 37 | 11 | 14 | 12 | 49 | 53 | -4 | **47** |
 | 15 | English Premier League 2025-2026 | **Crystal Palace** | 37 | 11 | 12 | 14 | 40 | 49 | -9 | **45** |
 | 16 | English Premier League 2025-2026 | **Nottingham Forest** | 37 | 11 | 10 | 16 | 47 | 50 | -3 | **43** |
-| 17 | English Premier League 2025-2026 | **Tottenham Hotspur** | 36 | 9 | 11 | 16 | 46 | 55 | -9 | **38** |
+| 17 | English Premier League 2025-2026 | **Tottenham Hotspur** | 37 | 9 | 11 | 17 | 47 | 57 | -10 | **38** |
 | 18 | English Premier League 2025-2026 | **West Ham United** | 37 | 9 | 9 | 19 | 43 | 65 | -22 | **36** |
 | 19 | English Premier League 2025-2026 | **Burnley** | 37 | 4 | 9 | 24 | 37 | 74 | -37 | **21** |
 | 20 | English Premier League 2025-2026 | **Wolverhampton Wanderers** | 37 | 3 | 10 | 24 | 26 | 67 | -41 | **19** |

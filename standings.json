@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19 20:15:54 UTC",
-  "generated_at_iso": "2026-05-19T20:15:54.129459+00:00",
+  "generated_at": "2026-05-19 21:55:49 UTC",
+  "generated_at_iso": "2026-05-19T21:55:49.274931+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -18,7 +18,7 @@
       "top_performers": {
         "best_attack": {
           "team": "Manchester City",
-          "goals_for": 75
+          "goals_for": 76
         },
         "best_defence": {
           "team": "Arsenal",
@@ -55,16 +55,16 @@
           "group": "English Premier League 2025-2026",
           "team": "Manchester City",
           "abbreviation": "MNC",
-          "played": 36,
+          "played": 37,
           "wins": 23,
-          "draws": 8,
+          "draws": 9,
           "losses": 5,
-          "goals_for": 75,
-          "goals_against": 32,
+          "goals_for": 76,
+          "goals_against": 33,
           "goal_difference": 43,
-          "points": 77,
+          "points": 78,
           "streak": {},
-          "record": "23-8-5"
+          "record": "23-9-5"
         },
         {
           "rank": 3,
@@ -119,16 +119,16 @@
           "group": "English Premier League 2025-2026",
           "team": "AFC Bournemouth",
           "abbreviation": "BOU",
-          "played": 36,
+          "played": 37,
           "wins": 13,
-          "draws": 16,
+          "draws": 17,
           "losses": 7,
-          "goals_for": 56,
-          "goals_against": 52,
+          "goals_for": 57,
+          "goals_against": 53,
           "goal_difference": 4,
-          "points": 55,
+          "points": 56,
           "streak": {},
-          "record": "13-16-7"
+          "record": "13-17-7"
         },
         {
           "rank": 7,
@@ -149,6 +149,22 @@
         {
           "rank": 8,
           "group": "English Premier League 2025-2026",
+          "team": "Chelsea",
+          "abbreviation": "CHE",
+          "played": 37,
+          "wins": 14,
+          "draws": 10,
+          "losses": 13,
+          "goals_for": 57,
+          "goals_against": 50,
+          "goal_difference": 7,
+          "points": 52,
+          "streak": {},
+          "record": "14-10-13"
+        },
+        {
+          "rank": 9,
+          "group": "English Premier League 2025-2026",
           "team": "Brentford",
           "abbreviation": "BRE",
           "played": 37,
@@ -163,7 +179,7 @@
           "record": "14-10-13"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "English Premier League 2025-2026",
           "team": "Sunderland",
           "abbreviation": "SUN",
@@ -177,22 +193,6 @@
           "points": 51,
           "streak": {},
           "record": "13-12-12"
-        },
-        {
-          "rank": 10,
-          "group": "English Premier League 2025-2026",
-          "team": "Chelsea",
-          "abbreviation": "CHE",
-          "played": 36,
-          "wins": 13,
-          "draws": 10,
-          "losses": 13,
-          "goals_for": 55,
-          "goals_against": 49,
-          "goal_difference": 6,
-          "points": 49,
-          "streak": {},
-          "record": "13-10-13"
         },
         {
           "rank": 11,
@@ -295,16 +295,16 @@
           "group": "English Premier League 2025-2026",
           "team": "Tottenham Hotspur",
           "abbreviation": "TOT",
-          "played": 36,
+          "played": 37,
           "wins": 9,
           "draws": 11,
-          "losses": 16,
-          "goals_for": 46,
-          "goals_against": 55,
-          "goal_difference": -9,
+          "losses": 17,
+          "goals_for": 47,
+          "goals_against": 57,
+          "goal_difference": -10,
           "points": 38,
           "streak": {},
-          "record": "9-11-16"
+          "record": "9-11-17"
         },
         {
           "rank": 18,
