@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-22 18:58:07 UTC
+> **Last updated:** 2026-05-22 20:44:52 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1080 | 1080 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 912 | 912 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8873 | 8873 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8875 | 8875 |
 
 ---
 
@@ -310,15 +310,15 @@ A breakdown of all leagues and teams by football confederation.
 | 4 | 2025-2026 Italian Serie A | **AS Roma** | 37 | 22 | 4 | 11 | 57 | 31 | +26 | **70** |
 | 5 | 2025-2026 Italian Serie A | **Como** | 37 | 19 | 11 | 7 | 61 | 28 | +33 | **68** |
 | 6 | 2025-2026 Italian Serie A | **Juventus** | 37 | 19 | 11 | 7 | 59 | 32 | +27 | **68** |
-| 7 | 2025-2026 Italian Serie A | **Atalanta** | 37 | 15 | 13 | 9 | 50 | 35 | +15 | **58** |
+| 7 | 2025-2026 Italian Serie A | **Atalanta** | 38 | 15 | 14 | 9 | 51 | 36 | +15 | **59** |
 | 8 | 2025-2026 Italian Serie A | **Bologna** | 37 | 16 | 7 | 14 | 46 | 43 | +3 | **55** |
 | 9 | 2025-2026 Italian Serie A | **Lazio** | 37 | 13 | 12 | 12 | 39 | 39 | 0 | **51** |
 | 10 | 2025-2026 Italian Serie A | **Udinese** | 37 | 14 | 8 | 15 | 45 | 47 | -2 | **50** |
 | 11 | 2025-2026 Italian Serie A | **Sassuolo** | 37 | 14 | 7 | 16 | 46 | 49 | -3 | **49** |
 | 12 | 2025-2026 Italian Serie A | **Torino** | 37 | 12 | 8 | 17 | 42 | 61 | -19 | **44** |
 | 13 | 2025-2026 Italian Serie A | **Parma** | 37 | 10 | 12 | 15 | 27 | 46 | -19 | **42** |
-| 14 | 2025-2026 Italian Serie A | **Genoa** | 37 | 10 | 11 | 16 | 41 | 50 | -9 | **41** |
-| 15 | 2025-2026 Italian Serie A | **Fiorentina** | 37 | 9 | 14 | 14 | 40 | 49 | -9 | **41** |
+| 14 | 2025-2026 Italian Serie A | **Fiorentina** | 38 | 9 | 15 | 14 | 41 | 50 | -9 | **42** |
+| 15 | 2025-2026 Italian Serie A | **Genoa** | 37 | 10 | 11 | 16 | 41 | 50 | -9 | **41** |
 | 16 | 2025-2026 Italian Serie A | **Cagliari** | 37 | 10 | 10 | 17 | 38 | 52 | -14 | **40** |
 | 17 | 2025-2026 Italian Serie A | **Lecce** | 37 | 9 | 8 | 20 | 27 | 50 | -23 | **35** |
 | 18 | 2025-2026 Italian Serie A | **Cremonese** | 37 | 8 | 10 | 19 | 31 | 53 | -22 | **34** |

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22 18:58:07 UTC",
-  "generated_at_iso": "2026-05-22T18:58:07.988830+00:00",
+  "generated_at": "2026-05-22 20:44:52 UTC",
+  "generated_at_iso": "2026-05-22T20:44:52.662759+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -831,16 +831,16 @@
           "group": "2025-2026 Italian Serie A",
           "team": "Atalanta",
           "abbreviation": "ATA",
-          "played": 37,
+          "played": 38,
           "wins": 15,
-          "draws": 13,
+          "draws": 14,
           "losses": 9,
-          "goals_for": 50,
-          "goals_against": 35,
+          "goals_for": 51,
+          "goals_against": 36,
           "goal_difference": 15,
-          "points": 58,
+          "points": 59,
           "streak": {},
-          "record": "15-13-9"
+          "record": "15-14-9"
         },
         {
           "rank": 8,
@@ -941,6 +941,22 @@
         {
           "rank": 14,
           "group": "2025-2026 Italian Serie A",
+          "team": "Fiorentina",
+          "abbreviation": "FIO",
+          "played": 38,
+          "wins": 9,
+          "draws": 15,
+          "losses": 14,
+          "goals_for": 41,
+          "goals_against": 50,
+          "goal_difference": -9,
+          "points": 42,
+          "streak": {},
+          "record": "9-15-14"
+        },
+        {
+          "rank": 15,
+          "group": "2025-2026 Italian Serie A",
           "team": "Genoa",
           "abbreviation": "GEN",
           "played": 37,
@@ -953,22 +969,6 @@
           "points": 41,
           "streak": {},
           "record": "10-11-16"
-        },
-        {
-          "rank": 15,
-          "group": "2025-2026 Italian Serie A",
-          "team": "Fiorentina",
-          "abbreviation": "FIO",
-          "played": 37,
-          "wins": 9,
-          "draws": 14,
-          "losses": 14,
-          "goals_for": 40,
-          "goals_against": 49,
-          "goal_difference": -9,
-          "points": 41,
-          "streak": {},
-          "record": "9-14-14"
         },
         {
           "rank": 16,
