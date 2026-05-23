@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23 17:12:51 UTC",
-  "generated_at_iso": "2026-05-23T17:12:51.391702+00:00",
+  "generated_at": "2026-05-23 18:35:31 UTC",
+  "generated_at_iso": "2026-05-23T18:35:31.138741+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -714,7 +714,7 @@
       "top_performers": {
         "best_attack": {
           "team": "Internazionale",
-          "goals_for": 86
+          "goals_for": 89
         },
         "best_defence": {
           "team": "Como",
@@ -735,16 +735,16 @@
           "group": "2025-2026 Italian Serie A",
           "team": "Internazionale",
           "abbreviation": "INT",
-          "played": 37,
+          "played": 38,
           "wins": 27,
-          "draws": 5,
+          "draws": 6,
           "losses": 5,
-          "goals_for": 86,
-          "goals_against": 32,
+          "goals_for": 89,
+          "goals_against": 35,
           "goal_difference": 54,
-          "points": 86,
+          "points": 87,
           "streak": {},
-          "record": "27-5-5"
+          "record": "27-6-5"
         },
         {
           "rank": 2,
@@ -847,16 +847,16 @@
           "group": "2025-2026 Italian Serie A",
           "team": "Bologna",
           "abbreviation": "BOL",
-          "played": 37,
+          "played": 38,
           "wins": 16,
-          "draws": 7,
+          "draws": 8,
           "losses": 14,
-          "goals_for": 46,
-          "goals_against": 43,
+          "goals_for": 49,
+          "goals_against": 46,
           "goal_difference": 3,
-          "points": 55,
+          "points": 56,
           "streak": {},
-          "record": "16-7-14"
+          "record": "16-8-14"
         },
         {
           "rank": 9,
