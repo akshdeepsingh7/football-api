@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-23 22:30:55 UTC
+> **Last updated:** 2026-05-24 00:03:46 UTC
 
 ---
 
@@ -240,7 +240,7 @@ A breakdown of all leagues and teams by football confederation.
 
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
-| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1080 | 1080 |
+| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1085 | 1085 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 912 | 912 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8909 | 8909 |
 
@@ -581,15 +581,15 @@ A breakdown of all leagues and teams by football confederation.
 | 15 | Western Conference | **Sporting Kansas City** | 13 | 3 | 2 | 8 | 13 | 34 | -21 | **11** |
 | 9 | Western Conference | **LA Galaxy** | 14 | 5 | 4 | 5 | 21 | 21 | 0 | **19** |
 | 2 | Western Conference | **San Jose Earthquakes** | 14 | 9 | 2 | 3 | 31 | 14 | +17 | **29** |
-| 3 | Western Conference | **Real Salt Lake** | 13 | 8 | 1 | 4 | 25 | 18 | +7 | **25** |
-| 6 | Western Conference | **Houston Dynamo FC** | 13 | 7 | 0 | 6 | 18 | 22 | -4 | **21** |
-| 12 | Western Conference | **Portland Timbers** | 13 | 4 | 2 | 7 | 21 | 25 | -4 | **14** |
+| 3 | Western Conference | **Real Salt Lake** | 14 | 8 | 2 | 4 | 26 | 19 | +7 | **26** |
+| 7 | Western Conference | **Houston Dynamo FC** | 13 | 7 | 0 | 6 | 18 | 22 | -4 | **21** |
+| 13 | Western Conference | **Portland Timbers** | 13 | 4 | 2 | 7 | 21 | 25 | -4 | **14** |
 | 4 | Western Conference | **Seattle Sounders FC** | 12 | 7 | 3 | 2 | 17 | 10 | +7 | **24** |
 | 1 | Western Conference | **Vancouver Whitecaps** | 13 | 9 | 2 | 2 | 30 | 10 | +20 | **29** |
-| 8 | Western Conference | **Minnesota United FC** | 14 | 6 | 3 | 5 | 17 | 21 | -4 | **21** |
-| 7 | Western Conference | **LAFC** | 14 | 6 | 3 | 5 | 23 | 17 | +6 | **21** |
-| 13 | Western Conference | **Austin FC** | 14 | 3 | 5 | 6 | 19 | 28 | -9 | **14** |
-| 14 | Western Conference | **St. Louis CITY SC** | 13 | 3 | 4 | 6 | 13 | 20 | -7 | **13** |
+| 6 | Western Conference | **Minnesota United FC** | 15 | 6 | 4 | 5 | 18 | 22 | -4 | **22** |
+| 8 | Western Conference | **LAFC** | 14 | 6 | 3 | 5 | 23 | 17 | +6 | **21** |
+| 14 | Western Conference | **Austin FC** | 15 | 3 | 5 | 7 | 19 | 31 | -12 | **14** |
+| 12 | Western Conference | **St. Louis CITY SC** | 14 | 4 | 4 | 6 | 16 | 20 | -4 | **16** |
 | 10 | Western Conference | **San Diego FC** | 14 | 4 | 5 | 5 | 28 | 23 | +5 | **17** |
 
 ---
