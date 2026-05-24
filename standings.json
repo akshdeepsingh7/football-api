@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24 13:52:37 UTC",
-  "generated_at_iso": "2026-05-24T13:52:37.889838+00:00",
+  "generated_at": "2026-05-24 15:12:37 UTC",
+  "generated_at_iso": "2026-05-24T15:12:37.486672+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -895,19 +895,35 @@
           "group": "2025-2026 Italian Serie A",
           "team": "Sassuolo",
           "abbreviation": "SAS",
-          "played": 37,
+          "played": 38,
           "wins": 14,
           "draws": 7,
-          "losses": 16,
+          "losses": 17,
           "goals_for": 46,
-          "goals_against": 49,
-          "goal_difference": -3,
+          "goals_against": 50,
+          "goal_difference": -4,
           "points": 49,
           "streak": {},
-          "record": "14-7-16"
+          "record": "14-7-17"
         },
         {
           "rank": 12,
+          "group": "2025-2026 Italian Serie A",
+          "team": "Parma",
+          "abbreviation": "PAR",
+          "played": 38,
+          "wins": 11,
+          "draws": 12,
+          "losses": 15,
+          "goals_for": 28,
+          "goals_against": 46,
+          "goal_difference": -18,
+          "points": 45,
+          "streak": {},
+          "record": "11-12-15"
+        },
+        {
+          "rank": 13,
           "group": "2025-2026 Italian Serie A",
           "team": "Torino",
           "abbreviation": "TOR",
@@ -921,22 +937,6 @@
           "points": 44,
           "streak": {},
           "record": "12-8-17"
-        },
-        {
-          "rank": 13,
-          "group": "2025-2026 Italian Serie A",
-          "team": "Parma",
-          "abbreviation": "PAR",
-          "played": 37,
-          "wins": 10,
-          "draws": 12,
-          "losses": 15,
-          "goals_for": 27,
-          "goals_against": 46,
-          "goal_difference": -19,
-          "points": 42,
-          "streak": {},
-          "record": "10-12-15"
         },
         {
           "rank": 14,
