@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-24 19:48:06 UTC
+> **Last updated:** 2026-05-24 21:05:31 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1126 | 1126 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 925 | 925 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8935 | 8935 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8941 | 8941 |
 
 ---
 
@@ -279,8 +279,8 @@ A breakdown of all leagues and teams by football confederation.
 |---|-------|------|---|---|---|---|----|----|----|----|
 | 1 | 2025-26 LALIGA | **Barcelona** | 38 | 31 | 1 | 6 | 95 | 36 | +59 | **94** |
 | 2 | 2025-26 LALIGA | **Real Madrid** | 38 | 27 | 5 | 6 | 77 | 35 | +42 | **86** |
-| 3 | 2025-26 LALIGA | **Villarreal** | 37 | 21 | 6 | 10 | 67 | 45 | +22 | **69** |
-| 4 | 2025-26 LALIGA | **Atlético Madrid** | 37 | 21 | 6 | 10 | 61 | 39 | +22 | **69** |
+| 3 | 2025-26 LALIGA | **Villarreal** | 38 | 22 | 6 | 10 | 72 | 46 | +26 | **72** |
+| 4 | 2025-26 LALIGA | **Atlético Madrid** | 38 | 21 | 6 | 11 | 62 | 44 | +18 | **69** |
 | 5 | 2025-26 LALIGA | **Real Betis** | 38 | 15 | 15 | 8 | 59 | 48 | +11 | **60** |
 | 6 | 2025-26 LALIGA | **Celta Vigo** | 38 | 14 | 12 | 12 | 53 | 48 | +5 | **54** |
 | 7 | 2025-26 LALIGA | **Getafe** | 38 | 15 | 6 | 17 | 32 | 38 | -6 | **51** |
