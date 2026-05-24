@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-24 21:05:31 UTC
+> **Last updated:** 2026-05-24 22:32:02 UTC
 
 ---
 
@@ -96,7 +96,7 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 | Category | Team | Stat |
 |----------|------|------|
 | Best Attack | **Internazionale** | 89 goals |
-| Best Defence | **Como** | 28 goals conceded |
+| Best Defence | **Como** | 29 goals conceded |
 | Most Wins | **Internazionale** | 27 wins |
 | Best GD | **Internazionale** | +54 |
 
@@ -241,8 +241,8 @@ A breakdown of all leagues and teams by football confederation.
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1126 | 1126 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 925 | 925 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8941 | 8941 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 931 | 931 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8956 | 8956 |
 
 ---
 
@@ -306,23 +306,23 @@ A breakdown of all leagues and teams by football confederation.
 |---|-------|------|---|---|---|---|----|----|----|----|
 | 1 | 2025-2026 Italian Serie A | **Internazionale** | 38 | 27 | 6 | 5 | 89 | 35 | +54 | **87** |
 | 2 | 2025-2026 Italian Serie A | **Napoli** | 38 | 23 | 7 | 8 | 58 | 36 | +22 | **76** |
-| 3 | 2025-2026 Italian Serie A | **AC Milan** | 37 | 20 | 10 | 7 | 52 | 33 | +19 | **70** |
-| 4 | 2025-2026 Italian Serie A | **AS Roma** | 37 | 22 | 4 | 11 | 57 | 31 | +26 | **70** |
-| 5 | 2025-2026 Italian Serie A | **Como** | 37 | 19 | 11 | 7 | 61 | 28 | +33 | **68** |
-| 6 | 2025-2026 Italian Serie A | **Juventus** | 37 | 19 | 11 | 7 | 59 | 32 | +27 | **68** |
+| 3 | 2025-2026 Italian Serie A | **AS Roma** | 38 | 23 | 4 | 11 | 59 | 31 | +28 | **73** |
+| 4 | 2025-2026 Italian Serie A | **Como** | 38 | 20 | 11 | 7 | 65 | 29 | +36 | **71** |
+| 5 | 2025-2026 Italian Serie A | **AC Milan** | 38 | 20 | 10 | 8 | 53 | 35 | +18 | **70** |
+| 6 | 2025-2026 Italian Serie A | **Juventus** | 38 | 19 | 12 | 7 | 61 | 34 | +27 | **69** |
 | 7 | 2025-2026 Italian Serie A | **Atalanta** | 38 | 15 | 14 | 9 | 51 | 36 | +15 | **59** |
 | 8 | 2025-2026 Italian Serie A | **Bologna** | 38 | 16 | 8 | 14 | 49 | 46 | +3 | **56** |
 | 9 | 2025-2026 Italian Serie A | **Lazio** | 38 | 14 | 12 | 12 | 41 | 40 | +1 | **54** |
 | 10 | 2025-2026 Italian Serie A | **Udinese** | 38 | 14 | 8 | 16 | 45 | 48 | -3 | **50** |
 | 11 | 2025-2026 Italian Serie A | **Sassuolo** | 38 | 14 | 7 | 17 | 46 | 50 | -4 | **49** |
-| 12 | 2025-2026 Italian Serie A | **Parma** | 38 | 11 | 12 | 15 | 28 | 46 | -18 | **45** |
-| 13 | 2025-2026 Italian Serie A | **Torino** | 37 | 12 | 8 | 17 | 42 | 61 | -19 | **44** |
-| 14 | 2025-2026 Italian Serie A | **Fiorentina** | 38 | 9 | 15 | 14 | 41 | 50 | -9 | **42** |
-| 15 | 2025-2026 Italian Serie A | **Genoa** | 37 | 10 | 11 | 16 | 41 | 50 | -9 | **41** |
-| 16 | 2025-2026 Italian Serie A | **Cagliari** | 37 | 10 | 10 | 17 | 38 | 52 | -14 | **40** |
-| 17 | 2025-2026 Italian Serie A | **Lecce** | 37 | 9 | 8 | 20 | 27 | 50 | -23 | **35** |
-| 18 | 2025-2026 Italian Serie A | **Cremonese** | 37 | 8 | 10 | 19 | 31 | 53 | -22 | **34** |
-| 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 37 | 3 | 12 | 22 | 25 | 59 | -34 | **21** |
+| 12 | 2025-2026 Italian Serie A | **Torino** | 38 | 12 | 9 | 17 | 44 | 63 | -19 | **45** |
+| 13 | 2025-2026 Italian Serie A | **Parma** | 38 | 11 | 12 | 15 | 28 | 46 | -18 | **45** |
+| 14 | 2025-2026 Italian Serie A | **Cagliari** | 38 | 11 | 10 | 17 | 40 | 53 | -13 | **43** |
+| 15 | 2025-2026 Italian Serie A | **Fiorentina** | 38 | 9 | 15 | 14 | 41 | 50 | -9 | **42** |
+| 16 | 2025-2026 Italian Serie A | **Genoa** | 38 | 10 | 11 | 17 | 41 | 51 | -10 | **41** |
+| 17 | 2025-2026 Italian Serie A | **Lecce** | 38 | 10 | 8 | 20 | 28 | 50 | -22 | **38** |
+| 18 | 2025-2026 Italian Serie A | **Cremonese** | 38 | 8 | 10 | 20 | 32 | 57 | -25 | **34** |
+| 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 38 | 3 | 12 | 23 | 25 | 61 | -36 | **21** |
 | 20 | 2025-2026 Italian Serie A | **Pisa** | 38 | 2 | 12 | 24 | 26 | 71 | -45 | **18** |
 
 ---
@@ -601,23 +601,23 @@ A breakdown of all leagues and teams by football confederation.
 | 1 | 2026 | **Palmeiras** | 17 | 11 | 5 | 1 | 29 | 13 | +16 | **38** |
 | 2 | 2026 | **Flamengo** | 16 | 9 | 4 | 3 | 28 | 16 | +12 | **31** |
 | 3 | 2026 | **Fluminense** | 17 | 9 | 3 | 5 | 27 | 22 | +5 | **30** |
-| 4 | 2026 | **São Paulo** | 17 | 7 | 4 | 6 | 23 | 19 | +4 | **25** |
-| 5 | 2026 | **Athletico Paranaense** | 16 | 7 | 3 | 6 | 21 | 17 | +4 | **24** |
+| 4 | 2026 | **Athletico Paranaense** | 17 | 8 | 3 | 6 | 23 | 18 | +5 | **27** |
+| 5 | 2026 | **São Paulo** | 17 | 7 | 4 | 6 | 23 | 19 | +4 | **25** |
 | 6 | 2026 | **Red Bull Bragantino** | 16 | 7 | 2 | 7 | 19 | 18 | +1 | **23** |
 | 7 | 2026 | **Bahia** | 15 | 6 | 5 | 4 | 21 | 19 | +2 | **23** |
 | 8 | 2026 | **Coritiba** | 16 | 6 | 5 | 5 | 21 | 19 | +2 | **23** |
-| 9 | 2026 | **Botafogo** | 16 | 6 | 4 | 6 | 30 | 29 | +1 | **22** |
-| 10 | 2026 | **Vitória** | 16 | 6 | 4 | 6 | 20 | 22 | -2 | **22** |
-| 11 | 2026 | **Atlético-MG** | 16 | 6 | 3 | 7 | 21 | 22 | -1 | **21** |
-| 12 | 2026 | **Internacional** | 17 | 5 | 6 | 6 | 20 | 19 | +1 | **21** |
-| 13 | 2026 | **Grêmio** | 17 | 5 | 6 | 6 | 19 | 20 | -1 | **21** |
-| 14 | 2026 | **Vasco da Gama** | 16 | 5 | 5 | 6 | 22 | 25 | -3 | **20** |
-| 15 | 2026 | **Cruzeiro** | 16 | 5 | 5 | 6 | 21 | 26 | -5 | **20** |
+| 9 | 2026 | **Cruzeiro** | 17 | 6 | 5 | 6 | 23 | 27 | -4 | **23** |
+| 10 | 2026 | **Botafogo** | 16 | 6 | 4 | 6 | 30 | 29 | +1 | **22** |
+| 11 | 2026 | **Vitória** | 16 | 6 | 4 | 6 | 20 | 22 | -2 | **22** |
+| 12 | 2026 | **Atlético-MG** | 16 | 6 | 3 | 7 | 21 | 22 | -1 | **21** |
+| 13 | 2026 | **Internacional** | 17 | 5 | 6 | 6 | 20 | 19 | +1 | **21** |
+| 14 | 2026 | **Grêmio** | 17 | 5 | 6 | 6 | 19 | 20 | -1 | **21** |
+| 15 | 2026 | **Vasco da Gama** | 16 | 5 | 5 | 6 | 22 | 25 | -3 | **20** |
 | 16 | 2026 | **Corinthians** | 16 | 4 | 6 | 6 | 14 | 18 | -4 | **18** |
 | 17 | 2026 | **Santos** | 17 | 4 | 6 | 7 | 23 | 28 | -5 | **18** |
 | 18 | 2026 | **Mirassol** | 16 | 4 | 4 | 8 | 18 | 23 | -5 | **16** |
-| 19 | 2026 | **Remo** | 16 | 3 | 6 | 7 | 19 | 27 | -8 | **15** |
-| 20 | 2026 | **Chapecoense** | 15 | 1 | 6 | 8 | 16 | 30 | -14 | **9** |
+| 19 | 2026 | **Remo** | 17 | 3 | 6 | 8 | 20 | 29 | -9 | **15** |
+| 20 | 2026 | **Chapecoense** | 16 | 1 | 6 | 9 | 17 | 32 | -15 | **9** |
 
 ---
 
