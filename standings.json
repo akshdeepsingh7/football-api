@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25 00:08:30 UTC",
-  "generated_at_iso": "2026-05-25T00:08:30.510616+00:00",
+  "generated_at": "2026-05-25 05:07:59 UTC",
+  "generated_at_iso": "2026-05-25T05:07:59.650041+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4069,12 +4069,12 @@
       "team_count": 30,
       "top_performers": {
         "best_attack": {
-          "team": "FC Cincinnati",
-          "goals_for": 36
+          "team": "Inter Miami CF",
+          "goals_for": 39
         },
         "best_defence": {
-          "team": "Seattle Sounders FC",
-          "goals_against": 10
+          "team": "Nashville SC",
+          "goals_against": 11
         },
         "most_wins": {
           "team": "Nashville SC",
@@ -4203,16 +4203,16 @@
           "group": "Eastern Conference",
           "team": "Philadelphia Union",
           "abbreviation": "PHI",
-          "played": 14,
+          "played": 15,
           "wins": 1,
           "draws": 4,
-          "losses": 9,
-          "goals_for": 14,
-          "goals_against": 24,
-          "goal_difference": -10,
+          "losses": 10,
+          "goals_for": 18,
+          "goals_against": 30,
+          "goal_difference": -12,
           "points": 7,
           "streak": {},
-          "record": "1-4-9"
+          "record": "1-4-10"
         },
         {
           "rank": 12,
@@ -4299,16 +4299,16 @@
           "group": "Eastern Conference",
           "team": "Inter Miami CF",
           "abbreviation": "MIA",
-          "played": 14,
-          "wins": 8,
+          "played": 15,
+          "wins": 9,
           "draws": 4,
           "losses": 2,
-          "goals_for": 33,
-          "goals_against": 24,
-          "goal_difference": 9,
-          "points": 28,
+          "goals_for": 39,
+          "goals_against": 28,
+          "goal_difference": 11,
+          "points": 31,
           "streak": {},
-          "record": "8-4-2"
+          "record": "9-4-2"
         },
         {
           "rank": 6,
@@ -4423,7 +4423,7 @@
           "record": "8-2-4"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "Western Conference",
           "team": "Houston Dynamo FC",
           "abbreviation": "HOU",
@@ -4455,20 +4455,20 @@
           "record": "4-2-8"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "Western Conference",
           "team": "Seattle Sounders FC",
           "abbreviation": "SEA",
-          "played": 12,
+          "played": 13,
           "wins": 7,
           "draws": 3,
-          "losses": 2,
+          "losses": 3,
           "goals_for": 17,
-          "goals_against": 10,
-          "goal_difference": 7,
+          "goals_against": 11,
+          "goal_difference": 6,
           "points": 24,
           "streak": {},
-          "record": "7-3-2"
+          "record": "7-3-3"
         },
         {
           "rank": 1,
@@ -4487,7 +4487,7 @@
           "record": "10-2-2"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Western Conference",
           "team": "Minnesota United FC",
           "abbreviation": "MIN",
@@ -4503,20 +4503,20 @@
           "record": "6-4-5"
         },
         {
-          "rank": 8,
+          "rank": 5,
           "group": "Western Conference",
           "team": "LAFC",
           "abbreviation": "LAFC",
-          "played": 14,
-          "wins": 6,
+          "played": 15,
+          "wins": 7,
           "draws": 3,
           "losses": 5,
-          "goals_for": 23,
+          "goals_for": 24,
           "goals_against": 17,
-          "goal_difference": 6,
-          "points": 21,
+          "goal_difference": 7,
+          "points": 24,
           "streak": {},
-          "record": "6-3-5"
+          "record": "7-3-5"
         },
         {
           "rank": 14,
@@ -4661,6 +4661,22 @@
         {
           "rank": 5,
           "group": "2026",
+          "team": "Red Bull Bragantino",
+          "abbreviation": "BRA",
+          "played": 17,
+          "wins": 8,
+          "draws": 2,
+          "losses": 7,
+          "goals_for": 22,
+          "goals_against": 18,
+          "goal_difference": 4,
+          "points": 26,
+          "streak": {},
+          "record": "8-2-7"
+        },
+        {
+          "rank": 6,
+          "group": "2026",
           "team": "São Paulo",
           "abbreviation": "SAO",
           "played": 17,
@@ -4673,22 +4689,6 @@
           "points": 25,
           "streak": {},
           "record": "7-4-6"
-        },
-        {
-          "rank": 6,
-          "group": "2026",
-          "team": "Red Bull Bragantino",
-          "abbreviation": "BRA",
-          "played": 16,
-          "wins": 7,
-          "draws": 2,
-          "losses": 7,
-          "goals_for": 19,
-          "goals_against": 18,
-          "goal_difference": 1,
-          "points": 23,
-          "streak": {},
-          "record": "7-2-7"
         },
         {
           "rank": 7,
@@ -4839,16 +4839,16 @@
           "group": "2026",
           "team": "Vasco da Gama",
           "abbreviation": "VAS",
-          "played": 16,
+          "played": 17,
           "wins": 5,
           "draws": 5,
-          "losses": 6,
+          "losses": 7,
           "goals_for": 22,
-          "goals_against": 25,
-          "goal_difference": -3,
+          "goals_against": 28,
+          "goal_difference": -6,
           "points": 20,
           "streak": {},
-          "record": "5-5-6"
+          "record": "5-5-7"
         },
         {
           "rank": 17,
