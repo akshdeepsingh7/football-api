@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24 22:32:02 UTC",
-  "generated_at_iso": "2026-05-24T22:32:02.357828+00:00",
+  "generated_at": "2026-05-25 00:08:30 UTC",
+  "generated_at_iso": "2026-05-25T00:08:30.510616+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4103,20 +4103,20 @@
           "record": "8-2-4"
         },
         {
-          "rank": 13,
+          "rank": 10,
           "group": "Eastern Conference",
           "team": "Columbus Crew",
           "abbreviation": "CLB",
-          "played": 14,
-          "wins": 3,
+          "played": 15,
+          "wins": 4,
           "draws": 4,
           "losses": 7,
-          "goals_for": 19,
+          "goals_for": 21,
           "goals_against": 23,
-          "goal_difference": -4,
-          "points": 13,
+          "goal_difference": -2,
+          "points": 16,
           "streak": {},
-          "record": "3-4-7"
+          "record": "4-4-7"
         },
         {
           "rank": 4,
@@ -4167,7 +4167,7 @@
           "record": "4-6-5"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "Eastern Conference",
           "team": "Toronto FC",
           "abbreviation": "TOR",
@@ -4183,7 +4183,7 @@
           "record": "3-5-6"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "Eastern Conference",
           "team": "CF Montréal",
           "abbreviation": "MTL",
@@ -4215,7 +4215,7 @@
           "record": "1-4-9"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "Eastern Conference",
           "team": "Orlando City SC",
           "abbreviation": "ORL",
@@ -4267,16 +4267,16 @@
           "group": "Eastern Conference",
           "team": "Atlanta United FC",
           "abbreviation": "ATL",
-          "played": 13,
+          "played": 14,
           "wins": 3,
           "draws": 2,
-          "losses": 8,
+          "losses": 9,
           "goals_for": 14,
-          "goals_against": 21,
-          "goal_difference": -7,
+          "goals_against": 23,
+          "goal_difference": -9,
           "points": 11,
           "streak": {},
-          "record": "3-2-8"
+          "record": "3-2-9"
         },
         {
           "rank": 1,
@@ -4775,16 +4775,16 @@
           "group": "2026",
           "team": "Atlético-MG",
           "abbreviation": "CAM",
-          "played": 16,
+          "played": 17,
           "wins": 6,
           "draws": 3,
-          "losses": 7,
+          "losses": 8,
           "goals_for": 21,
-          "goals_against": 22,
-          "goal_difference": -1,
+          "goals_against": 23,
+          "goal_difference": -2,
           "points": 21,
           "streak": {},
-          "record": "6-3-7"
+          "record": "6-3-8"
         },
         {
           "rank": 13,
@@ -4821,6 +4821,22 @@
         {
           "rank": 15,
           "group": "2026",
+          "team": "Corinthians",
+          "abbreviation": "COR",
+          "played": 17,
+          "wins": 5,
+          "draws": 6,
+          "losses": 6,
+          "goals_for": 15,
+          "goals_against": 18,
+          "goal_difference": -3,
+          "points": 21,
+          "streak": {},
+          "record": "5-6-6"
+        },
+        {
+          "rank": 16,
+          "group": "2026",
           "team": "Vasco da Gama",
           "abbreviation": "VAS",
           "played": 16,
@@ -4833,22 +4849,6 @@
           "points": 20,
           "streak": {},
           "record": "5-5-6"
-        },
-        {
-          "rank": 16,
-          "group": "2026",
-          "team": "Corinthians",
-          "abbreviation": "COR",
-          "played": 16,
-          "wins": 4,
-          "draws": 6,
-          "losses": 6,
-          "goals_for": 14,
-          "goals_against": 18,
-          "goal_difference": -4,
-          "points": 18,
-          "streak": {},
-          "record": "4-6-6"
         },
         {
           "rank": 17,
