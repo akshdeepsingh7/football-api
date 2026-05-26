@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-25 23:15:03 UTC
+> **Last updated:** 2026-05-26 01:26:59 UTC
 
 ---
 
@@ -241,7 +241,7 @@ A breakdown of all leagues and teams by football confederation.
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1139 | 1139 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 935 | 935 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 940 | 940 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8956 | 8956 |
 
 ---
@@ -603,9 +603,9 @@ A breakdown of all leagues and teams by football confederation.
 | 3 | 2026 | **Fluminense** | 17 | 9 | 3 | 5 | 27 | 22 | +5 | **30** |
 | 4 | 2026 | **Athletico Paranaense** | 17 | 8 | 3 | 6 | 23 | 18 | +5 | **27** |
 | 5 | 2026 | **Red Bull Bragantino** | 17 | 8 | 2 | 7 | 22 | 18 | +4 | **26** |
-| 6 | 2026 | **São Paulo** | 17 | 7 | 4 | 6 | 23 | 19 | +4 | **25** |
-| 7 | 2026 | **Bahia** | 15 | 6 | 5 | 4 | 21 | 19 | +2 | **23** |
-| 8 | 2026 | **Coritiba** | 16 | 6 | 5 | 5 | 21 | 19 | +2 | **23** |
+| 6 | 2026 | **Coritiba** | 17 | 7 | 5 | 5 | 24 | 21 | +3 | **26** |
+| 7 | 2026 | **São Paulo** | 17 | 7 | 4 | 6 | 23 | 19 | +4 | **25** |
+| 8 | 2026 | **Bahia** | 16 | 6 | 5 | 5 | 23 | 22 | +1 | **23** |
 | 9 | 2026 | **Cruzeiro** | 17 | 6 | 5 | 6 | 23 | 27 | -4 | **23** |
 | 10 | 2026 | **Botafogo** | 16 | 6 | 4 | 6 | 30 | 29 | +1 | **22** |
 | 11 | 2026 | **Vitória** | 16 | 6 | 4 | 6 | 20 | 22 | -2 | **22** |
