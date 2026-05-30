@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30 21:09:55 UTC",
-  "generated_at_iso": "2026-05-30T21:09:55.335832+00:00",
+  "generated_at": "2026-05-30 22:32:47 UTC",
+  "generated_at_iso": "2026-05-30T22:32:47.406175+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4577,8 +4577,8 @@
       "team_count": 20,
       "top_performers": {
         "best_attack": {
-          "team": "Botafogo",
-          "goals_for": 30
+          "team": "Flamengo",
+          "goals_for": 31
         },
         "best_defence": {
           "team": "Palmeiras",
@@ -4615,19 +4615,35 @@
           "group": "2026",
           "team": "Flamengo",
           "abbreviation": "FLA",
-          "played": 16,
-          "wins": 9,
+          "played": 17,
+          "wins": 10,
           "draws": 4,
           "losses": 3,
-          "goals_for": 28,
+          "goals_for": 31,
           "goals_against": 16,
-          "goal_difference": 12,
-          "points": 31,
+          "goal_difference": 15,
+          "points": 34,
           "streak": {},
-          "record": "9-4-3"
+          "record": "10-4-3"
         },
         {
           "rank": 3,
+          "group": "2026",
+          "team": "Athletico Paranaense",
+          "abbreviation": "CAP",
+          "played": 18,
+          "wins": 9,
+          "draws": 3,
+          "losses": 6,
+          "goals_for": 24,
+          "goals_against": 18,
+          "goal_difference": 6,
+          "points": 30,
+          "streak": {},
+          "record": "9-3-6"
+        },
+        {
+          "rank": 4,
           "group": "2026",
           "team": "Fluminense",
           "abbreviation": "FLU",
@@ -4641,22 +4657,6 @@
           "points": 30,
           "streak": {},
           "record": "9-3-5"
-        },
-        {
-          "rank": 4,
-          "group": "2026",
-          "team": "Athletico Paranaense",
-          "abbreviation": "CAP",
-          "played": 17,
-          "wins": 8,
-          "draws": 3,
-          "losses": 6,
-          "goals_for": 23,
-          "goals_against": 18,
-          "goal_difference": 5,
-          "points": 27,
-          "streak": {},
-          "record": "8-3-6"
         },
         {
           "rank": 5,
@@ -4679,16 +4679,16 @@
           "group": "2026",
           "team": "Coritiba",
           "abbreviation": "CFC",
-          "played": 17,
+          "played": 18,
           "wins": 7,
           "draws": 5,
-          "losses": 5,
+          "losses": 6,
           "goals_for": 24,
-          "goals_against": 21,
-          "goal_difference": 3,
+          "goals_against": 24,
+          "goal_difference": 0,
           "points": 26,
           "streak": {},
-          "record": "7-5-5"
+          "record": "7-5-6"
         },
         {
           "rank": 7,
@@ -4871,16 +4871,16 @@
           "group": "2026",
           "team": "Mirassol",
           "abbreviation": "MIR",
-          "played": 16,
+          "played": 17,
           "wins": 4,
           "draws": 4,
-          "losses": 8,
+          "losses": 9,
           "goals_for": 18,
-          "goals_against": 23,
-          "goal_difference": -5,
+          "goals_against": 24,
+          "goal_difference": -6,
           "points": 16,
           "streak": {},
-          "record": "4-4-8"
+          "record": "4-4-9"
         },
         {
           "rank": 19,
