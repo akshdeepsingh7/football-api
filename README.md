@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-31 20:17:58 UTC
+> **Last updated:** 2026-05-31 21:34:47 UTC
 
 ---
 
@@ -59,7 +59,7 @@
 | **Turkish Super Lig** | Turkey | UEFA | 18 | **Galatasaray** | 77 |
 | **Scottish Premiership** | Scotland | UEFA | 12 | **Celtic** | 82 |
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 26 |
-| **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 38 |
+| **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 41 |
 | **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Boca Juniors** | 30 |
 | **Mexican Liga MX** | Mexico | CONCACAF | 18 | **Pumas UNAM** | 36 |
 
@@ -207,8 +207,8 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 |----------|------|------|
 | Best Attack | **Flamengo** | 31 goals |
 | Best Defence | **Palmeiras** | 13 goals conceded |
-| Most Wins | **Palmeiras** | 11 wins |
-| Best GD | **Palmeiras** | +16 |
+| Most Wins | **Palmeiras** | 12 wins |
+| Best GD | **Palmeiras** | +17 |
 
 ---
 
@@ -241,7 +241,7 @@ A breakdown of all leagues and teams by football confederation.
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1139 | 1139 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 959 | 959 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 961 | 961 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8956 | 8956 |
 
 ---
@@ -598,7 +598,7 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026 | **Palmeiras** | 17 | 11 | 5 | 1 | 29 | 13 | +16 | **38** |
+| 1 | 2026 | **Palmeiras** | 18 | 12 | 5 | 1 | 30 | 13 | +17 | **41** |
 | 2 | 2026 | **Flamengo** | 17 | 10 | 4 | 3 | 31 | 16 | +15 | **34** |
 | 3 | 2026 | **Athletico Paranaense** | 18 | 9 | 3 | 6 | 24 | 18 | +6 | **30** |
 | 4 | 2026 | **Fluminense** | 17 | 9 | 3 | 5 | 27 | 22 | +5 | **30** |
@@ -606,18 +606,18 @@ A breakdown of all leagues and teams by football confederation.
 | 6 | 2026 | **Bahia** | 17 | 7 | 5 | 5 | 25 | 23 | +2 | **26** |
 | 7 | 2026 | **Coritiba** | 18 | 7 | 5 | 6 | 24 | 24 | 0 | **26** |
 | 8 | 2026 | **São Paulo** | 17 | 7 | 4 | 6 | 23 | 19 | +4 | **25** |
-| 9 | 2026 | **Corinthians** | 18 | 6 | 6 | 6 | 18 | 19 | -1 | **24** |
-| 10 | 2026 | **Cruzeiro** | 17 | 6 | 5 | 6 | 23 | 27 | -4 | **23** |
-| 11 | 2026 | **Botafogo** | 17 | 6 | 4 | 7 | 31 | 31 | 0 | **22** |
-| 12 | 2026 | **Vitória** | 17 | 6 | 4 | 7 | 21 | 25 | -4 | **22** |
-| 13 | 2026 | **Atlético-MG** | 17 | 6 | 3 | 8 | 21 | 23 | -2 | **21** |
+| 9 | 2026 | **Atlético-MG** | 18 | 7 | 3 | 8 | 22 | 23 | -1 | **24** |
+| 10 | 2026 | **Corinthians** | 18 | 6 | 6 | 6 | 18 | 19 | -1 | **24** |
+| 11 | 2026 | **Cruzeiro** | 17 | 6 | 5 | 6 | 23 | 27 | -4 | **23** |
+| 12 | 2026 | **Botafogo** | 17 | 6 | 4 | 7 | 31 | 31 | 0 | **22** |
+| 13 | 2026 | **Vitória** | 17 | 6 | 4 | 7 | 21 | 25 | -4 | **22** |
 | 14 | 2026 | **Internacional** | 18 | 5 | 6 | 7 | 21 | 22 | -1 | **21** |
 | 15 | 2026 | **Santos** | 18 | 5 | 6 | 7 | 26 | 29 | -3 | **21** |
 | 16 | 2026 | **Grêmio** | 18 | 5 | 6 | 7 | 20 | 23 | -3 | **21** |
-| 17 | 2026 | **Vasco da Gama** | 17 | 5 | 5 | 7 | 22 | 28 | -6 | **20** |
+| 17 | 2026 | **Vasco da Gama** | 18 | 5 | 5 | 8 | 22 | 29 | -7 | **20** |
 | 18 | 2026 | **Mirassol** | 17 | 4 | 4 | 9 | 18 | 24 | -6 | **16** |
 | 19 | 2026 | **Remo** | 17 | 3 | 6 | 8 | 20 | 29 | -9 | **15** |
-| 20 | 2026 | **Chapecoense** | 16 | 1 | 6 | 9 | 17 | 32 | -15 | **9** |
+| 20 | 2026 | **Chapecoense** | 17 | 1 | 6 | 10 | 17 | 33 | -16 | **9** |
 
 ---
 

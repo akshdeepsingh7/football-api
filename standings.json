@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31 20:17:58 UTC",
-  "generated_at_iso": "2026-05-31T20:17:58.143210+00:00",
+  "generated_at": "2026-05-31 21:34:47 UTC",
+  "generated_at_iso": "2026-05-31T21:34:47.205078+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4586,11 +4586,11 @@
         },
         "most_wins": {
           "team": "Palmeiras",
-          "wins": 11
+          "wins": 12
         },
         "best_goal_difference": {
           "team": "Palmeiras",
-          "goal_difference": 16
+          "goal_difference": 17
         }
       },
       "teams": [
@@ -4599,16 +4599,16 @@
           "group": "2026",
           "team": "Palmeiras",
           "abbreviation": "PAL",
-          "played": 17,
-          "wins": 11,
+          "played": 18,
+          "wins": 12,
           "draws": 5,
           "losses": 1,
-          "goals_for": 29,
+          "goals_for": 30,
           "goals_against": 13,
-          "goal_difference": 16,
-          "points": 38,
+          "goal_difference": 17,
+          "points": 41,
           "streak": {},
-          "record": "11-5-1"
+          "record": "12-5-1"
         },
         {
           "rank": 2,
@@ -4725,6 +4725,22 @@
         {
           "rank": 9,
           "group": "2026",
+          "team": "Atlético-MG",
+          "abbreviation": "CAM",
+          "played": 18,
+          "wins": 7,
+          "draws": 3,
+          "losses": 8,
+          "goals_for": 22,
+          "goals_against": 23,
+          "goal_difference": -1,
+          "points": 24,
+          "streak": {},
+          "record": "7-3-8"
+        },
+        {
+          "rank": 10,
+          "group": "2026",
           "team": "Corinthians",
           "abbreviation": "COR",
           "played": 18,
@@ -4739,7 +4755,7 @@
           "record": "6-6-6"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "2026",
           "team": "Cruzeiro",
           "abbreviation": "CRU",
@@ -4755,7 +4771,7 @@
           "record": "6-5-6"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "2026",
           "team": "Botafogo",
           "abbreviation": "BOT",
@@ -4771,7 +4787,7 @@
           "record": "6-4-7"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "2026",
           "team": "Vitória",
           "abbreviation": "VIT",
@@ -4785,22 +4801,6 @@
           "points": 22,
           "streak": {},
           "record": "6-4-7"
-        },
-        {
-          "rank": 13,
-          "group": "2026",
-          "team": "Atlético-MG",
-          "abbreviation": "CAM",
-          "played": 17,
-          "wins": 6,
-          "draws": 3,
-          "losses": 8,
-          "goals_for": 21,
-          "goals_against": 23,
-          "goal_difference": -2,
-          "points": 21,
-          "streak": {},
-          "record": "6-3-8"
         },
         {
           "rank": 14,
@@ -4855,16 +4855,16 @@
           "group": "2026",
           "team": "Vasco da Gama",
           "abbreviation": "VAS",
-          "played": 17,
+          "played": 18,
           "wins": 5,
           "draws": 5,
-          "losses": 7,
+          "losses": 8,
           "goals_for": 22,
-          "goals_against": 28,
-          "goal_difference": -6,
+          "goals_against": 29,
+          "goal_difference": -7,
           "points": 20,
           "streak": {},
-          "record": "5-5-7"
+          "record": "5-5-8"
         },
         {
           "rank": 18,
@@ -4903,16 +4903,16 @@
           "group": "2026",
           "team": "Chapecoense",
           "abbreviation": "CHA",
-          "played": 16,
+          "played": 17,
           "wins": 1,
           "draws": 6,
-          "losses": 9,
+          "losses": 10,
           "goals_for": 17,
-          "goals_against": 32,
-          "goal_difference": -15,
+          "goals_against": 33,
+          "goal_difference": -16,
           "points": 9,
           "streak": {},
-          "record": "1-6-9"
+          "record": "1-6-10"
         }
       ]
     },
