@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-05-31 15:51:31 UTC
+> **Last updated:** 2026-05-31 17:17:45 UTC
 
 ---
 
@@ -241,7 +241,7 @@ A breakdown of all leagues and teams by football confederation.
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1139 | 1139 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 955 | 955 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 959 | 959 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8956 | 8956 |
 
 ---
@@ -602,7 +602,7 @@ A breakdown of all leagues and teams by football confederation.
 | 2 | 2026 | **Flamengo** | 17 | 10 | 4 | 3 | 31 | 16 | +15 | **34** |
 | 3 | 2026 | **Athletico Paranaense** | 18 | 9 | 3 | 6 | 24 | 18 | +6 | **30** |
 | 4 | 2026 | **Fluminense** | 17 | 9 | 3 | 5 | 27 | 22 | +5 | **30** |
-| 5 | 2026 | **Red Bull Bragantino** | 17 | 8 | 2 | 7 | 22 | 18 | +4 | **26** |
+| 5 | 2026 | **Red Bull Bragantino** | 18 | 9 | 2 | 7 | 25 | 19 | +6 | **29** |
 | 6 | 2026 | **Bahia** | 17 | 7 | 5 | 5 | 25 | 23 | +2 | **26** |
 | 7 | 2026 | **Coritiba** | 18 | 7 | 5 | 6 | 24 | 24 | 0 | **26** |
 | 8 | 2026 | **São Paulo** | 17 | 7 | 4 | 6 | 23 | 19 | +4 | **25** |
@@ -611,7 +611,7 @@ A breakdown of all leagues and teams by football confederation.
 | 11 | 2026 | **Botafogo** | 17 | 6 | 4 | 7 | 31 | 31 | 0 | **22** |
 | 12 | 2026 | **Vitória** | 17 | 6 | 4 | 7 | 21 | 25 | -4 | **22** |
 | 13 | 2026 | **Atlético-MG** | 17 | 6 | 3 | 8 | 21 | 23 | -2 | **21** |
-| 14 | 2026 | **Internacional** | 17 | 5 | 6 | 6 | 20 | 19 | +1 | **21** |
+| 14 | 2026 | **Internacional** | 18 | 5 | 6 | 7 | 21 | 22 | -1 | **21** |
 | 15 | 2026 | **Santos** | 18 | 5 | 6 | 7 | 26 | 29 | -3 | **21** |
 | 16 | 2026 | **Grêmio** | 18 | 5 | 6 | 7 | 20 | 23 | -3 | **21** |
 | 17 | 2026 | **Vasco da Gama** | 17 | 5 | 5 | 7 | 22 | 28 | -6 | **20** |

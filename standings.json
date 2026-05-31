@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31 15:51:31 UTC",
-  "generated_at_iso": "2026-05-31T15:51:31.625571+00:00",
+  "generated_at": "2026-05-31 17:17:45 UTC",
+  "generated_at_iso": "2026-05-31T17:17:45.374870+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4663,16 +4663,16 @@
           "group": "2026",
           "team": "Red Bull Bragantino",
           "abbreviation": "BRA",
-          "played": 17,
-          "wins": 8,
+          "played": 18,
+          "wins": 9,
           "draws": 2,
           "losses": 7,
-          "goals_for": 22,
-          "goals_against": 18,
-          "goal_difference": 4,
-          "points": 26,
+          "goals_for": 25,
+          "goals_against": 19,
+          "goal_difference": 6,
+          "points": 29,
           "streak": {},
-          "record": "8-2-7"
+          "record": "9-2-7"
         },
         {
           "rank": 6,
@@ -4807,16 +4807,16 @@
           "group": "2026",
           "team": "Internacional",
           "abbreviation": "INT",
-          "played": 17,
+          "played": 18,
           "wins": 5,
           "draws": 6,
-          "losses": 6,
-          "goals_for": 20,
-          "goals_against": 19,
-          "goal_difference": 1,
+          "losses": 7,
+          "goals_for": 21,
+          "goals_against": 22,
+          "goal_difference": -1,
           "points": 21,
           "streak": {},
-          "record": "5-6-6"
+          "record": "5-6-7"
         },
         {
           "rank": 15,
