@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30 22:32:47 UTC",
-  "generated_at_iso": "2026-05-30T22:32:47.406175+00:00",
+  "generated_at": "2026-05-31 00:08:43 UTC",
+  "generated_at_iso": "2026-05-31T00:08:43.249947+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4677,6 +4677,22 @@
         {
           "rank": 6,
           "group": "2026",
+          "team": "Bahia",
+          "abbreviation": "BAH",
+          "played": 17,
+          "wins": 7,
+          "draws": 5,
+          "losses": 5,
+          "goals_for": 25,
+          "goals_against": 23,
+          "goal_difference": 2,
+          "points": 26,
+          "streak": {},
+          "record": "7-5-5"
+        },
+        {
+          "rank": 7,
+          "group": "2026",
           "team": "Coritiba",
           "abbreviation": "CFC",
           "played": 18,
@@ -4691,7 +4707,7 @@
           "record": "7-5-6"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "2026",
           "team": "São Paulo",
           "abbreviation": "SAO",
@@ -4707,23 +4723,23 @@
           "record": "7-4-6"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "2026",
-          "team": "Bahia",
-          "abbreviation": "BAH",
-          "played": 16,
+          "team": "Corinthians",
+          "abbreviation": "COR",
+          "played": 18,
           "wins": 6,
-          "draws": 5,
-          "losses": 5,
-          "goals_for": 23,
-          "goals_against": 22,
-          "goal_difference": 1,
-          "points": 23,
+          "draws": 6,
+          "losses": 6,
+          "goals_for": 18,
+          "goals_against": 19,
+          "goal_difference": -1,
+          "points": 24,
           "streak": {},
-          "record": "6-5-5"
+          "record": "6-6-6"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "2026",
           "team": "Cruzeiro",
           "abbreviation": "CRU",
@@ -4739,23 +4755,23 @@
           "record": "6-5-6"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "2026",
           "team": "Botafogo",
           "abbreviation": "BOT",
-          "played": 16,
+          "played": 17,
           "wins": 6,
           "draws": 4,
-          "losses": 6,
-          "goals_for": 30,
-          "goals_against": 29,
-          "goal_difference": 1,
+          "losses": 7,
+          "goals_for": 31,
+          "goals_against": 31,
+          "goal_difference": 0,
           "points": 22,
           "streak": {},
-          "record": "6-4-6"
+          "record": "6-4-7"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "2026",
           "team": "Vitória",
           "abbreviation": "VIT",
@@ -4771,7 +4787,7 @@
           "record": "6-4-6"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "2026",
           "team": "Atlético-MG",
           "abbreviation": "CAM",
@@ -4787,7 +4803,7 @@
           "record": "6-3-8"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "group": "2026",
           "team": "Internacional",
           "abbreviation": "INT",
@@ -4803,36 +4819,20 @@
           "record": "5-6-6"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "group": "2026",
           "team": "Grêmio",
           "abbreviation": "GRE",
-          "played": 17,
+          "played": 18,
           "wins": 5,
           "draws": 6,
-          "losses": 6,
-          "goals_for": 19,
-          "goals_against": 20,
-          "goal_difference": -1,
-          "points": 21,
-          "streak": {},
-          "record": "5-6-6"
-        },
-        {
-          "rank": 15,
-          "group": "2026",
-          "team": "Corinthians",
-          "abbreviation": "COR",
-          "played": 17,
-          "wins": 5,
-          "draws": 6,
-          "losses": 6,
-          "goals_for": 15,
-          "goals_against": 18,
+          "losses": 7,
+          "goals_for": 20,
+          "goals_against": 23,
           "goal_difference": -3,
           "points": 21,
           "streak": {},
-          "record": "5-6-6"
+          "record": "5-6-7"
         },
         {
           "rank": 16,
