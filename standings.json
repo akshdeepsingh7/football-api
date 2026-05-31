@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31 00:08:43 UTC",
-  "generated_at_iso": "2026-05-31T00:08:43.249947+00:00",
+  "generated_at": "2026-05-31 05:06:19 UTC",
+  "generated_at_iso": "2026-05-31T05:06:19.732916+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4775,16 +4775,16 @@
           "group": "2026",
           "team": "Vitória",
           "abbreviation": "VIT",
-          "played": 16,
+          "played": 17,
           "wins": 6,
           "draws": 4,
-          "losses": 6,
-          "goals_for": 20,
-          "goals_against": 22,
-          "goal_difference": -2,
+          "losses": 7,
+          "goals_for": 21,
+          "goals_against": 25,
+          "goal_difference": -4,
           "points": 22,
           "streak": {},
-          "record": "6-4-6"
+          "record": "6-4-7"
         },
         {
           "rank": 13,
@@ -4821,6 +4821,22 @@
         {
           "rank": 15,
           "group": "2026",
+          "team": "Santos",
+          "abbreviation": "SAN",
+          "played": 18,
+          "wins": 5,
+          "draws": 6,
+          "losses": 7,
+          "goals_for": 26,
+          "goals_against": 29,
+          "goal_difference": -3,
+          "points": 21,
+          "streak": {},
+          "record": "5-6-7"
+        },
+        {
+          "rank": 16,
+          "group": "2026",
           "team": "Grêmio",
           "abbreviation": "GRE",
           "played": 18,
@@ -4835,7 +4851,7 @@
           "record": "5-6-7"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "group": "2026",
           "team": "Vasco da Gama",
           "abbreviation": "VAS",
@@ -4849,22 +4865,6 @@
           "points": 20,
           "streak": {},
           "record": "5-5-7"
-        },
-        {
-          "rank": 17,
-          "group": "2026",
-          "team": "Santos",
-          "abbreviation": "SAN",
-          "played": 17,
-          "wins": 4,
-          "draws": 6,
-          "losses": 7,
-          "goals_for": 23,
-          "goals_against": 28,
-          "goal_difference": -5,
-          "points": 18,
-          "streak": {},
-          "record": "4-6-7"
         },
         {
           "rank": 18,
