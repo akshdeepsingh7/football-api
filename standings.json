@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01 01:41:16 UTC",
-  "generated_at_iso": "2026-06-01T01:41:16.732867+00:00",
+  "generated_at": "2026-06-01 07:10:50 UTC",
+  "generated_at_iso": "2026-06-01T07:10:50.133550+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4629,6 +4629,22 @@
         {
           "rank": 3,
           "group": "2026",
+          "team": "Fluminense",
+          "abbreviation": "FLU",
+          "played": 18,
+          "wins": 9,
+          "draws": 4,
+          "losses": 5,
+          "goals_for": 28,
+          "goals_against": 23,
+          "goal_difference": 5,
+          "points": 31,
+          "streak": {},
+          "record": "9-4-5"
+        },
+        {
+          "rank": 4,
+          "group": "2026",
           "team": "Athletico Paranaense",
           "abbreviation": "CAP",
           "played": 18,
@@ -4641,22 +4657,6 @@
           "points": 30,
           "streak": {},
           "record": "9-3-6"
-        },
-        {
-          "rank": 4,
-          "group": "2026",
-          "team": "Fluminense",
-          "abbreviation": "FLU",
-          "played": 17,
-          "wins": 9,
-          "draws": 3,
-          "losses": 5,
-          "goals_for": 27,
-          "goals_against": 22,
-          "goal_difference": 5,
-          "points": 30,
-          "streak": {},
-          "record": "9-3-5"
         },
         {
           "rank": 5,
@@ -4711,16 +4711,16 @@
           "group": "2026",
           "team": "São Paulo",
           "abbreviation": "SAO",
-          "played": 17,
+          "played": 18,
           "wins": 7,
           "draws": 4,
-          "losses": 6,
+          "losses": 7,
           "goals_for": 23,
-          "goals_against": 19,
-          "goal_difference": 4,
+          "goals_against": 20,
+          "goal_difference": 3,
           "points": 25,
           "streak": {},
-          "record": "7-4-6"
+          "record": "7-4-7"
         },
         {
           "rank": 9,
@@ -4759,16 +4759,16 @@
           "group": "2026",
           "team": "Cruzeiro",
           "abbreviation": "CRU",
-          "played": 17,
+          "played": 18,
           "wins": 6,
-          "draws": 5,
+          "draws": 6,
           "losses": 6,
-          "goals_for": 23,
-          "goals_against": 27,
+          "goals_for": 24,
+          "goals_against": 28,
           "goal_difference": -4,
-          "points": 23,
+          "points": 24,
           "streak": {},
-          "record": "6-5-6"
+          "record": "6-6-6"
         },
         {
           "rank": 12,
@@ -4869,6 +4869,22 @@
         {
           "rank": 18,
           "group": "2026",
+          "team": "Remo",
+          "abbreviation": "REMO",
+          "played": 18,
+          "wins": 4,
+          "draws": 6,
+          "losses": 8,
+          "goals_for": 21,
+          "goals_against": 29,
+          "goal_difference": -8,
+          "points": 18,
+          "streak": {},
+          "record": "4-6-8"
+        },
+        {
+          "rank": 19,
+          "group": "2026",
           "team": "Mirassol",
           "abbreviation": "MIR",
           "played": 17,
@@ -4881,22 +4897,6 @@
           "points": 16,
           "streak": {},
           "record": "4-4-9"
-        },
-        {
-          "rank": 19,
-          "group": "2026",
-          "team": "Remo",
-          "abbreviation": "REMO",
-          "played": 17,
-          "wins": 3,
-          "draws": 6,
-          "losses": 8,
-          "goals_for": 20,
-          "goals_against": 29,
-          "goal_difference": -9,
-          "points": 15,
-          "streak": {},
-          "record": "3-6-8"
         },
         {
           "rank": 20,
