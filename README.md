@@ -1,13 +1,13 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
-  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Total Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-14%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
+  <img src="https://img.shields.io/badge/Teams-312-blue?style=for-the-badge" alt="Total Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confederations"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 15 major leagues across 3 confederations, automatically updated.</b>
+  <b>Live football standings from 14 major leagues across 3 confederations, automatically updated.</b>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-06-05 22:03:49 UTC
+> **Last updated:** 2026-06-05 23:47:29 UTC
 
 ---
 
@@ -49,7 +49,7 @@
 |--------|---------|--------------|-------|--------|--------|
 | **English Premier League** | England | UEFA | 20 | **Arsenal** | 85 |
 | **Spanish La Liga** | Spain | UEFA | 20 | **Barcelona** | 94 |
-| **Italian Serie A** | Italy | UEFA | 20 | **Internazionale** | 87 |
+| **Italian Serie A** | Italy | UEFA | 0 | **N/A** | 0 |
 | **German Bundesliga** | Germany | UEFA | 18 | **Bayern Munich** | 89 |
 | **French Ligue 1** | France | UEFA | 18 | **Paris Saint-Germain** | 76 |
 | **UEFA Champions League** | Europe | UEFA | 36 | **Arsenal** | 24 |
@@ -88,17 +88,6 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 | Best Defence | **Real Madrid** | 35 goals conceded |
 | Most Wins | **Barcelona** | 31 wins |
 | Best GD | **Barcelona** | +59 |
-
----
-
-### Italian Serie A
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **Internazionale** | 89 goals |
-| Best Defence | **Como** | 29 goals conceded |
-| Most Wins | **Internazionale** | 27 wins |
-| Best GD | **Internazionale** | +54 |
 
 ---
 
@@ -242,7 +231,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1139 | 1139 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 964 | 964 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8956 | 8956 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 214 | 8034 | 8034 |
 
 ---
 
@@ -302,28 +291,7 @@ A breakdown of all leagues and teams by football confederation.
 
 ### Italian Serie A
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-2026 Italian Serie A | **Internazionale** | 38 | 27 | 6 | 5 | 89 | 35 | +54 | **87** |
-| 2 | 2025-2026 Italian Serie A | **Napoli** | 38 | 23 | 7 | 8 | 58 | 36 | +22 | **76** |
-| 3 | 2025-2026 Italian Serie A | **AS Roma** | 38 | 23 | 4 | 11 | 59 | 31 | +28 | **73** |
-| 4 | 2025-2026 Italian Serie A | **Como** | 38 | 20 | 11 | 7 | 65 | 29 | +36 | **71** |
-| 5 | 2025-2026 Italian Serie A | **AC Milan** | 38 | 20 | 10 | 8 | 53 | 35 | +18 | **70** |
-| 6 | 2025-2026 Italian Serie A | **Juventus** | 38 | 19 | 12 | 7 | 61 | 34 | +27 | **69** |
-| 7 | 2025-2026 Italian Serie A | **Atalanta** | 38 | 15 | 14 | 9 | 51 | 36 | +15 | **59** |
-| 8 | 2025-2026 Italian Serie A | **Bologna** | 38 | 16 | 8 | 14 | 49 | 46 | +3 | **56** |
-| 9 | 2025-2026 Italian Serie A | **Lazio** | 38 | 14 | 12 | 12 | 41 | 40 | +1 | **54** |
-| 10 | 2025-2026 Italian Serie A | **Udinese** | 38 | 14 | 8 | 16 | 45 | 48 | -3 | **50** |
-| 11 | 2025-2026 Italian Serie A | **Sassuolo** | 38 | 14 | 7 | 17 | 46 | 50 | -4 | **49** |
-| 12 | 2025-2026 Italian Serie A | **Torino** | 38 | 12 | 9 | 17 | 44 | 63 | -19 | **45** |
-| 13 | 2025-2026 Italian Serie A | **Parma** | 38 | 11 | 12 | 15 | 28 | 46 | -18 | **45** |
-| 14 | 2025-2026 Italian Serie A | **Cagliari** | 38 | 11 | 10 | 17 | 40 | 53 | -13 | **43** |
-| 15 | 2025-2026 Italian Serie A | **Fiorentina** | 38 | 9 | 15 | 14 | 41 | 50 | -9 | **42** |
-| 16 | 2025-2026 Italian Serie A | **Genoa** | 38 | 10 | 11 | 17 | 41 | 51 | -10 | **41** |
-| 17 | 2025-2026 Italian Serie A | **Lecce** | 38 | 10 | 8 | 20 | 28 | 50 | -22 | **38** |
-| 18 | 2025-2026 Italian Serie A | **Cremonese** | 38 | 8 | 10 | 20 | 32 | 57 | -25 | **34** |
-| 19 | 2025-2026 Italian Serie A | **Hellas Verona** | 38 | 3 | 12 | 23 | 25 | 61 | -36 | **21** |
-| 20 | 2025-2026 Italian Serie A | **Pisa** | 38 | 2 | 12 | 24 | 26 | 71 | -45 | **18** |
+*No standings data available (off-season).*
 
 ---
 
