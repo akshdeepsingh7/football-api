@@ -1,13 +1,13 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-14%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
-  <img src="https://img.shields.io/badge/Teams-312-blue?style=for-the-badge" alt="Total Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
+  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Total Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confederations"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 14 major leagues across 3 confederations, automatically updated.</b>
+  <b>Live football standings from 15 major leagues across 3 confederations, automatically updated.</b>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-06-07 01:38:36 UTC
+> **Last updated:** 2026-06-07 06:38:14 UTC
 
 ---
 
@@ -49,7 +49,7 @@
 |--------|---------|--------------|-------|--------|--------|
 | **English Premier League** | England | UEFA | 20 | **Arsenal** | 85 |
 | **Spanish La Liga** | Spain | UEFA | 20 | **Barcelona** | 94 |
-| **Italian Serie A** | Italy | UEFA | 0 | **N/A** | 0 |
+| **Italian Serie A** | Italy | UEFA | 20 | **AC Milan** | 0 |
 | **German Bundesliga** | Germany | UEFA | 18 | **Bayern Munich** | 89 |
 | **French Ligue 1** | France | UEFA | 18 | **Paris Saint-Germain** | 76 |
 | **UEFA Champions League** | Europe | UEFA | 36 | **Arsenal** | 24 |
@@ -88,6 +88,17 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 | Best Defence | **Real Madrid** | 35 goals conceded |
 | Most Wins | **Barcelona** | 31 wins |
 | Best GD | **Barcelona** | +59 |
+
+---
+
+### Italian Serie A
+
+| Category | Team | Stat |
+|----------|------|------|
+| Best Attack | **AC Milan** | 0 goals |
+| Best Defence | **AC Milan** | 0 goals conceded |
+| Most Wins | **AC Milan** | 0 wins |
+| Best GD | **AC Milan** | +0 |
 
 ---
 
@@ -231,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1139 | 1139 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 964 | 964 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 214 | 8034 | 8034 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8034 | 8034 |
 
 ---
 
@@ -291,7 +302,28 @@ A breakdown of all leagues and teams by football confederation.
 
 ### Italian Serie A
 
-*No standings data available (off-season).*
+| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
+|---|-------|------|---|---|---|---|----|----|----|----|
+| 1 | 2026-2027 Italian Serie A | **AC Milan** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026-2027 Italian Serie A | **Atalanta** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026-2027 Italian Serie A | **Bologna** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026-2027 Italian Serie A | **Cagliari** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026-2027 Italian Serie A | **Como** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026-2027 Italian Serie A | **Fiorentina** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026-2027 Italian Serie A | **Frosinone** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-2027 Italian Serie A | **Genoa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-2027 Italian Serie A | **Internazionale** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026-2027 Italian Serie A | **Juventus** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026-2027 Italian Serie A | **Lazio** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026-2027 Italian Serie A | **Lecce** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026-2027 Italian Serie A | **Monza** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026-2027 Italian Serie A | **Napoli** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026-2027 Italian Serie A | **Parma** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026-2027 Italian Serie A | **AS Roma** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026-2027 Italian Serie A | **Sassuolo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026-2027 Italian Serie A | **Torino** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 19 | 2026-2027 Italian Serie A | **Udinese** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 20 | 2026-2027 Italian Serie A | **Venezia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 ---
 
