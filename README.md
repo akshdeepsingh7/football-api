@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-06-10 12:44:24 UTC
+> **Last updated:** 2026-06-10 16:41:21 UTC
 
 ---
 
@@ -55,7 +55,7 @@
 | **UEFA Champions League** | Europe | UEFA | 36 | **Arsenal** | 24 |
 | **UEFA Europa League** | Europe | UEFA | 36 | **Lyon** | 21 |
 | **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **FC Porto** | 88 |
-| **Dutch Eredivisie** | Netherlands | UEFA | 18 | **PSV Eindhoven** | 84 |
+| **Dutch Eredivisie** | Netherlands | UEFA | 18 | **ADO Den Haag** | 0 |
 | **Turkish Super Lig** | Turkey | UEFA | 18 | **Galatasaray** | 77 |
 | **Scottish Premiership** | Scotland | UEFA | 12 | **Celtic** | 82 |
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 26 |
@@ -161,10 +161,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **PSV Eindhoven** | 101 goals |
-| Best Defence | **FC Twente** | 40 goals conceded |
-| Most Wins | **PSV Eindhoven** | 27 wins |
-| Best GD | **PSV Eindhoven** | +56 |
+| Best Attack | **ADO Den Haag** | 0 goals |
+| Best Defence | **ADO Den Haag** | 0 goals conceded |
+| Most Wins | **ADO Den Haag** | 0 wins |
+| Best GD | **ADO Den Haag** | +0 |
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1139 | 1139 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 964 | 964 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 8034 | 8034 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 7062 | 7062 |
 
 ---
 
@@ -492,24 +492,24 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-2026 Dutch Eredivisie | **PSV Eindhoven** | 34 | 27 | 3 | 4 | 101 | 45 | +56 | **84** |
-| 2 | 2025-2026 Dutch Eredivisie | **Feyenoord Rotterdam** | 34 | 19 | 8 | 7 | 70 | 44 | +26 | **65** |
-| 3 | 2025-2026 Dutch Eredivisie | **NEC Nijmegen** | 34 | 16 | 11 | 7 | 77 | 53 | +24 | **59** |
-| 4 | 2025-2026 Dutch Eredivisie | **FC Twente** | 34 | 15 | 13 | 6 | 59 | 40 | +19 | **58** |
-| 5 | 2025-2026 Dutch Eredivisie | **Ajax Amsterdam** | 34 | 14 | 14 | 6 | 62 | 41 | +21 | **56** |
-| 6 | 2025-2026 Dutch Eredivisie | **FC Utrecht** | 34 | 15 | 8 | 11 | 55 | 42 | +13 | **53** |
-| 7 | 2025-2026 Dutch Eredivisie | **AZ Alkmaar** | 34 | 14 | 10 | 10 | 58 | 51 | +7 | **52** |
-| 8 | 2025-2026 Dutch Eredivisie | **Heerenveen** | 34 | 14 | 9 | 11 | 57 | 53 | +4 | **51** |
-| 9 | 2025-2026 Dutch Eredivisie | **FC Groningen** | 34 | 14 | 6 | 14 | 49 | 45 | +4 | **48** |
-| 10 | 2025-2026 Dutch Eredivisie | **Sparta Rotterdam** | 34 | 12 | 7 | 15 | 40 | 62 | -22 | **43** |
-| 11 | 2025-2026 Dutch Eredivisie | **Fortuna Sittard** | 34 | 11 | 6 | 17 | 49 | 63 | -14 | **39** |
-| 12 | 2025-2026 Dutch Eredivisie | **Go Ahead Eagles** | 34 | 8 | 14 | 12 | 54 | 53 | +1 | **38** |
-| 13 | 2025-2026 Dutch Eredivisie | **Excelsior** | 34 | 10 | 8 | 16 | 43 | 56 | -13 | **38** |
-| 14 | 2025-2026 Dutch Eredivisie | **Telstar** | 34 | 9 | 10 | 15 | 49 | 55 | -6 | **37** |
-| 15 | 2025-2026 Dutch Eredivisie | **PEC Zwolle** | 34 | 9 | 10 | 15 | 44 | 71 | -27 | **37** |
-| 16 | 2025-2026 Dutch Eredivisie | **FC Volendam** | 34 | 8 | 8 | 18 | 35 | 55 | -20 | **32** |
-| 17 | 2025-2026 Dutch Eredivisie | **NAC Breda** | 34 | 6 | 11 | 17 | 35 | 58 | -23 | **29** |
-| 18 | 2025-2026 Dutch Eredivisie | **Heracles Almelo** | 34 | 5 | 4 | 25 | 35 | 85 | -50 | **19** |
+| 1 | 2026-2027 Dutch Eredivisie | **ADO Den Haag** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026-2027 Dutch Eredivisie | **AZ Alkmaar** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026-2027 Dutch Eredivisie | **Ajax Amsterdam** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026-2027 Dutch Eredivisie | **SC Cambuur** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026-2027 Dutch Eredivisie | **Excelsior** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026-2027 Dutch Eredivisie | **Feyenoord Rotterdam** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026-2027 Dutch Eredivisie | **Fortuna Sittard** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-2027 Dutch Eredivisie | **Go Ahead Eagles** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-2027 Dutch Eredivisie | **FC Groningen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026-2027 Dutch Eredivisie | **Heerenveen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026-2027 Dutch Eredivisie | **NEC Nijmegen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026-2027 Dutch Eredivisie | **PEC Zwolle** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026-2027 Dutch Eredivisie | **PSV Eindhoven** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026-2027 Dutch Eredivisie | **Sparta Rotterdam** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026-2027 Dutch Eredivisie | **Telstar** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026-2027 Dutch Eredivisie | **FC Twente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026-2027 Dutch Eredivisie | **FC Utrecht** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026-2027 Dutch Eredivisie | **Willem II** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 ---
 
