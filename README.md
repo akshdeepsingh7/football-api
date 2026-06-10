@@ -1,13 +1,13 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
-  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Total Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-14%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
+  <img src="https://img.shields.io/badge/Teams-314-blue?style=for-the-badge" alt="Total Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confederations"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 15 major leagues across 3 confederations, automatically updated.</b>
+  <b>Live football standings from 14 major leagues across 3 confederations, automatically updated.</b>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-06-10 16:41:21 UTC
+> **Last updated:** 2026-06-10 19:42:04 UTC
 
 ---
 
@@ -51,7 +51,7 @@
 | **Spanish La Liga** | Spain | UEFA | 20 | **Barcelona** | 94 |
 | **Italian Serie A** | Italy | UEFA | 20 | **AC Milan** | 0 |
 | **German Bundesliga** | Germany | UEFA | 18 | **Bayern Munich** | 89 |
-| **French Ligue 1** | France | UEFA | 18 | **Paris Saint-Germain** | 76 |
+| **French Ligue 1** | France | UEFA | 0 | **N/A** | 0 |
 | **UEFA Champions League** | Europe | UEFA | 36 | **Arsenal** | 24 |
 | **UEFA Europa League** | Europe | UEFA | 36 | **Lyon** | 21 |
 | **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **FC Porto** | 88 |
@@ -110,17 +110,6 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 | Best Defence | **Borussia Dortmund** | 34 goals conceded |
 | Most Wins | **Bayern Munich** | 28 wins |
 | Best GD | **Bayern Munich** | +86 |
-
----
-
-### French Ligue 1
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **Paris Saint-Germain** | 74 goals |
-| Best Defence | **Paris Saint-Germain** | 29 goals conceded |
-| Most Wins | **Paris Saint-Germain** | 24 wins |
-| Best GD | **Paris Saint-Germain** | +45 |
 
 ---
 
@@ -242,7 +231,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 1139 | 1139 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 964 | 964 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 7062 | 7062 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 216 | 6199 | 6199 |
 
 ---
 
@@ -354,26 +343,7 @@ A breakdown of all leagues and teams by football confederation.
 
 ### French Ligue 1
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | French Ligue 1 2025-26 | **Paris Saint-Germain** | 34 | 24 | 4 | 6 | 74 | 29 | +45 | **76** |
-| 2 | French Ligue 1 2025-26 | **Lens** | 34 | 22 | 4 | 8 | 66 | 35 | +31 | **70** |
-| 3 | French Ligue 1 2025-26 | **Lille** | 34 | 18 | 7 | 9 | 52 | 37 | +15 | **61** |
-| 4 | French Ligue 1 2025-26 | **Lyon** | 34 | 18 | 6 | 10 | 53 | 40 | +13 | **60** |
-| 5 | French Ligue 1 2025-26 | **Marseille** | 34 | 18 | 5 | 11 | 63 | 45 | +18 | **59** |
-| 6 | French Ligue 1 2025-26 | **Stade Rennais** | 34 | 17 | 8 | 9 | 59 | 50 | +9 | **59** |
-| 7 | French Ligue 1 2025-26 | **AS Monaco** | 34 | 16 | 6 | 12 | 60 | 54 | +6 | **54** |
-| 8 | French Ligue 1 2025-26 | **Strasbourg** | 34 | 15 | 8 | 11 | 58 | 47 | +11 | **53** |
-| 9 | French Ligue 1 2025-26 | **Lorient** | 34 | 11 | 12 | 11 | 48 | 51 | -3 | **45** |
-| 10 | French Ligue 1 2025-26 | **Toulouse** | 33 | 12 | 8 | 13 | 47 | 46 | +1 | **44** |
-| 11 | French Ligue 1 2025-26 | **Paris FC** | 34 | 11 | 11 | 12 | 47 | 50 | -3 | **44** |
-| 12 | French Ligue 1 2025-26 | **Brest** | 34 | 10 | 9 | 15 | 43 | 55 | -12 | **39** |
-| 13 | French Ligue 1 2025-26 | **Angers** | 34 | 9 | 9 | 16 | 29 | 48 | -19 | **36** |
-| 14 | French Ligue 1 2025-26 | **Le Havre AC** | 34 | 7 | 14 | 13 | 32 | 44 | -12 | **35** |
-| 15 | French Ligue 1 2025-26 | **AJ Auxerre** | 34 | 8 | 10 | 16 | 34 | 44 | -10 | **34** |
-| 16 | French Ligue 1 2025-26 | **Nice** | 34 | 7 | 11 | 16 | 37 | 60 | -23 | **32** |
-| 17 | French Ligue 1 2025-26 | **Nantes** | 33 | 5 | 8 | 20 | 29 | 52 | -23 | **23** |
-| 18 | French Ligue 1 2025-26 | **Metz** | 34 | 3 | 8 | 23 | 32 | 76 | -44 | **17** |
+*No standings data available (off-season).*
 
 ---
 
