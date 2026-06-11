@@ -1,13 +1,13 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-13%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
-  <img src="https://img.shields.io/badge/Teams-296-blue?style=for-the-badge" alt="Total Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
+  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Total Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confederations"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 13 major leagues across 3 confederations, automatically updated.</b>
+  <b>Live football standings from 15 major leagues across 3 confederations, automatically updated.</b>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-06-10 23:58:44 UTC
+> **Last updated:** 2026-06-11 04:54:41 UTC
 
 ---
 
@@ -51,7 +51,7 @@
 | **Spanish La Liga** | Spain | UEFA | 20 | **Barcelona** | 94 |
 | **Italian Serie A** | Italy | UEFA | 20 | **AC Milan** | 0 |
 | **German Bundesliga** | Germany | UEFA | 18 | **Bayern Munich** | 89 |
-| **French Ligue 1** | France | UEFA | 0 | **N/A** | 0 |
+| **French Ligue 1** | France | UEFA | 18 | **Angers** | 0 |
 | **UEFA Champions League** | Europe | UEFA | 36 | **Arsenal** | 24 |
 | **UEFA Europa League** | Europe | UEFA | 36 | **Lyon** | 21 |
 | **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **FC Porto** | 88 |
@@ -61,7 +61,7 @@
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 26 |
 | **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 41 |
 | **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Boca Juniors** | 30 |
-| **Mexican Liga MX** | Mexico | CONCACAF | 0 | **N/A** | 0 |
+| **Mexican Liga MX** | Mexico | CONCACAF | 18 | **Atlante** | 0 |
 
 ---
 
@@ -110,6 +110,17 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 | Best Defence | **Borussia Dortmund** | 34 goals conceded |
 | Most Wins | **Bayern Munich** | 28 wins |
 | Best GD | **Bayern Munich** | +86 |
+
+---
+
+### French Ligue 1
+
+| Category | Team | Stat |
+|----------|------|------|
+| Best Attack | **Angers** | 0 goals |
+| Best Defence | **Angers** | 0 goals conceded |
+| Most Wins | **Angers** | 0 wins |
+| Best GD | **Angers** | +0 |
 
 ---
 
@@ -212,15 +223,26 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 ---
 
+### Mexican Liga MX
+
+| Category | Team | Stat |
+|----------|------|------|
+| Best Attack | **Atlante** | 0 goals |
+| Best Defence | **Atlante** | 0 goals conceded |
+| Most Wins | **Atlante** | 0 wins |
+| Best GD | **Atlante** | +0 |
+
+---
+
 ## Confederation Overview
 
 A breakdown of all leagues and teams by football confederation.
 
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
-| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 30 | 720 | 720 |
+| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 720 | 720 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 964 | 964 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 216 | 6199 | 6199 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 6199 | 6199 |
 
 ---
 
@@ -332,7 +354,26 @@ A breakdown of all leagues and teams by football confederation.
 
 ### French Ligue 1
 
-*No standings data available (off-season).*
+| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
+|---|-------|------|---|---|---|---|----|----|----|----|
+| 1 | French Ligue 1 2026-27 | **Angers** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | French Ligue 1 2026-27 | **AJ Auxerre** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | French Ligue 1 2026-27 | **Brest** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | French Ligue 1 2026-27 | **Le Havre AC** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | French Ligue 1 2026-27 | **Le Mans** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | French Ligue 1 2026-27 | **Lens** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | French Ligue 1 2026-27 | **Lille** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | French Ligue 1 2026-27 | **Lorient** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | French Ligue 1 2026-27 | **Lyon** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | French Ligue 1 2026-27 | **Marseille** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | French Ligue 1 2026-27 | **AS Monaco** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | French Ligue 1 2026-27 | **Nice** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | French Ligue 1 2026-27 | **Paris FC** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | French Ligue 1 2026-27 | **Paris Saint-Germain** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | French Ligue 1 2026-27 | **Stade Rennais** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | French Ligue 1 2026-27 | **Strasbourg** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | French Ligue 1 2026-27 | **Toulouse** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | French Ligue 1 2026-27 | **Troyes** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 ---
 
@@ -619,7 +660,26 @@ A breakdown of all leagues and teams by football confederation.
 
 ### Mexican Liga MX
 
-*No standings data available (off-season).*
+| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
+|---|-------|------|---|---|---|---|----|----|----|----|
+| 1 | 2026 Torneo Apertura | **Atlante** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026 Torneo Apertura | **Atlas** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026 Torneo Apertura | **Atlético de San Luis** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026 Torneo Apertura | **América** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026 Torneo Apertura | **Cruz Azul** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026 Torneo Apertura | **Guadalajara** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026 Torneo Apertura | **FC Juarez** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026 Torneo Apertura | **León** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026 Torneo Apertura | **Monterrey** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026 Torneo Apertura | **Necaxa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026 Torneo Apertura | **Pachuca** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026 Torneo Apertura | **Puebla** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026 Torneo Apertura | **Pumas UNAM** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026 Torneo Apertura | **Querétaro** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026 Torneo Apertura | **Santos** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026 Torneo Apertura | **Tigres UANL** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026 Torneo Apertura | **Tijuana** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026 Torneo Apertura | **Toluca** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 ---
 
