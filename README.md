@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-06-18 12:38:11 UTC
+> **Last updated:** 2026-06-18 16:38:51 UTC
 
 ---
 
@@ -57,7 +57,7 @@
 | **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **FC Porto** | 88 |
 | **Dutch Eredivisie** | Netherlands | UEFA | 18 | **ADO Den Haag** | 0 |
 | **Turkish Super Lig** | Turkey | UEFA | 18 | **Galatasaray** | 77 |
-| **Scottish Premiership** | Scotland | UEFA | 12 | **Celtic** | 82 |
+| **Scottish Premiership** | Scotland | UEFA | 12 | **Aberdeen** | 0 |
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 26 |
 | **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 41 |
 | **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Boca Juniors** | 30 |
@@ -183,10 +183,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Rangers** | 76 goals |
-| Best Defence | **Heart of Midlothian** | 34 goals conceded |
-| Most Wins | **Celtic** | 26 wins |
-| Best GD | **Heart of Midlothian** | +33 |
+| Best Attack | **Aberdeen** | 0 goals |
+| Best Defence | **Aberdeen** | 0 goals conceded |
+| Most Wins | **Aberdeen** | 0 wins |
+| Best GD | **Aberdeen** | +0 |
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 720 | 720 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 964 | 964 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 6199 | 6199 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 5565 | 5565 |
 
 ---
 
@@ -542,18 +542,18 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-26 Scottish Premiership | **Celtic** | 38 | 26 | 4 | 8 | 73 | 41 | +32 | **82** |
-| 2 | 2025-26 Scottish Premiership | **Heart of Midlothian** | 38 | 24 | 8 | 6 | 67 | 34 | +33 | **80** |
-| 3 | 2025-26 Scottish Premiership | **Rangers** | 38 | 20 | 12 | 6 | 76 | 43 | +33 | **72** |
-| 4 | 2025-26 Scottish Premiership | **Motherwell** | 38 | 16 | 13 | 9 | 59 | 36 | +23 | **61** |
-| 5 | 2025-26 Scottish Premiership | **Hibernian** | 38 | 15 | 12 | 11 | 58 | 44 | +14 | **57** |
-| 6 | 2025-26 Scottish Premiership | **Falkirk** | 38 | 14 | 7 | 17 | 50 | 62 | -12 | **49** |
-| 7 | 2025-26 Scottish Premiership | **Dundee United** | 38 | 10 | 15 | 13 | 49 | 60 | -11 | **45** |
-| 8 | 2025-26 Scottish Premiership | **Dundee** | 38 | 11 | 9 | 18 | 42 | 61 | -19 | **42** |
-| 9 | 2025-26 Scottish Premiership | **Aberdeen** | 38 | 11 | 7 | 20 | 40 | 55 | -15 | **40** |
-| 10 | 2025-26 Scottish Premiership | **Kilmarnock** | 38 | 10 | 10 | 18 | 50 | 68 | -18 | **40** |
-| 11 | 2025-26 Scottish Premiership | **St Mirren** | 38 | 8 | 10 | 20 | 30 | 55 | -25 | **34** |
-| 12 | 2025-26 Scottish Premiership | **Livingston** | 38 | 2 | 15 | 21 | 40 | 75 | -35 | **21** |
+| 1 | 2026-27 Scottish Premiership | **Aberdeen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026-27 Scottish Premiership | **Celtic** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026-27 Scottish Premiership | **Dundee** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026-27 Scottish Premiership | **Dundee United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026-27 Scottish Premiership | **Falkirk** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026-27 Scottish Premiership | **Heart of Midlothian** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026-27 Scottish Premiership | **Hibernian** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-27 Scottish Premiership | **Kilmarnock** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-27 Scottish Premiership | **Motherwell** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026-27 Scottish Premiership | **Rangers** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026-27 Scottish Premiership | **St Johnstone** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026-27 Scottish Premiership | **St Mirren** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 ---
 
