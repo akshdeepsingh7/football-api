@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-06-19 05:35:28 UTC
+> **Last updated:** 2026-06-19 10:52:16 UTC
 
 ---
 
@@ -47,7 +47,7 @@
 
 | League | Country | Confederation | Teams | Leader | Points |
 |--------|---------|--------------|-------|--------|--------|
-| **English Premier League** | England | UEFA | 20 | **Arsenal** | 85 |
+| **English Premier League** | England | UEFA | 20 | **AFC Bournemouth** | 0 |
 | **Spanish La Liga** | Spain | UEFA | 20 | **Barcelona** | 94 |
 | **Italian Serie A** | Italy | UEFA | 20 | **AC Milan** | 0 |
 | **German Bundesliga** | Germany | UEFA | 18 | **Bayern Munich** | 89 |
@@ -73,10 +73,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Manchester City** | 77 goals |
-| Best Defence | **Arsenal** | 27 goals conceded |
-| Most Wins | **Arsenal** | 26 wins |
-| Best GD | **Arsenal** | +44 |
+| Best Attack | **AFC Bournemouth** | 0 goals |
+| Best Defence | **AFC Bournemouth** | 0 goals conceded |
+| Most Wins | **AFC Bournemouth** | 0 wins |
+| Best GD | **AFC Bournemouth** | +0 |
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 720 | 720 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 964 | 964 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 5565 | 5565 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 4520 | 4520 |
 
 ---
 
@@ -250,26 +250,26 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | English Premier League 2025-2026 | **Arsenal** | 38 | 26 | 7 | 5 | 71 | 27 | +44 | **85** |
-| 2 | English Premier League 2025-2026 | **Manchester City** | 38 | 23 | 9 | 6 | 77 | 35 | +42 | **78** |
-| 3 | English Premier League 2025-2026 | **Manchester United** | 38 | 20 | 11 | 7 | 69 | 50 | +19 | **71** |
-| 4 | English Premier League 2025-2026 | **Aston Villa** | 38 | 19 | 8 | 11 | 56 | 49 | +7 | **65** |
-| 5 | English Premier League 2025-2026 | **Liverpool** | 38 | 17 | 9 | 12 | 63 | 53 | +10 | **60** |
-| 6 | English Premier League 2025-2026 | **AFC Bournemouth** | 38 | 13 | 18 | 7 | 58 | 54 | +4 | **57** |
-| 7 | English Premier League 2025-2026 | **Sunderland** | 38 | 14 | 12 | 12 | 42 | 48 | -6 | **54** |
-| 8 | English Premier League 2025-2026 | **Brighton & Hove Albion** | 38 | 14 | 11 | 13 | 52 | 46 | +6 | **53** |
-| 9 | English Premier League 2025-2026 | **Brentford** | 38 | 14 | 11 | 13 | 55 | 52 | +3 | **53** |
-| 10 | English Premier League 2025-2026 | **Chelsea** | 38 | 14 | 10 | 14 | 58 | 52 | +6 | **52** |
-| 11 | English Premier League 2025-2026 | **Fulham** | 38 | 15 | 7 | 16 | 47 | 51 | -4 | **52** |
-| 12 | English Premier League 2025-2026 | **Newcastle United** | 38 | 14 | 7 | 17 | 53 | 55 | -2 | **49** |
-| 13 | English Premier League 2025-2026 | **Everton** | 38 | 13 | 10 | 15 | 47 | 50 | -3 | **49** |
-| 14 | English Premier League 2025-2026 | **Leeds United** | 38 | 11 | 14 | 13 | 49 | 56 | -7 | **47** |
-| 15 | English Premier League 2025-2026 | **Crystal Palace** | 38 | 11 | 12 | 15 | 41 | 51 | -10 | **45** |
-| 16 | English Premier League 2025-2026 | **Nottingham Forest** | 38 | 11 | 11 | 16 | 48 | 51 | -3 | **44** |
-| 17 | English Premier League 2025-2026 | **Tottenham Hotspur** | 38 | 10 | 11 | 17 | 48 | 57 | -9 | **41** |
-| 18 | English Premier League 2025-2026 | **West Ham United** | 38 | 10 | 9 | 19 | 46 | 65 | -19 | **39** |
-| 19 | English Premier League 2025-2026 | **Burnley** | 38 | 4 | 10 | 24 | 38 | 75 | -37 | **22** |
-| 20 | English Premier League 2025-2026 | **Wolverhampton Wanderers** | 38 | 3 | 11 | 24 | 27 | 68 | -41 | **20** |
+| 1 | English Premier League 2026-2027 | **AFC Bournemouth** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | English Premier League 2026-2027 | **Arsenal** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | English Premier League 2026-2027 | **Aston Villa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | English Premier League 2026-2027 | **Brentford** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | English Premier League 2026-2027 | **Brighton & Hove Albion** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | English Premier League 2026-2027 | **Chelsea** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | English Premier League 2026-2027 | **Coventry City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | English Premier League 2026-2027 | **Crystal Palace** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | English Premier League 2026-2027 | **Everton** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | English Premier League 2026-2027 | **Fulham** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | English Premier League 2026-2027 | **Hull City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | English Premier League 2026-2027 | **Ipswich Town** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | English Premier League 2026-2027 | **Leeds United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | English Premier League 2026-2027 | **Liverpool** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | English Premier League 2026-2027 | **Manchester City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | English Premier League 2026-2027 | **Manchester United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | English Premier League 2026-2027 | **Newcastle United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | English Premier League 2026-2027 | **Nottingham Forest** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 19 | English Premier League 2026-2027 | **Sunderland** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 20 | English Premier League 2026-2027 | **Tottenham Hotspur** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 ---
 
