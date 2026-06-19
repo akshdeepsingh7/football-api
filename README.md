@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-06-19 10:52:16 UTC
+> **Last updated:** 2026-06-19 14:17:43 UTC
 
 ---
 
@@ -250,26 +250,26 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | English Premier League 2026-2027 | **AFC Bournemouth** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 2 | English Premier League 2026-2027 | **Arsenal** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | English Premier League 2026-2027 | **Aston Villa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 4 | English Premier League 2026-2027 | **Brentford** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 5 | English Premier League 2026-2027 | **Brighton & Hove Albion** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | English Premier League 2026-2027 | **Chelsea** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | English Premier League 2026-2027 | **Coventry City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | English Premier League 2026-2027 | **Crystal Palace** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | English Premier League 2026-2027 | **Everton** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | English Premier League 2026-2027 | **Fulham** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | English Premier League 2026-2027 | **Hull City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | English Premier League 2026-2027 | **Ipswich Town** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | English Premier League 2026-2027 | **Leeds United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | English Premier League 2026-2027 | **Liverpool** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | English Premier League 2026-2027 | **Manchester City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 16 | English Premier League 2026-2027 | **Manchester United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 17 | English Premier League 2026-2027 | **Newcastle United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 18 | English Premier League 2026-2027 | **Nottingham Forest** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 19 | English Premier League 2026-2027 | **Sunderland** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 20 | English Premier League 2026-2027 | **Tottenham Hotspur** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 1 | 2026-27 English Premier League | **AFC Bournemouth** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026-27 English Premier League | **Arsenal** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026-27 English Premier League | **Aston Villa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026-27 English Premier League | **Brentford** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026-27 English Premier League | **Brighton & Hove Albion** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026-27 English Premier League | **Chelsea** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026-27 English Premier League | **Coventry City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-27 English Premier League | **Crystal Palace** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-27 English Premier League | **Everton** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026-27 English Premier League | **Fulham** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026-27 English Premier League | **Hull City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026-27 English Premier League | **Ipswich Town** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026-27 English Premier League | **Leeds United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026-27 English Premier League | **Liverpool** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026-27 English Premier League | **Manchester City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026-27 English Premier League | **Manchester United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026-27 English Premier League | **Newcastle United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026-27 English Premier League | **Nottingham Forest** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 19 | 2026-27 English Premier League | **Sunderland** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 20 | 2026-27 English Premier League | **Tottenham Hotspur** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 ---
 

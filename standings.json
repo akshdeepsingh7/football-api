@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19 10:52:16 UTC",
-  "generated_at_iso": "2026-06-19T10:52:16.282977+00:00",
+  "generated_at": "2026-06-19 14:17:43 UTC",
+  "generated_at_iso": "2026-06-19T14:17:43.600300+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -36,7 +36,7 @@
       "teams": [
         {
           "rank": 1,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "AFC Bournemouth",
           "abbreviation": "BOU",
           "played": 0,
@@ -52,7 +52,7 @@
         },
         {
           "rank": 2,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Arsenal",
           "abbreviation": "ARS",
           "played": 0,
@@ -68,7 +68,7 @@
         },
         {
           "rank": 3,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Aston Villa",
           "abbreviation": "AVL",
           "played": 0,
@@ -84,7 +84,7 @@
         },
         {
           "rank": 4,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Brentford",
           "abbreviation": "BRE",
           "played": 0,
@@ -100,7 +100,7 @@
         },
         {
           "rank": 5,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Brighton & Hove Albion",
           "abbreviation": "BHA",
           "played": 0,
@@ -116,7 +116,7 @@
         },
         {
           "rank": 6,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Chelsea",
           "abbreviation": "CHE",
           "played": 0,
@@ -132,7 +132,7 @@
         },
         {
           "rank": 7,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Coventry City",
           "abbreviation": "COV",
           "played": 0,
@@ -148,7 +148,7 @@
         },
         {
           "rank": 8,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Crystal Palace",
           "abbreviation": "CRY",
           "played": 0,
@@ -164,7 +164,7 @@
         },
         {
           "rank": 9,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Everton",
           "abbreviation": "EVE",
           "played": 0,
@@ -180,7 +180,7 @@
         },
         {
           "rank": 10,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Fulham",
           "abbreviation": "FUL",
           "played": 0,
@@ -196,7 +196,7 @@
         },
         {
           "rank": 11,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Hull City",
           "abbreviation": "HUL",
           "played": 0,
@@ -212,7 +212,7 @@
         },
         {
           "rank": 12,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Ipswich Town",
           "abbreviation": "IPS",
           "played": 0,
@@ -228,7 +228,7 @@
         },
         {
           "rank": 13,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Leeds United",
           "abbreviation": "LEE",
           "played": 0,
@@ -244,7 +244,7 @@
         },
         {
           "rank": 14,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Liverpool",
           "abbreviation": "LIV",
           "played": 0,
@@ -260,7 +260,7 @@
         },
         {
           "rank": 15,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Manchester City",
           "abbreviation": "MNC",
           "played": 0,
@@ -276,7 +276,7 @@
         },
         {
           "rank": 16,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Manchester United",
           "abbreviation": "MAN",
           "played": 0,
@@ -292,7 +292,7 @@
         },
         {
           "rank": 17,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Newcastle United",
           "abbreviation": "NEW",
           "played": 0,
@@ -308,7 +308,7 @@
         },
         {
           "rank": 18,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Nottingham Forest",
           "abbreviation": "NFO",
           "played": 0,
@@ -324,7 +324,7 @@
         },
         {
           "rank": 19,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Sunderland",
           "abbreviation": "SUN",
           "played": 0,
@@ -340,7 +340,7 @@
         },
         {
           "rank": 20,
-          "group": "English Premier League 2026-2027",
+          "group": "2026-27 English Premier League",
           "team": "Tottenham Hotspur",
           "abbreviation": "TOT",
           "played": 0,
