@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-06-30 22:19:03 UTC
+> **Last updated:** 2026-06-30 23:45:18 UTC
 
 ---
 
@@ -48,7 +48,7 @@
 | League | Country | Confederation | Teams | Leader | Points |
 |--------|---------|--------------|-------|--------|--------|
 | **English Premier League** | England | UEFA | 20 | **AFC Bournemouth** | 0 |
-| **Spanish La Liga** | Spain | UEFA | 20 | **Barcelona** | 94 |
+| **Spanish La Liga** | Spain | UEFA | 20 | **Alavés** | 0 |
 | **Italian Serie A** | Italy | UEFA | 20 | **AC Milan** | 0 |
 | **German Bundesliga** | Germany | UEFA | 18 | **Bayern Munich** | 89 |
 | **French Ligue 1** | France | UEFA | 18 | **Angers** | 0 |
@@ -84,10 +84,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Barcelona** | 95 goals |
-| Best Defence | **Real Madrid** | 35 goals conceded |
-| Most Wins | **Barcelona** | 31 wins |
-| Best GD | **Barcelona** | +59 |
+| Best Attack | **Alavés** | 0 goals |
+| Best Defence | **Alavés** | 0 goals conceded |
+| Most Wins | **Alavés** | 0 wins |
+| Best GD | **Alavés** | +0 |
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 720 | 720 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 964 | 964 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 4520 | 4520 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 3496 | 3496 |
 
 ---
 
@@ -277,26 +277,26 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-26 LALIGA | **Barcelona** | 38 | 31 | 1 | 6 | 95 | 36 | +59 | **94** |
-| 2 | 2025-26 LALIGA | **Real Madrid** | 38 | 27 | 5 | 6 | 77 | 35 | +42 | **86** |
-| 3 | 2025-26 LALIGA | **Villarreal** | 38 | 22 | 6 | 10 | 72 | 46 | +26 | **72** |
-| 4 | 2025-26 LALIGA | **Atlético Madrid** | 38 | 21 | 6 | 11 | 62 | 44 | +18 | **69** |
-| 5 | 2025-26 LALIGA | **Real Betis** | 38 | 15 | 15 | 8 | 59 | 48 | +11 | **60** |
-| 6 | 2025-26 LALIGA | **Celta Vigo** | 38 | 14 | 12 | 12 | 53 | 48 | +5 | **54** |
-| 7 | 2025-26 LALIGA | **Getafe** | 38 | 15 | 6 | 17 | 32 | 38 | -6 | **51** |
-| 8 | 2025-26 LALIGA | **Rayo Vallecano** | 38 | 12 | 14 | 12 | 41 | 44 | -3 | **50** |
-| 9 | 2025-26 LALIGA | **Valencia** | 38 | 13 | 10 | 15 | 46 | 55 | -9 | **49** |
-| 10 | 2025-26 LALIGA | **Real Sociedad** | 38 | 11 | 13 | 14 | 59 | 61 | -2 | **46** |
-| 11 | 2025-26 LALIGA | **Espanyol** | 38 | 12 | 10 | 16 | 43 | 55 | -12 | **46** |
-| 12 | 2025-26 LALIGA | **Athletic Club** | 38 | 13 | 6 | 19 | 43 | 58 | -15 | **45** |
-| 13 | 2025-26 LALIGA | **Sevilla** | 38 | 12 | 7 | 19 | 46 | 60 | -14 | **43** |
-| 14 | 2025-26 LALIGA | **Alavés** | 38 | 11 | 10 | 17 | 44 | 56 | -12 | **43** |
-| 15 | 2025-26 LALIGA | **Elche** | 38 | 10 | 13 | 15 | 49 | 57 | -8 | **43** |
-| 16 | 2025-26 LALIGA | **Levante** | 38 | 11 | 9 | 18 | 47 | 61 | -14 | **42** |
-| 17 | 2025-26 LALIGA | **Osasuna** | 38 | 11 | 9 | 18 | 44 | 50 | -6 | **42** |
-| 18 | 2025-26 LALIGA | **Mallorca** | 38 | 11 | 9 | 18 | 47 | 57 | -10 | **42** |
-| 19 | 2025-26 LALIGA | **Girona** | 38 | 9 | 14 | 15 | 39 | 55 | -16 | **41** |
-| 20 | 2025-26 LALIGA | **Real Oviedo** | 38 | 6 | 11 | 21 | 26 | 60 | -34 | **29** |
+| 1 | 2026-27 LALIGA | **Alavés** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026-27 LALIGA | **Athletic Club** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026-27 LALIGA | **Atlético Madrid** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026-27 LALIGA | **Barcelona** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026-27 LALIGA | **Celta Vigo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026-27 LALIGA | **Deportivo La Coruña** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026-27 LALIGA | **Elche** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-27 LALIGA | **Espanyol** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-27 LALIGA | **Getafe** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026-27 LALIGA | **Levante** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026-27 LALIGA | **Málaga** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026-27 LALIGA | **Osasuna** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026-27 LALIGA | **Racing Santander** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026-27 LALIGA | **Rayo Vallecano** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026-27 LALIGA | **Real Betis** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026-27 LALIGA | **Real Madrid** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026-27 LALIGA | **Real Sociedad** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026-27 LALIGA | **Sevilla** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 19 | 2026-27 LALIGA | **Valencia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 20 | 2026-27 LALIGA | **Villarreal** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 ---
 
