@@ -1,13 +1,13 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-14%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
-  <img src="https://img.shields.io/badge/Teams-302-blue?style=for-the-badge" alt="Total Teams"/>
+  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
+  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Total Teams"/>
   <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confederations"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 14 major leagues across 3 confederations, automatically updated.</b>
+  <b>Live football standings from 15 major leagues across 3 confederations, automatically updated.</b>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-07-01 12:13:29 UTC
+> **Last updated:** 2026-07-01 15:21:19 UTC
 
 ---
 
@@ -60,7 +60,7 @@
 | **Scottish Premiership** | Scotland | UEFA | 12 | **Aberdeen** | 0 |
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 26 |
 | **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 41 |
-| **Argentine Liga Profesional** | Argentina | CONMEBOL | 0 | **N/A** | 0 |
+| **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Argentinos Juniors** | 0 |
 | **Mexican Liga MX** | Mexico | CONCACAF | 18 | **Atlante** | 0 |
 
 ---
@@ -212,6 +212,17 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 ---
 
+### Argentine Liga Profesional
+
+| Category | Team | Stat |
+|----------|------|------|
+| Best Attack | **Argentinos Juniors** | 0 goals |
+| Best Defence | **Argentinos Juniors** | 0 goals conceded |
+| Most Wins | **Argentinos Juniors** | 0 wins |
+| Best GD | **Argentinos Juniors** | +0 |
+
+---
+
 ### Mexican Liga MX
 
 | Category | Team | Stat |
@@ -230,7 +241,7 @@ A breakdown of all leagues and teams by football confederation.
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 720 | 720 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 20 | 471 | 471 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 471 | 471 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 3496 | 3496 |
 
 ---
@@ -612,7 +623,38 @@ A breakdown of all leagues and teams by football confederation.
 
 ### Argentine Liga Profesional
 
-*No standings data available (off-season).*
+| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
+|---|-------|------|---|---|---|---|----|----|----|----|
+| 2 | Group A | **Argentinos Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | Group A | **Belgrano (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 1 | Group A | **Boca Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | Group A | **Estudiantes de La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | Group A | **Gimnasia La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | Group A | **Huracán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | Group A | **Independiente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | Group A | **Lanús** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | Group A | **Newell's Old Boys** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | Group A | **Racing Club** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | Group A | **River Plate** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | Group A | **Rosario Central** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | Group A | **San Lorenzo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | Group A | **Talleres (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | Group A | **Unión (Santa Fe)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | Group A | **Vélez Sarsfield** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | Group A | **Banfield** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | Group A | **Instituto (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | Group A | **Platense** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | Group A | **Tigre** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | Group A | **Defensa y Justicia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 1 | Group A | **Aldosivi** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | Group A | **Independiente Rivadavia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | Group A | **Atlético Tucumán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | Group A | **Barracas Central** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | Group A | **Sarmiento (Junín)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | Group A | **Gimnasia (Mendoza)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | Group A | **Central Córdoba (Santiago del Estero)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | Group A | **Deportivo Riestra** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | Group A | **Estudiantes de Río Cuarto** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 ---
 
