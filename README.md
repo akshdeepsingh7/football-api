@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-07-02 22:39:48 UTC
+> **Last updated:** 2026-07-03 00:14:54 UTC
 
 ---
 
@@ -54,7 +54,7 @@
 | **French Ligue 1** | France | UEFA | 18 | **Angers** | 0 |
 | **UEFA Champions League** | Europe | UEFA | 36 | **Arsenal** | 24 |
 | **UEFA Europa League** | Europe | UEFA | 36 | **Lyon** | 21 |
-| **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **FC Porto** | 88 |
+| **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **Académico de Viseu** | 0 |
 | **Dutch Eredivisie** | Netherlands | UEFA | 18 | **ADO Den Haag** | 0 |
 | **Turkish Super Lig** | Turkey | UEFA | 18 | **Galatasaray** | 77 |
 | **Scottish Premiership** | Scotland | UEFA | 12 | **Aberdeen** | 0 |
@@ -150,10 +150,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Sporting CP** | 89 goals |
-| Best Defence | **FC Porto** | 18 goals conceded |
-| Most Wins | **FC Porto** | 28 wins |
-| Best GD | **Sporting CP** | +65 |
+| Best Attack | **Académico de Viseu** | 0 goals |
+| Best Defence | **Académico de Viseu** | 0 goals conceded |
+| Most Wins | **Académico de Viseu** | 0 wins |
+| Best GD | **Académico de Viseu** | +0 |
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 720 | 720 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 471 | 471 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 2506 | 2506 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 1685 | 1685 |
 
 ---
 
@@ -467,24 +467,24 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2025-2026 Portuguese Liga | **FC Porto** | 34 | 28 | 4 | 2 | 66 | 18 | +48 | **88** |
-| 2 | 2025-2026 Portuguese Liga | **Sporting CP** | 34 | 25 | 7 | 2 | 89 | 24 | +65 | **82** |
-| 3 | 2025-2026 Portuguese Liga | **Benfica** | 34 | 23 | 11 | 0 | 74 | 25 | +49 | **80** |
-| 4 | 2025-2026 Portuguese Liga | **Braga** | 34 | 16 | 11 | 7 | 64 | 36 | +28 | **59** |
-| 5 | 2025-2026 Portuguese Liga | **FC Famalicao** | 34 | 15 | 11 | 8 | 42 | 29 | +13 | **56** |
-| 6 | 2025-2026 Portuguese Liga | **Gil Vicente** | 34 | 13 | 11 | 10 | 47 | 38 | +9 | **50** |
-| 7 | 2025-2026 Portuguese Liga | **Moreirense** | 34 | 12 | 7 | 15 | 37 | 49 | -12 | **43** |
-| 8 | 2025-2026 Portuguese Liga | **Arouca** | 34 | 12 | 6 | 16 | 47 | 64 | -17 | **42** |
-| 9 | 2025-2026 Portuguese Liga | **Vitória de Guimaraes** | 34 | 12 | 6 | 16 | 39 | 51 | -12 | **42** |
-| 10 | 2025-2026 Portuguese Liga | **Estoril** | 34 | 10 | 9 | 15 | 54 | 57 | -3 | **39** |
-| 11 | 2025-2026 Portuguese Liga | **Alverca** | 34 | 10 | 9 | 15 | 35 | 52 | -17 | **39** |
-| 12 | 2025-2026 Portuguese Liga | **Rio Ave** | 34 | 8 | 12 | 14 | 35 | 57 | -22 | **36** |
-| 13 | 2025-2026 Portuguese Liga | **Santa Clara** | 34 | 9 | 9 | 16 | 32 | 41 | -9 | **36** |
-| 14 | 2025-2026 Portuguese Liga | **C.D. Nacional** | 34 | 9 | 7 | 18 | 37 | 45 | -8 | **34** |
-| 15 | 2025-2026 Portuguese Liga | **Estrela** | 34 | 6 | 12 | 16 | 38 | 56 | -18 | **30** |
-| 16 | 2025-2026 Portuguese Liga | **Casa Pia** | 34 | 6 | 12 | 16 | 31 | 57 | -26 | **30** |
-| 17 | 2025-2026 Portuguese Liga | **Tondela** | 34 | 6 | 10 | 18 | 27 | 55 | -28 | **28** |
-| 18 | 2025-2026 Portuguese Liga | **AVS** | 34 | 3 | 12 | 19 | 27 | 67 | -40 | **21** |
+| 1 | 2026-2027 Portuguese Liga | **Académico de Viseu** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 2 | 2026-2027 Portuguese Liga | **Alverca** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | 2026-2027 Portuguese Liga | **Arouca** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 4 | 2026-2027 Portuguese Liga | **Benfica** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026-2027 Portuguese Liga | **Casa Pia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | 2026-2027 Portuguese Liga | **Estoril** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026-2027 Portuguese Liga | **Estrela** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-2027 Portuguese Liga | **FC Famalicao** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-2027 Portuguese Liga | **Gil Vicente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | 2026-2027 Portuguese Liga | **Maritimo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026-2027 Portuguese Liga | **Moreirense** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026-2027 Portuguese Liga | **C.D. Nacional** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026-2027 Portuguese Liga | **FC Porto** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026-2027 Portuguese Liga | **Rio Ave** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | 2026-2027 Portuguese Liga | **Santa Clara** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 16 | 2026-2027 Portuguese Liga | **Braga** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 17 | 2026-2027 Portuguese Liga | **Sporting CP** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 18 | 2026-2027 Portuguese Liga | **Vitória de Guimaraes** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 ---
 
