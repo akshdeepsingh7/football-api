@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17 00:04:56 UTC",
-  "generated_at_iso": "2026-07-17T00:04:56.429111+00:00",
+  "generated_at": "2026-07-17 03:48:39 UTC",
+  "generated_at_iso": "2026-07-17T03:48:39.525512+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4577,8 +4577,8 @@
       "team_count": 20,
       "top_performers": {
         "best_attack": {
-          "team": "Flamengo",
-          "goals_for": 31
+          "team": "Botafogo",
+          "goals_for": 33
         },
         "best_defence": {
           "team": "Palmeiras",
@@ -4725,6 +4725,38 @@
         {
           "rank": 9,
           "group": "2026",
+          "team": "Botafogo",
+          "abbreviation": "BOT",
+          "played": 18,
+          "wins": 7,
+          "draws": 4,
+          "losses": 7,
+          "goals_for": 33,
+          "goals_against": 32,
+          "goal_difference": 1,
+          "points": 25,
+          "streak": {},
+          "record": "7-4-7"
+        },
+        {
+          "rank": 10,
+          "group": "2026",
+          "team": "Vitória",
+          "abbreviation": "VIT",
+          "played": 18,
+          "wins": 7,
+          "draws": 4,
+          "losses": 7,
+          "goals_for": 22,
+          "goals_against": 25,
+          "goal_difference": -3,
+          "points": 25,
+          "streak": {},
+          "record": "7-4-7"
+        },
+        {
+          "rank": 11,
+          "group": "2026",
           "team": "Atlético-MG",
           "abbreviation": "CAM",
           "played": 18,
@@ -4739,7 +4771,7 @@
           "record": "7-3-8"
         },
         {
-          "rank": 10,
+          "rank": 12,
           "group": "2026",
           "team": "Corinthians",
           "abbreviation": "COR",
@@ -4755,7 +4787,7 @@
           "record": "6-6-6"
         },
         {
-          "rank": 11,
+          "rank": 13,
           "group": "2026",
           "team": "Cruzeiro",
           "abbreviation": "CRU",
@@ -4769,38 +4801,6 @@
           "points": 24,
           "streak": {},
           "record": "6-6-6"
-        },
-        {
-          "rank": 12,
-          "group": "2026",
-          "team": "Botafogo",
-          "abbreviation": "BOT",
-          "played": 17,
-          "wins": 6,
-          "draws": 4,
-          "losses": 7,
-          "goals_for": 31,
-          "goals_against": 31,
-          "goal_difference": 0,
-          "points": 22,
-          "streak": {},
-          "record": "6-4-7"
-        },
-        {
-          "rank": 13,
-          "group": "2026",
-          "team": "Vitória",
-          "abbreviation": "VIT",
-          "played": 17,
-          "wins": 6,
-          "draws": 4,
-          "losses": 7,
-          "goals_for": 21,
-          "goals_against": 25,
-          "goal_difference": -4,
-          "points": 22,
-          "streak": {},
-          "record": "6-4-7"
         },
         {
           "rank": 14,
@@ -4821,22 +4821,6 @@
         {
           "rank": 15,
           "group": "2026",
-          "team": "Santos",
-          "abbreviation": "SAN",
-          "played": 18,
-          "wins": 5,
-          "draws": 6,
-          "losses": 7,
-          "goals_for": 26,
-          "goals_against": 29,
-          "goal_difference": -3,
-          "points": 21,
-          "streak": {},
-          "record": "5-6-7"
-        },
-        {
-          "rank": 16,
-          "group": "2026",
           "team": "Grêmio",
           "abbreviation": "GRE",
           "played": 18,
@@ -4851,20 +4835,36 @@
           "record": "5-6-7"
         },
         {
+          "rank": 16,
+          "group": "2026",
+          "team": "Santos",
+          "abbreviation": "SAN",
+          "played": 19,
+          "wins": 5,
+          "draws": 6,
+          "losses": 8,
+          "goals_for": 27,
+          "goals_against": 31,
+          "goal_difference": -4,
+          "points": 21,
+          "streak": {},
+          "record": "5-6-8"
+        },
+        {
           "rank": 17,
           "group": "2026",
           "team": "Vasco da Gama",
           "abbreviation": "VAS",
-          "played": 18,
+          "played": 19,
           "wins": 5,
           "draws": 5,
-          "losses": 8,
+          "losses": 9,
           "goals_for": 22,
-          "goals_against": 29,
-          "goal_difference": -7,
+          "goals_against": 30,
+          "goal_difference": -8,
           "points": 20,
           "streak": {},
-          "record": "5-5-8"
+          "record": "5-5-9"
         },
         {
           "rank": 18,
@@ -5433,38 +5433,38 @@
       "team_count": 18,
       "top_performers": {
         "best_attack": {
-          "team": "Atlante",
-          "goals_for": 0
+          "team": "Necaxa",
+          "goals_for": 2
         },
         "best_defence": {
-          "team": "Atlante",
+          "team": "Atlas",
           "goals_against": 0
         },
         "most_wins": {
-          "team": "Atlante",
-          "wins": 0
+          "team": "Necaxa",
+          "wins": 1
         },
         "best_goal_difference": {
-          "team": "Atlante",
-          "goal_difference": 0
+          "team": "Necaxa",
+          "goal_difference": 1
         }
       },
       "teams": [
         {
           "rank": 1,
           "group": "2026 Torneo Apertura",
-          "team": "Atlante",
-          "abbreviation": "ATL",
-          "played": 0,
-          "wins": 0,
+          "team": "Necaxa",
+          "abbreviation": "NCX",
+          "played": 1,
+          "wins": 1,
           "draws": 0,
           "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
+          "goals_for": 2,
+          "goals_against": 1,
+          "goal_difference": 1,
+          "points": 3,
           "streak": {},
-          "record": "0-0-0"
+          "record": "1-0-0"
         },
         {
           "rank": 2,
@@ -5597,22 +5597,6 @@
         {
           "rank": 10,
           "group": "2026 Torneo Apertura",
-          "team": "Necaxa",
-          "abbreviation": "NCX",
-          "played": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-0"
-        },
-        {
-          "rank": 11,
-          "group": "2026 Torneo Apertura",
           "team": "Pachuca",
           "abbreviation": "PAC",
           "played": 0,
@@ -5627,7 +5611,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "group": "2026 Torneo Apertura",
           "team": "Puebla",
           "abbreviation": "PUE",
@@ -5643,7 +5627,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "group": "2026 Torneo Apertura",
           "team": "Pumas UNAM",
           "abbreviation": "UNAM",
@@ -5659,7 +5643,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "group": "2026 Torneo Apertura",
           "team": "Querétaro",
           "abbreviation": "QRO",
@@ -5675,7 +5659,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "group": "2026 Torneo Apertura",
           "team": "Santos",
           "abbreviation": "SAN",
@@ -5691,7 +5675,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "group": "2026 Torneo Apertura",
           "team": "Tigres UANL",
           "abbreviation": "UANL",
@@ -5707,7 +5691,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "group": "2026 Torneo Apertura",
           "team": "Tijuana",
           "abbreviation": "TIJ",
@@ -5723,7 +5707,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "group": "2026 Torneo Apertura",
           "team": "Toluca",
           "abbreviation": "TOL",
@@ -5737,6 +5721,22 @@
           "points": 0,
           "streak": {},
           "record": "0-0-0"
+        },
+        {
+          "rank": 18,
+          "group": "2026 Torneo Apertura",
+          "team": "Atlante",
+          "abbreviation": "ATL",
+          "played": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goals_for": 1,
+          "goals_against": 2,
+          "goal_difference": -1,
+          "points": 0,
+          "streak": {},
+          "record": "0-0-1"
         }
       ]
     }
