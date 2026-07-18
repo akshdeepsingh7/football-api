@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18 04:29:28 UTC",
-  "generated_at_iso": "2026-07-18T04:29:28.759494+00:00",
+  "generated_at": "2026-07-18 06:30:29 UTC",
+  "generated_at_iso": "2026-07-18T06:30:29.676469+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -5437,7 +5437,7 @@
           "goals_for": 3
         },
         "best_defence": {
-          "team": "América",
+          "team": "Puebla",
           "goals_against": 0
         },
         "most_wins": {
@@ -5517,6 +5517,22 @@
         {
           "rank": 5,
           "group": "2026 Torneo Apertura",
+          "team": "Puebla",
+          "abbreviation": "PUE",
+          "played": 1,
+          "wins": 1,
+          "draws": 0,
+          "losses": 0,
+          "goals_for": 1,
+          "goals_against": 0,
+          "goal_difference": 1,
+          "points": 3,
+          "streak": {},
+          "record": "1-0-0"
+        },
+        {
+          "rank": 6,
+          "group": "2026 Torneo Apertura",
           "team": "América",
           "abbreviation": "AME",
           "played": 0,
@@ -5531,26 +5547,10 @@
           "record": "0-0-0"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "2026 Torneo Apertura",
           "team": "Guadalajara",
           "abbreviation": "GDL",
-          "played": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-0"
-        },
-        {
-          "rank": 7,
-          "group": "2026 Torneo Apertura",
-          "team": "FC Juarez",
-          "abbreviation": "JUA",
           "played": 0,
           "wins": 0,
           "draws": 0,
@@ -5597,22 +5597,6 @@
         {
           "rank": 10,
           "group": "2026 Torneo Apertura",
-          "team": "Puebla",
-          "abbreviation": "PUE",
-          "played": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-0"
-        },
-        {
-          "rank": 11,
-          "group": "2026 Torneo Apertura",
           "team": "Pumas UNAM",
           "abbreviation": "UNAM",
           "played": 0,
@@ -5627,7 +5611,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "group": "2026 Torneo Apertura",
           "team": "Querétaro",
           "abbreviation": "QRO",
@@ -5643,7 +5627,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "group": "2026 Torneo Apertura",
           "team": "Santos",
           "abbreviation": "SAN",
@@ -5659,7 +5643,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "group": "2026 Torneo Apertura",
           "team": "Toluca",
           "abbreviation": "TOL",
@@ -5675,7 +5659,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "group": "2026 Torneo Apertura",
           "team": "Atlético de San Luis",
           "abbreviation": "ASL",
@@ -5691,7 +5675,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "group": "2026 Torneo Apertura",
           "team": "León",
           "abbreviation": "LEO",
@@ -5707,7 +5691,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "group": "2026 Torneo Apertura",
           "team": "Atlante",
           "abbreviation": "ATL",
@@ -5717,6 +5701,22 @@
           "losses": 1,
           "goals_for": 1,
           "goals_against": 2,
+          "goal_difference": -1,
+          "points": 0,
+          "streak": {},
+          "record": "0-0-1"
+        },
+        {
+          "rank": 17,
+          "group": "2026 Torneo Apertura",
+          "team": "FC Juarez",
+          "abbreviation": "JUA",
+          "played": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goals_for": 0,
+          "goals_against": 1,
           "goal_difference": -1,
           "points": 0,
           "streak": {},

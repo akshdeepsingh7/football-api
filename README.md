@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-07-18 04:29:28 UTC
+> **Last updated:** 2026-07-18 06:30:29 UTC
 
 ---
 
@@ -228,7 +228,7 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 | Category | Team | Stat |
 |----------|------|------|
 | Best Attack | **Tijuana** | 3 goals |
-| Best Defence | **América** | 0 goals conceded |
+| Best Defence | **Puebla** | 0 goals conceded |
 | Most Wins | **Tijuana** | 1 wins |
 | Best GD | **Tijuana** | +2 |
 
@@ -240,7 +240,7 @@ A breakdown of all leagues and teams by football confederation.
 
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
-| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 737 | 737 |
+| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 738 | 738 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 482 | 482 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 873 | 873 |
 
@@ -666,19 +666,19 @@ A breakdown of all leagues and teams by football confederation.
 | 2 | 2026 Torneo Apertura | **Cruz Azul** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
 | 3 | 2026 Torneo Apertura | **Atlas** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
 | 4 | 2026 Torneo Apertura | **Necaxa** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
-| 5 | 2026 Torneo Apertura | **América** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | 2026 Torneo Apertura | **Guadalajara** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | 2026 Torneo Apertura | **FC Juarez** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | 2026 Torneo Apertura | **Puebla** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 6 | 2026 Torneo Apertura | **América** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | 2026 Torneo Apertura | **Guadalajara** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 8 | 2026 Torneo Apertura | **Monterrey** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 9 | 2026 Torneo Apertura | **Pachuca** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | 2026 Torneo Apertura | **Puebla** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | 2026 Torneo Apertura | **Pumas UNAM** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | 2026 Torneo Apertura | **Querétaro** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | 2026 Torneo Apertura | **Santos** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | 2026 Torneo Apertura | **Toluca** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | 2026 Torneo Apertura | **Atlético de San Luis** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
-| 16 | 2026 Torneo Apertura | **León** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
-| 17 | 2026 Torneo Apertura | **Atlante** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
+| 10 | 2026 Torneo Apertura | **Pumas UNAM** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | 2026 Torneo Apertura | **Querétaro** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | 2026 Torneo Apertura | **Santos** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | 2026 Torneo Apertura | **Toluca** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | 2026 Torneo Apertura | **Atlético de San Luis** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
+| 15 | 2026 Torneo Apertura | **León** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
+| 16 | 2026 Torneo Apertura | **Atlante** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
+| 17 | 2026 Torneo Apertura | **FC Juarez** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
 | 18 | 2026 Torneo Apertura | **Tigres UANL** | 1 | 0 | 0 | 1 | 1 | 3 | -2 | **0** |
 
 ---
