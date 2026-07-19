@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19 03:37:20 UTC",
-  "generated_at_iso": "2026-07-19T03:37:20.031585+00:00",
+  "generated_at": "2026-07-19 06:37:52 UTC",
+  "generated_at_iso": "2026-07-19T06:37:52.460994+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -5565,8 +5565,8 @@
         {
           "rank": 8,
           "group": "2026 Torneo Apertura",
-          "team": "Puebla",
-          "abbreviation": "PUE",
+          "team": "América",
+          "abbreviation": "AME",
           "played": 1,
           "wins": 1,
           "draws": 0,
@@ -5581,37 +5581,21 @@
         {
           "rank": 9,
           "group": "2026 Torneo Apertura",
-          "team": "América",
-          "abbreviation": "AME",
-          "played": 0,
-          "wins": 0,
+          "team": "Puebla",
+          "abbreviation": "PUE",
+          "played": 1,
+          "wins": 1,
           "draws": 0,
           "losses": 0,
-          "goals_for": 0,
+          "goals_for": 1,
           "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
+          "goal_difference": 1,
+          "points": 3,
           "streak": {},
-          "record": "0-0-0"
+          "record": "1-0-0"
         },
         {
           "rank": 10,
-          "group": "2026 Torneo Apertura",
-          "team": "Querétaro",
-          "abbreviation": "QRO",
-          "played": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-0"
-        },
-        {
-          "rank": 11,
           "group": "2026 Torneo Apertura",
           "team": "Santos",
           "abbreviation": "SAN",
@@ -5627,7 +5611,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "group": "2026 Torneo Apertura",
           "team": "Atlético de San Luis",
           "abbreviation": "ASL",
@@ -5643,7 +5627,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "group": "2026 Torneo Apertura",
           "team": "León",
           "abbreviation": "LEO",
@@ -5659,7 +5643,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "group": "2026 Torneo Apertura",
           "team": "Atlante",
           "abbreviation": "ATL",
@@ -5675,10 +5659,26 @@
           "record": "0-0-1"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "group": "2026 Torneo Apertura",
           "team": "FC Juarez",
           "abbreviation": "JUA",
+          "played": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goals_for": 0,
+          "goals_against": 1,
+          "goal_difference": -1,
+          "points": 0,
+          "streak": {},
+          "record": "0-0-1"
+        },
+        {
+          "rank": 15,
+          "group": "2026 Torneo Apertura",
+          "team": "Querétaro",
+          "abbreviation": "QRO",
           "played": 1,
           "wins": 0,
           "draws": 0,
