@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19 09:09:31 UTC",
-  "generated_at_iso": "2026-07-19T09:09:31.553939+00:00",
+  "generated_at": "2026-07-19 10:54:42 UTC",
+  "generated_at_iso": "2026-07-19T10:54:42.856672+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4078,7 +4078,7 @@
         },
         "most_wins": {
           "team": "Nashville SC",
-          "wins": 10
+          "wins": 11
         },
         "best_goal_difference": {
           "team": "Vancouver Whitecaps",
@@ -4167,36 +4167,36 @@
           "record": "4-6-5"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "group": "Eastern Conference",
           "team": "Toronto FC",
           "abbreviation": "TOR",
-          "played": 14,
+          "played": 15,
           "wins": 3,
-          "draws": 5,
+          "draws": 6,
           "losses": 6,
           "goals_for": 22,
           "goals_against": 29,
           "goal_difference": -7,
-          "points": 14,
+          "points": 15,
           "streak": {},
-          "record": "3-5-6"
+          "record": "3-6-6"
         },
         {
           "rank": 11,
           "group": "Eastern Conference",
           "team": "CF Montréal",
           "abbreviation": "MTL",
-          "played": 14,
+          "played": 15,
           "wins": 4,
-          "draws": 2,
+          "draws": 3,
           "losses": 8,
           "goals_for": 22,
           "goals_against": 31,
           "goal_difference": -9,
-          "points": 14,
+          "points": 15,
           "streak": {},
-          "record": "4-2-8"
+          "record": "4-3-8"
         },
         {
           "rank": 15,
@@ -4215,7 +4215,7 @@
           "record": "1-4-10"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "Eastern Conference",
           "team": "Orlando City SC",
           "abbreviation": "ORL",
@@ -4267,32 +4267,32 @@
           "group": "Eastern Conference",
           "team": "Atlanta United FC",
           "abbreviation": "ATL",
-          "played": 14,
+          "played": 15,
           "wins": 3,
           "draws": 2,
-          "losses": 9,
+          "losses": 10,
           "goals_for": 14,
-          "goals_against": 23,
-          "goal_difference": -9,
+          "goals_against": 24,
+          "goal_difference": -10,
           "points": 11,
           "streak": {},
-          "record": "3-2-9"
+          "record": "3-2-10"
         },
         {
           "rank": 1,
           "group": "Eastern Conference",
           "team": "Nashville SC",
           "abbreviation": "NSH",
-          "played": 14,
-          "wins": 10,
+          "played": 15,
+          "wins": 11,
           "draws": 3,
           "losses": 1,
-          "goals_for": 31,
+          "goals_for": 32,
           "goals_against": 11,
-          "goal_difference": 20,
-          "points": 33,
+          "goal_difference": 21,
+          "points": 36,
           "streak": {},
-          "record": "10-3-1"
+          "record": "11-3-1"
         },
         {
           "rank": 2,

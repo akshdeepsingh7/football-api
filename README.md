@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-07-19 09:09:31 UTC
+> **Last updated:** 2026-07-19 10:54:42 UTC
 
 ---
 
@@ -196,7 +196,7 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 |----------|------|------|
 | Best Attack | **Inter Miami CF** | 39 goals |
 | Best Defence | **Nashville SC** | 11 goals conceded |
-| Most Wins | **Nashville SC** | 10 wins |
+| Most Wins | **Nashville SC** | 11 wins |
 | Best GD | **Vancouver Whitecaps** | +22 |
 
 ---
@@ -240,7 +240,7 @@ A breakdown of all leagues and teams by football confederation.
 
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
-| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 749 | 749 |
+| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 750 | 750 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 482 | 482 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 873 | 873 |
 
@@ -566,14 +566,14 @@ A breakdown of all leagues and teams by football confederation.
 | 4 | Eastern Conference | **New England Revolution** | 14 | 8 | 1 | 5 | 22 | 18 | +4 | **25** |
 | 5 | Eastern Conference | **Red Bull New York** | 15 | 6 | 4 | 5 | 25 | 32 | -7 | **22** |
 | 9 | Eastern Conference | **D.C. United** | 15 | 4 | 6 | 5 | 21 | 25 | -4 | **18** |
-| 13 | Eastern Conference | **Toronto FC** | 14 | 3 | 5 | 6 | 22 | 29 | -7 | **14** |
-| 11 | Eastern Conference | **CF Montréal** | 14 | 4 | 2 | 8 | 22 | 31 | -9 | **14** |
+| 12 | Eastern Conference | **Toronto FC** | 15 | 3 | 6 | 6 | 22 | 29 | -7 | **15** |
+| 11 | Eastern Conference | **CF Montréal** | 15 | 4 | 3 | 8 | 22 | 31 | -9 | **15** |
 | 15 | Eastern Conference | **Philadelphia Union** | 15 | 1 | 4 | 10 | 18 | 30 | -12 | **7** |
-| 12 | Eastern Conference | **Orlando City SC** | 15 | 4 | 2 | 9 | 23 | 44 | -21 | **14** |
+| 13 | Eastern Conference | **Orlando City SC** | 15 | 4 | 2 | 9 | 23 | 44 | -21 | **14** |
 | 8 | Eastern Conference | **New York City FC** | 15 | 5 | 4 | 6 | 25 | 21 | +4 | **19** |
 | 7 | Eastern Conference | **FC Cincinnati** | 15 | 5 | 5 | 5 | 36 | 37 | -1 | **20** |
-| 14 | Eastern Conference | **Atlanta United FC** | 14 | 3 | 2 | 9 | 14 | 23 | -9 | **11** |
-| 1 | Eastern Conference | **Nashville SC** | 14 | 10 | 3 | 1 | 31 | 11 | +20 | **33** |
+| 14 | Eastern Conference | **Atlanta United FC** | 15 | 3 | 2 | 10 | 14 | 24 | -10 | **11** |
+| 1 | Eastern Conference | **Nashville SC** | 15 | 11 | 3 | 1 | 32 | 11 | +21 | **36** |
 | 2 | Eastern Conference | **Inter Miami CF** | 15 | 9 | 4 | 2 | 39 | 28 | +11 | **31** |
 | 6 | Eastern Conference | **Charlotte FC** | 15 | 6 | 3 | 6 | 24 | 23 | +1 | **21** |
 | 11 | Western Conference | **Colorado Rapids** | 15 | 5 | 1 | 9 | 25 | 24 | +1 | **16** |
