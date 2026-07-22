@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21 23:34:31 UTC",
-  "generated_at_iso": "2026-07-21T23:34:31.404772+00:00",
+  "generated_at": "2026-07-22 03:30:10 UTC",
+  "generated_at_iso": "2026-07-22T03:30:10.839987+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4679,16 +4679,16 @@
           "group": "2026",
           "team": "Bahia",
           "abbreviation": "BAH",
-          "played": 18,
+          "played": 19,
           "wins": 8,
-          "draws": 5,
+          "draws": 6,
           "losses": 5,
-          "goals_for": 27,
-          "goals_against": 23,
+          "goals_for": 28,
+          "goals_against": 24,
           "goal_difference": 4,
-          "points": 29,
+          "points": 30,
           "streak": {},
-          "record": "8-5-5"
+          "record": "8-6-5"
         },
         {
           "rank": 7,
@@ -4741,6 +4741,22 @@
         {
           "rank": 10,
           "group": "2026",
+          "team": "Atlético-MG",
+          "abbreviation": "CAM",
+          "played": 19,
+          "wins": 7,
+          "draws": 4,
+          "losses": 8,
+          "goals_for": 23,
+          "goals_against": 24,
+          "goal_difference": -1,
+          "points": 25,
+          "streak": {},
+          "record": "7-4-8"
+        },
+        {
+          "rank": 11,
+          "group": "2026",
           "team": "Vitória",
           "abbreviation": "VIT",
           "played": 18,
@@ -4753,22 +4769,6 @@
           "points": 25,
           "streak": {},
           "record": "7-4-7"
-        },
-        {
-          "rank": 11,
-          "group": "2026",
-          "team": "Atlético-MG",
-          "abbreviation": "CAM",
-          "played": 18,
-          "wins": 7,
-          "draws": 3,
-          "losses": 8,
-          "goals_for": 22,
-          "goals_against": 23,
-          "goal_difference": -1,
-          "points": 24,
-          "streak": {},
-          "record": "7-3-8"
         },
         {
           "rank": 12,
@@ -5433,16 +5433,16 @@
       "team_count": 18,
       "top_performers": {
         "best_attack": {
-          "team": "Pachuca",
-          "goals_for": 3
+          "team": "Cruz Azul",
+          "goals_for": 5
         },
         "best_defence": {
           "team": "Pachuca",
           "goals_against": 0
         },
         "most_wins": {
-          "team": "Pachuca",
-          "wins": 1
+          "team": "Cruz Azul",
+          "wins": 2
         },
         "best_goal_difference": {
           "team": "Pachuca",
@@ -5452,6 +5452,22 @@
       "teams": [
         {
           "rank": 1,
+          "group": "2026 Torneo Apertura",
+          "team": "Cruz Azul",
+          "abbreviation": "CAZ",
+          "played": 2,
+          "wins": 2,
+          "draws": 0,
+          "losses": 0,
+          "goals_for": 5,
+          "goals_against": 3,
+          "goal_difference": 2,
+          "points": 6,
+          "streak": {},
+          "record": "2-0-0"
+        },
+        {
+          "rank": 2,
           "group": "2026 Torneo Apertura",
           "team": "Pachuca",
           "abbreviation": "PAC",
@@ -5467,7 +5483,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "group": "2026 Torneo Apertura",
           "team": "Tijuana",
           "abbreviation": "TIJ",
@@ -5483,7 +5499,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "group": "2026 Torneo Apertura",
           "team": "Toluca",
           "abbreviation": "TOL",
@@ -5494,22 +5510,6 @@
           "goals_for": 2,
           "goals_against": 0,
           "goal_difference": 2,
-          "points": 3,
-          "streak": {},
-          "record": "1-0-0"
-        },
-        {
-          "rank": 4,
-          "group": "2026 Torneo Apertura",
-          "team": "Cruz Azul",
-          "abbreviation": "CAZ",
-          "played": 1,
-          "wins": 1,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 3,
-          "goals_against": 2,
-          "goal_difference": 1,
           "points": 3,
           "streak": {},
           "record": "1-0-0"
@@ -5583,16 +5583,16 @@
           "group": "2026 Torneo Apertura",
           "team": "Puebla",
           "abbreviation": "PUE",
-          "played": 1,
+          "played": 2,
           "wins": 1,
           "draws": 0,
-          "losses": 0,
-          "goals_for": 1,
-          "goals_against": 0,
-          "goal_difference": 1,
+          "losses": 1,
+          "goals_for": 2,
+          "goals_against": 2,
+          "goal_difference": 0,
           "points": 3,
           "streak": {},
-          "record": "1-0-0"
+          "record": "1-0-1"
         },
         {
           "rank": 10,

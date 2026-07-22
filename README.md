@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-07-21 23:34:31 UTC
+> **Last updated:** 2026-07-22 03:30:10 UTC
 
 ---
 
@@ -61,7 +61,7 @@
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 26 |
 | **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 41 |
 | **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Boca Juniors** | 0 |
-| **Mexican Liga MX** | Mexico | CONCACAF | 18 | **Pachuca** | 3 |
+| **Mexican Liga MX** | Mexico | CONCACAF | 18 | **Cruz Azul** | 6 |
 
 ---
 
@@ -227,9 +227,9 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Pachuca** | 3 goals |
+| Best Attack | **Cruz Azul** | 5 goals |
 | Best Defence | **Pachuca** | 0 goals conceded |
-| Most Wins | **Pachuca** | 1 wins |
+| Most Wins | **Cruz Azul** | 2 wins |
 | Best GD | **Pachuca** | +3 |
 
 ---
@@ -240,8 +240,8 @@ A breakdown of all leagues and teams by football confederation.
 
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
-| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 750 | 750 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 482 | 482 |
+| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 753 | 753 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 484 | 484 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 873 | 873 |
 
 ---
@@ -603,12 +603,12 @@ A breakdown of all leagues and teams by football confederation.
 | 3 | 2026 | **Fluminense** | 19 | 9 | 5 | 5 | 29 | 24 | +5 | **32** |
 | 4 | 2026 | **Red Bull Bragantino** | 19 | 9 | 3 | 7 | 26 | 20 | +6 | **30** |
 | 5 | 2026 | **Athletico Paranaense** | 18 | 9 | 3 | 6 | 24 | 18 | +6 | **30** |
-| 6 | 2026 | **Bahia** | 18 | 8 | 5 | 5 | 27 | 23 | +4 | **29** |
+| 6 | 2026 | **Bahia** | 19 | 8 | 6 | 5 | 28 | 24 | +4 | **30** |
 | 7 | 2026 | **Coritiba** | 18 | 7 | 5 | 6 | 24 | 24 | 0 | **26** |
 | 8 | 2026 | **São Paulo** | 18 | 7 | 4 | 7 | 23 | 20 | +3 | **25** |
 | 9 | 2026 | **Botafogo** | 18 | 7 | 4 | 7 | 33 | 32 | +1 | **25** |
-| 10 | 2026 | **Vitória** | 18 | 7 | 4 | 7 | 22 | 25 | -3 | **25** |
-| 11 | 2026 | **Atlético-MG** | 18 | 7 | 3 | 8 | 22 | 23 | -1 | **24** |
+| 10 | 2026 | **Atlético-MG** | 19 | 7 | 4 | 8 | 23 | 24 | -1 | **25** |
+| 11 | 2026 | **Vitória** | 18 | 7 | 4 | 7 | 22 | 25 | -3 | **25** |
 | 12 | 2026 | **Corinthians** | 18 | 6 | 6 | 6 | 18 | 19 | -1 | **24** |
 | 13 | 2026 | **Cruzeiro** | 18 | 6 | 6 | 6 | 24 | 28 | -4 | **24** |
 | 14 | 2026 | **Internacional** | 18 | 5 | 6 | 7 | 21 | 22 | -1 | **21** |
@@ -662,15 +662,15 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026 Torneo Apertura | **Pachuca** | 1 | 1 | 0 | 0 | 3 | 0 | +3 | **3** |
-| 2 | 2026 Torneo Apertura | **Tijuana** | 1 | 1 | 0 | 0 | 3 | 1 | +2 | **3** |
-| 3 | 2026 Torneo Apertura | **Toluca** | 1 | 1 | 0 | 0 | 2 | 0 | +2 | **3** |
-| 4 | 2026 Torneo Apertura | **Cruz Azul** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
+| 1 | 2026 Torneo Apertura | **Cruz Azul** | 2 | 2 | 0 | 0 | 5 | 3 | +2 | **6** |
+| 2 | 2026 Torneo Apertura | **Pachuca** | 1 | 1 | 0 | 0 | 3 | 0 | +3 | **3** |
+| 3 | 2026 Torneo Apertura | **Tijuana** | 1 | 1 | 0 | 0 | 3 | 1 | +2 | **3** |
+| 4 | 2026 Torneo Apertura | **Toluca** | 1 | 1 | 0 | 0 | 2 | 0 | +2 | **3** |
 | 5 | 2026 Torneo Apertura | **Atlas** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
 | 6 | 2026 Torneo Apertura | **Monterrey** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
 | 7 | 2026 Torneo Apertura | **Necaxa** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
 | 8 | 2026 Torneo Apertura | **América** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 9 | 2026 Torneo Apertura | **Puebla** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 9 | 2026 Torneo Apertura | **Puebla** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
 | 10 | 2026 Torneo Apertura | **Santos** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
 | 11 | 2026 Torneo Apertura | **Atlético de San Luis** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
 | 12 | 2026 Torneo Apertura | **León** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
