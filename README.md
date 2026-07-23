@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-07-23 17:39:21 UTC
+> **Last updated:** 2026-07-23 19:37:13 UTC
 
 ---
 
@@ -440,7 +440,7 @@ A breakdown of all leagues and teams by football confederation.
 | 14 | League Phase | **Viktoria Plzen** | 8 | 3 | 5 | 0 | 8 | 3 | +5 | **14** |
 | 15 | League Phase | **Red Star Belgrade** | 8 | 4 | 2 | 2 | 7 | 6 | +1 | **14** |
 | 16 | League Phase | **Celta Vigo** | 8 | 4 | 1 | 3 | 15 | 11 | +4 | **13** |
-| 17 | League Phase | **PAOK Salonika** | 8 | 3 | 3 | 2 | 17 | 14 | +3 | **12** |
+| 17 | League Phase | **PAOK** | 8 | 3 | 3 | 2 | 17 | 14 | +3 | **12** |
 | 18 | League Phase | **Lille** | 8 | 4 | 0 | 4 | 12 | 9 | +3 | **12** |
 | 19 | League Phase | **Fenerbahce** | 8 | 3 | 3 | 2 | 10 | 7 | +3 | **12** |
 | 20 | League Phase | **Panathinaikos** | 8 | 3 | 3 | 2 | 11 | 9 | +2 | **12** |

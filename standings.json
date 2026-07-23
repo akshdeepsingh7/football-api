@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23 17:39:21 UTC",
-  "generated_at_iso": "2026-07-23T17:39:21.232686+00:00",
+  "generated_at": "2026-07-23 19:37:13 UTC",
+  "generated_at_iso": "2026-07-23T19:37:13.749105+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -2573,7 +2573,7 @@
         {
           "rank": 17,
           "group": "League Phase",
-          "team": "PAOK Salonika",
+          "team": "PAOK",
           "abbreviation": "PAOK",
           "played": 8,
           "wins": 3,
