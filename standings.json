@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23 03:56:08 UTC",
-  "generated_at_iso": "2026-07-23T03:56:08.503315+00:00",
+  "generated_at": "2026-07-23 06:36:46 UTC",
+  "generated_at_iso": "2026-07-23T06:36:46.420988+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4103,7 +4103,7 @@
           "record": "8-2-5"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "Eastern Conference",
           "team": "Columbus Crew",
           "abbreviation": "CLB",
@@ -4119,36 +4119,36 @@
           "record": "4-4-8"
         },
         {
-          "rank": 14,
+          "rank": 11,
           "group": "Eastern Conference",
           "team": "Colorado Rapids",
           "abbreviation": "COL",
-          "played": 15,
-          "wins": 5,
+          "played": 16,
+          "wins": 6,
           "draws": 1,
           "losses": 9,
-          "goals_for": 25,
+          "goals_for": 26,
           "goals_against": 24,
-          "goal_difference": 1,
-          "points": 16,
+          "goal_difference": 2,
+          "points": 19,
           "streak": {},
-          "record": "5-1-9"
+          "record": "6-1-9"
         },
         {
           "rank": 5,
           "group": "Eastern Conference",
           "team": "FC Dallas",
           "abbreviation": "DAL",
-          "played": 15,
+          "played": 16,
           "wins": 7,
-          "draws": 4,
+          "draws": 5,
           "losses": 4,
-          "goals_for": 30,
-          "goals_against": 22,
+          "goals_for": 32,
+          "goals_against": 24,
           "goal_difference": 8,
-          "points": 25,
+          "points": 26,
           "streak": {},
-          "record": "7-4-4"
+          "record": "7-5-4"
         },
         {
           "rank": 15,
@@ -4167,20 +4167,20 @@
           "record": "4-2-10"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Eastern Conference",
           "team": "LA Galaxy",
           "abbreviation": "LA",
-          "played": 16,
+          "played": 17,
           "wins": 5,
           "draws": 5,
-          "losses": 6,
-          "goals_for": 22,
-          "goals_against": 25,
-          "goal_difference": -3,
+          "losses": 7,
+          "goals_for": 23,
+          "goals_against": 28,
+          "goal_difference": -5,
           "points": 20,
           "streak": {},
-          "record": "5-5-6"
+          "record": "5-5-7"
         },
         {
           "rank": 4,
@@ -4219,16 +4219,16 @@
           "group": "Eastern Conference",
           "team": "San Jose Earthquakes",
           "abbreviation": "SJ",
-          "played": 15,
+          "played": 16,
           "wins": 10,
           "draws": 2,
-          "losses": 3,
+          "losses": 4,
           "goals_for": 34,
-          "goals_against": 15,
-          "goal_difference": 19,
+          "goals_against": 19,
+          "goal_difference": 15,
           "points": 32,
           "streak": {},
-          "record": "10-2-3"
+          "record": "10-2-4"
         },
         {
           "rank": 9,
@@ -4251,16 +4251,16 @@
           "group": "Eastern Conference",
           "team": "Real Salt Lake",
           "abbreviation": "RSL",
-          "played": 14,
+          "played": 15,
           "wins": 8,
           "draws": 2,
-          "losses": 4,
-          "goals_for": 26,
-          "goals_against": 19,
-          "goal_difference": 7,
+          "losses": 5,
+          "goals_for": 27,
+          "goals_against": 22,
+          "goal_difference": 5,
           "points": 26,
           "streak": {},
-          "record": "8-2-4"
+          "record": "8-2-5"
         },
         {
           "rank": 7,
@@ -4279,7 +4279,7 @@
           "record": "7-2-6"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "Eastern Conference",
           "team": "Toronto FC",
           "abbreviation": "TOR",
@@ -4295,7 +4295,7 @@
           "record": "3-7-6"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "Eastern Conference",
           "team": "CF Montréal",
           "abbreviation": "MTL",
@@ -4311,20 +4311,20 @@
           "record": "4-3-9"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "Eastern Conference",
           "team": "Portland Timbers",
           "abbreviation": "POR",
-          "played": 15,
+          "played": 16,
           "wins": 5,
-          "draws": 2,
+          "draws": 3,
           "losses": 8,
-          "goals_for": 27,
-          "goals_against": 29,
+          "goals_for": 29,
+          "goals_against": 31,
           "goal_difference": -2,
-          "points": 17,
+          "points": 18,
           "streak": {},
-          "record": "5-2-8"
+          "record": "5-3-8"
         },
         {
           "rank": 6,
@@ -4375,23 +4375,23 @@
           "record": "2-4-10"
         },
         {
-          "rank": 13,
+          "rank": 10,
           "group": "Eastern Conference",
           "team": "Orlando City SC",
           "abbreviation": "ORL",
-          "played": 15,
-          "wins": 4,
+          "played": 16,
+          "wins": 5,
           "draws": 2,
           "losses": 9,
-          "goals_for": 23,
+          "goals_for": 27,
           "goals_against": 44,
-          "goal_difference": -21,
-          "points": 14,
+          "goal_difference": -17,
+          "points": 17,
           "streak": {},
-          "record": "4-2-9"
+          "record": "5-2-9"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Eastern Conference",
           "team": "Minnesota United FC",
           "abbreviation": "MIN",
@@ -4459,16 +4459,16 @@
           "group": "Eastern Conference",
           "team": "LAFC",
           "abbreviation": "LAFC",
-          "played": 16,
-          "wins": 8,
+          "played": 17,
+          "wins": 9,
           "draws": 3,
           "losses": 5,
-          "goals_for": 27,
-          "goals_against": 17,
-          "goal_difference": 10,
-          "points": 27,
+          "goals_for": 30,
+          "goals_against": 18,
+          "goal_difference": 12,
+          "points": 30,
           "streak": {},
-          "record": "8-3-5"
+          "record": "9-3-5"
         },
         {
           "rank": 1,
@@ -4503,7 +4503,7 @@
           "record": "10-4-2"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "group": "Eastern Conference",
           "team": "Austin FC",
           "abbreviation": "ATX",
@@ -4535,36 +4535,36 @@
           "record": "6-4-6"
         },
         {
-          "rank": 10,
+          "rank": 8,
           "group": "Eastern Conference",
           "team": "St. Louis CITY SC",
           "abbreviation": "STL",
-          "played": 15,
-          "wins": 5,
+          "played": 16,
+          "wins": 6,
           "draws": 4,
           "losses": 6,
-          "goals_for": 19,
-          "goals_against": 22,
-          "goal_difference": -3,
-          "points": 19,
+          "goals_for": 22,
+          "goals_against": 23,
+          "goal_difference": -1,
+          "points": 22,
           "streak": {},
-          "record": "5-4-6"
+          "record": "6-4-6"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "Eastern Conference",
           "team": "San Diego FC",
           "abbreviation": "SD",
-          "played": 15,
+          "played": 16,
           "wins": 4,
           "draws": 5,
-          "losses": 6,
+          "losses": 7,
           "goals_for": 30,
-          "goals_against": 27,
-          "goal_difference": 3,
+          "goals_against": 28,
+          "goal_difference": 2,
           "points": 17,
           "streak": {},
-          "record": "4-5-6"
+          "record": "4-5-7"
         },
         {
           "rank": 11,
