@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24 00:06:08 UTC",
-  "generated_at_iso": "2026-07-24T00:06:08.440642+00:00",
+  "generated_at": "2026-07-24 03:55:13 UTC",
+  "generated_at_iso": "2026-07-24T03:55:13.857431+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4693,6 +4693,22 @@
         {
           "rank": 7,
           "group": "2026",
+          "team": "Corinthians",
+          "abbreviation": "COR",
+          "played": 19,
+          "wins": 7,
+          "draws": 6,
+          "losses": 6,
+          "goals_for": 21,
+          "goals_against": 19,
+          "goal_difference": 2,
+          "points": 27,
+          "streak": {},
+          "record": "7-6-6"
+        },
+        {
+          "rank": 8,
+          "group": "2026",
           "team": "Cruzeiro",
           "abbreviation": "CRU",
           "played": 19,
@@ -4707,7 +4723,23 @@
           "record": "7-6-6"
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "group": "2026",
+          "team": "Botafogo",
+          "abbreviation": "BOT",
+          "played": 19,
+          "wins": 7,
+          "draws": 5,
+          "losses": 7,
+          "goals_for": 33,
+          "goals_against": 32,
+          "goal_difference": 1,
+          "points": 26,
+          "streak": {},
+          "record": "7-5-7"
+        },
+        {
+          "rank": 10,
           "group": "2026",
           "team": "Coritiba",
           "abbreviation": "CFC",
@@ -4723,7 +4755,23 @@
           "record": "7-5-7"
         },
         {
-          "rank": 9,
+          "rank": 11,
+          "group": "2026",
+          "team": "Vitória",
+          "abbreviation": "VIT",
+          "played": 19,
+          "wins": 7,
+          "draws": 5,
+          "losses": 7,
+          "goals_for": 22,
+          "goals_against": 25,
+          "goal_difference": -3,
+          "points": 26,
+          "streak": {},
+          "record": "7-5-7"
+        },
+        {
+          "rank": 12,
           "group": "2026",
           "team": "São Paulo",
           "abbreviation": "SAO",
@@ -4739,23 +4787,7 @@
           "record": "7-4-8"
         },
         {
-          "rank": 10,
-          "group": "2026",
-          "team": "Botafogo",
-          "abbreviation": "BOT",
-          "played": 18,
-          "wins": 7,
-          "draws": 4,
-          "losses": 7,
-          "goals_for": 33,
-          "goals_against": 32,
-          "goal_difference": 1,
-          "points": 25,
-          "streak": {},
-          "record": "7-4-7"
-        },
-        {
-          "rank": 11,
+          "rank": 13,
           "group": "2026",
           "team": "Atlético-MG",
           "abbreviation": "CAM",
@@ -4769,38 +4801,6 @@
           "points": 25,
           "streak": {},
           "record": "7-4-8"
-        },
-        {
-          "rank": 12,
-          "group": "2026",
-          "team": "Vitória",
-          "abbreviation": "VIT",
-          "played": 18,
-          "wins": 7,
-          "draws": 4,
-          "losses": 7,
-          "goals_for": 22,
-          "goals_against": 25,
-          "goal_difference": -3,
-          "points": 25,
-          "streak": {},
-          "record": "7-4-7"
-        },
-        {
-          "rank": 13,
-          "group": "2026",
-          "team": "Corinthians",
-          "abbreviation": "COR",
-          "played": 18,
-          "wins": 6,
-          "draws": 6,
-          "losses": 6,
-          "goals_for": 18,
-          "goals_against": 19,
-          "goal_difference": -1,
-          "points": 24,
-          "streak": {},
-          "record": "6-6-6"
         },
         {
           "rank": 14,
@@ -4887,16 +4887,16 @@
           "group": "2026",
           "team": "Remo",
           "abbreviation": "REMO",
-          "played": 18,
+          "played": 19,
           "wins": 4,
           "draws": 6,
-          "losses": 8,
+          "losses": 9,
           "goals_for": 21,
-          "goals_against": 29,
-          "goal_difference": -8,
+          "goals_against": 32,
+          "goal_difference": -11,
           "points": 18,
           "streak": {},
-          "record": "4-6-8"
+          "record": "4-6-9"
         },
         {
           "rank": 20,
@@ -4925,25 +4925,25 @@
       "team_count": 30,
       "top_performers": {
         "best_attack": {
-          "team": "Boca Juniors",
-          "goals_for": 0
+          "team": "Argentinos Juniors",
+          "goals_for": 3
         },
         "best_defence": {
           "team": "Boca Juniors",
           "goals_against": 0
         },
         "most_wins": {
-          "team": "Boca Juniors",
-          "wins": 0
+          "team": "Argentinos Juniors",
+          "wins": 1
         },
         "best_goal_difference": {
-          "team": "Boca Juniors",
-          "goal_difference": 0
+          "team": "Argentinos Juniors",
+          "goal_difference": 1
         }
       },
       "teams": [
         {
-          "rank": 1,
+          "rank": 2,
           "group": "Group A",
           "team": "Boca Juniors",
           "abbreviation": "CABJ",
@@ -5119,20 +5119,20 @@
           "record": "0-0-0"
         },
         {
-          "rank": 3,
+          "rank": 1,
           "group": "Group A",
           "team": "Defensa y Justicia",
           "abbreviation": "DYJ",
-          "played": 0,
+          "played": 1,
           "wins": 0,
-          "draws": 0,
+          "draws": 1,
           "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
+          "goals_for": 1,
+          "goals_against": 1,
           "goal_difference": 0,
-          "points": 0,
+          "points": 1,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-1-0"
         },
         {
           "rank": 6,
@@ -5151,7 +5151,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "group": "Group A",
           "team": "Central Córdoba (Santiago del Estero)",
           "abbreviation": "CTR",
@@ -5183,36 +5183,36 @@
           "record": "0-0-0"
         },
         {
-          "rank": 2,
+          "rank": 1,
           "group": "Group B",
           "team": "Argentinos Juniors",
           "abbreviation": "ARGJ",
-          "played": 0,
-          "wins": 0,
+          "played": 1,
+          "wins": 1,
           "draws": 0,
           "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
+          "goals_for": 3,
+          "goals_against": 2,
+          "goal_difference": 1,
+          "points": 3,
           "streak": {},
-          "record": "0-0-0"
+          "record": "1-0-0"
         },
         {
-          "rank": 6,
+          "rank": 2,
           "group": "Group B",
           "team": "Belgrano (Córdoba)",
           "abbreviation": "BEL",
-          "played": 0,
-          "wins": 0,
+          "played": 1,
+          "wins": 1,
           "draws": 0,
           "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
+          "goals_for": 2,
+          "goals_against": 1,
+          "goal_difference": 1,
+          "points": 3,
           "streak": {},
-          "record": "0-0-0"
+          "record": "1-0-0"
         },
         {
           "rank": 8,
@@ -5279,23 +5279,23 @@
           "record": "0-0-0"
         },
         {
-          "rank": 13,
+          "rank": 15,
           "group": "Group B",
           "team": "Rosario Central",
           "abbreviation": "ROS",
-          "played": 0,
+          "played": 1,
           "wins": 0,
           "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
+          "losses": 1,
+          "goals_for": 1,
+          "goals_against": 2,
+          "goal_difference": -1,
           "points": 0,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-0-1"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "group": "Group B",
           "team": "Banfield",
           "abbreviation": "BAN",
@@ -5311,7 +5311,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 15,
+          "rank": 13,
           "group": "Group B",
           "team": "Tigre",
           "abbreviation": "TIG",
@@ -5327,20 +5327,20 @@
           "record": "0-0-0"
         },
         {
-          "rank": 1,
+          "rank": 3,
           "group": "Group B",
           "team": "Aldosivi",
           "abbreviation": "ALDO",
-          "played": 0,
+          "played": 1,
           "wins": 0,
-          "draws": 0,
+          "draws": 1,
           "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
+          "goals_for": 1,
+          "goals_against": 1,
           "goal_difference": 0,
-          "points": 0,
+          "points": 1,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-1-0"
         },
         {
           "rank": 10,
@@ -5359,7 +5359,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "group": "Group B",
           "team": "Atlético Tucumán",
           "abbreviation": "CAT",
@@ -5375,7 +5375,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "Group B",
           "team": "Barracas Central",
           "abbreviation": "BAR",
@@ -5395,16 +5395,16 @@
           "group": "Group B",
           "team": "Sarmiento (Junín)",
           "abbreviation": "SARM",
-          "played": 0,
+          "played": 1,
           "wins": 0,
           "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
+          "losses": 1,
+          "goals_for": 2,
+          "goals_against": 3,
+          "goal_difference": -1,
           "points": 0,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-0-1"
         },
         {
           "rank": 7,
