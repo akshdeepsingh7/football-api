@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24 20:47:40 UTC",
-  "generated_at_iso": "2026-07-24T20:47:40.939076+00:00",
+  "generated_at": "2026-07-24 22:11:51 UTC",
+  "generated_at_iso": "2026-07-24T22:11:51.842849+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4933,17 +4933,17 @@
           "goals_against": 0
         },
         "most_wins": {
-          "team": "Argentinos Juniors",
+          "team": "Gimnasia (Mendoza)",
           "wins": 1
         },
         "best_goal_difference": {
-          "team": "Argentinos Juniors",
+          "team": "Gimnasia (Mendoza)",
           "goal_difference": 1
         }
       },
       "teams": [
         {
-          "rank": 2,
+          "rank": 3,
           "group": "Group A",
           "team": "Boca Juniors",
           "abbreviation": "CABJ",
@@ -4975,7 +4975,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "group": "Group A",
           "team": "Independiente",
           "abbreviation": "IND",
@@ -4991,7 +4991,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "group": "Group A",
           "team": "Lanús",
           "abbreviation": "LAN",
@@ -5007,7 +5007,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "group": "Group A",
           "team": "Newell's Old Boys",
           "abbreviation": "NOB",
@@ -5023,7 +5023,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "group": "Group A",
           "team": "San Lorenzo",
           "abbreviation": "SLO",
@@ -5039,7 +5039,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "group": "Group A",
           "team": "Talleres (Córdoba)",
           "abbreviation": "TALL",
@@ -5055,7 +5055,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "group": "Group A",
           "team": "Unión (Santa Fe)",
           "abbreviation": "USF",
@@ -5071,7 +5071,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "group": "Group A",
           "team": "Vélez Sarsfield",
           "abbreviation": "VEL",
@@ -5087,7 +5087,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "group": "Group A",
           "team": "Instituto (Córdoba)",
           "abbreviation": "IACC",
@@ -5103,7 +5103,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "group": "Group A",
           "team": "Platense",
           "abbreviation": "PLA",
@@ -5119,7 +5119,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 1,
+          "rank": 2,
           "group": "Group A",
           "team": "Defensa y Justicia",
           "abbreviation": "DYJ",
@@ -5135,36 +5135,36 @@
           "record": "0-1-0"
         },
         {
-          "rank": 6,
+          "rank": 1,
           "group": "Group A",
           "team": "Gimnasia (Mendoza)",
           "abbreviation": "GMZ",
-          "played": 0,
-          "wins": 0,
+          "played": 1,
+          "wins": 1,
           "draws": 0,
           "losses": 0,
-          "goals_for": 0,
+          "goals_for": 1,
           "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
+          "goal_difference": 1,
+          "points": 3,
           "streak": {},
-          "record": "0-0-0"
+          "record": "1-0-0"
         },
         {
-          "rank": 3,
+          "rank": 15,
           "group": "Group A",
           "team": "Central Córdoba (Santiago del Estero)",
           "abbreviation": "CTR",
-          "played": 0,
+          "played": 1,
           "wins": 0,
           "draws": 0,
-          "losses": 0,
+          "losses": 1,
           "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
+          "goals_against": 1,
+          "goal_difference": -1,
           "points": 0,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-0-1"
         },
         {
           "rank": 4,
