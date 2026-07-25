@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-07-24 23:35:24 UTC
+> **Last updated:** 2026-07-25 03:28:49 UTC
 
 ---
 
@@ -218,8 +218,8 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 |----------|------|------|
 | Best Attack | **Argentinos Juniors** | 3 goals |
 | Best Defence | **Boca Juniors** | 0 goals conceded |
-| Most Wins | **Gimnasia (Mendoza)** | 1 wins |
-| Best GD | **Gimnasia (Mendoza)** | +1 |
+| Most Wins | **Vélez Sarsfield** | 1 wins |
+| Best GD | **Vélez Sarsfield** | +1 |
 
 ---
 
@@ -241,7 +241,7 @@ A breakdown of all leagues and teams by football confederation.
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 820 | 820 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 512 | 512 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 521 | 521 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 873 | 873 |
 
 ---
@@ -625,36 +625,36 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 3 | Group A | **Boca Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 5 | Group A | **Estudiantes de La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | Group A | **Independiente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | Group A | **Lanús** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | Group A | **Newell's Old Boys** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | Group A | **San Lorenzo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | Group A | **Talleres (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | Group A | **Unión (Santa Fe)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | Group A | **Vélez Sarsfield** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | Group A | **Instituto (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | Group A | **Platense** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 2 | Group A | **Defensa y Justicia** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| 6 | Group A | **Boca Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | Group A | **Estudiantes de La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | Group A | **Independiente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 10 | Group A | **Lanús** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 11 | Group A | **Newell's Old Boys** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | Group A | **San Lorenzo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | Group A | **Talleres (Córdoba)** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 3 | Group A | **Unión (Santa Fe)** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| 2 | Group A | **Vélez Sarsfield** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 15 | Group A | **Instituto (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 4 | Group A | **Platense** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| 5 | Group A | **Defensa y Justicia** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
 | 1 | Group A | **Gimnasia (Mendoza)** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 15 | Group A | **Central Córdoba (Santiago del Estero)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 4 | Group A | **Deportivo Riestra** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | Group A | **Central Córdoba (Santiago del Estero)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 7 | Group A | **Deportivo Riestra** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | 1 | Group B | **Argentinos Juniors** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
 | 2 | Group B | **Belgrano (Córdoba)** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
-| 8 | Group B | **Gimnasia La Plata** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | Group B | **Huracán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | Group B | **Racing Club** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | Group B | **River Plate** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | Group B | **Rosario Central** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
-| 5 | Group B | **Banfield** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | Group B | **Tigre** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | Group B | **Aldosivi** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| 10 | Group B | **Independiente Rivadavia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 4 | Group B | **Atlético Tucumán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | Group B | **Barracas Central** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | Group B | **Sarmiento (Junín)** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
-| 7 | Group B | **Estudiantes de Río Cuarto** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 14 | Group B | **Gimnasia La Plata** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
+| 4 | Group B | **Huracán** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 3 | Group B | **Racing Club** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
+| 10 | Group B | **River Plate** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 13 | Group B | **Rosario Central** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
+| 15 | Group B | **Banfield** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 11 | Group B | **Tigre** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 5 | Group B | **Aldosivi** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| 9 | Group B | **Independiente Rivadavia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 6 | Group B | **Atlético Tucumán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 7 | Group B | **Barracas Central** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 12 | Group B | **Sarmiento (Junín)** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
+| 8 | Group B | **Estudiantes de Río Cuarto** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 
 ---
 

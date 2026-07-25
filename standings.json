@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24 23:35:24 UTC",
-  "generated_at_iso": "2026-07-24T23:35:24.694130+00:00",
+  "generated_at": "2026-07-25 03:28:49 UTC",
+  "generated_at_iso": "2026-07-25T03:28:49.748082+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4933,17 +4933,17 @@
           "goals_against": 0
         },
         "most_wins": {
-          "team": "Gimnasia (Mendoza)",
+          "team": "Vélez Sarsfield",
           "wins": 1
         },
         "best_goal_difference": {
-          "team": "Gimnasia (Mendoza)",
+          "team": "Vélez Sarsfield",
           "goal_difference": 1
         }
       },
       "teams": [
         {
-          "rank": 3,
+          "rank": 6,
           "group": "Group A",
           "team": "Boca Juniors",
           "abbreviation": "CABJ",
@@ -4959,7 +4959,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 5,
+          "rank": 8,
           "group": "Group A",
           "team": "Estudiantes de La Plata",
           "abbreviation": "EST",
@@ -4975,7 +4975,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 6,
+          "rank": 9,
           "group": "Group A",
           "team": "Independiente",
           "abbreviation": "IND",
@@ -4991,7 +4991,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 8,
+          "rank": 10,
           "group": "Group A",
           "team": "Lanús",
           "abbreviation": "LAN",
@@ -5007,7 +5007,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 9,
+          "rank": 11,
           "group": "Group A",
           "team": "Newell's Old Boys",
           "abbreviation": "NOB",
@@ -5023,7 +5023,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "Group A",
           "team": "San Lorenzo",
           "abbreviation": "SLO",
@@ -5039,7 +5039,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "Group A",
           "team": "Talleres (Córdoba)",
           "abbreviation": "TALL",
@@ -5055,71 +5055,71 @@
           "record": "0-0-0"
         },
         {
-          "rank": 13,
+          "rank": 3,
           "group": "Group A",
           "team": "Unión (Santa Fe)",
           "abbreviation": "USF",
-          "played": 0,
+          "played": 1,
           "wins": 0,
-          "draws": 0,
+          "draws": 1,
           "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
+          "goals_for": 2,
+          "goals_against": 2,
           "goal_difference": 0,
-          "points": 0,
+          "points": 1,
           "streak": {},
-          "record": "0-0-0"
-        },
-        {
-          "rank": 14,
-          "group": "Group A",
-          "team": "Vélez Sarsfield",
-          "abbreviation": "VEL",
-          "played": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-0"
-        },
-        {
-          "rank": 7,
-          "group": "Group A",
-          "team": "Instituto (Córdoba)",
-          "abbreviation": "IACC",
-          "played": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-0"
-        },
-        {
-          "rank": 10,
-          "group": "Group A",
-          "team": "Platense",
-          "abbreviation": "PLA",
-          "played": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-0"
+          "record": "0-1-0"
         },
         {
           "rank": 2,
+          "group": "Group A",
+          "team": "Vélez Sarsfield",
+          "abbreviation": "VEL",
+          "played": 1,
+          "wins": 1,
+          "draws": 0,
+          "losses": 0,
+          "goals_for": 1,
+          "goals_against": 0,
+          "goal_difference": 1,
+          "points": 3,
+          "streak": {},
+          "record": "1-0-0"
+        },
+        {
+          "rank": 15,
+          "group": "Group A",
+          "team": "Instituto (Córdoba)",
+          "abbreviation": "IACC",
+          "played": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goals_for": 0,
+          "goals_against": 1,
+          "goal_difference": -1,
+          "points": 0,
+          "streak": {},
+          "record": "0-0-1"
+        },
+        {
+          "rank": 4,
+          "group": "Group A",
+          "team": "Platense",
+          "abbreviation": "PLA",
+          "played": 1,
+          "wins": 0,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 2,
+          "goals_against": 2,
+          "goal_difference": 0,
+          "points": 1,
+          "streak": {},
+          "record": "0-1-0"
+        },
+        {
+          "rank": 5,
           "group": "Group A",
           "team": "Defensa y Justicia",
           "abbreviation": "DYJ",
@@ -5151,7 +5151,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "group": "Group A",
           "team": "Central Córdoba (Santiago del Estero)",
           "abbreviation": "CTR",
@@ -5167,7 +5167,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 4,
+          "rank": 7,
           "group": "Group A",
           "team": "Deportivo Riestra",
           "abbreviation": "RIE",
@@ -5215,55 +5215,55 @@
           "record": "1-0-0"
         },
         {
-          "rank": 8,
+          "rank": 14,
           "group": "Group B",
           "team": "Gimnasia La Plata",
           "abbreviation": "GLP",
-          "played": 0,
+          "played": 1,
           "wins": 0,
           "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
+          "losses": 1,
+          "goals_for": 1,
+          "goals_against": 2,
+          "goal_difference": -1,
           "points": 0,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-0-1"
         },
         {
-          "rank": 9,
+          "rank": 4,
           "group": "Group B",
           "team": "Huracán",
           "abbreviation": "HUR",
-          "played": 0,
-          "wins": 0,
+          "played": 1,
+          "wins": 1,
           "draws": 0,
           "losses": 0,
-          "goals_for": 0,
+          "goals_for": 1,
           "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
+          "goal_difference": 1,
+          "points": 3,
           "streak": {},
-          "record": "0-0-0"
+          "record": "1-0-0"
         },
         {
-          "rank": 11,
+          "rank": 3,
           "group": "Group B",
           "team": "Racing Club",
           "abbreviation": "RAC",
-          "played": 0,
-          "wins": 0,
+          "played": 1,
+          "wins": 1,
           "draws": 0,
           "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
+          "goals_for": 2,
+          "goals_against": 1,
+          "goal_difference": 1,
+          "points": 3,
           "streak": {},
-          "record": "0-0-0"
+          "record": "1-0-0"
         },
         {
-          "rank": 12,
+          "rank": 10,
           "group": "Group B",
           "team": "River Plate",
           "abbreviation": "RIV",
@@ -5279,7 +5279,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 15,
+          "rank": 13,
           "group": "Group B",
           "team": "Rosario Central",
           "abbreviation": "ROS",
@@ -5295,23 +5295,23 @@
           "record": "0-0-1"
         },
         {
-          "rank": 5,
+          "rank": 15,
           "group": "Group B",
           "team": "Banfield",
           "abbreviation": "BAN",
-          "played": 0,
+          "played": 1,
           "wins": 0,
           "draws": 0,
-          "losses": 0,
+          "losses": 1,
           "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
+          "goals_against": 1,
+          "goal_difference": -1,
           "points": 0,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-0-1"
         },
         {
-          "rank": 13,
+          "rank": 11,
           "group": "Group B",
           "team": "Tigre",
           "abbreviation": "TIG",
@@ -5327,7 +5327,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "group": "Group B",
           "team": "Aldosivi",
           "abbreviation": "ALDO",
@@ -5343,7 +5343,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "group": "Group B",
           "team": "Independiente Rivadavia",
           "abbreviation": "RIV",
@@ -5359,7 +5359,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 4,
+          "rank": 6,
           "group": "Group B",
           "team": "Atlético Tucumán",
           "abbreviation": "CAT",
@@ -5375,7 +5375,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "Group B",
           "team": "Barracas Central",
           "abbreviation": "BAR",
@@ -5391,7 +5391,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 14,
+          "rank": 12,
           "group": "Group B",
           "team": "Sarmiento (Junín)",
           "abbreviation": "SARM",
@@ -5407,7 +5407,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group B",
           "team": "Estudiantes de Río Cuarto",
           "abbreviation": "AAE",
