@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25 18:29:24 UTC",
-  "generated_at_iso": "2026-07-25T18:29:24.341677+00:00",
+  "generated_at": "2026-07-25 19:48:40 UTC",
+  "generated_at_iso": "2026-07-25T19:48:40.596458+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -5215,7 +5215,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "group": "Group B",
           "team": "Gimnasia La Plata",
           "abbreviation": "GLP",
@@ -5279,7 +5279,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "group": "Group B",
           "team": "Rosario Central",
           "abbreviation": "ROS",
@@ -5311,23 +5311,23 @@
           "record": "0-0-1"
         },
         {
-          "rank": 11,
+          "rank": 14,
           "group": "Group B",
           "team": "Tigre",
           "abbreviation": "TIG",
-          "played": 0,
+          "played": 1,
           "wins": 0,
           "draws": 0,
-          "losses": 0,
+          "losses": 1,
           "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
+          "goals_against": 1,
+          "goal_difference": -1,
           "points": 0,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-0-1"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "Group B",
           "team": "Aldosivi",
           "abbreviation": "ALDO",
@@ -5359,7 +5359,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "Group B",
           "team": "Atlético Tucumán",
           "abbreviation": "CAT",
@@ -5375,7 +5375,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group B",
           "team": "Barracas Central",
           "abbreviation": "BAR",
@@ -5391,7 +5391,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "group": "Group B",
           "team": "Sarmiento (Junín)",
           "abbreviation": "SARM",
@@ -5407,20 +5407,20 @@
           "record": "0-0-1"
         },
         {
-          "rank": 8,
+          "rank": 5,
           "group": "Group B",
           "team": "Estudiantes de Río Cuarto",
           "abbreviation": "AAE",
-          "played": 0,
-          "wins": 0,
+          "played": 1,
+          "wins": 1,
           "draws": 0,
           "losses": 0,
-          "goals_for": 0,
+          "goals_for": 1,
           "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
+          "goal_difference": 1,
+          "points": 3,
           "streak": {},
-          "record": "0-0-0"
+          "record": "1-0-0"
         }
       ]
     },
