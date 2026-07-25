@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25 21:01:21 UTC",
-  "generated_at_iso": "2026-07-25T21:01:21.634756+00:00",
+  "generated_at": "2026-07-25 22:28:51 UTC",
+  "generated_at_iso": "2026-07-25T22:28:51.335618+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4933,17 +4933,17 @@
           "goals_against": 0
         },
         "most_wins": {
-          "team": "Vélez Sarsfield",
+          "team": "Newell's Old Boys",
           "wins": 1
         },
         "best_goal_difference": {
-          "team": "Vélez Sarsfield",
+          "team": "Newell's Old Boys",
           "goal_difference": 1
         }
       },
       "teams": [
         {
-          "rank": 6,
+          "rank": 7,
           "group": "Group A",
           "team": "Boca Juniors",
           "abbreviation": "CABJ",
@@ -4959,7 +4959,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group A",
           "team": "Estudiantes de La Plata",
           "abbreviation": "EST",
@@ -4975,7 +4975,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Group A",
           "team": "Independiente",
           "abbreviation": "IND",
@@ -4991,7 +4991,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "Group A",
           "team": "Lanús",
           "abbreviation": "LAN",
@@ -5007,20 +5007,20 @@
           "record": "0-0-0"
         },
         {
-          "rank": 11,
+          "rank": 2,
           "group": "Group A",
           "team": "Newell's Old Boys",
           "abbreviation": "NOB",
-          "played": 0,
-          "wins": 0,
+          "played": 1,
+          "wins": 1,
           "draws": 0,
           "losses": 0,
-          "goals_for": 0,
+          "goals_for": 1,
           "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
+          "goal_difference": 1,
+          "points": 3,
           "streak": {},
-          "record": "0-0-0"
+          "record": "1-0-0"
         },
         {
           "rank": 12,
@@ -5039,23 +5039,23 @@
           "record": "0-0-0"
         },
         {
-          "rank": 13,
+          "rank": 15,
           "group": "Group A",
           "team": "Talleres (Córdoba)",
           "abbreviation": "TALL",
-          "played": 0,
+          "played": 1,
           "wins": 0,
           "draws": 0,
-          "losses": 0,
+          "losses": 1,
           "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
+          "goals_against": 1,
+          "goal_difference": -1,
           "points": 0,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-0-1"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "group": "Group A",
           "team": "Unión (Santa Fe)",
           "abbreviation": "USF",
@@ -5071,7 +5071,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "group": "Group A",
           "team": "Vélez Sarsfield",
           "abbreviation": "VEL",
@@ -5087,7 +5087,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "group": "Group A",
           "team": "Instituto (Córdoba)",
           "abbreviation": "IACC",
@@ -5103,7 +5103,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "group": "Group A",
           "team": "Platense",
           "abbreviation": "PLA",
@@ -5119,7 +5119,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "Group A",
           "team": "Defensa y Justicia",
           "abbreviation": "DYJ",
@@ -5151,7 +5151,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "group": "Group A",
           "team": "Central Córdoba (Santiago del Estero)",
           "abbreviation": "CTR",
@@ -5167,7 +5167,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group A",
           "team": "Deportivo Riestra",
           "abbreviation": "RIE",
