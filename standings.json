@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25 03:28:49 UTC",
-  "generated_at_iso": "2026-07-25T03:28:49.748082+00:00",
+  "generated_at": "2026-07-25 06:02:15 UTC",
+  "generated_at_iso": "2026-07-25T06:02:15.703300+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -5441,17 +5441,33 @@
           "goals_against": 0
         },
         "most_wins": {
-          "team": "Cruz Azul",
+          "team": "Tijuana",
           "wins": 2
         },
         "best_goal_difference": {
-          "team": "Pachuca",
+          "team": "Tijuana",
           "goal_difference": 3
         }
       },
       "teams": [
         {
           "rank": 1,
+          "group": "2026 Torneo Apertura",
+          "team": "Tijuana",
+          "abbreviation": "TIJ",
+          "played": 2,
+          "wins": 2,
+          "draws": 0,
+          "losses": 0,
+          "goals_for": 4,
+          "goals_against": 1,
+          "goal_difference": 3,
+          "points": 6,
+          "streak": {},
+          "record": "2-0-0"
+        },
+        {
+          "rank": 2,
           "group": "2026 Torneo Apertura",
           "team": "Cruz Azul",
           "abbreviation": "CAZ",
@@ -5467,7 +5483,23 @@
           "record": "2-0-0"
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "group": "2026 Torneo Apertura",
+          "team": "América",
+          "abbreviation": "AME",
+          "played": 2,
+          "wins": 1,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 2,
+          "goals_against": 1,
+          "goal_difference": 1,
+          "points": 4,
+          "streak": {},
+          "record": "1-1-0"
+        },
+        {
+          "rank": 4,
           "group": "2026 Torneo Apertura",
           "team": "Pachuca",
           "abbreviation": "PAC",
@@ -5483,23 +5515,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 3,
-          "group": "2026 Torneo Apertura",
-          "team": "Tijuana",
-          "abbreviation": "TIJ",
-          "played": 1,
-          "wins": 1,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 3,
-          "goals_against": 1,
-          "goal_difference": 2,
-          "points": 3,
-          "streak": {},
-          "record": "1-0-0"
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "group": "2026 Torneo Apertura",
           "team": "Atlas",
           "abbreviation": "ATS",
@@ -5515,7 +5531,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "2026 Torneo Apertura",
           "team": "Toluca",
           "abbreviation": "TOL",
@@ -5531,7 +5547,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "2026 Torneo Apertura",
           "team": "Monterrey",
           "abbreviation": "MTY",
@@ -5547,7 +5563,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "2026 Torneo Apertura",
           "team": "Necaxa",
           "abbreviation": "NCX",
@@ -5557,22 +5573,6 @@
           "losses": 0,
           "goals_for": 2,
           "goals_against": 1,
-          "goal_difference": 1,
-          "points": 3,
-          "streak": {},
-          "record": "1-0-0"
-        },
-        {
-          "rank": 8,
-          "group": "2026 Torneo Apertura",
-          "team": "América",
-          "abbreviation": "AME",
-          "played": 1,
-          "wins": 1,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 1,
-          "goals_against": 0,
           "goal_difference": 1,
           "points": 3,
           "streak": {},
@@ -5613,6 +5613,22 @@
         {
           "rank": 11,
           "group": "2026 Torneo Apertura",
+          "team": "Atlante",
+          "abbreviation": "ATL",
+          "played": 2,
+          "wins": 0,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 2,
+          "goals_against": 3,
+          "goal_difference": -1,
+          "points": 1,
+          "streak": {},
+          "record": "0-1-1"
+        },
+        {
+          "rank": 12,
+          "group": "2026 Torneo Apertura",
           "team": "Santos",
           "abbreviation": "SAN",
           "played": 1,
@@ -5627,7 +5643,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "2026 Torneo Apertura",
           "team": "Atlético de San Luis",
           "abbreviation": "ASL",
@@ -5643,39 +5659,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 13,
-          "group": "2026 Torneo Apertura",
-          "team": "León",
-          "abbreviation": "LEO",
-          "played": 1,
-          "wins": 0,
-          "draws": 0,
-          "losses": 1,
-          "goals_for": 2,
-          "goals_against": 3,
-          "goal_difference": -1,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-1"
-        },
-        {
           "rank": 14,
-          "group": "2026 Torneo Apertura",
-          "team": "Atlante",
-          "abbreviation": "ATL",
-          "played": 1,
-          "wins": 0,
-          "draws": 0,
-          "losses": 1,
-          "goals_for": 1,
-          "goals_against": 2,
-          "goal_difference": -1,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-1"
-        },
-        {
-          "rank": 15,
           "group": "2026 Torneo Apertura",
           "team": "FC Juarez",
           "abbreviation": "JUA",
@@ -5691,7 +5675,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "group": "2026 Torneo Apertura",
           "team": "Querétaro",
           "abbreviation": "QRO",
@@ -5705,6 +5689,22 @@
           "points": 0,
           "streak": {},
           "record": "0-0-1"
+        },
+        {
+          "rank": 16,
+          "group": "2026 Torneo Apertura",
+          "team": "León",
+          "abbreviation": "LEO",
+          "played": 2,
+          "wins": 0,
+          "draws": 0,
+          "losses": 2,
+          "goals_for": 2,
+          "goals_against": 4,
+          "goal_difference": -2,
+          "points": 0,
+          "streak": {},
+          "record": "0-0-2"
         },
         {
           "rank": 17,
