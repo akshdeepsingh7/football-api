@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26 22:05:28 UTC",
-  "generated_at_iso": "2026-07-26T22:05:28.192471+00:00",
+  "generated_at": "2026-07-26 23:31:04 UTC",
+  "generated_at_iso": "2026-07-26T23:31:04.863263+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4901,6 +4901,22 @@
         {
           "rank": 5,
           "group": "2026",
+          "team": "Red Bull Bragantino",
+          "abbreviation": "BRA",
+          "played": 20,
+          "wins": 9,
+          "draws": 4,
+          "losses": 7,
+          "goals_for": 26,
+          "goals_against": 20,
+          "goal_difference": 6,
+          "points": 31,
+          "streak": {},
+          "record": "9-4-7"
+        },
+        {
+          "rank": 6,
+          "group": "2026",
           "team": "Bahia",
           "abbreviation": "BAH",
           "played": 20,
@@ -4913,22 +4929,6 @@
           "points": 31,
           "streak": {},
           "record": "8-7-5"
-        },
-        {
-          "rank": 6,
-          "group": "2026",
-          "team": "Red Bull Bragantino",
-          "abbreviation": "BRA",
-          "played": 19,
-          "wins": 9,
-          "draws": 3,
-          "losses": 7,
-          "goals_for": 26,
-          "goals_against": 20,
-          "goal_difference": 6,
-          "points": 30,
-          "streak": {},
-          "record": "9-3-7"
         },
         {
           "rank": 7,
@@ -4965,6 +4965,22 @@
         {
           "rank": 9,
           "group": "2026",
+          "team": "Coritiba",
+          "abbreviation": "CFC",
+          "played": 20,
+          "wins": 7,
+          "draws": 6,
+          "losses": 7,
+          "goals_for": 25,
+          "goals_against": 27,
+          "goal_difference": -2,
+          "points": 27,
+          "streak": {},
+          "record": "7-6-7"
+        },
+        {
+          "rank": 10,
+          "group": "2026",
           "team": "Cruzeiro",
           "abbreviation": "CRU",
           "played": 20,
@@ -4977,22 +4993,6 @@
           "points": 27,
           "streak": {},
           "record": "7-6-7"
-        },
-        {
-          "rank": 10,
-          "group": "2026",
-          "team": "Coritiba",
-          "abbreviation": "CFC",
-          "played": 19,
-          "wins": 7,
-          "draws": 5,
-          "losses": 7,
-          "goals_for": 25,
-          "goals_against": 27,
-          "goal_difference": -2,
-          "points": 26,
-          "streak": {},
-          "record": "7-5-7"
         },
         {
           "rank": 11,
@@ -5173,17 +5173,17 @@
           "goals_against": 0
         },
         "most_wins": {
-          "team": "Lanús",
+          "team": "Independiente",
           "wins": 1
         },
         "best_goal_difference": {
-          "team": "Lanús",
-          "goal_difference": 1
+          "team": "Independiente",
+          "goal_difference": 2
         }
       },
       "teams": [
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group A",
           "team": "Boca Juniors",
           "abbreviation": "CABJ",
@@ -5199,39 +5199,39 @@
           "record": "0-0-0"
         },
         {
-          "rank": 10,
+          "rank": 15,
           "group": "Group A",
           "team": "Estudiantes de La Plata",
           "abbreviation": "EST",
-          "played": 0,
+          "played": 1,
           "wins": 0,
           "draws": 0,
-          "losses": 0,
+          "losses": 1,
           "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
+          "goals_against": 2,
+          "goal_difference": -2,
           "points": 0,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-0-1"
         },
         {
-          "rank": 11,
+          "rank": 1,
           "group": "Group A",
           "team": "Independiente",
           "abbreviation": "IND",
-          "played": 0,
-          "wins": 0,
+          "played": 1,
+          "wins": 1,
           "draws": 0,
           "losses": 0,
-          "goals_for": 0,
+          "goals_for": 2,
           "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
+          "goal_difference": 2,
+          "points": 3,
           "streak": {},
-          "record": "0-0-0"
+          "record": "1-0-0"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "group": "Group A",
           "team": "Lanús",
           "abbreviation": "LAN",
@@ -5247,7 +5247,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "group": "Group A",
           "team": "Newell's Old Boys",
           "abbreviation": "NOB",
@@ -5263,7 +5263,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "group": "Group A",
           "team": "San Lorenzo",
           "abbreviation": "SLO",
@@ -5279,7 +5279,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "group": "Group A",
           "team": "Talleres (Córdoba)",
           "abbreviation": "TALL",
@@ -5295,7 +5295,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "Group A",
           "team": "Unión (Santa Fe)",
           "abbreviation": "USF",
@@ -5311,7 +5311,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "group": "Group A",
           "team": "Vélez Sarsfield",
           "abbreviation": "VEL",
@@ -5327,7 +5327,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "group": "Group A",
           "team": "Instituto (Córdoba)",
           "abbreviation": "IACC",
@@ -5343,7 +5343,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "Group A",
           "team": "Platense",
           "abbreviation": "PLA",
@@ -5359,7 +5359,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group A",
           "team": "Defensa y Justicia",
           "abbreviation": "DYJ",
@@ -5375,7 +5375,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 1,
+          "rank": 2,
           "group": "Group A",
           "team": "Gimnasia (Mendoza)",
           "abbreviation": "GMZ",
@@ -5391,7 +5391,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "group": "Group A",
           "team": "Central Córdoba (Santiago del Estero)",
           "abbreviation": "CTR",
@@ -5407,7 +5407,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Group A",
           "team": "Deportivo Riestra",
           "abbreviation": "RIE",
