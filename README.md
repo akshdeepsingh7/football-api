@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-07-26 19:22:41 UTC
+> **Last updated:** 2026-07-26 20:31:24 UTC
 
 ---
 
@@ -665,8 +665,8 @@ A breakdown of all leagues and teams by football confederation.
 | 15 | Group B | **Banfield** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
 | 14 | Group B | **Tigre** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
 | 7 | Group B | **Aldosivi** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| 9 | Group B | **Independiente Rivadavia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | Group B | **Atlético Tucumán** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | Group B | **Independiente Rivadavia** | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
+| 8 | Group B | **Atlético Tucumán** | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
 | 6 | Group B | **Barracas Central** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
 | 10 | Group B | **Sarmiento (Junín)** | 1 | 0 | 0 | 1 | 2 | 3 | -1 | **0** |
 | 5 | Group B | **Estudiantes de Río Cuarto** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26 19:22:41 UTC",
-  "generated_at_iso": "2026-07-26T19:22:41.346826+00:00",
+  "generated_at": "2026-07-26 20:31:24 UTC",
+  "generated_at_iso": "2026-07-26T20:31:24.372895+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -5587,32 +5587,32 @@
           "group": "Group B",
           "team": "Independiente Rivadavia",
           "abbreviation": "RIV",
-          "played": 0,
+          "played": 1,
           "wins": 0,
-          "draws": 0,
+          "draws": 1,
           "losses": 0,
           "goals_for": 0,
           "goals_against": 0,
           "goal_difference": 0,
-          "points": 0,
+          "points": 1,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-1-0"
         },
         {
           "rank": 8,
           "group": "Group B",
           "team": "Atlético Tucumán",
           "abbreviation": "CAT",
-          "played": 0,
+          "played": 1,
           "wins": 0,
-          "draws": 0,
+          "draws": 1,
           "losses": 0,
           "goals_for": 0,
           "goals_against": 0,
           "goal_difference": 0,
-          "points": 0,
+          "points": 1,
           "streak": {},
-          "record": "0-0-0"
+          "record": "0-1-0"
         },
         {
           "rank": 6,
