@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26 03:42:05 UTC",
-  "generated_at_iso": "2026-07-26T03:42:05.264669+00:00",
+  "generated_at": "2026-07-26 06:43:11 UTC",
+  "generated_at_iso": "2026-07-26T06:43:11.856303+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4119,7 +4119,7 @@
           "record": "5-4-8"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "Eastern Conference",
           "team": "Colorado Rapids",
           "abbreviation": "COL",
@@ -4155,32 +4155,32 @@
           "group": "Eastern Conference",
           "team": "Sporting Kansas City",
           "abbreviation": "SKC",
-          "played": 16,
+          "played": 17,
           "wins": 4,
           "draws": 2,
-          "losses": 10,
+          "losses": 11,
           "goals_for": 18,
-          "goals_against": 40,
-          "goal_difference": -22,
+          "goals_against": 44,
+          "goal_difference": -26,
           "points": 14,
           "streak": {},
-          "record": "4-2-10"
+          "record": "4-2-11"
         },
         {
           "rank": 11,
           "group": "Eastern Conference",
           "team": "LA Galaxy",
           "abbreviation": "LA",
-          "played": 17,
+          "played": 18,
           "wins": 5,
-          "draws": 5,
+          "draws": 6,
           "losses": 7,
-          "goals_for": 23,
-          "goals_against": 28,
+          "goals_for": 24,
+          "goals_against": 29,
           "goal_difference": -5,
-          "points": 20,
+          "points": 21,
           "streak": {},
-          "record": "5-5-7"
+          "record": "5-6-7"
         },
         {
           "rank": 3,
@@ -4215,20 +4215,20 @@
           "record": "6-4-7"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "group": "Eastern Conference",
           "team": "San Jose Earthquakes",
           "abbreviation": "SJ",
-          "played": 16,
+          "played": 17,
           "wins": 10,
-          "draws": 2,
+          "draws": 3,
           "losses": 4,
-          "goals_for": 34,
-          "goals_against": 19,
+          "goals_for": 35,
+          "goals_against": 20,
           "goal_difference": 15,
-          "points": 32,
+          "points": 33,
           "streak": {},
-          "record": "10-2-4"
+          "record": "10-3-4"
         },
         {
           "rank": 9,
@@ -4251,16 +4251,16 @@
           "group": "Eastern Conference",
           "team": "Real Salt Lake",
           "abbreviation": "RSL",
-          "played": 15,
+          "played": 16,
           "wins": 8,
           "draws": 2,
-          "losses": 5,
-          "goals_for": 27,
-          "goals_against": 22,
-          "goal_difference": 5,
+          "losses": 6,
+          "goals_for": 28,
+          "goals_against": 24,
+          "goal_difference": 4,
           "points": 26,
           "streak": {},
-          "record": "8-2-5"
+          "record": "8-2-6"
         },
         {
           "rank": 5,
@@ -4311,20 +4311,20 @@
           "record": "4-3-10"
         },
         {
-          "rank": 13,
+          "rank": 10,
           "group": "Eastern Conference",
           "team": "Portland Timbers",
           "abbreviation": "POR",
-          "played": 16,
-          "wins": 5,
+          "played": 17,
+          "wins": 6,
           "draws": 3,
           "losses": 8,
-          "goals_for": 29,
-          "goals_against": 31,
-          "goal_difference": -2,
-          "points": 18,
+          "goals_for": 31,
+          "goals_against": 32,
+          "goal_difference": -1,
+          "points": 21,
           "streak": {},
-          "record": "5-3-8"
+          "record": "6-3-8"
         },
         {
           "rank": 8,
@@ -4455,20 +4455,20 @@
           "record": "3-3-11"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "group": "Eastern Conference",
           "team": "LAFC",
           "abbreviation": "LAFC",
-          "played": 17,
-          "wins": 9,
+          "played": 18,
+          "wins": 10,
           "draws": 3,
           "losses": 5,
-          "goals_for": 30,
+          "goals_for": 34,
           "goals_against": 18,
-          "goal_difference": 12,
-          "points": 30,
+          "goal_difference": 16,
+          "points": 33,
           "streak": {},
-          "record": "9-3-5"
+          "record": "10-3-5"
         },
         {
           "rank": 1,
@@ -4551,7 +4551,7 @@
           "record": "7-4-6"
         },
         {
-          "rank": 10,
+          "rank": 12,
           "group": "Eastern Conference",
           "team": "San Diego FC",
           "abbreviation": "SD",
@@ -5725,6 +5725,22 @@
         {
           "rank": 3,
           "group": "2026 Torneo Apertura",
+          "team": "Atlas",
+          "abbreviation": "ATS",
+          "played": 2,
+          "wins": 2,
+          "draws": 0,
+          "losses": 0,
+          "goals_for": 4,
+          "goals_against": 2,
+          "goal_difference": 2,
+          "points": 6,
+          "streak": {},
+          "record": "2-0-0"
+        },
+        {
+          "rank": 4,
+          "group": "2026 Torneo Apertura",
           "team": "América",
           "abbreviation": "AME",
           "played": 2,
@@ -5739,7 +5755,7 @@
           "record": "1-1-0"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "group": "2026 Torneo Apertura",
           "team": "Pachuca",
           "abbreviation": "PAC",
@@ -5750,22 +5766,6 @@
           "goals_for": 3,
           "goals_against": 0,
           "goal_difference": 3,
-          "points": 3,
-          "streak": {},
-          "record": "1-0-0"
-        },
-        {
-          "rank": 5,
-          "group": "2026 Torneo Apertura",
-          "team": "Atlas",
-          "abbreviation": "ATS",
-          "played": 1,
-          "wins": 1,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 3,
-          "goals_against": 2,
-          "goal_difference": 1,
           "points": 3,
           "streak": {},
           "record": "1-0-0"
@@ -5869,6 +5869,22 @@
         {
           "rank": 12,
           "group": "2026 Torneo Apertura",
+          "team": "Atlético de San Luis",
+          "abbreviation": "ASL",
+          "played": 2,
+          "wins": 0,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 4,
+          "goals_against": 5,
+          "goal_difference": -1,
+          "points": 1,
+          "streak": {},
+          "record": "0-1-1"
+        },
+        {
+          "rank": 13,
+          "group": "2026 Torneo Apertura",
           "team": "Atlante",
           "abbreviation": "ATL",
           "played": 2,
@@ -5883,36 +5899,20 @@
           "record": "0-1-1"
         },
         {
-          "rank": 13,
-          "group": "2026 Torneo Apertura",
-          "team": "Santos",
-          "abbreviation": "SAN",
-          "played": 1,
-          "wins": 0,
-          "draws": 0,
-          "losses": 1,
-          "goals_for": 2,
-          "goals_against": 3,
-          "goal_difference": -1,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-1"
-        },
-        {
           "rank": 14,
           "group": "2026 Torneo Apertura",
-          "team": "Atlético de San Luis",
-          "abbreviation": "ASL",
-          "played": 1,
+          "team": "Tigres UANL",
+          "abbreviation": "UANL",
+          "played": 2,
           "wins": 0,
-          "draws": 0,
+          "draws": 1,
           "losses": 1,
-          "goals_for": 2,
-          "goals_against": 3,
-          "goal_difference": -1,
-          "points": 0,
+          "goals_for": 3,
+          "goals_against": 5,
+          "goal_difference": -2,
+          "points": 1,
           "streak": {},
-          "record": "0-0-1"
+          "record": "0-1-1"
         },
         {
           "rank": 15,
@@ -5933,8 +5933,8 @@
         {
           "rank": 16,
           "group": "2026 Torneo Apertura",
-          "team": "León",
-          "abbreviation": "LEO",
+          "team": "Santos",
+          "abbreviation": "SAN",
           "played": 2,
           "wins": 0,
           "draws": 0,
@@ -5949,18 +5949,18 @@
         {
           "rank": 17,
           "group": "2026 Torneo Apertura",
-          "team": "Tigres UANL",
-          "abbreviation": "UANL",
-          "played": 1,
+          "team": "León",
+          "abbreviation": "LEO",
+          "played": 2,
           "wins": 0,
           "draws": 0,
-          "losses": 1,
-          "goals_for": 1,
-          "goals_against": 3,
+          "losses": 2,
+          "goals_for": 2,
+          "goals_against": 4,
           "goal_difference": -2,
           "points": 0,
           "streak": {},
-          "record": "0-0-1"
+          "record": "0-0-2"
         },
         {
           "rank": 18,
