@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-07-26 23:31:04 UTC
+> **Last updated:** 2026-07-27 03:52:03 UTC
 
 ---
 
@@ -205,10 +205,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Flamengo** | 35 goals |
-| Best Defence | **Palmeiras** | 14 goals conceded |
+| Best Attack | **Flamengo** | 36 goals |
+| Best Defence | **Palmeiras** | 16 goals conceded |
 | Most Wins | **Palmeiras** | 13 wins |
-| Best GD | **Palmeiras** | +19 |
+| Best GD | **Flamengo** | +19 |
 
 ---
 
@@ -216,10 +216,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Argentinos Juniors** | 3 goals |
-| Best Defence | **Boca Juniors** | 0 goals conceded |
+| Best Attack | **Deportivo Riestra** | 3 goals |
+| Best Defence | **Independiente** | 0 goals conceded |
 | Most Wins | **Independiente** | 1 wins |
-| Best GD | **Independiente** | +2 |
+| Best GD | **Deportivo Riestra** | +3 |
 
 ---
 
@@ -228,7 +228,7 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 | Category | Team | Stat |
 |----------|------|------|
 | Best Attack | **Cruz Azul** | 5 goals |
-| Best Defence | **Pachuca** | 0 goals conceded |
+| Best Defence | **Tijuana** | 1 goals conceded |
 | Most Wins | **Tijuana** | 2 wins |
 | Best GD | **Tijuana** | +3 |
 
@@ -240,8 +240,8 @@ A breakdown of all leagues and teams by football confederation.
 
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
-| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 63 | 1251 | 1235 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 538 | 538 |
+| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 63 | 1257 | 1241 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 550 | 550 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 873 | 873 |
 
 ---
@@ -613,25 +613,25 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026 | **Palmeiras** | 19 | 13 | 5 | 1 | 33 | 14 | +19 | **44** |
-| 2 | 2026 | **Flamengo** | 18 | 11 | 4 | 3 | 35 | 16 | +19 | **37** |
+| 1 | 2026 | **Palmeiras** | 20 | 13 | 5 | 2 | 34 | 16 | +18 | **44** |
+| 2 | 2026 | **Flamengo** | 19 | 11 | 5 | 3 | 36 | 17 | +19 | **38** |
 | 3 | 2026 | **Athletico Paranaense** | 20 | 11 | 3 | 6 | 28 | 19 | +9 | **36** |
-| 4 | 2026 | **Fluminense** | 19 | 9 | 5 | 5 | 29 | 24 | +5 | **32** |
+| 4 | 2026 | **Fluminense** | 20 | 9 | 6 | 5 | 30 | 25 | +5 | **33** |
 | 5 | 2026 | **Red Bull Bragantino** | 20 | 9 | 4 | 7 | 26 | 20 | +6 | **31** |
 | 6 | 2026 | **Bahia** | 20 | 8 | 7 | 5 | 29 | 25 | +4 | **31** |
 | 7 | 2026 | **Botafogo** | 20 | 8 | 5 | 7 | 34 | 32 | +2 | **29** |
-| 8 | 2026 | **Corinthians** | 20 | 7 | 7 | 6 | 22 | 20 | +2 | **28** |
-| 9 | 2026 | **Coritiba** | 20 | 7 | 6 | 7 | 25 | 27 | -2 | **27** |
-| 10 | 2026 | **Cruzeiro** | 20 | 7 | 6 | 7 | 26 | 30 | -4 | **27** |
-| 11 | 2026 | **Vitória** | 19 | 7 | 5 | 7 | 22 | 25 | -3 | **26** |
-| 12 | 2026 | **São Paulo** | 19 | 7 | 4 | 8 | 24 | 22 | +2 | **25** |
-| 13 | 2026 | **Atlético-MG** | 19 | 7 | 4 | 8 | 23 | 24 | -1 | **25** |
+| 8 | 2026 | **Atlético-MG** | 20 | 8 | 4 | 8 | 25 | 25 | 0 | **28** |
+| 9 | 2026 | **Corinthians** | 20 | 7 | 7 | 6 | 22 | 20 | +2 | **28** |
+| 10 | 2026 | **Coritiba** | 20 | 7 | 6 | 7 | 25 | 27 | -2 | **27** |
+| 11 | 2026 | **Cruzeiro** | 20 | 7 | 6 | 7 | 26 | 30 | -4 | **27** |
+| 12 | 2026 | **São Paulo** | 20 | 7 | 5 | 8 | 25 | 23 | +2 | **26** |
+| 13 | 2026 | **Vitória** | 20 | 7 | 5 | 8 | 22 | 27 | -5 | **26** |
 | 14 | 2026 | **Santos** | 20 | 5 | 7 | 8 | 29 | 33 | -4 | **22** |
-| 15 | 2026 | **Internacional** | 20 | 5 | 6 | 9 | 22 | 26 | -4 | **21** |
-| 16 | 2026 | **Grêmio** | 19 | 5 | 6 | 8 | 21 | 25 | -4 | **21** |
+| 15 | 2026 | **Grêmio** | 20 | 5 | 7 | 8 | 22 | 26 | -4 | **22** |
+| 16 | 2026 | **Internacional** | 20 | 5 | 6 | 9 | 22 | 26 | -4 | **21** |
 | 17 | 2026 | **Vasco da Gama** | 20 | 5 | 6 | 9 | 23 | 31 | -8 | **21** |
-| 18 | 2026 | **Mirassol** | 19 | 5 | 5 | 9 | 21 | 26 | -5 | **20** |
-| 19 | 2026 | **Remo** | 19 | 4 | 6 | 9 | 21 | 32 | -11 | **18** |
+| 18 | 2026 | **Remo** | 20 | 5 | 6 | 9 | 23 | 32 | -9 | **21** |
+| 19 | 2026 | **Mirassol** | 19 | 5 | 5 | 9 | 21 | 26 | -5 | **20** |
 | 20 | 2026 | **Chapecoense** | 20 | 1 | 7 | 12 | 19 | 41 | -22 | **10** |
 
 ---
@@ -640,21 +640,21 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 9 | Group A | **Boca Juniors** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | Group A | **Estudiantes de La Plata** | 1 | 0 | 0 | 1 | 0 | 2 | -2 | **0** |
-| 1 | Group A | **Independiente** | 1 | 1 | 0 | 0 | 2 | 0 | +2 | **3** |
-| 5 | Group A | **Lanús** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 3 | Group A | **Newell's Old Boys** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 14 | Group A | **San Lorenzo** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 13 | Group A | **Talleres (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 6 | Group A | **Unión (Santa Fe)** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
-| 4 | Group A | **Vélez Sarsfield** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 12 | Group A | **Instituto (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 7 | Group A | **Platense** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
-| 8 | Group A | **Defensa y Justicia** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| 2 | Group A | **Gimnasia (Mendoza)** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 11 | Group A | **Central Córdoba (Santiago del Estero)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 10 | Group A | **Deportivo Riestra** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 15 | Group A | **Boca Juniors** | 1 | 0 | 0 | 1 | 0 | 3 | -3 | **0** |
+| 14 | Group A | **Estudiantes de La Plata** | 1 | 0 | 0 | 1 | 0 | 2 | -2 | **0** |
+| 2 | Group A | **Independiente** | 1 | 1 | 0 | 0 | 2 | 0 | +2 | **3** |
+| 6 | Group A | **Lanús** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 4 | Group A | **Newell's Old Boys** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 13 | Group A | **San Lorenzo** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 12 | Group A | **Talleres (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 7 | Group A | **Unión (Santa Fe)** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| 5 | Group A | **Vélez Sarsfield** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 11 | Group A | **Instituto (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 8 | Group A | **Platense** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| 9 | Group A | **Defensa y Justicia** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| 3 | Group A | **Gimnasia (Mendoza)** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 10 | Group A | **Central Córdoba (Santiago del Estero)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 1 | Group A | **Deportivo Riestra** | 1 | 1 | 0 | 0 | 3 | 0 | +3 | **3** |
 | 1 | Group B | **Argentinos Juniors** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
 | 2 | Group B | **Belgrano (Córdoba)** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
 | 12 | Group B | **Gimnasia La Plata** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
@@ -680,18 +680,18 @@ A breakdown of all leagues and teams by football confederation.
 | 1 | 2026 Torneo Apertura | **Tijuana** | 2 | 2 | 0 | 0 | 4 | 1 | +3 | **6** |
 | 2 | 2026 Torneo Apertura | **Cruz Azul** | 2 | 2 | 0 | 0 | 5 | 3 | +2 | **6** |
 | 3 | 2026 Torneo Apertura | **Atlas** | 2 | 2 | 0 | 0 | 4 | 2 | +2 | **6** |
-| 4 | 2026 Torneo Apertura | **América** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
-| 5 | 2026 Torneo Apertura | **Pachuca** | 1 | 1 | 0 | 0 | 3 | 0 | +3 | **3** |
-| 6 | 2026 Torneo Apertura | **Toluca** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
-| 7 | 2026 Torneo Apertura | **Monterrey** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
-| 8 | 2026 Torneo Apertura | **Necaxa** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
+| 4 | 2026 Torneo Apertura | **Necaxa** | 2 | 2 | 0 | 0 | 4 | 2 | +2 | **6** |
+| 5 | 2026 Torneo Apertura | **América** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
+| 6 | 2026 Torneo Apertura | **Pachuca** | 2 | 1 | 0 | 1 | 4 | 2 | +2 | **3** |
+| 7 | 2026 Torneo Apertura | **Toluca** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
+| 8 | 2026 Torneo Apertura | **Monterrey** | 2 | 1 | 0 | 1 | 4 | 4 | 0 | **3** |
 | 9 | 2026 Torneo Apertura | **Puebla** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 10 | 2026 Torneo Apertura | **Guadalajara** | 2 | 1 | 0 | 1 | 1 | 2 | -1 | **3** |
-| 11 | 2026 Torneo Apertura | **Pumas UNAM** | 2 | 1 | 0 | 1 | 2 | 4 | -2 | **3** |
-| 12 | 2026 Torneo Apertura | **Atlético de San Luis** | 2 | 0 | 1 | 1 | 4 | 5 | -1 | **1** |
-| 13 | 2026 Torneo Apertura | **Atlante** | 2 | 0 | 1 | 1 | 2 | 3 | -1 | **1** |
-| 14 | 2026 Torneo Apertura | **Tigres UANL** | 2 | 0 | 1 | 1 | 3 | 5 | -2 | **1** |
-| 15 | 2026 Torneo Apertura | **Querétaro** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 10 | 2026 Torneo Apertura | **Querétaro** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 11 | 2026 Torneo Apertura | **Guadalajara** | 2 | 1 | 0 | 1 | 1 | 2 | -1 | **3** |
+| 12 | 2026 Torneo Apertura | **Pumas UNAM** | 2 | 1 | 0 | 1 | 2 | 4 | -2 | **3** |
+| 13 | 2026 Torneo Apertura | **Atlético de San Luis** | 2 | 0 | 1 | 1 | 4 | 5 | -1 | **1** |
+| 14 | 2026 Torneo Apertura | **Atlante** | 2 | 0 | 1 | 1 | 2 | 3 | -1 | **1** |
+| 15 | 2026 Torneo Apertura | **Tigres UANL** | 2 | 0 | 1 | 1 | 3 | 5 | -2 | **1** |
 | 16 | 2026 Torneo Apertura | **Santos** | 2 | 0 | 0 | 2 | 2 | 4 | -2 | **0** |
 | 17 | 2026 Torneo Apertura | **León** | 2 | 0 | 0 | 2 | 2 | 4 | -2 | **0** |
 | 18 | 2026 Torneo Apertura | **FC Juarez** | 2 | 0 | 0 | 2 | 0 | 2 | -2 | **0** |
