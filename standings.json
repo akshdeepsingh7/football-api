@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28 22:35:32 UTC",
-  "generated_at_iso": "2026-07-28T22:35:32.378969+00:00",
+  "generated_at": "2026-07-29 00:03:59 UTC",
+  "generated_at_iso": "2026-07-29T00:03:59.634687+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4925,8 +4925,8 @@
       "team_count": 30,
       "top_performers": {
         "best_attack": {
-          "team": "Deportivo Riestra",
-          "goals_for": 3
+          "team": "Sarmiento (Junín)",
+          "goals_for": 4
         },
         "best_defence": {
           "team": "Independiente",
@@ -4991,7 +4991,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "group": "Group A",
           "team": "Lanús",
           "abbreviation": "LAN",
@@ -5007,7 +5007,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "group": "Group A",
           "team": "Newell's Old Boys",
           "abbreviation": "NOB",
@@ -5023,23 +5023,23 @@
           "record": "1-0-0"
         },
         {
-          "rank": 13,
+          "rank": 6,
           "group": "Group A",
           "team": "San Lorenzo",
           "abbreviation": "SLO",
-          "played": 1,
-          "wins": 0,
+          "played": 2,
+          "wins": 1,
           "draws": 0,
           "losses": 1,
-          "goals_for": 0,
+          "goals_for": 1,
           "goals_against": 1,
-          "goal_difference": -1,
-          "points": 0,
+          "goal_difference": 0,
+          "points": 3,
           "streak": {},
-          "record": "0-0-1"
+          "record": "1-0-1"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "Group A",
           "team": "Talleres (Córdoba)",
           "abbreviation": "TALL",
@@ -5055,7 +5055,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group A",
           "team": "Unión (Santa Fe)",
           "abbreviation": "USF",
@@ -5071,7 +5071,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "group": "Group A",
           "team": "Vélez Sarsfield",
           "abbreviation": "VEL",
@@ -5087,7 +5087,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "Group A",
           "team": "Instituto (Córdoba)",
           "abbreviation": "IACC",
@@ -5103,7 +5103,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group A",
           "team": "Platense",
           "abbreviation": "PLA",
@@ -5119,7 +5119,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Group A",
           "team": "Defensa y Justicia",
           "abbreviation": "DYJ",
@@ -5135,23 +5135,23 @@
           "record": "0-1-0"
         },
         {
-          "rank": 3,
+          "rank": 7,
           "group": "Group A",
           "team": "Gimnasia (Mendoza)",
           "abbreviation": "GMZ",
-          "played": 1,
+          "played": 2,
           "wins": 1,
           "draws": 0,
-          "losses": 0,
+          "losses": 1,
           "goals_for": 1,
-          "goals_against": 0,
-          "goal_difference": 1,
+          "goals_against": 1,
+          "goal_difference": 0,
           "points": 3,
           "streak": {},
-          "record": "1-0-0"
+          "record": "1-0-1"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "Group A",
           "team": "Central Córdoba (Santiago del Estero)",
           "abbreviation": "CTR",
@@ -5295,20 +5295,20 @@
           "record": "0-0-1"
         },
         {
-          "rank": 15,
+          "rank": 7,
           "group": "Group B",
           "team": "Banfield",
           "abbreviation": "BAN",
-          "played": 1,
-          "wins": 0,
+          "played": 2,
+          "wins": 1,
           "draws": 0,
           "losses": 1,
-          "goals_for": 0,
-          "goals_against": 1,
-          "goal_difference": -1,
-          "points": 0,
+          "goals_for": 3,
+          "goals_against": 3,
+          "goal_difference": 0,
+          "points": 3,
           "streak": {},
-          "record": "0-0-1"
+          "record": "1-0-1"
         },
         {
           "rank": 14,
@@ -5327,7 +5327,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group B",
           "team": "Aldosivi",
           "abbreviation": "ALDO",
@@ -5343,7 +5343,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Group B",
           "team": "Independiente Rivadavia",
           "abbreviation": "RIV",
@@ -5359,7 +5359,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group B",
           "team": "Atlético Tucumán",
           "abbreviation": "CAT",
@@ -5391,20 +5391,20 @@
           "record": "1-0-0"
         },
         {
-          "rank": 10,
+          "rank": 15,
           "group": "Group B",
           "team": "Sarmiento (Junín)",
           "abbreviation": "SARM",
-          "played": 1,
+          "played": 2,
           "wins": 0,
           "draws": 0,
-          "losses": 1,
-          "goals_for": 2,
-          "goals_against": 3,
-          "goal_difference": -1,
+          "losses": 2,
+          "goals_for": 4,
+          "goals_against": 6,
+          "goal_difference": -2,
           "points": 0,
           "streak": {},
-          "record": "0-0-1"
+          "record": "0-0-2"
         },
         {
           "rank": 5,
