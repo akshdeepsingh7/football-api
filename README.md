@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-07-29 00:03:59 UTC
+> **Last updated:** 2026-07-29 03:52:05 UTC
 
 ---
 
@@ -216,10 +216,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Sarmiento (Junín)** | 4 goals |
+| Best Attack | **Argentinos Juniors** | 6 goals |
 | Best Defence | **Independiente** | 0 goals conceded |
-| Most Wins | **Independiente** | 1 wins |
-| Best GD | **Deportivo Riestra** | +3 |
+| Most Wins | **Argentinos Juniors** | 2 wins |
+| Best GD | **Argentinos Juniors** | +4 |
 
 ---
 
@@ -241,7 +241,7 @@ A breakdown of all leagues and teams by football confederation.
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 869 | 869 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 556 | 556 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 559 | 559 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 873 | 873 |
 
 ---
@@ -640,21 +640,21 @@ A breakdown of all leagues and teams by football confederation.
 | 7 | Group A | **Gimnasia (Mendoza)** | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
 | 11 | Group A | **Central Córdoba (Santiago del Estero)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
 | 1 | Group A | **Deportivo Riestra** | 1 | 1 | 0 | 0 | 3 | 0 | +3 | **3** |
-| 1 | Group B | **Argentinos Juniors** | 1 | 1 | 0 | 0 | 3 | 2 | +1 | **3** |
-| 2 | Group B | **Belgrano (Córdoba)** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
+| 1 | Group B | **Argentinos Juniors** | 2 | 2 | 0 | 0 | 6 | 2 | +4 | **6** |
+| 3 | Group B | **Belgrano (Córdoba)** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
 | 12 | Group B | **Gimnasia La Plata** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
 | 4 | Group B | **Huracán** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 3 | Group B | **Racing Club** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
+| 2 | Group B | **Racing Club** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
 | 13 | Group B | **River Plate** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 11 | Group B | **Rosario Central** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
-| 7 | Group B | **Banfield** | 2 | 1 | 0 | 1 | 3 | 3 | 0 | **3** |
+| 11 | Group B | **Rosario Central** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
+| 6 | Group B | **Banfield** | 2 | 1 | 0 | 1 | 3 | 3 | 0 | **3** |
 | 14 | Group B | **Tigre** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
 | 8 | Group B | **Aldosivi** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
 | 10 | Group B | **Independiente Rivadavia** | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
 | 9 | Group B | **Atlético Tucumán** | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
-| 6 | Group B | **Barracas Central** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 5 | Group B | **Barracas Central** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
 | 15 | Group B | **Sarmiento (Junín)** | 2 | 0 | 0 | 2 | 4 | 6 | -2 | **0** |
-| 5 | Group B | **Estudiantes de Río Cuarto** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 7 | Group B | **Estudiantes de Río Cuarto** | 2 | 1 | 0 | 1 | 1 | 3 | -2 | **3** |
 
 ---
 

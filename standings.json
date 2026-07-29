@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29 00:03:59 UTC",
-  "generated_at_iso": "2026-07-29T00:03:59.634687+00:00",
+  "generated_at": "2026-07-29 03:52:05 UTC",
+  "generated_at_iso": "2026-07-29T03:52:05.996602+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4925,20 +4925,20 @@
       "team_count": 30,
       "top_performers": {
         "best_attack": {
-          "team": "Sarmiento (Junín)",
-          "goals_for": 4
+          "team": "Argentinos Juniors",
+          "goals_for": 6
         },
         "best_defence": {
           "team": "Independiente",
           "goals_against": 0
         },
         "most_wins": {
-          "team": "Independiente",
-          "wins": 1
+          "team": "Argentinos Juniors",
+          "wins": 2
         },
         "best_goal_difference": {
-          "team": "Deportivo Riestra",
-          "goal_difference": 3
+          "team": "Argentinos Juniors",
+          "goal_difference": 4
         }
       },
       "teams": [
@@ -5187,19 +5187,19 @@
           "group": "Group B",
           "team": "Argentinos Juniors",
           "abbreviation": "ARGJ",
-          "played": 1,
-          "wins": 1,
+          "played": 2,
+          "wins": 2,
           "draws": 0,
           "losses": 0,
-          "goals_for": 3,
+          "goals_for": 6,
           "goals_against": 2,
-          "goal_difference": 1,
-          "points": 3,
+          "goal_difference": 4,
+          "points": 6,
           "streak": {},
-          "record": "1-0-0"
+          "record": "2-0-0"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "group": "Group B",
           "team": "Belgrano (Córdoba)",
           "abbreviation": "BEL",
@@ -5247,20 +5247,20 @@
           "record": "1-0-0"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "group": "Group B",
           "team": "Racing Club",
           "abbreviation": "RAC",
-          "played": 1,
+          "played": 2,
           "wins": 1,
-          "draws": 0,
+          "draws": 1,
           "losses": 0,
           "goals_for": 2,
           "goals_against": 1,
           "goal_difference": 1,
-          "points": 3,
+          "points": 4,
           "streak": {},
-          "record": "1-0-0"
+          "record": "1-1-0"
         },
         {
           "rank": 13,
@@ -5283,19 +5283,19 @@
           "group": "Group B",
           "team": "Rosario Central",
           "abbreviation": "ROS",
-          "played": 1,
+          "played": 2,
           "wins": 0,
-          "draws": 0,
+          "draws": 1,
           "losses": 1,
           "goals_for": 1,
           "goals_against": 2,
           "goal_difference": -1,
-          "points": 0,
+          "points": 1,
           "streak": {},
-          "record": "0-0-1"
+          "record": "0-1-1"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "group": "Group B",
           "team": "Banfield",
           "abbreviation": "BAN",
@@ -5375,7 +5375,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "group": "Group B",
           "team": "Barracas Central",
           "abbreviation": "BAR",
@@ -5407,20 +5407,20 @@
           "record": "0-0-2"
         },
         {
-          "rank": 5,
+          "rank": 7,
           "group": "Group B",
           "team": "Estudiantes de Río Cuarto",
           "abbreviation": "AAE",
-          "played": 1,
+          "played": 2,
           "wins": 1,
           "draws": 0,
-          "losses": 0,
+          "losses": 1,
           "goals_for": 1,
-          "goals_against": 0,
-          "goal_difference": 1,
+          "goals_against": 3,
+          "goal_difference": -2,
           "points": 3,
           "streak": {},
-          "record": "1-0-0"
+          "record": "1-0-1"
         }
       ]
     },
