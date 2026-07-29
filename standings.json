@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29 17:50:33 UTC",
-  "generated_at_iso": "2026-07-29T17:50:33.000665+00:00",
+  "generated_at": "2026-07-29 19:34:54 UTC",
+  "generated_at_iso": "2026-07-29T19:34:54.551139+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -5199,7 +5199,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "group": "Group B",
           "team": "Belgrano (Córdoba)",
           "abbreviation": "BEL",
@@ -5231,7 +5231,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "group": "Group B",
           "team": "Huracán",
           "abbreviation": "HUR",
@@ -5247,7 +5247,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "group": "Group B",
           "team": "Racing Club",
           "abbreviation": "RAC",
@@ -5279,7 +5279,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "group": "Group B",
           "team": "Rosario Central",
           "abbreviation": "ROS",
@@ -5327,23 +5327,23 @@
           "record": "0-0-1"
         },
         {
-          "rank": 8,
+          "rank": 11,
           "group": "Group B",
           "team": "Aldosivi",
           "abbreviation": "ALDO",
-          "played": 1,
+          "played": 2,
           "wins": 0,
           "draws": 1,
-          "losses": 0,
+          "losses": 1,
           "goals_for": 1,
-          "goals_against": 1,
-          "goal_difference": 0,
+          "goals_against": 2,
+          "goal_difference": -1,
           "points": 1,
           "streak": {},
-          "record": "0-1-0"
+          "record": "0-1-1"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "group": "Group B",
           "team": "Independiente Rivadavia",
           "abbreviation": "RIV",
@@ -5359,7 +5359,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "group": "Group B",
           "team": "Atlético Tucumán",
           "abbreviation": "CAT",
@@ -5375,20 +5375,20 @@
           "record": "0-1-0"
         },
         {
-          "rank": 5,
+          "rank": 2,
           "group": "Group B",
           "team": "Barracas Central",
           "abbreviation": "BAR",
-          "played": 1,
-          "wins": 1,
+          "played": 2,
+          "wins": 2,
           "draws": 0,
           "losses": 0,
-          "goals_for": 1,
+          "goals_for": 2,
           "goals_against": 0,
-          "goal_difference": 1,
-          "points": 3,
+          "goal_difference": 2,
+          "points": 6,
           "streak": {},
-          "record": "1-0-0"
+          "record": "2-0-0"
         },
         {
           "rank": 15,
