@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29 21:04:50 UTC",
-  "generated_at_iso": "2026-07-29T21:04:50.028630+00:00",
+  "generated_at": "2026-07-29 22:30:40 UTC",
+  "generated_at_iso": "2026-07-29T22:30:40.831693+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4975,7 +4975,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "group": "Group A",
           "team": "Independiente",
           "abbreviation": "IND",
@@ -4991,7 +4991,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "Group A",
           "team": "Lanús",
           "abbreviation": "LAN",
@@ -5007,7 +5007,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "group": "Group A",
           "team": "Newell's Old Boys",
           "abbreviation": "NOB",
@@ -5023,7 +5023,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "Group A",
           "team": "San Lorenzo",
           "abbreviation": "SLO",
@@ -5055,7 +5055,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group A",
           "team": "Unión (Santa Fe)",
           "abbreviation": "USF",
@@ -5071,7 +5071,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "group": "Group A",
           "team": "Vélez Sarsfield",
           "abbreviation": "VEL",
@@ -5103,7 +5103,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Group A",
           "team": "Platense",
           "abbreviation": "PLA",
@@ -5119,23 +5119,23 @@
           "record": "0-1-0"
         },
         {
-          "rank": 10,
+          "rank": 1,
           "group": "Group A",
           "team": "Defensa y Justicia",
           "abbreviation": "DYJ",
-          "played": 1,
-          "wins": 0,
+          "played": 2,
+          "wins": 1,
           "draws": 1,
           "losses": 0,
-          "goals_for": 1,
-          "goals_against": 1,
-          "goal_difference": 0,
-          "points": 1,
+          "goals_for": 3,
+          "goals_against": 2,
+          "goal_difference": 1,
+          "points": 4,
           "streak": {},
-          "record": "0-1-0"
+          "record": "1-1-0"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group A",
           "team": "Gimnasia (Mendoza)",
           "abbreviation": "GMZ",
@@ -5167,20 +5167,20 @@
           "record": "0-0-1"
         },
         {
-          "rank": 1,
+          "rank": 2,
           "group": "Group A",
           "team": "Deportivo Riestra",
           "abbreviation": "RIE",
-          "played": 1,
+          "played": 2,
           "wins": 1,
           "draws": 0,
-          "losses": 0,
-          "goals_for": 3,
-          "goals_against": 0,
-          "goal_difference": 3,
+          "losses": 1,
+          "goals_for": 4,
+          "goals_against": 2,
+          "goal_difference": 2,
           "points": 3,
           "streak": {},
-          "record": "1-0-0"
+          "record": "1-0-1"
         },
         {
           "rank": 1,
