@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30 00:04:37 UTC",
-  "generated_at_iso": "2026-07-30T00:04:37.279950+00:00",
+  "generated_at": "2026-07-30 03:42:36 UTC",
+  "generated_at_iso": "2026-07-30T03:42:36.648590+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4577,8 +4577,8 @@
       "team_count": 20,
       "top_performers": {
         "best_attack": {
-          "team": "Flamengo",
-          "goals_for": 36
+          "team": "Palmeiras",
+          "goals_for": 38
         },
         "best_defence": {
           "team": "Palmeiras",
@@ -4586,11 +4586,11 @@
         },
         "most_wins": {
           "team": "Palmeiras",
-          "wins": 13
+          "wins": 14
         },
         "best_goal_difference": {
-          "team": "Flamengo",
-          "goal_difference": 19
+          "team": "Palmeiras",
+          "goal_difference": 22
         }
       },
       "teams": [
@@ -4599,32 +4599,32 @@
           "group": "2026",
           "team": "Palmeiras",
           "abbreviation": "PAL",
-          "played": 20,
-          "wins": 13,
+          "played": 21,
+          "wins": 14,
           "draws": 5,
           "losses": 2,
-          "goals_for": 34,
+          "goals_for": 38,
           "goals_against": 16,
-          "goal_difference": 18,
-          "points": 44,
+          "goal_difference": 22,
+          "points": 47,
           "streak": {},
-          "record": "13-5-2"
+          "record": "14-5-2"
         },
         {
           "rank": 2,
           "group": "2026",
           "team": "Flamengo",
           "abbreviation": "FLA",
-          "played": 19,
+          "played": 20,
           "wins": 11,
-          "draws": 5,
+          "draws": 6,
           "losses": 3,
-          "goals_for": 36,
-          "goals_against": 17,
+          "goals_for": 37,
+          "goals_against": 18,
           "goal_difference": 19,
-          "points": 38,
+          "points": 39,
           "streak": {},
-          "record": "11-5-3"
+          "record": "11-6-3"
         },
         {
           "rank": 3,
@@ -4647,19 +4647,35 @@
           "group": "2026",
           "team": "Fluminense",
           "abbreviation": "FLU",
-          "played": 20,
+          "played": 21,
           "wins": 9,
-          "draws": 6,
+          "draws": 7,
           "losses": 5,
           "goals_for": 30,
           "goals_against": 25,
           "goal_difference": 5,
-          "points": 33,
+          "points": 34,
           "streak": {},
-          "record": "9-6-5"
+          "record": "9-7-5"
         },
         {
           "rank": 5,
+          "group": "2026",
+          "team": "Bahia",
+          "abbreviation": "BAH",
+          "played": 21,
+          "wins": 8,
+          "draws": 8,
+          "losses": 5,
+          "goals_for": 29,
+          "goals_against": 25,
+          "goal_difference": 4,
+          "points": 32,
+          "streak": {},
+          "record": "8-8-5"
+        },
+        {
+          "rank": 6,
           "group": "2026",
           "team": "Red Bull Bragantino",
           "abbreviation": "BRA",
@@ -4673,22 +4689,6 @@
           "points": 31,
           "streak": {},
           "record": "9-4-7"
-        },
-        {
-          "rank": 6,
-          "group": "2026",
-          "team": "Bahia",
-          "abbreviation": "BAH",
-          "played": 20,
-          "wins": 8,
-          "draws": 7,
-          "losses": 5,
-          "goals_for": 29,
-          "goals_against": 25,
-          "goal_difference": 4,
-          "points": 31,
-          "streak": {},
-          "record": "8-7-5"
         },
         {
           "rank": 7,
@@ -4791,19 +4791,35 @@
           "group": "2026",
           "team": "Vitória",
           "abbreviation": "VIT",
-          "played": 20,
+          "played": 21,
           "wins": 7,
           "draws": 5,
-          "losses": 8,
+          "losses": 9,
           "goals_for": 22,
-          "goals_against": 27,
-          "goal_difference": -5,
+          "goals_against": 31,
+          "goal_difference": -9,
           "points": 26,
           "streak": {},
-          "record": "7-5-8"
+          "record": "7-5-9"
         },
         {
           "rank": 14,
+          "group": "2026",
+          "team": "Mirassol",
+          "abbreviation": "MIR",
+          "played": 20,
+          "wins": 6,
+          "draws": 5,
+          "losses": 9,
+          "goals_for": 23,
+          "goals_against": 27,
+          "goal_difference": -4,
+          "points": 23,
+          "streak": {},
+          "record": "6-5-9"
+        },
+        {
+          "rank": 15,
           "group": "2026",
           "team": "Santos",
           "abbreviation": "SAN",
@@ -4819,7 +4835,23 @@
           "record": "5-7-8"
         },
         {
-          "rank": 15,
+          "rank": 16,
+          "group": "2026",
+          "team": "Internacional",
+          "abbreviation": "INT",
+          "played": 21,
+          "wins": 5,
+          "draws": 7,
+          "losses": 9,
+          "goals_for": 23,
+          "goals_against": 27,
+          "goal_difference": -4,
+          "points": 22,
+          "streak": {},
+          "record": "5-7-9"
+        },
+        {
+          "rank": 17,
           "group": "2026",
           "team": "Grêmio",
           "abbreviation": "GRE",
@@ -4835,23 +4867,7 @@
           "record": "5-7-8"
         },
         {
-          "rank": 16,
-          "group": "2026",
-          "team": "Internacional",
-          "abbreviation": "INT",
-          "played": 20,
-          "wins": 5,
-          "draws": 6,
-          "losses": 9,
-          "goals_for": 22,
-          "goals_against": 26,
-          "goal_difference": -4,
-          "points": 21,
-          "streak": {},
-          "record": "5-6-9"
-        },
-        {
-          "rank": 17,
+          "rank": 18,
           "group": "2026",
           "team": "Vasco da Gama",
           "abbreviation": "VAS",
@@ -4867,36 +4883,20 @@
           "record": "5-6-9"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "group": "2026",
           "team": "Remo",
           "abbreviation": "REMO",
-          "played": 20,
+          "played": 21,
           "wins": 5,
           "draws": 6,
-          "losses": 9,
-          "goals_for": 23,
-          "goals_against": 32,
-          "goal_difference": -9,
+          "losses": 10,
+          "goals_for": 24,
+          "goals_against": 34,
+          "goal_difference": -10,
           "points": 21,
           "streak": {},
-          "record": "5-6-9"
-        },
-        {
-          "rank": 19,
-          "group": "2026",
-          "team": "Mirassol",
-          "abbreviation": "MIR",
-          "played": 19,
-          "wins": 5,
-          "draws": 5,
-          "losses": 9,
-          "goals_for": 21,
-          "goals_against": 26,
-          "goal_difference": -5,
-          "points": 20,
-          "streak": {},
-          "record": "5-5-9"
+          "record": "5-6-10"
         },
         {
           "rank": 20,
@@ -5023,7 +5023,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group A",
           "team": "San Lorenzo",
           "abbreviation": "SLO",
@@ -5055,7 +5055,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Group A",
           "team": "Unión (Santa Fe)",
           "abbreviation": "USF",
@@ -5087,36 +5087,36 @@
           "record": "1-0-0"
         },
         {
-          "rank": 12,
+          "rank": 7,
           "group": "Group A",
           "team": "Instituto (Córdoba)",
           "abbreviation": "IACC",
-          "played": 1,
-          "wins": 0,
+          "played": 2,
+          "wins": 1,
           "draws": 0,
           "losses": 1,
-          "goals_for": 0,
-          "goals_against": 1,
-          "goal_difference": -1,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-1"
-        },
-        {
-          "rank": 10,
-          "group": "Group A",
-          "team": "Platense",
-          "abbreviation": "PLA",
-          "played": 1,
-          "wins": 0,
-          "draws": 1,
-          "losses": 0,
           "goals_for": 2,
           "goals_against": 2,
           "goal_difference": 0,
+          "points": 3,
+          "streak": {},
+          "record": "1-0-1"
+        },
+        {
+          "rank": 11,
+          "group": "Group A",
+          "team": "Platense",
+          "abbreviation": "PLA",
+          "played": 2,
+          "wins": 0,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 3,
+          "goals_against": 4,
+          "goal_difference": -1,
           "points": 1,
           "streak": {},
-          "record": "0-1-0"
+          "record": "0-1-1"
         },
         {
           "rank": 1,
@@ -5135,7 +5135,7 @@
           "record": "1-1-0"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group A",
           "team": "Gimnasia (Mendoza)",
           "abbreviation": "GMZ",
@@ -5151,7 +5151,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "Group A",
           "team": "Central Córdoba (Santiago del Estero)",
           "abbreviation": "CTR",
@@ -5215,20 +5215,20 @@
           "record": "1-0-0"
         },
         {
-          "rank": 12,
+          "rank": 7,
           "group": "Group B",
           "team": "Gimnasia La Plata",
           "abbreviation": "GLP",
-          "played": 1,
-          "wins": 0,
+          "played": 2,
+          "wins": 1,
           "draws": 0,
           "losses": 1,
-          "goals_for": 1,
+          "goals_for": 2,
           "goals_against": 2,
-          "goal_difference": -1,
-          "points": 0,
+          "goal_difference": 0,
+          "points": 3,
           "streak": {},
-          "record": "0-0-1"
+          "record": "1-0-1"
         },
         {
           "rank": 5,
@@ -5263,23 +5263,23 @@
           "record": "1-1-0"
         },
         {
-          "rank": 13,
+          "rank": 15,
           "group": "Group B",
           "team": "River Plate",
           "abbreviation": "RIV",
-          "played": 1,
+          "played": 2,
           "wins": 0,
           "draws": 0,
-          "losses": 1,
+          "losses": 2,
           "goals_for": 0,
-          "goals_against": 1,
-          "goal_difference": -1,
+          "goals_against": 2,
+          "goal_difference": -2,
           "points": 0,
           "streak": {},
-          "record": "0-0-1"
+          "record": "0-0-2"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "Group B",
           "team": "Rosario Central",
           "abbreviation": "ROS",
@@ -5311,7 +5311,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "group": "Group B",
           "team": "Tigre",
           "abbreviation": "TIG",
@@ -5327,7 +5327,7 @@
           "record": "0-0-1"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "Group B",
           "team": "Aldosivi",
           "abbreviation": "ALDO",
@@ -5343,7 +5343,7 @@
           "record": "0-1-1"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Group B",
           "team": "Independiente Rivadavia",
           "abbreviation": "RIV",
@@ -5359,7 +5359,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group B",
           "team": "Atlético Tucumán",
           "abbreviation": "CAT",
@@ -5391,7 +5391,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "group": "Group B",
           "team": "Sarmiento (Junín)",
           "abbreviation": "SARM",
@@ -5407,7 +5407,7 @@
           "record": "0-0-2"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group B",
           "team": "Estudiantes de Río Cuarto",
           "abbreviation": "AAE",

@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-07-30 00:04:37 UTC
+> **Last updated:** 2026-07-30 03:42:36 UTC
 
 ---
 
@@ -59,7 +59,7 @@
 | **Turkish Super Lig** | Turkey | UEFA | 18 | **Alanyaspor** | 0 |
 | **Scottish Premiership** | Scotland | UEFA | 12 | **Aberdeen** | 0 |
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 26 |
-| **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 44 |
+| **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 47 |
 | **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Boca Juniors** | 0 |
 | **Mexican Liga MX** | Mexico | CONCACAF | 18 | **Tijuana** | 6 |
 
@@ -205,10 +205,10 @@ Highlights from each league — the teams with the most goals scored, fewest goa
 
 | Category | Team | Stat |
 |----------|------|------|
-| Best Attack | **Flamengo** | 36 goals |
+| Best Attack | **Palmeiras** | 38 goals |
 | Best Defence | **Palmeiras** | 16 goals conceded |
-| Most Wins | **Palmeiras** | 13 wins |
-| Best GD | **Flamengo** | +19 |
+| Most Wins | **Palmeiras** | 14 wins |
+| Best GD | **Palmeiras** | +22 |
 
 ---
 
@@ -241,7 +241,7 @@ A breakdown of all leagues and teams by football confederation.
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 869 | 869 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 563 | 563 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 576 | 576 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 873 | 873 |
 
 ---
@@ -598,25 +598,25 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026 | **Palmeiras** | 20 | 13 | 5 | 2 | 34 | 16 | +18 | **44** |
-| 2 | 2026 | **Flamengo** | 19 | 11 | 5 | 3 | 36 | 17 | +19 | **38** |
+| 1 | 2026 | **Palmeiras** | 21 | 14 | 5 | 2 | 38 | 16 | +22 | **47** |
+| 2 | 2026 | **Flamengo** | 20 | 11 | 6 | 3 | 37 | 18 | +19 | **39** |
 | 3 | 2026 | **Athletico Paranaense** | 20 | 11 | 3 | 6 | 28 | 19 | +9 | **36** |
-| 4 | 2026 | **Fluminense** | 20 | 9 | 6 | 5 | 30 | 25 | +5 | **33** |
-| 5 | 2026 | **Red Bull Bragantino** | 20 | 9 | 4 | 7 | 26 | 20 | +6 | **31** |
-| 6 | 2026 | **Bahia** | 20 | 8 | 7 | 5 | 29 | 25 | +4 | **31** |
+| 4 | 2026 | **Fluminense** | 21 | 9 | 7 | 5 | 30 | 25 | +5 | **34** |
+| 5 | 2026 | **Bahia** | 21 | 8 | 8 | 5 | 29 | 25 | +4 | **32** |
+| 6 | 2026 | **Red Bull Bragantino** | 20 | 9 | 4 | 7 | 26 | 20 | +6 | **31** |
 | 7 | 2026 | **Botafogo** | 20 | 8 | 5 | 7 | 34 | 32 | +2 | **29** |
 | 8 | 2026 | **Atlético-MG** | 20 | 8 | 4 | 8 | 25 | 25 | 0 | **28** |
 | 9 | 2026 | **Corinthians** | 20 | 7 | 7 | 6 | 22 | 20 | +2 | **28** |
 | 10 | 2026 | **Coritiba** | 20 | 7 | 6 | 7 | 25 | 27 | -2 | **27** |
 | 11 | 2026 | **Cruzeiro** | 20 | 7 | 6 | 7 | 26 | 30 | -4 | **27** |
 | 12 | 2026 | **São Paulo** | 20 | 7 | 5 | 8 | 25 | 23 | +2 | **26** |
-| 13 | 2026 | **Vitória** | 20 | 7 | 5 | 8 | 22 | 27 | -5 | **26** |
-| 14 | 2026 | **Santos** | 20 | 5 | 7 | 8 | 29 | 33 | -4 | **22** |
-| 15 | 2026 | **Grêmio** | 20 | 5 | 7 | 8 | 22 | 26 | -4 | **22** |
-| 16 | 2026 | **Internacional** | 20 | 5 | 6 | 9 | 22 | 26 | -4 | **21** |
-| 17 | 2026 | **Vasco da Gama** | 20 | 5 | 6 | 9 | 23 | 31 | -8 | **21** |
-| 18 | 2026 | **Remo** | 20 | 5 | 6 | 9 | 23 | 32 | -9 | **21** |
-| 19 | 2026 | **Mirassol** | 19 | 5 | 5 | 9 | 21 | 26 | -5 | **20** |
+| 13 | 2026 | **Vitória** | 21 | 7 | 5 | 9 | 22 | 31 | -9 | **26** |
+| 14 | 2026 | **Mirassol** | 20 | 6 | 5 | 9 | 23 | 27 | -4 | **23** |
+| 15 | 2026 | **Santos** | 20 | 5 | 7 | 8 | 29 | 33 | -4 | **22** |
+| 16 | 2026 | **Internacional** | 21 | 5 | 7 | 9 | 23 | 27 | -4 | **22** |
+| 17 | 2026 | **Grêmio** | 20 | 5 | 7 | 8 | 22 | 26 | -4 | **22** |
+| 18 | 2026 | **Vasco da Gama** | 20 | 5 | 6 | 9 | 23 | 31 | -8 | **21** |
+| 19 | 2026 | **Remo** | 21 | 5 | 6 | 10 | 24 | 34 | -10 | **21** |
 | 20 | 2026 | **Chapecoense** | 20 | 1 | 7 | 12 | 19 | 41 | -22 | **10** |
 
 ---
@@ -630,31 +630,31 @@ A breakdown of all leagues and teams by football confederation.
 | 3 | Group A | **Independiente** | 1 | 1 | 0 | 0 | 2 | 0 | +2 | **3** |
 | 6 | Group A | **Lanús** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
 | 4 | Group A | **Newell's Old Boys** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 7 | Group A | **San Lorenzo** | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
+| 8 | Group A | **San Lorenzo** | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
 | 13 | Group A | **Talleres (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 9 | Group A | **Unión (Santa Fe)** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| 10 | Group A | **Unión (Santa Fe)** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
 | 5 | Group A | **Vélez Sarsfield** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 12 | Group A | **Instituto (Córdoba)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 10 | Group A | **Platense** | 1 | 0 | 1 | 0 | 2 | 2 | 0 | **1** |
+| 7 | Group A | **Instituto (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 11 | Group A | **Platense** | 2 | 0 | 1 | 1 | 3 | 4 | -1 | **1** |
 | 1 | Group A | **Defensa y Justicia** | 2 | 1 | 1 | 0 | 3 | 2 | +1 | **4** |
-| 8 | Group A | **Gimnasia (Mendoza)** | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
-| 11 | Group A | **Central Córdoba (Santiago del Estero)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 9 | Group A | **Gimnasia (Mendoza)** | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
+| 12 | Group A | **Central Córdoba (Santiago del Estero)** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
 | 2 | Group A | **Deportivo Riestra** | 2 | 1 | 0 | 1 | 4 | 2 | +2 | **3** |
 | 1 | Group B | **Argentinos Juniors** | 2 | 2 | 0 | 0 | 6 | 2 | +4 | **6** |
 | 4 | Group B | **Belgrano (Córdoba)** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
-| 12 | Group B | **Gimnasia La Plata** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
+| 7 | Group B | **Gimnasia La Plata** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
 | 5 | Group B | **Huracán** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
 | 3 | Group B | **Racing Club** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
-| 13 | Group B | **River Plate** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 10 | Group B | **Rosario Central** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
+| 15 | Group B | **River Plate** | 2 | 0 | 0 | 2 | 0 | 2 | -2 | **0** |
+| 11 | Group B | **Rosario Central** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
 | 6 | Group B | **Banfield** | 2 | 1 | 0 | 1 | 3 | 3 | 0 | **3** |
-| 14 | Group B | **Tigre** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 11 | Group B | **Aldosivi** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
-| 9 | Group B | **Independiente Rivadavia** | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
-| 8 | Group B | **Atlético Tucumán** | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
+| 13 | Group B | **Tigre** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
+| 12 | Group B | **Aldosivi** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
+| 10 | Group B | **Independiente Rivadavia** | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
+| 9 | Group B | **Atlético Tucumán** | 1 | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
 | 2 | Group B | **Barracas Central** | 2 | 2 | 0 | 0 | 2 | 0 | +2 | **6** |
-| 15 | Group B | **Sarmiento (Junín)** | 2 | 0 | 0 | 2 | 4 | 6 | -2 | **0** |
-| 7 | Group B | **Estudiantes de Río Cuarto** | 2 | 1 | 0 | 1 | 1 | 3 | -2 | **3** |
+| 14 | Group B | **Sarmiento (Junín)** | 2 | 0 | 0 | 2 | 4 | 6 | -2 | **0** |
+| 8 | Group B | **Estudiantes de Río Cuarto** | 2 | 1 | 0 | 1 | 1 | 3 | -2 | **3** |
 
 ---
 
