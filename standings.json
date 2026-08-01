@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01 04:57:41 UTC",
-  "generated_at_iso": "2026-08-01T04:57:41.367811+00:00",
+  "generated_at": "2026-08-01 07:34:19 UTC",
+  "generated_at_iso": "2026-08-01T07:34:19.919341+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -5433,8 +5433,8 @@
       "team_count": 18,
       "top_performers": {
         "best_attack": {
-          "team": "Cruz Azul",
-          "goals_for": 5
+          "team": "Pumas UNAM",
+          "goals_for": 7
         },
         "best_defence": {
           "team": "Tijuana",
@@ -5455,19 +5455,35 @@
           "group": "2026 Torneo Apertura",
           "team": "Tijuana",
           "abbreviation": "TIJ",
-          "played": 2,
+          "played": 3,
           "wins": 2,
-          "draws": 0,
+          "draws": 1,
           "losses": 0,
           "goals_for": 4,
           "goals_against": 1,
           "goal_difference": 3,
-          "points": 6,
+          "points": 7,
           "streak": {},
-          "record": "2-0-0"
+          "record": "2-1-0"
         },
         {
           "rank": 2,
+          "group": "2026 Torneo Apertura",
+          "team": "Pumas UNAM",
+          "abbreviation": "UNAM",
+          "played": 3,
+          "wins": 2,
+          "draws": 0,
+          "losses": 1,
+          "goals_for": 7,
+          "goals_against": 5,
+          "goal_difference": 2,
+          "points": 6,
+          "streak": {},
+          "record": "2-0-1"
+        },
+        {
+          "rank": 3,
           "group": "2026 Torneo Apertura",
           "team": "Cruz Azul",
           "abbreviation": "CAZ",
@@ -5483,7 +5499,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "group": "2026 Torneo Apertura",
           "team": "Atlas",
           "abbreviation": "ATS",
@@ -5499,7 +5515,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "group": "2026 Torneo Apertura",
           "team": "Necaxa",
           "abbreviation": "NCX",
@@ -5515,7 +5531,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "2026 Torneo Apertura",
           "team": "América",
           "abbreviation": "AME",
@@ -5531,7 +5547,7 @@
           "record": "1-1-0"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "2026 Torneo Apertura",
           "team": "Puebla",
           "abbreviation": "PUE",
@@ -5547,7 +5563,7 @@
           "record": "1-1-1"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "2026 Torneo Apertura",
           "team": "Guadalajara",
           "abbreviation": "GDL",
@@ -5563,7 +5579,7 @@
           "record": "1-1-1"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "2026 Torneo Apertura",
           "team": "Pachuca",
           "abbreviation": "PAC",
@@ -5579,7 +5595,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "2026 Torneo Apertura",
           "team": "Toluca",
           "abbreviation": "TOL",
@@ -5595,7 +5611,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "2026 Torneo Apertura",
           "team": "Monterrey",
           "abbreviation": "MTY",
@@ -5611,7 +5627,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "2026 Torneo Apertura",
           "team": "Querétaro",
           "abbreviation": "QRO",
@@ -5627,36 +5643,20 @@
           "record": "1-0-1"
         },
         {
-          "rank": 12,
-          "group": "2026 Torneo Apertura",
-          "team": "Pumas UNAM",
-          "abbreviation": "UNAM",
-          "played": 2,
-          "wins": 1,
-          "draws": 0,
-          "losses": 1,
-          "goals_for": 2,
-          "goals_against": 4,
-          "goal_difference": -2,
-          "points": 3,
-          "streak": {},
-          "record": "1-0-1"
-        },
-        {
           "rank": 13,
           "group": "2026 Torneo Apertura",
           "team": "Atlético de San Luis",
           "abbreviation": "ASL",
-          "played": 2,
+          "played": 3,
           "wins": 0,
-          "draws": 1,
+          "draws": 2,
           "losses": 1,
           "goals_for": 4,
           "goals_against": 5,
           "goal_difference": -1,
-          "points": 1,
+          "points": 2,
           "streak": {},
-          "record": "0-1-1"
+          "record": "0-2-1"
         },
         {
           "rank": 14,
@@ -5727,16 +5727,16 @@
           "group": "2026 Torneo Apertura",
           "team": "FC Juarez",
           "abbreviation": "JUA",
-          "played": 2,
+          "played": 3,
           "wins": 0,
           "draws": 0,
-          "losses": 2,
-          "goals_for": 0,
-          "goals_against": 2,
-          "goal_difference": -2,
+          "losses": 3,
+          "goals_for": 1,
+          "goals_against": 7,
+          "goal_difference": -6,
           "points": 0,
           "streak": {},
-          "record": "0-0-2"
+          "record": "0-0-3"
         }
       ]
     }
