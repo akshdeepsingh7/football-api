@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01 22:28:46 UTC",
-  "generated_at_iso": "2026-08-01T22:28:46.722189+00:00",
+  "generated_at": "2026-08-01 23:32:50 UTC",
+  "generated_at_iso": "2026-08-01T23:32:50.530564+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4926,19 +4926,19 @@
       "top_performers": {
         "best_attack": {
           "team": "Argentinos Juniors",
-          "goals_for": 6
+          "goals_for": 7
         },
         "best_defence": {
           "team": "Independiente",
           "goals_against": 0
         },
         "most_wins": {
-          "team": "Independiente",
-          "wins": 2
+          "team": "Argentinos Juniors",
+          "wins": 3
         },
         "best_goal_difference": {
           "team": "Argentinos Juniors",
-          "goal_difference": 4
+          "goal_difference": 5
         }
       },
       "teams": [
@@ -4959,20 +4959,20 @@
           "record": "0-0-1"
         },
         {
-          "rank": 12,
+          "rank": 6,
           "group": "Group A",
           "team": "Estudiantes de La Plata",
           "abbreviation": "EST",
-          "played": 1,
-          "wins": 0,
+          "played": 2,
+          "wins": 1,
           "draws": 0,
           "losses": 1,
-          "goals_for": 0,
+          "goals_for": 3,
           "goals_against": 2,
-          "goal_difference": -2,
-          "points": 0,
+          "goal_difference": 1,
+          "points": 3,
           "streak": {},
-          "record": "0-0-1"
+          "record": "1-0-1"
         },
         {
           "rank": 2,
@@ -4991,7 +4991,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "Group A",
           "team": "Lanús",
           "abbreviation": "LAN",
@@ -5007,7 +5007,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Group A",
           "team": "Newell's Old Boys",
           "abbreviation": "NOB",
@@ -5023,7 +5023,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group A",
           "team": "San Lorenzo",
           "abbreviation": "SLO",
@@ -5055,7 +5055,7 @@
           "record": "0-0-2"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "Group A",
           "team": "Unión (Santa Fe)",
           "abbreviation": "USF",
@@ -5087,7 +5087,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group A",
           "team": "Instituto (Córdoba)",
           "abbreviation": "IACC",
@@ -5103,7 +5103,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "Group A",
           "team": "Platense",
           "abbreviation": "PLA",
@@ -5123,16 +5123,16 @@
           "group": "Group A",
           "team": "Defensa y Justicia",
           "abbreviation": "DYJ",
-          "played": 2,
+          "played": 3,
           "wins": 1,
           "draws": 1,
-          "losses": 0,
+          "losses": 1,
           "goals_for": 3,
-          "goals_against": 2,
-          "goal_difference": 1,
+          "goals_against": 5,
+          "goal_difference": -2,
           "points": 4,
           "streak": {},
-          "record": "1-1-0"
+          "record": "1-1-1"
         },
         {
           "rank": 3,
@@ -5187,32 +5187,32 @@
           "group": "Group B",
           "team": "Argentinos Juniors",
           "abbreviation": "ARGJ",
-          "played": 2,
-          "wins": 2,
+          "played": 3,
+          "wins": 3,
           "draws": 0,
           "losses": 0,
-          "goals_for": 6,
+          "goals_for": 7,
           "goals_against": 2,
-          "goal_difference": 4,
-          "points": 6,
+          "goal_difference": 5,
+          "points": 9,
           "streak": {},
-          "record": "2-0-0"
+          "record": "3-0-0"
         },
         {
           "rank": 8,
           "group": "Group B",
           "team": "Belgrano (Córdoba)",
           "abbreviation": "BEL",
-          "played": 1,
+          "played": 2,
           "wins": 1,
           "draws": 0,
-          "losses": 0,
+          "losses": 1,
           "goals_for": 2,
-          "goals_against": 1,
-          "goal_difference": 1,
+          "goals_against": 2,
+          "goal_difference": 0,
           "points": 3,
           "streak": {},
-          "record": "1-0-0"
+          "record": "1-0-1"
         },
         {
           "rank": 9,
