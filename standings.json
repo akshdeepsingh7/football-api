@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01 01:05:58 UTC",
-  "generated_at_iso": "2026-08-01T01:05:58.993698+00:00",
+  "generated_at": "2026-08-01 04:57:41 UTC",
+  "generated_at_iso": "2026-08-01T04:57:41.367811+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4171,16 +4171,16 @@
           "group": "Eastern Conference",
           "team": "Toronto FC",
           "abbreviation": "TOR",
-          "played": 17,
+          "played": 18,
           "wins": 3,
-          "draws": 7,
+          "draws": 8,
           "losses": 7,
-          "goals_for": 23,
-          "goals_against": 31,
+          "goals_for": 24,
+          "goals_against": 32,
           "goal_difference": -8,
-          "points": 16,
+          "points": 17,
           "streak": {},
-          "record": "3-7-7"
+          "record": "3-8-7"
         },
         {
           "rank": 13,
@@ -4235,16 +4235,16 @@
           "group": "Eastern Conference",
           "team": "New York City FC",
           "abbreviation": "NYC",
-          "played": 17,
+          "played": 18,
           "wins": 7,
-          "draws": 4,
+          "draws": 5,
           "losses": 6,
-          "goals_for": 30,
-          "goals_against": 23,
+          "goals_for": 31,
+          "goals_against": 24,
           "goal_difference": 7,
-          "points": 25,
+          "points": 26,
           "streak": {},
-          "record": "7-4-6"
+          "record": "7-5-6"
         },
         {
           "rank": 7,
@@ -5533,6 +5533,38 @@
         {
           "rank": 6,
           "group": "2026 Torneo Apertura",
+          "team": "Puebla",
+          "abbreviation": "PUE",
+          "played": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 3,
+          "goals_against": 3,
+          "goal_difference": 0,
+          "points": 4,
+          "streak": {},
+          "record": "1-1-1"
+        },
+        {
+          "rank": 7,
+          "group": "2026 Torneo Apertura",
+          "team": "Guadalajara",
+          "abbreviation": "GDL",
+          "played": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 2,
+          "goals_against": 3,
+          "goal_difference": -1,
+          "points": 4,
+          "streak": {},
+          "record": "1-1-1"
+        },
+        {
+          "rank": 8,
+          "group": "2026 Torneo Apertura",
           "team": "Pachuca",
           "abbreviation": "PAC",
           "played": 2,
@@ -5547,7 +5579,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 7,
+          "rank": 9,
           "group": "2026 Torneo Apertura",
           "team": "Toluca",
           "abbreviation": "TOL",
@@ -5563,7 +5595,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 8,
+          "rank": 10,
           "group": "2026 Torneo Apertura",
           "team": "Monterrey",
           "abbreviation": "MTY",
@@ -5579,23 +5611,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 9,
-          "group": "2026 Torneo Apertura",
-          "team": "Puebla",
-          "abbreviation": "PUE",
-          "played": 2,
-          "wins": 1,
-          "draws": 0,
-          "losses": 1,
-          "goals_for": 2,
-          "goals_against": 2,
-          "goal_difference": 0,
-          "points": 3,
-          "streak": {},
-          "record": "1-0-1"
-        },
-        {
-          "rank": 10,
+          "rank": 11,
           "group": "2026 Torneo Apertura",
           "team": "Querétaro",
           "abbreviation": "QRO",
@@ -5606,22 +5622,6 @@
           "goals_for": 2,
           "goals_against": 2,
           "goal_difference": 0,
-          "points": 3,
-          "streak": {},
-          "record": "1-0-1"
-        },
-        {
-          "rank": 11,
-          "group": "2026 Torneo Apertura",
-          "team": "Guadalajara",
-          "abbreviation": "GDL",
-          "played": 2,
-          "wins": 1,
-          "draws": 0,
-          "losses": 1,
-          "goals_for": 1,
-          "goals_against": 2,
-          "goal_difference": -1,
           "points": 3,
           "streak": {},
           "record": "1-0-1"
