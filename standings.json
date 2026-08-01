@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01 19:45:06 UTC",
-  "generated_at_iso": "2026-08-01T19:45:06.700994+00:00",
+  "generated_at": "2026-08-01 21:02:02 UTC",
+  "generated_at_iso": "2026-08-01T21:02:02.130877+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4991,7 +4991,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "Group A",
           "team": "Lanús",
           "abbreviation": "LAN",
@@ -5007,7 +5007,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group A",
           "team": "Newell's Old Boys",
           "abbreviation": "NOB",
@@ -5023,7 +5023,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group A",
           "team": "San Lorenzo",
           "abbreviation": "SLO",
@@ -5055,20 +5055,20 @@
           "record": "0-0-2"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "Group A",
           "team": "Unión (Santa Fe)",
           "abbreviation": "USF",
-          "played": 1,
+          "played": 2,
           "wins": 0,
           "draws": 1,
-          "losses": 0,
+          "losses": 1,
           "goals_for": 2,
-          "goals_against": 2,
-          "goal_difference": 0,
+          "goals_against": 4,
+          "goal_difference": -2,
           "points": 1,
           "streak": {},
-          "record": "0-1-0"
+          "record": "0-1-1"
         },
         {
           "rank": 1,
@@ -5087,7 +5087,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "Group A",
           "team": "Instituto (Córdoba)",
           "abbreviation": "IACC",
@@ -5103,7 +5103,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "group": "Group A",
           "team": "Platense",
           "abbreviation": "PLA",
@@ -5119,7 +5119,7 @@
           "record": "0-1-1"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "group": "Group A",
           "team": "Defensa y Justicia",
           "abbreviation": "DYJ",
@@ -5135,20 +5135,20 @@
           "record": "1-1-0"
         },
         {
-          "rank": 9,
+          "rank": 3,
           "group": "Group A",
           "team": "Gimnasia (Mendoza)",
           "abbreviation": "GMZ",
-          "played": 2,
-          "wins": 1,
+          "played": 3,
+          "wins": 2,
           "draws": 0,
           "losses": 1,
-          "goals_for": 1,
+          "goals_for": 3,
           "goals_against": 1,
-          "goal_difference": 0,
-          "points": 3,
+          "goal_difference": 2,
+          "points": 6,
           "streak": {},
-          "record": "1-0-1"
+          "record": "2-0-1"
         },
         {
           "rank": 15,
@@ -5167,7 +5167,7 @@
           "record": "0-0-2"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "group": "Group A",
           "team": "Deportivo Riestra",
           "abbreviation": "RIE",
@@ -5199,7 +5199,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 6,
+          "rank": 8,
           "group": "Group B",
           "team": "Belgrano (Córdoba)",
           "abbreviation": "BEL",
@@ -5215,7 +5215,7 @@
           "record": "1-0-0"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group B",
           "team": "Gimnasia La Plata",
           "abbreviation": "GLP",
@@ -5231,7 +5231,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Group B",
           "team": "Huracán",
           "abbreviation": "HUR",
@@ -5295,20 +5295,20 @@
           "record": "0-1-1"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "group": "Group B",
           "team": "Banfield",
           "abbreviation": "BAN",
-          "played": 2,
+          "played": 3,
           "wins": 1,
-          "draws": 0,
+          "draws": 1,
           "losses": 1,
           "goals_for": 3,
           "goals_against": 3,
           "goal_difference": 0,
-          "points": 3,
+          "points": 4,
           "streak": {},
-          "record": "1-0-1"
+          "record": "1-1-1"
         },
         {
           "rank": 13,
@@ -5407,20 +5407,20 @@
           "record": "0-0-2"
         },
         {
-          "rank": 10,
+          "rank": 7,
           "group": "Group B",
           "team": "Estudiantes de Río Cuarto",
           "abbreviation": "AAE",
-          "played": 2,
+          "played": 3,
           "wins": 1,
-          "draws": 0,
+          "draws": 1,
           "losses": 1,
           "goals_for": 1,
           "goals_against": 3,
           "goal_difference": -2,
-          "points": 3,
+          "points": 4,
           "streak": {},
-          "record": "1-0-1"
+          "record": "1-1-1"
         }
       ]
     },
