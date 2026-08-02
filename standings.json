@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02 16:07:33 UTC",
-  "generated_at_iso": "2026-08-02T16:07:33.723098+00:00",
+  "generated_at": "2026-08-02 17:34:53 UTC",
+  "generated_at_iso": "2026-08-02T17:34:53.792639+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -3917,6 +3917,22 @@
         {
           "rank": 4,
           "group": "2026-27 Scottish Premiership",
+          "team": "Motherwell",
+          "abbreviation": "MOT",
+          "played": 1,
+          "wins": 1,
+          "draws": 0,
+          "losses": 0,
+          "goals_for": 2,
+          "goals_against": 1,
+          "goal_difference": 1,
+          "points": 3,
+          "streak": {},
+          "record": "1-0-0"
+        },
+        {
+          "rank": 5,
+          "group": "2026-27 Scottish Premiership",
           "team": "Dundee United",
           "abbreviation": "DUN",
           "played": 1,
@@ -3931,7 +3947,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "2026-27 Scottish Premiership",
           "team": "Rangers",
           "abbreviation": "RAN",
@@ -3947,7 +3963,7 @@
           "record": "0-1-0"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "2026-27 Scottish Premiership",
           "team": "Celtic",
           "abbreviation": "CEL",
@@ -3963,7 +3979,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "2026-27 Scottish Premiership",
           "team": "Dundee",
           "abbreviation": "DUN",
@@ -3979,39 +3995,7 @@
           "record": "0-0-0"
         },
         {
-          "rank": 8,
-          "group": "2026-27 Scottish Premiership",
-          "team": "Hibernian",
-          "abbreviation": "HIBS",
-          "played": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-0"
-        },
-        {
           "rank": 9,
-          "group": "2026-27 Scottish Premiership",
-          "team": "Motherwell",
-          "abbreviation": "MOT",
-          "played": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "goal_difference": 0,
-          "points": 0,
-          "streak": {},
-          "record": "0-0-0"
-        },
-        {
-          "rank": 10,
           "group": "2026-27 Scottish Premiership",
           "team": "Kilmarnock",
           "abbreviation": "KIL",
@@ -4027,10 +4011,26 @@
           "record": "0-0-1"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "group": "2026-27 Scottish Premiership",
           "team": "Heart of Midlothian",
           "abbreviation": "HOM",
+          "played": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goals_for": 1,
+          "goals_against": 2,
+          "goal_difference": -1,
+          "points": 0,
+          "streak": {},
+          "record": "0-0-1"
+        },
+        {
+          "rank": 11,
+          "group": "2026-27 Scottish Premiership",
+          "team": "Hibernian",
+          "abbreviation": "HIBS",
           "played": 1,
           "wins": 0,
           "draws": 0,

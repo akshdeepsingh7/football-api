@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-08-02 16:07:33 UTC
+> **Last updated:** 2026-08-02 17:34:53 UTC
 
 ---
 
@@ -242,7 +242,7 @@ A breakdown of all leagues and teams by football confederation.
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 935 | 935 |
 | **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 597 | 597 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 887 | 887 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 890 | 890 |
 
 ---
 
@@ -545,14 +545,14 @@ A breakdown of all leagues and teams by football confederation.
 | 1 | 2026-27 Scottish Premiership | **St Mirren** | 1 | 1 | 0 | 0 | 2 | 0 | +2 | **3** |
 | 2 | 2026-27 Scottish Premiership | **St Johnstone** | 1 | 1 | 0 | 0 | 4 | 3 | +1 | **3** |
 | 3 | 2026-27 Scottish Premiership | **Aberdeen** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
-| 4 | 2026-27 Scottish Premiership | **Dundee United** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| 5 | 2026-27 Scottish Premiership | **Rangers** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| 6 | 2026-27 Scottish Premiership | **Celtic** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | 2026-27 Scottish Premiership | **Dundee** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | 2026-27 Scottish Premiership | **Hibernian** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | 2026-27 Scottish Premiership | **Motherwell** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | 2026-27 Scottish Premiership | **Kilmarnock** | 1 | 0 | 0 | 1 | 3 | 4 | -1 | **0** |
-| 11 | 2026-27 Scottish Premiership | **Heart of Midlothian** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
+| 4 | 2026-27 Scottish Premiership | **Motherwell** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
+| 5 | 2026-27 Scottish Premiership | **Dundee United** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| 6 | 2026-27 Scottish Premiership | **Rangers** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
+| 7 | 2026-27 Scottish Premiership | **Celtic** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 8 | 2026-27 Scottish Premiership | **Dundee** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+| 9 | 2026-27 Scottish Premiership | **Kilmarnock** | 1 | 0 | 0 | 1 | 3 | 4 | -1 | **0** |
+| 10 | 2026-27 Scottish Premiership | **Heart of Midlothian** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
+| 11 | 2026-27 Scottish Premiership | **Hibernian** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
 | 12 | 2026-27 Scottish Premiership | **Falkirk** | 1 | 0 | 0 | 1 | 0 | 2 | -2 | **0** |
 
 ---
