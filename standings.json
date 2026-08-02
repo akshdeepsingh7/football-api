@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02 21:29:54 UTC",
-  "generated_at_iso": "2026-08-02T21:29:54.769689+00:00",
+  "generated_at": "2026-08-02 22:32:54 UTC",
+  "generated_at_iso": "2026-08-02T22:32:54.828003+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4943,23 +4943,23 @@
       },
       "teams": [
         {
-          "rank": 14,
+          "rank": 13,
           "group": "Group A",
           "team": "Boca Juniors",
           "abbreviation": "CABJ",
-          "played": 1,
+          "played": 2,
           "wins": 0,
-          "draws": 0,
+          "draws": 1,
           "losses": 1,
-          "goals_for": 0,
-          "goals_against": 3,
+          "goals_for": 2,
+          "goals_against": 5,
           "goal_difference": -3,
-          "points": 0,
+          "points": 1,
           "streak": {},
-          "record": "0-0-1"
+          "record": "0-1-1"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "Group A",
           "team": "Estudiantes de La Plata",
           "abbreviation": "EST",
@@ -4991,7 +4991,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group A",
           "team": "Lanús",
           "abbreviation": "LAN",
@@ -5007,23 +5007,23 @@
           "record": "1-0-0"
         },
         {
-          "rank": 10,
+          "rank": 4,
           "group": "Group A",
           "team": "Newell's Old Boys",
           "abbreviation": "NOB",
-          "played": 2,
+          "played": 3,
           "wins": 1,
-          "draws": 0,
+          "draws": 1,
           "losses": 1,
-          "goals_for": 1,
-          "goals_against": 1,
+          "goals_for": 3,
+          "goals_against": 3,
           "goal_difference": 0,
-          "points": 3,
+          "points": 4,
           "streak": {},
-          "record": "1-0-1"
+          "record": "1-1-1"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Group A",
           "team": "San Lorenzo",
           "abbreviation": "SLO",
@@ -5039,7 +5039,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "group": "Group A",
           "team": "Talleres (Córdoba)",
           "abbreviation": "TALL",
@@ -5087,7 +5087,7 @@
           "record": "2-0-0"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group A",
           "team": "Instituto (Córdoba)",
           "abbreviation": "IACC",
@@ -5119,7 +5119,7 @@
           "record": "0-1-1"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "group": "Group A",
           "team": "Defensa y Justicia",
           "abbreviation": "DYJ",
@@ -5167,7 +5167,7 @@
           "record": "0-0-2"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "Group A",
           "team": "Deportivo Riestra",
           "abbreviation": "RIE",

@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-08-02 21:29:54 UTC
+> **Last updated:** 2026-08-02 22:32:54 UTC
 
 ---
 
@@ -60,7 +60,7 @@
 | **Scottish Premiership** | Scotland | UEFA | 12 | **St Mirren** | 3 |
 | **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 29 |
 | **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 47 |
-| **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Boca Juniors** | 0 |
+| **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Boca Juniors** | 1 |
 | **Mexican Liga MX** | Mexico | CONCACAF | 18 | **Tijuana** | 7 |
 
 ---
@@ -241,7 +241,7 @@ A breakdown of all leagues and teams by football confederation.
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 935 | 935 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 601 | 601 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 605 | 605 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 890 | 890 |
 
 ---
@@ -625,21 +625,21 @@ A breakdown of all leagues and teams by football confederation.
 
 | # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
 |---|-------|------|---|---|---|---|----|----|----|----|
-| 14 | Group A | **Boca Juniors** | 1 | 0 | 0 | 1 | 0 | 3 | -3 | **0** |
-| 6 | Group A | **Estudiantes de La Plata** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
+| 13 | Group A | **Boca Juniors** | 2 | 0 | 1 | 1 | 2 | 5 | -3 | **1** |
+| 7 | Group A | **Estudiantes de La Plata** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
 | 2 | Group A | **Independiente** | 2 | 2 | 0 | 0 | 3 | 0 | +3 | **6** |
-| 7 | Group A | **Lanús** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 10 | Group A | **Newell's Old Boys** | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
-| 9 | Group A | **San Lorenzo** | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
-| 13 | Group A | **Talleres (Córdoba)** | 2 | 0 | 0 | 2 | 1 | 4 | -3 | **0** |
+| 8 | Group A | **Lanús** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
+| 4 | Group A | **Newell's Old Boys** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
+| 10 | Group A | **San Lorenzo** | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
+| 14 | Group A | **Talleres (Córdoba)** | 2 | 0 | 0 | 2 | 1 | 4 | -3 | **0** |
 | 12 | Group A | **Unión (Santa Fe)** | 2 | 0 | 1 | 1 | 2 | 4 | -2 | **1** |
 | 1 | Group A | **Vélez Sarsfield** | 2 | 2 | 0 | 0 | 4 | 1 | +3 | **6** |
-| 8 | Group A | **Instituto (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 9 | Group A | **Instituto (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
 | 11 | Group A | **Platense** | 2 | 0 | 1 | 1 | 3 | 4 | -1 | **1** |
-| 4 | Group A | **Defensa y Justicia** | 3 | 1 | 1 | 1 | 3 | 5 | -2 | **4** |
+| 5 | Group A | **Defensa y Justicia** | 3 | 1 | 1 | 1 | 3 | 5 | -2 | **4** |
 | 3 | Group A | **Gimnasia (Mendoza)** | 3 | 2 | 0 | 1 | 3 | 1 | +2 | **6** |
 | 15 | Group A | **Central Córdoba (Santiago del Estero)** | 2 | 0 | 0 | 2 | 0 | 3 | -3 | **0** |
-| 5 | Group A | **Deportivo Riestra** | 3 | 1 | 0 | 2 | 4 | 3 | +1 | **3** |
+| 6 | Group A | **Deportivo Riestra** | 3 | 1 | 0 | 2 | 4 | 3 | +1 | **3** |
 | 1 | Group B | **Argentinos Juniors** | 3 | 3 | 0 | 0 | 7 | 2 | +5 | **9** |
 | 10 | Group B | **Belgrano (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
 | 3 | Group B | **Gimnasia La Plata** | 3 | 2 | 0 | 1 | 4 | 3 | +1 | **6** |
