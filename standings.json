@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02 03:39:32 UTC",
-  "generated_at_iso": "2026-08-02T03:39:32.955906+00:00",
+  "generated_at": "2026-08-02 06:39:48 UTC",
+  "generated_at_iso": "2026-08-02T06:39:48.827930+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -4069,7 +4069,7 @@
       "team_count": 30,
       "top_performers": {
         "best_attack": {
-          "team": "Inter Miami CF",
+          "team": "FC Cincinnati",
           "goals_for": 45
         },
         "best_defence": {
@@ -4135,7 +4135,7 @@
           "record": "9-3-5"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Eastern Conference",
           "team": "Red Bull New York",
           "abbreviation": "RBNY",
@@ -4247,20 +4247,20 @@
           "record": "7-5-6"
         },
         {
-          "rank": 8,
+          "rank": 6,
           "group": "Eastern Conference",
           "team": "FC Cincinnati",
           "abbreviation": "CIN",
-          "played": 17,
-          "wins": 6,
+          "played": 18,
+          "wins": 7,
           "draws": 5,
           "losses": 6,
-          "goals_for": 41,
-          "goals_against": 42,
-          "goal_difference": -1,
-          "points": 23,
+          "goals_for": 45,
+          "goals_against": 44,
+          "goal_difference": 1,
+          "points": 26,
           "streak": {},
-          "record": "6-5-6"
+          "record": "7-5-6"
         },
         {
           "rank": 15,
@@ -4311,7 +4311,7 @@
           "record": "11-5-2"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "Eastern Conference",
           "team": "Charlotte FC",
           "abbreviation": "CLT",
@@ -4327,7 +4327,7 @@
           "record": "7-4-7"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "Western Conference",
           "team": "Colorado Rapids",
           "abbreviation": "COL",
@@ -4347,16 +4347,16 @@
           "group": "Western Conference",
           "team": "FC Dallas",
           "abbreviation": "DAL",
-          "played": 17,
+          "played": 18,
           "wins": 7,
-          "draws": 5,
+          "draws": 6,
           "losses": 5,
           "goals_for": 32,
           "goals_against": 25,
           "goal_difference": 7,
-          "points": 26,
+          "points": 27,
           "streak": {},
-          "record": "7-5-5"
+          "record": "7-6-5"
         },
         {
           "rank": 15,
@@ -4375,36 +4375,36 @@
           "record": "4-2-12"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "group": "Western Conference",
           "team": "LA Galaxy",
           "abbreviation": "LA",
-          "played": 18,
+          "played": 19,
           "wins": 5,
-          "draws": 6,
+          "draws": 7,
           "losses": 7,
           "goals_for": 24,
           "goals_against": 29,
           "goal_difference": -5,
-          "points": 21,
+          "points": 22,
           "streak": {},
-          "record": "5-6-7"
+          "record": "5-7-7"
         },
         {
           "rank": 3,
           "group": "Western Conference",
           "team": "San Jose Earthquakes",
           "abbreviation": "SJ",
-          "played": 17,
+          "played": 18,
           "wins": 10,
           "draws": 3,
-          "losses": 4,
-          "goals_for": 35,
-          "goals_against": 20,
-          "goal_difference": 15,
+          "losses": 5,
+          "goals_for": 37,
+          "goals_against": 24,
+          "goal_difference": 13,
           "points": 33,
           "streak": {},
-          "record": "10-3-4"
+          "record": "10-3-5"
         },
         {
           "rank": 5,
@@ -4439,36 +4439,36 @@
           "record": "9-2-6"
         },
         {
-          "rank": 11,
+          "rank": 8,
           "group": "Western Conference",
           "team": "Portland Timbers",
           "abbreviation": "POR",
-          "played": 17,
-          "wins": 6,
+          "played": 18,
+          "wins": 7,
           "draws": 3,
           "losses": 8,
-          "goals_for": 31,
-          "goals_against": 32,
-          "goal_difference": -1,
-          "points": 21,
+          "goals_for": 33,
+          "goals_against": 33,
+          "goal_difference": 0,
+          "points": 24,
           "streak": {},
-          "record": "6-3-8"
+          "record": "7-3-8"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Western Conference",
           "team": "Seattle Sounders FC",
           "abbreviation": "SEA",
-          "played": 16,
+          "played": 17,
           "wins": 7,
           "draws": 3,
-          "losses": 6,
-          "goals_for": 19,
-          "goals_against": 20,
-          "goal_difference": -1,
+          "losses": 7,
+          "goals_for": 20,
+          "goals_against": 22,
+          "goal_difference": -2,
           "points": 24,
           "streak": {},
-          "record": "7-3-6"
+          "record": "7-3-7"
         },
         {
           "rank": 1,
@@ -4487,7 +4487,7 @@
           "record": "10-4-3"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Western Conference",
           "team": "Minnesota United FC",
           "abbreviation": "MIN",
@@ -4551,7 +4551,7 @@
           "record": "7-5-6"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "Western Conference",
           "team": "San Diego FC",
           "abbreviation": "SD",
@@ -5501,22 +5501,6 @@
         {
           "rank": 4,
           "group": "2026 Torneo Apertura",
-          "team": "Cruz Azul",
-          "abbreviation": "CAZ",
-          "played": 2,
-          "wins": 2,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 5,
-          "goals_against": 3,
-          "goal_difference": 2,
-          "points": 6,
-          "streak": {},
-          "record": "2-0-0"
-        },
-        {
-          "rank": 5,
-          "group": "2026 Torneo Apertura",
           "team": "Necaxa",
           "abbreviation": "NCX",
           "played": 2,
@@ -5529,6 +5513,22 @@
           "points": 6,
           "streak": {},
           "record": "2-0-0"
+        },
+        {
+          "rank": 5,
+          "group": "2026 Torneo Apertura",
+          "team": "Cruz Azul",
+          "abbreviation": "CAZ",
+          "played": 3,
+          "wins": 2,
+          "draws": 0,
+          "losses": 1,
+          "goals_for": 7,
+          "goals_against": 6,
+          "goal_difference": 1,
+          "points": 6,
+          "streak": {},
+          "record": "2-0-1"
         },
         {
           "rank": 6,
@@ -5581,6 +5581,22 @@
         {
           "rank": 9,
           "group": "2026 Torneo Apertura",
+          "team": "Atlante",
+          "abbreviation": "ATL",
+          "played": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 5,
+          "goals_against": 5,
+          "goal_difference": 0,
+          "points": 4,
+          "streak": {},
+          "record": "1-1-1"
+        },
+        {
+          "rank": 10,
+          "group": "2026 Torneo Apertura",
           "team": "Puebla",
           "abbreviation": "PUE",
           "played": 3,
@@ -5595,7 +5611,7 @@
           "record": "1-1-1"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "group": "2026 Torneo Apertura",
           "team": "Guadalajara",
           "abbreviation": "GDL",
@@ -5611,7 +5627,7 @@
           "record": "1-1-1"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "group": "2026 Torneo Apertura",
           "team": "Pachuca",
           "abbreviation": "PAC",
@@ -5627,7 +5643,7 @@
           "record": "1-0-2"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "group": "2026 Torneo Apertura",
           "team": "Toluca",
           "abbreviation": "TOL",
@@ -5643,7 +5659,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "group": "2026 Torneo Apertura",
           "team": "León",
           "abbreviation": "LEO",
@@ -5659,7 +5675,7 @@
           "record": "1-0-2"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "group": "2026 Torneo Apertura",
           "team": "Atlético de San Luis",
           "abbreviation": "ASL",
@@ -5673,22 +5689,6 @@
           "points": 2,
           "streak": {},
           "record": "0-2-1"
-        },
-        {
-          "rank": 15,
-          "group": "2026 Torneo Apertura",
-          "team": "Atlante",
-          "abbreviation": "ATL",
-          "played": 2,
-          "wins": 0,
-          "draws": 1,
-          "losses": 1,
-          "goals_for": 2,
-          "goals_against": 3,
-          "goal_difference": -1,
-          "points": 1,
-          "streak": {},
-          "record": "0-1-1"
         },
         {
           "rank": 16,
