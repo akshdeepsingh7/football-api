@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02 19:21:30 UTC",
-  "generated_at_iso": "2026-08-02T19:21:30.549100+00:00",
+  "generated_at": "2026-08-02 20:29:36 UTC",
+  "generated_at_iso": "2026-08-02T20:29:36.619064+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -5171,16 +5171,16 @@
           "group": "Group A",
           "team": "Deportivo Riestra",
           "abbreviation": "RIE",
-          "played": 2,
+          "played": 3,
           "wins": 1,
           "draws": 0,
-          "losses": 1,
+          "losses": 2,
           "goals_for": 4,
-          "goals_against": 2,
-          "goal_difference": 2,
+          "goals_against": 3,
+          "goal_difference": 1,
           "points": 3,
           "streak": {},
-          "record": "1-0-1"
+          "record": "1-0-2"
         },
         {
           "rank": 1,
@@ -5199,7 +5199,7 @@
           "record": "3-0-0"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "group": "Group B",
           "team": "Belgrano (Córdoba)",
           "abbreviation": "BEL",
@@ -5215,20 +5215,20 @@
           "record": "1-0-1"
         },
         {
-          "rank": 10,
+          "rank": 3,
           "group": "Group B",
           "team": "Gimnasia La Plata",
           "abbreviation": "GLP",
-          "played": 2,
-          "wins": 1,
+          "played": 3,
+          "wins": 2,
           "draws": 0,
           "losses": 1,
-          "goals_for": 2,
-          "goals_against": 2,
-          "goal_difference": 0,
-          "points": 3,
+          "goals_for": 4,
+          "goals_against": 3,
+          "goal_difference": 1,
+          "points": 6,
           "streak": {},
-          "record": "1-0-1"
+          "record": "2-0-1"
         },
         {
           "rank": 11,
@@ -5247,7 +5247,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "group": "Group B",
           "team": "Racing Club",
           "abbreviation": "RAC",
@@ -5295,7 +5295,7 @@
           "record": "0-1-1"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "Group B",
           "team": "Banfield",
           "abbreviation": "BAN",
@@ -5311,7 +5311,7 @@
           "record": "1-1-1"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "group": "Group B",
           "team": "Tigre",
           "abbreviation": "TIG",
@@ -5331,19 +5331,19 @@
           "group": "Group B",
           "team": "Aldosivi",
           "abbreviation": "ALDO",
-          "played": 2,
+          "played": 3,
           "wins": 0,
           "draws": 1,
-          "losses": 1,
-          "goals_for": 1,
-          "goals_against": 2,
-          "goal_difference": -1,
+          "losses": 2,
+          "goals_for": 2,
+          "goals_against": 4,
+          "goal_difference": -2,
           "points": 1,
           "streak": {},
-          "record": "0-1-1"
+          "record": "0-1-2"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "group": "Group B",
           "team": "Independiente Rivadavia",
           "abbreviation": "RIV",
@@ -5359,7 +5359,7 @@
           "record": "1-1-0"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "group": "Group B",
           "team": "Atlético Tucumán",
           "abbreviation": "CAT",
@@ -5379,16 +5379,16 @@
           "group": "Group B",
           "team": "Barracas Central",
           "abbreviation": "BAR",
-          "played": 2,
-          "wins": 2,
+          "played": 3,
+          "wins": 3,
           "draws": 0,
           "losses": 0,
-          "goals_for": 2,
+          "goals_for": 3,
           "goals_against": 0,
-          "goal_difference": 2,
-          "points": 6,
+          "goal_difference": 3,
+          "points": 9,
           "streak": {},
-          "record": "2-0-0"
+          "record": "3-0-0"
         },
         {
           "rank": 14,
@@ -5407,7 +5407,7 @@
           "record": "0-0-2"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "group": "Group B",
           "team": "Estudiantes de Río Cuarto",
           "abbreviation": "AAE",

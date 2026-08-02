@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-08-02 19:21:30 UTC
+> **Last updated:** 2026-08-02 20:29:36 UTC
 
 ---
 
@@ -241,7 +241,7 @@ A breakdown of all leagues and teams by football confederation.
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
 | **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 935 | 935 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 597 | 597 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 601 | 601 |
 | **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 890 | 890 |
 
 ---
@@ -639,22 +639,22 @@ A breakdown of all leagues and teams by football confederation.
 | 4 | Group A | **Defensa y Justicia** | 3 | 1 | 1 | 1 | 3 | 5 | -2 | **4** |
 | 3 | Group A | **Gimnasia (Mendoza)** | 3 | 2 | 0 | 1 | 3 | 1 | +2 | **6** |
 | 15 | Group A | **Central Córdoba (Santiago del Estero)** | 2 | 0 | 0 | 2 | 0 | 3 | -3 | **0** |
-| 5 | Group A | **Deportivo Riestra** | 2 | 1 | 0 | 1 | 4 | 2 | +2 | **3** |
+| 5 | Group A | **Deportivo Riestra** | 3 | 1 | 0 | 2 | 4 | 3 | +1 | **3** |
 | 1 | Group B | **Argentinos Juniors** | 3 | 3 | 0 | 0 | 7 | 2 | +5 | **9** |
-| 9 | Group B | **Belgrano (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 10 | Group B | **Gimnasia La Plata** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 10 | Group B | **Belgrano (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
+| 3 | Group B | **Gimnasia La Plata** | 3 | 2 | 0 | 1 | 4 | 3 | +1 | **6** |
 | 11 | Group B | **Huracán** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 6 | Group B | **Racing Club** | 3 | 1 | 1 | 1 | 3 | 4 | -1 | **4** |
+| 7 | Group B | **Racing Club** | 3 | 1 | 1 | 1 | 3 | 4 | -1 | **4** |
 | 15 | Group B | **River Plate** | 2 | 0 | 0 | 2 | 0 | 2 | -2 | **0** |
 | 12 | Group B | **Rosario Central** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
-| 5 | Group B | **Banfield** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
-| 8 | Group B | **Tigre** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
-| 13 | Group B | **Aldosivi** | 2 | 0 | 1 | 1 | 1 | 2 | -1 | **1** |
-| 4 | Group B | **Independiente Rivadavia** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
-| 3 | Group B | **Atlético Tucumán** | 2 | 1 | 1 | 0 | 2 | 0 | +2 | **4** |
-| 2 | Group B | **Barracas Central** | 2 | 2 | 0 | 0 | 2 | 0 | +2 | **6** |
+| 6 | Group B | **Banfield** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
+| 9 | Group B | **Tigre** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
+| 13 | Group B | **Aldosivi** | 3 | 0 | 1 | 2 | 2 | 4 | -2 | **1** |
+| 5 | Group B | **Independiente Rivadavia** | 2 | 1 | 1 | 0 | 2 | 1 | +1 | **4** |
+| 4 | Group B | **Atlético Tucumán** | 2 | 1 | 1 | 0 | 2 | 0 | +2 | **4** |
+| 2 | Group B | **Barracas Central** | 3 | 3 | 0 | 0 | 3 | 0 | +3 | **9** |
 | 14 | Group B | **Sarmiento (Junín)** | 2 | 0 | 0 | 2 | 4 | 6 | -2 | **0** |
-| 7 | Group B | **Estudiantes de Río Cuarto** | 3 | 1 | 1 | 1 | 1 | 3 | -2 | **4** |
+| 8 | Group B | **Estudiantes de Río Cuarto** | 3 | 1 | 1 | 1 | 1 | 3 | -2 | **4** |
 
 ---
 
