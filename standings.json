@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03 20:44:48 UTC",
-  "generated_at_iso": "2026-08-03T20:44:48.159696+00:00",
+  "generated_at": "2026-08-03 22:13:15 UTC",
+  "generated_at_iso": "2026-08-03T22:13:15.738439+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -5295,7 +5295,7 @@
           "record": "1-1-1"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "group": "Group B",
           "team": "Banfield",
           "abbreviation": "BAN",
@@ -5327,7 +5327,7 @@
           "record": "1-0-1"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "group": "Group B",
           "team": "Aldosivi",
           "abbreviation": "ALDO",
@@ -5343,20 +5343,20 @@
           "record": "0-1-2"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "group": "Group B",
           "team": "Independiente Rivadavia",
           "abbreviation": "RIV",
-          "played": 2,
+          "played": 3,
           "wins": 1,
           "draws": 1,
-          "losses": 0,
-          "goals_for": 2,
-          "goals_against": 1,
-          "goal_difference": 1,
+          "losses": 1,
+          "goals_for": 3,
+          "goals_against": 3,
+          "goal_difference": 0,
           "points": 4,
           "streak": {},
-          "record": "1-1-0"
+          "record": "1-1-1"
         },
         {
           "rank": 4,
@@ -5391,20 +5391,20 @@
           "record": "3-0-0"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "group": "Group B",
           "team": "Sarmiento (Junín)",
           "abbreviation": "SARM",
-          "played": 2,
-          "wins": 0,
+          "played": 3,
+          "wins": 1,
           "draws": 0,
           "losses": 2,
-          "goals_for": 4,
-          "goals_against": 6,
-          "goal_difference": -2,
-          "points": 0,
+          "goals_for": 6,
+          "goals_against": 7,
+          "goal_difference": -1,
+          "points": 3,
           "streak": {},
-          "record": "0-0-2"
+          "record": "1-0-2"
         },
         {
           "rank": 9,
