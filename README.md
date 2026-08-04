@@ -1,13 +1,13 @@
 # Football League Standings
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leagues-15%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
-  <img src="https://img.shields.io/badge/Teams-332-blue?style=for-the-badge" alt="Total Teams"/>
-  <img src="https://img.shields.io/badge/Confederations-3-orange?style=for-the-badge" alt="Confederations"/>
+  <img src="https://img.shields.io/badge/Leagues-0%2F15-brightgreen?style=for-the-badge" alt="Leagues Covered"/>
+  <img src="https://img.shields.io/badge/Teams-0-blue?style=for-the-badge" alt="Total Teams"/>
+  <img src="https://img.shields.io/badge/Confederations-0-orange?style=for-the-badge" alt="Confederations"/>
 </p>
 
 <p align="center">
-  <b>Live football standings from 15 major leagues across 3 confederations, automatically updated.</b>
+  <b>Live football standings from 0 major leagues across 0 confederations, automatically updated.</b>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-> **Last updated:** 2026-08-04 14:33:27 UTC
+> **Last updated:** 2026-08-04 16:58:19 UTC
 
 ---
 
@@ -47,21 +47,21 @@
 
 | League | Country | Confederation | Teams | Leader | Points |
 |--------|---------|--------------|-------|--------|--------|
-| **English Premier League** | England | UEFA | 20 | **AFC Bournemouth** | 0 |
-| **Spanish La Liga** | Spain | UEFA | 20 | **Alavés** | 0 |
-| **Italian Serie A** | Italy | UEFA | 20 | **AC Milan** | 0 |
-| **German Bundesliga** | Germany | UEFA | 18 | **FC Augsburg** | 0 |
-| **French Ligue 1** | France | UEFA | 18 | **Angers** | 0 |
-| **UEFA Champions League** | Europe | UEFA | 36 | **Arsenal** | 24 |
-| **UEFA Europa League** | Europe | UEFA | 36 | **Lyon** | 21 |
-| **Portuguese Primeira Liga** | Portugal | UEFA | 18 | **Académico de Viseu** | 0 |
-| **Dutch Eredivisie** | Netherlands | UEFA | 18 | **ADO Den Haag** | 0 |
-| **Turkish Super Lig** | Turkey | UEFA | 18 | **Alanyaspor** | 0 |
-| **Scottish Premiership** | Scotland | UEFA | 12 | **St Mirren** | 3 |
-| **MLS** | USA / Canada | CONCACAF | 30 | **Chicago Fire FC** | 29 |
-| **Brazilian Serie A** | Brazil | CONMEBOL | 20 | **Palmeiras** | 47 |
-| **Argentine Liga Profesional** | Argentina | CONMEBOL | 30 | **Boca Juniors** | 1 |
-| **Mexican Liga MX** | Mexico | CONCACAF | 18 | **América** | 7 |
+| **English Premier League** | England | UEFA | 0 | **N/A** | 0 |
+| **Spanish La Liga** | Spain | UEFA | 0 | **N/A** | 0 |
+| **Italian Serie A** | Italy | UEFA | 0 | **N/A** | 0 |
+| **German Bundesliga** | Germany | UEFA | 0 | **N/A** | 0 |
+| **French Ligue 1** | France | UEFA | 0 | **N/A** | 0 |
+| **UEFA Champions League** | Europe | UEFA | 0 | **N/A** | 0 |
+| **UEFA Europa League** | Europe | UEFA | 0 | **N/A** | 0 |
+| **Portuguese Primeira Liga** | Portugal | UEFA | 0 | **N/A** | 0 |
+| **Dutch Eredivisie** | Netherlands | UEFA | 0 | **N/A** | 0 |
+| **Turkish Super Lig** | Turkey | UEFA | 0 | **N/A** | 0 |
+| **Scottish Premiership** | Scotland | UEFA | 0 | **N/A** | 0 |
+| **MLS** | USA / Canada | CONCACAF | 0 | **N/A** | 0 |
+| **Brazilian Serie A** | Brazil | CONMEBOL | 0 | **N/A** | 0 |
+| **Argentine Liga Profesional** | Argentina | CONMEBOL | 0 | **N/A** | 0 |
+| **Mexican Liga MX** | Mexico | CONCACAF | 0 | **N/A** | 0 |
 
 ---
 
@@ -69,617 +69,105 @@
 
 Highlights from each league — the teams with the most goals scored, fewest goals conceded, and most wins this season.
 
-### English Premier League
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **AFC Bournemouth** | 0 goals |
-| Best Defence | **AFC Bournemouth** | 0 goals conceded |
-| Most Wins | **AFC Bournemouth** | 0 wins |
-| Best GD | **AFC Bournemouth** | +0 |
-
----
-
-### Spanish La Liga
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **Alavés** | 0 goals |
-| Best Defence | **Alavés** | 0 goals conceded |
-| Most Wins | **Alavés** | 0 wins |
-| Best GD | **Alavés** | +0 |
-
----
-
-### Italian Serie A
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **AC Milan** | 0 goals |
-| Best Defence | **AC Milan** | 0 goals conceded |
-| Most Wins | **AC Milan** | 0 wins |
-| Best GD | **AC Milan** | +0 |
-
----
-
-### German Bundesliga
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **FC Augsburg** | 0 goals |
-| Best Defence | **FC Augsburg** | 0 goals conceded |
-| Most Wins | **FC Augsburg** | 0 wins |
-| Best GD | **FC Augsburg** | +0 |
-
----
-
-### French Ligue 1
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **Angers** | 0 goals |
-| Best Defence | **Angers** | 0 goals conceded |
-| Most Wins | **Angers** | 0 wins |
-| Best GD | **Angers** | +0 |
-
----
-
-### UEFA Champions League
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **Arsenal** | 23 goals |
-| Best Defence | **Arsenal** | 4 goals conceded |
-| Most Wins | **Arsenal** | 8 wins |
-| Best GD | **Arsenal** | +19 |
-
----
-
-### UEFA Europa League
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **Lyon** | 18 goals |
-| Best Defence | **Viktoria Plzen** | 3 goals conceded |
-| Most Wins | **Lyon** | 7 wins |
-| Best GD | **Lyon** | +13 |
-
----
-
-### Portuguese Primeira Liga
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **Académico de Viseu** | 0 goals |
-| Best Defence | **Académico de Viseu** | 0 goals conceded |
-| Most Wins | **Académico de Viseu** | 0 wins |
-| Best GD | **Académico de Viseu** | +0 |
-
----
-
-### Dutch Eredivisie
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **ADO Den Haag** | 0 goals |
-| Best Defence | **ADO Den Haag** | 0 goals conceded |
-| Most Wins | **ADO Den Haag** | 0 wins |
-| Best GD | **ADO Den Haag** | +0 |
-
----
-
-### Turkish Super Lig
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **Alanyaspor** | 0 goals |
-| Best Defence | **Alanyaspor** | 0 goals conceded |
-| Most Wins | **Alanyaspor** | 0 wins |
-| Best GD | **Alanyaspor** | +0 |
-
----
-
-### Scottish Premiership
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **St Johnstone** | 4 goals |
-| Best Defence | **St Mirren** | 0 goals conceded |
-| Most Wins | **St Mirren** | 1 wins |
-| Best GD | **St Mirren** | +2 |
-
----
-
-### MLS
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **FC Cincinnati** | 45 goals |
-| Best Defence | **Nashville SC** | 14 goals conceded |
-| Most Wins | **Nashville SC** | 12 wins |
-| Best GD | **Nashville SC** | +21 |
-
----
-
-### Brazilian Serie A
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **Palmeiras** | 38 goals |
-| Best Defence | **Palmeiras** | 16 goals conceded |
-| Most Wins | **Palmeiras** | 14 wins |
-| Best GD | **Palmeiras** | +22 |
-
----
-
-### Argentine Liga Profesional
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **Argentinos Juniors** | 7 goals |
-| Best Defence | **Atlético Tucumán** | 0 goals conceded |
-| Most Wins | **Vélez Sarsfield** | 3 wins |
-| Best GD | **Argentinos Juniors** | +5 |
-
----
-
-### Mexican Liga MX
-
-| Category | Team | Stat |
-|----------|------|------|
-| Best Attack | **Pumas UNAM** | 7 goals |
-| Best Defence | **América** | 1 goals conceded |
-| Most Wins | **América** | 2 wins |
-| Best GD | **América** | +4 |
-
----
-
 ## Confederation Overview
 
 A breakdown of all leagues and teams by football confederation.
 
 | Confederation | Leagues | Teams | Total Goals Scored | Total Goals Conceded |
 |--------------|---------|-------|-------------------|---------------------|
-| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 48 | 942 | 942 |
-| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 50 | 616 | 616 |
-| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 234 | 891 | 891 |
+| **CONCACAF (North & Central America)** | MLS, Mexican Liga MX | 0 | 0 | 0 |
+| **CONMEBOL (South America)** | Brazilian Serie A, Argentine Liga Profesional | 0 | 0 | 0 |
+| **UEFA (Europe)** | English Premier League, Spanish La Liga, Italian Serie A, German Bundesliga, French Ligue 1, UEFA Champions League, UEFA Europa League, Portuguese Primeira Liga, Dutch Eredivisie, Turkish Super Lig, Scottish Premiership | 0 | 0 | 0 |
 
 ---
 
 ### English Premier League
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026-27 English Premier League | **AFC Bournemouth** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 2 | 2026-27 English Premier League | **Arsenal** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | 2026-27 English Premier League | **Aston Villa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 4 | 2026-27 English Premier League | **Brentford** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 5 | 2026-27 English Premier League | **Brighton & Hove Albion** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | 2026-27 English Premier League | **Chelsea** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | 2026-27 English Premier League | **Coventry City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | 2026-27 English Premier League | **Crystal Palace** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | 2026-27 English Premier League | **Everton** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | 2026-27 English Premier League | **Fulham** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | 2026-27 English Premier League | **Hull City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | 2026-27 English Premier League | **Ipswich Town** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | 2026-27 English Premier League | **Leeds United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | 2026-27 English Premier League | **Liverpool** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | 2026-27 English Premier League | **Manchester City** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 16 | 2026-27 English Premier League | **Manchester United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 17 | 2026-27 English Premier League | **Newcastle United** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 18 | 2026-27 English Premier League | **Nottingham Forest** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 19 | 2026-27 English Premier League | **Sunderland** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 20 | 2026-27 English Premier League | **Tottenham Hotspur** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+*No standings data available (off-season).*
 
 ---
 
 ### Spanish La Liga
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026-27 LALIGA | **Alavés** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 2 | 2026-27 LALIGA | **Athletic Club** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | 2026-27 LALIGA | **Atlético Madrid** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 4 | 2026-27 LALIGA | **Barcelona** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 5 | 2026-27 LALIGA | **Celta Vigo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | 2026-27 LALIGA | **Deportivo La Coruña** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | 2026-27 LALIGA | **Elche** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | 2026-27 LALIGA | **Espanyol** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | 2026-27 LALIGA | **Getafe** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | 2026-27 LALIGA | **Levante** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | 2026-27 LALIGA | **Málaga** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | 2026-27 LALIGA | **Osasuna** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | 2026-27 LALIGA | **Racing Santander** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | 2026-27 LALIGA | **Rayo Vallecano** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | 2026-27 LALIGA | **Real Betis** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 16 | 2026-27 LALIGA | **Real Madrid** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 17 | 2026-27 LALIGA | **Real Sociedad** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 18 | 2026-27 LALIGA | **Sevilla** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 19 | 2026-27 LALIGA | **Valencia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 20 | 2026-27 LALIGA | **Villarreal** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+*No standings data available (off-season).*
 
 ---
 
 ### Italian Serie A
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026-2027 Italian Serie A | **AC Milan** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 2 | 2026-2027 Italian Serie A | **Atalanta** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | 2026-2027 Italian Serie A | **Bologna** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 4 | 2026-2027 Italian Serie A | **Cagliari** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 5 | 2026-2027 Italian Serie A | **Como** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | 2026-2027 Italian Serie A | **Fiorentina** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | 2026-2027 Italian Serie A | **Frosinone** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | 2026-2027 Italian Serie A | **Genoa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | 2026-2027 Italian Serie A | **Internazionale** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | 2026-2027 Italian Serie A | **Juventus** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | 2026-2027 Italian Serie A | **Lazio** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | 2026-2027 Italian Serie A | **Lecce** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | 2026-2027 Italian Serie A | **Monza** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | 2026-2027 Italian Serie A | **Napoli** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | 2026-2027 Italian Serie A | **Parma** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 16 | 2026-2027 Italian Serie A | **AS Roma** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 17 | 2026-2027 Italian Serie A | **Sassuolo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 18 | 2026-2027 Italian Serie A | **Torino** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 19 | 2026-2027 Italian Serie A | **Udinese** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 20 | 2026-2027 Italian Serie A | **Venezia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+*No standings data available (off-season).*
 
 ---
 
 ### German Bundesliga
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026-27 German Bundesliga | **FC Augsburg** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 2 | 2026-27 German Bundesliga | **Bayer Leverkusen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | 2026-27 German Bundesliga | **Bayern Munich** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 4 | 2026-27 German Bundesliga | **Borussia Dortmund** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 5 | 2026-27 German Bundesliga | **Borussia Mönchengladbach** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | 2026-27 German Bundesliga | **Eintracht Frankfurt** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | 2026-27 German Bundesliga | **SV Elversberg** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | 2026-27 German Bundesliga | **FC Cologne** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | 2026-27 German Bundesliga | **SC Freiburg** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | 2026-27 German Bundesliga | **Hamburg SV** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | 2026-27 German Bundesliga | **TSG Hoffenheim** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | 2026-27 German Bundesliga | **Mainz** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | 2026-27 German Bundesliga | **SC Paderborn 07** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | 2026-27 German Bundesliga | **RB Leipzig** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | 2026-27 German Bundesliga | **Schalke 04** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 16 | 2026-27 German Bundesliga | **VfB Stuttgart** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 17 | 2026-27 German Bundesliga | **1. FC Union Berlin** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 18 | 2026-27 German Bundesliga | **Werder Bremen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+*No standings data available (off-season).*
 
 ---
 
 ### French Ligue 1
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | French Ligue 1 2026-27 | **Angers** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 2 | French Ligue 1 2026-27 | **AJ Auxerre** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | French Ligue 1 2026-27 | **Brest** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 4 | French Ligue 1 2026-27 | **Le Havre AC** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 5 | French Ligue 1 2026-27 | **Le Mans** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | French Ligue 1 2026-27 | **Lens** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | French Ligue 1 2026-27 | **Lille** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | French Ligue 1 2026-27 | **Lorient** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | French Ligue 1 2026-27 | **Lyon** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | French Ligue 1 2026-27 | **Marseille** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | French Ligue 1 2026-27 | **AS Monaco** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | French Ligue 1 2026-27 | **Nice** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | French Ligue 1 2026-27 | **Paris FC** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | French Ligue 1 2026-27 | **Paris Saint-Germain** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | French Ligue 1 2026-27 | **Stade Rennais** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 16 | French Ligue 1 2026-27 | **Strasbourg** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 17 | French Ligue 1 2026-27 | **Toulouse** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 18 | French Ligue 1 2026-27 | **Troyes** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+*No standings data available (off-season).*
 
 ---
 
 ### UEFA Champions League
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | League Phase | **Arsenal** | 8 | 8 | 0 | 0 | 23 | 4 | +19 | **24** |
-| 2 | League Phase | **Bayern Munich** | 8 | 7 | 0 | 1 | 22 | 8 | +14 | **21** |
-| 3 | League Phase | **Liverpool** | 8 | 6 | 0 | 2 | 20 | 8 | +12 | **18** |
-| 4 | League Phase | **Tottenham Hotspur** | 8 | 5 | 2 | 1 | 17 | 7 | +10 | **17** |
-| 5 | League Phase | **Barcelona** | 8 | 5 | 1 | 2 | 22 | 14 | +8 | **16** |
-| 6 | League Phase | **Chelsea** | 8 | 5 | 1 | 2 | 17 | 10 | +7 | **16** |
-| 7 | League Phase | **Sporting CP** | 8 | 5 | 1 | 2 | 17 | 11 | +6 | **16** |
-| 8 | League Phase | **Manchester City** | 8 | 5 | 1 | 2 | 15 | 9 | +6 | **16** |
-| 9 | League Phase | **Real Madrid** | 8 | 5 | 0 | 3 | 21 | 12 | +9 | **15** |
-| 10 | League Phase | **Internazionale** | 8 | 5 | 0 | 3 | 15 | 7 | +8 | **15** |
-| 11 | League Phase | **Paris Saint-Germain** | 8 | 4 | 2 | 2 | 21 | 11 | +10 | **14** |
-| 12 | League Phase | **Newcastle United** | 8 | 4 | 2 | 2 | 17 | 7 | +10 | **14** |
-| 13 | League Phase | **Juventus** | 8 | 3 | 4 | 1 | 14 | 10 | +4 | **13** |
-| 14 | League Phase | **Atlético Madrid** | 8 | 4 | 1 | 3 | 17 | 15 | +2 | **13** |
-| 15 | League Phase | **Atalanta** | 8 | 4 | 1 | 3 | 10 | 10 | 0 | **13** |
-| 16 | League Phase | **Bayer Leverkusen** | 8 | 3 | 3 | 2 | 13 | 14 | -1 | **12** |
-| 17 | League Phase | **Borussia Dortmund** | 8 | 3 | 2 | 3 | 19 | 17 | +2 | **11** |
-| 18 | League Phase | **Olympiacos** | 8 | 3 | 2 | 3 | 10 | 14 | -4 | **11** |
-| 19 | League Phase | **Club Brugge** | 8 | 3 | 1 | 4 | 15 | 17 | -2 | **10** |
-| 20 | League Phase | **Galatasaray** | 8 | 3 | 1 | 4 | 9 | 11 | -2 | **10** |
-| 21 | League Phase | **AS Monaco** | 8 | 2 | 4 | 2 | 8 | 14 | -6 | **10** |
-| 22 | League Phase | **FK Qarabag** | 8 | 3 | 1 | 4 | 13 | 21 | -8 | **10** |
-| 23 | League Phase | **Bodo/Glimt** | 8 | 2 | 3 | 3 | 14 | 15 | -1 | **9** |
-| 24 | League Phase | **Benfica** | 8 | 3 | 0 | 5 | 10 | 12 | -2 | **9** |
-| 25 | League Phase | **Marseille** | 8 | 3 | 0 | 5 | 11 | 14 | -3 | **9** |
-| 26 | League Phase | **Pafos** | 8 | 2 | 3 | 3 | 8 | 11 | -3 | **9** |
-| 27 | League Phase | **Union St.-Gilloise** | 8 | 3 | 0 | 5 | 8 | 17 | -9 | **9** |
-| 28 | League Phase | **PSV Eindhoven** | 8 | 2 | 2 | 4 | 16 | 16 | 0 | **8** |
-| 29 | League Phase | **Athletic Club** | 8 | 2 | 2 | 4 | 9 | 14 | -5 | **8** |
-| 30 | League Phase | **Napoli** | 8 | 2 | 2 | 4 | 9 | 15 | -6 | **8** |
-| 31 | League Phase | **F.C. København** | 8 | 2 | 2 | 4 | 12 | 21 | -9 | **8** |
-| 32 | League Phase | **Ajax Amsterdam** | 8 | 2 | 0 | 6 | 8 | 21 | -13 | **6** |
-| 33 | League Phase | **Eintracht Frankfurt** | 8 | 1 | 1 | 6 | 10 | 21 | -11 | **4** |
-| 34 | League Phase | **Slavia Prague** | 8 | 0 | 3 | 5 | 5 | 19 | -14 | **3** |
-| 35 | League Phase | **Villarreal** | 8 | 0 | 1 | 7 | 5 | 18 | -13 | **1** |
-| 36 | League Phase | **Kairat Almaty** | 8 | 0 | 1 | 7 | 7 | 22 | -15 | **1** |
+*No standings data available (off-season).*
 
 ---
 
 ### UEFA Europa League
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | League Phase | **Lyon** | 8 | 7 | 0 | 1 | 18 | 5 | +13 | **21** |
-| 2 | League Phase | **Aston Villa** | 8 | 7 | 0 | 1 | 14 | 6 | +8 | **21** |
-| 3 | League Phase | **FC Midtjylland** | 8 | 6 | 1 | 1 | 18 | 8 | +10 | **19** |
-| 4 | League Phase | **Real Betis** | 8 | 5 | 2 | 1 | 13 | 7 | +6 | **17** |
-| 5 | League Phase | **FC Porto** | 8 | 5 | 2 | 1 | 13 | 7 | +6 | **17** |
-| 6 | League Phase | **Braga** | 8 | 5 | 2 | 1 | 11 | 5 | +6 | **17** |
-| 7 | League Phase | **SC Freiburg** | 8 | 5 | 2 | 1 | 10 | 4 | +6 | **17** |
-| 8 | League Phase | **AS Roma** | 8 | 5 | 1 | 2 | 13 | 6 | +7 | **16** |
-| 9 | League Phase | **Racing Genk** | 8 | 5 | 1 | 2 | 11 | 7 | +4 | **16** |
-| 10 | League Phase | **Bologna** | 8 | 4 | 3 | 1 | 14 | 7 | +7 | **15** |
-| 11 | League Phase | **VfB Stuttgart** | 8 | 5 | 0 | 3 | 15 | 9 | +6 | **15** |
-| 12 | League Phase | **Ferencvaros** | 8 | 4 | 3 | 1 | 12 | 11 | +1 | **15** |
-| 13 | League Phase | **Nottingham Forest** | 8 | 4 | 2 | 2 | 15 | 7 | +8 | **14** |
-| 14 | League Phase | **Viktoria Plzen** | 8 | 3 | 5 | 0 | 8 | 3 | +5 | **14** |
-| 15 | League Phase | **Red Star Belgrade** | 8 | 4 | 2 | 2 | 7 | 6 | +1 | **14** |
-| 16 | League Phase | **Celta Vigo** | 8 | 4 | 1 | 3 | 15 | 11 | +4 | **13** |
-| 17 | League Phase | **PAOK** | 8 | 3 | 3 | 2 | 17 | 14 | +3 | **12** |
-| 18 | League Phase | **Lille** | 8 | 4 | 0 | 4 | 12 | 9 | +3 | **12** |
-| 19 | League Phase | **Fenerbahce** | 8 | 3 | 3 | 2 | 10 | 7 | +3 | **12** |
-| 20 | League Phase | **Panathinaikos** | 8 | 3 | 3 | 2 | 11 | 9 | +2 | **12** |
-| 21 | League Phase | **Celtic** | 8 | 3 | 2 | 3 | 13 | 15 | -2 | **11** |
-| 22 | League Phase | **Ludogorets Razgrad** | 8 | 3 | 1 | 4 | 12 | 15 | -3 | **10** |
-| 23 | League Phase | **Dinamo Zagreb** | 8 | 3 | 1 | 4 | 12 | 16 | -4 | **10** |
-| 24 | League Phase | **SK Brann** | 8 | 2 | 3 | 3 | 9 | 11 | -2 | **9** |
-| 25 | League Phase | **Young Boys** | 8 | 3 | 0 | 5 | 10 | 16 | -6 | **9** |
-| 26 | League Phase | **SK Sturm Graz** | 8 | 2 | 1 | 5 | 5 | 11 | -6 | **7** |
-| 27 | League Phase | **FCSB** | 8 | 2 | 1 | 5 | 9 | 16 | -7 | **7** |
-| 28 | League Phase | **Go Ahead Eagles** | 8 | 2 | 1 | 5 | 6 | 14 | -8 | **7** |
-| 29 | League Phase | **Feyenoord Rotterdam** | 8 | 2 | 0 | 6 | 11 | 15 | -4 | **6** |
-| 30 | League Phase | **FC Basel** | 8 | 2 | 0 | 6 | 9 | 13 | -4 | **6** |
-| 31 | League Phase | **RB Salzburg** | 8 | 2 | 0 | 6 | 10 | 15 | -5 | **6** |
-| 32 | League Phase | **Rangers** | 8 | 1 | 1 | 6 | 5 | 14 | -9 | **4** |
-| 33 | League Phase | **Nice** | 8 | 1 | 0 | 7 | 7 | 15 | -8 | **3** |
-| 34 | League Phase | **FC Utrecht** | 8 | 0 | 1 | 7 | 5 | 15 | -10 | **1** |
-| 35 | League Phase | **Malmö FF** | 8 | 0 | 1 | 7 | 4 | 15 | -11 | **1** |
-| 36 | League Phase | **Maccabi Tel-Aviv** | 8 | 0 | 1 | 7 | 2 | 22 | -20 | **1** |
+*No standings data available (off-season).*
 
 ---
 
 ### Portuguese Primeira Liga
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026-2027 Portuguese Liga | **Académico de Viseu** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 2 | 2026-2027 Portuguese Liga | **Alverca** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | 2026-2027 Portuguese Liga | **Arouca** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 4 | 2026-2027 Portuguese Liga | **Benfica** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 5 | 2026-2027 Portuguese Liga | **Casa Pia** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | 2026-2027 Portuguese Liga | **Estoril** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | 2026-2027 Portuguese Liga | **Estrela** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | 2026-2027 Portuguese Liga | **FC Famalicao** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | 2026-2027 Portuguese Liga | **Gil Vicente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | 2026-2027 Portuguese Liga | **Maritimo** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | 2026-2027 Portuguese Liga | **Moreirense** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | 2026-2027 Portuguese Liga | **C.D. Nacional** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | 2026-2027 Portuguese Liga | **FC Porto** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | 2026-2027 Portuguese Liga | **Rio Ave** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | 2026-2027 Portuguese Liga | **Santa Clara** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 16 | 2026-2027 Portuguese Liga | **Braga** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 17 | 2026-2027 Portuguese Liga | **Sporting CP** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 18 | 2026-2027 Portuguese Liga | **Vitória de Guimaraes** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+*No standings data available (off-season).*
 
 ---
 
 ### Dutch Eredivisie
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026-2027 Dutch Eredivisie | **ADO Den Haag** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 2 | 2026-2027 Dutch Eredivisie | **AZ Alkmaar** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | 2026-2027 Dutch Eredivisie | **Ajax Amsterdam** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 4 | 2026-2027 Dutch Eredivisie | **SC Cambuur** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 5 | 2026-2027 Dutch Eredivisie | **Excelsior** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | 2026-2027 Dutch Eredivisie | **Feyenoord Rotterdam** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | 2026-2027 Dutch Eredivisie | **Fortuna Sittard** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | 2026-2027 Dutch Eredivisie | **Go Ahead Eagles** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | 2026-2027 Dutch Eredivisie | **FC Groningen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | 2026-2027 Dutch Eredivisie | **Heerenveen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | 2026-2027 Dutch Eredivisie | **NEC Nijmegen** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | 2026-2027 Dutch Eredivisie | **PEC Zwolle** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | 2026-2027 Dutch Eredivisie | **PSV Eindhoven** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | 2026-2027 Dutch Eredivisie | **Sparta Rotterdam** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | 2026-2027 Dutch Eredivisie | **Telstar** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 16 | 2026-2027 Dutch Eredivisie | **FC Twente** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 17 | 2026-2027 Dutch Eredivisie | **FC Utrecht** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 18 | 2026-2027 Dutch Eredivisie | **Willem II** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+*No standings data available (off-season).*
 
 ---
 
 ### Turkish Super Lig
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026/2027 Turkish Super Lig | **Alanyaspor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 2 | 2026/2027 Turkish Super Lig | **Amed SFK** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 3 | 2026/2027 Turkish Super Lig | **Besiktas** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 4 | 2026/2027 Turkish Super Lig | **Erzurum BB** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 5 | 2026/2027 Turkish Super Lig | **Eyupspor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 6 | 2026/2027 Turkish Super Lig | **Fenerbahce** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 7 | 2026/2027 Turkish Super Lig | **Galatasaray** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 8 | 2026/2027 Turkish Super Lig | **Gaziantep FK** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 9 | 2026/2027 Turkish Super Lig | **Genclerbirligi** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 10 | 2026/2027 Turkish Super Lig | **Goztepe** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 11 | 2026/2027 Turkish Super Lig | **Istanbul Basaksehir** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 12 | 2026/2027 Turkish Super Lig | **Kasimpasa** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 13 | 2026/2027 Turkish Super Lig | **Kocaelispor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 14 | 2026/2027 Turkish Super Lig | **Konyaspor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 15 | 2026/2027 Turkish Super Lig | **Caykur Rizespor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 16 | 2026/2027 Turkish Super Lig | **Samsunspor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 17 | 2026/2027 Turkish Super Lig | **Trabzonspor** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| 18 | 2026/2027 Turkish Super Lig | **Çorum FK** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+*No standings data available (off-season).*
 
 ---
 
 ### Scottish Premiership
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026-27 Scottish Premiership | **St Mirren** | 1 | 1 | 0 | 0 | 2 | 0 | +2 | **3** |
-| 2 | 2026-27 Scottish Premiership | **St Johnstone** | 1 | 1 | 0 | 0 | 4 | 3 | +1 | **3** |
-| 3 | 2026-27 Scottish Premiership | **Aberdeen** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
-| 4 | 2026-27 Scottish Premiership | **Motherwell** | 1 | 1 | 0 | 0 | 2 | 1 | +1 | **3** |
-| 5 | 2026-27 Scottish Premiership | **Celtic** | 1 | 1 | 0 | 0 | 1 | 0 | +1 | **3** |
-| 6 | 2026-27 Scottish Premiership | **Dundee United** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| 7 | 2026-27 Scottish Premiership | **Rangers** | 1 | 0 | 1 | 0 | 1 | 1 | 0 | **1** |
-| 8 | 2026-27 Scottish Premiership | **Kilmarnock** | 1 | 0 | 0 | 1 | 3 | 4 | -1 | **0** |
-| 9 | 2026-27 Scottish Premiership | **Heart of Midlothian** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
-| 10 | 2026-27 Scottish Premiership | **Hibernian** | 1 | 0 | 0 | 1 | 1 | 2 | -1 | **0** |
-| 11 | 2026-27 Scottish Premiership | **Dundee** | 1 | 0 | 0 | 1 | 0 | 1 | -1 | **0** |
-| 12 | 2026-27 Scottish Premiership | **Falkirk** | 1 | 0 | 0 | 1 | 0 | 2 | -2 | **0** |
+*No standings data available (off-season).*
 
 ---
 
 ### MLS
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 4 | Eastern Conference | **Chicago Fire FC** | 17 | 9 | 2 | 6 | 32 | 23 | +9 | **29** |
-| 11 | Eastern Conference | **Columbus Crew** | 18 | 5 | 5 | 8 | 26 | 28 | -2 | **20** |
-| 3 | Eastern Conference | **New England Revolution** | 17 | 9 | 3 | 5 | 28 | 21 | +7 | **30** |
-| 8 | Eastern Conference | **Red Bull New York** | 18 | 7 | 4 | 7 | 29 | 39 | -10 | **25** |
-| 9 | Eastern Conference | **D.C. United** | 18 | 5 | 8 | 5 | 26 | 29 | -3 | **23** |
-| 12 | Eastern Conference | **Toronto FC** | 18 | 3 | 8 | 7 | 24 | 32 | -8 | **17** |
-| 14 | Eastern Conference | **CF Montréal** | 18 | 4 | 4 | 10 | 24 | 35 | -11 | **16** |
-| 13 | Eastern Conference | **Philadelphia Union** | 18 | 4 | 4 | 10 | 25 | 33 | -8 | **16** |
-| 10 | Eastern Conference | **Orlando City SC** | 18 | 6 | 2 | 10 | 30 | 47 | -17 | **20** |
-| 5 | Eastern Conference | **New York City FC** | 18 | 7 | 5 | 6 | 31 | 24 | +7 | **26** |
-| 6 | Eastern Conference | **FC Cincinnati** | 18 | 7 | 5 | 6 | 45 | 44 | +1 | **26** |
-| 15 | Eastern Conference | **Atlanta United FC** | 18 | 3 | 3 | 12 | 19 | 33 | -14 | **12** |
-| 1 | Eastern Conference | **Nashville SC** | 18 | 12 | 4 | 2 | 35 | 14 | +21 | **40** |
-| 2 | Eastern Conference | **Inter Miami CF** | 18 | 11 | 5 | 2 | 45 | 32 | +13 | **38** |
-| 7 | Eastern Conference | **Charlotte FC** | 18 | 7 | 4 | 7 | 29 | 27 | +2 | **25** |
-| 11 | Western Conference | **Colorado Rapids** | 18 | 7 | 1 | 10 | 27 | 25 | +2 | **22** |
-| 6 | Western Conference | **FC Dallas** | 18 | 7 | 6 | 5 | 32 | 25 | +7 | **27** |
-| 15 | Western Conference | **Sporting Kansas City** | 18 | 4 | 2 | 12 | 18 | 46 | -28 | **14** |
-| 12 | Western Conference | **LA Galaxy** | 19 | 5 | 7 | 7 | 24 | 29 | -5 | **22** |
-| 3 | Western Conference | **San Jose Earthquakes** | 18 | 10 | 3 | 5 | 37 | 24 | +13 | **33** |
-| 5 | Western Conference | **Real Salt Lake** | 17 | 8 | 3 | 6 | 29 | 25 | +4 | **27** |
-| 4 | Western Conference | **Houston Dynamo FC** | 17 | 9 | 2 | 6 | 25 | 24 | +1 | **29** |
-| 8 | Western Conference | **Portland Timbers** | 18 | 7 | 3 | 8 | 33 | 33 | 0 | **24** |
-| 9 | Western Conference | **Seattle Sounders FC** | 17 | 7 | 3 | 7 | 20 | 22 | -2 | **24** |
-| 1 | Western Conference | **Vancouver Whitecaps** | 17 | 10 | 4 | 3 | 38 | 17 | +21 | **34** |
-| 10 | Western Conference | **Minnesota United FC** | 18 | 6 | 6 | 6 | 20 | 25 | -5 | **24** |
-| 2 | Western Conference | **LAFC** | 19 | 10 | 4 | 5 | 35 | 19 | +16 | **34** |
-| 14 | Western Conference | **Austin FC** | 18 | 4 | 5 | 9 | 22 | 36 | -14 | **17** |
-| 7 | Western Conference | **St. Louis CITY SC** | 18 | 7 | 5 | 6 | 24 | 24 | 0 | **26** |
-| 13 | Western Conference | **San Diego FC** | 18 | 5 | 6 | 7 | 32 | 29 | +3 | **21** |
+*No standings data available (off-season).*
 
 ---
 
 ### Brazilian Serie A
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026 | **Palmeiras** | 21 | 14 | 5 | 2 | 38 | 16 | +22 | **47** |
-| 2 | 2026 | **Flamengo** | 20 | 11 | 6 | 3 | 37 | 18 | +19 | **39** |
-| 3 | 2026 | **Athletico Paranaense** | 21 | 11 | 4 | 6 | 28 | 19 | +9 | **37** |
-| 4 | 2026 | **Fluminense** | 21 | 9 | 7 | 5 | 30 | 25 | +5 | **34** |
-| 5 | 2026 | **Bahia** | 21 | 8 | 8 | 5 | 29 | 25 | +4 | **32** |
-| 6 | 2026 | **Red Bull Bragantino** | 20 | 9 | 4 | 7 | 26 | 20 | +6 | **31** |
-| 7 | 2026 | **Cruzeiro** | 21 | 8 | 6 | 7 | 27 | 30 | -3 | **30** |
-| 8 | 2026 | **Botafogo** | 20 | 8 | 5 | 7 | 34 | 32 | +2 | **29** |
-| 9 | 2026 | **Corinthians** | 21 | 7 | 8 | 6 | 22 | 20 | +2 | **29** |
-| 10 | 2026 | **Atlético-MG** | 20 | 8 | 4 | 8 | 25 | 25 | 0 | **28** |
-| 11 | 2026 | **Coritiba** | 21 | 7 | 6 | 8 | 25 | 28 | -3 | **27** |
-| 12 | 2026 | **São Paulo** | 20 | 7 | 5 | 8 | 25 | 23 | +2 | **26** |
-| 13 | 2026 | **Vitória** | 21 | 7 | 5 | 9 | 22 | 31 | -9 | **26** |
-| 14 | 2026 | **Mirassol** | 20 | 6 | 5 | 9 | 23 | 27 | -4 | **23** |
-| 15 | 2026 | **Santos** | 20 | 5 | 7 | 8 | 29 | 33 | -4 | **22** |
-| 16 | 2026 | **Internacional** | 21 | 5 | 7 | 9 | 23 | 27 | -4 | **22** |
-| 17 | 2026 | **Grêmio** | 20 | 5 | 7 | 8 | 22 | 26 | -4 | **22** |
-| 18 | 2026 | **Vasco da Gama** | 20 | 5 | 6 | 9 | 23 | 31 | -8 | **21** |
-| 19 | 2026 | **Remo** | 21 | 5 | 6 | 10 | 24 | 34 | -10 | **21** |
-| 20 | 2026 | **Chapecoense** | 20 | 1 | 7 | 12 | 19 | 41 | -22 | **10** |
+*No standings data available (off-season).*
 
 ---
 
 ### Argentine Liga Profesional
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 14 | Group A | **Boca Juniors** | 2 | 0 | 1 | 1 | 2 | 5 | -3 | **1** |
-| 9 | Group A | **Estudiantes de La Plata** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
-| 2 | Group A | **Independiente** | 3 | 2 | 0 | 1 | 3 | 1 | +2 | **6** |
-| 10 | Group A | **Lanús** | 2 | 1 | 0 | 1 | 1 | 1 | 0 | **3** |
-| 5 | Group A | **Newell's Old Boys** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
-| 11 | Group A | **San Lorenzo** | 3 | 1 | 0 | 2 | 1 | 2 | -1 | **3** |
-| 7 | Group A | **Talleres (Córdoba)** | 3 | 1 | 0 | 2 | 5 | 4 | +1 | **3** |
-| 13 | Group A | **Unión (Santa Fe)** | 2 | 0 | 1 | 1 | 2 | 4 | -2 | **1** |
-| 1 | Group A | **Vélez Sarsfield** | 3 | 3 | 0 | 0 | 5 | 1 | +4 | **9** |
-| 4 | Group A | **Instituto (Córdoba)** | 3 | 2 | 0 | 1 | 3 | 2 | +1 | **6** |
-| 15 | Group A | **Platense** | 3 | 0 | 1 | 2 | 3 | 8 | -5 | **1** |
-| 6 | Group A | **Defensa y Justicia** | 3 | 1 | 1 | 1 | 3 | 5 | -2 | **4** |
-| 3 | Group A | **Gimnasia (Mendoza)** | 3 | 2 | 0 | 1 | 3 | 1 | +2 | **6** |
-| 12 | Group A | **Central Córdoba (Santiago del Estero)** | 3 | 1 | 0 | 2 | 1 | 3 | -2 | **3** |
-| 8 | Group A | **Deportivo Riestra** | 3 | 1 | 0 | 2 | 4 | 3 | +1 | **3** |
-| 1 | Group B | **Argentinos Juniors** | 3 | 3 | 0 | 0 | 7 | 2 | +5 | **9** |
-| 12 | Group B | **Belgrano (Córdoba)** | 2 | 1 | 0 | 1 | 2 | 2 | 0 | **3** |
-| 3 | Group B | **Gimnasia La Plata** | 3 | 2 | 0 | 1 | 4 | 3 | +1 | **6** |
-| 7 | Group B | **Huracán** | 3 | 1 | 1 | 1 | 2 | 2 | 0 | **4** |
-| 9 | Group B | **Racing Club** | 3 | 1 | 1 | 1 | 3 | 4 | -1 | **4** |
-| 15 | Group B | **River Plate** | 3 | 0 | 0 | 3 | 0 | 3 | -3 | **0** |
-| 8 | Group B | **Rosario Central** | 3 | 1 | 1 | 1 | 2 | 2 | 0 | **4** |
-| 5 | Group B | **Banfield** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
-| 11 | Group B | **Tigre** | 2 | 1 | 0 | 1 | 3 | 2 | +1 | **3** |
-| 14 | Group B | **Aldosivi** | 3 | 0 | 1 | 2 | 2 | 4 | -2 | **1** |
-| 6 | Group B | **Independiente Rivadavia** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
-| 4 | Group B | **Atlético Tucumán** | 3 | 1 | 2 | 0 | 2 | 0 | +2 | **5** |
-| 2 | Group B | **Barracas Central** | 3 | 3 | 0 | 0 | 3 | 0 | +3 | **9** |
-| 13 | Group B | **Sarmiento (Junín)** | 3 | 1 | 0 | 2 | 6 | 7 | -1 | **3** |
-| 10 | Group B | **Estudiantes de Río Cuarto** | 3 | 1 | 1 | 1 | 1 | 3 | -2 | **4** |
+*No standings data available (off-season).*
 
 ---
 
 ### Mexican Liga MX
 
-| # | Group | Team | P | W | D | L | GF | GA | GD | Pts |
-|---|-------|------|---|---|---|---|----|----|----|----|
-| 1 | 2026 Torneo Apertura | **América** | 3 | 2 | 1 | 0 | 5 | 1 | +4 | **7** |
-| 2 | 2026 Torneo Apertura | **Tijuana** | 3 | 2 | 1 | 0 | 4 | 1 | +3 | **7** |
-| 3 | 2026 Torneo Apertura | **Toluca** | 3 | 2 | 0 | 1 | 6 | 3 | +3 | **6** |
-| 4 | 2026 Torneo Apertura | **Pumas UNAM** | 3 | 2 | 0 | 1 | 7 | 5 | +2 | **6** |
-| 5 | 2026 Torneo Apertura | **Monterrey** | 3 | 2 | 0 | 1 | 6 | 4 | +2 | **6** |
-| 6 | 2026 Torneo Apertura | **Cruz Azul** | 3 | 2 | 0 | 1 | 7 | 6 | +1 | **6** |
-| 7 | 2026 Torneo Apertura | **Querétaro** | 3 | 2 | 0 | 1 | 5 | 4 | +1 | **6** |
-| 8 | 2026 Torneo Apertura | **Necaxa** | 3 | 2 | 0 | 1 | 5 | 5 | 0 | **6** |
-| 9 | 2026 Torneo Apertura | **Atlas** | 3 | 2 | 0 | 1 | 4 | 4 | 0 | **6** |
-| 10 | 2026 Torneo Apertura | **Atlante** | 3 | 1 | 1 | 1 | 5 | 5 | 0 | **4** |
-| 11 | 2026 Torneo Apertura | **Puebla** | 3 | 1 | 1 | 1 | 3 | 3 | 0 | **4** |
-| 12 | 2026 Torneo Apertura | **Guadalajara** | 3 | 1 | 1 | 1 | 2 | 3 | -1 | **4** |
-| 13 | 2026 Torneo Apertura | **Pachuca** | 3 | 1 | 0 | 2 | 4 | 3 | +1 | **3** |
-| 14 | 2026 Torneo Apertura | **León** | 3 | 1 | 0 | 2 | 3 | 4 | -1 | **3** |
-| 15 | 2026 Torneo Apertura | **Atlético de San Luis** | 3 | 0 | 2 | 1 | 4 | 5 | -1 | **2** |
-| 16 | 2026 Torneo Apertura | **Tigres UANL** | 3 | 0 | 1 | 2 | 5 | 8 | -3 | **1** |
-| 17 | 2026 Torneo Apertura | **Santos** | 3 | 0 | 0 | 3 | 2 | 7 | -5 | **0** |
-| 18 | 2026 Torneo Apertura | **FC Juarez** | 3 | 0 | 0 | 3 | 1 | 7 | -6 | **0** |
+*No standings data available (off-season).*
 
 ---
 
@@ -1007,7 +495,7 @@ This project provides a comprehensive, automated source of football league stand
 
 ### Features
 
-- Live standings from **15 major leagues** across **3 confederations**
+- Live standings from **15 major leagues** across **0 confederations**
 - Structured JSON output for programmatic use
 - Human-readable Markdown tables
 - UTC timestamps for reproducibility
