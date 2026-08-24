@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24 17:06:50 UTC",
-  "generated_at_iso": "2026-08-24T17:06:50.248920+00:00",
+  "generated_at": "2026-08-24 17:59:38 UTC",
+  "generated_at_iso": "2026-08-24T17:59:38.731679+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -106,7 +106,7 @@
       "description": "The Turkish Super Lig is the top division of Turkish football, featuring 20 teams. Galatasaray, Fenerbahce, and Besiktas — the 'Big Three' of Istanbul — dominate the league. The Super Lig is known for its passionate fan culture, intense derby atmospheres, and growing competitiveness in European competitions. Turkish clubs have invested heavily in recent years, attracting notable players and managers from across Europe. The league season runs from August to May.",
       "team_count": 0,
       "teams": [],
-      "error": "HTTPSConnectionPool(host='site.api.espn.com', port=443): Max retries exceeded with url: /apis/v2/sports/soccer/tur.1/standings (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)')))"
+      "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings"
     },
     "Scottish Premiership": {
       "slug": "sco.1",
