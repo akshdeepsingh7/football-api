@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22 07:37:37 UTC",
-  "generated_at_iso": "2026-09-22T07:37:37.165875+00:00",
+  "generated_at": "2026-09-22 13:20:06 UTC",
+  "generated_at_iso": "2026-09-22T13:20:06.946387+00:00",
   "source": "Public Football Data",
   "author": {
     "name": "Akshdeep Singh",
@@ -26,7 +26,7 @@
       "description": "La Liga, officially known as LaLiga, is Spain's premier football division and one of the most prestigious leagues in the world. Home to fierce rivals Barcelona and Real Madrid (El Clasico), it has produced some of football's greatest players including Lionel Messi, Cristiano Ronaldo, and Zinedine Zidane. La Liga is renowned for its technical, possession-based style of play and has won the most UEFA Champions League titles of any single league. The season runs from August to May with 38 matchdays.",
       "team_count": 0,
       "teams": [],
-      "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings"
+      "error": "HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=15)"
     },
     "Italian Serie A": {
       "slug": "ita.1",
@@ -36,7 +36,7 @@
       "description": "Serie A is the top division of Italian football, widely regarded as one of the best tactical leagues in the world. Known for its defensive tradition (Catenaccio) and passionate derby matches, Serie A features historic clubs such as Juventus, AC Milan, Inter Milan, and AS Roma. Italy has produced legendary defenders and tactical innovators, and Serie A was the dominant force in European football during the late 1980s and 1990s. The league consists of 20 teams competing from August to May.",
       "team_count": 0,
       "teams": [],
-      "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings"
+      "error": "HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=15)"
     },
     "German Bundesliga": {
       "slug": "ger.1",
@@ -76,7 +76,7 @@
       "description": "The UEFA Europa League is the second-tier club competition in European football, featuring teams that finish just outside Champions League qualification places in their domestic leagues, as well as domestic cup winners. Sevilla holds the record for the most titles (7). The winner automatically qualifies for the following season's Champions League. Since 2024, the competition uses a Swiss-model league phase with 36 teams, similar to the revamped Champions League format.",
       "team_count": 0,
       "teams": [],
-      "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/v2/sports/soccer/uefa.europa/standings"
+      "error": "HTTPSConnectionPool(host='site.api.espn.com', port=443): Read timed out. (read timeout=15)"
     },
     "Portuguese Primeira Liga": {
       "slug": "por.1",
